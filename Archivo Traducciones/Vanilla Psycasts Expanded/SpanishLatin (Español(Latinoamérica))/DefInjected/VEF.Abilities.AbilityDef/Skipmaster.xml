@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: chaos skip -->
+  <VPE_ChaosSkip.label>salto caótico</VPE_ChaosSkip.label>
+  <!-- EN: Teleport the target to a random position from where he started, the distance scaling with the caster’s psychic sensitivity. Stuns the target for a second and is considered a hostile action. -->
+  <VPE_ChaosSkip.description>Teletransporta al objetivo a una posición aleatoria desde donde comenzó, la distancia escala con la sensibilidad psíquica del lanzador. Aturde al objetivo por un segundo y se considera una acción hostil.</VPE_ChaosSkip.description>
+  <!-- EN: Using ability: {0} -->
+  <VPE_ChaosSkip.jobReportString>Usando habilidad: {0}</VPE_ChaosSkip.jobReportString>
+  <!-- EN: chaos skip -->
+  <VPE_ChaosSkip.verbProperties.label>salto caótico</VPE_ChaosSkip.verbProperties.label>
+  
+  <!-- EN: chunk skip -->
+  <VPE_Chunkskip.label>salto de trozos</VPE_Chunkskip.label>
+  <!-- EN: Skip the 5 chunks of rock or slag to scatter them near the target point. This is useful for producing cover during offensive operations. -->
+  <VPE_Chunkskip.description>Salta los 5 trozos de roca o escoria para esparcirlos cerca del punto objetivo. Esto es útil para producir cobertura durante operaciones ofensivas.</VPE_Chunkskip.description>
+  <!-- EN: Using ability: {0} -->
+  <VPE_Chunkskip.jobReportString>Usando habilidad: {0}</VPE_Chunkskip.jobReportString>
+  <!-- EN: chunk skip -->
+  <VPE_Chunkskip.verbProperties.label>salto de trozos</VPE_Chunkskip.verbProperties.label>
+  
+  <!-- EN: farskip -->
+  <VPE_Farskip.label>salto lejano</VPE_Farskip.label>
+  <!-- EN: Skip the caster, along with anyone standing near them, to a willing ally at a distant location. This can send people far across the planet, and the skipped people will always appear near a random ally on the target map and be stunned for a few seconds from the journey. -->
+  <VPE_Farskip.description>Salta al lanzador, junto con cualquiera que esté cerca de él, a un aliado dispuesto en una ubicación distante. Esto puede enviar personas lejos a través del planeta, y las personas saltadas siempre aparecerán cerca de un aliado aleatorio en el mapa objetivo y quedarán aturdidas durante unos segundos por el viaje.</VPE_Farskip.description>
+  <!-- EN: Using ability: {0} -->
+  <VPE_Farskip.jobReportString>Usando habilidad: {0}</VPE_Farskip.jobReportString>
+  <!-- EN: farskip -->
+  <VPE_Farskip.verbProperties.label>salto lejano</VPE_Farskip.verbProperties.label>
+  
+  <!-- EN: mass chaos skip -->
+  <VPE_MassChaosSkip.label>salto caótico masivo</VPE_MassChaosSkip.label>
+  <!-- EN: Skip everyone near a target point to a random location nearby. Considered a nuisance as it can put allies in danger. -->
+  <VPE_MassChaosSkip.description>Salta a todos los que están cerca de un punto objetivo a una ubicación aleatoria cercana. Considerado una molestia ya que puede poner a los aliados en peligro.</VPE_MassChaosSkip.description>
+  <!-- EN: Using ability: {0} -->
+  <VPE_MassChaosSkip.jobReportString>Usando habilidad: {0}</VPE_MassChaosSkip.jobReportString>
+  <!-- EN: mass chaos skip -->
+  <VPE_MassChaosSkip.verbProperties.label>salto caótico masivo</VPE_MassChaosSkip.verbProperties.label>
+  
+  <!-- EN: skip -->
+  <VPE_Skip.label>salto</VPE_Skip.label>
+  <!-- EN: Teleport the target to a desired position, the distance scaling with the caster’s psychic sensitivity, from his starting point. This is considered a hostile action. -->
+  <VPE_Skip.description>Teletransporta al objetivo a una posición deseada, la distancia escala con la sensibilidad psíquica del lanzador, desde su punto de partida. Esto se considera una acción hostil.</VPE_Skip.description>
+  <!-- EN: Using ability: {0} -->
+  <VPE_Skip.jobReportString>Usando habilidad: {0}</VPE_Skip.jobReportString>
+  <!-- EN: skip -->
+  <VPE_Skip.verbProperties.label>salto</VPE_Skip.verbProperties.label>
+  
+  <!-- EN: skipdoor -->
+  <VPE_Skipdoor.label>puerta de salto</VPE_Skipdoor.label>
+  <!-- EN: Creates an opening to a network of skipgates which can be placed in any location with a permanent presence. The network is tied to a group’s collective consciousness, allowing others to use it and different psycasters can add to it. However, the entry points are sensitive to physical disturbances which can cause them to collapse. -->
+  <VPE_Skipdoor.description>Crea una abertura a una red de portales de salto que se puede colocar en cualquier ubicación con presencia permanente. La red está vinculada a la conciencia colectiva de un grupo, lo que permite que otros la usen y diferentes psíquicos pueden agregarle. Sin embargo, los puntos de entrada son sensibles a perturbaciones físicas que pueden causar su colapso.</VPE_Skipdoor.description>
+  <!-- EN: Using ability: {0} -->
+  <VPE_Skipdoor.jobReportString>Usando habilidad: {0}</VPE_Skipdoor.jobReportString>
+  <!-- EN: skipdoor -->
+  <VPE_Skipdoor.verbProperties.label>puerta de salto</VPE_Skipdoor.verbProperties.label>
+  
+  <!-- EN: smokepop -->
+  <VPE_Smokepop.label>estallido de humo</VPE_Smokepop.label>
+  <!-- EN: Skip dust particles up from under the ground surface to form a thick cloud. This reduces the accuracy of any shot fired through it, and prevents turrets from locking on entirely. -->
+  <VPE_Smokepop.description>Salta partículas de polvo desde debajo de la superficie del suelo para formar una nube espesa. Esto reduce la precisión de cualquier disparo realizado a través de ella y evita que las torretas se fijen por completo.</VPE_Smokepop.description>
+  <!-- EN: Using ability: {0} -->
+  <VPE_Smokepop.jobReportString>Usando habilidad: {0}</VPE_Smokepop.jobReportString>
+  <!-- EN: smokepop -->
+  <VPE_Smokepop.verbProperties.label>estallido de humo</VPE_Smokepop.verbProperties.label>
+  
+  <!-- EN: solar pinhole -->
+  <VPE_SolarPinhole.label>agujero solar</VPE_SolarPinhole.label>
+  <!-- EN: Generate a microscopic skipgate linked to the core of a nearby star for a few days. Solar material leaks through the pinprick in spacetime, illuminating and warming the surrounding area until it closes. The light is enough to work by, but not enough to grow plants. -->
+  <VPE_SolarPinhole.description>Genera un portal de salto microscópico vinculado al núcleo de una estrella cercana durante unos días. El material solar se filtra a través del pinchazo en el espacio-tiempo, iluminando y calentando el área circundante hasta que se cierra. La luz es suficiente para trabajar, pero no suficiente para cultivar plantas.</VPE_SolarPinhole.description>
+  <!-- EN: Using ability: {0} -->
+  <VPE_SolarPinhole.jobReportString>Usando habilidad: {0}</VPE_SolarPinhole.jobReportString>
+  <!-- EN: solar pinhole -->
+  <VPE_SolarPinhole.verbProperties.label>agujero solar</VPE_SolarPinhole.verbProperties.label>
+  
+  <!-- EN: wall raise -->
+  <VPE_Wallraise.label>alzar muro</VPE_Wallraise.label>
+  <!-- EN: Form a temporary wall by skipping rubble and soil up from deep under the ground. Decent range and useful in blocking line of sight and movement for a few hours. -->
+  <VPE_Wallraise.description>Forma un muro temporal saltando escombros y tierra desde las profundidades del suelo. Rango decente y útil para bloquear la línea de visión y el movimiento durante unas horas.</VPE_Wallraise.description>
+  <!-- EN: Using ability: {0} -->
+  <VPE_Wallraise.jobReportString>Usando habilidad: {0}</VPE_Wallraise.jobReportString>
+  <!-- EN: wall raise -->
+  <VPE_Wallraise.verbProperties.label>alzar muro</VPE_Wallraise.verbProperties.label>
+  
+  <!-- EN: waterskip -->
+  <VPE_Waterskip.label>salto de agua</VPE_Waterskip.label>
+  <!-- EN: Douse a target in water, extinguishing fires and shorting any electrical structures. The water is archotechnologically skipped from distant bodies of water or underground aquifers, with the amount skipped scaling with psychic sensitivity. -->
+  <VPE_Waterskip.description>Empapa a un objetivo en agua, extinguiendo incendios y cortocircuitando cualquier estructura eléctrica. El agua se salta arqueotecnológicamente desde cuerpos de agua distantes o acuíferos subterráneos, con la cantidad saltada escalando con la sensibilidad psíquica.</VPE_Waterskip.description>
+  <!-- EN: Using ability: {0} -->
+  <VPE_Waterskip.jobReportString>Usando habilidad: {0}</VPE_Waterskip.jobReportString>
+  <!-- EN: waterskip -->
+  <VPE_Waterskip.verbProperties.label>salto de agua</VPE_Waterskip.verbProperties.label>
+  
+</LanguageData>

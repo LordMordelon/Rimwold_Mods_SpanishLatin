@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>desc->[intro]. [contextStatement] [conceptExploration]. [writingQualitySentence]. [maybe_date][ending]</li>
+    <li>desc->[intro] and [conceptExploration]. [writingQualitySentence]. [maybe_date][ending]</li>
+    <li>intro->This [writingQualityAdjective] treatise delves into the enduring legacy of stainless steel</li>
+    <li>intro->An indispensable [bookType] exploring the properties and applications of stainless steel</li>
+    <li>intro->A [writingQualityAdjective] text chronicling the creation and utility of stainless steel</li>
+    <li>intro->A timeless [bookType] dedicated to the study of stainless steel</li>
+    <li>intro->A comprehensive [bookType] unlocking the potential of stainless steel</li>
+    <li>intro->This [writingQualityAdjective] work reveals the secrets behind crafting stainless steel</li>
+    <li>conceptExploration->its resistance to corrosion and practical versatility</li>
+    <li>conceptExploration->its significance in tools, architecture, and machinery</li>
+    <li>conceptExploration->its unique ability to withstand harsh conditions</li>
+    <li>conceptExploration->the scientific principles behind its creation</li>
+    <li>conceptExploration->its transformative impact on advanced colonies</li>
+    <li>conceptExploration->its mysterious resilience and adaptability</li>
+    <li>conceptExploration->its applications in industrial and survival contexts</li>
+    <li>contextStatement->Compiled from ancient manufacturing notes and cutting-edge discoveries, this [bookType] examines</li>
+    <li>contextStatement->Drawing from Old Earth engineering traditions, it illuminates</li>
+    <li>contextStatement->Inspired by Rim tinkering and ingenuity, it explores</li>
+    <li>contextStatement->Blending scientific rigor with practical insights, it reveals</li>
+    <li>contextStatement->Born from necessity and curiosity, this work explains</li>
+    <li>writingQualityAdjective->masterfully detailed</li>
+    <li>writingQualityAdjective->thoroughly researched</li>
+    <li>writingQualityAdjective->engaging and insightful</li>
+    <li>writingQualityAdjective->functional but basic</li>
+    <li>writingQualitySentence->It is [decentDesc] [decentExtra]</li>
+    <li>decentDesc->a reasonable but incomplete guide</li>
+    <li>decentDesc->a basic overview for novice metallurgists</li>
+    <li>decentDesc->a serviceable introduction to stainless steel</li>
+    <li>decentExtra->that leaves room for improvement</li>
+    <li>decentExtra->with gaps in detail</li>
+    <li>maybe_date->Published [date_form], it remains relevant today.</li>
+    <li>maybe_date->Compiled [date_form], it reflects timeless knowledge.</li>
+    <li>maybe_date->Its origins trace back to [date_form].</li>
+    <li>date_form->recently</li>
+    <li>date_form->in a forgotten age</li>
+    <li>date_form->on the Rim</li>
+    <li>date_form->during the peak of industrial expansion</li>
+    <li>bookType(p=3)->treatise</li>
+    <li>bookType(p=2)->manual</li>
+    <li>bookType(p=1)->guide</li>
+    <li>ending->\n\nThis book will always be of Normal quality, and will be destroyed after being read.</li>
+  -->
+  <ABooks_TreatiseOfStainlessSteel_Description.rulePack.rulesStrings>
+    <li>desc->[intro]. [contextStatement] [conceptExploration]. [writingQualitySentence]. [maybe_date][ending]</li>
+    <li>desc->[intro] y [conceptExploration]. [writingQualitySentence]. [maybe_date][ending]</li>
+    <li>intro->Este tratado [writingQualityAdjective] profundiza en el legado perdurable del acero inoxidable</li>
+    <li>intro->Un [bookType] indispensable que explora las propiedades y aplicaciones del acero inoxidable</li>
+    <li>intro->Un texto [writingQualityAdjective] que narra la creación y utilidad del acero inoxidable</li>
+    <li>intro->Un [bookType] atemporal dedicado al estudio del acero inoxidable</li>
+    <li>intro->Un [bookType] completo que desbloquea el potencial del acero inoxidable</li>
+    <li>intro->Esta obra [writingQualityAdjective] revela los secretos detrás de la fabricación de acero inoxidable</li>
+    <li>conceptExploration->su resistencia a la corrosión y versatilidad práctica</li>
+    <li>conceptExploration->su importancia en herramientas, arquitectura y maquinaria</li>
+    <li>conceptExploration->su capacidad única para soportar condiciones duras</li>
+    <li>conceptExploration->los principios científicos detrás de su creación</li>
+    <li>conceptExploration->su impacto transformador en colonias avanzadas</li>
+    <li>conceptExploration->su misteriosa resistencia y adaptabilidad</li>
+    <li>conceptExploration->sus aplicaciones en contextos industriales y de supervivencia</li>
+    <li>contextStatement->Compilado a partir de notas de fabricación antiguas y descubrimientos de vanguardia, este [bookType] examina</li>
+    <li>contextStatement->Basándose en las tradiciones de ingeniería de la Vieja Tierra, ilumina</li>
+    <li>contextStatement->Inspirado por el ingenio y la improvisación del Borde, explora</li>
+    <li>contextStatement->Mezclando rigor científico con conocimientos prácticos, revela</li>
+    <li>contextStatement->Nacido de la necesidad y la curiosidad, este trabajo explica</li>
+    <li>writingQualityAdjective->magistralmente detallado</li>
+    <li>writingQualityAdjective->investigado a fondo</li>
+    <li>writingQualityAdjective->atractivo y perspicaz</li>
+    <li>writingQualityAdjective->funcional pero básico</li>
+    <li>writingQualitySentence->Es [decentDesc] [decentExtra]</li>
+    <li>decentDesc->una guía razonable pero incompleta</li>
+    <li>decentDesc->una descripción básica para metalúrgicos novatos</li>
+    <li>decentDesc->una introducción útil al acero inoxidable</li>
+    <li>decentExtra->que deja margen de mejora</li>
+    <li>decentExtra->con lagunas en los detalles</li>
+    <li>maybe_date->Publicado [date_form], sigue siendo relevante hoy.</li>
+    <li>maybe_date->Compilado [date_form], refleja un conocimiento atemporal.</li>
+    <li>maybe_date->Sus orígenes se remontan a [date_form].</li>
+    <li>date_form->recientemente</li>
+    <li>date_form->en una era olvidada</li>
+    <li>date_form->en el Borde</li>
+    <li>date_form->durante el pico de la expansión industrial</li>
+    <li>bookType(p=3)->tratado</li>
+    <li>bookType(p=2)->manual</li>
+    <li>bookType(p=1)->guía</li>
+    <li>ending->\n\nEste libro siempre será de calidad Normal y se destruirá después de ser leído.</li>
+  </ABooks_TreatiseOfStainlessSteel_Description.rulePack.rulesStrings>
+  
+</LanguageData>

@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Active protection system -->
+  <DMS_Apparel_APS.label>sistema de protección activa</DMS_Apparel_APS.label>
+  <!-- EN: An active defense system installed on large combat platforms that can prevent direct hits by prematurely detonating incoming explosive projectiles when activated. Due to its extremely high energy consumption during operation, it cannot operate for long periods of time and requires cooling. -->
+  <DMS_Apparel_APS.description>Un sistema de defensa activa instalado en grandes plataformas de combate que puede prevenir impactos directos detonando prematuramente los proyectiles explosivos entrantes cuando se activa. Debido a su consumo de energía extremadamente alto durante la operación, no puede funcionar durante largos períodos de tiempo y requiere enfriamiento.</DMS_Apparel_APS.description>
+  
+  <!-- EN: armor Pad -->
+  <DMS_Apparel_ArmorPad.label>almohadilla de armadura</DMS_Apparel_ArmorPad.label>
+  <!-- EN: A heavy shoulder armor mounted on an exosuit frame. -->
+  <DMS_Apparel_ArmorPad.description>Una armadura de hombro pesada montada en un chasis de exotraje.</DMS_Apparel_ArmorPad.description>
+  
+  <!-- EN: Demolish Missile Pod -->
+  <DMS_Apparel_MissilePod.label>cápsula de misiles de demolición</DMS_Apparel_MissilePod.label>
+  <!-- EN: A missile pod module that attach on variety of weapon platforms, Capable of loading and firing four infrared guided missiles for anti-fortification use. -->
+  <DMS_Apparel_MissilePod.description>Un módulo de cápsula de misiles que se acopla a una variedad de plataformas de armas, capaz de cargar y disparar cuatro misiles guiados por infrarrojos para uso antifortificación.</DMS_Apparel_MissilePod.description>
+  <!-- EN: missile -->
+  <DMS_Apparel_MissilePod.comps.CompApparelReloadable.chargeNoun>misil</DMS_Apparel_MissilePod.comps.CompApparelReloadable.chargeNoun>
+  <!-- EN: on cooldown -->
+  <DMS_Apparel_MissilePod.comps.CompApparelReloadable.cooldownGerund>en enfriamiento</DMS_Apparel_MissilePod.comps.CompApparelReloadable.cooldownGerund>
+  <!-- EN: launch missile -->
+  <DMS_Apparel_MissilePod.verbs.launch_missile.label>lanzar misil</DMS_Apparel_MissilePod.verbs.launch_missile.label>
+  
+  <!-- EN: Missile Pod Plus -->
+  <DMS_Apparel_MissilePodPlus.label>cápsula de misiles plus</DMS_Apparel_MissilePodPlus.label>
+  <!-- EN: A missile pod module that attach on variety of weapon platforms, it is heavier but capable of loading double amount of missiles. -->
+  <DMS_Apparel_MissilePodPlus.description>Un módulo de cápsula de misiles que se acopla a una variedad de plataformas de armas, es más pesado pero capaz de cargar el doble de misiles.</DMS_Apparel_MissilePodPlus.description>
+  <!-- EN: missile -->
+  <DMS_Apparel_MissilePodPlus.comps.CompApparelReloadable.chargeNoun>misil</DMS_Apparel_MissilePodPlus.comps.CompApparelReloadable.chargeNoun>
+  <!-- EN: on cooldown -->
+  <DMS_Apparel_MissilePodPlus.comps.CompApparelReloadable.cooldownGerund>en enfriamiento</DMS_Apparel_MissilePodPlus.comps.CompApparelReloadable.cooldownGerund>
+  <!-- EN: launch missile -->
+  <DMS_Apparel_MissilePodPlus.verbs.launch_missile.label>lanzar misil</DMS_Apparel_MissilePodPlus.verbs.launch_missile.label>
+  
+  <!-- EN: Smoke launcher -->
+  <DMS_Apparel_SmokeLauncher.label>lanzador de humo</DMS_Apparel_SmokeLauncher.label>
+  <!-- EN: A simple remote-controlled launcher capable of loading smoke shells and providing accurate cover. -->
+  <DMS_Apparel_SmokeLauncher.description>Un lanzador simple con control remoto capaz de cargar proyectiles de humo y proporcionar una cobertura precisa.</DMS_Apparel_SmokeLauncher.description>
+  <!-- EN: smoke shell -->
+  <DMS_Apparel_SmokeLauncher.comps.CompApparelReloadable.chargeNoun>proyectil de humo</DMS_Apparel_SmokeLauncher.comps.CompApparelReloadable.chargeNoun>
+  <!-- EN: on cooldown -->
+  <DMS_Apparel_SmokeLauncher.comps.CompApparelReloadable.cooldownGerund>en enfriamiento</DMS_Apparel_SmokeLauncher.comps.CompApparelReloadable.cooldownGerund>
+  <!-- EN: launch smoke shell -->
+  <DMS_Apparel_SmokeLauncher.verbs.launch_smoke_shell.label>lanzar proyectil de humo</DMS_Apparel_SmokeLauncher.verbs.launch_smoke_shell.label>
+  
+  <!-- EN: Stugna launcher -->
+  <DMS_Apparel_StugnaLauncher.label>lanzador stugna</DMS_Apparel_StugnaLauncher.label>
+  <!-- EN: A Dragoon shoulder launcher that holds two stugna missiles. It is effective against heavy mechs and even tanks. However, a long aiming time and a clear line of sight are required to lock on target. -->
+  <DMS_Apparel_StugnaLauncher.description>Un lanzador de hombro para exotraje que contiene dos misiles stugna. Es efectivo contra mecas pesados e incluso tanques. Sin embargo, se requiere un tiempo de apuntado largo y una línea de visión clara para fijar el objetivo.</DMS_Apparel_StugnaLauncher.description>
+  <!-- EN: stugna missile -->
+  <DMS_Apparel_StugnaLauncher.comps.CompApparelReloadable.chargeNoun>misil stugna</DMS_Apparel_StugnaLauncher.comps.CompApparelReloadable.chargeNoun>
+  <!-- EN: on cooldown -->
+  <DMS_Apparel_StugnaLauncher.comps.CompApparelReloadable.cooldownGerund>en enfriamiento</DMS_Apparel_StugnaLauncher.comps.CompApparelReloadable.cooldownGerund>
+  <!-- EN: launch stugna missile -->
+  <DMS_Apparel_StugnaLauncher.verbs.launch_stugna_missile.label>lanzar misil stugna</DMS_Apparel_StugnaLauncher.verbs.launch_stugna_missile.label>
+  
+  <!-- EN: Swarm rocket Pod -->
+  <DMS_Apparel_SwarmMissilePod.label>cápsula de cohetes de enjambre</DMS_Apparel_SwarmMissilePod.label>
+  <!-- EN: A Rocket pod module that contains multiple high-explosive rocket rounds, can use its high fire rate to cover an large area. -->
+  <DMS_Apparel_SwarmMissilePod.description>Un módulo de cápsula de cohetes que contiene múltiples rondas de cohetes de alto explosivo, puede usar su alta velocidad de disparo para cubrir un área grande.</DMS_Apparel_SwarmMissilePod.description>
+  <!-- EN: rocket -->
+  <DMS_Apparel_SwarmMissilePod.comps.CompApparelReloadable.chargeNoun>cohete</DMS_Apparel_SwarmMissilePod.comps.CompApparelReloadable.chargeNoun>
+  <!-- EN: on cooldown -->
+  <DMS_Apparel_SwarmMissilePod.comps.CompApparelReloadable.cooldownGerund>en enfriamiento</DMS_Apparel_SwarmMissilePod.comps.CompApparelReloadable.cooldownGerund>
+  <!-- EN: launch rocket -->
+  <DMS_Apparel_SwarmMissilePod.verbs.launch_rocket.label>lanzar cohete</DMS_Apparel_SwarmMissilePod.verbs.launch_rocket.label>
+  
+  <!-- EN: hellfire missile -->
+  <DMS_Bullet_HellFire.label>misil hellfire</DMS_Bullet_HellFire.label>
+  
+  <!-- EN: Active protection system -->
+  <DMS_Module_APS.label>sistema de protección activa</DMS_Module_APS.label>
+  <!-- EN: An active defense system installed on large combat platforms that can prevent direct hits by prematurely detonating incoming explosive projectiles when activated. Due to its extremely high energy consumption during operation, it cannot operate for long periods of time and requires cooling. -->
+  <DMS_Module_APS.description>Un sistema de defensa activa instalado en grandes plataformas de combate que puede prevenir impactos directos detonando prematuramente los proyectiles explosivos entrantes cuando se activa. Debido a su consumo de energía extremadamente alto durante la operación, no puede funcionar durante largos períodos de tiempo y requiere enfriamiento.</DMS_Module_APS.description>
+  
+  <!-- EN: armor Pad -->
+  <DMS_Module_ArmorPad.label>almohadilla de armadura</DMS_Module_ArmorPad.label>
+  <!-- EN: A heavy shoulder armor mounted on an exosuit frame. -->
+  <DMS_Module_ArmorPad.description>Una armadura de hombro pesada montada en un chasis de exotraje.</DMS_Module_ArmorPad.description>
+  
+  <!-- EN: Missile Pod -->
+  <DMS_Module_MissilePod.label>cápsula de misiles</DMS_Module_MissilePod.label>
+  <!-- EN: A missile pod module that attach on variety of weapon platforms, Capable of loading and firing four infrared guided missiles for anti-fortification use. -->
+  <DMS_Module_MissilePod.description>Un módulo de cápsula de misiles que se acopla a una variedad de plataformas de armas, capaz de cargar y disparar cuatro misiles guiados por infrarrojos para uso antifortificación.</DMS_Module_MissilePod.description>
+  
+  <!-- EN: Missile Pod Plus -->
+  <DMS_Module_MissilePodPlus.label>cápsula de misiles Plus</DMS_Module_MissilePodPlus.label>
+  <!-- EN: A missile pod module that attach on variety of weapon platforms, it is heavier but capable of loading double amount of missiles. -->
+  <DMS_Module_MissilePodPlus.description>Un módulo de cápsula de misiles que se acopla a una variedad de plataformas de armas, es más pesado pero capaz de cargar el doble de misiles.</DMS_Module_MissilePodPlus.description>
+  
+  <!-- EN: Smoke launcher -->
+  <DMS_Module_SmokeLauncher.label>lanzador de humo</DMS_Module_SmokeLauncher.label>
+  <!-- EN: A simple remote-controlled launcher capable of loading smoke shells and providing accurate cover. -->
+  <DMS_Module_SmokeLauncher.description>Un lanzador simple con control remoto capaz de cargar proyectiles de humo y proporcionar una cobertura precisa.</DMS_Module_SmokeLauncher.description>
+  
+  <!-- EN: Stugna launcher -->
+  <DMS_Module_StugnaLauncher.label>lanzador stugna</DMS_Module_StugnaLauncher.label>
+  <!-- EN: A Dragoon shoulder launcher that holds two stugna missiles. It is effective against heavy mechs and even tanks. However, a long aiming time and a clear line of sight are required to lock on target. -->
+  <DMS_Module_StugnaLauncher.description>Un lanzador de hombro para exotraje que contiene dos misiles Stugna. Es efectivo contra mecas pesados e incluso tanques. Sin embargo, se requiere un tiempo de apuntado largo y una línea de visión clara para fijar el objetivo.</DMS_Module_StugnaLauncher.description>
+  
+  <!-- EN: Swarm rocket Pod -->
+  <DMS_Module_SwarmMissilePod.label>cápsula de cohetes de enjambre</DMS_Module_SwarmMissilePod.label>
+  <!-- EN: Rocket pod contains multiple HE rockets, can use its high fire rate to cover an large area. -->
+  <DMS_Module_SwarmMissilePod.description>La cápsula de cohetes contiene múltiples cohetes HE, puede usar su alta velocidad de disparo para cubrir un área grande.</DMS_Module_SwarmMissilePod.description>
+  
+</LanguageData>

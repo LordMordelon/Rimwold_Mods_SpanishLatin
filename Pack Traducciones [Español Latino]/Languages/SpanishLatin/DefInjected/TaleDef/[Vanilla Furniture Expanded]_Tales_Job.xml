@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <Tale_UsedComputer.label>usó la computadora</Tale_UsedComputer.label>
+  <Tale_UsedComputer.rulePack.rulesStrings>
+    <li>tale_noun-&gt;[PAWN_nameDef] concentrándose fuertemente en [OBJECT_label] frente a [PAWN_pronoun]</li>
+    <li>tale_noun-&gt;[PAWN_nameDef] mirando con enojo a [OBJECT_label]</li>
+    <li>tale_noun-&gt;[PAWN_nameDef] divirtiéndose en [OBJECT_label]</li>
+    <li>image-&gt;[PAWN_nameFull] posado sobre [OBJECT_label], [circumstance_group]</li>
+    <li>image-&gt;[PAWN_nameFull] escribiendo fuertemente en [OBJECT_label], [circumstance_group]</li>
+    <li>circumstance_phrase-&gt;concentrándose</li>
+    <li>circumstance_phrase-&gt;su cuerpo suelto y relajado</li>
+    <li>circumstance_phrase-&gt;recostándose en su silla</li>
+    <li>desc_sentence-&gt;Una aurora de color [Color] brilla en el fondo.</li>
+    <li>desc_sentence-&gt;A lo lejos, se ve una [Community].</li>
+    <li>desc_sentence-&gt;A lo lejos, se ve un [TerrainFeature].</li>
+    <li>desc_sentence-&gt;[PAWN_nameDef] se centró en la pantalla.</li>
+    <li>desc_sentence-&gt;[PAWN_nameDef] se eleva sobre la escena.</li>
+  </Tale_UsedComputer.rulePack.rulesStrings>
+  <Tale_UsedPunchingBag.label>usó el saco de boxeo</Tale_UsedPunchingBag.label>
+  <Tale_UsedPunchingBag.rulePack.rulesStrings>
+    <li>tale_noun-&gt;[PAWN_nameDef] descargando su ira en [OBJECT_label]</li>
+    <li>tale_noun-&gt;[PAWN_nameDef] mirando con enojo a [OBJECT_label]</li>
+    <li>tale_noun-&gt;[PAWN_nameDef] divirtiéndose en [OBJECT_label]</li>
+    <li>image-&gt;[PAWN_nameFull] posado sobre [OBJECT_label], [circumstance_group]</li>
+    <li>image-&gt;[PAWN_nameFull] golpeando [OBJECT_label], [circumstance_group]</li>
+    <li>circumstance_phrase-&gt;tenso de energía</li>
+    <li>circumstance_phrase-&gt;su cuerpo suelto y relajado</li>
+    <li>circumstance_phrase-&gt;masajeando suavemente sus muñecas</li>
+    <li>circumstance_phrase-&gt;[angstyverb] con una expresión [AdjectiveAngsty]</li>
+    <li>circumstance_phrase-&gt;envolviendo sus manos en cinta</li>
+    <li>circumstance_phrase-&gt;[angstyverb]</li>
+    <li>desc_sentence-&gt;Una aurora de color [Color] brilla en el fondo.</li>
+    <li>desc_sentence-&gt;A lo lejos, se ve una [Community].</li>
+    <li>desc_sentence-&gt;A lo lejos, se ve un [TerrainFeature].</li>
+    <li>desc_sentence-&gt;Las características de [PAWN_nameDef] son exageradas.</li>
+    <li>desc_sentence-&gt;[PAWN_nameDef] se eleva sobre la escena.</li>
+  </Tale_UsedPunchingBag.rulePack.rulesStrings>
+</LanguageData>

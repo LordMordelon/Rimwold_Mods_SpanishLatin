@@ -1,0 +1,124 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Bandwidth Support -->
+  <DMS_Bandwidth.label>Soporte de ancho de banda</DMS_Bandwidth.label>
+  <!-- EN: Apply for access to the orbital bandwidth support network, increasing the amount of mechanoid bandwidth available to the user based on their applicant's title. This support will be available unless death or defection occurs. -->
+  <DMS_Bandwidth.description>Solicitar acceso a la red de soporte de ancho de banda orbital, aumentando la cantidad de ancho de banda meca disponible para el usuario según el título del solicitante. Este soporte estará disponible a menos que ocurra la muerte o la deserción.</DMS_Bandwidth.description>
+  
+  <!-- EN: Call artillery bombard -->
+  <DMS_Call_ArtillerySupport.label>Solicitar bombardeo de artillería</DMS_Call_ArtillerySupport.label>
+  <!-- EN: Request 155mm artillery support from the nearest base. The number of available artillery pieces is not fixed, and the bombardment accuracy also has certain differences. -->
+  <DMS_Call_ArtillerySupport.description>Solicitar apoyo de artillería de 155 mm de la base más cercana. El número de piezas de artillería disponibles no es fijo, y la precisión del bombardeo también tiene ciertas diferencias.</DMS_Call_ArtillerySupport.description>
+  
+  <!-- EN: Call mortar bombard -->
+  <DMS_Call_MortarSupport.label>Solicitar bombardeo de mortero</DMS_Call_MortarSupport.label>
+  <!-- EN: Request 81mm mortar support from the nearest base, they will deliver incendiary shells to the targeted position. The number of available mortars is not fixed, and the bombardment accuracy also has certain differences. -->
+  <DMS_Call_MortarSupport.description>Solicitar apoyo de mortero de 81 mm de la base más cercana, entregarán proyectiles incendiarios a la posición objetivo. El número de morteros disponibles no es fijo, y la precisión del bombardeo también tiene ciertas diferencias.</DMS_Call_MortarSupport.description>
+  
+  <!-- EN: Call recruitment agency -->
+  <DMS_Call_TributeCollector.label>Llamar a agencia de reclutamiento</DMS_Call_TributeCollector.label>
+  <!-- EN: Call for a group of recruitment agency to transfer prisoners of war to the Colonial fleet. -->
+  <DMS_Call_TributeCollector.description>Llamar a un grupo de agencia de reclutamiento para transferir prisioneros de guerra a la flota colonial.</DMS_Call_TributeCollector.description>
+  
+  <!-- EN: Call Aerodrone Salvo -->
+  <DMS_CallOrbitalSalvo.label>Solicitar andanada de aerodrones</DMS_CallOrbitalSalvo.label>
+  <!-- EN: Request a salvo of aerodrone strikes around a target position. -->
+  <DMS_CallOrbitalSalvo.description>Solicitar una andanada de ataques de aerodrones alrededor de una posición objetivo.</DMS_CallOrbitalSalvo.description>
+  
+  <!-- EN: Call Aerodrone Strike -->
+  <DMS_CallOrbitalStrike.label>Solicitar ataque de aerodrón</DMS_CallOrbitalStrike.label>
+  <!-- EN: Request a precision single-impact aerodrone strike at a targeted position. -->
+  <DMS_CallOrbitalStrike.description>Solicitar un ataque de precisión de un solo impacto de un aerodrón en una posición objetivo.</DMS_CallOrbitalStrike.description>
+  
+  <!-- EN: Call Transport Shuttle -->
+  <DMS_CallTransportShuttle.label>Solicitar lanzadera de transporte</DMS_CallTransportShuttle.label>
+  <!-- EN: Request a shuttle for your own use. It will transport colonists, items, and animals anywhere you'd like within 70 world tiles. -->
+  <DMS_CallTransportShuttle.description>Solicitar una lanzadera para su propio uso. Transportará colonos, objetos y animales a cualquier lugar que desee dentro de 70 casillas del mundo.</DMS_CallTransportShuttle.description>
+  
+  <!-- EN: Supply Cargo Mech -->
+  <DMS_CargoMech.label>Suministrar meca de carga</DMS_CargoMech.label>
+  <!-- EN: Request a cargo lifter mech be sent to your location. -->
+  <DMS_CargoMech.description>Solicitar que se envíe un meca elevador escolta a su ubicación.</DMS_CargoMech.description>
+  
+  <!-- EN: Combat Supply Drop -->
+  <DMS_CombatDrop.label>Lanzamiento de suministros de combate</DMS_CombatDrop.label>
+  <!-- EN: Call for a drop of combat supplies. -->
+  <DMS_CombatDrop.description>Solicitar un lanzamiento de suministros de combate.</DMS_CombatDrop.description>
+  
+  <!-- EN: Combat Supply Mech -->
+  <DMS_CombatMech.label>Meca de suministro de combate</DMS_CombatMech.label>
+  <!-- EN: Request a battle friend mech. -->
+  <DMS_CombatMech.description>Solicitar un meca amigo de batalla.</DMS_CombatMech.description>
+  
+  <!-- EN: Components Drop -->
+  <DMS_CompDrop.label>Lanzamiento de componentes</DMS_CompDrop.label>
+  <!-- EN: Call for a drop of stamped components and wetware computers. -->
+  <DMS_CompDrop.description>Solicitar un lanzamiento de componentes estampados y biocomputadoras.</DMS_CompDrop.description>
+  
+  <!-- EN: Food Supply Drop -->
+  <DMS_FoodDrop.label>Lanzamiento de suministros de alimentos</DMS_FoodDrop.label>
+  <!-- EN: Call for a drop of 20 packaged survival meals. -->
+  <DMS_FoodDrop.description>Solicitar un lanzamiento de 20 comidas de supervivencia.</DMS_FoodDrop.description>
+  
+  <!-- EN: Combat Equipment Drop -->
+  <DMS_GearDrop.label>Lanzamiento de equipo de combate</DMS_GearDrop.label>
+  <!-- EN: Call for a  set of combat supplies and emergency equipment. -->
+  <DMS_GearDrop.description>Solicitar un conjunto de suministros de combate y equipo de emergencia.</DMS_GearDrop.description>
+  
+  <!-- EN: Call Combatant Recruit -->
+  <DMS_Join_Combat.label>Solicitar recluta combatiente</DMS_Join_Combat.label>
+  <!-- EN: Request a solider who will join your colony. -->
+  <DMS_Join_Combat.description>Solicitar un soldado que se unirá a tu colonia.</DMS_Join_Combat.description>
+  
+  <!-- EN: Call for a Logistic Recruit -->
+  <DMS_Join_Logistic.label>Solicitar recluta logístico</DMS_Join_Logistic.label>
+  <!-- EN: Request a worker whose life is now yours. -->
+  <DMS_Join_Logistic.description>Solicitar un trabajador cuya vida ahora es tuya.</DMS_Join_Logistic.description>
+  
+  <!-- EN: Request shuttle reward -->
+  <DMS_Join_Shuttle.label>Solicitar apropiación de lanzadera</DMS_Join_Shuttle.label>
+  <!-- EN: Request a crew transport shuttle to be owned directly by your colony. -->
+  <DMS_Join_Shuttle.description>Solicitar una lanzadera de transporte de tripulación para ser propiedad directa de tu colonia.</DMS_Join_Shuttle.description>
+  
+  <!-- EN: Logistic Supply Drop -->
+  <DMS_LogiDrop.label>Lanzamiento de suministros logísticos</DMS_LogiDrop.label>
+  <!-- EN: Call for a drop of 20 survival packs, 8 medicine and 4 components. -->
+  <DMS_LogiDrop.description>Solicitar un lanzamiento de 20 paquetes de supervivencia, 8 medicinas y 4 componentes.</DMS_LogiDrop.description>
+  
+  <!-- EN: Construction Material Drop -->
+  <DMS_MaterialDrop.label>Lanzamiento de material de construcción</DMS_MaterialDrop.label>
+  <!-- EN: Call for a drop of 500 silver and 250 steel. -->
+  <DMS_MaterialDrop.description>Solicitar un lanzamiento de 500 de plata y 250 de acero.</DMS_MaterialDrop.description>
+  
+  <!-- EN: Request Heavy Unit Reinforcement -->
+  <DMS_Platoon_AC.label>Solicitar refuerzo de unidad pesada</DMS_Platoon_AC.label>
+  <!-- EN: Request 4 heavy Automatroids to aid you in battle. -->
+  <DMS_Platoon_AC.description>Solicitar 4 Autómatas pesados para que te ayuden en la batalla.</DMS_Platoon_AC.description>
+  
+  <!-- EN: call dragoon support -->
+  <DMS_Platoon_MD.label>Llamar apoyo drago</DMS_Platoon_MD.label>
+  <!-- EN: Call a squad of mobile dragoons to aid you in battle. -->
+  <DMS_Platoon_MD.description>Solicitar un escuadrón de dragos móviles para que te ayuden en la batalla.</DMS_Platoon_MD.description>
+  
+  <!-- EN: Request Combat Support -->
+  <DMS_Platoon_MT.label>Solicitar apoyo de combate</DMS_Platoon_MT.label>
+  <!-- EN: Call for a squad of soldiers to aid you in battle. -->
+  <DMS_Platoon_MT.description>Solicitar un escuadrón de soldados para que te ayuden en la batalla.</DMS_Platoon_MT.description>
+  
+  <!-- EN: Urban Combat Support -->
+  <DMS_Squad_UC.label>Apoyo de combate urbano</DMS_Squad_UC.label>
+  <!-- EN: Call for a group of 4 urban combat units to aid you in a raid or colony defense. -->
+  <DMS_Squad_UC.description>Solicitar un grupo de 4 unidades de combate urbano para que te ayuden en una incursión o defensa de la colonia.</DMS_Squad_UC.description>
+  
+  <!-- EN: Call a Large Worker Group -->
+  <DMS_WorkerGroup.label>Solicitar un grupo grande de trabajadores</DMS_WorkerGroup.label>
+  <!-- EN: Call for a group of 8 workers to assist you for 6 days. These workers can only do general labor tasks and can be controlled as though they were your own colonists. You are required to keep them safe. -->
+  <DMS_WorkerGroup.description>Solicitar un grupo de 8 trabajadores para que te ayuden durante 6 días. Estos trabajadores solo pueden realizar tareas de mano de obra general y pueden ser controlados como si fueran tus propios colonos. Debes mantenerlos a salvo.</DMS_WorkerGroup.description>
+  
+  <!-- EN: Call Worker Team -->
+  <DMS_WorkerTeam.label>Solicitar equipo de trabajadores</DMS_WorkerTeam.label>
+  <!-- EN: Call for a group of 4 workers to assist you for 6 days. These workers can only do general labor tasks and can be controlled as though they were your own colonists. You are required to keep them safe. -->
+  <DMS_WorkerTeam.description>Solicitar un grupo de 4 trabajadores para que te ayuden durante 6 días. Estos trabajadores solo pueden realizar tareas de mano de obra general y pueden ser controlados como si fueran tus propios colonos. Debes mantenerlos a salvo.</DMS_WorkerTeam.description>
+  
+</LanguageData>

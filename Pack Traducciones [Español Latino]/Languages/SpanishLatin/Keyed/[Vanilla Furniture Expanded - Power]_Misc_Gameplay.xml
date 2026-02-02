@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <Fluffy.GasNetwork.BufferOff>Almacenamiento de gas apagado.</Fluffy.GasNetwork.BufferOff>
+  <Fluffy.GasNetwork.CommandToggleGas.Desc>Designa que el flujo de gas se active o desactive. Un colono vendrá pronto a accionar el interruptor.</Fluffy.GasNetwork.CommandToggleGas.Desc>
+  <Fluffy.GasNetwork.CommandToggleGas.Label>Alternar flujo de gas</Fluffy.GasNetwork.CommandToggleGas.Label>
+  <Fluffy.GasNetwork.Consumption>Gas consumido: {0}</Fluffy.GasNetwork.Consumption>
+  <Fluffy.GasNetwork.DesiredBuffer>Almacenamiento de gas objetivo: {0}/{1}</Fluffy.GasNetwork.DesiredBuffer>
+  <Fluffy.GasNetwork.GasNetworkInspectString>Exceso de gas (almacenado) en la red: {0} ({1})</Fluffy.GasNetwork.GasNetworkInspectString>
+  <Fluffy.GasNetwork.GasOff>Gas apagado.</Fluffy.GasNetwork.GasOff>
+  <Fluffy.GasNetwork.NoNetwork>No conectado a la red de gas.</Fluffy.GasNetwork.NoNetwork>
+  <Fluffy.GasNetwork.Production>Gas producido: {0}</Fluffy.GasNetwork.Production>
+  <Fluffy.GasNetwork.Settings.Wind.Category>Simulación de viento</Fluffy.GasNetwork.Settings.Wind.Category>
+  <Fluffy.GasNetwork.Settings.Wind.WindSpeedUnit>Unidad preferida de velocidad del viento</Fluffy.GasNetwork.Settings.Wind.WindSpeedUnit>
+  <Fluffy.GasNetwork.Stored>Gas almacenado: {0}/{1}</Fluffy.GasNetwork.Stored>
+  <Fluffy.GasNetwork.ValveClosed>La válvula está cerrada.</Fluffy.GasNetwork.ValveClosed>
+  <Fluffy.GasNetwork.ValveOpen>La válvula está abierta.</Fluffy.GasNetwork.ValveOpen>
+  <VPE_AGasPipe>una tubería de gas</VPE_AGasPipe>
+  <VPE_AdvGeoHeader>Generador geotérmico avanzado</VPE_AdvGeoHeader>
+  <VPE_AdvGeoOutputMultiplier>Multiplicador de salida de generador geotérmico avanzado</VPE_AdvGeoOutputMultiplier>
+  <VPE_AdvGeoOutputMultiplierTooltip>La cantidad de energía producida por un generador geotérmico avanzado se multiplicará por esta cantidad.</VPE_AdvGeoOutputMultiplierTooltip>
+  <VPE_AdvSolarOutputMultiplier>Multiplicador de salida solar avanzada</VPE_AdvSolarOutputMultiplier>
+  <VPE_AdvSolarOutputMultiplierTooltip>La cantidad de energía producida por un generador solar avanzado se multiplicará por esta cantidad.</VPE_AdvSolarOutputMultiplierTooltip>
+  <VPE_AdvWatermillOutputMultiplier>Multiplicador de salida de generador hidráulico avanzado</VPE_AdvWatermillOutputMultiplier>
+  <VPE_AdvWatermillOutputMultiplierTooltip>La cantidad de energía producida por un generador hidráulico avanzado se multiplicará por esta cantidad.</VPE_AdvWatermillOutputMultiplierTooltip>
+  <VPE_AdvWindmillOutputMultiplier>Multiplicador de salida de turbina eólica avanzada</VPE_AdvWindmillOutputMultiplier>
+  <VPE_AdvWindmillOutputMultiplierTooltip>La cantidad de energía producida por una turbina eólica avanzada se multiplicará por esta cantidad.</VPE_AdvWindmillOutputMultiplierTooltip>
+  <VPE_CancelPlugHole>Cancelar rellenar agujero</VPE_CancelPlugHole>
+  <VPE_CancelPlugHoleDesc>Cancela el trabajo de rellenar el agujero.</VPE_CancelPlugHoleDesc>
+  <VPE_DeconstructGasPipes>Deconstruir red de gas</VPE_DeconstructGasPipes>
+  <VPE_DeconstructGasPipesDesc>Deconstruir solo tuberías de gas y tuberías de gas subterráneas</VPE_DeconstructGasPipesDesc>
+  <VPE_DisableGasPathCalculations>Desactivar cálculos de ruta de gas de Helixien (usar para reducir el lag)</VPE_DisableGasPathCalculations>
+  <VPE_DisableNuclearMeltdowns>Desactivar fusiones nucleares</VPE_DisableNuclearMeltdowns>
+  <VPE_DisableNuclearMeltdownsDesc>Si se activa, las plantas nucleares nunca se fundirán, incluso si alcanzan una temperatura crítica.</VPE_DisableNuclearMeltdownsDesc>
+  <VPE_GasExplosion>Un fallo en {0} ha causado una explosión de gas.</VPE_GasExplosion>
+  <VPE_GasExplosionLWasHuge>Esa realmente es una explosión enorme. Guau.</VPE_GasExplosionLWasHuge>
+  <VPE_GasExplosionLWasLarge>Esta gran cantidad de gas ha creado una explosión de tamaño considerable.</VPE_GasExplosionLWasLarge>
+  <VPE_GasExplosionLostGas>Todo el gas ({0} l-d) en los tanques de gas conectados se ha descargado en una explosión violenta.</VPE_GasExplosionLostGas>
+  <VPE_GasExplosionStartedFire>Un fallo en {0} ha causado una explosión de gas que inició un incendio.</VPE_GasExplosionStartedFire>
+  <VPE_GasUpdateNoticeLetterLabel>Actualización del mod de energía</VPE_GasUpdateNoticeLetterLabel>
+  <VPE_GasUpdateNoticeLetterText>El mod Vanilla Furniture Expanded: Power se ha actualizado con una actualización muy importante con respecto a la red de gas de Helixien.\n\nEl código original fue hecho por mí (Sarg Bjornson) y era bastante descuidado, causando muchos errores y comportamientos inconsistentes. Gracias al increíble Fluffy, todo el código de la red de gas ha sido reescrito y debería funcionar perfectamente ahora.\n\nNOTA: dado que la mayoría de las clases que controlan la red de gas han cambiado, debes volver a fabricar cualquier componente de la red de gas que tengas en una partida guardada existente. Puedes reemplazar edificios sin costo accediendo al modo de desarrollo y activando el modo Dios. Luego simplemente deconstruye tu red de gas actual (con todos los objetos basados en gas) y reemplázala, gratis.</VPE_GasUpdateNoticeLetterText>
+  <VPE_GeneratorIsOff>El generador de violencia está apagado e inactivo en este momento</VPE_GeneratorIsOff>
+  <VPE_LetterLabelGasExplosion>¡Kaboom!</VPE_LetterLabelGasExplosion>
+  <VPE_LightningTime>Energía de rayos almacenada por: </VPE_LightningTime>
+  <VPE_LiquidOutput>Salida de gas</VPE_LiquidOutput>
+  <VPE_LiquidTankEfficiency>Eficiencia del tanque</VPE_LiquidTankEfficiency>
+  <VPE_LiquidTankStored>Gas almacenado</VPE_LiquidTankStored>
+  <VPE_Meltdown>Advertencia: Fusión nuclear debido a alta temperatura. Hasta que se repare, el reactor matará toda la vida en un radio de</VPE_Meltdown>
+  <VPE_MeltdownLetter>¡Ha ocurrido una fusión parcial del reactor debido a la alta temperatura en la sala del reactor! Hasta que se repare, este reactor será extremadamente dañino para la vida en un radio extendido.\n\nIgnorar esto bien puede ser el fin de tu colonia en unas pocas horas.</VPE_MeltdownLetter>
+  <VPE_MeltdownLetterLabel>Fusión del reactor</VPE_MeltdownLetterLabel>
+  <VPE_MustPlaceAdjacentToPipe>Los edificios que funcionan con gas deben colocarse adyacentes a las tuberías de gas, no encima</VPE_MustPlaceAdjacentToPipe>
+  <VPE_MustPlaceOnChemfuelPond>La bomba de quimbustible debe construirse sobre un estanque de quimbustible</VPE_MustPlaceOnChemfuelPond>
+  <VPE_MustPlaceOnGasGeyser>Este edificio debe colocarse sobre un géiser de gas de helixien</VPE_MustPlaceOnGasGeyser>
+  <VPE_MustPlaceRoofed>Este edificio debe colocarse en un área interior y techada</VPE_MustPlaceRoofed>
+  <VPE_NeedsDistance>Las plantas de energía mareomotriz deben construirse con al menos 40 casillas de separación entre sí</VPE_NeedsDistance>
+  <VPE_NeedsWater>Esta planta de energía debe construirse sobre agua</VPE_NeedsWater>
+  <VPE_NoReactorRoom>La sala del reactor debe ser un espacio cerrado y techado</VPE_NoReactorRoom>
+  <VPE_NotLightningProducing>Electricidad de rayos agotada. Parece que tendrás que esperar a la próxima tormenta eléctrica.</VPE_NotLightningProducing>
+  <VPE_NotProducing>No se han absorbido almas. Los Dioses Máquina están hambrientos de almas humanas.</VPE_NotProducing>
+  <VPE_NuclearPlantHeader>Planta nuclear</VPE_NuclearPlantHeader>
+  <VPE_NuclearPlantMultiplier>Multiplicador de salida de planta nuclear</VPE_NuclearPlantMultiplier>
+  <VPE_NuclearPlantMultiplierTooltip>La cantidad de energía producida por una planta nuclear se multiplicará por esta cantidad.</VPE_NuclearPlantMultiplierTooltip>
+  <VPE_NuclearPlantRadiationMultiplier>Multiplicador de radio de radiación</VPE_NuclearPlantRadiationMultiplier>
+  <VPE_NuclearPlantRadiationMultiplierTooltip>El radio de la radiación producida por la planta nuclear si el combustible supera el 50% o si está en fusión se multiplicará por esta cantidad.</VPE_NuclearPlantRadiationMultiplierTooltip>
+  <VPE_NutrientNeeded>Gas necesario</VPE_NutrientNeeded>
+  <VPE_PipeConnectedRateStored>Exceso/almacenado en red de tuberías: {0} ml / {1} ml-d</VPE_PipeConnectedRateStored>
+  <VPE_PipesNotConnected>Tuberías no conectadas al generador o tanques</VPE_PipesNotConnected>
+  <VPE_PlugHole>Rellenar agujero</VPE_PlugHole>
+  <VPE_PlugHoleDesc>Rellena el agujero con tierra. ADVERTENCIA: esto destruirá el géiser o estanque. Haz esto solo si ya no es utilizable o si necesitas el espacio.</VPE_PlugHoleDesc>
+  <VPE_PondHasFuel>A este estanque de quimbustible le quedan {0} unidades de quimbustible</VPE_PondHasFuel>
+  <VPE_PondNoFuel>Este estanque de quimbustible está agotado</VPE_PondNoFuel>
+  <VPE_Producing>Produciendo {0} W de electricidad</VPE_Producing>
+  <VPE_PumpProducing>La bomba producirá {0} unidades de quimbustible en {1}</VPE_PumpProducing>
+  <VPE_RadiationProduced>Advertencia: Reactor produciendo radiación en un radio de {0} metros</VPE_RadiationProduced>
+  <VPE_Reset>Restablecer</VPE_Reset>
+  <VPE_SolarHeader>Solar avanzado</VPE_SolarHeader>
+  <VPE_SoulHeader>Generador de violencia arqueotécnico</VPE_SoulHeader>
+  <VPE_SoulMultiplier>Horas de energía por cadáver consumido</VPE_SoulMultiplier>
+  <VPE_SoulMultiplierTooltip>Por defecto, cada cadáver consumido por el reactor produce 2 horas de energía. Esto se multiplicará por este factor.</VPE_SoulMultiplierTooltip>
+  <VPE_SoulsTime>Almas almacenadas por: </VPE_SoulsTime>
+  <VPE_TankLeakage>Fuga mínima de sellador</VPE_TankLeakage>
+  <VPE_TempInReactorRoom>Temperatura en la sala del reactor: {0}ºC</VPE_TempInReactorRoom>
+  <VPE_TempInReactorRoomCritical>Advertencia: Temperatura en la sala del reactor: {0}ºC</VPE_TempInReactorRoomCritical>
+  <VPE_TidalHeader>Generador mareomotriz</VPE_TidalHeader>
+  <VPE_TidalMultiplier>Multiplicador de salida de generador mareomotriz</VPE_TidalMultiplier>
+  <VPE_TidalMultiplierTooltip>La cantidad de energía producida por un generador mareomotriz se multiplicará por esta cantidad.</VPE_TidalMultiplierTooltip>
+  <VPE_TidalSeparation>Separación de generador mareomotriz</VPE_TidalSeparation>
+  <VPE_TidalSeparationTooltip>Por defecto, los generadores mareomotrices necesitan 40 casillas entre ellos, pero esto se puede cambiar con esta configuración.</VPE_TidalSeparationTooltip>
+  <VPE_ToggleViolenceGenerator>Alternar generador</VPE_ToggleViolenceGenerator>
+  <VPE_ToggleViolenceGeneratorDesc>Alternar el generador entre un estado de funcionamiento y uno inactivo</VPE_ToggleViolenceGeneratorDesc>
+  <VPE_WatermillHeader>Generador hidráulico avanzado</VPE_WatermillHeader>
+  <VPE_WindmillHeader>Turbina eólica avanzada</VPE_WindmillHeader>
+</LanguageData>

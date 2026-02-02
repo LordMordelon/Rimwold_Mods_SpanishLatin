@@ -1,0 +1,265 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>desc->[dateEntry] [eventDescription]. [reflection][qualityDescription][ending]</li>
+    <li>desc->[dateEntry] [eventDescription]. [followUpEvent]. [reflection][qualityDescription][ending]</li>
+    <li>desc->[dateEntry] [eventDescription]. [unexpectedDiscovery]. [reflection][qualityDescription][ending]</li>
+    <li>desc->[dateEntry] [eventDescription]. [reflection]. [note]. [qualityDescription][ending]</li>
+    <li>ending->\n\nUna vez leído, este libro descubrirá una o varias ubicaciones nuevas en el mapa mundial, y luego será destruido.</li>
+    <li>dateEntry->[date_season] [day]:</li>
+    <li>dateEntry->El 15 de [date_season]:</li>
+    <li>dateEntry->[day] de [date_season]:</li>
+    <li>day->5</li>
+    <li>day->11</li>
+    <li>day->19</li>
+    <li>day->23</li>
+    <li>eventDescription->Me enfrenté al peligroso cruce del [location], solo para encontrarme cara a cara con [obstacle]</li>
+    <li>eventDescription->Atravesar el [location] fue traicionero, pero el descubrimiento de [discovery] hizo que valiera la pena</li>
+    <li>eventDescription->Escapé por poco de [danger], un encuentro que no olvidaré pronto</li>
+    <li>eventDescription->Mi viaje a través del [location] reveló [unexpectedEvent]</li>
+    <li>eventDescription->Hoy, me aventuré en el [location], donde [obstacle] esperaba</li>
+    <li>eventDescription->Me encontré perdido en el [location], solo para tropezar con [discovery]</li>
+    <li>eventDescription->El [location] puso a prueba mi resistencia, pero superar [obstacle] demostró mi determinación</li>
+    <li>eventDescription->Cruzar el [location] estuvo lleno de peligros, ya que [danger] acechaba en cada esquina</li>
+    <li>eventDescription->Mientras atravesaba el [location], descubrí [unexpectedEvent], un hallazgo de gran importancia</li>
+    <li>eventDescription->Mi exploración del [location] se vio interrumpida por un encuentro con [danger]</li>
+    <li>eventDescription->En el corazón del [location], me enfrenté a [obstacle], una prueba que me perseguirá</li>
+    <li>eventDescription->Mientras viajaba a través del [location], [discovery] apareció a la vista, una visión que renovó mi espíritu</li>
+    <li>eventDescription->El [location] ocultaba [unexpectedEvent], un secreto que no estaba preparado para descubrir</li>
+    <li>eventDescription->Seguí adelante hacia el [location], donde la sombra de [danger] me seguía</li>
+    <li>eventDescription->Hoy, el [location] arrojó [discovery], un momento de triunfo en medio del caos</li>
+    <li>eventDescription->Navegar por el [location] fue agotador, pero el encuentro con [unexpectedEvent] lo hizo inolvidable</li>
+    <li>eventDescription->El [location] no ofreció respiro, ya que [obstacle] bloqueó mi camino hacia adelante</li>
+    <li>eventDescription->Dentro de las profundidades del [location], tropecé con [discovery], un rayo de esperanza en la naturaleza</li>
+    <li>eventDescription->El [location] puso a prueba mi fuerza de voluntad, con [danger] casi reclamando mi vida</li>
+    <li>eventDescription->Me aventuré en el [location], sin saber que [unexpectedEvent] alteraría para siempre mi viaje</li>
+    <li>eventDescription->Sobrevivir al [location] fue una hazaña en sí misma, ya que [danger] amenazaba a cada paso</li>
+    <li>eventDescription->El [location] guardaba secretos incalculables, con [discovery] cambiando el curso de mis viajes</li>
+    <li>eventDescription->El [location] se extendía interminablemente ante mí, su silencio roto solo por [unexpectedEvent]</li>
+    <li>eventDescription->Cruzar el [location] fue arduo, con [obstacle] casi poniendo fin a mi viaje</li>
+    <li>eventDescription->En lo profundo del [location], me encontré con [discovery], un momento que me dejó sin aliento</li>
+    <li>location->Río Mbgun'go</li>
+    <li>location->Barranco Asolado</li>
+    <li>location->Ruinas Arqueotécnicas Olvidadas</li>
+    <li>location->Bosque Envuelto</li>
+    <li>location->Picos Dentados</li>
+    <li>location->Dunas Interminables</li>
+    <li>location->Yermos Congelados</li>
+    <li>location->Cuevas de Cristal Brillante</li>
+    <li>location->Llanuras Devastadas</li>
+    <li>location->Pantano Escarlata</li>
+    <li>location->Abismo Resonante</li>
+    <li>location->Antiguo Obelisco Arqueotécnico</li>
+    <li>location->Llanuras de Azufre Abrasador</li>
+    <li>location->Tierras de Ceniza Asfixiante</li>
+    <li>location->Dosel Velado</li>
+    <li>location->Picos Aullido de Trueno</li>
+    <li>location->Matorral de Enredaderas Aferradoras</li>
+    <li>location->Ciénaga de Aguas Negras</li>
+    <li>location->Cuenca Hueca</li>
+    <li>location->Pantano Luminiscente</li>
+    <li>location->Grieta Acorazada</li>
+    <li>location->Arenas Abrasadoras</li>
+    <li>location->Mesa Estrellada</li>
+    <li>location->Claros Susurrantes</li>
+    <li>location->Cresta Fracturada</li>
+    <li>location->Tundra Crepuscular</li>
+    <li>location->Acantilado de Obsidiana</li>
+    <li>location->Santuario Cubierto de Maleza</li>
+    <li>location->Abismo Aullante</li>
+    <li>location->Barranco Chamuscado</li>
+    <li>location->Valle Verde</li>
+    <li>location->Campos de Ceniza</li>
+    <li>location->Archipiélago Destrozado</li>
+    <li>location->Cantera Embrujada</li>
+    <li>location->Delta del Río Dorado</li>
+    <li>location->Glaciar Aguja de Escarcha</li>
+    <li>location->Estepas de los Lamentos</li>
+    <li>location->Cuenca de la Luna de Sangre</li>
+    <li>location->Barranco del Eclipse</li>
+    <li>location->Bóveda Arqueotécnica Hundida</li>
+    <li>location->Hondonada Fantasma</li>
+    <li>location->Paso de la Espina de la Serpiente</li>
+    <li>location->Grieta del Olvido</li>
+    <li>location->Cascadas a la Luz de la Luna</li>
+    <li>location->Extensión de Arenas Eternas</li>
+    <li>location->Campo de Piedra Rúnica</li>
+    <li>location->El Laberinto Sombrío</li>
+    <li>location->Acantilados Azotados por el Viento</li>
+    <li>location->Cavernas de Cobalto</li>
+    <li>location->Arboleda de Madera de Escarcha</li>
+    <li>location->El Pantano Infinito</li>
+    <li>location->Dunas del Horizonte Ardiente</li>
+    <li>location->Abismo de Vid de Cristal</li>
+    <li>location->Meseta Marcada por el Vacío</li>
+    <li>location->Laguna de Flor Azul</li>
+    <li>location->Picos Silenciosos</li>
+    <li>obstacle->una manada agresiva de muffalos salvajes</li>
+    <li>obstacle->una tribu de caníbales</li>
+    <li>obstacle->un centinela arqueotécnico inesperado</li>
+    <li>obstacle->una tormenta eléctrica devastadora</li>
+    <li>obstacle->una emboscada mortal de asaltantes</li>
+    <li>discovery->un valle oculto repleto de vida</li>
+    <li>discovery->antiguos grabados arqueotécnicos</li>
+    <li>discovery->una veta de mineral de oro brillante</li>
+    <li>discovery->un puesto de avanzada de colonia olvidado</li>
+    <li>discovery->flora brillante extraña pero hermosa</li>
+    <li>unexpectedEvent->un silencio inquietante roto solo por susurros del viento</li>
+    <li>unexpectedEvent->una extraña señal arqueotécnica que parecía seguirme</li>
+    <li>unexpectedEvent->el terreno mismo pareciendo cambiar bajo los pies en una extraña exhibición transformadora</li>
+    <li>unexpectedEvent->el aire volviéndose pesado con una energía inexplicable</li>
+    <li>unexpectedEvent->una extraña lluvia de meteoritos en medio del día</li>
+    <li>followUpEvent->Después, logré encontrar un lugar seguro para acampar por la noche</li>
+    <li>followUpEvent->La lucha me dejó maltrecho, pero seguí adelante</li>
+    <li>followUpEvent->El encuentro fue desgarrador, pero me llevó a un nuevo camino sorprendente</li>
+    <li>followUpEvent->Esta terrible experiencia me ha enseñado a andar con más cuidado en estas tierras salvajes</li>
+    <li>reflection->Recuerdo lo frágil que puede ser la supervivencia</li>
+    <li>reflection->Este viaje ha puesto a prueba cada gramo de mi resistencia</li>
+    <li>reflection->Estoy agradecido por las pequeñas victorias en medio del caos</li>
+    <li>reflection->El Borde nunca deja de asombrarme y aterrorizarme en igual medida</li>
+    <li>reflection->Estas experiencias me formarán de maneras que aún no puedo imaginar</li>
+    <li>note->Quizás mañana traiga momentos más tranquilos de reflexión</li>
+    <li>note->El camino por delante es incierto, pero debo seguir adelante</li>
+    <li>note->Espero que este registro sirva como guía para futuros exploradores</li>
+    <li>note->Por ahora, todo lo que puedo hacer es sobrevivir y aprender del Borde</li>
+    <li>qualityDescription(quality==0)->\n\nLa escritura es cruda y apenas legible, reflejando las luchas de su autor.</li>
+    <li>qualityDescription(quality==1)->\n\nLas entradas del diario son muy toscas, pero sinceras, un testimonio de las dificultades soportadas.</li>
+    <li>qualityDescription(quality==2)->\n\nLas notas son en su mayoría claras y atractivas, ofreciendo una visión genuina de los peligros del Borde.</li>
+    <li>qualityDescription(quality==3)->\n\nLa prosa está bien elaborada, pintando vívidamente el viaje en la mente del lector.</li>
+    <li>qualityDescription(quality==4)->\n\nCada palabra resuena con pasión y precisión, convirtiéndola en una lectura convincente.</li>
+    <li>qualityDescription(quality==5)->\n\nLa escritura es un equilibrio exquisito de arte y narración, verdaderamente una obra maestra.</li>
+    <li>qualityDescription(quality==6)->\n\nLas entradas trascienden las meras palabras, un artefacto de maravilla atemporal.</li>
+  -->
+  <ABooks_AdventuringLogs_Description.rulePack.rulesStrings>
+    <li>desc->[dateEntry] [eventDescription]. [reflection]. [note]. [qualityDescription][ending]</li>
+    <li>desc->[dateEntry] [eventDescription]. [followUpEvent]. [reflection][qualityDescription][ending]</li>
+    <li>desc->[dateEntry] [eventDescription]. [unexpectedDiscovery]. [reflection][qualityDescription][ending]</li>
+    <li>desc->[dateEntry] [eventDescription]. [reflection]. [note]. [qualityDescription][ending]</li>
+    <li>ending->\n\nUna vez leído, este libro descubrirá una o varias ubicaciones nuevas en el mapa mundial, y luego será destruido.</li>
+    <li>dateEntry->[date_season] [day]:</li>
+    <li>dateEntry->El 15 de [date_season]:</li>
+    <li>dateEntry->[day] de [date_season]:</li>
+    <li>day->5</li>
+    <li>day->11</li>
+    <li>day->19</li>
+    <li>day->23</li>
+    <li>eventDescription->Me enfrenté al peligroso cruce del [location], solo para encontrarme cara a cara con [obstacle]</li>
+    <li>eventDescription->Atravesar el [location] fue traicionero, pero el descubrimiento de [discovery] hizo que valiera la pena</li>
+    <li>eventDescription->Escapé por poco de [danger], un encuentro que no olvidaré pronto</li>
+    <li>eventDescription->Mi viaje a través del [location] reveló [unexpectedEvent]</li>
+    <li>eventDescription->Hoy, me aventuré en el [location], donde [obstacle] esperaba</li>
+    <li>eventDescription->Me encontré perdido en el [location], solo para tropezar con [discovery]</li>
+    <li>eventDescription->El [location] puso a prueba mi resistencia, pero superar [obstacle] demostró mi determinación</li>
+    <li>eventDescription->Cruzar el [location] estuvo lleno de peligros, ya que [danger] acechaba en cada esquina</li>
+    <li>eventDescription->Mientras atravesaba el [location], descubrí [unexpectedEvent], un hallazgo de gran importancia</li>
+    <li>eventDescription->Mi exploración del [location] se vio interrumpida por un encuentro con [danger]</li>
+    <li>eventDescription->En el corazón del [location], me enfrenté a [obstacle], una prueba que me perseguirá</li>
+    <li>eventDescription->Mientras viajaba a través del [location], [discovery] apareció a la vista, una visión que renovó mi espíritu</li>
+    <li>eventDescription->El [location] ocultaba [unexpectedEvent], un secreto que no estaba preparado para descubrir</li>
+    <li>eventDescription->Seguí adelante hacia el [location], donde la sombra de [danger] me seguía</li>
+    <li>eventDescription->Hoy, el [location] arrojó [discovery], un momento de triunfo en medio del caos</li>
+    <li>eventDescription->Navegar por el [location] fue agotador, pero el encuentro con [unexpectedEvent] lo hizo inolvidable</li>
+    <li>eventDescription->El [location] no ofreció respiro, ya que [obstacle] bloqueó mi camino hacia adelante</li>
+    <li>eventDescription->Dentro de las profundidades del [location], tropecé con [discovery], un rayo de esperanza en la naturaleza</li>
+    <li>eventDescription->El [location] puso a prueba mi fuerza de voluntad, con [danger] casi reclamando mi vida</li>
+    <li>eventDescription->Me aventuré en el [location], sin saber que [unexpectedEvent] alteraría para siempre mi viaje</li>
+    <li>eventDescription->Sobrevivir al [location] fue una hazaña en sí misma, ya que [danger] amenazaba a cada paso</li>
+    <li>eventDescription->El [location] guardaba secretos incalculables, con [discovery] cambiando el curso de mis viajes</li>
+    <li>eventDescription->El [location] se extendía interminablemente ante mí, su silencio roto solo por [unexpectedEvent]</li>
+    <li>eventDescription->Cruzar el [location] fue arduo, con [obstacle] casi poniendo fin a mi viaje</li>
+    <li>eventDescription->En lo profundo del [location], me encontré con [discovery], un momento que me dejó sin aliento</li>
+    <li>location->Río Mbgun'go</li>
+    <li>location->Barranco Asolado</li>
+    <li>location->Ruinas Arqueotécnicas Olvidadas</li>
+    <li>location->Bosque Envuelto</li>
+    <li>location->Picos Dentados</li>
+    <li>location->Dunas Interminables</li>
+    <li>location->Yermos Congelados</li>
+    <li>location->Cuevas de Cristal Brillante</li>
+    <li>location->Llanuras Devastadas</li>
+    <li>location->Pantano Escarlata</li>
+    <li>location->Abismo Resonante</li>
+    <li>location->Antiguo Obelisco Arqueotécnico</li>
+    <li>location->Llanuras de Azufre Abrasador</li>
+    <li>location->Tierras de Ceniza Asfixiante</li>
+    <li>location->Dosel Velado</li>
+    <li>location->Picos Aullido de Trueno</li>
+    <li>location->Matorral de Enredaderas Aferradoras</li>
+    <li>location->Ciénaga de Aguas Negras</li>
+    <li>location->Cuenca Hueca</li>
+    <li>location->Pantano Luminiscente</li>
+    <li>location->Grieta Acorazada</li>
+    <li>location->Arenas Abrasadoras</li>
+    <li>location->Mesa Estrellada</li>
+    <li>location->Claros Susurrantes</li>
+    <li>location->Cresta Fracturada</li>
+    <li>location->Tundra Crepuscular</li>
+    <li>location->Acantilado de Obsidiana</li>
+    <li>location->Santuario Cubierto de Maleza</li>
+    <li>location->Abismo Aullante</li>
+    <li>location->Barranco Chamuscado</li>
+    <li>location->Valle Verde</li>
+    <li>location->Campos de Ceniza</li>
+    <li>location->Archipiélago Destrozado</li>
+    <li>location->Cantera Embrujada</li>
+    <li>location->Delta del Río Dorado</li>
+    <li>location->Glaciar Aguja de Escarcha</li>
+    <li>location->Estepas de los Lamentos</li>
+    <li>location->Cuenca de la Luna de Sangre</li>
+    <li>location->Barranco del Eclipse</li>
+    <li>location->Bóveda Arqueotécnica Hundida</li>
+    <li>location->Hondonada Fantasma</li>
+    <li>location->Paso de la Espina de la Serpiente</li>
+    <li>location->Grieta del Olvido</li>
+    <li>location->Cascadas a la Luz de la Luna</li>
+    <li>location->Extensión de Arenas Eternas</li>
+    <li>location->Campo de Piedra Rúnica</li>
+    <li>location->El Laberinto Sombrío</li>
+    <li>location->Acantilados Azotados por el Viento</li>
+    <li>location->Cavernas de Cobalto</li>
+    <li>location->Arboleda de Madera de Escarcha</li>
+    <li>location->El Pantano Infinito</li>
+    <li>location->Dunas del Horizonte Ardiente</li>
+    <li>location->Abismo de Vid de Cristal</li>
+    <li>location->Meseta Marcada por el Vacío</li>
+    <li>location->Laguna de Flor Azul</li>
+    <li>location->Picos Silenciosos</li>
+    <li>obstacle->una manada agresiva de muffalos salvajes</li>
+    <li>obstacle->una tribu de caníbales</li>
+    <li>obstacle->un centinela arqueotécnico inesperado</li>
+    <li>obstacle->una tormenta eléctrica devastadora</li>
+    <li>obstacle->una emboscada mortal de asaltantes</li>
+    <li>discovery->un valle oculto repleto de vida</li>
+    <li>discovery->antiguos grabados arqueotécnicos</li>
+    <li>discovery->una veta de mineral de oro brillante</li>
+    <li>discovery->un puesto de avanzada de colonia olvidado</li>
+    <li>discovery->flora brillante extraña pero hermosa</li>
+    <li>unexpectedEvent->un silencio inquietante roto solo por susurros del viento</li>
+    <li>unexpectedEvent->una extraña señal arqueotécnica que parecía seguirme</li>
+    <li>unexpectedEvent->el terreno mismo pareciendo cambiar bajo los pies en una extraña exhibición transformadora</li>
+    <li>unexpectedEvent->el aire volviéndose pesado con una energía inexplicable</li>
+    <li>unexpectedEvent->una extraña lluvia de meteoritos en medio del día</li>
+    <li>followUpEvent->Después, logré encontrar un lugar seguro para acampar por la noche</li>
+    <li>followUpEvent->La lucha me dejó maltrecho, pero seguí adelante</li>
+    <li>followUpEvent->El encuentro fue desgarrador, pero me llevó a un nuevo camino sorprendente</li>
+    <li>followUpEvent->Esta terrible experiencia me ha enseñado a andar con más cuidado en estas tierras salvajes</li>
+    <li>reflection->Recuerdo lo frágil que puede ser la supervivencia</li>
+    <li>reflection->Este viaje ha puesto a prueba cada gramo de mi resistencia</li>
+    <li>reflection->Estoy agradecido por las pequeñas victorias en medio del caos</li>
+    <li>reflection->El Borde nunca deja de asombrarme y aterrorizarme en igual medida</li>
+    <li>reflection->Estas experiencias me formarán de maneras que aún no puedo imaginar</li>
+    <li>note->Quizás mañana traiga momentos más tranquilos de reflexión</li>
+    <li>note->El camino por delante es incierto, pero debo seguir adelante</li>
+    <li>note->Espero que este registro sirva como guía para futuros exploradores</li>
+    <li>note->Por ahora, todo lo que puedo hacer es sobrevivir y aprender del Borde</li>
+    <li>qualityDescription(quality==0)->\n\nLa escritura es cruda y apenas legible, reflejando las luchas de su autor.</li>
+    <li>qualityDescription(quality==1)->\n\nLas entradas del diario son muy toscas, pero sinceras, un testimonio de las dificultades soportadas.</li>
+    <li>qualityDescription(quality==2)->\n\nLas notas son en su mayoría claras y atractivas, ofreciendo una visión genuina de los peligros del Borde.</li>
+    <li>qualityDescription(quality==3)->\n\nLa prosa está bien elaborada, pintando vívidamente el viaje en la mente del lector.</li>
+    <li>qualityDescription(quality==4)->\n\nCada palabra resuena con pasión y precisión, convirtiéndola en una lectura convincente.</li>
+    <li>qualityDescription(quality==5)->\n\nLa escritura es un equilibrio exquisito de arte y narración, verdaderamente una obra maestra.</li>
+    <li>qualityDescription(quality==6)->\n\nLas entradas trascienden las meras palabras, un artefacto de maravilla atemporal.</li>
+  </ABooks_AdventuringLogs_Description.rulePack.rulesStrings>
+  
+</LanguageData>

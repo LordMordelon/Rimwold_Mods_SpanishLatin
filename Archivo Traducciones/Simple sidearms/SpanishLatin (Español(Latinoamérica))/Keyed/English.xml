@@ -1,0 +1,485 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+<!-- EN: Simple Sidearms -->
+  <SimpleSidearms_ModTitle>Simple Sidearms</SimpleSidearms_ModTitle>
+
+<!-- EN: First time running Simple Sidearms?
+
+This icon indicates the mod's settings have not been configured yet. It will go away when the settings menu is first accessed.
+
+Click to go to settings now. -->
+  <FirstTimeSettingsWarning>¿Es la primera vez que ejecutas Simple Sidearms?\n\nEste icono indica que la configuración del mod aún no se ha establecido. Desaparecerá cuando se acceda por primera vez al menú de configuración.\n\nHaz clic para ir a la configuración ahora.</FirstTimeSettingsWarning>
+
+<ActiveTab_desc>Pestañas de configuración</ActiveTab_desc>
+<!-- EN: Configuration tabs -->
+  <ActiveTab_title>Pestañas de configuración</ActiveTab_title>
+<!-- EN: Should pawns switch tools/weapons with statboosts for their current job? -->
+  <ToolAutoSwitch_desc>¿Deberían los peones cambiar herramientas/armas con mejoras de estadísticas para su trabajo actual?</ToolAutoSwitch_desc>
+<!-- EN: Tool use autoswitch -->
+  <ToolAutoSwitch_title>Cambio automático de herramientas</ToolAutoSwitch_title>
+<!-- EN: Should pawns automatically switch to a higher DPS melee weapon? -->
+  <OptimalMelee_desc>¿Deberían los peones cambiar automáticamente a un arma cuerpo a cuerpo con mayor DPS?</OptimalMelee_desc>
+<!-- EN: Use best melee weapon -->
+  <OptimalMelee_title>Usar mejor arma cuerpo a cuerpo</OptimalMelee_title>
+<!-- EN: Should pawns switch to their melee sidearms when attacked in melee? -->
+  <CQCAutoSwitch_desc>¿Deberían los peones cambiar a sus armas secundarias cuerpo a cuerpo cuando son atacados en cuerpo a cuerpo?</CQCAutoSwitch_desc>
+<!-- EN: Melee combat autoswitch -->
+  <CQCAutoSwitch_title>Cambio automático en combate cuerpo a cuerpo</CQCAutoSwitch_title>
+<!-- EN: Should pawns switch even when they are not using a weapon? -->
+  <CQCFistSwitch_desc>¿Deberían los peones cambiar incluso cuando no están usando un arma?</CQCFistSwitch_desc>
+<!-- EN: Unarmed combat autoswitch -->
+  <CQCFistSwitch_title>Cambio automático en combate desarmado</CQCFistSwitch_title>
+<!-- EN: Should pawns only react to attacks from their current target? -->
+  <CQCTargetOnly_desc>¿Deberían los peones reaccionar solo a los ataques de su objetivo actual?</CQCTargetOnly_desc>
+<!-- EN: Switch only on attacks from target -->
+  <CQCTargetOnly_title>Cambiar solo en ataques del objetivo</CQCTargetOnly_title>
+
+<!-- EN: In which situations might pawns fumble and drop their weapon instead of moving it to their inventory? -->
+  <DropMode_desc>¿En qué situaciones podrían los peones torpedear y soltar su arma en lugar de moverla a su inventario?</DropMode_desc>
+<!-- EN: Weapon fumble criteria -->
+  <DropMode_title>Criterios de torpeza con armas</DropMode_title>
+<!-- EN: Chance to avoid weapon fumble -->
+  <FumbleRecoveryChance_title>Probabilidad de evitar torpeza con armas</FumbleRecoveryChance_title>
+<!-- EN: Vertical axis is chance to avoid fumbling
+Horizontal axis is melee or ranged skill (whichever is better) -->
+  <FumbleRecoveryChance_hint>El eje vertical es la probabilidad de evitar la torpeza\nEl eje horizontal es la habilidad cuerpo a cuerpo o a distancia (la que sea mejor)</FumbleRecoveryChance_hint>
+
+<!-- EN: After having dropped a weapon, auto-re-equip it after combat once out of immediate danger. -->
+  <ReEquipOutOfCombat_desc>Después de haber soltado un arma, reequiparla automáticamente después del combate una vez fuera de peligro inmediato.</ReEquipOutOfCombat_desc>
+<!-- EN: Re-equip dropped weapons -->
+  <ReEquipOutOfCombat_title>Reequipar armas soltadas</ReEquipOutOfCombat_title>
+<!-- EN: Auto-re-equip will find the best weapon available (instead of the closest) -->
+  <ReEquipBest_desc>El reequipamiento automático encontrará la mejor arma disponible (en lugar de la más cercana)</ReEquipBest_desc>
+<!-- EN: Re-equip best available -->
+  <ReEquipBest_title>Reequipar la mejor disponible</ReEquipBest_title>
+<!-- EN: Auto-re-equip weapons even in combat, when not actively fighting. -->
+  <ReEquipInCombat_desc>Reequipar armas automáticamente incluso en combate, cuando no se esté luchando activamente.</ReEquipInCombat_desc>
+<!-- EN: Re-equip during combat -->
+  <ReEquipInCombat_title>Reequipar durante el combate</ReEquipInCombat_title>
+
+<!-- EN: Disallow auto-equip of dangerous weapons (molotov cocktails, frag grenades, rocket launchers, etc.) -->
+  <SkipDangerousWeapons_desc>No permitir el equipamiento automático de armas peligrosas (cócteles molotov, granadas de fragmentación, lanzacohetes, etc.)</SkipDangerousWeapons_desc>
+<!-- EN: Skip dangerous weapons -->
+  <SkipDangerousWeapons_title>Omitir armas peligrosas</SkipDangerousWeapons_title>
+<!-- EN: Disallow auto-equip of EMP weapons (note that pawns will only consider auto-equipping these when fighting mechanoids anyway). -->
+  <SkipEMPWeapons_desc>No permitir el equipamiento automático de armas EMP (ten en cuenta que los peones solo considerarán equiparlas automáticamente cuando luchen contra mecanoides de todos modos).</SkipEMPWeapons_desc>
+<!-- EN: Skip EMP weapons -->
+  <SkipEMPWeapons_title>Omitir armas EMP</SkipEMPWeapons_title>
+
+<!-- EN: Keep sidearms in the right inventory when returning from caravans. (Experimental, implemented by XT-0xFF @Github) -->
+  <PreserveInventoryInCaravans_desc>Mantener las armas secundarias en el inventario correcto al regresar de caravanas. (Experimental, implementado por XT-0xFF @Github)</PreserveInventoryInCaravans_desc>
+<!-- EN: Preserve sideams through caravans -->
+  <PreserveInventoryInCaravans_title>Preservar armas secundarias en caravanas</PreserveInventoryInCaravans_title>
+
+<!-- EN: Hide sideams in caravan dialogs, to prevent accidentaly selling them. (Experimental, implemented by XT-0xFF @Github) -->
+  <HideSidearmsInCaravanDialogs_desc>Ocultar armas secundarias en los diálogos de caravana, para evitar venderlas accidentalmente. (Experimental, implementado por XT-0xFF @Github)</HideSidearmsInCaravanDialogs_desc>
+<!-- EN: Hide sidearms in caravan dialogs -->
+  <HideSidearmsInCaravanDialogs_title>Ocultar armas secundarias en diálogos de caravana</HideSidearmsInCaravanDialogs_title>
+
+<!-- EN: Show alerts for colonists that remember having sidearms that they no longer have and can't find a replacement for. -->
+  <ShowAlertsMissingSidearm_desc>Mostrar alertas para los colonos que recuerdan tener armas secundarias que ya no tienen y no pueden encontrar un reemplazo.</ShowAlertsMissingSidearm_desc>
+<!-- EN: Show missing sidearm alerts -->
+  <ShowAlertsMissingSidearm_title>Mostrar alertas de armas secundarias faltantes</ShowAlertsMissingSidearm_title>
+
+<!-- EN: Play sounds when swapping weapons. -->
+  <SidearmsPlaySounds_desc>Reproducir sonidos al cambiar de armas.</SidearmsPlaySounds_desc>
+<!-- EN: Play sounds -->
+  <SidearmsPlaySounds_title>Reproducir sonidos</SidearmsPlaySounds_title>
+
+<!-- EN: Show a dev tool gizmo that reveals the selected pawns internal state. -->
+  <ShowBrainscope_desc>Mostrar un gizmo de herramienta de desarrollo que revela el estado interno de los peones seleccionados.</ShowBrainscope_desc>
+<!-- EN: Show Brainscope -->
+  <ShowBrainscope_title>Mostrar Brainscope</ShowBrainscope_title>
+
+<!-- EN: Allow usage of weapons that are normally blocked (such as persona weapons, biocoded weapons, and Ideology role-restricted weapons) - see XKCD #1172 -->
+  <AllowBlockedWeaponUse_desc>Permitir el uso de armas que normalmente están bloqueadas (como armas persona, armas biocodificadas y armas restringidas por rol de Ideology) - ver XKCD #1172</AllowBlockedWeaponUse_desc>
+<!-- EN: Allow use of blocked weapons -->
+  <AllowBlockedWeaponUse_title>Permitir uso de armas bloqueadas</AllowBlockedWeaponUse_title>
+
+<LimitCarryInfo_desc>Siempre limitado por la capacidad de carga del peón</LimitCarryInfo_desc>
+<!-- EN: Always limited by pawn's carry capacity -->
+  <LimitCarryInfo_title>Siempre limitado por la capacidad de carga del peón</LimitCarryInfo_title>
+
+<CEOverrideInfo_desc>Desactivado a favor del sistema de CE.</CEOverrideInfo_desc>
+<!-- EN: Disabled in favor of CE's system. -->
+  <CEOverrideInfo_title>Desactivado a favor del sistema de CE.</CEOverrideInfo_title>
+
+<!-- EN: Total sidearms limit mode -->
+  <LimitModeAmount_title>Modo de límite total de armas secundarias</LimitModeAmount_title>
+<!-- EN: Total melee sidearms limit mode -->
+  <LimitModeAmountMelee_title>Modo de límite total de armas secundarias cuerpo a cuerpo</LimitModeAmountMelee_title>
+<!-- EN: Total ranged sidearms limit mode -->
+  <LimitModeAmountRanged_title>Modo de límite total de armas secundarias a distancia</LimitModeAmountRanged_title>
+<!-- EN: What restrictions are there on all sidearms. -->
+  <LimitModeAmount_desc>Qué restricciones hay en todas las armas secundarias.</LimitModeAmount_desc>
+<!-- EN: What restrictions are there on all melee sidearms. -->
+  <LimitModeAmountMelee_desc>Qué restricciones hay en todas las armas secundarias cuerpo a cuerpo.</LimitModeAmountMelee_desc>
+<!-- EN: What restrictions are there on all ranged sidearms. -->
+  <LimitModeAmountRanged_desc>Qué restricciones hay en todas las armas secundarias a distancia.</LimitModeAmountRanged_desc>
+<!-- EN: Single sidearm limit mode -->
+  <LimitModeSingle_title>Modo de límite de arma secundaria individual</LimitModeSingle_title>
+<!-- EN: Single melee sidearm limit mode -->
+  <LimitModeSingleMelee_title>Modo de límite de arma secundaria individual cuerpo a cuerpo</LimitModeSingleMelee_title>
+<!-- EN: Single ranged sidearm limit mode -->
+  <LimitModeSingleRanged_title>Modo de límite de arma secundaria individual a distancia</LimitModeSingleRanged_title>
+<!-- EN: What restrictions are there on individual sidearms. -->
+  <LimitModeSingle_desc>Qué restricciones hay en las armas secundarias individuales.</LimitModeSingle_desc>
+<!-- EN: What restrictions are there on individual melee sidearms. -->
+  <LimitModeSingleMelee_desc>Qué restricciones hay en las armas secundarias individuales cuerpo a cuerpo.</LimitModeSingleMelee_desc>
+<!-- EN: What restrictions are there on individual ranged sidearms. -->
+  <LimitModeSingleRanged_desc>Qué restricciones hay en las armas secundarias individuales a distancia.</LimitModeSingleRanged_desc>
+
+<!-- EN: Total sidearms limit mode -->
+  <LimitModeAmountTotal_title>Modo de límite total de armas secundarias</LimitModeAmountTotal_title>
+<!-- EN: What restrictions are there on all sidearms. -->
+  <LimitModeAmountTotal_desc>Qué restricciones hay en todas las armas secundarias.</LimitModeAmountTotal_desc>
+
+<!-- EN: Maximum total mass of sidearms a pawn can carry. -->
+  <MaximumMassAmountAbsolute_desc>Masa total máxima de armas secundarias que un peón puede llevar.</MaximumMassAmountAbsolute_desc>
+<!-- EN: Max. mass of sidearms -->
+  <MaximumMassAmountAbsolute_title>Masa máx. de armas secundarias</MaximumMassAmountAbsolute_title>
+<!-- EN: Maximum total mass of sidearms a pawn can carry relative to their carry capacity. -->
+  <MaximumMassAmountRelative_desc>Masa total máxima de armas secundarias que un peón puede llevar en relación con su capacidad de carga.</MaximumMassAmountRelative_desc>
+<!-- EN: Max. mass of sidearms -->
+  <MaximumMassAmountRelative_title>Masa máx. de armas secundarias</MaximumMassAmountRelative_title>
+<!-- EN: Maximum mass of a single sidearm a pawn can carry. -->
+  <MaximumMassSingleAbsolute_desc>Masa máxima de una sola arma secundaria que un peón puede llevar.</MaximumMassSingleAbsolute_desc>
+<!-- EN: Max. mass per sidearm -->
+  <MaximumMassSingleAbsolute_title>Masa máx. por arma secundaria</MaximumMassSingleAbsolute_title>
+<!-- EN: Maximum mass of a single sidearm a pawn can carry relative to their carry capacity. -->
+  <MaximumMassSingleRelative_desc>Masa máxima de una sola arma secundaria que un peón puede llevar en relación con su capacidad de carga.</MaximumMassSingleRelative_desc>
+<!-- EN: Max. mass per sidearm -->
+  <MaximumMassSingleRelative_title>Masa máx. por arma secundaria</MaximumMassSingleRelative_title>
+<!-- EN: How many sidearms can a pawn carry. -->
+  <MaximumSlots_desc>Cuántas armas secundarias puede llevar un peón.</MaximumSlots_desc>
+<!-- EN: Slots -->
+  <MaximumSlots_title>Ranuras</MaximumSlots_title>
+<!-- EN: What is the threshold after which a pawn will refuse to interrupt their attack to switch to a sidearm? -->
+  <RangedCombatAutoSwitchMaxWarmup_desc>¿Cuál es el umbral después del cual un peón se negará a interrumpir su ataque para cambiar a un arma secundaria?</RangedCombatAutoSwitchMaxWarmup_desc>
+<!-- EN: Maximum warmup percentage -->
+  <RangedCombatAutoSwitchMaxWarmup_title>Porcentaje máximo de calentamiento</RangedCombatAutoSwitchMaxWarmup_title>
+<!-- EN: Should pawns switch to range-appropriate ranged sidearms when attacking at range? -->
+  <RangedCombatAutoSwitch_desc>¿Deberían los peones cambiar a armas secundarias a distancia apropiadas para el alcance cuando atacan a distancia?</RangedCombatAutoSwitch_desc>
+<!-- EN: Use best ranged weapon -->
+  <RangedCombatAutoSwitch_title>Usar mejor arma a distancia</RangedCombatAutoSwitch_title>
+<!-- EN: Should melee and ranged weapons have shared or separate restrictions? -->
+  <SeparateModes_desc>¿Deberían las armas cuerpo a cuerpo y a distancia tener restricciones compartidas o separadas?</SeparateModes_desc>
+<!-- EN: Split melee/ranged -->
+  <SeparateModes_title>Separar cuerpo a cuerpo/a distancia</SeparateModes_title>
+<SidearmSelection_desc>Selección de armas secundarias</SidearmSelection_desc>
+<!-- EN: Sidearm selection -->
+  <SidearmSelection_title>Selección de armas secundarias</SidearmSelection_title>
+<!-- EN: Should pawns switch to sidearms after expending single-use weapons? -->
+  <SingleshotAutoSwitch_desc>¿Deberían los peones cambiar a armas secundarias después de gastar armas de un solo uso?</SingleshotAutoSwitch_desc>
+<!-- EN: Singleshot autoswitch -->
+  <SingleshotAutoSwitch_title>Cambio automático de un solo disparo</SingleshotAutoSwitch_title>
+<!-- EN: Pawn bias towards selecting weapons with faster attack speed. -->
+  <SpeedSelectionBiasMelee_desc>Sesgo del peón hacia la selección de armas con mayor velocidad de ataque.</SpeedSelectionBiasMelee_desc>
+<!-- EN: Speed bias (melee) -->
+  <SpeedSelectionBiasMelee_title>Sesgo de velocidad (cuerpo a cuerpo)</SpeedSelectionBiasMelee_title>
+<!-- EN: Pawn bias towards selecting weapons with faster warmup. -->
+  <SpeedSelectionBiasRanged_desc>Sesgo del peón hacia la selección de armas con calentamiento más rápido.</SpeedSelectionBiasRanged_desc>
+<!-- EN: Speed bias (ranged) -->
+  <SpeedSelectionBiasRanged_title>Sesgo de velocidad (a distancia)</SpeedSelectionBiasRanged_title>
+<!-- EN: These are the weapons that match the given criteria. -->
+  <WeaponMatch_desc>Estas son las armas que coinciden con los criterios dados.</WeaponMatch_desc>
+<WeaponMatch_title>Coincidencia de armas</WeaponMatch_title>
+<!-- EN: Listing assumes standard carry capacity of 35 kg -->
+  <MaximumMassAmountRelative_hint>El listado asume una capacidad de carga estándar de 35 kg</MaximumMassAmountRelative_hint>
+
+<!-- EN: The chance for any pawn that spawns with a weapon to also have a sidearm. -->
+  <SidearmSpawnChance_desc>La probabilidad de que cualquier peón que aparezca con un arma también tenga un arma secundaria.</SidearmSpawnChance_desc>
+<!-- EN: Sidearm spawn chance -->
+  <SidearmSpawnChance_title>Probabilidad de aparición de arma secundaria</SidearmSpawnChance_title>
+<!-- EN: The amount by which the chance to spawn a sidearm is reduced by per additional sidearm. -->
+  <SidearmSpawnChanceDropoff_desc>La cantidad en la que se reduce la probabilidad de generar un arma secundaria por cada arma secundaria adicional.</SidearmSpawnChanceDropoff_desc>
+<!-- EN: Additional spawn chance reduction -->
+  <SidearmSpawnChanceDropoff_title>Reducción adicional de probabilidad de aparición</SidearmSpawnChanceDropoff_title>
+<!-- EN: The amount of money a sidearm can be worth, based on the default primary weapon. -->
+  <SidearmBudgetMultiplier_desc>La cantidad de dinero que puede valer un arma secundaria, basada en el arma principal predeterminada.</SidearmBudgetMultiplier_desc>
+<!-- EN: Sidearm budget multiplier -->
+  <SidearmBudgetMultiplier_title>Multiplicador de presupuesto de arma secundaria</SidearmBudgetMultiplier_title>
+<!-- EN: The amount by which the budget is reduced by per additional sidearm. -->
+  <SidearmBudgetDropoff_desc>La cantidad en la que se reduce el presupuesto por cada arma secundaria adicional.</SidearmBudgetDropoff_desc>
+<!-- EN: Additional sidearm budget reduction -->
+  <SidearmBudgetDropoff_title>Reducción adicional de presupuesto de arma secundaria</SidearmBudgetDropoff_title>
+<!-- EN: The default weapon preference mode for player-controlled pawns. -->
+  <ColonistDefaultWeaponMode_desc>El modo de preferencia de arma predeterminado para los peones controlados por el jugador.</ColonistDefaultWeaponMode_desc>
+<!-- EN: Colonist default weapon mode -->
+  <ColonistDefaultWeaponMode_title>Modo de arma predeterminado del colono</ColonistDefaultWeaponMode_title>
+<!-- EN: The default weapon preference mode for NPC pawns. -->
+  <NPCDefaultWeaponMode_desc>El modo de preferencia de arma predeterminado para los peones NPC.</NPCDefaultWeaponMode_desc>
+<!-- EN: NPC default weapon mode -->
+  <NPCDefaultWeaponMode_title>Modo de arma predeterminado de NPC</NPCDefaultWeaponMode_title>
+
+<!-- EN: Ranged -->
+  <PrimaryWeaponMode_option_Ranged>A distancia</PrimaryWeaponMode_option_Ranged>
+<!-- EN: Melee -->
+  <PrimaryWeaponMode_option_Melee>Cuerpo a cuerpo</PrimaryWeaponMode_option_Melee>
+<!-- EN: By skill -->
+  <PrimaryWeaponMode_option_BySkill>Por habilidad</PrimaryWeaponMode_option_BySkill>
+<!-- EN: By primary -->
+  <PrimaryWeaponMode_option_ByGenerated>Por principal</PrimaryWeaponMode_option_ByGenerated>
+
+	
+<!-- EN: No limit -->
+  <LimitModeSingle_option_None>Sin límite</LimitModeSingle_option_None>
+<!-- EN: Mass relative -->
+  <LimitModeSingle_option_RelativeWeight>Masa relativa</LimitModeSingle_option_RelativeWeight>
+<!-- EN: Mass absolute -->
+  <LimitModeSingle_option_AbsoluteWeight>Masa absoluta</LimitModeSingle_option_AbsoluteWeight>
+<!-- EN: Specific weapons -->
+  <LimitModeSingle_option_Selection>Armas específicas</LimitModeSingle_option_Selection>
+
+<!-- EN: No limit -->
+  <LimitModeAmount_option_None>Sin límite</LimitModeAmount_option_None>
+<!-- EN: Mass relative -->
+  <LimitModeAmount_option_RelativeWeight>Masa relativa</LimitModeAmount_option_RelativeWeight>
+<!-- EN: Mass absolute -->
+  <LimitModeAmount_option_AbsoluteWeight>Masa absoluta</LimitModeAmount_option_AbsoluteWeight>
+<!-- EN: Slots -->
+  <LimitModeAmount_option_Slots>Ranuras</LimitModeAmount_option_Slots>
+
+<!-- EN: < -->
+  <ActiveTab_option_Folded>&lt;</ActiveTab_option_Folded>
+<!-- EN: Presets -->
+  <ActiveTab_option_Presets>Preajustes</ActiveTab_option_Presets>
+<!-- EN: Triggers -->
+  <ActiveTab_option_Automation>Automatización</ActiveTab_option_Automation>
+<!-- EN: Limits -->
+  <ActiveTab_option_Allowances>Límites</ActiveTab_option_Allowances>
+<!-- EN: Spawns -->
+  <ActiveTab_option_Spawning>Apariciones</ActiveTab_option_Spawning>
+<!-- EN: Misc. -->
+  <ActiveTab_option_Misc>Misc.</ActiveTab_option_Misc>
+
+<!-- EN: Never -->
+  <DropMode_option_Never>Nunca</DropMode_option_Never>
+<!-- EN: In distress -->
+  <DropMode_option_InDistress>En peligro</DropMode_option_InDistress>
+<!-- EN: In combat -->
+  <DropMode_option_InCombat>En combate</DropMode_option_InCombat>
+<!-- EN: Always -->
+  <DropMode_option_Always>Siempre</DropMode_option_Always>
+
+<!-- EN: Fumble! -->
+  <Fumbled>¡Torpeza!</Fumbled>
+<!-- EN: Fumble! ({0}) -->
+  <Fumbled_dev>¡Torpeza! ({0})</Fumbled_dev>
+
+<PresetExport_title>Exportar preajuste</PresetExport_title>
+<PresetExport_desc>Copiar configuración activa al portapapeles</PresetExport_desc>
+<!-- EN: Copy active config to clipboard -->
+  <PresetExport_label>Copiar configuración activa al portapapeles</PresetExport_label>
+
+
+<!-- EN: Custom -->
+  <PresetCustom_title>Personalizado</PresetCustom_title>
+<!-- EN: Custom settings. Automatically selected upon making a change. -->
+  <PresetCustom_desc>Configuración personalizada. Seleccionada automáticamente al realizar un cambio.</PresetCustom_desc>
+<PresetCustom_label>Personalizado</PresetCustom_label>
+<!-- EN: Disabled -->
+  <Preset0_title>Desactivado</Preset0_title>
+<!-- EN: All options disabled. Good base for configurations that use only a small portion of the mod's features. -->
+  <Preset0_desc>Todas las opciones desactivadas. Buena base para configuraciones que usan solo una pequeña parte de las características del mod.</Preset0_desc>
+<Preset0_label>Desactivado</Preset0_label>
+<!-- EN: Lite -->
+  <Preset1half_title>Lite</Preset1half_title>
+<!-- EN: Allows a single light weapon as a sidearm. -->
+  <Preset1half_desc>Permite una sola arma ligera como secundaria.</Preset1half_desc>
+<Preset1half_label>Lite</Preset1half_label>
+<!-- EN: Loadout only -->
+  <Preset1_title>Solo equipamiento</Preset1_title>
+<!-- EN: Allows equipping sidearms, but nothing else. Essentially a convenient inventory extension. -->
+  <Preset1_desc>Permite equipar armas secundarias, pero nada más. Esencialmente una extensión de inventario conveniente.</Preset1_desc>
+<Preset1_label>Solo equipamiento</Preset1_label>
+<!-- EN: Basic -->
+  <Preset2_title>Básico</Preset2_title>
+<!-- EN: A simple setup. Pawns can use a few light weapons and will attempt to use them in appropriate situations. -->
+  <Preset2_desc>Una configuración simple. Los peones pueden usar algunas armas ligeras e intentarán usarlas en situaciones apropiadas.</Preset2_desc>
+<Preset2_label>Básico</Preset2_label>
+<!-- EN: Advanced -->
+  <Preset3_title>Avanzado</Preset3_title>
+<!-- EN: Pawns get more creative with their weapon selection, but still remain within what one would expect possible from regular people trying to survive on a dangerous rimworld. -->
+  <Preset3_desc>Los peones se vuelven más creativos con su selección de armas, pero aún permanecen dentro de lo que uno esperaría posible de personas normales tratando de sobrevivir en un mundo peligroso.</Preset3_desc>
+<Preset3_label>Avanzado</Preset3_label>
+<!-- EN: Excessive -->
+  <Preset4_title>Excesivo</Preset4_title>
+<!-- EN: Bring all of it! Minigun? Bring two! Spears? I've got a whole collection in my backpack! -->
+  <Preset4_desc>¡Trae todo! ¿Minigun? ¡Trae dos! ¿Lanzas? ¡Tengo toda una colección en mi mochila!</Preset4_desc>
+<Preset4_label>Excesivo</Preset4_label>
+<!-- EN: Brawler mode -->
+  <Preset5_title>Modo luchador</Preset5_title>
+<!-- EN: Melee sidearms for everyone. -->
+  <Preset5_desc>Armas secundarias cuerpo a cuerpo para todos.</Preset5_desc>
+<Preset5_label>Modo luchador</Preset5_label>
+
+
+<!-- EN: No free space -->
+  <SidearmPickupFail_NoFreeSpace>Sin espacio libre</SidearmPickupFail_NoFreeSpace>
+<!-- EN: Too heavy for a melee sidearm -->
+  <SidearmPickupFail_TooHeavyForSidearmMelee>Demasiado pesado para un arma secundaria cuerpo a cuerpo</SidearmPickupFail_TooHeavyForSidearmMelee>
+<!-- EN: Too heavy for a ranged sidearm -->
+  <SidearmPickupFail_TooHeavyForSidearmRanged>Demasiado pesado para un arma secundaria a distancia</SidearmPickupFail_TooHeavyForSidearmRanged>
+<!-- EN: Too heavy for a sidearm -->
+  <SidearmPickupFail_TooHeavyForSidearm>Demasiado pesado para un arma secundaria</SidearmPickupFail_TooHeavyForSidearm>
+<!-- EN: Melee loadout too heavy -->
+  <SidearmPickupFail_SidearmsTooHeavyMelee>Equipamiento cuerpo a cuerpo demasiado pesado</SidearmPickupFail_SidearmsTooHeavyMelee>
+<!-- EN: Ranged loadout too heavy -->
+  <SidearmPickupFail_SidearmsTooHeavyRanged>Equipamiento a distancia demasiado pesado</SidearmPickupFail_SidearmsTooHeavyRanged>
+<!-- EN: Loadout too heavy -->
+  <SidearmPickupFail_SidearmsTooHeavyInTotal>Equipamiento demasiado pesado</SidearmPickupFail_SidearmsTooHeavyInTotal>
+<!-- EN: Not a sidearm -->
+  <SidearmPickupFail_NotASidearm>No es un arma secundaria</SidearmPickupFail_NotASidearm>
+<!-- EN: Not a sidearm -->
+  <SidearmPickupFail_NotASidearmMelee>No es un arma secundaria</SidearmPickupFail_NotASidearmMelee>
+<!-- EN: Not a sidearm -->
+  <SidearmPickupFail_NotASidearmRanged>No es un arma secundaria</SidearmPickupFail_NotASidearmRanged>
+<!-- EN: Slots full -->
+  <SidearmPickupFail_AllSlotsFull>Ranuras llenas</SidearmPickupFail_AllSlotsFull>
+<!-- EN: Melee slots full -->
+  <SidearmPickupFail_MeleeSlotsFull>Ranuras cuerpo a cuerpo llenas</SidearmPickupFail_MeleeSlotsFull>
+<!-- EN: Ranged slots full -->
+  <SidearmPickupFail_RangedSlotsFull>Ranuras a distancia llenas</SidearmPickupFail_RangedSlotsFull>
+<!-- EN: Not a tool. {0} is incapable of violence. -->
+  <SidearmPickupFail_NotAToolForPacifist>No es una herramienta. {0} es incapaz de violencia.</SidearmPickupFail_NotAToolForPacifist>
+<!-- EN: Not yet bonded -->
+  <SidearmPickupFail_NotYetBladelinkBonded>Aún no vinculado</SidearmPickupFail_NotYetBladelinkBonded>
+<!-- EN: No issue -->
+  <SidearmPickupPass>Sin problemas</SidearmPickupPass>
+<!-- EN:  as sidearm -->
+  <AsSidearm> como secundaria</AsSidearm>
+<!-- EN:  as tool -->
+  <AsTool> como herramienta</AsTool>
+
+<!-- EN: None -->
+  <Preset_option_NoneApplied>Ninguno</Preset_option_NoneApplied>
+<!-- EN: Custom -->
+  <Preset_option_Custom>Personalizado</Preset_option_Custom>
+<!-- EN: Lite -->
+  <Preset_option_Lite>Lite</Preset_option_Lite>
+<!-- EN: Disabled -->
+  <Preset_option_Disabled>Desactivado</Preset_option_Disabled>
+<!-- EN: Loadout only -->
+  <Preset_option_LoadoutOnly>Solo equipamiento</Preset_option_LoadoutOnly>
+<!-- EN: Basic -->
+  <Preset_option_Basic>Básico</Preset_option_Basic>
+<!-- EN: Advanced -->
+  <Preset_option_Advanced>Avanzado</Preset_option_Advanced>
+<!-- EN: Excessive -->
+  <Preset_option_Excessive>Excesivo</Preset_option_Excessive>
+<!-- EN: Brawler -->
+  <Preset_option_Brawler>Luchador</Preset_option_Brawler>
+
+<!-- EN: Both -->
+  <WeaponListKind_option_Both>Ambos</WeaponListKind_option_Both>
+<!-- EN: Melee -->
+  <WeaponListKind_option_Melee>Cuerpo a cuerpo</WeaponListKind_option_Melee>
+<!-- EN: Ranged -->
+  <WeaponListKind_option_Ranged>A distancia</WeaponListKind_option_Ranged>
+
+<!-- EN: Tribal -->
+  <TribalWeapons>Tribal</TribalWeapons>
+<!-- EN: Not tribal -->
+  <NonTribalWeapons>No tribal</NonTribalWeapons>
+
+<!-- EN: Sidearms -->
+  <ConsideredSidearms>Armas secundarias</ConsideredSidearms>
+<!-- EN: Not sidearms -->
+  <NotConsideredSidearms>No armas secundarias</NotConsideredSidearms>
+
+<!-- EN: Cannot autoswitch (ranged) -->
+  <LockedWeaponSwitch>No puede cambiar automáticamente (a distancia)</LockedWeaponSwitch>
+<!-- EN: Can autoswitch (ranged) -->
+  <UnlockedWeaponSwitch>Puede cambiar automáticamente (a distancia)</UnlockedWeaponSwitch>
+
+<!-- EN: Lock autoswitch on draw -->
+  <WeaponSwitchAutolockOn>Bloquear cambio automático al desenfundar</WeaponSwitchAutolockOn>
+<!-- EN: Off -->
+  <WeaponSwitchAutolockOff>Apagado</WeaponSwitchAutolockOff>
+
+<!-- EN: Sidearms -->
+  <DrawSidearm_gizmoTitle>Armas secundarias</DrawSidearm_gizmoTitle>
+<!-- EN: Use ranged weapons. -->
+  <SidearmPreference_Ranged>Usar armas a distancia.</SidearmPreference_Ranged>
+<!-- EN: Use weapons according to own skill or passion. -->
+  <SidearmPreference_Skill>Usar armas según habilidad o pasión.</SidearmPreference_Skill>
+<!-- EN: Use melee weapons. -->
+  <SidearmPreference_Melee>Usar armas cuerpo a cuerpo.</SidearmPreference_Melee>
+<!-- EN: Left click to set {0} as default ranged weapon.
+Right click to drop {0}. -->
+  <DrawSidearm_gizmoTooltipRanged>Haz clic izquierdo para establecer {0} como arma a distancia predeterminada.\nHaz clic derecho para soltar {0}.</DrawSidearm_gizmoTooltipRanged>
+<!-- EN: Left click to set {0} as preferred melee weapon.
+Right click to drop {0}. -->
+  <DrawSidearm_gizmoTooltipMelee>Haz clic izquierdo para establecer {0} como arma cuerpo a cuerpo preferida.\nHaz clic derecho para soltar {0}.</DrawSidearm_gizmoTooltipMelee>
+<!-- EN: Left click to force use of {0}.
+Right click to unset {0} as default ranged weapon. -->
+  <DrawSidearm_gizmoTooltipRangedDefault>Haz clic izquierdo para forzar el uso de {0}.\nHaz clic derecho para desmarcar {0} como arma a distancia predeterminada.</DrawSidearm_gizmoTooltipRangedDefault>
+<!-- EN: Left click to force use of {0}.
+Right click to remove melee weapon preference of {0}. -->
+  <DrawSidearm_gizmoTooltipMeleePreferred>Haz clic izquierdo para forzar el uso de {0}.\nHaz clic derecho para eliminar la preferencia de arma cuerpo a cuerpo de {0}.</DrawSidearm_gizmoTooltipMeleePreferred>
+<!-- EN: Right click to remove forced use of {0}. -->
+  <DrawSidearm_gizmoTooltipForced>Haz clic derecho para eliminar el uso forzado de {0}.</DrawSidearm_gizmoTooltipForced>
+<!-- EN: Left click to force use of {0} until end of combat. -->
+  <DrawSidearm_gizmoTooltipWhileDrafted>Haz clic izquierdo para forzar el uso de {0} hasta el final del combate.</DrawSidearm_gizmoTooltipWhileDrafted>
+<!-- EN: Right click to remove forced use of {0}. -->
+  <DrawSidearm_gizmoTooltipForcedWhileDrafted>Haz clic derecho para eliminar el uso forzado de {0}.</DrawSidearm_gizmoTooltipForcedWhileDrafted>
+<!-- EN: Right click to forget about {0}. -->
+  <DrawSidearm_gizmoTooltipMemory>Haz clic derecho para olvidar {0}.</DrawSidearm_gizmoTooltipMemory>
+<!-- EN: No interaction while drafted. -->
+  <DrawSidearm_gizmoTooltipMemoryWhileDrafted>Sin interacción mientras está reclutado.</DrawSidearm_gizmoTooltipMemoryWhileDrafted>
+<!-- EN: Left click to set unarmed combat as preferred melee option. -->
+  <DrawSidearm_gizmoTooltipUnarmed>Haz clic izquierdo para establecer el combate desarmado como opción preferida.</DrawSidearm_gizmoTooltipUnarmed>
+<!-- EN: Left click to force use of unarmed combat. 
+Right click to remove unarmed combat as preferred melee option. -->
+  <DrawSidearm_gizmoTooltipUnarmedPreferred>Haz clic izquierdo para forzar el combate desarmado. \nHaz clic derecho para eliminar el combate desarmado como opción preferida.</DrawSidearm_gizmoTooltipUnarmedPreferred>
+<!-- EN: Right click to remove forced use of unarmed combat. -->
+  <DrawSidearm_gizmoTooltipUnarmedForced>Haz clic derecho para eliminar el uso forzado del combate desarmado.</DrawSidearm_gizmoTooltipUnarmedForced>
+<!-- EN: Left click to force use of unarmed combat until end of combat. -->
+  <DrawSidearm_gizmoTooltipUnarmedWhileDrafted>Haz clic izquierdo para forzar el combate desarmado hasta el final del combate.</DrawSidearm_gizmoTooltipUnarmedWhileDrafted>
+<!-- EN: Right click to remove forced use of unarmed combat. -->
+  <DrawSidearm_gizmoTooltipUnarmedForcedWhileDrafted>Haz clic derecho para eliminar el uso forzado del combate desarmado.</DrawSidearm_gizmoTooltipUnarmedForcedWhileDrafted>
+<!-- EN: Weapon unusable -->
+  <DrawSidearm_blocked>Arma inutilizable</DrawSidearm_blocked>
+
+<!-- EN: Colonist missing sidearm -->
+  <Alert_MissingSidearm_label>Colono falta arma secundaria</Alert_MissingSidearm_label>
+<!-- EN: Colonist missing primary weapon -->
+  <Alert_MissingPrimary_label>Colono falta arma principal</Alert_MissingPrimary_label>
+
+<!-- EN: These colonists are missing one or more of their sidearms:\n\n{0} -->
+  <Alert_MissingSidearm_desc>A estos colonos les falta una o más de sus armas secundarias:\n\n{0}</Alert_MissingSidearm_desc>
+<!-- EN: These colonists are missing their primary weapon:\n\n{0} -->
+  <Alert_MissingPrimary_desc>A estos colonos les falta su arma principal:\n\n{0}</Alert_MissingPrimary_desc>
+
+<!-- EN: Using {0} will prevent use of {1}. -->
+  <SS_EquipWarning_CannotUseWithShield>Usar {0} evitará el uso de {1}.</SS_EquipWarning_CannotUseWithShield>
+<!-- EN: Equipping {0} will unequip offhand {1}. -->
+  <SS_EquipWarning_WillUnequipOffhand>Equipar {0} desequipará la secundaria {1}.</SS_EquipWarning_WillUnequipOffhand>
+<!-- EN: Cannot equip {0} as offhand weapon - need a primary weapon to pair it with first. -->
+  <SS_EquipOffandFail_NoPrimary>No se puede equipar {0} como arma secundaria - se necesita un arma principal para emparejarla primero.</SS_EquipOffandFail_NoPrimary>
+<!-- EN: Cannot equip {0} as offhand weapon - {1} is a two-handed weapon. -->
+  <SS_EquipOffandFail_PrimaryTwoHanded>No se puede equipar {0} como arma secundaria - {1} es un arma de dos manos.</SS_EquipOffandFail_PrimaryTwoHanded>
+<!-- EN: Cannot equip {0} as offhand weapon - already holding {1}. -->
+  <SS_EquipOffandFail_AlreadyHoldingShield>No se puede equipar {0} como arma secundaria - ya sostiene {1}.</SS_EquipOffandFail_AlreadyHoldingShield>
+<!-- EN: Left click on the offhand icon to equip {0} as offhand weapon. -->
+  <SS_EquipAsOffand>Haz clic izquierdo en el icono de secundaria para equipar {0} como arma secundaria.</SS_EquipAsOffand>
+<!-- EN: Left click on the offhand icon to equip {0} as offhand weapon. -->
+  <SS_CanEquipAsOffand>Haz clic izquierdo en el icono de secundaria para equipar {0} como arma secundaria.</SS_CanEquipAsOffand>
+
+<!-- Legacy -->
+<!-- EN: In distress -->
+  <DropMode_option_Panic>En peligro</DropMode_option_Panic>
+<!-- EN: In combat -->
+  <DropMode_option_PanicOrRange>En combate</DropMode_option_PanicOrRange>
+
+<!-- EN: Allow more weapons to be used as sidearms by tribals. -->
+  <SidearmsEnableNeolithicExtension_desc>Permitir que más armas sean usadas como secundarias por tribales.</SidearmsEnableNeolithicExtension_desc>
+<!-- EN: Extend neolithic sidearms -->
+  <SidearmsEnableNeolithicExtension_title>Extender armas secundarias neolíticas</SidearmsEnableNeolithicExtension_title>
+<SidearmsNeolithicExtension_desc>Armas consideradas neolíticas</SidearmsNeolithicExtension_desc>
+<!-- EN: Sidearms considered neolithic -->
+  <SidearmsNeolithicExtension_title>Armas secundarias consideradas neolíticas</SidearmsNeolithicExtension_title>
+
+</LanguageData>

@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>title->[titleBasic]</li>
+    <li>title(p=2)->[titleAuthored]</li>
+    <li>titleBasic(p=6)->[randAdjective] [subject_primary] Psycaster Guide</li>
+    <li>titleBasic(p=6)->[randNoun] and [subject_primary] Psycasting Techniques</li>
+    <li>titleBasic->The Psycaster’s Handbook: Mastering [subject_primary]</li>
+    <li>titleBasic->Essential Psycasting Skills in [subject_primary]</li>
+    <li>titleBasic->A Beginner’s Guide to [subject_primary] Psycasting</li>
+    <li>titleBasic->Advanced Psycasting Lessons: [subject_primary]</li>
+    <li>titleBasic->Harnessing the Archotech Mind: [subject_primary]</li>
+    <li>titleBasic->Psycasting Mastery: The Art of [subject_primary]</li>
+    <li>titleBasic->Unlocking Potential: Psycasting [subject_primary]</li>
+    <li>titleBasic->From Novice to Expert: Psycaster Techniques in [subject_primary]</li>
+    <li>titleAuthored->[ANYPAWN_nameIndef]’s Psycasting Guide to [subject_primary]</li>
+    <li>titleAuthored->[ANYPAWN_nameIndef]’s Manual of Psycaster Skills: [subject_primary]</li>
+    <li>titleAuthored->[ANYPAWN_nameIndef]’s Treatise on [subject_primary] Psycasting</li>
+    <li>titleAuthored->[ANYPAWN_nameIndef]’s Handbook of Psycasting: [subject_primary]</li>
+    <li>titleAuthored->[ANYPAWN_nameIndef]’s Notes on Advanced [subject_primary]</li>
+    <li>titleAuthored->[ANYPAWN_nameIndef]’s Teachings of [subject_primary] Psycasting</li>
+    <li>titleAuthored->[ANYPAWN_nameIndef]’s Insights into [subject_primary] Mastery</li>
+  -->
+  <ABooks_PsycasterGuide_Namer.rulePack.rulesStrings>
+    <li>title->[titleBasic]</li>
+    <li>title(p=2)->[titleAuthored]</li>
+    <li>titleBasic(p=6)->Guía para Psíquicos de [subject_primary] [randAdjective]</li>
+    <li>titleBasic(p=6)->[randNoun] y Técnicas de Psíquica de [subject_primary]</li>
+    <li>titleBasic->El Manual del Psíquico: Dominando [subject_primary]</li>
+    <li>titleBasic->Habilidades Psíquicas Esenciales en [subject_primary]</li>
+    <li>titleBasic->Una Guía para Principiantes de Psíquica de [subject_primary]</li>
+    <li>titleBasic->Lecciones Avanzadas de Psíquica: [subject_primary]</li>
+    <li>titleBasic->Aprovechando la Mente Arqueotécnica: [subject_primary]</li>
+    <li>titleBasic->Maestría Psíquica: El Arte de [subject_primary]</li>
+    <li>titleBasic->Desbloqueando el Potencial: Psíquica de [subject_primary]</li>
+    <li>titleBasic->De Novato a Experto: Técnicas de Psíquico en [subject_primary]</li>
+    <li>titleAuthored->Guía de Psíquica de [subject_primary] de [ANYPAWN_nameIndef]</li>
+    <li>titleAuthored->Manual de Habilidades de Psíquico de [ANYPAWN_nameIndef]: [subject_primary]</li>
+    <li>titleAuthored->Tratado sobre Psíquica de [subject_primary] de [ANYPAWN_nameIndef]</li>
+    <li>titleAuthored->Manual de Psíquica de [ANYPAWN_nameIndef]: [subject_primary]</li>
+    <li>titleAuthored->Notas sobre [subject_primary] Avanzado de [ANYPAWN_nameIndef]</li>
+    <li>titleAuthored->Enseñanzas de Psíquica de [subject_primary] de [ANYPAWN_nameIndef]</li>
+    <li>titleAuthored->Perspectivas sobre la Maestría de [subject_primary] de [ANYPAWN_nameIndef]</li>
+  </ABooks_PsycasterGuide_Namer.rulePack.rulesStrings>
+  
+</LanguageData>

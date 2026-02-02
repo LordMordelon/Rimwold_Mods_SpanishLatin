@@ -1,0 +1,139 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Pilot -->
+  <WG_GetIn>Pilotar</WG_GetIn>
+
+  <!-- EN: After leaving the frame, {0} cannot equip and dropped the weapon. -->
+  <WG_WeaponDropped>Después de dejar el armazón, {0} no puede equipar y ha soltado el arma.</WG_WeaponDropped>
+
+  <!-- EN: {0} is too bulky to pilot this Exosuit -->
+  <WG_TooBigForPilot>{0} es demasiado corpulento para pilotar este exotraje.</WG_TooBigForPilot>
+  <!-- EN: {0} is too young to pilot this Exosuit -->
+  <WG_TooYoungToPilot>{0} es demasiado joven para pilotar este exotraje.</WG_TooYoungToPilot>
+  <!-- EN: {0} doesn't wearing a proper pilot suit for this Exosuit -->
+  <WG_RequirePilotSuit>{0} no lleva un traje de piloto adecuado para este exotraje.</WG_RequirePilotSuit>
+  <!-- EN: {0} doesn't have the proper implant to pilot this Exosuit -->
+  <WG_RequireBionic>{0} no tiene el implante adecuado para pilotar este exotraje.</WG_RequireBionic>
+  <!-- EN: {0} refused to take off gear that does not fit in this Exosuit -->
+  <WG_ApparelLayerTaken>{0} se negó a quitarse el equipo que no cabe en este exotraje.</WG_ApparelLayerTaken>
+
+  <!-- EN: {0} already piloting -->
+  <WG_Disabled_AlreadyHasCoreFrame>{0} ya está pilotando</WG_Disabled_AlreadyHasCoreFrame>
+  <!-- EN: No frame at this gantry -->
+  <WG_Disabled_NoCoreFrame>No hay armazón en este pórtico</WG_Disabled_NoCoreFrame>
+  <!-- EN: No available module -->
+  <WG_NoModuleForSlot>No hay módulos disponibles</WG_NoModuleForSlot>
+
+  <!-- EN: Haul to gantry -->
+  <WG_Job_TakeToMaintenanceBay>Transportar al pórtico</WG_Job_TakeToMaintenanceBay>
+  <!-- EN: Disassemble downed Exosuit -->
+  <WG_Job_DisassembleFrame>Desmontar exotraje derribado</WG_Job_DisassembleFrame>
+  <!-- EN: Cannot carry: No available gantry -->
+  <WG_Disabled_NoMaintenanceBay>No se puede transportar: No hay pórticos disponibles</WG_Disabled_NoMaintenanceBay>
+
+  <!-- EN: Cannot use: Need Drafted -->
+  <WG_Disabled_NeedControlledAndDrafted>No se puede usar: Necesita ser reclutado</WG_Disabled_NeedControlledAndDrafted>
+  <!-- EN: Safty lock -->
+  <WG_SafetyLock>Bloqueo de seguridad</WG_SafetyLock>
+  <!-- EN: Safety device to prevent misuse -->
+  <WG_SafetyLock_Desc>Dispositivo de seguridad para evitar el mal uso</WG_SafetyLock_Desc>
+
+  <!-- EN: Emergency Eject -->
+  <WG_EmergencyEject>Expulsión de emergencia</WG_EmergencyEject>
+  <!-- EN: Activating the escape protocol, solid propellant rockets will eject pilot to a designated location within range and destroyed the frame. -->
+  <WG_EmergencyEject_Desc>Activando el protocolo de escape, los cohetes de propulsor sólido expulsarán al piloto a un lugar designado dentro del alcance y destruirán el armazón</WG_EmergencyEject_Desc>
+
+  <!-- EN: Aerial long range launch -->
+  <WG_EjectToTile>Lanzamiento aéreo de largo alcance</WG_EjectToTile>
+  <!-- EN: local range launch -->
+  <WG_EjectToTile>Lanzamiento aéreo de largo alcance</WG_EjectToTile>
+  <!-- EN: Pilot: -->
+  <WG_PilotInBuilding>Piloto:</WG_PilotInBuilding>
+  <!-- EN: Occupied -->
+  <WG_Occupied>Ocupado</WG_Occupied>
+  <!-- EN: Require Exosuit -->
+  <WG_RequireMechsuit>Requiere exotraje</WG_RequireMechsuit>
+
+  <!-- EN: Piloting Exosuit -->
+  <WG_PilotingFrame>Pilotando exotraje</WG_PilotingFrame>
+  <!-- EN: Finalized -->
+  <WG_Finalized>Finalizado</WG_Finalized>
+  <!-- EN: Occupied module slot(s): -->
+  <WG_Stats_TakingSlotsOf>Ranura de módulo ocupadas:</WG_Stats_TakingSlotsOf>
+  <!-- EN: Disabled module slot(s): -->
+  <WG_Stats_DisableSlotsOf>Ranuras de módulo deshabilitadas:</WG_Stats_DisableSlotsOf>
+
+  <!-- EN: Structural integrity -->
+  <WG_StructurePoint>Integridad estructural</WG_StructurePoint>
+  <!-- EN: The overall structure point of an Exosuit, which negates damage effects on hits to protect Exosuit pilot. But if it is lower than 25%, there is a 25% chance of penetrating the outer armor and causing damage to pilot. Once the structure value drops to zero, the Exosuit will completely disabled and trap its pilot in the destroyed wreckage. \n\nTo restore structural points, the Exosuit needs to be docked at a maintenance gantry. Colonists with crafting capabilities will be able to repair damaged core frame and sub-modules. -->
+  <WG_StructurePoint.Tooltip>La integridad estructural general de un exotraje, que anula los efectos del daño en los impactos para proteger al piloto. Pero si es inferior al 25%, hay un 25% de posibilidades de que penetre el blindaje exterior y cause daños al piloto. Una vez que el valor de la estructura cae a cero, el exotraje quedará completamente inutilizado y atrapará a su piloto en los restos destruidos.\n\nPara restaurar los puntos estructurales, el exotraje debe estar acoplado en un pórtico de mantenimiento. Los colonos con capacidades de artesanía podrán reparar el armazón del núcleo y los submódulos dañados.</WG_StructurePoint.Tooltip>
+
+  <!-- EN: Exosuit -->
+  <WG_TabMechGear>Exotraje</WG_TabMechGear>
+  <!-- EN: Click core slot to access modules in linked shelves -->
+  <WG_BayTip>Click derecho en la ranura del armazón para añadir módulos.</WG_BayTip>
+  <!-- EN: Customize -->
+  <WG_MechSolution>Personalizar</WG_MechSolution>
+  <!-- EN: [Overloaded] -->
+  <WG_Overload>[Sobrecargado]</WG_Overload>
+
+  <!-- EN: Payload capacity: -->
+  <WG_Performance>Cap. de carga:</WG_Performance>
+  <!-- EN: Structure point -->
+  <WG_OverallArmor>Pts. estructurales</WG_OverallArmor>
+
+  <!-- EN: Exosuit moving speed: -->
+  <WG_ArmorSpeed>Velocidad mov. del exotraje:</WG_ArmorSpeed>
+  <!-- EN: Dead weight: -->
+  <WG_ArmorDeadWeight>Peso muerto:</WG_ArmorDeadWeight>
+  <!-- EN: Payload capacity: -->
+  <WG_ArmorCapacity>Cap. de carga:</WG_ArmorCapacity>
+
+  <!-- EN: Module on armed -->
+  <WG_HasMechWeapon>Módulo armado</WG_HasMechWeapon>
+
+  <!-- EN: Cannot rescue: injury in Exosuit. -->
+  <WG_Disabled_VictimInWalkerCore>No se puede rescatar: herido en el exotraje.</WG_Disabled_VictimInWalkerCore>
+
+  <!-- EN: mm RHA -->
+  <WG_Sharp_CE>mm RHA</WG_Sharp_CE>
+  <!-- EN: MPA -->
+  <WG_Blunt_CE>MPA</WG_Blunt_CE>
+
+  <!-- EN: Auto repair -->
+  <WG_AutoRepair>Reparación automática</WG_AutoRepair>
+  <!-- EN: Toggles whether colonists should automatically repair damaged modules in this gantry. -->
+  <WG_AutoRepair_Desc>Activa o desactiva si los colonos deben reparar automáticamente los módulos dañados en este pórtico.</WG_AutoRepair_Desc>
+
+  <!-- EN: Available modules for this slot -->
+  <WG_AvailableModuleForThisSlot>Módulos disponibles para esta ranura</WG_AvailableModuleForThisSlot>
+  
+  <!-- EN: Change module color -->
+  <WG_ChangeModuleColor>Cambiar color del módulo</WG_ChangeModuleColor>
+
+  <!-- EN: No pilot available -->
+  <WG_NoAvailablePilot>No hay pilotos disponibles</WG_NoAvailablePilot>
+  <!-- EN: get in gantry -->
+  <WG_GetInAssigned>Entrar en la bahía</WG_GetInAssigned>
+  <!-- EN: Bay occupied -->
+  <WG_BayOccupied>Bahía ocupada</WG_BayOccupied>
+  <!-- EN: No core frame -->
+  <WG_BayHasNoCore>Sin armazón de núcleo</WG_BayHasNoCore>
+  <!-- EN: switch module weapon -->
+  <WG_ToggleModuleWeapon>Cambiar arma del módulo</WG_ToggleModuleWeapon>
+  <!-- EN: none -->
+  <WG_BareHands>Ninguno</WG_BareHands>
+  <!-- EN: Take module weapon -->
+  <WG_TakeOutModuleWeapon>Tomar arma del módulo</WG_TakeOutModuleWeapon>
+  <!-- EN: assign pilot -->
+  <WG_AssignPilot>Asignar piloto</WG_AssignPilot>
+  <!-- EN: toggle turret -->
+  <WG_CommandToggleTurret>Activar/desactivar torreta</WG_CommandToggleTurret>
+  <!-- EN: Command toggle turret -->
+  <WG_CommandToggleTurretDesc>Comando para activar/desactivar torreta</WG_CommandToggleTurretDesc>
+  <!-- EN: sub turret -->
+  <WG_SubTurret>Subtorreta</WG_SubTurret>
+  <!-- EN: a sub turret attached on this frame -->
+  <WG_SubTurretDesc>Una subtorreta acoplada a este armazón.</WG_SubTurretDesc>
+  
+</LanguageData>

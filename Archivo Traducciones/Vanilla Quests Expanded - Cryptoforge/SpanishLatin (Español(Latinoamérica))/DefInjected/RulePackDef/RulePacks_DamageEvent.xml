@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>damage_source->[cryptofreeze] froze</li>
+    <li>cryptofreeze(p=3)->cryptofreeze</li>
+    <li>cryptofreeze(p=3)->a cryptofreeze</li>
+    <li>cryptofreeze(p=3)->the cryptofreeze</li>
+    <li>cryptofreeze->cold snap</li>
+    <li>cryptofreeze->a chill</li>
+    <li>cryptofreeze->a froststorm</li>
+    <li>damaged_present->freezing</li>
+    <li>damaged_present->numbing</li>
+    <li>damaged_present->biting cold</li>
+    <li>damaged_present->frosting over</li>
+    <li>destroyed_present->shattering</li>
+    <li>destroyed_present->crystallizing</li>
+    <li>destroyed_present->frostburning</li>
+    <li>destroyed_present->encasing in ice</li>
+  -->
+  <VQE_DamageEvent_CryptoFreeze.rulePack.rulesStrings>
+    <li>damage_source->[cryptofreeze] congeló</li>
+    <li>cryptofreeze(p=3)->criptocongelación</li>
+    <li>cryptofreeze(p=3)->una criptocongelación</li>
+    <li>cryptofreeze(p=3)->la criptocongelación</li>
+    <li>cryptofreeze->ola de frío</li>
+    <li>cryptofreeze->un escalofrío</li>
+    <li>cryptofreeze->una tormenta de escarcha</li>
+    <li>damaged_present->congelando</li>
+    <li>damaged_present->entumeciendo</li>
+    <li>damaged_present->frío penetrante</li>
+    <li>damaged_present->cubriendo de escarcha</li>
+    <li>destroyed_present->destrozando</li>
+    <li>destroyed_present->cristalizando</li>
+    <li>destroyed_present->quemando por frío</li>
+    <li>destroyed_present->envolviendo en hielo</li>
+  </VQE_DamageEvent_CryptoFreeze.rulePack.rulesStrings>
+  
+</LanguageData>

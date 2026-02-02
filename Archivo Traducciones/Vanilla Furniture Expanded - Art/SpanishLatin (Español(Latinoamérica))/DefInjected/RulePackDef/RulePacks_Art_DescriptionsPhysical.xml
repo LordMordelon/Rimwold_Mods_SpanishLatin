@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>physical_description_root->This [machine] [imprints] an image of [image]. [desc_sentence_group]</li>
+    <li>machine->machine</li>
+    <li>machine->ancient device</li>
+    <li>machine->unexplainable structure</li>
+    <li>machine->archotech sculpture</li>
+    <li>imprints->conveys</li>
+    <li>imprints->imprints</li>
+    <li>imprints->makes people think of</li>
+  -->
+  <ArtDescription_Archotech.rulePack.rulesStrings>
+    <li>physical_description_root->Esta [machine] [imprints] una imagen de [image]. [desc_sentence_group]</li>
+    <li>machine->máquina</li>
+    <li>machine->reliquia antigua</li>
+    <li>machine->estructura inexplicable</li>
+    <li>machine->escultura arqueotécnica</li>
+    <li>imprints->transmite</li>
+    <li>imprints->imprime</li>
+    <li>imprints->hace pensar en</li>
+  </ArtDescription_Archotech.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>physical_description_root->This [hologram] [depicts] [image]. [desc_sentence_group]</li>
+    <li>physical_description_root->This [hologram] bears a [depiction] of [image]. [desc_sentence_group]</li>
+    <li>physical_description_root->On this [hologram] is a [depiction] of [image]. [desc_sentence_group]</li>
+    <li>hologram->hologram</li>
+    <li>hologram->light sculpture</li>
+    <li>hologram->piece</li>
+    <li>hologram->model</li>
+  -->
+  <ArtDescription_Hologram.rulePack.rulesStrings>
+    <li>physical_description_root->Este [hologram] [depicts] [image]. [desc_sentence_group]</li>
+    <li>physical_description_root->Este [hologram] lleva una [depiction] de [image]. [desc_sentence_group]</li>
+    <li>physical_description_root->En este [hologram] hay una [depiction] de [image]. [desc_sentence_group]</li>
+    <li>hologram->holograma</li>
+    <li>hologram->monumento lumínico</li>
+    <li>hologram->trabajo</li>
+    <li>hologram->modelo</li>
+  </ArtDescription_Hologram.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>physical_description_root->This [pottery] [depicts] [image]. [desc_sentence_group]</li>
+    <li>physical_description_root->This [pottery] bears a [depiction] of [image]. [desc_sentence_group]</li>
+    <li>physical_description_root->On this [pottery] is a [depiction] of [image]. [desc_sentence_group]</li>
+    <li>pottery->pottery</li>
+    <li>pottery->work</li>
+    <li>pottery->piece</li>
+    <li>pottery->set</li>
+  -->
+  <ArtDescription_Pottery.rulePack.rulesStrings>
+    <li>physical_description_root->Esta [pottery] [depicts] [image]. [desc_sentence_group]</li>
+    <li>physical_description_root->Esta [pottery] lleva una [depiction] de [image]. [desc_sentence_group]</li>
+    <li>physical_description_root->En esta [pottery] hay una [depiction] de [image]. [desc_sentence_group]</li>
+    <li>pottery->cerámica</li>
+    <li>pottery->obra</li>
+    <li>pottery->pieza</li>
+    <li>pottery->colección</li>
+  </ArtDescription_Pottery.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>physical_description_root->This [rug] [depicts] [image]. [desc_sentence_group]</li>
+    <li>physical_description_root->This [rug] bears a [depiction] of [image]. [desc_sentence_group]</li>
+    <li>physical_description_root->On this [rug] is a [depiction] of [image]. [desc_sentence_group]</li>
+    <li>rug->rug</li>
+    <li>rug->work</li>
+    <li>rug->piece</li>
+    <li>rug->textile</li>
+  -->
+  <ArtDescription_Rug.rulePack.rulesStrings>
+    <li>physical_description_root->Esta [rug] [depicts] [image]. [desc_sentence_group]</li>
+    <li>physical_description_root->Esta [rug] lleva una [depiction] de [image]. [desc_sentence_group]</li>
+    <li>physical_description_root->En esta [rug] hay una [depiction] de [image]. [desc_sentence_group]</li>
+    <li>rug->alfombra</li>
+    <li>rug->obra</li>
+    <li>rug->pieza</li>
+    <li>rug->tela</li>
+  </ArtDescription_Rug.rulePack.rulesStrings>
+  
+</LanguageData>

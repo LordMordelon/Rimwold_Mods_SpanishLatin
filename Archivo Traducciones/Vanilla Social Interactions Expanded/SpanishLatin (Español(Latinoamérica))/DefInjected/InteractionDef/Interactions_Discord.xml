@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: discord -->
+  <VSIE_Discord.label>discordia</VSIE_Discord.label>
+  <!-- EN:
+    <li>r_logentry(p=3)->[INITIATOR_nameDef] [insulted] [target]'s [PersonalCharacteristic].</li>
+    <li>r_logentry->[INITIATOR_nameDef] compared [target] to a [insultcomparison].</li>
+    <li>r_logentry->[INITIATOR_nameDef] called [target] a [insultcomparison].</li>
+    <li>target(p=4)->[RECIPIENT_nameDef]</li>
+    <li>target->[RECIPIENT_nameDef]'s [PersonFamily]</li>
+    <li>insulted(p=3)->insulted</li>
+    <li>insulted->openly insulted</li>
+    <li>insulted->loudly insulted</li>
+    <li>insulted->flagrantly insulted</li>
+    <li>insulted->directly insulted</li>
+    <li>insulted->viciously insulted</li>
+    <li>insulted->flagrantly disrespected</li>
+    <li>insulted->slandered</li>
+    <li>insulted->hurled invective about</li>
+    <li>insulted->derided</li>
+    <li>insultcomparison(p=2)->[Animal]</li>
+    <li>insultcomparison->[Enemy]</li>
+  -->
+  <VSIE_Discord.logRulesInitiator.rulesStrings>
+    <li>r_logentry(p=3)->[INITIATOR_nameDef] [insulted] la [PersonalCharacteristic] de [target].</li>
+    <li>r_logentry->[INITIATOR_nameDef] comparó a [target] con un [insultcomparison].</li>
+    <li>r_logentry->[INITIATOR_nameDef] llamó [insultcomparison] a [target].</li>
+    <li>target(p=4)->[RECIPIENT_nameDef]</li>
+    <li>target->[PersonFamily] de [RECIPIENT_nameDef]</li>
+    <li>insulted(p=3)->insultó</li>
+    <li>insulted->insultó abiertamente</li>
+    <li>insulted->insultó en voz alta</li>
+    <li>insulted->insultó flagrantemente</li>
+    <li>insulted->insultó directamente</li>
+    <li>insulted->insultó viciosamente</li>
+    <li>insulted->faltó al respeto flagrantemente a</li>
+    <li>insulted->calumnió</li>
+    <li>insulted->lanzó invectivas sobre</li>
+    <li>insulted->ridiculizó</li>
+    <li>insultcomparison(p=2)->[Animal]</li>
+    <li>insultcomparison->[Enemy]</li>
+  </VSIE_Discord.logRulesInitiator.rulesStrings>
+  
+</LanguageData>

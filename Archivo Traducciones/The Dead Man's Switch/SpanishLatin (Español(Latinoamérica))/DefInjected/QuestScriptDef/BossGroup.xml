@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>bossDefeatedLetterLabel->[escortees0_label] defeated</li>
+    <li>bossDefeatedStudyChipLetterText->[defeated][study][manufacture]</li>
+    <li>bossDefeatedLetterText->[defeated][manufacture]</li>
+    <li>defeated->The wandering [escortees0_label] has been defeated and has dropped a [reward_label]!</li>
+    <li>manufacture->\n\nIf it wasn't get destroyed during the neutralization process, you should be able to find that [reward_label] among the wreckage.</li>
+    <li>study->\n\nYou can unlock subsequent technologies by studying [reward_label].</li>
+  -->
+  <DMS_Boss.questContentRules.rulesStrings>
+    <li>bossDefeatedLetterLabel->[escortees0_label] derrotado</li>
+    <li>bossDefeatedStudyChipLetterText->[defeated][study][manufacture]</li>
+    <li>bossDefeatedLetterText->[defeated][manufacture]</li>
+    <li>defeated->¡El [escortees0_label] errante ha sido derrotado y ha soltado un [reward_label]!</li>
+    <li>manufacture>\n\nSi no fue destruido durante el proceso de neutralización, deberías poder encontrar ese [reward_label] entre los restos.</li>
+    <li>study>\n\nPuedes desbloquear tecnologías posteriores estudiando [reward_label].</li>
+  </DMS_Boss.questContentRules.rulesStrings>
+  <!-- EN:
+    <li>questDescription->bossgroup</li>
+  -->
+  <DMS_Boss.questDescriptionRules.rulesStrings>
+    <li>questDescription>grupo de jefes</li>
+  </DMS_Boss.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>questName->bossgroup</li>
+  -->
+  <DMS_Boss.questNameRules.rulesStrings>
+    <li>questName>grupo de jefes</li>
+  </DMS_Boss.questNameRules.rulesStrings>
+  <!-- EN: Wandering remnants approaching. -->
+  <DMS_Boss.root.AlertBossgroupIncoming>Restos errantes acercándose.</DMS_Boss.root.AlertBossgroupIncoming>
+  <!-- EN: unmanned units of automatroid remnants are still following their protocols, attracted by the signal you sent and approaching. -->
+  <DMS_Boss.root.AlertBossgroupIncomingDesc>unidades no tripuladas de restos de automatroides siguen sus protocolos, atraídas por la señal que enviaste y acercándose.</DMS_Boss.root.AlertBossgroupIncomingDesc>
+  <!-- EN: wandering remnants have arrived！ -->
+  <DMS_Boss.root.LetterBossgroupArrived>¡han llegado restos errantes!</DMS_Boss.root.LetterBossgroupArrived>
+  <!-- EN: Your signal has been sent out, and the attracted Automatroids will arriving in no time. Prepare to engage. -->
+  <DMS_Boss.root.LetterBossgroupSummoned>Tu señal ha sido enviada, y los automatroides atraídos llegarán en breve. Prepárate para el combate.</DMS_Boss.root.LetterBossgroupSummoned>
+  <!-- EN: Wandering remnants -->
+  <DMS_Boss.root.LetterLabelBossgroupArrived>Restos errantes</DMS_Boss.root.LetterLabelBossgroupArrived>
+  <!-- EN: The wandering remnants has been attracted -->
+  <DMS_Boss.root.LetterLabelBossgroupSummoned>Los restos errantes han sido atraídos</DMS_Boss.root.LetterLabelBossgroupSummoned>
+  
+</LanguageData>

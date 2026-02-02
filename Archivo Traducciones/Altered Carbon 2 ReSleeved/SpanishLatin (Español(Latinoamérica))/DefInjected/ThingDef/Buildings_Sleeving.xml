@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: sleeve casket -->
+  <AC_SleeveCasket.label>sarcófago de fundas</AC_SleeveCasket.label>
+  <!-- EN: A specialised, enclosed sarcophagus-like suspender, designed to maintain a sleeve in a state of suspended animation while still permitting medical access for procedures such as implant installations or bionic enhancements. -->
+  <AC_SleeveCasket.description>Un suspensor especializado y cerrado, similar a un sarcófago, diseñado para mantener una funda en estado de animación suspendida mientras permite el acceso médico para procedimientos como la instalación de implantes o mejoras biónicas.</AC_SleeveCasket.description>
+  
+  <!-- EN: sleeve gestator -->
+  <AC_SleeveGestator.label>gestador de fundas</AC_SleeveGestator.label>
+  <!-- EN: An exceedingly complex vat of nutrients that is capable of gestating sleeves, empty shells without a mind of their own. Neutroamine is used in order to grow the body through its different stages and the incubator must remain powered throughout this process. Should it lose power for extended periods, the gestation process will fail. \n\nSimple, low grade sleeves can be churned out quite quickly for minimal resources. However, more complex and sophisticated sleeves take longer and require more nutrients to ensure the body is properly formed. \n\nOnce the sleeve has finished growing, it should be extracted and cared for as it is incapable of independent movement or thought, including feeding itself. -->
+  <AC_SleeveGestator.description>Un tanque de nutrientes extremadamente complejo capaz de gestar fundas, cuerpos vacíos sin mente propia. Se utiliza neutroamina para hacer crecer el cuerpo a través de sus diferentes etapas y la incubadora debe permanecer encendida durante todo este proceso. Si pierde energía durante períodos prolongados, el proceso de gestación fallará.\n\nLas fundas simples y de baja calidad se pueden producir con bastante rapidez con recursos mínimos. Sin embargo, las fundas más complejas y sofisticadas tardan más y requieren más nutrientes para garantizar que el cuerpo se forme correctamente.\n\nUna vez que la funda ha terminado de crecer, debe ser extraída y cuidada, ya que es incapaz de movimiento o pensamiento independiente, incluyendo alimentarse por sí misma.</AC_SleeveGestator.description>
+  <!-- EN: Neutroamine -->
+  <AC_SleeveGestator.comps.CompRefuelable.fuelGizmoLabel>Neutroamina</AC_SleeveGestator.comps.CompRefuelable.fuelGizmoLabel>
+  <!-- EN: Neutroamine -->
+  <AC_SleeveGestator.comps.CompRefuelable.fuelLabel>Neutroamina</AC_SleeveGestator.comps.CompRefuelable.fuelLabel>
+  <!-- EN: Cannot grow: Needs neutroamine -->
+  <AC_SleeveGestator.comps.CompRefuelable.outOfFuelMessage>No se puede crear: Necesita neutroamina</AC_SleeveGestator.comps.CompRefuelable.outOfFuelMessage>
+
+</LanguageData>

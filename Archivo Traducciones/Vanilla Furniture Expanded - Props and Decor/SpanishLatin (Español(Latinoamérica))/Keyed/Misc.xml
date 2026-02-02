@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+
+	<!-- EN: Select prop category: -->
+  <VFE_ChoosePropCategory>Seleccionar categoría de atrezo:</VFE_ChoosePropCategory>
+	<!-- EN: Go back -->
+  <VFE_GoBack>Volver</VFE_GoBack>
+	<!-- EN: Search -->
+  <VFE_PrefabSearch>Buscar</VFE_PrefabSearch>
+	<!-- EN: Not enough silver in stockpiles. You need to have at least {0} silver to build this prop -->
+  <VFE_NoSilver>No hay suficiente plata en los almacenes. Necesitas tener al menos {0} de plata para construir este atrezo</VFE_NoSilver>
+	<!-- EN: Prop cost multiplier -->
+  <VFE_PropCostMultiplier>Multiplicador de coste de atrezo</VFE_PropCostMultiplier>
+	<!-- EN: Cost of prefabs that are bought with silver is calculated depending on their size, hit points, and cover. With this slider you can transform how much they'll cost. 0 disables all silver costs. -->
+  <VFE_PropCostMultiplierDesc>El coste de los prefabricados que se compran con plata se calcula dependiendo de su tamaño, puntos de salud y cobertura. Con este deslizador puedes transformar cuánto costarán. 0 deshabilita todos los costes de plata.</VFE_PropCostMultiplierDesc>
+	<!-- EN: Silver return multiplier -->
+  <VFE_SilverReturnMultiplier>Multiplicador de devolución de plata</VFE_SilverReturnMultiplier>
+	<!-- EN: When destroyed, props will return their purchase cost in silver. By default this will be 100% of this cost, but it can be reduced with this setting. -->
+  <VFE_SilverReturnMultiplierDesc>Al ser destruidos, los atrezos devolverán su coste de compra en plata. Por defecto será el 100% de este coste, pero se puede reducir con este ajuste.</VFE_SilverReturnMultiplierDesc>
+	<!-- EN: Reset -->
+  <VFE_Reset>Restablecer</VFE_Reset>
+	<!-- EN: Built -->
+  <VPE_NeedsMats>Construido</VPE_NeedsMats>
+	<!-- EN: This particular prop needs construction materials to be built instead of silver, and colonists must build it themselves -->
+  <VPE_NeedsMatsDesc>Este atrezo en particular necesita materiales de construcción para ser construido en lugar de plata, y los colonos deben construirlo ellos mismos</VPE_NeedsMatsDesc>
+	<!-- EN: build props -->
+  <VFEPD_BuildProps>construir atrezos</VFEPD_BuildProps>
+	<!-- EN: Open a menu to build props with a silver cost. -->
+  <VFEPD_BuildPropsDesc>Abre un menú para construir atrezos con un coste en plata.</VFEPD_BuildPropsDesc>
+	<!-- EN: Can't be built until {0} has been researched by the colony -->
+  <VFEPD_ResearchNeeded>No se puede construir hasta que la colonia haya investigado {0}</VFEPD_ResearchNeeded>
+	<!-- EN: Make copy -->
+  <VFEPD_MakeCopy>Hacer copia</VFEPD_MakeCopy>
+	<!-- EN: Make a copy of this prop. This will require you to have the silver cost of the prop available in stockpiles. -->
+  <VFEPD_MakeCopyDesc>Haz una copia de este atrezo. Esto requerirá que tengas el coste en plata del atrezo disponible en los almacenes.</VFEPD_MakeCopyDesc>
+
+	
+</LanguageData>

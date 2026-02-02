@@ -1,0 +1,171 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: electirc arc furnace -->
+  <DMSAC_ArcFurnace.label>horno de arco eléctrico</DMSAC_ArcFurnace.label>
+  <!-- EN: A heavy machinery that recycles all sort of metallic pieces into steel, will generates a lot of heat. -->
+  <DMSAC_ArcFurnace.description>Una maquinaria pesada que recicla todo tipo de piezas metálicas para convertirlas en acero, generará mucho calor.</DMSAC_ArcFurnace.description>
+  
+  <!-- EN: Process Array -->
+  <DMSAC_BandNode.label>matriz de procesos</DMSAC_BandNode.label>
+  <!-- EN: An array machine processes the received signal and directs it to a specific mechanitor. This adds 4 bandwidth to that mechanitor's total, allowing them to control more mechanoids.\n\nOnce a process array is constructed, it can be quickly tuned to a mechanitor. However, returning a band node to a different mechanitor takes significantly longer.\n\nThis Device follows the N.A.C.S. protocol so only Mechlinks with following the protocol can receieve the service. -->
+  <DMSAC_BandNode.description>Una máquina de matriz que procesa la señal recibida y la dirige a un mecanitor específico. Esto añade 4 de ancho de banda al total de ese mecanitor, permitiéndole controlar más mecanoides.\n\nUna vez que se construye una matriz de procesos, se puede sintonizar rápidamente a un mecanitor. Sin embargo, reasignar un nodo de banda a un mecanitor diferente lleva mucho más tiempo.\n\nEste dispositivo sigue el protocolo N.A.C.S., por lo que solo los mecaenlaces que sigan el protocolo pueden recibir el servicio.</DMSAC_BandNode.description>
+  
+  <!-- EN: ventilation fan -->
+  <DMSAC_Building_AirFan.label>ventilador</DMSAC_Building_AirFan.label>
+  <!-- EN: An active ventilation fan,it seems to be used to discharge heat from underground spaces. -->
+  <DMSAC_Building_AirFan.description>Un ventilador activo, parece que se utiliza para disipar el calor de los espacios subterráneos.</DMSAC_Building_AirFan.description>
+  
+  <!-- EN: Barrier Gate -->
+  <DMSAC_Building_BarrierGate.label>puerta de barrera</DMSAC_Building_BarrierGate.label>
+  <!-- EN: A barrier gate. -->
+  <DMSAC_Building_BarrierGate.description>Una puerta de barrera.</DMSAC_Building_BarrierGate.description>
+  
+  <!-- EN: large automatroid derelict -->
+  <DMSAC_Building_DeactivatedLargeMech.label>automatroide grande abandonado</DMSAC_Building_DeactivatedLargeMech.label>
+  <!-- EN: a derelict automatroid that has decommissioned due to severe aging or heavy damage. its instruments were partially removed. waiting for people to discover its remaining value. -->
+  <DMSAC_Building_DeactivatedLargeMech.description>Un automatroide abandonado que ha sido dado de baja debido a su antigüedad o a daños graves. sus instrumentos fueron parcialmente retirados. esperando a que la gente descubra su valor restante.</DMSAC_Building_DeactivatedLargeMech.description>
+  
+  <!-- EN: medium automatroid derelict -->
+  <DMSAC_Building_DeactivatedMediumMech.label>automatroide mediano abandonado</DMSAC_Building_DeactivatedMediumMech.label>
+  <!-- EN: a derelict automatroid that has decommissioned due to severe aging or heavy damage. its instruments were partially removed. waiting for people to discover its remaining value. -->
+  <DMSAC_Building_DeactivatedMediumMech.description>Un automatroide abandonado que ha sido dado de baja debido a su antigüedad o a daños graves. sus instrumentos fueron parcialmente retirados. esperando a que la gente descubra su valor restante.</DMSAC_Building_DeactivatedMediumMech.description>
+  
+  <!-- EN: small automatroid derelict -->
+  <DMSAC_Building_DeactivatedSmallMech.label>automatroide pequeño abandonado</DMSAC_Building_DeactivatedSmallMech.label>
+  <!-- EN: a derelict automatroid that has decommissioned due to severe aging or heavy damage. its instruments were partially removed. waiting for people to discover its remaining value. -->
+  <DMSAC_Building_DeactivatedSmallMech.description>Un automatroide abandonado que ha sido dado de baja debido a su antigüedad o a daños graves. sus instrumentos fueron parcialmente retirados. esperando a que la gente descubra su valor restante.</DMSAC_Building_DeactivatedSmallMech.description>
+  
+  <!-- EN: large automatroid derelict -->
+  <DMSAC_Building_DerelictMech_Alligator.label>automatroide grande abandonado</DMSAC_Building_DerelictMech_Alligator.label>
+  <!-- EN: a derelict automatroid that has decommissioned due to severe aging or heavy damage. its instruments were mostly removed. waiting for people to discover its remaining value. -->
+  <DMSAC_Building_DerelictMech_Alligator.description>Un automatroide abandonado que ha sido dado de baja debido a su antigüedad o a daños graves. la mayoría de sus instrumentos fueron retirados. esperando a que la gente descubra su valor restante.</DMSAC_Building_DerelictMech_Alligator.description>
+  
+  <!-- EN: large automatroid derelict -->
+  <DMSAC_Building_DerelictMech_Large.label>automatroide grande abandonado</DMSAC_Building_DerelictMech_Large.label>
+  <!-- EN: a derelict automatroid that has decommissioned due to severe aging or heavy damage. its instruments were mostly removed. waiting for people to discover its remaining value. -->
+  <DMSAC_Building_DerelictMech_Large.description>Un automatroide abandonado que ha sido dado de baja debido a su antigüedad o a daños graves. la mayoría de sus instrumentos fueron retirados. esperando a que la gente descubra su valor restante.</DMSAC_Building_DerelictMech_Large.description>
+  
+  <!-- EN: medium automatroid derelict -->
+  <DMSAC_Building_DerelictMech_Medium.label>automatroide mediano abandonado</DMSAC_Building_DerelictMech_Medium.label>
+  <!-- EN: a derelict automatroid that has decommissioned due to severe aging or heavy damage. its instruments were mostly removed. waiting for people to discover its remaining value. -->
+  <DMSAC_Building_DerelictMech_Medium.description>Un automatroide abandonado que ha sido dado de baja debido a su antigüedad o a daños graves. la mayoría de sus instrumentos fueron retirados. esperando a que la gente descubra su valor restante.</DMSAC_Building_DerelictMech_Medium.description>
+  
+  <!-- EN: small automatroid derelict -->
+  <DMSAC_Building_DerelictMech_Small.label>automatroide pequeño abandonado</DMSAC_Building_DerelictMech_Small.label>
+  <!-- EN: a derelict automatroid that has decommissioned due to severe aging or heavy damage. its instruments were mostly removed. waiting for people to discover its remaining value. -->
+  <DMSAC_Building_DerelictMech_Small.description>Un automatroide abandonado que ha sido dado de baja debido a su antigüedad o a daños graves. la mayoría de sus instrumentos fueron retirados. esperando a que la gente descubra su valor restante.</DMSAC_Building_DerelictMech_Small.description>
+  
+  <!-- EN: fuel barrel -->
+  <DMSAC_Building_FuelBarrel.label>barril de combustible</DMSAC_Building_FuelBarrel.label>
+  <!-- EN: A barrel filled with fuel. -->
+  <DMSAC_Building_FuelBarrel.description>Un barril lleno de combustible.</DMSAC_Building_FuelBarrel.description>
+  
+  <!-- EN: large inactivated automatroid -->
+  <DMSAC_Building_InactivatedLargeMech.label>automatroide grande inactivado</DMSAC_Building_InactivatedLargeMech.label>
+  <!-- EN: an automatroid that has been completely shut down for maintenance, with most of its parts intact and ready for use. -->
+  <DMSAC_Building_InactivatedLargeMech.description>Un automatroide que ha sido completamente apagado para mantenimiento, con la mayoría de sus partes intactas y listas para usar.</DMSAC_Building_InactivatedLargeMech.description>
+  
+  <!-- EN: medium inactivated automatroid -->
+  <DMSAC_Building_InactivatedMediumMech.label>automatroide mediano inactivado</DMSAC_Building_InactivatedMediumMech.label>
+  <!-- EN: an automatroid that has been completely shut down for maintenance, with most of its parts intact and ready for use. -->
+  <DMSAC_Building_InactivatedMediumMech.description>Un automatroide que ha sido completamente apagado para mantenimiento, con la mayoría de sus partes intactas y listas para usar.</DMSAC_Building_InactivatedMediumMech.description>
+  
+  <!-- EN: small inactivated automatroid -->
+  <DMSAC_Building_InactivatedSmallMech.label>automatroide pequeño inactivado</DMSAC_Building_InactivatedSmallMech.label>
+  <!-- EN: an automatroid that has been completely shut down for maintenance, with most of its parts intact and ready for use. -->
+  <DMSAC_Building_InactivatedSmallMech.description>Un automatroide que ha sido completamente apagado para mantenimiento, con la mayoría de sus partes intactas y listas para usar.</DMSAC_Building_InactivatedSmallMech.description>
+  
+  <!-- EN: lift shaft -->
+  <DMSAC_Building_LiftShaft.label>ascensor de pozo</DMSAC_Building_LiftShaft.label>
+  <!-- EN: A large elevator shaft leads to the underground area, large enough to transport vehicles, but apparently there is no way to activate it. -->
+  <DMSAC_Building_LiftShaft.description>Un gran ascensor de pozo que conduce a la zona subterránea, lo suficientemente grande como para transportar vehículos, pero aparentemente no hay forma de activarlo.</DMSAC_Building_LiftShaft.description>
+  
+  <!-- EN: lift Shaft -->
+  <DMSAC_Building_LiftShaft_Bottom.label>ascensor de pozo</DMSAC_Building_LiftShaft_Bottom.label>
+  <!-- EN: A large elevator shaft leads to the underground area, large enough to transport vehicles, but apparently there is no way to activate it. -->
+  <DMSAC_Building_LiftShaft_Bottom.description>Un gran ascensor de pozo que conduce a la zona subterránea, lo suficientemente grande como para transportar vehículos, pero aparentemente no hay forma de activarlo.</DMSAC_Building_LiftShaft_Bottom.description>
+  
+  <!-- EN: lift Shaft -->
+  <DMSAC_Building_LiftShaft_Bottom_B.label>ascensor de pozo</DMSAC_Building_LiftShaft_Bottom_B.label>
+  <!-- EN: A large elevator shaft leads to the underground area, large enough to transport vehicles, but apparently there is no way to activate it. -->
+  <DMSAC_Building_LiftShaft_Bottom_B.description>Un gran ascensor de pozo que conduce a la zona subterránea, lo suficientemente grande como para transportar vehículos, pero aparentemente no hay forma de activarlo.</DMSAC_Building_LiftShaft_Bottom_B.description>
+  
+  <!-- EN: road barrier -->
+  <DMSAC_Building_RoadBlock.label>barrera de carretera</DMSAC_Building_RoadBlock.label>
+  <!-- EN: A road barrier designed to block vehicle, it also provides cover on gun fighting. -->
+  <DMSAC_Building_RoadBlock.description>Una barrera de carretera diseñada para bloquear vehículos, también proporciona cobertura en tiroteos.</DMSAC_Building_RoadBlock.description>
+  
+  <!-- EN: rolling door -->
+  <DMSAC_Building_RollingDoor.label>puerta enrollable</DMSAC_Building_RollingDoor.label>
+  <!-- EN: a locked rolling door. -->
+  <DMSAC_Building_RollingDoor.description>Una puerta enrollable cerrada.</DMSAC_Building_RollingDoor.description>
+  
+  <!-- EN: cargo container -->
+  <DMSAC_Cargo.label>contenedor de carga</DMSAC_Cargo.label>
+  <!-- EN: A standard issue container containing military supplies. -->
+  <DMSAC_Cargo.description>Un contenedor estándar que contiene suministros militares.</DMSAC_Cargo.description>
+  
+  <!-- EN: military crate -->
+  <DMSAC_Crate.label>caja militar</DMSAC_Crate.label>
+  <!-- EN: A standard issue equipmet crate containing military supplies.These equipment and boxes seemed to have been produced recently and sent to various locations along with the missions. -->
+  <DMSAC_Crate.description>Una caja de equipamiento estándar que contiene suministros militares. Este equipo y cajas parecen haber sido producidos recientemente y enviados a varios lugares junto con las misiones.</DMSAC_Crate.description>
+  
+  <!-- EN: facility floor lamp -->
+  <DMSAC_FloorLamp.label>lámpara de pie de instalación</DMSAC_FloorLamp.label>
+  <!-- EN: An emergency floor light with built-in energy source that can illuminate a small area. -->
+  <DMSAC_FloorLamp.description>Una luz de emergencia de pie con fuente de energía incorporada que puede iluminar un área pequeña.</DMSAC_FloorLamp.description>
+  
+  <!-- EN: Centralized Command Core -->
+  <DMSAC_GestaltEngine.label>núcleo de comando centralizado</DMSAC_GestaltEngine.label>
+  <!-- EN: A command core used to coordinate large-scaled automatroid squads, it have the ability to independently command and support an entire combined combat brigade without any further assist. -->
+  <DMSAC_GestaltEngine.description>Un núcleo de comando utilizado para coordinar escuadrones de automatroides a gran escala, tiene la capacidad de comandar y apoyar de forma independiente a toda una brigada de combate combinada sin ninguna ayuda adicional.</DMSAC_GestaltEngine.description>
+  <!-- EN: disable local command -->
+  <DMSAC_GestaltEngine.comps.CompUsable.useLabel>desactivar comando local</DMSAC_GestaltEngine.comps.CompUsable.useLabel>
+  
+  <!-- EN: pyrolysis plant -->
+  <DMSAC_HeavyChem.label>planta de pirólisis</DMSAC_HeavyChem.label>
+  <!-- EN: A heavy machinery that recycles all sort of organic pieces into chemfuel, will generates a lot of heat. -->
+  <DMSAC_HeavyChem.description>Una maquinaria pesada que recicla todo tipo de piezas orgánicas para convertirlas en quimbustible, generará mucho calor.</DMSAC_HeavyChem.description>
+  
+  <!-- EN: facility dormer -->
+  <DMSAC_Hole_Empty.label>tragaluz de instalación</DMSAC_Hole_Empty.label>
+  <!-- EN: A structure flooring with a opened hole, commonly found in underground facilities. -->
+  <DMSAC_Hole_Empty.description>Un piso estructural con un agujero abierto, comúnmente encontrado en instalaciones subterráneas.</DMSAC_Hole_Empty.description>
+  
+  <!-- EN: facility power generator -->
+  <DMSAC_Hole_PowerGen.label>generador de energía de instalación</DMSAC_Hole_PowerGen.label>
+  <!-- EN: A large power generation facility half buried in the structure, commonly found in underground facilities. -->
+  <DMSAC_Hole_PowerGen.description>Una gran instalación de generación de energía semienterrada en la estructura, comúnmente encontrada en instalaciones subterráneas.</DMSAC_Hole_PowerGen.description>
+  
+  <!-- EN: military parcel -->
+  <DMSAC_PackCrate.label>paquete militar</DMSAC_PackCrate.label>
+  <!-- EN: A Standard issue parcel containing supplies for military logistics. These parcel seemed to have been produced recently and sent to various locations. -->
+  <DMSAC_PackCrate.description>Un paquete estándar que contiene suministros para la logística militar. Estos paquetes parecen haber sido producidos recientemente y enviados a varios lugares.</DMSAC_PackCrate.description>
+  
+  <!-- EN: facility door -->
+  <DMSAC_RCdoor.label>puerta de instalación</DMSAC_RCdoor.label>
+  <!-- EN: Divides rooms. allows people to move through the door without slowing down. -->
+  <DMSAC_RCdoor.description>Divide habitaciones. permite a las personas moverse a través de la puerta sin reducir la velocidad.</DMSAC_RCdoor.description>
+  
+  <!-- EN: facility wall -->
+  <DMSAC_Wall_A.label>muro de instalación</DMSAC_Wall_A.label>
+  <!-- EN: A structure with waterproof layers, commonly found in underground facilities. -->
+  <DMSAC_Wall_A.description>Una estructura con capas impermeables, comúnmente encontrada en instalaciones subterráneas.</DMSAC_Wall_A.description>
+  
+  <!-- EN: facility wall -->
+  <DMSAC_Wall_B.label>muro de instalación</DMSAC_Wall_B.label>
+  <!-- EN: A structure with waterproof layers, commonly found in underground facilities. -->
+  <DMSAC_Wall_B.description>Una estructura con capas impermeables, comúnmente encontrada en instalaciones subterráneas.</DMSAC_Wall_B.description>
+  
+  <!-- EN: facility wall -->
+  <DMSAC_Wall_C.label>muro de instalación</DMSAC_Wall_C.label>
+  <!-- EN: A structure with waterproof layers, commonly found in underground facilities. -->
+  <DMSAC_Wall_C.description>Una estructura con capas impermeables, comúnmente encontrada en instalaciones subterráneas.</DMSAC_Wall_C.description>
+  
+  <!-- EN: facility wall lamp -->
+  <DMSAC_WallLamp.label>lámpara de pared de instalación</DMSAC_WallLamp.label>
+  <!-- EN: A wall-mounted lamp that lights an area using electricity. It is less powerful than a standing lamp, but can be mounted on walls. -->
+  <DMSAC_WallLamp.description>Una lámpara de pared que ilumina un área usando electricidad. Es menos potente que una lámpara de pie, pero se puede montar en las paredes.</DMSAC_WallLamp.description>
+  
+</LanguageData>

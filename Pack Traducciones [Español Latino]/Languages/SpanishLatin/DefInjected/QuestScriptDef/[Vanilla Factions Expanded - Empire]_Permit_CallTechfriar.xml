@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <VFEE_Permit_CallTechfriar.questDescriptionAndNameRules.rulesStrings>
+    <li>questName-&gt;Tecnofraile</li>
+    <li>questDescription-&gt;</li>
+  </VFEE_Permit_CallTechfriar.questDescriptionAndNameRules.rulesStrings>
+  <VFEE_Permit_CallTechfriar.root.nodes.Letter.label.slateRef>Llegada del tecnofraile</VFEE_Permit_CallTechfriar.root.nodes.Letter.label.slateRef>
+  <VFEE_Permit_CallTechfriar.root.nodes.Letter.text.slateRef>El tecnofraile de [permitFaction_name] ha llegado. Un transbordador vendrá a recogerlo en [techfriarDurationDays] días.</VFEE_Permit_CallTechfriar.root.nodes.Letter.text.slateRef>
+  <VFEE_Permit_CallTechfriar.root.nodes.ShuttleDelay.node.nodes.InspectString.inspectString.slateRef>Debería partir en el transbordador</VFEE_Permit_CallTechfriar.root.nodes.ShuttleDelay.node.nodes.InspectString.inspectString.slateRef>
+  <VFEE_Permit_CallTechfriar.root.nodes.ShuttleDelay.node.nodes.Letter.label.slateRef>Llegada del transbordador</VFEE_Permit_CallTechfriar.root.nodes.ShuttleDelay.node.nodes.Letter.label.slateRef>
+  <VFEE_Permit_CallTechfriar.root.nodes.ShuttleDelay.node.nodes.Letter.text.slateRef>Un transbordador ha llegado para recoger al tecnofraile de [permitFaction_name].</VFEE_Permit_CallTechfriar.root.nodes.ShuttleDelay.node.nodes.Letter.text.slateRef>
+  <VFEE_Permit_CallTechfriar.root.nodes.techfriarDestroyed.node.nodes.Letter.label.slateRef>Trabajador muerto: {SUBJECT_definite}</VFEE_Permit_CallTechfriar.root.nodes.techfriarDestroyed.node.nodes.Letter.label.slateRef>
+  <VFEE_Permit_CallTechfriar.root.nodes.techfriarDestroyed.node.nodes.Letter.text.slateRef>Un trabajador enviado por [permitFaction_name] ha muerto. Tu buena voluntad con [permitFaction_name] ha bajado en [goodwillPenaltyPawn].</VFEE_Permit_CallTechfriar.root.nodes.techfriarDestroyed.node.nodes.Letter.text.slateRef>
+</LanguageData>

@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: casting relay -->
+  <AC_CastingRelay.label>relé de transmisión</AC_CastingRelay.label>
+  <!-- EN: A needlecasting range amplifier. Casting relays must be connected to a neural matrix to function. This will extend the needlecasting range by 5 world tiles allowing for operation further away from a neural matrix. -->
+  <AC_CastingRelay.description>Un amplificador de rango de transmisión remota. Los relés de transmisión deben estar conectados a una matriz neural para funcionar. Esto extenderá el rango de transmisión remota en 5 casillas del mundo, permitiendo operar más lejos de una matriz neural.</AC_CastingRelay.description>
+  
+  <!-- EN: neural connector -->
+  <AC_NeuralConnector.label>conector neural</AC_NeuralConnector.label>
+  <!-- EN: A sleek, ergonomic chair that allows for interfacing with an active neural stack that is inside a sleeve. Requires being connected to a neural matrix to work. -->
+  <AC_NeuralConnector.description>Una silla elegante y ergonómica que permite interactuar con una pila neural activa que se encuentra dentro de una funda. Requiere estar conectado a una matriz neural para funcionar.</AC_NeuralConnector.description>
+  
+  <!-- EN: neural editor -->
+  <AC_NeuralEditor.label>editor neural</AC_NeuralEditor.label>
+  <!-- EN: A sophisticated workbench that connects to a neural matrix and allows the user to interface with it. Allows the modification of neural stacks and other complex tasks, like resetting biocoding. -->
+  <AC_NeuralEditor.description>Una sofisticada mesa de trabajo que se conecta a una matriz neural y permite al usuario interactuar con ella. Permite la modificación de pilas neurales y otras tareas complejas, como restablecer la biocodificación.</AC_NeuralEditor.description>
+  
+  <!-- EN: neural matrix -->
+  <AC_NeuralMatrix.label>matriz neural</AC_NeuralMatrix.label>
+  <!-- EN: A highly advanced and complex quantum computing array, designed for a multitude of tasks, including the storage and management natural stacks. Neural Stacks stored inside can needlecast and remotely control any sleeve with a remote stack installed.\n\nA vast number of buildings can be connected to it to expand a neural matrix's functionality. -->
+  <AC_NeuralMatrix.description>Un complejo y avanzado conjunto de computación cuántica, diseñado para una multitud de tareas, incluyendo el almacenamiento y la gestión de pilas neurales. Las pilas neurales almacenadas en su interior pueden realizar transmisiones remotas y controlar a distancia cualquier funda con una pila remota instalada.\n\nSe le puede conectar un gran número de edificios para ampliar la funcionalidad de una matriz neural.</AC_NeuralMatrix.description>
+  
+  <!-- EN: stack cache -->
+  <AC_StackCache.label>banco de pilas</AC_StackCache.label>
+  <!-- EN: This building can store stacks safely. When powered and connected to a neural matrix, it allows stored stacks to needlecast and slowly mend corruption. -->
+  <AC_StackCache.description>Este edificio puede almacenar pilas de forma segura. Cuando está encendido y conectado a una matriz neural, permite que las pilas almacenadas realicen transmisiones remotas y reparen lentamente la corrupción.</AC_StackCache.description>
+  
+</LanguageData>

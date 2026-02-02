@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>questDescription-> [asker_nameFull], a [asker_royalTitleInCurrentFaction] of the [asker_faction_name] has informed us about a deserter hideout near [colonyName].\nDeserters are a group of ex-imperial soldiers and nobility who have decided to split away from the Great Hierarchy and adapt to the new, post-shattering life. They are considered public enemy number one.\nApparently, [siteFaction_pawnsPlural] have been raiding imperial convoys.\n[asker_nameDef] is planning an aerial assault on the hideout, which is guarded by [enemiesCount] [enemiesLabel]. [asker_pronoun] wants you to provide [requiredPawnCount] soldiers to carry out the attack.\n\n[asker_pronoun] will send a shuttle to pick up your fighters, bring them to the attack site, and take them home afterward. They will be fed and medically tended en-route.\n\nOnce the attack begins, you must defeat all enemies and turrets within [timeoutTime_duration].\n\n[asker_nameDef] will send [alliesCount] of their personal guards and place them under your command. [asker_pronoun] will not be unhappy if they are killed.\n		</li>
+  -->
+  <VFEE_DeserterHideout.questDescriptionRules.rulesStrings>
+    <li>questDescription-> [asker_nameFull], un [asker_royalTitleInCurrentFaction] de [asker_faction_name] nos ha informado sobre un escondite de desertores cerca de [colonyName].\nLos desertores son un grupo de ex soldados imperiales y nobleza que han decidido separarse de la Gran Jerarquía y adaptarse a la nueva vida posterior al desmoronamiento. Son considerados el enemigo público número uno.\nAparentemente, [siteFaction_pawnsPlural] han estado asaltando convoyes imperiales.\n[asker_nameDef] está planeando un asalto aéreo al escondite, que está custodiado por [enemiesCount] [enemiesLabel]. [asker_pronoun] quiere que proporciones [requiredPawnCount] soldados para llevar a cabo el ataque.\n\n[asker_pronoun] enviará un transbordador para recoger a tus combatientes, llevarlos al sitio del ataque y traerlos a casa después. Serán alimentados y atendidos médicamente en el camino.\n\nUna vez que comience el ataque, debes derrotar a todos los enemigos y torretas dentro de [timeoutTime_duration].\n\n[asker_nameDef] enviará [alliesCount] de sus guardias personales y los pondrá bajo tu mando. [asker_pronoun] no se molestará si mueren.\n</li>
+  </VFEE_DeserterHideout.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>questName->The [bandit] [camp]</li>
+    <li>questName->[bandit] [camp]</li>
+    <li>questName->[asker_nameDef] and the [camp]</li>
+    <li>camp->Camp</li>
+    <li>camp->Outpost</li>
+    <li>camp->Lair</li>
+    <li>camp->Encampment</li>
+    <li>bandit->Bandit</li>
+    <li>bandit->Raider</li>
+    <li>bandit->Outlaw</li>
+    <li>bandit->Desperado</li>
+    <li>bandit->Fugitive</li>
+    <li>bandit->Marauder</li>
+    <li>bandit->Robber</li>
+    <li>bandit->Brigand</li>
+  -->
+  <VFEE_DeserterHideout.questNameRules.rulesStrings>
+    <li>questName->El [camp] [bandit]</li>
+    <li>questName->[camp] [bandit]</li>
+    <li>questName->[asker_nameDef] y el [camp]</li>
+    <li>camp->Campamento</li>
+    <li>camp->Puesto de avanzada</li>
+    <li>camp->Guarida</li>
+    <li>camp->Campamento</li>
+    <li>bandit->Bandido</li>
+    <li>bandit->Asaltante</li>
+    <li>bandit->Forajido</li>
+    <li>bandit->Desperado</li>
+    <li>bandit->Fugitivo</li>
+    <li>bandit->Merodeador</li>
+    <li>bandit->Ladrón</li>
+    <li>bandit->Bandolero</li>
+  </VFEE_DeserterHideout.questNameRules.rulesStrings>
+  
+</LanguageData>

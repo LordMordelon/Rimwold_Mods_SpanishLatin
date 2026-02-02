@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: tear gas turret launcher -->
+  <Gun_TearTurret.label>lanzador de gas lacrimógeno</Gun_TearTurret.label>
+  <!-- EN: A simple automatic gun made to be mounted on a turret. -->
+  <Gun_TearTurret.description>Un arma automática simple hecha para ser montada en una torreta.</Gun_TearTurret.description>
+  <!-- EN: tear gas turret launcher -->
+  <Gun_TearTurret.verbs.Verb_Shoot.label>lanzador de gas lacrimógeno</Gun_TearTurret.verbs.Verb_Shoot.label>
+  
+  <!-- EN: tear gas turret -->
+  <Turret_TearTurret.label>torreta de gas lacrimógeno</Turret_TearTurret.label>
+  <!-- EN: A modern multi-shell launcher loaded with tear gas canisters. Often setup by riot police across almost all urbworlds. -->
+  <Turret_TearTurret.description>Un lanzador moderno de múltiples proyectiles cargado con botes de gas lacrimógeno. A menudo instalado por la policía antidisturbios en casi todos los mundos urbanos.</Turret_TearTurret.description>
+  <!-- EN: Gas remaining -->
+  <Turret_TearTurret.comps.CompRefuelable.fuelGizmoLabel>Gas restante</Turret_TearTurret.comps.CompRefuelable.fuelGizmoLabel>
+  <!-- EN: Shots until empty -->
+  <Turret_TearTurret.comps.CompRefuelable.fuelLabel>Disparos hasta vaciarse</Turret_TearTurret.comps.CompRefuelable.fuelLabel>
+  <!-- EN: Needs more gas -->
+  <Turret_TearTurret.comps.CompRefuelable.outOfFuelMessage>Necesita más gas</Turret_TearTurret.comps.CompRefuelable.outOfFuelMessage>
+  
+  <!-- EN: tear gas grenade -->
+  <VWENL_Projectile_TearGasGrenadeTurret.label>granada de gas lacrimógeno</VWENL_Projectile_TearGasGrenadeTurret.label>
+  
+</LanguageData>

@@ -1,0 +1,38 @@
+﻿﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: consumed animal hemogen -->
+  <VRE_ConsumedAnimalHemogen.label>hemógeno animal consumido</VRE_ConsumedAnimalHemogen.label>
+  <!-- EN: Animal hemogen increases regeneration and combat capabilities of the user, but greatly decreases the capability to communicate with others. -->
+  <VRE_ConsumedAnimalHemogen.description>El hemógeno animal aumenta la regeneración y las capacidades de combate del usuario, pero disminuye enormemente la capacidad de comunicarse con los demás.</VRE_ConsumedAnimalHemogen.description>
+  
+  <!-- EN: consumed corpse hemogen -->
+  <VRE_ConsumedCorpseHemogen.label>hemógeno de cadáver consumido</VRE_ConsumedCorpseHemogen.label>
+  <!-- EN: Corpse hemogen greatly weakens the carrier of this hemogen type, but increases consciousness and blood filtration significantly. -->
+  <VRE_ConsumedCorpseHemogen.description>El hemógeno de cadáver debilita enormemente al portador de este tipo de hemógeno, pero aumenta significativamente la consciencia y la filtración de sangre.</VRE_ConsumedCorpseHemogen.description>
+  
+  <!-- EN: consumed sanguophage hemogen -->
+  <VRE_ConsumedSanguophageHemogen.label>hemógeno de sanguífago consumido</VRE_ConsumedSanguophageHemogen.label>
+  <!-- EN: Sanguophage hemogen gives the carrier a powerful boost to all capacities. -->
+  <VRE_ConsumedSanguophageHemogen.description>El hemógeno de sanguífago otorga al portador un poderoso impulso a todas las capacidades.</VRE_ConsumedSanguophageHemogen.description>
+  
+  <!-- EN: draincasket sickness -->
+  <VRE_DraincasketSickness.label>enfermedad del ataúd de drenaje</VRE_DraincasketSickness.label>
+  <!-- EN: After-effects of using a draincasket. Symptoms of draincasket sickness typically include localized pain, swelling, and redness at the site of the draincasket tubes' connection. Victims may experience increasing fatigue, weakness, and a general feeling of malaise. -->
+  <VRE_DraincasketSickness.description>Secuelas del uso de un ataúd de drenaje. Los síntomas de la enfermedad del ataúd de drenaje suelen incluir dolor localizado, hinchazón y enrojecimiento en el sitio de conexión de los tubos del ataúd. Las víctimas pueden experimentar fatiga creciente, debilidad y una sensación general de malestar.</VRE_DraincasketSickness.description>
+  <!-- EN: After-effects of using a draincasket. Victims may experience increasing fatigue, weakness, and a general feeling of malaise. -->
+  <VRE_DraincasketSickness.descriptionShort>Secuelas del uso de un ataúd de drenaje. Las víctimas pueden experimentar fatiga creciente, debilidad y una sensación general de malestar.</VRE_DraincasketSickness.descriptionShort>
+  
+  <!-- EN: dangerous UV sensitivity -->
+  <VRE_Sensitivity_Dangerous_Hediff.label>sensibilidad UV peligrosa</VRE_Sensitivity_Dangerous_Hediff.label>
+  <!-- EN: This is a hidden hediff that modifies the pawn's Sight depending on sunlight. -->
+  <VRE_Sensitivity_Dangerous_Hediff.description>Este es un hediff oculto que modifica la Vista del peón dependiendo de la luz solar.</VRE_Sensitivity_Dangerous_Hediff.description>
+  
+  <!-- EN: sharp talons -->
+  <VRE_SharpTalons.label>garras afiladas</VRE_SharpTalons.label>
+  <!-- EN: Sharp talons which can be used in melee combat. -->
+  <VRE_SharpTalons.description>Garras afiladas que se pueden usar en combate cuerpo a cuerpo.</VRE_SharpTalons.description>
+  <!-- EN: talons -->
+  <VRE_SharpTalons.comps.HediffComp_VerbGiver.tools.talons.label>garras</VRE_SharpTalons.comps.HediffComp_VerbGiver.tools.talons.label>
+  
+</LanguageData>

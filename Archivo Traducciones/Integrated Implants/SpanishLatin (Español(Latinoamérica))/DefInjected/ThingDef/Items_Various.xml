@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: dreadmeld core -->
+  <DreadmeldCore.label>núcleo de carnifusión</DreadmeldCore.label>
+  <!-- EN: A chunk of dark archotechnology salvaged from the remains of a dreadmeld. Fetid flesh slowly oozes from it's lattice of black metal. Meat seems to writhe and blister in it's presence. -->
+  <DreadmeldCore.description>Un fragmento de arqueotecnología oscura rescatado de los restos de una carnifusión. La carne podrida gotea lentamente desde su entramado de metal negro. La carne parece retorcerse y ampollarse en su presencia.</DreadmeldCore.description>
+  <!-- EN: Smash {0_label} -->
+  <DreadmeldCore.comps.CompUsable.useLabel>Aplastar {0_label}</DreadmeldCore.comps.CompUsable.useLabel>
+  <!-- EN: {PAWN_nameDef} smashed the dreadmeld core. -->
+  <DreadmeldCore.comps.CompUsable.useMessage>{PAWN_nameDef} aplastó el núcleo de carnifusión.</DreadmeldCore.comps.CompUsable.useMessage>
+  <!-- EN: Smash the dreadmeld core. -->
+  <DreadmeldCore.comps.CompRevenantSpine.activateDescString>Aplastar el núcleo de carnifusión.</DreadmeldCore.comps.CompRevenantSpine.activateDescString>
+  <!-- EN: Smash... -->
+  <DreadmeldCore.comps.CompRevenantSpine.activateLabelString>Aplastar...</DreadmeldCore.comps.CompRevenantSpine.activateLabelString>
+  <!-- EN: smashing dreadmeld core -->
+  <DreadmeldCore.comps.CompRevenantSpine.activatingStringPending>aplastando el núcleo de carnifusión</DreadmeldCore.comps.CompRevenantSpine.activatingStringPending>
+  <!-- EN: Choose who should do this -->
+  <DreadmeldCore.comps.CompRevenantSpine.guiLabelString>Elegir quién debe hacer esto</DreadmeldCore.comps.CompRevenantSpine.guiLabelString>
+  
+  <!-- EN: nociosphere emitter -->
+  <NociosphereEmitter.label>emisor de nociosfera</NociosphereEmitter.label>
+  <!-- EN: A chunk of dark archotechnology salvaged from the wreck of a nociosphere. Strange lightning flickers and refracts within it's cracked crystalline core, causing a sensation of pins and needles to those nearby. -->
+  <NociosphereEmitter.description>Un fragmento de arqueotecnología oscura rescatado de los restos de una nociosfera. Extraños rayos parpadean y se refractan dentro de su núcleo cristalino agrietado, causando una sensación de hormigueo a los que están cerca.</NociosphereEmitter.description>
+  <!-- EN: Smash {0_label} -->
+  <NociosphereEmitter.comps.CompUsable.useLabel>Aplastar {0_label}</NociosphereEmitter.comps.CompUsable.useLabel>
+  <!-- EN: {PAWN_nameDef} smashed the nociosphere emitter. -->
+  <NociosphereEmitter.comps.CompUsable.useMessage>{PAWN_nameDef} aplastó el emisor de nociosfera.</NociosphereEmitter.comps.CompUsable.useMessage>
+  <!-- EN: Smash the nociosphere emitter. -->
+  <NociosphereEmitter.comps.CompRevenantSpine.activateDescString>Aplastar el emisor de nociosfera.</NociosphereEmitter.comps.CompRevenantSpine.activateDescString>
+  <!-- EN: Smash... -->
+  <NociosphereEmitter.comps.CompRevenantSpine.activateLabelString>Aplastar...</NociosphereEmitter.comps.CompRevenantSpine.activateLabelString>
+  <!-- EN: smashing nociosphere emitter -->
+  <NociosphereEmitter.comps.CompRevenantSpine.activatingStringPending>aplastando el emisor de nociosfera</NociosphereEmitter.comps.CompRevenantSpine.activatingStringPending>
+  <!-- EN: Choose who should do this -->
+  <NociosphereEmitter.comps.CompRevenantSpine.guiLabelString>Elegir quién debe hacer esto</NociosphereEmitter.comps.CompRevenantSpine.guiLabelString>
+  
+  <!-- EN: noctolith sensor -->
+  <NoctolithSensor.label>sensor de noctol</NoctolithSensor.label>
+  <!-- EN: A chunk of dark archotechnology salvaged from the wreck of a noctolith. The sickly yellow lens set into it's sleek, oily surface seems to reflect a cruel mockery of the world, rendered in jagged, black metal -->
+  <NoctolithSensor.description>Un fragmento de arqueotecnología oscura rescatado de los restos de un noctol. La lente amarilla enfermiza incrustada en su superficie aceitosa y elegante parece reflejar una cruel burla del mundo, representada en metal negro y dentado.</NoctolithSensor.description>
+  <!-- EN: Smash {0_label} -->
+  <NoctolithSensor.comps.CompUsable.useLabel>Aplastar {0_label}</NoctolithSensor.comps.CompUsable.useLabel>
+  <!-- EN: {PAWN_nameDef} smashed the noctolith sensor. -->
+  <NoctolithSensor.comps.CompUsable.useMessage>{PAWN_nameDef} aplastó el sensor de noctol.</NoctolithSensor.comps.CompUsable.useMessage>
+  <!-- EN: Smash the noctolith sensor. -->
+  <NoctolithSensor.comps.CompRevenantSpine.activateDescString>Aplastar el sensor de noctol.</NoctolithSensor.comps.CompRevenantSpine.activateDescString>
+  <!-- EN: Smash... -->
+  <NoctolithSensor.comps.CompRevenantSpine.activateLabelString>Aplastar...</NoctolithSensor.comps.CompRevenantSpine.activateLabelString>
+  <!-- EN: smashing noctolith sensor -->
+  <NoctolithSensor.comps.CompRevenantSpine.activatingStringPending>aplastando el sensor de noctol</NoctolithSensor.comps.CompRevenantSpine.activatingStringPending>
+  <!-- EN: Choose who should do this -->
+  <NoctolithSensor.comps.CompRevenantSpine.guiLabelString>Elegir quién debe hacer esto</NoctolithSensor.comps.CompRevenantSpine.guiLabelString>
+  
+</LanguageData>

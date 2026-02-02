@@ -1,0 +1,152 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>desc->This [writingQualityAdjective] [bookType] [follows] a [trainer] as [heOrShe] [storyStruggles]. [writingQualitySentence]. [maybe_date].</li>
+    <li>desc->Este [bookType] [writingQualityAdjective] [follows] a un [trainer] mientras [heOrShe] [storyStruggles]. [writingQualitySentence]. [maybe_date].</li>
+    <li>follows->comparte _______écnicas de</li>
+    <li>follows->desta_______as enseñanzas de</li>
+    <li>follows->document_______namiento de</li>
+    <li>follows->expl_______os métodos de</li>
+    <li>heOrShe->él</li>
+    <li>heOrShe->ella</li>
+    <li>storyStruggles->___________</li>
+    <li>storyStruggles->_____________________</li>
+    <li>storyStruggles->_______</li>
+    <li>storyStruggles->_________________________________________</li>
+    <li>trainer->_______</li>
+    <li>trainer->entrenador</li>
+    <li>trainer->_______</li>
+    <li>trainer->instructor</li>
+    <li>trainer->_______</li>
+    <li>trainer->experto</li>
+    <li>trainer->_______</li>
+    <li>trainer->maestro</li>
+    <li>trainer->_______</li>
+    <li>trainer->practicante</li>
+    <li>writingQualityAdjective(quality==6)->magistral_______ elaborado</li>
+    <li>writingQualityAdjective(quality==5)->int_______ligente y per_______ptivo</li>
+    <li>writingQualityAdjective(quality==4)->articulado _______considerado</li>
+    <li>writingQualityAdjective(quality==3)->de_______ente compuesto</li>
+    <li>writingQualityAdjective(quality==2)->prom_______o en el mejor de los casos</li>
+    <li>writingQualityAdjective(quality==1)->mal e_______utado</li>
+    <li>writingQualityAdjective(quality==0)->ap_______s legible</li>
+    <li>writingQualitySentence(quality[greater_than]4)->Es [excellentDesc] [excellentExtra]</li>
+    <li>writingQualitySentence(quality[less_than]5,quality[greater_than]1)->Es [decentDesc] [decentExtra]</li>
+    <li>writingQualitySentence(quality[less_than]2)->Es [awfulDesc] [awfulExtra]</li>
+    <li>excellentDesc->una reflex_______ación de la construcción de habilidades</li>
+    <li>excellentDesc->profundamente perspicaz_______oceso de aprendizaje</li>
+    <li>excellentDesc->ajustad_______leno de sabiduría práctica</li>
+    <li>excellentDesc->creativ_______spirador</li>
+    <li>excellentDesc->una guía notabl_______nal y bien_______</li>
+    <li>excellentDesc->lleno de anécdotas_______antes de entrenadores_______nzados</li>
+    <li>excellentExtra->. Cada s_______ sobre la última de manera_______ca</li>
+    <li>excellentExtra->. Es una lectura_______ue m_______jora constante</li>
+    <li>excellentExtra->. Sus a_______tamente procesabl_______ efectivos</li>
+    <li>decentDesc->una guía de_______namiento decente</li>
+    <li>decentDesc->interes_______informativo,_______onsejos sólidos</li>
+    <li>decentDesc->centrad_______na sola técnica de _______namiento efectiva</li>
+    <li>decentDesc->ocasion_______tivo con ejemplos_______cionables</li>
+    <li>decentDesc->atra_______quellos que buscan _______sus habilidades</li>
+    <li>decentExtra-> pero sus_______estrategias</li>
+    <li>decentExtra-> pero a_______as se sienten obso_______tas</li>
+    <li>decentExtra-> pero sus_______ son a veces_______claras</li>
+    <li>decentExtra-> pero se centra_______mente en la teoría_______ práctica</li>
+    <li>decentExtra-> pero s_______brecomplica_______deas simples</li>
+    <li>awfulDesc->escrit_______guien con li_______omprensi_______ntrenamiento</li>
+    <li>awfulDesc->llen_______nécdotas perso_______rrelevantes</li>
+    <li>awfulDesc->vag_______structurado</li>
+    <li>awfulDesc->care_______laro, acti_______jo</li>
+    <li>awfulDesc->plagad_______ontrad_______claraciones</li>
+    <li>awfulExtra-> y _______jo es a_______ntraproducente</li>
+    <li>awfulExtra-> y no_______ aborda principios clave_______ding</li>
+    <li>awfulExtra-> y incl_______todos sicales o poco_______ticos</li>
+    <li>maybe_date-></li>
+    <li>maybe_date->El lib_______cado [date_form].</li>
+    <li>maybe_date->El te_______preso [date_form].</li>
+    <li>maybe_date->No está clar_______ndo se escri_______bro.</li>
+    <li>date_form->recien_______te</li>
+    <li>date_form->hace muc_______glos</li>
+    <li>date_form->e_______l [date]</li>
+    <li>date_form->en_______ [date_season]</li>
+    <li>bookType(p=4)->manual de entre_______miento</li>
+    <li>bookType(p=2)->guía de est_______io</li>
+    <li>bookType->lib_______eferencia</li>
+    <li>bookType->guía edu_______tiva</li>
+    <li>bookType->recurso de apre_______zaje</li>
+  -->
+  <ABooks_RuinedBook_Description.rulePack.rulesStrings>
+    <li>desc->Este [bookType] [writingQualityAdjective] [follows] a un [trainer] mientras [heOrShe] [storyStruggles]. [writingQualitySentence]. [maybe_date].</li>
+    <li>follows->comparte _______écnicas de</li>
+    <li>follows->desta_______as enseñanzas de</li>
+    <li>follows->document_______namiento de</li>
+    <li>follows->expl_______os métodos de</li>
+    <li>heOrShe->él</li>
+    <li>heOrShe->ella</li>
+    <li>storyStruggles->___________</li>
+    <li>storyStruggles->_____________________</li>
+    <li>storyStruggles->_______</li>
+    <li>storyStruggles->_________________________________________</li>
+    <li>trainer->_______</li>
+    <li>trainer->entrenador</li>
+    <li>trainer->_______</li>
+    <li>trainer->instructor</li>
+    <li>trainer->_______</li>
+    <li>trainer->experto</li>
+    <li>trainer->_______</li>
+    <li>trainer->maestro</li>
+    <li>trainer->_______</li>
+    <li>trainer->practicante</li>
+    <li>writingQualityAdjective(quality==6)->magistral_______ elaborado</li>
+    <li>writingQualityAdjective(quality==5)->int_______ligente y per_______ptivo</li>
+    <li>writingQualityAdjective(quality==4)->articulado _______considerado</li>
+    <li>writingQualityAdjective(quality==3)->de_______ente compuesto</li>
+    <li>writingQualityAdjective(quality==2)->prom_______o en el mejor de los casos</li>
+    <li>writingQualityAdjective(quality==1)->mal e_______utado</li>
+    <li>writingQualityAdjective(quality==0)->ap_______s legible</li>
+    <li>writingQualitySentence(quality[greater_than]4)->Es [excellentDesc] [excellentExtra]</li>
+    <li>writingQualitySentence(quality[less_than]5,quality[greater_than]1)->Es [decentDesc] [decentExtra]</li>
+    <li>writingQualitySentence(quality[less_than]2)->Es [awfulDesc] [awfulExtra]</li>
+    <li>excellentDesc->una reflex_______ación de la construcción de habilidades</li>
+    <li>excellentDesc->profundamente perspicaz_______oceso de aprendizaje</li>
+    <li>excellentDesc->ajustad_______leno de sabiduría práctica</li>
+    <li>excellentDesc->creativ_______spirador</li>
+    <li>excellentDesc->una guía notabl_______nal y bien_______</li>
+    <li>excellentDesc->lleno de anécdotas_______antes de entrenadores_______nzados</li>
+    <li>excellentExtra->. Cada s_______ sobre la última de manera_______ca</li>
+    <li>excellentExtra->. Es una lectura_______ue m_______jora constante</li>
+    <li>excellentExtra->. Sus a_______tamente procesabl_______ efectivos</li>
+    <li>decentDesc->una guía de_______namiento decente</li>
+    <li>decentDesc->interes_______informativo,_______onsejos sólidos</li>
+    <li>decentDesc->centrad_______na sola técnica de _______namiento efectiva</li>
+    <li>decentDesc->ocasion_______tivo con ejemplos_______cionables</li>
+    <li>decentDesc->atra_______quellos que buscan _______sus habilidades</li>
+    <li>decentExtra-> pero sus_______estrategias</li>
+    <li>decentExtra-> pero a_______as se sienten obso_______tas</li>
+    <li>decentExtra-> pero sus_______ son a veces_______claras</li>
+    <li>decentExtra-> pero se centra_______mente en la teoría_______ práctica</li>
+    <li>decentExtra-> pero s_______brecomplica_______deas simples</li>
+    <li>awfulDesc->escrit_______guien con li_______omprensi_______ntrenamiento</li>
+    <li>awfulDesc->llen_______nécdotas perso_______rrelevantes</li>
+    <li>awfulDesc->vag_______structurado</li>
+    <li>awfulDesc->care_______laro, acti_______jo</li>
+    <li>awfulDesc->plagad_______ontrad_______claraciones</li>
+    <li>awfulExtra-> y _______jo es a_______ntraproducente</li>
+    <li>awfulExtra-> y no_______ aborda principios clave_______ding</li>
+    <li>awfulExtra-> y incl_______todos sicales o poco_______ticos</li>
+    <li>maybe_date-></li>
+    <li>maybe_date->El lib_______cado [date_form].</li>
+    <li>maybe_date->El te_______preso [date_form].</li>
+    <li>maybe_date->No está clar_______ndo se escri_______bro.</li>
+    <li>date_form->recien_______te</li>
+    <li>date_form->hace muc_______glos</li>
+    <li>date_form->e_______l [date]</li>
+    <li>date_form->en_______ [date_season]</li>
+    <li>bookType(p=4)->manual de entre_______miento</li>
+    <li>bookType(p=2)->guía de est_______io</li>
+    <li>bookType->lib_______eferencia</li>
+    <li>bookType->guía edu_______tiva</li>
+    <li>bookType->recurso de apre_______zaje</li>
+  </ABooks_RuinedBook_Description.rulePack.rulesStrings>
+  
+</LanguageData>

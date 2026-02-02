@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: orbital targeter -->
+  <USH_GlittertechTargeter.label>marcador orbital</USH_GlittertechTargeter.label>
+  <!-- EN: A heavy targeting system. It transmits coordinates to the nearest satellites and hacks them using a biocode. The ancient satellites can detect unauthorized access and block the bioprint, so it must be changed for each use with the help of a living host encased in the machine. The overheating process will kill the host during operation.\n\nPossession and use of a stationary, militarized targeter is prohibited under Imperial law. The immense power and destruction it can unleash is a source of fear among nearby settlements. Firing this weapon will damage relations with neighboring factions.\n\nThe machine has multiple attack modes. -->
+  <USH_GlittertechTargeter.description>Sistema de puntería pesado. Transmite coordenadas a los satélites más cercanos y los hackea usando un biocódigo. Los satélites antiguos detectan accesos no autorizados y bloquean el biomarcador, por lo que debe cambiarse en cada uso con ayuda de un anfitrión vivo encerrado en la máquina. El sobrecalentamiento matará al anfitrión durante la operación.\n\nLa posesión y uso de un marcador orbital militarizado está prohibida por la ley Imperial. Su inmenso poder y destrucción generan temor en los asentamientos cercanos. Usar este arma dañará las relaciones con facciones vecinas.\n\nLa máquina cuenta con múltiples modos de ataque.</USH_GlittertechTargeter.description>
+  <!-- EN: activate -->
+  <USH_GlittertechTargeter.comps.CompGlittertechTargeter.jobString>activar</USH_GlittertechTargeter.comps.CompGlittertechTargeter.jobString>
+  <!-- EN: cooling off -->
+  <USH_GlittertechTargeter.comps.CompGlittertechTargeter.onCooldownString>en enfriamiento</USH_GlittertechTargeter.comps.CompGlittertechTargeter.onCooldownString>
+  
+  <!-- EN: orbital targeter dish -->
+  <USH_TargeterDish.label>plato apuntador</USH_TargeterDish.label>
+  <!-- EN: A rocketswarm tube of the type usually mounted on a rocketswarm launcher turret. -->
+  <USH_TargeterDish.description>Tubo de enjambre de cohetes del tipo que se monta habitualmente en torretas lanzadoras de enjambre de cohetes.</USH_TargeterDish.description>
+  
+</LanguageData>

@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Automatic -->
+  <Automatic.label>Automático</Automatic.label>
+  <!-- EN: Automatically choose between item names getting displayed with their count when hidden and count only when having visible contents, either directly or through the building only accepting one kind -->
+  <Automatic.description>Elige automáticamente entre mostrar los nombres de los objetos con su cantidad cuando están ocultos y solo la cantidad cuando tienen contenido visible, ya sea directamente o porque el edificio solo acepta un tipo.</Automatic.description>
+  
+  <!-- EN: Item names -->
+  <Names.label>Nombres de objetos</Names.label>
+  <!-- EN: Display names of stored items, one entry per line -->
+  <Names.description>Muestra los nombres de los objetos almacenados, una entrada por línea.</Names.description>
+  
+  <!-- EN: Item names or name count -->
+  <NamesOrNameCount.label>Nombres de objetos o recuento de nombres</NamesOrNameCount.label>
+  <!-- EN: Display up to 3 names of stored items, one entry per line, or the count of different names when having more items -->
+  <NamesOrNameCount.description>Muestra hasta 3 nombres de objetos almacenados, una entrada por línea, o el recuento de nombres diferentes cuando hay más objetos.</NamesOrNameCount.description>
+  
+  <!-- EN: Item names or total count -->
+  <NamesOrTotalCount.label>Nombres de objetos o cantidad total</NamesOrTotalCount.label>
+  <!-- EN: Display up to 3 names of stored items, one entry per line, or the total count when having more items -->
+  <NamesOrTotalCount.description>Muestra hasta 3 nombres de objetos almacenados, una entrada por línea, o la cantidad total cuando hay más objetos.</NamesOrTotalCount.description>
+  
+  <!-- EN: Item names with count -->
+  <NamesWithCount.label>Nombres de objetos con cantidad</NamesWithCount.label>
+  <!-- EN: Display item names and their count in a format of Item xY, one entry per line -->
+  <NamesWithCount.description>Muestra los nombres de los objetos y su cantidad en un formato de Objeto xY, una entrada por línea.</NamesWithCount.description>
+  
+  <!-- EN: Item names with count or total count -->
+  <NamesWithCountOrTotalCount.label>Nombres de objetos con cantidad o cantidad total</NamesWithCountOrTotalCount.label>
+  <!-- EN: Display up to 3 item names and their count in a format of Item xY, one entry per line, or the total count when having more items -->
+  <NamesWithCountOrTotalCount.description>Muestra hasta 3 nombres de objetos y su cantidad en un formato de Objeto xY, una entrada por línea, o la cantidad total cuando hay más objetos.</NamesWithCountOrTotalCount.description>
+  
+  <!-- EN: None -->
+  <None.label>Ninguno</None.label>
+  <!-- EN: Do not display any labels -->
+  <None.description>No mostrar ninguna etiqueta.</None.description>
+  
+  <!-- EN: Total count -->
+  <TotalCount.label>Cantidad total</TotalCount.label>
+  <!-- EN: Display the total count of all items in storage in a format [ COUNT ] -->
+  <TotalCount.description>Muestra la cantidad total de todos los objetos almacenados en un formato [ CANTIDAD ].</TotalCount.description>
+  
+  <!-- EN: Vanilla -->
+  <Vanilla.label>Original (Vanilla)</Vanilla.label>
+  <!-- EN: Display item counts individually on each item -->
+  <Vanilla.description>Muestra las cantidades de los objetos individualmente en cada objeto.</Vanilla.description>
+  
+</LanguageData>

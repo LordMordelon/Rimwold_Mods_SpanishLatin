@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: provoke mech cluster -->
+  <MechhiveSatelliteUplink.label>provocar cluster mecanoide</MechhiveSatelliteUplink.label>
+  <!-- EN: psychically seize an overhead orbital platform, causing it to drop a mechanoid combat cluster at the targeted point. The cluster may include any mixture of mechanoids and mech defense structures. the mech will indiscriminately attack any human they see - including the one that summoned them. Due to the prodigeous amount of power this takes, the psychic centres of the mechanitors brain will be overloaded, causing them to fall into a 24 hour psychic coma. -->
+  <MechhiveSatelliteUplink.description>Se apodera psíquicamente de una plataforma orbital, lo que provoca que despliegue un cluster de combate mecanoide en el punto objetivo. El cluster puede incluir cualquier combinación de mecanoides y estructuras defensivas. Los mecanoides atacarán indiscriminadamente a cualquier humano que vean, incluido aquel que los invocó. Debido a la enorme cantidad de energía requerida, los centros psíquicos del cerebro del mecanizador se sobrecargarán, sumiéndolo en un coma psíquico de 24 horas.</MechhiveSatelliteUplink.description>
+  <!-- EN: If you use the mechhive satellite uplink, the mechanitor will fall into a psychic coma for 24 hours.\n\nDo you really want to use the mechhive satellite uplink? -->
+  <MechhiveSatelliteUplink.confirmationDialogText>Si utilizas el enlace satelital del cluster mecanoide, el mecanizador caerá en un coma psíquico durante 24 horas.\n\n¿Realmente quieres usar el enlace satelital del cluster mecanoide?</MechhiveSatelliteUplink.confirmationDialogText>
+  
+  <!-- EN: release grubs -->
+  <ReleaseGrubs.label>liberar larvas</ReleaseGrubs.label>
+  <!-- EN: Release up to 2 grubs. each grub takes 10 steel to build. If the parent is killed, all linked grubs will die. Grubs cannot be recharged and will die once their power source runs out. -->
+  <ReleaseGrubs.description>Libera hasta 2 larvas. Cada larva requiere 10 de acero para construirse. Si la unidad principal es destruida, todas las larvas vinculadas morirán. Las larvas no pueden recargarse y morirán cuando su fuente de energía se agote.</ReleaseGrubs.description>
+  <!-- EN: on cooldown -->
+  <ReleaseGrubs.comps.LTS_CompAbilityEffect_Reloadable.cooldownGerund>en enfriamiento</ReleaseGrubs.comps.LTS_CompAbilityEffect_Reloadable.cooldownGerund>
+  
+  <!-- EN: dominate mech -->
+  <RemoteDominate.label>dominar mecanoide</RemoteDominate.label>
+  <!-- EN: Take control of an enemy mechanoid. the mechanoid must be of a weight class lighter than superheavy and the mechinator must have the bandwidth spare to take the mechanoid under their control. -->
+  <RemoteDominate.description>Toma el control de un mecanoide enemigo. El mecanoide debe pertenecer a una clase de peso inferior a la superpesada y el mecanizador debe tener ancho de banda disponible para controlarlo.</RemoteDominate.description>
+  
+  <!-- EN: resurrect mech -->
+  <RemoteResurrect.label>resucitar mecanoide</RemoteResurrect.label>
+  <!-- EN: Resurrect a recently-killed, allied mechanoid by externally supercharging its self-repair processes. The mechanoid must have been dead for no more than 60 seconds and the mechinator must have the bandwidth spare to take the mechanoid under their control. -->
+  <RemoteResurrect.description>Resucita un mecanoide aliado recientemente destruido mediante una sobrecarga externa de sus procesos de autorreparación. El mecanoide debe haber estado muerto por no más de 60 segundos, y el mecanizador debe tener ancho de banda disponible para controlarlo.</RemoteResurrect.description>
+  
+</LanguageData>

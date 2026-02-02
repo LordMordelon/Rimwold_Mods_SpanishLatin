@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: transcendent perplex -->
+  <MU_Perplex.label>conmoción trascendente</MU_Perplex.label>
+  <!-- EN: This creature is affected by space-time oscillations that teleport it chaotically, dealing some physical damage. -->
+  <MU_Perplex.description>Esta criatura está afectada por oscilaciones espacio-temporales que la teletransportan caóticamente, causando algo de daño físico.</MU_Perplex.description>
+  
+  <!-- EN: transcendent bite -->
+  <MU_TranscendentBite.label>mordisco trascendente</MU_TranscendentBite.label>
+  <!-- EN: A transcendent bite wound. -->
+  <MU_TranscendentBite.description>Una herida de mordisco trascendente.</MU_TranscendentBite.description>
+  <!-- EN: transcendent bite scar -->
+  <MU_TranscendentBite.comps.HediffComp_GetsPermanent.permanentLabel>cicatriz de mordisco</MU_TranscendentBite.comps.HediffComp_GetsPermanent.permanentLabel>
+  <!-- EN: Bitten off -->
+  <MU_TranscendentBite.injuryProps.destroyedLabel>arrancado</MU_TranscendentBite.injuryProps.destroyedLabel>
+  <!-- EN: Bitten out -->
+  <MU_TranscendentBite.injuryProps.destroyedOutLabel>arrancado de fuera</MU_TranscendentBite.injuryProps.destroyedOutLabel>
+  <!-- EN: a transcendent bite wound -->
+  <MU_TranscendentBite.labelNoun>herida de mordisco trascendente</MU_TranscendentBite.labelNoun>
+  <!-- EN: {0} in the {1} -->
+  <MU_TranscendentBite.labelNounPretty>{0} en el {1}</MU_TranscendentBite.labelNounPretty>
+  
+</LanguageData>

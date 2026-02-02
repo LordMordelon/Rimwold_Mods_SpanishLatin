@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: conjure heat pearls -->
+  <VPE_ConjureHeatPearls.label>conjurar perlas de calor</VPE_ConjureHeatPearls.label>
+  <!-- EN: Converts the caster’s neural heat into compressed metaphysical pearls. Completely harmless, but dumps a tremendous amount of neural heat into a small area when shattered. -->
+  <VPE_ConjureHeatPearls.description>Convierte el calor neural del lanzador en perlas metafísicas comprimidas. Completamente inofensivo, pero descarga una tremenda cantidad de calor neural en un área pequeña cuando se rompe.</VPE_ConjureHeatPearls.description>
+  <!-- EN: Using ability: {0} -->
+  <VPE_ConjureHeatPearls.jobReportString>Usando habilidad: {0}</VPE_ConjureHeatPearls.jobReportString>
+  <!-- EN: conjure heat pearls -->
+  <VPE_ConjureHeatPearls.verbProperties.label>conjurar perlas de calor</VPE_ConjureHeatPearls.verbProperties.label>
+  
+  <!-- EN: craft psyring -->
+  <VPE_CraftPsyRing.label>fabricar anillo psíquico</VPE_CraftPsyRing.label>
+  <!-- EN: Psychically alters the form of a piece of eltex into the shape of a ring, which is imbued with psycasting knowledge of the caster. When worn by another psycaster, this temporarily allows them to use this knowledge to perform the stored psycast without practice. -->
+  <VPE_CraftPsyRing.description>Altera psíquicamente la forma de una pieza de eltex en la forma de un anillo, que está imbuido con el conocimiento de lanzamiento psíquico del lanzador. Cuando lo usa otro psíquico, esto le permite usar temporalmente este conocimiento para realizar la psicoemisión almacenada sin práctica.</VPE_CraftPsyRing.description>
+  <!-- EN: Using ability: {0} -->
+  <VPE_CraftPsyRing.jobReportString>Usando habilidad: {0}</VPE_CraftPsyRing.jobReportString>
+  <!-- EN: craft psyring -->
+  <VPE_CraftPsyRing.verbProperties.label>fabricar anillo psíquico</VPE_CraftPsyRing.verbProperties.label>
+  
+  <!-- EN: enchant quality -->
+  <VPE_EnchantQuality.label>encantar calidad</VPE_EnchantQuality.label>
+  <!-- EN: Psychically manipulate an object or structure to improve its overall quality. Maximum quality depends on psychic sensitivity. -->
+  <VPE_EnchantQuality.description>Manipula psíquicamente un objeto o estructura para mejorar su calidad general. La calidad máxima depende de la sensibilidad psíquica.</VPE_EnchantQuality.description>
+  <!-- EN: Using ability: {0} -->
+  <VPE_EnchantQuality.jobReportString>Usando habilidad: {0}</VPE_EnchantQuality.jobReportString>
+  <!-- EN: enchant quality -->
+  <VPE_EnchantQuality.verbProperties.label>encantar calidad</VPE_EnchantQuality.verbProperties.label>
+  
+  <!-- EN: haywire -->
+  <VPE_Haywire.label>avería</VPE_Haywire.label>
+  <!-- EN: Subjects an area to psychic interference, temporarily reconfiguring up to 3 automated weapons systems to protect the caster and their allies. Duration scales with the caster’s psychic sensitivity. -->
+  <VPE_Haywire.description>Somete un área a interferencia psíquica, reconfigurando temporalmente hasta 3 sistemas de armas automatizados para proteger al lanzador y sus aliados. La duración escala con la sensibilidad psíquica del lanzador.</VPE_Haywire.description>
+  <!-- EN: Using ability: {0} -->
+  <VPE_Haywire.jobReportString>Usando habilidad: {0}</VPE_Haywire.jobReportString>
+  <!-- EN: haywire -->
+  <VPE_Haywire.verbProperties.label>avería</VPE_Haywire.verbProperties.label>
+  
+  <!-- EN: mend -->
+  <VPE_Mend.label>reparar</VPE_Mend.label>
+  <!-- EN: Psychically manipulate an object or structure to restore its condition. Requires high psychic sensitivity for any meaningful restoration. -->
+  <VPE_Mend.description>Manipula psíquicamente un objeto o estructura para restaurar su condición. Requiere alta sensibilidad psíquica para cualquier restauración significativa.</VPE_Mend.description>
+  <!-- EN: Using ability: {0} -->
+  <VPE_Mend.jobReportString>Usando habilidad: {0}</VPE_Mend.jobReportString>
+  <!-- EN: mend -->
+  <VPE_Mend.verbProperties.label>reparar</VPE_Mend.verbProperties.label>
+  
+  <!-- EN: power -->
+  <VPE_Power.label>energía</VPE_Power.label>
+  <!-- EN: Metaphysically alters the designated equipment’s power input to extract energy directly from fluctuations in the quantum foam for a few days. Duration scales with psychic sensitivity. -->
+  <VPE_Power.description>Altera metafísicamente la entrada de energía del equipo designado para extraer energía directamente de las fluctuaciones en la espuma cuántica durante unos días. La duración escala con la sensibilidad psíquica.</VPE_Power.description>
+  <!-- EN: Using ability: {0} -->
+  <VPE_Power.jobReportString>Usando habilidad: {0}</VPE_Power.jobReportString>
+  <!-- EN: power -->
+  <VPE_Power.verbProperties.label>energía</VPE_Power.verbProperties.label>
+  
+  <!-- EN: reverse engineer -->
+  <VPE_ReverseEngineer.label>ingeniería inversa</VPE_ReverseEngineer.label>
+  <!-- EN: Psychically manipulate an object or structure to learn its history and principles, annihilating it in the process. Extremely taxing, resulting in the caster falling into a temporary coma. -->
+  <VPE_ReverseEngineer.description>Manipula psíquicamente un objeto o estructura para aprender su historia y principios, aniquilándolo en el proceso. Extremadamente agotador, resultando en que el lanzador caiga en un coma temporal.</VPE_ReverseEngineer.description>
+  <!-- EN: Using ability: {0} -->
+  <VPE_ReverseEngineer.jobReportString>Usando habilidad: {0}</VPE_ReverseEngineer.jobReportString>
+  <!-- EN: reverse engineer -->
+  <VPE_ReverseEngineer.verbProperties.label>ingeniería inversa</VPE_ReverseEngineer.verbProperties.label>
+  
+  <!-- EN: rock construct -->
+  <VPE_RockConstruct.label>constructo de roca</VPE_RockConstruct.label>
+  <!-- EN: Compresses a portion of the caster’s neural heat tolerance into metaphysical crystals, then implanting them into a stone chunk. Creates a construct capable of simple chores. Breaking the crystals restores heat tolerance. -->
+  <VPE_RockConstruct.description>Comprime una porción de la tolerancia al calor neural del lanzador en cristales metafísicos, luego los implanta en un trozo de piedra. Crea un constructo capaz de tareas simples. Romper los cristales restaura la tolerancia al calor.</VPE_RockConstruct.description>
+  <!-- EN: Using ability: {0} -->
+  <VPE_RockConstruct.jobReportString>Usando habilidad: {0}</VPE_RockConstruct.jobReportString>
+  <!-- EN: rock construct -->
+  <VPE_RockConstruct.verbProperties.label>constructo de roca</VPE_RockConstruct.verbProperties.label>
+  
+  <!-- EN: steel construct -->
+  <VPE_SteelConstruct.label>constructo de acero</VPE_SteelConstruct.label>
+  <!-- EN: Compresses a portion of the caster’s neural heat tolerance into metaphysical crystals, then implanting them into steel slag. Creates a construct that guards the caster. Breaking the crystals restores heat tolerance. -->
+  <VPE_SteelConstruct.description>Comprime una porción de la tolerancia al calor neural del lanzador en cristales metafísicos, luego los implanta en escoria de acero. Crea un constructo que protege al lanzador. Romper los cristales restaura la tolerancia al calor.</VPE_SteelConstruct.description>
+  <!-- EN: Using ability: {0} -->
+  <VPE_SteelConstruct.jobReportString>Usando habilidad: {0}</VPE_SteelConstruct.jobReportString>
+  <!-- EN: steel construct -->
+  <VPE_SteelConstruct.verbProperties.label>constructo de acero</VPE_SteelConstruct.verbProperties.label>
+  
+  <!-- EN: word of progress -->
+  <VPE_WordofProgress.label>palabra de progreso</VPE_WordofProgress.label>
+  <!-- EN: Speak words encouraging problem solving capabilities while psychically hypercharging the target’s mind with keen insight. The target will experience double research speed and intellectual skill gain for 5 days, scaling with their psychic sensitivity. -->
+  <VPE_WordofProgress.description>Habla palabras que fomentan las capacidades de resolución de problemas mientras sobrecargas psíquicamente la mente del objetivo con una visión aguda. El objetivo experimentará el doble de velocidad de investigación y ganancia de habilidad intelectual durante 5 días, escalando con su sensibilidad psíquica.</VPE_WordofProgress.description>
+  <!-- EN: Using ability: {0} -->
+  <VPE_WordofProgress.jobReportString>Usando habilidad: {0}</VPE_WordofProgress.jobReportString>
+  <!-- EN: word of progress -->
+  <VPE_WordofProgress.verbProperties.label>palabra de progreso</VPE_WordofProgress.verbProperties.label>
+  
+</LanguageData>

@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: carried mass offset -->
+  <MU_CarriedMassOffset.label>sobrecarga de masa</MU_CarriedMassOffset.label>
+  <!-- EN: An extra mass, this creature can carry. -->
+  <MU_CarriedMassOffset.description>Una masa extra que esta criatura puede cargar.</MU_CarriedMassOffset.description>
+  <!-- EN: {0} kg -->
+  <MU_CarriedMassOffset.formatString>{0} kg</MU_CarriedMassOffset.formatString>
+  
+  <!-- EN: ranged damage multiplier -->
+  <MU_RangedDamageFactor.label>factor de daño DaD</MU_RangedDamageFactor.label>
+  <!-- EN: A damage multiplier applied to projectiles fired from weapon held by this creature. -->
+  <MU_RangedDamageFactor.description>Un multiplicador de daño a distancia aplicado a los proyectiles disparados desde el arma que esta criatura sostiene.</MU_RangedDamageFactor.description>
+  
+  <!-- EN: upgradability -->
+  <MU_Upgradability.label>mejorabilidad</MU_Upgradability.label>
+  <!-- EN: Amount of upgrades that can be added to this mechanoid. -->
+  <MU_Upgradability.description>Cantidad de mejoras que se pueden agregar a este mecanoide.</MU_Upgradability.description>
+  
+  <!-- EN: upgrades creating speed -->
+  <MU_UpgradeCreatingSpeed.label>velocidad de creación de mejoras</MU_UpgradeCreatingSpeed.label>
+  <!-- EN: The speed at which this person creates mechanoid upgrades. -->
+  <MU_UpgradeCreatingSpeed.description>La velocidad a la que esta persona crea mejoras para el mecanoide.</MU_UpgradeCreatingSpeed.description>
+  
+  <!-- EN: upgrades creating speed -->
+  <MU_UpgradeFabricationSpeed.label>velocidad de fabricación de mejoras</MU_UpgradeFabricationSpeed.label>
+  <!-- EN: The speed at which this person creates mechanoid upgrades. -->
+  <MU_UpgradeFabricationSpeed.description>La velocidad a la que esta persona fabrica mejoras para mecanoides.</MU_UpgradeFabricationSpeed.description>
+  
+  <!-- EN: weapon range multiplier -->
+  <MU_WeaponRangeFactor.label>multi. de alcance del arma</MU_WeaponRangeFactor.label>
+  <!-- EN: A range multiplier applied to weapon held by this creature. -->
+  <MU_WeaponRangeFactor.description>Un multiplicador de alcance aplicado al arma que sostiene esta criatura.</MU_WeaponRangeFactor.description>
+  
+</LanguageData>

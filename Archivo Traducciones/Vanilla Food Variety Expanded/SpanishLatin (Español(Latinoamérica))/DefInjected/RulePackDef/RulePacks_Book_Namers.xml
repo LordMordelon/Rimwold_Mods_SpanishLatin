@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>title->[titleBasic]</li>
+    <li>title(p=2)->[titleAuthoredNoSubject]</li>
+    <li>titleBasic(p=6)->[randAdjective] [subject_primary]</li>
+    <li>titleBasic(p=6)->[randNoun] and [subject_primary]</li>
+    <li>titleBasic->The Flavours of [subject_primary]</li>
+    <li>titleBasic->Savoury [subject_primary]</li>
+    <li>titleBasic->Global Gourmet [subject_primary]</li>
+    <li>titleBasic->Fresh from [subject_primary]</li>
+    <li>titleBasic->Spice Odyssey on [subject_primary]</li>
+    <li>titleBasic->Quick and Easy Weeknight Meals of [subject_primary]</li>
+    <li>titleBasic->Grandma's Kitchen in [subject_primary]</li>
+    <li>titleBasic->The Healthy Plate of [subject_primary]</li>
+    <li>titleBasic->The Ultimate Vegan Cookbook in [subject_primary]</li>
+    <li>titleBasic->Culinary Classics of [subject_primary]</li>
+    <li>titleBasic->Cooking with Love in [subject_primary]</li>
+    <li>titleBasic->Fire and Smoke: A Griller's Guide to [subject_primary]</li>
+    <li>titleBasic->Bake It Easy: [subject_primary]</li>
+    <li>titleBasic->Fusion Feast: [subject_primary]</li>
+    <li>titleBasic->Soulful Southern Cooking: [subject_primary]</li>
+    <li>titleBasic->The One-Pot Wonder: [subject_primary]</li>
+    <li>titleBasic->The Lazy Cook's Handbook of [subject_primary]</li>
+    <li>titleBasic->Perfect Pasta Every Time: [subject_primary]</li>
+    <li>titleBasic->Wholesome Meals for the Family: [subject_primary]</li>
+    <li>titleBasic->Tips, Tricks, and Recipes of [subject_primary]</li>
+    <li>titleBasic->Desserts to Die For: [subject_primary]</li>
+    <li>titleBasic->The Chocolate Lover's Cookbook of [subject_primary]</li>
+    <li>titleAuthoredNoSubject->[ANYPAWN_nameIndef]'s Cookbook of [subject_primary]</li>
+    <li>titleAuthoredNoSubject->[ANYPAWN_nameIndef]'s [randAdjective] Recipes of [subject_primary]</li>
+    <li>titleAuthoredNoSubject->[ANYPAWN_nameIndef]'s Recipes of [subject_primary]</li>
+    <li>titleAuthoredNoSubject->[ANYPAWN_nameIndef]'s Culinary Guide of [subject_primary]</li>
+    <li>titleAuthoredNoSubject->[ANYPAWN_nameIndef]'s Recipe Collection of [subject_primary]</li>
+    <li>titleAuthoredNoSubject->[ANYPAWN_nameIndef]'s Kitchen Manual of [subject_primary]</li>
+    <li>titleAuthoredNoSubject->[ANYPAWN_nameIndef]'s Cookery Book of [subject_primary]</li>
+    <li>titleAuthoredNoSubject->[ANYPAWN_nameIndef]'s Gastronomy Guide of [subject_primary]</li>
+    <li>titleAuthoredNoSubject->[ANYPAWN_nameIndef]'s Food Guide of [subject_primary]</li>
+    <li>titleAuthoredNoSubject->[ANYPAWN_nameIndef]'s Chef’s Handbook of [subject_primary]</li>
+    <li>titleAuthoredNoSubject->[ANYPAWN_nameIndef]'s Cooking Compendium of [subject_primary]</li>
+    <li>titleAuthoredNoSubject->[ANYPAWN_nameIndef]'s Cook’s Companion of [subject_primary]</li>
+    <li>titleAuthoredNoSubject->[ANYPAWN_nameIndef]'s Gastronomic Bible of [subject_primary]</li>
+  -->
+  <VCEV_CookingBook_Namer.rulePack.rulesStrings>
+    <li>title->[titleBasic]</li>
+    <li>title(p=2)->[titleAuthoredNoSubject]</li>
+    <li>titleBasic(p=6)->[subject_primary] [randAdjective]</li>
+    <li>titleBasic(p=6)->[randNoun] y [subject_primary]</li>
+    <li>titleBasic->Los sabores de [subject_primary]</li>
+    <li>titleBasic->[subject_primary] sabroso</li>
+    <li>titleBasic->Gourmet global: [subject_primary]</li>
+    <li>titleBasic->Fresco de [subject_primary]</li>
+    <li>titleBasic->Odisea de especias en [subject_primary]</li>
+    <li>titleBasic->Comidas rápidas y fáciles de [subject_primary]</li>
+    <li>titleBasic->La cocina de la abuela en [subject_primary]</li>
+    <li>titleBasic->El plato saludable de [subject_primary]</li>
+    <li>titleBasic->El libro de cocina vegana definitivo en [subject_primary]</li>
+    <li>titleBasic->Clásicos culinarios de [subject_primary]</li>
+    <li>titleBasic->Cocinando con amor en [subject_primary]</li>
+    <li>titleBasic->Fuego y humo: Guía de parrilla para [subject_primary]</li>
+    <li>titleBasic->Hornear fácil: [subject_primary]</li>
+    <li>titleBasic->Festín de fusión: [subject_primary]</li>
+    <li>titleBasic->Cocina sureña con alma: [subject_primary]</li>
+    <li>titleBasic->La maravilla de una sola olla: [subject_primary]</li>
+    <li>titleBasic->Manual del cocinero perezoso de [subject_primary]</li>
+    <li>titleBasic->Pasta perfecta siempre: [subject_primary]</li>
+    <li>titleBasic->Comidas sanas para la familia: [subject_primary]</li>
+    <li>titleBasic->Consejos, trucos y recetas de [subject_primary]</li>
+    <li>titleBasic->Postres para morirse: [subject_primary]</li>
+    <li>titleBasic->El libro de cocina para amantes del chocolate de [subject_primary]</li>
+    <li>titleAuthoredNoSubject->Libro de cocina de [subject_primary] de [ANYPAWN_nameIndef]</li>
+    <li>titleAuthoredNoSubject->Recetas [randAdjective] de [subject_primary] de [ANYPAWN_nameIndef]</li>
+    <li>titleAuthoredNoSubject->Recetas de [subject_primary] de [ANYPAWN_nameIndef]</li>
+    <li>titleAuthoredNoSubject->Guía culinaria de [subject_primary] de [ANYPAWN_nameIndef]</li>
+    <li>titleAuthoredNoSubject->Colección de recetas de [subject_primary] de [ANYPAWN_nameIndef]</li>
+    <li>titleAuthoredNoSubject->Manual de cocina de [subject_primary] de [ANYPAWN_nameIndef]</li>
+    <li>titleAuthoredNoSubject->Libro de cocina de [subject_primary] de [ANYPAWN_nameIndef]</li>
+    <li>titleAuthoredNoSubject->Guía gastronómica de [subject_primary] de [ANYPAWN_nameIndef]</li>
+    <li>titleAuthoredNoSubject->Guía de alimentos de [subject_primary] de [ANYPAWN_nameIndef]</li>
+    <li>titleAuthoredNoSubject->Manual del chef de [subject_primary] de [ANYPAWN_nameIndef]</li>
+    <li>titleAuthoredNoSubject->Compendio de cocina de [subject_primary] de [ANYPAWN_nameIndef]</li>
+    <li>titleAuthoredNoSubject->Compañero del cocinero de [subject_primary] de [ANYPAWN_nameIndef]</li>
+    <li>titleAuthoredNoSubject->Biblia gastronómica de [subject_primary] de [ANYPAWN_nameIndef]</li>
+  </VCEV_CookingBook_Namer.rulePack.rulesStrings>
+  
+</LanguageData>

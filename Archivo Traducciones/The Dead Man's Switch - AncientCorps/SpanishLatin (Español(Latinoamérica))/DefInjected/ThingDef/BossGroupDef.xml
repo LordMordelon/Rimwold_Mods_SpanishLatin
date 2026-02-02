@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Ancient Decoy Antenna -->
+  <DMS_AncientDecoyRadio.label>antena señuelo antigua</DMS_AncientDecoyRadio.label>
+  <!-- EN: A modified signal transponder which is rigged to send a high power burst transmission. Once activated it puts out a powerful decoy signal which will attract a feral group of automatroid forces to attack your colony. If you can defeat them, you can collect the advanced technology from their corpses. The signal pulse burns out the transmitter, so this building can only be used once. -->
+  <DMS_AncientDecoyRadio.description>Un transpondedor de señal modificado que está preparado para enviar una transmisión de ráfaga de alta potencia. Una vez activado, emite una potente señal de señuelo que atraerá a un grupo salvaje de fuerzas automatroide para atacar tu colonia. Si puedes derrotarlos, podrás recolectar la tecnología avanzada de sus cadáveres. El pulso de la señal quema el transmisor, por lo que este edificio solo se puede usar una vez.</DMS_AncientDecoyRadio.description>
+  <!-- EN: Attract krepost threat -->
+  <DMS_AncientDecoyRadio.comps.CompUsable.useLabel>Atraer amenaza krepost</DMS_AncientDecoyRadio.comps.CompUsable.useLabel>
+  
+  <!-- EN: Recover Transmitter -->
+  <DMSAC_RecoverTransmitter.label>recuperar transmisor</DMSAC_RecoverTransmitter.label>
+  <!-- EN: A simple antenna group can intercept the return signal from the supply station after broadcasting the signal, but such a signal transmission without encryption request is bound to attract detection by the reconnaissance team. -->
+  <DMSAC_RecoverTransmitter.description>Un simple grupo de antenas puede interceptar la señal de retorno de la estación de suministros después de transmitir la señal, pero tal transmisión de señal sin solicitud de encriptación está destinada a atraer la detección por parte del equipo de reconocimiento.</DMSAC_RecoverTransmitter.description>
+  <!-- EN: Attract armed recon threat -->
+  <DMSAC_RecoverTransmitter.comps.CompUsable.useLabel>Atraer amenaza de reconocimiento armado</DMSAC_RecoverTransmitter.comps.CompUsable.useLabel>
+  
+</LanguageData>

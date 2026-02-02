@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <VQE_NuclearArcSite.questDescriptionRules.rulesStrings>
+    <li>questDescription(asker_factionLeader==True)-&gt;[asker_nameFull], [asker_faction_leaderTitle] de [asker_faction_name], nos ha enviado un mensaje. Un grupo de [siteFaction_pawnsPlural] ha tomado el control de un sitio abandonado de restos de un ARC nuclear. El campamento está actualmente bajo el control de [siteFaction_name].\n\n[asker_nameDef] solicita que despejemos el área eliminando a todos los enemigos y defensas. Una vez asegurado el sitio, tendremos la oportunidad de estudiar los restos del ARC nuclear y recuperar valiosos componentes ARC. [asker_label] también menciona que [sitePart0_description]. [sitePart1_description]</li>
+    <li>questDescription(askerIsNull==true)-&gt;Hemos recibido inteligencia de que un sitio abandonado de restos de un ARC nuclear ha sido tomado por [siteFaction_pawnsPlural] de [siteFaction_name]. Los bandidos han fortificado su posición y están utilizando el lugar como escondite.\n\nAsegurar el sitio nos permitirá examinar los restos del ARC nuclear en busca de datos de investigación restantes y componentes ARC recuperables. Prepárate para la resistencia, ya que los bandidos probablemente han establecido defensas significativas. Además, [sitePart0_description]. [sitePart1_description]</li>
+    <li>sitePart0_description-&gt;los restos del ARC nuclear están rodeados de vegetación, con gran parte de su estructura mostrando signos de deterioro</li>
+    <li>sitePart0_description-&gt;los bandidos han fortificado fuertemente el área con barreras y trampas improvisadas</li>
+    <li>sitePart0_description-&gt;los restos parecen parcialmente intactos, prometiendo un valioso botín</li>
+    <li>sitePart0_description-&gt;el sitio es una mezcla de ruinas industriales antiguas y campamentos de bandidos destartalados</li>
+    <li>sitePart0_description-&gt;se han avistado patrullas hostiles vigilando el perímetro</li>
+    <li>sitePart0_description-&gt;los bandidos están usando los restos del ARC para alimentar su maquinaria y armas rudimentarias</li>
+    <li>sitePart1_description-&gt;Toda el área está cubierta por lluvia radiactiva tóxica, lo que hace que la exposición prolongada sea peligrosa sin el equipo adecuado</li>
+    <li>sitePart1_description-&gt;Una espesa capa de lluvia radiactiva tóxica persiste sobre el sitio, creando un peligro adicional para cualquiera que intente acercarse</li>
+    <li>sitePart1_description-&gt;La lluvia radiactiva tóxica del antiguo reactor del ARC ha envenenado el área, presentando un peligro ambiental significativo</li>
+    <li>sitePart1_description-&gt;El sitio está cubierto de lluvia radiactiva tóxica, lo que hace que la supervivencia sin equipo de protección sea extremadamente difícil</li>
+    <li>sitePart1_description-&gt;Nubes de lluvia radiactiva peligrosa cubren el área, un sombrío recordatorio del inestable pasado nuclear del ARC</li>
+  </VQE_NuclearArcSite.questDescriptionRules.rulesStrings>
+  <VQE_NuclearArcSite.questNameRules.rulesStrings>
+    <li>questName-&gt;[nuclearArcName] [adj]</li>
+    <li>adj-&gt;abandonado</li>
+    <li>adj-&gt;en ruinas</li>
+    <li>adj-&gt;ocupado por bandidos</li>
+    <li>adj-&gt;olvidado</li>
+    <li>adj-&gt;derruido</li>
+    <li>adj-&gt;antiguo</li>
+    <li>adj-&gt;invadido</li>
+    <li>adj-&gt;profanado</li>
+    <li>adj-&gt;peligroso</li>
+    <li>adj-&gt;oculto</li>
+    <li>nuclearArcName-&gt;Sitio de ARC nuclear</li>
+    <li>nuclearArcName-&gt;Restos de ARC</li>
+    <li>nuclearArcName-&gt;Restos del reactor</li>
+    <li>nuclearArcName-&gt;Ruinas de ARC</li>
+    <li>nuclearArcName-&gt;Reliquia del generador</li>
+    <li>nuclearArcName-&gt;Núcleo del reactor</li>
+    <li>nuclearArcName-&gt;Restos de energía</li>
+    <li>nuclearArcName-&gt;Bóveda de energía</li>
+    <li>nuclearArcName-&gt;Reactor abandonado</li>
+    <li>nuclearArcName-&gt;Sitio del generador</li>
+  </VQE_NuclearArcSite.questNameRules.rulesStrings>
+  <VQE_NuclearArcSite.root.nodes.WorldObjectTimeout.node.nodes.Letter.label.slateRef>Misión expirada: [resolvedQuestName]</VQE_NuclearArcSite.root.nodes.WorldObjectTimeout.node.nodes.Letter.label.slateRef>
+  <VQE_NuclearArcSite.root.nodes.WorldObjectTimeout.node.nodes.Letter.text.slateRef>El campamento de bandidos ha empacado y se ha marchado. La misión [resolvedQuestName] ha expirado.</VQE_NuclearArcSite.root.nodes.WorldObjectTimeout.node.nodes.Letter.text.slateRef>
+  <VQE_NuclearArcSite.root.nodes.siteAllEnemiesDefeated.node.nodes.IsSet.node.nodes.GiveRewards.customLetterLabel.slateRef>Pago recibido</VQE_NuclearArcSite.root.nodes.siteAllEnemiesDefeated.node.nodes.IsSet.node.nodes.GiveRewards.customLetterLabel.slateRef>
+  <VQE_NuclearArcSite.root.nodes.siteAllEnemiesDefeated.node.nodes.IsSet.node.nodes.GiveRewards.customLetterText.slateRef>¡Has derrotado al campamento de bandidos!\n\nEl pago de [asker_faction_name] ha llegado.</VQE_NuclearArcSite.root.nodes.siteAllEnemiesDefeated.node.nodes.IsSet.node.nodes.GiveRewards.customLetterText.slateRef>
+  <VQE_NuclearArcSite.root.nodes.siteDestroyed.node.nodes.Letter.label.slateRef>Misión fallida: [resolvedQuestName]</VQE_NuclearArcSite.root.nodes.siteDestroyed.node.nodes.Letter.label.slateRef>
+  <VQE_NuclearArcSite.root.nodes.siteDestroyed.node.nodes.Letter.text.slateRef>Tras ser descubierto, el campamento de bandidos se ha dispersado. La misión [resolvedQuestName] ha terminado.</VQE_NuclearArcSite.root.nodes.siteDestroyed.node.nodes.Letter.text.slateRef>
+</LanguageData>

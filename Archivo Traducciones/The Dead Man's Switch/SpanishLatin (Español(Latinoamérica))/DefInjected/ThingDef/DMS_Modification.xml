@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Additional Armor Plating -->
+  <DMS_BF_ExtendArmor.label>placas de blindaje</DMS_BF_ExtendArmor.label>
+  <!-- EN: Composite armor plates designed for battle frame pylons add survivability to the battle frame by protecting it from fragmentation and medium-caliber gunfire. -->
+  <DMS_BF_ExtendArmor.description>Placas de blindaje compuesto diseñadas para los pilones de los armazones de batalla aumentan la supervivencia del armazón de batalla protegiéndolo de la fragmentación y los disparos de mediano calibre.</DMS_BF_ExtendArmor.description>
+  <!-- EN: Use {0_label} -->
+  <DMS_BF_ExtendArmor.comps.CompUsable.useLabel>Usar {0_label}</DMS_BF_ExtendArmor.comps.CompUsable.useLabel>
+  
+  <!-- EN: Extended Cargo Rack -->
+  <DMS_BF_ExtendCargo.label>soporte de carga</DMS_BF_ExtendCargo.label>
+  <!-- EN: Side mounted cargo racks suitable for battle frame pylons. The racks increase the carrying capacity of battle frame and their variants. -->
+  <DMS_BF_ExtendCargo.description>Soportes de carga montados lateralmente adecuados para los pilones de los armazones de batalla. Los soportes aumentan la capacidad de carga del armazón de batalla y sus variantes.</DMS_BF_ExtendCargo.description>
+  <!-- EN: Use {0_label} -->
+  <DMS_BF_ExtendCargo.comps.CompUsable.useLabel>Usar {0_label}</DMS_BF_ExtendCargo.comps.CompUsable.useLabel>
+  
+  <!-- EN: broken ceramics -->
+  <DMS_BrokenCeramics.label>cerámica rota</DMS_BrokenCeramics.label>
+  
+  <!-- EN: Ceramic Plates -->
+  <DMS_CeramicsPlating.label>placas de cerámica</DMS_CeramicsPlating.label>
+  <!-- EN: A set of ceramic plates designed to be mounted on to a mech's external shell to provide additional protection. Once damaged, the armor plating must be completely replaced.\n\nThe maximum amount of plating able to be installed on a mech can depend on its body size. -->
+  <DMS_CeramicsPlating.description>Un conjunto de placas de cerámica diseñadas para ser montadas en la carcasa externa de un meca para proporcionar protección adicional. Una vez dañada, la placa de blindaje debe ser reemplazada por completo.\n\nLa cantidad máxima de blindaje que se puede instalar en un meca puede depender de su tamaño corporal.</DMS_CeramicsPlating.description>
+  <!-- EN: Use {0_label} -->
+  <DMS_CeramicsPlating.comps.CompUsable.useLabel>Usar {0_label}</DMS_CeramicsPlating.comps.CompUsable.useLabel>
+  
+  <!-- EN: Nuclear Battery -->
+  <DMS_NuclearBattery.label>batería nuclear</DMS_NuclearBattery.label>
+  <!-- EN: A nuclear fission reactor powering a quantum battery, this device is commonly found in many unmanned signal stations and defense robots. It consists of six high-density uranium-235 columns with integrated thermocouples all wrapped in a high-strength shell. Its energy is enough to make most models of automatroid operate for decades. -->
+  <DMS_NuclearBattery.description>Un reactor de fisión nuclear que alimenta una batería cuántica, este dispositivo se encuentra comúnmente en muchas estaciones de señales no tripuladas y robots de defensa. Consiste en seis columnas de uranio-235 de alta densidad con termopares integrados, todo envuelto en una carcasa de alta resistencia. Su energía es suficiente para hacer que la mayoría de los modelos de automatroide operen durante décadas.</DMS_NuclearBattery.description>
+  <!-- EN: Use {0_label} -->
+  <DMS_NuclearBattery.comps.CompUsable.useLabel>Usar {0_label}</DMS_NuclearBattery.comps.CompUsable.useLabel>
+  
+  <!-- EN: Reinforced Frame -->
+  <DMS_ReinforcedFrame.label>armazón reforzado</DMS_ReinforcedFrame.label>
+  <!-- EN: A set of tungsteel parts made to replace those prone to wearing down, effectively improving reliability and durability during high-intensity combat. These heavy-duty replacement parts will significantly increase the weight of the mech and affect its speed. -->
+  <DMS_ReinforcedFrame.description>Un conjunto de piezas de tungstanio hechas para reemplazar aquellas propensas al desgaste, mejorando eficazmente la fiabilidad y la durabilidad durante el combate de alta intensidad. Estas piezas de repuesto de alta resistencia aumentarán significativamente el peso del meca y afectarán su velocidad.</DMS_ReinforcedFrame.description>
+  <!-- EN: Use {0_label} -->
+  <DMS_ReinforcedFrame.comps.CompUsable.useLabel>Usar {0_label}</DMS_ReinforcedFrame.comps.CompUsable.useLabel>
+  
+  <!-- EN: Synthetic Tendon -->
+  <DMS_SyntheticTendon.label>tendón sintético</DMS_SyntheticTendon.label>
+  <!-- EN: Biosynthetic muscles attached on the outer layer of mechanical limbs. Synthetic tendons effectively increase output at the cost of additional energy consumption. -->
+  <DMS_SyntheticTendon.description>Músculos biosintéticos unidos a la capa externa de las extremidades mecánicas. Los tendones sintéticos aumentan eficazmente la producción a costa de un consumo de energía adicional.</DMS_SyntheticTendon.description>
+  <!-- EN: Use {0_label} -->
+  <DMS_SyntheticTendon.comps.CompUsable.useLabel>Usar {0_label}</DMS_SyntheticTendon.comps.CompUsable.useLabel>
+  
+  <!-- EN: Heavy Hydraulic Frame -->
+  <DMS_TB_HeavyHydraulicFrame.label>armazón hidráulico pesado</DMS_TB_HeavyHydraulicFrame.label>
+  <!-- EN: A high durability reinforced hydraulic frame designed as a platform for mounting heavy weapons on Iguanas and Geckos. -->
+  <DMS_TB_HeavyHydraulicFrame.description>Un armazón hidráulico reforzado de alta durabilidad diseñado como plataforma para montar armas pesadas en mecanoides bípedos.</DMS_TB_HeavyHydraulicFrame.description>
+  <!-- EN: Use {0_label} -->
+  <DMS_TB_HeavyHydraulicFrame.comps.CompUsable.useLabel>Usar {0_label}</DMS_TB_HeavyHydraulicFrame.comps.CompUsable.useLabel>
+  
+  <!-- EN: unfinished modification -->
+  <UnfinishedModification.label>modificacion sin terminar</UnfinishedModification.label>
+  <!-- EN: An unfinished modification. -->
+  <UnfinishedModification.description>Una modificacion sin terminar.</UnfinishedModification.description>
+  
+</LanguageData>

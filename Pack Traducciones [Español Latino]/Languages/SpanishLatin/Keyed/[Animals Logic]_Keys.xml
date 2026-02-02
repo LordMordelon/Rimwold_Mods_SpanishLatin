@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <ALConfigAlwaysShowRelationsLabel>Mostrar siempre las relaciones de los animales</ALConfigAlwaysShowRelationsLabel>
+  <ALConfigAlwaysShowRelationsTooltip>Por defecto, solo se muestran las relaciones con animales con nombre. Esto permite verlas todas.</ALConfigAlwaysShowRelationsTooltip>
+  <ALConfigAnimalsCanUseFoodDispenserLabel>Permitir que los animales usen el dispensador de pasta nutritiva</ALConfigAnimalsCanUseFoodDispenserLabel>
+  <ALConfigAnimalsCanUseFoodDispenserTooltip>Los animales serán capaces de activar el dispensador. Advertencia: incluye una pequeña modificación técnica (conflicto muy poco probable). Si los animales no lo usan, verifica que el edificio esté dentro de su zona permitida.</ALConfigAnimalsCanUseFoodDispenserTooltip>
+  <ALConfigCuriosityEatingLabel>Evitar que los animales coman cosas al azar</ALConfigCuriosityEatingLabel>
+  <ALConfigCuriosityEatingTooltip>Evita principalmente que los animales consuman drogas sin valor nutricional o elementos fuera de sus zonas permitidas. Seguirán comiendo alimentos si estos se encuentran dentro de su zona asignada.</ALConfigCuriosityEatingTooltip>
+  <ALConfigEggConversionLabel>Convertir los huevos estropeados por la temperatura en huevos de gallina sin fertilizar</ALConfigEggConversionLabel>
+  <ALConfigEggConversionTooltip>Esto no afecta a los huevos ya estropeados.</ALConfigEggConversionTooltip>
+  <ALConfigHaulingMTBLabel>Intervalo entre transportes {0}h. Por defecto: 1.5h.</ALConfigHaulingMTBLabel>
+  <ALConfigHaulingMTBTooltip>Ajustar a 0 aumenta drásticamente la productividad, pero puede afectar el rendimiento con una gran cantidad de animales entrenados.</ALConfigHaulingMTBTooltip>
+  <ALConfigHostilePredatorsLabel>Los depredadores que cazan a tus peones son considerados hostiles por toda tu facción</ALConfigHostilePredatorsLabel>
+  <ALConfigHostilePredatorsTooltip>Esto no cambia la respuesta de autodefensa de tus peones, solo les permite reconocer al depredador como una amenaza activa.</ALConfigHostilePredatorsTooltip>
+  <ALConfigMeatConversionLabel>Convertir cualquier carne de animal genérica en carne de pollo al despiezar</ALConfigMeatConversionLabel>
+  <ALConfigMeatConversionTooltip>Esto no afecta a la carne ya despiezada.</ALConfigMeatConversionTooltip>
+  <ALConfigMedicalAlertsLabel>Alertas médicas para animales</ALConfigMedicalAlertsLabel>
+  <ALConfigMedicalAlertsTooltip>Muestra alertas en el margen derecho cuando los animales de la colonia están heridos, necesitan rescate o están en estado crítico.</ALConfigMedicalAlertsTooltip>
+  <ALConfigShearCorpsesLabel>Esquilar cadáveres al despiezar</ALConfigShearCorpsesLabel>
+  <ALConfigShearCorpsesTooltip>Solo funciona con animales "esquilables" del juego base, no con recursos exóticos de otros mods.</ALConfigShearCorpsesTooltip>
+  <ALConfigShowExtraDisplayStatsLabel>Mostrar estadísticas adicionales para los peones</ALConfigShowExtraDisplayStatsLabel>
+  <ALConfigShowExtraDisplayStatsTooltip>Muestra algunas estadísticas que el juego base no incluye, como la producción de recursos.</ALConfigShowExtraDisplayStatsTooltip>
+  <ALConfigTamenessDecayThresholdLabel>Umbral para el deterioro del amansamiento {0}%. Por defecto: 10.1%.</ALConfigTamenessDecayThresholdLabel>
+  <ALConfigTamenessDecayThresholdTooltip>Ajustar al 100% para evitar que los animales pierdan el amansamiento.</ALConfigTamenessDecayThresholdTooltip>
+  <ALConfigTamingAgeFactorLabel>Los animales jóvenes son más fáciles de manejar</ALConfigTamingAgeFactorLabel>
+  <ALConfigTamingAgeFactorTooltip>Hace que los animales no adultos sean más fáciles de domesticar y entrenar, reduciendo su salvajismo. Es proporcional a su edad: los recién nacidos son mucho más fáciles, mientras que los casi adultos apenas se ven afectados.</ALConfigTamingAgeFactorTooltip>
+  <ALConfigToxicBuildupRotLabel>Multiplicador de probabilidad de pudrición por toxicidad: {0}</ALConfigToxicBuildupRotLabel>
+  <ALConfigToxicBuildupRotTooltip>Por defecto, los animales que mueren con una acumulación tóxica grave tienen una probabilidad de pudrirse inmediatamente. Esto busca dificultar la lluvia tóxica, pero tiene el efecto secundario de que las cobras no pueden comer sus presas, matando a todos los animales pequeños y muriendo de hambre. Ajusta a 0% para eliminar la probabilidad, o a 100% para la fórmula original.</ALConfigToxicBuildupRotTooltip>
+  <ALConfigTradeHintsLabel>Etiquetas para animales en interfaces de comercio y caravanas</ALConfigTradeHintsLabel>
+  <ALConfigTradeHintsTooltip>Muestra el sexo, entrenamiento y crecimiento de lana del animal.</ALConfigTradeHintsTooltip>
+  <ALConfigTrainingDecaySpeedFactorLabel>Velocidad de deterioro de entrenamiento {0}. Por defecto: 100%.</ALConfigTrainingDecaySpeedFactorLabel>
+  <ALConfigTrainingDecaySpeedFactorTooltip>Ajustar al 1% para que sea lo más lento posible.</ALConfigTrainingDecaySpeedFactorTooltip>
+  <AL_ResourceAmount>Cantidad de producto</AL_ResourceAmount>
+  <AL_ResourceAmount_Desc>La cantidad de recurso recolectado de esta criatura y el tiempo que tarda en crecer.</AL_ResourceAmount_Desc>
+  <AL_ResourceType>Tipo de producto</AL_ResourceType>
+  <AL_ResourceType_Desc>Este animal puede producir algún tipo de recurso que no se considera leche ni lana. Ten en cuenta que esto puede ser menos fiable, ya que se usa para animales de mods con reglas de producción personalizadas.</AL_ResourceType_Desc>
+  <AnimalNeedsRescue>Un animal necesita ser rescatado</AnimalNeedsRescue>
+  <AnimalNeedsTreatment>Un animal necesita tratamiento</AnimalNeedsTreatment>
+  <AnimalNeedsTreatmentDesc>Estos animales requieren atención médica. Sin ella, podrían morir o sufrir secuelas permanentes.\n\n{0}</AnimalNeedsTreatmentDesc>
+  <AnimalsNeedRescue>Varios animales necesitan ser rescatados</AnimalsNeedRescue>
+  <AnimalsNeedRescueDesc>Estos animales están incapacitados en el suelo:\n\n{0}\nEnvía a un colono para rescatarlos y llevarlos a una cama.\n\n(Para rescatar, selecciona a un colono, haz clic derecho sobre la víctima y elige "Rescatar").</AnimalsNeedRescueDesc>
+  <AnimalsNeedTreatment>Varios animales necesitan tratamiento</AnimalsNeedTreatment>
+  <AnimalsWithLifeThreateningDisease>Emergencia médica (animales)</AnimalsWithLifeThreateningDisease>
+  <AnimalsWithLifeThreateningDiseaseAmputationDesc>Estos animales corren el riesgo de morir a causa de una enfermedad grave:\n\n{0}\nConsidere la posibilidad de amputar o reemplazar las extremidades infectadas para mantenerlos vivos.</AnimalsWithLifeThreateningDiseaseAmputationDesc>
+  <AnimalsWithLifeThreateningDiseaseDesc>Estos animales corren el riesgo de morir a causa de una enfermedad grave:\n\n{0}\nAsegúrese de que reciban la mejor atención médica posible.</AnimalsWithLifeThreateningDiseaseDesc>
+  <EggAmount>Cantidad de huevos</EggAmount>
+  <EggFemale>Solo hembras (huevos)</EggFemale>
+  <EggFemaleExplanation>Algunas especies pueden poner huevos independientemente del sexo, pero en la mayoría solo las hembras pueden hacerlo.</EggFemaleExplanation>
+  <EggIncubation>Incubación de huevos</EggIncubation>
+  <EggIncubationExplanation>Cuánto tiempo tarda un huevo en eclosionar.</EggIncubationExplanation>
+  <EggNeedFertilization>Los huevos deben estar fertilizados</EggNeedFertilization>
+  <EggNeedFertilizationExplanation>Algunas especies pueden producir huevos sin fertilizar, pero muchas otras no.</EggNeedFertilizationExplanation>
+  <EggType>Tipo de huevo</EggType>
+  <GestationPeriod>Periodo de gestación</GestationPeriod>
+  <GestationPeriodExplanation>Cuánto tiempo se tarda en producir una nueva cría.</GestationPeriodExplanation>
+  <LitterSize>Tamaño de la camada</LitterSize>
+  <LitterSizeExplanation>Cuántas crías pueden producirse a la vez.</LitterSizeExplanation>
+  <MilkAmount>Cantidad de leche</MilkAmount>
+  <MilkFemale>Solo hembras (leche)</MilkFemale>
+  <MilkFemaleExplanation>Algunas especies pueden producir leche independientemente del sexo, pero en la mayoría solo se pueden ordeñar las hembras.</MilkFemaleExplanation>
+  <MilkType>Tipo de leche</MilkType>
+  <Stat_Race_EggAmount_Desc>La cantidad de huevos en una nidada y cuánto tiempo se tarda en producirlos.</Stat_Race_EggAmount_Desc>
+  <Stat_Race_EggType_Desc>El tipo de huevos que pondrá esta criatura.</Stat_Race_EggType_Desc>
+  <Stat_Race_MilkAmount_Desc>La cantidad de leche obtenida al ordeñar a esta criatura y el tiempo que tarda en producirse.</Stat_Race_MilkAmount_Desc>
+  <Stat_Race_MilkType_Desc>El tipo de leche que producirá esta criatura al ser ordeñada.</Stat_Race_MilkType_Desc>
+  <Stat_Race_WoolAmount_Desc>La cantidad de lana obtenida al esquilar a esta criatura y el tiempo que tarda en crecer.</Stat_Race_WoolAmount_Desc>
+  <Stat_Race_WoolType_Desc>El tipo de lana que producirá esta criatura al ser esquilada.</Stat_Race_WoolType_Desc>
+  <TimeToMature>Edad de madurez</TimeToMature>
+  <TimeToMatureExplanation>Cuánto tiempo se tarda en alcanzar la edad reproductiva, la edad en la que puede producir leche/lana, o la última etapa de vida definida para especies que no pueden reproducirse.</TimeToMatureExplanation>
+  <WoolAmount>Cantidad de lana</WoolAmount>
+  <WoolType>Tipo de lana</WoolType>
+</LanguageData>

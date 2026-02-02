@@ -1,0 +1,124 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: aerodrone -->
+  <VFED_Aerodrone.label>aerodron</VFED_Aerodrone.label>
+  <!-- EN: Aerodrone is a spacer-tech, unmanned aerial vehicle equipped with advanced sensors and a missile payload. Designed for autonomous long-range operations, it's commonly used by the Empire for reconnaissance and bombardment. Its ability to release powerful missile salvos makes it effective against various targets. This aerodrone is temporarily disabled due to the recharge cycle. -->
+  <VFED_Aerodrone.description>El aerodron es un vehículo aéreo no tripulado de tecnología espacial equipado con sensores avanzados y una carga útil de misiles. Diseñado para operaciones autónomas de largo alcance, es comúnmente utilizado por el Imperio para reconocimiento y bombardeo. Su capacidad para lanzar poderosas salvas de misiles lo hace efectivo contra varios objetivos. Este aerodron está temporalmente deshabilitado debido al ciclo de recarga.</VFED_Aerodrone.description>
+  
+  <!-- EN: aerodrone battery pack -->
+  <VFED_AerodroneBatteryPack.label>paquete de baterías de aerodron</VFED_AerodroneBatteryPack.label>
+  <!-- EN: A large, overcharged aerodrone battery. Will release a strong electromagnetic pulse when damaged, potentially disabling nearby defenses. -->
+  <VFED_AerodroneBatteryPack.description>Una batería de aerodron grande y sobrecargada. Liberará un fuerte pulso electromagnético cuando se dañe, desactivando potencialmente las defensas cercanas.</VFED_AerodroneBatteryPack.description>
+  
+  <!-- EN: aerodrone munitions crate -->
+  <VFED_AerodroneMunitionsCrate.label>caja de municiones de aerodron</VFED_AerodroneMunitionsCrate.label>
+  <!-- EN: A large military crate of aerodrone munitions. Will explode when damaged, sending armed shells flying in random directions. -->
+  <VFED_AerodroneMunitionsCrate.description>Una gran caja militar de municiones de aerodron. Explotará cuando se dañe, enviando obuses armados volando en direcciones aleatorias.</VFED_AerodroneMunitionsCrate.description>
+  
+  <!-- EN: autocannon ammo box -->
+  <VFED_AmmoBox_Autocannon.label>caja de proyectiles palintone</VFED_AmmoBox_Autocannon.label>
+  <!-- EN: A small-sized box containing autocannon ammunition. Used by Palintone turrets to reload. May explode when damaged. -->
+  <VFED_AmmoBox_Autocannon.description>Una caja de tamaño pequeño que contiene munición de cañón automático. Utilizada por las torretas palintone para recargar. Puede explotar cuando se daña.</VFED_AmmoBox_Autocannon.description>
+  
+  <!-- EN: missile ammo box -->
+  <VFED_AmmoBox_Missile.label>caja de misiles onager</VFED_AmmoBox_Missile.label>
+  <!-- EN: A small-sized box containing missiles. Used by Onager turrets to reload. May explode when damaged. -->
+  <VFED_AmmoBox_Missile.description>Una caja de tamaño pequeño que contiene misiles. Utilizada por las torretas onager para recargar. Puede explotar cuando se daña.</VFED_AmmoBox_Missile.description>
+  
+  <!-- EN: uranium slug ammo box -->
+  <VFED_AmmoBox_UraniumSlug.label>caja de proyectiles kontarion</VFED_AmmoBox_UraniumSlug.label>
+  <!-- EN: A small-sized box containing uranium slug ammunition. Used by Kontarion turrets to reload. May explode when damaged. -->
+  <VFED_AmmoBox_UraniumSlug.description>Una caja de tamaño pequeño que contiene munición de balas de uranio. Utilizada por las torretas kontarion para recargar. Puede explotar cuando se daña.</VFED_AmmoBox_UraniumSlug.description>
+  
+  <!-- EN: biosecured crate -->
+  <VFED_BiosecuredCrate.label>caja biosegura</VFED_BiosecuredCrate.label>
+  <!-- EN: A small imperial crate containing extremely valuable items. May contain critical intel. Due to the special restrictions, only imperial nobles are capable of opening it.\n\nAny attempt to destroy it will destroy the items as well. -->
+  <VFED_BiosecuredCrate.description>Una pequeña caja imperial que contiene artículos extremadamente valiosos. Puede contener inteligencia crítica. Debido a las restricciones especiales, solo los nobles imperiales son capaces de abrirla.\n\nCualquier intento de destruirla destruirá también los artículos.</VFED_BiosecuredCrate.description>
+  
+  <!-- EN: burnout intel scraper -->
+  <VFED_BurnoutIntelScraper.label>raspador de inteligencia</VFED_BurnoutIntelScraper.label>
+  <!-- EN: A deserter device capable of intercepting imperial communication. When activated, it will begin intel scraping, emitting a pulse in regular intervals. Each pulse has a chance of generating a small amount of intel, but it may also increase your visibility and even alert an imperial strike force. After 10 pulses, the machine burns out and triggers a fiery explosion. -->
+  <VFED_BurnoutIntelScraper.description>Un dispositivo de desertor capaz de interceptar la comunicación imperial. Cuando se activa, comenzará a raspar inteligencia, emitiendo un pulso en intervalos regulares. Cada pulso tiene la posibilidad de generar una pequeña cantidad de inteligencia, pero también puede aumentar tu visibilidad e incluso alertar a una fuerza de ataque imperial. Después de 10 pulsos, la máquina se quema y provoca una explosión ardiente.</VFED_BurnoutIntelScraper.description>
+  
+  <!-- EN: crashed aerodrone -->
+  <VFED_CrashedAerodrone.label>aerodron estrellado</VFED_CrashedAerodrone.label>
+  <!-- EN: A crashed imperial aerodrone. -->
+  <VFED_CrashedAerodrone.description>Un aerodron imperial estrellado.</VFED_CrashedAerodrone.description>
+  
+  <!-- EN: fuel tank -->
+  <VFED_FuelTank.label>tanque de combustible</VFED_FuelTank.label>
+  <!-- EN: A large fuel tank used to refuel Imperial shuttles. Will detonate if damaged beyond a certain point, potentially triggering a chain reaction. -->
+  <VFED_FuelTank.description>Un gran tanque de combustible utilizado para repostar transbordadores imperiales. Detonará si se daña más allá de cierto punto, provocando potencialmente una reacción en cadena.</VFED_FuelTank.description>
+  
+  <!-- EN: imperial maxpack -->
+  <VFED_ImperialMaxpack.label>maxpack imperial</VFED_ImperialMaxpack.label>
+  <!-- EN: The Imperial maxpack is a formidable armored transport truck, known for its impressive cargo capacity. Its armor is impenetrable, ensuring the safety of its contents throughout transit. Once in motion, the Maxpack’s doors remain sealed until it reaches its predetermined destination. While attempting to loot its cargo is futile due to built-in self-destruct protocols, its robust exterior makes it an ideal shield on the battlefield. -->
+  <VFED_ImperialMaxpack.description>El maxpack imperial es un formidable camión de transporte blindado, conocido por su impresionante capacidad de carga. Su armadura es impenetrable, asegurando la seguridad de su contenido durante todo el tránsito. Una vez en movimiento, las puertas del Maxpack permanecen selladas hasta que llega a su destino predeterminado. Si bien intentar saquear su carga es inútil debido a los protocolos de autodestrucción incorporados, su exterior robusto lo convierte en un escudo ideal en el campo de batalla.</VFED_ImperialMaxpack.description>
+  
+  <!-- EN: imperial mega high-shield -->
+  <VFED_ImperialMegaHighShield.label>mega escudo alto imperial</VFED_ImperialMegaHighShield.label>
+  <!-- EN: An advanced shielding apparatus, the Imperial mega high-shield projects a vast momentum repulsor field, allowing shots to exit but preventing any from entering. Specifically calibrated for high angles, it's adept at deflecting incoming mortar rounds, aerodrone strikes and even orbital slicer beams. The unit can be temporarily disabled by EMP attacks, either by shocking the projector unit itself, or using EMP munitions on the shield. Draws huge amounts of power. -->
+  <VFED_ImperialMegaHighShield.description>Un aparato de blindaje avanzado, el mega escudo alto imperial proyecta un vasto campo repulsor de momento, permitiendo que los disparos salgan pero impidiendo que entren. Específicamente calibrado para ángulos altos, es experto en desviar rondas de mortero entrantes, ataques de aerodrones e incluso rayos cortadores orbitales. La unidad puede desactivarse temporalmente mediante ataques EMP, ya sea impactando la unidad del proyector en sí o usando municiones EMP en el escudo. Consume enormes cantidades de energía.</VFED_ImperialMegaHighShield.description>
+  
+  <!-- EN: imperial underfarm -->
+  <VFED_ImperialUnderfarm.label>granja subterránea imperial</VFED_ImperialUnderfarm.label>
+  <!-- EN: An underground hydroponics basic used by the empire to feed their subjects. Fully automated and connected to water mains, these farms require no labor to operate. -->
+  <VFED_ImperialUnderfarm.description>Una base hidropónica subterránea utilizada por el imperio para alimentar a sus súbditos. Totalmente automatizadas y conectadas a la red de agua, estas granjas no requieren mano de obra para funcionar.</VFED_ImperialUnderfarm.description>
+  
+  <!-- EN: strike buoy -->
+  <VFED_StrikeBuoy.label>boya de ataque</VFED_StrikeBuoy.label>
+  <!-- EN: A small surveillance buoy usually deployed around temporary convoy stops. Linked directly with a patrolling aerodrone, once triggered, it will send down a small missile salvo on its location. -->
+  <VFED_StrikeBuoy.description>Una pequeña boya de vigilancia generalmente desplegada alrededor de paradas temporales de convoyes. Vinculada directamente con un aerodron de patrulla, una vez activada, enviará una pequeña salva de misiles a su ubicación.</VFED_StrikeBuoy.description>
+  
+  <!-- EN: supply crate -->
+  <VFED_SupplyCrate.label>caja de suministros</VFED_SupplyCrate.label>
+  <!-- EN: A small imperial crate containing valuables. May contain intel. Opening it requires bypassing several security protocols and takes a short while.\n\nAny attempt to destroy it will destroy the items as well. -->
+  <VFED_SupplyCrate.description>Una pequeña caja imperial que contiene objetos de valor. Puede contener inteligencia. Abrirla requiere eludir varios protocolos de seguridad y lleva poco tiempo.\n\nCualquier intento de destruirla destruirá también los artículos.</VFED_SupplyCrate.description>
+  
+  <!-- EN: surveillance display bank -->
+  <VFED_SurveillanceDisplayBank.label>banco de pantallas de vigilancia</VFED_SurveillanceDisplayBank.label>
+  <!-- EN: An imperial computer interface. Linked to the surveillance console, the display bank shows live footage from all surveillance pillars in the sector. -->
+  <VFED_SurveillanceDisplayBank.description>Una interfaz informática imperial. Vinculado a la consola de vigilancia, el banco de pantallas muestra imágenes en vivo de todos los pilares de vigilancia en el sector.</VFED_SurveillanceDisplayBank.description>
+  
+  <!-- EN: surveillance pillar -->
+  <VFED_SurveillancePillar.label>pilar de vigilancia</VFED_SurveillancePillar.label>
+  <!-- EN: A large pillar with a series of sensors, cameras and motion detectors. Thanks to the sophisticated face recognition system, surveillance pillar can detect the presence of deserters in radius and will increase the visibility of whichever faction has sent them. Can be disabled via electromagnetic pulse, or by simply cutting off the power grid. -->
+  <VFED_SurveillancePillar.description>Un gran pilar con una serie de sensores, cámaras y detectores de movimiento. Gracias al sofisticado sistema de reconocimiento facial, el pilar de vigilancia puede detectar la presencia de desertores en el radio y aumentará la visibilidad de cualquier facción que los haya enviado. Se puede desactivar mediante pulso electromagnético o simplemente cortando la red eléctrica.</VFED_SurveillancePillar.description>
+  
+  <!-- EN: surveillance console -->
+  <VFED_SurveillanceStation.label>consola de vigilancia</VFED_SurveillanceStation.label>
+  <!-- EN: A large console designed to link to surrounding surveillance pillars. Provides users with all the necessary data related to enemy movements in a given sector. -->
+  <VFED_SurveillanceStation.description>Una gran consola diseñada para vincularse a los pilares de vigilancia circundantes. Proporciona a los usuarios todos los datos necesarios relacionados con los movimientos enemigos en un sector determinado.</VFED_SurveillanceStation.description>
+  
+  <!-- EN: techite disc stack -->
+  <VFED_TechiteDiscStack.label>pila de discos de tecnita</VFED_TechiteDiscStack.label>
+  <!-- EN: A compact stack of discs crafted from the enigmatic element known as techite, produced exclusively by the Empire for knowledge transcribing. Primarily designed for preserving information. When ignited, they release a dense cloud of blinding smoke and sparks, capable of engulfing a vast area in flames. -->
+  <VFED_TechiteDiscStack.description>Una pila compacta de discos elaborados a partir del enigmático elemento conocido como tecnita, producido exclusivamente por el Imperio para la transcripción de conocimientos. Diseñado principalmente para preservar información. Cuando se encienden, liberan una densa nube de humo cegador y chispas, capaz de envolver una vasta área en llamas.</VFED_TechiteDiscStack.description>
+  
+  <!-- EN: techprinter -->
+  <VFED_Techprinter.label>tecnoimpresora</VFED_Techprinter.label>
+  <!-- EN: The Techprinter is a marvel of technological innovation, designed to capture and preserve the intricate knowledge residing within a techfriar’s mind. These advanced machines imprint this invaluable information directly onto techite discs. Techprints provide foundational knowledge for researchers, shedding light on innovations from more advanced societies. -->
+  <VFED_Techprinter.description>La tecnoimpresora es una maravilla de la innovación tecnológica, diseñada para capturar y preservar el intrincado conocimiento que reside dentro de la mente de un tecnofraile. Estas máquinas avanzadas imprimen esta valiosa información directamente en discos de tecnita. Los tecnoplanos proporcionan conocimientos fundamentales para los investigadores, arrojando luz sobre las innovaciones de sociedades más avanzadas.</VFED_Techprinter.description>
+  
+  <!-- EN: water main -->
+  <VFED_WaterMain.label>tubería principal de agua</VFED_WaterMain.label>
+  <!-- EN: A large node connecting all the nearby water mains. Required for the underfarms to operate. -->
+  <VFED_WaterMain.description>Un gran nodo que conecta todas las tuberías principales de agua cercanas. Necesario para que funcionen las granjas subterráneas.</VFED_WaterMain.description>
+  
+  <!-- EN: zeus cannon -->
+  <VFED_ZeusCannon.label>cañón zeus</VFED_ZeusCannon.label>
+  <!-- EN: A relic of ancient Sophiamundan technology, the Zeus Cannon is a closely guarded secret of the Empire. This formidable artillery piece has the unique ability to convert vast quantities of electricity into potent energy blasts. With unmatched range, it can pierce the atmosphere to target and obliterate objects in orbit. A testament to lost engineering brilliance, it stands as both a weapon and a symbol of the Empire's might.\n\nIt has a long charging cycle, after which it will aim at the target and release a devastating energy blast. -->
+  <VFED_ZeusCannon.description>Una reliquia de la antigua tecnología de Sophiamunda, el Cañón Zeus es un secreto celosamente guardado del Imperio. Esta formidable pieza de artillería tiene la capacidad única de convertir grandes cantidades de electricidad en potentes explosiones de energía. Con un alcance inigualable, puede atravesar la atmósfera para apuntar y destruir objetos en órbita. Un testimonio de la brillantez de la ingeniería perdida, se erige como un arma y un símbolo del poder del Imperio.\n\nTiene un largo ciclo de carga, después del cual apuntará al objetivo y liberará una devastadora explosión de energía.</VFED_ZeusCannon.description>
+  
+  <!-- EN: zeus cannon capacitor bank -->
+  <VFED_ZeusCannonCapacitorBank.label>banco de condensadores del cañón zeus</VFED_ZeusCannonCapacitorBank.label>
+  <!-- EN: A capacitor bank that transforms electricity into raw energy for the Zeus cannon. Will release a large EMP shockwave when destroyed, potentially disabling the Zeus cannon itself. -->
+  <VFED_ZeusCannonCapacitorBank.description>Un banco de condensadores que transforma la electricidad en energía bruta para el cañón Zeus. Liberará una gran onda de choque EMP cuando se destruya, desactivando potencialmente el propio cañón Zeus.</VFED_ZeusCannonCapacitorBank.description>
+  
+  <!-- EN: zeus cannon control station -->
+  <VFED_ZeusCannonControlStation.label>estación de control del cañón zeus</VFED_ZeusCannonControlStation.label>
+  <!-- EN: This terminal serves as the primary interface for operating the Zeus Cannon batteries. Equipped with sophisticated controls and targeting systems, the Zeus Cannon Control Station ensures precision and coordination when deploying the formidable firepower of the Zeus Cannons. Operators need to be within its radius to control it. -->
+  <VFED_ZeusCannonControlStation.description>Esta terminal sirve como la interfaz principal para operar las baterías del Cañón Zeus. Equipada con controles sofisticados y sistemas de puntería, la Estación de Control del Cañón Zeus garantiza precisión y coordinación al desplegar la formidable potencia de fuego de los Cañones Zeus. Los operadores deben estar dentro de su radio para controlarlo.</VFED_ZeusCannonControlStation.description>
+  
+</LanguageData>

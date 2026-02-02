@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: affected by freezing burst -->
+  <AM_FreezingBurst.label>afectado por estallido congelante</AM_FreezingBurst.label>
+  <!-- EN: This person has been affected by a freezing burst, reducing their movement speed. Effects will go away after 12 hours. -->
+  <AM_FreezingBurst.description>Esta persona ha sido afectada por un estallido congelante, reduciendo su velocidad de movimiento. Los efectos desaparecerán después de 12 horas.</AM_FreezingBurst.description>
+  
+  <!-- EN: scrambled IFF -->
+  <AM_ScrambledIFF.label>IFF codificado</AM_ScrambledIFF.label>
+  <!-- EN: This mechanoid's IFF sensors have been scrambled, making it unable to properly identify its foes. It will fight on the side of the colony for a day, and after that it will revert to its former allegiance. -->
+  <AM_ScrambledIFF.description>Los sensores IFF de este mecanoide han sido codificados, lo que le impide identificar correctamente a sus enemigos. Luchará del lado de la colonia durante un día, y después volverá a su antigua lealtad.</AM_ScrambledIFF.description>
+  
+  <!-- EN: soul drain -->
+  <AM_SoulDrain.label>drenaje de alma</AM_SoulDrain.label>
+  <!-- EN: Caused by the apoptosis turret, a terrifying weapon designed to drain the souls of its targets. Equipped with soul-draining technology, it is capable of siphoning the life force of organic beings, leaving them weakened and vulnerable. Will eventually disappear. -->
+  <AM_SoulDrain.description>Causado por la torreta de apoptosis, un arma aterradora diseñada para drenar las almas de sus objetivos. Equipada con tecnología de drenaje de almas, es capaz de desviar la fuerza vital de los seres orgánicos, dejándolos debilitados y vulnerables. Eventualmente desaparecerá.</AM_SoulDrain.description>
+  <!-- EN: initial -->
+  <AM_SoulDrain.stages.initial.label>inicial</AM_SoulDrain.stages.initial.label>
+  <!-- EN: faint headed -->
+  <AM_SoulDrain.stages.faint_headed.label>mareado</AM_SoulDrain.stages.faint_headed.label>
+  <!-- EN: throbbing headache -->
+  <AM_SoulDrain.stages.throbbing_headache.label>dolor de cabeza punzante</AM_SoulDrain.stages.throbbing_headache.label>
+  <!-- EN: blacking out -->
+  <AM_SoulDrain.stages.blacking_out.label>desmayándose</AM_SoulDrain.stages.blacking_out.label>
+  <!-- EN: cellular death -->
+  <AM_SoulDrain.stages.cellular_death.label>muerte celular</AM_SoulDrain.stages.cellular_death.label>
+  
+</LanguageData>

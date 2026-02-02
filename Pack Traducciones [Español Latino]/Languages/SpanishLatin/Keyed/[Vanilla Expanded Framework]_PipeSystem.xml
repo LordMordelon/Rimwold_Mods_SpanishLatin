@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <PipeSystem_AddProcess>Añadir proceso</PipeSystem_AddProcess>
+  <PipeSystem_AllowManualRefill>Permitir rellenado manual</PipeSystem_AllowManualRefill>
+  <PipeSystem_AllowManualRefillDesc>Permite que los peones rellenen directamente el almacén</PipeSystem_AllowManualRefillDesc>
+  <PipeSystem_AmountOut>Cantidad máxima almacenada aquí: {0}</PipeSystem_AmountOut>
+  <PipeSystem_AugmentStack>+1</PipeSystem_AugmentStack>
+  <PipeSystem_AugmentStackB>+10</PipeSystem_AugmentStackB>
+  <PipeSystem_AugmentStackDesc>Aumenta el tamaño máximo de la pila de salida en 1.</PipeSystem_AugmentStackDesc>
+  <PipeSystem_AugmentStackDescB>Aumenta el tamaño máximo de la pila de salida en 10.</PipeSystem_AugmentStackDescB>
+  <PipeSystem_CancelCurrentProcess>Cancelar proceso actual</PipeSystem_CancelCurrentProcess>
+  <PipeSystem_CantExtract>No se puede extraer: los tanques están llenos</PipeSystem_CantExtract>
+  <PipeSystem_CantPlaceHere>{0} solo se puede colocar sobre el depósito de {1}. Usa el escáner de subsuelo para encontrar los depósitos.</PipeSystem_CantPlaceHere>
+  <PipeSystem_ChooseResult>Elegir resultado</PipeSystem_ChooseResult>
+  <PipeSystem_ChooseResultDesc>Elegir el resultado del procesador.</PipeSystem_ChooseResultDesc>
+  <PipeSystem_Consumption>Consumo de {0}</PipeSystem_Consumption>
+  <PipeSystem_ConsumptionExplained>La cantidad diaria de {0} que este edificio extraerá de la red de {1}.</PipeSystem_ConsumptionExplained>
+  <PipeSystem_ContentWillRot>El contenido se pudrirá en {0} debido a la falta de energía.</PipeSystem_ContentWillRot>
+  <PipeSystem_CopyProcesses>Copiar procesos</PipeSystem_CopyProcesses>
+  <PipeSystem_CurrentNotReachedAwful>El proceso aún no ha alcanzado la calidad Pésima</PipeSystem_CurrentNotReachedAwful>
+  <PipeSystem_CurrentQuality>Calidad actual: {0}</PipeSystem_CurrentQuality>
+  <PipeSystem_DeconstructDesc>Solo desmantelar tuberías que formen parte de la red de {0}.</PipeSystem_DeconstructDesc>
+  <PipeSystem_DeconstructLabel>Desmantelar tuberías de {0}</PipeSystem_DeconstructLabel>
+  <PipeSystem_DecreaseStack>-1</PipeSystem_DecreaseStack>
+  <PipeSystem_DecreaseStackB>-10</PipeSystem_DecreaseStackB>
+  <PipeSystem_DecreaseStackDesc>Disminuye el tamaño máximo de la pila de salida en 1.</PipeSystem_DecreaseStackDesc>
+  <PipeSystem_DecreaseStackDescB>Disminuye el tamaño máximo de la pila de salida en 10.</PipeSystem_DecreaseStackDescB>
+  <PipeSystem_ExcessStored>{0} sobrante: {1} {3} ({2} {3}/d almacenados)</PipeSystem_ExcessStored>
+  <PipeSystem_ExtractAtCurrentQuality>Extraer con la calidad actual</PipeSystem_ExtractAtCurrentQuality>
+  <PipeSystem_ExtractAtCurrentQuality_Desc>Extrae el producto con la calidad actual.</PipeSystem_ExtractAtCurrentQuality_Desc>
+  <PipeSystem_ExtractingAtCurrent>Extrayendo producto con la calidad actual</PipeSystem_ExtractingAtCurrent>
+  <PipeSystem_IdleConsumption>Consumo de {0} en reposo</PipeSystem_IdleConsumption>
+  <PipeSystem_IdleConsumptionExplained>La cantidad de {0} que este edificio extraerá de la red de {1} cuando esté inactivo.</PipeSystem_IdleConsumptionExplained>
+  <PipeSystem_MakeProcess>Fabricar {0}</PipeSystem_MakeProcess>
+  <PipeSystem_MarkedToTransferContent>Transfiriendo contenido a otros almacenes disponibles...</PipeSystem_MarkedToTransferContent>
+  <PipeSystem_MissingInputIngredients>Faltan entradas: {0}</PipeSystem_MissingInputIngredients>
+  <PipeSystem_NoProcess>Sin proceso actual</PipeSystem_NoProcess>
+  <PipeSystem_NoProcessAvailable>No hay procesos disponibles</PipeSystem_NoProcessAvailable>
+  <PipeSystem_NoStorageInNet>No hay almacén conectado</PipeSystem_NoStorageInNet>
+  <PipeSystem_NoStorageInNetDesc>Las siguientes redes no están conectadas a ningún edificio de almacenamiento, pero necesitan uno:</PipeSystem_NoStorageInNetDesc>
+  <PipeSystem_NotConnected>No conectado a {0}.</PipeSystem_NotConnected>
+  <PipeSystem_NothingToPickUp>Nada que recoger</PipeSystem_NothingToPickUp>
+  <PipeSystem_NothingToRefill>Nada para rellenar {0}</PipeSystem_NothingToRefill>
+  <PipeSystem_OrNet>o red de {0}</PipeSystem_OrNet>
+  <PipeSystem_OutputOnGround>Puede soltar en el suelo</PipeSystem_OutputOnGround>
+  <PipeSystem_OutputToNet>{0} a la red</PipeSystem_OutputToNet>
+  <PipeSystem_PasteAllRecipes>Pegar todos los procesos</PipeSystem_PasteAllRecipes>
+  <PipeSystem_PasteAllRecipes_Desc>Pega todos los procesos copiados en este procesador. Puedes seleccionar varios y los procesos se pegarán en todos ellos.</PipeSystem_PasteAllRecipes_Desc>
+  <PipeSystem_PasteProcesses>Pegar procesos</PipeSystem_PasteProcesses>
+  <PipeSystem_ProcessNeedsAwfulAtLeast>El proceso debe avanzar al menos hasta el tiempo de calidad Pésima, que es {0}</PipeSystem_ProcessNeedsAwfulAtLeast>
+  <PipeSystem_Processes>Procesos</PipeSystem_Processes>
+  <PipeSystem_ProcessorBuffer>Búfer: {0}</PipeSystem_ProcessorBuffer>
+  <PipeSystem_Produce>Producir {0} {1} de {2} {3}.</PipeSystem_Produce>
+  <PipeSystem_ProduceLabel>Producir {0} {1} usando:</PipeSystem_ProduceLabel>
+  <PipeSystem_Producing>Produciendo {0} {1}. Progreso del ciclo: {2}.</PipeSystem_Producing>
+  <PipeSystem_Product>Producto</PipeSystem_Product>
+  <PipeSystem_Production>Producción de {0}</PipeSystem_Production>
+  <PipeSystem_ProductionExplained>La cantidad diaria de {0} que este edificio producirá para la red de {1}.</PipeSystem_ProductionExplained>
+  <PipeSystem_ProgressInInfobox>{0}: {1}</PipeSystem_ProgressInInfobox>
+  <PipeSystem_QualitySelector>Selecciona la calidad en la que se detendrá este proceso</PipeSystem_QualitySelector>
+  <PipeSystem_ResourceLeft>Cantidad restante en el depósito: {0}.</PipeSystem_ResourceLeft>
+  <PipeSystem_ResourceNeeded>{0} necesario:</PipeSystem_ResourceNeeded>
+  <PipeSystem_ResourceOutput>{0} generado:</PipeSystem_ResourceOutput>
+  <PipeSystem_ResourceStored>{0} almacenado:</PipeSystem_ResourceStored>
+  <PipeSystem_StorageContentRotted>El contenido de {0} se ha podrido debido a la falta de energía.</PipeSystem_StorageContentRotted>
+  <PipeSystem_Stored>{0} almacenado en la red:</PipeSystem_Stored>
+  <PipeSystem_TransferContent>Transferir contenido del almacén</PipeSystem_TransferContent>
+  <PipeSystem_TransferContentDesc>Transfiere el contenido del almacén a otros almacenes disponibles.</PipeSystem_TransferContentDesc>
+  <PipeSystem_ValveClosed>Válvula cerrada.</PipeSystem_ValveClosed>
+  <PipeSystem_ValveOpened>Válvula abierta.</PipeSystem_ValveOpened>
+  <PipeSystem_XFromNet>{0} de la red</PipeSystem_XFromNet>
+</LanguageData>

@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>rewardLetterLabel->Noble's Gift</li>
+    <li>rewardLetterText->[rewardGiver_nameDef] has contacted you. [rewardDelayTicks_duration] ago, you hosted a [outcome] art exhibit for [rewardGiver_possessive] \n\nSince then, [rewardGiver_pronoun] has gotten back home safe, and was so appreciative [rewardGiver_pronoun] wants to give you a personal gift. [rewardGiver_pronoun] is sending you the following via drop pod:\n\n[listOfRewards]</li>
+  -->
+  <VFEE_DelayedArtExhibitOutcome.questContentRules.rulesStrings>
+    <li>rewardLetterLabel->Regalo del noble</li>
+    <li>rewardLetterText->[rewardGiver_nameDef] te ha contactado. Hace [rewardDelayTicks_duration], organizaste una exhibición de arte [outcome] para [rewardGiver_possessive] \n\nDesde entonces, [rewardGiver_pronoun] ha regresado a casa a salvo, y estaba tan agradecido que [rewardGiver_pronoun] quiere darte un regalo personal. [rewardGiver_pronoun] te está enviando lo siguiente a través de una cápsula de escape:\n\n[listOfRewards]</li>
+  </VFEE_DelayedArtExhibitOutcome.questContentRules.rulesStrings>
+  <!-- EN:
+    <li>questDescription->a delayed reward for art exhibit quest</li>
+  -->
+  <VFEE_DelayedArtExhibitOutcome.questDescriptionAndNameRules.rulesStrings>
+    <li>questDescription->una recompensa retrasada por la misión de exhibición de arte</li>
+  </VFEE_DelayedArtExhibitOutcome.questDescriptionAndNameRules.rulesStrings>
+  <!-- EN:
+    <li>questName->Art Exhibit delayed reward</li>
+  -->
+  <VFEE_DelayedArtExhibitOutcome.questNameRules.rulesStrings>
+    <li>questName->Recompensa retrasada de exhibición de arte</li>
+  </VFEE_DelayedArtExhibitOutcome.questNameRules.rulesStrings>
+  
+  <!-- EN:
+    <li>rewardLetterLabel->Noble's Gift</li>
+    <li>rewardLetterText->[rewardGiver_nameDef] has contacted you. [rewardDelayTicks_duration] ago, you hosted a [outcome] grand ball for [rewardGiver_possessive] \n\nSince then, [rewardGiver_pronoun] has gotten back home safe, and was so appreciative [rewardGiver_pronoun] wants to give you a personal gift. [rewardGiver_pronoun] is sending you the following via drop pod:\n\n[listOfRewards]</li>
+  -->
+  <VFEE_DelayedGrandBallOutcome.questContentRules.rulesStrings>
+    <li>rewardLetterLabel->Regalo del noble</li>
+    <li>rewardLetterText->[rewardGiver_nameDef] te ha contactado. Hace [rewardDelayTicks_duration], organizaste un gran baile [outcome] para [rewardGiver_possessive] \n\nDesde entonces, [rewardGiver_pronoun] ha regresado a casa a salvo, y estaba tan agradecido que [rewardGiver_pronoun] quiere darte un regalo personal. [rewardGiver_pronoun] te está enviando lo siguiente a través de una cápsula de escape:\n\n[listOfRewards]</li>
+  </VFEE_DelayedGrandBallOutcome.questContentRules.rulesStrings>
+  <!-- EN:
+    <li>questDescription->a delayed reward for grand ball quest</li>
+  -->
+  <VFEE_DelayedGrandBallOutcome.questDescriptionAndNameRules.rulesStrings>
+    <li>questDescription->una recompensa retrasada por la misión de gran baile</li>
+  </VFEE_DelayedGrandBallOutcome.questDescriptionAndNameRules.rulesStrings>
+  <!-- EN:
+    <li>questName->Grandball delayed reward</li>
+  -->
+  <VFEE_DelayedGrandBallOutcome.questNameRules.rulesStrings>
+    <li>questName->Recompensa retrasada de gran baile</li>
+  </VFEE_DelayedGrandBallOutcome.questNameRules.rulesStrings>
+  
+</LanguageData>

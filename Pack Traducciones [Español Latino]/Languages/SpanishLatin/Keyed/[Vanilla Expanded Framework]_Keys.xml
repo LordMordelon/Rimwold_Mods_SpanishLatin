@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <VEF.TeleportTo>Teletransportar a {0}</VEF.TeleportTo>
+  <VEF.Weapons.Stat_Thing_MaterialPerCharge>Munición por carga</VEF.Weapons.Stat_Thing_MaterialPerCharge>
+  <VEF.Weapons.Stat_Thing_MaterialPerCharge_Desc>La cantidad de {0} por carga que esta habilidad necesita para recargarse.</VEF.Weapons.Stat_Thing_MaterialPerCharge_Desc>
+  <VEF.Weapons.Stat_Thing_MaterialPerCharge_Value>{0} {1} por carga (total {2} cargas)</VEF.Weapons.Stat_Thing_MaterialPerCharge_Value>
+  <VFE_DeepDrillNo>El taladro profundo no se puede usar con {0}.</VFE_DeepDrillNo>
+  <VSE.CostGoodwill>coste: {0} de buena voluntad</VSE.CostGoodwill>
+  <VSE.Reinforcements>Refuerzos</VSE.Reinforcements>
+  <VSE.ReinforcementsDesc>Viendo que tus fuerzas sufrieron bajas, {FACTION_name} ha decidido reforzar su fuerza de asalto</VSE.ReinforcementsDesc>
+  <VWEL_ToggleHotshotDesc>Los disparos realizados mientras se está quieto calientan el arma, lo que permite una mayor velocidad de disparo. El sobrecalentamiento puede provocar una detonación.</VWEL_ToggleHotshotDesc>
+  <VWEL_ToggleHotshotLabel>Calentamiento del arma</VWEL_ToggleHotshotLabel>
+  <VanillaFactionsExpanded.AffectHiddenFactions>Afectar facciones ocultas</VanillaFactionsExpanded.AffectHiddenFactions>
+  <VanillaFactionsExpanded.AllFactions>Todas las facciones</VanillaFactionsExpanded.AllFactions>
+  <VanillaFactionsExpanded.AllFactionsIncludingHidden>Todas las facciones, incluyendo las ocultas</VanillaFactionsExpanded.AllFactionsIncludingHidden>
+  <VanillaFactionsExpanded.AlwaysHostile>Siempre hostil</VanillaFactionsExpanded.AlwaysHostile>
+  <VanillaFactionsExpanded.AnUnknownMod>un mod desconocido</VanillaFactionsExpanded.AnUnknownMod>
+  <VanillaFactionsExpanded.EquipShield>Equipar {0} como escudo</VanillaFactionsExpanded.EquipShield>
+  <VanillaFactionsExpanded.EquipWarningShieldUnusable>(inutilizable con {0})</VanillaFactionsExpanded.EquipWarningShieldUnusable>
+  <VanillaFactionsExpanded.EquipWarningShieldUnusableWithWeapon>({0} será inutilizable)</VanillaFactionsExpanded.EquipWarningShieldUnusableWithWeapon>
+  <VanillaFactionsExpanded.FactionButtonAdd>Añadir la facción</VanillaFactionsExpanded.FactionButtonAdd>
+  <VanillaFactionsExpanded.FactionButtonAddFull>Añadir la facción con asentamientos</VanillaFactionsExpanded.FactionButtonAddFull>
+  <VanillaFactionsExpanded.FactionButtonCancel>Cancelar</VanillaFactionsExpanded.FactionButtonCancel>
+  <VanillaFactionsExpanded.FactionButtonIgnore>No volver a preguntar por esta facción</VanillaFactionsExpanded.FactionButtonIgnore>
+  <VanillaFactionsExpanded.FactionButtonSkip>No hacer nada</VanillaFactionsExpanded.FactionButtonSkip>
+  <VanillaFactionsExpanded.FactionButtonSpawn>Generar</VanillaFactionsExpanded.FactionButtonSpawn>
+  <VanillaFactionsExpanded.FactionDiscoveryRequired>Está marcada como requerida, y debes añadirla a la partida.</VanillaFactionsExpanded.FactionDiscoveryRequired>
+  <VanillaFactionsExpanded.FactionFailedMessage>Error al generar esta facción. Se recomienda intentarlo de nuevo, pero ahora puedes omitir la adición de esta facción. Omitirla puede causar problemas.</VanillaFactionsExpanded.FactionFailedMessage>
+  <VanillaFactionsExpanded.FactionMessageFailed>Error al añadir la facción.</VanillaFactionsExpanded.FactionMessageFailed>
+  <VanillaFactionsExpanded.FactionMessageFailedFull>Error al crear una facción con asentamientos.</VanillaFactionsExpanded.FactionMessageFailedFull>
+  <VanillaFactionsExpanded.FactionMessageSuccess>Se ha añadido {FactionName}.</VanillaFactionsExpanded.FactionMessageSuccess>
+  <VanillaFactionsExpanded.FactionMessageSuccessFull>Se ha añadido {FactionName} con {Amount} asentamientos.</VanillaFactionsExpanded.FactionMessageSuccessFull>
+  <VanillaFactionsExpanded.FactionMinDistance>La distancia mínima desde las bases del jugador (recomendada: {0}): {1}</VanillaFactionsExpanded.FactionMinDistance>
+  <VanillaFactionsExpanded.FactionRecommended>{REQUIRED_multiple ? Se recomienda tener al menos {REQUIRED} facciones del tipo {FACTION}, pero actualmente solo hay {COUNT}. : Se recomienda habilitar {FACTION}.}</VanillaFactionsExpanded.FactionRecommended>
+  <VanillaFactionsExpanded.FactionRequired>{FACTION} no se puede desactivar{REQUIRED_multiple ? , necesitas al menos {REQUIRED} facciones de ese tipo. : .}</VanillaFactionsExpanded.FactionRequired>
+  <VanillaFactionsExpanded.FactionSelectOption>Por favor, selecciona cómo proceder:</VanillaFactionsExpanded.FactionSelectOption>
+  <VanillaFactionsExpanded.FactionSettlementsToSpawn>Asentamientos a generar (recomendados: {0}): {1}</VanillaFactionsExpanded.FactionSettlementsToSpawn>
+  <VanillaFactionsExpanded.FactionTitle>Nueva facción: {FactionName}</VanillaFactionsExpanded.FactionTitle>
+  <VanillaFactionsExpanded.HiddenFactionInfo>Esta es una facción oculta y no aparecerá en tu lista de facciones.</VanillaFactionsExpanded.HiddenFactionInfo>
+  <VanillaFactionsExpanded.ModInfo>Esta facción es añadida por {ModName} y no está presente actualmente en tu partida.</VanillaFactionsExpanded.ModInfo>
+  <VanillaFactionsExpanded.NaturalGoodwill>Natural</VanillaFactionsExpanded.NaturalGoodwill>
+  <VanillaFactionsExpanded.NonSpawningFactionInfo>Esta facción está marcada como no generable y probablemente deberías ignorarla.</VanillaFactionsExpanded.NonSpawningFactionInfo>
+  <VanillaFactionsExpanded.NumberRange>{0} a {1}</VanillaFactionsExpanded.NumberRange>
+  <VanillaFactionsExpanded.Protects>Protege</VanillaFactionsExpanded.Protects>
+  <VanillaFactionsExpanded.Protects_Desc>Qué partes del cuerpo protege el escudo.</VanillaFactionsExpanded.Protects_Desc>
+  <VanillaFactionsExpanded.RequiredFactionInfo>Está marcada como requerida por {ModName}.</VanillaFactionsExpanded.RequiredFactionInfo>
+  <VanillaFactionsExpanded.ScenPart_ForcedFactionRelations>Modificadores de relación de facción</VanillaFactionsExpanded.ScenPart_ForcedFactionRelations>
+  <VanillaFactionsExpanded.StartingGoodwill>Inicial</VanillaFactionsExpanded.StartingGoodwill>
+  <VanillaFactionsExpanded.UsableWithShield>Utilizable con escudos</VanillaFactionsExpanded.UsableWithShield>
+  <VanillaFactionsExpanded.UsableWithShield_Desc>Si esta arma puede usarse o no si el personaje también tiene un escudo equipado.</VanillaFactionsExpanded.UsableWithShield_Desc>
+</LanguageData>

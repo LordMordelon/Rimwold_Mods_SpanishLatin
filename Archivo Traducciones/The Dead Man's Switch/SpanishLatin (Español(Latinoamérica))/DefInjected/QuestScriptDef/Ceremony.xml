@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>questDescription->[faction_name] is ready to grant [pawn_definite] the title of [newTitle] in a promotion ceremony.\n\nThe officiator of the ceremony will arrive by shuttle to perform the ceremony.\n\nThe officiator will only give a title if there exists a throneroom meeting the requirements of the position. There's a chance of gaining extra honor depending on how many viewers attend the ceremony. Additionally, every viewer gains a mood bonus.\n\nYou can betray the officiator but this will make [faction_name] your enemy.\n\nIf you miss or fail this ceremony, there will be another opportunity later. If the officiator or guards are harmed for any reason, there will be diplomatic consequences.</li>
+  -->
+  <DMS_PromotionCeremony.questDescriptionRules.rulesStrings>
+    <li>questDescription->[faction_name] está lista para otorgar a [pawn_definite] el título de [newTitle] en una ceremonia de promoción.\n\nEl oficiante de la ceremonia llegará en una lanzadera para realizar la ceremonia.\n\nEl oficiante solo otorgará un título si existe una sala del trono que cumpla con los requisitos del puesto. Existe la posibilidad de obtener honor extra dependiendo de cuántos espectadores asistan a la ceremonia. Además, cada espectador obtiene una bonificación de humor.\n\nPuedes traicionar al oficiante, pero esto convertirá a [faction_name] en tu enemigo.\n\nSi pierdes o fallas esta ceremonia, habrá otra oportunidad más adelante. Si el oficiante o los guardias son dañados por cualquier razón, habrá consecuencias diplomáticas.</li>
+  </DMS_PromotionCeremony.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>questName->[pawn_definite]'s [newTitle] promotion</li>
+  -->
+  <DMS_PromotionCeremony.questNameRules.rulesStrings>
+    <li>questName->Promoción de [pawn_definite] a [newTitle]</li>
+  </DMS_PromotionCeremony.questNameRules.rulesStrings>
+  
+</LanguageData>

@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: kirov airship -->
+  <Airship_Kirov.label>dirigible de asedio</Airship_Kirov.label>
+  <!-- EN: A huge airship model used by the ancients who liked to paint everything red. Its original bomb rack is not ready due to lost technology, but still easy to the explode. Beware the fire.\n\nSeat: 6\nSpeed: 1\nCargo capacity: 600kg\n\nFuel capacity: 150\nFuel efficiency: 1 per tile -->
+  <Airship_Kirov.description>Un enorme modelo de dirigible usado por los antiguos a quienes les gustaba pintar todo de rojo. Su estante de bombas original no está listo debido a la tecnología perdida, pero aún es fácil de explotar. Cuidado con el fuego.\n\nAsientos: 6\nVelocidad: 1\nCapacidad de carga: 600kg\n\nCapacidad de combustible: 150\nEficiencia de combustible: 1 por casilla</Airship_Kirov.description>
+  
+  <!-- EN: standard airship -->
+  <Airship_Standard.label>dirigible de carga</Airship_Standard.label>
+  <!-- EN: An airship with standard specifications. It's just slightly faster than walking speed, but unaffected by terrain so can easily cross sea and mountains.\n\nSeat: 3\nSpeed: 1\nCargo capacity: 200kg\n\nFuel capacity: 100\nFuel efficiency: 0.5 per tile -->
+  <Airship_Standard.description>Un dirigible con especificaciones estándar. Es solo un poco más rápido que la velocidad al caminar, pero no se ve afectado por el terreno, por lo que puede cruzar fácilmente el mar y las montañas.\n\nAsientos: 3\nVelocidad: 1\nCapacidad de carga: 200kg\n\nCapacidad de combustible: 100\nEficiencia de combustible: 0.5 por casilla</Airship_Standard.description>
+  
+  <!-- EN: vapor -->
+  <Bullet_KirovTurret.label>vapor</Bullet_KirovTurret.label>
+  
+  <!-- EN: bullet -->
+  <Bullet_MediumCarryallTurret.label>bala</Bullet_MediumCarryallTurret.label>
+  
+  <!-- EN: bullet -->
+  <Bullet_MiniCarryallTurret.label>bala</Bullet_MiniCarryallTurret.label>
+  
+  <!-- EN: ox carryall -->
+  <Carryall_GDI.label>transporte de suministros</Carryall_GDI.label>
+  <!-- EN: A rare model of the carryall used by the ancients who worshiped a turkey-like symbol. Optimized for mass transportation, it is rather cramped up due to the extra storage.\n		\nOx carryall is equipped with a small turret. This is helpful in battle, but consumes a lot of fuel. Always remember that you need enough fuel to get back home.\n\nSeat: 4\nSpeed: 3.5\nCargo capacity: 1,400kg\n\nFuel capacity: 600\nFuel efficiency: 3 per tile -->
+  <Carryall_GDI.description>Un modelo raro de carguero usado por los antiguos que adoraban un símbolo parecido a un pavo. Optimizado para el transporte masivo, es bastante estrecho debido al almacenamiento extra.\n		\nEl transporte de suministros está equipado con una pequeña torreta. Esto es útil en la batalla, pero consume mucho combustible. Recuerda siempre que necesitas suficiente combustible para volver a casa.\n\nAsientos: 4\nVelocidad: 3.5\nCapacidad de carga: 1,400kg\n\nCapacidad de combustible: 600\nEficiencia de combustible: 3 por casilla</Carryall_GDI.description>
+  
+  <!-- EN: vertigo carryall -->
+  <Carryall_Nod.label>transporte de asalto</Carryall_Nod.label>
+  <!-- EN: A rare model of the carryall used by the ancients who worshiped an insect-like symbol. It was optimized for assault operations, can transport large numbers of people quickly and far, but at the cost of storage capacity.\n	\nVertigo carryall is equipped with a minigun turret. This is helpful in battle, but consumes a lot of fuel. Always remember that you need enough fuel to get back home.\n\nSeat: 10\nSpeed: 5\nCargo capacity: 800kg\n\nFuel capacity: 450\nFuel efficiency: 3 per tile -->
+  <Carryall_Nod.description>Un modelo raro de carguero usado por los antiguos que adoraban un símbolo parecido a un insecto. Fue optimizado para operaciones de asalto, puede transportar grandes cantidades de personas rápida y lejanamente, pero a costa de la capacidad de almacenamiento.\n	\nEl transporte de asalto está equipado con una torreta minigun. Esto es útil en la batalla, pero consume mucho combustible. Recuerda siempre que necesitas suficiente combustible para volver a casa.\n\nAsientos: 10\nVelocidad: 5\nCapacidad de carga: 800kg\n\nCapacidad de combustible: 450\nEficiencia de combustible: 3 por casilla</Carryall_Nod.description>
+  
+  <!-- EN: standard carryall -->
+  <Carryall_standard.label>transporte suborbital</Carryall_standard.label>
+  <!-- EN: A minor replica model of the standard space shuttle from the stellar empire, but with no orbital navigation capabilities. No longer are you bound to your settlement.\n\nSeats: 5\nSpeed: 4\nCargo capacity: 450kg\n\nFuel capacity: 200\nFuel efficiency: 1.5 per tile -->
+  <Carryall_standard.description>Una réplica menor del transbordador espacial estándar del imperio estelar, pero sin capacidades de navegación orbital. Ya no estás atado a tu asentamiento.\n\nAsientos: 5\nVelocidad: 4\nCapacidad de carga: 450kg\n\nCapacidad de combustible: 200\nEficiencia de combustible: 1.5 por casilla</Carryall_standard.description>
+  
+  <!-- EN: steam nozzle -->
+  <Gun_KirovTurret.label>boquilla de vapor</Gun_KirovTurret.label>
+  <!-- EN: The kirov airship can small vapor explosion at nearby targets via external nozzles. It's not very effective in combat, but it's worth a try. -->
+  <Gun_KirovTurret.description>El dirigible de asedio puede causar pequeñas explosiones de vapor en objetivos cercanos a través de boquillas externas. No es muy efectivo en combate, pero vale la pena intentarlo.</Gun_KirovTurret.description>
+  <!-- EN: steam nozzle -->
+  <Gun_KirovTurret.verbs.Verb_Shoot.label>boquilla de vapor</Gun_KirovTurret.verbs.Verb_Shoot.label>
+  
+  <!-- EN: medium carryall turret gun -->
+  <Gun_MediumCarryallTurret.label>cañón automático de carguero mediano</Gun_MediumCarryallTurret.label>
+  <!-- EN: A automatic minigun made to be mounted on a turret. -->
+  <Gun_MediumCarryallTurret.description>Una minigun automática hecha para ser montada en una torreta.</Gun_MediumCarryallTurret.description>
+  <!-- EN: medium carryall turret gun -->
+  <Gun_MediumCarryallTurret.verbs.Verb_Shoot.label>cañón de torreta de carguero mediano</Gun_MediumCarryallTurret.verbs.Verb_Shoot.label>
+  
+  <!-- EN: carryall turret gun -->
+  <Gun_MiniCarryallTurret.label>cañón automático de carguero</Gun_MiniCarryallTurret.label>
+  <!-- EN: A simple automatic gun made to be mounted on a turret. -->
+  <Gun_MiniCarryallTurret.description>Un arma automática simple hecha para ser montada en una torreta.</Gun_MiniCarryallTurret.description>
+  <!-- EN: carryall turret gun -->
+  <Gun_MiniCarryallTurret.verbs.Verb_Shoot.label>cañón automático de carguero</Gun_MiniCarryallTurret.verbs.Verb_Shoot.label>
+  
+</LanguageData>

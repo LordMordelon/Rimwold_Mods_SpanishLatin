@@ -1,0 +1,145 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>desc->[intro]. [advice]. [warning]. [quirk]. [conclusion]\n\n[writingQualitySentence]\n\n[ending]</li>
+    <li>desc->[intro]. [advice]. [quirk]. [warning] [conclusion]\n\n[writingQualitySentence]\n\n[ending]</li>
+    <li>desc->[intro]. [advice]. [warning]".\n\n[writingQualitySentence]\n\n[ending]</li>
+    <li>desc->[intro]. [advice]. [quirk]".\n\n[writingQualitySentence]\n\n[ending]</li>
+    <li>desc->[intro]. [advice]".\n\n[writingQualitySentence]\n\n[ending]</li>
+    <li>intro->"Navegar por el [subject_primary] no es poca cosa</li>
+    <li>intro->"Sobrevivir en el [subject_primary] requiere conocimiento y coraje</li>
+    <li>intro->"El [subject_primary] puede ser tanto un santuario como un peligro</li>
+    <li>intro->"Para prosperar en el [subject_primary], primero hay que respetarlo</li>
+    <li>intro->"El [subject_primary] es tan implacable como hermoso</li>
+    <li>advice->Dominar [key_survival_topic] es crucial para la supervivencia</li>
+    <li>advice->Comprender los patrones de la vida silvestre local es vital</li>
+    <li>advice->Localizar y preservar [key_resource] debería ser tu máxima prioridad</li>
+    <li>advice->Establecer un refugio rápidamente es primordial para la supervivencia</li>
+    <li>advice->Mantén un ojo en el clima: cambia más rápido de lo que podrías esperar</li>
+    <li>advice->Evita el esfuerzo excesivo; conserva tu energía siempre que sea posible</li>
+    <li>key_survival_topic->la navegación a través de terrenos difíciles</li>
+    <li>key_survival_topic->encontrar y purificar agua</li>
+    <li>key_survival_topic->construir refugios efectivos</li>
+    <li>key_survival_topic->gestionar el almacenamiento de alimentos a largo plazo</li>
+    <li>key_survival_topic->evitar y defenderse de los depredadores</li>
+    <li>key_survival_topic->identificar la vida vegetal segura</li>
+    <li>key_resource->agua limpia</li>
+    <li>key_resource->suministros de alimentos adecuados</li>
+    <li>key_resource->materiales para refugio</li>
+    <li>key_resource->leña u otro combustible</li>
+    <li>key_resource->herramientas para la defensa</li>
+    <li>key_resource->medicinas o suministros curativos</li>
+    <li>warning->Si no te preparas, el [subject_primary] te castigará rápidamente</li>
+    <li>warning->Las noches aquí son más frías y mortales de lo que podrías imaginar</li>
+    <li>warning->Una planificación inadecuada podría dejarte a merced de los depredadores</li>
+    <li>warning->Cuidado con el exceso de confianza; incluso los exploradores experimentados caen víctimas aquí</li>
+    <li>warning->Juzgar mal el entorno podría significar una fatalidad segura</li>
+    <li>warning->El [subject_primary] no tiene tolerancia para los errores</li>
+    <li>quirk->Curiosamente, el [subject_primary] cuenta con algunas plantas comestibles que saben extrañamente a [quirky_flavor]</li>
+    <li>quirk->Las leyendas dicen que el [subject_primary] esconde tesoros en sus confines más desolados</li>
+    <li>quirk->Aquí, incluso los insectos parecen tener estrategias de supervivencia que vale la pena estudiar</li>
+    <li>quirk->El [subject_primary] es conocido por sus patrones de viento inquietantes, casi melódicos</li>
+    <li>quirk->Extrañamente, el [subject_primary] soporta algunas de las puestas de sol más vibrantes que jamás verás</li>
+    <li>quirky_flavor->menta</li>
+    <li>quirky_flavor->hierba de limón</li>
+    <li>quirky_flavor->arándanos</li>
+    <li>quirky_flavor->hongos terrosos</li>
+    <li>quirky_flavor->miel especiada</li>
+    <li>conclusion->Acércate al [subject_primary] con respeto y vigilancia, y podrías sobrevivir."</li>
+    <li>conclusion->Solo los preparados e ingeniosos pueden prosperar verdaderamente en este entorno."</li>
+    <li>conclusion->Es un lugar de lecciones duras, pero también de recompensas notables."</li>
+    <li>conclusion->Recuerda, la supervivencia aquí no es solo una habilidad, es un arte."</li>
+    <li>conclusion->El [subject_primary] no perdona, pero puede ser conquistado."</li>
+    <li>writingQualitySentence->Este [bookType] es [writingQualityAdjective], ofreciendo a los lectores ideas sobre los peligros y estrategias de supervivencia.</li>
+    <li>writingQualitySentence->Con prosa [writingQualityAdjective], este [bookType] proporciona una gran cantidad de conocimientos para el viajero cauteloso.</li>
+    <li>writingQualitySentence->El [bookType] es un recurso [writingQualityAdjective], mezclando consejos con imágenes del [subject_primary].</li>
+    <li>bookType->guía de supervivencia</li>
+    <li>bookType->manual</li>
+    <li>bookType->manual</li>
+    <li>bookType->compendio</li>
+    <li>bookType->guía de campo</li>
+    <li>writingQualityAdjective(quality==6)->escrito magistralmente</li>
+    <li>writingQualityAdjective(quality==5)->exquisitamente detallado</li>
+    <li>writingQualityAdjective(quality==4)->cuidadosamente compuesto</li>
+    <li>writingQualityAdjective(quality==3)->competentemente escrito</li>
+    <li>writingQualityAdjective(quality==2)->algo tosco</li>
+    <li>writingQualityAdjective(quality==1)->mal organizado</li>
+    <li>writingQualityAdjective(quality==0)->lanzado caóticamente</li>
+    <li>ending->Una vez estudiado, este libro se desvanecerá en el éter, dejando solo el conocimiento que impartió.</li>
+    <li>ending->Al finalizar, esta guía se autodestruirá, asegurando que sus secretos permanezcan con el lector.</li>
+    <li>ending->Absorbiendo su sabiduría, perderás el libro pero ganarás conocimientos de supervivencia.</li>
+    <li>ending->Después de leer, el libro desaparece, dejando solo las lecciones grabadas en tu memoria.</li>
+  -->
+  <ABooks_SurvivalGuide_Description.rulePack.rulesStrings>
+    <li>desc->[intro]. [advice]. [warning]. [quirk]. [conclusion]\n\n[writingQualitySentence]\n\n[ending]</li>
+    <li>desc->[intro]. [advice]. [quirk]. [warning] [conclusion]\n\n[writingQualitySentence]\n\n[ending]</li>
+    <li>desc->[intro]. [advice]. [warning]".\n\n[writingQualitySentence]\n\n[ending]</li>
+    <li>desc->[intro]. [advice]. [quirk]".\n\n[writingQualitySentence]\n\n[ending]</li>
+    <li>desc->[intro]. [advice]".\n\n[writingQualitySentence]\n\n[ending]</li>
+    <li>intro->"Navegar por el [subject_primary] no es poca cosa</li>
+    <li>intro->"Sobrevivir en el [subject_primary] requiere conocimiento y coraje</li>
+    <li>intro->"El [subject_primary] puede ser tanto un santuario como un peligro</li>
+    <li>intro->"Para prosperar en el [subject_primary], primero hay que respetarlo</li>
+    <li>intro->"El [subject_primary] es tan implacable como hermoso</li>
+    <li>advice->Dominar [key_survival_topic] es crucial para la supervivencia</li>
+    <li>advice->Comprender los patrones de la vida silvestre local es vital</li>
+    <li>advice->Localizar y preservar [key_resource] debería ser tu máxima prioridad</li>
+    <li>advice->Establecer un refugio rápidamente es primordial para la supervivencia</li>
+    <li>advice->Mantén un ojo en el clima: cambia más rápido de lo que podrías esperar</li>
+    <li>advice->Evita el esfuerzo excesivo; conserva tu energía siempre que sea posible</li>
+    <li>key_survival_topic->la navegación a través de terrenos difíciles</li>
+    <li>key_survival_topic->encontrar y purificar agua</li>
+    <li>key_survival_topic->construir refugios efectivos</li>
+    <li>key_survival_topic->gestionar el almacenamiento de alimentos a largo plazo</li>
+    <li>key_survival_topic->evitar y defenderse de los depredadores</li>
+    <li>key_survival_topic->identificar la vida vegetal segura</li>
+    <li>key_resource->agua limpia</li>
+    <li>key_resource->suministros de alimentos adecuados</li>
+    <li>key_resource->materiales para refugio</li>
+    <li>key_resource->leña u otro combustible</li>
+    <li>key_resource->herramientas para la defensa</li>
+    <li>key_resource->medicinas o suministros curativos</li>
+    <li>warning->Si no te preparas, el [subject_primary] te castigará rápidamente</li>
+    <li>warning->Las noches aquí son más frías y mortales de lo que podrías imaginar</li>
+    <li>warning->Una planificación inadecuada podría dejarte a merced de los depredadores</li>
+    <li>warning->Cuidado con el exceso de confianza; incluso los exploradores experimentados caen víctimas aquí</li>
+    <li>warning->Juzgar mal el entorno podría significar una fatalidad segura</li>
+    <li>warning->El [subject_primary] no tiene tolerancia para los errores</li>
+    <li>quirk->Curiosamente, el [subject_primary] cuenta con algunas plantas comestibles que saben extrañamente a [quirky_flavor]</li>
+    <li>quirk->Las leyendas dicen que el [subject_primary] esconde tesoros en sus confines más desolados</li>
+    <li>quirk->Aquí, incluso los insectos parecen tener estrategias de supervivencia que vale la pena estudiar</li>
+    <li>quirk->El [subject_primary] es conocido por sus patrones de viento inquietantes, casi melódicos</li>
+    <li>quirk->Extrañamente, el [subject_primary] soporta algunas de las puestas de sol más vibrantes que jamás verás</li>
+    <li>quirky_flavor->menta</li>
+    <li>quirky_flavor->hierba de limón</li>
+    <li>quirky_flavor->arándanos</li>
+    <li>quirky_flavor->hongos terrosos</li>
+    <li>quirky_flavor->miel especiada</li>
+    <li>conclusion->Acércate al [subject_primary] con respeto y vigilancia, y podrías sobrevivir."</li>
+    <li>conclusion->Solo los preparados e ingeniosos pueden prosperar verdaderamente en este entorno."</li>
+    <li>conclusion->Es un lugar de lecciones duras, pero también de recompensas notables."</li>
+    <li>conclusion->Recuerda, la supervivencia aquí no es solo una habilidad, es un arte."</li>
+    <li>conclusion->El [subject_primary] no perdona, pero puede ser conquistado."</li>
+    <li>writingQualitySentence->Este [bookType] es [writingQualityAdjective], ofreciendo a los lectores ideas sobre los peligros y estrategias de supervivencia.</li>
+    <li>writingQualitySentence->Con prosa [writingQualityAdjective], este [bookType] proporciona una gran cantidad de conocimientos para el viajero cauteloso.</li>
+    <li>writingQualitySentence->El [bookType] es un recurso [writingQualityAdjective], mezclando consejos con imágenes del [subject_primary].</li>
+    <li>bookType->guía de supervivencia</li>
+    <li>bookType->manual</li>
+    <li>bookType->manual</li>
+    <li>bookType->compendio</li>
+    <li>bookType->guía de campo</li>
+    <li>writingQualityAdjective(quality==6)->escrito magistralmente</li>
+    <li>writingQualityAdjective(quality==5)->exquisitamente detallado</li>
+    <li>writingQualityAdjective(quality==4)->cuidadosamente compuesto</li>
+    <li>writingQualityAdjective(quality==3)->competentemente escrito</li>
+    <li>writingQualityAdjective(quality==2)->algo tosco</li>
+    <li>writingQualityAdjective(quality==1)->mal organizado</li>
+    <li>writingQualityAdjective(quality==0)->lanzado caóticamente</li>
+    <li>ending->Una vez estudiado, este libro se desvanecerá en el éter, dejando solo el conocimiento que impartió.</li>
+    <li>ending->Al finalizar, esta guía se autodestruirá, asegurando que sus secretos permanezcan con el lector.</li>
+    <li>ending->Absorbiendo su sabiduría, perderás el libro pero ganarás conocimientos de supervivencia.</li>
+    <li>ending->Después de leer, el libro desaparece, dejando solo las lecciones grabadas en tu memoria.</li>
+  </ABooks_SurvivalGuide_Description.rulePack.rulesStrings>
+  
+</LanguageData>

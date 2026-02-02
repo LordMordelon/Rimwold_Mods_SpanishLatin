@@ -1,0 +1,489 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>root->[COMPANY] has posted a bad earnings report. Price is expected to move down.</li>
+  -->
+  <VTE_BadEarnings.rulePack.rulesStrings>
+    <li>root->[COMPANY] ha publicado un mal informe de ganancias. Se espera que el precio baje.</li>
+  </VTE_BadEarnings.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>root->[COMPANY] has posted a below average earnings report. Price is expected to drop slightly.</li>
+  -->
+  <VTE_BelowAverageEarnings.rulePack.rulesStrings>
+    <li>root->[COMPANY] ha publicado un informe de ganancias por debajo del promedio. Se espera que el precio baje ligeramente.</li>
+  </VTE_BelowAverageEarnings.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>root->[COMPANY] has reported budget cuts. Share price is bound to decrease in the long term.</li>
+  -->
+  <VTE_CompanyDecline.rulePack.rulesStrings>
+    <li>root->[COMPANY] ha reportado recortes presupuestarios. El precio de las acciones está destinado a disminuir a largo plazo.</li>
+  </VTE_CompanyDecline.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>root->[COMPANY] has reported steady growth. Share price is bound to increase in the long term.</li>
+  -->
+  <VTE_CompanyGrowth.rulePack.rulesStrings>
+    <li>root->[COMPANY] ha reportado un crecimiento constante. El precio de las acciones está destinado a aumentar a largo plazo.</li>
+  </VTE_CompanyGrowth.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>root->[COMPANY] has posted a decent earnings report. Price is expected to move slightly up.</li>
+  -->
+  <VTE_DecentEarnings.rulePack.rulesStrings>
+    <li>root->[COMPANY] ha publicado un informe de ganancias decente. Se espera que el precio suba ligeramente.</li>
+  </VTE_DecentEarnings.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>root->[COMPANY] has posted an excellent earnings report. Price is expected to jump up.</li>
+  -->
+  <VTE_ExcellentEarnings.rulePack.rulesStrings>
+    <li>root->[COMPANY] ha publicado un excelente informe de ganancias. Se espera que el precio se dispare.</li>
+  </VTE_ExcellentEarnings.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>root->[FACTION_name] has finally dealt with their infestations and decided to sell their excess jelly.</li>
+    <li>root->[FACTION_name] looted the insectoid caves and will sell the jelly on the market.</li>
+    <li>root->[FACTION_name] got a hold of a large supply of insect jelly and plans to sell it.</li>
+  -->
+  <VTE_FactionInfestationLoot.rulePack.rulesStrings>
+    <li>root->[FACTION_name] finalmente ha lidiado con sus infestaciones y decidió vender su exceso de jalea.</li>
+    <li>root->[FACTION_name] saqueó las cuevas de insectoides y venderá la jalea en el mercado.</li>
+    <li>root->[FACTION_name] consiguió un gran suministro de jalea de insecto y planea venderla.</li>
+  </VTE_FactionInfestationLoot.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>root->[FACTION_name] plans for a number of siege operations and began stockpiling ammo and weapons.</li>
+    <li>root->[FACTION_name] is preparing for war and will stockpile ammo and weapons.</li>
+    <li>root->[FACTION_name] buys excess amounts of weapons and mortar shells.</li>
+  -->
+  <VTE_FactionSiegePlan.rulePack.rulesStrings>
+    <li>root->[FACTION_name] planea una serie de operaciones de asedio y comenzó a almacenar municiones y armas.</li>
+    <li>root->[FACTION_name] se está preparando para la guerra y almacenará municiones y armas.</li>
+    <li>root->[FACTION_name] compra cantidades excesivas de armas y proyectiles de mortero.</li>
+  </VTE_FactionSiegePlan.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>root->[COMPANY] is rumored to announce bankruptcy. Share price can either crash or skyrocket.</li>
+  -->
+  <VTE_FearOfBankruptcy.rulePack.rulesStrings>
+    <li>root->[COMPANY] se rumorea que anunciará la bancarrota. El precio de las acciones puede colapsar o dispararse.</li>
+  </VTE_FearOfBankruptcy.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>root->[COMPANY] has posted a good earnings report. Price is expected to move slightly up.</li>
+  -->
+  <VTE_GoodEarnings.rulePack.rulesStrings>
+    <li>root->[COMPANY] ha publicado un buen informe de ganancias. Se espera que el precio suba ligeramente.</li>
+  </VTE_GoodEarnings.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>root->[COMPANY] has posted a great earnings report. Price is expected to move up.</li>
+  -->
+  <VTE_GreatEarnings.rulePack.rulesStrings>
+    <li>root->[COMPANY] ha publicado un gran informe de ganancias. Se espera que el precio suba.</li>
+  </VTE_GreatEarnings.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>root->[COMPANY] has posted a mediocre earnings report. Price is expected to move sideways.</li>
+  -->
+  <VTE_MediocreEarnings.rulePack.rulesStrings>
+    <li>root->[COMPANY] ha publicado un informe de ganancias mediocre. Se espera que el precio se mueva lateralmente.</li>
+  </VTE_MediocreEarnings.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>root->[COMPANY] has purchased a brand new low orbit trading ship. Share price should go up in the long term.</li>
+  -->
+  <VTE_NewShipPurchased.rulePack.rulesStrings>
+    <li>root->[COMPANY] ha comprado una nueva nave comercial de órbita baja. El precio de las acciones debería subir a largo plazo.</li>
+  </VTE_NewShipPurchased.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>root->[COMPANY] has posted an outstanding earnings report. Price is expected to skyrocket.</li>
+  -->
+  <VTE_OutstandingEarnings.rulePack.rulesStrings>
+    <li>root->[COMPANY] ha publicado un informe de ganancias sobresaliente. Se espera que el precio se dispare.</li>
+  </VTE_OutstandingEarnings.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>root->[SETTLEMENT_label] is struggling with a pack of alphabeavers, and purchases a large quantity of wood.</li>
+    <li>root->[SETTLEMENT_label] ran out of wood and will buy it in bulk.</li>
+    <li>root->[SETTLEMENT_label] requires copious amounts of wood for their project.</li>
+  -->
+  <VTE_SettlementAlphabeavers.rulePack.rulesStrings>
+    <li>root->[SETTLEMENT_label] está luchando con una manada de alfacastores y compra una gran cantidad de madera.</li>
+    <li>root->[SETTLEMENT_label] se quedó sin madera y la comprará al por mayor.</li>
+    <li>root->[SETTLEMENT_label] requiere grandes cantidades de madera para su proyecto.</li>
+  </VTE_SettlementAlphabeavers.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>root->[SETTLEMENT_label] has gotten rid of the beaver pack that troubled them, and now sell excess wood.</li>
+    <li>root->[SETTLEMENT_label] sells their excess wood.</li>
+    <li>root->[SETTLEMENT_label] cut down a large chunk of the forest with the intent to sell wood.</li>
+  -->
+  <VTE_SettlementAlphabeaversDealtWith.rulePack.rulesStrings>
+    <li>root->[SETTLEMENT_label] se ha deshecho de la manada de castores que los molestaba y ahora vende el exceso de madera.</li>
+    <li>root->[SETTLEMENT_label] vende su exceso de madera.</li>
+    <li>root->[SETTLEMENT_label] taló una gran parte del bosque con la intención de vender madera.</li>
+  </VTE_SettlementAlphabeaversDealtWith.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>root->[SETTLEMENT_label] acquires a large amount of apparel.</li>
+  -->
+  <VTE_SettlementApparelPurchase.rulePack.rulesStrings>
+    <li>root->[SETTLEMENT_label] adquiere una gran cantidad de ropa.</li>
+  </VTE_SettlementApparelPurchase.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>root->[SETTLEMENT_label] sells a large amount of apparel.</li>
+  -->
+  <VTE_SettlementApparelSellOff.rulePack.rulesStrings>
+    <li>root->[SETTLEMENT_label] vende una gran cantidad de ropa.</li>
+  </VTE_SettlementApparelSellOff.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>root->[SETTLEMENT_label] acquires a large amount of armor.</li>
+  -->
+  <VTE_SettlementArmorPurchase.rulePack.rulesStrings>
+    <li>root->[SETTLEMENT_label] adquiere una gran cantidad de armaduras.</li>
+  </VTE_SettlementArmorPurchase.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>root->[SETTLEMENT_label] sells a large amount of armor.</li>
+  -->
+  <VTE_SettlementArmorSellOff.rulePack.rulesStrings>
+    <li>root->[SETTLEMENT_label] vende una gran cantidad de armaduras.</li>
+  </VTE_SettlementArmorSellOff.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>root->[SETTLEMENT_label] has had an amazing harvest and sells off their food supplies.</li>
+    <li>root->[SETTLEMENT_label] plans to sell large quantities of food.</li>
+    <li>root->[SETTLEMENT_label] has had a fortunate harvest and will sell the excess food.</li>
+  -->
+  <VTE_SettlementBigHarvest.rulePack.rulesStrings>
+    <li>root->[SETTLEMENT_label] ha tenido una cosecha increíble y vende sus suministros de alimentos.</li>
+    <li>root->[SETTLEMENT_label] planea vender grandes cantidades de comida.</li>
+    <li>root->[SETTLEMENT_label] ha tenido una cosecha afortunada y venderá el exceso de comida.</li>
+  </VTE_SettlementBigHarvest.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>root->[SETTLEMENT_label] has suffered a terrible blight and buys off large quantities of food.</li>
+    <li>root->[SETTLEMENT_label] has had their food stockpile burn down.</li>
+    <li>root->[SETTLEMENT_label] plans to purchase large quantity of food.</li>
+  -->
+  <VTE_SettlementBlight.rulePack.rulesStrings>
+    <li>root->[SETTLEMENT_label] ha sufrido una plaga terrible y compra grandes cantidades de comida.</li>
+    <li>root->[SETTLEMENT_label] ha tenido su almacén de alimentos incendiado.</li>
+    <li>root->[SETTLEMENT_label] planea comprar una gran cantidad de comida.</li>
+  </VTE_SettlementBlight.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>root->[SETTLEMENT_label] acquires a large amount of body parts.</li>
+  -->
+  <VTE_SettlementBodyPartsPurchase.rulePack.rulesStrings>
+    <li>root->[SETTLEMENT_label] adquiere una gran cantidad de partes del cuerpo.</li>
+  </VTE_SettlementBodyPartsPurchase.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>root->[SETTLEMENT_label] sells a large amount of body parts.</li>
+  -->
+  <VTE_SettlementBodyPartsSellOff.rulePack.rulesStrings>
+    <li>root->[SETTLEMENT_label] vende una gran cantidad de partes del cuerpo.</li>
+  </VTE_SettlementBodyPartsSellOff.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>root->[SETTLEMENT_label] has been struck with coldsnap, ruining their food supply.</li>
+    <li>root->[SETTLEMENT_label] has lost their food supply.</li>
+    <li>root->[SETTLEMENT_label] buys food in bulk.</li>
+  -->
+  <VTE_SettlementColdSnap.rulePack.rulesStrings>
+    <li>root->[SETTLEMENT_label] ha sido golpeado por una ola de frío, arruinando su suministro de alimentos.</li>
+    <li>root->[SETTLEMENT_label] ha perdido su suministro de alimentos.</li>
+    <li>root->[SETTLEMENT_label] compra comida al por mayor.</li>
+  </VTE_SettlementColdSnap.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>root->[SETTLEMENT_label] buys off large amounts of weapons due to an emergency.</li>
+    <li>root->[SETTLEMENT_label] prepares to go to war and will purchase weapons.</li>
+    <li>root->[SETTLEMENT_label] requires a large amount of weapons quite urgently. Prices are expected to go up.</li>
+  -->
+  <VTE_SettlementCombatEmergency.rulePack.rulesStrings>
+    <li>root->[SETTLEMENT_label] compra grandes cantidades de armas debido a una emergencia.</li>
+    <li>root->[SETTLEMENT_label] se prepara para ir a la guerra y comprará armas.</li>
+    <li>root->[SETTLEMENT_label] requiere una gran cantidad de armas con bastante urgencia. Se espera que los precios suban.</li>
+  </VTE_SettlementCombatEmergency.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>root->[SETTLEMENT_label] acquires a large amount of drugs.</li>
+  -->
+  <VTE_SettlementDrugsPurchase.rulePack.rulesStrings>
+    <li>root->[SETTLEMENT_label] adquiere una gran cantidad de drogas.</li>
+  </VTE_SettlementDrugsPurchase.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>root->[SETTLEMENT_label] sells a large amount of drugs.</li>
+  -->
+  <VTE_SettlementDrugsSellOff.rulePack.rulesStrings>
+    <li>root->[SETTLEMENT_label] vende una gran cantidad de drogas.</li>
+  </VTE_SettlementDrugsSellOff.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>root->[SETTLEMENT_label] is struggling with a plague. Medicine purchasing frenzy began.</li>
+    <li>root->[SETTLEMENT_label] is recovering after a raid. Medicine will be purchased in bulk.</li>
+    <li>root->[SETTLEMENT_label] is in dire need of medicine, which means the price will go up.</li>
+  -->
+  <VTE_SettlementGotPlague.rulePack.rulesStrings>
+    <li>root->[SETTLEMENT_label] está luchando con una plaga. Comenzó el frenesí de compra de medicinas.</li>
+    <li>root->[SETTLEMENT_label] se está recuperando después de una incursión. La medicina se comprará al por mayor.</li>
+    <li>root->[SETTLEMENT_label] tiene una necesidad extrema de medicina, lo que significa que el precio subirá.</li>
+  </VTE_SettlementGotPlague.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>root->[SETTLEMENT_label] was recently raided. Rebuilding is underway.</li>
+    <li>root->[SETTLEMENT_label] suffered a natural disaster and will purchase building materials.</li>
+    <li>root->[SETTLEMENT_label] plans to expand, but will require building materials to do so.</li>
+  -->
+  <VTE_SettlementGotRaided.rulePack.rulesStrings>
+    <li>root->[SETTLEMENT_label] fue asaltado recientemente. La reconstrucción está en marcha.</li>
+    <li>root->[SETTLEMENT_label] sufrió un desastre natural y comprará materiales de construcción.</li>
+    <li>root->[SETTLEMENT_label] planea expandirse, pero requerirá materiales de construcción para hacerlo.</li>
+  </VTE_SettlementGotRaided.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>root->[SETTLEMENT_label] has suffered a terrible heat wave and decided to sell off their food before it rots.</li>
+    <li>root->[SETTLEMENT_label] has had a freezer malfunction and sells food before it rots.</li>
+    <li>root->[SETTLEMENT_label] sells their food stockpile.</li>
+  -->
+  <VTE_SettlementHeatWave.rulePack.rulesStrings>
+    <li>root->[SETTLEMENT_label] ha sufrido una terrible ola de calor y decidió vender su comida antes de que se pudra.</li>
+    <li>root->[SETTLEMENT_label] ha tenido un mal funcionamiento del congelador y vende comida antes de que se pudra.</li>
+    <li>root->[SETTLEMENT_label] vende su reserva de alimentos.</li>
+  </VTE_SettlementHeatWave.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>root->[SETTLEMENT_label] acquires a large amount of leathers.</li>
+    <li>root->[SETTLEMENT_label] buys leathers in bulk.</li>
+    <li>root->[SETTLEMENT_label] acquires copious amounts of various leathers.</li>
+  -->
+  <VTE_SettlementLeatherPurchase.rulePack.rulesStrings>
+    <li>root->[SETTLEMENT_label] adquiere una gran cantidad de cueros.</li>
+    <li>root->[SETTLEMENT_label] compra cueros al por mayor.</li>
+    <li>root->[SETTLEMENT_label] adquiere grandes cantidades de varios cueros.</li>
+  </VTE_SettlementLeatherPurchase.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>root->[SETTLEMENT_label] sells a large amount of leathers.</li>
+  -->
+  <VTE_SettlementLeatherSellOff.rulePack.rulesStrings>
+    <li>root->[SETTLEMENT_label] vende una gran cantidad de cueros.</li>
+  </VTE_SettlementLeatherSellOff.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>root->[SETTLEMENT_label] sells off large quantities of meat they obtained from a manhunter pack.</li>
+    <li>root->[SETTLEMENT_label] had a very bountiful hunting trip and will sell excess meat.</li>
+    <li>root->[SETTLEMENT_label] no longer requires their meat and will soon flood the market with it.</li>
+  -->
+  <VTE_SettlementManhunterMeat.rulePack.rulesStrings>
+    <li>root->[SETTLEMENT_label] vende grandes cantidades de carne que obtuvieron de una manada cazahombres.</li>
+    <li>root->[SETTLEMENT_label] tuvo un viaje de caza muy abundante y venderá el exceso de carne.</li>
+    <li>root->[SETTLEMENT_label] ya no requiere su carne y pronto inundará el mercado con ella.</li>
+  </VTE_SettlementManhunterMeat.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>root->[SETTLEMENT_label] has dealt with Defoliator ships and now sell excess plasteel.</li>
+    <li>root->[SETTLEMENT_label] has mined a large amount of plasteel and plans to sell it.</li>
+    <li>root->[SETTLEMENT_label] sells unused plasteel.</li>
+  -->
+  <VTE_SettlementMechanoidShipsSalvaged.rulePack.rulesStrings>
+    <li>root->[SETTLEMENT_label] ha lidiado con naves defoliadoras y ahora vende el exceso de plastiacero.</li>
+    <li>root->[SETTLEMENT_label] ha extraído una gran cantidad de plastiacero y planea venderlo.</li>
+    <li>root->[SETTLEMENT_label] vende plastiacero sin usar.</li>
+  </VTE_SettlementMechanoidShipsSalvaged.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>root->[SETTLEMENT_label] dealt with their plague and now sells excess medicine.</li>
+    <li>root->[SETTLEMENT_label] sells off excess medicine.</li>
+    <li>root->[SETTLEMENT_label] no longer has any need for their medicine stockpiles.</li>
+  -->
+  <VTE_SettlementPlagueDealtWith.rulePack.rulesStrings>
+    <li>root->[SETTLEMENT_label] lidió con su plaga y ahora vende el exceso de medicina.</li>
+    <li>root->[SETTLEMENT_label] vende el exceso de medicina.</li>
+    <li>root->[SETTLEMENT_label] ya no tiene ninguna necesidad de sus reservas de medicina.</li>
+  </VTE_SettlementPlagueDealtWith.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>root->[SETTLEMENT_label] has decided to upgrade their defenses with a new set of powered armors. They buy Plasteel in bulk.</li>
+    <li>root->[SETTLEMENT_label] requires plasteel and plans to buy a lot of it in bulk.</li>
+    <li>root->[SETTLEMENT_label] improves their defenses and plans to obtain plasteel, steel and components.</li>
+  -->
+  <VTE_SettlementPowerArmorUpgrade.rulePack.rulesStrings>
+    <li>root->[SETTLEMENT_label] ha decidido mejorar sus defensas con un nuevo conjunto de servoarmaduras. Compran plastiacero al por mayor.</li>
+    <li>root->[SETTLEMENT_label] requiere plastiacero y planea comprar mucho al por mayor.</li>
+    <li>root->[SETTLEMENT_label] mejora sus defensas y planea obtener plastiacero, acero y componentes.</li>
+  </VTE_SettlementPowerArmorUpgrade.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>root->[SETTLEMENT_label] had a prison break. They promise to step up the security.</li>
+    <li>root->[SETTLEMENT_label] is stockpiling weapons.</li>
+    <li>root->[SETTLEMENT_label] plans to equip everyone with new weapons.</li>
+  -->
+  <VTE_SettlementPrisonBreak.rulePack.rulesStrings>
+    <li>root->[SETTLEMENT_label] tuvo una fuga de prisión. Prometen aumentar la seguridad.</li>
+    <li>root->[SETTLEMENT_label] está almacenando armas.</li>
+    <li>root->[SETTLEMENT_label] planea equipar a todos con nuevas armas.</li>
+  </VTE_SettlementPrisonBreak.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>root->[SETTLEMENT_label] had a prison break which failed dramatically. They decided to sell excess weaponry and armor.</li>
+    <li>root->[SETTLEMENT_label] decided not to go to war. They will sell their weapons and armors.</li>
+    <li>root->[SETTLEMENT_label] will sell their old weapons and armors.</li>
+  -->
+  <VTE_SettlementPrisonBreakDealtWith.rulePack.rulesStrings>
+    <li>root->[SETTLEMENT_label] tuvo una fuga de prisión que falló dramáticamente. Decidieron vender el exceso de armamento y armaduras.</li>
+    <li>root->[SETTLEMENT_label] decidió no ir a la guerra. Venderán sus armas y armaduras.</li>
+    <li>root->[SETTLEMENT_label] venderá sus viejas armas y armaduras.</li>
+  </VTE_SettlementPrisonBreakDealtWith.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>root->[SETTLEMENT_label] was recently raided. Looters sell off whatever they stole.</li>
+    <li>root->[SETTLEMENT_label] scavenged a lot of useful junk and will soon flood the market with it.</li>
+    <li>root->[SETTLEMENT_label] plans to empty the stockpiles.</li>
+  -->
+  <VTE_SettlementRecentRaidSellOff.rulePack.rulesStrings>
+    <li>root->[SETTLEMENT_label] fue asaltado recientemente. Los saqueadores venden lo que robaron.</li>
+    <li>root->[SETTLEMENT_label] rescató mucha chatarra útil y pronto inundará el mercado con ella.</li>
+    <li>root->[SETTLEMENT_label] planea vaciar los almacenes.</li>
+  </VTE_SettlementRecentRaidSellOff.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>root->[SETTLEMENT_label] acquires a large amount of stone blocks.</li>
+  -->
+  <VTE_SettlementStoneBlocksPurchase.rulePack.rulesStrings>
+    <li>root->[SETTLEMENT_label] adquiere una gran cantidad de bloques de piedra.</li>
+  </VTE_SettlementStoneBlocksPurchase.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>root->[SETTLEMENT_label] sells a large amount of stone blocks.</li>
+  -->
+  <VTE_SettlementStoneBlocksSellOff.rulePack.rulesStrings>
+    <li>root->[SETTLEMENT_label] vende una gran cantidad de bloques de piedra.</li>
+  </VTE_SettlementStoneBlocksSellOff.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>root->[SETTLEMENT_label] acquires a large amount of techprints.</li>
+  -->
+  <VTE_SettlementTechprintsPurchase.rulePack.rulesStrings>
+    <li>root->[SETTLEMENT_label] adquiere una gran cantidad de tecnoimpresiones.</li>
+  </VTE_SettlementTechprintsPurchase.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>root->[SETTLEMENT_label] sells a large amount of techprints.</li>
+  -->
+  <VTE_SettlementTechprintsSellOff.rulePack.rulesStrings>
+    <li>root->[SETTLEMENT_label] vende una gran cantidad de tecnoimpresiones.</li>
+  </VTE_SettlementTechprintsSellOff.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>root->[SETTLEMENT_label] acquires a large amount of textiles.</li>
+    <li>root->[SETTLEMENT_label] plans to supply their tailors with copious amounts of textiles.</li>
+    <li>root->[SETTLEMENT_label] buys textiles in bulk.</li>
+  -->
+  <VTE_SettlementTextilePurchase.rulePack.rulesStrings>
+    <li>root->[SETTLEMENT_label] adquiere una gran cantidad de textiles.</li>
+    <li>root->[SETTLEMENT_label] planea suministrar a sus sastres grandes cantidades de textiles.</li>
+    <li>root->[SETTLEMENT_label] compra textiles al por mayor.</li>
+  </VTE_SettlementTextilePurchase.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>root->[SETTLEMENT_label] sells a large amount of textiles.</li>
+  -->
+  <VTE_SettlementTextileSellOff.rulePack.rulesStrings>
+    <li>root->[SETTLEMENT_label] vende una gran cantidad de textiles.</li>
+  </VTE_SettlementTextileSellOff.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>root->[SETTLEMENT_label] acquires a large amount of melee weapons.</li>
+  -->
+  <VTE_SettlementWeaponsMeleePurchase.rulePack.rulesStrings>
+    <li>root->[SETTLEMENT_label] adquiere una gran cantidad de armas cuerpo a cuerpo.</li>
+  </VTE_SettlementWeaponsMeleePurchase.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>root->[SETTLEMENT_label] sells a large amount of melee weapons.</li>
+  -->
+  <VTE_SettlementWeaponsMeleeSellOff.rulePack.rulesStrings>
+    <li>root->[SETTLEMENT_label] vende una gran cantidad de armas cuerpo a cuerpo.</li>
+  </VTE_SettlementWeaponsMeleeSellOff.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>root->[SETTLEMENT_label] acquires a large amount of ranged weapons.</li>
+  -->
+  <VTE_SettlementWeaponsRangedPurchase.rulePack.rulesStrings>
+    <li>root->[SETTLEMENT_label] adquiere una gran cantidad de armas a distancia.</li>
+  </VTE_SettlementWeaponsRangedPurchase.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>root->[SETTLEMENT_label] sells a large amount of ranged weapons.</li>
+  -->
+  <VTE_SettlementWeaponsRangedSellOff.rulePack.rulesStrings>
+    <li>root->[SETTLEMENT_label] vende una gran cantidad de armas a distancia.</li>
+  </VTE_SettlementWeaponsRangedSellOff.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>root->[SETTLEMENT_label] acquires a large amount of wools.</li>
+    <li>root->[SETTLEMENT_label] buys large amounts of various wools.</li>
+  -->
+  <VTE_SettlementWoolsPurchase.rulePack.rulesStrings>
+    <li>root->[SETTLEMENT_label] adquiere una gran cantidad de lanas.</li>
+    <li>root->[SETTLEMENT_label] compra grandes cantidades de varias lanas.</li>
+  </VTE_SettlementWoolsPurchase.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>root->[SETTLEMENT_label] sells a large amount of wools.</li>
+  -->
+  <VTE_SettlementWoolsSellOff.rulePack.rulesStrings>
+    <li>root->[SETTLEMENT_label] vende una gran cantidad de lanas.</li>
+  </VTE_SettlementWoolsSellOff.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>root->[SETTLEMENT_label] suffered a Zzzt, and now plans to purchase a large amount of building materials to rebuild.</li>
+    <li>root->[SETTLEMENT_label] suffered a gas explosion and will need building materials to rebuild.</li>
+    <li>root->[SETTLEMENT_label] plans an expansion and will acquire building resources. Prices are bound to go up.</li>
+  -->
+  <VTE_SettlementZzzt.rulePack.rulesStrings>
+    <li>root->[SETTLEMENT_label] sufrió un Zzzt, y ahora planea comprar una gran cantidad de materiales de construcción para reconstruir.</li>
+    <li>root->[SETTLEMENT_label] sufrió una explosión de gas y necesitará materiales de construcción para reconstruir.</li>
+    <li>root->[SETTLEMENT_label] planea una expansión y adquirirá recursos de construcción. Los precios están destinados a subir.</li>
+  </VTE_SettlementZzzt.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>root->[COMPANY] has reported that one of their ships has crashed. Share price should go down.</li>
+  -->
+  <VTE_ShipCrashed.rulePack.rulesStrings>
+    <li>root->[COMPANY] ha informado que una de sus naves se ha estrellado. El precio de las acciones debería bajar.</li>
+  </VTE_ShipCrashed.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>root->[COMPANY] has posted a subpar earnings report. Price is expected to drop slightly.</li>
+  -->
+  <VTE_SubParEarnings.rulePack.rulesStrings>
+    <li>root->[COMPANY] ha publicado un informe de ganancias deficiente. Se espera que el precio baje ligeramente.</li>
+  </VTE_SubParEarnings.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>root->[COMPANY] has posted a terrible earnings report. Price is expected to crash.</li>
+  -->
+  <VTE_TerribleEarnings.rulePack.rulesStrings>
+    <li>root->[COMPANY] ha publicado un informe de ganancias terrible. Se espera que el precio se desplome.</li>
+  </VTE_TerribleEarnings.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>root->[COMPANY] has posted a very bad earnings report. Price is expected to fall sharply.</li>
+  -->
+  <VTE_VeryBadEarnings.rulePack.rulesStrings>
+    <li>root->[COMPANY] ha publicado un informe de ganancias muy malo. Se espera que el precio caiga bruscamente.</li>
+  </VTE_VeryBadEarnings.rulePack.rulesStrings>
+  
+</LanguageData>

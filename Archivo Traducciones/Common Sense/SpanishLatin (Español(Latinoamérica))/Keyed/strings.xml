@@ -1,0 +1,170 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+	<!-- settings -->
+	<!-- EN: Need of Outdoors -->
+  <fulfill_outdoors_head>Necesidad de exteriores</fulfill_outdoors_head>
+	<!-- EN: Pawns are encouraged to fulfill their need of outdoors by seeking recreation outdoors -->
+  <fulfill_outdoors_label>Se anima a los colonos a satisfacer su necesidad de exteriores buscando recreación al aire libre</fulfill_outdoors_label>
+	<!-- EN: NOTE: Don't place the same joy giving sources both indoors and outdoors, to avoid indecisiveness. -->
+  <fulfill_outdoors_note>NOTA: No coloques las mismas fuentes de diversión tanto en interiores como en exteriores para evitar indecisiones.</fulfill_outdoors_note>
+	<!-- EN: Opportunistic jobs -->
+  <clean_head>Trabajos oportunistas</clean_head>
+	<!-- EN: Pawns are encouraged to clean the room before operating a station in it -->
+  <clean_before_working_label>Se anima a los colonos a limpiar la habitación antes de usar una estación de trabajo en ella</clean_before_working_label>
+	<!-- EN: NOTE: Don't expect pawns who cannot clean to suddenly begin cleaning. -->
+  <clean_before_working_note>NOTA: No esperes que los colonos que no pueden limpiar empiecen a hacerlo de repente.</clean_before_working_note>
+	<!-- EN: Calculate accurate path to the building for bill jobs -->
+  <bill_job_pathing_label>Calcular ruta precisa al edificio para tareas de producción</bill_job_pathing_label>
+	<!-- EN: It'll help to avoid making unreasonable hooks around when your pawns need to bring resources first, but it may be costly on CPU -->
+  <bill_job_pathing_note>Ayudará a evitar rodeos absurdos cuando los colonos necesiten traer recursos primero, pero puede afectar el rendimiento del CPU.</bill_job_pathing_note>
+	<!-- EN: Pawns are encouraged to clean the room after tending to a patient -->
+  <clean_after_tending_label>Se anima a los colonos a limpiar la habitación después de atender a un paciente</clean_after_tending_label>
+	<!-- EN: NOTE: Don't expect pawns who cannot clean to suddenly begin cleaning. -->
+  <clean_after_tending_note>NOTA: No esperes que los colonos que no pueden limpiar empiecen a hacerlo de repente.</clean_after_tending_note>
+	<!-- EN: Meal stacking -->
+  <meal_stacking_head>Apilado de comidas</meal_stacking_head>
+	<!-- EN: Pawns avoid mixing negative thoughts when stacking meals -->
+  <meal_stacking_label>Los colonos evitan mezclar pensamientos negativos al apilar comidas</meal_stacking_label>
+	<!-- EN: That way pawns will never mix disgusting meals with normal ones -->
+  <meal_stacking_note>De esa forma, los colonos nunca mezclarán comidas asquerosas con las normales.</meal_stacking_note>
+	<!-- EN: Count odd meat (ex.: insect) as normal, allowing to stack it with normal meals -->
+  <dont_count_odd_label>Contar carne extraña (ej. insecto) como normal, permitiendo apilarla con comidas normales</dont_count_odd_label>
+	<!-- EN: Insect meat isn't so bad... -->
+  <dont_count_odd_note>La carne de insecto no es tan mala...</dont_count_odd_note>
+	<!-- EN: Meal generation -->
+  <gen_ingredients_head>Generación de comidas</gen_ingredients_head>
+	<!-- EN: Add random ingredients to randomly generated meals -->
+  <gen_ingredients_label>Añadir ingredientes aleatorios a comidas generadas al azar</gen_ingredients_label>
+	<!-- EN: Ex.: gifted by story teller, sold by a trader, looted from corpse. Only mood neutral components are used. With this option on, the game will never be the same -->
+  <gen_ingredients_note>Ej.: regaladas por el narrador, vendidas por un comerciante, saqueadas de cadáveres. Solo se usan componentes de humor neutral. Con esta opción activada, el juego nunca será el mismo.</gen_ingredients_note>
+	<!-- EN: Add former task to queue -->
+  <add_to_que_label>Añadir tarea anterior a la cola</add_to_que_label>
+	<!-- EN: That way pawns will not change their mind after performing an opportunistic task, but sometimes it can cause confusion if a job was already taken -->
+  <add_to_que_note>De esa forma, los colonos no cambiarán de opinión tras realizar una tarea oportunista, aunque a veces puede causar confusión si el trabajo ya fue tomado.</add_to_que_note>
+	<!-- EN: Pawns are encouraged to haul ingredients for a bill to a stockpile -->
+  <hauling_over_bills_label>Se anima a los colonos a transportar ingredientes de una tarea a un almacén</hauling_over_bills_label>
+	<!-- EN: When working on a bill, pawns will prefer hauling ingredients to a stockpile, instead of taking a small fraction, required for a recipe -->
+  <hauling_over_bills_note>Al trabajar en una tarea, los colonos preferirán llevar los ingredientes a un almacén en lugar de tomar solo la pequeña fracción requerida para la receta.</hauling_over_bills_note>
+	<!-- EN: Fulfillment of needs -->
+  <fulfill_needs_head>Satisfacción de necesidades</fulfill_needs_head>
+	<!-- EN: Pawns are encouraged to take account of potential mood in drug policies -->
+  <drugs_use_potential_mood_label>Se anima a los colonos a tener en cuenta el humor potencial en las políticas de drogas</drugs_use_potential_mood_label>
+	<!-- EN: Pawns will not use drugs if "potential" mood is above a limit, preventing overuse of drugs to achieve a set mood level. -->
+  <drugs_use_potential_mood_note>Los colonos no usarán drogas si el humor "potencial" está por encima de un límite, evitando el uso excesivo de drogas para alcanzar un nivel de humor determinado.</drugs_use_potential_mood_note>
+	<!-- EN: Miscellaneous -->
+  <miscellaneous_head>Misceláneo</miscellaneous_head>
+	<!-- EN: Recipes display complete list of ingredients -->
+  <extended_recipe_label>Las recetas muestran la lista completa de ingredientes</extended_recipe_label>
+	<!-- EN: Instead of just vague "ingredients" -->
+  <extended_recipe_note>En lugar de solo el vago término "ingredientes".</extended_recipe_note>
+	<!-- EN: Advanced behaviors -->
+  <advanced_head>Comportamientos avanzados</advanced_head>
+	<!-- EN: Pawns will clean rooms in between hauling ingredients and crafting -->
+  <advanced_inbetween_cleaning_label>Los colonos limpiarán las habitaciones entre el transporte de ingredientes y la fabricación</advanced_inbetween_cleaning_label>
+	<!-- EN: Basic behavior would let them clean only before hauling -->
+  <advanced_inbetween_cleaning_note>El comportamiento básico solo les permitiría limpiar antes del transporte.</advanced_inbetween_cleaning_note>
+	<!-- EN: Pawns are encouraged to pick up all ingredients before hauling them to the crafting place -->
+  <advanced_haul_all_ings_label>Se anima a los colonos a recoger todos los ingredientes antes de llevarlos al lugar de fabricación</advanced_haul_all_ings_label>
+	<!-- EN: Pawns will take all necessary ingredients to their hauling inventory before delivering them to the crafting place -->
+  <advanced_haul_all_ings_note>Los colonos llevarán todos los ingredientes necesarios en su inventario de transporte antes de entregarlos al lugar de fabricación.</advanced_haul_all_ings_note>
+	<!-- EN: Pawns are encouraged to use ingredients and materials that are closer to spoiling. -->
+  <prefer_spoiling_ingredients_label>Se anima a los colonos a usar ingredientes y materiales que estén más cerca de echarse a perder.</prefer_spoiling_ingredients_label>
+	<!-- EN: WARNING: A large amount of items to choose from may cause lag when this option is enabled. -->
+  <prefer_spoiling_ingredients_note>ADVERTENCIA: Una gran cantidad de objetos para elegir puede causar lag cuando esta opción está activada.</prefer_spoiling_ingredients_note>
+	<!-- EN: Unload -->
+  <UnloadThing>Descargar</UnloadThing>
+	<!-- EN: Cancel unload -->
+  <UnloadThingCancel>Cancelar descarga</UnloadThingCancel>
+	<!-- EN: Enable a button in colonist's inventory to mark items for hauling to stockpile -->
+  <manual_unload_label>Habilitar un botón en el inventario del colono para marcar objetos para transportar al almacén</manual_unload_label>
+	<!-- EN: If there are no stockpiles to haul to, the colonist will drop the item near him -->
+  <manual_unload_note>Si no hay almacenes a los que transportar, el colono soltará el objeto cerca de él.</manual_unload_note>
+	<!-- EN: Pawns will put items back in their inventory when interrupted -->
+  <put_back_to_inv_label>Los colonos volverán a poner los objetos en su inventario si son interrumpidos</put_back_to_inv_label>
+	<!-- EN: When pawns are holding an inventory item in their hands, they'll put them back if action was interrupted -->
+  <put_back_to_inv_note>Cuando los colonos tengan un objeto del inventario en sus manos, lo guardarán si la acción fue interrumpida.</put_back_to_inv_note>
+	<!-- EN: Pawns will stop taking more sweets than they can eat -->
+  <pick_proper_amount_label>Los colonos dejarán de tomar más dulces de los que pueden comer</pick_proper_amount_label>
+	<!-- EN: No more chocolate lying around -->
+  <pick_proper_amount_note>No más chocolate tirado por ahí.</pick_proper_amount_note>
+	<!-- EN: Category -->
+  <Category>Categoría</Category>
+	<!-- EN: Pawns are encouraged to fulfill secondary needs during joy assignment, or if woken early -->
+  <fun_police_label>Se anima a los colonos a satisfacer necesidades secundarias durante la asignación de diversión, o si se despiertan temprano</fun_police_label>
+	<!-- EN: Pawns will try to top off their joy need only after it goes below 80%, they'll prefer to pick up a spare meal to their inventory, and fulfill all their hygiene needs (if dubs mod is present) -->
+  <fun_police_note>Los colonos intentarán completar su necesidad de diversión solo después de que baje del 80%, preferirán recoger una comida extra para su inventario y satisfacer todas sus necesidades de higiene (si el mod de Dubs está presente).</fun_police_note>
+	<!-- EN: Tweakable numbers (0 = Unlimited) -->
+  <numbers_head>Números ajustables (0 = Ilimitado)</numbers_head>
+	<!-- EN: Filth limit for pre-task cleaning -->
+  <op_clean_number_label>Límite suciedad para limpieza previa a tarea</op_clean_number_label>
+	<!-- EN: Filth limit for pre-bill cleaning -->
+  <adv_clean_number_label>Límite suciedad para limpieza previa a producción</adv_clean_number_label>
+	<!-- EN: Filth limit for post-tending cleaning -->
+  <doc_clean_number_label>Límite suciedad para limpieza post atención médica</doc_clean_number_label>
+	<!-- EN: Pawns are discouraged from clearing snow from areas when it's snowing or raining -->
+  <skip_snow_clean_label>Se desaconseja a los colonos limpiar la nieve de las áreas cuando está nevando o lloviendo</skip_snow_clean_label>
+	<!-- EN: When raining just in case if it's a tricky weather -->
+  <skip_snow_clean_note>Cuando llueve, por si acaso el clima es engañoso.</skip_snow_clean_note>
+	<!-- EN: Pawns are encouraged to eat meals that are closer to spoiling -->
+  <prefer_spoiling_meals_label>Se anima a los colonos a comer comidas que estén más cerca de echarse a perder</prefer_spoiling_meals_label>
+	<!-- EN: WARNING: A large amount of items to choose from may cause lag when this option is enabled. -->
+  <prefer_spoiling_meals_note>ADVERTENCIA: Una gran cantidad de objetos para elegir puede causar lag cuando esta opción está activada.</prefer_spoiling_meals_note>
+	<!-- EN: Allow and encourage pawns to feed animals with hay. -->
+  <allow_feeding_with_plants_label>Permitir y animar a los colonos a alimentar a los animales con heno.</allow_feeding_with_plants_label>
+	<!-- EN:  Animals will also be encouraged to prefer non-human food. -->
+  <allow_feeding_with_plants_note>También se animará a los animales a preferir comida no humana.</allow_feeding_with_plants_note>
+	<!-- EN: Pawns are encouraged to give allowed social drugs or joy-giving food to sick pawns -->
+  <give_sick_joy_drugs_label>Se anima a los colonos a dar drogas sociales permitidas o comida recreativa a los colonos enfermos</give_sick_joy_drugs_label>
+	<!-- EN: Why talk if you can give them a chocolate bar? -->
+  <give_sick_joy_drugs_note>¿Para qué hablar si puedes darles una barra de chocolate?</give_sick_joy_drugs_note>
+	<!-- EN: Change how pawns use drugs when relaxing socially to prevent them from "wasting joy" -->
+  <social_relax_economy_label>Cambiar cómo los colonos usan drogas al relajarse socialmente para evitar que "desperdicien diversión"</social_relax_economy_label>
+	<!-- EN: Normally pawns sit down for a hour or two before actually consuming the drug, wasting the effect -->
+  <social_relax_economy_note>Normalmente los colonos se sientan una o dos horas antes de consumir la droga, desperdiciando el efecto.</social_relax_economy_note>
+	<!-- EN: Pawns are encouraged to clean before eating at a table or relaxing socially -->
+  <advanced_cleaning_ingest_label>Se anima a los colonos a limpiar antes de comer en una mesa o relajarse socialmente</advanced_cleaning_ingest_label>
+	<!-- EN: Pawns will clean around the table where they're planning to sit -->
+  <advanced_cleaning_ingest_note>Los colonos limpiarán alrededor de la mesa donde planean sentarse.</advanced_cleaning_ingest_note>
+	<!-- EN: Pawn's mood slowly moves towards 50% while they're asleep if possible -->
+  <mood_regen_label>El humor de los colonos se mueve lentamente hacia el 50% mientras duermen, si es posible</mood_regen_label>
+	<!-- EN: Just let pawns "sleep on it" and they should be fine -->
+  <mood_regen_note>Solo deja que los colonos "lo consulten con la almohada" y estarán bien.</mood_regen_note>
+	<!-- EN: Pawns are encouraged to avoid bad weather when wandering aimlessly -->
+  <safe_wander_label>Se anima a los colonos a evitar el mal tiempo cuando deambulan sin rumbo</safe_wander_label>
+	<!-- EN: Just stop walking out into the toxic fallout, you idiots -->
+  <safe_wander_note>Dejen de caminar hacia la lluvia tóxica, idiotas.</safe_wander_note>
+	<!-- EN: Pathing -->
+  <pathing_head>Rutas</pathing_head>
+	<!-- EN: Any friendly pawns are encouraged to avoid wandering into bedrooms, prison cells and prison barracks -->
+  <polite_wander_label>Se anima a los colonos aliados a evitar deambular por dormitorios, celdas y barracones de prisioneros</polite_wander_label>
+	<!-- EN: This is just indecent or even dangerous, isn't it? -->
+  <polite_wander_note>Esto es simplemente indecente o incluso peligroso, ¿no?</polite_wander_note>
+	<!-- EN: Allow to take any drugs from inventory -->
+  <ingest_any_drugs_label>Permitir tomar cualquier droga del inventario</ingest_any_drugs_label>
+	<!-- EN: If it's ingestible, it should be possible to eat it without dropping on the ground -->
+  <ingest_any_drugs_note>Si es ingerible, debería ser posible comerlo sin soltarlo al suelo.</ingest_any_drugs_note>
+	<!-- EN: Clean around this bench -->
+  <DoCleanCompToggleLabel>Limpiar alrededor de este banco</DoCleanCompToggleLabel>
+	<!-- EN: Pawns will clean around this bench -->
+  <DoCleanCompToggleDescActive>Los colonos limpiarán alrededor de este banco</DoCleanCompToggleDescActive>
+	<!-- EN: Pawns will NOT clean around this bench -->
+  <DoCleanCompToggleDescInactive>Los colonos NO limpiarán alrededor de este banco</DoCleanCompToggleDescInactive>
+	<!-- EN: Show a toggle to be able switch which benches need cleaning -->
+  <advanced_inbetween_cleaning_gizmo_label>Mostrar un interruptor para poder cambiar qué bancos necesitan limpieza</advanced_inbetween_cleaning_gizmo_label>
+	<!-- EN: It will be possible to disable cleaning around some benches -->
+  <advanced_inbetween_cleaning_gizmo_note>Será posible desactivar la limpieza alrededor de algunos bancos.</advanced_inbetween_cleaning_gizmo_note>
+	<!-- EN: Pawns will meditate only as much as they need -->
+  <meditation_economy_label>Los colonos meditarán solo lo necesario</meditation_economy_label>
+	<!-- EN: Unless under meditation assignment, pawns will stop meditating if their psyfocus is full and they don't see meditation as a good source of joy (i. e. full or bored of it) -->
+  <meditation_economy_note>A menos que tengan una asignación de meditación, los colonos dejarán de meditar si su psicofoco está lleno y no ven la meditación como una buena fuente de diversión (es decir, están llenos o aburridos de ella).</meditation_economy_note>
+	<!-- EN: - - pawns will not exceed inventory capacity -->
+  <advanced_respect_capacity_label>- - los colonos no excederán la capacidad del inventario</advanced_respect_capacity_label>
+	<!-- EN: For immersion reasons or whatever -->
+  <advanced_respect_capacity_note>Por razones de inmersión o lo que sea.</advanced_respect_capacity_note>
+	<!-- EN: Optimal Patching -->
+  <optimal_patching_label>Parcheado óptimo</optimal_patching_label>
+	<!-- EN: When this option is off, all options activate immediately after toggling them, at the cost of always being in the code, possibly affecting performance even if they're toggled off. When option is on, options will require you to restart the game when changed, but patches needed for these options won't happen, removing extra performance impact when game launches with these options toggled off -->
+  <optimal_patching_note>Cuando esta opción está desactivada, todas las opciones se activan inmediatamente después de cambiarlas, a costa de estar siempre en el código, lo que posiblemente afecte el rendimiento incluso si están desactivadas. Cuando la opción está activada, los cambios requerirán reiniciar el juego, pero los parches necesarios para estas opciones no se aplicarán, eliminando el impacto adicional en el rendimiento cuando el juego se inicia con estas opciones desactivadas.</optimal_patching_note>
+	<!-- EN: ATTENTION: Optimal patching doesn't properly apply without restarting the game! -->
+  <optimal_patching_attention_label>ATENCIÓN: ¡El parcheado óptimo no se aplica correctamente sin reiniciar el juego!</optimal_patching_attention_label>
+</LanguageData>

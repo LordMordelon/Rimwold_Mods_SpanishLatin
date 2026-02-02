@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+	<!-- EN: Sense Of Depth -->
+  <SenseOfDepthMod>Sense Of Depth</SenseOfDepthMod>
+
+	<!-- EN: Toggle BSL -->
+  <BackSideLayer_Toggle>Alternar BSL</BackSideLayer_Toggle>
+	<!-- EN: Toggle BSL drawing ON/OFF. -->
+  <BackSideLayer_ToggleDesc>Activa o desactiva la visualización de la capa trasera (BSL).</BackSideLayer_ToggleDesc>
+	
+	<!-- EN: BSL cannot currently be drawn. -->
+  <BackSideLayer_ToggleDesc_Undraw>La BSL no se puede dibujar actualmente.</BackSideLayer_ToggleDesc_Undraw>
+
+	<!-- EN: General Settings -->
+  <SenseOfDepth_GeneralSetting>Configuración general</SenseOfDepth_GeneralSetting>
+	<!-- EN: Selection Settings -->
+  <SenseOfDepth_SelectionSetting>Configuración de selección</SenseOfDepth_SelectionSetting>
+	<!-- EN: Reset settings to initial values. -->
+  <SenseOfDepth_SettingInitializeTip>Restablecer los ajustes a los valores iniciales.</SenseOfDepth_SettingInitializeTip>
+	<!-- EN: For Dev: -->
+  <SenseOfDepth_ForDev>Para desarrolladores:</SenseOfDepth_ForDev>
+	<!-- EN: Detail Output Log -->
+  <SenseOfDepth_AppliedLog>Registro de salida detallado</SenseOfDepth_AppliedLog>
+	<!-- EN: Outputs Log on startup.\nList of all BSL supported buildings, and buildings with def fixes patch applied. -->
+  <SenseOfDepth_AppliedLogTip>Genera un registro al iniciar.\nMuestra una lista de todos los edificios compatibles con BSL y aquellos a los que se les ha aplicado un parche de corrección de "def".</SenseOfDepth_AppliedLogTip>
+	<!-- EN: Show Building Inspector Gizmo -->
+  <SenseOfDepth_DebugInspector>Mostrar gizmo del inspector de edificios</SenseOfDepth_DebugInspector>
+	<!-- EN: This is only available in dev mode, and when a buildings selected it will show a Gizomo to open an inspection window for the this mods debug. -->
+  <SenseOfDepth_DebugInspectorTip>Solo disponible en modo desarrollador. Al seleccionar un edificio, mostrará un gizmo para abrir una ventana de inspección para depurar este mod.</SenseOfDepth_DebugInspectorTip>
+	<!-- EN: Dyes BSL to Red  -->
+  <SenseOfDepth_OverColored>Teñir BSL de rojo</SenseOfDepth_OverColored>
+	<!-- EN: Note: This is just for checking the layers. It is not recommended to turn it on during gameplay. -->
+  <SenseOfDepth_OverColoredTip>Nota: Esto es solo para comprobar las capas. No se recomienda activarlo durante el juego.</SenseOfDepth_OverColoredTip>
+	<!-- EN: All BSL Invisible -->
+  <SenseOfDepth_AllInvisible>Ocultar todas las BSL</SenseOfDepth_AllInvisible>
+	<!-- EN: Forces all "Back Side Layers" be undrawn. Note: It will not be reflected immediately. -->
+  <SenseOfDepth_AllInvisibleTip>Fuerza que no se dibujen todas las "Capas traseras" (BSL). Nota: El cambio no se aplicará inmediatamente.</SenseOfDepth_AllInvisibleTip>
+	<!-- EN: Attaches Icon -->
+  <SenseOfDepth_AttachIcon>Añadir icono</SenseOfDepth_AttachIcon>
+	<!-- EN: Attaches an additional mark to the Architect icon for buildings where BSL supported.\nRequires game reboot to apply changes. -->
+  <SenseOfDepth_AttachIconTip>Añade una marca adicional al icono de Arquitecto para los edificios compatibles con BSL.\nRequiere reiniciar el juego para aplicar los cambios.</SenseOfDepth_AttachIconTip>
+	<!-- EN: Show BSL Icon -->
+  <SenseOfDepth_ShowAttachIcon>Mostrar icono de BSL</SenseOfDepth_ShowAttachIcon>
+	<!-- EN: Show additional attached icon. -->
+  <SenseOfDepth_ShowAttachIconTip>Mostrar el icono adicional.</SenseOfDepth_ShowAttachIconTip>
+	<!-- EN: Initially ON -->
+  <SenseOfDepth_InitialToggle>Activado inicialmente</SenseOfDepth_InitialToggle>
+	<!-- EN: When a BSL enabled building is first placed, it is shipped with BSL toggle turned on. This also applies to buildings that are automatically placed on the map. -->
+  <SenseOfDepth_InitialToggleTip>Cuando se coloca por primera vez un edificio compatible con BSL, su visualización estará activada. Esto también se aplica a los edificios que se generan automáticamente en el mapa.</SenseOfDepth_InitialToggleTip>
+	<!-- EN: Show BackSideLayer Toggle Button -->
+  <SenseOfDepth_ShowToggleButton>Mostrar botón de visualización de capa trasera</SenseOfDepth_ShowToggleButton>
+	<!-- EN: Displays the drawing toggle button when selected a building that supports back side layers. -->
+  <SenseOfDepth_ShowToggleButtonTip>Muestra el botón para alternar la visualización al seleccionar un edificio compatible con capas traseras.</SenseOfDepth_ShowToggleButtonTip>
+	<!-- EN: Mech Gestator Top Graphic Fix -->
+  <SenseOfDepth_MechGestatorTopGraphicsFix>Corrección del gráfico superior del gestador de mecas</SenseOfDepth_MechGestatorTopGraphicsFix>
+	<!-- EN: Fix layer altitude of MechGestator lid part graphic. -->
+  <SenseOfDepth_MechGestatorTopGraphicsFixTip>Corrige la altitud de la capa del gráfico de la tapa del gestador de mecas.</SenseOfDepth_MechGestatorTopGraphicsFixTip>
+
+	<!-- EN: Def Fixes Patch: Requires reboot to apply setting changes. -->
+  <SenseOfDepth_DefFixesPatchSubLabel>Parche de corrección de Defs: Requiere reiniciar para aplicar los cambios.</SenseOfDepth_DefFixesPatchSubLabel>
+	<!-- EN: Apply Def Fixes Patch -->
+  <SenseOfDepth_ApplyDefsPatch>Aplicar parche de corrección de Defs</SenseOfDepth_ApplyDefsPatch>
+	<!-- EN: Patch BSL supported buildings to ensure proper use BSL. Normally there is no need to turn it off. If you have a building that has problems due to these patches, please turn off this and report it to author. If [Detail Output Log] is turn on when lunch the game, you can see the details of the patched buildings. -->
+  <SenseOfDepth_ApplyDefsPatchTip>Aplica un parche a los edificios compatibles con BSL para asegurar su uso correcto. Normalmente no es necesario desactivarlo. Si algún edificio te da problemas debido a estos parches, desactiva esta opción e informa al autor. Si el [Registro de salida detallado] está activado al iniciar el juego, podrás ver los detalles de los edificios parcheados.</SenseOfDepth_ApplyDefsPatchTip>
+
+	<!-- EN: Search -->
+  <SenseOfDepth_Search>Buscar</SenseOfDepth_Search>
+	<!-- EN: Enabled -->
+  <SenseOfDepth_Enabled>Activados</SenseOfDepth_Enabled>
+	<!-- EN: Disabled -->
+  <SenseOfDepth_Disabled>Desactivados</SenseOfDepth_Disabled>
+	<!-- EN: Displays Label Name -->
+  <SenseOfDepth_DisplayName>Mostrar nombres de etiqueta</SenseOfDepth_DisplayName>
+	<!-- EN: Exclude By Size -->
+  <SenseOfDepth_ExcludeBySize>Excluir por tamaño</SenseOfDepth_ExcludeBySize>
+	<!-- EN: 1 x 1 -->
+  <SquareOne>1 x 1</SquareOne>
+	<!-- EN: Height 1 -->
+  <HeightOne>Altura 1</HeightOne>
+	<!-- EN: All Disable -->
+  <AllDisable>Desactivar todo</AllDisable>
+	<!-- EN: All Enable -->
+  <AllEnable>Activar todo</AllEnable>
+  
+</LanguageData>

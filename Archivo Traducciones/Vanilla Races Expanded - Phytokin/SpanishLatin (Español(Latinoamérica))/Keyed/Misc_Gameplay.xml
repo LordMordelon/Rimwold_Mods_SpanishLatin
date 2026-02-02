@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<!-- EN: Progressive attunement gene -->
+  <VRE_ProgressiveAttunementOffset>Gen de sintonía progresiva</VRE_ProgressiveAttunementOffset>
+	<!-- EN: Sapling child -->
+  <VRE_SaplingBirthReady>Niño-brote</VRE_SaplingBirthReady>
+	<!-- EN: When a colonist with saplingbirth gene becomes pregnant, they need to designate a place to plant their offspring. If they don’t do it before the second trimester begins (6 days), the pregnancy will be terminated. -->
+  <VRE_SaplingBirthReadyDesc>Cuando un colono con el gen de nacimiento de brote queda embarazado, necesita designar un lugar para plantar a su descendencia. Si no lo hace antes de que comience el segundo trimestre (6 días), el embarazo se interrumpirá.</VRE_SaplingBirthReadyDesc>
+	<!-- EN: Plant saplingchild -->
+  <VRE_PlantSaplingchild>Plantar niño-brote</VRE_PlantSaplingchild>
+	<!-- EN: Plant a saplingchild. If this isn't done before the second semester begins (6 days since pregnancy) it will count as a miscarriage. The saplingchild will need to be protected. -->
+  <VRE_PlantSaplingchildDesc>Plantar un niño-brote. Si esto no se hace antes de que comience el segundo trimestre (6 días desde el embarazo), contará como un aborto espontáneo. El niño-brote necesitará ser protegido.</VRE_PlantSaplingchildDesc>
+	<!-- EN: Saplingchild needs to be planted on soil -->
+  <VRE_SaplingNeedsSoil>El niño-brote necesita ser plantado en tierra</VRE_SaplingNeedsSoil>
+	<!-- EN: Saplingchild needs to be planted -->
+  <VRE_SaplingchildNeedsToBePlanted>El niño-brote necesita ser plantado</VRE_SaplingchildNeedsToBePlanted>
+	<!-- EN: When a colonist with saplingbirth gene becomes pregnant, they need to designate a place to plant their offspring. If they don’t do it before the second trimester begins (6 days), the pregnancy will be terminated. These colonists need to plant their saplingchild:\n\n{0} -->
+  <VRE_SaplingchildNeedsToBePlantedDesc>Cuando un colono con el gen de nacimiento de brote queda embarazado, necesita designar un lugar para plantar a su descendencia. Si no lo hace antes de que comience el segundo trimestre (6 días), el embarazo se interrumpirá. Estos colonos necesitan plantar su niño-brote:\n\n{0}</VRE_SaplingchildNeedsToBePlantedDesc>
+	<!-- EN: Mother xenotype: {0} -->
+  <VRE_MotherXenotype>Xenotipo de la madre: {0}</VRE_MotherXenotype>
+	<!-- EN:  has been destroyed by temperature -->
+  <VRE_DestroyedByTemp> ha sido destruido por la temperatura</VRE_DestroyedByTemp>
+	<!-- EN: {0} has hatched from a sapling! -->
+  <VRE_SaplingHatched>¡{0} ha eclosionado de un brote!</VRE_SaplingHatched>
+	<!-- EN: {0} hatched! -->
+  <VRE_SaplingHatchedLabel>¡{0} eclosionó!</VRE_SaplingHatchedLabel>
+	<!-- EN: Time until birth: {0} -->
+  <VRE_TimeToHatch>Tiempo hasta el nacimiento: {0}</VRE_TimeToHatch>
+	<!-- EN: Unlocked via Anima Affinity gene -->
+  <VRE_UnlockedByGeneAnima>Desbloqueado vía gen de Afinidad de Ánima</VRE_UnlockedByGeneAnima>
+	<!-- EN: Unlocked via Gauranlen Affinity gene -->
+  <VRE_UnlockedByGeneGau>Desbloqueado vía gen de Afinidad Gauranlen</VRE_UnlockedByGeneGau>
+	<!-- EN: This ability needs to be used on an anima tree -->
+  <VRE_CanOnlyBeUsedOnAnimaTree>Esta habilidad necesita ser usada en un árbol de ánima</VRE_CanOnlyBeUsedOnAnimaTree>
+	<!-- EN: This ability needs to be used on terrain with fertility of at least 0.05 -->
+  <VRE_CanOnlyBePlantedOnFertile>Esta habilidad necesita ser usada en terreno con fertilidad de al menos 0.05</VRE_CanOnlyBePlantedOnFertile>
+	<!-- EN: A maximum of two dryads per colonist with Gauranlen affinity can be alive at the same time -->
+  <VRE_TwoPreviousDryadsMustBeDead>Un máximo de dos dríadas por colono con afinidad Gauranlen pueden estar vivas al mismo tiempo</VRE_TwoPreviousDryadsMustBeDead>
+	<!-- EN: Anima Affinity gene -->
+  <VRE_RitualPredictedOutcomeDescAffinityGeneCount>Gen de Afinidad de Ánima</VRE_RitualPredictedOutcomeDescAffinityGeneCount>
+	<!-- EN: Gauranlen Affinity gene -->
+  <VRE_RitualPredictedOutcomeDescAffinityGeneCountGau>Gen de Afinidad Gauranlen</VRE_RitualPredictedOutcomeDescAffinityGeneCountGau>
+
+</LanguageData>

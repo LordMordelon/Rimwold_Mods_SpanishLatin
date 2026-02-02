@@ -1,0 +1,198 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: argument -->
+  <RotR_Argument.label>discusión</RotR_Argument.label>
+  <!-- EN:
+    <li>r_logentry->[INITIATOR_nameDef] [argueVerb] [RECIPIENT_nameDef] about [argumentTopic].</li>
+    <li>r_logentry->[INITIATOR_nameDef] and [RECIPIENT_nameDef] had a [argumentIntensity] over [argumentTopic]. [RECIPIENT_nameDef] [emotionalReaction].</li>
+    <li>argueVerb->argued with</li>
+    <li>argueVerb->bickered with</li>
+    <li>argueVerb->complained to</li>
+    <li>argueVerb->snapped at</li>
+    <li>argueVerb->scoffed at</li>
+    <li>argueVerb->criticized</li>
+    <li>argumentIntensity->heated argument</li>
+    <li>argumentIntensity->brief spat</li>
+    <li>argumentIntensity->long dispute</li>
+    <li>argumentIntensity->mild disagreement</li>
+    <li>argumentIntensity->tense standoff</li>
+    <li>argumentTopic->personal vices</li>
+    <li>argumentTopic->health and wellness practices</li>
+    <li>argumentTopic->parenting philosophies</li>
+    <li>argumentTopic->commitment levels</li>
+    <li>argumentTopic->privacy boundaries</li>
+    <li>argumentTopic->time management</li>
+    <li>argumentTopic->lack of attention</li>
+    <li>argumentTopic->jealousy</li>
+    <li>argumentTopic->chores</li>
+    <li>argumentTopic->future plans</li>
+    <li>argumentTopic->past mistakes</li>
+    <li>argumentTopic->expectations</li>
+    <li>argumentTopic->opinions on events</li>
+    <li>argumentTopic->differences in risk-taking</li>
+    <li>argumentTopic->personal insecurities</li>
+    <li>argumentTopic->past relationships</li>
+    <li>argumentTopic->cultural differences</li>
+    <li>argumentTopic->lifestyle choices</li>
+    <li>argumentTopic->intimacy issues</li>
+    <li>argumentTopic->spiritual beliefs</li>
+    <li>emotionalReaction->sobbed quietly</li>
+    <li>emotionalReaction->shook with anger</li>
+    <li>emotionalReaction->laughed nervously</li>
+    <li>emotionalReaction->avoided eye contact</li>
+    <li>emotionalReaction->slammed a door</li>
+    <li>emotionalReaction->paced back and forth</li>
+    <li>emotionalReaction->breathed deeply to calm down</li>
+    <li>emotionalReaction->stared off into the distance</li>
+    <li>emotionalReaction->wiped away tears</li>
+    <li>emotionalReaction->forced a smile</li>
+    <li>emotionalReaction->clenched fists</li>
+    <li>emotionalReaction->walked away</li>
+  -->
+  <RotR_Argument.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef] [argueVerb] [RECIPIENT_nameDef] sobre [argumentTopic].</li>
+    <li>r_logentry->[INITIATOR_nameDef] y [RECIPIENT_nameDef] tuvieron una [argumentIntensity] sobre [argumentTopic]. [RECIPIENT_nameDef] [emotionalReaction].</li>
+    <li>argueVerb->discutió con</li>
+    <li>argueVerb->peleó con</li>
+    <li>argueVerb->se quejó con</li>
+    <li>argueVerb->le gritó a</li>
+    <li>argueVerb->se burló de</li>
+    <li>argueVerb->criticó a</li>
+    <li>argumentIntensity->discusión acalorada</li>
+    <li>argumentIntensity->breve disputa</li>
+    <li>argumentIntensity->larga disputa</li>
+    <li>argumentIntensity->leve discrepancia</li>
+    <li>argumentIntensity->tensa confrontación</li>
+    <li>argumentTopic->vicios personales</li>
+    <li>argumentTopic->prácticas de salud y bienestar</li>
+    <li>argumentTopic->filosofías de crianza</li>
+    <li>argumentTopic->niveles de compromiso</li>
+    <li>argumentTopic->límites de privacidad</li>
+    <li>argumentTopic->gestión del tiempo</li>
+    <li>argumentTopic->falta de atención</li>
+    <li>argumentTopic->celos</li>
+    <li>argumentTopic->tareas domésticas</li>
+    <li>argumentTopic->planes futuros</li>
+    <li>argumentTopic->errores pasados</li>
+    <li>argumentTopic->expectativas</li>
+    <li>argumentTopic->opiniones sobre eventos</li>
+    <li>argumentTopic->diferencias en la toma de riesgos</li>
+    <li>argumentTopic->inseguridades personales</li>
+    <li>argumentTopic->relaciones pasadas</li>
+    <li>argumentTopic->diferencias culturales</li>
+    <li>argumentTopic->elecciones de estilo de vida</li>
+    <li>argumentTopic->problemas de intimidad</li>
+    <li>argumentTopic->creencias espirituales</li>
+    <li>emotionalReaction->sollozó en silencio</li>
+    <li>emotionalReaction->tembló de ira</li>
+    <li>emotionalReaction->rió nerviosamente</li>
+    <li>emotionalReaction->evitó el contacto visual</li>
+    <li>emotionalReaction->azotó una puerta</li>
+    <li>emotionalReaction->caminó de un lado a otro</li>
+    <li>emotionalReaction->respiró profundamente para calmarse</li>
+    <li>emotionalReaction->miró a la distancia</li>
+    <li>emotionalReaction->se secó las lágrimas</li>
+    <li>emotionalReaction->forzó una sonrisa</li>
+    <li>emotionalReaction->apretó los puños</li>
+    <li>emotionalReaction->se alejó</li>
+  </RotR_Argument.logRulesInitiator.rulesStrings>
+  
+  <!-- EN: quarrel -->
+  <RotR_Quarrel.label>pelea</RotR_Quarrel.label>
+  <!-- EN:
+    <li>r_logentry->[INITIATOR_nameDef] [argueVerb] [RECIPIENT_nameDef] about [quarrelTopic].</li>
+    <li>r_logentry->[INITIATOR_nameDef] and [RECIPIENT_nameDef] had a [argumentIntensity] over [quarrelTopic]. [RECIPIENT_nameDef] [emotionalReaction].</li>
+    <li>argueVerb->poured out feelings to</li>
+    <li>argueVerb->screamed at</li>
+    <li>argueVerb->ranted at</li>
+    <li>argueVerb->yelled at</li>
+    <li>argueVerb->demanded answers from</li>
+    <li>argumentIntensity->explosive confrontation</li>
+    <li>argumentIntensity->sorrowful dispute</li>
+    <li>argumentIntensity->passionate quarrel</li>
+    <li>argumentIntensity->deeply hurtful exchange</li>
+    <li>argumentIntensity->intense emotional clash</li>
+    <li>argumentIntensity->raw and unguarded confrontation</li>
+    <li>argumentIntensity->fierce battle of wills</li>
+    <li>argumentIntensity->cold and distant disagreement</li>
+    <li>quarrelTopic->unfulfilled promises</li>
+    <li>quarrelTopic->betrayal of trust</li>
+    <li>quarrelTopic->neglected feelings</li>
+    <li>quarrelTopic->unmet needs</li>
+    <li>quarrelTopic->fear of abandonment</li>
+    <li>quarrelTopic->jealousy and insecurity</li>
+    <li>quarrelTopic->lack of empathy</li>
+    <li>quarrelTopic->differences in values</li>
+    <li>quarrelTopic->failure to support</li>
+    <li>quarrelTopic->miscommunication</li>
+    <li>quarrelTopic->personal boundaries</li>
+    <li>quarrelTopic->past mistakes brought up</li>
+    <li>quarrelTopic->future uncertainties</li>
+    <li>quarrelTopic->parenting styles</li>
+    <li>quarrelTopic->past relationships</li>
+    <li>emotionalReaction->collapsed in tears</li>
+    <li>emotionalReaction->walked away in anger</li>
+    <li>emotionalReaction->shouted until hoarse</li>
+    <li>emotionalReaction->felt heartbroken</li>
+    <li>emotionalReaction->held a grudge</li>
+    <li>emotionalReaction->struggled to forgive</li>
+    <li>emotionalReaction->sought comfort in others</li>
+    <li>emotionalReaction->raged uncontrollably</li>
+    <li>emotionalReaction->retreated into silence</li>
+    <li>emotionalReaction->was consumed by guilt</li>
+    <li>emotionalReaction->struggled with self-doubt</li>
+    <li>emotionalReaction->suffered from anxiety</li>
+    <li>emotionalReaction->experienced profound loneliness</li>
+    <li>emotionalReaction->yearned for understanding</li>
+    <li>emotionalReaction->held onto hope for resolution</li>
+  -->
+  <RotR_Quarrel.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef] [argueVerb] [RECIPIENT_nameDef] sobre [quarrelTopic].</li>
+    <li>r_logentry->[INITIATOR_nameDef] y [RECIPIENT_nameDef] tuvieron una [argumentIntensity] sobre [quarrelTopic]. [RECIPIENT_nameDef] [emotionalReaction].</li>
+    <li>argueVerb->derramó sus sentimientos a</li>
+    <li>argueVerb->le gritó a</li>
+    <li>argueVerb->despotricó contra</li>
+    <li>argueVerb->le gritó a</li>
+    <li>argueVerb->exigió respuestas de</li>
+    <li>argumentIntensity->confrontación explosiva</li>
+    <li>argumentIntensity->disputa dolorosa</li>
+    <li>argumentIntensity->pelea apasionada</li>
+    <li>argumentIntensity->discusión profundamente hiriente</li>
+    <li>argumentIntensity->confrontación emocional intensa</li>
+    <li>argumentIntensity->confrontación cruda y sin reservas</li>
+    <li>argumentIntensity->feroz batalla de voluntades</li>
+    <li>argumentIntensity->discrepancia fría y distante</li>
+    <li>quarrelTopic->promesas incumplidas</li>
+    <li>quarrelTopic->traición de confianza</li>
+    <li>quarrelTopic->sentimientos descuidados</li>
+    <li>quarrelTopic->necesidades insatisfechas</li>
+    <li>quarrelTopic->miedo al abandono</li>
+    <li>quarrelTopic->celos e inseguridad</li>
+    <li>quarrelTopic->falta de empatía</li>
+    <li>quarrelTopic->diferencias de valores</li>
+    <li>quarrelTopic->falta de apoyo</li>
+    <li>quarrelTopic->falta de comunicación</li>
+    <li>quarrelTopic->límites personales</li>
+    <li>quarrelTopic->errores pasados mencionados</li>
+    <li>quarrelTopic->incertidumbres futuras</li>
+    <li>quarrelTopic->estilos de crianza</li>
+    <li>quarrelTopic->relaciones pasadas</li>
+    <li>emotionalReaction->colapsó en lágrimas</li>
+    <li>emotionalReaction->se alejó con ira</li>
+    <li>emotionalReaction->gritó hasta quedar ronco</li>
+    <li>emotionalReaction->se sintió desconsolado</li>
+    <li>emotionalReaction->guardó rencor</li>
+    <li>emotionalReaction->luchó por perdonar</li>
+    <li>emotionalReaction->buscó consuelo en otros</li>
+    <li>emotionalReaction->se enfureció incontrolablemente</li>
+    <li>emotionalReaction->se retiró al silencio</li>
+    <li>emotionalReaction->fue consumido por la culpa</li>
+    <li>emotionalReaction->luchó con la duda de sí mismo</li>
+    <li>emotionalReaction->sufrió de ansiedad</li>
+    <li>emotionalReaction->experimentó una profunda soledad</li>
+    <li>emotionalReaction->anheló comprensión</li>
+    <li>emotionalReaction->se aferró a la esperanza de una resolución</li>
+  </RotR_Quarrel.logRulesInitiator.rulesStrings>
+  
+</LanguageData>

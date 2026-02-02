@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: fire mortar -->
+  <LTS_ShoulderMortar.label>mortero de hombro</LTS_ShoulderMortar.label>
+  <!-- EN: Fire a shell from a shoulder mounted mortar. -->
+  <LTS_ShoulderMortar.description>Dispara un proyectil desde un mortero montado en el hombro.</LTS_ShoulderMortar.description>
+  <!-- EN: on cooldown -->
+  <LTS_ShoulderMortar.comps.LTS_CompAbilityEffect_Reloadable.cooldownGerund>en enfriamiento</LTS_ShoulderMortar.comps.LTS_CompAbilityEffect_Reloadable.cooldownGerund>
+  
+  <!-- EN: fire rocket -->
+  <LTS_ShoulderRocketPod.label>lanzacohetes de hombro</LTS_ShoulderRocketPod.label>
+  <!-- EN: Fire a rocket from a shoulder mounted pod. -->
+  <LTS_ShoulderRocketPod.description>Dispara un cohete desde un módulo montado en el hombro.</LTS_ShoulderRocketPod.description>
+  <!-- EN: on cooldown -->
+  <LTS_ShoulderRocketPod.comps.LTS_CompAbilityEffect_Reloadable.cooldownGerund>en enfriamiento</LTS_ShoulderRocketPod.comps.LTS_CompAbilityEffect_Reloadable.cooldownGerund>
+  
+  <!-- EN: toggle turret -->
+  <LTS_ToggleShoulderChargeTurret.label>alternar torreta</LTS_ToggleShoulderChargeTurret.label>
+  <!-- EN: extend or retract a tiny, shoulder mounted automatic charge turret -->
+  <LTS_ToggleShoulderChargeTurret.description>extiende o retrae una pequeña torreta de cargas automática montada en el hombro</LTS_ToggleShoulderChargeTurret.description>
+  
+  <!-- EN: toggle turret -->
+  <LTS_ToggleShoulderTurret.label>alternar torreta</LTS_ToggleShoulderTurret.label>
+  <!-- EN: extend or retract a tiny, shoulder mounted automatic turret -->
+  <LTS_ToggleShoulderTurret.description>extiende o retrae una pequeña torreta automática montada en el hombro</LTS_ToggleShoulderTurret.description>
+  
+</LanguageData>

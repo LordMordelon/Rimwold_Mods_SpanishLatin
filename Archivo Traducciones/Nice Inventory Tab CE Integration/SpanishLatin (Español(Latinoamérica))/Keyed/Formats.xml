@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: 0.## mm -->
+  <NIT_ArmorShortSharp>0.## mm</NIT_ArmorShortSharp>
+  <!-- EN: 0.## MPa -->
+  <NIT_ArmorShortBlunt>0.## MPa</NIT_ArmorShortBlunt>
+  <!-- EN:  mm -->
+  <NIT_ArmorShortMM_Unit> mm</NIT_ArmorShortMM_Unit>
+  <!-- EN:  MPa -->
+  <NIT_ArmorShortMPa_Unit> MPa</NIT_ArmorShortMPa_Unit>
+  <!-- EN: % -->
+  <NIT_ArmorShortHeat_Unit>%</NIT_ArmorShortHeat_Unit>
+
+  <!-- EN: 0.# m -->
+  <NIT_Meters_F2>0.# m</NIT_Meters_F2>
+
+  <!-- EN: Fire mode -->
+  <NIT_FireMode>Modo de disparo</NIT_FireMode>
+  <!-- EN: Aim mode -->
+  <NIT_AimMode>Modo de apuntado</NIT_AimMode>
+  <!-- EN: DPS against light armor -->
+  <NIT_TargetMediumArmor>DPS contra armadura ligera</NIT_TargetMediumArmor>
+  <!-- EN: N/A -->
+  <NIT_N_A>N/A</NIT_N_A>
+  <!-- EN: Optimal range is the distance at which a single bullet has roughly an 80% chance to hit a standing human (1.75 m tall, ~0.9 m wide).
+The smaller the total cone (weapon spread + shooter sway), the farther this distance becomes. -->
+  <NIT_OptimalRangeHowToCalcTip>El alcance óptimo es la distancia a la cual una sola bala tiene aproximadamente un 80% de probabilidad de impactar a un humano de pie (1.75 m de altura, ~0.9 m de ancho). Cuanto más pequeño sea el cono total (dispersión del arma + balanceo del tirador), mayor será esta distancia.</NIT_OptimalRangeHowToCalcTip>
+</LanguageData>

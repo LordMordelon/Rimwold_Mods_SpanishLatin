@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+	<!-- EN: Enable proxy heat -->
+  <PH.EnableProxyHeat>Habilitar calor por proximidad</PH.EnableProxyHeat>
+	<!-- EN: Enable proxy heat effect indoors -->
+  <PH.EnableProxyHeatEffectIndoors>Habilitar efecto de calor por proximidad en interiores</PH.EnableProxyHeatEffectIndoors>
+	<!-- EN: Allow plant growth inside proxy heat effect radius -->
+  <PH.AllowPlantGrowthInsideProxyHeatEffectRadius>Permitir crecimiento de plantas dentro del radio de efecto de calor por proximidad</PH.AllowPlantGrowthInsideProxyHeatEffectRadius>
+	<!-- EN: Proxy heat building settings: -->
+  <PH.ProxyHeatBuildings>Configuración de edificios con calor por proximidad:</PH.ProxyHeatBuildings>
+	<!-- EN: Proxy heat radius -->
+  <PH.ProxyHeatRadius>Radio de calor por proximidad</PH.ProxyHeatRadius>
+	<!-- EN: Minimum temperature threshold -->
+  <PH.MinTemperature>Umbral de temperatura mínima</PH.MinTemperature>
+	<!-- EN: Maximum temperature threshold -->
+  <PH.MaxTemperature>Umbral de temperatura máxima</PH.MaxTemperature>
+	<!-- EN:  (not set) -->
+  <PN.NotSet>(no establecido)</PN.NotSet>
+	<!-- EN: Temperature output -->
+  <PH.TemperatureOutput>Salida de temperatura</PH.TemperatureOutput>
+	<!-- EN: Search:  -->
+  <PH.Search>Buscar: </PH.Search>
+	<!-- EN: Building has own temperature target control -->
+  <PH.BuildingHasTemperatureControl>El edificio tiene su propio control de temperatura objetivo</PH.BuildingHasTemperatureControl>
+	<!-- EN: The hot side of the heater must be exposed. -->
+  <VTE.MustPlaceHeaterWithFreeSpaces>El lado caliente del calentador debe estar expuesto.</VTE.MustPlaceHeaterWithFreeSpaces>
+	<!-- EN: Must be placed under a roof. -->
+  <VTE.MustPlaceUnderRoof>Debe colocarse bajo un techo.</VTE.MustPlaceUnderRoof>
+	<!-- EN: Cannot be placed next to ceiling fans. -->
+  <VTE.CannotPlaceAdjacentCeilingFan>No se puede colocar junto a ventiladores de techo.</VTE.CannotPlaceAdjacentCeilingFan>
+	<!-- EN: Network efficiency -->
+  <VTE.Efficiency>Eficiencia de la red</VTE.Efficiency>
+	<!-- EN: Network target temperature -->
+  <VTE.NetworkTargetTemp>Temperatura objetivo de la red</VTE.NetworkTargetTemp>
+	<!-- EN: Production -->
+  <VTE.Production>Producción</VTE.Production>
+	<!-- EN: Consumption -->
+  <VTE.Consumption>Consumo</VTE.Consumption>
+	<!-- EN: Total production -->
+  <VTE.TotalProduction>Producción total</VTE.TotalProduction>
+	<!-- EN: Total consumption -->
+  <VTE.TotalConsumption>Consumo total</VTE.TotalConsumption>
+	<!-- EN: Link temperature -->
+  <VTE.Relink>Vincular temperatura</VTE.Relink>
+	<!-- EN: Unlink temperature -->
+  <VTE.Unlink>Desvincular temperatura</VTE.Unlink>
+	<!-- EN: Link this AC unit with the system, inheriting the desired temperature. -->
+  <VTE.AcRelinkDescription>Vincular esta unidad de AA con el sistema, heredando la temperatura deseada.</VTE.AcRelinkDescription>
+	<!-- EN: Unlink this AC unit from inheriting desired temperature from the system. -->
+  <VTE.AcUnlinkDescription>Desvincular esta unidad de AA para que no herede la temperatura deseada del sistema.</VTE.AcUnlinkDescription>
+	<!-- EN: Cannot work: Not enough compressors connected. -->
+  <VTE.MissingCompressors>No puede funcionar: No hay suficientes compresores conectados.</VTE.MissingCompressors>
+	<!-- EN: Cannot work: Missing AC control unit. -->
+  <VTE.MissingController>No puede funcionar: Falta la unidad de control de AA.</VTE.MissingController>
+	<!-- EN: Cannot work: Connected to more than one AC control unit. -->
+  <VTE.TooManyControllers>No puede funcionar: Conectado a más de una unidad de control de AA.</VTE.TooManyControllers>
+	<!-- EN: Cannot work: Covered by roof. -->
+  <VTE.CompressorCovered>No puede funcionar: Cubierto por un techo.</VTE.CompressorCovered>
+	<!-- EN: Switches air flow on/off. -->
+  <VTE_VentValve>Activa o desactiva el flujo de aire.</VTE_VentValve>
+	<!-- EN: Switches air flow on/off. A pawn will come open/close the valve. -->
+  <VTE_VentValveDesc>Activa o desactiva el flujo de aire. Un colono vendrá a abrir/cerrar la válvula.</VTE_VentValveDesc>
+</LanguageData>

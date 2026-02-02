@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <AddDetailsButtonToBillQueue>Añadir botón 'Detalles...' a la cola de facturas</AddDetailsButtonToBillQueue>
+  <ApparelLayerFilterTip>Usa {0} para filtrar por capa de ropa.</ApparelLayerFilterTip>
+  <ArmorRatingBluntSimple>Blindaje - Contundente</ArmorRatingBluntSimple>
+  <ArmorRatingSharpSimple>Blindaje - Cortante</ArmorRatingSharpSimple>
+  <BillAvailableCategories>Categorías disponibles</BillAvailableCategories>
+  <BillButton_Cook>Cocinar</BillButton_Cook>
+  <BillButton_Gestate>Gestar</BillButton_Gestate>
+  <BillButton_Make>Fabricar</BillButton_Make>
+  <BillFilterTip>Filtrar facturas por nombre. También puedes filtrar por categoría. Para ello, escribe {0} seguido del nombre de la categoría (o parte de la palabra).</BillFilterTip>
+  <BillTabHeight>Altura de la pestaña ({0})</BillTabHeight>
+  <BillTabListingExtraWidth>Ancho extra de la lista ({0})</BillTabListingExtraWidth>
+  <CEmmShort>mm</CEmmShort>
+  <CategorizedRecipeList>Lista de recetas categorizada</CategorizedRecipeList>
+  <CompactRecipeList>Lista de recetas compacta</CompactRecipeList>
+  <CompareBarsWithColors>Comparar barras con colores</CompareBarsWithColors>
+  <CompareRecipesFail>No se pueden comparar las recetas</CompareRecipesFail>
+  <CompareWhenSelectMaterial>Comparar al seleccionar material</CompareWhenSelectMaterial>
+  <CooldownReload>Enfriamiento</CooldownReload>
+  <CreateTaskOnAvailableWorkbench>Poner tarea en cola en banco de trabajo disponible</CreateTaskOnAvailableWorkbench>
+  <DamageDPS>Daño (DPS)</DamageDPS>
+  <DamageDPSTooltip>Daño por segundo (DPS) es una medida que representa la cantidad media de daño que un arma inflige por segundo de combate. Tiene en cuenta el tiempo de preparación del ataque, el daño infligido y la velocidad de ataque/disparo.</DamageDPSTooltip>
+  <DefaultRecipeList>Lista de recetas amplia</DefaultRecipeList>
+  <EnableAutoBillNaming>Activar nombres automáticos de facturas</EnableAutoBillNaming>
+  <EnableClassicSuspendButton>Activar botón de suspender clásico</EnableClassicSuspendButton>
+  <EnableColorlessMode>Activar modo sin color</EnableColorlessMode>
+  <EnableScrollUpWhenBillAdded>Activar desplazamiento hacia arriba al añadir factura</EnableScrollUpWhenBillAdded>
+  <FindOnMap>Encontrar en el mapa</FindOnMap>
+  <FlatDamage>Daño</FlatDamage>
+  <FlatDamageTooltip>Daño de un disparo o ataque</FlatDamageTooltip>
+  <GlowingYellowHintEnabled>Pista amarilla brillante activada</GlowingYellowHintEnabled>
+  <MaximizeFromAnyMaterial>De cualquier material</MaximizeFromAnyMaterial>
+  <MaximizeFromColonyMaterials>De materiales en el asentamiento</MaximizeFromColonyMaterials>
+  <ModFilterTip>Usa {0} para filtrar por mod o DLC.</ModFilterTip>
+  <NiceBillTabEnabledMod>Mod habilitado</NiceBillTabEnabledMod>
+  <NoExistOnCurrentMap>El objeto solicitado no existe en el mapa</NoExistOnCurrentMap>
+  <NoOneCanDoThisWork>Nadie puede hacer este trabajo</NoOneCanDoThisWork>
+  <NotCovers>No cubre</NotCovers>
+  <OpenInfoDialog>Abrir información</OpenInfoDialog>
+  <PasteBillHere>Pegar factura aquí</PasteBillHere>
+  <ReplaceInfinityTextToSymbol>Reemplazar 'infinito' por símbolo</ReplaceInfinityTextToSymbol>
+  <SearchBetterMaterialFail>No se puede encontrar un material mejor</SearchBetterMaterialFail>
+  <SecondShort>s</SecondShort>
+  <SelectMaterial>Seleccionar material</SelectMaterial>
+  <SelectThisAmmo>Calcular con esta munición</SelectThisAmmo>
+  <SettingsCommonTab>Común</SettingsCommonTab>
+  <SettingsExperimentalTab>Experimental</SettingsExperimentalTab>
+  <SettingsItemTab>Objetos</SettingsItemTab>
+  <ShotPerSecondShort>disp/s</ShotPerSecondShort>
+  <ShowBarTicks>Mostrar marcas de barra</ShowBarTicks>
+  <ShowFlatDamageForMelee>Mostrar daño de un solo golpe para armas cuerpo a cuerpo</ShowFlatDamageForMelee>
+  <ShowFlatDamageForRanged>Mostrar daño de un solo disparo para armas a distancia</ShowFlatDamageForRanged>
+  <ShowStatInfoUniversal>Mostrar '{0}'</ShowStatInfoUniversal>
+  <StatMaximize>Maximizar {0}</StatMaximize>
+  <StoppingPowerShort>Poder de detención</StoppingPowerShort>
+  <UseNonLinearBars>Usar barras no lineales</UseNonLinearBars>
+  <UseSpecialSymbolToFilterByCategory>Usa el símbolo especial {0} para filtrar por categoría</UseSpecialSymbolToFilterByCategory>
+  <WeaponAccuracy>Precisión</WeaponAccuracy>
+  <WeaponAccuracyLong>Larga</WeaponAccuracyLong>
+  <WeaponAccuracyMedium>Media</WeaponAccuracyMedium>
+  <WeaponAccuracyShort>Corta</WeaponAccuracyShort>
+  <WeaponAccuracyTouch>Cuerpo a cuerpo</WeaponAccuracyTouch>
+  <WeaponAttackSpeed>Velocidad de ataque</WeaponAttackSpeed>
+  <WeaponAttackSpeedTooltip>La velocidad de ataque es el tiempo que se tarda en completar un ataque.</WeaponAttackSpeedTooltip>
+  <WeaponFireRate>Cadencia de fuego</WeaponFireRate>
+  <WeaponFireRateTooltip>La cadencia de fuego muestra el número de disparos por segundo. Incluye el enfriamiento y los retrasos entre disparos en una ráfaga.\n\n{0} / ({1} + {2}) = {3}</WeaponFireRateTooltip>
+  <WeaponTotalBurstTime>Tiempo total de ráfaga</WeaponTotalBurstTime>
+</LanguageData>

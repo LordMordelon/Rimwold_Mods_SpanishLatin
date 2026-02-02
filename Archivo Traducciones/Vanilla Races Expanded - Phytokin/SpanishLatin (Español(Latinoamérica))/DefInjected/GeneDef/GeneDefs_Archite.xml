@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: photosynthesis -->
+  <VRE_Photosynthesis.label>fotosíntesis</VRE_Photosynthesis.label>
+  <!-- EN: Carriers of this gene are capable of converting light energy into chemical energy due to the special genetic composition of their skin. They do not become hungry if exposed to sunlight. -->
+  <VRE_Photosynthesis.description>Los portadores de este gen son capaces de convertir la energía lumínica en energía química debido a la composición genética especial de su piel. No tienen hambre si se exponen a la luz solar.</VRE_Photosynthesis.description>
+  <!-- EN: photo -->
+  <VRE_Photosynthesis.symbolPack.prefixSymbols.0.symbol>foto</VRE_Photosynthesis.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: synthesis -->
+  <VRE_Photosynthesis.symbolPack.suffixSymbols.0.symbol>síntesis</VRE_Photosynthesis.symbolPack.suffixSymbols.0.symbol>
+  <!-- EN: plant -->
+  <VRE_Photosynthesis.symbolPack.suffixSymbols.1.symbol>planta</VRE_Photosynthesis.symbolPack.suffixSymbols.1.symbol>
+  
+  <!-- EN: polux affinity -->
+  <VRE_PoluxAffinity.label>afinidad con polux</VRE_PoluxAffinity.label>
+  <!-- EN: Carriers of this gene have a special connection to the polux tree, allowing them to act as an amplifier to the special properties of the tree. Once a year they can plant a polux bush that will progressively grow, and their very presence will strengthen the effect of the bush's pollution pumping effects. They can also consume wastepacks and will become unhappy if there is no waste to be consumed. Consuming wastepacks does not satisfy their hunger. -->
+  <VRE_PoluxAffinity.description>Los portadores de este gen tienen una conexión especial con el árbol de polux, lo que les permite actuar como un amplificador de las propiedades especiales del árbol. Una vez al año pueden plantar un arbusto de polux que crecerá progresivamente, y su sola presencia fortalecerá el efecto de bombeo de contaminación del arbusto. También pueden consumir packs de residuos y se sentirán infelices si no hay residuos para consumir. Consumir packs de residuos no satisface su hambre.</VRE_PoluxAffinity.description>
+  <!-- EN: All polux bushes on the map have their radius increased by +2 for every pawn with a Polux affinity gene currently on the map. -->
+  <VRE_PoluxAffinity.customEffectDescriptions.0>Todos los arbustos de polux en el mapa tienen su radio aumentado en +2 por cada peón con un gen de afinidad con Polux actualmente en el mapa.</VRE_PoluxAffinity.customEffectDescriptions.0>
+  <!-- EN: A need by {PAWN_nameDef} to consume wastepacks -->
+  <VRE_PoluxAffinity.resourceDescription>Una necesidad de {PAWN_nameDef} de consumir packs de residuos</VRE_PoluxAffinity.resourceDescription>
+  <!-- EN: wastepacks -->
+  <VRE_PoluxAffinity.resourceLabel>packs de residuos</VRE_PoluxAffinity.resourceLabel>
+  <!-- EN: pol -->
+  <VRE_PoluxAffinity.symbolPack.prefixSymbols.0.symbol>pol</VRE_PoluxAffinity.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: polux -->
+  <VRE_PoluxAffinity.symbolPack.prefixSymbols.1.symbol>polux</VRE_PoluxAffinity.symbolPack.prefixSymbols.1.symbol>
+  
+  <!-- EN: saplingbirth -->
+  <VRE_SaplingBirth.label>nacimiento de brote</VRE_SaplingBirth.label>
+  <!-- EN: Carriers of this gene grow their baby outside of their womb, in the form of a saplingchild plant. When the plant is fully grown, a child can be extracted from it. -->
+  <VRE_SaplingBirth.description>Los portadores de este gen crían a su bebé fuera de su útero, en forma de una planta niño-brote. Cuando la planta ha crecido completamente, se puede extraer un niño de ella.</VRE_SaplingBirth.description>
+  <!-- EN: Plants saplingchild instead of pregnancy and live birth. -->
+  <VRE_SaplingBirth.customEffectDescriptions.0>Planta un niño-brote en lugar de embarazo y parto vivo.</VRE_SaplingBirth.customEffectDescriptions.0>
+  <!-- EN: Planting a saplingchild makes the pawn temporarily infertile. -->
+  <VRE_SaplingBirth.customEffectDescriptions.1>Plantar un niño-brote hace que el peón sea temporalmente infértil.</VRE_SaplingBirth.customEffectDescriptions.1>
+  <!-- EN: sapling -->
+  <VRE_SaplingBirth.symbolPack.prefixSymbols.0.symbol>brote</VRE_SaplingBirth.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: spawn -->
+  <VRE_SaplingBirth.symbolPack.prefixSymbols.1.symbol>engendro</VRE_SaplingBirth.symbolPack.prefixSymbols.1.symbol>
+  <!-- EN: seed -->
+  <VRE_SaplingBirth.symbolPack.prefixSymbols.2.symbol>semilla</VRE_SaplingBirth.symbolPack.prefixSymbols.2.symbol>
+  
+</LanguageData>

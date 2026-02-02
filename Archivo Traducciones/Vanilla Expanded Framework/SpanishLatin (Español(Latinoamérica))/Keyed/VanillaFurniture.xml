@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+<!-- Auto Drill -->
+
+<!-- EN: Drill for {0} -->
+  <VFE_ChunkToMine>Perforar para obtener {0}</VFE_ChunkToMine>
+<!-- EN: Drill for Random Chunks -->
+  <VFE_ChunkRandomMine>Perforar para obtener trozos aleatorios</VFE_ChunkRandomMine>
+<!-- EN: Choose chunk type to drill -->
+  <VFE_ChooseMine>Elegir tipo de trozo a perforar</VFE_ChooseMine>
+<!-- EN: Choose chunk type to drill. You can choose any of the map's rock types, or random -->
+  <VFE_ChooseMineDesc>Elige el tipo de trozo a perforar. Puedes elegir cualquiera de los tipos de roca del mapa, o aleatorio</VFE_ChooseMineDesc>
+<!-- EN: Random chunk -->
+  <VFE_RandomRock>Trozo aleatorio</VFE_RandomRock>
+<!-- EN: Select machine output -->
+  <VFE_PleaseSelectOutput>Seleccionar producto de la máquina</VFE_PleaseSelectOutput>
+<!-- EN: This building must be placed on water -->
+  <VFE_NeedsWater>Este edificio debe colocarse sobre agua</VFE_NeedsWater>
+<!-- EN: This building must be placed on sand -->
+  <VFE_NeedsSand>Este edificio debe colocarse sobre arena</VFE_NeedsSand>
+
+<!-- Random Building Graphics -->
+
+<!-- EN: Random Graphic -->
+  <VFE_ChangeGraphic>Gráfico aleatorio</VFE_ChangeGraphic>
+<!-- EN: Change Graphic of this building randomly between those available -->
+  <VFE_ChangeGraphicDesc>Cambia el gráfico de este edificio aleatoriamente entre los disponibles</VFE_ChangeGraphicDesc>
+
+<!-- EN: Choose Graphic -->
+  <VFE_ChooseGraphic>Elegir gráfico</VFE_ChooseGraphic>
+<!-- EN: Choose Graphic of this building via a menu with all available options -->
+  <VFE_ChooseGraphicDesc>Elige el gráfico de este edificio a través de un menú con todas las opciones disponibles</VFE_ChooseGraphicDesc>
+
+<!-- EN: This building doesn't have extra random graphics to choose from. Some modder added the comp class to the building without alternative graphics, which is weird -->
+  <VFE_NoGraphics>Este edificio no tiene gráficos aleatorios adicionales para elegir. Algún modder añadió la clase comp al edificio sin gráficos alternativos, lo cual es extraño</VFE_NoGraphics>
+
+<!-- Random Building Graphics, Options -->
+
+<!--<VFE_RandomOrSequentially>"Change Graphic" button changes graphic randomly (deselect for sequentially)</VFE_RandomOrSequentially>-->
+<!-- EN: Hide the "Random Graphic" and "Choose Graphic" buttons -->
+  <VFE_HideRandomizeButton>Ocultar los botones "Gráfico aleatorio" y "Elegir gráfico"</VFE_HideRandomizeButton>
+<!-- EN: Make random graphics buildings NOT start randomized -->
+  <VFE_RandomBuildingsDontStartRandom>Hacer que los edificios con gráficos aleatorios NO comiencen aleatorizados</VFE_RandomBuildingsDontStartRandom>
+
+<!-- EN: Switch light color -->
+  <VFE.SwitchLightColor>Cambiar color de luz</VFE.SwitchLightColor>
+<!-- EN: Change current light colour. -->
+  <VFE.SwitchLightColorDesc>Cambia el color de luz actual.</VFE.SwitchLightColorDesc>
+<!-- EN: Change color to {0} -->
+  <VFE.ChangeColorTo>Cambiar color a {0}</VFE.ChangeColorTo>
+<!-- EN: Power is off. Impossible to switch color. -->
+  <VFE.ColorSwitchPowerOff>La energía está apagada. Es imposible cambiar el color.</VFE.ColorSwitchPowerOff>
+	
+</LanguageData>

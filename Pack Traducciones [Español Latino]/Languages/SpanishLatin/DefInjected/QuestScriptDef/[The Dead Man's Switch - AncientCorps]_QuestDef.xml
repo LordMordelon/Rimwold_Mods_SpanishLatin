@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <DMSAC_OpportunitySite_Facility.questDescriptionRules.rulesStrings>
+    <li>questDescription(askerIsNull==true)-&gt;Hemos interceptado mensajes sobre una instalación del Cuerpo antiguo no muy lejos de nosotros. \n\nParece que [allSitePartsDescriptions]</li>
+    <li>questDescription(asker_factionLeader==true)-&gt;[asker_nameDef], [asker_faction_leaderTitle] de [asker_faction_name], nos ha informado de una instalación del Cuerpo antiguo no muy lejos de nosotros.\n\n[asker_label] dice que [allSitePartsDescriptions]</li>
+  </DMSAC_OpportunitySite_Facility.questDescriptionRules.rulesStrings>
+  <DMSAC_OpportunitySite_Facility.questNameRules.rulesStrings>
+    <li>questName(priority=1)-&gt;[verb] [abj] [facility] de [asker_nameDef]</li>
+    <li>questName-&gt;[facility] [abj]</li>
+    <li>verb-&gt;Localizada</li>
+    <li>verb-&gt;Detectada</li>
+    <li>verb-&gt;Descubierta</li>
+    <li>abj-&gt;Militar</li>
+    <li>abj-&gt;Fortificada</li>
+    <li>abj-&gt;Militarizada</li>
+    <li>abj-&gt;Confidencial</li>
+    <li>facility-&gt;Base</li>
+    <li>facility-&gt;Instalación</li>
+    <li>facility-&gt;Fortaleza</li>
+    <li>facility-&gt;Refugio</li>
+    <li>facility-&gt;Complejo</li>
+  </DMSAC_OpportunitySite_Facility.questNameRules.rulesStrings>
+  <DMSAC_OpportunitySite_Graveyard.questDescriptionRules.rulesStrings>
+    <li>questDescription(askerIsNull==true)-&gt;Hemos interceptado mensajes sobre una instalación del Cuerpo antiguo no muy lejos de nosotros.\n\nParece que [allSitePartsDescriptions]</li>
+    <li>questDescription(asker_factionLeader==true)-&gt;[asker_nameDef], [asker_faction_leaderTitle] de [asker_faction_name], nos ha informado de una instalación del Cuerpo antiguo no muy lejos de nosotros.\n\n[asker_label] dice que [allSitePartsDescriptions]</li>
+  </DMSAC_OpportunitySite_Graveyard.questDescriptionRules.rulesStrings>
+  <DMSAC_OpportunitySite_Graveyard.questNameRules.rulesStrings>
+    <li>questName(priority=1)-&gt;[stash] de [treasure] de [asker_nameDef]</li>
+    <li>questName-&gt;[stash] de [treasure]</li>
+    <li>stash-&gt;Alijo</li>
+    <li>stash-&gt;Depósito</li>
+    <li>stash-&gt;Colección</li>
+    <li>stash-&gt;Cobertizo</li>
+    <li>treasure-&gt;Tesoros</li>
+    <li>treasure-&gt;Objetos Valiosos</li>
+    <li>treasure-&gt;Fortuna</li>
+    <li>treasure-&gt;Botín</li>
+    <li>treasure-&gt;Suministros</li>
+  </DMSAC_OpportunitySite_Graveyard.questNameRules.rulesStrings>
+  <DMSAC_OpportunitySite_Graveyard.root.nodes.WorldObjectTimeout.node.nodes.Letter.label.slateRef>Misión expirada: [resolvedQuestName]</DMSAC_OpportunitySite_Graveyard.root.nodes.WorldObjectTimeout.node.nodes.Letter.label.slateRef>
+  <DMSAC_OpportunitySite_Graveyard.root.nodes.WorldObjectTimeout.node.nodes.Letter.text.slateRef>Las comunicaciones interceptadas indican que la instalación ha cambiado de posición o ha sido reclamada por otros. La misión [resolvedQuestName] ha expirado.</DMSAC_OpportunitySite_Graveyard.root.nodes.WorldObjectTimeout.node.nodes.Letter.text.slateRef>
+  <DMSAC_OpportunitySite_LogisticTerminal.questDescriptionRules.rulesStrings>
+    <li>questDescription(askerIsNull==true)-&gt;Hemos interceptado mensajes sobre una instalación del Cuerpo antiguo no muy lejos de nosotros.\n\nParece que [allSitePartsDescriptions]</li>
+    <li>questDescription(asker_factionLeader==true)-&gt;[asker_nameDef], [asker_faction_leaderTitle] de [asker_faction_name], nos ha informado de una instalación del Cuerpo antiguo no muy lejos de nosotros.\n\n[asker_label] dice que [allSitePartsDescriptions]</li>
+  </DMSAC_OpportunitySite_LogisticTerminal.questDescriptionRules.rulesStrings>
+  <DMSAC_OpportunitySite_LogisticTerminal.questNameRules.rulesStrings>
+    <li>questName(priority=1)-&gt;[stash] de [treasure] de [asker_nameDef]</li>
+    <li>questName-&gt;[stash] de [treasure]</li>
+    <li>stash-&gt;Terminal</li>
+    <li>stash-&gt;Almacén</li>
+    <li>stash-&gt;Centro</li>
+    <li>stash-&gt;Punto</li>
+    <li>treasure-&gt;Logística</li>
+    <li>treasure-&gt;Suministros</li>
+    <li>treasure-&gt;Recursos</li>
+    <li>treasure-&gt;Materiales</li>
+    <li>treasure-&gt;Provisiones</li>
+  </DMSAC_OpportunitySite_LogisticTerminal.questNameRules.rulesStrings>
+  <DMSAC_OpportunitySite_LogisticTerminal.root.nodes.WorldObjectTimeout.node.nodes.Letter.label.slateRef>Misión expirada: [resolvedQuestName]</DMSAC_OpportunitySite_LogisticTerminal.root.nodes.WorldObjectTimeout.node.nodes.Letter.label.slateRef>
+  <DMSAC_OpportunitySite_LogisticTerminal.root.nodes.WorldObjectTimeout.node.nodes.Letter.text.slateRef>Las comunicaciones interceptadas indican que la estación ha cambiado de posición o ha sido reclamada por otros. La misión [resolvedQuestName] ha expirado.</DMSAC_OpportunitySite_LogisticTerminal.root.nodes.WorldObjectTimeout.node.nodes.Letter.text.slateRef>
+</LanguageData>

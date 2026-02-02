@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <VFED_ChasedDeserter.questDescriptionRules.rulesStrings>
+    <li>questDescription-&gt;[asker_nameFull], [asker_titleIndef], está llamando desde cerca. [asker_pronoun] ha desertado del ejército de [asker_factionName] y está siendo [hunted] por (*Threat)un escuadrón de lealtad(/Threat). [asker_pronoun] desea unirse a ti en [map_definite].\n\n¡Cuidado! Si aceptas a [asker_nameDef], te convertirás en enemigo de [asker_factionName]. El escuadrón de lealtad perseguidor atacará inmediatamente. Está compuesto por:\n\n[raid/raidPawnKinds]\n\nSolo acepta si deseas luchar contra [asker_factionName].\n\nElegir el bando de los desertores hará que el Imperio sea permanentemente hostil; sin embargo, también te dará acceso a la red de Desertores a través de la consola de comunicaciones. Podrás obtener inteligencia sobre el Imperio Destrozado e intercambiar esta inteligencia por poderoso equipo imperial, inventos de desertores y nuevas misiones. En algún momento, podrás lanzar misiones de asesinato contra figuras imperiales fanáticas para desestabilizar el imperio.\n\nSi tienes un noble con título bajo tu control, perderá todos sus títulos y, con ellos, los requisitos para sus títulos. Sin embargo, generarán una suma global de inteligencia para ti, y la cantidad de inteligencia depende de su rango actual con el Imperio Destrozado.</li>
+  </VFED_ChasedDeserter.questDescriptionRules.rulesStrings>
+  <VFED_ChasedDeserter.questNameRules.rulesStrings>
+    <li>questName-&gt;Desertor perseguido</li>
+  </VFED_ChasedDeserter.questNameRules.rulesStrings>
+  <VFED_ChasedDeserter.root.nodes.Delay.node.nodes.Util_Raid.parms.customLetterLabel.value.slateRef>{BASELABEL}: Escuadrón de lealtad</VFED_ChasedDeserter.root.nodes.Delay.node.nodes.Util_Raid.parms.customLetterLabel.value.slateRef>
+  <VFED_ChasedDeserter.root.nodes.Delay.node.nodes.Util_Raid.parms.customLetterText.value.slateRef>{BASETEXT}\n\nEste es el escuadrón de lealtad que estaba cazando a [../asker_nameFull].</VFED_ChasedDeserter.root.nodes.Delay.node.nodes.Util_Raid.parms.customLetterText.value.slateRef>
+  <VFED_ChasedDeserter.root.nodes.PawnsArrive.customLetterText.slateRef>{BASETEXT}\n\nDebido a que aceptaste a [asker_nameDef], [asker_factionName] se ha vuelto hostil.\n\nEl escuadrón de lealtad que está cazando a [asker_objective] llegará pronto.</VFED_ChasedDeserter.root.nodes.PawnsArrive.customLetterText.slateRef>
+</LanguageData>

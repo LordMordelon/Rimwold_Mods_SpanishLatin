@@ -1,0 +1,121 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>desc->[intro], [conceptExploration]. [writingQualitySentence]. [maybe_date][ending]</li>
+    <li>desc->[intro]. [contextStatement] [conceptExploration]. [writingQualitySentence]. [maybe_date][ending]</li>
+    <li>intro->Este manual [writingQualityAdjective] explora el fascinante mundo de [subject_primary]</li>
+    <li>intro->Un [bookType] indispensable que detalla las peculiaridades de [subject_primary]</li>
+    <li>intro->Un compendio [writingQualityAdjective] que desentraña los misterios de [subject_primary]</li>
+    <li>intro->Un [bookType] atemporal dedicado a comprender [subject_primary]</li>
+    <li>intro->Una guía [writingQualityAdjective] del ciclo de vida de [subject_primary]</li>
+    <li>intro->Un [bookType] esclarecedor que se centra en la importancia de [subject_primary]</li>
+    <li>conceptExploration->sus rasgos biológicos y adaptaciones</li>
+    <li>conceptExploration->sus usos medicinales y de supervivencia</li>
+    <li>conceptExploration->su papel enigmático en los ecosistemas del Borde</li>
+    <li>conceptExploration->su importancia para los colonos y la vida silvestre</li>
+    <li>conceptExploration->la tradición que rodea su crecimiento y utilidad</li>
+    <li>conceptExploration->su potencial para prosperar en entornos hostiles</li>
+    <li>conceptExploration->su papel como recurso vital en el Borde</li>
+    <li>contextStatement->Basándose en observaciones de primera mano, este [bookType] arroja luz sobre</li>
+    <li>contextStatement->Compilado a partir de notas de campo dispersas, revela</li>
+    <li>contextStatement->Basado en expediciones del frente del Borde, revela</li>
+    <li>contextStatement->Inspirado en registros antiguos y hallazgos modernos, profundiza en</li>
+    <li>contextStatement->Combinando evidencia anecdótica y estudio riguroso, examina</li>
+    <li>writingQualityAdjective(quality==6)->escrito magistralmente</li>
+    <li>writingQualityAdjective(quality==5)->investigado a fondo</li>
+    <li>writingQualityAdjective(quality==4)->atractivo y detallado</li>
+    <li>writingQualityAdjective(quality==3)->útil pero básico</li>
+    <li>writingQualityAdjective(quality==2)->mal organizado</li>
+    <li>writingQualityAdjective(quality==1)->frustrantemente vago</li>
+    <li>writingQualityAdjective(quality==0)->desastre enloquecedor de un</li>
+    <li>writingQualitySentence(quality[greater_than]3)->Es [excellentDesc] [excellentExtra]</li>
+    <li>writingQualitySentence(quality[less_than]4,quality[greater_than]1)->Es [decentDesc] [decentExtra]</li>
+    <li>writingQualitySentence(quality[less_than]2)->Es [awfulDesc] [awfulExtra]</li>
+    <li>excellentDesc->un logro notable en el estudio botánico</li>
+    <li>excellentDesc->una guía definitiva para comprender [subject_primary]</li>
+    <li>excellentDesc->un recurso invaluable para los entusiastas de las plantas</li>
+    <li>excellentExtra->que cautiva a los lectores con sus conocimientos</li>
+    <li>excellentExtra->que ofrece tanto inspiración como conocimiento práctico</li>
+    <li>decentDesc->un estudio funcional pero desigual de [subject_primary]</li>
+    <li>decentDesc->una guía decente para botánicos novatos</li>
+    <li>decentDesc->un recurso modesto pero útil sobre [subject_primary]</li>
+    <li>decentExtra->con algunas lagunas en los detalles</li>
+    <li>decentExtra->que podría usar investigación adicional</li>
+    <li>awfulDesc->un intento incomprensible de catalogar [subject_primary]</li>
+    <li>awfulDesc->un estudio torpe e ineficaz de [subject_primary]</li>
+    <li>awfulDesc->un tratamiento frustrantemente vago de [subject_primary]</li>
+    <li>awfulExtra->que ofrece poco valor a su lector</li>
+    <li>awfulExtra->con errores y omisiones evidentes</li>
+    <li>maybe_date->La obra fue compilada [date_form].</li>
+    <li>maybe_date->Publicado [date_form], sigue siendo relevante hoy.</li>
+    <li>maybe_date->Sus orígenes se remontan a [date_form].</li>
+    <li>date_form->recientemente</li>
+    <li>date_form->en una era olvidada</li>
+    <li>date_form->en el Borde</li>
+    <li>date_form->durante los primeros días de la colonización</li>
+    <li>bookType(p=3)->compendio</li>
+    <li>bookType(p=2)->guía</li>
+    <li>bookType(p=1)->manual</li>
+    <li>ending->\n\nLeer este manual aumentará las habilidades con las plantas durante tres días antes de consumirse.</li>
+  -->
+  <ABooks_BotanicalCompendium_Description.rulePack.rulesStrings>
+    <li>desc->[intro], [conceptExploration]. [writingQualitySentence]. [maybe_date][ending]</li>
+    <li>desc->[intro]. [contextStatement] [conceptExploration]. [writingQualitySentence]. [maybe_date][ending]</li>
+    <li>intro->Este manual [writingQualityAdjective] explora el fascinante mundo de [subject_primary]</li>
+    <li>intro->Un [bookType] indispensable que detalla las peculiaridades de [subject_primary]</li>
+    <li>intro->Un compendio [writingQualityAdjective] que desentraña los misterios de [subject_primary]</li>
+    <li>intro->Un [bookType] atemporal dedicado a comprender [subject_primary]</li>
+    <li>intro->Una guía [writingQualityAdjective] del ciclo de vida de [subject_primary]</li>
+    <li>intro->Un [bookType] esclarecedor que se centra en la importancia de [subject_primary]</li>
+    <li>conceptExploration->sus rasgos biológicos y adaptaciones</li>
+    <li>conceptExploration->sus usos medicinales y de supervivencia</li>
+    <li>conceptExploration->su papel enigmático en los ecosistemas del Borde</li>
+    <li>conceptExploration->su importancia para los colonos y la vida silvestre</li>
+    <li>conceptExploration->la tradición que rodea su crecimiento y utilidad</li>
+    <li>conceptExploration->su potencial para prosperar en entornos hostiles</li>
+    <li>conceptExploration->su papel como recurso vital en el Borde</li>
+    <li>contextStatement->Basándose en observaciones de primera mano, este [bookType] arroja luz sobre</li>
+    <li>contextStatement->Compilado a partir de notas de campo dispersas, revela</li>
+    <li>contextStatement->Basado en expediciones del frente del Borde, revela</li>
+    <li>contextStatement->Inspirado en registros antiguos y hallazgos modernos, profundiza en</li>
+    <li>contextStatement->Combinando evidencia anecdótica y estudio riguroso, examina</li>
+    <li>writingQualityAdjective(quality==6)->escrito magistralmente</li>
+    <li>writingQualityAdjective(quality==5)->investigado a fondo</li>
+    <li>writingQualityAdjective(quality==4)->atractivo y detallado</li>
+    <li>writingQualityAdjective(quality==3)->útil pero básico</li>
+    <li>writingQualityAdjective(quality==2)->mal organizado</li>
+    <li>writingQualityAdjective(quality==1)->frustrantemente vago</li>
+    <li>writingQualityAdjective(quality==0)->desastre enloquecedor de un</li>
+    <li>writingQualitySentence(quality[greater_than]3)->Es [excellentDesc] [excellentExtra]</li>
+    <li>writingQualitySentence(quality[less_than]4,quality[greater_than]1)->Es [decentDesc] [decentExtra]</li>
+    <li>writingQualitySentence(quality[less_than]2)->Es [awfulDesc] [awfulExtra]</li>
+    <li>excellentDesc->un logro notable en el estudio botánico</li>
+    <li>excellentDesc->una guía definitiva para comprender [subject_primary]</li>
+    <li>excellentDesc->un recurso invaluable para los entusiastas de las plantas</li>
+    <li>excellentExtra->que cautiva a los lectores con sus conocimientos</li>
+    <li>excellentExtra->que ofrece tanto inspiración como conocimiento práctico</li>
+    <li>decentDesc->un estudio funcional pero desigual de [subject_primary]</li>
+    <li>decentDesc->una guía decente para botánicos novatos</li>
+    <li>decentDesc->un recurso modesto pero útil sobre [subject_primary]</li>
+    <li>decentExtra->con algunas lagunas en los detalles</li>
+    <li>decentExtra->que podría usar investigación adicional</li>
+    <li>awfulDesc->un intento incomprensible de catalogar [subject_primary]</li>
+    <li>awfulDesc->un estudio torpe e ineficaz de [subject_primary]</li>
+    <li>awfulDesc->un tratamiento frustrantemente vago de [subject_primary]</li>
+    <li>awfulExtra->que ofrece poco valor a su lector</li>
+    <li>awfulExtra->con errores y omisiones evidentes</li>
+    <li>maybe_date->La obra fue compilada [date_form].</li>
+    <li>maybe_date->Publicado [date_form], sigue siendo relevante hoy.</li>
+    <li>maybe_date->Sus orígenes se remontan a [date_form].</li>
+    <li>date_form->recientemente</li>
+    <li>date_form->en una era olvidada</li>
+    <li>date_form->en el Borde</li>
+    <li>date_form->durante los primeros días de la colonización</li>
+    <li>bookType(p=3)->compendio</li>
+    <li>bookType(p=2)->guía</li>
+    <li>bookType(p=1)->manual</li>
+    <li>ending->\n\nLeer este manual aumentará las habilidades con las plantas durante tres días antes de consumirse.</li>
+  </ABooks_BotanicalCompendium_Description.rulePack.rulesStrings>
+  
+</LanguageData>

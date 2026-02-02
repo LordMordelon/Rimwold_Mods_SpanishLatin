@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: stugna turret -->
+  <DMSAC_Grenade_Stugna.label>torreta stugna</DMSAC_Grenade_Stugna.label>
+  
+  <!-- EN: Stugna ATGM -->
+  <DMSAC_Gun_StugnaATGM.label>ATGM stugna</DMSAC_Gun_StugnaATGM.label>
+  <!-- EN: A Stugna anti-tank missile system mounted on a remote aiming platform. -->
+  <DMSAC_Gun_StugnaATGM.description>Un sistema de misiles antitanque Stugna montado en una plataforma de puntería remota.</DMSAC_Gun_StugnaATGM.description>
+  <!-- EN: Stugna ATGM -->
+  <DMSAC_Gun_StugnaATGM.verbs.Verb_Shoot.label>ATGM stugna</DMSAC_Gun_StugnaATGM.verbs.Verb_Shoot.label>
+
+  <!-- EN: Stugna missile launcher -->
+  <DMSAC_StugnaATGM.label>lanzador de misiles stugna</DMSAC_StugnaATGM.label>
+  <!-- EN: A single-use anti-tank guided missile designed to be fired and discarded. effective against heavy mechs and even tanks. however to lock on target, it requires a long aiming time and clear line of sight. -->
+  <DMSAC_StugnaATGM.description>Un misil guiado antitanque de un solo uso diseñado para ser disparado y desechado. eficaz contra mecas pesados e incluso tanques. sin embargo, para fijar el objetivo, requiere un tiempo de puntería prolongado y una línea de visión clara.</DMSAC_StugnaATGM.description>
+  <!-- EN: charge -->
+  <DMSAC_StugnaATGM.comps.CompApparelReloadable.chargeNoun>carga</DMSAC_StugnaATGM.comps.CompApparelReloadable.chargeNoun>
+  <!-- EN: on cooldown -->
+  <DMSAC_StugnaATGM.comps.CompApparelReloadable.cooldownGerund>en enfriamiento</DMSAC_StugnaATGM.comps.CompApparelReloadable.cooldownGerund>
+  <!-- EN: deploy turret -->
+  <DMSAC_StugnaATGM.verbs.deploy_turret.label>desplegar torreta</DMSAC_StugnaATGM.verbs.deploy_turret.label>
+  
+  <!-- EN: skif remote platform -->
+  <DMSAC_Turret_StugnaATGM.label>plataforma remota skif</DMSAC_Turret_StugnaATGM.label>
+  <!-- EN: An anti-tank missile launcher platform that can be deployed and operated remotely. It will stop functioning once its battery runs out or no available rounds. If damaged sufficiently, it may explode. -->
+  <DMSAC_Turret_StugnaATGM.description>Una plataforma de lanzamiento de misiles antitanque que se puede desplegar y operar de forma remota. Dejará de funcionar una vez que se agote la batería o no haya proyectiles disponibles. Si se daña lo suficiente, puede explotar.</DMSAC_Turret_StugnaATGM.description>
+  <!-- EN: loaded missile -->
+  <DMSAC_Turret_StugnaATGM.comps.CompRefuelable.fuelGizmoLabel>misil cargado</DMSAC_Turret_StugnaATGM.comps.CompRefuelable.fuelGizmoLabel>
+  <!-- EN: missile shots -->
+  <DMSAC_Turret_StugnaATGM.comps.CompRefuelable.fuelLabel>disparos de misil</DMSAC_Turret_StugnaATGM.comps.CompRefuelable.fuelLabel>
+  <!-- EN: Cannot fire: Needs missile round. -->
+  <DMSAC_Turret_StugnaATGM.comps.CompRefuelable.outOfFuelMessage>No se puede disparar: necesita un proyectil de misil.</DMSAC_Turret_StugnaATGM.comps.CompRefuelable.outOfFuelMessage>
+  <!-- EN: Battery power -->
+  <DMSAC_Turret_StugnaATGM.comps.CompMechPowerCell.labelOverride>Energía de la batería</DMSAC_Turret_StugnaATGM.comps.CompMechPowerCell.labelOverride>
+  <!-- EN: This turret has a limited battery life. Once it runs out, it will stop working entirely. -->
+  <DMSAC_Turret_StugnaATGM.comps.CompMechPowerCell.tooltipOverride>Esta torreta tiene una vida útil de batería limitada. Una vez que se agote, dejará de funcionar por completo.</DMSAC_Turret_StugnaATGM.comps.CompMechPowerCell.tooltipOverride>
+  
+</LanguageData>

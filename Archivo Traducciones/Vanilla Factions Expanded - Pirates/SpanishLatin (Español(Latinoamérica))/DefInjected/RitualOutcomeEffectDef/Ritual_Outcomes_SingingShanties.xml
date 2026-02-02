@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Depending on ritual quality, participants will get between {MINMOOD} and {MAXMOOD} mood for {MOODDAYS} days. A shanty of above average quality will provide a new quest. A good quality shanty will remove negative thoughts from losing someone for all participants. -->
+  <VFEP_SingingShantiesOutcome.description>Dependiendo de la calidad del ritual, los participantes obtendrán entre {MINMOOD} y {MAXMOOD} de humor durante {MOODDAYS} días. Una saloma de calidad superior a la media proporcionará una nueva misión. Una saloma de buena calidad eliminará los pensamientos negativos por perder a alguien para todos los participantes.</VFEP_SingingShantiesOutcome.description>
+  <!-- EN: chanter present -->
+  <VFEP_SingingShantiesOutcome.comps.0.label>cantante presente</VFEP_SingingShantiesOutcome.comps.0.label>
+  <!-- EN: participant count -->
+  <VFEP_SingingShantiesOutcome.comps.1.label>recuento de participantes</VFEP_SingingShantiesOutcome.comps.1.label>
+  <!-- EN: room impressiveness -->
+  <VFEP_SingingShantiesOutcome.comps.2.label>impresionabilidad de la sala</VFEP_SingingShantiesOutcome.comps.2.label>
+  <!-- EN: Boring -->
+  <VFEP_SingingShantiesOutcome.outcomeChances.0.label>Aburrido</VFEP_SingingShantiesOutcome.outcomeChances.0.label>
+  <!-- EN: The {0} were incredibly boring. The cap'n displayed a lack of passion and the feeling of camaraderie just wasn't there. -->
+  <VFEP_SingingShantiesOutcome.outcomeChances.0.description>Las {0} fueron increíblemente aburridas. El capitán mostró falta de pasión y el sentimiento de camaradería simplemente no estaba allí.</VFEP_SingingShantiesOutcome.outcomeChances.0.description>
+  <!-- EN: Lame -->
+  <VFEP_SingingShantiesOutcome.outcomeChances.1.label>Patético</VFEP_SingingShantiesOutcome.outcomeChances.1.label>
+  <!-- EN: The {0} were lame. The cap'n treated us like children, wanting so desperately to hear something to lift their spirits. -->
+  <VFEP_SingingShantiesOutcome.outcomeChances.1.description>Las {0} fueron patéticas. El capitán nos trató como niños, queriendo desesperadamente escuchar algo para levantar el ánimo.</VFEP_SingingShantiesOutcome.outcomeChances.1.description>
+  <!-- EN: Rousing -->
+  <VFEP_SingingShantiesOutcome.outcomeChances.2.label>Emocionante</VFEP_SingingShantiesOutcome.outcomeChances.2.label>
+  <!-- EN: The {0} were very rousing. Shiver me timbers, those were some good shanties! The cap'n lifted our spirits and made us feel a camaraderie and togetherness that will only make us stronger.\n\nAnalyzing the lyrics afterwards, we found that the ancient words are actually cleverly encoded clues to a possible quest! -->
+  <VFEP_SingingShantiesOutcome.outcomeChances.2.description>Las {0} fueron muy emocionantes. ¡Rayos y centellas, esas fueron buenas salomas! El capitán levantó nuestro ánimo y nos hizo sentir una camaradería y unión que solo nos hará más fuertes.\n\n¡Analizando la letra después, descubrimos que las palabras antiguas son en realidad pistas ingeniosamente codificadas para una posible misión!</VFEP_SingingShantiesOutcome.outcomeChances.2.description>
+  <!-- EN: Amazing -->
+  <VFEP_SingingShantiesOutcome.outcomeChances.3.label>Increíble</VFEP_SingingShantiesOutcome.outcomeChances.3.label>
+  <!-- EN: The {0} were amazing! We can still hear the mesmerizing words of the cap'n, as they reminded us of the importance of our shared camaraderie. We can even feel our sadness vanish away.\n\nAnalyzing the lyrics afterwards, we found that the ancient words are actually cleverly encoded clues to a possible quest! -->
+  <VFEP_SingingShantiesOutcome.outcomeChances.3.description>¡Las {0} fueron increíbles! Todavía podemos escuchar las fascinantes palabras del capitán, recordándonos la importancia de nuestra camaradería compartida. Incluso podemos sentir que nuestra tristeza se desvanece.\n\n¡Analizando la letra después, descubrimos que las palabras antiguas son en realidad pistas ingeniosamente codificadas para una posible misión!</VFEP_SingingShantiesOutcome.outcomeChances.3.description>
+  
+</LanguageData>

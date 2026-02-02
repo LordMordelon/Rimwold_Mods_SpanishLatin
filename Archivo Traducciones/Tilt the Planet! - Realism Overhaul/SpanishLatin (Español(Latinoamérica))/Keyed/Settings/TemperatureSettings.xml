@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Enable Realistic World Gen -->
+  <EnableRealisticWorldGen>Activar generación de mundo realista</EnableRealisticWorldGen>
+  <!-- EN: Must be enabled BEFORE world creation -->
+  <EnableRealisticWorldGen_Warning>Debe activarse ANTES de la creación del mundo</EnableRealisticWorldGen_Warning>
+  <!-- EN: Generates planets like earth with random landmasses (Cannot be applied to an already-created planet) -->
+  <EnableRealisticWorldGen_Tooltip>Genera planetas como la Tierra con masas de tierra aleatorias (No se puede aplicar a un planeta ya creado)</EnableRealisticWorldGen_Tooltip>
+
+  <!-- EN: Enable Realistic Seasons -->
+  <EnableRealisticSeasonalChanges>Activar cambios estacionales realistas</EnableRealisticSeasonalChanges>
+  <!-- EN: Near 0C difference between summer and winter at equator to massive variation at the poles -->
+  <EnableRealisticSeasonalChanges_Tooltip>Diferencia cercana a 0°C entre verano e invierno en el ecuador hasta una variación masiva en los polos</EnableRealisticSeasonalChanges_Tooltip>
+
+  <!-- EN: Enable Realistic Daily Temperature Swings -->
+  <EnableRealisticDailyTemperatures>Activar oscilaciones diarias de temperatura realistas</EnableRealisticDailyTemperatures>
+  <!-- EN: Daily highs and lows will range from very high in extreme deserts to very low in rainforests -->
+  <EnableRealisticDailyTemperatures_Tooltip>Las máximas y mínimas diarias variarán desde muy altas en desiertos extremos hasta muy bajas en selvas tropicales</EnableRealisticDailyTemperatures_Tooltip>
+  
+  <!-- EN: Enable Realistic Heat Balance -->
+  <EnableRealisticHeatBalance>Activar equilibrio de calor realista</EnableRealisticHeatBalance>
+  <!-- EN: Campfires, smithies, and other heat-producing objects balanced to real-world heat production (based on 1 tile = 1m by 1m by 2.5m) -->
+  <EnableRealisticHeatBalance_Tooltip>Hogueras, forjas y otros objetos que producen calor equilibrados con la producción de calor del mundo real (basado en 1 casilla = 1m por 1m por 2.5m)</EnableRealisticHeatBalance_Tooltip>
+</LanguageData>

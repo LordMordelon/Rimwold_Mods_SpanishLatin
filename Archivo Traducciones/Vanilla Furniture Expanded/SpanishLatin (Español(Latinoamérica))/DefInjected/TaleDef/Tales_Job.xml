@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: used computer -->
+  <Tale_UsedComputer.label>usó la computadora</Tale_UsedComputer.label>
+  <!-- EN:
+    <li>tale_noun->[PAWN_nameDef] focusing heavily on the [OBJECT_label] in front of them</li>
+    <li>tale_noun->[PAWN_nameDef] looking angrily at a [OBJECT_label]</li>
+    <li>tale_noun->[PAWN_nameDef] enjoying [PAWN_objective]self at a [OBJECT_label]</li>
+    <li>image->[PAWN_nameFull] poised over the [OBJECT_label], [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] typing heavily on the [OBJECT_label], [circumstance_group]</li>
+    <li>circumstance_phrase->concentrating</li>
+    <li>circumstance_phrase->[PAWN_possessive] body loose and relaxed</li>
+    <li>circumstance_phrase->leaning back in [PAWN_possessive] chair</li>
+    <li>desc_sentence->A [Color] aurora shines in the background.</li>
+    <li>desc_sentence->In the distance, a [Community] is visible.</li>
+    <li>desc_sentence->In the distance, a [TerrainFeature] is visible.</li>
+    <li>desc_sentence->[PAWN_nameDef] focused on the screen.</li>
+    <li>desc_sentence->[PAWN_nameDef] towers above the scene.</li>
+  -->
+  <Tale_UsedComputer.rulePack.rulesStrings>
+    <li>tale_noun->[PAWN_nameDef] concentrándose fuertemente en [OBJECT_label] frente a [PAWN_pronoun]</li>
+    <li>tale_noun->[PAWN_nameDef] mirando con enojo a [OBJECT_label]</li>
+    <li>tale_noun->[PAWN_nameDef] divirtiéndose en [OBJECT_label]</li>
+    <li>image->[PAWN_nameFull] posado sobre [OBJECT_label], [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] escribiendo fuertemente en [OBJECT_label], [circumstance_group]</li>
+    <li>circumstance_phrase->concentrándose</li>
+    <li>circumstance_phrase->su cuerpo suelto y relajado</li>
+    <li>circumstance_phrase->recostándose en su silla</li>
+    <li>desc_sentence->Una aurora de color [Color] brilla en el fondo.</li>
+    <li>desc_sentence->A lo lejos, se ve una [Community].</li>
+    <li>desc_sentence->A lo lejos, se ve un [TerrainFeature].</li>
+    <li>desc_sentence->[PAWN_nameDef] se centró en la pantalla.</li>
+    <li>desc_sentence->[PAWN_nameDef] se eleva sobre la escena.</li>
+  </Tale_UsedComputer.rulePack.rulesStrings>
+  
+  <!-- EN: used punching bag -->
+  <Tale_UsedPunchingBag.label>usó el saco de boxeo</Tale_UsedPunchingBag.label>
+  <!-- EN:
+    <li>tale_noun->[PAWN_nameDef] taking out his anger on a [OBJECT_label]</li>
+    <li>tale_noun->[PAWN_nameDef] looking angrily at a [OBJECT_label]</li>
+    <li>tale_noun->[PAWN_nameDef] enjoying [PAWN_objective]self at a [OBJECT_label]</li>
+    <li>image->[PAWN_nameFull] poised over the [OBJECT_label], [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] punching the [OBJECT_label], [circumstance_group]</li>
+    <li>circumstance_phrase->tense with energy</li>
+    <li>circumstance_phrase->[PAWN_possessive] body loose and relaxed</li>
+    <li>circumstance_phrase->gently massaging [PAWN_possessive] wrists</li>
+    <li>circumstance_phrase->[angstyverb] with a [AdjectiveAngsty] expression</li>
+    <li>circumstance_phrase->wrapping their hands in tape</li>
+    <li>circumstance_phrase->[angstyverb]</li>
+    <li>desc_sentence->A [Color] aurora shines in the background.</li>
+    <li>desc_sentence->In the distance, a [Community] is visible.</li>
+    <li>desc_sentence->In the distance, a [TerrainFeature] is visible.</li>
+    <li>desc_sentence->[PAWN_nameDef]'s features are exaggerated.</li>
+    <li>desc_sentence->[PAWN_nameDef] towers above the scene.</li>
+  -->
+  <Tale_UsedPunchingBag.rulePack.rulesStrings>
+    <li>tale_noun->[PAWN_nameDef] descargando su ira en [OBJECT_label]</li>
+    <li>tale_noun->[PAWN_nameDef] mirando con enojo a [OBJECT_label]</li>
+    <li>tale_noun->[PAWN_nameDef] divirtiéndose en [OBJECT_label]</li>
+    <li>image->[PAWN_nameFull] posado sobre [OBJECT_label], [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] golpeando [OBJECT_label], [circumstance_group]</li>
+    <li>circumstance_phrase->tenso de energía</li>
+    <li>circumstance_phrase->su cuerpo suelto y relajado</li>
+    <li>circumstance_phrase->masajeando suavemente sus muñecas</li>
+    <li>circumstance_phrase->[angstyverb] con una expresión [AdjectiveAngsty]</li>
+    <li>circumstance_phrase->envolviendo sus manos en cinta</li>
+    <li>circumstance_phrase->[angstyverb]</li>
+    <li>desc_sentence->Una aurora de color [Color] brilla en el fondo.</li>
+    <li>desc_sentence->A lo lejos, se ve una [Community].</li>
+    <li>desc_sentence->A lo lejos, se ve un [TerrainFeature].</li>
+    <li>desc_sentence->Las características de [PAWN_nameDef] son exageradas.</li>
+    <li>desc_sentence->[PAWN_nameDef] se eleva sobre la escena.</li>
+  </Tale_UsedPunchingBag.rulePack.rulesStrings>
+  
+</LanguageData>

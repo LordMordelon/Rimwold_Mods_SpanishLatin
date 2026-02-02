@@ -1,0 +1,832 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: RomanceOnTheRim-Get joy together -->
+  <RomanceOnTheRim_Interaction_GetJoyTogether.label>RomanceOnTheRim-Divertirse juntos</RomanceOnTheRim_Interaction_GetJoyTogether.label>
+  <!-- EN:
+    <li>r_interaction->[INITIATOR_nameDef] and [RECIPIENT_nameDef] found joy in each other's company during their free time.</li>
+    <li>r_interaction->[INITIATOR_nameDef] and [RECIPIENT_nameDef] took a break from their duties to indulge in a shared hobby.</li>
+    <li>r_interaction->[INITIATOR_nameDef] and [RECIPIENT_nameDef] spent quality time together, away from the hustle of the colony.</li>
+    <li>r_interaction->[INITIATOR_nameDef] and [RECIPIENT_nameDef] sought comfort in each other's presence, engaging in their favorite pastime.</li>
+    <li>r_interaction->[INITIATOR_nameDef] and [RECIPIENT_nameDef] cherished their mutual leisure time, bringing them closer.</li>
+    <li>r_interaction->[INITIATOR_nameDef] and [RECIPIENT_nameDef] found solace in their shared relaxation, strengthening their bond.</li>
+    <li>r_interaction->[INITIATOR_nameDef] and [RECIPIENT_nameDef] reveled in their shared downtime, disconnecting from the harsh realities of their surroundings.</li>
+    <li>r_interaction->[INITIATOR_nameDef] and [RECIPIENT_nameDef] escaped from their routines, finding solace and laughter in their shared pastime.</li>
+  -->
+  <RomanceOnTheRim_Interaction_GetJoyTogether.logRulesInitiator.rulesStrings>
+    <li>r_interaction->[INITIATOR_nameDef] y [RECIPIENT_nameDef] encontraron alegría en la compañía del otro durante su tiempo libre.</li>
+    <li>r_interaction->[INITIATOR_nameDef] y [RECIPIENT_nameDef] se tomaron un descanso de sus deberes para disfrutar de un pasatiempo compartido.</li>
+    <li>r_interaction->[INITIATOR_nameDef] y [RECIPIENT_nameDef] pasaron tiempo de calidad juntos, lejos del ajetreo de la colonia.</li>
+    <li>r_interaction->[INITIATOR_nameDef] y [RECIPIENT_nameDef] buscaron consuelo en la presencia del otro, participando en su pasatiempo favorito.</li>
+    <li>r_interaction->[INITIATOR_nameDef] y [RECIPIENT_nameDef] apreciaron su tiempo libre mutuo, acercándose más.</li>
+    <li>r_interaction->[INITIATOR_nameDef] y [RECIPIENT_nameDef] encontraron consuelo en su relajación compartida, fortaleciendo su vínculo.</li>
+    <li>r_interaction->[INITIATOR_nameDef] y [RECIPIENT_nameDef] se deleitaron en su tiempo de inactividad compartido, desconectándose de las duras realidades de su entorno.</li>
+    <li>r_interaction->[INITIATOR_nameDef] y [RECIPIENT_nameDef] escaparon de sus rutinas, encontrando consuelo y risas en su pasatiempo compartido.</li>
+  </RomanceOnTheRim_Interaction_GetJoyTogether.logRulesInitiator.rulesStrings>
+  
+  <!-- EN: RomanceOnTheRim-Kiss -->
+  <RomanceOnTheRim_Interaction_Kiss.label>RomanceOnTheRim-Beso</RomanceOnTheRim_Interaction_Kiss.label>
+  <!-- EN:
+    <li>r_interaction(Kiss_type==Common)->[gentle_action], [gentle_kiss].</li>
+    <li>gentle_action->[INITIATOR_nameDef] wrapped [INITIATOR_possessive] arms around [RECIPIENT_nameDef]</li>
+    <li>gentle_action->[INITIATOR_nameDef] softly caressed [RECIPIENT_nameDef]'s cheek</li>
+    <li>gentle_action->[INITIATOR_nameDef] tucked a loose strand of hair behind [RECIPIENT_nameDef]'s ear</li>
+    <li>gentle_action->[INITIATOR_nameDef] lightly traced the contours of [RECIPIENT_nameDef]'s face</li>
+    <li>gentle_action->[INITIATOR_nameDef] took [RECIPIENT_nameDef]'s hand into [INITIATOR_possessive] own</li>
+    <li>gentle_action->[INITIATOR_nameDef] held [RECIPIENT_nameDef] close</li>
+    <li>gentle_action->[INITIATOR_nameDef] gently lifted [RECIPIENT_nameDef]'s chin</li>
+    <li>gentle_action->[INITIATOR_nameDef] ran [INITIATOR_possessive] fingers through [RECIPIENT_nameDef]'s hair</li>
+    <li>gentle_kiss->planting a warm kiss on [RECIPIENT_possessive] cheek</li>
+    <li>gentle_kiss->sealed a promise with a gentle kiss on [RECIPIENT_possessive] lips</li>
+    <li>gentle_kiss->brushed [RECIPIENT_possessive] lips lightly with [INITIATOR_possessive] own</li>
+    <li>gentle_kiss->leaning in to peck [RECIPIENT_objective] on the cheek</li>
+    <li>gentle_kiss->delivered a sweet peck on [RECIPIENT_possessive] forehead</li>
+    <li>gentle_kiss->planted a series of quick kisses on [RECIPIENT_possessive] face</li>
+    <li>gentle_kiss->stole a playful kiss from [RECIPIENT_objective]</li>
+    <li>gentle_kiss->drawing [RECIPIENT_objective] into a slow, intense kiss</li>
+    <li>r_interaction(Kiss_type==Romantic)->[passionate_action], [passionate_kissing].</li>
+    <li>passionate_action->[INITIATOR_nameDef] gripped [RECIPIENT_nameDef]'s waist firmly, pressing their bodies together</li>
+    <li>passionate_action->[INITIATOR_nameDef] tugged [RECIPIENT_nameDef] closer by the belt loops</li>
+    <li>passionate_action->[INITIATOR_nameDef] backed [RECIPIENT_nameDef] against a wall</li>
+    <li>passionate_action->[INITIATOR_nameDef] trapped [RECIPIENT_nameDef] in a heated gaze before pulling [RECIPIENT_objective] in</li>
+    <li>passionate_action->[INITIATOR_nameDef] slid [INITIATOR_possessive] hand around the nape of [RECIPIENT_nameDef]'s neck</li>
+    <li>passionate_action->[INITIATOR_nameDef] leaned into [RECIPIENT_nameDef], [INITIATOR_possessive] hand trailing up [RECIPIENT_possessive] back</li>
+    <li>passionate_action->[INITIATOR_nameDef] latched onto [RECIPIENT_nameDef]'s hand, spinning [RECIPIENT_objective] around</li>
+    <li>passionate_action->[INITIATOR_nameDef] jumped into [RECIPIENT_nameDef]'s embrace, catching [RECIPIENT_objective] off guard</li>
+    <li>passionate_kissing->devoured [RECIPIENT_possessive] lips in a heated kiss</li>
+    <li>passionate_kissing->pulled [RECIPIENT_objective] into a fervent kiss</li>
+    <li>passionate_kissing->explored [RECIPIENT_possessive] mouth with a passionate kiss</li>
+    <li>passionate_kissing->their lips crashing together in a searing kiss</li>
+    <li>passionate_kissing->sniffed the scent of [RECIPIENT_objective] greedily</li>
+    <li>passionate_kissing->grabbed [RECIPIENT_possessive] lower lip and bited it lightly</li>
+    <li>passionate_kissing->puckered up and gave [RECIPIENT_objective] a big smooch</li>
+    <li>passionate_kissing->shared an all-consuming, breath-stealing kiss</li>
+  -->
+  <RomanceOnTheRim_Interaction_Kiss.logRulesInitiator.rulesStrings>
+    <li>r_interaction(Kiss_type==Common)->[gentle_action], [gentle_kiss].</li>
+    <li>gentle_action->[INITIATOR_nameDef] envolvió sus brazos alrededor de [RECIPIENT_nameDef]</li>
+    <li>gentle_action->[INITIATOR_nameDef] acarició suavemente la mejilla de [RECIPIENT_nameDef]</li>
+    <li>gentle_action->[INITIATOR_nameDef] colocó un mechón de cabello suelto detrás de la oreja de [RECIPIENT_nameDef]</li>
+    <li>gentle_action->[INITIATOR_nameDef] trazó ligeramente los contornos del rostro de [RECIPIENT_nameDef]</li>
+    <li>gentle_action->[INITIATOR_nameDef] tomó la mano de [RECIPIENT_nameDef] entre las suyas</li>
+    <li>gentle_action->[INITIATOR_nameDef] sostuvo a [RECIPIENT_nameDef] cerca</li>
+    <li>gentle_action->[INITIATOR_nameDef] levantó suavemente la barbilla de [RECIPIENT_nameDef]</li>
+    <li>gentle_action->[INITIATOR_nameDef] pasó sus dedos por el cabello de [RECIPIENT_nameDef]</li>
+    <li>gentle_kiss->plantando un cálido beso en su mejilla</li>
+    <li>gentle_kiss->selló una promesa con un suave beso en sus labios</li>
+    <li>gentle_kiss->rozó sus labios ligeramente con los suyos</li>
+    <li>gentle_kiss->inclinándose para darle un pico en la mejilla</li>
+    <li>gentle_kiss->dio un dulce pico en su frente</li>
+    <li>gentle_kiss->plantó una serie de besos rápidos en su rostro</li>
+    <li>gentle_kiss->robó un beso juguetón de [RECIPIENT_objective]</li>
+    <li>gentle_kiss->atrayéndo[RECIPIENT_objective] hacia un beso lento e intenso</li>
+    <li>r_interaction(Kiss_type==Romantic)->[passionate_action], [passionate_kissing].</li>
+    <li>passionate_action->[INITIATOR_nameDef] agarró la cintura de [RECIPIENT_nameDef] firmemente, presionando sus cuerpos juntos</li>
+    <li>passionate_action->[INITIATOR_nameDef] tiró de [RECIPIENT_nameDef] más cerca por las presillas del cinturón</li>
+    <li>passionate_action->[INITIATOR_nameDef] acorraló a [RECIPIENT_nameDef] contra una pared</li>
+    <li>passionate_action->[INITIATOR_nameDef] atrapó a [RECIPIENT_nameDef] en una mirada acalorada antes de atraer[RECIPIENT_objective]</li>
+    <li>passionate_action->[INITIATOR_nameDef] deslizó su mano alrededor de la nuca de [RECIPIENT_nameDef]</li>
+    <li>passionate_action->[INITIATOR_nameDef] se inclinó hacia [RECIPIENT_nameDef], su mano recorriendo su espalda</li>
+    <li>passionate_action->[INITIATOR_nameDef] se aferró a la mano de [RECIPIENT_nameDef], girándo[RECIPIENT_objective]</li>
+    <li>passionate_action->[INITIATOR_nameDef] saltó al abrazo de [RECIPIENT_nameDef], tomándo[RECIPIENT_objective] por sorpresa</li>
+    <li>passionate_kissing->devoró sus labios en un beso acalorado</li>
+    <li>passionate_kissing->[RECIPIENT_objective] atrajo hacia un beso ferviente</li>
+    <li>passionate_kissing->exploró su boca con un beso apasionado</li>
+    <li>passionate_kissing->sus labios chocando en un beso abrasador</li>
+    <li>passionate_kissing->olió el aroma de [RECIPIENT_objective] con avidez</li>
+    <li>passionate_kissing->agarró su labio inferior y lo mordió ligeramente</li>
+    <li>passionate_kissing->frunció los labios y le dio un gran beso</li>
+    <li>passionate_kissing->compartieron un beso devorador que les robó el aliento</li>
+  </RomanceOnTheRim_Interaction_Kiss.logRulesInitiator.rulesStrings>
+  <!-- EN:
+    <li>r_interaction(Kiss_type==Common)->[gentle_action], [gentle_kiss][gentle_reaction].</li>
+    <li>gentle_action->[INITIATOR_nameDef] wrapped [INITIATOR_possessive] arms around [RECIPIENT_nameDef]</li>
+    <li>gentle_action->[INITIATOR_nameDef] softly caressed [RECIPIENT_nameDef]'s cheek</li>
+    <li>gentle_action->[INITIATOR_nameDef] tucked a loose strand of hair behind [RECIPIENT_nameDef]'s ear</li>
+    <li>gentle_action->[INITIATOR_nameDef] lightly traced the contours of [RECIPIENT_nameDef]'s face</li>
+    <li>gentle_action->[INITIATOR_nameDef] took [RECIPIENT_nameDef]'s hand into [INITIATOR_possessive] own</li>
+    <li>gentle_action->[INITIATOR_nameDef] held [RECIPIENT_nameDef] close</li>
+    <li>gentle_action->[INITIATOR_nameDef] gently lifted [RECIPIENT_nameDef]'s chin</li>
+    <li>gentle_action->[INITIATOR_nameDef] ran [INITIATOR_possessive] fingers through [RECIPIENT_nameDef]'s hair</li>
+    <li>gentle_kiss->planting a warm kiss on [RECIPIENT_possessive] cheek</li>
+    <li>gentle_kiss->sealed a promise with a gentle kiss on [RECIPIENT_possessive] lips</li>
+    <li>gentle_kiss->brushed [RECIPIENT_possessive] lips lightly with [INITIATOR_possessive] own</li>
+    <li>gentle_kiss->leaning in to peck [RECIPIENT_objective] on the cheek</li>
+    <li>gentle_kiss->delivered a sweet peck on [RECIPIENT_possessive] forehead</li>
+    <li>gentle_kiss->planted a series of quick kisses on [RECIPIENT_possessive] face</li>
+    <li>gentle_kiss->stole a playful kiss from [RECIPIENT_objective]</li>
+    <li>gentle_kiss->drawing [RECIPIENT_objective] into a slow, intense kiss</li>
+    <li>gentle_reaction->. [RECIPIENT_nameDef]'s heart skipped a beat</li>
+    <li>gentle_reaction->, a moment of pure tenderness that made [RECIPIENT_nameDef]'s heart swell</li>
+    <li>gentle_reaction->. [RECIPIENT_nameDef] shivered with pleasure and anticipation</li>
+    <li>gentle_reaction->. [RECIPIENT_nameDef] heard [INITIATOR_possessive] heart beating faster</li>
+    <li>gentle_reaction->. [RECIPIENT_nameDef] felt a rush of warmth spreading through [RECIPIENT_objective]</li>
+    <li>gentle_reaction->, leaving [RECIPIENT_nameDef] laughing and breathless</li>
+    <li>gentle_reaction-> that made [RECIPIENT_nameDef] feel cherished and loved</li>
+    <li>gentle_reaction->, a blush creep onto [RECIPIENT_nameDef]'s cheeks</li>
+    <li>r_interaction(Kiss_type==Romantic)->[passionate_action], [passionate_kissing][passionate_reaction].</li>
+    <li>passionate_action->[INITIATOR_nameDef] gripped [RECIPIENT_nameDef]'s waist firmly, pressing their bodies together</li>
+    <li>passionate_action->[INITIATOR_nameDef] tugged [RECIPIENT_nameDef] closer by the belt loops</li>
+    <li>passionate_action->[INITIATOR_nameDef] backed [RECIPIENT_nameDef] against a wall</li>
+    <li>passionate_action->[INITIATOR_nameDef] trapped [RECIPIENT_nameDef] in a heated gaze before pulling [RECIPIENT_objective] in</li>
+    <li>passionate_action->[INITIATOR_nameDef] slid [INITIATOR_possessive] hand around the nape of [RECIPIENT_nameDef]'s neck</li>
+    <li>passionate_action->[INITIATOR_nameDef] leaned into [RECIPIENT_nameDef], [INITIATOR_possessive] hand trailing up [RECIPIENT_possessive] back</li>
+    <li>passionate_action->[INITIATOR_nameDef] latched onto [RECIPIENT_nameDef]'s hand, spinning [RECIPIENT_objective] around</li>
+    <li>passionate_action->[INITIATOR_nameDef] jumped into [RECIPIENT_nameDef]'s embrace, catching [RECIPIENT_objective] off guard</li>
+    <li>passionate_kissing->devoured [RECIPIENT_possessive] lips in a heated kiss</li>
+    <li>passionate_kissing->pulled [RECIPIENT_objective] into a fervent kiss</li>
+    <li>passionate_kissing->explored [RECIPIENT_possessive] mouth with a passionate kiss</li>
+    <li>passionate_kissing->their lips crashing together in a searing kiss</li>
+    <li>passionate_kissing->sniffed the scent of [RECIPIENT_objective] greedily</li>
+    <li>passionate_kissing->grabbed [RECIPIENT_possessive] lower lip and bited it lightly</li>
+    <li>passionate_kissing->puckered up and gave [RECIPIENT_objective] a big smooch</li>
+    <li>passionate_kissing->shared an all-consuming, breath-stealing kiss</li>
+    <li>passionate_reaction->, until [RECIPIENT_nameDef] can't breathe and pushed [INITIATOR_objective] away gently</li>
+    <li>passionate_reaction->, which [RECIPIENT_nameDef] returned fervently</li>
+    <li>passionate_reaction->, sparking a wlid desire in their hearts</li>
+    <li>passionate_reaction->, which elicited a content sigh from [RECIPIENT_nameDef]</li>
+    <li>passionate_reaction->. [RECIPIENT_nameDef]'s heart thundered in response to the passion</li>
+    <li>passionate_reaction-> that left [RECIPIENT_nameDef] weak in the knees</li>
+    <li>passionate_reaction->, after which [RECIPIENT_pronoun] licked [INITIATOR_possessive] lips contentedly</li>
+    <li>passionate_reaction->, sending a rush of adrenaline coursing through them</li>
+    <li>passionate_reaction->, making [RECIPIENT_nameDef] feel as though they were floating on air</li>
+  -->
+  <RomanceOnTheRim_Interaction_Kiss.logRulesRecipient.rulesStrings>
+    <li>r_interaction(Kiss_type==Common)->[gentle_action], [gentle_kiss][gentle_reaction].</li>
+    <li>gentle_action->[INITIATOR_nameDef] envolvió sus brazos alrededor de [RECIPIENT_nameDef]</li>
+    <li>gentle_action->[INITIATOR_nameDef] acarició suavemente la mejilla de [RECIPIENT_nameDef]</li>
+    <li>gentle_action->[INITIATOR_nameDef] colocó un mechón de cabello suelto detrás de la oreja de [RECIPIENT_nameDef]</li>
+    <li>gentle_action->[INITIATOR_nameDef] trazó ligeramente los contornos del rostro de [RECIPIENT_nameDef]</li>
+    <li>gentle_action->[INITIATOR_nameDef] tomó la mano de [RECIPIENT_nameDef] entre las suyas</li>
+    <li>gentle_action->[INITIATOR_nameDef] sostuvo a [RECIPIENT_nameDef] cerca</li>
+    <li>gentle_action->[INITIATOR_nameDef] levantó suavemente la barbilla de [RECIPIENT_nameDef]</li>
+    <li>gentle_action->[INITIATOR_nameDef] pasó sus dedos por el cabello de [RECIPIENT_nameDef]</li>
+    <li>gentle_kiss->plantando un cálido beso en su mejilla</li>
+    <li>gentle_kiss->selló una promesa con un suave beso en sus labios</li>
+    <li>gentle_kiss->rozó sus labios ligeramente con los suyos</li>
+    <li>gentle_kiss->inclinándose para darle un pico en la mejilla</li>
+    <li>gentle_kiss->dio un dulce pico en su frente</li>
+    <li>gentle_kiss->plantó una serie de besos rápidos en su rostro</li>
+    <li>gentle_kiss->robó un beso juguetón de [RECIPIENT_objective]</li>
+    <li>gentle_kiss->atrayéndo[RECIPIENT_objective] hacia un beso lento e intenso</li>
+    <li>gentle_reaction->. El corazón de [RECIPIENT_nameDef] dio un vuelco</li>
+    <li>gentle_reaction->, un momento de pura ternura que hizo que el corazón de [RECIPIENT_nameDef] se hinchara</li>
+    <li>gentle_reaction->. [RECIPIENT_nameDef] se estremeció de placer y anticipación</li>
+    <li>gentle_reaction->. [RECIPIENT_nameDef] escuchó su corazón latir más rápido</li>
+    <li>gentle_reaction->. [RECIPIENT_nameDef] sintió una oleada de calor extendiéndose a través de [RECIPIENT_pronoun]</li>
+    <li>gentle_reaction->, dejando a [RECIPIENT_nameDef] riendo y sin aliento</li>
+    <li>gentle_reaction-> que hizo que [RECIPIENT_nameDef] se sintiera apreciado/a y amado/a</li>
+    <li>gentle_reaction->, un rubor subió a las mejillas de [RECIPIENT_nameDef]</li>
+    <li>r_interaction(Kiss_type==Romantic)->[passionate_action], [passionate_kissing][passionate_reaction].</li>
+    <li>passionate_action->[INITIATOR_nameDef] agarró la cintura de [RECIPIENT_nameDef] firmemente, presionando sus cuerpos juntos</li>
+    <li>passionate_action->[INITIATOR_nameDef] tiró de [RECIPIENT_nameDef] más cerca por las presillas del cinturón</li>
+    <li>passionate_action->[INITIATOR_nameDef] acorraló a [RECIPIENT_nameDef] contra una pared</li>
+    <li>passionate_action->[INITIATOR_nameDef] atrapó a [RECIPIENT_nameDef] en una mirada acalorada antes de atraer[RECIPIENT_objective]</li>
+    <li>passionate_action->[INITIATOR_nameDef] deslizó su mano alrededor de la nuca de [RECIPIENT_nameDef]</li>
+    <li>passionate_action->[INITIATOR_nameDef] se inclinó hacia [RECIPIENT_nameDef], su mano recorriendo su espalda</li>
+    <li>passionate_action->[INITIATOR_nameDef] se aferró a la mano de [RECIPIENT_nameDef], girándo[RECIPIENT_objective]</li>
+    <li>passionate_action->[INITIATOR_nameDef] saltó al abrazo de [RECIPIENT_nameDef], tomándo[RECIPIENT_objective] por sorpresa</li>
+    <li>passionate_kissing->devoró sus labios en un beso acalorado</li>
+    <li>passionate_kissing->[RECIPIENT_objective] atrajo hacia un beso ferviente</li>
+    <li>passionate_kissing->exploró su boca con un beso apasionado</li>
+    <li>passionate_kissing->sus labios chocando en un beso abrasador</li>
+    <li>passionate_kissing->olió el aroma de [RECIPIENT_objective] con avidez</li>
+    <li>passionate_kissing->agarró su labio inferior y lo mordió ligeramente</li>
+    <li>passionate_kissing->frunció los labios y le dio un gran beso</li>
+    <li>passionate_kissing->compartieron un beso devorador que les robó el aliento</li>
+    <li>passionate_reaction->, hasta que [RECIPIENT_nameDef] no pudo respirar y [INITIATOR_objective] empujó suavemente</li>
+    <li>passionate_reaction->, el cual [RECIPIENT_nameDef] devolvió fervientemente</li>
+    <li>passionate_reaction->, encendiendo un deseo salvaje en sus corazones</li>
+    <li>passionate_reaction->, lo que provocó un suspiro de satisfacción de [RECIPIENT_nameDef]</li>
+    <li>passionate_reaction->. El corazón de [RECIPIENT_nameDef] tronó en respuesta a la pasión</li>
+    <li>passionate_reaction-> que dejó a [RECIPIENT_nameDef] débil de rodillas</li>
+    <li>passionate_reaction->, después de lo cual [RECIPIENT_pronoun] se lamió los labios con satisfacción</li>
+    <li>passionate_reaction->, enviando una descarga de adrenalina corriendo a través de ellos</li>
+    <li>passionate_reaction->, haciendo que [RECIPIENT_nameDef] sintiera como si estuviera flotando en el aire</li>
+  </RomanceOnTheRim_Interaction_Kiss.logRulesRecipient.rulesStrings>
+  
+  <!-- EN: RomanceOnTheRim-Musical performance -->
+  <RomanceOnTheRim_Interaction_MusicPerformance.label>RomanceOnTheRim-Actuación musical</RomanceOnTheRim_Interaction_MusicPerformance.label>
+  <!-- EN:
+    <li>r_interaction->[performance_desc].</li>
+    <li>performance_desc->[INITIATOR_nameDef] recreated some golden oldies for [RECIPIENT_nameDef]</li>
+    <li>performance_desc->[INITIATOR_nameDef] played a hometown tune for [RECIPIENT_nameDef]</li>
+    <li>performance_desc->[INITIATOR_nameDef] shared [INITIATOR_possessive] favorite songs with [RECIPIENT_nameDef]</li>
+    <li>performance_desc->[INITIATOR_nameDef] played a melody in [INITIATOR_possessive] dream for [RECIPIENT_nameDef]</li>
+    <li>performance_desc->[INITIATOR_nameDef] performed an improvised solo for [RECIPIENT_nameDef]</li>
+    <li>performance_desc->[INITIATOR_nameDef] strummed a romantic ballad for [RECIPIENT_nameDef]</li>
+    <li>performance_desc->[INITIATOR_nameDef] composed a heartfelt song dedicated to [RECIPIENT_nameDef]</li>
+    <li>performance_desc->[INITIATOR_nameDef] filled the room with soothing melodies for [RECIPIENT_nameDef]</li>
+    <li>performance_desc->[INITIATOR_nameDef] showcased [INITIATOR_possessive] talent by playing a complex piece for [RECIPIENT_nameDef]</li>
+    <li>performance_desc->[INITIATOR_nameDef] played a nostalgic song that reminded [RECIPIENT_nameDef] of their past</li>
+  -->
+  <RomanceOnTheRim_Interaction_MusicPerformance.logRulesInitiator.rulesStrings>
+    <li>r_interaction->[performance_desc].</li>
+    <li>performance_desc->[INITIATOR_nameDef] recreó algunos clásicos dorados para [RECIPIENT_nameDef]</li>
+    <li>performance_desc->[INITIATOR_nameDef] tocó una melodía de su ciudad natal para [RECIPIENT_nameDef]</li>
+    <li>performance_desc->[INITIATOR_nameDef] compartió sus canciones favoritas con [RECIPIENT_nameDef]</li>
+    <li>performance_desc->[INITIATOR_nameDef] tocó una melodía de sus sueños para [RECIPIENT_nameDef]</li>
+    <li>performance_desc->[INITIATOR_nameDef] realizó un solo improvisado para [RECIPIENT_nameDef]</li>
+    <li>performance_desc->[INITIATOR_nameDef] rasgueó una balada romántica para [RECIPIENT_nameDef]</li>
+    <li>performance_desc->[INITIATOR_nameDef] compuso una canción sincera dedicada a [RECIPIENT_nameDef]</li>
+    <li>performance_desc->[INITIATOR_nameDef] llenó la habitación con melodías relajantes para [RECIPIENT_nameDef]</li>
+    <li>performance_desc->[INITIATOR_nameDef] mostró su talento tocando una pieza compleja para [RECIPIENT_nameDef]</li>
+    <li>performance_desc->[INITIATOR_nameDef] tocó una canción nostálgica que le recordó a [RECIPIENT_nameDef] su pasado</li>
+  </RomanceOnTheRim_Interaction_MusicPerformance.logRulesInitiator.rulesStrings>
+  <!-- EN:
+    <li>r_interaction->[performance_desc]. [reaction_desc].</li>
+    <li>performance_desc->[INITIATOR_nameDef] recreated some golden oldies for [RECIPIENT_nameDef]</li>
+    <li>performance_desc->[INITIATOR_nameDef] played a hometown tune for [RECIPIENT_nameDef]</li>
+    <li>performance_desc->[INITIATOR_nameDef] shared [INITIATOR_possessive] favorite songs with [RECIPIENT_nameDef]</li>
+    <li>performance_desc->[INITIATOR_nameDef] played a melody in [INITIATOR_possessive] dream for [RECIPIENT_nameDef]</li>
+    <li>performance_desc->[INITIATOR_nameDef] performed an improvised solo for [RECIPIENT_nameDef]</li>
+    <li>performance_desc->[INITIATOR_nameDef] strummed a romantic ballad for [RECIPIENT_nameDef]</li>
+    <li>performance_desc->[INITIATOR_nameDef] composed a heartfelt song dedicated to [RECIPIENT_nameDef]</li>
+    <li>performance_desc->[INITIATOR_nameDef] filled the room with soothing melodies for [RECIPIENT_nameDef]</li>
+    <li>performance_desc->[INITIATOR_nameDef] showcased [INITIATOR_possessive] talent by playing a complex piece for [RECIPIENT_nameDef]</li>
+    <li>performance_desc->[INITIATOR_nameDef] played a nostalgic song that reminded [RECIPIENT_nameDef] of their past</li>
+    <li>reaction_desc->[RECIPIENT_nameDef] shut [RECIPIENT_possessive] eyes and listened quietly</li>
+    <li>reaction_desc->[RECIPIENT_nameDef] stared at [INITIATOR_nameDef]'s face</li>
+    <li>reaction_desc->[RECIPIENT_nameDef] swayed gently to the rhythm</li>
+    <li>reaction_desc->[RECIPIENT_nameDef] clapped enthusiastically after each song</li>
+    <li>reaction_desc->[RECIPIENT_nameDef] sang along with a smile on [RECIPIENT_possessive] face</li>
+    <li>reaction_desc->[RECIPIENT_nameDef] tapped [RECIPIENT_possessive] foot in sync with the beat</li>
+    <li>reaction_desc->[RECIPIENT_nameDef] got lost in the music, forgetting everything else</li>
+    <li>reaction_desc->[RECIPIENT_nameDef] wiped away a tear, touched by the performance</li>
+  -->
+  <RomanceOnTheRim_Interaction_MusicPerformance.logRulesRecipient.rulesStrings>
+    <li>r_interaction->[performance_desc]. [reaction_desc].</li>
+    <li>performance_desc->[INITIATOR_nameDef] recreó algunos clásicos dorados para [RECIPIENT_nameDef]</li>
+    <li>performance_desc->[INITIATOR_nameDef] tocó una melodía de su ciudad natal para [RECIPIENT_nameDef]</li>
+    <li>performance_desc->[INITIATOR_nameDef] compartió sus canciones favoritas con [RECIPIENT_nameDef]</li>
+    <li>performance_desc->[INITIATOR_nameDef] tocó una melodía de sus sueños para [RECIPIENT_nameDef]</li>
+    <li>performance_desc->[INITIATOR_nameDef] realizó un solo improvisado para [RECIPIENT_nameDef]</li>
+    <li>performance_desc->[INITIATOR_nameDef] rasgueó una balada romántica para [RECIPIENT_nameDef]</li>
+    <li>performance_desc->[INITIATOR_nameDef] compuso una canción sincera dedicada a [RECIPIENT_nameDef]</li>
+    <li>performance_desc->[INITIATOR_nameDef] llenó la habitación con melodías relajantes para [RECIPIENT_nameDef]</li>
+    <li>performance_desc->[INITIATOR_nameDef] mostró su talento tocando una pieza compleja para [RECIPIENT_nameDef]</li>
+    <li>performance_desc->[INITIATOR_nameDef] tocó una canción nostálgica que le recordó a [RECIPIENT_nameDef] su pasado</li>
+    <li>reaction_desc->[RECIPIENT_nameDef] cerró los ojos y escuchó en silencio</li>
+    <li>reaction_desc->[RECIPIENT_nameDef] miró fijamente el rostro de [INITIATOR_nameDef]</li>
+    <li>reaction_desc->[RECIPIENT_nameDef] se meció suavemente al ritmo</li>
+    <li>reaction_desc->[RECIPIENT_nameDef] aplaudió con entusiasmo después de cada canción</li>
+    <li>reaction_desc->[RECIPIENT_nameDef] cantó con una sonrisa en su rostro</li>
+    <li>reaction_desc->[RECIPIENT_nameDef] golpeó su pie en sincronía con el ritmo</li>
+    <li>reaction_desc->[RECIPIENT_nameDef] se perdió en la música, olvidando todo lo demás</li>
+    <li>reaction_desc->[RECIPIENT_nameDef] se secó una lágrima, conmovido/a por la actuación</li>
+  </RomanceOnTheRim_Interaction_MusicPerformance.logRulesRecipient.rulesStrings>
+  
+  <!-- EN: RomanceOnTheRim-Pillow talk -->
+  <RomanceOnTheRim_Interaction_PillowTalk.label>RomanceOnTheRim-Charla de almohada</RomanceOnTheRim_Interaction_PillowTalk.label>
+  <!-- EN:
+    <li>r_interaction(p=0.5)->[INITIATOR_nameDef] and [RECIPIENT_nameDef] had a pillow talk about [TalkTopicAny].</li>
+    <li>r_interaction(p=1.5)->[gesture_desc]. [topic_and_reaction].</li>
+    <li>gesture_desc->[INITIATOR_nameDef] wrapped [INITIATOR_possessive] arm around [RECIPIENT_nameDef]</li>
+    <li>gesture_desc->[INITIATOR_nameDef] leaned [INITIATOR_possessive] head against [RECIPIENT_nameDef]</li>
+    <li>gesture_desc->[INITIATOR_nameDef] draped [INITIATOR_possessive] thigh over [RECIPIENT_nameDef]'s</li>
+    <li>gesture_desc->[INITIATOR_nameDef] rested [INITIATOR_possessive] hand on [RECIPIENT_nameDef]'s chest</li>
+    <li>gesture_desc->[INITIATOR_nameDef] played footsie under the covers with [RECIPIENT_nameDef]</li>
+    <li>gesture_desc->[INITIATOR_nameDef] brushed [INITIATOR_possessive] lips against [RECIPIENT_nameDef]'s shoulder</li>
+    <li>gesture_desc->[INITIATOR_nameDef] ran [INITIATOR_possessive] fingers up and down [RECIPIENT_nameDef]'s arm</li>
+    <li>gesture_desc->[INITIATOR_nameDef] nestled [INITIATOR_objective]self into the crook of [RECIPIENT_nameDef]'s arm</li>
+    <li>gesture_desc->[INITIATOR_nameDef] intertwined [INITIATOR_possessive] fingers with [RECIPIENT_nameDef]'s</li>
+    <li>gesture_desc->[INITIATOR_nameDef] nuzzled [INITIATOR_possessive] face into [RECIPIENT_nameDef]'s neck</li>
+    <li>gesture_desc->[INITIATOR_nameDef] pulled up the blanket</li>
+    <li>gesture_desc->[INITIATOR_nameDef] rolled over in bed</li>
+    <li>gesture_desc->[INITIATOR_nameDef] clasped [RECIPIENT_nameDef] to [INITIATOR_objective]</li>
+    <li>gesture_desc->[INITIATOR_nameDef] smoothed [RECIPIENT_nameDef]'s hair away from [RECIPIENT_possessive] face</li>
+    <li>gesture_desc->[INITIATOR_nameDef] and [RECIPIENT_nameDef] stretched out and gazed at the ceiling</li>
+    <li>topic_and_reaction->[topic_question]. [question_reaction]</li>
+    <li>topic_question->[INITIATOR_pronoun] asked about [RECIPIENT_nameDef]'s childhood</li>
+    <li>topic_question->[INITIATOR_pronoun] was curious about [RECIPIENT_possessive] dreams for the future</li>
+    <li>topic_question->[INITIATOR_pronoun] asked [RECIPIENT_nameDef] what [RECIPIENT_pronoun] missed most in [RECIPIENT_possessive] past</li>
+    <li>topic_question->[INITIATOR_pronoun] was curious about [RECIPIENT_nameDef]'s favorite part of the day</li>
+    <li>topic_question->[INITIATOR_pronoun] asked [RECIPIENT_nameDef] if [RECIPIENT_pronoun] had any regrets since leaving home</li>
+    <li>topic_question->[INITIATOR_pronoun] wondered what [RECIPIENT_nameDef]'s dream base layout would look like</li>
+    <li>topic_question->[INITIATOR_pronoun] wondered if [RECIPIENT_nameDef] thought their child would be more like [INITIATOR_nameDef] or [RECIPIENT_nameDef]</li>
+    <li>topic_question->[INITIATOR_pronoun] asked [RECIPIENT_nameDef] how [RECIPIENT_pronoun] coped with the isolation of life on the rimworld</li>
+    <li>topic_question->[INITIATOR_pronoun] asked [RECIPIENT_nameDef] how [RECIPIENT_pronoun] handled stress during a raid</li>
+    <li>topic_question->[INITIATOR_pronoun] inquired about [RECIPIENT_nameDef]'s hopes for the future of their colony</li>
+    <li>question_reaction->[RECIPIENT_nameDef] fell silent for a moment, then gave [INITIATOR_objective] a detailed answer</li>
+    <li>question_reaction->[RECIPIENT_nameDef] grinned and teased [INITIATOR_objective] before giving a serious response</li>
+    <li>question_reaction->[RECIPIENT_nameDef] blushed, but responded honestly to [INITIATOR_possessive] question</li>
+    <li>question_reaction->[RECIPIENT_nameDef] smiled warmly, eagerly sharing [RECIPIENT_possessive] perspective</li>
+    <li>question_reaction->[RECIPIENT_nameDef] sighed and shared [RECIPIENT_possessive] feelings openly with [INITIATOR_objective]</li>
+    <li>question_reaction->[RECIPIENT_nameDef] smirked, teasingly asking why [INITIATOR_pronoun] wanted to know</li>
+    <li>question_reaction->[RECIPIENT_nameDef] smiled, touched by [INITIATOR_possessive] curiosity</li>
+    <li>question_reaction->[RECIPIENT_nameDef] nodded thoughtfully, taking [INITIATOR_possessive] question seriously before responding</li>
+    <li>question_reaction->[RECIPIENT_nameDef] listened carefully and shared [RECIPIENT_possessive] thoughts</li>
+    <li>question_reaction->[RECIPIENT_nameDef] whispered in [INITIATOR_possessive] ear</li>
+    <li>topic_and_reaction(p=1.5)->[topic_confession]</li>
+    <li>topic_confession->[subtopic_confession_admiration]</li>
+    <li>subtopic_confession_admiration->[confession_admiration]. [confession_admiration_reaction]</li>
+    <li>confession_admiration->[INITIATOR_pronoun] expressed appreciation for [RECIPIENT_nameDef]'s unwavering support and kindness</li>
+    <li>confession_admiration->[INITIATOR_pronoun] thanked [RECIPIENT_nameDef] for [RECIPIENT_possessive] constant companionship in their isolated life</li>
+    <li>confession_admiration->[INITIATOR_pronoun] thanked [RECIPIENT_nameDef] for always making [INITIATOR_objective] smile even on the hardest days</li>
+    <li>confession_admiration->[INITIATOR_pronoun] acknowledged [RECIPIENT_nameDef]'s sacrifice and hard work for their survival</li>
+    <li>confession_admiration->[INITIATOR_pronoun] told [RECIPIENT_nameDef] how much [INITIATOR_pronoun] valued [RECIPIENT_possessive] courage and commitment in their harsh life</li>
+    <li>confession_admiration->[INITIATOR_pronoun] confessed [INITIATOR_pronoun] couldn't help but admire [RECIPIENT_nameDef]'s bravery and determination</li>
+    <li>confession_admiration->[INITIATOR_pronoun] told [RECIPIENT_nameDef] how much [INITIATOR_pronoun] admired [RECIPIENT_possessive] skills and knowledge</li>
+    <li>confession_admiration->[INITIATOR_pronoun] spoke of [INITIATOR_possessive] deep admiration for [RECIPIENT_nameDef]'s resilience and adaptability</li>
+    <li>confession_admiration->[INITIATOR_pronoun] admitted to [RECIPIENT_nameDef] that [INITIATOR_pronoun] looked up to [RECIPIENT_objective] in many ways</li>
+    <li>confession_admiration->[INITIATOR_pronoun] revealed [INITIATOR_pronoun] was always impressed by [RECIPIENT_nameDef]'s optimism and positivity</li>
+    <li>confession_admiration_reaction->[RECIPIENT_nameDef] blushed, clearly touched by [INITIATOR_possessive] words</li>
+    <li>confession_admiration_reaction->[RECIPIENT_nameDef] looked at [INITIATOR_objective] with surprised appreciation, speechless for a moment</li>
+    <li>confession_admiration_reaction->[RECIPIENT_nameDef] smiled, obviously moved by [INITIATOR_possessive] expression of admiration</li>
+    <li>confession_admiration_reaction->[RECIPIENT_nameDef] chuckled, clearly pleased by [INITIATOR_possessive] confession of appreciation</li>
+    <li>confession_admiration_reaction->[RECIPIENT_nameDef] looked deeply into [INITIATOR_possessive] eyes, gratitude shining in [RECIPIENT_possessive]</li>
+    <li>confession_admiration_reaction->[RECIPIENT_nameDef] was caught off guard, but a warm smile spread across [RECIPIENT_possessive] face</li>
+    <li>confession_admiration_reaction->[RECIPIENT_nameDef] laughed softly, a sparkle in [RECIPIENT_possessive] eyes that spoke volumes</li>
+    <li>confession_admiration_reaction->[RECIPIENT_nameDef] squeezed [INITIATOR_possessive] hand in silent appreciation</li>
+    <li>topic_confession->[subtopic_confession_fear]</li>
+    <li>subtopic_confession_fear->[confession_fear]. [confession_fear_reaction]</li>
+    <li>confession_fear->[INITIATOR_pronoun] confessed to [RECIPIENT_nameDef] [INITIATOR_possessive] fear of the unknown future on the rimworld</li>
+    <li>confession_fear->[INITIATOR_pronoun] shared with [RECIPIENT_nameDef] [INITIATOR_possessive] anxiety about the dangers lurking outside their settlement</li>
+    <li>confession_fear->[INITIATOR_pronoun] admitted to [RECIPIENT_nameDef] that [INITIATOR_pronoun] was terrified of losing [RECIPIENT_objective]</li>
+    <li>confession_fear->[INITIATOR_pronoun] revealed to [RECIPIENT_nameDef] [INITIATOR_possessive] deep-seated fear of failing the colony</li>
+    <li>confession_fear->[INITIATOR_pronoun] confided in [RECIPIENT_nameDef] about [INITIATOR_possessive] dread of dying alone on this strange planet</li>
+    <li>confession_fear->[INITIATOR_pronoun] shared [INITIATOR_possessive] self-doubt about [INITIATOR_possessive] skills and abilities with [RECIPIENT_nameDef]</li>
+    <li>confession_fear->[INITIATOR_pronoun] voiced [INITIATOR_possessive] worry to [RECIPIENT_nameDef] about being a burden to the others</li>
+    <li>confession_fear->[INITIATOR_pronoun] admitted [INITIATOR_possessive] insecurity about [INITIATOR_possessive] past mistakes to [RECIPIENT_nameDef]</li>
+    <li>confession_fear->[INITIATOR_pronoun] confessed [INITIATOR_possessive] concern to [RECIPIENT_nameDef] about not having enough resources for everyone</li>
+    <li>confession_fear->[INITIATOR_pronoun] revealed to [RECIPIENT_nameDef] [INITIATOR_possessive] insecurities about fitting in with the group</li>
+    <li>confession_fear_reaction->[RECIPIENT_nameDef] listened quietly, squeezing [INITIATOR_possessive] hand in silent support</li>
+    <li>confession_fear_reaction->[RECIPIENT_nameDef] hugged [INITIATOR_objective], whispering words of comfort and reassurance</li>
+    <li>confession_fear_reaction->[RECIPIENT_nameDef] touched [INITIATOR_possessive] face gently, promising to face their fears together</li>
+    <li>confession_fear_reaction->[RECIPIENT_nameDef] nodded understandingly, assuring [INITIATOR_objective] that [RECIPIENT_pronoun] was there for [INITIATOR_objective]</li>
+    <li>confession_fear_reaction->[RECIPIENT_nameDef] listened in silence, a sympathetic look in [RECIPIENT_possessive] eyes</li>
+    <li>confession_fear_reaction->[RECIPIENT_nameDef] wrapped [RECIPIENT_possessive] arms around [INITIATOR_nameDef], providing a sense of safety</li>
+    <li>confession_fear_reaction->[RECIPIENT_nameDef] cradled [INITIATOR_nameDef] in [RECIPIENT_possessive] arms, offering soothing words</li>
+    <li>confession_fear_reaction->[RECIPIENT_nameDef] reassured [INITIATOR_nameDef] with a tender kiss on the forehead</li>
+    <li>topic_confession->[subtopic_confession_mistake]</li>
+    <li>subtopic_confession_mistake->[confession_mistake_lesson]. [confession_mistake_lesson_reaction]</li>
+    <li>subtopic_confession_mistake->[confession_mistake_reflection]. [confession_mistake_reflection_reaction]</li>
+    <li>confession_mistake_lesson->[INITIATOR_pronoun] admitted to [RECIPIENT_nameDef] [INITIATOR_possessive] mistake of not learning enough survival skills before the crash</li>
+    <li>confession_mistake_lesson->[INITIATOR_pronoun] shared with [RECIPIENT_nameDef] [INITIATOR_possessive] guilt over a failed mission in the past</li>
+    <li>confession_mistake_lesson->[INITIATOR_pronoun] voiced [INITIATOR_possessive] grief to [RECIPIENT_nameDef] about an old decision that led to a friend's death</li>
+    <li>confession_mistake_lesson->[INITIATOR_pronoun] confessed to [RECIPIENT_nameDef] [INITIATOR_possessive] contrition of not spending enough time with [INITIATOR_possessive] family before the journey</li>
+    <li>confession_mistake_lesson->[INITIATOR_pronoun] revealed to [RECIPIENT_nameDef] [INITIATOR_possessive] remorse over a past relationship that [INITIATOR_pronoun] ruined</li>
+    <li>confession_mistake_reflection->[INITIATOR_pronoun] confessed to [RECIPIENT_nameDef] about a lie [INITIATOR_pronoun] had told early in their relationship</li>
+    <li>confession_mistake_reflection->[INITIATOR_pronoun] admitted to [RECIPIENT_nameDef] about [INITIATOR_possessive] remorse of doubting [RECIPIENT_possessive] intentions in the past</li>
+    <li>confession_mistake_reflection->[INITIATOR_pronoun] shared with [RECIPIENT_nameDef] [INITIATOR_possessive] guilt over an argument they had, where [INITIATOR_pronoun] said things [INITIATOR_pronoun] didn't mean</li>
+    <li>confession_mistake_reflection->[INITIATOR_pronoun] revealed to [RECIPIENT_nameDef] about [INITIATOR_possessive] regret of not standing up for [RECIPIENT_nameDef] when [RECIPIENT_pronoun] was criticized by others</li>
+    <li>confession_mistake_reflection->[INITIATOR_pronoun] confined in [RECIPIENT_nameDef] about [INITIATOR_possessive] penance of taking [RECIPIENT_possessive] hard work for granted</li>
+    <li>confession_mistake_lesson_reaction->[RECIPIENT_nameDef] consoled [INITIATOR_objective] saying that the past cannot be changed but the future can be shaped</li>
+    <li>confession_mistake_lesson_reaction->[RECIPIENT_nameDef] listened silently, understanding the weight of [INITIATOR_possessive] regrets</li>
+    <li>confession_mistake_lesson_reaction->[RECIPIENT_nameDef] suggested they start a new chapter here, leaving past mistakes behind</li>
+    <li>confession_mistake_lesson_reaction->[RECIPIENT_nameDef] softly reminded [INITIATOR_objective] that everyone has things in their past they aren't proud of</li>
+    <li>confession_mistake_lesson_reaction->[RECIPIENT_nameDef] comforted [INITIATOR_objective] that mistakes are what make us human and give us room to grow</li>
+    <li>confession_mistake_lesson_reaction->[RECIPIENT_nameDef] looked at [INITIATOR_objective] with understanding, stating that it's okay to have regrets, but what matters is what [INITIATOR_pronoun] does moving forward</li>
+    <li>confession_mistake_reflection_reaction->[RECIPIENT_nameDef] held [INITIATOR_possessive] hand, acknowledging the courage it took to admit these mistakes</li>
+    <li>confession_mistake_reflection_reaction->[RECIPIENT_nameDef] looked into [INITIATOR_possessive] eyes, assuring [INITIATOR_objective] that honesty is key in their relationship</li>
+    <li>confession_mistake_reflection_reaction->[RECIPIENT_nameDef] hugged [INITIATOR_objective] tightly, promising [INITIATOR_objective] that they can work through these issues together</li>
+    <li>confession_mistake_reflection_reaction->[RECIPIENT_nameDef] reassured [INITIATOR_objective] that [RECIPIENT_pronoun] still loves [INITIATOR_objective], regardless of past mistakes</li>
+    <li>confession_mistake_reflection_reaction->[RECIPIENT_nameDef] took a deep breath, admitting that [RECIPIENT_pronoun] too has things [RECIPIENT_pronoun] needs to confess</li>
+    <li>confession_mistake_reflection_reaction->[RECIPIENT_nameDef] consoled [INITIATOR_objective] that they will always have an open line of communication for such confessions</li>
+    <li>topic_and_reaction->[topic_sharing][sharing_reaction]</li>
+    <li>topic_sharing->[INITIATOR_pronoun] laughed lightly, recalling a shared joke</li>
+    <li>topic_sharing->[INITIATOR_pronoun] shared a moment of love with [RECIPIENT_nameDef]</li>
+    <li>topic_sharing->[INITIATOR_pronoun] reminisced about the first time they met</li>
+    <li>topic_sharing->[INITIATOR_pronoun] softly sang a lullaby to [RECIPIENT_nameDef]</li>
+    <li>topic_sharing->[INITIATOR_pronoun] shared a funny anecdote from [INITIATOR_possessive] day</li>
+    <li>topic_sharing->[INITIATOR_pronoun] whispered sweet nothings into [RECIPIENT_nameDef]'s ear</li>
+    <li>topic_sharing->[INITIATOR_pronoun] promised [RECIPIENT_nameDef] a brighter tomorrow</li>
+    <li>topic_sharing->[INITIATOR_pronoun] talked about [INITIATOR_possessive] dreams for the future</li>
+    <li>topic_sharing->[INITIATOR_pronoun] expressed [INITIATOR_possessive] love for [RECIPIENT_nameDef]</li>
+    <li>topic_sharing->[INITIATOR_pronoun] gently teased [RECIPIENT_nameDef] about an old memory</li>
+    <li>topic_sharing->[INITIATOR_pronoun] told [RECIPIENT_nameDef] about a dream [INITIATOR_pronoun] had last night</li>
+    <li>topic_sharing->[INITIATOR_pronoun] shared [INITIATOR_possessive] insights about the different cultures and people [INITIATOR_pronoun] has encountered in the colony</li>
+    <li>sharing_reaction->, which left [RECIPIENT_objective] deep in thought</li>
+    <li>sharing_reaction->. [RECIPIENT_nameDef] drifted off to sleep, a content sigh escaping [RECIPIENT_possessive] lips</li>
+    <li>sharing_reaction->. [RECIPIENT_nameDef] blinked and told [INITIATOR_objective] a story</li>
+    <li>sharing_reaction->, as [RECIPIENT_nameDef] remained silent, absorbing [INITIATOR_possessive] words</li>
+    <li>sharing_reaction->. [RECIPIENT_nameDef] yawned and nuzzled against [INITIATOR_objective], drifting off to sleep</li>
+    <li>sharing_reaction->. [RECIPIENT_nameDef] chuckled and pulled [INITIATOR_objective] closer</li>
+    <li>sharing_reaction->. [RECIPIENT_nameDef] gazed at [INITIATOR_objective], [RECIPIENT_possessive] eyes filled with love and warmth</li>
+    <li>sharing_reaction->. [RECIPIENT_nameDef] softly stroked [INITIATOR_possessive] face as [INITIATOR_pronoun] spoke</li>
+    <li>sharing_reaction->. [RECIPIENT_nameDef] snuggled deeper into the embrace, [RECIPIENT_possessive] eyes drooping with sleep</li>
+    <li>sharing_reaction->. [RECIPIENT_nameDef] laughed along, a sparkle in [RECIPIENT_possessive] eyes</li>
+    <li>topic_and_reaction->[topic_children]</li>
+    <li>topic_children->[subtopic_children_concern]</li>
+    <li>topic_children->[subtopic_children_dreaming]</li>
+    <li>subtopic_children_concern->[children_concern]. [children_concern_reaction]</li>
+    <li>children_concern->[INITIATOR_pronoun] hesitantly shared with [RECIPIENT_nameDef] [INITIATOR_possessive] fear of not being a good enough parent</li>
+    <li>children_concern->[INITIATOR_pronoun] expressed to [RECIPIENT_nameDef] [INITIATOR_possessive] worries about providing a good life for a child</li>
+    <li>children_concern->[INITIATOR_pronoun] confided in [RECIPIENT_nameDef] about [INITIATOR_possessive] concerns regarding the dangers of the world and raising a child in it</li>
+    <li>children_concern->[INITIATOR_pronoun] cautiously brought up the possibility of inherited health issues with [RECIPIENT_nameDef]</li>
+    <li>children_concern->[INITIATOR_pronoun] expressed [INITIATOR_possessive] worry about the emotional toll living on the rimworld could take on a child to [RECIPIENT_nameDef]</li>
+    <li>children_concern->[INITIATOR_pronoun] voiced [INITIATOR_possessive] concerns about the lack of formal education available to [RECIPIENT_nameDef]</li>
+    <li>children_concern_reaction->[RECIPIENT_nameDef] listened attentively, offering comforting words and shared [RECIPIENT_possessive] own concerns</li>
+    <li>children_concern_reaction->[RECIPIENT_nameDef] reassured [INITIATOR_objective] that they'd face all challenges together</li>
+    <li>children_concern_reaction->[RECIPIENT_nameDef] contemplated the discussion with seriousness, expressing [RECIPIENT_possessive] thoughts and concerns too</li>
+    <li>children_concern_reaction->[RECIPIENT_nameDef] acknowledged [INITIATOR_possessive] concerns and admitted to having similar fears</li>
+    <li>children_concern_reaction->[RECIPIENT_nameDef] held [INITIATOR_pronoun] close, expressing that they'd learn and grow together as parents</li>
+    <li>children_concern_reaction->[RECIPIENT_nameDef] gently reminded [INITIATOR_pronoun] that they had time to prepare and learn</li>
+    <li>subtopic_children_dreaming->[children_dreaming]. [children_dreaming_reaction]</li>
+    <li>children_dreaming->[INITIATOR_pronoun] laughingly told [RECIPIENT_nameDef] what naughty kids they'd probably have</li>
+    <li>children_dreaming->[INITIATOR_pronoun] confessed to [RECIPIENT_nameDef] [INITIATOR_possessive] desire for having children</li>
+    <li>children_dreaming->[INITIATOR_pronoun] shared with [RECIPIENT_nameDef] [INITIATOR_possessive] dream of a big family</li>
+    <li>children_dreaming->[INITIATOR_pronoun] softly asked [RECIPIENT_nameDef] about [RECIPIENT_possessive] thoughts on having kids</li>
+    <li>children_dreaming->[INITIATOR_pronoun] wondered aloud to [RECIPIENT_nameDef] what their future children might look like</li>
+    <li>children_dreaming->[INITIATOR_pronoun] voiced [INITIATOR_possessive] deepest wish that their future child would lead the colony to prosperity to [RECIPIENT_nameDef]</li>
+    <li>children_dreaming_reaction->[RECIPIENT_nameDef] blushed and shyly confessed [RECIPIENT_pronoun] too dreamt about having kids</li>
+    <li>children_dreaming_reaction->[RECIPIENT_nameDef] grew quiet, considering [RECIPIENT_possessive] own feelings on the topic</li>
+    <li>children_dreaming_reaction->[RECIPIENT_nameDef] smiled warmly, agreeing with [INITIATOR_nameDef]'s dream of a big family</li>
+    <li>children_dreaming_reaction->[RECIPIENT_nameDef] playfully teased [INITIATOR_nameDef] about the challenges of raising children</li>
+    <li>children_dreaming_reaction->[RECIPIENT_nameDef] chuckled at the idea but didn't dismiss it</li>
+    <li>children_dreaming_reaction->[RECIPIENT_nameDef] shared [RECIPIENT_possessive] own hopes about becoming a parent one day</li>
+  -->
+  <RomanceOnTheRim_Interaction_PillowTalk.logRulesInitiator.rulesStrings>
+    <li>r_interaction(p=0.5)->[INITIATOR_nameDef] y [RECIPIENT_nameDef] tuvieron una charla de almohada sobre [TalkTopicAny].</li>
+    <li>r_interaction(p=1.5)->[gesture_desc]. [topic_and_reaction].</li>
+    <li>gesture_desc->[INITIATOR_nameDef] envolvió su brazo alrededor de [RECIPIENT_nameDef]</li>
+    <li>gesture_desc->[INITIATOR_nameDef] apoyó su cabeza contra [RECIPIENT_nameDef]</li>
+    <li>gesture_desc->[INITIATOR_nameDef] pasó su muslo sobre el de [RECIPIENT_nameDef]</li>
+    <li>gesture_desc->[INITIATOR_nameDef] descansó su mano en el pecho de [RECIPIENT_nameDef]</li>
+    <li>gesture_desc->[INITIATOR_nameDef] jugó con los pies bajo las sábanas con [RECIPIENT_nameDef]</li>
+    <li>gesture_desc->[INITIATOR_nameDef] rozó sus labios contra el hombro de [RECIPIENT_nameDef]</li>
+    <li>gesture_desc->[INITIATOR_nameDef] pasó sus dedos arriba y abajo por el brazo de [RECIPIENT_nameDef]</li>
+    <li>gesture_desc->[INITIATOR_nameDef] se acurrucó en el hueco del brazo de [RECIPIENT_nameDef]</li>
+    <li>gesture_desc->[INITIATOR_nameDef] entrelazó sus dedos con los de [RECIPIENT_nameDef]</li>
+    <li>gesture_desc->[INITIATOR_nameDef] frotó su rostro en el cuello de [RECIPIENT_nameDef]</li>
+    <li>gesture_desc->[INITIATOR_nameDef] subió la manta</li>
+    <li>gesture_desc->[INITIATOR_nameDef] se dio la vuelta en la cama</li>
+    <li>gesture_desc->[INITIATOR_nameDef] estrechó a [RECIPIENT_nameDef] contra [INITIATOR_objective]</li>
+    <li>gesture_desc->[INITIATOR_nameDef] alisó el cabello de [RECIPIENT_nameDef] lejos de su rostro</li>
+    <li>gesture_desc->[INITIATOR_nameDef] y [RECIPIENT_nameDef] se estiraron y miraron al techo</li>
+    <li>topic_and_reaction->[topic_question]. [question_reaction]</li>
+    <li>topic_question->[INITIATOR_pronoun] preguntó sobre la infancia de [RECIPIENT_nameDef]</li>
+    <li>topic_question->[INITIATOR_pronoun] tenía curiosidad sobre sus sueños para el futuro</li>
+    <li>topic_question->[INITIATOR_pronoun] preguntó a [RECIPIENT_nameDef] qué extrañaba más de su pasado</li>
+    <li>topic_question->[INITIATOR_pronoun] tenía curiosidad sobre la parte favorita del día de [RECIPIENT_nameDef]</li>
+    <li>topic_question->[INITIATOR_pronoun] preguntó a [RECIPIENT_nameDef] si tenía algún arrepentimiento desde que dejó su hogar</li>
+    <li>topic_question->[INITIATOR_pronoun] se preguntó cómo sería el diseño de la base soñada de [RECIPIENT_nameDef]</li>
+    <li>topic_question->[INITIATOR_pronoun] se preguntó si [RECIPIENT_nameDef] pensaba que su hijo sería más como [INITIATOR_nameDef] o como [RECIPIENT_nameDef]</li>
+    <li>topic_question->[INITIATOR_pronoun] preguntó a [RECIPIENT_nameDef] cómo lidiaba con el aislamiento de la vida en el borde</li>
+    <li>topic_question->[INITIATOR_pronoun] preguntó a [RECIPIENT_nameDef] cómo manejaba el estrés durante un asalto</li>
+    <li>topic_question->[INITIATOR_pronoun] preguntó sobre las esperanzas de [RECIPIENT_nameDef] para el futuro de su colonia</li>
+    <li>question_reaction->[RECIPIENT_nameDef] guardó silencio por un momento, luego le dio una respuesta detallada</li>
+    <li>question_reaction->[RECIPIENT_nameDef] sonrió y bromeó con [INITIATOR_objective] antes de dar una respuesta seria</li>
+    <li>question_reaction->[RECIPIENT_nameDef] se sonrojó, pero respondió honestamente a su pregunta</li>
+    <li>question_reaction->[RECIPIENT_nameDef] sonrió cálidamente, compartiendo ansiosamente su perspectiva</li>
+    <li>question_reaction->[RECIPIENT_nameDef] suspiró y compartió sus sentimientos abiertamente con [INITIATOR_objective]</li>
+    <li>question_reaction->[RECIPIENT_nameDef] sonrió con suficiencia, preguntando burlonamente por qué quería saber</li>
+    <li>question_reaction->[RECIPIENT_nameDef] sonrió, conmovido/a por su curiosidad</li>
+    <li>question_reaction->[RECIPIENT_nameDef] asintió pensativamente, tomando su pregunta en serio antes de responder</li>
+    <li>question_reaction->[RECIPIENT_nameDef] escuchó atentamente y compartió sus pensamientos</li>
+    <li>question_reaction->[RECIPIENT_nameDef] susurró en su oído</li>
+    <li>topic_and_reaction(p=1.5)->[topic_confession]</li>
+    <li>topic_confession->[subtopic_confession_admiration]</li>
+    <li>subtopic_confession_admiration->[confession_admiration]. [confession_admiration_reaction]</li>
+    <li>confession_admiration->[INITIATOR_pronoun] expresó aprecio por el apoyo inquebrantable y la amabilidad de [RECIPIENT_nameDef]</li>
+    <li>confession_admiration->[INITIATOR_pronoun] agradeció a [RECIPIENT_nameDef] por su constante compañía en su vida aislada</li>
+    <li>confession_admiration->[INITIATOR_pronoun] agradeció a [RECIPIENT_nameDef] por hacerle sonreír siempre, incluso en los días más difíciles</li>
+    <li>confession_admiration->[INITIATOR_pronoun] reconoció el sacrificio y el trabajo duro de [RECIPIENT_nameDef] para su supervivencia</li>
+    <li>confession_admiration->[INITIATOR_pronoun] le dijo a [RECIPIENT_nameDef] cuánto valoraba su coraje y compromiso en su dura vida</li>
+    <li>confession_admiration->[INITIATOR_pronoun] confesó que no podía evitar admirar la valentía y determinación de [RECIPIENT_nameDef]</li>
+    <li>confession_admiration->[INITIATOR_pronoun] le dijo a [RECIPIENT_nameDef] cuánto admiraba sus habilidades y conocimientos</li>
+    <li>confession_admiration->[INITIATOR_pronoun] habló de su profunda admiración por la resistencia y adaptabilidad de [RECIPIENT_nameDef]</li>
+    <li>confession_admiration->[INITIATOR_pronoun] admitió a [RECIPIENT_nameDef] que le admiraba de muchas maneras</li>
+    <li>confession_admiration->[INITIATOR_pronoun] reveló que siempre estaba impresionado/a por el optimismo y la positividad de [RECIPIENT_nameDef]</li>
+    <li>confession_admiration_reaction->[RECIPIENT_nameDef] se sonrojó, claramente conmovido/a por sus palabras</li>
+    <li>confession_admiration_reaction->[RECIPIENT_nameDef] le miró con aprecio sorprendido, sin palabras por un momento</li>
+    <li>confession_admiration_reaction->[RECIPIENT_nameDef] sonrió, obviamente conmovido/a por su expresión de admiración</li>
+    <li>confession_admiration_reaction->[RECIPIENT_nameDef] se rió entre dientes, claramente complacido/a por su confesión de aprecio</li>
+    <li>confession_admiration_reaction->[RECIPIENT_nameDef] miró profundamente a sus ojos, con gratitud brillando en los suyos</li>
+    <li>confession_admiration_reaction->[RECIPIENT_nameDef] fue tomado/a por sorpresa, pero una cálida sonrisa se extendió por su rostro</li>
+    <li>confession_admiration_reaction->[RECIPIENT_nameDef] rió suavemente, un brillo en sus ojos que decía mucho</li>
+    <li>confession_admiration_reaction->[RECIPIENT_nameDef] apretó su mano en agradecimiento silencioso</li>
+    <li>topic_confession->[subtopic_confession_fear]</li>
+    <li>subtopic_confession_fear->[confession_fear]. [confession_fear_reaction]</li>
+    <li>confession_fear->[INITIATOR_pronoun] confesó a [RECIPIENT_nameDef] su miedo al futuro desconocido en el borde</li>
+    <li>confession_fear->[INITIATOR_pronoun] compartió con [RECIPIENT_nameDef] su ansiedad sobre los peligros que acechan fuera de su asentamiento</li>
+    <li>confession_fear->[INITIATOR_pronoun] admitió a [RECIPIENT_nameDef] que estaba aterrorizado/a de perderle</li>
+    <li>confession_fear->[INITIATOR_pronoun] reveló a [RECIPIENT_nameDef] su miedo profundo de fallarle a la colonia</li>
+    <li>confession_fear->[INITIATOR_pronoun] confió en [RECIPIENT_nameDef] sobre su pavor de morir solo/a en este extraño planeta</li>
+    <li>confession_fear->[INITIATOR_pronoun] compartió sus dudas sobre sus habilidades y capacidades con [RECIPIENT_nameDef]</li>
+    <li>confession_fear->[INITIATOR_pronoun] expresó su preocupación a [RECIPIENT_nameDef] sobre ser una carga para los demás</li>
+    <li>confession_fear->[INITIATOR_pronoun] admitió su inseguridad sobre sus errores pasados a [RECIPIENT_nameDef]</li>
+    <li>confession_fear->[INITIATOR_pronoun] confesó su preocupación a [RECIPIENT_nameDef] sobre no tener suficientes recursos para todos</li>
+    <li>confession_fear->[INITIATOR_pronoun] reveló a [RECIPIENT_nameDef] sus inseguridades sobre encajar en el grupo</li>
+    <li>confession_fear_reaction->[RECIPIENT_nameDef] escuchó en silencio, apretando su mano en apoyo silencioso</li>
+    <li>confession_fear_reaction->[RECIPIENT_nameDef] le abrazó, susurrando palabras de consuelo y tranquilidad</li>
+    <li>confession_fear_reaction->[RECIPIENT_nameDef] tocó su rostro suavemente, prometiendo enfrentar sus miedos juntos</li>
+    <li>confession_fear_reaction->[RECIPIENT_nameDef] asintió comprensivamente, asegurándole que estaba allí para [INITIATOR_objective]</li>
+    <li>confession_fear_reaction->[RECIPIENT_nameDef] escuchó en silencio, con una mirada comprensiva en sus ojos</li>
+    <li>confession_fear_reaction->[RECIPIENT_nameDef] envolvió sus brazos alrededor de [INITIATOR_nameDef], proporcionando una sensación de seguridad</li>
+    <li>confession_fear_reaction->[RECIPIENT_nameDef] acunó a [INITIATOR_nameDef] en sus brazos, ofreciendo palabras tranquilizadoras</li>
+    <li>confession_fear_reaction->[RECIPIENT_nameDef] tranquilizó a [INITIATOR_nameDef] con un tierno beso en la frente</li>
+    <li>topic_confession->[subtopic_confession_mistake]</li>
+    <li>subtopic_confession_mistake->[confession_mistake_lesson]. [confession_mistake_lesson_reaction]</li>
+    <li>subtopic_confession_mistake->[confession_mistake_reflection]. [confession_mistake_reflection_reaction]</li>
+    <li>confession_mistake_lesson->[INITIATOR_pronoun] admitió a [RECIPIENT_nameDef] su error de no aprender suficientes habilidades de supervivencia antes del accidente</li>
+    <li>confession_mistake_lesson->[INITIATOR_pronoun] compartió con [RECIPIENT_nameDef] su culpa por una misión fallida en el pasado</li>
+    <li>confession_mistake_lesson->[INITIATOR_pronoun] expresó su dolor a [RECIPIENT_nameDef] sobre una vieja decisión que llevó a la muerte de un amigo</li>
+    <li>confession_mistake_lesson->[INITIATOR_pronoun] confesó a [RECIPIENT_nameDef] su arrepentimiento de no pasar suficiente tiempo con su familia antes del viaje</li>
+    <li>confession_mistake_lesson->[INITIATOR_pronoun] reveló a [RECIPIENT_nameDef] su remordimiento por una relación pasada que arruinó</li>
+    <li>confession_mistake_reflection->[INITIATOR_pronoun] confesó a [RECIPIENT_nameDef] sobre una mentira que había dicho al principio de su relación</li>
+    <li>confession_mistake_reflection->[INITIATOR_pronoun] admitió a [RECIPIENT_nameDef] sobre su remordimiento de dudar de las intenciones de [RECIPIENT_nameDef] en el pasado</li>
+    <li>confession_mistake_reflection->[INITIATOR_pronoun] compartió con [RECIPIENT_nameDef] su culpa por una discusión que tuvieron, donde dijo cosas que no sentía</li>
+    <li>confession_mistake_reflection->[INITIATOR_pronoun] reveló a [RECIPIENT_nameDef] sobre su arrepentimiento de no defender a [RECIPIENT_nameDef] cuando fue criticado/a por otros</li>
+    <li>confession_mistake_reflection->[INITIATOR_pronoun] confió en [RECIPIENT_nameDef] sobre su penitencia de dar por sentado el trabajo duro de [RECIPIENT_nameDef]</li>
+    <li>confession_mistake_lesson_reaction->[RECIPIENT_nameDef] le consoló diciendo que el pasado no se puede cambiar pero el futuro se puede moldear</li>
+    <li>confession_mistake_lesson_reaction->[RECIPIENT_nameDef] escuchó en silencio, entendiendo el peso de sus arrepentimientos</li>
+    <li>confession_mistake_lesson_reaction->[RECIPIENT_nameDef] sugirió que comenzaran un nuevo capítulo aquí, dejando atrás los errores del pasado</li>
+    <li>confession_mistake_lesson_reaction->[RECIPIENT_nameDef] le recordó suavemente que todos tienen cosas en su pasado de las que no están orgullosos</li>
+    <li>confession_mistake_lesson_reaction->[RECIPIENT_nameDef] le consoló diciendo que los errores son los que nos hacen humanos y nos dan espacio para crecer</li>
+    <li>confession_mistake_lesson_reaction->[RECIPIENT_nameDef] le miró con comprensión, afirmando que está bien tener arrepentimientos, pero lo que importa es lo que hace en adelante</li>
+    <li>confession_mistake_reflection_reaction->[RECIPIENT_nameDef] sostuvo su mano, reconociendo el coraje que tomó admitir estos errores</li>
+    <li>confession_mistake_reflection_reaction->[RECIPIENT_nameDef] miró a sus ojos, asegurándole que la honestidad es clave en su relación</li>
+    <li>confession_mistake_reflection_reaction->[RECIPIENT_nameDef] le abrazó fuertemente, prometiéndole que pueden superar estos problemas juntos</li>
+    <li>confession_mistake_reflection_reaction->[RECIPIENT_nameDef] le tranquilizó diciendo que todavía le ama, independientemente de los errores del pasado</li>
+    <li>confession_mistake_reflection_reaction->[RECIPIENT_nameDef] respiró hondo, admitiendo que también tiene cosas que necesita confesar</li>
+    <li>confession_mistake_reflection_reaction->[RECIPIENT_nameDef] le consoló diciendo que siempre tendrán una línea de comunicación abierta para tales confesiones</li>
+    <li>topic_and_reaction->[topic_sharing][sharing_reaction]</li>
+    <li>topic_sharing->[INITIATOR_pronoun] rió ligeramente, recordando una broma compartida</li>
+    <li>topic_sharing->[INITIATOR_pronoun] compartió un momento de amor con [RECIPIENT_nameDef]</li>
+    <li>topic_sharing->[INITIATOR_pronoun] recordó la primera vez que se conocieron</li>
+    <li>topic_sharing->[INITIATOR_pronoun] cantó suavemente una canción de cuna a [RECIPIENT_nameDef]</li>
+    <li>topic_sharing->[INITIATOR_pronoun] compartió una anécdota divertida de su día</li>
+    <li>topic_sharing->[INITIATOR_pronoun] susurró dulces naderías al oído de [RECIPIENT_nameDef]</li>
+    <li>topic_sharing->[INITIATOR_pronoun] prometió a [RECIPIENT_nameDef] un mañana más brillante</li>
+    <li>topic_sharing->[INITIATOR_pronoun] habló sobre sus sueños para el futuro</li>
+    <li>topic_sharing->[INITIATOR_pronoun] expresó su amor por [RECIPIENT_nameDef]</li>
+    <li>topic_sharing->[INITIATOR_pronoun] bromeó suavemente con [RECIPIENT_nameDef] sobre un viejo recuerdo</li>
+    <li>topic_sharing->[INITIATOR_pronoun] le contó a [RECIPIENT_nameDef] sobre un sueño que tuvo anoche</li>
+    <li>topic_sharing->[INITIATOR_pronoun] compartió sus ideas sobre las diferentes culturas y personas que ha encontrado en la colonia</li>
+    <li>sharing_reaction->, lo que dejó a [RECIPIENT_objective] sumido/a en sus pensamientos</li>
+    <li>sharing_reaction->. [RECIPIENT_nameDef] se quedó dormido/a, un suspiro de satisfacción escapando de sus labios</li>
+    <li>sharing_reaction->. [RECIPIENT_nameDef] parpadeó y le contó una historia</li>
+    <li>sharing_reaction->, mientras [RECIPIENT_nameDef] permanecía en silencio, absorbiendo sus palabras</li>
+    <li>sharing_reaction->. [RECIPIENT_nameDef] bostezó y se acurrucó contra [INITIATOR_objective], quedándose dormido/a</li>
+    <li>sharing_reaction->. [RECIPIENT_nameDef] se rió entre dientes y le acercó más</li>
+    <li>sharing_reaction->. [RECIPIENT_nameDef] le miró, con los ojos llenos de amor y calidez</li>
+    <li>sharing_reaction->. [RECIPIENT_nameDef] acarició suavemente su rostro mientras hablaba</li>
+    <li>sharing_reaction->. [RECIPIENT_nameDef] se acurrucó más profundamente en el abrazo, sus ojos cerrándose de sueño</li>
+    <li>sharing_reaction->. [RECIPIENT_nameDef] rió también, con un brillo en sus ojos</li>
+    <li>topic_and_reaction->[topic_children]</li>
+    <li>topic_children->[subtopic_children_concern]</li>
+    <li>topic_children->[subtopic_children_dreaming]</li>
+    <li>subtopic_children_concern->[children_concern]. [children_concern_reaction]</li>
+    <li>children_concern->[INITIATOR_pronoun] compartió vacilante con [RECIPIENT_nameDef] su miedo de no ser un padre/madre lo suficientemente bueno</li>
+    <li>children_concern->[INITIATOR_pronoun] expresó a [RECIPIENT_nameDef] sus preocupaciones sobre proporcionar una buena vida a un niño</li>
+    <li>children_concern->[INITIATOR_pronoun] confió en [RECIPIENT_nameDef] sobre sus preocupaciones con respecto a los peligros del mundo y criar a un niño en él</li>
+    <li>children_concern->[INITIATOR_pronoun] mencionó cautelosamente la posibilidad de problemas de salud hereditarios con [RECIPIENT_nameDef]</li>
+    <li>children_concern->[INITIATOR_pronoun] expresó su preocupación sobre el costo emocional que vivir en el borde podría tener en un niño a [RECIPIENT_nameDef]</li>
+    <li>children_concern->[INITIATOR_pronoun] expresó sus preocupaciones sobre la falta de educación formal disponible a [RECIPIENT_nameDef]</li>
+    <li>children_concern_reaction->[RECIPIENT_nameDef] escuchó atentamente, ofreciendo palabras de consuelo y compartió sus propias preocupaciones</li>
+    <li>children_concern_reaction->[RECIPIENT_nameDef] le aseguró que enfrentarían todos los desafíos juntos</li>
+    <li>children_concern_reaction->[RECIPIENT_nameDef] contempló la discusión con seriedad, expresando también sus pensamientos y preocupaciones</li>
+    <li>children_concern_reaction->[RECIPIENT_nameDef] reconoció sus preocupaciones y admitió tener miedos similares</li>
+    <li>children_concern_reaction->[RECIPIENT_nameDef] le abrazó, expresando que aprenderían y crecerían juntos como padres</li>
+    <li>children_concern_reaction->[RECIPIENT_nameDef] le recordó suavemente que tenían tiempo para prepararse y aprender</li>
+    <li>subtopic_children_dreaming->[children_dreaming]. [children_dreaming_reaction]</li>
+    <li>children_dreaming->[INITIATOR_pronoun] le dijo riendo a [RECIPIENT_nameDef] qué niños traviesos probablemente tendrían</li>
+    <li>children_dreaming->[INITIATOR_pronoun] confesó a [RECIPIENT_nameDef] su deseo de tener hijos</li>
+    <li>children_dreaming->[INITIATOR_pronoun] compartió con [RECIPIENT_nameDef] su sueño de una gran familia</li>
+    <li>children_dreaming->[INITIATOR_pronoun] preguntó suavemente a [RECIPIENT_nameDef] sobre sus pensamientos sobre tener hijos</li>
+    <li>children_dreaming->[INITIATOR_pronoun] se preguntó en voz alta a [RECIPIENT_nameDef] cómo se verían sus futuros hijos</li>
+    <li>children_dreaming->[INITIATOR_pronoun] expresó su deseo más profundo de que su futuro hijo llevara a la colonia a la prosperidad a [RECIPIENT_nameDef]</li>
+    <li>children_dreaming_reaction->[RECIPIENT_nameDef] se sonrojó y confesó tímidamente que también soñaba con tener hijos</li>
+    <li>children_dreaming_reaction->[RECIPIENT_nameDef] se quedó callado/a, considerando sus propios sentimientos sobre el tema</li>
+    <li>children_dreaming_reaction->[RECIPIENT_nameDef] sonrió cálidamente, estando de acuerdo con el sueño de [INITIATOR_nameDef] de una gran familia</li>
+    <li>children_dreaming_reaction->[RECIPIENT_nameDef] bromeó juguetonamente con [INITIATOR_nameDef] sobre los desafíos de criar niños</li>
+    <li>children_dreaming_reaction->[RECIPIENT_nameDef] se rió entre dientes ante la idea pero no la descartó</li>
+    <li>children_dreaming_reaction->[RECIPIENT_nameDef] compartió sus propias esperanzas sobre convertirse en padre/madre algún día</li>
+  </RomanceOnTheRim_Interaction_PillowTalk.logRulesInitiator.rulesStrings>
+  
+  <!-- EN: RomanceOnTheRim-Skygaze -->
+  <RomanceOnTheRim_Interaction_SkygazeTogether.label>RomanceOnTheRim-Mirar el cielo</RomanceOnTheRim_Interaction_SkygazeTogether.label>
+  <!-- EN:
+    <li>r_interaction(Happen_time==Day)->[INITIATOR_nameDef] and [RECIPIENT_nameDef] gazed at the [day_object], [day_desc].</li>
+    <li>r_interaction(Happen_time==Night)->[INITIATOR_nameDef] and [RECIPIENT_nameDef] gazed at the [night_object], [night_desc].</li>
+    <li>day_object->endless blue</li>
+    <li>day_object->soaring birds</li>
+    <li>day_object->hazy horizon</li>
+    <li>day_object->kaleidoscopic rainbow</li>
+    <li>day_object->distant mountains</li>
+    <li>day_object->blossoming tree</li>
+    <li>day_object->moving shadows</li>
+    <li>day_object->cotton-candy clouds drifting lazily</li>
+    <li>day_object->ethereal spectacle of a sundog</li>
+    <li>night_object->night sky</li>
+    <li>night_object->lunar glow</li>
+    <li>night_object->glistening moon</li>
+    <li>night_object->distant galaxies</li>
+    <li>night_object->milky way</li>
+    <li>night_object->mysterious nebulae</li>
+    <li>night_object->twinkling constellations</li>
+    <li>night_object->dark silhouette of the trees</li>
+    <li>night_object->glowing embers of their campfire</li>
+    <li>night_object->mysterious shadows cast by the moonlight</li>
+    <li>night_object->night owls in flight</li>
+    <li>day_desc(p=1.5)->rambling about [TalkTopicAny]</li>
+    <li>day_desc->when a fresh breeze blew through their hair</li>
+    <li>day_desc->when the sunshine softly warmed them</li>
+    <li>day_desc->when clouds were kissed to their heady blush by the sun</li>
+    <li>day_desc->washing their souls with its clearness</li>
+    <li>day_desc->inhaling the fragrance of the soil</li>
+    <li>day_desc->as the sun's rays sparkled off the dewdrops around them</li>
+    <li>day_desc->taking comfort in the steady rhythm of nature</li>
+    <li>day_desc->sharing stories of their past under the wide, welcoming sky</li>
+    <li>day_desc->marveling at the serenity of the day, and each other's company</li>
+    <li>day_desc->feeling the pulse of the earth beneath them</li>
+    <li>day_desc->whispering their dreams into the gentle wind</li>
+    <li>day_desc->as the light refracted through morning dew drops</li>
+    <li>day_desc->as their laughter echoing under the wide blue expanse</li>
+    <li>day_desc->seeking shapes in the shifting clouds, as playful as children</li>
+    <li>night_desc(p=1.5)->rambling about [TalkTopicLight]</li>
+    <li>night_desc->gossiping about other colonists' affairs</li>
+    <li>night_desc->sharing mythologies of constellations</li>
+    <li>night_desc->discussing the infinite possibilities of their shared future</li>
+    <li>night_desc->dumping daily pressures in the eternal night</li>
+    <li>night_desc->allowing the darkness to swallow their fears and insecurities</li>
+    <li>night_desc->dreaming under the shimmering veil of the Milky Way</li>
+    <li>night_desc->lost in the cosmic ballet of shooting stars</li>
+    <li>night_desc->marveling at the constellations, as if they were echoes of their shared dreams</li>
+    <li>night_desc->feeling the hum of the night, its stillness promising endless possibilities</li>
+    <li>night_desc->their whispers carried away by the cool breeze</li>
+    <li>night_desc->their thoughts as vast as the cosmos above</li>
+    <li>night_desc->their hearts mirroring the celestial infinity above</li>
+    <li>night_desc->their souls resonating with the harmonious silence of the night</li>
+    <li>night_desc->the tranquil darkness holding their deepest secrets</li>
+    <li>night_desc->while meteors gliding through their fingertips</li>
+    <li>night_desc->when the moon hung over them silently</li>
+    <li>night_desc->under the watchful eyes of a thousand celestial bodies</li>
+  -->
+  <RomanceOnTheRim_Interaction_SkygazeTogether.logRulesInitiator.rulesStrings>
+    <li>r_interaction(Happen_time==Day)->[INITIATOR_nameDef] y [RECIPIENT_nameDef] miraron el [day_object], [day_desc].</li>
+    <li>r_interaction(Happen_time==Night)->[INITIATOR_nameDef] y [RECIPIENT_nameDef] miraron el [night_object], [night_desc].</li>
+    <li>day_object->azul infinito</li>
+    <li>day_object->pájaros volando</li>
+    <li>day_object->horizonte brumoso</li>
+    <li>day_object->arcoíris caleidoscópico</li>
+    <li>day_object->montañas distantes</li>
+    <li>day_object->árbol floreciente</li>
+    <li>day_object->sombras en movimiento</li>
+    <li>day_object->nubes de algodón de azúcar a la deriva perezosamente</li>
+    <li>day_object->espectáculo etéreo de un parhelio</li>
+    <li>night_object->cielo nocturno</li>
+    <li>night_object->resplandor lunar</li>
+    <li>night_object->luna brillante</li>
+    <li>night_object->galaxias distantes</li>
+    <li>night_object->vía láctea</li>
+    <li>night_object->nebulosas misteriosas</li>
+    <li>night_object->constelaciones centelleantes</li>
+    <li>night_object->silueta oscura de los árboles</li>
+    <li>night_object->brasas brillantes de su fogata</li>
+    <li>night_object->sombras misteriosas proyectadas por la luz de la luna</li>
+    <li>night_object->búhos nocturnos en vuelo</li>
+    <li>day_desc(p=1.5)->divagando sobre [TalkTopicAny]</li>
+    <li>day_desc->cuando una brisa fresca sopló a través de su cabello</li>
+    <li>day_desc->cuando la luz del sol los calentó suavemente</li>
+    <li>day_desc->cuando las nubes fueron besadas hasta su rubor embriagador por el sol</li>
+    <li>day_desc->lavando sus almas con su claridad</li>
+    <li>day_desc->inhalando la fragancia de la tierra</li>
+    <li>day_desc->mientras los rayos del sol brillaban en las gotas de rocío a su alrededor</li>
+    <li>day_desc->encontrando consuelo en el ritmo constante de la naturaleza</li>
+    <li>day_desc->compartiendo historias de su pasado bajo el cielo amplio y acogedor</li>
+    <li>day_desc->maravillándose de la serenidad del día y la compañía del otro</li>
+    <li>day_desc->sintiendo el pulso de la tierra debajo de ellos</li>
+    <li>day_desc->susurrando sus sueños al viento suave</li>
+    <li>day_desc->mientras la luz se refractaba a través de las gotas de rocío de la mañana</li>
+    <li>day_desc->mientras sus risas resonaban bajo la amplia extensión azul</li>
+    <li>day_desc->buscando formas en las nubes cambiantes, tan juguetones como niños</li>
+    <li>night_desc(p=1.5)->divagando sobre [TalkTopicLight]</li>
+    <li>night_desc->chismeando sobre los asuntos de otros colonos</li>
+    <li>night_desc->compartiendo mitologías de constelaciones</li>
+    <li>night_desc->discutiendo las infinitas posibilidades de su futuro compartido</li>
+    <li>night_desc->descargando las presiones diarias en la noche eterna</li>
+    <li>night_desc->permitiendo que la oscuridad se tragara sus miedos e inseguridades</li>
+    <li>night_desc->soñando bajo el velo brillante de la Vía Láctea</li>
+    <li>night_desc->perdidos en el ballet cósmico de estrellas fugaces</li>
+    <li>night_desc->maravillándose de las constelaciones, como si fueran ecos de sus sueños compartidos</li>
+    <li>night_desc->sintiendo el zumbido de la noche, su quietud prometiendo infinitas posibilidades</li>
+    <li>night_desc->sus susurros llevados por la brisa fresca</li>
+    <li>night_desc->sus pensamientos tan vastos como el cosmos arriba</li>
+    <li>night_desc->sus corazones reflejando la infinidad celestial arriba</li>
+    <li>night_desc->sus almas resonando con el silencio armonioso de la noche</li>
+    <li>night_desc->la oscuridad tranquila sosteniendo sus secretos más profundos</li>
+    <li>night_desc->mientras los meteoros se deslizaban a través de sus dedos</li>
+    <li>night_desc->cuando la luna colgaba sobre ellos silenciosamente</li>
+    <li>night_desc->bajo los ojos vigilantes de mil cuerpos celestes</li>
+  </RomanceOnTheRim_Interaction_SkygazeTogether.logRulesInitiator.rulesStrings>
+  
+  <!-- EN: RomanceOnTheRim-Read together -->
+  <RotR_Interaction_ReadTogether.label>RomanceOnTheRim-Leer juntos</RotR_Interaction_ReadTogether.label>
+  <!-- EN:
+    <li>r_interaction->[action] [vibe]</li>
+    <li>action->[INITIATOR_nameDef] and [RECIPIENT_nameDef] sit side by side, engrossed in their books.</li>
+    <li>action->[INITIATOR_nameDef] and [RECIPIENT_nameDef] are wrapped up in their reading, their bodies leaning into each other.</li>
+    <li>action->[INITIATOR_nameDef] and [RECIPIENT_nameDef] recline side by side on the couch, each lost in their own story.</li>
+    <li>action->[INITIATOR_nameDef] and [RECIPIENT_nameDef] are nestled under a shared blanket on the couch, each holding their own book.</li>
+    <li>action->[INITIATOR_nameDef] and [RECIPIENT_nameDef] sit cross-legged on opposite ends of the sofa, their books held close.</li>
+    <li>action->[INITIATOR_nameDef] and [RECIPIENT_nameDef] sit shoulder to shoulder on the sofa, each with a book propped on their knees.</li>
+    <li>vibe->A profound sense of companionship while the soft rustle of pages turning fills the air.</li>
+    <li>vibe->The quiet moments between them are filled with unspoken affection.</li>
+    <li>vibe->Their legs are comfortably tangled, and they occasionally pause to read a line aloud or comment on their story.</li>
+    <li>vibe->Their legs casually overlap in the middle, a quiet reminder of their shared space even as they lose themselves in different worlds.</li>
+    <li>vibe->Each is absorbed in their own book, but every so often, they exchange a soft comment or laugh.</li>
+    <li>vibe->They read in silence, occasionally shifting to catch the other’s eye with a knowing glance.</li>
+  -->
+  <RotR_Interaction_ReadTogether.logRulesInitiator.rulesStrings>
+    <li>r_interaction->[action] [vibe]</li>
+    <li>action->[INITIATOR_nameDef] y [RECIPIENT_nameDef] se sientan uno al lado del otro, absortos en sus libros.</li>
+    <li>action->[INITIATOR_nameDef] y [RECIPIENT_nameDef] están envueltos en su lectura, sus cuerpos inclinándose el uno hacia el otro.</li>
+    <li>action->[INITIATOR_nameDef] y [RECIPIENT_nameDef] se reclinan uno al lado del otro en el sofá, cada uno perdido en su propia historia.</li>
+    <li>action->[INITIATOR_nameDef] y [RECIPIENT_nameDef] están acurrucados bajo una manta compartida en el sofá, cada uno sosteniendo su propio libro.</li>
+    <li>action->[INITIATOR_nameDef] y [RECIPIENT_nameDef] se sientan con las piernas cruzadas en extremos opuestos del sofá, con sus libros cerca.</li>
+    <li>action->[INITIATOR_nameDef] y [RECIPIENT_nameDef] se sientan hombro con hombro en el sofá, cada uno con un libro apoyado en sus rodillas.</li>
+    <li>vibe->Un profundo sentido de compañía mientras el suave susurro de las páginas pasando llena el aire.</li>
+    <li>vibe->Los momentos tranquilos entre ellos están llenos de afecto tácito.</li>
+    <li>vibe->Sus piernas están cómodamente enredadas, y ocasionalmente hacen una pausa para leer una línea en voz alta o comentar sobre su historia.</li>
+    <li>vibe->Sus piernas se superponen casualmente en el medio, un recordatorio silencioso de su espacio compartido incluso mientras se pierden en mundos diferentes.</li>
+    <li>vibe->Cada uno está absorto en su propio libro, pero de vez en cuando, intercambian un comentario suave o una risa.</li>
+    <li>vibe->Leen en silencio, moviéndose ocasionalmente para captar la mirada del otro con una mirada de complicidad.</li>
+  </RotR_Interaction_ReadTogether.logRulesInitiator.rulesStrings>
+  
+  <!-- EN: RomanceOnTheRim-Shared Reading -->
+  <RotR_Interaction_SharedReading.label>RomanceOnTheRim-Lectura compartida</RotR_Interaction_SharedReading.label>
+  <!-- EN:
+    <li>r_interaction->[action] [vibe]</li>
+    <li>action->[INITIATOR_nameDef] joins [RECIPIENT_nameDef] on the couch, nestling into the crook of [RECIPIENT_possessive] arm.</li>
+    <li>action->[INITIATOR_nameDef] sits down beside [RECIPIENT_nameDef] on the couch, wrapping an arm around [RECIPIENT_objective] as [RECIPIENT_pronoun] reads.</li>
+    <li>action->[INITIATOR_nameDef] joins [RECIPIENT_nameDef] on the couch, sliding in close as [RECIPIENT_nameDef] continues reading.</li>
+    <li>action->[INITIATOR_nameDef] slips onto the couch next to [RECIPIENT_nameDef], who is engrossed in a book.</li>
+    <li>action->[INITIATOR_nameDef] joins [RECIPIENT_nameDef] on the couch, settling in comfortably. [RECIPIENT_nameDef] pauses to make room.</li>
+    <li>action->[INITIATOR_nameDef] sits down next to [RECIPIENT_nameDef] on the couch, resting [INITIATOR_possessive] head on [RECIPIENT_possessive] shoulder.</li>
+    <li>vibe->They laugh softly at the funny parts and pause to share a glance, eyes reflecting the joy of shared moments.</li>
+    <li>vibe->They lean in, enjoying the closeness and the shared book.</li>
+    <li>vibe->They nestle together, sharing the warmth and the story.</li>
+    <li>vibe->They cuddle up, and [RECIPIENT_nameDef] shares the story, their voices low and intimate.</li>
+    <li>vibe->Their fingers occasionally brush as they turn pages, sharing silent glances of warmth.</li>
+    <li>vibe->[RECIPIENT_nameDef] continues reading, their voices mingling in the quiet comfort of the room.</li>
+  -->
+  <RotR_Interaction_SharedReading.logRulesInitiator.rulesStrings>
+    <li>r_interaction->[action] [vibe]</li>
+    <li>action->[INITIATOR_nameDef] se une a [RECIPIENT_nameDef] en el sofá, acurrucándose en el hueco de su brazo.</li>
+    <li>action->[INITIATOR_nameDef] se sienta junto a [RECIPIENT_nameDef] en el sofá, envolviendo un brazo alrededor de [RECIPIENT_objective] mientras lee.</li>
+    <li>action->[INITIATOR_nameDef] se une a [RECIPIENT_nameDef] en el sofá, deslizándose cerca mientras [RECIPIENT_nameDef] continúa leyendo.</li>
+    <li>action->[INITIATOR_nameDef] se desliza en el sofá junto a [RECIPIENT_nameDef], quien está absorto/a en un libro.</li>
+    <li>action->[INITIATOR_nameDef] se une a [RECIPIENT_nameDef] en el sofá, acomodándose cómodamente. [RECIPIENT_nameDef] hace una pausa para hacer espacio.</li>
+    <li>action->[INITIATOR_nameDef] se sienta junto a [RECIPIENT_nameDef] en el sofá, descansando su cabeza en el hombro de [RECIPIENT_nameDef].</li>
+    <li>vibe->Se ríen suavemente de las partes divertidas y hacen una pausa para compartir una mirada, los ojos reflejando la alegría de los momentos compartidos.</li>
+    <li>vibe->Se inclinan, disfrutando de la cercanía y el libro compartido.</li>
+    <li>vibe->Se acurrucan juntos, compartiendo el calor y la historia.</li>
+    <li>vibe->Se acurrucan, y [RECIPIENT_nameDef] comparte la historia, sus voces bajas e íntimas.</li>
+    <li>vibe->Sus dedos se rozan ocasionalmente mientras pasan las páginas, compartiendo miradas silenciosas de calidez.</li>
+    <li>vibe->[RECIPIENT_nameDef] continúa leyendo, sus voces mezclándose en la tranquila comodidad de la habitación.</li>
+  </RotR_Interaction_SharedReading.logRulesInitiator.rulesStrings>
+  
+  <!-- EN: RomanceOnTheRim-Snowball Fight -->
+  <RotR_Interaction_SnowballFight.label>RomanceOnTheRim-Pelea de bolas de nieve</RotR_Interaction_SnowballFight.label>
+  <!-- EN:
+    <li>r_interaction->[INITIATOR_nameDef] and [RECIPIENT_nameDef] forgot their worries, engaging in a joyful snowball fight and sharing a moment of pure bliss.</li>
+    <li>r_interaction->[INITIATOR_nameDef] and [RECIPIENT_nameDef] found joy in a snowy skirmish, their laughter ringing through the cold air.</li>
+    <li>r_interaction->[INITIATOR_nameDef] and [RECIPIENT_nameDef] launched snowballs with abandon, their cheeks flushed with cold and laughter.</li>
+    <li>r_interaction->[INITIATOR_nameDef] and [RECIPIENT_nameDef] lobbed snowballs back and forth, their laughter punctuating the serene hush of the snowy landscape.</li>
+    <li>r_interaction->[INITIATOR_nameDef] and [RECIPIENT_nameDef] dodged and weaved through a flurry of snowballs, their merry cries brightening the wintry scene.</li>
+  -->
+  <RotR_Interaction_SnowballFight.logRulesInitiator.rulesStrings>
+    <li>r_interaction->[INITIATOR_nameDef] y [RECIPIENT_nameDef] olvidaron sus preocupaciones, participando en una alegre pelea de bolas de nieve y compartiendo un momento de pura felicidad.</li>
+    <li>r_interaction->[INITIATOR_nameDef] y [RECIPIENT_nameDef] encontraron alegría en una escaramuza nevada, sus risas resonando en el aire frío.</li>
+    <li>r_interaction->[INITIATOR_nameDef] y [RECIPIENT_nameDef] lanzaron bolas de nieve con abandono, sus mejillas sonrojadas por el frío y la risa.</li>
+    <li>r_interaction->[INITIATOR_nameDef] y [RECIPIENT_nameDef] lanzaron bolas de nieve de un lado a otro, sus risas puntuando el sereno silencio del paisaje nevado.</li>
+    <li>r_interaction->[INITIATOR_nameDef] y [RECIPIENT_nameDef] esquivaron y se movieron a través de una ráfaga de bolas de nieve, sus gritos alegres iluminando la escena invernal.</li>
+  </RotR_Interaction_SnowballFight.logRulesInitiator.rulesStrings>
+  
+  <!-- EN: RomanceOnTheRim-Stroll Together -->
+  <RotR_Interaction_StrollTogether.label>RomanceOnTheRim-Pasear juntos</RotR_Interaction_StrollTogether.label>
+  <!-- EN:
+    <li>r_interaction->[INITIATOR_nameDef] and [RECIPIENT_nameDef] took a quiet stroll together, their steps in sync and their hearts a little lighter.</li>
+    <li>r_interaction->[INITIATOR_nameDef] and [RECIPIENT_nameDef] wandered together for a while, wrapped in shared thoughts and subtle smiles.</li>
+    <li>r_interaction->Time seemed to slow as [INITIATOR_nameDef] and [RECIPIENT_nameDef] walked together, content in each other’s presence.</li>
+    <li>r_interaction->[INITIATOR_nameDef] and [RECIPIENT_nameDef] walked hand in hand, their shadows wavering behind them like gentle memories.</li>
+    <li>r_interaction->[INITIATOR_nameDef] and [RECIPIENT_nameDef] took a break from the world, strolling quietly and savoring the calm between them.</li>
+  -->
+  <RotR_Interaction_StrollTogether.logRulesInitiator.rulesStrings>
+    <li>r_interaction->[INITIATOR_nameDef] y [RECIPIENT_nameDef] dieron un paseo tranquilo juntos, sus pasos sincronizados y sus corazones un poco más ligeros.</li>
+    <li>r_interaction->[INITIATOR_nameDef] y [RECIPIENT_nameDef] vagaron juntos por un rato, envueltos en pensamientos compartidos y sonrisas sutiles.</li>
+    <li>r_interaction->El tiempo pareció detenerse mientras [INITIATOR_nameDef] y [RECIPIENT_nameDef] caminaban juntos, contentos en la presencia del otro.</li>
+    <li>r_interaction->[INITIATOR_nameDef] y [RECIPIENT_nameDef] caminaron de la mano, sus sombras vacilando detrás de ellos como recuerdos suaves.</li>
+    <li>r_interaction->[INITIATOR_nameDef] y [RECIPIENT_nameDef] se tomaron un descanso del mundo, paseando tranquilamente y saboreando la calma entre ellos.</li>
+  </RotR_Interaction_StrollTogether.logRulesInitiator.rulesStrings>
+  
+  <!-- EN: RomanceOnTheRim-Swim Together -->
+  <RotR_Interaction_SwimTogether.label>RomanceOnTheRim-Nadar juntos</RotR_Interaction_SwimTogether.label>
+  <!-- EN:
+    <li>r_interaction->[INITIATOR_nameDef] and [RECIPIENT_nameDef] slipped into the water together, their splashes weaving bright arcs between quiet giggles.</li>
+    <li>r_interaction->Time seemed to dissolve in the gentle current while [INITIATOR_nameDef] and [RECIPIENT_nameDef] swam in lazy loops.</li>
+    <li>r_interaction->Side by side, [INITIATOR_nameDef] and [RECIPIENT_nameDef] floated beneath the open sky, breaths slowing until the world shrank to ripples and quiet heartbeats.</li>
+    <li>r_interaction->[INITIATOR_nameDef] matched [RECIPIENT_nameDef]’s strokes in perfect rhythm, each synchronized kick weaving an unspoken promise between them.</li>
+    <li>r_interaction->[INITIATOR_nameDef] and [RECIPIENT_nameDef] dove and resurfaced together, exhilaration glittering in their eyes before settling into quiet contentment.</li>
+  -->
+  <RotR_Interaction_SwimTogether.logRulesInitiator.rulesStrings>
+    <li>r_interaction->[INITIATOR_nameDef] y [RECIPIENT_nameDef] se deslizaron en el agua juntos, sus salpicaduras tejiendo arcos brillantes entre risitas silenciosas.</li>
+    <li>r_interaction->El tiempo pareció disolverse en la suave corriente mientras [INITIATOR_nameDef] y [RECIPIENT_nameDef] nadaban en bucles perezosos.</li>
+    <li>r_interaction->Lado a lado, [INITIATOR_nameDef] y [RECIPIENT_nameDef] flotaron bajo el cielo abierto, las respiraciones disminuyendo hasta que el mundo se redujo a ondas y latidos tranquilos.</li>
+    <li>r_interaction->[INITIATOR_nameDef] igualó las brazadas de [RECIPIENT_nameDef] en perfecto ritmo, cada patada sincronizada tejiendo una promesa tácita entre ellos.</li>
+    <li>r_interaction->[INITIATOR_nameDef] y [RECIPIENT_nameDef] se sumergieron y resurgieron juntos, la euforia brillando en sus ojos antes de asentarse en una tranquila satisfacción.</li>
+  </RotR_Interaction_SwimTogether.logRulesInitiator.rulesStrings>
+  
+</LanguageData>

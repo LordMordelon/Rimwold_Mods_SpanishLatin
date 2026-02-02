@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+	<!-- EN: Animal -->
+  <VRE_Animal>Animal</VRE_Animal>
+	<!-- EN: Corpse -->
+  <VRE_Corpse>Cadáver</VRE_Corpse>
+	<!-- EN: Sanguophage -->
+  <VRE_Sanguophage>Sanguífago</VRE_Sanguophage>
+	<!-- EN: Extract hemogen (animal) from {0} -->
+  <VRE_ExtractHemogenAnimal>Extraer hemógeno (animal) de {0}</VRE_ExtractHemogenAnimal>
+	<!-- EN: Extract hemogen (corpse) from {0} -->
+  <VRE_ExtractHemogenCorpse>Extraer hemógeno (cadáver) de {0}</VRE_ExtractHemogenCorpse>
+	<!-- EN: Extract hemogen (sanguophage) from {0} -->
+  <VRE_ExtractHemogenSanguophage>Extraer hemógeno (sanguífago) de {0}</VRE_ExtractHemogenSanguophage>
+	<!-- EN: The sanguofeed ability can only be used on hemogenic people -->
+  <VRE_MessageCantUseOnNonSanguophage>La habilidad de alimentación sanguífaga solo se puede usar en personas hemogénicas</VRE_MessageCantUseOnNonSanguophage>
+	<!-- EN: The sanguofeed ability can't be used on Sanguophages completely drained of hemogen -->
+  <VRE_MessageCantUseOnDrainedSanguophage>La habilidad de alimentación sanguífaga no se puede usar en sanguífagos completamente drenados de hemógeno</VRE_MessageCantUseOnDrainedSanguophage>
+	<!-- EN: Can only be used on targets with a heart -->
+  <VRE_NoHeart>Solo se puede usar en objetivos con corazón</VRE_NoHeart>
+	<!-- EN: Switches hemogen flow on/off. -->
+  <VRE_HemogenValve>Activa/desactiva el flujo de hemógeno.</VRE_HemogenValve>
+	<!-- EN: Switches hemogen flow on/off. A pawn will come open/close the valve. -->
+  <VRE_HemogenValveDesc>Activa/desactiva el flujo de hemógeno. Un peón vendrá a abrir/cerrar la válvula.</VRE_HemogenValveDesc>
+	<!-- EN: Ability: {0} -->
+  <VRE_Ability>Habilidad: {0}</VRE_Ability>
+	<!-- EN: Choose ability -->
+  <VRE_DefaultAbility>Elegir habilidad</VRE_DefaultAbility>
+	<!-- EN: Carry {0} to draincasket -->
+  <VRE_CarryToDraincasket>Llevar a {0} al ataúd de drenaje</VRE_CarryToDraincasket>
+	<!-- EN: Enter draincasket -->
+  <VRE_EnterDraincasket>Entrar al ataúd de drenaje</VRE_EnterDraincasket>
+	<!-- EN: Eject occupant -->
+  <VRE_CommandDraincasketEject>Expulsar ocupante</VRE_CommandDraincasketEject>
+	<!-- EN: Eject occupant from this draincasket. This will interrupt the hemogen extraction and leave the occupant dizzy due to the bloodloss. -->
+  <VRE_CommandDraincasketEjectDesc>Expulsar al ocupante de este ataúd de drenaje. Esto interrumpirá la extracción de hemógeno y dejará al ocupante mareado debido a la pérdida de sangre.</VRE_CommandDraincasketEjectDesc>
+	<!-- EN: Can't eject occupant, since draincasket is empty -->
+  <VRE_CommandDraincasketEjectFailEmpty>No se puede expulsar al ocupante, ya que el ataúd de drenaje está vacío</VRE_CommandDraincasketEjectFailEmpty>
+	<!-- EN: Draincasket hemogen production (per day) -->
+  <VRE_DraincasketAmount>Producción de hemógeno del ataúd de drenaje (por día)</VRE_DraincasketAmount>
+	<!-- EN: Sets the amount of hemogen packs the draincaskets will produce per day. By default, it is 2 hemogen packs per day. -->
+  <VRE_DraincasketAmountTooltip>Establece la cantidad de packs de hemógeno que producirán los ataúdes de drenaje por día. Por defecto, son 2 packs de hemógeno por día.</VRE_DraincasketAmountTooltip>
+	<!-- EN: Reset -->
+  <VRE_Reset>Reiniciar</VRE_Reset>
+	<!-- EN: Cannot be used on Revenant or Nociospheres -->
+  <VRE_NoAnomalies>No se puede usar en Revenants o Nocioesferas</VRE_NoAnomalies>
+	<!-- EN: Daily hemogen production: {0} packs -->
+  <VRE_DraincasketAmountFromMetabolism>Producción diaria de hemógeno: {0} packs</VRE_DraincasketAmountFromMetabolism>
+	<!-- EN: Occupant dying from starvation in {0} -->
+  <VRE_DraincasketOccupantDying>Ocupante muriendo de hambre en {0}</VRE_DraincasketOccupantDying>
+	<!-- EN: Occupant dying from vacuum exposure -->
+  <VRE_DraincasketInVacuum_OccupantDying>Ocupante muriendo por exposición al vacío</VRE_DraincasketInVacuum_OccupantDying>
+</LanguageData>

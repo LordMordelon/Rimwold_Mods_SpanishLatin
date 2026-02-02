@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+    <!-- Bins -->
+    <!-- EN: Amount of filth stored: {0}\nContainer filled: {1} -->
+  <VFE.FilthStored>Cantidad de suciedad almacenada: {0}\nContenedor lleno: {1}</VFE.FilthStored>
+    <!-- EN: Container filled ({1}): {0} -->
+  <VFE.FilthStoredBeauty>Contenedor lleno ({1}): {0}</VFE.FilthStoredBeauty>
+    <!-- EN: Container cleanup threshold: {0} -->
+  <VFE.SetTargetCleanup>Umbral de limpieza del contenedor: {0}</VFE.SetTargetCleanup>
+
+    <!-- Place worker -->
+    <!-- EN: Cannot be place inside a wall. -->
+  <VFE.CannotPlaceOnWall>No se puede colocar dentro de una pared.</VFE.CannotPlaceOnWall>
+
+    <!-- Alerts -->
+    <!-- EN: Computer needs a chair -->
+  <VFE.ComputerNeedChairs>La computadora necesita una silla</VFE.ComputerNeedChairs>
+    <!-- EN: One of your computers does not have any adjacent chair.\n\nBuild adjacent chair or stool to allow your colonists to use the computer. -->
+  <VFE.ComputerNeedChairsDesc>Una de tus computadoras no tiene ninguna silla adyacente.\n\nConstruye una silla o taburete adyacente para permitir que tus colonos usen la computadora.</VFE.ComputerNeedChairsDesc>
+
+    <!-- EN: Roulette needs space -->
+  <VFE.RouletteTableOnWall>La ruleta necesita espacio</VFE.RouletteTableOnWall>
+    <!-- EN: One of your roulette tables is adjacent to an obstruction that will prevent colonists from using it.\n\nA roulette table needs clear space around it on all sides to be usable. -->
+  <VFE.RouletteTableOnWallDesc>Una de tus mesas de ruleta está adyacente a una obstrucción que evitará que los colonos la usen.\n\nUna mesa de ruleta necesita espacio libre a su alrededor en todos los lados para ser utilizable.</VFE.RouletteTableOnWallDesc>
+
+    <!-- Sunbathing tooltip -->
+    <!-- EN: Sunbathing possible for {PAWNLIST} -->
+  <VFE.SunbathingPossibleForPawn>Tomar el sol posible para {PAWNLIST}</VFE.SunbathingPossibleForPawn>
+    <!-- EN: Sunbathing possible, assuming temperature is comfortable and colonists enjoy outdoor activities -->
+  <VFE.SunbathingPossibleGeneric>Es posible tomar el sol, asumiendo que la temperatura es cómoda y los colonos disfrutan de actividades al aire libre</VFE.SunbathingPossibleGeneric>
+    <!-- EN: Sunbathing not possible: -->
+  <VFE.SunbathingNotPossible>No es posible tomar el sol:</VFE.SunbathingNotPossible>
+    <!-- EN: under a roof -->
+  <VFE.SunbathingNotPossible.UnderRoof>bajo un techo</VFE.SunbathingNotPossible.UnderRoof>
+    <!-- EN: bad weather -->
+  <VFE.SunbathingNotPossible.BadWeather>mal tiempo</VFE.SunbathingNotPossible.BadWeather>
+    <!-- EN: not sunny enough -->
+  <VFE.SunbathingNotPossible.NotSunny>no hay suficiente sol</VFE.SunbathingNotPossible.NotSunny>
+    <!-- EN: {PAWN_labelShort} doesn't enjoy outdoors -->
+  <VFE.SunbathingNotPossible.PawnOutdoors>{PAWN_labelShort} no disfruta del aire libre</VFE.SunbathingNotPossible.PawnOutdoors>
+    <!-- EN: not comfortable temperature for {PAWN_labelShort} -->
+  <VFE.SunbathingNotPossible.PawnComfortableTemperature>temperatura no cómoda para {PAWN_labelShort}</VFE.SunbathingNotPossible.PawnComfortableTemperature>
+
+</LanguageData>

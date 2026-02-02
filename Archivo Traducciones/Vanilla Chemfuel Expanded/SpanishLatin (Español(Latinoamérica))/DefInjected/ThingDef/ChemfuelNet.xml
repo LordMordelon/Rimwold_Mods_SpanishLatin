@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: chemfuel tank -->
+  <PS_ChemfuelTank.label>tanque de quimbustible</PS_ChemfuelTank.label>
+  <!-- EN: An industrial liquid storage tank meant for storing chemfuel delivered via chemfuel pipe network. Tanks can be designated to be siphoned for usable chemfuel as needed.  If damaged even lightly the escaping fumes will very swiftly create a gaseous fireball, the size of the resulting explosion will depend on the amount stored within. -->
+  <PS_ChemfuelTank.description>Un tanque de almacenamiento de líquido industrial destinado a almacenar quimbustible entregado a través de una red de tuberías. Los tanques pueden designarse para ser sifonados para obtener quimbustible utilizable según sea necesario. Si se daña, incluso levemente, los vapores que escapan crearán muy rápidamente una bola de fuego gaseosa; el tamaño de la explosión resultante dependerá de la cantidad almacenada en su interior.</PS_ChemfuelTank.description>
+  
+  <!-- EN: chemfuel drain -->
+  <VCHE_ChemfuelDrain.label>drenaje de quimbustible</VCHE_ChemfuelDrain.label>
+  <!-- EN: A hopper-like storage basin meant to input chemfuel into the network, filling up connected tanks. -->
+  <VCHE_ChemfuelDrain.description>Una cuenca de almacenamiento tipo tolva destinada a introducir quimbustible en la red, llenando los tanques conectados.</VCHE_ChemfuelDrain.description>
+  
+  <!-- EN: chemfuel pipe -->
+  <VCHE_ChemfuelPipe.label>tubería de quimbustible</VCHE_ChemfuelPipe.label>
+  <!-- EN: Steel pipes designed to transport usable chemfuel from deepchem refineries to chemfuel tanks for storage or to chemfuel-consuming structures for automatic refilling. -->
+  <VCHE_ChemfuelPipe.description>Tuberías de acero diseñadas para transportar quimbustible utilizable desde las refinerías de quimiofango a los tanques de quimbustible para su almacenamiento o a estructuras que consumen quimbustible para su reabastecimiento automático.</VCHE_ChemfuelPipe.description>
+  
+  <!-- EN: chemfuel tap -->
+  <VCHE_ChemfuelTap.label>grifo de quimbustible</VCHE_ChemfuelTap.label>
+  <!-- EN: A hopper-like storage basin meant to hold dispensed chemfuel from tanks periodically for use later. -->
+  <VCHE_ChemfuelTap.description>Una cuenca de almacenamiento tipo tolva destinada a contener periódicamente el quimbustible dispensado de los tanques para su uso posterior.</VCHE_ChemfuelTap.description>
+  
+  <!-- EN: chemfuel valve -->
+  <VCHE_ChemfuelValve.label>válvula de quimbustible</VCHE_ChemfuelValve.label>
+  <!-- EN: Switches chemfuel flow on/off. -->
+  <VCHE_ChemfuelValve.description>Abre o cierra el flujo de quimbustible.</VCHE_ChemfuelValve.description>
+  
+  <!-- EN: hidden chemfuel pipe -->
+  <VCHE_UndergroundChemfuelPipe.label>tubería de quimbustible oculta</VCHE_UndergroundChemfuelPipe.label>
+  <!-- EN: Hidden steel pipes designed to transport usable chemfuel from deepchem refineries to chemfuel tanks for storage or to chemfuel-consuming structures for automatic refilling. -->
+  <VCHE_UndergroundChemfuelPipe.description>Tuberías de acero ocultas diseñadas para transportar quimbustible utilizable desde las refinerías de quimiofango a los tanques de quimbustible para su almacenamiento o a estructuras que consumen quimbustible para su reabastecimiento automático.</VCHE_UndergroundChemfuelPipe.description>
+  
+</LanguageData>

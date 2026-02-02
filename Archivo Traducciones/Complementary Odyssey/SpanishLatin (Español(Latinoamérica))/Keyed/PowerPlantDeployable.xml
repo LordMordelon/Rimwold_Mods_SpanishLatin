@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<!-- EN: Deploy -->
+  <ComplementaryOdyssey.Deployable.Gizmo.isDeploying.Label>Desplegar</ComplementaryOdyssey.Deployable.Gizmo.isDeploying.Label>
+	<!-- EN: Will extend and deploy {0}. -->
+  <ComplementaryOdyssey.Deployable.Gizmo.isDeploying.Desc>Extenderá y desplegará {0}.</ComplementaryOdyssey.Deployable.Gizmo.isDeploying.Desc>
+	<!-- EN: Deploying {0} -->
+  <ComplementaryOdyssey.Deployable.Gizmo.isDeploying.Reason.Active>Desplegando {0}</ComplementaryOdyssey.Deployable.Gizmo.isDeploying.Reason.Active>
+
+	<!-- EN: Pack -->
+  <ComplementaryOdyssey.Deployable.Gizmo.isPacking.Label>Empacar</ComplementaryOdyssey.Deployable.Gizmo.isPacking.Label>
+	<!-- EN: Will pack {0} and retract. -->
+  <ComplementaryOdyssey.Deployable.Gizmo.isPacking.Desc>Empacará {0} y se retraerá.</ComplementaryOdyssey.Deployable.Gizmo.isPacking.Desc>
+	<!-- EN: Packing {0} -->
+  <ComplementaryOdyssey.Deployable.Gizmo.isPacking.Reason.Active>Empacando {0}</ComplementaryOdyssey.Deployable.Gizmo.isPacking.Reason.Active>
+
+	<!-- EN: Auto deploy -->
+  <ComplementaryOdyssey.Deployable.Gizmo.isAutoDeploying.Label>Despliegue automático</ComplementaryOdyssey.Deployable.Gizmo.isAutoDeploying.Label>
+	<!-- EN: Will auto deploy {0} on gravship landing. -->
+  <ComplementaryOdyssey.Deployable.Gizmo.isAutoDeploying.Desc>Desplegará automáticamente {0} al aterrizar la nave gravitacional.</ComplementaryOdyssey.Deployable.Gizmo.isAutoDeploying.Desc>
+	
+	<!-- EN: Deployed {0}[{1}]/{2} -->
+  <ComplementaryOdyssey.Deployable.InspectString.Deployed>Desplegados {0}[{1}]/{2}</ComplementaryOdyssey.Deployable.InspectString.Deployed>
+
+</LanguageData>

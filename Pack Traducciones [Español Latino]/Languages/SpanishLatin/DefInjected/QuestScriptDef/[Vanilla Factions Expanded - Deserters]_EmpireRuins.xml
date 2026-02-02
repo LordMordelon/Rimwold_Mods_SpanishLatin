@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <VFED_EmpireRuins.questDescriptionRules.rulesStrings>
+    <li>questDescription-&gt;El gran colapso de [empire_name] fue un evento histórico, uno que cambió el curso de este planeta. La otrora majestuosa nave insignia imperial, un testimonio de la destreza tecnológica del Imperio, ahora yace destrozada en un lugar apartado.\n\nLos escombros de esta enorme nave están dispersos a lo largo de millas de terreno traicionero. Aunque destrozada e inactiva, se cree que enterrada dentro de su abrazo metálico fundido se encuentra lo último de la tecnología imperial: tecnoplanos, dispositivos únicos y posiblemente incluso maquinaria aún no vista por el mundo. El potencial de avance, y tal vez de dominio, es alto para quien pueda aprovechar estas maravillas olvidadas.\n\nAdemás, puedes esperar que este lugar sea el lugar de descanso final de la nobleza imperial. El emperador, la figura más venerada del Imperio, puede haber encontrado su fin a bordo de esa misma nave. Si es cierto, sus restos, y los de su corte noble, pueden ser un tesoro propio, revelando secretos o portando posesiones de valor incalculable.\n\nEl tiempo es esencial. El accidente no ha pasado desapercibido. Otras facciones, hambrientas de poder y conocimiento, están poniendo sus miras en los restos. Si no nos damos prisa, corremos el riesgo de perder esta oportunidad ante los vientos del tiempo y las ambiciones de los rivales.</li>
+  </VFED_EmpireRuins.questDescriptionRules.rulesStrings>
+  <VFED_EmpireRuins.questNameRules.rulesStrings>
+    <li>questName-&gt;Ruinas del Imperio</li>
+  </VFED_EmpireRuins.questNameRules.rulesStrings>
+  <VFED_EmpireRuins.root.nodes.WorldObjectTimeout.node.nodes.Letter.label.slateRef>Misión expirada: [resolvedQuestName]</VFED_EmpireRuins.root.nodes.WorldObjectTimeout.node.nodes.Letter.label.slateRef>
+  <VFED_EmpireRuins.root.nodes.WorldObjectTimeout.node.nodes.Letter.text.slateRef>El [site_label] ha sido despojado por carroñeros. La misión [resolvedQuestName] ha expirado.</VFED_EmpireRuins.root.nodes.WorldObjectTimeout.node.nodes.Letter.text.slateRef>
+</LanguageData>

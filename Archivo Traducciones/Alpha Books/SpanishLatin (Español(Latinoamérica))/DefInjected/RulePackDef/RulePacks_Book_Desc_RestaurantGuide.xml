@@ -1,0 +1,145 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>desc->[intro] [contentOverview]. [qualityStatement] [maybe_date][ending]</li>
+    <li>desc->[intro] [contentOverview] [quirkStatement]. [qualityStatement] [maybe_date][ending]</li>
+    <li>desc->[intro] [contextStatement] [contentOverview]. [qualityStatement] [maybe_date][ending]</li>
+    <li>desc->[intro] [contentOverview]. [quirkStatement]. [qualityStatement] [maybe_date][ending]</li>
+    <li>intro->Este [bookType] [writingQualityAdjective] abarca las estrellas, catalogando</li>
+    <li>intro->Una guía [writingQualityAdjective] de excelencia culinaria fronteriza, presentando</li>
+    <li>intro->Una antología [writingQualityAdjective] de experiencias gastronómicas estelares, centrada en</li>
+    <li>intro->Un [bookType] [writingQualityAdjective] que traza el vasto cosmos de</li>
+    <li>intro->Una exploración [writingQualityAdjective] de maravillas gastronómicas, destacando</li>
+    <li>contentOverview->los mejores restaurantes en mundos habitables</li>
+    <li>contentOverview->joyas culinarias ocultas en sistemas estelares remotos</li>
+    <li>contentOverview->puestos de avanzada que sirven comidas inesperadamente exquisitas</li>
+    <li>contentOverview->centros galácticos famosos por sus cocinas de fusión</li>
+    <li>contentOverview->ingredientes raros y métodos de preparación innovadores</li>
+    <li>contentOverview->los gustos cambiantes de colonos y pobladores</li>
+    <li>contentOverview->establecimientos de comida que sobrevivieron, y prosperaron, a través de cataclismos cósmicos</li>
+    <li>quirkStatement->Incluye reseñas de platos que desafían la gravedad y la lógica</li>
+    <li>quirkStatement->Destaca las extrañas pero deliciosas delicias de los chefs del Borde</li>
+    <li>quirkStatement->Advierte a los lectores sobre la toxicidad potencial de algunos platos exóticos</li>
+    <li>quirkStatement->Presenta una clasificación controvertida de ingredientes cultivados hidropónicamente</li>
+    <li>quirkStatement->Incluye una sección sobre etiqueta en la mesa con anfitriones mecanoides</li>
+    <li>quirkStatement->Notable por sus reseñas inusualmente duras de cantinas de minería de asteroides</li>
+    <li>contextStatement->décadas de exploración culinaria, esta es una guía de</li>
+    <li>contextStatement->las experiencias de innumerables pioneros gastronómicos, detalla</li>
+    <li>contextStatement->encuestas meticulosas y pruebas de sabor en todo el Borde, detalla</li>
+    <li>contextStatement->siglos de tendencias gastronómicas fronterizas, esta edición explora</li>
+    <li>contextStatement->artefactos de antropología culinaria, este libro narra</li>
+    <li>qualityStatement(quality==6)->Es [excellentDesc], ganándose el reconocimiento generalizado entre los conocedores.</li>
+    <li>qualityStatement(quality==5)->Es [decentDesc], mostrando el pináculo de la crítica culinaria.</li>
+    <li>qualityStatement(quality==4)->Es [decentDesc], ofreciendo ideas sólidas para los amantes de la comida exótica.</li>
+    <li>qualityStatement(quality==3)->Es [functionalDesc], con recomendaciones confiables pero poco inspiradas.</li>
+    <li>qualityStatement(quality==2)->Es [mediocreDesc], defectuoso pero con algunos consejos útiles.</li>
+    <li>qualityStatement(quality==1)->Es [poorDesc], plagado de errores pero aún vagamente legible.</li>
+    <li>qualityStatement(quality==0)->Es [terribleDesc], más confuso que útil.</li>
+    <li>writingQualityAdjective(quality==6)->escrito magistralmente</li>
+    <li>writingQualityAdjective(quality==5)->exquisitamente elaborado</li>
+    <li>writingQualityAdjective(quality==4)->reflexivo y atractivo</li>
+    <li>writingQualityAdjective(quality==3)->útil</li>
+    <li>writingQualityAdjective(quality==2)->sin pulir</li>
+    <li>writingQualityAdjective(quality==1)->ensamblado al azar</li>
+    <li>writingQualityAdjective(quality==0)->compuesto caóticamente</li>
+    <li>excellentDesc->una obra maestra del periodismo culinario</li>
+    <li>excellentDesc->un recurso esencial para los entusiastas de la comida</li>
+    <li>excellentDesc->un ejemplo brillante de literatura gastronómica</li>
+    <li>excellentDesc->una hazaña de recomendaciones gastronómicas</li>
+    <li>decentDesc->un esfuerzo encomiable en la crítica culinaria</li>
+    <li>decentDesc->una guía informativa, aunque desigual</li>
+    <li>decentDesc->un compañero valioso para los viajeros cósmicos</li>
+    <li>decentDesc->una adición digna a la biblioteca de cualquier gastrónomo</li>
+    <li>functionalDesc->una referencia útil para viajeros espaciales hambrientos</li>
+    <li>functionalDesc->una guía básica pero práctica</li>
+    <li>functionalDesc->un manual aceptable para la exploración gastronómica</li>
+    <li>mediocreDesc->un intento decepcionante de comentario culinario</li>
+    <li>mediocreDesc->una compilación mediocre de ideas promedio</li>
+    <li>mediocreDesc->una reseña decepcionante de las ofertas del cosmos</li>
+    <li>poorDesc->un esfuerzo confuso y mal ejecutado</li>
+    <li>poorDesc->una colección de reseñas frustrantemente incompleta</li>
+    <li>poorDesc->una incursión olvidable en la crítica culinaria</li>
+    <li>terribleDesc->un desastre incomprensible de guía</li>
+    <li>terribleDesc->un documento sin sentido y profundamente defectuoso</li>
+    <li>terribleDesc->una colección desconcertantemente inútil de tonterías</li>
+    <li>maybe_date-></li>
+    <li>maybe_date->Publicado por primera vez [date_form].</li>
+    <li>maybe_date->Sus orígenes se remontan a [date_form].</li>
+    <li>maybe_date->El texto surgió durante [date_season].</li>
+    <li>date_form->en el año 5500</li>
+    <li>date_form->hace unos años</li>
+    <li>ending->\n\nUna vez leído, este libro proporcionará la capacidad de aumentar la categoría de las comidas (simple a buena, etc.), y luego será destruido.</li>
+  -->
+  <ABooks_RestaurantGuide_Description.rulePack.rulesStrings>
+    <li>desc->[intro] [contentOverview]. [qualityStatement] [maybe_date][ending]</li>
+    <li>desc->[intro] [contentOverview] [quirkStatement]. [qualityStatement] [maybe_date][ending]</li>
+    <li>desc->[intro] [contextStatement] [contentOverview]. [qualityStatement] [maybe_date][ending]</li>
+    <li>desc->[intro] [contentOverview]. [quirkStatement]. [qualityStatement] [maybe_date][ending]</li>
+    <li>intro->Este [bookType] [writingQualityAdjective] abarca las estrellas, catalogando</li>
+    <li>intro->Una guía [writingQualityAdjective] de excelencia culinaria fronteriza, presentando</li>
+    <li>intro->Una antología [writingQualityAdjective] de experiencias gastronómicas estelares, centrada en</li>
+    <li>intro->Un [bookType] [writingQualityAdjective] que traza el vasto cosmos de</li>
+    <li>intro->Una exploración [writingQualityAdjective] de maravillas gastronómicas, destacando</li>
+    <li>contentOverview->los mejores restaurantes en mundos habitables</li>
+    <li>contentOverview->joyas culinarias ocultas en sistemas estelares remotos</li>
+    <li>contentOverview->puestos de avanzada que sirven comidas inesperadamente exquisitas</li>
+    <li>contentOverview->centros galácticos famosos por sus cocinas de fusión</li>
+    <li>contentOverview->ingredientes raros y métodos de preparación innovadores</li>
+    <li>contentOverview->los gustos cambiantes de colonos y pobladores</li>
+    <li>contentOverview->establecimientos de comida que sobrevivieron, y prosperaron, a través de cataclismos cósmicos</li>
+    <li>quirkStatement->Incluye reseñas de platos que desafían la gravedad y la lógica</li>
+    <li>quirkStatement->Destaca las extrañas pero deliciosas delicias de los chefs del Borde</li>
+    <li>quirkStatement->Advierte a los lectores sobre la toxicidad potencial de algunos platos exóticos</li>
+    <li>quirkStatement->Presenta una clasificación controvertida de ingredientes cultivados hidropónicamente</li>
+    <li>quirkStatement->Incluye una sección sobre etiqueta en la mesa con anfitriones mecanoides</li>
+    <li>quirkStatement->Notable por sus reseñas inusualmente duras de cantinas de minería de asteroides</li>
+    <li>contextStatement->décadas de exploración culinaria, esta es una guía de</li>
+    <li>contextStatement->las experiencias de innumerables pioneros gastronómicos, detalla</li>
+    <li>contextStatement->encuestas meticulosas y pruebas de sabor en todo el Borde, detalla</li>
+    <li>contextStatement->siglos de tendencias gastronómicas fronterizas, esta edición explora</li>
+    <li>contextStatement->artefactos de antropología culinaria, este libro narra</li>
+    <li>qualityStatement(quality==6)->Es [excellentDesc], ganándose el reconocimiento generalizado entre los conocedores.</li>
+    <li>qualityStatement(quality==5)->Es [decentDesc], mostrando el pináculo de la crítica culinaria.</li>
+    <li>qualityStatement(quality==4)->Es [decentDesc], ofreciendo ideas sólidas para los amantes de la comida exótica.</li>
+    <li>qualityStatement(quality==3)->Es [functionalDesc], con recomendaciones confiables pero poco inspiradas.</li>
+    <li>qualityStatement(quality==2)->Es [mediocreDesc], defectuoso pero con algunos consejos útiles.</li>
+    <li>qualityStatement(quality==1)->Es [poorDesc], plagado de errores pero aún vagamente legible.</li>
+    <li>qualityStatement(quality==0)->Es [terribleDesc], más confuso que útil.</li>
+    <li>writingQualityAdjective(quality==6)->escrito magistralmente</li>
+    <li>writingQualityAdjective(quality==5)->exquisitamente elaborado</li>
+    <li>writingQualityAdjective(quality==4)->reflexivo y atractivo</li>
+    <li>writingQualityAdjective(quality==3)->útil</li>
+    <li>writingQualityAdjective(quality==2)->sin pulir</li>
+    <li>writingQualityAdjective(quality==1)->ensamblado al azar</li>
+    <li>writingQualityAdjective(quality==0)->compuesto caóticamente</li>
+    <li>excellentDesc->una obra maestra del periodismo culinario</li>
+    <li>excellentDesc->un recurso esencial para los entusiastas de la comida</li>
+    <li>excellentDesc->un ejemplo brillante de literatura gastronómica</li>
+    <li>excellentDesc->una hazaña de recomendaciones gastronómicas</li>
+    <li>decentDesc->un esfuerzo encomiable en la crítica culinaria</li>
+    <li>decentDesc->una guía informativa, aunque desigual</li>
+    <li>decentDesc->un compañero valioso para los viajeros cósmicos</li>
+    <li>decentDesc->una adición digna a la biblioteca de cualquier gastrónomo</li>
+    <li>functionalDesc->una referencia útil para viajeros espaciales hambrientos</li>
+    <li>functionalDesc->una guía básica pero práctica</li>
+    <li>functionalDesc->un manual aceptable para la exploración gastronómica</li>
+    <li>mediocreDesc->un intento decepcionante de comentario culinario</li>
+    <li>mediocreDesc->una compilación mediocre de ideas promedio</li>
+    <li>mediocreDesc->una reseña decepcionante de las ofertas del cosmos</li>
+    <li>poorDesc->un esfuerzo confuso y mal ejecutado</li>
+    <li>poorDesc->una colección de reseñas frustrantemente incompleta</li>
+    <li>poorDesc->una incursión olvidable en la crítica culinaria</li>
+    <li>terribleDesc->un desastre incomprensible de guía</li>
+    <li>terribleDesc->un documento sin sentido y profundamente defectuoso</li>
+    <li>terribleDesc->una colección desconcertantemente inútil de tonterías</li>
+    <li>maybe_date-></li>
+    <li>maybe_date->Publicado por primera vez [date_form].</li>
+    <li>maybe_date->Sus orígenes se remontan a [date_form].</li>
+    <li>maybe_date->El texto surgió durante [date_season].</li>
+    <li>date_form->en el año 5500</li>
+    <li>date_form->hace unos años</li>
+    <li>ending->\n\nUna vez leído, este libro proporcionará la capacidad de aumentar la categoría de las comidas (simple a buena, etc.), y luego será destruido.</li>
+  </ABooks_RestaurantGuide_Description.rulePack.rulesStrings>
+  
+</LanguageData>

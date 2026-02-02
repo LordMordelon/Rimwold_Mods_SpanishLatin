@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: deactivate Mech -->
+  <AncientCorps.DeactivatedMech_Disable>desactivar meca</AncientCorps.DeactivatedMech_Disable>
+  <!-- EN: work type disabled -->
+  <AncientCorps.Reason_WorkTypeDisabled>tipo de trabajo deshabilitado</AncientCorps.Reason_WorkTypeDisabled>
+  <!-- EN: not a mechanitor -->
+  <AncientCorps.Reason_NotMechanitor>no es un mecanizador</AncientCorps.Reason_NotMechanitor>
+  <!-- EN: need bandwidth:{0} -->
+  <AncientCorps.Reason_NoEnoughBandwidth>ancho de banda necesario:{0}</AncientCorps.Reason_NoEnoughBandwidth>
+  <!-- EN: Try hacking {0} -->
+  <AncientCorps.DeactivatedMech_TryHack>Intentar hackear {0}</AncientCorps.DeactivatedMech_TryHack>
+  <!-- EN: Cannot hacking -->
+  <AncientCorps.DeactivatedMech_CannotHack>No se puede hackear</AncientCorps.DeactivatedMech_CannotHack>
+
+  <!-- EN: takeover -->
+  <DMSAC_World_Takeover>toma de control</DMSAC_World_Takeover>
+  <!-- EN: According to the latest news, a force belonging to {0} took over {2}, which originally belonged to {1}, and now the base has been renamed {3} -->
+  <DMSAC_World_Takeover_Desc>Según las últimas noticias, una fuerza perteneciente a {0} tomó el control de {2}, que originalmente pertenecía a {1}, y ahora la base ha sido renombrada como {3}</DMSAC_World_Takeover_Desc>
+  <!-- EN: raised Defcon -->
+  <DMSAC_Level_Rise>Defcon elevado</DMSAC_Level_Rise>
+  <!-- EN: Due to recent events, the {0} command has raised the defend condition level of its units. Their Defcon level is now -->
+  <DMSAC_Level_Rise_Desc>Debido a eventos recientes, el comando de {0} ha elevado el nivel de condición de defensa de sus unidades. Su nivel Defcon ahora es</DMSAC_Level_Rise_Desc>
+  <!-- EN: lowered Defcon -->
+  <DMSAC_Level_Down>Defcon reducido</DMSAC_Level_Down>
+  <!-- EN: Based on recent changes in observed activity, {0} Command has lowered its internal alert level. Their Defcon level is now -->
+  <DMSAC_Level_Down_Desc>Basado en cambios recientes en la actividad observada, el Comando {0} ha reducido su nivel de alerta interno. Su nivel Defcon ahora es</DMSAC_Level_Down_Desc>
+  
+  <!-- EN: Level O   {0} retained a minimum number of facility patrols and recalled the medium-sized automatroids in the unit and returned them to their bases for maintenance. -->
+  <DMSAC_Level.0>Nivel O   {0} mantuvo un número mínimo de patrullas en las instalaciones y retiró los automatroides medianos de la unidad, devolviéndolos a sus bases para mantenimiento.</DMSAC_Level.0>
+  <!-- EN: Level I   {0} deployed all-weather patrols between its ground facilities to shorten the reinforcement intervals for attacked facilities, and deployed medium-sized automatroids in the patrol teams. -->
+  <DMSAC_Level.1>Nivel I   {0} desplegó patrullas todo terreno entre sus instalaciones terrestres para reducir los intervalos de refuerzo para las instalaciones atacadas, y desplegó automatroides medianos en los equipos de patrulla.</DMSAC_Level.1>
+  <!-- EN: Level II  Based on the current situation, {0} will restart some of its large automatroids and mobilize them at any time, and organize a small number of armored platoons as a task force to reinforce ground facilities. -->
+  <DMSAC_Level.2>Nivel II  Basado en la situación actual, {0} reactivará algunos de sus automatroides grandes y los movilizará en cualquier momento, y organizará un pequeño número de pelotones blindados como fuerza de tarea para reforzar las instalaciones terrestres.</DMSAC_Level.2>
+  <!-- EN: Level III Due to the recent tense situation, ultra-heavy automatroids have been put on combat readiness and deployed in various areas to provide reinforcement at any time. {0} will carry out armed expulsion of neighboring illegal military sites in accordance with the Colonial Fleet Convention's alert status regulations. -->
+  <DMSAC_Level.3>Nivel III Debido a la reciente situación tensa, los automatroides ultra-pesados han sido puestos en estado de combate y desplegados en varias áreas para proporcionar refuerzos en cualquier momento. {0} llevará a cabo la expulsión armada de sitios militares ilegales vecinos de acuerdo con las regulaciones de estado de alerta de la convención de la flota colonial.</DMSAC_Level.3>
+  <!-- EN: Level IV  {0} confirmed that the First Hague Convention was no longer applicable to the current situation and issued a formal declaration of war in accordance with the Third Hague Convention. \n\nIn addition, according to Article 2 of the Second Hague Convention, civilians in non-occupied areas who take up arms against {0} forces will be considered combatants as defined by the laws of war. -->
+  <DMSAC_Level.4>Nivel IV  {0} confirmó que la Primera Convención de La Haya ya no era aplicable a la situación actual y emitió una declaración formal de guerra de acuerdo con la Tercera Convención de La Haya. \n\nAdemás, según el artículo 2 de la segunda convención de la Haya, los civiles en áreas no ocupadas que tomen las armas contra las fuerzas de {0} serán considerados combatientes según lo definido por las leyes de guerra.</DMSAC_Level.4>
+  <!-- EN: Level V   In accordance with the Colonial Fleet Convention's alert regulations, {0} has determined that conditions have been met to warrant an offensive and the mobilization of a heavy armored brigade to conduct the operation. \n\n{0} will occupy and take over identified hostile-controlled areas in compliance with international humanitarian law and the Rome Statute, and strike back at hostile forces that attack facilities in a proportional manner. -->
+  <DMSAC_Level.5>Nivel V   De acuerdo con las regulaciones de alerta de la convención de la flota colonial, {0} ha determinado que se han cumplido las condiciones para justificar una ofensiva y la movilización de una brigada blindada pesada para llevar a cabo la operación.\n\n{0} ocupará y tomará el control de áreas identificadas bajo control hostil en cumplimiento del derecho internacional humanitario y el Estatuto de Roma, y contraatacará de manera proporcional a las fuerzas hostiles que ataquen las instalaciones.</DMSAC_Level.5>
+
+  <!-- EN: Hacking failed -->
+  <DMSAC_HackFailed>Hackeo fallido</DMSAC_HackFailed>
+  <!-- EN: Due to {0}'s mistakes, mech was not getting controlled as expected. -->
+  <DMSAC_HackFailedDesc>Debido a los errores de {0}, el meca no pudo ser controlado como se esperaba.</DMSAC_HackFailedDesc>
+
+  <!-- EN: Communication -->
+  <DMSAC_CorpNeutral>Comunicación</DMSAC_CorpNeutral>
+  <!-- EN: "Code 5, registered personal identified."\n"This is {0}, IFF codes synchronized, cease fire."\n\nThis ancient automatroid command system recognized {1}'s identity. Out of respect for {1}, it has temporarily halted hostilities to your colonists. -->
+  <DMSAC_CorpNeutralDesc>"Código 5, personal registrado identificado."\n"Aquí {0}, códigos IFF sincronizados, alto el fuego."\n\nEste antiguo sistema de comando de automatroides reconoció la identidad de {1}. Por respeto a {1}, ha detenido temporalmente las hostilidades hacia tus colonos.</DMSAC_CorpNeutralDesc>
+
+  <!-- EN: Communication -->
+  <DMSAC_CorpAlly>Comunicación</DMSAC_CorpAlly>
+  <!-- EN: "Code 5, registered personal identified."\n"This is {0}, if you require any resources, please formally submit a military surplus requisition form to the {0} logistics office."\n\nOut of trust in {1}, the ancient automatroid command system turned a blind eye to the colonists' actions but issued a warning as per protocol. -->
+  <DMSAC_CorpAllyDesc>"Código 5, personal registrado identificado."\n"Aquí {0}, si requiere recursos, por favor envíe formalmente un formulario de requisición de excedentes militares a la oficina de logística de {0}."\n\nPor confianza en {1}, el antiguo sistema de comando de automatroides hizo la vista gorda ante las acciones de los colonos pero emitió una advertencia según el protocolo.</DMSAC_CorpAllyDesc>
+
+  <!-- EN: Communication -->
+  <DMSAC_CorpAllyDown>Comunicación</DMSAC_CorpAllyDown>
+  <!-- EN: "Code 5, registered personal identified."\n"This is {0}, paying tribute to the Slayer of Zalta and thanking you for your contributions to the colonization project."\n\nThis ancient automatroid command system recognized {1}'s identity. Out of respect for {1}, it has authorized the colonists to operate freely in this area. -->
+  <DMSAC_CorpAllyDownDesc>"Código 5, personal registrado identificado."\n"Aquí {0}, rindiendo tributo al Asesino de Zalta y agradeciéndole por sus contribuciones al proyecto de colonización."\n\nEste antiguo sistema de comando de automatroides reconoció la identidad de {1}. Por respeto a {1}, ha autorizado a los colonos a operar libremente en esta área.</DMSAC_CorpAllyDownDesc>
+
+  <!-- EN: Reinforcement -->
+  <DMSAC_CorpHostile>Refuerzos</DMSAC_CorpHostile>
+  <!-- EN: An automatroid patrol has discovered colonists intruding into a military facility. After a brief preparation period, they will attempt to expel your colonists.\n\nBased on intercepted communication frequency fluctuations, nearby automatroid patrols in this area may be on their way to reinforcement. -->
+  <DMSAC_CorpHostileDesc>Una patrulla de automatroides ha descubierto colonos intruyendo en una instalación militar. Después de un breve período de preparación, intentarán expulsar a tus colonos.\n\nBasado en fluctuaciones de frecuencia de comunicación interceptadas, patrullas de automatroides cercanas en esta área pueden estar en camino como refuerzo.</DMSAC_CorpHostileDesc>
+ 
+  <!-- EN: Attack: {0} -->
+  <DMSAC_CompanyRaid>Ataque: {0}</DMSAC_CompanyRaid>
+  <!-- EN: A company of automatroids belonging to {0} has surrounded your colony. They are {1}. These automatroids commanded by relay-commanders will launch attacks on colonies and purposefully disarm illegal forces to discourage attacks on their military facilities. -->
+  <DMSAC_CompanyRaid_Desc>Una compañía de automatroides perteneciente a {0} ha rodeado tu colonia. Son {1}. Estos automatroides comandados por relay-commanders lanzarán ataques contra colonias y desarmarán intencionalmente fuerzas ilegales para desalentar ataques a sus instalaciones militares.</DMSAC_CompanyRaid_Desc>
+
+  <!-- EN: {1} -->
+  <DMSAC_Company.Label>{1}</DMSAC_Company.Label>
+  <!-- EN: This is a {1} affiliated with {0}, -->
+  <DMSAC_Company.Desc>Esta es una {1} afiliada a {0},</DMSAC_Company.Desc>
+  <!-- EN: their targets are likely to be {0} within their combat radius -->
+  <DMSAC_Company.Target>sus objetivos probablemente sean {0} dentro de su radio de combate</DMSAC_Company.Target>
+  <!-- EN: their targets are unknown -->
+  <DMSAC_Company.NoTarget>sus objetivos son desconocidos</DMSAC_Company.NoTarget>
+  
+  <!-- EN: War declared -->
+  <DMSAC_World_Declaration>Guerra declarada</DMSAC_World_Declaration>
+  <!-- EN: According to the latest news, {0} broadcast a declaration of war against the local faction {1}, and mentioned that all military operations in areas controlled by {1} will be carried out in compliance with the laws of war. \n\nWe don't yet know what impact this will have. -->
+  <DMSAC_World_Declaration_Desc>Según las últimas noticias, {0} transmitió una declaración de guerra contra la facción local {1}, y mencionó que todas las operaciones militares en áreas controladas por {1} se llevarán a cabo en cumplimiento de las leyes de guerra.\n\nAún no sabemos qué impacto tendrá esto.</DMSAC_World_Declaration_Desc>
+  <!-- EN: War ended -->
+  <DMSAC_World_WarOver>Guerra terminada</DMSAC_World_WarOver>
+  <!-- EN: After taking over the last base, {0} announced that the military operation against {1} had been successfully completed. As a result of the operation, {1}'s influence on the planet was completely eradicated. \n\nAccording to intelligence, this army has returned to its original patrol mode after completing its mission. \nThe war is over...\n\nFor now. -->
+  <DMSAC_World_WarOver_Desc>Después de tomar la última base, {0} anunció que la operación militar contra {1} había sido completada con éxito. Como resultado de la operación, la influencia de {1} en el planeta fue completamente erradicada.\n\nSegún la inteligencia, este ejército ha vuelto a su modo de patrulla original después de completar su misión.\nLa guerra ha terminado...\n\nPor ahora.</DMSAC_World_WarOver_Desc>
+
+</LanguageData>

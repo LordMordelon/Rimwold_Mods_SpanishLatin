@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: ancient vault door -->
+  <VQEA_AncientVaultDoor.label>puerta de bóveda antigua</VQEA_AncientVaultDoor.label>
+  <!-- EN: A heavily fortified, nearly indestructible door. The door requires walls on either side to function. -->
+  <VQEA_AncientVaultDoor.description>Una puerta fuertemente fortificada, casi indestructible. La puerta requiere paredes a ambos lados para funcionar.</VQEA_AncientVaultDoor.description>
+  
+  <!-- EN: ancient large vault door -->
+  <VQEA_AncientVaultDoor_Large.label>puerta de bóveda grande antigua</VQEA_AncientVaultDoor_Large.label>
+  <!-- EN: A large, heavily fortified, nearly indestructible door. The door requires walls on either side to function. -->
+  <VQEA_AncientVaultDoor_Large.description>Una puerta grande, fuertemente fortificada, casi indestructible. La puerta requiere paredes a ambos lados para funcionar.</VQEA_AncientVaultDoor_Large.description>
+  
+  <!-- EN: ancient vault wall -->
+  <VQEA_AncientVaultWall.label>pared de bóveda antigua</VQEA_AncientVaultWall.label>
+  <!-- EN: An impassable, indestructible vault wall. Capable of holding up a roof. -->
+  <VQEA_AncientVaultWall.description>Una pared de bóveda impasable e indestructible. Capaz de sostener un techo.</VQEA_AncientVaultWall.description>
+  
+  <!-- EN: locked ancient vault door -->
+  <VQEA_LockedAncientVaultDoor.label>puerta de bóveda antigua bloqueada</VQEA_LockedAncientVaultDoor.label>
+  <!-- EN: A heavily fortified, indestructible door. It needs to be hacked in order to open it. The door requires walls on either side to function. -->
+  <VQEA_LockedAncientVaultDoor.description>Una puerta fuertemente fortificada e indestructible. Debe ser hackeada para poder abrirla. La puerta requiere paredes a ambos lados para funcionar.</VQEA_LockedAncientVaultDoor.description>
+  <!-- EN: Select a colonist to override the security on this -->
+  <VQEA_LockedAncientVaultDoor.comps.CompJammedAirlock.activateDescString>Selecciona un colono para anular la seguridad de esto</VQEA_LockedAncientVaultDoor.comps.CompJammedAirlock.activateDescString>
+  <!-- EN: Override -->
+  <VQEA_LockedAncientVaultDoor.comps.CompJammedAirlock.activateLabelString>Anular</VQEA_LockedAncientVaultDoor.comps.CompJammedAirlock.activateLabelString>
+  <!-- EN: forcing locked ancient vault door open: {1}s -->
+  <VQEA_LockedAncientVaultDoor.comps.CompJammedAirlock.activatingString>forzando la apertura de la puerta de la bóveda antigua bloqueada: {1}s</VQEA_LockedAncientVaultDoor.comps.CompJammedAirlock.activatingString>
+  <!-- EN: forcing locked ancient vault door open -->
+  <VQEA_LockedAncientVaultDoor.comps.CompJammedAirlock.activatingStringPending>forzando la apertura de la puerta de la bóveda antigua bloqueada</VQEA_LockedAncientVaultDoor.comps.CompJammedAirlock.activatingStringPending>
+  <!-- EN: Choose who should do this -->
+  <VQEA_LockedAncientVaultDoor.comps.CompJammedAirlock.guiLabelString>Elige quién debe hacer esto</VQEA_LockedAncientVaultDoor.comps.CompJammedAirlock.guiLabelString>
+  <!-- EN: Force this locked ancient vault door open -->
+  <VQEA_LockedAncientVaultDoor.comps.CompJammedAirlock.jobString>Forzar la apertura de esta puerta de bóveda antigua bloqueada</VQEA_LockedAncientVaultDoor.comps.CompJammedAirlock.jobString>
+  <!-- EN: {PAWN_nameDef} has successfully forced the locked ancient vault door open. -->
+  <VQEA_LockedAncientVaultDoor.comps.CompJammedAirlock.messageCompletedString>{PAWN_nameDef} ha forzado con éxito la apertura de la puerta de la bóveda antigua bloqueada.</VQEA_LockedAncientVaultDoor.comps.CompJammedAirlock.messageCompletedString>
+  
+  <!-- EN: locked ancient large vault door -->
+  <VQEA_LockedAncientVaultDoor_Large.label>puerta de bóveda grande antigua bloqueada</VQEA_LockedAncientVaultDoor_Large.label>
+  <!-- EN: A heavily fortified, indestructible door. It needs to be hacked in order to open it. The door requires walls on either side to function. -->
+  <VQEA_LockedAncientVaultDoor_Large.description>Una puerta fuertemente fortificada e indestructible. Debe ser hackeada para poder abrirla. La puerta requiere paredes a ambos lados para funcionar.</VQEA_LockedAncientVaultDoor_Large.description>
+  <!-- EN: Select a colonist to override the security on this -->
+  <VQEA_LockedAncientVaultDoor_Large.comps.CompJammedAirlock.activateDescString>Selecciona un colono para anular la seguridad de esto</VQEA_LockedAncientVaultDoor_Large.comps.CompJammedAirlock.activateDescString>
+  <!-- EN: Override -->
+  <VQEA_LockedAncientVaultDoor_Large.comps.CompJammedAirlock.activateLabelString>Anular</VQEA_LockedAncientVaultDoor_Large.comps.CompJammedAirlock.activateLabelString>
+  <!-- EN: forcing locked ancient vault door open: {1}s -->
+  <VQEA_LockedAncientVaultDoor_Large.comps.CompJammedAirlock.activatingString>forzando la apertura de la puerta de la bóveda antigua bloqueada: {1}s</VQEA_LockedAncientVaultDoor_Large.comps.CompJammedAirlock.activatingString>
+  <!-- EN: forcing locked ancient vault door open -->
+  <VQEA_LockedAncientVaultDoor_Large.comps.CompJammedAirlock.activatingStringPending>forzando la apertura de la puerta de la bóveda antigua bloqueada</VQEA_LockedAncientVaultDoor_Large.comps.CompJammedAirlock.activatingStringPending>
+  <!-- EN: Choose who should do this -->
+  <VQEA_LockedAncientVaultDoor_Large.comps.CompJammedAirlock.guiLabelString>Elige quién debe hacer esto</VQEA_LockedAncientVaultDoor_Large.comps.CompJammedAirlock.guiLabelString>
+  <!-- EN: Force this locked ancient vault door open -->
+  <VQEA_LockedAncientVaultDoor_Large.comps.CompJammedAirlock.jobString>Forzar la apertura de esta puerta de bóveda antigua bloqueada</VQEA_LockedAncientVaultDoor_Large.comps.CompJammedAirlock.jobString>
+  <!-- EN: {PAWN_nameDef} has successfully forced the locked ancient vault door open. -->
+  <VQEA_LockedAncientVaultDoor_Large.comps.CompJammedAirlock.messageCompletedString>{PAWN_nameDef} ha forzado con éxito la apertura de la puerta de la bóveda antigua bloqueada.</VQEA_LockedAncientVaultDoor_Large.comps.CompJammedAirlock.messageCompletedString>
+  
+</LanguageData>

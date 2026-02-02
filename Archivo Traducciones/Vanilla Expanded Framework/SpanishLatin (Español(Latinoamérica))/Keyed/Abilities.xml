@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<!-- EN: {0} is on cooldown for {1} -->
+  <VFEA.AbilityDisableReasonCooldown>{0} está en enfriamiento por {1}</VFEA.AbilityDisableReasonCooldown>
+	<!-- EN: {0} doesn't meet the requirements -->
+  <VFEA.AbilityDisableReasonGeneral>{0} no cumple los requisitos</VFEA.AbilityDisableReasonGeneral>
+
+	<!-- EN: Power -->
+  <VFEA.AbilityStatsPower>Poder</VFEA.AbilityStatsPower>
+	<!-- EN: Duration -->
+  <VFEA.AbilityStatsDuration>Duración</VFEA.AbilityStatsDuration>
+	
+	<!-- EN: Target must be hostile -->
+  <VFEA.TargetMustBeHostile>El objetivo debe ser hostil</VFEA.TargetMustBeHostile>
+
+	<!-- EN: Minimum radius -->
+  <VFEA.MinRadius>Radio mínimo</VFEA.MinRadius>
+
+	<!-- EN: Right-click to enable autocasting. -->
+  <VFEA.RClickToAuto>Clic derecho para activar el autolanzamiento.</VFEA.RClickToAuto>
+	<!-- EN: Right-click to disable autocasting. -->
+  <VFEA.RClickToNoAuto>Clic derecho para desactivar el autolanzamiento.</VFEA.RClickToNoAuto>
+	
+	<!-- EN: Disable corpse decaying -->
+  <VEF_DisableCorpseDecaying>Desactivar descomposición de cadáveres</VEF_DisableCorpseDecaying>
+	<!-- EN: Disable the constant corpse decaying ability of this animal. -->
+  <VEF_DisableCorpseDecayingDesc>Desactiva la habilidad de descomposición constante de cadáveres de este animal.</VEF_DisableCorpseDecayingDesc>
+	<!-- EN: Enable corpse decaying -->
+  <VEF_EnableCorpseDecaying>Activar descomposición de cadáveres</VEF_EnableCorpseDecaying>
+	<!-- EN: Enable the constant corpse decaying ability of this animal. -->
+  <VEF_EnableCorpseDecayingDesc>Activa la habilidad de descomposición constante de cadáveres de este animal.</VEF_EnableCorpseDecayingDesc>
+	
+	<!-- EN: Disable digging for food -->
+  <VEF_DisableDigging>Desactivar excavar por comida</VEF_DisableDigging>
+	<!-- EN: Disable the ability to dig the terrain for food of this animal. -->
+  <VEF_DisableDiggingDesc>Desactiva la habilidad de excavar el terreno por comida de este animal.</VEF_DisableDiggingDesc>
+	<!-- EN: Enable digging for food -->
+  <VEF_EnableDigging>Activar excavar por comida</VEF_EnableDigging>
+	<!-- EN: Enable the ability to dig the terrain for food of this animal. -->
+  <VEF_EnableDiggingDesc>Activa la habilidad de excavar el terreno por comida de este animal.</VEF_EnableDiggingDesc>
+	
+	<!-- EN: Disable gas production -->
+  <VEF_DisableGas>Desactivar producción de gas</VEF_DisableGas>
+	<!-- EN: Disable the ability to produce gas of this animal. -->
+  <VEF_DisableGasDesc>Desactiva la habilidad de producir gas de este animal.</VEF_DisableGasDesc>
+	<!-- EN: Enable gas production -->
+  <VEF_EnableGas>Activar producción de gas</VEF_EnableGas>
+	<!-- EN: Enable the ability to produce gas of this animal. -->
+  <VEF_EnableGasDesc>Activa la habilidad de producir gas de este animal.</VEF_EnableGasDesc>
+</LanguageData>

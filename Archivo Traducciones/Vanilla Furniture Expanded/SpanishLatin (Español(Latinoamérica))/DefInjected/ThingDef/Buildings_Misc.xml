@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: large bin -->
+  <Bin_Large.label>contenedor grande</Bin_Large.label>
+  <!-- EN: A spacious waste disposal unit that efficiently keeps the surrounding area clean. Slowly removes trash and filth in a 15-cell radius. -->
+  <Bin_Large.description>Una unidad de eliminación de residuos espaciosa que mantiene limpia el área circundante de manera eficiente. Elimina lentamente la basura y la suciedad en un radio de 15 celdas.</Bin_Large.description>
+  
+  <!-- EN: small bin -->
+  <Bin_Small.label>contenedor pequeño</Bin_Small.label>
+  <!-- EN: A small bin to help keep the surrounding area somewhat clean. Slowly removes trash and filth in a 10-cell radius. -->
+  <Bin_Small.description>Un contenedor pequeño para ayudar a mantener el área circundante algo limpia. Elimina lentamente la basura y la suciedad en un radio de 10 celdas.</Bin_Small.description>
+  
+  <!-- EN: outdoor lamp -->
+  <Light_Streetlamp.label>farola</Light_Streetlamp.label>
+  <!-- EN: An electrical standing lamp that lights an area, good for large outdoor spaces. Will automatically turn off during the day to prevent power consumption. -->
+  <Light_Streetlamp.description>Una lámpara de pie eléctrica que ilumina un área, buena para grandes espacios al aire libre. Se apagará automáticamente durante el día para evitar el consumo de energía.</Light_Streetlamp.description>
+  <!-- EN: Off due to sufficient sunlight. -->
+  <Light_Streetlamp.comps.CompScheduleExtended.offMessage>Apagado debido a suficiente luz solar.</Light_Streetlamp.comps.CompScheduleExtended.offMessage>
+  
+  <!-- EN: filing cabinet -->
+  <Misc_FileCabinet.label>archivador</Misc_FileCabinet.label>
+  <!-- EN: Increases research speed when placed near a research bench. One research bench can use up to two filing cabinets. -->
+  <Misc_FileCabinet.description>Aumenta la velocidad de investigación cuando se coloca cerca de una mesa de investigación. Una mesa de investigación puede usar hasta dos archivadores.</Misc_FileCabinet.description>
+  
+  <!-- EN: weapon rack -->
+  <Shelf_WeaponRack.label>estante de armas</Shelf_WeaponRack.label>
+  <!-- EN: A shelf for storing weapons. Items stored in this will not affect room beauty and they won't deteriorate, even if outside. -->
+  <Shelf_WeaponRack.description>Un estante para guardar armas. Los artículos almacenados aquí no afectarán la belleza de la habitación y no se deteriorarán, incluso si están afuera.</Shelf_WeaponRack.description>
+  
+  <!-- EN: desk lamp -->
+  <VFE_DeskLamp.label>lámpara de escritorio</VFE_DeskLamp.label>
+  <!-- EN: An electrical desk lamp that lights a small area. People need light to move and work at full speed. -->
+  <VFE_DeskLamp.description>Una lámpara de escritorio eléctrica que ilumina un área pequeña. La gente necesita luz para moverse y trabajar a toda velocidad.</VFE_DeskLamp.description>
+  
+  <!-- EN: floor lamp -->
+  <VFE_FloorLamp.label>lámpara de suelo</VFE_FloorLamp.label>
+  <!-- EN: A low-profile light source embedded into the floor. While not as bright as a standing lamp, it provides subtle, even lighting without obstructing movement. Does not short circuit in rain. -->
+  <VFE_FloorLamp.description>Una fuente de luz de perfil bajo incrustada en el suelo. Aunque no es tan brillante como una lámpara de pie, proporciona una iluminación sutil y uniforme sin obstruir el movimiento. No hace cortocircuito bajo la lluvia.</VFE_FloorLamp.description>
+  
+  <!-- EN: long plant pot -->
+  <VFE_LongPlantPot.label>maceta modular</VFE_LongPlantPot.label>
+  <!-- EN: Plant decorative flowers here to improve the mood of people nearby. Designed to be combined with other plant pots to form various shapes. -->
+  <VFE_LongPlantPot.description>Planta flores decorativas aquí para mejorar el estado de ánimo de las personas cercanas. Diseñado para combinarse con otras macetas para formar varias formas.</VFE_LongPlantPot.description>
+  
+</LanguageData>

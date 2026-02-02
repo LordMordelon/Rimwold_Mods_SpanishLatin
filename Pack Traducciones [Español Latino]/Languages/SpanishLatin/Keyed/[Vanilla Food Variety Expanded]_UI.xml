@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <VCEV_AlreadyFavourite>¡{1} ya es la comida favorita de {0}! El libro de recetas no proporcionará más información</VCEV_AlreadyFavourite>
+  <VCEV_GoBack>Volver</VCEV_GoBack>
+  <VCEV_HighVarietyThreshold>Umbral de variedad de comida alta</VCEV_HighVarietyThreshold>
+  <VCEV_HighVarietyThresholdDesc>Los colonos con una variedad de comida superior a esta obtendrán efectos de humor positivos. 60% por defecto.</VCEV_HighVarietyThresholdDesc>
+  <VCEV_LowVarietyThreshold>Umbral de variedad de comida baja</VCEV_LowVarietyThreshold>
+  <VCEV_LowVarietyThresholdDesc>Los colonos con una variedad de comida inferior a esta obtendrán efectos de humor negativos. 30% por defecto.</VCEV_LowVarietyThresholdDesc>
+  <VCEV_MoodMultiplier>Multiplicador de humor</VCEV_MoodMultiplier>
+  <VCEV_MoodMultiplierDesc>Tanto el humor negativo como el positivo producido por la necesidad de Variedad de Comida baja y alta se multiplicarán por este número. +/- 5 por defecto.</VCEV_MoodMultiplierDesc>
+  <VCEV_NewFavouriteGained>¡{0} ha decidido que {1} ahora también es su comida favorita!</VCEV_NewFavouriteGained>
+  <VCEV_NoMoreFavourites>{0} ya tiene dos comidas favoritas. El libro de recetas no proporcionará más información</VCEV_NoMoreFavourites>
+  <VCEV_NumberOfIngredientStacked>Número de ingredientes apilados por comida (requiere recarga)</VCEV_NumberOfIngredientStacked>
+  <VCEV_NumberOfIngredientStackedDesc>Por defecto, las comidas vanilla comienzan a eliminar ingredientes "comunes" después de 3 ingredientes. Esto te permite aumentar ese límite. Requiere una recarga del mod para tener efecto.</VCEV_NumberOfIngredientStackedDesc>
+  <VCEV_NumberOfIngredients>Número de últimos ingredientes a contar</VCEV_NumberOfIngredients>
+  <VCEV_NumberOfIngredientsDesc>El nivel de necesidad de variedad de comida se calculará contando entre este número de ingredientes consumidos. El valor predeterminado son los 7 últimos ingredientes.</VCEV_NumberOfIngredientsDesc>
+  <VCEV_NumberOfMeals>Número de últimas comidas a contar</VCEV_NumberOfMeals>
+  <VCEV_NumberOfMealsDesc>El nivel de necesidad de variedad de comida se calculará contando entre este número de comidas consumidas. El valor predeterminado son las 7 últimas comidas.</VCEV_NumberOfMealsDesc>
+  <VCEV_Reset>Restablecer</VCEV_Reset>
+  <VCEV_ThisIsFavourite>Esta es la comida favorita de {PAWN_nameDef}, y cuenta como dos comidas para el propósito de la variedad de alimentos.</VCEV_ThisIsFavourite>
+  <VCEV_ThisIsFavouriteIng>Este es el ingrediente favorito de {PAWN_nameDef}, y cuenta como dos ingredientes para el propósito de la variedad de alimentos.</VCEV_ThisIsFavouriteIng>
+  <VCE_FavouriteFood>Comida o ingrediente favorito: {0}</VCE_FavouriteFood>
+  <VCE_FavouriteFoodEffects>Consumir esta comida o ingrediente dará una bonificación de +2 a la variedad</VCE_FavouriteFoodEffects>
+  <VCE_FavouriteFoodTextOnly>Comida o ingrediente favorito:</VCE_FavouriteFoodTextOnly>
+  <VCE_IngredientVariety>Variedad de ingredientes: {0}/{1}</VCE_IngredientVariety>
+  <VCE_IngredientsHasFavourites>Dado que se ha consumido el ingrediente favorito de {0}, ¡la variedad en esta categoría obtendrá una bonificación de +2 por favorito!</VCE_IngredientsHasFavourites>
+  <VCE_LastFoods>Últimas comidas ingeridas: {0}</VCE_LastFoods>
+  <VCE_LastFoodsTextOnly>Últimas comidas ingeridas:</VCE_LastFoodsTextOnly>
+  <VCE_LastIngredients>Últimos ingredientes ingeridos: {0}</VCE_LastIngredients>
+  <VCE_LastIngredientsTextOnly>Últimos ingredientes ingeridos:</VCE_LastIngredientsTextOnly>
+  <VCE_MealVariety>Variedad de comidas: {0}/{1}</VCE_MealVariety>
+  <VCE_MealsHasFavourites>Dado que se ha consumido la comida favorita de {0}, ¡la variedad en esta categoría obtendrá una bonificación de +2 por favorito!</VCE_MealsHasFavourites>
+  <VCE_NotEatenYet>Aún no ingerido</VCE_NotEatenYet>
+  <VCE_TotalVariety>Promedio total: {0}%</VCE_TotalVariety>
+</LanguageData>

@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: cannon -->
+  <VFEP_Artillery_Cannon.label>cañón</VFEP_Artillery_Cannon.label>
+  <!-- EN: A manned gun that launches all kinds of shells. A variation of the mortar with all the benefits and drawbacks, however it has a 90 degree cone of direct-fire in exchange for having an effective firing rate that is twice as fast. -->
+  <VFEP_Artillery_Cannon.description>Un cañón tripulado que lanza todo tipo de proyectiles. Una variación del mortero con todos los beneficios e inconvenientes, sin embargo, tiene un cono de fuego directo de 90 grados a cambio de tener una cadencia de fuego efectiva que es el doble de rápida.</VFEP_Artillery_Cannon.description>
+  <!-- EN: cannon -->
+  <VFEP_Artillery_Cannon.verbs.Verb_ShootCone.label>cañón</VFEP_Artillery_Cannon.verbs.Verb_ShootCone.label>
+  
+  <!-- EN: field gun -->
+  <VFEP_Artillery_FieldGun.label>cañón de campaña</VFEP_Artillery_FieldGun.label>
+  <!-- EN: A manned gun that launches all kinds of shells. A variation of the mortar with all the benefits and drawbacks, however it has a 90 degree cone of direct-fire in exchange for having an effective firing rate that is twice as fast. -->
+  <VFEP_Artillery_FieldGun.description>Un cañón tripulado que lanza todo tipo de proyectiles. Una variación del mortero con todos los beneficios e inconvenientes, sin embargo, tiene un cono de fuego directo de 90 grados a cambio de tener una cadencia de fuego efectiva que es el doble de rápida.</VFEP_Artillery_FieldGun.description>
+  <!-- EN: field gun -->
+  <VFEP_Artillery_FieldGun.verbs.Verb_ShootCone.label>cañón de campaña</VFEP_Artillery_FieldGun.verbs.Verb_ShootCone.label>
+  
+  <!-- EN: cannonball -->
+  <VFEP_Bullet_Cannonball.label>bala de cañón</VFEP_Bullet_Cannonball.label>
+  
+  <!-- EN: cannon -->
+  <VFEP_Turret_Cannon.label>cañón</VFEP_Turret_Cannon.label>
+  <!-- EN: A portable medieval cannon mounted on a 180 degree swivel that launches roughly-rounded balls of steel at a considerable range. The accuracy is rather lacking, but it is a vast improvement compared to catapults while also having a considerably faster fire rate. -->
+  <VFEP_Turret_Cannon.description>Un cañón medieval portátil montado en un pivote de 180 grados que lanza bolas de acero toscamente redondeadas a un alcance considerable. La precisión es bastante escasa, pero es una gran mejora en comparación con las catapultas y también tiene una cadencia de fuego considerablemente más rápida.</VFEP_Turret_Cannon.description>
+  <!-- EN: Cannonball -->
+  <VFEP_Turret_Cannon.comps.CompRefuelable.fuelGizmoLabel>Bala de cañón</VFEP_Turret_Cannon.comps.CompRefuelable.fuelGizmoLabel>
+  <!-- EN: Cannonball -->
+  <VFEP_Turret_Cannon.comps.CompRefuelable.fuelLabel>Bala de cañón</VFEP_Turret_Cannon.comps.CompRefuelable.fuelLabel>
+  <!-- EN: Cannot shoot: Needs a cannonball -->
+  <VFEP_Turret_Cannon.comps.CompRefuelable.outOfFuelMessage>No puede disparar: Necesita una bala de cañón</VFEP_Turret_Cannon.comps.CompRefuelable.outOfFuelMessage>
+  
+  <!-- EN: field gun -->
+  <VFEP_Turret_FieldGun.label>cañón de campaña</VFEP_Turret_FieldGun.label>
+  <!-- EN: A manned gun that launches all kinds of shells. A variation of the mortar with all the benefits and drawbacks, however it has a 90 degree cone of direct-fire in exchange for having an effective firing rate that is twice as fast. -->
+  <VFEP_Turret_FieldGun.description>Un cañón tripulado que lanza todo tipo de proyectiles. Una variación del mortero con todos los beneficios e inconvenientes, sin embargo, tiene un cono de fuego directo de 90 grados a cambio de tener una cadencia de fuego efectiva que es el doble de rápida.</VFEP_Turret_FieldGun.description>
+  
+</LanguageData>

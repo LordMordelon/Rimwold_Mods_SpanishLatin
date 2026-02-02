@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: cell door -->
+  <RB_CellDoor.label>puerta de celda</RB_CellDoor.label>
+  <!-- EN: A slow moving door that separates two rooms. -->
+  <RB_CellDoor.description>Una puerta que se mueve lentamente que divide dos habitaciones.</RB_CellDoor.description>
+  
+  <!-- EN: double autodoor -->
+  <RB_DoubleAutodoor.label>puerta automática doble</RB_DoubleAutodoor.label>
+  <!-- EN: Divides rooms. Powered operation allows people to move through the door without slowing down. -->
+  <RB_DoubleAutodoor.description>Divide habitaciones. El funcionamiento motorizado permite que las personas pasen por la puerta sin reducir su velocidad.</RB_DoubleAutodoor.description>
+  
+  <!-- EN: double door -->
+  <RB_DoubleDoor.label>puerta doble</RB_DoubleDoor.label>
+  <!-- EN: Divides rooms. Simple doors must be manually opened, which slows people down. The amount of slowdown depends on what the door is made of. -->
+  <RB_DoubleDoor.description>Divide habitaciones. Las puertas simples deben ser abiertas manualmente, lo que reduce la velocidad de las personas. La cantidad de reducción depende de lo que está hecho la puerta.</RB_DoubleDoor.description>
+  
+  <!-- EN: glass autodoor -->
+  <RB_GlassAutodoor.label>puerta automática de vidrio</RB_GlassAutodoor.label>
+  <!-- EN: Divides rooms. Powered operation allows people to move through the door without slowing down. -->
+  <RB_GlassAutodoor.description>Divide habitaciones. El funcionamiento motorizado permite que las personas pasen por la puerta sin reducir su velocidad.</RB_GlassAutodoor.description>
+  <!-- EN: Toggle graphic -->
+  <RB_GlassAutodoor.comps.CompAdditionalGraphic.toggleLabel>alternar gráfico</RB_GlassAutodoor.comps.CompAdditionalGraphic.toggleLabel>
+  
+  <!-- EN: large ornate door -->
+  <RB_LargeOrnateDoor.label>puerta ornamentada grande</RB_LargeOrnateDoor.label>
+  <!-- EN: Divides rooms. An intricately-carved door, decorated with gold. This large, heavy door requires adjacent walls to function. -->
+  <RB_LargeOrnateDoor.description>Divide las habitaciones. Una puerta con detalles intrincados y decorada con oro. Esta puerta grande y pesada necesita paredes adyacentes para funcionar.</RB_LargeOrnateDoor.description>
+  
+  <!-- EN: reinforced glass autodoor -->
+  <RB_ReinforcedGlassAutodoor.label>puerta automática de vidrio reforzado</RB_ReinforcedGlassAutodoor.label>
+  <!-- EN: Divides rooms. Powered operation allows people to move through the door without slowing down. -->
+  <RB_ReinforcedGlassAutodoor.description>Divide habitaciones. El funcionamiento motorizado permite que las personas pasen por la puerta sin reducir su velocidad.</RB_ReinforcedGlassAutodoor.description>
+  
+</LanguageData>

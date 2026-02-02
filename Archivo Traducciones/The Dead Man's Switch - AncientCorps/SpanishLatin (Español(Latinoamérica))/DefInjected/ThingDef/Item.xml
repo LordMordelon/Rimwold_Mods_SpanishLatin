@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: facility intel -->
+  <DMSAC_FacilityIntel.label>inteligencia de instalación</DMSAC_FacilityIntel.label>
+  <!-- EN: A data blackbox, which is designed to storage the operation record of an automatroid, by this it is not hard to find the information about the location of military facility it comes from. -->
+  <DMSAC_FacilityIntel.description>Una caja negra de datos, diseñada para almacenar el registro de operación de un automatroide, a través de la cual no es difícil encontrar información sobre la ubicación de la instalación militar de la que proviene.</DMSAC_FacilityIntel.description>
+  <!-- EN: Analyzing facility intel -->
+  <DMSAC_FacilityIntel.comps.CompUsable.useLabel>Analizando inteligencia de instalación</DMSAC_FacilityIntel.comps.CompUsable.useLabel>
+  
+  <!-- EN: Electronic repair kit -->
+  <DMSAC_Kit_Electronic.label>kit de reparación electrónica</DMSAC_Kit_Electronic.label>
+  <!-- EN: A set of tool consumables for repairing and restarting the electronic system of an automatroid, including a micro pulse battery for restarting the automatroid. Such a forced restart doesn't restore the damaged structure, and a strong electric surge might leave structural damage. Such hidden dangers can only be repaired by a total factory reassembling. -->
+  <DMSAC_Kit_Electronic.description>Un conjunto de herramientas consumibles para reparar y reiniciar el sistema electrónico de un automatroide, incluyendo una microbatería de pulsos para reiniciarlo. Este reinicio forzado no restaura la estructura dañada, y una fuerte sobrecarga eléctrica podría dejar daños estructurales. Estos peligros ocultos solo pueden ser reparados mediante un reensamblaje total en fábrica.</DMSAC_Kit_Electronic.description>
+  <!-- EN: reboot mech -->
+  <DMSAC_Kit_Electronic.comps.CompUsable.useLabel>reiniciar meca</DMSAC_Kit_Electronic.comps.CompUsable.useLabel>
+  
+  <!-- EN: Mechanic repair kit -->
+  <DMSAC_Kit_Mechanic.label>kit de reparación mecánica</DMSAC_Kit_Mechanic.label>
+  <!-- EN: A set of mechanical repair tools used to temporarily repair damaged parts of mechas on the front-line battlefield. It is simple to operate and can be reused, so non-mechanical front-line personnel can repair automatroids. However, there is a small chance that such a temporary repair will leave some parts with structural damage. Such hidden dangers can only be repaired by a total factory reassembling. -->
+  <DMSAC_Kit_Mechanic.description>Un conjunto de herramientas de reparación mecánica utilizadas para reparar temporalmente partes dañadas de mecas en el campo de batalla de primera línea. Es simple de operar y reutilizable, por lo que personal no mecánico de primera línea puede reparar automatroides. Sin embargo, existe una pequeña posibilidad de que dicha reparación temporal deje algunas partes con daños estructurales. Estos peligros ocultos solo pueden ser reparados mediante un reensamblaje total en fábrica.</DMSAC_Kit_Mechanic.description>
+  <!-- EN: repair mech -->
+  <DMSAC_Kit_Mechanic.comps.CompUsable.useLabel>reparar meca</DMSAC_Kit_Mechanic.comps.CompUsable.useLabel>
+  
+  <!-- EN: site intel -->
+  <DMSAC_SiteIntel.label>inteligencia de sitio</DMSAC_SiteIntel.label>
+  <!-- EN: An intel map about the location of a small military site, which is one of the countless pieces of information gathered by scavengers or pirates at that time when dealing with these ancient machines that had existed in this planet for hundreds of years. -->
+  <DMSAC_SiteIntel.description>Un mapa de inteligencia sobre la ubicación de un pequeño sitio militar, que es una de las innumerables piezas de información recopiladas por carroñeros o piratas en aquel tiempo cuando trataban con estas máquinas antiguas que habían existido en este planeta durante cientos de años.</DMSAC_SiteIntel.description>
+  <!-- EN: Analyzing facility intel -->
+  <DMSAC_SiteIntel.comps.CompUsable.useLabel>Analizando inteligencia de instalación</DMSAC_SiteIntel.comps.CompUsable.useLabel>
+  
+</LanguageData>

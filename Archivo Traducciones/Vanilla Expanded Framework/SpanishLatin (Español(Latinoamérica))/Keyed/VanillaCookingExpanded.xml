@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+	<!-- EN: Allow chronic health conditions in food (Diabetes, Cholesterol and High Blood Pressure) -->
+  <VCE_AllowConditions>Permitir condiciones de salud crónicas en la comida (diabetes, colesterol e hipertensión)</VCE_AllowConditions>
+	<!-- EN: Vanilla Cooking Expanded must be installed for these options to have any effect -->
+  <VCE_MustBeInstalled>Vanilla Cooking Expanded debe estar instalado para que estas opciones tengan efecto</VCE_MustBeInstalled>
+	<!-- EN: Apiary found nearby -->
+  <VCE_Pollinated>Apiario encontrado cerca</VCE_Pollinated>
+	<!-- EN: No apiary found in a 6 tiles radius (calculated on sowing) -->
+  <VCE_NotPollinated>No se encontró ningún apiario en un radio de 6 casillas (calculado al sembrar)</VCE_NotPollinated>
+	<!-- EN: Not in equatorial region (in this planet, below {0} latitude). Growing normally. -->
+  <VCE_NotInEquator>No está en la región ecuatorial (en este planeta, por debajo de {0} de latitud). Creciendo normalmente.</VCE_NotInEquator>
+	<!-- EN: In equatorial region, growing 30% faster. -->
+  <VCE_InEquator>En la región ecuatorial, creciendo un 30% más rápido.</VCE_InEquator>
+	<!-- EN: This plant needs to grow in shade: outside, but under a roof. -->
+  <VCE_NeedsShade>Esta planta necesita crecer a la sombra: en el exterior, pero bajo un techo.</VCE_NeedsShade>
+	<!-- EN: Growth reduced due to non-rocky terrain -->
+  <VCE_StuntedGrowthFertility>Crecimiento reducido debido a terreno no rocoso</VCE_StuntedGrowthFertility>
+	<!-- EN: Growth impossible due to too fertile terrain -->
+  <VCE_StoppedGrowthFertility>Crecimiento imposible debido a un terreno demasiado fértil</VCE_StoppedGrowthFertility>
+	<!-- EN: A body of water nearby is impeding this plant's growth -->
+  <VCE_WaterNearby>Un cuerpo de agua cercano está impidiendo el crecimiento de esta planta</VCE_WaterNearby>
+	<!-- EN: Lack of a body of water nearby is impeding this plant's growth -->
+  <VCE_NoWaterNearby>La falta de un cuerpo de agua cercano está impidiendo el crecimiento de esta planta</VCE_NoWaterNearby>
+	<!-- EN: Too far away from the sea, no extra growth bonus -->
+  <VCE_NoSeaTilesNearby>Demasiado lejos del mar, sin bonificación de crecimiento adicional</VCE_NoSeaTilesNearby>
+	<!-- EN: {0} sea tiles nearby, providing {0}% growth bonus -->
+  <VCE_SeaTilesNearby>{0} casillas de mar cerca, proporcionando un {0}% de bonificación de crecimiento</VCE_SeaTilesNearby>
+</LanguageData>

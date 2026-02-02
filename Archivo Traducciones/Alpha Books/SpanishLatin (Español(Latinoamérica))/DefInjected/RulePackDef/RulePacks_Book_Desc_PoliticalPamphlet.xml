@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>desc->[intro]. [contentOverview]. [reveal]. [writingQualitySentence] [ending]</li>
+    <li>desc->[intro]. [contextStatement]. [contentOverview]. [reveal]. [writingQualitySentence] [ending]</li>
+    <li>desc->[intro]. [contentOverview]. [quirky_flavor]. [reveal]. [writingQualitySentence] [ending]</li>
+    <li>desc->[intro]. [contextStatement]. [contentOverview]. [quirky_flavor]. [reveal]. [writingQualitySentence] [ending]</li>
+    <li>intro->Este [bookType] busca encender una revolución de pensamiento, pero sobre todo indignación</li>
+    <li>intro->Un llamado a las armas ardiente para cualquiera harto de [issue], y ansioso por lanzar insultos</li>
+    <li>intro->Un manifiesto apasionado, que, bajo su tono justo, esconde una crítica mordaz</li>
+    <li>intro->Este panfleto [writingQualityAdjective] afirma luchar por [ideal], pero claramente disfruta lanzando lodo</li>
+    <li>intro->Un arma de filo romo en la guerra contra [problem], o simplemente una excusa para ser malo</li>
+    <li>contextStatement->Nacido de debates acalorados y no poca cantidad de vitriolo</li>
+    <li>contextStatement->Surgiendo de las luchas internas implacables de [subject_primary]</li>
+    <li>contextStatement->Inspirado por la frustración con [issue], y quizás demasiada cafeína</li>
+    <li>contextStatement->Forjado en los fuegos de la indignación política, y posiblemente un poco de rencor</li>
+    <li>contextStatement->Impulsado por ideales de [ideal], pero con una fuerte dosis de venganza personal</li>
+    <li>contentOverview->El panfleto describe una visión audaz para [ideal]</li>
+    <li>contentOverview->Propone soluciones a [problem], aunque están eclipsadas por los insultos</li>
+    <li>contentOverview->Las páginas detallan una crítica de [issue], intercalada con insultos</li>
+    <li>contentOverview->La retórica tiene como objetivo abordar [topic], pero a menudo deriva en ataques personales</li>
+    <li>contentOverview->Se discuten ideas de reforma, pero en su mayoría ahogadas por un lenguaje incendiario</li>
+    <li>quirky_flavor->Incluye un glosario de nuevos insultos creativos para oponentes políticos</li>
+    <li>quirky_flavor->Presenta una cantidad sorprendente de enfoque en el peinado de alguien</li>
+    <li>quirky_flavor->Una sección completa está dedicada a burlarse de la gramática de los folletos opuestos</li>
+    <li>quirky_flavor->Contiene una quintilla sobre [subject_primary] que es demasiado grosera para repetir</li>
+    <li>quirky_flavor->Involuntariamente hilarante en sus insultos exagerados</li>
+    <li>reveal->Mientras afirma abordar [issue], dedica más espacio a ataques personales</li>
+    <li>reveal->Cualquier argumento real es ahogado por el implacable lanzamiento de lodo</li>
+    <li>reveal->Debajo de la retórica, es realmente solo una larga lista de quejas mezquinas</li>
+    <li>reveal->Se lee menos como un tratado político y más como una larga y enojada diatriba</li>
+    <li>reveal->La fina capa de argumento político apenas oculta los insultos venenosos</li>
+    <li>writingQualitySentence(quality==6)->Es una diatriba elegantemente compuesta, entregando sus golpes con delicadeza e ingenio.</li>
+    <li>writingQualitySentence(quality==5)->Está escrito con agudeza, sus púas cortando con precisión a pesar de su tono.</li>
+    <li>writingQualitySentence(quality==4)->Está sólidamente construido, aunque los insultos a menudo eclipsan sus argumentos.</li>
+    <li>writingQualitySentence(quality==3)->Es útil, aunque algo torpe en su equilibrio de ideas e insultos.</li>
+    <li>writingQualitySentence(quality==2)->Es una diatriba torpe y mal organizada, con golpes que fallan su objetivo.</li>
+    <li>writingQualitySentence(quality==1)->Es un desastre caótico de argumentos incoherentes e insultos juveniles.</li>
+    <li>writingQualitySentence(quality==0)->Es un escrito abismal, sin esfuerzo por ocultar su bilis e insultos mezquinos.</li>
+    <li>ending->\n\nDespués de ser leído, este panfleto desaparecerá en una nube de vitriolo, pero puede dejar una sensación persistente de indignación.</li>
+  -->
+  <ABooks_PoliticalPamphlet_Description.rulePack.rulesStrings>
+    <li>desc->[intro]. [contentOverview]. [reveal]. [writingQualitySentence] [ending]</li>
+    <li>desc->[intro]. [contextStatement]. [contentOverview]. [reveal]. [writingQualitySentence] [ending]</li>
+    <li>desc->[intro]. [contentOverview]. [quirky_flavor]. [reveal]. [writingQualitySentence] [ending]</li>
+    <li>desc->[intro]. [contextStatement]. [contentOverview]. [quirky_flavor]. [reveal]. [writingQualitySentence] [ending]</li>
+    <li>intro->Este [bookType] busca encender una revolución de pensamiento, pero sobre todo indignación</li>
+    <li>intro->Un llamado a las armas ardiente para cualquiera harto de [issue], y ansioso por lanzar insultos</li>
+    <li>intro->Un manifiesto apasionado, que, bajo su tono justo, esconde una crítica mordaz</li>
+    <li>intro->Este panfleto [writingQualityAdjective] afirma luchar por [ideal], pero claramente disfruta lanzando lodo</li>
+    <li>intro->Un arma de filo romo en la guerra contra [problem], o simplemente una excusa para ser malo</li>
+    <li>contextStatement->Nacido de debates acalorados y no poca cantidad de vitriolo</li>
+    <li>contextStatement->Surgiendo de las luchas internas implacables de [subject_primary]</li>
+    <li>contextStatement->Inspirado por la frustración con [issue], y quizás demasiada cafeína</li>
+    <li>contextStatement->Forjado en los fuegos de la indignación política, y posiblemente un poco de rencor</li>
+    <li>contextStatement->Impulsado por ideales de [ideal], pero con una fuerte dosis de venganza personal</li>
+    <li>contentOverview->El panfleto describe una visión audaz para [ideal]</li>
+    <li>contentOverview->Propone soluciones a [problem], aunque están eclipsadas por los insultos</li>
+    <li>contentOverview->Las páginas detallan una crítica de [issue], intercalada con insultos</li>
+    <li>contentOverview->La retórica tiene como objetivo abordar [topic], pero a menudo deriva en ataques personales</li>
+    <li>contentOverview->Se discuten ideas de reforma, pero en su mayoría ahogadas por un lenguaje incendiario</li>
+    <li>quirky_flavor->Incluye un glosario de nuevos insultos creativos para oponentes políticos</li>
+    <li>quirky_flavor->Presenta una cantidad sorprendente de enfoque en el peinado de alguien</li>
+    <li>quirky_flavor->Una sección completa está dedicada a burlarse de la gramática de los folletos opuestos</li>
+    <li>quirky_flavor->Contiene una quintilla sobre [subject_primary] que es demasiado grosera para repetir</li>
+    <li>quirky_flavor->Involuntariamente hilarante en sus insultos exagerados</li>
+    <li>reveal->Mientras afirma abordar [issue], dedica más espacio a ataques personales</li>
+    <li>reveal->Cualquier argumento real es ahogado por el implacable lanzamiento de lodo</li>
+    <li>reveal->Debajo de la retórica, es realmente solo una larga lista de quejas mezquinas</li>
+    <li>reveal->Se lee menos como un tratado político y más como una larga y enojada diatriba</li>
+    <li>reveal->La fina capa de argumento político apenas oculta los insultos venenosos</li>
+    <li>writingQualitySentence(quality==6)->Es una diatriba elegantemente compuesta, entregando sus golpes con delicadeza e ingenio.</li>
+    <li>writingQualitySentence(quality==5)->Está escrito con agudeza, sus púas cortando con precisión a pesar de su tono.</li>
+    <li>writingQualitySentence(quality==4)->Está sólidamente construido, aunque los insultos a menudo eclipsan sus argumentos.</li>
+    <li>writingQualitySentence(quality==3)->Es útil, aunque algo torpe en su equilibrio de ideas e insultos.</li>
+    <li>writingQualitySentence(quality==2)->Es una diatriba torpe y mal organizada, con golpes que fallan su objetivo.</li>
+    <li>writingQualitySentence(quality==1)->Es un desastre caótico de argumentos incoherentes e insultos juveniles.</li>
+    <li>writingQualitySentence(quality==0)->Es un escrito abismal, sin esfuerzo por ocultar su bilis e insultos mezquinos.</li>
+    <li>ending->\n\nDespués de ser leído, este panfleto desaparecerá en una nube de vitriolo, pero puede dejar una sensación persistente de indignación.</li>
+  </ABooks_PoliticalPamphlet_Description.rulePack.rulesStrings>
+  
+</LanguageData>

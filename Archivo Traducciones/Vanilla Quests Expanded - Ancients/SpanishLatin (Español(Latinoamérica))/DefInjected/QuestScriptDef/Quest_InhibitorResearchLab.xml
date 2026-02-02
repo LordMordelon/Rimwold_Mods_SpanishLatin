@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>questDescription(askerIsNull==True)->Garbled through the static, it seems some ancient network has mistaken your radio for that of an ancient reconnaissance worker after detecting your travels through an automated satellite.\n\nThe message harshly refers to you as E352, and tasks you with scouting another supersoldier laboratory. Though this broadcast seems to have been running from some time now, it warns of a major uprising event within the lab. Supersoldiers had risen out of containment, and now roam the facility locked inside. The reconnaissance task states that the site was evacuated, yet the uprising was never contained and it is likely some may have escaped.\n\nThe broadcast also contains schematics of the location including your real objective. A device called the mutagen inhibitor core. Though just a prototype prior to its sudden abandonment, it is built to suppress unstable genetic mutations. It is likely that other valuable equipment remains here as well. offering transparent probabilities on genetic experiments. Our objective will be to locate the uplink and uninstall it for use in our own laboratory.</li>
+  -->
+  <VQE_InhibitorResearchLab.questDescriptionRules.rulesStrings>
+    <li>questDescription(askerIsNull==True)->Distorsionada por la estática, parece que alguna red antigua ha confundido tu radio con la de un trabajador de reconocimiento antiguo tras detectar tus viajes a través de un satélite automatizado.\n\nEl mensaje se refiere a ti duramente como E352, y te encarga la exploración de otro laboratorio de supersoldados. Aunque esta transmisión parece haber estado funcionando desde hace tiempo, advierte de un evento de levantamiento importante dentro del laboratorio. Los supersoldados han salido de la contención y ahora deambulan por la instalación encerrados en su interior. La tarea de reconocimiento indica que el sitio fue evacuado, pero el levantamiento nunca fue contenido y es probable que algunos hayan escapado.\n\nLa transmisión también contiene esquemas de la ubicación, incluyendo tu objetivo real: un dispositivo llamado núcleo inhibidor de mutágenos. Aunque solo era un prototipo antes de su abandono repentino, está construido para suprimir mutaciones genéticas inestables. Es probable que aquí también queden otros equipos valiosos que ofrezcan probabilidades transparentes en experimentos genéticos. Nuestro objetivo será localizar el enlace ascendente y desinstalarlo para usarlo en nuestro propio laboratorio.</li>
+  </VQE_InhibitorResearchLab.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>questName->E352 - Reconnaissance request</li>
+  -->
+  <VQE_InhibitorResearchLab.questNameRules.rulesStrings>
+    <li>questName->E352 - Solicitud de reconocimiento</li>
+  </VQE_InhibitorResearchLab.questNameRules.rulesStrings>
+  
+</LanguageData>

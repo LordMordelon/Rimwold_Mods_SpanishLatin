@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Tilt the Planet! -->
+  <Mod_Name>Tilt the Planet!</Mod_Name>
+
+  <!-- EN: Enable Changelog Popup for Major Releases -->
+  <ShowChangelog_Checkbox>Activar ventana de registro de cambios para versiones principales</ShowChangelog_Checkbox>
+  <!-- EN: (Disabling this means you won't be notified of major changes) -->
+  <ShowChangelog_Checkbox_Warning>(Desactivar esto significa que no se te notificarán los cambios importantes)</ShowChangelog_Checkbox_Warning>
+  <!-- EN: The popup is only shown once per major update, not every game load. -->
+  <ShowChangelog_Checkbox_Tooltip>La ventana emergente solo se muestra una vez por actualización importante, no en cada carga del juego.</ShowChangelog_Checkbox_Tooltip>
+
+  <!-- EN: Enable Minimal Brightness -->
+  <MinimalBrightness_Toggle>Activar brillo mínimo</MinimalBrightness_Toggle>
+  <!-- EN: (Press 'L' in game to toggle) -->
+  <MinimalBrightness_Warning>(Presiona 'L' en el juego para alternar)</MinimalBrightness_Warning>
+  <!-- EN: Ensures the sky will never darken below a certain brightness -->
+  <MinimalBrightness_Toggle_Tooltip>Asegura que el cielo nunca se oscurezca por debajo de cierto brillo</MinimalBrightness_Toggle_Tooltip>
+  
+  <!-- EN: Minimal Brightness: {0}x -->
+  <MinimalBrightness>Brillo mínimo: {0}x</MinimalBrightness>
+  <!-- EN: How dim the sky can be - with 1.0x set as full moon brightness. (Enable Minimal Brightness MUST be enabled for this to do anything) -->
+  <MinimalBrightness_Tooltip>Qué tan tenue puede ser el cielo - con 1.0x establecido como el brillo de la luna llena. (Activar brillo mínimo DEBE estar habilitado para que esto funcione)</MinimalBrightness_Tooltip>
+</LanguageData>

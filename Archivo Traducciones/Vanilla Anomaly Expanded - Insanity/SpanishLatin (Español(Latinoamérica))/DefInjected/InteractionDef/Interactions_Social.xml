@@ -1,0 +1,429 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: slander -->
+  <VAEI_Slander.label>calumnia</VAEI_Slander.label>
+  <!-- EN:
+    <li>r_logentry->[INITIATOR_nameDef] spread false rumors about [target]'s [characteristic], damaging their reputation.</li>
+    <li>r_logentry->[INITIATOR_nameDef] falsely claimed [target] was [slanderousAccusation], causing a stir.</li>
+    <li>r_logentry->[INITIATOR_nameDef] accused [target] of [slanderousAccusation] in front of others, tarnishing their image.</li>
+    <li>characteristic(INITIATOR_cubeInterest==false)->[PersonalCharacteristic]</li>
+    <li>characteristic(INITIATOR_cubeInterest==true)->[PersonalCharacteristicCube]</li>
+    <li>target(p=4)->[RECIPIENT_nameDef]</li>
+    <li>target->[RECIPIENT_nameDef]'s [PersonFamily]</li>
+    <li>slanderousAccusation->having secret illegal dealings</li>
+    <li>slanderousAccusation->betraying their friends</li>
+    <li>slanderousAccusation->stealing from the community</li>
+    <li>slanderousAccusation->lying about their credentials</li>
+    <li>slanderousAccusation->cheating in important matters</li>
+    <li>slanderousAccusation->being disloyal to the faction</li>
+    <li>slanderousAccusation->spreading forbidden knowledge</li>
+    <li>slanderousAccusation->spreading forbidden knowledge</li>
+    <li>slanderousAccusation->practicing dark arts</li>
+    <li>slanderousAccusation->sabotaging vital equipment</li>
+    <li>slanderousAccusation->poisoning the community's water supply</li>
+    <li>slanderousAccusation->communicating with enemy factions</li>
+    <li>slanderousAccusation->embezzling funds</li>
+    <li>slanderousAccusation->falsifying records</li>
+    <li>slanderousAccusation->manipulating others for personal gain</li>
+    <li>slanderousAccusation->aiding criminals</li>
+    <li>slanderousAccusation->committing treason</li>
+    <li>slanderousAccusation->lying under oath</li>
+    <li>slanderousAccusation->hiding a serious illness</li>
+    <li>slanderousAccusation->forging documents</li>
+    <li>slanderousAccusation->conducting unethical experiments</li>
+    <li>slanderousAccusation->stealing intellectual property</li>
+    <li>slanderousAccusation->hoarding supplies during a shortage</li>
+    <li>slanderousAccusation->neglecting their duties during a critical moment</li>
+    <li>slanderousAccusation->providing faulty construction that endangered lives</li>
+    <li>slanderousAccusation->spreading a contagious disease through negligence</li>
+    <li>slanderousAccusation->deliberately giving misleading directions to explorers</li>
+    <li>slanderousAccusation->tampering with the food supply</li>
+    <li>slanderousAccusation->leading a factional split</li>
+    <li>slanderousAccusation->inciting unrest among the youth</li>
+    <li>slanderousAccusation->faking an injury to avoid work</li>
+    <li>slanderousAccusation->lying about resource finds</li>
+    <li>slanderousAccusation->secretly trading with hostile entities</li>
+    <li>slanderousAccusation->sabotaging communication equipment</li>
+    <li>slanderousAccusation->stealing critical survival gear</li>
+    <li>slanderousAccusation->wasting water in a drought</li>
+    <li>slanderousAccusation->violating quarantine protocols</li>
+    <li>slanderousAccusation->performing forbidden rituals at night</li>
+    <li>slanderousAccusation->murdering fellow colonists for personal gain</li>
+    <li>slanderousAccusation->cannibalizing the missing survivors</li>
+    <li>slanderousAccusation->poisoning community leaders to usurp power</li>
+    <li>slanderousAccusation->using dark magic to control others</li>
+    <li>slanderousAccusation->selling children to raiders</li>
+    <li>slanderousAccusation->planting evidence to frame innocent people</li>
+    <li>slanderousAccusation->making pacts with demonic entities</li>
+    <li>slanderousAccusation->orchestrating a massacre of rival factions</li>
+    <li>slanderousAccusation->betraying the colony's location to enemy raiders</li>
+    <li>slanderousAccusation->conducting heinous experiments on live subjects</li>
+    <li>slanderousAccusation->creating a plague to eliminate undesirables</li>
+    <li>slanderousAccusation->stealing and desecrating sacred relics</li>
+    <li>slanderousAccusation->spreading lethal diseases on purpose</li>
+    <li>slanderousAccusation->sacrificing colonists in secret ceremonies</li>
+  -->
+  <VAEI_Slander.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef] difundió falsos rumores sobre [characteristic] de [target], dañando su reputación.</li>
+    <li>r_logentry->[INITIATOR_nameDef] afirmó falsamente que [target] es culpable de [slanderousAccusation], causando revuelo.</li>
+    <li>r_logentry->[INITIATOR_nameDef] acusó a [target] de [slanderousAccusation] frente a otros, empañando su imagen.</li>
+    <li>characteristic(INITIATOR_cubeInterest==false)->[PersonalCharacteristic]</li>
+    <li>characteristic(INITIATOR_cubeInterest==true)->[PersonalCharacteristicCube]</li>
+    <li>target(p=4)->[RECIPIENT_nameDef]</li>
+    <li>target->[PersonFamily] de [RECIPIENT_nameDef]</li>
+    <li>slanderousAccusation->tener tratos ilegales secretos</li>
+    <li>slanderousAccusation->traicionar a sus amigos</li>
+    <li>slanderousAccusation->robar a la comunidad</li>
+    <li>slanderousAccusation->mentir sobre sus credenciales</li>
+    <li>slanderousAccusation->hacer trampa en asuntos importantes</li>
+    <li>slanderousAccusation->ser desleal a la facción</li>
+    <li>slanderousAccusation->difundir conocimientos prohibidos</li>
+    <li>slanderousAccusation->difundir conocimientos prohibidos</li>
+    <li>slanderousAccusation->practicar artes oscuras</li>
+    <li>slanderousAccusation->sabotear equipos vitales</li>
+    <li>slanderousAccusation->envenenar el suministro de agua de la comunidad</li>
+    <li>slanderousAccusation->comunicarse con facciones enemigas</li>
+    <li>slanderousAccusation->malversar fondos</li>
+    <li>slanderousAccusation->falsificar registros</li>
+    <li>slanderousAccusation->manipular a otros para beneficio personal</li>
+    <li>slanderousAccusation->ayudar a criminales</li>
+    <li>slanderousAccusation->cometer traición</li>
+    <li>slanderousAccusation->mentir bajo juramento</li>
+    <li>slanderousAccusation->ocultar una enfermedad grave</li>
+    <li>slanderousAccusation->falsificar documentos</li>
+    <li>slanderousAccusation->realizar experimentos poco éticos</li>
+    <li>slanderousAccusation->robar propiedad intelectual</li>
+    <li>slanderousAccusation->acaparar suministros durante una escasez</li>
+    <li>slanderousAccusation->descuidar sus deberes durante un momento crítico</li>
+    <li>slanderousAccusation->proporcionar una construcción defectuosa que puso en peligro vidas</li>
+    <li>slanderousAccusation->propagar una enfermedad contagiosa por negligencia</li>
+    <li>slanderousAccusation->dar deliberadamente direcciones engañosas a los exploradores</li>
+    <li>slanderousAccusation->manipular el suministro de alimentos</li>
+    <li>slanderousAccusation->liderar una división de facciones</li>
+    <li>slanderousAccusation->incitar disturbios entre los jóvenes</li>
+    <li>slanderousAccusation->fingir una lesión para evitar trabajar</li>
+    <li>slanderousAccusation->mentir sobre hallazgos de recursos</li>
+    <li>slanderousAccusation->comerciar secretamente con entidades hostiles</li>
+    <li>slanderousAccusation->sabotear equipos de comunicación</li>
+    <li>slanderousAccusation->robar equipo de supervivencia crítico</li>
+    <li>slanderousAccusation->desperdiciar agua en una sequía</li>
+    <li>slanderousAccusation->violar protocolos de cuarentena</li>
+    <li>slanderousAccusation->realizar rituales prohibidos por la noche</li>
+    <li>slanderousAccusation->asesinar a compañeros colonos para beneficio personal</li>
+    <li>slanderousAccusation->canibalizar a los supervivientes desaparecidos</li>
+    <li>slanderousAccusation->envenenar a los líderes de la comunidad para usurpar el poder</li>
+    <li>slanderousAccusation->usar magia oscura para controlar a otros</li>
+    <li>slanderousAccusation->vender niños a asaltantes</li>
+    <li>slanderousAccusation->plantar evidencia para incriminar a personas inocentes</li>
+    <li>slanderousAccusation->hacer pactos con entidades demoníacas</li>
+    <li>slanderousAccusation->orquestar una masacre de facciones rivales</li>
+    <li>slanderousAccusation->traicionar la ubicación de la colonia a asaltantes enemigos</li>
+    <li>slanderousAccusation->realizar experimentos atroces en sujetos vivos</li>
+    <li>slanderousAccusation->crear una plaga para eliminar indeseables</li>
+    <li>slanderousAccusation->robar y profanar reliquias sagradas</li>
+    <li>slanderousAccusation->propagar enfermedades letales a propósito</li>
+    <li>slanderousAccusation->sacrificar colonos en ceremonias secretas</li>
+  </VAEI_Slander.logRulesInitiator.rulesStrings>
+  
+  <!-- EN: twisted words -->
+  <VAEI_TwistedWords.label>palabras retorcidas</VAEI_TwistedWords.label>
+  <!-- EN:
+    <li>r_logentry->[INITIATOR_nameDef] [twistedlyComplimented] [RECIPIENT_nameDef]'s [characteristic], comparing it to [subjectInsane].</li>
+    <li>r_logentry->[INITIATOR_nameDef] [twistedlyComplimented] [RECIPIENT_nameDef]'s [characteristic], drawing similarities to [subjectDarkStudy].</li>
+    <li>characteristic(INITIATOR_cubeInterest==false)->[PersonalCharacteristic]</li>
+    <li>characteristic(INITIATOR_cubeInterest==true)->[PersonalCharacteristicCube]</li>
+    <li>twistedlyComplimented->bizarrely praised</li>
+    <li>twistedlyComplimented->eerily commended</li>
+    <li>twistedlyComplimented->strangely lauded</li>
+    <li>twistedlyComplimented->unnervingly celebrated</li>
+    <li>twistedlyComplimented->disturbingly saluted</li>
+    <li>twistedlyComplimented->darkly spoke of</li>
+    <li>twistedlyComplimented->sinisterly expressed admiration for</li>
+    <li>twistedlyComplimented->creepily expressed fondness for</li>
+    <li>twistedlyComplimented->unnaturally offered words about</li>
+    <li>twistedlyComplimented->macabrely verbalized appreciation for</li>
+    <li>twistedlyComplimented->spookily said good things about</li>
+  -->
+  <VAEI_TwistedWords.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef] [twistedlyComplimented] [characteristic] de [RECIPIENT_nameDef], comparándolo con [subjectInsane].</li>
+    <li>r_logentry->[INITIATOR_nameDef] [twistedlyComplimented] [characteristic] de [RECIPIENT_nameDef], trazando similitudes con [subjectDarkStudy].</li>
+    <li>characteristic(INITIATOR_cubeInterest==false)->[PersonalCharacteristic]</li>
+    <li>characteristic(INITIATOR_cubeInterest==true)->[PersonalCharacteristicCube]</li>
+    <li>twistedlyComplimented->elogió extrañamente</li>
+    <li>twistedlyComplimented->elogió inquietantemente</li>
+    <li>twistedlyComplimented->alabó extrañamente</li>
+    <li>twistedlyComplimented->celebró desconcertantemente</li>
+    <li>twistedlyComplimented->saludó perturbadoramente</li>
+    <li>twistedlyComplimented->habló oscuramente de</li>
+    <li>twistedlyComplimented->expresó siniestramente admiración por</li>
+    <li>twistedlyComplimented->expresó espeluznantemente cariño por</li>
+    <li>twistedlyComplimented->ofreció palabras antinaturales sobre</li>
+    <li>twistedlyComplimented->verbalizó macabramente aprecio por</li>
+    <li>twistedlyComplimented->dijo cosas buenas de manera espeluznante sobre</li>
+  </VAEI_TwistedWords.logRulesInitiator.rulesStrings>
+  
+  <!-- EN: unsettling talk -->
+  <VAEI_UnsettlingTalk.label>charla inquietante</VAEI_UnsettlingTalk.label>
+  <!-- EN:
+    <li>r_logentry->[INITIATOR_nameDef] and [RECIPIENT_nameDef] [eerilytalkedabout] [unsettlingsubject].</li>
+    <li>r_logentry->[INITIATOR_nameDef] [eerilytalkedabout] [unsettlingsubject] with [RECIPIENT_nameDef], leaving a tense atmosphere.</li>
+    <li>eerilytalkedabout->whispered about</li>
+    <li>eerilytalkedabout->murmured about</li>
+    <li>eerilytalkedabout->conveyed disturbing thoughts about</li>
+    <li>eerilytalkedabout->exchanged eerie ideas about</li>
+    <li>eerilytalkedabout->shared chilling views on</li>
+    <li>eerilytalkedabout->discussed the unsettling topic of</li>
+    <li>eerilytalkedabout->had an unnerving conversation about</li>
+    <li>eerilytalkedabout->talked quietly about</li>
+    <li>eerilytalkedabout->delved into the mysteries of</li>
+    <li>eerilytalkedabout->explored the dark aspects of</li>
+    <li>unsettlingsubject->ancient curses</li>
+    <li>unsettlingsubject->forbidden rituals</li>
+    <li>unsettlingsubject->unexplained disappearances</li>
+    <li>unsettlingsubject->mysterious sightings</li>
+    <li>unsettlingsubject->haunted locations within the colony</li>
+    <li>unsettlingsubject->theories about otherworldly entities</li>
+    <li>unsettlingsubject->disturbing dreams shared by colonists</li>
+    <li>unsettlingsubject->legends of ghostly apparitions</li>
+    <li>unsettlingsubject->ominous signs and portents</li>
+    <li>unsettlingsubject->tales of madness driven by isolation</li>
+    <li>unsettlingsubject->cryptic messages found in ancient texts</li>
+    <li>unsettlingsubject->peculiar behaviors of wildlife around the colony</li>
+    <li>unsettlingsubject->discussions on the nature of death and what lies beyond</li>
+    <li>unsettlingsubject->unearthly noises heard at night</li>
+    <li>unsettlingsubject->speculations about cursed artifacts</li>
+    <li>unsettlingsubject->the implications of immortality</li>
+    <li>unsettlingsubject->the existential dread of infinite space</li>
+    <li>unsettlingsubject->recurring visions of an apocalyptic future</li>
+    <li>unsettlingsubject->the disturbing frequency of twins born with shared consciousness</li>
+    <li>unsettlingsubject->the phenomenon of shadows moving against the laws of light</li>
+    <li>unsettlingsubject->accounts of time loops experienced by travelers</li>
+    <li>unsettlingsubject->the ethics of memory manipulation in therapy</li>
+    <li>unsettlingsubject->reports of colonists speaking in unknown languages during sleep</li>
+    <li>unsettlingsubject->ancient prophecies predicting the colony’s downfall</li>
+    <li>unsettlingsubject->cryptic patterns observed in the stars</li>
+    <li>unsettlingsubject->the concept of life as a simulation revealed in ancient codes</li>
+    <li>unsettlingsubject->transmissions received from empty sectors of space</li>
+    <li>unsettlingsubject->the sudden onset of mass hysteria and its unknown cause</li>
+    <li>unsettlingsubject->disappearances linked to ancient, unsolvable labyrinths found on planets</li>
+    <li>unsettlingsubject->the correlation between dreams of colonists and real-world disasters</li>
+    <li>unsettlingsubject->the persistence of consciousness after death</li>
+    <li>unsettlingsubject->evidence of predestined events encoded in ancient artifacts</li>
+    <li>unsettlingsubject->the phenomenon of colonists' shadows acting independently</li>
+    <li>unsettlingsubject->unexplained radio signals correlating with old earth tragedies</li>
+    <li>unsettlingsubject->the theory that reality is fracturing, seen in the distortion of time around the colony</li>
+    <li>unsettlingsubject->shared nightmares among colonists depicting an inescapable void</li>
+    <li>unsettlingsubject->whispers heard in the wind that predict future events</li>
+    <li>unsettlingsubject->the sudden and inexplicable aging of children born under the colony's red moon</li>
+    <li>unsettlingsubject->the increasing incidence of mirrors reflecting alternate realities</li>
+    <li>unsettlingsubject->instances of written words spontaneously rearranging to form prophetic messages</li>
+    <li>unsettlingsubject->reports of invisible presences felt by many, accompanied by a chilling touch</li>
+    <li>unsettlingsubject->the untraceable hum that drives listeners to obsessive thoughts</li>
+    <li>unsettlingsubject->the emerging ability among the colonists to communicate through telepathy</li>
+    <li>unsettlingsubject->the discovery of an ancient underground city that maps point-for-point to the colony above</li>
+    <li>unsettlingsubject->the connection between historical mass vanishings and the current disappearances in the colony</li>
+    <li>unsettlingsubject->the ordinary act of blinking, yet some colonists stop blinking entirely for days</li>
+    <li>unsettlingsubject->common dreams among colonists featuring an ordinary day that ends in an inexplicable tragedy</li>
+    <li>unsettlingsubject->the phenomenon where personal items are found buried beneath newly planted trees without explanation</li>
+    <li>unsettlingsubject->children’s imaginary friends who seem to predict household accidents with alarming accuracy</li>
+    <li>unsettlingsubject->household pets staring intently at corners of rooms where the temperature is inexplicably colder</li>
+    <li>unsettlingsubject->the subtle but noticeable change in the taste of water before someone in the colony goes missing</li>
+    <li>unsettlingsubject->the routine chore of gardening, where unmarked graves are occasionally discovered</li>
+    <li>unsettlingsubject->the statistical improbability of how frequently mirrors crack when certain individuals walk by</li>
+    <li>unsettlingsubject->every instance of déjà vu being followed by electrical malfunctions throughout the colony</li>
+    <li>unsettlingsubject->watching old video logs that inexplicably play scenes never recorded</li>
+    <li>unsettlingsubject->voices caught on communication devices that resemble those of past colonists long deceased</li>
+    <li>unsettlingsubject->personal diaries found written in the hand of those who claim they've never written them</li>
+    <li>unsettlingsubject->frequent power outages that align with the phases of an unknown celestial body visible only to some</li>
+    <li>unsettlingsubject->people waking up with knowledge of a language they never learned, speaking fluently in their sleep</li>
+    <li>unsettlingsubject->the recurring appearance of unknown figures in the background of photographs taken at colony celebrations</li>
+  -->
+  <VAEI_UnsettlingTalk.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef] y [RECIPIENT_nameDef] [eerilytalkedabout] [unsettlingsubject].</li>
+    <li>r_logentry->[INITIATOR_nameDef] [eerilytalkedabout] [unsettlingsubject] con [RECIPIENT_nameDef], dejando una atmósfera tensa.</li>
+    <li>eerilytalkedabout->susurraron sobre</li>
+    <li>eerilytalkedabout->murmuraron sobre</li>
+    <li>eerilytalkedabout->transmitieron pensamientos perturbadores sobre</li>
+    <li>eerilytalkedabout->intercambiaron ideas inquietantes sobre</li>
+    <li>eerilytalkedabout->compartieron puntos de vista escalofriantes sobre</li>
+    <li>eerilytalkedabout->discutieron el tema inquietante de</li>
+    <li>eerilytalkedabout->tuvieron una conversación desconcertante sobre</li>
+    <li>eerilytalkedabout->hablaron en voz baja sobre</li>
+    <li>eerilytalkedabout->profundizaron en los misterios de</li>
+    <li>eerilytalkedabout->exploraron los aspectos oscuros de</li>
+    <li>unsettlingsubject->maldiciones antiguas</li>
+    <li>unsettlingsubject->rituales prohibidos</li>
+    <li>unsettlingsubject->desapariciones inexplicables</li>
+    <li>unsettlingsubject->avistamientos misteriosos</li>
+    <li>unsettlingsubject->lugares embrujados dentro de la colonia</li>
+    <li>unsettlingsubject->teorías sobre entidades de otro mundo</li>
+    <li>unsettlingsubject->sueños perturbadores compartidos por colonos</li>
+    <li>unsettlingsubject->leyendas de apariciones fantasmales</li>
+    <li>unsettlingsubject->signos y presagios ominosos</li>
+    <li>unsettlingsubject->cuentos de locura impulsada por el aislamiento</li>
+    <li>unsettlingsubject->mensajes crípticos encontrados en textos antiguos</li>
+    <li>unsettlingsubject->comportamientos peculiares de la vida silvestre alrededor de la colonia</li>
+    <li>unsettlingsubject->discusiones sobre la naturaleza de la muerte y lo que hay más allá</li>
+    <li>unsettlingsubject->ruidos sobrenaturales escuchados por la noche</li>
+    <li>unsettlingsubject->especulaciones sobre artefactos malditos</li>
+    <li>unsettlingsubject->las implicaciones de la inmortalidad</li>
+    <li>unsettlingsubject->el pavor existencial del espacio infinito</li>
+    <li>unsettlingsubject->visiones recurrentes de un futuro apocalíptico</li>
+    <li>unsettlingsubject->la inquietante frecuencia de gemelos nacidos con conciencia compartida</li>
+    <li>unsettlingsubject->el fenómeno de las sombras moviéndose contra las leyes de la luz</li>
+    <li>unsettlingsubject->relatos de bucles temporales experimentados por viajeros</li>
+    <li>unsettlingsubject->la ética de la manipulación de la memoria en terapia</li>
+    <li>unsettlingsubject->informes de colonos hablando en idiomas desconocidos durante el sueño</li>
+    <li>unsettlingsubject->profecías antiguas que predicen la caída de la colonia</li>
+    <li>unsettlingsubject->patrones crípticos observados en las estrellas</li>
+    <li>unsettlingsubject->el concepto de la vida como una simulación revelado en códigos antiguos</li>
+    <li>unsettlingsubject->transmisiones recibidas de sectores vacíos del espacio</li>
+    <li>unsettlingsubject->el inicio repentino de histeria colectiva y su causa desconocida</li>
+    <li>unsettlingsubject->desapariciones vinculadas a laberintos antiguos e irresolubles encontrados en planetas</li>
+    <li>unsettlingsubject->la correlación entre los sueños de los colonos y los desastres del mundo real</li>
+    <li>unsettlingsubject->la persistencia de la conciencia después de la muerte</li>
+    <li>unsettlingsubject->evidencia de eventos predestinados codificados en artefactos antiguos</li>
+    <li>unsettlingsubject->el fenómeno de las sombras de los colonos actuando independientemente</li>
+    <li>unsettlingsubject->señales de radio inexplicables que se correlacionan con tragedias de la vieja tierra</li>
+    <li>unsettlingsubject->la teoría de que la realidad se está fracturando, vista en la distorsión del tiempo alrededor de la colonia</li>
+    <li>unsettlingsubject->pesadillas compartidas entre colonos que representan un vacío ineludible</li>
+    <li>unsettlingsubject->susurros escuchados en el viento que predicen eventos futuros</li>
+    <li>unsettlingsubject->el envejecimiento repentino e inexplicable de los niños nacidos bajo la luna roja de la colonia</li>
+    <li>unsettlingsubject->la creciente incidencia de espejos que reflejan realidades alternativas</li>
+    <li>unsettlingsubject->casos de palabras escritas que se reorganizan espontáneamente para formar mensajes proféticos</li>
+    <li>unsettlingsubject->informes de presencias invisibles sentidas por muchos, acompañadas de un toque escalofriante</li>
+    <li>unsettlingsubject->el zumbido inrastreable que lleva a los oyentes a pensamientos obsesivos</li>
+    <li>unsettlingsubject->la capacidad emergente entre los colonos de comunicarse a través de la telepatía</li>
+    <li>unsettlingsubject->el descubrimiento de una antigua ciudad subterránea que mapea punto por punto a la colonia de arriba</li>
+    <li>unsettlingsubject->la conexión entre las desapariciones masivas históricas y las desapariciones actuales en la colonia</li>
+    <li>unsettlingsubject->el acto ordinario de parpadear, sin embargo, algunos colonos dejan de parpadear por completo durante días</li>
+    <li>unsettlingsubject->sueños comunes entre los colonos que presentan un día ordinario que termina en una tragedia inexplicable</li>
+    <li>unsettlingsubject->el fenómeno donde los artículos personales se encuentran enterrados debajo de árboles recién plantados sin explicación</li>
+    <li>unsettlingsubject->amigos imaginarios de los niños que parecen predecir accidentes domésticos con una precisión alarmante</li>
+    <li>unsettlingsubject->mascotas domésticas mirando intensamente a las esquinas de las habitaciones donde la temperatura es inexplicablemente más fría</li>
+    <li>unsettlingsubject->el cambio sutil pero notable en el sabor del agua antes de que alguien en la colonia desaparezca</li>
+    <li>unsettlingsubject->la tarea rutinaria de jardinería, donde ocasionalmente se descubren tumbas sin marcar</li>
+    <li>unsettlingsubject->la improbabilidad estadística de la frecuencia con la que los espejos se rompen cuando ciertos individuos pasan</li>
+    <li>unsettlingsubject->cada caso de déjà vu seguido de fallos eléctricos en toda la colonia</li>
+    <li>unsettlingsubject->ver viejos registros de video que inexplicablemente reproducen escenas nunca grabadas</li>
+    <li>unsettlingsubject->voces captadas en dispositivos de comunicación que se asemejan a las de antiguos colonos fallecidos hace mucho tiempo</li>
+    <li>unsettlingsubject->diarios personales encontrados escritos con la letra de aquellos que afirman que nunca los escribieron</li>
+    <li>unsettlingsubject->cortes de energía frecuentes que se alinean con las fases de un cuerpo celeste desconocido visible solo para algunos</li>
+    <li>unsettlingsubject->personas que se despiertan con conocimiento de un idioma que nunca aprendieron, hablando con fluidez en su sueño</li>
+    <li>unsettlingsubject->la aparición recurrente de figuras desconocidas en el fondo de fotografías tomadas en celebraciones de la colonia</li>
+  </VAEI_UnsettlingTalk.logRulesInitiator.rulesStrings>
+  
+  <!-- EN: vicious mockery -->
+  <VAEI_ViciousMockery.label>burla viciosa</VAEI_ViciousMockery.label>
+  <!-- EN:
+    <li>r_logentry->[INITIATOR_nameDef] [visciouslymocked] [target] for [characteristic].</li>
+    <li>r_logentry->[INITIATOR_nameDef] [visciouslymocked] [target]'s [characteristic], causing whispers among the onlookers.</li>
+    <li>r_logentry->[INITIATOR_nameDef] launched a biting taunt at [target], targeting their [characteristic].</li>
+    <li>characteristic(INITIATOR_cubeInterest==false)->[PersonalCharacteristic]</li>
+    <li>characteristic(INITIATOR_cubeInterest==true)->[PersonalCharacteristicCube]</li>
+    <li>target(p=4)->[RECIPIENT_nameDef]</li>
+    <li>target->[RECIPIENT_nameDef]'s [PersonFamily]</li>
+    <li>visciouslymocked->viciously mocked</li>
+    <li>visciouslymocked->cruelly derided</li>
+    <li>visciouslymocked->bitingly taunted</li>
+    <li>visciouslymocked->scornfully ridiculed</li>
+    <li>visciouslymocked->sharply teased</li>
+    <li>visciouslymocked->aggressively belittled</li>
+    <li>visciouslymocked->sneeringly insulted</li>
+    <li>visciouslymocked->harshly lampooned</li>
+    <li>visciouslymocked->savagely diminished</li>
+    <li>visciouslymocked->maliciously slandered</li>
+    <li>visciouslymocked->cuttingly satirized</li>
+    <li>visciouslymocked->brutally disparaged</li>
+  -->
+  <VAEI_ViciousMockery.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef] [visciouslymocked] a [target] por su [characteristic].</li>
+    <li>r_logentry->[INITIATOR_nameDef] [visciouslymocked] [characteristic] de [target], causando susurros entre los espectadores.</li>
+    <li>r_logentry->[INITIATOR_nameDef] lanzó una burla mordaz a [target], apuntando a su [characteristic].</li>
+    <li>characteristic(INITIATOR_cubeInterest==false)->[PersonalCharacteristic]</li>
+    <li>characteristic(INITIATOR_cubeInterest==true)->[PersonalCharacteristicCube]</li>
+    <li>target(p=4)->[RECIPIENT_nameDef]</li>
+    <li>target->[PersonFamily] de [RECIPIENT_nameDef]</li>
+    <li>visciouslymocked->ridiculizó viciosamente</li>
+    <li>visciouslymocked->escarneció cruelmente</li>
+    <li>visciouslymocked->provocó mordazmente</li>
+    <li>visciouslymocked->ridiculizó con desprecio</li>
+    <li>visciouslymocked->atormentó agudamente</li>
+    <li>visciouslymocked->menospreció agresivamente</li>
+    <li>visciouslymocked->insultó con desdén</li>
+    <li>visciouslymocked->satirizó duramente</li>
+    <li>visciouslymocked->rebajó salvajemente</li>
+    <li>visciouslymocked->calumnió maliciosamente</li>
+    <li>visciouslymocked->satirizó cortantemente</li>
+    <li>visciouslymocked->desacreditó brutalmente</li>
+  </VAEI_ViciousMockery.logRulesInitiator.rulesStrings>
+  
+  <!-- EN: void self-harm -->
+  <VAEI_VoidSelfHarm.label>autolesión del vacío</VAEI_VoidSelfHarm.label>
+  <!-- EN:
+    <li>r_logentry->[INITIATOR_nameDef] [rambled] about [subjectInsane] [while] [cutting] their [skin].</li>
+    <li>r_logentry->[INITIATOR_nameDef] [rambled] [darkSpeechAdverb] about [subjectInsane] as they [wounded] themselves.</li>
+    <li>while->while simultaneously</li>
+    <li>while->while</li>
+    <li>while->even as they methodically</li>
+    <li>while->whilst at the same time</li>
+    <li>while->all the while</li>
+    <li>while->whilst calmly</li>
+    <li>while->during which they carefully</li>
+    <li>while->in the midst of which they were</li>
+    <li>cutting->slicing</li>
+    <li>cutting->carving</li>
+    <li>cutting->lacerating</li>
+    <li>cutting->gashing</li>
+    <li>cutting->scratching</li>
+    <li>cutting->incising</li>
+    <li>cutting->scoring</li>
+    <li>cutting->slashing</li>
+    <li>cutting->nicking</li>
+    <li>cutting->mutilating</li>
+    <li>skin->flesh</li>
+    <li>skin->body</li>
+    <li>skin->skin</li>
+    <li>skin->limbs</li>
+    <li>wounded->injured</li>
+    <li>wounded->harmed</li>
+    <li>wounded->damaged</li>
+    <li>wounded->maimed</li>
+    <li>wounded->cut</li>
+    <li>wounded->sliced</li>
+  -->
+  <VAEI_VoidSelfHarm.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef] [rambled] sobre [subjectInsane] [while] [cutting] su [skin].</li>
+    <li>r_logentry->[INITIATOR_nameDef] [rambled] [darkSpeechAdverb] sobre [subjectInsane] mientras se [wounded].</li>
+    <li>while->mientras simultáneamente</li>
+    <li>while->mientras</li>
+    <li>while->incluso mientras metódicamente</li>
+    <li>while->mientras al mismo tiempo</li>
+    <li>while->todo el tiempo</li>
+    <li>while->mientras tranquilamente</li>
+    <li>while->durante lo cual cuidadosamente</li>
+    <li>while->en medio de lo cual estaba</li>
+    <li>cutting->rebanando</li>
+    <li>cutting->tallando</li>
+    <li>cutting->lacerando</li>
+    <li>cutting->haciendo tajos en</li>
+    <li>cutting->rasguñando</li>
+    <li>cutting->haciendo incisiones en</li>
+    <li>cutting->marcando</li>
+    <li>cutting->cortando</li>
+    <li>cutting->mellando</li>
+    <li>cutting->mutilando</li>
+    <li>skin->carne</li>
+    <li>skin->cuerpo</li>
+    <li>skin->piel</li>
+    <li>skin->extremidades</li>
+    <li>wounded->lesionaba</li>
+    <li>wounded->dañaba</li>
+    <li>wounded->lastimaba</li>
+    <li>wounded->mutilaba</li>
+    <li>wounded->cortaba</li>
+    <li>wounded->rebanaba</li>
+  </VAEI_VoidSelfHarm.logRulesInitiator.rulesStrings>
+  
+</LanguageData>

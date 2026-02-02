@@ -1,0 +1,184 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: DMS - Synthroid Enhanced Patch -->
+  <SEP_SettingMenu.label>DMS - Synthroid Enhanced Patch</SEP_SettingMenu.label>
+  <!-- EN: !!修改设置后必须重启才能生效!! -->
+  <SEP_SettingMenu.settings.0.text>¡Debes reiniciar después de cambiar la configuración para que surta efecto!</SEP_SettingMenu.settings.0.text>
+  
+  <!-- EN: Armiman 军人相关设置 -->
+  <SEP_SettingMenu.settings.2.leftCol.0.cachedText>Configuración de Soldado sintético</SEP_SettingMenu.settings.2.leftCol.0.cachedText>
+  <!-- EN: Armiman 军人相关设置 -->
+  <SEP_SettingMenu.settings.2.leftCol.0.text>Configuración de Soldado sintético</SEP_SettingMenu.settings.2.leftCol.0.text>
+  <!-- EN: 工作技能等级: 10 (原版默认值为8) -->
+  <SEP_SettingMenu.settings.3.leftCol.0.cachedText>Nivel de Trabajo: 10 (Original: 8)</SEP_SettingMenu.settings.3.leftCol.0.cachedText>
+  <!-- EN: 工作技能等级: {ArmimanLevel} (原版默认值为8) -->
+  <SEP_SettingMenu.settings.3.leftCol.0.text>Nivel de Trabajo: {ArmimanLevel} (Original: 8)</SEP_SettingMenu.settings.3.leftCol.0.text>
+  <!-- EN: 战斗技能等级: 10 (原版默认值为8) -->
+  <SEP_SettingMenu.settings.4.leftCol.0.cachedText>Nivel de Combate: 10 (Original: 8)</SEP_SettingMenu.settings.4.leftCol.0.cachedText>
+  <!-- EN: 战斗技能等级: {ArmimanFightLevel} (原版默认值为8) -->
+  <SEP_SettingMenu.settings.4.leftCol.0.text>Nivel de Combate: {ArmimanFightLevel} (Original: 8)</SEP_SettingMenu.settings.4.leftCol.0.text>
+  <!-- EN: 带宽: 2 (原版默认值为2) -->
+  <SEP_SettingMenu.settings.5.leftCol.0.cachedText>Ancho de banda: 2 (Original: 2)</SEP_SettingMenu.settings.5.leftCol.0.cachedText>
+  <!-- EN: 带宽: {ArmimanBandwidth} (原版默认值为2) -->
+  <SEP_SettingMenu.settings.5.leftCol.0.text>Ancho de banda: {ArmimanBandwidth} (Original: 2)</SEP_SettingMenu.settings.5.leftCol.0.text>
+  
+  <!-- EN: 军人相关设置全局开关 -->
+  <SEP_SettingMenu.settings.2.rightCol.0.tooltip>Interruptor global de configuración de Soldado sintético</SEP_SettingMenu.settings.2.rightCol.0.tooltip>
+  <!-- EN: 工作类型设置 -->
+  <SEP_SettingMenu.settings.6.text>Configuración de tipo de trabajo</SEP_SettingMenu.settings.6.text>
+  <!-- EN: 原版默认工作类型 -->
+  <SEP_SettingMenu.settings.7.text>Tipos de trabajo predeterminados (Vanilla)</SEP_SettingMenu.settings.7.text>
+  <SEP_SettingMenu.settings.8.leftCol.0.leftCol.0.label>Bombero</SEP_SettingMenu.settings.8.leftCol.0.leftCol.0.label>
+  <SEP_SettingMenu.settings.8.leftCol.0.rightCol.0.label>Transporte</SEP_SettingMenu.settings.8.leftCol.0.rightCol.0.label>
+  <SEP_SettingMenu.settings.8.rightCol.0.leftCol.0.label>Vigilante</SEP_SettingMenu.settings.8.rightCol.0.leftCol.0.label>
+  <SEP_SettingMenu.settings.8.rightCol.0.rightCol.0.label>Adiestrar</SEP_SettingMenu.settings.8.rightCol.0.rightCol.0.label>
+  <!-- EN: 可新增工作类型 -->
+  <SEP_SettingMenu.settings.9.text>Tipos de trabajo adicionales</SEP_SettingMenu.settings.9.text>
+  <SEP_SettingMenu.settings.10.leftCol.0.leftCol.0.label>Cocinar</SEP_SettingMenu.settings.10.leftCol.0.leftCol.0.label>
+  <SEP_SettingMenu.settings.10.leftCol.0.rightCol.0.label>Cazar</SEP_SettingMenu.settings.10.leftCol.0.rightCol.0.label>
+  <SEP_SettingMenu.settings.10.rightCol.0.leftCol.0.label>Construir</SEP_SettingMenu.settings.10.rightCol.0.leftCol.0.label>
+  <SEP_SettingMenu.settings.10.rightCol.0.rightCol.0.label>Cultivar</SEP_SettingMenu.settings.10.rightCol.0.rightCol.0.label>
+  <SEP_SettingMenu.settings.11.leftCol.0.leftCol.0.label>Minar</SEP_SettingMenu.settings.11.leftCol.0.leftCol.0.label>
+  <SEP_SettingMenu.settings.11.leftCol.0.rightCol.0.label>Cortar plantas</SEP_SettingMenu.settings.11.leftCol.0.rightCol.0.label>
+  <SEP_SettingMenu.settings.11.rightCol.0.leftCol.0.label>Forjar</SEP_SettingMenu.settings.11.rightCol.0.leftCol.0.label>
+  <SEP_SettingMenu.settings.11.rightCol.0.rightCol.0.label>Sastrería</SEP_SettingMenu.settings.11.rightCol.0.rightCol.0.label>
+  <SEP_SettingMenu.settings.12.leftCol.0.leftCol.0.label>Arte</SEP_SettingMenu.settings.12.leftCol.0.leftCol.0.label>
+  <SEP_SettingMenu.settings.12.leftCol.0.rightCol.0.label>Fabricar</SEP_SettingMenu.settings.12.leftCol.0.rightCol.0.label>
+  <SEP_SettingMenu.settings.12.rightCol.0.leftCol.0.label>Médico</SEP_SettingMenu.settings.12.rightCol.0.leftCol.0.label>
+  <SEP_SettingMenu.settings.12.rightCol.0.rightCol.0.label>Limpiar</SEP_SettingMenu.settings.12.rightCol.0.rightCol.0.label>
+
+  <!-- EN: BigSister 大姐头相关设置 -->
+  <SEP_SettingMenu.settings.14.leftCol.0.cachedText>Configuración de Hermana mayor</SEP_SettingMenu.settings.14.leftCol.0.cachedText>
+  <!-- EN: BigSister 大姐头相关设置 -->
+  <SEP_SettingMenu.settings.14.leftCol.0.text>Configuración de Hermana mayor</SEP_SettingMenu.settings.14.leftCol.0.text>
+  <!-- EN: 工作技能等级: 14 (原版默认值为12) -->
+  <SEP_SettingMenu.settings.15.leftCol.0.cachedText>Nivel de Trabajo: 14 (Original: 12)</SEP_SettingMenu.settings.15.leftCol.0.cachedText>
+  <!-- EN: 工作技能等级: {BigSisterLevel} (原版默认值为12) -->
+  <SEP_SettingMenu.settings.15.leftCol.0.text>Nivel de Trabajo: {BigSisterLevel} (Original: 12)</SEP_SettingMenu.settings.15.leftCol.0.text>
+  <!-- EN: 战斗技能等级: 14 (原版默认值为12) -->
+  <SEP_SettingMenu.settings.16.leftCol.0.cachedText>Nivel de Combate: 14 (Original: 12)</SEP_SettingMenu.settings.16.leftCol.0.cachedText>
+  <!-- EN: 战斗技能等级: {BigSisterFightLevel} (原版默认值为12) -->
+  <SEP_SettingMenu.settings.16.leftCol.0.text>Nivel de Combate: {BigSisterFightLevel} (Original: 12)</SEP_SettingMenu.settings.16.leftCol.0.text>
+  <!-- EN: 带宽: 3 (原版默认值为3) -->
+  <SEP_SettingMenu.settings.17.leftCol.0.cachedText>Ancho de banda: 3 (Original: 3)</SEP_SettingMenu.settings.17.leftCol.0.cachedText>
+  <!-- EN: 带宽: {BigSisterBandwidth} (原版默认值为3) -->
+  <SEP_SettingMenu.settings.17.leftCol.0.text>Ancho de banda: {BigSisterBandwidth} (Original: 3)</SEP_SettingMenu.settings.17.leftCol.0.text>
+  
+  <!-- EN: 大姐头相关设置全局开关 -->
+  <SEP_SettingMenu.settings.14.rightCol.0.tooltip>Interruptor global de configuración de Hermana mayor</SEP_SettingMenu.settings.14.rightCol.0.tooltip>
+  <!-- EN: 工作类型设置 -->
+  <SEP_SettingMenu.settings.18.text>Configuración de tipo de trabajo</SEP_SettingMenu.settings.18.text>
+  <!-- EN: 原版默认工作类型 -->
+  <SEP_SettingMenu.settings.19.text>Tipos de trabajo predeterminados (Vanilla)</SEP_SettingMenu.settings.19.text>
+  <SEP_SettingMenu.settings.20.leftCol.0.leftCol.0.label>Construir</SEP_SettingMenu.settings.20.leftCol.0.leftCol.0.label>
+  <SEP_SettingMenu.settings.20.leftCol.0.rightCol.0.label>Fabricar</SEP_SettingMenu.settings.20.leftCol.0.rightCol.0.label>
+  <SEP_SettingMenu.settings.20.rightCol.0.leftCol.0.label>Adiestrar</SEP_SettingMenu.settings.20.rightCol.0.leftCol.0.label>
+  <!-- EN: 可新增工作类型 -->
+  <SEP_SettingMenu.settings.21.text>Tipos de trabajo adicionales</SEP_SettingMenu.settings.21.text>
+  <SEP_SettingMenu.settings.22.leftCol.0.leftCol.0.label>Cocinar</SEP_SettingMenu.settings.22.leftCol.0.leftCol.0.label>
+  <SEP_SettingMenu.settings.22.leftCol.0.rightCol.0.label>Cazar</SEP_SettingMenu.settings.22.leftCol.0.rightCol.0.label>
+  <SEP_SettingMenu.settings.22.rightCol.0.leftCol.0.label>Bombero</SEP_SettingMenu.settings.22.rightCol.0.leftCol.0.label>
+  <SEP_SettingMenu.settings.22.rightCol.0.rightCol.0.label>Cultivar</SEP_SettingMenu.settings.22.rightCol.0.rightCol.0.label>
+  <SEP_SettingMenu.settings.23.leftCol.0.leftCol.0.label>Minar</SEP_SettingMenu.settings.23.leftCol.0.leftCol.0.label>
+  <SEP_SettingMenu.settings.23.leftCol.0.rightCol.0.label>Cortar plantas</SEP_SettingMenu.settings.23.leftCol.0.rightCol.0.label>
+  <SEP_SettingMenu.settings.23.rightCol.0.leftCol.0.label>Forjar</SEP_SettingMenu.settings.23.rightCol.0.leftCol.0.label>
+  <SEP_SettingMenu.settings.23.rightCol.0.rightCol.0.label>Sastrería</SEP_SettingMenu.settings.23.rightCol.0.rightCol.0.label>
+  <SEP_SettingMenu.settings.24.leftCol.0.leftCol.0.label>Arte</SEP_SettingMenu.settings.24.leftCol.0.leftCol.0.label>
+  <SEP_SettingMenu.settings.24.leftCol.0.rightCol.0.label>Médico</SEP_SettingMenu.settings.24.leftCol.0.rightCol.0.label>
+  <SEP_SettingMenu.settings.24.rightCol.0.leftCol.0.label>Transporte</SEP_SettingMenu.settings.24.rightCol.0.leftCol.0.label>
+  <SEP_SettingMenu.settings.24.rightCol.0.rightCol.0.label>Limpiar</SEP_SettingMenu.settings.24.rightCol.0.rightCol.0.label>
+  <SEP_SettingMenu.settings.25.leftCol.0.leftCol.0.label>Vigilante</SEP_SettingMenu.settings.25.leftCol.0.leftCol.0.label>
+
+  <!-- EN: Maiden 侍女相关设置 -->
+  <SEP_SettingMenu.settings.27.leftCol.0.cachedText>Configuración de Doncella</SEP_SettingMenu.settings.27.leftCol.0.cachedText>
+  <!-- EN: Maiden 侍女相关设置 -->
+  <SEP_SettingMenu.settings.27.leftCol.0.text>Configuración de Doncella</SEP_SettingMenu.settings.27.leftCol.0.text>
+  <!-- EN: 工作技能等级: 10 (原版默认值为6) -->
+  <SEP_SettingMenu.settings.28.leftCol.0.cachedText>Nivel de Trabajo: 10 (Original: 6)</SEP_SettingMenu.settings.28.leftCol.0.cachedText>
+  <!-- EN: 工作技能等级: {MaidenLevel} (原版默认值为6) -->
+  <SEP_SettingMenu.settings.28.leftCol.0.text>Nivel de Trabajo: {MaidenLevel} (Original: 6)</SEP_SettingMenu.settings.28.leftCol.0.text>
+  <!-- EN: 战斗技能等级: 6 (原版默认值为6) -->
+  <SEP_SettingMenu.settings.29.leftCol.0.cachedText>Nivel de Combate: 6 (Original: 6)</SEP_SettingMenu.settings.29.leftCol.0.cachedText>
+  <!-- EN: 战斗技能等级: {MaidenFightLevel} (原版默认值为6) -->
+  <SEP_SettingMenu.settings.29.leftCol.0.text>Nivel de Combate: {MaidenFightLevel} (Original: 6)</SEP_SettingMenu.settings.29.leftCol.0.text>
+  <!-- EN: 带宽: 1 (原版默认值为1) -->
+  <SEP_SettingMenu.settings.30.leftCol.0.cachedText>Ancho de banda: 1 (Original: 1)</SEP_SettingMenu.settings.30.leftCol.0.cachedText>
+  <!-- EN: 带宽: {MaidenBandwidth} (原版默认值为1) -->
+  <SEP_SettingMenu.settings.30.leftCol.0.text>Ancho de banda: {MaidenBandwidth} (Original: 1)</SEP_SettingMenu.settings.30.leftCol.0.text>
+  
+  <!-- EN: 侍女相关设置全局开关 -->
+  <SEP_SettingMenu.settings.27.rightCol.0.tooltip>Interruptor global de configuración de Doncella</SEP_SettingMenu.settings.27.rightCol.0.tooltip>
+  <!-- EN: 工作类型设置 -->
+  <SEP_SettingMenu.settings.31.text>Configuración de tipo de trabajo</SEP_SettingMenu.settings.31.text>
+  <!-- EN: 原版默认工作类型 -->
+  <SEP_SettingMenu.settings.32.text>Tipos de trabajo predeterminados (Vanilla)</SEP_SettingMenu.settings.32.text>
+  <SEP_SettingMenu.settings.33.leftCol.0.leftCol.0.label>Bombero</SEP_SettingMenu.settings.33.leftCol.0.leftCol.0.label>
+  <SEP_SettingMenu.settings.33.leftCol.0.rightCol.0.label>Médico</SEP_SettingMenu.settings.33.leftCol.0.rightCol.0.label>
+  <SEP_SettingMenu.settings.33.rightCol.0.leftCol.0.label>Limpiar</SEP_SettingMenu.settings.33.rightCol.0.leftCol.0.label>
+  <SEP_SettingMenu.settings.33.rightCol.0.rightCol.0.label>Adiestrar</SEP_SettingMenu.settings.33.rightCol.0.rightCol.0.label>
+  <SEP_SettingMenu.settings.34.leftCol.0.leftCol.0.label>Cocinar</SEP_SettingMenu.settings.34.leftCol.0.leftCol.0.label>
+  <SEP_SettingMenu.settings.34.leftCol.0.rightCol.0.label>Sastrería</SEP_SettingMenu.settings.34.leftCol.0.rightCol.0.label>
+  <!-- EN: 可新增工作类型 -->
+  <SEP_SettingMenu.settings.35.text>Tipos de trabajo adicionales</SEP_SettingMenu.settings.35.text>
+  <SEP_SettingMenu.settings.36.leftCol.0.leftCol.0.label>Minar</SEP_SettingMenu.settings.36.leftCol.0.leftCol.0.label>
+  <SEP_SettingMenu.settings.36.leftCol.0.rightCol.0.label>Cortar plantas</SEP_SettingMenu.settings.36.leftCol.0.rightCol.0.label>
+  <SEP_SettingMenu.settings.36.rightCol.0.leftCol.0.label>Forjar</SEP_SettingMenu.settings.36.rightCol.0.leftCol.0.label>
+  <SEP_SettingMenu.settings.36.rightCol.0.rightCol.0.label>Cazar</SEP_SettingMenu.settings.36.rightCol.0.rightCol.0.label>
+  <SEP_SettingMenu.settings.37.leftCol.0.leftCol.0.label>Arte</SEP_SettingMenu.settings.37.leftCol.0.leftCol.0.label>
+  <SEP_SettingMenu.settings.37.leftCol.0.rightCol.0.label>Fabricar</SEP_SettingMenu.settings.37.leftCol.0.rightCol.0.label>
+  <SEP_SettingMenu.settings.37.rightCol.0.leftCol.0.label>Transporte</SEP_SettingMenu.settings.37.rightCol.0.leftCol.0.label>
+  <SEP_SettingMenu.settings.37.rightCol.0.rightCol.0.label>Vigilante</SEP_SettingMenu.settings.37.rightCol.0.rightCol.0.label>
+  <SEP_SettingMenu.settings.38.leftCol.0.leftCol.0.label>Construir</SEP_SettingMenu.settings.38.leftCol.0.leftCol.0.label>
+  <SEP_SettingMenu.settings.38.leftCol.0.rightCol.0.label>Cultivar</SEP_SettingMenu.settings.38.leftCol.0.rightCol.0.label>
+
+  <!-- EN: Lady 女士相关设置 -->
+  <SEP_SettingMenu.settings.40.leftCol.0.cachedText>Configuración de Dama</SEP_SettingMenu.settings.40.leftCol.0.cachedText>
+  <!-- EN: Lady 女士相关设置 -->
+  <SEP_SettingMenu.settings.40.leftCol.0.text>Configuración de Dama</SEP_SettingMenu.settings.40.leftCol.0.text>
+  <!-- EN: 工作技能等级: 10 (除医生等级外，原版默认值为8) -->
+  <SEP_SettingMenu.settings.42.leftCol.0.cachedText>Nivel de Trabajo: 10 (Excepto medicina, Original: 8)</SEP_SettingMenu.settings.42.leftCol.0.cachedText>
+  <!-- EN: 工作技能等级: {LadyLevel} (除医生等级外，原版默认值为8) -->
+  <SEP_SettingMenu.settings.42.leftCol.0.text>Nivel de Trabajo: {LadyLevel} (Excepto medicina, Original: 8)</SEP_SettingMenu.settings.42.leftCol.0.text>
+  <!-- EN: 战斗技能等级: 10 (除射击等级外，原版默认值为8) -->
+  <SEP_SettingMenu.settings.43.leftCol.0.cachedText>Nivel de Combate: 10 (Excepto disparo, Original: 8)</SEP_SettingMenu.settings.43.leftCol.0.cachedText>
+  <!-- EN: 战斗技能等级: {LadyFightLevel} (除射击等级外，原版默认值为8) -->
+  <SEP_SettingMenu.settings.43.leftCol.0.text>Nivel de Combate: {LadyFightLevel} (Excepto disparo, Original: 8)</SEP_SettingMenu.settings.43.leftCol.0.text>
+  <!-- EN: 带宽: 3 (原版默认值为3) -->
+  <SEP_SettingMenu.settings.44.leftCol.0.cachedText>Ancho de banda: 3 (Original: 3)</SEP_SettingMenu.settings.44.leftCol.0.cachedText>
+  <!-- EN: 带宽: {LadyBandwidth} (原版默认值为3) -->
+  <SEP_SettingMenu.settings.44.leftCol.0.text>Ancho de banda: {LadyBandwidth} (Original: 3)</SEP_SettingMenu.settings.44.leftCol.0.text>
+  
+  <!-- EN: 女士相关设置全局开关 -->
+  <SEP_SettingMenu.settings.40.rightCol.0.tooltip>Interruptor global de configuración de Dama</SEP_SettingMenu.settings.40.rightCol.0.tooltip>
+  <!-- EN: 关于女士技能等级隐藏机制的说明... -->
+  <SEP_SettingMenu.settings.41.text>Sobre el mecanismo oculto de nivel de habilidad de Dama: El nivel de disparo y medicina de la Dama es un valor flotante en el juego original (10-16). Se determina al crear la unidad Dama. Si usas este mod para modificar los niveles, perderá el mecanismo flotante y será un valor fijo.</SEP_SettingMenu.settings.41.text>
+  <!-- EN: 工作类型设置 -->
+  <SEP_SettingMenu.settings.45.text>Configuración de tipo de trabajo</SEP_SettingMenu.settings.45.text>
+  <!-- EN: 原版默认工作类型 -->
+  <SEP_SettingMenu.settings.46.text>Tipos de trabajo predeterminados (Vanilla)</SEP_SettingMenu.settings.46.text>
+  <SEP_SettingMenu.settings.47.leftCol.0.leftCol.0.label>Bombero</SEP_SettingMenu.settings.47.leftCol.0.leftCol.0.label>
+  <SEP_SettingMenu.settings.47.leftCol.0.rightCol.0.label>Médico</SEP_SettingMenu.settings.47.leftCol.0.rightCol.0.label>
+  <SEP_SettingMenu.settings.47.rightCol.0.leftCol.0.label>Cultivar</SEP_SettingMenu.settings.47.rightCol.0.leftCol.0.label>
+  <SEP_SettingMenu.settings.47.rightCol.0.rightCol.0.label>Cortar plantas</SEP_SettingMenu.settings.47.rightCol.0.rightCol.0.label>
+  <SEP_SettingMenu.settings.48.leftCol.0.leftCol.0.label>Transporte</SEP_SettingMenu.settings.48.leftCol.0.leftCol.0.label>
+  <!-- EN: 可新增工作类型 -->
+  <SEP_SettingMenu.settings.49.text>Tipos de trabajo adicionales</SEP_SettingMenu.settings.49.text>
+  <SEP_SettingMenu.settings.50.leftCol.0.leftCol.0.label>Cocinar</SEP_SettingMenu.settings.50.leftCol.0.leftCol.0.label>
+  <SEP_SettingMenu.settings.50.leftCol.0.rightCol.0.label>Cazar</SEP_SettingMenu.settings.50.leftCol.0.rightCol.0.label>
+  <SEP_SettingMenu.settings.50.rightCol.0.leftCol.0.label>Construir</SEP_SettingMenu.settings.50.rightCol.0.leftCol.0.label>
+  <SEP_SettingMenu.settings.50.rightCol.0.rightCol.0.label>Vigilante</SEP_SettingMenu.settings.50.rightCol.0.rightCol.0.label>
+  <SEP_SettingMenu.settings.51.leftCol.0.leftCol.0.label>Minar</SEP_SettingMenu.settings.51.leftCol.0.leftCol.0.label>
+  <SEP_SettingMenu.settings.51.leftCol.0.rightCol.0.label>Adiestrar</SEP_SettingMenu.settings.51.leftCol.0.rightCol.0.label>
+  <SEP_SettingMenu.settings.51.rightCol.0.leftCol.0.label>Forjar</SEP_SettingMenu.settings.51.rightCol.0.leftCol.0.label>
+  <SEP_SettingMenu.settings.51.rightCol.0.rightCol.0.label>Sastrería</SEP_SettingMenu.settings.51.rightCol.0.rightCol.0.label>
+  <SEP_SettingMenu.settings.52.leftCol.0.leftCol.0.label>Arte</SEP_SettingMenu.settings.52.leftCol.0.leftCol.0.label>
+  <SEP_SettingMenu.settings.52.leftCol.0.rightCol.0.label>Fabricar</SEP_SettingMenu.settings.52.leftCol.0.rightCol.0.label>
+  <SEP_SettingMenu.settings.52.rightCol.0.leftCol.0.label>Limpiar</SEP_SettingMenu.settings.52.rightCol.0.leftCol.0.label>
+
+  <!-- EN: Reset Settings -->
+  <SEP_SettingMenu.settings.54.label>Restablecer configuración</SEP_SettingMenu.settings.54.label>
+  <!-- EN: Are you sure? -->
+  <SEP_SettingMenu.settings.54.message>¿Estás seguro?</SEP_SettingMenu.settings.54.message>
+  
+</LanguageData>

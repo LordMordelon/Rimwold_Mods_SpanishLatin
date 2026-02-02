@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Reset biocoding -->
+  <AC_ResetBiocodedThings.label>restablecer biocodificación</AC_ResetBiocodedThings.label>
+  <!-- EN: Reset biocoded equipment to factory settings, allowing for bonding with a new person.\n\nIf unsuccessful, the item may break. -->
+  <AC_ResetBiocodedThings.description>Restablece el equipo biocodificado a la configuración de fábrica, permitiendo su vinculación con una nueva persona.\n\nSi no tiene éxito, el objeto puede romperse.</AC_ResetBiocodedThings.description>
+  <!-- EN: Resetting biocoded things. -->
+  <AC_ResetBiocodedThings.jobString>Restableciendo objetos biocodificados.</AC_ResetBiocodedThings.jobString>
+  
+  <!-- EN: Shred neural stack -->
+  <AC_ShredNeuralStacks.label>triturar pila neural</AC_ShredNeuralStacks.label>
+  <!-- EN: Shred a neural stack to try to salvage usable material. -->
+  <AC_ShredNeuralStacks.description>Tritura una pila neural para intentar recuperar material útil.</AC_ShredNeuralStacks.description>
+  <!-- EN: neural stack -->
+  <AC_ShredNeuralStacks.ingredients.0.filter.customSummary>pila neural</AC_ShredNeuralStacks.ingredients.0.filter.customSummary>
+  <!-- EN: Shredding neural stack. -->
+  <AC_ShredNeuralStacks.jobString>Triturando pila neural.</AC_ShredNeuralStacks.jobString>
+  
+  <!-- EN: Smash neural stack -->
+  <AC_SmashNeuralStacks.label>Destruir pila neural</AC_SmashNeuralStacks.label>
+  <!-- EN: Smash a neural stack with simple hand tools to salvage usable material. -->
+  <AC_SmashNeuralStacks.description>Destruye una pila neural con herramientas manuales simples para recuperar material útil.</AC_SmashNeuralStacks.description>
+  <!-- EN: neural stack -->
+  <AC_SmashNeuralStacks.ingredients.0.filter.customSummary>pila neural</AC_SmashNeuralStacks.ingredients.0.filter.customSummary>
+  <!-- EN: Smashing neural stack. -->
+  <AC_SmashNeuralStacks.jobString>Destrozando pila neural.</AC_SmashNeuralStacks.jobString>
+  
+  <!-- EN: Unbound persona -->
+  <AC_UnboundPersona.label>desvincular persona</AC_UnboundPersona.label>
+  <!-- EN: Unbound a persona weapon from their current user, allowing for bonding with a new person.\n\nIf unsuccessful, the item may break. -->
+  <AC_UnboundPersona.description>Desvincula un arma personal de su usuario actual, permitiendo su vinculación con una nueva persona.\n\nSi no tiene éxito, el objeto puede romperse.</AC_UnboundPersona.description>
+  <!-- EN: Unbounding persona. -->
+  <AC_UnboundPersona.jobString>Desvinculando persona.</AC_UnboundPersona.jobString>  
+</LanguageData>

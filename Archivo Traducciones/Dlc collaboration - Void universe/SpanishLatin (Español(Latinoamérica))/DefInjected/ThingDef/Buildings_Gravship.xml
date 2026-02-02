@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: small flesh chemfuel tank -->
+  <UV_FleshChemfuelTank.label>tanque de quimbustible de carne pequeño</UV_FleshChemfuelTank.label>
+  <!-- EN: A fuel storage tank for grav ship thrusters. Equipped with an internal flesh-culturing apparatus that continuously generates chemfuel. -->
+  <UV_FleshChemfuelTank.description>Un tanque de almacenamiento de combustible para los propulsores de la nave gravitatoria. Equipado con un aparato interno de cultivo de carne que genera quimbustible continuamente.</UV_FleshChemfuelTank.description>
+  <!-- EN: Chemfuel -->
+  <UV_FleshChemfuelTank.comps.CompRefuelable.fuelGizmoLabel>Quimbustible</UV_FleshChemfuelTank.comps.CompRefuelable.fuelGizmoLabel>
+  <!-- EN: Chemfuel -->
+  <UV_FleshChemfuelTank.comps.CompRefuelable.fuelLabel>Quimbustible</UV_FleshChemfuelTank.comps.CompRefuelable.fuelLabel>
+  
+  <!-- EN: large flesh chemfuel tank -->
+  <UV_FleshLargeChemfuelTank.label>tanque de quimbustible de carne grande</UV_FleshLargeChemfuelTank.label>
+  <!-- EN: A large-scale fuel storage tank for grav ship thrusters. Features an integrated fleshmass nucleus containment housing that enables continuous chemfuel production. -->
+  <UV_FleshLargeChemfuelTank.description>Un tanque de almacenamiento de combustible a gran escala para los propulsores de la nave gravitatoria. Cuenta con una carcasa de contención de núcleo de masacarne integrada que permite la producción continua de quimbustible.</UV_FleshLargeChemfuelTank.description>
+  <!-- EN: Chemfuel -->
+  <UV_FleshLargeChemfuelTank.comps.CompRefuelable.fuelGizmoLabel>Quimbustible</UV_FleshLargeChemfuelTank.comps.CompRefuelable.fuelGizmoLabel>
+  <!-- EN: Chemfuel -->
+  <UV_FleshLargeChemfuelTank.comps.CompRefuelable.fuelLabel>Quimbustible</UV_FleshLargeChemfuelTank.comps.CompRefuelable.fuelLabel>
+  
+  <!-- EN: void grav field extender -->
+  <UV_VoidGravFieldExtender.label>extensor de campo gravitatorio del vacío</UV_VoidGravFieldExtender.label>
+  <!-- EN: A technological device used to increase the scale of a grav ship. Unlike standard extenders, the Void Field Extender augments the effective range of the GravEngine itself and increases the number of supported gantries the grav ship can maintain. Must be constructed within proximity of a GravEngine.\nA single grav ship can support a maximum of ten Void Field Extenders. -->
+  <UV_VoidGravFieldExtender.description>Un dispositivo tecnológico utilizado para aumentar la escala de una nave gravitatoria. A diferencia de los extensores estándar, el extensor de campo del vacío aumenta el alcance efectivo del propio motor gravitatorio e incrementa el número de pórticos soportados que la nave puede mantener. Debe construirse cerca de un motor gravitatorio.\nUna sola nave gravitatoria puede soportar un máximo de diez extensores de campo del vacío.</UV_VoidGravFieldExtender.description>
+  
+  <!-- EN: void thruster -->
+  <UV_VoidThruster.label>propulsor del vacío</UV_VoidThruster.label>
+  <!-- EN: An arcane thruster constructed from Monolith fragments, which significantly increases the range of a grav ship. It also drastically reduces the ship's flight energy consumption via dark energy. The thruster must be placed in an open area, clear of large structures and grav ship gantries.\nA single grav ship can be equipped with a maximum of one VoidThruster. -->
+  <UV_VoidThruster.description>Un propulsor arcano construido a partir de fragmentos de monolito, que aumenta significativamente el alcance de una nave gravitatoria. También reduce drásticamente el consumo de energía de vuelo de la nave mediante energía oscura. El propulsor debe colocarse en un área abierta, libre de estructuras grandes y pórticos de naves gravitatorias.\nUna sola nave gravitatoria puede equiparse con un máximo de un propulsor del vacío.</UV_VoidThruster.description>
+  
+</LanguageData>

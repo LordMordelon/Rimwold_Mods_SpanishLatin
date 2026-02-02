@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<!-- EN: Wealth interval -->
+  <NN.WealthInterval>Intervalo de riqueza</NN.WealthInterval>
+	<!-- EN: Queue size range -->
+  <NN.QueueSizeRange>Rango de tamaño de cola</NN.QueueSizeRange>
+	<!-- EN: Max video limit -->
+  <NN.MaxVideoLimit>Límite máximo de videos</NN.MaxVideoLimit>
+	<!-- EN: Set up a vidtube channel for {PAWN_nameDef} -->
+  <NN.SetupChannel>Configurar un canal de VidTube para {PAWN_nameDef}</NN.SetupChannel>
+	<!-- EN: Open vidtube -->
+  <NN.OpenVidtube>Abrir VidTube</NN.OpenVidtube>
+	<!-- EN: Delete {PAWN_nameDef}'s channel -->
+  <NN.DeleteChannel>Eliminar el canal de {PAWN_nameDef}</NN.DeleteChannel>
+	<!-- EN: Are you sure you want to permanently delete {PAWN_nameDef}'s vidtube channel? -->
+  <NN.DeleteChannelConfirmation>¿Estás seguro de que quieres eliminar permanentemente el canal de VidTube de {PAWN_nameDef}?</NN.DeleteChannelConfirmation>
+	<!-- EN: {PAWN_nameDef}'s channel -->
+  <NN.DefaultChannelName>Canal de {PAWN_nameDef}</NN.DefaultChannelName>
+	<!-- EN: Subscribers -->
+  <NN.Subscribers>Suscriptores</NN.Subscribers>
+	<!-- EN: Total views -->
+  <NN.TotalViews>Vistas totales</NN.TotalViews>
+	<!-- EN: Total revenue -->
+  <NN.TotalRevenue>Ingreso total</NN.TotalRevenue>
+	<!-- EN: Videos -->
+  <NN.Videos>Videos</NN.Videos>
+	<!-- EN: Tags -->
+  <NN.Tags>Etiquetas</NN.Tags>
+	<!-- EN: Views -->
+  <NN.Views>Vistas</NN.Views>
+	<!-- EN: Revenue -->
+  <NN.Revenue>Ingresos</NN.Revenue>
+	<!-- EN: Publish date -->
+  <NN.PublishDate>Fecha de publicación</NN.PublishDate>
+	<!-- EN: Record new video -->
+  <NN.RecordNewVideo>Grabar nuevo video</NN.RecordNewVideo>
+	<!-- EN: Create video -->
+  <NN.CreateVideo>Crear video</NN.CreateVideo>
+	<!-- EN: Basic -->
+  <NN.Basic>Básico</NN.Basic>
+	<!-- EN: Video title -->
+  <NN.VideoTitle>Título del video</NN.VideoTitle>
+	<!-- EN: Statistics -->
+  <NN.Statistics>Estadísticas</NN.Statistics>
+	<!-- EN: Views per day -->
+  <NN.ViewsPerDay>Vistas por día</NN.ViewsPerDay>
+	<!-- EN: View revenue per day -->
+  <NN.ViewRevenuePerDay>Ingresos de vistas por día</NN.ViewRevenuePerDay>
+	<!-- EN: Subscriber chance -->
+  <NN.SubscriberChance>Probabilidad de suscribirse</NN.SubscriberChance>
+	<!-- EN: Work to make -->
+  <NN.WorkToMake>Tiempo para realizar</NN.WorkToMake>
+	<!-- EN: Add tag -->
+  <NN.AddTag>Añadir etiqueta</NN.AddTag>
+	<!-- EN: Start recording -->
+  <NN.StartRecording>Empezar a grabar</NN.StartRecording>
+	<!-- EN: Search -->
+  <NN.Search>Buscar</NN.Search>
+	<!-- EN: Delete tag -->
+  <NN.DeleteTag>Eliminar etiqueta</NN.DeleteTag>
+	<!-- EN: Cannot use: {PAWN_labelShort} is incapable of social. -->
+  <NN.CannotUseIncapableOfSocial>No se puede usar: {PAWN_labelShort} es incapaz de socializar.</NN.CannotUseIncapableOfSocial>
+	<!-- EN: {PAWN_nameDef}'s VidTube Summary -->
+  <NN.VidtubeSummaryTitle>Resumen de VidTube de {PAWN_nameDef}</NN.VidtubeSummaryTitle>
+	<!-- EN: {PAWN_nameDef} has received {PAWN_possessive} VidTube summary, and {PAWN_possessive} revenue is arriving in cargo pods nearby. Below you can see the breakdown of how {PAWN_nameDef}’s VidTube channel is doing:\n\nVideos released total: {1}\nVideos released this quadrum: {2}\n\nViews total: {3}\nNew views this quadrum: {4}\nNew subscribers this quadrum: {5}\n\nRevenue generated this quadrum: {6}\nMost profitable video: {7} -->
+  <NN.VidtubeSummaryDesc>{PAWN_nameDef} ha recibido su resumen de VidTube, y sus ingresos están llegando en cápsulas de carga cercanas. A continuación puedes ver el desglose de cómo le va al canal de VidTube de {PAWN_nameDef}:\n\nTotal de videos publicados: {1}\nVideos publicados este cuadrimestre: {2}\n\nTotal de vistas: {3}\nNuevas vistas este cuadrimestre: {4}\nNuevos suscriptores este cuadrimestre: {5}\n\nIngresos generados este cuadrimestre: {6}\nVideo más rentable: {7}</NN.VidtubeSummaryDesc>
+	<!-- EN: Vidtube subscribers generate additional views on the vidtube channel of this colonist. Gain more subscriber by releasing more vidtube videos. -->
+  <NN.BiotabSummary>Los suscriptores de VidTube generan vistas adicionales en el canal de VidTube de este colono. Consigue más suscriptores publicando más videos de VidTube.</NN.BiotabSummary>
+</LanguageData>

@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: orbital transport lifter (incoming) -->
+  <DMS_PlayerShip_TransportShuttleIncoming.label>transbordador orbital (entrante)</DMS_PlayerShip_TransportShuttleIncoming.label>
+  
+  <!-- EN: orbital transport lifter (leaving) -->
+  <DMS_PlayerShip_TransportShuttleLeaving.label>transbordador orbital (saliente)</DMS_PlayerShip_TransportShuttleLeaving.label>
+  
+  <!-- EN: orbital transport lifter (incoming) -->
+  <DMS_Ship_TransportShuttleIncoming.label>transbordador orbital (entrante)</DMS_Ship_TransportShuttleIncoming.label>
+  
+  <!-- EN: orbital transport lifter (leaving) -->
+  <DMS_Ship_TransportShuttleLeaving.label>transbordador orbital (saliente)</DMS_Ship_TransportShuttleLeaving.label>
+  
+  <!-- EN: orbital transport lifter -->
+  <DMS_Shuttle.label>transbordador de tripulación</DMS_Shuttle.label>
+  <!-- EN: A light transport shuttle designed for transit between surface and orbit, it can lift up to 2 tons of cargo in flight. -->
+  <DMS_Shuttle.description>Un transbordador ligero diseñado para viajes entre la superficie y la órbita, capaz de levantar hasta 2 toneladas de carga en vuelo.</DMS_Shuttle.description>
+  
+  <!-- EN: orbital transport lifter -->
+  <DMS_Shuttle_Player.label>transbordador de tripulación</DMS_Shuttle_Player.label>
+  <!-- EN: A light transport shuttle designed for transit between surface and orbit, it can lift up to 2 tons of cargo in flight. -->
+  <DMS_Shuttle_Player.description>Un transbordador ligero diseñado para viajes entre la superficie y la órbita, capaz de levantar hasta 2 toneladas de carga en vuelo.</DMS_Shuttle_Player.description>
+  <!-- EN: {0} is ready to launch again. -->
+  <DMS_Shuttle_Player.comps.CompLaunchable.cooldownEndedMessage>{0} está listo para lanzarse de nuevo.</DMS_Shuttle_Player.comps.CompLaunchable.cooldownEndedMessage>
+  <!-- EN: Chemfuel -->
+  <DMS_Shuttle_Player.comps.CompRefuelable.fuelGizmoLabel>quimbustible</DMS_Shuttle_Player.comps.CompRefuelable.fuelGizmoLabel>
+  <!-- EN: Chemfuel -->
+  <DMS_Shuttle_Player.comps.CompRefuelable.fuelLabel>quimbustible</DMS_Shuttle_Player.comps.CompRefuelable.fuelLabel>
+  
+</LanguageData>

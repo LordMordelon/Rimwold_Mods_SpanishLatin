@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: More than Capable -->
+  <MTC.MoreThanCapable>More than Capable</MTC.MoreThanCapable>
+  
+  <!-- EN: Allow "Force Do Job" Behavior. -->
+  <MTC.allowFDJ>Permitir "Forzar trabajo"</MTC.allowFDJ>
+  <!-- EN: If this is checked, a pawn can be told to do a specific job, even if not assigned to the work type to which the job belongs. If you prefer vanilla behavior, and want to be able to tell a pawn to do a specific job only if they are actually assigned to the relevant work type, then uncheck it. Requires restart to apply. -->
+  <MTC.allowFDJTip>Si está activado, se puede ordenar a un colono que haga un trabajo específico aunque no tenga asignado ese tipo de trabajo. Si prefieres el comportamiento del juego base, desactívalo. Requiere reinicio.</MTC.allowFDJTip>
+  
+  <!-- EN: Obey Life Stages. -->
+  <MTC.obeyLifeStages>Respetar etapas de vida</MTC.obeyLifeStages>
+  <!-- EN: If this is checked, work types that have age requirements will be obeyed. -->
+  <MTC.obeyLifeStagesTip>Si está activado, se respetarán los trabajos restringidos por edad.</MTC.obeyLifeStagesTip>
+  
+  <!-- EN: Obey Guest Exceptions. -->
+  <MTC.obeyGuestExceptions>Respetar restricciones a huéspedes</MTC.obeyGuestExceptions>
+  <!-- EN: If this is checked, work types that forbid guests (slaves) from working will be obeyed. -->
+  <MTC.obeyGuestExceptionsTip>Si está activado, los trabajos prohibidos para huéspedes (esclavos) serán respetados.</MTC.obeyGuestExceptionsTip>
+  
+  <!-- EN: Suppress Debug Logs. -->
+  <MTC.suppressDebugLogs>Suprimir registros de depuración</MTC.suppressDebugLogs>
+  <!-- EN: If this is checked, non-critical messages related to this mod will not appear in logs. -->
+  <MTC.suppressDebugLogsTip>Si está activado, no se mostrarán mensajes no críticos de este mod en los registros.</MTC.suppressDebugLogsTip>
+  
+  <!-- EN: Hated work types -->
+  <MTC.IncapableOf>Trabajos odiados</MTC.IncapableOf>
+  <!-- EN: {0} hates doing this kind of work. -->
+  <MTC.CannotDoThisWork>{0} odia hacer este tipo de trabajo.</MTC.CannotDoThisWork>
+  
+  <!-- EN: Cannot prioritize (non-violent pawn not assigned a weapon) -->
+  <MTC.CannotPrioritizeWorkGiverDisabled>No se puede priorizar (colono no violento sin arma asignada)</MTC.CannotPrioritizeWorkGiverDisabled>
+  <!-- EN: Cannot prioritize (pawn hates and/or is not assigned to {0}) -->
+  <MTC.CannotPrioritizeNotAssignedToWorkType>No se puede priorizar (colono odia y/o no tiene asignado {0})</MTC.CannotPrioritizeNotAssignedToWorkType>
+  <!-- EN: {0} is non-violent and not assigned a weapon -->
+  <MTC.IsIncapableOfViolenceLower>{0} es no violento y no tiene un arma asignada</MTC.IsIncapableOfViolenceLower>
+  
+  <!-- EN: Bad work assignment -->
+  <MTC.BadWorkAssignment.Label>Asignación de trabajo inadecuada</MTC.BadWorkAssignment.Label>
+  <!-- EN: At least one pawn has been assigned to a hated work type. In the short term, this probably isn't a problem, but over time, it could lead to extreme unhappiness. -->
+  <MTC.BadWorkAssignment.Explanation>Al menos un colono tiene asignado un tipo de trabajo que odia. A corto plazo puede no ser un problema, pero con el tiempo podría generar infelicidad extrema.</MTC.BadWorkAssignment.Explanation>
+  
+  <!-- EN: Non-violent pawn assigned a weapon -->
+  <MTC.AssignedAWeapon.Label>Colono no violento con arma asignada</MTC.AssignedAWeapon.Label>
+  <!-- EN: A pawn who detests violence has been assigned a weapon. In the short term, this probably isn't a problem, but over time, it could lead to extreme unhappiness. -->
+  <MTC.AssignedAWeapon.Explanation>Un colono que detesta la violencia tiene un arma asignada. A corto plazo puede no ser un problema, pero con el tiempo podría generar infelicidad extrema.</MTC.AssignedAWeapon.Explanation>
+  
+  <!-- EN: Ignored Weapons: -->
+  <MTC.IgnoredWeaponsLabel>Armas ignoradas:</MTC.IgnoredWeaponsLabel>
+  <!-- EN: List of weapon DefNames to ignore for non-violent pawn checks. To find a weapon's DefName: enable Debug mode, click Inspect (spyglass icon on top of the screen), then Toggle deep inspection (leftmost button), and hover over the weapon on the ground. -->
+  <MTC.IgnoredWeaponsLabelTip>Lista de DefNames de armas que se ignorarán en colonos no violentos. Para ver el DefName de un arma: activa el modo de depuración, haz clic en Inspeccionar (ícono de lupa), luego en Inspección avanzada (primer botón), y pasa el cursor sobre el arma en el suelo.</MTC.IgnoredWeaponsLabelTip>
+  <!-- EN: Add Weapon: -->
+  <MTC.AddWeaponLabel>Agregar arma:</MTC.AddWeaponLabel>
+  <!-- EN: Add new weapon -->
+  <MTC.AddButton>Agregar arma</MTC.AddButton>
+  <!-- EN: Remove {0} -->
+  <MTC.RemoveButton>Eliminar {0}</MTC.RemoveButton>
+  <!-- EN: (No ignored weapons) -->
+  <MTC.NoIgnoredWeapons>(Sin armas ignoradas)</MTC.NoIgnoredWeapons>
+
+</LanguageData>

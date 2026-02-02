@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: mass driver shot -->
+  <VGE_Bullet_MassDriver.label>disparo de impulsor de masa</VGE_Bullet_MassDriver.label>
+  
+  <!-- EN: heavy charge annihilator -->
+  <VGE_Gun_HeavyChargeAnnihilator.label>aniquilador de carga pesada</VGE_Gun_HeavyChargeAnnihilator.label>
+  <!-- EN: A heavy pulse-charged weapon for mechanoid defense. -->
+  <VGE_Gun_HeavyChargeAnnihilator.description>Un arma pesada de carga de pulsos para la defensa mecanoide.</VGE_Gun_HeavyChargeAnnihilator.description>
+  <!-- EN: heavy charge annihilator -->
+  <VGE_Gun_HeavyChargeAnnihilator.verbs.Verb_Shoot.label>aniquilador de carga pesada</VGE_Gun_HeavyChargeAnnihilator.verbs.Verb_Shoot.label>
+  
+  <!-- EN: mass driver -->
+  <VGE_Gun_MassDriver.label>impulsor de masa</VGE_Gun_MassDriver.label>
+  <!-- EN: A triple-barrel electromagnetic artillery system. -->
+  <VGE_Gun_MassDriver.description>Un sistema de artillería electromagnética de triple cañón.</VGE_Gun_MassDriver.description>
+  <!-- EN: mass driver -->
+  <VGE_Gun_MassDriver.verbs.Verb_ShootWithSmoke.label>impulsor de masa</VGE_Gun_MassDriver.verbs.Verb_ShootWithSmoke.label>
+  
+  <!-- EN: heavy charge annihilator -->
+  <VGE_HeavyChargeAnnihilator.label>aniquilador de carga pesada</VGE_HeavyChargeAnnihilator.label>
+  <!-- EN: A heavy pulse-charged weapon, designed for sustained suppressive fire in defense of mechanoid orbital platforms. Its upgraded capacitors and cooling systems allow it to unleash longer, more devastating bursts than standard charge blasters, saturating entire areas with surprisingly accurate shots. -->
+  <VGE_HeavyChargeAnnihilator.description>Un arma pesada de carga de pulsos, diseñada para fuego de supresión sostenido en defensa de las plataformas orbitales mecanoides. Sus condensadores y sistemas de enfriamiento mejorados le permiten desatar ráfagas más largas y devastadoras que los lanzadores de carga estándar, saturando áreas enteras con disparos sorprendentemente precisos.</VGE_HeavyChargeAnnihilator.description>
+  
+  <!-- EN: large mechanoid thruster -->
+  <VGE_LargeMechanoidThruster.label>propulsor mecanoide grande</VGE_LargeMechanoidThruster.label>
+  <!-- EN: A massive astrofuel thruster built by the mechanoid core to propel their orbital platforms. Its construction mirrors human design but is reinforced with mechanical precision and efficiency, lined with thick vacstone plating that shrugs off extreme heat and stress. These thrusters allow mechanoid platforms to maneuver and maintain position in orbit. While unusable for human gravships, destroying one will yield a small supply of precious vacstone blocks. -->
+  <VGE_LargeMechanoidThruster.description>Un propulsor de astrobustible masivo construido por el núcleo mecanoide para propulsar sus plataformas orbitales. Su construcción imita el diseño humano pero está reforzada con precisión y eficiencia mecánica, revestida con un grueso blindaje de vaciorita que resiste el calor y el estrés extremos. Estos propulsores permiten que las plataformas mecanoides maniobren y mantengan su posición en órbita. Aunque no son utilizables para las gravinaves humanas, destruir uno proporcionará un pequeño suministro de valiosos bloques de vaciorita.</VGE_LargeMechanoidThruster.description>
+  
+  <!-- EN: mass driver -->
+  <VGE_MassDriver.label>impulsor de masa</VGE_MassDriver.label>
+  <!-- EN: A triple-barrel electromagnetic artillery system built into mechanoid defense platforms. It fires dense slugs at incredible velocities, tearing through both armored gravships in orbit and ground targets with equal ease. The weapon is fully autonomous, operated by a machine brain that requires no crew. Commonly seen on orbital bombardment platforms. -->
+  <VGE_MassDriver.description>Un sistema de artillería electromagnética de triple cañón integrado en las plataformas de defensa mecanoides. Dispara proyectiles densos a velocidades increíbles, atravesando tanto gravinaves blindadas en órbita como objetivos terrestres con la misma facilidad. El arma es totalmente autónoma, operada por un cerebro de máquina que no requiere tripulación. Se ve comúnmente en plataformas de bombardeo orbital.</VGE_MassDriver.description>
+  
+  <!-- EN: astrofuel node -->
+  <VGE_MechanoidAstrofuelNode.label>nodo de astrobustible</VGE_MechanoidAstrofuelNode.label>
+  <!-- EN: A compact fuel reservoir integrated into mechanoid platforms. It stores refined astrofuel for their systems, but when damaged it is highly unstable and prone to violent explosions. -->
+  <VGE_MechanoidAstrofuelNode.description>Un depósito de combustible compacto integrado en las plataformas mecanoides. Almacena astrobustible refinado para sus sistemas, pero cuando se daña es altamente inestable y propenso a explosiones violentas.</VGE_MechanoidAstrofuelNode.description>
+  
+  <!-- EN: mechanoid grav engine -->
+  <VGE_MechanoidGravEngine.label>motor gravitacional mecanoide</VGE_MechanoidGravEngine.label>
+  <!-- EN: The cold, artificial heart of a mechanoid orbital platform. Unlike human-built grav engines, these are constructed by the mechanoid core itself, optimized for ruthless efficiency and unending operation. They generate immense lift and stabilization fields that allow entire platforms to remain suspended in orbit, forming the backbone of mechanoid dominance in space. While largely incompatible with human systems and not usable for gravship construction, they can be destroyed to yield a gravcore, a rare and valuable prize for any who dare to challenge them. -->
+  <VGE_MechanoidGravEngine.description>El corazón frío y artificial de una plataforma orbital mecanoide. A diferencia de los motores gravitacionales construidos por humanos, estos son construidos por el propio núcleo mecanoide, optimizados para una eficiencia despiadada y un funcionamiento incesante. Generan inmensos campos de sustentación y estabilización que permiten que plataformas enteras permanezcan suspendidas en órbita, formando la columna vertebral del dominio mecanoide en el espacio. Aunque son en gran medida incompatibles con los sistemas humanos y no se pueden usar para la construcción de gravinaves, pueden ser destruidos para obtener un núcleo gravitacional, un premio raro y valioso para cualquiera que se atreva a desafiarlos.</VGE_MechanoidGravEngine.description>
+  
+  <!-- EN: mechanoid pod launcher -->
+  <VGE_MechanoidPodLauncher.label>lanzador de cápsulas mecanoide</VGE_MechanoidPodLauncher.label>
+  <!-- EN: A mechanized launch bay that periodically fires drop pods packed with mechanoids. These pods strike distant targets or nearby ships, allowing the platform to project its forces far beyond its hull. -->
+  <VGE_MechanoidPodLauncher.description>Una bahía de lanzamiento mecanizada que dispara periódicamente cápsulas de escape cargadas de mecanoides. Estas cápsulas impactan en objetivos distantes o naves cercanas, permitiendo que la plataforma proyecte sus fuerzas mucho más allá de su casco.</VGE_MechanoidPodLauncher.description>
+  
+  <!-- EN: resource processor -->
+  <VGE_MechanoidResourceProcessor.label>procesador de recursos</VGE_MechanoidResourceProcessor.label>
+  <!-- EN: A machine-built structure that sustains mechanoid platforms by breaking down cosmic debris and wreckage into usable resources. It operates at regular intervals, steadily producing metals and fuels needed to keep their orbiting strongholds supplied. -->
+  <VGE_MechanoidResourceProcessor.description>Una estructura construida por máquinas que sostiene las plataformas mecanoides descomponiendo desechos cósmicos y restos en recursos utilizables. Funciona a intervalos regulares, produciendo constantemente metales y combustibles necesarios para mantener abastecidas sus fortalezas en órbita.</VGE_MechanoidResourceProcessor.description>
+  
+  <!-- EN: mechanoid temp shield -->
+  <VGE_MechanoidTempShield.label>escudo temporal mecanoide</VGE_MechanoidTempShield.label>
+  <!-- EN: A compact defense unit that projects a localized shield around itself. The barrier activates only for a short time before collapsing, after which the device must cool down before it can deploy again. -->
+  <VGE_MechanoidTempShield.description>Una unidad de defensa compacta que proyecta un escudo localizado a su alrededor. La barrera se activa solo por un corto tiempo antes de colapsar, después de lo cual el dispositivo debe enfriarse antes de poder desplegarse nuevamente.</VGE_MechanoidTempShield.description>
+  
+</LanguageData>

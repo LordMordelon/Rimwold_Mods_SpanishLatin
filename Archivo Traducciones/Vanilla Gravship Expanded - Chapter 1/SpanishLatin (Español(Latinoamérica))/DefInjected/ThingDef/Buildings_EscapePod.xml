@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: damaged escape pod -->
+  <VGE_DamagedEscapePod.label>cápsula de escape dañada</VGE_DamagedEscapePod.label>
+  <!-- EN: A crashlanded, damaged escape pod. Can be hacked open to reveal what's inside. -->
+  <VGE_DamagedEscapePod.description>Una cápsula de escape dañada que se estrelló. Se puede hackear para revelar lo que hay dentro.</VGE_DamagedEscapePod.description>
+  <!-- EN: Opening... -->
+  <VGE_DamagedEscapePod.comps.CompHackableEscapePod.hackedInspectString>Abriendo...</VGE_DamagedEscapePod.comps.CompHackableEscapePod.hackedInspectString>
+  <!-- EN: {HACKER_labelShort} has finished hacking {SUBJECT_labelNoParenthesisDef}. -->
+  <VGE_DamagedEscapePod.comps.CompHackableEscapePod.hackedMessage>{HACKER_labelShort} ha terminado de hackear {SUBJECT_labelNoParenthesisDef}.</VGE_DamagedEscapePod.comps.CompHackableEscapePod.hackedMessage>
+  <!-- EN: Hack to open. -->
+  <VGE_DamagedEscapePod.comps.CompHackableEscapePod.notHackedInspectString>Hackear para abrir.</VGE_DamagedEscapePod.comps.CompHackableEscapePod.notHackedInspectString>
+  
+  <!-- EN: escape pod (incoming) -->
+  <VGE_EscapePodSkyfaller.label>cápsula de escape (entrante)</VGE_EscapePodSkyfaller.label>
+  
+</LanguageData>

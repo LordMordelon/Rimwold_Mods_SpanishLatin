@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: encrypted crate -->
+  <USH_EncryptedCrate.label>caja encriptada</USH_EncryptedCrate.label>
+  <!-- EN: An old container encrypted by a skilled hacker to protect its precious contents. -->
+  <USH_EncryptedCrate.description>Un antiguo contenedor encriptado por un hacker experto para proteger su valioso contenido.</USH_EncryptedCrate.description>
+  <!-- EN: {HACKER_labelShort} has finished hacking {SUBJECT_labelNoParenthesisDef}. -->
+  <USH_EncryptedCrate.comps.CompHackable.hackedMessage>{HACKER_labelShort} ha terminado de hackear {SUBJECT_labelNoParenthesisDef}.</USH_EncryptedCrate.comps.CompHackable.hackedMessage>
+  <!-- EN: Hack to open. -->
+  <USH_EncryptedCrate.comps.CompHackable.notHackedInspectString>Hackear para abrir.</USH_EncryptedCrate.comps.CompHackable.notHackedInspectString>
+  
+</LanguageData>

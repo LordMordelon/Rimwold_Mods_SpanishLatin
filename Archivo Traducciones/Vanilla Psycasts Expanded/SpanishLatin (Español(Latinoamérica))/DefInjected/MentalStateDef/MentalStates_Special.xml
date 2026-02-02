@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: fleeing -->
+  <VPE_Flee.label>huyendo</VPE_Flee.label>
+  <!-- EN: Mental state: Fleeing -->
+  <VPE_Flee.baseInspectLine>Estado mental: Huyendo</VPE_Flee.baseInspectLine>
+  <!-- EN: {0} is fleeing. -->
+  <VPE_Flee.beginLetter>{0} está huyendo.</VPE_Flee.beginLetter>
+  <!-- EN: flee -->
+  <VPE_Flee.beginLetterLabel>huir</VPE_Flee.beginLetterLabel>
+  <!-- EN: {0} is no longer fleeing. -->
+  <VPE_Flee.recoveryMessage>{0} ya no está huyendo.</VPE_Flee.recoveryMessage>
+  
+  <!-- EN: rage -->
+  <VPE_Manhunter.label>furia</VPE_Manhunter.label>
+  <!-- EN: Raging -->
+  <VPE_Manhunter.baseInspectLine>Furioso</VPE_Manhunter.baseInspectLine>
+  <!-- EN: {0} is raging! -->
+  <VPE_Manhunter.beginLetter>¡{0} está furioso!</VPE_Manhunter.beginLetter>
+  <!-- EN: {0}'s rage has come to an end. -->
+  <VPE_Manhunter.recoveryMessage>La furia de {0} ha llegado a su fin.</VPE_Manhunter.recoveryMessage>
+  
+  <!-- EN: territorial manhunter -->
+  <VPE_ManhunterTerritorial.label>cazador de hombres territorial</VPE_ManhunterTerritorial.label>
+  <!-- EN: Maddened: Territorial Manhunter -->
+  <VPE_ManhunterTerritorial.baseInspectLine>Enloquecido: Cazador de hombres territorial</VPE_ManhunterTerritorial.baseInspectLine>
+  <!-- EN: {0} has become a territorial manhunter! -->
+  <VPE_ManhunterTerritorial.beginLetter>¡{0} se ha convertido en un cazador de hombres territorial!</VPE_ManhunterTerritorial.beginLetter>
+  <!-- EN: {0}'s territorial defense instincts have come to an end. -->
+  <VPE_ManhunterTerritorial.recoveryMessage>Los instintos de defensa territorial de {0} han llegado a su fin.</VPE_ManhunterTerritorial.recoveryMessage>
+  
+</LanguageData>

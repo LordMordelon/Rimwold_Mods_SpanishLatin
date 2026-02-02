@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: heavy flamer shot -->
+  <VWE_Bullet_HeavyFlamer.label>disparo de lanzallamas pesado</VWE_Bullet_HeavyFlamer.label>
+  
+  <!-- EN: swarm rocket -->
+  <VWE_Bullet_SwarmRocket.label>cohete de enjambre</VWE_Bullet_SwarmRocket.label>
+  
+  <!-- EN: autocannon -->
+  <VWE_Gun_Autocannon.label>cañón automático</VWE_Gun_Autocannon.label>
+  <!-- EN: A self-loading large-bore cannon. Its large-caliber shells do heavy damage over significant ranges. It's slow to aim and it cannot fire at close-up targets.\n\nBeing an extremely heavy weapon, this gun requires a power armor to be effectively used.\n\nThis weapon has limited number of uses. -->
+  <VWE_Gun_Autocannon.description>Un cañón de gran calibre de carga automática. Sus proyectiles de gran calibre causan graves daños a distancias significativas. Es lento para apuntar y no puede disparar a objetivos cercanos.\n\nAl ser un arma extremadamente pesada, requiere una servoarmadura para ser usada eficazmente.\n\nEsta arma tiene un número limitado de usos.</VWE_Gun_Autocannon.description>
+  <!-- EN: grip -->
+  <VWE_Gun_Autocannon.tools.grip.label>empuñadura</VWE_Gun_Autocannon.tools.grip.label>
+  <!-- EN: barrel -->
+  <VWE_Gun_Autocannon.tools.barrel.label>cañón</VWE_Gun_Autocannon.tools.barrel.label>
+  <!-- EN: autocannon -->
+  <VWE_Gun_Autocannon.verbs.Verb_Shoot.label>cañón automático</VWE_Gun_Autocannon.verbs.Verb_Shoot.label>
+  
+  <!-- EN: handheld mortar -->
+  <VWE_Gun_HandheldMortar.label>mortero portátil</VWE_Gun_HandheldMortar.label>
+  <!-- EN: Mortar launcher. Lobs bombs over walls. Very inaccurate but long-ranged. It's slow to aim and it cannot fire at close-up targets.\n\nBeing an extremely heavy weapon, this gun requires a power armor to be effectively used.\n\nThis weapon has limited number of uses. -->
+  <VWE_Gun_HandheldMortar.description>Lanzador de mortero. Lanza bombas sobre muros. Muy impreciso pero de largo alcance. Es lento para apuntar y no puede disparar a objetivos cercanos.\n\nAl ser un arma extremadamente pesada, requiere una servoarmadura para ser usada eficazmente.\n\nEsta arma tiene un número limitado de usos.</VWE_Gun_HandheldMortar.description>
+  <!-- EN: grip -->
+  <VWE_Gun_HandheldMortar.tools.grip.label>empuñadura</VWE_Gun_HandheldMortar.tools.grip.label>
+  <!-- EN: barrel -->
+  <VWE_Gun_HandheldMortar.tools.barrel.label>cañón</VWE_Gun_HandheldMortar.tools.barrel.label>
+  <!-- EN: handheld mortar -->
+  <VWE_Gun_HandheldMortar.verbs.Verb_Shoot.label>mortero portátil</VWE_Gun_HandheldMortar.verbs.Verb_Shoot.label>
+  
+  <!-- EN: heavy flamer -->
+  <VWE_Gun_HeavyFlamer.label>lanzallamas pesado</VWE_Gun_HeavyFlamer.label>
+  <!-- EN: A powerful, military-grade flamer based on mechanoid inferno spewers. It can cover the entire area in front of the user in flames.\n\nBeing an extremely heavy weapon, this gun requires a power armor to be effectively used.\n\nThis weapon has limited number of uses. -->
+  <VWE_Gun_HeavyFlamer.description>Un potente lanzallamas de grado militar basado en los lanzadores infernales mecanoides. Puede cubrir toda el área frente al usuario en llamas.\n\nAl ser un arma extremadamente pesada, requiere una servoarmadura para ser usada eficazmente.\n\nEsta arma tiene un número limitado de usos.</VWE_Gun_HeavyFlamer.description>
+  <!-- EN: grip -->
+  <VWE_Gun_HeavyFlamer.tools.grip.label>empuñadura</VWE_Gun_HeavyFlamer.tools.grip.label>
+  <!-- EN: barrel -->
+  <VWE_Gun_HeavyFlamer.tools.barrel.label>cañón</VWE_Gun_HeavyFlamer.tools.barrel.label>
+  <!-- EN: heavy flamer -->
+  <VWE_Gun_HeavyFlamer.verbs.Verb_Shoot.label>lanzallamas pesado</VWE_Gun_HeavyFlamer.verbs.Verb_Shoot.label>
+  
+  <!-- EN: swarm missile launcher -->
+  <VWE_Gun_SwarmMissileLauncher.label>lanzamisiles de enjambre</VWE_Gun_SwarmMissileLauncher.label>
+  <!-- EN: A rocket launcher that fires eight small-bore explosive missiles that track different targets.\n\nBeing an extremely heavy weapon, this gun requires a power armor to be effectively used.\n\nThis weapon has limited number of uses. -->
+  <VWE_Gun_SwarmMissileLauncher.description>Un lanzacohetes que dispara ocho misiles explosivos de pequeño calibre que rastrean diferentes objetivos.\n\nAl ser un arma extremadamente pesada, requiere una servoarmadura para ser usada eficazmente.\n\nEsta arma tiene un número limitado de usos.</VWE_Gun_SwarmMissileLauncher.description>
+  <!-- EN: grip -->
+  <VWE_Gun_SwarmMissileLauncher.tools.grip.label>empuñadura</VWE_Gun_SwarmMissileLauncher.tools.grip.label>
+  <!-- EN: barrel -->
+  <VWE_Gun_SwarmMissileLauncher.tools.barrel.label>cañón</VWE_Gun_SwarmMissileLauncher.tools.barrel.label>
+  <!-- EN: swarm missile launcher -->
+  <VWE_Gun_SwarmMissileLauncher.verbs.Verb_Shoot.label>lanzamisiles de enjambre</VWE_Gun_SwarmMissileLauncher.verbs.Verb_Shoot.label>
+  
+  <!-- EN: uranium slug rifle -->
+  <VWE_Gun_UraniumSlugRifle.label>cañón antiblindaje</VWE_Gun_UraniumSlugRifle.label>
+  <!-- EN: A self-loading uranium slug cannon. Its ultra-dense uranium shells can punch through heavy armor. It's more accurate at longer ranges, and can't fire at all close up.\n\nBeing an extremely heavy weapon, this gun requires a power armor to be effectively used.\n\nThis weapon has limited number of uses. -->
+  <VWE_Gun_UraniumSlugRifle.description>Un cañón de balas de uranio de carga automática. Sus proyectiles de uranio ultradensos pueden perforar armaduras pesadas. Es más preciso a largas distancias y no puede disparar de cerca.\n\nAl ser un arma extremadamente pesada, requiere una servoarmadura para ser usada eficazmente.\n\nEsta arma tiene un número limitado de usos.</VWE_Gun_UraniumSlugRifle.description>
+  <!-- EN: grip -->
+  <VWE_Gun_UraniumSlugRifle.tools.grip.label>empuñadura</VWE_Gun_UraniumSlugRifle.tools.grip.label>
+  <!-- EN: barrel -->
+  <VWE_Gun_UraniumSlugRifle.tools.barrel.label>cañón</VWE_Gun_UraniumSlugRifle.tools.barrel.label>
+  <!-- EN: uranium slug rifle -->
+  <VWE_Gun_UraniumSlugRifle.verbs.Verb_Shoot.label>cañón antiblindaje</VWE_Gun_UraniumSlugRifle.verbs.Verb_Shoot.label>
+  
+</LanguageData>

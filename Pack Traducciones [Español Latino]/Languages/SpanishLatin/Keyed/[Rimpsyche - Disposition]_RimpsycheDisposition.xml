@@ -1,0 +1,94 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <Psyche_CounselEffect>Tacto → Confianza</Psyche_CounselEffect>
+  <RP_BabyBorn>(Nació un bebé en la colonia)</RP_BabyBorn>
+  <RP_BrilliantSuccessLabel>Éxito brillante</RP_BrilliantSuccessLabel>
+  <RP_BrilliantSuccessMessage>Mientras trabajaba, {PAWN_labelShort} reconoció una oportunidad única. Gracias a su racha experimental, se arriesgó y creó algo verdaderamente excepcional.</RP_BrilliantSuccessMessage>
+  <RP_Crafted>(Objeto fabricado de calidad: {0})</RP_Crafted>
+  <RP_EnemySlain>(Enemigo abatido)</RP_EnemySlain>
+  <RP_MentalStateReason_PanicAttack>Ataque de pánico</RP_MentalStateReason_PanicAttack>
+  <RP_MentalStateReason_Shame>Sentirse avergonzado/a</RP_MentalStateReason_Shame>
+  <RP_MessageExperimentFail>El experimento de {PAWN_labelShort} falló, reduciendo la calidad del objeto.</RP_MessageExperimentFail>
+  <RP_MessageExperimentSuccess>El experimento de {PAWN_labelShort} mejoró la calidad del objeto.</RP_MessageExperimentSuccess>
+  <RP_MessageShamed>{PAWN_labelShort} está abrumado por la vergüenza e intenta esconderse de los demás.</RP_MessageShamed>
+  <RP_Recruited>(Nuevo recluta: {0})</RP_Recruited>
+  <RP_Researched>(Investigación completada: {0})</RP_Researched>
+  <RP_ResilientSpiritLabel>Espíritu resiliente</RP_ResilientSpiritLabel>
+  <RP_ResilientSpiritMessage>{PAWN_labelShort} casi se quiebra, pero su tenacidad le dio una nueva determinación.\n\nDurante los próximos tres días, los estados de ánimo negativos le afectarán solo la mitad.</RP_ResilientSpiritMessage>
+  <RP_Stat_AggressivenessSuppression>Agresividad</RP_Stat_AggressivenessSuppression>
+  <RP_Stat_AimingAccuracyPartCE>Deliberación</RP_Stat_AimingAccuracyPartCE>
+  <RP_Stat_AimingDelayFactorOffset>Deliberación</RP_Stat_AimingDelayFactorOffset>
+  <RP_Stat_BraveryTerrorMultiplier>Valentía</RP_Stat_BraveryTerrorMultiplier>
+  <RP_Stat_CertaintyLossMult>Confianza, Convicción</RP_Stat_CertaintyLossMult>
+  <RP_Stat_ConversionPowerMult>Tacto, Sinceridad</RP_Stat_ConversionPowerMult>
+  <RP_Stat_DeliberationButcherEfficiency>Deliberación</RP_Stat_DeliberationButcherEfficiency>
+  <RP_Stat_DeliberationFoodpoison>Deliberación</RP_Stat_DeliberationFoodpoison>
+  <RP_Stat_DeliberationOperationChance>Deliberación</RP_Stat_DeliberationOperationChance>
+  <RP_Stat_DeliberationTendQuality>Deliberación</RP_Stat_DeliberationTendQuality>
+  <RP_Stat_DeliberationWorkspeed>Deliberación</RP_Stat_DeliberationWorkspeed>
+  <RP_Stat_DeliberationYield>Deliberación</RP_Stat_DeliberationYield>
+  <RP_Stat_DiligenceWorkspeed>Diligencia</RP_Stat_DiligenceWorkspeed>
+  <RP_Stat_IdeoSpreadMult>Locuacidad, Fanatismo</RP_Stat_IdeoSpreadMult>
+  <RP_Stat_MentalBreakThreashold>Tenacidad</RP_Stat_MentalBreakThreashold>
+  <RP_Stat_NegotiationAbilityOffset>Tacto, Confianza</RP_Stat_NegotiationAbilityOffset>
+  <RP_Stat_OrganizationRoomWorkspeed>Ajuste de mesa de trabajo por organización</RP_Stat_OrganizationRoomWorkspeed>
+  <RP_Stat_PainShockThresholdOffset>Tenacidad, Valentía</RP_Stat_PainShockThresholdOffset>
+  <RP_Stat_Psyche>Psique</RP_Stat_Psyche>
+  <RP_Stat_ReflectivenessMeditation>Reflexividad</RP_Stat_ReflectivenessMeditation>
+  <RP_Stat_ReflectivenessResearchSpeed>Reflexividad</RP_Stat_ReflectivenessResearchSpeed>
+  <RP_Stat_ShootingAccuracyPartCE>Deliberación</RP_Stat_ShootingAccuracyPartCE>
+  <RP_Stat_ShootingAccuracyPawnOffset>Deliberación</RP_Stat_ShootingAccuracyPawnOffset>
+  <RP_Stat_SuppressabilityPartCE>Valentía</RP_Stat_SuppressabilityPartCE>
+  <RP_Stat_TenacitySuppressionFall>Tenacidad</RP_Stat_TenacitySuppressionFall>
+  <RP_Stat_TradePriceImprovementOffset>Tacto, Interés propio</RP_Stat_TradePriceImprovementOffset>
+  <RP_Tamed>(Animal salvaje domesticado: {0})</RP_Tamed>
+  <ReportHidingInShame>Escondiéndose por vergüenza</ReportHidingInShame>
+  <ReportPanicAttack>Encogido de miedo</ReportPanicAttack>
+  <RimpsycheCheckMedicalOverShame>Priorizar atención médica sobre vergüenza</RimpsycheCheckMedicalOverShame>
+  <RimpsycheCheckMedicalOverShameTooltip>Los colonos con problemas de salud suprimen su vergüenza hasta que son atendidos.</RimpsycheCheckMedicalOverShameTooltip>
+  <RimpsycheDispositionContentSetting>Ajustes de contenido</RimpsycheDispositionContentSetting>
+  <RimpsycheDispositionDefaultSetting>Predeterminado</RimpsycheDispositionDefaultSetting>
+  <RimpsycheDispositionDefaultSettingTooltip>Revertir a los ajustes predeterminados.</RimpsycheDispositionDefaultSettingTooltip>
+  <RimpsycheDispositionMessageSetting>Ajustes de mensajes</RimpsycheDispositionMessageSetting>
+  <RimpsycheDispositionMoteSetting>Ajustes de motas</RimpsycheDispositionMoteSetting>
+  <RimpsycheDispositionRestartNeeded>Debes reiniciar el juego para que estos ajustes surtan efecto.</RimpsycheDispositionRestartNeeded>
+  <RimpsycheDispositionSettingCategory>RimPsyche - Disposición</RimpsycheDispositionSettingCategory>
+  <RimpsycheEnemyFightorFlight>Lucha o huida de no-colonos</RimpsycheEnemyFightorFlight>
+  <RimpsycheEnemyFightorFlightTooltip>Los no-colonos pueden experimentar ataques de pánico o subidones de adrenalina.</RimpsycheEnemyFightorFlightTooltip>
+  <RimpsycheJoyIndividualC>Influencia de probabilidad de alegría individual</RimpsycheJoyIndividualC>
+  <RimpsycheJoyIndividualCTooltip>Qué tan fuerte afecta la personalidad de un colono a las actividades recreativas que prefiere.</RimpsycheJoyIndividualCTooltip>
+  <RimpsycheMoodEmotionalityC>Influencia de la emocionalidad en el humor</RimpsycheMoodEmotionalityC>
+  <RimpsycheMoodEmotionalityCTooltip>Cuánto afecta la emocionalidad al humor general de un colono.</RimpsycheMoodEmotionalityCTooltip>
+  <RimpsycheMoodIndividualC>Influencia del humor individual</RimpsycheMoodIndividualC>
+  <RimpsycheMoodIndividualCTooltip>Qué tan fuerte afecta la personalidad de un colono al impacto de humor de los pensamientos individuales.</RimpsycheMoodIndividualCTooltip>
+  <RimpsycheMoodOptimismC>Influencia del optimismo en el humor</RimpsycheMoodOptimismC>
+  <RimpsycheMoodOptimismCTooltip>Cuánto afecta el optimismo al humor general de un colono.</RimpsycheMoodOptimismCTooltip>
+  <RimpsycheSendExperimentMessage>Enviar mensajes de experimentación</RimpsycheSendExperimentMessage>
+  <RimpsycheSendShameMessage>Enviar mensajes de vergüenza</RimpsycheSendShameMessage>
+  <RimpsycheShowAdrenalineMote>Mostrar mota de adrenalina</RimpsycheShowAdrenalineMote>
+  <RimpsycheShowAdrenalineMoteTooltip>Mostrar una mota cuando progrese la etapa de subidón de adrenalina de un colono.</RimpsycheShowAdrenalineMoteTooltip>
+  <RimpsycheShowExperimentMote>Mostrar mota de experimentación</RimpsycheShowExperimentMote>
+  <RimpsycheShowExperimentMoteTooltip>Mostrar una mota cuando los colonos experimenten.</RimpsycheShowExperimentMoteTooltip>
+  <RimpsycheShowPanicMote>Mostrar mota de ataque de pánico</RimpsycheShowPanicMote>
+  <RimpsycheShowPanicMoteTooltip>Mostrar una mota en los colonos que huyen en pánico.</RimpsycheShowPanicMoteTooltip>
+  <RimpsycheShowResilientSpiritMote>Mostrar mota de espíritu resiliente</RimpsycheShowResilientSpiritMote>
+  <RimpsycheShowResilientSpiritMoteTooltip>Mostrar una mota cuando un colono active el espíritu resiliente.</RimpsycheShowResilientSpiritMoteTooltip>
+  <RimpsycheUseExperimentation>Experimentación</RimpsycheUseExperimentation>
+  <RimpsycheUseExperimentationTooltip>Los colonos pueden experimentar al fabricar o construir, aumentando o disminuyendo la calidad de un objeto.</RimpsycheUseExperimentationTooltip>
+  <RimpsycheUseFightorFlight>Lucha o huida</RimpsycheUseFightorFlight>
+  <RimpsycheUseFightorFlightTooltip>En combate, los colonos temerosos pueden sufrir ataques de pánico, mientras que los valientes o agresivos pueden recibir un subidón de adrenalina que mejora temporalmente sus estadísticas.</RimpsycheUseFightorFlightTooltip>
+  <RimpsycheUseHideInShame>Esconderse por vergüenza</RimpsycheUseHideInShame>
+  <RimpsycheUseHideInShameTooltip>Los colonos modestos que no vistan según su ideología (desnudos en el juego base) se sentirán avergonzados y eventualmente podrían huir por vergüenza de las miradas indiscretas de otros colonos.</RimpsycheUseHideInShameTooltip>
+  <RimpsycheUseIndividualJoychance>Varianza de probabilidad de alegría individual</RimpsycheUseIndividualJoychance>
+  <RimpsycheUseIndividualJoychanceTooltip>La personalidad de un colono influye en qué actividades recreativas prefiere.</RimpsycheUseIndividualJoychanceTooltip>
+  <RimpsycheUseIndividualThoughts>Varianza de pensamientos individuales</RimpsycheUseIndividualThoughts>
+  <RimpsycheUseIndividualThoughtsTooltip>La personalidad de un colono influye en el valor de humor de los pensamientos individuales.</RimpsycheUseIndividualThoughtsTooltip>
+  <RimpsycheUsePerformanceModeThought>Modo de rendimiento</RimpsycheUsePerformanceModeThought>
+  <RimpsycheUsePerformanceModeThoughtTooltip>Usar modo de rendimiento. Los mods que hacen referencia directa al modificador de pensamiento de humor podrían ignorar el ajuste de personalidad.</RimpsycheUsePerformanceModeThoughtTooltip>
+  <RimpsycheUseResilientSpirit>Espíritu resiliente</RimpsycheUseResilientSpirit>
+  <RimpsycheUseResilientSpiritTooltip>Los colonos tenaces tienen la oportunidad de resistir colapsos mentales y, en su lugar, obtener una mejora de determinación renovada por tres días. (Enfriamiento 60 días)</RimpsycheUseResilientSpiritTooltip>
+  <RimpsycheUseSendExperimentMessageTooltip>Enviar notificaciones cuando los colonos experimenten.</RimpsycheUseSendExperimentMessageTooltip>
+  <RimpsycheUseSendShameMessageTooltip>Enviar notificaciones cuando los colonos huyan por vergüenza.</RimpsycheUseSendShameMessageTooltip>
+  <RimpsycheUseSenseOfProgress>Sentido de progreso</RimpsycheUseSenseOfProgress>
+  <RimpsycheUseSenseOfProgressTooltip>Los colonos obtienen una mejora de humor por el progreso, como ganar XP de habilidad, fabricar objetos de calidad o completar investigaciones. Los colonos ambiciosos pueden frustrarse si pasan demasiado tiempo sin progresar.</RimpsycheUseSenseOfProgressTooltip>
+</LanguageData>

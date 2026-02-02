@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: adrenaline rush -->
+  <VPE_AdrenalineRush.label>subidón de adrenalina</VPE_AdrenalineRush.label>
+  <!-- EN: Psychically induces a surge of adrenaline in the caster, blocking all pain and augmenting their sight, hearing and movement. Lasts roughly thirty seconds depending on the user’s psychic sensitivity. -->
+  <VPE_AdrenalineRush.description>Induce psíquicamente una oleada de adrenalina en el lanzador, bloqueando todo dolor y aumentando su vista, oído y movimiento. Dura aproximadamente treinta segundos dependiendo de la sensibilidad psíquica del usuario.</VPE_AdrenalineRush.description>
+  <!-- EN: Using ability: {0} -->
+  <VPE_AdrenalineRush.jobReportString>Usando habilidad: {0}</VPE_AdrenalineRush.jobReportString>
+  <!-- EN: adrenaline rush -->
+  <VPE_AdrenalineRush.verbProperties.label>subidón de adrenalina</VPE_AdrenalineRush.verbProperties.label>
+  
+  <!-- EN: beckon -->
+  <VPE_Beckon.label>atraer</VPE_Beckon.label>
+  <!-- EN: Psychically command the target to approach the caster. -->
+  <VPE_Beckon.description>Ordena psíquicamente al objetivo que se acerque al lanzador.</VPE_Beckon.description>
+  <!-- EN: Using ability: {0} -->
+  <VPE_Beckon.jobReportString>Usando habilidad: {0}</VPE_Beckon.jobReportString>
+  <!-- EN: beckon -->
+  <VPE_Beckon.verbProperties.label>atraer</VPE_Beckon.verbProperties.label>
+  
+  <!-- EN: blade focus -->
+  <VPE_BladeFocus.label>concentración en la hoja</VPE_BladeFocus.label>
+  <!-- EN: Psychically augments the muscle fibers, ligaments and joints in the caster’s arms, doubling their melee attack speed for roughly two minutes depending on their psychic sensitivity. -->
+  <VPE_BladeFocus.description>Aumenta psíquicamente las fibras musculares, ligamentos y articulaciones en los brazos del lanzador, duplicando su velocidad de ataque cuerpo a cuerpo durante aproximadamente dos minutos dependiendo de su sensibilidad psíquica.</VPE_BladeFocus.description>
+  <!-- EN: Using ability: {0} -->
+  <VPE_BladeFocus.jobReportString>Usando habilidad: {0}</VPE_BladeFocus.jobReportString>
+  <!-- EN: blade focus -->
+  <VPE_BladeFocus.verbProperties.label>concentración en la hoja</VPE_BladeFocus.verbProperties.label>
+  
+  <!-- EN: controlled frenzy -->
+  <VPE_ControlledFrenzy.label>frenesí controlado</VPE_ControlledFrenzy.label>
+  <!-- EN: Psychically augments the caster’s prowess and killing urges, doubling their damage output with all weapons. Each kill reduces the caster’s heat by 10 and resets the duration of the frenzy. -->
+  <VPE_ControlledFrenzy.description>Aumenta psíquicamente la destreza y los impulsos asesinos del lanzador, duplicando su daño con todas las armas. Cada muerte reduce el calor del lanzador en 10 y reinicia la duración del frenesí.</VPE_ControlledFrenzy.description>
+  <!-- EN: Using ability: {0} -->
+  <VPE_ControlledFrenzy.jobReportString>Usando habilidad: {0}</VPE_ControlledFrenzy.jobReportString>
+  <!-- EN: controlled frenzy -->
+  <VPE_ControlledFrenzy.verbProperties.label>frenesí controlado</VPE_ControlledFrenzy.verbProperties.label>
+  
+  <!-- EN: firing focus -->
+  <VPE_FiringFocus.label>concentración de disparo</VPE_FiringFocus.label>
+  <!-- EN: Psychically augments the hands, eyes and reaction speed of the caster, reducing their ranged attack cooldown by 80% for roughly two minutes depending on their psychic sensitivity. -->
+  <VPE_FiringFocus.description>Aumenta psíquicamente las manos, ojos y velocidad de reacción del lanzador, reduciendo su enfriamiento de ataque a distancia en un 80% durante aproximadamente dos minutos dependiendo de su sensibilidad psíquica.</VPE_FiringFocus.description>
+  <!-- EN: Using ability: {0} -->
+  <VPE_FiringFocus.jobReportString>Usando habilidad: {0}</VPE_FiringFocus.jobReportString>
+  <!-- EN: firing focus -->
+  <VPE_FiringFocus.verbProperties.label>concentración de disparo</VPE_FiringFocus.verbProperties.label>
+  
+  <!-- EN: guided shot -->
+  <VPE_GuidedShot.label>disparo guiado</VPE_GuidedShot.label>
+  <!-- EN: Projects a psychic aura for a few moments that allows the caster to alter the path of any bullet they fire, effectively doubling their weapon range and guaranteeing hits for the duration. Duration scales with psychic sensitivity of the caster. -->
+  <VPE_GuidedShot.description>Proyecta un aura psíquica por unos momentos que permite al lanzador alterar la trayectoria de cualquier bala que dispare, duplicando efectivamente el alcance de su arma y garantizando impactos durante la duración. La duración escala con la sensibilidad psíquica del lanzador.</VPE_GuidedShot.description>
+  <!-- EN: Using ability: {0} -->
+  <VPE_GuidedShot.jobReportString>Usando habilidad: {0}</VPE_GuidedShot.jobReportString>
+  <!-- EN: guided shot -->
+  <VPE_GuidedShot.verbProperties.label>disparo guiado</VPE_GuidedShot.verbProperties.label>
+  
+  <!-- EN: killskip -->
+  <VPE_Killskip.label>salto mortal</VPE_Killskip.label>
+  <!-- EN: Teleports to the target and executes a melee strike, weakened or augmented by the caster’s melee skill. If the target is killed, teleports to the next closest enemy at no cost and attacks again, until there is nothing left to kill. -->
+  <VPE_Killskip.description>Se teletransporta al objetivo y ejecuta un golpe cuerpo a cuerpo, debilitado o aumentado por la habilidad cuerpo a cuerpo del lanzador. Si el objetivo muere, se teletransporta al siguiente enemigo más cercano sin costo y ataca de nuevo, hasta que no quede nada que matar.</VPE_Killskip.description>
+  <!-- EN: Using ability: {0} -->
+  <VPE_Killskip.jobReportString>Usando habilidad: {0}</VPE_Killskip.jobReportString>
+  <!-- EN: killskip -->
+  <VPE_Killskip.verbProperties.label>salto mortal</VPE_Killskip.verbProperties.label>
+  
+  <!-- EN: mass beckon -->
+  <VPE_MassBeckon.label>atracción masiva</VPE_MassBeckon.label>
+  <!-- EN: Psychically command the targets within an area to approach the caster. -->
+  <VPE_MassBeckon.description>Ordena psíquicamente a los objetivos dentro de un área que se acerquen al lanzador.</VPE_MassBeckon.description>
+  <!-- EN: Using ability: {0} -->
+  <VPE_MassBeckon.jobReportString>Usando habilidad: {0}</VPE_MassBeckon.jobReportString>
+  <!-- EN: mass beckon -->
+  <VPE_MassBeckon.verbProperties.label>atracción masiva</VPE_MassBeckon.verbProperties.label>
+  
+  <!-- EN: power leap -->
+  <VPE_PowerLeap.label>salto de poder</VPE_PowerLeap.label>
+  <!-- EN: Drastically augments the caster’s legs, feet and spine to be able to leap great distances and land without injury, the distance improving with the user’s psychic sensitivity. -->
+  <VPE_PowerLeap.description>Aumenta drásticamente las piernas, pies y columna del lanzador para poder saltar grandes distancias y aterrizar sin lesiones, la distancia mejora con la sensibilidad psíquica del usuario.</VPE_PowerLeap.description>
+  <!-- EN: Using ability: {0} -->
+  <VPE_PowerLeap.jobReportString>Usando habilidad: {0}</VPE_PowerLeap.jobReportString>
+  <!-- EN: power leap -->
+  <VPE_PowerLeap.verbProperties.label>salto de poder</VPE_PowerLeap.verbProperties.label>
+  
+  <!-- EN: speedboost -->
+  <VPE_SpeedBoost.label>impulso de velocidad</VPE_SpeedBoost.label>
+  <!-- EN: Psychically augments the muscle fibers, ligaments and joints in the caster’s legs, tripling their movement speed for roughly two minutes depending on their psychic sensitivity. -->
+  <VPE_SpeedBoost.description>Aumenta psíquicamente las fibras musculares, ligamentos y articulaciones en las piernas del lanzador, triplicando su velocidad de movimiento durante aproximadamente dos minutos dependiendo de su sensibilidad psíquica.</VPE_SpeedBoost.description>
+  <!-- EN: Using ability: {0} -->
+  <VPE_SpeedBoost.jobReportString>Usando habilidad: {0}</VPE_SpeedBoost.jobReportString>
+  <!-- EN: speedboost -->
+  <VPE_SpeedBoost.verbProperties.label>impulso de velocidad</VPE_SpeedBoost.verbProperties.label>
+  
+</LanguageData>

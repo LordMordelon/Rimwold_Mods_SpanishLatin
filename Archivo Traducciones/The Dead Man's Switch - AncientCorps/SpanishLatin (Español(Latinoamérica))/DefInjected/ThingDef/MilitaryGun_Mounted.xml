@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: electronic jamming -->
+  <DMS_Bullet_Electronic.label>interferencia electrónica</DMS_Bullet_Electronic.label>
+    
+  <!-- EN: ECM system -->
+  <DMS_Gun_ECMSystem.label>sistema ECM</DMS_Gun_ECMSystem.label>
+  <!-- EN: A mounted pulse energy weapon that disables electronic equipment in the direction it is pointed at through directional electromagnetic interference. When working, it will cause the target to generate high temperatures, so it can also shock the enemy by igniting it. \n\nThis equipment was first developed after the Europa conflict in response to NATO's "Wyvern swarms",  several armed helicopter squadrons which are completely unmanned. The power of this air force was so prominent during World War III that there are no military weapon platforms with a height higher than four meters, because they have no cover to hide from these predators. -->
+  <DMS_Gun_ECMSystem.description>Un arma de energía de pulso montada que desactiva el equipo electrónico en la dirección a la que apunta mediante interferencia electromagnética direccional. Cuando funciona, hará que el objetivo genere altas temperaturas, por lo que también puede electrocutar al enemigo al encenderlo.\n\nEste equipo se desarrolló por primera vez después del conflicto de Europa en respuesta a los "enjambres wyvern" de la OTAN, varios escuadrones de helicópteros armados que son completamente no tripulados. El poder de esta fuerza aérea fue tan prominente durante la tercera guerra mundial que no existen plataformas de armas militares con una altura superior a los cuatro metros, porque no tienen cobertura para esconderse de estos depredadores.</DMS_Gun_ECMSystem.description>
+  <!-- EN: ECM system -->
+  <DMS_Gun_ECMSystem.verbs.Verb_Shoot.label>sistema ECM</DMS_Gun_ECMSystem.verbs.Verb_Shoot.label>
+  
+  <!-- EN: 2S3M2 "Empero" -->
+  <DMS_Gun_Empero.label>rifle de artilleria</DMS_Gun_Empero.label>
+  <!-- EN: A long-range heavy cannon with a very high muzzle velocity that uses reduced ammunition to ensure indirect fire at close ranges, but still with high accuracy. -->
+  <DMS_Gun_Empero.description>Un cañón pesado de largo alcance con una velocidad de boca muy alta que utiliza munición reducida para garantizar el fuego indirecto a corta distancia, pero aún con alta precisión.</DMS_Gun_Empero.description>
+  <!-- EN: 2S3M2 "Empero" -->
+  <DMS_Gun_Empero.verbs.Verb_Shoot.label>rifle de artilleria</DMS_Gun_Empero.verbs.Verb_Shoot.label>
+
+  <!-- EN: Kord HMG -->
+  <DMS_Gun_KordTurret.label>ametralladora kord</DMS_Gun_KordTurret.label>
+  <!-- EN: A reliable standard-issue machine gun, capable of effectively penetrating the armor of most small to medium-sized targets and inflicting suppression during long-range engagements. -->
+  <DMS_Gun_KordTurret.description>Una ametralladora estándar confiable, capaz de penetrar eficazmente el blindaje de la mayoría de los objetivos de tamaño pequeño a mediano e infligir supresión durante enfrentamientos a larga distancia.</DMS_Gun_KordTurret.description>
+  <!-- EN: Kord HMG -->
+  <DMS_Gun_KordTurret.verbs.Verb_Shoot.label>ametralladora kord</DMS_Gun_KordTurret.verbs.Verb_Shoot.label>
+
+  <!-- EN: 2B9MS vasilek -->
+  <DMS_Gun_MobileMortar.label>artilleria vasilek</DMS_Gun_MobileMortar.label>
+  <!-- EN: An ancient design of rapid fire indirect artillery piece capabler of firing four mortar rounds in one burst. -->
+  <DMS_Gun_MobileMortar.description>Un diseño antiguo de pieza de artillería indirecta de fuego rápido capaz de disparar cuatro proyectiles de mortero en una ráfaga.</DMS_Gun_MobileMortar.description>
+  <!-- EN: 2B9MS vasilek -->
+  <DMS_Gun_MobileMortar.verbs.Verb_Shoot.label>artilleria vasilek</DMS_Gun_MobileMortar.verbs.Verb_Shoot.label>
+
+</LanguageData>

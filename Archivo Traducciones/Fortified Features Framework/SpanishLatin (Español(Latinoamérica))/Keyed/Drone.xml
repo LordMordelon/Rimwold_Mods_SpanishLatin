@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: Unrestricted -->
+  <FFF.Drone.NoRestrict>Sin restricciones</FFF.Drone.NoRestrict>
+  <!-- EN: Allowed area -->
+  <FFF.Drone.AllowedArea>Área permitida</FFF.Drone.AllowedArea>
+  <!-- EN: Set the allow area for Drones, deployed Drone will comply with the platform's area settings. -->
+  <FFF.Drone.AllowedAreaDesc>Establece el área permitida para los drones, los drones desplegados cumplirán con la configuración de área de la plataforma.</FFF.Drone.AllowedAreaDesc>
+
+  <!-- EN: control platform unavailable -->
+  <FFF.Drone.NoControlPlatform>plataforma de control no disponible</FFF.Drone.NoControlPlatform>
+  <!-- EN: No control -->
+  <FFF.Drone.NoController>Sin control</FFF.Drone.NoController>
+  <!-- EN: platform not controlled -->
+  <FFF.Drone.ControllerNotInControl>plataforma no controlada</FFF.Drone.ControllerNotInControl>
+  <!-- EN: platform not drafted -->
+  <FFF.Drone.ControllerNotDrafted>plataforma no reclutada</FFF.Drone.ControllerNotDrafted>
+  <!-- EN: platform not exist in the map -->
+  <FFF.Drone.ControllerNotInMap>la plataforma no existe en el mapa</FFF.Drone.ControllerNotInMap>
+
+  <!-- EN: Will detonate explosives payloads after collision -->
+  <FFF.ExplosiveOnDead>Detonará las cargas explosivas después de la colisión</FFF.ExplosiveOnDead>
+
+  <!-- EN: Prioritize filling {0}x{1} -->
+  <FFF.FillMechPlatform>Priorizar el llenado de {0}x{1}</FFF.FillMechPlatform>
+
+  <!-- EN: Return to platform -->
+  <FFF.Drone.Return>Volver a la plataforma</FFF.Drone.Return>
+  <!-- EN: Commands drone return to the deployment platform and shut down, which will restore the consumed resources. -->
+  <FFF.Drone.ReturnDesc>Ordena al dron que regrese a la plataforma de despliegue y se apague, lo que restaurará los recursos consumidos.</FFF.Drone.ReturnDesc>
+
+  <!-- EN: The deployment platform for {0} is unavailable -->
+  <FFF.Drone.NoPlatform>La plataforma de despliegue para {0} no está disponible</FFF.Drone.NoPlatform>
+
+  <!-- EN: Deploy {0} -->
+  <FFF.DeployDrone>Desplegar {0}</FFF.DeployDrone>
+  <!-- EN: Consume stored {0} to deploy up to {1} {2} drones. If the platform is destroyed, all {3} controlled by it will shut down. {4} operates on internal batteries and automatically returns to the platform when the battery is low. -->
+  <FFF.DeployDroneDesc>Consume {0} almacenado para desplegar hasta {1} drones {2}. Si la plataforma es destruida, todos los {3} controlados por ella se apagarán. {4} funciona con baterías internas y regresa automáticamente a la plataforma cuando la batería está baja.</FFF.DeployDroneDesc>
+
+  <!-- EN: Auto Deploy -->
+  <FFF.AutoDeploy>Despliegue automático</FFF.AutoDeploy>
+  <!-- EN: Command this platform to automatically deploy and undeploy drones at a stable interval. -->
+  <FFF.AutoDeployDesc>Ordena a esta plataforma que despliegue y repliegue drones automáticamente a un intervalo estable.</FFF.AutoDeployDesc>
+  <!-- EN: Auto Deploy Enable -->
+  <FFF.AutoDeployEnabled>Habilitar despliegue automático</FFF.AutoDeployEnabled>
+  <!-- EN: Deployment interval: {0} -->
+  <FFF.WillDeployAt>Intervalo de despliegue: {0}</FFF.WillDeployAt>
+
+  <!-- EN: Retract all {0} -->
+  <FFF.RetractDrones>Retraer todos los {0}</FFF.RetractDrones>
+  <!-- EN: Command all {0} controlled by this platform to withdraw, which will replenish the {1} consumption. -->
+  <FFF.RetractDronesDesc>Ordena a todos los {0} controlados por esta plataforma que se retiren, lo que repondrá el consumo de {1}.</FFF.RetractDronesDesc>
+
+</LanguageData>

@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <Defaults_AcceptGoodwillDesc>Si deseas ser recompensado mediante la mejora de las relaciones de facción con {0}.\n\nSi está desactivado, {0} ofrecerá otros tipos de recompensas en su lugar.\n\nEsta configuración solo afecta a las misiones recién generadas.</Defaults_AcceptGoodwillDesc>
+  <Defaults_AcceptRoyalFavor>Aceptar {0}</Defaults_AcceptRoyalFavor>
+  <Defaults_AcceptRoyalFavorDesc>Si deseas ser recompensado con {0} de {1}.\n\nSi está desactivado, {1} ofrecerá otros tipos de recompensas en su lugar.\n\nEsta configuración solo afecta a las misiones recién llegadas.</Defaults_AcceptRoyalFavorDesc>
+  <Defaults_AddAlternateSchedule>Añadir alternativo</Defaults_AddAlternateSchedule>
+  <Defaults_AddNew>Añadir nuevo</Defaults_AddNew>
+  <Defaults_AdultColonists>colonos adultos</Defaults_AdultColonists>
+  <Defaults_Animals>animales</Defaults_Animals>
+  <Defaults_ApparelPolicies>políticas de vestimenta</Defaults_ApparelPolicies>
+  <Defaults_AutoHomeArea>Configuración de área de hogar automática predeterminada</Defaults_AutoHomeArea>
+  <Defaults_AutoRebuild>Configuración de reconstrucción automática predeterminada</Defaults_AutoRebuild>
+  <Defaults_BabyFeedingSettings>Configuración de alimentación para bebés</Defaults_BabyFeedingSettings>
+  <Defaults_BetterWorkbenchOptionsTitle>Configuración de Mejor Gestión de Mesas de Trabajo</Defaults_BetterWorkbenchOptionsTitle>
+  <Defaults_BillsLimitedto15>Solo las primeras 15 tareas se aplicarán a las mesas de trabajo construidas en el juego. Para eliminar este límite, cambia la configuración global de tareas.</Defaults_BillsLimitedto15>
+  <Defaults_BirtherParent>Progenitor gestante</Defaults_BirtherParent>
+  <Defaults_BuildingStorageSettings>edificios de almacenamiento</Defaults_BuildingStorageSettings>
+  <Defaults_CantDeleteDefaultPolicy>No puedes eliminar la política predeterminada.</Defaults_CantDeleteDefaultPolicy>
+  <Defaults_ChildColonists>colonos niños</Defaults_ChildColonists>
+  <Defaults_ChooseRewardsDesc>Dile a otras facciones qué tipo de recompensas quieres en las misiones.</Defaults_ChooseRewardsDesc>
+  <Defaults_ClickToChangeAllowedAreaColor>Haz clic para cambiar el color del área permitida.</Defaults_ClickToChangeAllowedAreaColor>
+  <Defaults_ConfirmResetAllSettings>¿Quieres restablecer toda la configuración del mod a sus valores originales? Todas las categorías de configuración se habilitarán y todos los ajustes generales volverán a sus valores predeterminados. Esta acción no se puede deshacer.</Defaults_ConfirmResetAllSettings>
+  <Defaults_ConfirmResetAllowedAreaSettings>¿Quieres restablecer toda la configuración predeterminada de las áreas permitidas a sus valores originales? Esta acción eliminará todas las áreas permitidas y no se puede deshacer.</Defaults_ConfirmResetAllowedAreaSettings>
+  <Defaults_ConfirmResetStockpileZoneSettings>¿Quieres restablecer toda la configuración predeterminada de las zonas de almacenamiento a sus valores originales? Esta acción también eliminará todas las zonas de almacenamiento personalizadas y no se puede deshacer.</Defaults_ConfirmResetStockpileZoneSettings>
+  <Defaults_ConfirmResetTheseSettings>¿Quieres restablecer todos los {0} a sus valores originales? Esta acción no se puede deshacer.</Defaults_ConfirmResetTheseSettings>
+  <Defaults_ConfirmResetWorkbenchBills>¿Quieres restablecer toda la configuración predeterminada de las tareas de la mesa de trabajo a sus valores originales? Esta acción eliminará todas las tareas predeterminadas de la mesa de trabajo y no se puede deshacer.</Defaults_ConfirmResetWorkbenchBills>
+  <Defaults_CorpseStockpileZoneDesc>Crea una zona de almacenamiento donde tus colonos guardarán los cadáveres.\nEsta herramienta también puede expandir cualquier zona de almacenamiento existente.</Defaults_CorpseStockpileZoneDesc>
+  <Defaults_CurrentMedicineToCarry>Medicina actual para llevar</Defaults_CurrentMedicineToCarry>
+  <Defaults_CurrentPlantType>Tipo de planta actual</Defaults_CurrentPlantType>
+  <Defaults_DefaultPawnAllowedAreas>Restricciones de área predeterminadas para peones</Defaults_DefaultPawnAllowedAreas>
+  <Defaults_DefaultSettings>Configuraciones individuales</Defaults_DefaultSettings>
+  <Defaults_DefaultSettingsCategories>Categorías de configuración</Defaults_DefaultSettingsCategories>
+  <Defaults_Defaults>Predeterminados</Defaults_Defaults>
+  <Defaults_Disable>Deshabilitar</Defaults_Disable>
+  <Defaults_DisableAll>Deshabilitar todas las categorías de configuración</Defaults_DisableAll>
+  <Defaults_DragToReorder>Arrastra para reordenar.</Defaults_DragToReorder>
+  <Defaults_DrugPolicies>políticas de drogas</Defaults_DrugPolicies>
+  <Defaults_EmptyAreaTip>Esta área permitida estará vacía por defecto.</Defaults_EmptyAreaTip>
+  <Defaults_Enable>Habilitar</Defaults_Enable>
+  <Defaults_EnableAll>Habilitar todas las categorías de configuración</Defaults_EnableAll>
+  <Defaults_EnableCategoryToViewSettings>Necesitas habilitar {0} y luego reiniciar el juego para ver esta configuración.</Defaults_EnableCategoryToViewSettings>
+  <Defaults_FoodPolicies>políticas de comida</Defaults_FoodPolicies>
+  <Defaults_FullAreaTip>Esta área permitida incluirá el mapa completo por defecto.</Defaults_FullAreaTip>
+  <Defaults_Ghouls>ghouls</Defaults_Ghouls>
+  <Defaults_GlobalBillSettings>Configuración global de tareas</Defaults_GlobalBillSettings>
+  <Defaults_Guests>invitados</Defaults_Guests>
+  <Defaults_GuestsCarryMedicine>Los invitados también recogen medicinas para llevar</Defaults_GuestsCarryMedicine>
+  <Defaults_HostilityReponseTip>Cambia cómo reaccionarán los colonos a los enemigos cercanos cuando no estén reclutados.</Defaults_HostilityReponseTip>
+  <Defaults_HostilityResponse>Respuesta de hostilidad predeterminada</Defaults_HostilityResponse>
+  <Defaults_LimitBillsTo15>Limitar tareas de la mesa de trabajo a un máximo de 15</Defaults_LimitBillsTo15>
+  <Defaults_LoadDefaultBill>Cargar predeterminado</Defaults_LoadDefaultBill>
+  <Defaults_LoadDefaultPolicy>Añadir desde...</Defaults_LoadDefaultPolicy>
+  <Defaults_LockSetting>Bloquear esta configuración para evitar cambios automáticos cuando se añadan nuevos mods o DLC</Defaults_LockSetting>
+  <Defaults_ManualPriorities>Usar prioridades de trabajo manuales por defecto</Defaults_ManualPriorities>
+  <Defaults_MapSettings>Configuración avanzada del mundo</Defaults_MapSettings>
+  <Defaults_Mechs>mecas</Defaults_Mechs>
+  <Defaults_Medicine>Configuración de medicinas</Defaults_Medicine>
+  <Defaults_MedicineAmountToCarry>Cantidad predeterminada de medicina para llevar</Defaults_MedicineAmountToCarry>
+  <Defaults_MedicineAssignments>Asignaciones de medicina</Defaults_MedicineAssignments>
+  <Defaults_MedicineToCarry>Medicina predeterminada para llevar</Defaults_MedicineToCarry>
+  <Defaults_MedicineToCarryTip>La medicina predeterminada que los peones llevarán cuando se les asigne.</Defaults_MedicineToCarryTip>
+  <Defaults_MiscSettings>Predeterminados varios</Defaults_MiscSettings>
+  <Defaults_NewDLC>Nuevo DLC añadido: {0}</Defaults_NewDLC>
+  <Defaults_NewPoliciesDLC>Defaults de 1trickPwnyta puede incorporar políticas disponibles en DLC recién instalados si lo deseas. {0} añade las siguientes políticas predeterminadas al juego. Selecciona las que quieras habilitar.</Defaults_NewPoliciesDLC>
+  <Defaults_NoPauseOptionsTitle>Configuración del No Pause Challenge.</Defaults_NoPauseOptionsTitle>
+  <Defaults_NoSearchResults>Tu búsqueda "{0}" no coincidió con ninguna configuración.</Defaults_NoSearchResults>
+  <Defaults_NonparentLactating>No progenitor (lactante)</Defaults_NonparentLactating>
+  <Defaults_NonparentNonlactating>No progenitor (no lactante)</Defaults_NonparentNonlactating>
+  <Defaults_NotNow>Ahora no</Defaults_NotNow>
+  <Defaults_ParentLactating>Otro progenitor (lactante)</Defaults_ParentLactating>
+  <Defaults_ParentNonlactating>Otro progenitor (no lactante)</Defaults_ParentNonlactating>
+  <Defaults_PlantType>Tipo de planta predeterminado</Defaults_PlantType>
+  <Defaults_PlantTypeTip>El tipo de planta predeterminado para las nuevas zonas de cultivo.</Defaults_PlantTypeTip>
+  <Defaults_Policies>Políticas</Defaults_Policies>
+  <Defaults_PolicySavedAs>Política guardada como {0}.</Defaults_PolicySavedAs>
+  <Defaults_PregnancyApproach>Enfoque de embarazo predeterminado</Defaults_PregnancyApproach>
+  <Defaults_ReadingPolicies>políticas de lectura</Defaults_ReadingPolicies>
+  <Defaults_ReplaceWithDefaultSchedule>Reemplazar con horario predeterminado</Defaults_ReplaceWithDefaultSchedule>
+  <Defaults_ResetAllSettings>Restablecer toda la configuración a la original</Defaults_ResetAllSettings>
+  <Defaults_ResetTheseSettings>Restablecer esta configuración a la original</Defaults_ResetTheseSettings>
+  <Defaults_ResourceCategories>Categorías de recursos expandidas</Defaults_ResourceCategories>
+  <Defaults_Restart>Reiniciar RimWorld</Defaults_Restart>
+  <Defaults_RestartRequired>Se requiere reiniciar</Defaults_RestartRequired>
+  <Defaults_RestartRequiredDesc>Deshabilitar o habilitar categorías de configuración completas no tendrá efecto hasta que se reinicie el juego. ¿Quieres reiniciar ahora?</Defaults_RestartRequiredDesc>
+  <Defaults_Rewards>Preferencias de recompensa</Defaults_Rewards>
+  <Defaults_SaveBillConfirmed>Tarea guardada como predeterminada.</Defaults_SaveBillConfirmed>
+  <Defaults_SaveNewDefaultBill>Guardar como nueva tarea predeterminada</Defaults_SaveNewDefaultBill>
+  <Defaults_SaveNewDefaultPolicy>Guardar como nueva política predeterminada</Defaults_SaveNewDefaultPolicy>
+  <Defaults_SaveNewDefaultSchedule>Guardar como nuevo horario predeterminado</Defaults_SaveNewDefaultSchedule>
+  <Defaults_ScheduleName>Horario {0}</Defaults_ScheduleName>
+  <Defaults_ScheduleSavedAs>Horario guardado como {0}.</Defaults_ScheduleSavedAs>
+  <Defaults_Schedules>Horarios de colonos</Defaults_Schedules>
+  <Defaults_SearchResults>Resultados de la búsqueda</Defaults_SearchResults>
+  <Defaults_SetAsDefault>Establecer como predeterminado</Defaults_SetAsDefault>
+  <Defaults_SetAsDefaultConfirmed>Configuración guardada como predeterminada.</Defaults_SetAsDefaultConfirmed>
+  <Defaults_SetDefaults>Establecer predeterminados</Defaults_SetDefaults>
+  <Defaults_SettingsCategoryDisabled>{0} están actualmente deshabilitados y no afectarán al juego.</Defaults_SettingsCategoryDisabled>
+  <Defaults_ShelfSettings>Configuración de almacenamiento de estantes</Defaults_ShelfSettings>
+  <Defaults_Slaves>esclavos</Defaults_Slaves>
+  <Defaults_StockpileStorageSettings>zonas de almacenamiento</Defaults_StockpileStorageSettings>
+  <Defaults_StockpileZones>Configuración de almacenamiento</Defaults_StockpileZones>
+  <Defaults_StorageBuildingSettings>Configuración de almacenamiento de {0}</Defaults_StorageBuildingSettings>
+  <Defaults_Storyteller>Configuración del narrador</Defaults_Storyteller>
+  <Defaults_TargetTemperatureCooler>Temperatura objetivo para enfriadores</Defaults_TargetTemperatureCooler>
+  <Defaults_TargetTemperatureHeater>Temperatura objetivo para calentadores</Defaults_TargetTemperatureHeater>
+  <Defaults_UnavailableCaps>NO DISPONIBLE</Defaults_UnavailableCaps>
+  <Defaults_UseBill>Usar</Defaults_UseBill>
+  <Defaults_UseBillTip>Indica si esta tarea se añadirá automáticamente a las nuevas mesas de trabajo.</Defaults_UseBillTip>
+  <Defaults_UseSchedule>Usar</Defaults_UseSchedule>
+  <Defaults_UseScheduleTip>Indica si el horario se asignará automáticamente a los colonos.</Defaults_UseScheduleTip>
+  <Defaults_Vanilla>Original</Defaults_Vanilla>
+  <Defaults_WorkModeAdditional>Modo de trabajo de grupos de control de mecas adicionales</Defaults_WorkModeAdditional>
+  <Defaults_WorkModeFirst>Modo de trabajo del primer grupo de control de mecas</Defaults_WorkModeFirst>
+  <Defaults_WorkModeSecond>Modo de trabajo del segundo grupo de control de mecas</Defaults_WorkModeSecond>
+  <Defaults_WorkbenchBills>Tareas de la mesa de trabajo</Defaults_WorkbenchBills>
+  <Defaults_WorldSettings>Configuración del mundo</Defaults_WorldSettings>
+</LanguageData>

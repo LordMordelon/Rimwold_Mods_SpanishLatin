@@ -1,0 +1,119 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+    <!-- EN: See also: -->
+  <VFEE.SeeAlso>Ver también:</VFEE.SeeAlso>
+    <!-- EN: Change character -->
+  <VFEE.ChangeCharacter>Cambiar personaje</VFEE.ChangeCharacter>
+    <!-- EN: Current title: {0} -->
+  <VFEE.CurrentTitle>Título actual: {0}</VFEE.CurrentTitle>
+    <!-- EN: Honor: {0} -->
+  <VFEE.CurrentHonor>Honor: {0}</VFEE.CurrentHonor>
+    <!-- EN: Unused permit points: {0} -->
+  <VFEE.PermitPoints>Puntos de permiso no utilizados: {0}</VFEE.PermitPoints>
+    <!-- EN: Developer mode -->
+  <VFEE.DevMode>Modo desarrollador</VFEE.DevMode>
+    <!-- EN: Unused vassalage points: {0} -->
+  <VFEE.VassalPoints>Puntos de vasallaje no utilizados: {0}</VFEE.VassalPoints>
+    <!-- EN: Release all vassals -->
+  <VFEE.ReleaseAllVassals>Liberar a todos los vasallos</VFEE.ReleaseAllVassals>
+    <!-- EN: Releasing vassals will causes resources stored to be lost. Are you sure? -->
+  <VFEE.ReleaseAllVassals.Confirm>Liberar vasallos causará la pérdida de los recursos almacenados. ¿Estás seguro?</VFEE.ReleaseAllVassals.Confirm>
+    <!-- EN: Vassals of {0}, {1} -->
+  <VFEE.VassalsOf>Vasallos de {0}, {1}</VFEE.VassalsOf>
+    <!-- EN: Tithes will be delivered via drop-pods after designated time has elapsed. -->
+  <VFEE.TitheDesc>Los diezmos se entregarán a través de cápsulas de transporte una vez transcurrido el tiempo designado.</VFEE.TitheDesc>
+    <!-- EN: Deliver -->
+  <VFEE.Deliver>Entregar</VFEE.Deliver>
+    <!-- EN: Every 7 days -->
+  <VFEE.Deliver.EveryWeek>Cada 7 días</VFEE.Deliver.EveryWeek>
+    <!-- EN: Every 15 days -->
+  <VFEE.Deliver.EveryQuadrum>Cada 15 días</VFEE.Deliver.EveryQuadrum>
+    <!-- EN: Once a year -->
+  <VFEE.Deliver.EveryYear>Una vez al año</VFEE.Deliver.EveryYear>
+    <!-- EN: Every {0} days -->
+  <VFEE.Deliver.DaysSpecific>Cada {0} días</VFEE.Deliver.DaysSpecific>
+    <!-- EN: Never (pause) -->
+  <VFEE.Deliver.Never>Nunca (pausa)</VFEE.Deliver.Never>
+    <!-- EN: {0} {1} created every day. -->
+  <VFEE.Created>{0} {1} creados cada día.</VFEE.Created>
+    <!-- EN: {0} {1} created every {2} days. -->
+  <VFEE.CreatedSpecial>{0} {1} creados cada {2} días.</VFEE.CreatedSpecial>
+    <!-- EN: {0} in stockpile: {1} -->
+  <VFEE.InStockpile>{0} en almacén: {1}</VFEE.InStockpile>
+    <!-- EN: You can only vassalize bases that are less than 100 tiles away from you or your vassals\nVassalize more towns to increase the reach and unlock more potential vassal subjects -->
+  <VFEE.VassalDesc>Solo puedes vasallizar bases que estén a menos de 100 casillas de ti o de tus vasallos\nVasalliza más ciudades para aumentar el alcance y desbloquear más posibles súbditos vasallos</VFEE.VassalDesc>
+    <!-- EN: Can't vassalize: Too far away -->
+  <VFEE.NoVassalize>No se puede vasallizar: Demasiado lejos</VFEE.NoVassalize>
+    <!-- EN: Vassalize -->
+  <VFEE.Vassalize>Vasallizar</VFEE.Vassalize>
+    <!-- EN: dance space for all instruments -->
+  <VFEE.RoomRequirementInstrumentSpace>espacio de baile para todos los instrumentos</VFEE.RoomRequirementInstrumentSpace>
+    <!-- EN: {0} of the {1} -->
+  <VFEE.OfThe>{0} de {1}</VFEE.OfThe>
+    <!-- EN: Invite as visitor -->
+  <VFEE.Invite>Invitar como visitante</VFEE.Invite>
+    <!-- EN: Invite as {0} (Cost: {1} honor) -->
+  <VFEE.InviteAs>Invitar como {0} (Costo: {1} honor)</VFEE.InviteAs>
+    <!-- EN: Skip to previous title -->
+  <VFEE.Skip.Title.Previous>Saltar al título anterior</VFEE.Skip.Title.Previous>
+    <!-- EN: Skip to next title -->
+  <VFEE.Skip.Title.Next>Saltar al siguiente título</VFEE.Skip.Title.Next>
+    <!-- EN: Skip to previous Colonist -->
+  <VFEE.Skip.Colonist.Previous>Saltar al colono anterior</VFEE.Skip.Colonist.Previous>
+    <!-- EN: Skip to next Colonist -->
+  <VFEE.Skip.Colonist.Next>Saltar al siguiente colono</VFEE.Skip.Colonist.Next>
+    <!-- EN: Remove all honors -->
+  <VFEE.Honors.RemoveAll>Eliminar todos los honores</VFEE.Honors.RemoveAll>
+    <!-- EN: These honors are active on your noble. Drag them to the right to remove them from this character. -->
+  <VFEE.Honors.Active>Estos honores están activos en tu noble. Arrástralos a la derecha para eliminarlos de este personaje.</VFEE.Honors.Active>
+    <!-- EN: These honors are available to be equipped on your nobles. Drag them to the left to activate them on the chosen noble. -->
+  <VFEE.Honors.Available>Estos honores están disponibles para ser equipados en tus nobles. Arrástralos a la izquierda para activarlos en el noble elegido.</VFEE.Honors.Available>
+    <!-- EN: Honors of {0}, {1} -->
+  <VFEE.HonorsOf>Honores de {0}, {1}</VFEE.HonorsOf>
+    <!-- EN: you will gain the honor {0} to assign to a colonist -->
+  <VFEE.Honors.Reward>ganarás el honor {0} para asignar a un colono</VFEE.Honors.Reward>
+    <!-- EN: Honors -->
+  <VFEE.Honors>Honores</VFEE.Honors>
+    <!-- EN: Must be lord of {0} -->
+  <VFEE.MustBeLordOf>Debe ser señor de {0}</VFEE.MustBeLordOf>
+    <!-- EN: Must wield {0} -->
+  <VFEE.MustWield>Debe portar {0}</VFEE.MustWield>
+    <!-- EN: Must have a parent -->
+  <VFEE.MustHaveParent>Debe tener un padre</VFEE.MustHaveParent>
+    <!-- EN: This must be bestowed in a ceremony before it will become active. -->
+  <VFEE.Honor.Pending>Esto debe ser otorgado en una ceremonia antes de que se active.</VFEE.Honor.Pending>
+    <!-- EN: Bestow Honor -->
+  <VFEE.Honor.Bestow>Otorgar Honor</VFEE.Honor.Bestow>
+    <!-- EN: Bestow Honors -->
+  <VFEE.Honor.BestowPlural>Otorgar Honores</VFEE.Honor.BestowPlural>
+    <!-- EN: Bestow pending honors for this noble. Will give the following honors:\n{0} -->
+  <VFEE.Honor.Bestow.Desc>Otorgar honores pendientes para este noble. Dará los siguientes honores:\n{0}</VFEE.Honor.Bestow.Desc>
+    <!-- EN: Successful -->
+  <VFEE.Successful>Exitoso</VFEE.Successful>
+    <!-- EN: {0} has been bestowed with their pending honors. They have gained:\n{0} -->
+  <VFEE.Honor.Bestow.Success>A {0} se le han otorgado sus honores pendientes. Han ganado:\n{0}</VFEE.Honor.Bestow.Success>
+    <!-- EN: Must have pending honors to bestow. -->
+  <VFEE.Honor.NoHonors>Debe tener honores pendientes para otorgar.</VFEE.Honor.NoHonors>
+
+    <!-- EN: {FACTION} cannot be disabled as it's required by Vanilla Factions Expanded - Empire. -->
+  <VFEE.ForcedFaction.Empire.CannotDisable>{FACTION} no se puede deshabilitar ya que es requerido por Vanilla Factions Expanded - Empire.</VFEE.ForcedFaction.Empire.CannotDisable>
+    <!-- EN: {FACTION} must be added to the game as it's required by Vanilla Factions Expanded - Empire. -->
+  <VFEE.ForcedFaction.Empire.FactionDiscoveryMessage>{FACTION} debe agregarse al juego ya que es requerido por Vanilla Factions Expanded - Empire.</VFEE.ForcedFaction.Empire.FactionDiscoveryMessage>
+    <!-- EN: {FACTION} cannot be disabled as it's required by Vanilla Factions Expanded - Deserters. -->
+  <VFEE.ForcedFaction.Deserters.CannotDisable>{FACTION} no se puede deshabilitar ya que es requerido por Vanilla Factions Expanded - Deserters.</VFEE.ForcedFaction.Deserters.CannotDisable>
+
+    <!-- EN: Must be title holder. -->
+  <VFEEmpire.RitualRoleTitled.NotTitled>Debe ser titular de un título.</VFEEmpire.RitualRoleTitled.NotTitled>
+    <!-- EN: Must be colonist. -->
+  <VFEEmpire.RitualRoleTitled.NotColonist>Debe ser colono.</VFEEmpire.RitualRoleTitled.NotColonist>
+    <!-- EN: Royal address organized by {ORGANIZER} ended. -->
+  <VFEEmpire.RoyalAddress.Finished>El discurso real organizado por {ORGANIZER} ha terminado.</VFEEmpire.RoyalAddress.Finished>
+    <!-- EN: {PAWN} gained {COUNT} honor. -->
+  <VFEEmpire.RoyalAddress.OrganizerGained>{PAWN} ganó {COUNT} de honor.</VFEEmpire.RoyalAddress.OrganizerGained>
+    <!-- EN: {PAWN} lost {COUNT} honor. -->
+  <VFEEmpire.RoyalAddress.OrganizerLost>{PAWN} perdió {COUNT} de honor.</VFEEmpire.RoyalAddress.OrganizerLost>
+    <!-- EN: {PAWN} can now receive the title of {TITLE} from {FACTION}. -->
+  <VFEEmpire.RoyalAddress.TitledGained>{PAWN} ahora puede recibir el título de {TITLE} de {FACTION}.</VFEEmpire.RoyalAddress.TitledGained>
+    <!-- EN: Bestowing ceremony organized by {ORGANIZER} ended. -->
+  <VFEEmpire.BestowTitle.Finished>La ceremonia de otorgamiento organizada por {ORGANIZER} ha terminado.</VFEEmpire.BestowTitle.Finished>
+</LanguageData>

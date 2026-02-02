@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <VTE_ACCompressor.description>Un compresor de aire acondicionado que necesita conectarse a una unidad de control de AA mediante conductos de aire. Solo puede colocarse en exteriores. Cuando recibe energía, permite que la red de AA opere dos dispositivos de AA adicionales sin perder eficiencia.</VTE_ACCompressor.description>
+  <VTE_ACCompressor.label>compresor de AA</VTE_ACCompressor.label>
+  <VTE_ACControlUnit.description>Una unidad de control principal de aire acondicionado. Se conecta a compresores para permitir que las unidades de AA generen aire frío o caliente. Necesita conectarse a compresores mediante conductos de aire. La unidad de control de AA dicta la temperatura deseada para todas las unidades de AA en la misma red. Instalar demasiadas unidades de AA puede disminuir la eficiencia de la red, aumentando el consumo de energía de todos los dispositivos. Construir compresores adicionales mejorará la eficiencia de la red.</VTE_ACControlUnit.description>
+  <VTE_ACControlUnit.label>unidad de control de AA</VTE_ACControlUnit.label>
+  <VTE_ACUnit.description>Una máquina de aire acondicionado que se instala en una pared. Emite aire frío o caliente en la misma dirección, dependiendo de la temperatura actual de la habitación. A menos que se desvincule de la configuración de la red, intentará alcanzar la temperatura especificada en la unidad de control de AA. Necesita conectarse a la unidad de control de AA mediante conductos de aire.</VTE_ACUnit.description>
+  <VTE_ACUnit.label>unidad de AA</VTE_ACUnit.label>
+  <VTE_ACUnitWall.description>Una máquina de aire acondicionado montada en la pared. Emite aire frío o caliente en la misma dirección, dependiendo de la temperatura actual de la habitación. A menos que se desvincule de la configuración de la red, intentará alcanzar la temperatura especificada en la unidad de control de AA. Necesita conectarse a la unidad de control de AA mediante conductos de aire. Solo se puede construir en una pared.</VTE_ACUnitWall.description>
+  <VTE_ACUnitWall.label>unidad de AA de pared</VTE_ACUnitWall.label>
+  <VTE_AirDuct.description>Un conducto de aire utilizado por la red de AA para transportar aire entre las unidades de AA y los compresores.</VTE_AirDuct.description>
+  <VTE_AirDuct.label>conducto de aire</VTE_AirDuct.label>
+  <VTE_LargeACCompressor.description>Un compresor de aire acondicionado grande que necesita conectarse a una unidad de control de AA mediante conductos de aire. Solo puede colocarse en exteriores. Cuando recibe energía, permite que la red de AA opere seis dispositivos de AA adicionales sin perder eficiencia.</VTE_LargeACCompressor.description>
+  <VTE_LargeACCompressor.label>compresor de AA grande</VTE_LargeACCompressor.label>
+  <VTE_UndergroundAirDuct.description>Un conducto de aire subterráneo utilizado por la red de AA para transportar aire entre las unidades de AA y los compresores.</VTE_UndergroundAirDuct.description>
+  <VTE_UndergroundAirDuct.label>conducto de aire subterráneo</VTE_UndergroundAirDuct.label>
+  <VTE_VentValve.description>Activa o desactiva el flujo de aire.</VTE_VentValve.description>
+  <VTE_VentValve.label>válvula de conducto de aire</VTE_VentValve.label>
+</LanguageData>

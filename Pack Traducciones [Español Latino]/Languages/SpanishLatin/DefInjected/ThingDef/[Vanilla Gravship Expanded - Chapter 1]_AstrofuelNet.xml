@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <VGE_AstrofuelDrain.description>Una estructura de almacenamiento tipo tolva destinada a introducir astrobustible en la red, llenando los tanques conectados.</VGE_AstrofuelDrain.description>
+  <VGE_AstrofuelDrain.label>drenaje de astrobustible</VGE_AstrofuelDrain.label>
+  <VGE_AstrofuelGenerator.description>Produce energía consumiendo astrobustible. Mucho más eficiente que los generadores de quimbustible.</VGE_AstrofuelGenerator.description>
+  <VGE_AstrofuelGenerator.label>generador de astrobustible</VGE_AstrofuelGenerator.label>
+  <VGE_AstrofuelPipe.description>Una tubería grande para transportar astrobustible de alta calidad. A diferencia de otras tuberías, es grande, voluminosa, sirve como cobertura y no se puede estar de pie sobre ella. Las tuberías de astrobustible no pueden colocarse en los puntos de interacción de los bancos de trabajo ni en los umbrales de las puertas.</VGE_AstrofuelPipe.description>
+  <VGE_AstrofuelPipe.label>tubería de astrobustible</VGE_AstrofuelPipe.label>
+  <VGE_AstrofuelSynthesizer.description>Una estructura especializada que refina quimbustible en astrobustible de alta calidad. Debe estar conectada a la red de tuberías de astrobustible y vinculada a al menos un tanque de astrobustible para funcionar. Una vez conectada, convierte automáticamente el quimbustible insertado en astrobustible para su uso en motores y sistemas.</VGE_AstrofuelSynthesizer.description>
+  <VGE_AstrofuelSynthesizer.label>sintetizador de astrobustible</VGE_AstrofuelSynthesizer.label>
+  <VGE_AstrofuelTap.description>Un dispositivo de almacenamiento tipo tolva destinado a contener el astrobustible dispensado para su uso posterior.</VGE_AstrofuelTap.description>
+  <VGE_AstrofuelTap.label>grifo de astrobustible</VGE_AstrofuelTap.label>
+  <VGE_AstrofuelValve.description>Activa y desactiva el flujo de astrobustible.</VGE_AstrofuelValve.description>
+  <VGE_AstrofuelValve.label>válvula de astrobustible</VGE_AstrofuelValve.label>
+  <VGE_Astropurifier.description>Una unidad de gravitecnología que mejora la precisión y estabilidad del refinado de astrobustible. Cuando se coloca junto a un sintetizador de astrobustible, permite una conversión perfecta de 1:1 de quimbustible a astrobustible, aunque el proceso tarda el doble de tiempo.</VGE_Astropurifier.description>
+  <VGE_Astropurifier.label>astropurificador</VGE_Astropurifier.label>
+  <VGE_GiantAstrofuelTank.description>Un tanque de almacenamiento de astrobustible monumental que suministra combustible para los propulsores de una gravinave.</VGE_GiantAstrofuelTank.description>
+  <VGE_GiantAstrofuelTank.label>tanque gigante de astrobustible</VGE_GiantAstrofuelTank.label>
+  <VGE_GiantThruster.description>Un propulsor de astrobustible masivo y reforzado, construido con aleaciones avanzadas y revestimiento de vaciorita ultradensa. Aumenta enormemente el alcance y el tamaño máximo de la gravinave. Los propulsores requieren un área despejada libre de edificios grandes y subestructuras de gravinave.\n\nRequiere bloques de vaciorita, que pueden obtenerse de asteroides orbitales.\n\nUna gravinave puede soportar hasta cuatro propulsores gigantes.</VGE_GiantThruster.description>
+  <VGE_GiantThruster.label>propulsor gigante</VGE_GiantThruster.label>
+  <VGE_HiddenAstrofuelPipe.description>Un tubo reforzado y oculto para mover astrobustible. Aunque no es visible, es mucho más costoso de construir.</VGE_HiddenAstrofuelPipe.description>
+  <VGE_HiddenAstrofuelPipe.label>tubería de astrobustible oculta</VGE_HiddenAstrofuelPipe.label>
+  <VGE_IndustrialAstrofuelGenerator.description>Produce una gran cantidad de energía consumiendo astrobustible. Mucho más eficiente que los generadores de quimbustible.</VGE_IndustrialAstrofuelGenerator.description>
+  <VGE_IndustrialAstrofuelGenerator.label>generador de astrobustible industrial</VGE_IndustrialAstrofuelGenerator.label>
+</LanguageData>

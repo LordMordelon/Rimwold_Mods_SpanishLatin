@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: mass drivers -->
+  <VWE_MassDrivers.label>impulsores de masa</VWE_MassDrivers.label>
+  <!-- EN: Assemble weapons which utilize electromagnets to catapult sabots up to hypervelocity, penetrating thick armor and piercing through targets alike. Note that these also require advanced components. -->
+  <VWE_MassDrivers.description>Ensambla armas que utilizan electroimanes para catapultar projectiles a hipervelocidad, penetrando armaduras gruesas y atravesando objetivos por igual. Ten en cuenta que estas también requieren componentes avanzados.</VWE_MassDrivers.description>
+  <!-- EN:
+    <li>subject->velocity as a weapon</li>
+    <li>subject_story->mastered the physics of electromagnetic acceleration, creating weapons that launch projectiles at staggering speeds</li>
+    <li>subject_story->engineered mass drivers capable of breaching the most formidable armor, reshaping the principles of warfare and defense</li>
+    <li>subject_story->unveiled a new era where kinetic energy defines the cutting edge of military technology</li>
+    <li>subject_gerund->harnessing the unstoppable force of hypervelocity for unmatched offensive capability</li>
+  -->
+  <VWE_MassDrivers.generalRules.rulesStrings>
+    <li>subject->la velocidad como arma</li>
+    <li>subject_story->dominó la física de la aceleración electromagnética, creando armas que lanzan proyectiles a velocidades asombrosas</li>
+    <li>subject_story->diseñó impulsores de masa capaces de atravesar las armaduras más formidables, redefiniendo los principios de la guerra y la defensa</li>
+    <li>subject_story->reveló una nueva era donde la energía cinética define la vanguardia de la tecnología militar</li>
+    <li>subject_gerund->aprovechando la fuerza imparable de la hipervelocidad para una capacidad ofensiva inigualable</li>
+  </VWE_MassDrivers.generalRules.rulesStrings>
+  
+</LanguageData>

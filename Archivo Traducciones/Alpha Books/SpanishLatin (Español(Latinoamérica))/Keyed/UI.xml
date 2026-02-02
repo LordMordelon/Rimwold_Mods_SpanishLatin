@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+	<!-- EN: Skill learn factor for -->
+  <ABooks_SkillLearnFactor>Factor de aprendizaje de habilidad para</ABooks_SkillLearnFactor>
+	<!-- EN:  (Not tallied)  -->
+  <ABooks_NotTallied>(No contabilizado)</ABooks_NotTallied>
+	<!-- EN: for a day -->
+  <ABooks_ForADay>por un día</ABooks_ForADay>
+	<!-- EN: for {0} days -->
+  <ABooks_ForXDays>por {0} días</ABooks_ForXDays>
+	<!-- EN: Reader will receive a random inspiration. -->
+  <ABooks_RandomInspiration>El lector recibirá una inspiración aleatoria.</ABooks_RandomInspiration>
+	<!-- EN: Reader will receive a mood bonus of {0} for {1}. -->
+  <ABooks_ExtraMood>El lector recibirá una bonificación de humor de {0} por {1}.</ABooks_ExtraMood>
+	<!-- EN: Reader will get the {0} ability. -->
+  <ABooks_Ability>El lector obtendrá la habilidad {0}.</ABooks_Ability>
+	<!-- EN: Reader will get {1} charges of the {0} ability. -->
+  <ABooks_Ability_Charges>El lector obtendrá {1} cargas de la habilidad {0}.</ABooks_Ability_Charges>
+	<!-- EN: Reader will get one of the following abilities: {0}. -->
+  <ABooks_Ability_Several>El lector obtendrá una de las siguientes habilidades: {0}.</ABooks_Ability_Several>
+	<!-- EN: Reader will get one of the following abilities: {0} with {1} charges. -->
+  <ABooks_Ability_Several_Charges>El lector obtendrá una de las siguientes habilidades: {0} con {1} cargas.</ABooks_Ability_Several_Charges>
+	<!-- EN: Reader will receive a mood bonus or penalty, depending on whether their ideo shares the book's subject as an ideological structure. -->
+  <ABooks_ReligiousMoodImpact>El lector recibirá una bonificación o penalización de humor, dependiendo de si su ideoligión comparte el tema del libro como una estructura ideológica.</ABooks_ReligiousMoodImpact>
+	<!-- EN: Reader will receive {0} for {1} -->
+  <ABooks_Hediff>El lector recibirá {0} por {1}</ABooks_Hediff>
+	<!-- EN: Reader will receive {0} -->
+  <ABooks_HediffNoTime>El lector recibirá {0}</ABooks_HediffNoTime>
+	<!-- EN: This ruined book won't provide any benefit to the reader except a meager amount of recreation, and it will basically disintegrate after being read. -->
+  <ABooks_Nothing>Este libro arruinado no proporcionará ningún beneficio al lector excepto una escasa cantidad de recreación, y básicamente se desintegrará después de ser leído.</ABooks_Nothing>
+	<!-- EN: Reading this book will discover {0} new map locations on the world map. -->
+  <ABooks_NewMapLocations>Leer este libro descubrirá {0} nuevas ubicaciones en el mapa mundial.</ABooks_NewMapLocations>
+	<!-- EN: Reading this book will provide {0} experience points in a random skill, regardless of passion in it. -->
+  <ABooks_SkillTrainer>Leer este libro proporcionará {0} puntos de experiencia en una habilidad aleatoria, independientemente de la pasión en ella.</ABooks_SkillTrainer>
+	<!-- EN: Reading this book will unlock the {0} psycast (level {1}) for the reader. -->
+  <ABooks_UnlockPsycast>Leer este libro desbloqueará el psicausto {0} (nivel {1}) para el lector.</ABooks_UnlockPsycast>
+	<!-- EN: Reading this book will give advantages to the reader when on the {0} biome. -->
+  <ABooks_Biome>Leer este libro dará ventajas al lector cuando esté en el bioma {0}.</ABooks_Biome>
+	<!-- EN: In the {0} biome: -20 ºC -->
+  <ABooks_StatsReport_TempMinByBiome>En el bioma {0}: -20 ºC</ABooks_StatsReport_TempMinByBiome>
+	<!-- EN: In the {0} biome: +20 ºC -->
+  <ABooks_StatsReport_TempMaxByBiome>En el bioma {0}: +20 ºC</ABooks_StatsReport_TempMaxByBiome>
+	<!-- EN: In the {0} biome: +20 % -->
+  <ABooks_StatsReport_MultiplierByBiome>En el bioma {0}: +20 %</ABooks_StatsReport_MultiplierByBiome>
+	<!-- EN: Reader will learn some... very creative insults for an enemy faction, which will entice them to raid the colony with {0}x strength. -->
+  <ABooks_CallRaids>El lector aprenderá algunos... insultos muy creativos para una facción enemiga, lo que los incitará a asaltar la colonia con {0}x fuerza.</ABooks_CallRaids>
+	<!-- EN: Through an unknown mechanism, reading this book will trigger a random astronomical incident. -->
+  <ABooks_RandomAstronomicalIncident>A través de un mecanismo desconocido, leer este libro desencadenará un incidente astronómico aleatorio.</ABooks_RandomAstronomicalIncident>
+	<!-- EN: The text is nonsensical and nearly unreadable. It is a mystery what effect reading it may have, if any. -->
+  <ABooks_Nonsense>El texto no tiene sentido y es casi ilegible. Es un misterio qué efecto puede tener leerlo, si es que tiene alguno.</ABooks_Nonsense>
+	<!-- EN: Studying this treatise unlocks stainless steel as a material, enabling its crafting and use in construction and crafting projects. Anything created out of steel by the reader will from now on be made with stainless steel instead, which has better qualities and is non-flammable. -->
+  <ABooks_StainlessSteel>Estudiar este tratado desbloquea el acero inoxidable como material, permitiendo su fabricación y uso en proyectos de construcción y fabricación. Cualquier cosa creada de acero por el lector a partir de ahora se hará con acero inoxidable en su lugar, que tiene mejores cualidades y no es inflamable.</ABooks_StainlessSteel>
+	<!-- EN: Studying this treatise unlocks durathread as a material, enabling its crafting and use in construction and crafting projects. Anything created out of cloth by the reader will from now on be made with durathread instead, which has better qualities. -->
+  <ABooks_DurathreadTechniques>Estudiar este tratado desbloquea el durahilo como material, permitiendo su fabricación y uso en proyectos de construcción y fabricación. Cualquier cosa creada de tela por el lector a partir de ahora se hará con durahilo en su lugar, que tiene mejores cualidades.</ABooks_DurathreadTechniques>
+	<!-- EN: {0} has mastered durathread techniques and will use this material instead of cloth. -->
+  <Abooks_ReadDurathreadTechniques>{0} ha dominado las técnicas de durahilo y usará este material en lugar de tela.</Abooks_ReadDurathreadTechniques>
+	<!-- EN: {0} has mastered stainless steel and will use this material instead of steel. -->
+  <Abooks_ReadStainlessSteel>{0} ha dominado el acero inoxidable y usará este material en lugar de acero.</Abooks_ReadStainlessSteel>
+	<!-- EN: {0} has acquired a Midas touch, and will turn all finished crafts and structures into gold. -->
+  <ABooks_ReadMidas>{0} ha adquirido un toque de Midas, y convertirá todas las artesanías y estructuras terminadas en oro.</ABooks_ReadMidas>
+	
+	<!-- EN: Disable Ruined Library quests -->
+  <ABooks_DisableQuests>Desactivar misiones de Biblioteca en Ruinas</ABooks_DisableQuests>
+	<!-- EN: Disables Ruined Library quests from triggering. Bear in mind these quests are independent of any other quests or storyteller events (raids, manhunters, etc). -->
+  <ABooks_DisableQuests_Description>Desactiva la activación de misiones de Biblioteca en Ruinas. Ten en cuenta que estas misiones son independientes de cualquier otra misión o evento del cuentacuentos (asaltos, cazadores de hombres, etc).</ABooks_DisableQuests_Description>
+	<!-- EN: Ruined Library quests multiplier (lower means getting the event more often) -->
+  <ABooks_QuestRate>Multiplicador de misiones de Biblioteca en Ruinas (más bajo significa obtener el evento más a menudo)</ABooks_QuestRate>
+	<!-- EN: The frequency of the Ruined Library quest being offered is multiplied by this number (with a multiplier of 1, it is offered every between 15 and 30 days at random). Numbers below 1 decrease the time, while numbers above it increase it. Note that this event doesn't "replace" normal quests, it works independently. -->
+  <ABooks_QuestRateTooltip>La frecuencia con la que se ofrece la misión de Biblioteca en Ruinas se multiplica por este número (con un multiplicador de 1, se ofrece cada entre 15 y 30 días al azar). Los números por debajo de 1 disminuyen el tiempo, mientras que los números por encima lo aumentan. Ten en cuenta que este evento no "reemplaza" las misiones normales, funciona de forma independiente.</ABooks_QuestRateTooltip>
+	<!-- EN: Multiplier to number of "useful" books in ruined libraries (less means scarcer) -->
+  <ABooks_UsefulBookMultiplier>Multiplicador del número de libros "útiles" en bibliotecas en ruinas (menos significa más escasos)</ABooks_UsefulBookMultiplier>
+	<!-- EN: The amount of books that aren't ruined or burned that can be found in library quests will be multiplied by this number. 0.1 means books will be ten times as scarcer, while 10 means no ruined books at all. -->
+  <ABooks_UsefulBookMultiplierTooltip>La cantidad de libros que no están arruinados o quemados que se pueden encontrar en las misiones de biblioteca se multiplicará por este número. 0.1 significa que los libros serán diez veces más escasos, mientras que 10 significa que no habrá libros arruinados en absoluto.</ABooks_UsefulBookMultiplierTooltip>
+	<!-- EN: Disable colonists auto-reading ruined books -->
+  <ABooks_DisableReadRuinedBooks>Desactivar auto-lectura de libros arruinados por colonos</ABooks_DisableReadRuinedBooks>
+	<!-- EN: By default colonists will auto-read ruined books, destroying them. By enabling this you'll allow these books to be stored indefinitely, for example for their research bonus. -->
+  <ABooks_DisableReadRuinedBooksTooltip>Por defecto, los colonos leerán automáticamente los libros arruinados, destruyéndolos. Al habilitar esto, permitirás que estos libros se almacenen indefinidamente, por ejemplo, para su bonificación de investigación.</ABooks_DisableReadRuinedBooksTooltip>
+	<!-- EN: Reset -->
+  <ABooks_Reset>Restablecer</ABooks_Reset>
+</LanguageData>

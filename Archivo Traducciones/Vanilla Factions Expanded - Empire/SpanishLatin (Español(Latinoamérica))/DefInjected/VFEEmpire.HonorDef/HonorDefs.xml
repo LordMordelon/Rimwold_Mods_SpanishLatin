@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: The Architect -->
+  <VFEE_Architect.label>El Arquitecto</VFEE_Architect.label>
+  <!-- EN: Construction skill never decays. -->
+  <VFEE_Architect.description>La habilidad de construcción nunca decae.</VFEE_Architect.description>
+  
+  <!-- EN: The Artist -->
+  <VFEE_Artist.label>El Artista</VFEE_Artist.label>
+  <!-- EN: Artistic skill never decays. -->
+  <VFEE_Artist.description>La habilidad artística nunca decae.</VFEE_Artist.description>
+  
+  <!-- EN: The Chef -->
+  <VFEE_Chef.label>El Chef</VFEE_Chef.label>
+  <!-- EN: Cooking skill never decays. -->
+  <VFEE_Chef.description>La habilidad de cocina nunca decae.</VFEE_Chef.description>
+  
+  <!-- EN: {CHILD} of {PARENT_labelShort} -->
+  <VFEE_ChildOf.label>{CHILD} de {PARENT_labelShort}</VFEE_ChildOf.label>
+  <!-- EN: Opinion of {PARENT_labelShort} about {PAWN_labelShort} is locked at 100. Opinion of {PAWN_labelShort} about {PARENT_labelShort} is locked at 100. -->
+  <VFEE_ChildOf.description>La opinión de {PARENT_labelShort} sobre {PAWN_labelShort} está bloqueada en 100. La opinión de {PAWN_labelShort} sobre {PARENT_labelShort} está bloqueada en 100.</VFEE_ChildOf.description>
+  
+  <!-- EN: Chosen of {FACTION_name} -->
+  <VFEE_Chosen.label>Elegido de {FACTION_name}</VFEE_Chosen.label>
+  <!-- EN: +10 Opinion from every pawn of {FACTION_name}. +10 Opinion about every pawn of {FACTION_name}. -->
+  <VFEE_Chosen.description>+10 de opinión de cada peón de {FACTION_name}. +10 de opinión sobre cada peón de {FACTION_name}.</VFEE_Chosen.description>
+  
+  <!-- EN: The Craftsman -->
+  <VFEE_Craftsman.label>El Artesano</VFEE_Craftsman.label>
+  <!-- EN: Crafting skill never decays. -->
+  <VFEE_Craftsman.description>La habilidad de artesanía nunca decae.</VFEE_Craftsman.description>
+  
+  <!-- EN: Destroyer of {FACTION_name} -->
+  <VFEE_Destroyer.label>Destructor de {FACTION_name}</VFEE_Destroyer.label>
+  <!-- EN: +10% Trade Price Improvement with Enemies of {FACTION_name}. -->
+  <VFEE_Destroyer.description>+10% de mejora en el precio comercial con enemigos de {FACTION_name}.</VFEE_Destroyer.description>
+  
+  <!-- EN: First of {PAWN_possessive} Name -->
+  <VFEE_FirstOfName.label>Primero de su Nombre</VFEE_FirstOfName.label>
+  <!-- EN: Every noble person has +5 opinion of this pawn. -->
+  <VFEE_FirstOfName.description>Toda persona noble tiene +5 de opinión de este peón.</VFEE_FirstOfName.description>
+  
+  <!-- EN: The Gardener -->
+  <VFEE_Gardener.label>El Jardinero</VFEE_Gardener.label>
+  <!-- EN: Plants skill never decays. -->
+  <VFEE_Gardener.description>La habilidad de plantas nunca decae.</VFEE_Gardener.description>
+  
+  <!-- EN: The Healer -->
+  <VFEE_Healer.label>El Sanador</VFEE_Healer.label>
+  <!-- EN: Medicine skill never decays. -->
+  <VFEE_Healer.description>La habilidad de medicina nunca decae.</VFEE_Healer.description>
+  
+  <!-- EN: The Intellectual -->
+  <VFEE_Intellectual.label>El Intelectual</VFEE_Intellectual.label>
+  <!-- EN: Intellectual skill never decays. -->
+  <VFEE_Intellectual.description>La habilidad intelectual nunca decae.</VFEE_Intellectual.description>
+  
+  <!-- EN: {RANK} of {SETTLEMENT_label} -->
+  <VFEE_LordOf.label>{RANK} de {SETTLEMENT_label}</VFEE_LordOf.label>
+  <!-- EN: +1 Honor every 5 days when {PAWN_pronoun} is in {SETTLEMENT_label}. -->
+  <VFEE_LordOf.description>+1 de Honor cada 5 días cuando {PAWN_pronoun} está en {SETTLEMENT_label}.</VFEE_LordOf.description>
+  
+  <!-- EN: The Marksman -->
+  <VFEE_Marksman.label>El Tirador</VFEE_Marksman.label>
+  <!-- EN: Shooting skill never decays. -->
+  <VFEE_Marksman.description>La habilidad de disparo nunca decae.</VFEE_Marksman.description>
+  
+  <!-- EN: The Miner -->
+  <VFEE_Miner.label>El Minero</VFEE_Miner.label>
+  <!-- EN: Mining skill never decays. -->
+  <VFEE_Miner.description>La habilidad de minería nunca decae.</VFEE_Miner.description>
+  
+  <!-- EN: The Negotiator -->
+  <VFEE_Negotiator.label>El Negociador</VFEE_Negotiator.label>
+  <!-- EN: Social skill never decays. -->
+  <VFEE_Negotiator.description>La habilidad social nunca decae.</VFEE_Negotiator.description>
+  
+  <!-- EN: Patron of Arts -->
+  <VFEE_PatronOfArts.label>Mecenas de las Artes</VFEE_PatronOfArts.label>
+  <!-- EN: +3 Honor after successful art exhibition -->
+  <VFEE_PatronOfArts.description>+3 de Honor después de una exhibición de arte exitosa</VFEE_PatronOfArts.description>
+  
+  <!-- EN: The Rancher -->
+  <VFEE_Rancher.label>El Ranchero</VFEE_Rancher.label>
+  <!-- EN: Animals skill never decays. -->
+  <VFEE_Rancher.description>La habilidad de animales nunca decae.</VFEE_Rancher.description>
+  
+  <!-- EN: Ruler of {SETTLEMENT_label} -->
+  <VFEE_RulerOf.label>Gobernante de {SETTLEMENT_label}</VFEE_RulerOf.label>
+  <!-- EN: Tithe collection speed of {SETTLEMENT_label} is doubled. -->
+  <VFEE_RulerOf.description>La velocidad de recolección de diezmos de {SETTLEMENT_label} se duplica.</VFEE_RulerOf.description>
+  
+  <!-- EN: The Great -->
+  <VFEE_TheGreat.label>El Grande</VFEE_TheGreat.label>
+  <!-- EN: +5 mood -->
+  <VFEE_TheGreat.description>+5 de humor</VFEE_TheGreat.description>
+  
+  <!-- EN: The Warrior -->
+  <VFEE_Warrior.label>El Guerrero</VFEE_Warrior.label>
+  <!-- EN: Melee skill never decays. -->
+  <VFEE_Warrior.description>La habilidad cuerpo a cuerpo nunca decae.</VFEE_Warrior.description>
+  
+  <!-- EN: Wielder of the {WEAPON_label} -->
+  <VFEE_WieldOfWeapon.label>Portador de {WEAPON_label}</VFEE_WieldOfWeapon.label>
+  <!-- EN: 50% chance of +1 Honor for every kill with {WEAPON_label}. -->
+  <VFEE_WieldOfWeapon.description>50% de probabilidad de +1 de Honor por cada muerte con {WEAPON_label}.</VFEE_WieldOfWeapon.description>
+  
+</LanguageData>

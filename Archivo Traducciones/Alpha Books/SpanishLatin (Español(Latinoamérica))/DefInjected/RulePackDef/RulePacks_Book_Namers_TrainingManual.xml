@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>title->[titleBasic]</li>
+    <li>title(p=2)->[titleAuthored]</li>
+    <li>titleBasic(p=6)->[randAdjective] [subject_primary] Training Manual</li>
+    <li>titleBasic(p=6)->[randNoun] and [subject_primary] Skill Training</li>
+    <li>titleBasic->Training the Art of [subject_primary]</li>
+    <li>titleBasic->Essential Training Techniques in [subject_primary]</li>
+    <li>titleBasic->A Beginner’s Training Guide to [subject_primary]</li>
+    <li>titleBasic->Advanced Training Lessons in [subject_primary]</li>
+    <li>titleBasic->Training to Expertise: [subject_primary]</li>
+    <li>titleBasic->Training for Survival: [subject_primary]</li>
+    <li>titleBasic->Training Mastery in [subject_primary]</li>
+    <li>titleBasic->Practice Makes Perfect: Training [subject_primary]</li>
+    <li>titleAuthored->[ANYPAWN_nameIndef]’s Training Manual of [subject_primary]</li>
+    <li>titleAuthored->[ANYPAWN_nameIndef]’s Training Guide to [subject_primary]</li>
+    <li>titleAuthored->[ANYPAWN_nameIndef]’s Training Book: [subject_primary]</li>
+    <li>titleAuthored->[ANYPAWN_nameIndef]’s Training Handbook of [subject_primary]</li>
+    <li>titleAuthored->[ANYPAWN_nameIndef]’s Training Lessons in [subject_primary]</li>
+    <li>titleAuthored->[ANYPAWN_nameIndef]’s Training Notes on [subject_primary]</li>
+    <li>titleAuthored->[ANYPAWN_nameIndef]’s Training Strategies for [subject_primary]</li>
+  -->
+  <ABooks_TrainingManual_Namer.rulePack.rulesStrings>
+    <li>title->[titleBasic]</li>
+    <li>title(p=2)->[titleAuthored]</li>
+    <li>titleBasic(p=6)->Manual de Entrenamiento de [subject_primary] [randAdjective]</li>
+    <li>titleBasic(p=6)->[randNoun] y Entrenamiento de Habilidad de [subject_primary]</li>
+    <li>titleBasic->Entrenando el Arte de [subject_primary]</li>
+    <li>titleBasic->Técnicas de Entrenamiento Esenciales en [subject_primary]</li>
+    <li>titleBasic->Una Guía de Entrenamiento para Principiantes en [subject_primary]</li>
+    <li>titleBasic->Lecciones de Entrenamiento Avanzado en [subject_primary]</li>
+    <li>titleBasic->Entrenamiento para la Experiencia: [subject_primary]</li>
+    <li>titleBasic->Entrenamiento para la Supervivencia: [subject_primary]</li>
+    <li>titleBasic->Maestría de Entrenamiento en [subject_primary]</li>
+    <li>titleBasic->La Práctica Hace al Maestro: Entrenando [subject_primary]</li>
+    <li>titleAuthored->Manual de Entrenamiento de [subject_primary] de [ANYPAWN_nameIndef]</li>
+    <li>titleAuthored->Guía de Entrenamiento de [subject_primary] de [ANYPAWN_nameIndef]</li>
+    <li>titleAuthored->Libro de Entrenamiento de [ANYPAWN_nameIndef]: [subject_primary]</li>
+    <li>titleAuthored->Manual Práctico de Entrenamiento de [subject_primary] de [ANYPAWN_nameIndef]</li>
+    <li>titleAuthored->Lecciones de Entrenamiento en [subject_primary] de [ANYPAWN_nameIndef]</li>
+    <li>titleAuthored->Notas de Entrenamiento sobre [subject_primary] de [ANYPAWN_nameIndef]</li>
+    <li>titleAuthored->Estrategias de Entrenamiento para [subject_primary] de [ANYPAWN_nameIndef]</li>
+  </ABooks_TrainingManual_Namer.rulePack.rulesStrings>
+  
+</LanguageData>

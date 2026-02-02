@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <VFED_OperationName.rulePack.rulesStrings>
+    <li>operationName-&gt;Operación [NounAny] [AdjectiveAny]</li>
+    <li>NounAny-&gt;[ConceptAny]</li>
+    <li>NounAny-&gt;[ColorAny]</li>
+    <li>NounAny-&gt;[Vegetable]</li>
+    <li>NounAny-&gt;[Game]</li>
+    <li>NounAny-&gt;[AnimalAny]</li>
+    <li>NounAny-&gt;[Weapon]</li>
+    <li>NounAny-&gt;[TerrainFeature]</li>
+    <li>NounAny-&gt;[NaturalObject]</li>
+    <li>NounAny-&gt;[TreeType]</li>
+    <li>NounAny-&gt;[Enemy]</li>
+    <li>NounAny-&gt;[Apparel]</li>
+    <li>NounAny-&gt;[Gore]</li>
+    <li>NounAny-&gt;[BodyPart]</li>
+    <li>ColorAny-&gt;[Color]</li>
+    <li>ColorAny-&gt;[ColorBadass]</li>
+    <li>AnimalAny-&gt;[Animal]</li>
+    <li>AnimalAny-&gt;[AnimalBadass]</li>
+  </VFED_OperationName.rulePack.rulesStrings>
+  <VFED_PlotName.rulePack.rulesStrings>
+    <li>plotName(nobleTitle==Knight)-&gt;Caballero cruel</li>
+    <li>plotName(nobleTitle==Praetor)-&gt;Pretor mezquino</li>
+    <li>plotName(nobleTitle==Baron)-&gt;Barón intolerante</li>
+    <li>plotName(nobleTitle==Count)-&gt;Conde corrupto</li>
+    <li>plotName(nobleTitle==VFEE_Archcount)-&gt;Archiconde abusivo</li>
+    <li>plotName(nobleTitle==VFEE_Marquess)-&gt;Marqués militante</li>
+    <li>plotName(nobleTitle==Duke)-&gt;Duque depravado</li>
+    <li>plotName(nobleTitle==VFEE_Archduke)-&gt;Archiduque arrogante</li>
+    <li>plotName(nobleTitle==Consul)-&gt;Cónsul corrupto</li>
+    <li>plotName(nobleTitle==VFEE_Magister)-&gt;Magister malévolo</li>
+    <li>plotName(nobleTitle==VFEE_Despot)-&gt;Déspota trastornado</li>
+    <li>plotName(nobleTitle==Stellarch)-&gt;Estelar repugnante</li>
+    <li>plotName(nobleTitle==VFEE_HighStellarch)-&gt;Alto estelar atroz</li>
+    <li>plotName(nobleTitle==Emperor)-&gt;Emperador egocéntrico</li>
+  </VFED_PlotName.rulePack.rulesStrings>
+</LanguageData>

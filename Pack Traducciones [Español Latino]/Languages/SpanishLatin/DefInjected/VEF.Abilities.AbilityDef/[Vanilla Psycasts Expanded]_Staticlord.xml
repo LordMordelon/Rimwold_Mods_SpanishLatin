@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <VPE_BallLightning.description>El lanzador comprime una bola de electricidad condensada que se moverá lentamente a una ubicación designada. Unos segundos después de su liberación, comenzará a descargarse en objetivos cercanos con rayos vivos de electricidad.</VPE_BallLightning.description>
+  <VPE_BallLightning.jobReportString>Usando habilidad: {0}</VPE_BallLightning.jobReportString>
+  <VPE_BallLightning.label>bola de rayos</VPE_BallLightning.label>
+  <VPE_BallLightning.verbProperties.label>bola de rayos</VPE_BallLightning.verbProperties.label>
+  <VPE_Bolt.description>Lanza un rayo débil de electricidad para golpear una pequeña área objetivo, a una distancia que escala con la sensibilidad psíquica. Quema en golpes directos e inflige daño EMP en el área.</VPE_Bolt.description>
+  <VPE_Bolt.jobReportString>Usando habilidad: {0}</VPE_Bolt.jobReportString>
+  <VPE_Bolt.label>rayo</VPE_Bolt.label>
+  <VPE_Bolt.verbProperties.label>rayo</VPE_Bolt.verbProperties.label>
+  <VPE_ChainBolt.description>Dispara un rayo vivo de electricidad a un objetivo que puede filtrarse a objetivos cercanos, la cantidad escala con la sensibilidad psíquica. Inflige pequeñas quemaduras y daño EMP.</VPE_ChainBolt.description>
+  <VPE_ChainBolt.jobReportString>Usando habilidad: {0}</VPE_ChainBolt.jobReportString>
+  <VPE_ChainBolt.label>rayo en cadena</VPE_ChainBolt.label>
+  <VPE_ChainBolt.verbProperties.label>rayo en cadena</VPE_ChainBolt.verbProperties.label>
+  <VPE_Flashstorm.description>Usa portales de salto de presión diferencial concentrada en la atmósfera para generar una tormenta repentina localizada. La tormenta golpeará el área con rayos durante algún tiempo antes de disiparse.</VPE_Flashstorm.description>
+  <VPE_Flashstorm.jobReportString>Usando habilidad: {0}</VPE_Flashstorm.jobReportString>
+  <VPE_Flashstorm.label>tormenta repentina</VPE_Flashstorm.label>
+  <VPE_Flashstorm.verbProperties.label>tormenta repentina</VPE_Flashstorm.verbProperties.label>
+  <VPE_Hurricane.description>El lanzador cambia forzosamente el clima, usando portales de salto de presión diferencial generalizados, a un aguacero con vientos huracanados, que dura tanto como el lanzador pueda manejar la acumulación de calor y puede detenerse instantáneamente a voluntad. Aquellos al aire libre experimentarán limitaciones progresivamente severas a la vista, el movimiento y la manipulación hasta el punto de detenerse por completo.</VPE_Hurricane.description>
+  <VPE_Hurricane.jobReportString>Usando habilidad: {0}</VPE_Hurricane.jobReportString>
+  <VPE_Hurricane.label>huracán</VPE_Hurricane.label>
+  <VPE_Hurricane.verbProperties.label>huracán</VPE_Hurricane.verbProperties.label>
+  <VPE_Recharge.description>Sintoniza cuidadosa y delicadamente una corriente de electricidad a una batería tocada para cargarla con 100kW o el equivalente a 100 Wd/s. La duración de la carga depende de la sensibilidad psíquica del lanzador.</VPE_Recharge.description>
+  <VPE_Recharge.jobReportString>Usando habilidad: {0}</VPE_Recharge.jobReportString>
+  <VPE_Recharge.label>recarga</VPE_Recharge.label>
+  <VPE_Recharge.verbProperties.label>recarga</VPE_Recharge.verbProperties.label>
+  <VPE_StaticAura.description>El lanzador designa un objetivo cercano para recibir un aura de electricidad creciente, que infligirá efectos EMP en cualquier cosa extraña a la que se acerquen, incluidas estructuras, peones y objetos eléctricos.</VPE_StaticAura.description>
+  <VPE_StaticAura.jobReportString>Usando habilidad: {0}</VPE_StaticAura.jobReportString>
+  <VPE_StaticAura.label>aura estática</VPE_StaticAura.label>
+  <VPE_StaticAura.verbProperties.label>aura estática</VPE_StaticAura.verbProperties.label>
+  <VPE_StaticPulse.description>El lanzador descarga una cantidad masiva de voltaje en el aire circundante, causando una explosión EMP en un radio enorme que de otro modo es inofensiva.</VPE_StaticPulse.description>
+  <VPE_StaticPulse.jobReportString>Usando habilidad: {0}</VPE_StaticPulse.jobReportString>
+  <VPE_StaticPulse.label>pulso estático</VPE_StaticPulse.label>
+  <VPE_StaticPulse.verbProperties.label>pulso estático</VPE_StaticPulse.verbProperties.label>
+  <VPE_Thunderbolt.description>Invoca un rayo para golpear a un objetivo, infligiendo quemaduras en golpes directos y un daño EMP de área más grande. El radio de impacto escala con la sensibilidad psíquica del lanzador, hasta un máximo de 12 celdas.</VPE_Thunderbolt.description>
+  <VPE_Thunderbolt.jobReportString>Usando habilidad: {0}</VPE_Thunderbolt.jobReportString>
+  <VPE_Thunderbolt.label>trueno</VPE_Thunderbolt.label>
+  <VPE_Thunderbolt.verbProperties.label>trueno</VPE_Thunderbolt.verbProperties.label>
+  <VPE_Vortex.description>Manifiesta un vórtice enorme de electricidad de alto voltaje, redirigido a través de un portal de salto desde una tormenta de nebulosa, en un área objetivo con un gran efecto. Obstaculiza severamente el movimiento y la manipulación proporcionalmente, con el efecto más fuerte en el centro.</VPE_Vortex.description>
+  <VPE_Vortex.jobReportString>Usando habilidad: {0}</VPE_Vortex.jobReportString>
+  <VPE_Vortex.label>vórtice</VPE_Vortex.label>
+  <VPE_Vortex.verbProperties.label>vórtice</VPE_Vortex.verbProperties.label>
+</LanguageData>

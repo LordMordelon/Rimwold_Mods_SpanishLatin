@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Weapon panel -->
+  <CWF_UI_WeaponPanel>Panel de arma</CWF_UI_WeaponPanel>
+  <!-- EN: Open the weapon panel -->
+  <CWF_UI_WeaponPanelDesc>Abrir el panel de arma</CWF_UI_WeaponPanelDesc>
+
+  <!-- EN: Input -->
+  <CWF_UI_InputTitle>Entrada</CWF_UI_InputTitle>
+  <!-- EN: Confirm -->
+  <CWF_UI_Confirm>Confirmar</CWF_UI_Confirm>
+  <!-- EN: Cancel -->
+  <CWF_UI_Cancel>Cancelar</CWF_UI_Cancel>
+
+  <!-- EN: This is not a ranged weapon. -->
+  <CWF_UI_NotRanged>Esta no es un arma a distancia.</CWF_UI_NotRanged>
+
+  <!-- EN: Range -->
+  <CWF_UI_Range>Alcance</CWF_UI_Range>
+  <!-- EN: DPS -->
+  <CWF_UI_RangeDPS>Daño por segundo</CWF_UI_RangeDPS>
+  <!-- EN: Burst count -->
+  <CWF_UI_RangeBurstCount>Disparos por ráfaga</CWF_UI_RangeBurstCount>
+  <!-- EN: Warmup time -->
+  <CWF_UI_RangeWarmupTime>Tiempo de puntería</CWF_UI_RangeWarmupTime>
+  <!-- EN: Cooldown -->
+  <CWF_UI_RangeCooldown>Enfriamiento</CWF_UI_RangeCooldown>
+  <!-- EN: Projectile -->
+  <CWF_UI_Projectile>Proyectil</CWF_UI_Projectile>
+  <!-- EN: Damage -->
+  <CWF_UI_Damage>Daño</CWF_UI_Damage>
+  <!-- EN: Armor penetration -->
+  <CWF_UI_ArmorPenetration>Penetr. de blindaje</CWF_UI_ArmorPenetration>
+  <!-- EN: Stopping power -->
+  <CWF_UI_StoppingPower>Poder de detención</CWF_UI_StoppingPower>
+  <!-- EN: Accuracy -->
+  <CWF_UI_Accuracy>Precisión</CWF_UI_Accuracy>
+  <!-- EN: Touch -->
+  <CWF_UI_Touch>A quemarropa</CWF_UI_Touch>
+  <!-- EN: Short -->
+  <CWF_UI_Short>Corta</CWF_UI_Short>
+  <!-- EN: Medium -->
+  <CWF_UI_Medium>Media</CWF_UI_Medium>
+  <!-- EN: Long -->
+  <CWF_UI_Long>Larga</CWF_UI_Long>
+  <!-- EN: Mass -->
+  <CWF_UI_Mass>Masa</CWF_UI_Mass>
+
+  <!-- EN: Part of -->
+  <CWF_UI_PartOf>Parte de</CWF_UI_PartOf>
+  <!-- EN: Muzzle -->
+  <CWF_UI_Muzzle>Bocacha</CWF_UI_Muzzle>
+  <!-- EN: Barrel -->
+  <CWF_UI_Barrel>Cañón</CWF_UI_Barrel>
+  <!-- EN: Receiver -->
+  <CWF_UI_Receiver>Mecanismos</CWF_UI_Receiver>
+  <!-- EN: Trigger -->
+  <CWF_UI_Trigger>Gatillo</CWF_UI_Trigger>
+  <!-- EN: Stock -->
+  <CWF_UI_Stock>Culata</CWF_UI_Stock>
+  <!-- EN: Grip -->
+  <CWF_UI_Grip>Empuñadura</CWF_UI_Grip>
+  <!-- EN: Sight -->
+  <CWF_UI_Sight>Mira</CWF_UI_Sight>
+  <!-- EN: Magazine -->
+  <CWF_UI_Magazine>Cargador</CWF_UI_Magazine>
+  <!-- EN: Underbarrel -->
+  <CWF_UI_Underbarrel>Bajo el cañón</CWF_UI_Underbarrel>
+  <!-- EN: Ammo -->
+  <CWF_UI_Ammo>Munición</CWF_UI_Ammo>
+  <!-- EN: Accessory -->
+  <CWF_UI_Accessory>Accesorio</CWF_UI_Accessory>
+
+  <!-- EN: Uninstall  -->
+  <CWF_UI_Uninstall>Desinstalar </CWF_UI_Uninstall>
+  <!-- EN: No compatible parts in inventory -->
+  <CWF_UI_NoCompatiblePartsInInventory>No hay partes compatibles en el inventario</CWF_UI_NoCompatiblePartsInInventory>
+  <!-- EN: No compatible parts on map -->
+  <CWF_UI_NoCompatiblePartsOnMap>No hay partes compatibles en el mapa</CWF_UI_NoCompatiblePartsOnMap>
+
+  <!-- EN: Weapon modules -->
+  <CWF_UI_WeaponModules>Módulos de arma</CWF_UI_WeaponModules>
+  <!-- EN: Modules installed on this weapon. -->
+  <CWF_UI_WeaponModules_Desc>Módulos instalados en esta arma.</CWF_UI_WeaponModules_Desc>
+
+  <!-- EN: Module Effects -->
+  <CWF_UI_ModuleEffects>Efectos del módulo</CWF_UI_ModuleEffects>
+  <!-- EN: Installing {MODULE_label} will grant the weapon the following effects -->
+  <CWF_UI_ModuleEffectsDesc>Instalar {MODULE_label} le otorgará al arma los siguientes efectos</CWF_UI_ModuleEffectsDesc>
+</LanguageData>

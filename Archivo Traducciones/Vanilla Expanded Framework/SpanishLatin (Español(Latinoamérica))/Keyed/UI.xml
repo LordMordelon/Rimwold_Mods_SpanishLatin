@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+	<!-- EN: Hire {0} -->
+  <VEF.Hire>Contratar {0}</VEF.Hire>
+	<!-- EN: Hire some {0} to help around the colony, for example with defense. -->
+  <VEF.HireDesc>Contrata algunos {0} para ayudar en la colonia, por ejemplo, con la defensa.</VEF.HireDesc>
+	<!-- EN: Available Silver: {0} -->
+  <VEF.AvailableSilver>Plata disponible: {0}</VEF.AvailableSilver>
+	<!-- EN: Value -->
+  <VEF.Value>Valor</VEF.Value>
+	<!-- EN: How many of that unit do you want to have? -->
+  <VEF.ChooseNumberOfUnits>¿Cuántas unidades de ese tipo quieres tener?</VEF.ChooseNumberOfUnits>
+	<!-- EN: Breakdown -->
+  <VEF.Breakdown>Desglose</VEF.Breakdown>
+	<!-- EN: Amount of Days -->
+  <VEF.DayAmount>Cantidad de días</VEF.DayAmount>
+	<!-- EN: Cost to hire -->
+  <VEF.Cost>Coste de contratación</VEF.Cost>
+	<!-- EN: Risk multiplier -->
+  <VEF.RiskMult>Multiplicador de riesgo</VEF.RiskMult>
+	<!-- EN: Total Price -->
+  <VEF.TotalPrice>Precio total</VEF.TotalPrice>
+	<!-- EN: You can hire {0} for any period of time.You can only have one contract active at a time, and you cannot mix and match the factions from which you hire.
+If hired {0} die on duty, you will incur an additional 5% increase to contract price per dead pirate on all future contracts for a full year. -->
+  <VEF.HiringDesc>Puedes contratar {0} por cualquier periodo de tiempo. Solo puedes tener un contrato activo a la vez, y no puedes mezclar facciones de las que contratas.\nSi los {0} contratados mueren en servicio, incurrirás en un aumento adicional del 5% al precio del contrato por cada pirata muerto en todos los contratos futuros durante un año completo.</VEF.HiringDesc>
+	<!-- EN: Long term contracts are significantly more expensive -->
+  <VEF.LongTerm>Los contratos a largo plazo son significativamente más caros</VEF.LongTerm>
+	<!-- EN: View contract with {0} -->
+  <VEF.ContractInfo>Ver contrato con {0}</VEF.ContractInfo>
+	<!-- EN: Contracted: -->
+  <VEF.PawnsList>Contratados:</VEF.PawnsList>
+	<!-- EN: Contract with {0} -->
+  <VEF.ContractTitle>Contrato con {0}</VEF.ContractTitle>
+	<!-- EN: Silver spent: -->
+  <VEF.Spent>Plata gastada:</VEF.Spent>
+	<!-- EN: Time remaining: -->
+  <VEF.TimeLeft>Tiempo restante:</VEF.TimeLeft>
+	<!-- EN: Cancel Contract -->
+  <VEF.CancelContract>Cancelar contrato</VEF.CancelContract>
+	<!-- EN: Cancelling your contract will not refund the silver you spent on it. -->
+  <VEF.NoRefund>Cancelar tu contrato no reembolsará la plata que gastaste en él.</VEF.NoRefund>
+	<!-- EN: Customize {0} -->
+  <VEF.Customize>Personalizar {0}</VEF.Customize>
+	<!-- EN: {0} Customization -->
+  <VEF.CustomizationTitle>Personalización de {0}</VEF.CustomizationTitle>
+	<!-- EN: Name -->
+  <VEF.Name>Nombre</VEF.Name>
+	<!-- EN: Cancel -->
+  <VEF.Cancel>Cancelar</VEF.Cancel>
+	<!-- EN: Available contracts: {0} -->
+  <VEF.AvailableContracts>Contratos disponibles: {0}</VEF.AvailableContracts>
+	<!-- EN: Mechanoids -->
+  <VEF.MechsSection>Mecanoides</VEF.MechsSection>
+	<!-- EN: Default -->
+  <VEF.DoorLockDefault>Por defecto</VEF.DoorLockDefault>
+	<!-- EN: Everyone -->
+  <VEF.DoorLockEveryone>Todos</VEF.DoorLockEveryone>
+	<!-- EN: Only colonists and animals -->
+  <VEF.DoorLockOnlyColonistsAndAnimals>Solo colonos y animales</VEF.DoorLockOnlyColonistsAndAnimals>
+	<!-- EN: Only colonists, animals and friendlies -->
+  <VEF.DoorLockOnlyColonistsAndAnimalsAndFriendlies>Solo colonos, animales y aliados</VEF.DoorLockOnlyColonistsAndAnimalsAndFriendlies>
+	<!-- EN: Only drafted -->
+  <VEF.DoorLockOnlyDrafted>Solo reclutados</VEF.DoorLockOnlyDrafted>
+	<!-- EN: Current door lock policy "{0}" -->
+  <VEF.DoorLockState>Política actual de bloqueo de puertas "{0}"</VEF.DoorLockState>
+	<!-- EN: Click to change current door lock policy. -->
+  <VEF.DoorLockStateDesc>Haz clic para cambiar la política actual de bloqueo de puertas.</VEF.DoorLockStateDesc>
+	<!-- EN: Power is off. Impossible to change door lock policy. -->
+  <VEF.DoorLockStatePowerOff>La energía está apagada. Es imposible cambiar la política de bloqueo de puertas.</VEF.DoorLockStatePowerOff>
+	<!-- EN: Hunt -->
+  <VEF.DraftHuntLabel>Cazar</VEF.DraftHuntLabel>
+	<!-- EN: While this is on characters will automatically move to engage nearby targets.\n\nYou can right-click this button to toggle autofire for ALL abilities on the selected pawn. -->
+  <VEF.HuntDescription>Mientras esto esté activado, los personajes se moverán automáticamente para atacar a los objetivos cercanos.\n\nPuedes hacer clic derecho en este botón para alternar el autodisparo de TODAS las habilidades en el peón seleccionado.</VEF.HuntDescription>
+	<!-- EN: This quest is a part of a quest chain. Completing it may trigger continuation quests.\n\n{0}\n\n{1} -->
+  <VEF.QuestChainTooltip>Esta misión es parte de una cadena de misiones. Completarla puede activar misiones de continuación.\n\n{0}\n\n{1}</VEF.QuestChainTooltip>
+	<!-- EN: Attack this {0}. -->
+  <VEF.CommandAttackMovingBaseDesc>Atacar este {0}.</VEF.CommandAttackMovingBaseDesc>
+	<!-- EN: Change visual -->
+  <VFE.ChangeVisualLabel>Cambiar aspecto visual</VFE.ChangeVisualLabel>
+	<!-- EN: Set a specific visual for the building or item. -->
+  <VFE.ChangeVisualDesc>Establece un aspecto visual específico para el edificio u objeto.</VFE.ChangeVisualDesc>
+</LanguageData>

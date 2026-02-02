@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+	<!-- EN: Show the info letter for the research requirement at the start of a new game? -->
+  <ShowResearchMessageAtNewGame>¿Mostrar la carta de información sobre los requisitos de investigación al comenzar un nuevo juego?</ShowResearchMessageAtNewGame>
+	<!-- EN: Check of which mod the organ workbench should be used to create EvolvedOrgansRedux implants.\nThe game has to be restarted for this change to take effect. -->
+  <ChosenWorkbench>Comprueba qué mesa de trabajo de mod se debe usar para crear implantes de EvolvedOrgansRedux.\nEl juego debe reiniciarse para que este cambio surta efecto.</ChosenWorkbench>
+	<!-- EN: Require a special research for surgeries to be able to use bodyparts added by this mod?\nThe game has to be restarted for this change to take effect. -->
+  <RequireResearchProject>¿Requerir una investigación especial para que las cirugías puedan usar partes del cuerpo añadidas por este mod?\nEl juego debe reiniciarse para que este cambio surta efecto.</RequireResearchProject>
+	<!-- EN: Change the Best-Part-Efficiency-Special-Weight from 75% to 50%? That means that instead of the best eye/ear having 75% effect on the efficiency stat and every other eye 25%, all parts have 50% weight. Natural or not.\nThe game has to be restarted for this change to take effect. -->
+  <ChangeBestPartEfficiencySpecialWeight>¿Cambiar el peso especial de eficiencia de la mejor parte del 75% al 50%? Eso significa que en lugar de que el mejor ojo/oído tenga un 75% de efecto en la estadística de eficiencia y cualquier otro ojo un 25%, todas las partes tienen un 50% de peso. Natural o no.\nEl juego debe reiniciarse para que este cambio surta efecto.</ChangeBestPartEfficiencySpecialWeight>
+	<!-- EN: Choose how many of those Bodyparts you want Pawns to have.\nYou need to restart the game for the changes to take effect.\nYou can change these settings in the middle of a playthrough but if you reduce the amount of BodyParts and an implant is installed in one of the removed ones, the implant will dissappear and give an error message. That error message can be ignored. -->
+  <ChoicesForAmountOfBodyParts>Elige cuántas de esas partes del cuerpo quieres que tengan los peones.\nNecesitas reiniciar el juego para que los cambios surtan efecto.\nPuedes cambiar esta configuración en medio de una partida, pero si reduces la cantidad de partes del cuerpo y hay un implante instalado en una de las eliminadas, el implante desaparecerá y dará un mensaje de error. Ese mensaje de error puede ser ignorado.</ChoicesForAmountOfBodyParts>
+	<!-- EN: Arms: -->
+  <Arms>Brazos:</Arms>
+	<!-- EN: Legs: -->
+  <Legs>Piernas:</Legs>
+	<!-- EN: Eyes: -->
+  <Eyes>Ojos:</Eyes>
+	<!-- EN: Ears: -->
+  <Ears>Orejas:</Ears>
+	<!-- EN: EvolvedOrgansRedux info -->
+  <EvolvedOrgansReduxinfo>Información de EvolvedOrgansRedux</EvolvedOrgansReduxinfo>
+	<!-- EN: I have removed the setting 'CombatibilitySwitchEORVersionMidSave'. This setting was only there for someone that transitioned from the original EVOR version to this one. It's been a few years now since my version is the only one up to date, so everyone should have disabled that setting by now. If you get problems with your implants switching positions or stuff like that, please let me know on the Steam page. -->
+  <ImportantMessage20320905>He eliminado la configuración 'CombatibilitySwitchEORVersionMidSave'. Esta configuración solo estaba ahí para alguien que hizo la transición de la versión original de EVOR a esta. Han pasado algunos años desde que mi versión es la única actualizada, así que todos deberían haber desactivado esa configuración a estas alturas. Si tienes problemas con tus implantes cambiando de posición o cosas así, por favor házmelo saber en la página de Steam.</ImportantMessage20320905>
+	<!-- EN: Big update time.
+	\nYou can now choose between 2-8 shoulders, legs, eyes and ears.
+	\nYou can also disable the research requirement for installing implants into those bodyparts.
+	\nCheck out the settings. -->
+  <ImportantMessage20230917>Hora de una gran actualización.\nAhora puedes elegir entre 2-8 hombros, piernas, ojos y orejas.\nTambién puedes desactivar el requisito de investigación para instalar implantes en esas partes del cuerpo.\nRevisa la configuración.</ImportantMessage20230917>
+	<!-- EN: EvolvedOrgansRedux has detected that you have the mod {0} enabled. In the settings menu you can choose the workbench of that mod to reduce the amount of workbenches and ressources. -->
+  <ChoicesOfWorkbenchesPartOneSingle>EvolvedOrgansRedux ha detectado que tienes el mod {0} habilitado. En el menú de configuración puedes elegir la mesa de trabajo de ese mod para reducir la cantidad de mesas de trabajo y recursos.</ChoicesOfWorkbenchesPartOneSingle>
+	<!-- EN: EvolvedOrgansRedux additional bodyparts -->
+  <ShowResearchMessageAtNewGameLetterName>Partes del cuerpo adicionales de EvolvedOrgansRedux</ShowResearchMessageAtNewGameLetterName>
+	<!-- EN: To install implants in the LowerShoulders, Tail and Back you need to research the <color=#00FFF7>Limb-Torso Support Structures</color> project.
+	\nTo install implants in the AdditionalLegs you need to research the <color=#00FFF7>Movement limbs improvisation</color> project.
+	\nTo install implants in the BodyCavities you need to research the <color=#00FFF7>Additional Organs</color> project.
+	 -->
+  <!-- EN: 
+	\n\nYou can disable the research requirement in the settings. -->
+  <ShowResearchMessageAtNewGameLetterContent>Para instalar implantes en los Hombros Inferiores, Cola y Espalda necesitas investigar el proyecto Estructuras de soporte extremidad-torso.\nPara instalar implantes en las Piernas Adicionales necesitas investigar el proyecto Improvisación de extremidades de movimiento.\nPara instalar implantes en las Cavidades Corporales necesitas investigar el proyecto Órganos adicionales.\n\nPuedes desactivar el requisito de investigación en la configuración.</ShowResearchMessageAtNewGameLetterContent>
+</LanguageData>

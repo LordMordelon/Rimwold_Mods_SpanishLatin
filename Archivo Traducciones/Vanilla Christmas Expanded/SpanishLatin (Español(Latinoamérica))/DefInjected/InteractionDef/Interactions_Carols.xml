@@ -1,0 +1,173 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: festive singing -->
+  <VCE_Speech_Carols.label>canto festivo</VCE_Speech_Carols.label>
+  <!-- EN:
+    <li>r_logentry->[INITIATOR_nameDef] [spokeof] [speechtopic].</li>
+    <li>speechtopic->searching for [HolidayTreat] to share with everyone</li>
+    <li>speechtopic->how to be [AdjectiveFestive] while decorating your [HolidayDecoration]</li>
+    <li>speechtopic->using [HolidayDrink] to warm hearts and hands</li>
+    <li>speechtopic->how [WinterGame] brings families together</li>
+    <li>speechtopic->singing carols in the glow of [SourceOfLight]</li>
+    <li>speechtopic->dashing through [WinterWeather] and [WinterWeather] for holiday cheer</li>
+    <li>speechtopic->how in the holidays all are [PersonFamily] and [PersonFamily]</li>
+    <li>speechtopic->the need for [HolidayRole]s to make the season magical</li>
+    <li>speechtopic->spreading joy to [PersonFriendly]</li>
+    <li>speechtopic->uniting against [HolidayStress] with laughter and song</li>
+    <li>speechtopic->relishing [HolidayScent] in the air</li>
+    <li>speechtopic->the meaning of giving</li>
+    <li>speechtopic->the joy of togetherness</li>
+    <li>speechtopic->how to be [AdjectiveKind] without being [AdjectiveGrumpy]</li>
+    <li>speechtopic->how [AdjectiveJoyful] the celebrations are</li>
+    <li>speechtopic->[AdjectiveWintry] [WinterScene]</li>
+    <li>speechtopic->the season's [AdjectiveBright] potential</li>
+    <li>speechtopic->the [PositiveCharacteristic] of holiday traditions</li>
+    <li>speechtopic->the terrible [NegativeCharacteristic] of forgetting the season's meaning</li>
+    <li>speechtopic(p=0.25)->coming together as a community</li>
+    <li>speechtopic(p=0.25)->finding hope through shared kindness and giving</li>
+    <li>speechtopic(p=0.25)->the warmth of family and friends</li>
+    <li>speechtopic(p=0.25)->spreading joy to those in need</li>
+    <li>speechtopic(p=0.25)->triumph through togetherness</li>
+    <li>speechtopic(p=0.25)->overcoming winter's challenges with cheer</li>
+    <li>speechtopic(p=0.25)->strong bonds and hearts, lifting each other up</li>
+    <li>speechtopic(p=0.25)->the right to celebrate and embrace joy</li>
+    <li>HolidayTreat->cookies</li>
+    <li>HolidayTreat->candy canes</li>
+    <li>HolidayTreat->gingerbread</li>
+    <li>AdjectiveFestive->cheerful</li>
+    <li>AdjectiveFestive->merry</li>
+    <li>AdjectiveFestive->sparkling</li>
+    <li>HolidayDecoration->wreath</li>
+    <li>HolidayDecoration->ornaments</li>
+    <li>HolidayDecoration->tinsel</li>
+    <li>HolidayDrink->eggnog</li>
+    <li>HolidayDrink->hot cocoa</li>
+    <li>HolidayDrink->mulled cider</li>
+    <li>WinterGame->a snowball fight</li>
+    <li>WinterGame->sledding</li>
+    <li>WinterGame->ice skating</li>
+    <li>SourceOfLight->candles</li>
+    <li>SourceOfLight->a fireplace</li>
+    <li>SourceOfLight->holiday lights</li>
+    <li>WinterWeather->snow</li>
+    <li>WinterWeather->frost</li>
+    <li>WinterWeather->chilly winds</li>
+    <li>HolidayRole->gift-giver</li>
+    <li>HolidayRole->caroler</li>
+    <li>HolidayRole->storyteller</li>
+    <li>PersonFriendly->neighbors</li>
+    <li>PersonFriendly->friends</li>
+    <li>PersonFriendly->children</li>
+    <li>HolidayStress->last-minute shopping</li>
+    <li>HolidayStress->tangled lights</li>
+    <li>HolidayScent->pine</li>
+    <li>HolidayScent->cinnamon</li>
+    <li>HolidayScent->peppermint</li>
+    <li>AdjectiveWintry->frosty</li>
+    <li>AdjectiveWintry->snowy</li>
+    <li>AdjectiveWintry->crisp</li>
+    <li>WinterScene->snowy forests</li>
+    <li>WinterScene->icy lakes</li>
+    <li>WinterScene->starry nights</li>
+    <li>AdjectiveBright->shining</li>
+    <li>AdjectiveBright->brilliant</li>
+    <li>AdjectiveBright->dazzling</li>
+    <li>PositiveCharacteristic->warmth</li>
+    <li>PositiveCharacteristic->kindness</li>
+    <li>PositiveCharacteristic->generosity</li>
+    <li>NegativeCharacteristic->greed</li>
+    <li>NegativeCharacteristic->selfishness</li>
+    <li>NegativeCharacteristic->forgetfulness</li>
+    <li>AdjectiveKind->gentle</li>
+    <li>AdjectiveKind->loving</li>
+    <li>AdjectiveKind->warm-hearted</li>
+    <li>AdjectiveGrumpy->bitter</li>
+    <li>AdjectiveGrumpy->cold</li>
+    <li>AdjectiveGrumpy->harsh</li>
+  -->
+  <VCE_Speech_Carols.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef] [spokeof] [speechtopic].</li>
+    <li>speechtopic->buscar [HolidayTreat] para compartir con todos</li>
+    <li>speechtopic->cómo ser [AdjectiveFestive] mientras decoras tu [HolidayDecoration]</li>
+    <li>speechtopic->usar [HolidayDrink] para calentar corazones y manos</li>
+    <li>speechtopic->cómo [WinterGame] une a las familias</li>
+    <li>speechtopic->cantar villancicos al brillo de [SourceOfLight]</li>
+    <li>speechtopic->correr a través de [WinterWeather] y [WinterWeather] por la alegría festiva</li>
+    <li>speechtopic->cómo en las fiestas todos son [PersonFamily] y [PersonFamily]</li>
+    <li>speechtopic->la necesidad de [HolidayRole]s para hacer mágica la temporada</li>
+    <li>speechtopic->esparcir alegría a [PersonFriendly]</li>
+    <li>speechtopic->unirse contra [HolidayStress] con risas y canciones</li>
+    <li>speechtopic->disfrutar de [HolidayScent] en el aire</li>
+    <li>speechtopic->el significado de dar</li>
+    <li>speechtopic->la alegría de estar juntos</li>
+    <li>speechtopic->cómo ser [AdjectiveKind] sin ser [AdjectiveGrumpy]</li>
+    <li>speechtopic->cuán [AdjectiveJoyful] son las celebraciones</li>
+    <li>speechtopic->[WinterScene] [AdjectiveWintry]</li>
+    <li>speechtopic->el potencial [AdjectiveBright] de la temporada</li>
+    <li>speechtopic->la [PositiveCharacteristic] de las tradiciones festivas</li>
+    <li>speechtopic->la terrible [NegativeCharacteristic] de olvidar el significado de la temporada</li>
+    <li>speechtopic(p=0.25)->unirse como comunidad</li>
+    <li>speechtopic(p=0.25)->encontrar esperanza a través de la bondad compartida y el dar</li>
+    <li>speechtopic(p=0.25)->la calidez de la familia y los amigos</li>
+    <li>speechtopic(p=0.25)->esparcir alegría a los necesitados</li>
+    <li>speechtopic(p=0.25)->el triunfo a través de la unión</li>
+    <li>speechtopic(p=0.25)->superar los desafíos del invierno con alegría</li>
+    <li>speechtopic(p=0.25)->lazos y corazones fuertes, levantándose unos a otros</li>
+    <li>speechtopic(p=0.25)->el derecho a celebrar y abrazar la alegría</li>
+    <li>HolidayTreat->galletas</li>
+    <li>HolidayTreat->bastones de caramelo</li>
+    <li>HolidayTreat->pan de jengibre</li>
+    <li>AdjectiveFestive->alegre</li>
+    <li>AdjectiveFestive->feliz</li>
+    <li>AdjectiveFestive->chispeante</li>
+    <li>HolidayDecoration->corona</li>
+    <li>HolidayDecoration->adornos</li>
+    <li>HolidayDecoration->espumillón</li>
+    <li>HolidayDrink->ponche de huevo</li>
+    <li>HolidayDrink->chocolate caliente</li>
+    <li>HolidayDrink->sidra caliente</li>
+    <li>WinterGame->una pelea de bolas de nieve</li>
+    <li>WinterGame->andar en trineo</li>
+    <li>WinterGame->patinar sobre hielo</li>
+    <li>SourceOfLight->velas</li>
+    <li>SourceOfLight->una chimenea</li>
+    <li>SourceOfLight->luces festivas</li>
+    <li>WinterWeather->nieve</li>
+    <li>WinterWeather->escarcha</li>
+    <li>WinterWeather->vientos fríos</li>
+    <li>HolidayRole->dador de regalos</li>
+    <li>HolidayRole->cantante de villancicos</li>
+    <li>HolidayRole->cuentacuentos</li>
+    <li>PersonFriendly->vecinos</li>
+    <li>PersonFriendly->amigos</li>
+    <li>PersonFriendly->niños</li>
+    <li>HolidayStress->compras de última hora</li>
+    <li>HolidayStress->luces enredadas</li>
+    <li>HolidayScent->pino</li>
+    <li>HolidayScent->canela</li>
+    <li>HolidayScent->menta</li>
+    <li>AdjectiveWintry->helados</li>
+    <li>AdjectiveWintry->nevados</li>
+    <li>AdjectiveWintry->frescos</li>
+    <li>WinterScene->bosques nevados</li>
+    <li>WinterScene->lagos helados</li>
+    <li>WinterScene->cielos estrellados</li>
+    <li>AdjectiveBright->brillante</li>
+    <li>AdjectiveBright->resplandeciente</li>
+    <li>AdjectiveBright->deslumbrante</li>
+    <li>PositiveCharacteristic->calidez</li>
+    <li>PositiveCharacteristic->bondad</li>
+    <li>PositiveCharacteristic->generosidad</li>
+    <li>NegativeCharacteristic->codicia</li>
+    <li>NegativeCharacteristic->actitud egoísta</li>
+    <li>NegativeCharacteristic->negligencia</li>
+    <li>AdjectiveKind->gentil</li>
+    <li>AdjectiveKind->amoroso</li>
+    <li>AdjectiveKind->de buen corazón</li>
+    <li>AdjectiveGrumpy->amargado</li>
+    <li>AdjectiveGrumpy->frío</li>
+    <li>AdjectiveGrumpy->duro</li>
+  </VCE_Speech_Carols.logRulesInitiator.rulesStrings>
+  
+</LanguageData>

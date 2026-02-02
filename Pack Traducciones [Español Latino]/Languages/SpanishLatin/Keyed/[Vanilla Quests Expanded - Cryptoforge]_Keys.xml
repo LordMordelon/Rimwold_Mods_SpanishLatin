@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <VQE_AirlockJammed>Esclusa de aire atascada. Debe ser forzada para abrirse.</VQE_AirlockJammed>
+  <VQE_Alert_CriticalCryptoGenerators>Criptogenerador agotándose</VQE_Alert_CriticalCryptoGenerators>
+  <VQE_Alert_CriticalCryptoGenerators_Desc>A un criptogenerador solo le queda combustible para menos de un día. Cuando el combustible se agote, se fundirá, destruyendo todo a su alrededor.</VQE_Alert_CriticalCryptoGenerators_Desc>
+  <VQE_CancelScavenge>Cancelar</VQE_CancelScavenge>
+  <VQE_CancelScavengeDesc>Cancelar la recolección de este objeto.</VQE_CancelScavengeDesc>
+  <VQE_HeroJoins>{PAWN_nameDef} se une</VQE_HeroJoins>
+  <VQE_HeroJoinsDesc>El {PAWN_title} conocido como {PAWN_nameDef} ha salido de un sarcófago de criptosueño aturdido. Una vez que recupere el sentido, se unirá a tu colonia.\n\n{PAWN_nameFull} es el herrero legendario de una renombrada civilización espacial, famoso por su dominio de la tecnología de criptopartículas. Un artesano talentoso y un guerrero curtido en batalla, {PAWN_labelShort} viste un conjunto de armadura de criptotecnología de su pueblo perdido. Pero bajo su habilidad y fuerza yace una pesada carga de culpa, una condición psicológica única nacida del dolor aplastante de ser el último miembro vivo de su civilización. Este pesar carcome su mente con el tiempo, profundizándose lentamente en la desesperación. Sin embargo, realizar trabajos que se alineen con sus pasiones, especialmente la artesanía, puede ralentizar la progresión. Si se gestiona con cuidado, la culpa acabará transformándose en aceptación y, con el tiempo, empezará a desvanecerse.</VQE_HeroJoinsDesc>
+  <VQE_InitiateScan>Iniciar escaneo</VQE_InitiateScan>
+  <VQE_InitiateScanDesc>Inicia el escaneo de proximidad para encontrar firmas grandes en el área. El escaneo seguramente generará una firma de energía suficiente para atraer a una colmena de mecanoides.</VQE_InitiateScanDesc>
+  <VQE_LootChunk>Recolectar</VQE_LootChunk>
+  <VQE_QuestCompletedMessage>Esta es la única oportunidad de fabricar más equipo cripto legendario, siempre que tengas los recursos para hacerlo. Puedes asegurar el sitio y enviar más recursos, pero una vez que lo abandones, nunca podrás volver a encontrarlo.</VQE_QuestCompletedMessage>
+  <VQE_RestartGenerator>Reiniciar generador</VQE_RestartGenerator>
+  <VQE_RestartGeneratorDesc>Reinicia el criptogenerador. Tiene suficiente combustible para funcionar continuamente durante tres días, tras los cuales sufrirá una fusión crítica. La fuerte firma de energía seguramente atraerá a la colmena de mecanoides.</VQE_RestartGeneratorDesc>
+  <VQE_RestartWarning>Reiniciar el criptogenerador provocará ataques continuos de mecanoides.</VQE_RestartWarning>
+  <VQE_ScanComplete>El escaneo se ha completado.</VQE_ScanComplete>
+  <VQE_ScanStarted>El escaneo tardará un tiempo en completarse. Abandonar el lugar cancelará el escaneo.</VQE_ScanStarted>
+  <VQE_Scavenge>Recolectar {0}</VQE_Scavenge>
+  <VQE_ScavengeDesc>Limpia el {0} mientras buscas materiales valiosos.</VQE_ScavengeDesc>
+  <VQE_StudyBlackBox>Estudiar caja negra antigua</VQE_StudyBlackBox>
+  <VQE_StudyBlackBoxDesc>Accede a los datos de la caja negra para descubrir qué ocurrió.</VQE_StudyBlackBoxDesc>
+  <VQE_StudyBlueprints>Estudiar planos antiguos</VQE_StudyBlueprints>
+  <VQE_StudyBlueprintsDesc>Estudia los planos y diagramas antiguos para obtener inspiración para el próximo proyecto de artesanía.</VQE_StudyBlueprintsDesc>
+</LanguageData>

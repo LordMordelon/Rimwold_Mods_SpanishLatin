@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <VGE_AstrofuelValve>Activa/desactiva el flujo de astrobustible.</VGE_AstrofuelValve>
+  <VGE_AstrofuelValveDesc>Activa/desactiva el flujo de astrobustible. Un colono vendrá a abrir/cerrar la válvula.</VGE_AstrofuelValveDesc>
+  <VGE_DisabledNoAtmosphere>No se puede recolectar oxígeno: Sin atmósfera.</VGE_DisabledNoAtmosphere>
+  <VGE_DisabledNoFuel>Requiere una conexión a la red de astrobustible y astrobustible en el tanque para funcionar.</VGE_DisabledNoFuel>
+  <VGE_ExtractAstrofuel>Extraer astrobustible</VGE_ExtractAstrofuel>
+  <VGE_ExtractAstrofuelDesc>Extrae todo el astrobustible del tanque. Un colono vendrá a extraerlo.</VGE_ExtractAstrofuelDesc>
+  <VGE_ExtractAstrofuelDisabled>necesitas al menos {RESOURCEMIN}l de astrobustible en el tanque</VGE_ExtractAstrofuelDisabled>
+  <VGE_ExtractOxygen>Extraer {THINGEXTRACTCOUNT} botes de oxígeno</VGE_ExtractOxygen>
+  <VGE_ExtractOxygenDesc>Extrae {THINGEXTRACTCOUNT} botes de oxígeno del tanque. Un colono vendrá a extraerlos.</VGE_ExtractOxygenDesc>
+  <VGE_ExtractOxygenDisabled>necesitas al menos {RESOURCEMIN}u³ de oxígeno en el tanque</VGE_ExtractOxygenDisabled>
+  <VSGE_OxygenValve>Activa/desactiva el flujo de oxígeno.</VSGE_OxygenValve>
+  <VSGE_OxygenValveDesc>Activa/desactiva el flujo de oxígeno. Un colono vendrá a abrir/cerrar la válvula.</VSGE_OxygenValveDesc>
+</LanguageData>

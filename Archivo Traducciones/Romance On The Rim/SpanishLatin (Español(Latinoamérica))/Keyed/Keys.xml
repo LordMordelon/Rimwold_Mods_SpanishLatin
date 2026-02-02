@@ -1,0 +1,169 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+	<!-- EN: Romance on the Rim -->
+  <RomanceOnTheRim>Romance on the Rim</RomanceOnTheRim>
+	<!-- EN: StartMarriage -->
+  <TryStartMarriageButtonLabel>Iniciar Matrimonio</TryStartMarriageButtonLabel>
+	<!-- EN: Select fiances and start their marriage immediately. -->
+  <TryStartMarriageButtonDesc>Seleccionar prometidos e iniciar su matrimonio inmediatamente.</TryStartMarriageButtonDesc>
+	<!-- EN: Assigned: -->
+  <AssignedFiances>Asignados:</AssignedFiances>
+	<!-- EN: Unassign -->
+  <CeremonyFiancesUnassign>Desasignar</CeremonyFiancesUnassign>
+	<!-- EN: Candidates: -->
+  <FiancesCandidates>Candidatos:</FiancesCandidates>
+	<!-- EN: Reassign -->
+  <CeremonyFiancesReassign>Reasignar</CeremonyFiancesReassign>
+	<!-- EN: Assign -->
+  <CeremonyFiancesAssign>Asignar</CeremonyFiancesAssign>
+	<!-- EN: Cancel -->
+  <CancelButton>Cancelar</CancelButton>
+	<!-- EN: Confirm -->
+  <ConfirmButton>Confirmar</ConfirmButton>
+	<!-- EN: Disable romance need on this pawn. !!IRREVERSIBLE, USE WITH CAUTION!! -->
+  <NeedTab_DisableRomanceNeedTip>Desactivar necesidad de romance en este peón. !!IRREVERSIBLE, USAR CON PRECAUCIÓN!!</NeedTab_DisableRomanceNeedTip>
+	<!-- EN: Anniversary today -->
+  <RotR_AnniversaryToday>Aniversario hoy</RotR_AnniversaryToday>
+	
+	<!-- settings -->
+	<!-- tabs -->
+	<!-- EN: General -->
+  <RotR_Settings_GeneralTab>General</RotR_Settings_GeneralTab>
+	<!-- EN: Interaction -->
+  <RotR_Settings_InteractionTab>Interacción</RotR_Settings_InteractionTab>
+	<!-- EN: Precept -->
+  <RotR_Settings_PreceptTab>Precepto</RotR_Settings_PreceptTab>
+	<!-- EN: Quest -->
+  <RotR_Settings_QuestTab>Misión</RotR_Settings_QuestTab>
+	<!-- EN: Wedding Ceremony -->
+  <RotR_Settings_WeddingTab>Ceremonia de Boda</RotR_Settings_WeddingTab>
+	<!-- EN: Comms Console -->
+  <RotR_Settings_ConsoleTab>Consola de Comunicaciones</RotR_Settings_ConsoleTab>
+	
+	<!-- EN: Reset to default -->
+  <RotR_Setting_ResetToDefault>Restablecer a predeterminados</RotR_Setting_ResetToDefault>
+	
+	<!-- general -->
+	<!-- EN: Enable romance need and interactions -->
+  <RotR_Setting_EnableNeedAndInteraction>Habilitar necesidad de romance e interacciones</RotR_Setting_EnableNeedAndInteraction>
+	<!-- EN: If toggle off, all pawns will have no romance need and no interactions will be triggered. You can delete romance need for specific pawn in Needs Tab under Dev mode. -->
+  <RotR_Setting_EnableNeedAndInteraction_Tooltip>Si se desactiva, todos los peones no tendrán necesidad de romance y no se activarán interacciones. Puedes eliminar la necesidad de romance para un peón específico en la pestaña Necesidades bajo el modo Dev.</RotR_Setting_EnableNeedAndInteraction_Tooltip>
+    <!-- EN: Enable arguments and quarrels -->
+  <RotR_Setting_EnableQuarrels>Habilitar discusiones y peleas</RotR_Setting_EnableQuarrels>
+	<!-- EN: Lovers might have arguments or quarrels randomly based on compatibility and mood. If toggle off, lovers will never argue or quarrel. -->
+  <RotR_Setting_EnableQuarrels_Tooltip>Los amantes pueden tener discusiones o peleas aleatoriamente según la compatibilidad y el estado de ánimo. Si se desactiva, los amantes nunca discutirán ni pelearán.</RotR_Setting_EnableQuarrels_Tooltip>
+	<!-- EN: Enable thoughts -->
+  <RotR_Setting_EnableThoughts>Habilitar pensamientos</RotR_Setting_EnableThoughts>
+	<!-- EN: Toggle for Longing, Estranged, Reunion, and Worry thoughts added by this mod. -->
+  <RotR_Setting_EnableThoughts_Tooltip>Alternar para pensamientos de Anhelo, Distanciamiento, Reencuentro y Preocupación agregados por este mod.</RotR_Setting_EnableThoughts_Tooltip>
+	<!-- EN: Enable same daily routine for lovers -->
+  <RotR_Setting_EnableSameDayRoutine>Habilitar misma rutina diaria para amantes</RotR_Setting_EnableSameDayRoutine>
+	<!-- EN: When toggle on, lovers will try to have the same daily routine (go to bed as his/her lover does). Default On. -->
+  <RotR_Setting_EnableSameDayRoutine_Tooltip>Cuando se activa, los amantes intentarán tener la misma rutina diaria (irse a la cama cuando lo hace su amante). Predeterminado Activado.</RotR_Setting_EnableSameDayRoutine_Tooltip>
+
+	<!-- interaction -->
+	<!-- EN: Romance need fall rate per day (default: 25%): {0}%  -->
+  <RotR_Setting_NeedFallPerDay>Tasa de caída de necesidad de romance por día (predeterminado: 25%): {0}%</RotR_Setting_NeedFallPerDay>
+	<!-- EN: Max distance to trigger romantic interactions (default 65): {0} -->
+  <RotR_Setting_MaxDistanceForInteractions>Distancia máxima para activar interacciones románticas (predeterminado 65): {0}</RotR_Setting_MaxDistanceForInteractions>
+	<!-- EN: Tweak interactions weights (Randomly pick one of them): -->
+  <RotR_Setting_InteractionSelectionWeight>Ajustar pesos de interacciones (Elegir aleatoriamente una de ellas):</RotR_Setting_InteractionSelectionWeight>
+	<!-- EN: Default is 100%, set it to 0 to disable that kind of interaction, or raise it to increase its chance over others. -->
+  <RotR_Setting_InteractionSelectionWeightToolTip>El valor predeterminado es 100%, configúralo en 0 para desactivar ese tipo de interacción, o auméntalo para aumentar su probabilidad sobre otras.</RotR_Setting_InteractionSelectionWeightToolTip>
+	<!-- EN: Kiss: {0}% -->
+  <RotR_Setting_KissSelectionWeight>Beso: {0}%</RotR_Setting_KissSelectionWeight>
+	<!-- EN: Get joy together: {0}% -->
+  <RotR_Setting_GetJoyTogetherSelectionWeight>Divertirse juntos: {0}%</RotR_Setting_GetJoyTogetherSelectionWeight>
+	<!-- EN: Pillow talk: {0}% -->
+  <RotR_Setting_PillowTalkSelectionWeight>Charla de almohada: {0}%</RotR_Setting_PillowTalkSelectionWeight>
+	<!-- EN: Muscial performance: {0}% -->
+  <RotR_Setting_MusicalPerformanceSelectionWeight>Actuación musical: {0}%</RotR_Setting_MusicalPerformanceSelectionWeight>
+	<!-- EN: Skygaze together: {0}% -->
+  <RotR_Setting_SkygazeTogetherSelectionWeight>Mirar el cielo juntos: {0}%</RotR_Setting_SkygazeTogetherSelectionWeight>
+	<!-- EN: Shared reading: {0}% -->
+  <RotR_Setting_SharedReadingSelectionWeight>Lectura compartida: {0}%</RotR_Setting_SharedReadingSelectionWeight>
+	<!-- EN: Read together: {0}% -->
+  <RotR_Setting_ReadTogetherSelectionWeight>Leer juntos: {0}%</RotR_Setting_ReadTogetherSelectionWeight>
+	<!-- EN: Snowball fight: {0}% -->
+  <RotR_Setting_SnowballFightSelectionWeight>Pelea de bolas de nieve: {0}%</RotR_Setting_SnowballFightSelectionWeight>
+	<!-- EN: Stroll together: {0}% -->
+  <RotR_Setting_StrollTogetherSelectionWeight>Pasear juntos: {0}%</RotR_Setting_StrollTogetherSelectionWeight>
+	<!-- EN: Swim together: {0}% -->
+  <RotR_Setting_SwimTogetherSelectionWeight>Nadar juntos: {0}%</RotR_Setting_SwimTogetherSelectionWeight>
+	
+	<!-- precept -->
+	<!-- EN: (Backward compat) Right click control for those who owns Ideology but not Biotech. Use Social Tab if you have Biotech. You should see nothing below. -->
+  <RotR_Setting_PreceptTabTip>(Compatibilidad con versiones anteriores) Control de clic derecho para aquellos que poseen Ideology pero no Biotech. Usa la pestaña Social si tienes Biotech. No deberías ver nada abajo.</RotR_Setting_PreceptTabTip>
+	
+	<!-- quest -->
+	<!-- EN: Enable quests -->
+  <RotR_Setting_EnableQuest>Habilitar misiones</RotR_Setting_EnableQuest>
+	<!-- EN: Toggle off if you don't like the "events" added by this mod. They won't be triggered in the game. -->
+  <RotR_Setting_EnableQuestTooltip>Desactívalo si no te gustan los "eventos" agregados por este mod. No se activarán en el juego.</RotR_Setting_EnableQuestTooltip>
+	<!-- EN: Adoption is designed to be triggered at kids' birthday with a chance.  -->
+  <RotR_Setting_Quest_Adoption_Desc>La adopción está diseñada para activarse en el cumpleaños de los niños con una probabilidad.</RotR_Setting_Quest_Adoption_Desc>
+	<!-- EN: Adopt whenever possible -->
+  <RotR_Setting_AlwaysAdopt>Adoptar siempre que sea posible</RotR_Setting_AlwaysAdopt>
+	<!-- EN: Adoption will trigger for all eligible children. -->
+  <RotR_Setting_AlwaysAdopts_Tooltip>La adopción se activará para todos los niños elegibles.</RotR_Setting_AlwaysAdopts_Tooltip>
+	<!-- EN: Base chance for adoption (default 20%): {0}% -->
+  <RotR_Setting_AdoptionBaseChance>Probabilidad base de adopción (predeterminado 20%): {0}%</RotR_Setting_AdoptionBaseChance>
+	<!-- EN: Max age for adoption (default 13):  -->
+  <RotR_Setting_MaxAgeForAdoption>Edad máxima para adopción (predeterminado 13): </RotR_Setting_MaxAgeForAdoption>
+	<!-- EN: Min age for adoption (defulat 8):  -->
+  <RotR_Setting_MinAgeForAdoption>Edad mínima para adopción (predeterminado 8): </RotR_Setting_MinAgeForAdoption>
+	<!-- EN: Min years in the colony (default 4):  -->
+  <RotR_Setting_AdoptionMinYearsInColony>Años mínimos en la colonia (predeterminado 4): </RotR_Setting_AdoptionMinYearsInColony>
+	
+	<!-- EN: Other quests will be triggered by vanilla quest system with chance. Tweak base chances here (game reload needed): -->
+  <RotR_Setting_Quest_Other_Desc>Otras misiones se activarán por el sistema de misiones vanilla con probabilidad. Ajusta las probabilidades base aquí (se necesita recargar el juego):</RotR_Setting_Quest_Other_Desc>
+	<!-- EN: A Heart's Return (default 15%): {0}% -->
+  <RotR_Setting_AHeartsReturnBaseChance>El Regreso de un Corazón (predeterminado 15%): {0}%</RotR_Setting_AHeartsReturnBaseChance>
+	<!-- EN: Bond Of Freedom (default 50%): {0}% -->
+  <RotR_Setting_BondOfFreedomBaseChance>Lazo de Libertad (predeterminado 50%): {0}%</RotR_Setting_BondOfFreedomBaseChance>
+	<!-- EN: Crush (default 50%): {0}% -->
+  <RotR_Setting_CrushBaseChance>Amor Platónico (predeterminado 50%): {0}%</RotR_Setting_CrushBaseChance>
+	<!-- EN: Inbound Diplomatic Marriage (default 50%): {0}% -->
+  <RotR_Setting_DiplomaticMarriageBaseChance>Matrimonio Diplomático Entrante (predeterminado 50%): {0}%</RotR_Setting_DiplomaticMarriageBaseChance>
+	<!-- EN: Outbound Diplomatic Marriage (default 50%): {0}% -->
+  <RotR_Setting_DiplomaticMarriageAwayBaseChance>Matrimonio Diplomático Saliente (predeterminado 50%): {0}%</RotR_Setting_DiplomaticMarriageAwayBaseChance>
+	<!-- EN: Kidney Trade (default 10%): {0}% -->
+  <RotR_Setting_KidneyTradeBaseChance>Comercio de Riñones (predeterminado 10%): {0}%</RotR_Setting_KidneyTradeBaseChance>
+	<!-- EN: Orphan Lover (default 15%): {0}% -->
+  <RotR_Setting_OrphanLoverBaseChance>Amante Huérfano (predeterminado 15%): {0}%</RotR_Setting_OrphanLoverBaseChance>
+
+	<!-- wedding -->
+	<!-- EN: Bridesmaid and groomsman must be friend of the fiances -->
+  <RotR_Setting_GroomsmanAndBridesmaidMustBeFriend>La dama de honor y el padrino deben ser amigos de los prometidos</RotR_Setting_GroomsmanAndBridesmaidMustBeFriend>
+	<!-- EN: By default, we only allow their friends to be bridesmaid and groomsman. You can turn it off to allow anyone. -->
+  <RotR_Setting_GroomsmanAndBridesmaidMustBeFriend_Tooltip>Por defecto, solo permitimos que sus amigos sean dama de honor y padrino. Puedes desactivarlo para permitir a cualquiera.</RotR_Setting_GroomsmanAndBridesmaidMustBeFriend_Tooltip>
+	<!-- EN: For friends, their relationship should be at least (default 30): {0} -->
+  <RotR_Setting_FriendRelationThreshold>Para amigos, su relación debe ser al menos (predeterminado 30): {0}</RotR_Setting_FriendRelationThreshold>
+	<!-- EN: Show debug cells for marriage cell finder -->
+  <RotR_Setting_EnableDebugLogForMarriageCellFinder>Mostrar celdas de depuración para el buscador de celdas de matrimonio</RotR_Setting_EnableDebugLogForMarriageCellFinder>
+	<!-- EN: Show debug information for marriage cell finder. -->
+  <RotR_Setting_EnableDebugLogForMarriageCellFinder_Tooltip>Mostrar información de depuración para el buscador de celdas de matrimonio.</RotR_Setting_EnableDebugLogForMarriageCellFinder_Tooltip>
+
+	<!-- comms console -->
+	<!-- EN: Request a diplomatic marriage (cost: {0} goodwill) -->
+  <RotR_Comms_RequestDiplomaticMarriage>Solicitar un matrimonio diplomático (costo: {0} buena voluntad)</RotR_Comms_RequestDiplomaticMarriage>
+	<!-- EN: not available -->
+  <RotR_Comms_RequestNotAvailable>no disponible</RotR_Comms_RequestNotAvailable>
+	<!-- EN: You negotiated with {0} for the diplomatic marriage. -->
+  <RotR_Comms_RequestDone>Negociaste con {0} para el matrimonio diplomático.</RotR_Comms_RequestDone>
+	<!-- EN: Offer a diplomatic marriage -->
+  <RotR_Comms_OfferDiplomaticMarriage>Ofrecer un matrimonio diplomático</RotR_Comms_OfferDiplomaticMarriage>
+	<!-- EN: must not be hostile -->
+  <RotR_Comms_MustNotBeHostile>no debe ser hostil</RotR_Comms_MustNotBeHostile>
+	<!-- EN: no nearby settlement available within {0} tiles -->
+  <RotR_Comms_OfferNotAvailable>ningún asentamiento cercano disponible dentro de {0} casillas</RotR_Comms_OfferNotAvailable>
+	<!-- EN: You negotiated with {0} for the diplomatic marriage. -->
+  <RotR_Comms_OfferDone>Negociaste con {0} para el matrimonio diplomático.</RotR_Comms_OfferDone>
+	
+	<!-- EN: Diplomatic Marriage request goodwill cost (default 15): {0} -->
+  <RotR_Setting_DMRequestGoodwillCost>Costo de buena voluntad de solicitud de Matrimonio Diplomático (predeterminado 15): {0}</RotR_Setting_DMRequestGoodwillCost>
+	<!-- EN: Offering diplomatic marriage and send them to a nearby settlement of that faction. The quest will be disabled if no such settlement. -->
+  <RotR_Setting_Quest_DiplomaticMarriageAway_Desc>Ofreciendo matrimonio diplomático y enviándolos a un asentamiento cercano de esa facción. La misión se desactivará si no hay tal asentamiento.</RotR_Setting_Quest_DiplomaticMarriageAway_Desc>
+	<!-- EN: Max distance for "nearby" settlement (default 32 tiles): {0} -->
+  <RotR_Setting_DiplomaticMarriageAwayMaxDistance>Distancia máxima para asentamiento "cercano" (predeterminado 32 casillas): {0}</RotR_Setting_DiplomaticMarriageAwayMaxDistance>
+</LanguageData>

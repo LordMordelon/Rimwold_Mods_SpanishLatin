@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <VPWE.AlreadyBondedWarning>{PAWN_nameDef} ya tiene un vínculo con {1}. ¿Estás seguro de que quieres reclamar una nueva arma con IA?</VPWE.AlreadyBondedWarning>
+  <VPWE.ClaimFor>Reclamar para {PAWN_nameDef}</VPWE.ClaimFor>
+  <VPWE.ClaimWeapon>Reclamar {0}</VPWE.ClaimWeapon>
+  <VPWE.ConfirmReject>¿Estás seguro de que quieres rechazar un arma con IA para {PAWN_labelShort}? No se le ofrecerá otra de nuevo.</VPWE.ConfirmReject>
+  <VPWE.GainedPersonaWeaponDesc>Debido a que {PAWN_nameDef} ha alcanzado el rango de {1} con el Imperio, ahora se le puede otorgar un arma con IA ultratecnológica vinculada.\nPuedes seleccionar el tipo de arma, así como personalizar completamente su apariencia y la IA que la acompaña. Alternativamente, puedes cerrar esta notificación y revisarla más tarde.\nEl arma llegará inmediatamente a través de una cápsula de transporte y se vinculará a {PAWN_nameDef}.</VPWE.GainedPersonaWeaponDesc>
+  <VPWE.GainedPersonaWeaponTitle>Arma con IA para {PAWN_nameDef}</VPWE.GainedPersonaWeaponTitle>
+  <VPWE.NoCustomizationWeapon>{WEAPON_label} no se puede personalizar y se entregará con uno o más rasgos aleatorios.\n\n¿Quieres continuar?</VPWE.NoCustomizationWeapon>
+  <VPWE.NoDeliverySpotFound>No se pudo encontrar un lugar para entregar {WEAPON_label} para {PAWN_labelShort}.</VPWE.NoDeliverySpotFound>
+  <VPWE.NotAllowedDead>{PAWN_labelShort} ha muerto</VPWE.NotAllowedDead>
+  <VPWE.NotAllowedNoTitle>{PAWN_labelShort} ya no tiene el título requerido</VPWE.NotAllowedNoTitle>
+  <VPWE.NotPlayerFaction>{PAWN_labelShort} ya no es parte de tu facción</VPWE.NotPlayerFaction>
+  <VPWE.Persona>IA: </VPWE.Persona>
+  <VPWE.Postpone>Posponer</VPWE.Postpone>
+  <VPWE.Psycast>Psicoconjuro: </VPWE.Psycast>
+  <VPWE.ReceivedWeaponDesc>{0} para {PAWN_nameDef} ha llegado cerca.</VPWE.ReceivedWeaponDesc>
+  <VPWE.ReceivedWeaponTitle>Cápsulas de carga (Arma con IA)</VPWE.ReceivedWeaponTitle>
+  <VPWE.RejectLetter>Rechazar</VPWE.RejectLetter>
+</LanguageData>

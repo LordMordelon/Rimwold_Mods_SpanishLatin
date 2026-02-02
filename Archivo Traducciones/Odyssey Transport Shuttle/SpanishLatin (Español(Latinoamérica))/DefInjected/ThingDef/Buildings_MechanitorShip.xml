@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: mechanitor ship -->
+  <MechanitorShuttle.label>nave de mecanizador</MechanitorShuttle.label>
+  <!-- EN: A heavy-duty chemfuel-powered shuttle designed for mechanitor operations. It features enhanced systems for controlling mechs and increased cargo capacity, but at the cost of fuel efficiency. -->
+  <MechanitorShuttle.description>Un transbordador de servicio pesado impulsado por quimbustible diseñado para operaciones de mecanizador. Cuenta con sistemas mejorados para controlar mecas y mayor capacidad de carga, pero a costa de la eficiencia del combustible.</MechanitorShuttle.description>
+  <!-- EN: {0} is ready to launch again. -->
+  <MechanitorShuttle.comps.CompLaunchable.cooldownEndedMessage>{0} está listo para lanzarse de nuevo.</MechanitorShuttle.comps.CompLaunchable.cooldownEndedMessage>
+  <!-- EN: Chemfuel -->
+  <MechanitorShuttle.comps.CompRefuelable.fuelGizmoLabel>Quimbustible</MechanitorShuttle.comps.CompRefuelable.fuelGizmoLabel>
+  <!-- EN: Chemfuel -->
+  <MechanitorShuttle.comps.CompRefuelable.fuelLabel>Quimbustible</MechanitorShuttle.comps.CompRefuelable.fuelLabel>
+  
+</LanguageData>

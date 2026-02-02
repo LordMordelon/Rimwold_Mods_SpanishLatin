@@ -1,0 +1,139 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>terminalStudiedMessage->Terminal studied. You've collected the information and can now leave.</li>
+  -->
+  <VQE_AncientARC.questContentRules.rulesStrings>
+    <li>terminalStudiedMessage->Terminal estudiada. Has recopilado la información y ahora puedes marcharte.</li>
+  </VQE_AncientARC.questContentRules.rulesStrings>
+  <!-- EN:
+    <li>questDescription->You have [discoveryDesc] of a [adj] village where the potentially final prototype of [inventor_nameFull]'s [arcName] has been built. The villagers [villagerBehavior], and the site [villageCondition].\n\n[arcDetails] However, [villagerWarnings]. If [trigger], the villagers will [villagerReaction].\n\n[finalWarning]</li>
+    <li>discoveryDesc->learned</li>
+    <li>discoveryDesc->discovered</li>
+    <li>discoveryDesc->found the location</li>
+    <li>adj->forgotten</li>
+    <li>adj->ancient</li>
+    <li>adj->hidden</li>
+    <li>adj->mysterious</li>
+    <li>adj->decayed</li>
+    <li>adj->ruined</li>
+    <li>arcName->ARC</li>
+    <li>arcName->relic</li>
+    <li>arcName->artifact</li>
+    <li>arcName->device</li>
+    <li>arcName->core</li>
+    <li>villagerBehavior->venerate the [arcName]</li>
+    <li>villagerBehavior->worship the [arcName]</li>
+    <li>villagerBehavior->protect the [arcName]</li>
+    <li>villagerBehavior->revere the [arcName]</li>
+    <li>villagerBehavior->guard the [arcName]</li>
+    <li>villageCondition->shows signs of past technological greatness</li>
+    <li>villageCondition->is overgrown and crumbling</li>
+    <li>villageCondition->has decayed into primitive simplicity</li>
+    <li>villageCondition->has long since fallen from its peak</li>
+    <li>villageCondition->bears the scars of time and neglect</li>
+    <li>arcDetails->The [arcName] is said to hold valuable secrets for your colony.</li>
+    <li>arcDetails->Studying the [arcName] could unlock vital knowledge.</li>
+    <li>arcDetails->This ancient [arcName] may reveal the means to build one yourself.</li>
+    <li>villagerWarnings->be careful not to provoke the villagers</li>
+    <li>villagerWarnings->the villagers will not take kindly to trespassers</li>
+    <li>villagerWarnings->violating their sanctity may result in hostility</li>
+    <li>villagerWarnings->their patience may be thin with outsiders</li>
+    <li>trigger->you harm anyone, interact with the [arcName] or overstay your welcome</li>
+    <li>villagerReaction->turn hostile and call for reinforcements</li>
+    <li>villagerReaction->attack with all their might</li>
+    <li>villagerReaction->defend their home at all costs</li>
+    <li>villagerReaction->lash out in violent retaliation</li>
+    <li>finalWarning->If hostilities break out, reinforcements may arrive quickly.</li>
+    <li>finalWarning->If conflict arises, expect heavy resistance.</li>
+    <li>finalWarning->Failure to act swiftly could spell disaster.</li>
+    <li>finalWarning->Prepare for an overwhelming response if provoked.</li>
+  -->
+  <VQE_AncientARC.questDescriptionRules.rulesStrings>
+    <li>questDescription->Has [discoveryDesc] de una aldea [adj] donde se ha construido el que podría ser el prototipo final del [arcName] de [inventor_nameFull]. Los aldeanos [villagerBehavior], y el sitio [villageCondition].\n\n[arcDetails] Sin embargo, [villagerWarnings]. Si [trigger], los aldeanos [villagerReaction].\n\n[finalWarning]</li>
+    <li>discoveryDesc->tenido noticias</li>
+    <li>discoveryDesc->descubierto</li>
+    <li>discoveryDesc->encontrado la ubicación</li>
+    <li>adj->olvidada</li>
+    <li>adj->antigua</li>
+    <li>adj->oculta</li>
+    <li>adj->misteriosa</li>
+    <li>adj->deteriorada</li>
+    <li>adj->en ruinas</li>
+    <li>arcName->ARC</li>
+    <li>arcName->reliquia</li>
+    <li>arcName->artefacto</li>
+    <li>arcName->dispositivo</li>
+    <li>arcName->núcleo</li>
+    <li>villagerBehavior->veneran el [arcName]</li>
+    <li>villagerBehavior->adoran el [arcName]</li>
+    <li>villagerBehavior->protegen el [arcName]</li>
+    <li>villagerBehavior->reverencian el [arcName]</li>
+    <li>villagerBehavior->custodian el [arcName]</li>
+    <li>villageCondition->muestra signos de grandeza tecnológica pasada</li>
+    <li>villageCondition->está cubierto de vegetación y desmoronándose</li>
+    <li>villageCondition->ha decaído en una simplicidad primitiva</li>
+    <li>villageCondition->ha caído hace mucho tiempo de su apogeo</li>
+    <li>villageCondition->lleva las cicatrices del tiempo y el descuido</li>
+    <li>arcDetails->Se dice que el [arcName] contiene valiosos secretos para tu colonia.</li>
+    <li>arcDetails->Estudiar el [arcName] podría desbloquear conocimientos vitales.</li>
+    <li>arcDetails->Este antiguo [arcName] puede revelar los medios para construir uno tú mismo.</li>
+    <li>villagerWarnings->ten cuidado de no provocar a los aldeanos</li>
+    <li>villagerWarnings->los aldeanos no verán con buenos ojos a los intrusos</li>
+    <li>villagerWarnings->violar su santidad puede resultar en hostilidad</li>
+    <li>villagerWarnings->su paciencia puede ser escasa con los forasteros</li>
+    <li>trigger->dañas a alguien, interactúas con el [arcName] o te quedas más tiempo del debido</li>
+    <li>villagerReaction->se volverán hostiles y pedirán refuerzos</li>
+    <li>villagerReaction->atacarán con todas sus fuerzas</li>
+    <li>villagerReaction->defenderán su hogar a toda costa</li>
+    <li>villagerReaction->arremeterán en una violenta represalia</li>
+    <li>finalWarning->Si estallan las hostilidades, los refuerzos pueden llegar rápidamente.</li>
+    <li>finalWarning->Si surge un conflicto, espera una fuerte resistencia.</li>
+    <li>finalWarning->No actuar con rapidez podría significar el desastre.</li>
+    <li>finalWarning->Prepárate para una respuesta abrumadora si se les provoca.</li>
+  </VQE_AncientARC.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>questName->The [adj] [arcName]</li>
+    <li>adj->forgotten</li>
+    <li>adj->ancient</li>
+    <li>adj->mysterious</li>
+    <li>adj->sacred</li>
+    <li>adj->hidden</li>
+    <li>adj->forsaken</li>
+    <li>adj->tribal</li>
+    <li>adj->lost</li>
+    <li>adj->overgrown</li>
+    <li>arcName(p=4)->ARC</li>
+    <li>arcName->structure</li>
+    <li>arcName->machine</li>
+    <li>arcName->relic</li>
+    <li>arcName->generator</li>
+    <li>arcName->core</li>
+    <li>arcName->artifact</li>
+    <li>arcName->device</li>
+    <li>arcName->source</li>
+  -->
+  <VQE_AncientARC.questNameRules.rulesStrings>
+    <li>questName->El [arcName] [adj]</li>
+    <li>adj->olvidado</li>
+    <li>adj->antiguo</li>
+    <li>adj->misterioso</li>
+    <li>adj->sagrado</li>
+    <li>adj->oculto</li>
+    <li>adj->desamparado</li>
+    <li>adj->tribal</li>
+    <li>adj->perdido</li>
+    <li>adj->cubierto de vegetación</li>
+    <li>arcName(p=4)->ARC</li>
+    <li>arcName->estructura</li>
+    <li>arcName->máquina</li>
+    <li>arcName->reliquia</li>
+    <li>arcName->generador</li>
+    <li>arcName->núcleo</li>
+    <li>arcName->artefacto</li>
+    <li>arcName->dispositivo</li>
+    <li>arcName->fuente</li>
+  </VQE_AncientARC.questNameRules.rulesStrings>
+  
+</LanguageData>

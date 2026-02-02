@@ -1,0 +1,348 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+    <!-- EN: Targeting terminal can only link with gravship artillery. -->
+  <VGE_TargetingTerminalCanOnlyLinkWithGravshipArtillery>La terminal de puntería solo puede vincularse con artillería de gravinave.</VGE_TargetingTerminalCanOnlyLinkWithGravshipArtillery>
+    <!-- EN: Needs a linked targeting terminal. -->
+  <VGE_NeedsLinkedTargetingTerminal>Necesita una terminal de puntería vinculada.</VGE_NeedsLinkedTargetingTerminal>
+    <!-- EN: Link with a terminal -->
+  <VGE_LinkWithTerminal>Vincular con una terminal</VGE_LinkWithTerminal>
+    <!-- EN: Select a targeting terminal to link with. A targeting terminal is required to operate gravship artillery. -->
+  <VGE_LinkWithTerminalDesc>Selecciona una terminal de puntería para vincular. Se requiere una terminal de puntería para operar la artillería de gravinave.</VGE_LinkWithTerminalDesc>
+    <!-- EN: Unlink with a terminal -->
+  <VGE_UnlinkWithTerminal>Desvincular de una terminal</VGE_UnlinkWithTerminal>
+    <!-- EN: Break the current link to a targeting terminal, allowing you to link with a different one. -->
+  <VGE_UnlinkWithTerminalDesc>Rompe el vínculo actual con una terminal de puntería, permitiéndote vincularte con una diferente.</VGE_UnlinkWithTerminalDesc>
+    <!-- EN: Select linked terminal -->
+  <VGE_SelectLinkedTerminal>Seleccionar terminal vinculada</VGE_SelectLinkedTerminal>
+    <!-- EN: Show the linked targeting terminal. -->
+  <VGE_SelectLinkedTerminalDesc>Muestra la terminal de puntería vinculada.</VGE_SelectLinkedTerminalDesc>
+    <!-- EN: Set world target -->
+  <VGE_SetWorldTarget>Establecer objetivo mundial</VGE_SetWorldTarget>
+    <!-- EN: Set the target on the world map for the gravship artillery to fire at. Shots fired over the world map are less accurate. Can only fire at revealed locations. -->
+  <VGE_SetWorldTargetDesc>Establece el objetivo en el mapa mundial para que la artillería de gravinave dispare. Los disparos a través del mapa mundial son menos precisos. Solo puede disparar a ubicaciones reveladas.</VGE_SetWorldTargetDesc>
+    <!-- EN: Needs a manned targeting terminal. -->
+  <VGE_NeedsMannedTargetingTerminal>Necesita una terminal de puntería tripulada.</VGE_NeedsMannedTargetingTerminal>
+    <!-- EN: Link with a turret -->
+  <VGE_LinkWithTurret>Vincular con una torreta</VGE_LinkWithTurret>
+    <!-- EN: Select a turret to link with. This targeting terminal will be used to operate that turret. -->
+  <VGE_LinkWithTurretDesc>Selecciona una torreta para vincular. Esta terminal de puntería se usará para operar esa torreta.</VGE_LinkWithTurretDesc>
+    <!-- EN: Unlink turret -->
+  <VGE_UnlinkWithTurret>Desvincular torreta</VGE_UnlinkWithTurret>
+    <!-- EN: Break the current link to a turret, allowing you to link with a different turret. -->
+  <VGE_UnlinkWithTurretDesc>Rompe el vínculo actual con una torreta, permitiéndote vincularte con una torreta diferente.</VGE_UnlinkWithTurretDesc>
+    <!-- EN: Select linked turret -->
+  <VGE_SelectLinkedTurret>Seleccionar torreta vinculada</VGE_SelectLinkedTurret>
+    <!-- EN: Show the linked turret. -->
+  <VGE_SelectLinkedTurretDesc>Muestra la torreta vinculada.</VGE_SelectLinkedTurretDesc>
+    <!-- EN: Gravship artillery needs to target a visible, explored map. -->
+  <VGE_GravshipArtilleryNeedsVisibleMap>La artillería de gravinave necesita apuntar a un mapa visible y explorado.</VGE_GravshipArtilleryNeedsVisibleMap>
+    <!-- EN: Target is out of range. -->
+  <VGE_GravshipArtilleryOutOfRange>El objetivo está fuera de alcance.</VGE_GravshipArtilleryOutOfRange>
+    <!-- EN: Artillery cannot fire in this direction. -->
+  <VGE_GravshipArtilleryInvalidFiringMode>La artillería no puede disparar en esta dirección.</VGE_GravshipArtilleryInvalidFiringMode>
+    <!-- EN: Artillery cannot fire from planet to space. -->
+  <VGE_GravshipArtilleryInvalidGroundToSpace>La artillería no puede disparar desde el planeta al espacio.</VGE_GravshipArtilleryInvalidGroundToSpace>
+    <!-- EN: Artillery cannot fire from space to space. -->
+  <VGE_GravshipArtilleryInvalidSpaceToSpace>La artillería no puede disparar de espacio a espacio.</VGE_GravshipArtilleryInvalidSpaceToSpace>
+    <!-- EN: Artillery cannot fire from space to ground. -->
+  <VGE_GravshipArtilleryInvalidSpaceToGround>La artillería no puede disparar desde el espacio al suelo.</VGE_GravshipArtilleryInvalidSpaceToGround>
+    <!-- EN: Artillery cannot fire from ground to ground -->
+  <VGE_GravshipArtilleryInvalidGroundToGround>La artillería no puede disparar de suelo a suelo.</VGE_GravshipArtilleryInvalidGroundToGround>
+    <!-- EN: Landing on this location will be considered a crash. Any highlighted structures underneath the gravship will damage any structures on the gravship in corresponding locations.\n\nThe substructure may also become damaged and will need replacing before the next launch.\n\nSome indestructible objects underneath may completely destroy the substructure and any objects on it.\n\nConsider picking a different landing zone. -->
+  <VGE_ConfirmCrashLanding>Aterrizar en esta ubicación se considerará un choque. Cualquier estructura resaltada debajo de la gravinave dañará las estructuras de la gravinave en las ubicaciones correspondientes.\n\nLa subestructura también puede resultar dañada y necesitará ser reemplazada antes del próximo lanzamiento.\n\nAlgunos objetos indestructibles debajo pueden destruir completamente la subestructura y cualquier objeto sobre ella.\n\nConsidera elegir una zona de aterrizaje diferente.</VGE_ConfirmCrashLanding>
+    <!-- EN: Landing on this location will be considered a crash and will damage the gravship. -->
+  <VGE_CrashLandingWarning>Aterrizar en esta ubicación se considerará un choque y dañará la gravinave.</VGE_CrashLandingWarning>
+    <!-- EN: Can’t land here due to indestructible obstacles present. Choose another landing location. -->
+  <VGE_CannotLandIndestructibleObstacles>No se puede aterrizar aquí debido a obstáculos indestructibles presentes. Elige otra ubicación de aterrizaje.</VGE_CannotLandIndestructibleObstacles>
+
+    <!-- Vac checkpoints -->
+    <!-- EN: Set desired vacuum resistance -->
+  <VGE_VacCheckpoint_SetVacuumResistance>Establecer resistencia al vacío deseada</VGE_VacCheckpoint_SetVacuumResistance>
+    <!-- EN: Set the percentage of vacuum resistance required to cross through this checkpoint. Colonists without sufficient vacuum resistance will not naturally path through this checkpoint. Does not affect drafted colonists. -->
+  <VGE_VacCheckpoint_SetVacuumResistanceDesc>Establece el porcentaje de resistencia al vacío requerido para cruzar este punto de control. Los colonos sin suficiente resistencia al vacío no pasarán naturalmente por este punto de control. No afecta a los colonos reclutados.</VGE_VacCheckpoint_SetVacuumResistanceDesc>
+    <!-- EN: Vacuum resistance: {0_percentage} -->
+  <VGE_VacCheckpoint_VacuumResistancePercent>Resistencia al vacío: {0_percentage}</VGE_VacCheckpoint_VacuumResistancePercent>
+    <!-- EN: Minimum vacuum resistance: {0_percentage} -->
+  <VGE_VacCheckpoint_MinimumVacuumResistance>Resistencia al vacío mínima: {0_percentage}</VGE_VacCheckpoint_MinimumVacuumResistance>
+    <!-- EN: Drafted colonists always allowed passage -->
+  <VGE_VacCheckpoint_AllowDrafted>Los colonos reclutados siempre tienen permitido el paso</VGE_VacCheckpoint_AllowDrafted>
+    <!-- EN: Drafted colonists check for vacuum resistance -->
+  <VGE_VacCheckpoint_DisallowDrafted>Los colonos reclutados verifican la resistencia al vacío</VGE_VacCheckpoint_DisallowDrafted>
+    <!-- EN: Always allow drafted -->
+  <VGE_VacCheckpoint_AllowDraftedCheckbox>Permitir siempre reclutados</VGE_VacCheckpoint_AllowDraftedCheckbox>
+
+    <!-- Oxygen packs -->
+    <!-- EN: inactive -->
+  <VGE_OxygenPackInactive>inactivo</VGE_OxygenPackInactive>
+    <!-- EN: oxygen u³ -->
+  <VGE_OxygenUnits>oxígeno u³</VGE_OxygenUnits>
+    <!-- EN: Oxygen drain per day (if active): {0} u³ -->
+  <VGE_OxygenDrainIfActive>Drenaje de oxígeno por día (si está activo): {0} u³</VGE_OxygenDrainIfActive>
+    <!-- EN: Replenish oxygen at: {0} u³ -->
+  <VGE_OxygenReplenishAt>Reponer oxígeno a: {0} u³</VGE_OxygenReplenishAt>
+    <!-- EN: Automatic replenishment of oxygen disabled. -->
+  <VGE_OxygenReplenishDisabled>Reposición automática de oxígeno desactivada.</VGE_OxygenReplenishDisabled>
+    <!-- EN: This determines whether {PAWN_nameDef} will automatically replenish oxygen canisters when oxygen in {PAWN_possessive} equipment is below {MIN} u³.\n\nAutomatic oxygen replenishment is currently {ONOFF}. -->
+  <VGE_OxygenReplenishOnOffDesc>Esto determina si {PAWN_nameDef} repondrá automáticamente los botes de oxígeno cuando el oxígeno en su equipo esté por debajo de {MIN} u³.\n\nLa reposición automática de oxígeno está actualmente {ONOFF}.</VGE_OxygenReplenishOnOffDesc>
+    <!-- EN: This determines whether the wearer will automatically replenish oxygen canisters when oxygen in their equipment is below {MIN} u³.\n\nAutomatic oxygen replenishment is currently {ONOFF}. -->
+  <VGE_OxygenReplenishOnOffNoWearerDesc>Esto determina si el portador repondrá automáticamente los botes de oxígeno cuando el oxígeno en su equipo esté por debajo de {MIN} u³.\n\nLa reposición automática de oxígeno está actualmente {ONOFF}.</VGE_OxygenReplenishOnOffNoWearerDesc>
+    <!-- EN: Ineffective oxygen pack -->
+  <VGE_IneffectiveOxygenPack>Mochila de oxígeno ineficaz</VGE_IneffectiveOxygenPack>
+    <!-- EN: Someone is wearing an oxygen pack without any vacuum-protective apparel. The oxygen pack will not work. Consider equipping other vacuum-resistant apparel.\n\nColonists without vacuum-protective apparel: -->
+  <VGE_IneffectiveOxygenPackDesc>Alguien lleva una mochila de oxígeno sin ninguna prenda de protección contra el vacío. La mochila de oxígeno no funcionará. Considera equipar otra prenda resistente al vacío.\n\nColonos sin prendas de protección contra el vacío:</VGE_IneffectiveOxygenPackDesc>
+    <!-- EN: {PAWN} is equipping an oxygen pack without wearing vacuum resistant gear. {APPAREL_labelNoParenthesis} will not work. -->
+  <VGE_EquippingIneffectiveOxygenPack>{PAWN} está equipando una mochila de oxígeno sin usar equipo resistente al vacío. {APPAREL_labelNoParenthesis} no funcionará.</VGE_EquippingIneffectiveOxygenPack>
+    <!-- EN: {PAWN} is equipping an oxygen pack on {TARGET} without wearing vacuum resistant gear. {APPAREL_labelNoParenthesis} will not work. -->
+  <VGE_EquippingOnOtherIneffectiveOxygenPack>{PAWN} está equipando una mochila de oxígeno en {TARGET} sin usar equipo resistente al vacío. {APPAREL_labelNoParenthesis} no funcionará.</VGE_EquippingOnOtherIneffectiveOxygenPack>
+    <!-- EN: Reload {GEAR_labelShort} with {AMMO_label} -->
+  <VGE_Refill>Recargar {GEAR_labelShort} con {AMMO_label}</VGE_Refill>
+    <!-- EN: Cannot carry enough {AMMO_label} to refill 1 charge. -->
+  <VGE_RefillCannotCarryEnough>No se puede llevar suficiente {AMMO_label} para recargar 1 carga.</VGE_RefillCannotCarryEnough>
+
+    <!-- Low oxygen alerts -->
+    <!-- EN: Low oxygen -->
+  <VGE_Alert_LowOxygen>Oxígeno bajo</VGE_Alert_LowOxygen>
+    <!-- EN: You are dangerously low on oxygen.\n\n    Oxygen in storage: {0}u³\n    Colonists and prisoners breathing oxygen: {1}\n\nWhen oxygen runs out, the gravship will start filling with vacuum. -->
+  <VGE_Alert_LowOxygenExplanation>Tienes un nivel de oxígeno peligrosamente bajo.\n\n    Oxígeno almacenado: {0}u³\n    Colonos y prisioneros respirando oxígeno: {1}\n\nCuando se agote el oxígeno, la gravinave comenzará a llenarse de vacío.</VGE_Alert_LowOxygenExplanation>
+
+    <!-- Death from vacuum exposure inspect string -->
+    <!-- EN: resistant to vacuum -->
+  <VGE_ResistantToVacuumExposure>resistente a la exposición al vacío</VGE_ResistantToVacuumExposure>
+    <!-- EN: death from vacuum exposure in {0} -->
+  <VGE_TimeUntilVacuumExposureDeath>muerte por exposición al vacío en {0}</VGE_TimeUntilVacuumExposureDeath>
+
+    <!-- EN: {0} / {1} heat units -->
+  <VGE_HeatsinkHeatStored>{0} / {1} unidades de calor</VGE_HeatsinkHeatStored>
+    <!-- EN: Absorb gravheat -->
+  <VGE_AbsorbGravheat>Absorber gravicalor</VGE_AbsorbGravheat>
+    <!-- EN: Flush any remaining structural heat from the grav engine onto this gravheat absorber, allowing for an immediate gravship launch. Gravheat absorber will enter a long cooldown period during which it can't absorb any more heat. -->
+  <VGE_AbsorbGravheatDesc>Elimina cualquier calor estructural restante del motor gravitacional hacia este absorbedor de gravicalor, permitiendo un lanzamiento inmediato de la gravinave. El absorbedor de gravicalor entrará en un largo periodo de enfriamiento durante el cual no podrá absorber más calor.</VGE_AbsorbGravheatDesc>
+    <!-- EN: No grav engine found -->
+  <VGE_NoGravEngine>No se encontró ningún motor gravitacional</VGE_NoGravEngine>
+    <!-- EN: No cooldown to absorb -->
+  <VGE_NoCooldownToAbsorb>No hay enfriamiento para absorber</VGE_NoCooldownToAbsorb>
+    <!-- EN: Gravheat absorber is cooling down. Available in: {0} -->
+  <VGE_GravheatAbsorberCoolingDown>El absorbedor de gravicalor se está enfriando. Disponible en: {0}</VGE_GravheatAbsorberCoolingDown>
+    <!-- EN: However, landing in a location containing a grav anchor will completely remove the launch cooldown. -->
+  <VGE_LaunchGravAnchorCooldownInfo>Sin embargo, aterrizar en una ubicación que contenga un ancla gravitacional eliminará por completo el enfriamiento del lanzamiento.</VGE_LaunchGravAnchorCooldownInfo>
+    <!-- EN: The heatsinks will reduce the launch cooldown time by {0}. -->
+  <VGE_LaunchHeatsinkCooldownInfo>Los disipadores de calor reducirán el tiempo de enfriamiento del lanzamiento en {0}.</VGE_LaunchHeatsinkCooldownInfo>
+    <!-- EN: This launch will use {0} astrofuel and generate about {0} heat units, raising the temperature across the gravship. -->
+  <VGE_LaunchFuelAndHeatUnitsInfo>Este lanzamiento usará {0} astrobustible y generará unas {0} unidades de calor, elevando la temperatura en toda la gravinave.</VGE_LaunchFuelAndHeatUnitsInfo>
+
+    <!-- EN: Remove substructure -->
+  <VGE_DesignatorRemoveSubstructure>Eliminar subestructura</VGE_DesignatorRemoveSubstructure>
+    <!-- EN: Remove substructure from the gravship. -->
+  <VGE_DesignatorRemoveSubstructureDesc>Elimina la subestructura de la gravinave.</VGE_DesignatorRemoveSubstructureDesc>
+
+    <!-- EN: Your gravship has launched. You can now decide whether you want to keep the previous map around, or if you want to discard it.
+
+If you keep it around, it will still be present as a colony map until you abandon it.
+
+If you discard it, it may be replaced by an abandoned settlement, returned to its original owner, turned back into a special/quest location, or destroyed.
+Please note that keeping several maps open may affect your performance. -->
+  <VGE_MapDecisionText>Tu gravinave ha despegado. Ahora puedes decidir si quieres conservar el mapa anterior o si quieres descartarlo.\n\nSi lo conservas, seguirá presente como un mapa de colonia hasta que lo abandones.\n\nSi lo descartas, puede ser reemplazado por un asentamiento abandonado, devuelto a su dueño original, convertido de nuevo en una ubicación especial/de misión o destruido.\nTen en cuenta que mantener varios mapas abiertos puede afectar el rendimiento.</VGE_MapDecisionText>
+    <!-- EN: Your gravship has launched. You can now decide whether you want to settle the previous map.
+
+If you settle it, it will still be present as a colony map until you abandon it.
+
+If you decide to not settle it, the map will still be kept around until it is discarded automatically. It is currently kept around due to you having colonists in there, a shuttle or drop pods travelling there, or some special building present on the map.
+Please note that keeping several maps open may affect your performance. -->
+  <VGE_MapDecisionSettleText>Tu gravinave ha despegado. Ahora puedes decidir si quieres colonizar el mapa anterior.\n\nSi lo colonizas, seguirá presente como un mapa de colonia hasta que lo abandones.\n\nSi decides no colonizarlo, el mapa se conservará hasta que se descarte automáticamente. Actualmente se conserva debido a que tienes colonos allí, una lanzadera o cápsulas de escape viajando hacia allí, o algún edificio especial presente en el mapa.\nTen en cuenta que mantener varios mapas abiertos puede afectar el rendimiento.</VGE_MapDecisionSettleText>
+    <!-- EN: Keep the map -->
+  <VGE_KeepMap>Conservar el mapa</VGE_KeepMap>
+    <!-- EN: Discard the map -->
+  <VGE_DiscardMap>Descartar el mapa</VGE_DiscardMap>
+    <!-- EN: Settle map -->
+  <VGE_SettleMap>Colonizar mapa</VGE_SettleMap>
+    <!-- EN: Don't settle -->
+  <VGE_DontSettle>No colonizar</VGE_DontSettle>
+
+    <!-- EN: Rapidly deteriorating due to the vacuum of space. -->
+  <VGE_RapidlyDeterioratingInSpace>Deteriorándose rápidamente debido al vacío del espacio.</VGE_RapidlyDeterioratingInSpace>
+    <!-- EN: Are you sure you want to launch?\n\nYou will be given a choice to keep the current map as well as anything not on gravship substructure, but if you choose to discard it, it will be permanently lost. -->
+  <ConfirmGravEngineLaunch>¿Estás seguro de que quieres lanzar?\n\nTu mapa actual, así como cualquier cosa que no esté en la subestructura de la gravinave, se perderá permanentemente. El proceso de lanzamiento es destructivo, lo que significa que no podrás regresar. Construye un ancla gravitacional para evitar que este mapa sea destruido.</ConfirmGravEngineLaunch>
+
+    <!-- Messages related to multiple gravships -->
+    <!-- EN: You can't build {0} if you already have another grav engine. -->
+  <VGE_BuildSingleGravEngineOnly>No puedes construir {0} si ya tienes otro motor gravitacional.</VGE_BuildSingleGravEngineOnly>
+    <!-- EN: You can't build {0} if you already have another grav engine under construction. -->
+  <VGE_BuildSingleGravEngineBuildBlueprintOnly>No puedes construir {0} si ya tienes otro motor gravitacional en construcción.</VGE_BuildSingleGravEngineBuildBlueprintOnly>
+    <!-- EN: You can't install {0} if there's another grav engine present nearby. -->
+  <VGE_InstallSingleGravEngineOnMap>No puedes instalar {0} si hay otro motor gravitacional presente cerca.</VGE_InstallSingleGravEngineOnMap>
+    <!-- EN: You can't install {0} if you already have another grav engine under construction nearby. -->
+  <VGE_InstallSingleGravEngineBuildBlueprintOnly>No puedes instalar {0} si ya tienes otro motor gravitacional en construcción cerca.</VGE_InstallSingleGravEngineBuildBlueprintOnly>
+    <!-- EN: You can't install {0} if there's another grav engine blueprint nearby. -->
+  <VGE_InstallSingleGravEngineInstallBlueprintOnly>No puedes instalar {0} si hay otro plano de motor gravitacional cerca.</VGE_InstallSingleGravEngineInstallBlueprintOnly>
+    <!-- For example: "Grav engine disabled: Multiple grav engines present" -->
+    <!-- EN: Grav engine disabled: -->
+  <VGE_GravEngineDisabled>Motor gravitacional desactivado:</VGE_GravEngineDisabled>
+    <!-- Disabled message for gravship launch ritual when there's multiple gravship engines present. Should hopefully never happen. -->
+    <!-- Also used for grav engines tooltip when there's another one present. -->
+    <!-- EN: multiple grav engines present -->
+  <VGE_MultipleGravEnginesPresent>múltiples motores gravitacionales presentes</VGE_MultipleGravEnginesPresent>
+    <!-- Disabled message for gravship launch ritual when there's a gravship currently travellingo on the world. Should hopefully never happen. -->
+    <!-- EN: another gravship is currently active -->
+  <VGE_GravshipCurrentlyActive>otra gravinave está actualmente activa</VGE_GravshipCurrentlyActive>
+    <!-- Disabled message for gravship launch ritual when there's another gravship launch ritual active. Should hopefully never happen. -->
+    <!-- EN: another gravship is currently preparing to launch -->
+  <VGE_GravshipLaunchCurrentlyActive>otra gravinave se está preparando actualmente para el lanzamiento</VGE_GravshipLaunchCurrentlyActive>
+
+    <!-- Mod options -->
+
+    <!-- EN: Orbital objects multiplier -->
+  <VGE_OrbitObjectsMultiplier>Multiplicador de objetos orbitales</VGE_OrbitObjectsMultiplier>
+    <!-- EN: By default the game will try to keep 3,8,12 or 20 locations in orbit (depending on globe coverage of the planet). With this slider you can apply a multiplier to this number, making your planet orbits super sparse or very cluttered! -->
+  <VGE_OrbitObjectsMultiplierDesc>Por defecto, el juego intentará mantener 3, 8, 12 o 20 ubicaciones en órbita (dependiendo de la cobertura global del planeta). ¡Con este deslizador puedes aplicar un multiplicador a este número, haciendo que las órbitas de tu planeta estén súper dispersas o muy saturadas!</VGE_OrbitObjectsMultiplierDesc>
+    <!-- EN: Reset -->
+  <VGE_Reset>Restablecer</VGE_Reset>
+    <!-- EN: More -->
+  <VGE_More>Más</VGE_More>
+
+    <!-- World objects -->
+
+    <!-- EN: Solid ice with traces of {RESOURCE_label} -->
+  <VGE_SoildIceAsteroid>Hielo sólido con trazas de {RESOURCE_label}</VGE_SoildIceAsteroid>
+
+    <!-- Map incidents -->
+
+    <!-- EN: Can’t launch the gravship due to a gravitational anomaly -->
+  <VGE_CannotLaunchGravAnomaly>No se puede lanzar la gravinave debido a una anomalía gravitacional</VGE_CannotLaunchGravAnomaly>
+
+    <!-- Maintenance -->
+
+    <!-- EN: Part maintenance: {0} -->
+  <VGE_Maintenance>Mantenimiento de piezas: {0}</VGE_Maintenance>
+    <!-- EN: Maintain part -->
+  <VGE_Maintain>Mantener pieza</VGE_Maintain>
+    <!-- EN: Gravship maintenance low -->
+  <VGE_Alert_LowMaintenance>Mantenimiento de gravinave bajo</VGE_Alert_LowMaintenance>
+    <!-- EN: Some gravship components have low maintenance. This can result in negative launch outcomes and eventual break downs. Consider assigning a colonist to maintain them. Gravship components with low maintenance:\n\n {0} -->
+  <VGE_Alert_LowMaintenance_Desc>Algunos componentes de la gravinave tienen un mantenimiento bajo. Esto puede resultar en resultados de lanzamiento negativos y eventuales averías. Considera asignar a un colono para mantenerlos. Componentes de la gravinave con bajo mantenimiento:\n\n {0}</VGE_Alert_LowMaintenance_Desc>
+    <!-- EN: Global maintenance sensitivity -->
+  <VGE_StatsReport_GravEngineGlobalMaintenanceSensitivity>Sensibilidad de mantenimiento global</VGE_StatsReport_GravEngineGlobalMaintenanceSensitivity>
+
+    <!-- EN: Set desired maintenance -->
+  <VGE_SetDesiredMaintenance>Establecer mantenimiento deseado</VGE_SetDesiredMaintenance>
+    <!-- EN: Set the desired maintenance for all gravship components on this gravship. Colonists assigned to construction will maintain the structures if they fall below the set level. -->
+  <VGE_SetDesiredMaintenanceDesc>Establece el mantenimiento deseado para todos los componentes de esta gravinave. Los colonos asignados a la construcción mantendrán las estructuras si caen por debajo del nivel establecido.</VGE_SetDesiredMaintenanceDesc>
+
+    <!-- Gravdata -->
+    <!-- EN: Estimated gravdata yield: {0} -->
+  <VGE_GravdataYieldInfo>Rendimiento estimado de gravidatos: {0}</VGE_GravdataYieldInfo>
+    <!-- EN: No gravtech research project selected. Launching will not yield any gravdata. -->
+  <VGE_NoGravtechProjectSelected>No se ha seleccionado ningún proyecto de investigación de gravitecnología. El lanzamiento no producirá ningún gravidato.</VGE_NoGravtechProjectSelected>
+    <!-- EN: With the current predictions, there is a {0}% chance for a positive boon to happen. -->
+  <VGE_LaunchBoonChanceInfo>Con las predicciones actuales, hay una probabilidad del {0}% de que ocurra un beneficio positivo.</VGE_LaunchBoonChanceInfo>
+    <!-- EN: Based on the gravship's launch, there was a {0_percentage} chance of a positive outcome. -->
+  <VGE_LaunchBoonOutcomeChanceLetterExtra>Basado en el lanzamiento de la gravinave, hubo una probabilidad del {0_percentage} de un resultado positivo.</VGE_LaunchBoonOutcomeChanceLetterExtra>
+    <!-- EN: Gravdata stored: {0} -->
+  <VGE_GravdataStored>Gravidatos almacenados: {0}</VGE_GravdataStored>
+    <!-- EN: Stored gravdata will automatically be applied to the selected gravtech research project on next landing. -->
+  <VGE_GravdataStoredInfo>Los gravidatos almacenados se aplicarán automáticamente al proyecto de investigación de gravitecnología seleccionado en el próximo aterrizaje.</VGE_GravdataStoredInfo>
+    <!-- EN: Convert gravdata -->
+  <VGE_ConvertGravdata>Convertir gravidatos</VGE_ConvertGravdata>
+    <!-- EN: Convert stored gravdata into points towards the chosen non-gravtech research project. Conversion rate is one to one. -->
+  <VGE_ConvertGravdataDesc>Convierte los gravidatos almacenados en puntos para el proyecto de investigación no gravitecnológico elegido. La tasa de conversión es de uno a uno.</VGE_ConvertGravdataDesc>
+    <!-- EN: No non-gravtech research project selected. -->
+  <VGE_NoNonGravtechProjectSelected>No se ha seleccionado ningún proyecto de investigación no gravitecnológico.</VGE_NoNonGravtechProjectSelected>
+    <!-- EN: Converted {0} gravdata to research points for {1}. -->
+  <VGE_ConvertedGravdataToResearch>Se convirtieron {0} gravidatos en puntos de investigación para {1}.</VGE_ConvertedGravdataToResearch>
+    <!-- EN: Escape pod crash -->
+  <VGE_EscapePodCrash>Choque de cápsula de escape</VGE_EscapePodCrash>
+    <!-- EN: A damaged escape pod has crashed on the map. It can be hacked open to reveal what's inside. -->
+  <VGE_EscapePodCrashDesc>Una cápsula de escape dañada se ha estrellado en el mapa. Se puede hackear para revelar lo que hay dentro.</VGE_EscapePodCrashDesc>
+
+    <!-- Gravlift -->
+    <!-- EN: Launch to orbit -->
+  <VGE_LaunchToOrbit>Lanzar a órbita</VGE_LaunchToOrbit>
+    <!-- EN: Launch the gravship directly upwards and stabilize it in orbit. This is still considered a gravship journey and the grav engine will enter cooldown, potentially leaving you stranded in orbit. -->
+  <VGE_LaunchToOrbitDesc>Lanza la gravinave directamente hacia arriba y estabilízala en órbita. Esto todavía se considera un viaje de gravinave y el motor gravitacional entrará en enfriamiento, dejándote potencialmente varado en órbita.</VGE_LaunchToOrbitDesc>
+    <!-- EN: Can't use: already in orbit. -->
+  <VGE_CantLaunchAlreadyInOrbit>No se puede usar: ya está en órbita.</VGE_CantLaunchAlreadyInOrbit>
+
+    <!-- EN: {0} pod gestation completes in: {1}. -->
+  <VGE_MechanoidPodGestation>La gestación de la cápsula de {0} se completa en: {1}.</VGE_MechanoidPodGestation>
+    <!-- EN: Remaining mechanoid pods to complete: {0}. -->
+  <VGE_MechanoidPodsLeft>Cápsulas de mecanoides restantes por completar: {0}.</VGE_MechanoidPodsLeft>
+    <!-- EN: Remaining shield time: {0} -->
+  <VGE_RemainingShieldTime>Tiempo de escudo restante: {0}</VGE_RemainingShieldTime>
+    <!-- EN: Cooldown remaining: {0} -->
+  <VGE_CooldownRemaining>Enfriamiento restante: {0}</VGE_CooldownRemaining>
+    <!-- EN: {0} {1} production completes in: {2}\nRemaining production processes to complete: {3} -->
+  <VGE_ResourceProcessorInfo>La producción de {0} {1} se completa en: {2}\nProcesos de producción restantes por completar: {3}</VGE_ResourceProcessorInfo>
+
+    <!-- Chemfuel to astrofuel replacements -->
+    <!-- EN: stored astrofuel -->
+  <VGE_StoredAstrofuel>astrobustible almacenado</VGE_StoredAstrofuel>
+    <!-- EN: {0} astrofuel per tile -->
+  <VGE_AstrofuelPerTile>{0} de astrobustible por casilla</VGE_AstrofuelPerTile>
+
+    <!-- Astrofire alert -->
+    <!-- EN: Astrofire! -->
+  <VGE_AstrofireInHomeArea>¡Astrofuego!</VGE_AstrofireInHomeArea>
+    <!-- EN: There is an astrofire in the home area. -->
+  <VGE_AstrofireInHomeAreaDesc>Hay un astrofuego en el área del hogar.</VGE_AstrofireInHomeAreaDesc>
+
+    <!-- EN: Requires substructure or scaffold to be build on. -->
+  <VGE_RequiresSubstructureOrScaffolding>Requiere que se construya sobre una subestructura o andamio.</VGE_RequiresSubstructureOrScaffolding>
+
+    <!-- Odyssey architect tab -->
+    <!-- EN: No available designators -->
+  <VGE_NoAvailableDesignators>No hay designadores disponibles</VGE_NoAvailableDesignators>
+
+    <!-- Vac barrier color picker -->
+    <!-- EN: brightness -->
+  <VGE_ColorPickerValue>brillo</VGE_ColorPickerValue>
+    <!-- EN: Choose a color by setting the color brightness.\n\nBrightness refers to "value" from HSV color model - hue, saturation, and value/brightness. -->
+  <VGE_ColorPickerValueTooltip>Elige un color ajustando el brillo del color.\n\nEl brillo se refiere al "valor" del modelo de color HSV: tono, saturación y valor/brillo.</VGE_ColorPickerValueTooltip>
+    <!-- EN: Must be placed in range of a grav engine or grav field amplifier. -->
+  <VGE_MustBePlacedInRangeOfGravSource>Debe colocarse dentro del alcance de un motor gravitacional o un amplificador de campo gravitacional.</VGE_MustBePlacedInRangeOfGravSource>
+
+    <!-- Grav engine inspection replacement text (overwrites Odyssey's) -->
+
+    <!-- EN: Amongst the remnants of the crashed gravship, a still-intact gravjumper engine hums with energy.\n\nIt is possible to repair the substructure, but various components of the gravship are beyond saving. The engine pushes against gravity, levitating the ship and allowing long-distance travel. By travelling, you may unlock the technology that will give you an opportunity to rebuild these systems and more.\n\nLaunch a gravship by scaling it down, fixing damaged substructure and replacing damaged thrusters and astrofuel tanks. Refine more astrofuel in the biofuel refinery and select a gravtech research project to progress as you travel and stress the grav engine.\n\nLaunching a gravship will give you an option to abandon your current map.\n\n  - Research project completed: Basic gravtech\n  - Flooring unlocked: Gravship substructure\n  - Wall unlocked: Gravship hull\n  - Structures unlocked: Pilot cockpit, Gravjumper engine, Small thruster, Small astrofuel tank, Astrofuel pipe, Astrofuel valve, Astrofuel tap, Astrofuel drain, Grav field extender\n  - Recipe unlocked: Make astrofuel from chemfuel -->
+  <GravEngineInspectedLetterContents>Entre los restos de la gravinave estrellada, un motor de gravisaltador aún intacto zumba con energía.\n\nPuedes construir la subestructura de la gravinave alrededor del motor para crear una nueva gravinave. El motor empuja contra la gravedad, elevando la nave y permitiendo viajes de larga distancia.\n\nLanza una gravinave investigando gravitecnología básica, luego construye tanques de combustible, propulsores y una consola de piloto.\n\nLanzar una gravinave abandonará tu mapa actual a menos que primero construyas un ancla gravitacional.\n\n  - Investigación desbloqueada: gravitecnología básica\n  - Suelo desbloqueado: subestructura de la gravinave</GravEngineInspectedLetterContents>
+
+    <!-- Agrocell text -->
+    <!-- EN: Turn sun lamp on -->
+  <VGE_AgrocellSunLampEnable>Encender lámpara solar</VGE_AgrocellSunLampEnable>
+    <!-- EN: Turn sun lamp off -->
+  <VGE_AgrocellSunLampDisable>Apagar lámpara solar</VGE_AgrocellSunLampDisable>
+    <!-- EN: Keeping the sun lamp on will make the agrocell produce light during the day, increasing power usage and allowing most plants to grow. However, disabling it allows for plants that require darkness to grow while saving some power at the same time. -->
+  <VGE_AgrocellSunLampDesc>Mantener la lámpara solar encendida hará que la agrocélula produzca luz durante el día, aumentando el uso de energía y permitiendo que la mayoría de las plantas crezcan. Sin embargo, desactivarla permite que crezcan plantas que requieren oscuridad, ahorrando algo de energía al mismo tiempo.</VGE_AgrocellSunLampDesc>
+
+    <!-- Role abilities -->
+
+    <!-- EN: This ability needs to target a pilot console. -->
+  <VGE_MustTargetPilotConsole>Esta habilidad debe apuntar a una consola de piloto.</VGE_MustTargetPilotConsole>
+    <!-- EN: A new discovery! -->
+  <VGE_RenameAsteroid>¡Un nuevo descubrimiento!</VGE_RenameAsteroid>
+    <!-- EN: Since {0} was the first to discover the {1} nearby, they get to name it. -->
+  <VGE_RenameAsteroidDesc>Dado que {0} fue el primero en descubrir el {1} cercano, puede ponerle nombre.</VGE_RenameAsteroidDesc>
+    <!-- EN: {1_labelShort} is incapable of intellectual work -->
+  <VGE_IsIncapableOfIntellectualLower>{1_labelShort} es incapaz de realizar trabajo intelectual</VGE_IsIncapableOfIntellectualLower>
+
+    <!-- Replacements for PilotGravship key based on the console/engine -->
+    <!-- EN: Launch gravjumper -->
+  <VGE_PilotGravjumper>Lanzar gravisaltador</VGE_PilotGravjumper>
+    <!-- EN: Launch gravhulk -->
+  <VGE_PilotGravhulk>Lanzar gravicoloso</VGE_PilotGravhulk>
+    <!-- EN: {0} needs gravdata to complete. Obtain gravdata by travelling with your gravship. -->
+  <VGE_GravtechNeedsGravdata>{0} necesita gravidatos para completarse. Obtén gravidatos viajando con tu gravinave.</VGE_GravtechNeedsGravdata>
+
+    <!-- Replace pursuing mechanoids text with same but, but use the gravship itself as an argument. -->
+    <!-- EN: The mechhive's scanning process is close to determining your location. When it locates your {GRAVSHIP}, it will send a massive mechanoid force to kill you.\n\nGather your supplies, then flee the map by selecting the {CONSOLE}, and selecting launch. -->
+  <VGE_LetterTextMechanoidThreat>El proceso de escaneo de la colmena mecánica está cerca de determinar tu ubicación. Cuando localice tu {GRAVSHIP}, enviará una fuerza mecanizada masiva para matarte.\n\nReúne tus suministros y huye del mapa seleccionando la {CONSOLE} y eligiendo lanzar.</VGE_LetterTextMechanoidThreat>
+
+    <!-- Simple "gravship" style text, without the engine part. -->
+    <!-- First, it's used for the {GRAVSHIP} argument text above. Second, it's used for replacing the "gravship" name of unnamed gravship world object. -->
+    <!-- EN: gravjumper -->
+  <VGE_Gravjumper>gravisaltador</VGE_Gravjumper>
+    <!-- EN: gravship -->
+  <VGE_Gravship>gravinave</VGE_Gravship>
+    <!-- EN: gravhulk -->
+  <VGE_Gravhulk>gravicoloso</VGE_Gravhulk>
+
+</LanguageData>

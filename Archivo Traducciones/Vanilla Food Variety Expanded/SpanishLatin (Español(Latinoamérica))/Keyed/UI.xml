@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+	<!-- EN: Favourite meal or ingredient: -->
+  <VCE_FavouriteFoodTextOnly>Comida o ingrediente favorito:</VCE_FavouriteFoodTextOnly>
+	<!-- EN: Favourite meal or ingredient: {0} -->
+  <VCE_FavouriteFood>Comida o ingrediente favorito: {0}</VCE_FavouriteFood>
+	<!-- EN: Last eaten meals: {0} -->
+  <VCE_LastFoods>Últimas comidas ingeridas: {0}</VCE_LastFoods>
+	<!-- EN: Last eaten meals: -->
+  <VCE_LastFoodsTextOnly>Últimas comidas ingeridas:</VCE_LastFoodsTextOnly>
+	<!-- EN: Last eaten ingredients: {0} -->
+  <VCE_LastIngredients>Últimos ingredientes ingeridos: {0}</VCE_LastIngredients>
+	<!-- EN: Last eaten ingredients: -->
+  <VCE_LastIngredientsTextOnly>Últimos ingredientes ingeridos:</VCE_LastIngredientsTextOnly>
+	<!-- EN: Go back -->
+  <VCEV_GoBack>Volver</VCEV_GoBack>
+	<!-- EN: Consuming this meal or ingredient will give a +2 bonus to variety -->
+  <VCE_FavouriteFoodEffects>Consumir esta comida o ingrediente dará una bonificación de +2 a la variedad</VCE_FavouriteFoodEffects>
+	<!-- EN: Not eaten yet -->
+  <VCE_NotEatenYet>Aún no ingerido</VCE_NotEatenYet>
+	
+	<!-- EN: Meal Variety: {0}/{1} -->
+  <VCE_MealVariety>Variedad de comidas: {0}/{1}</VCE_MealVariety>
+	<!-- EN: Ingredient Variety: {0}/{1} -->
+  <VCE_IngredientVariety>Variedad de ingredientes: {0}/{1}</VCE_IngredientVariety>
+	<!-- EN: Average Total: {0}% -->
+  <VCE_TotalVariety>Promedio total: {0}%</VCE_TotalVariety>
+	
+	<!-- EN: Since {0}'s favourite food has been consumed, variety in this category will get a +2 bonus per favourite! -->
+  <VCE_MealsHasFavourites>Dado que se ha consumido la comida favorita de {0}, ¡la variedad en esta categoría obtendrá una bonificación de +2 por favorito!</VCE_MealsHasFavourites>
+	<!-- EN: Since {0}'s favourite ingredient has been consumed, variety in this category will get a +2 bonus per favourite! -->
+  <VCE_IngredientsHasFavourites>Dado que se ha consumido el ingrediente favorito de {0}, ¡la variedad en esta categoría obtendrá una bonificación de +2 por favorito!</VCE_IngredientsHasFavourites>
+	
+	<!-- EN: {0} already has two favourite foods. The recipe book won't provide further insights -->
+  <VCEV_NoMoreFavourites>{0} ya tiene dos comidas favoritas. El libro de recetas no proporcionará más información</VCEV_NoMoreFavourites>
+	<!-- EN: {0} has decided that {1} is now their favourite food too! -->
+  <VCEV_NewFavouriteGained>¡{0} ha decidido que {1} ahora también es su comida favorita!</VCEV_NewFavouriteGained>
+	<!-- EN: {1} is already {0}'s favourite food! The recipe book won't provide further insights -->
+  <VCEV_AlreadyFavourite>¡{1} ya es la comida favorita de {0}! El libro de recetas no proporcionará más información</VCEV_AlreadyFavourite>
+	
+	<!-- EN: This is {PAWN_nameDef}'s favourite meal, and counts as two meals for the purpose of food variety. -->
+  <VCEV_ThisIsFavourite>Esta es la comida favorita de {PAWN_nameDef}, y cuenta como dos comidas para el propósito de la variedad de alimentos.</VCEV_ThisIsFavourite>
+	<!-- EN: This is {PAWN_nameDef}'s favourite ingredient, and counts as two ingredients for the purpose of food variety. -->
+  <VCEV_ThisIsFavouriteIng>Este es el ingrediente favorito de {PAWN_nameDef}, y cuenta como dos ingredientes para el propósito de la variedad de alimentos.</VCEV_ThisIsFavouriteIng>
+	<!-- Mod options -->
+	
+	<!-- EN: Mood offset -->
+  <VCEV_MoodMultiplier>Multiplicador de humor</VCEV_MoodMultiplier>
+	<!-- EN: Both negative and positive moods produced by low and high Food Variety need will be multiplied by this number. +/- 5 by default. -->
+  <VCEV_MoodMultiplierDesc>Tanto el humor negativo como el positivo producido por la necesidad de Variedad de Comida baja y alta se multiplicarán por este número. +/- 5 por defecto.</VCEV_MoodMultiplierDesc>
+	<!-- EN: Reset -->
+  <VCEV_Reset>Restablecer</VCEV_Reset>
+	
+	<!-- EN: Low Food Variety Threshold -->
+  <VCEV_LowVarietyThreshold>Umbral de variedad de comida baja</VCEV_LowVarietyThreshold>
+	<!-- EN: Colonists with lower food variety than this will get negative mood effects. 30% by default. -->
+  <VCEV_LowVarietyThresholdDesc>Los colonos con una variedad de comida inferior a esta obtendrán efectos de humor negativos. 30% por defecto.</VCEV_LowVarietyThresholdDesc>
+	
+	<!-- EN: High Food Variety Threshold -->
+  <VCEV_HighVarietyThreshold>Umbral de variedad de comida alta</VCEV_HighVarietyThreshold>
+	<!-- EN: Colonists with higher food variety than this will get positive mood effects. 60% by default. -->
+  <VCEV_HighVarietyThresholdDesc>Los colonos con una variedad de comida superior a esta obtendrán efectos de humor positivos. 60% por defecto.</VCEV_HighVarietyThresholdDesc>
+	
+	<!-- EN: Number of latest meals to count -->
+  <VCEV_NumberOfMeals>Número de últimas comidas a contar</VCEV_NumberOfMeals>
+	<!-- EN: The food variety need level will be calculated by counting among this number of meals consumed. Default is 7 latest meals. -->
+  <VCEV_NumberOfMealsDesc>El nivel de necesidad de variedad de comida se calculará contando entre este número de comidas consumidas. El valor predeterminado son las 7 últimas comidas.</VCEV_NumberOfMealsDesc>
+	
+	<!-- EN: Number of latest ingredients to count -->
+  <VCEV_NumberOfIngredients>Número de últimos ingredientes a contar</VCEV_NumberOfIngredients>
+	<!-- EN: The food variety need level will be calculated by counting among this number of ingredients consumed. Default is 7 latest ingredients. -->
+  <VCEV_NumberOfIngredientsDesc>El nivel de necesidad de variedad de comida se calculará contando entre este número de ingredientes consumidos. El valor predeterminado son los 7 últimos ingredientes.</VCEV_NumberOfIngredientsDesc>
+	
+	<!-- EN: Number of ingredient stack per meal (requires reload) -->
+  <VCEV_NumberOfIngredientStacked>Número de ingredientes apilados por comida (requiere recarga)</VCEV_NumberOfIngredientStacked>
+	<!-- EN: By default, vanilla meals start deleting "common" ingredients after 3 ingredients. This allows you to increase that limit. Requires a mod reload to take effect. -->
+  <VCEV_NumberOfIngredientStackedDesc>Por defecto, las comidas vanilla comienzan a eliminar ingredientes "comunes" después de 3 ingredientes. Esto te permite aumentar ese límite. Requiere una recarga del mod para tener efecto.</VCEV_NumberOfIngredientStackedDesc>
+</LanguageData>

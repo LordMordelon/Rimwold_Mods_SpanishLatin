@@ -1,0 +1,168 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>desc->This [writingQualityAdjective] [bookType] [follows] a [protag] as [protagThey] [storyStruggles]. [writingQualitySentence]. [maybe_date]\n\nOnce read, this book will inspire the reader with a random inspiration, and then it will be destroyed. It will have no effect on colonists with an active inspiration.</li>
+    <li>desc->Este [bookType] [writingQualityAdjective] [follows] a un [protag] mientras [protagThey] [storyStruggles]. [writingQualitySentence]. [maybe_date]\n\nUna vez leído, este libro inspirará al lector con una inspiración aleatoria, y luego será destruido. No tendrá efecto en colonos con una inspiración activa.</li>
+    <li>follows->explora el viaje de</li>
+    <li>follows->profundiza en las experiencias de</li>
+    <li>follows->proporciona una visión de la vida de</li>
+    <li>follows->comparte la historia de</li>
+    <li>follows->descubre las luchas de</li>
+    <li>protag->individuo</li>
+    <li>protag->vagabundo</li>
+    <li>protag->buscador</li>
+    <li>protag->visionario</li>
+    <li>protag->soñador</li>
+    <li>protag->viajero</li>
+    <li>protag->optimista</li>
+    <li>protag->pionero</li>
+    <li>protag->filósofo</li>
+    <li>protag->idealista</li>
+    <li>protagThey->él</li>
+    <li>protagThey->ella</li>
+    <li>storyStruggles->se esfuerza por descubrir su potencial interior</li>
+    <li>storyStruggles->navega por los desafíos del autodescubrimiento</li>
+    <li>storyStruggles->aprende a aceptar sus fortalezas y debilidades</li>
+    <li>storyStruggles->se embarca en una búsqueda de crecimiento personal</li>
+    <li>storyStruggles->enfrenta sus miedos y se hace más fuerte</li>
+    <li>storyStruggles->descubre la belleza de la autoaceptación</li>
+    <li>storyStruggles->supera la duda para alcanzar la grandeza</li>
+    <li>storyStruggles->encuentra inspiración en lugares improbables</li>
+    <li>storyStruggles->busca el camino hacia la iluminación</li>
+    <li>storyStruggles->desbloquea sus talentos ocultos</li>
+    <li>writingQualityAdjective(quality==6)->notablemente perspicaz</li>
+    <li>writingQualityAdjective(quality==5)->estimulante y atractivo</li>
+    <li>writingQualityAdjective(quality==4)->perspicaz y alentador</li>
+    <li>writingQualityAdjective(quality==3)->bien escrito</li>
+    <li>writingQualityAdjective(quality==2)->ordinario</li>
+    <li>writingQualityAdjective(quality==1)->mal elaborado</li>
+    <li>writingQualityAdjective(quality==0)->casi incomprensible</li>
+    <li>writingQualitySentence(quality[greater_than]4)->Es [excellentDesc] [excellentExtra]</li>
+    <li>writingQualitySentence(quality[less_than]5,quality[greater_than]1)->Es [decentDesc] [decentExtra]</li>
+    <li>writingQualitySentence(quality[less_than]2)->Es [awfulDesc] [awfulExtra]</li>
+    <li>excellentDesc->una obra profundamente reflexiva</li>
+    <li>excellentDesc->lleno de anécdotas motivadoras</li>
+    <li>excellentDesc->rico en pensamientos inspiradores</li>
+    <li>excellentDesc->una exploración cautivadora del potencial personal</li>
+    <li>excellentDesc->una lectura notablemente edificante</li>
+    <li>excellentExtra->. Sus palabras resuenan profundamente con el lector</li>
+    <li>excellentExtra->. Ofrece profundas ideas y consejos prácticos</li>
+    <li>excellentExtra->. Deja al lector inspirado para lograr más</li>
+    <li>decentDesc->una guía motivacional sencilla</li>
+    <li>decentDesc->un libro simple pero efectivo</li>
+    <li>decentDesc->una lectura fácil con ideas útiles</li>
+    <li>decentDesc->una colección de pensamientos modestos pero útiles</li>
+    <li>decentDesc->una visión accesible del crecimiento personal</li>
+    <li>decentExtra-> pero carece de profundidad en algunas áreas</li>
+    <li>decentExtra-> aunque sus ideas se sienten repetitivas</li>
+    <li>decentExtra-> pero no abre nuevos caminos</li>
+    <li>decentExtra-> aunque lucha por mantener el enfoque</li>
+    <li>decentExtra-> pero su consejo puede parecer demasiado simplista</li>
+    <li>awfulDesc->confuso y disperso</li>
+    <li>awfulDesc->lleno de tópicos horrendos</li>
+    <li>awfulDesc->frustrantemente vago e inútil</li>
+    <li>awfulDesc->apenas coherente en su mensaje</li>
+    <li>awfulDesc->el tipo de basura que encuentras con gran descuento en el contenedor de ofertas</li>
+    <li>awfulExtra-> y no logra entregar ningún valor real</li>
+    <li>awfulExtra-> y se lee más como un diario que como una guía</li>
+    <li>awfulExtra-> y deja al lector con más preguntas que respuestas</li>
+    <li>awfulExtra-> y está plagado de clichés</li>
+    <li>awfulExtra-> y se siente básicamente como algo de una estafa piramidal</li>
+    <li>maybe_date-></li>
+    <li>maybe_date->Este libro se publicó por primera vez [date_form].</li>
+    <li>maybe_date->El texto fue escrito [date_form].</li>
+    <li>maybe_date->Este libro fue publicado originalmente por una compañía oscura conocida por su excéntrica mezcla de ideas de autoayuda y teorías pseudocientíficas.</li>
+    <li>date_form->recientemente</li>
+    <li>date_form->hace muchos años</li>
+    <li>date_form->en el [date]</li>
+    <li>date_form->en [date_season]</li>
+    <li>bookType(p=4)->libro de autoayuda</li>
+    <li>bookType(p=2)->guía</li>
+    <li>bookType->manual</li>
+    <li>bookType->referencia</li>
+    <li>bookType->colección</li>
+  -->
+  <ABooks_SelfHelp_Description.rulePack.rulesStrings>
+    <li>desc->Este [bookType] [writingQualityAdjective] [follows] a un [protag] mientras [protagThey] [storyStruggles]. [writingQualitySentence]. [maybe_date]\n\nUna vez leído, este libro inspirará al lector con una inspiración aleatoria, y luego será destruido. No tendrá efecto en colonos con una inspiración activa.</li>
+    <li>follows->explora el viaje de</li>
+    <li>follows->profundiza en las experiencias de</li>
+    <li>follows->proporciona una visión de la vida de</li>
+    <li>follows->comparte la historia de</li>
+    <li>follows->descubre las luchas de</li>
+    <li>protag->individuo</li>
+    <li>protag->vagabundo</li>
+    <li>protag->buscador</li>
+    <li>protag->visionario</li>
+    <li>protag->soñador</li>
+    <li>protag->viajero</li>
+    <li>protag->optimista</li>
+    <li>protag->pionero</li>
+    <li>protag->filósofo</li>
+    <li>protag->idealista</li>
+    <li>protagThey->él</li>
+    <li>protagThey->ella</li>
+    <li>storyStruggles->se esfuerza por descubrir su potencial interior</li>
+    <li>storyStruggles->navega por los desafíos del autodescubrimiento</li>
+    <li>storyStruggles->aprende a aceptar sus fortalezas y debilidades</li>
+    <li>storyStruggles->se embarca en una búsqueda de crecimiento personal</li>
+    <li>storyStruggles->enfrenta sus miedos y se hace más fuerte</li>
+    <li>storyStruggles->descubre la belleza de la autoaceptación</li>
+    <li>storyStruggles->supera la duda para alcanzar la grandeza</li>
+    <li>storyStruggles->encuentra inspiración en lugares improbables</li>
+    <li>storyStruggles->busca el camino hacia la iluminación</li>
+    <li>storyStruggles->desbloquea sus talentos ocultos</li>
+    <li>writingQualityAdjective(quality==6)->notablemente perspicaz</li>
+    <li>writingQualityAdjective(quality==5)->estimulante y atractivo</li>
+    <li>writingQualityAdjective(quality==4)->perspicaz y alentador</li>
+    <li>writingQualityAdjective(quality==3)->bien escrito</li>
+    <li>writingQualityAdjective(quality==2)->ordinario</li>
+    <li>writingQualityAdjective(quality==1)->mal elaborado</li>
+    <li>writingQualityAdjective(quality==0)->casi incomprensible</li>
+    <li>writingQualitySentence(quality[greater_than]4)->Es [excellentDesc] [excellentExtra]</li>
+    <li>writingQualitySentence(quality[less_than]5,quality[greater_than]1)->Es [decentDesc] [decentExtra]</li>
+    <li>writingQualitySentence(quality[less_than]2)->Es [awfulDesc] [awfulExtra]</li>
+    <li>excellentDesc->una obra profundamente reflexiva</li>
+    <li>excellentDesc->lleno de anécdotas motivadoras</li>
+    <li>excellentDesc->rico en pensamientos inspiradores</li>
+    <li>excellentDesc->una exploración cautivadora del potencial personal</li>
+    <li>excellentDesc->una lectura notablemente edificante</li>
+    <li>excellentExtra->. Sus palabras resuenan profundamente con el lector</li>
+    <li>excellentExtra->. Ofrece profundas ideas y consejos prácticos</li>
+    <li>excellentExtra->. Deja al lector inspirado para lograr más</li>
+    <li>decentDesc->una guía motivacional sencilla</li>
+    <li>decentDesc->un libro simple pero efectivo</li>
+    <li>decentDesc->una lectura fácil con ideas útiles</li>
+    <li>decentDesc->una colección de pensamientos modestos pero útiles</li>
+    <li>decentDesc->una visión accesible del crecimiento personal</li>
+    <li>decentExtra-> pero carece de profundidad en algunas áreas</li>
+    <li>decentExtra-> aunque sus ideas se sienten repetitivas</li>
+    <li>decentExtra-> pero no abre nuevos caminos</li>
+    <li>decentExtra-> aunque lucha por mantener el enfoque</li>
+    <li>decentExtra-> pero su consejo puede parecer demasiado simplista</li>
+    <li>awfulDesc->confuso y disperso</li>
+    <li>awfulDesc->lleno de tópicos horrendos</li>
+    <li>awfulDesc->frustrantemente vago e inútil</li>
+    <li>awfulDesc->apenas coherente en su mensaje</li>
+    <li>awfulDesc->el tipo de basura que encuentras con gran descuento en el contenedor de ofertas</li>
+    <li>awfulExtra-> y no logra entregar ningún valor real</li>
+    <li>awfulExtra-> y se lee más como un diario que como una guía</li>
+    <li>awfulExtra-> y deja al lector con más preguntas que respuestas</li>
+    <li>awfulExtra-> y está plagado de clichés</li>
+    <li>awfulExtra-> y se siente básicamente como algo de una estafa piramidal</li>
+    <li>maybe_date-></li>
+    <li>maybe_date->Este libro se publicó por primera vez [date_form].</li>
+    <li>maybe_date->El texto fue escrito [date_form].</li>
+    <li>maybe_date->Este libro fue publicado originalmente por una compañía oscura conocida por su excéntrica mezcla de ideas de autoayuda y teorías pseudocientíficas.</li>
+    <li>date_form->recientemente</li>
+    <li>date_form->hace muchos años</li>
+    <li>date_form->en el [date]</li>
+    <li>date_form->en [date_season]</li>
+    <li>bookType(p=4)->libro de autoayuda</li>
+    <li>bookType(p=2)->guía</li>
+    <li>bookType->manual</li>
+    <li>bookType->referencia</li>
+    <li>bookType->colección</li>
+  </ABooks_SelfHelp_Description.rulePack.rulesStrings>
+  
+</LanguageData>

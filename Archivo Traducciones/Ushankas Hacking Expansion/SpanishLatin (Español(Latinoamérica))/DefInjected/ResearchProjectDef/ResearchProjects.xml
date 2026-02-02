@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: advanced cybertech -->
+  <USH_AdvancedCybertech.label>cibertecnología avanzada</USH_AdvancedCybertech.label>
+  <!-- EN: Advanced technology teaching complex hacking methods. -->
+  <USH_AdvancedCybertech.description>Tecnología avanzada que enseña métodos de hackeo complejos.</USH_AdvancedCybertech.description>
+  <!-- EN:
+    <li>subject->advanced cybertech</li>
+    <li>subject_story->studied conscious AI's at a cyber security company</li>
+    <li>subject_gerund->hacking electronics</li>
+  -->
+  <USH_AdvancedCybertech.generalRules.rulesStrings>
+    <li>subject->cibertecnología avanzada</li>
+    <li>subject_story->estudió IAs conscientes en una empresa de ciberseguridad</li>
+    <li>subject_gerund->hackear aparatos electrónicos</li>
+  </USH_AdvancedCybertech.generalRules.rulesStrings>
+  
+  <!-- EN: basic cybertech -->
+  <USH_BasicCybertech.label>cibertecnología básica</USH_BasicCybertech.label>
+  <!-- EN: Unlock cyberdata ripping and technology used for more efficient hacking. -->
+  <USH_BasicCybertech.description>Desbloquea la extracción de ciberdatos y tecnología utilizada para un hackeo más eficiente.</USH_BasicCybertech.description>
+  <!-- EN:
+    <li>subject->cybertech</li>
+    <li>subject_story->designed software at a cyber security company</li>
+    <li>subject_gerund->hacking electronics</li>
+  -->
+  <USH_BasicCybertech.generalRules.rulesStrings>
+    <li>subject->cibertecnología</li>
+    <li>subject_story->diseñó software en una empresa de ciberseguridad</li>
+    <li>subject_gerund->hackear aparatos electrónicos</li>
+  </USH_BasicCybertech.generalRules.rulesStrings>
+  
+  <!-- EN: cybertech machinery -->
+  <USH_CybertechMachinery.label>cibermaquinaria</USH_CybertechMachinery.label>
+  <!-- EN: Technology describing usage of neural ports in machines. -->
+  <USH_CybertechMachinery.description>Tecnología que describe el uso de puertos neurales en máquinas.</USH_CybertechMachinery.description>
+  <!-- EN:
+    <li>subject->cybertech machinery</li>
+    <li>subject_story->designed hardware at a cyber security company</li>
+    <li>subject_gerund->hacking electronics</li>
+  -->
+  <USH_CybertechMachinery.generalRules.rulesStrings>
+    <li>subject->maquinaria de cibertecnología</li>
+    <li>subject_story->diseñó hardware en una empresa de ciberseguridad</li>
+    <li>subject_gerund->hackear aparatos electrónicos</li>
+  </USH_CybertechMachinery.generalRules.rulesStrings>
+  
+  <!-- EN: executables -->
+  <USH_ExecData.label>ejecutables</USH_ExecData.label>
+  <!-- EN: Learn how to utilize broken exec data to develop powerful cyber abilities. Every ability needs to be first trained with an installed exec data case implant. -->
+  <USH_ExecData.description>Aprende a utilizar datos exec dañados para desarrollar poderosas ciberhabilidades. Cada habilidad debe entrenarse primero con un implante de maletín de datos exec instalado.</USH_ExecData.description>
+  <!-- EN:
+    <li>subject->executables</li>
+    <li>subject_story->studied security software</li>
+    <li>subject_gerund->hacking electronics</li>
+  -->
+  <USH_ExecData.generalRules.rulesStrings>
+    <li>subject->ejecutables</li>
+    <li>subject_story->estudió software de seguridad</li>
+    <li>subject_gerund->hackear aparatos electrónicos</li>
+  </USH_ExecData.generalRules.rulesStrings>
+  
+</LanguageData>

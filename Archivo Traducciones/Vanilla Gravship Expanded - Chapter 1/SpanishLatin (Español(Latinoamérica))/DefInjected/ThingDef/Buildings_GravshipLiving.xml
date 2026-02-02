@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: comms terminal -->
+  <VGE_CommsTerminal.label>terminal de comunicaciones</VGE_CommsTerminal.label>
+  <!-- EN: A compact version of a comms console that allows radio contact with other factions and orbital traders. It draws power directly from the grav engine. -->
+  <VGE_CommsTerminal.description>Una versión compacta de una consola de comunicaciones que permite el contacto por radio con otras facciones y comerciantes orbitales. Extrae energía directamente del motor gravitacional.</VGE_CommsTerminal.description>
+  <!-- EN: Summon diabolus threat -->
+  <VGE_CommsTerminal.comps.CompUsable.useLabel>Invocar amenaza de diabolus</VGE_CommsTerminal.comps.CompUsable.useLabel>
+  
+  <!-- EN: crew bunk bed -->
+  <VGE_CrewBunkBed.label>litera de tripulación</VGE_CrewBunkBed.label>
+  <!-- EN: A compact double-tiered bed designed for gravship use. Maximizes limited space by allowing two crew members to rest in the footprint of one bed. -->
+  <VGE_CrewBunkBed.description>Una cama compacta de dos niveles diseñada para su uso en gravinaves. Maximiza el espacio limitado al permitir que dos miembros de la tripulación descansen en el espacio de una sola cama.</VGE_CrewBunkBed.description>
+  
+  <!-- EN: crew lockers -->
+  <VGE_CrewLockers.label>casilleros de tripulación</VGE_CrewLockers.label>
+  <!-- EN: A set of compact lockers designed for gravship crew quarters. Provides a small comfort bonus to all nearby bunk beds. Placing more than one locker near the same bed has no effect. -->
+  <VGE_CrewLockers.description>Un conjunto de casilleros compactos diseñados para los camarotes de la tripulación de la gravinave. Proporciona un pequeño bono de comodidad a todas las literas cercanas. Colocar más de un casillero cerca de la misma cama no tiene efecto.</VGE_CrewLockers.description>
+  
+  <!-- EN: faux plant -->
+  <VGE_FauxPlant.label>planta artificial</VGE_FauxPlant.label>
+  <!-- EN: An artificial plant in a sturdy metal pot. It requires no light, water, or air, making it perfect for adding beauty to even the most inhospitable gravship environments. -->
+  <VGE_FauxPlant.description>Una planta artificial en una maceta de metal resistente. No requiere luz, agua ni aire, lo que la hace perfecta para añadir belleza incluso a los entornos más inhóspitos de la gravinave.</VGE_FauxPlant.description>
+  
+  <!-- EN: gravship shelf -->
+  <VGE_GravshipShelf.label>estantería de gravinave</VGE_GravshipShelf.label>
+  <!-- EN: A reinforced storage shelf designed for use aboard gravships. Items stored in this will not affect room beauty and they won't deteriorate, even if outside. -->
+  <VGE_GravshipShelf.description>Una estantería de almacenamiento reforzada diseñada para su uso a bordo de gravinaves. Los objetos almacenados en ella no afectarán la belleza de la habitación y no se deteriorarán, incluso si están a la intemperie.</VGE_GravshipShelf.description>
+  
+  <!-- EN: medbay bed -->
+  <VGE_MedbayBed.label>cama de enfermería</VGE_MedbayBed.label>
+  <!-- EN: A specialized gravship bed equipped with an integrated vitals monitor. Designed for medbays, it improves medical outcomes over normal beds. It draws power directly from the grav engine. -->
+  <VGE_MedbayBed.description>Una cama de gravinave especializada equipada con un monitor de signos vitales integrado. Diseñada para enfermerías, mejora los resultados médicos en comparación con las camas normales. Extrae energía directamente del motor gravitacional.</VGE_MedbayBed.description>
+  
+  <!-- EN: sealant goop -->
+  <VGE_SealantGoop.label>masa selladora</VGE_SealantGoop.label>
+  <!-- EN: A hardened mass of rapidly-expanding polymer foam. Produced by a sealant popper, it forms an airtight plug that seals breaches in gravship rooms exposed to vacuum. While effective at restoring pressure, it is brittle and easy to destroy. -->
+  <VGE_SealantGoop.description>Una masa endurecida de espuma polimérica de expansión rápida. Producida por un sellador de emergencia, forma un tapón hermético que sella brechas en las habitaciones de la gravinave expuestas al vacío. Aunque es eficaz para restaurar la presión, es frágil y fácil de destruir.</VGE_SealantGoop.description>
+  
+  <!-- EN: sealant popper -->
+  <VGE_SealantPopper.label>sellador de emergencia</VGE_SealantPopper.label>
+  <!-- EN: When it detects vacuum levels above 25%, this safety device pops and releases a fast-expanding sealant goo. The substance quickly solidifies, sealing gaps and breaches to restore pressure in the room. Can also be triggered manually. -->
+  <VGE_SealantPopper.description>Cuando detecta niveles de vacío superiores al 25%, este dispositivo de seguridad se activa y libera una sustancia selladora de expansión rápida. La sustancia se solidifica rápidamente, sellando huecos y brechas para restaurar la presión en la habitación. También puede activarse manualmente.</VGE_SealantPopper.description>
+  <!-- EN: Trigger {0_label} -->
+  <VGE_SealantPopper.comps.CompUsable.useLabel>Activar {0_label}</VGE_SealantPopper.comps.CompUsable.useLabel>
+  
+  <!-- EN: wall firefoam popper -->
+  <VGE_WallFirefoamPopper.label>extintor de espuma de pared</VGE_WallFirefoamPopper.label>
+  <!-- EN: A wall-mounted variant of the firefoam popper. When it detects fire, it bursts and sprays fire-retardant foam in a circular area around itself. Can also be triggered manually. -->
+  <VGE_WallFirefoamPopper.description>Una variante de pared del extintor de espuma. Cuando detecta fuego, estalla y rocía espuma retardante de fuego en un área circular a su alrededor. También puede activarse manualmente.</VGE_WallFirefoamPopper.description>
+  <!-- EN: Trigger {0_label} -->
+  <VGE_WallFirefoamPopper.comps.CompUsable.useLabel>Activar {0_label}</VGE_WallFirefoamPopper.comps.CompUsable.useLabel>
+  
+  <!-- EN: wall orbital trade beacon -->
+  <VGE_WallOrbitalTradeBeacon.label>baliza de comercio orbital de pared</VGE_WallOrbitalTradeBeacon.label>
+  <!-- EN: A wall-mounted version of an orbital trade beacon, required for orbital trading. You can only sell goods to orbital traders if they're near an orbital trade beacon. Can be placed indoors. -->
+  <VGE_WallOrbitalTradeBeacon.description>Una versión de pared de una baliza de comercio orbital, necesaria para el comercio orbital. Solo puedes vender mercancías a los comerciantes orbitales si están cerca de una baliza de comercio orbital. Puede colocarse en interiores.</VGE_WallOrbitalTradeBeacon.description>
+  
+</LanguageData>

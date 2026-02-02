@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>title->[titleBasic]</li>
+    <li>title(p=2)->[titleAuthored]</li>
+    <li>titleBasic(p=6)->Compendium of [randAdjective] Fauna</li>
+    <li>titleBasic(p=6)->[randAdjective] Creatures: A Study</li>
+    <li>titleBasic->A Study of [randAdjective] Beasts</li>
+    <li>titleBasic->The [randAdjective] Bestiary</li>
+    <li>titleBasic->A Guide to Remarkable Creatures</li>
+    <li>titleBasic->Wonders of the Animal Kingdom</li>
+    <li>titleBasic->The [randAdjective] Zoo: A Chronicle of Beasts</li>
+    <li>titleBasic->Observations on [randAdjective] Animals</li>
+    <li>titleBasic->Catalogue of Marvelous Beasts</li>
+    <li>titleBasic->Field Notes on Feral Creatures</li>
+    <li>titleAuthored->[ANYPAWN_nameDef]’s Compendium of Beasts</li>
+    <li>titleAuthored->[ANYPAWN_nameDef]’s Zoological Observations</li>
+    <li>titleAuthored->[ANYPAWN_nameDef]’s Bestiary of Creatures</li>
+    <li>titleAuthored->[ANYPAWN_nameDef]’s Chronicle of [randAdjective] Creatures</li>
+    <li>titleAuthored->[ANYPAWN_nameDef]’s Guide to Fauna</li>
+    <li>titleAuthored->[ANYPAWN_nameDef]’s Notes on the [randAdjective] Wild</li>
+    <li>randAdjective->exotic</li>
+    <li>randAdjective->enigmatic</li>
+    <li>randAdjective->marvelous</li>
+    <li>randAdjective->feral</li>
+    <li>randAdjective->wild</li>
+    <li>randAdjective->untamed</li>
+    <li>randAdjective->mystical</li>
+    <li>randAdjective->rare</li>
+    <li>randAdjective->majestic</li>
+    <li>randAdjective->ancient</li>
+  -->
+  <ABooks_ZoologicalCompendium_Namer.rulePack.rulesStrings>
+    <li>title->[titleBasic]</li>
+    <li>title(p=2)->[titleAuthored]</li>
+    <li>titleBasic(p=6)->Compendio de Animales [randAdjective]s</li>
+    <li>titleBasic(p=6)->Seres [randAdjective]s: Un Estudio</li>
+    <li>titleBasic->Un Estudio de Especímenes [randAdjective]s</li>
+    <li>titleBasic->El Bestiario [randAdjective]</li>
+    <li>titleBasic->Una Guía de Criaturas Notables</li>
+    <li>titleBasic->Maravillas del Reino Animal</li>
+    <li>titleBasic->El Zoológico [randAdjective]: Una Crónica de Bestias</li>
+    <li>titleBasic->Observaciones sobre Animales [randAdjective]s</li>
+    <li>titleBasic->Catálogo de Bestias Maravillosas</li>
+    <li>titleBasic->Notas de Campo sobre Criaturas Salvajes</li>
+    <li>titleAuthored->Compendio de Bestias de [ANYPAWN_nameDef]</li>
+    <li>titleAuthored->Observaciones Zoológicas de [ANYPAWN_nameDef]</li>
+    <li>titleAuthored->Bestiario de Criaturas de [ANYPAWN_nameDef]</li>
+    <li>titleAuthored->Crónica de Seres [randAdjective]s de [ANYPAWN_nameDef]</li>
+    <li>titleAuthored->Guía de Fauna de [ANYPAWN_nameDef]</li>
+    <li>titleAuthored->Notas de [ANYPAWN_nameDef] sobre lo Salvaje [randAdjective]</li>
+    <li>randAdjective->exótico</li>
+    <li>randAdjective->enigmático</li>
+    <li>randAdjective->maravilloso</li>
+    <li>randAdjective->fiero</li>
+    <li>randAdjective->salvaje</li>
+    <li>randAdjective->indómito</li>
+    <li>randAdjective->místico</li>
+    <li>randAdjective->raro</li>
+    <li>randAdjective->majestuoso</li>
+    <li>randAdjective->antiguo</li>
+  </ABooks_ZoologicalCompendium_Namer.rulePack.rulesStrings>
+  
+</LanguageData>

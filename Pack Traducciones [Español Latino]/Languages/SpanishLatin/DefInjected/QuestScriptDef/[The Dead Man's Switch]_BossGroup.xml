@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <DMS_Boss.questContentRules.rulesStrings>
+    <li>bossDefeatedLetterLabel-&gt;[escortees0_label] derrotado</li>
+    <li>bossDefeatedStudyChipLetterText-&gt;[defeated][study][manufacture]</li>
+    <li>bossDefeatedLetterText-&gt;[defeated][manufacture]</li>
+    <li>defeated-&gt;¡El [escortees0_label] errante ha sido derrotado y ha soltado un [reward_label]!</li>
+    <li>manufacture&gt;\n\nSi no fue destruido durante el proceso de neutralización, deberías poder encontrar ese [reward_label] entre los restos.</li>
+    <li>study&gt;\n\nPuedes desbloquear tecnologías posteriores estudiando [reward_label].</li>
+  </DMS_Boss.questContentRules.rulesStrings>
+  <DMS_Boss.questDescriptionRules.rulesStrings>
+    <li>questDescription&gt;grupo de jefes</li>
+  </DMS_Boss.questDescriptionRules.rulesStrings>
+  <DMS_Boss.questNameRules.rulesStrings>
+    <li>questName&gt;grupo de jefes</li>
+  </DMS_Boss.questNameRules.rulesStrings>
+  <DMS_Boss.root.AlertBossgroupIncoming>Restos errantes acercándose.</DMS_Boss.root.AlertBossgroupIncoming>
+  <DMS_Boss.root.AlertBossgroupIncomingDesc>unidades no tripuladas de restos de automatroides siguen sus protocolos, atraídas por la señal que enviaste y acercándose.</DMS_Boss.root.AlertBossgroupIncomingDesc>
+  <DMS_Boss.root.LetterBossgroupArrived>¡han llegado restos errantes!</DMS_Boss.root.LetterBossgroupArrived>
+  <DMS_Boss.root.LetterBossgroupSummoned>Tu señal ha sido enviada, y los automatroides atraídos llegarán en breve. Prepárate para el combate.</DMS_Boss.root.LetterBossgroupSummoned>
+  <DMS_Boss.root.LetterLabelBossgroupArrived>Restos errantes</DMS_Boss.root.LetterLabelBossgroupArrived>
+  <DMS_Boss.root.LetterLabelBossgroupSummoned>Los restos errantes han sido atraídos</DMS_Boss.root.LetterLabelBossgroupSummoned>
+</LanguageData>

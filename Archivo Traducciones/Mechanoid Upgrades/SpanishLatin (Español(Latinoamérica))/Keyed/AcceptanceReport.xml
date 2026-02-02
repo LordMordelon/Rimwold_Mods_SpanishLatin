@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!--Mech upgrader-->
+  <!-- EN: Not controlled -->
+  <MU_IsNotControlled>No controlado</MU_IsNotControlled>
+  <!-- EN: Not mechanitor -->
+  <MU_IsNotMechanitor>No es mecanizador</MU_IsNotMechanitor>
+  <!-- EN: No mechanoids -->
+  <MU_NoPawns>No hay mecanoides</MU_NoPawns>
+  <!-- EN: No mechanitor -->
+  <MU_NoMechanitor>No hay mecanizador</MU_NoMechanitor>
+  
+  <!--Reload-->
+  <!-- EN: Cannot manipulate -->
+  <MU_CannotReload_CannotManipulate>No puede manipular</MU_CannotReload_CannotManipulate>
+  <!-- EN: Cannot hold enough resource -->
+  <MU_CannotReload_NoStackSpace>No puede almacenar suficientes recursos</MU_CannotReload_NoStackSpace>
+  <!-- EN: no enough resource -->
+  <MU_CannotReload_NoEnoughAmmo>No hay suficientes recursos</MU_CannotReload_NoEnoughAmmo>
+  
+  <!--Upgrader report-->
+  <!-- EN: No enough free upgradability -->
+  <MU_CannotAdd_NotEnoughPoints>No hay suficiente capacidad de mejora disponible</MU_CannotAdd_NotEnoughPoints>
+  <!-- EN: Wrong mech weight class -->
+  <MU_CannotAdd_WrongMechClass>Clase de peso del mecanoide incorrecta</MU_CannotAdd_WrongMechClass>
+  <!-- EN: Mech is too large -->
+  <MU_CannotAdd_BiggerSize>El mecanoide es demasiado grande</MU_CannotAdd_BiggerSize>
+  <!-- EN: Mech is too small -->
+  <MU_CannotAdd_SmallerSize>El mecanoide es demasiado pequeño</MU_CannotAdd_SmallerSize>
+  <!-- EN: Wrong mech -->
+  <MU_CannotAdd_WrongMech>Mecanoide incorrecto</MU_CannotAdd_WrongMech>
+  <!-- EN: Has same upgrade -->
+  <MU_CannotAdd_SameUpgrade>Ya tiene esta mejora</MU_CannotAdd_SameUpgrade>
+  <!-- EN: Has conflicting upgrade: {0} -->
+  <MU_CannotAdd_SameTags>Tiene una mejora en conflicto</MU_CannotAdd_SameTags>
+  <!-- EN: No required body part -->
+  <MU_CannotAdd_NoRequiredBodyPart>No tiene la parte corporal requerida</MU_CannotAdd_NoRequiredBodyPart>
+  <!-- EN: Has conflicting body part -->
+  <MU_CannotAdd_HaveConflictingBodyPart>Tiene una parte corporal en conflicto</MU_CannotAdd_HaveConflictingBodyPart>
+  <!-- EN: Cannot do required work type -->
+  <MU_CannotAdd_NoRequiredWorkType>No puede realizar el tipo de trabajo requerido</MU_CannotAdd_NoRequiredWorkType>
+  <!-- EN: Can do conflicting work type -->
+  <MU_CannotAdd_HaveConflictingWorkType>Puede realizar un tipo de trabajo en conflicto</MU_CannotAdd_HaveConflictingWorkType>
+  <!-- EN: Isn't worker mechanoid -->
+  <MU_CannotAdd_IsNotWorker>No es un mecanoide trabajador</MU_CannotAdd_IsNotWorker>
+  <!-- EN: Is worker mechanoid -->
+  <MU_CannotAdd_IsWorker>Es un mecanoide trabajador</MU_CannotAdd_IsWorker>
+  <!-- EN: Wrong mech -->
+  <MU_CannotAdd_IsNotRangedFighter>No es un mecanoide de combate a distancia</MU_CannotAdd_IsNotRangedFighter> <!--yeah I'm too lazy-->
+  <!-- EN: Wrong mech -->
+  <MU_CannotAdd_IsRangedFighter>Es un mecanoide de combate a distancia</MU_CannotAdd_IsRangedFighter>
+  <!-- EN: No shield -->
+  <MU_CannotAdd_NoShieldComp>No tiene escudo</MU_CannotAdd_NoShieldComp>
+  <!-- EN: Has shield -->
+  <MU_CannotAdd_HasShieldComp>Tiene un escudo</MU_CannotAdd_HasShieldComp>
+  
+  <!--Ability cooldown-->
+  <!-- EN: Ability on cooldown -->
+  <MU_OnCooldown>Habilidad en enfriamiento</MU_OnCooldown>
+  
+  <!--Sets-->
+  <!-- EN: Some upgrades from this set cannot be installed on this mechanoid -->
+  <MU_CannotAddSet_CannotAddUpgrade>Algunas mejoras de este conjunto no pueden instalarse en este mecanoide</MU_CannotAddSet_CannotAddUpgrade>
+  <!-- EN: No enough upgrades for the whole set -->
+  <MU_CannotAddSet_NoUpgrade>No hay suficientes mejoras para el conjunto completo</MU_CannotAddSet_NoUpgrade>
+  
+</LanguageData>

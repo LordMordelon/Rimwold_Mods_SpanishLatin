@@ -1,0 +1,155 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: Open -->
+  <GeologicalLandforms.Editor.Open>Abrir</GeologicalLandforms.Editor.Open>
+  <!-- EN: Select landform to edit -->
+  <GeologicalLandforms.Editor.Open.Tooltip>Seleccionar accidente geográfico para editar</GeologicalLandforms.Editor.Open.Tooltip>
+  <!-- EN: Reset -->
+  <GeologicalLandforms.Editor.Reset>Restablecer</GeologicalLandforms.Editor.Reset>
+  <!-- EN: Reset this landform to default -->
+  <GeologicalLandforms.Editor.Reset.Long>Restablecer este accidente geográfico por defecto</GeologicalLandforms.Editor.Reset.Long>
+  <!-- EN: Reset config for this landform to default -->
+  <GeologicalLandforms.Editor.Reset.Tooltip>Restablecer la configuración de este accidente geográfico por defecto</GeologicalLandforms.Editor.Reset.Tooltip>
+  <!-- EN: Copy -->
+  <GeologicalLandforms.Editor.Copy>Copiar</GeologicalLandforms.Editor.Copy>
+  <!-- EN: Create a copy of this landform -->
+  <GeologicalLandforms.Editor.Copy.Long>Crear una copia de este accidente geográfico</GeologicalLandforms.Editor.Copy.Long>
+  <!-- EN: Create a new custom landform (with selected one as template) -->
+  <GeologicalLandforms.Editor.Copy.Tooltip>Crear un nuevo accidente geográfico personalizado (usando el seleccionado como plantilla)</GeologicalLandforms.Editor.Copy.Tooltip>
+  <!-- EN: Delete -->
+  <GeologicalLandforms.Editor.Delete>Eliminar</GeologicalLandforms.Editor.Delete>
+  <!-- EN: Delete this custom landform -->
+  <GeologicalLandforms.Editor.Delete.Long>Eliminar este accidente geográfico personalizado</GeologicalLandforms.Editor.Delete.Long>
+  <!-- EN: Delete selected custom landform -->
+  <GeologicalLandforms.Editor.Delete.Tooltip>Eliminar el accidente geográfico personalizado seleccionado</GeologicalLandforms.Editor.Delete.Tooltip>
+  <!-- EN: Tools -->
+  <GeologicalLandforms.Editor.Tools>Herramientas</GeologicalLandforms.Editor.Tools>
+  <!-- EN: For mod developers -->
+  <GeologicalLandforms.Editor.Tools.ForModDevs>Para desarrolladores de mods</GeologicalLandforms.Editor.Tools.ForModDevs>
+  <!-- EN: Save changes in mod "{0}" -->
+  <GeologicalLandforms.Editor.SaveInMod>Guardar cambios en el mod "{0}"</GeologicalLandforms.Editor.SaveInMod>
+  <!-- EN: Successfully applied changes to file "{0}" -->
+  <GeologicalLandforms.Editor.SaveInMod.Success>Se aplicaron correctamente los cambios al archivo "{0}"</GeologicalLandforms.Editor.SaveInMod.Success>
+  <!-- EN: There are currently no new changes to be applied. -->
+  <GeologicalLandforms.Editor.SaveInMod.NoChanges>Actualmente no hay nuevos cambios para aplicar.</GeologicalLandforms.Editor.SaveInMod.NoChanges>
+  <!-- EN: Failed to apply changes to file "{0}" -->
+  <GeologicalLandforms.Editor.SaveInMod.Error>Error al aplicar los cambios al archivo "{0}"</GeologicalLandforms.Editor.SaveInMod.Error>
+  <!-- EN: Are you sure you want to reset the config for the selected landform to default? -->
+  <GeologicalLandforms.Editor.ConfirmReset>¿Estás seguro de que quieres restablecer la configuración del accidente geográfico seleccionado por defecto?</GeologicalLandforms.Editor.ConfirmReset>
+  <!-- EN: Are you sure you want to delete the selected custom landform? It will be gone forever! -->
+  <GeologicalLandforms.Editor.ConfirmDelete>¿Estás seguro de que quieres eliminar el accidente geográfico personalizado seleccionado? ¡Se perderá para siempre!</GeologicalLandforms.Editor.ConfirmDelete>
+  <!-- EN: This landform is provided by the mod "{0}". By default, when you make changes to this landform, they will be saved in your personal config folder, while the original file in the mod folder stays untouched. This has the advantage that your changes will not be overridden when the mod is updated, for example through Steam.\n\nHowever, if you are a mod developer working on "{0}", you probably want to apply your changes to the original file in the mod's folder, so that you can commit it via Git, or push out the changes as part of an update of your mod. Apply your changes to the original file in the mod folder now? -->
+  <GeologicalLandforms.Editor.ConfirmSaveInMod>Este accidente geográfico es proporcionado por el mod "{0}". Por defecto, cuando realizas cambios en este accidente geográfico, se guardarán en tu carpeta de configuración personal, mientras que el archivo original en la carpeta del mod permanece intacto. Esto tiene la ventaja de que tus cambios no se sobrescribirán cuando se actualice el mod, por ejemplo, a través de Steam.\n\nSin embargo, si eres un desarrollador de mods que trabaja en "{0}", probablemente quieras aplicar tus cambios al archivo original en la carpeta del mod, para poder enviarlos a través de Git o publicarlos como parte de una actualización de tu mod. ¿Aplicar tus cambios al archivo original en la carpeta del mod ahora?</GeologicalLandforms.Editor.ConfirmSaveInMod>
+
+  <!-- EN: Id -->
+  <GeologicalLandforms.Settings.Landform.Id>Id</GeologicalLandforms.Settings.Landform.Id>
+  <!-- EN: Display name -->
+  <GeologicalLandforms.Settings.Landform.DisplayName>Nombre visible</GeologicalLandforms.Settings.Landform.DisplayName>
+  <!-- EN: Show direction -->
+  <GeologicalLandforms.Settings.Landform.DisplayNameHasDirection>Mostrar dirección</GeologicalLandforms.Settings.Landform.DisplayNameHasDirection>
+  <!-- EN: Topology -->
+  <GeologicalLandforms.Settings.Landform.Topology>Topología</GeologicalLandforms.Settings.Landform.Topology>
+  <!-- EN: Biome -->
+  <GeologicalLandforms.Settings.Landform.AllowedBiomes>Bioma</GeologicalLandforms.Settings.Landform.AllowedBiomes>
+  <!-- EN: ({0} biomes selected) -->
+  <GeologicalLandforms.Settings.Landform.AllowedBiomes.Some>({0} biomas seleccionados)</GeologicalLandforms.Settings.Landform.AllowedBiomes.Some>
+  <!-- EN: World object nearby -->
+  <GeologicalLandforms.Settings.Landform.WorldObjectNearby>Objeto mundial cercano</GeologicalLandforms.Settings.Landform.WorldObjectNearby>
+  <!-- EN: ({0} world objects) -->
+  <GeologicalLandforms.Settings.Landform.WorldObjectNearby.Some>({0} objetos mundiales)</GeologicalLandforms.Settings.Landform.WorldObjectNearby.Some>
+  <!-- EN: River shape -->
+  <GeologicalLandforms.Settings.Landform.AllowedRiverTypes>Forma del río</GeologicalLandforms.Settings.Landform.AllowedRiverTypes>
+  <!-- EN: ({0} shapes selected) -->
+  <GeologicalLandforms.Settings.Landform.AllowedRiverTypes.Some>({0} formas seleccionadas)</GeologicalLandforms.Settings.Landform.AllowedRiverTypes.Some>
+  <!-- EN: Commonness -->
+  <GeologicalLandforms.Settings.Landform.Commonness>Frecuencia</GeologicalLandforms.Settings.Landform.Commonness>
+  <!-- EN: Hilliness -->
+  <GeologicalLandforms.Settings.Landform.HillinessRequirement>Montañosidad</GeologicalLandforms.Settings.Landform.HillinessRequirement>
+  <!-- EN: Road -->
+  <GeologicalLandforms.Settings.Landform.RoadRequirement>Carretera</GeologicalLandforms.Settings.Landform.RoadRequirement>
+  <!-- EN: River -->
+  <GeologicalLandforms.Settings.Landform.RiverRequirement>Río</GeologicalLandforms.Settings.Landform.RiverRequirement>
+  <!-- EN: River or road -->
+  <GeologicalLandforms.Settings.Landform.RiverOrRoadRequirement>Río o carretera</GeologicalLandforms.Settings.Landform.RiverOrRoadRequirement>
+  <!-- EN: Elevation -->
+  <GeologicalLandforms.Settings.Landform.ElevationRequirement>Elevación</GeologicalLandforms.Settings.Landform.ElevationRequirement>
+  <!-- EN: Average temperature -->
+  <GeologicalLandforms.Settings.Landform.AvgTemperatureRequirement>Temperatura media</GeologicalLandforms.Settings.Landform.AvgTemperatureRequirement>
+  <!-- EN: Rainfall -->
+  <GeologicalLandforms.Settings.Landform.RainfallRequirement>Precipitación</GeologicalLandforms.Settings.Landform.RainfallRequirement>
+  <!-- EN: Swampiness -->
+  <GeologicalLandforms.Settings.Landform.SwampinessRequirement>Pantanosidad</GeologicalLandforms.Settings.Landform.SwampinessRequirement>
+  <!-- EN: Bordering biomes -->
+  <GeologicalLandforms.Settings.Landform.BiomeTransitionsRequirement>Biomas colindantes</GeologicalLandforms.Settings.Landform.BiomeTransitionsRequirement>
+  <!-- EN: Topology value -->
+  <GeologicalLandforms.Settings.Landform.TopologyValueRequirement>Valor de topología</GeologicalLandforms.Settings.Landform.TopologyValueRequirement>
+  <!-- EN: Depth in cave system -->
+  <GeologicalLandforms.Settings.Landform.DepthInCaveSystemRequirement>Profundidad en el sistema de cuevas</GeologicalLandforms.Settings.Landform.DepthInCaveSystemRequirement>
+  <!-- EN: Add requirement -->
+  <GeologicalLandforms.Settings.Landform.AddRequirement>Añadir requisito</GeologicalLandforms.Settings.Landform.AddRequirement>
+  <!-- EN: Allow non-player settlements -->
+  <GeologicalLandforms.Settings.Landform.AllowSettlements>Permitir asentamientos no pertenecientes al jugador</GeologicalLandforms.Settings.Landform.AllowSettlements>
+  <!-- EN: Allow quest sites -->
+  <GeologicalLandforms.Settings.Landform.AllowSites>Permitir sitios de misiones</GeologicalLandforms.Settings.Landform.AllowSites>
+  <!-- EN: Cave chance -->
+  <GeologicalLandforms.Settings.Landform.CaveChance>Probabilidad de cuevas</GeologicalLandforms.Settings.Landform.CaveChance>
+  <!-- EN: Allow caves -->
+  <GeologicalLandforms.Settings.Landform.AllowCaves>Permitir cuevas</GeologicalLandforms.Settings.Landform.AllowCaves>
+  <!-- EN: Require caves -->
+  <GeologicalLandforms.Settings.Landform.RequireCaves>Requerir cuevas</GeologicalLandforms.Settings.Landform.RequireCaves>
+  <!-- EN: Priority -->
+  <GeologicalLandforms.Settings.Landform.Priority>Prioridad</GeologicalLandforms.Settings.Landform.Priority>
+  <!-- EN: Layer -->
+  <GeologicalLandforms.Settings.Landform.LayerId>Capa</GeologicalLandforms.Settings.Landform.LayerId>
+  <!-- EN: Atlas size -->
+  <GeologicalLandforms.Settings.Landform.WorldTileGraphic.AtlasSize>Tamaño del atlas</GeologicalLandforms.Settings.Landform.WorldTileGraphic.AtlasSize>
+  <!-- EN: Tex path -->
+  <GeologicalLandforms.Settings.Landform.WorldTileGraphic.TexPath>Ruta de textura</GeologicalLandforms.Settings.Landform.WorldTileGraphic.TexPath>
+  <!-- EN: Draw mode -->
+  <GeologicalLandforms.Settings.Landform.WorldTileGraphic.DrawMode>Modo de dibujo</GeologicalLandforms.Settings.Landform.WorldTileGraphic.DrawMode>
+  <!-- EN: Hex (random) -->
+  <GeologicalLandforms.Settings.Landform.WorldTileGraphic.DrawMode.HexRandom>Hex (aleatorio)</GeologicalLandforms.Settings.Landform.WorldTileGraphic.DrawMode.HexRandom>
+  <!-- EN: Hex (adjacency) -->
+  <GeologicalLandforms.Settings.Landform.WorldTileGraphic.DrawMode.HexAdjacency>Hex (adyacencia)</GeologicalLandforms.Settings.Landform.WorldTileGraphic.DrawMode.HexAdjacency>
+  <!-- EN: Hex (cave adjacency) -->
+  <GeologicalLandforms.Settings.Landform.WorldTileGraphic.DrawMode.HexAdjacencyCaves>Hex (adyacencia de cuevas)</GeologicalLandforms.Settings.Landform.WorldTileGraphic.DrawMode.HexAdjacencyCaves>
+  <!-- EN: Quad (random) -->
+  <GeologicalLandforms.Settings.Landform.WorldTileGraphic.DrawMode.QuadRandom>Cuadrado (aleatorio)</GeologicalLandforms.Settings.Landform.WorldTileGraphic.DrawMode.QuadRandom>
+  <!-- EN: Quad (static) -->
+  <GeologicalLandforms.Settings.Landform.WorldTileGraphic.DrawMode.QuadStatic>Cuadrado (estático)</GeologicalLandforms.Settings.Landform.WorldTileGraphic.DrawMode.QuadStatic>
+
+  <!-- EN: Any -->
+  <GeologicalLandforms.Settings.Landform.Topology.Any>Cualquiera</GeologicalLandforms.Settings.Landform.Topology.Any>
+  <!-- EN: Inland -->
+  <GeologicalLandforms.Settings.Landform.Topology.Inland>Interior</GeologicalLandforms.Settings.Landform.Topology.Inland>
+  <!-- EN: Coast on one side -->
+  <GeologicalLandforms.Settings.Landform.Topology.CoastOneSide>Costa en un lado</GeologicalLandforms.Settings.Landform.Topology.CoastOneSide>
+  <!-- EN: Coast on two adjacent sides -->
+  <GeologicalLandforms.Settings.Landform.Topology.CoastTwoSides>Costa en dos lados adyacentes</GeologicalLandforms.Settings.Landform.Topology.CoastTwoSides>
+  <!-- EN: Coast on two opposite sides -->
+  <GeologicalLandforms.Settings.Landform.Topology.CoastLandbridge>Costa en dos lados opuestos</GeologicalLandforms.Settings.Landform.Topology.CoastLandbridge>
+  <!-- EN: Coast on three sides -->
+  <GeologicalLandforms.Settings.Landform.Topology.CoastThreeSides>Costa en tres lados</GeologicalLandforms.Settings.Landform.Topology.CoastThreeSides>
+  <!-- EN: Coast on all sides -->
+  <GeologicalLandforms.Settings.Landform.Topology.CoastAllSides>Costa en todos los lados</GeologicalLandforms.Settings.Landform.Topology.CoastAllSides>
+  <!-- EN: Cliff on one side -->
+  <GeologicalLandforms.Settings.Landform.Topology.CliffOneSide>Acantilado en un lado</GeologicalLandforms.Settings.Landform.Topology.CliffOneSide>
+  <!-- EN: Cliff on two adjacent sides -->
+  <GeologicalLandforms.Settings.Landform.Topology.CliffTwoSides>Acantilado en dos lados adyacentes</GeologicalLandforms.Settings.Landform.Topology.CliffTwoSides>
+  <!-- EN: Cliff on two opposite sides -->
+  <GeologicalLandforms.Settings.Landform.Topology.CliffValley>Acantilado en dos lados opuestos</GeologicalLandforms.Settings.Landform.Topology.CliffValley>
+  <!-- EN: Cliff on three sides -->
+  <GeologicalLandforms.Settings.Landform.Topology.CliffThreeSides>Acantilado en tres lados</GeologicalLandforms.Settings.Landform.Topology.CliffThreeSides>
+  <!-- EN: Cliff on all sides -->
+  <GeologicalLandforms.Settings.Landform.Topology.CliffAllSides>Acantilado en todos los lados</GeologicalLandforms.Settings.Landform.Topology.CliffAllSides>
+  <!-- EN: Cliff and coast -->
+  <GeologicalLandforms.Settings.Landform.Topology.CliffAndCoast>Acantilado y costa</GeologicalLandforms.Settings.Landform.Topology.CliffAndCoast>
+  <!-- EN: Cave system entrance -->
+  <GeologicalLandforms.Settings.Landform.Topology.CaveEntrance>Entrada al sistema de cuevas</GeologicalLandforms.Settings.Landform.Topology.CaveEntrance>
+  <!-- EN: Cave system tunnel -->
+  <GeologicalLandforms.Settings.Landform.Topology.CaveTunnel>Túnel del sistema de cuevas</GeologicalLandforms.Settings.Landform.Topology.CaveTunnel>
+  <!-- EN: Ocean -->
+  <GeologicalLandforms.Settings.Landform.Topology.Ocean>Océano</GeologicalLandforms.Settings.Landform.Topology.Ocean>
+
+</LanguageData>

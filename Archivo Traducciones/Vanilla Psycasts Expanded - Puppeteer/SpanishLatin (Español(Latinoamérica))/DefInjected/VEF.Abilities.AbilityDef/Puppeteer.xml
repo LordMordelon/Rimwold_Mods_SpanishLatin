@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: ascension -->
+  <VPEP_Ascension.label>ascensión</VPEP_Ascension.label>
+  <!-- EN: Targets a controlled puppet and causes them to commit suicide through psychic overload, annihilating itself and the surrounding 5 tiles. The sum of the puppet’s learned skills is converted into psychic energy for the detonation, with a fraction absorbed by the caster as psycasting XP. -->
+  <VPEP_Ascension.description>Apunta a una marioneta controlada y hace que se suicide mediante una sobrecarga psíquica, aniquilándose a sí misma y a las 5 casillas circundantes. La suma de las habilidades aprendidas por la marioneta se convierte en energía psíquica para la detonación, con una fracción absorbida por el lanzador como experiencia psíquica.</VPEP_Ascension.description>
+  <!-- EN: Using ability: {0} -->
+  <VPEP_Ascension.jobReportString>Usando habilidad: {0}</VPEP_Ascension.jobReportString>
+  <!-- EN: ascension -->
+  <VPEP_Ascension.verbProperties.label>ascensión</VPEP_Ascension.verbProperties.label>
+  
+  <!-- EN: brain cut -->
+  <VPEP_BrainCut.label>corte cerebral</VPEP_BrainCut.label>
+  <!-- EN: An intentional misuse of the reprogramming psycast which creates a permanent rift in the target’s brain. The damage scales with the target’s psychic sensitivity and always disorients for 2 seconds. -->
+  <VPEP_BrainCut.description>Un mal uso intencional de la psicoemisión de reprogramación que crea una grieta permanente en el cerebro del objetivo. El daño escala con la sensibilidad psíquica del objetivo y siempre desorienta durante 2 segundos.</VPEP_BrainCut.description>
+  <!-- EN: Using ability: {0} -->
+  <VPEP_BrainCut.jobReportString>Usando habilidad: {0}</VPEP_BrainCut.jobReportString>
+  <!-- EN: brain cut -->
+  <VPEP_BrainCut.verbProperties.label>corte cerebral</VPEP_BrainCut.verbProperties.label>
+  
+  <!-- EN: brain leech -->
+  <VPEP_BrainLeech.label>sanguijuela cerebral</VPEP_BrainLeech.label>
+  <!-- EN: Creates a psionic link on a colleague or prisoner that redirects brain processing power to the leacher. The effect is inefficient and reaches its maximum after 2 days before fading into obscurity. Only a single leech can be maintained. -->
+  <VPEP_BrainLeech.description>Crea un enlace psiónico en un colega o prisionero que redirige la potencia de procesamiento cerebral al drenador. El efecto es ineficiente y alcanza su máximo después de 2 días antes de desvanecerse en la oscuridad. Solo se puede mantener una sanguijuela.</VPEP_BrainLeech.description>
+  <!-- EN: Using ability: {0} -->
+  <VPEP_BrainLeech.jobReportString>Usando habilidad: {0}</VPEP_BrainLeech.jobReportString>
+  <!-- EN: brain leech -->
+  <VPEP_BrainLeech.verbProperties.label>sanguijuela cerebral</VPEP_BrainLeech.verbProperties.label>
+  
+  <!-- EN: degrade -->
+  <VPEP_Degrade.label>degradar</VPEP_Degrade.label>
+  <!-- EN: Reverts the humanoid target’s behavioral instincts to a considerably more primitive state, forcibly triggering the mental break “run wild”. -->
+  <VPEP_Degrade.description>Revierte los instintos de comportamiento del objetivo humanoide a un estado considerablemente más primitivo, desencadenando forzosamente el colapso mental "salvajismo".</VPEP_Degrade.description>
+  <!-- EN: Using ability: {0} -->
+  <VPEP_Degrade.jobReportString>Usando habilidad: {0}</VPEP_Degrade.jobReportString>
+  <!-- EN: degrade -->
+  <VPEP_Degrade.verbProperties.label>degradar</VPEP_Degrade.verbProperties.label>
+  
+  <!-- EN: mind jump -->
+  <VPEP_MindJump.label>salto mental</VPEP_MindJump.label>
+  <!-- EN: Permanently swaps the caster and the targeted puppet’s bodies, with the puppet becoming the master with all of their psycasting capabilities. The sudden change in consciousness and adaptation to a new vessel locks the new master into a scaled 48-hour psychic coma. -->
+  <VPEP_MindJump.description>Intercambia permanentemente los cuerpos del lanzador y la marioneta objetivo, convirtiéndose la marioneta en el maestro con todas sus capacidades psíquicas. El cambio repentino de consciencia y la adaptación a un nuevo recipiente encierra al nuevo maestro en un coma psíquico escalado de 48 horas.</VPEP_MindJump.description>
+  <!-- EN: Using ability: {0} -->
+  <VPEP_MindJump.jobReportString>Usando habilidad: {0}</VPEP_MindJump.jobReportString>
+  <!-- EN: mind jump -->
+  <VPEP_MindJump.verbProperties.label>salto mental</VPEP_MindJump.verbProperties.label>
+  
+  <!-- EN: mind split -->
+  <VPEP_MindSplit.label>división mental</VPEP_MindSplit.label>
+  <!-- EN: By taking the psionic equivalent of a hammer and chisel to their own consciousness, the caster can permanently increase their limit of controllable puppets by one. Effectively painless as they knock themselves unconscious for a short duration from shattering their sense of self. -->
+  <VPEP_MindSplit.description>Al tomar el equivalente psiónico de un martillo y un cincel contra su propia consciencia, el lanzador puede aumentar permanentemente su límite de marionetas controlables en uno. Efectivamente indoloro ya que se dejan inconscientes por una corta duración al destrozar su sentido del yo.</VPEP_MindSplit.description>
+  <!-- EN: Using ability: {0} -->
+  <VPEP_MindSplit.jobReportString>Usando habilidad: {0}</VPEP_MindSplit.jobReportString>
+  <!-- EN: mind split -->
+  <VPEP_MindSplit.verbProperties.label>división mental</VPEP_MindSplit.verbProperties.label>
+  
+  <!-- EN: puppet -->
+  <VPEP_Puppet.label>marioneta</VPEP_Puppet.label>
+  <!-- EN: Targeting a pawn affected by Brain Leech, this psycast permanently overwrites their personality with the caster’s own. Locks the short-term memory portion of the brain to synchronize with the caster, in turn putting them into a short coma. Number of puppets is initially limited to one. -->
+  <VPEP_Puppet.description>Apuntando a un peón afectado por Sanguijuela Cerebral, esta psicoemisión sobrescribe permanentemente su personalidad con la del lanzador. Bloquea la parte de la memoria a corto plazo del cerebro para sincronizarse con el lanzador, poniéndolos a su vez en un coma corto. El número de marionetas está inicialmente limitado a uno.</VPEP_Puppet.description>
+  <!-- EN: Using ability: {0} -->
+  <VPEP_Puppet.jobReportString>Usando habilidad: {0}</VPEP_Puppet.jobReportString>
+  <!-- EN: puppet -->
+  <VPEP_Puppet.verbProperties.label>marioneta</VPEP_Puppet.verbProperties.label>
+  
+  <!-- EN: puppet swarm -->
+  <VPEP_PuppetSwarm.label>enjambre de marionetas</VPEP_PuppetSwarm.label>
+  <!-- EN: By causing an effect similar to an extreme case of “homesickness”, the caster can force all linked puppets to skip themselves to them almost instantaneously and regardless of distance. -->
+  <VPEP_PuppetSwarm.description>Al causar un efecto similar a un caso extremo de "nostalgia", el lanzador puede forzar a todas las marionetas vinculadas a saltar hacia él casi instantáneamente e independientemente de la distancia.</VPEP_PuppetSwarm.description>
+  <!-- EN: Using ability: {0} -->
+  <VPEP_PuppetSwarm.jobReportString>Usando habilidad: {0}</VPEP_PuppetSwarm.jobReportString>
+  <!-- EN: puppet swarm -->
+  <VPEP_PuppetSwarm.verbProperties.label>enjambre de marionetas</VPEP_PuppetSwarm.verbProperties.label>
+  
+  <!-- EN: subjugation -->
+  <VPEP_Subjugation.label>subyugación</VPEP_Subjugation.label>
+  <!-- EN: Induces a form of indoctrination on a prisoner by altering neuron pathways so that thoughts of the target’s faction triggers negative reactions. The effects are quite nauseating and “convinces” them to switch sides after 7 days. -->
+  <VPEP_Subjugation.description>Induce una forma de adoctrinamiento en un prisionero alterando las vías neuronales para que los pensamientos de la facción del objetivo desencadenen reacciones negativas. Los efectos son bastante nauseabundos y los "convence" de cambiar de bando después de 7 días.</VPEP_Subjugation.description>
+  <!-- EN: Using ability: {0} -->
+  <VPEP_Subjugation.jobReportString>Usando habilidad: {0}</VPEP_Subjugation.jobReportString>
+  <!-- EN: subjugation -->
+  <VPEP_Subjugation.verbProperties.label>subyugación</VPEP_Subjugation.verbProperties.label>
+  
+  <!-- EN: summon puppet -->
+  <VPEP_SummonPuppet.label>invocar marioneta</VPEP_SummonPuppet.label>
+  <!-- EN: By causing an effect similar to an extreme case of “homesickness”, the caster can force the puppet to skip itself to them almost instantaneously and regardless of distance. -->
+  <VPEP_SummonPuppet.description>Al causar un efecto similar a un caso extremo de "nostalgia", el lanzador puede forzar a la marioneta a saltar hacia él casi instantáneamente e independientemente de la distancia.</VPEP_SummonPuppet.description>
+  <!-- EN: Using ability: {0} -->
+  <VPEP_SummonPuppet.jobReportString>Usando habilidad: {0}</VPEP_SummonPuppet.jobReportString>
+  <!-- EN: summon puppet -->
+  <VPEP_SummonPuppet.verbProperties.label>invocar marioneta</VPEP_SummonPuppet.verbProperties.label>
+  
+</LanguageData>

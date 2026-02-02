@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <ABooks_PsycasterGuide_Description.rulePack.rulesStrings>
+    <li>desc->This [writingQualityAdjective] [bookType] [follows] a [psycaster] as [heOrShe] [storyStruggles]. [writingQualitySentence]. [maybe_date]\n\nOnce read, this book will grant psycasting insights and teach the reader [subject_primary], then it will be destroyed.</li>
+    <li>desc->Este [bookType] [writingQualityAdjective] [follows] a un [psycaster] mientras [heOrShe] [storyStruggles]. [writingQualitySentence]. [maybe_date]\n\nUna vez leído, este libro otorgará conocimientos de psíquicos y enseñará al lector [subject_primary], luego será destruido.</li>
+    <li>follows->comparte los secretos psíquicos de</li>
+    <li>follows->destaca las prácticas psiónicas de</li>
+    <li>follows->documenta la disciplina mental de</li>
+    <li>follows->explora las técnicas de</li>
+    <li>follows->profundiza en la psique de</li>
+    <li>follows->registra las experiencias de</li>
+    <li>follows->revela los métodos detrás de</li>
+    <li>follows->guía a los lectores a través del arte de</li>
+    <li>heOrShe->él</li>
+    <li>heOrShe->ella</li>
+    <li>storyStruggles->busca dominar las sutilezas de [subject_primary]</li>
+    <li>storyStruggles->pretende descubrir los misterios de [subject_primary]</li>
+    <li>storyStruggles->explica los desafíos y recompensas de la psíquica</li>
+    <li>storyStruggles->comparte conocimientos únicos sobre el dominio de las habilidades psíquicas</li>
+    <li>storyStruggles->profundiza en las complejidades del uso de [subject_primary]</li>
+    <li>storyStruggles->describe estrategias efectivas para aprovechar la energía mental</li>
+    <li>storyStruggles->se centra en la importancia de la disciplina y el enfoque</li>
+    <li>storyStruggles->enfatiza el valor de la paciencia para desbloquear [subject_primary]</li>
+    <li>storyStruggles->traza el viaje hacia la iluminación psiónica</li>
+    <li>storyStruggles->desglosa los fundamentos del dominio psíquico</li>
+    <li>psycaster->mentor</li>
+    <li>psycaster->vidente</li>
+    <li>psycaster->psiónico</li>
+    <li>psycaster->adepto psíquico</li>
+    <li>psycaster->místico</li>
+    <li>psycaster->arquipsiónico</li>
+    <li>psycaster->telépata</li>
+    <li>psycaster->mentalista</li>
+    <li>psycaster->maestro psíquico</li>
+    <li>psycaster->visionario</li>
+    <li>writingQualityAdjective(quality==6)->elaborado magistralmente</li>
+    <li>writingQualityAdjective(quality==5)->inteligente y perceptivo</li>
+    <li>writingQualityAdjective(quality==4)->articulado y considerado</li>
+    <li>writingQualityAdjective(quality==3)->decentemente compuesto</li>
+    <li>writingQualityAdjective(quality==2)->promedio en el mejor de los casos</li>
+    <li>writingQualityAdjective(quality==1)->mal ejecutado</li>
+    <li>writingQualityAdjective(quality==0)->apenas legible</li>
+    <li>writingQualitySentence(quality[greater_than]4)->Es [excellentDesc] [excellentExtra]</li>
+    <li>writingQualitySentence(quality[less_than]5,quality[greater_than]1)->Es [decentDesc] [decentExtra]</li>
+    <li>writingQualitySentence(quality[less_than]2)->Es [awfulDesc] [awfulExtra]</li>
+    <li>excellentDesc->una exploración profunda de las artes psíquicas</li>
+    <li>excellentDesc->profundamente perspicaz sobre el aprovechamiento de la energía mental</li>
+    <li>excellentDesc->bien escrito y lleno de sabiduría psiónica</li>
+    <li>excellentDesc->creativo e inspirador para el dominio psíquico</li>
+    <li>excellentDesc->una guía notablemente original y bien elaborada</li>
+    <li>excellentDesc->lleno de ejemplos atractivos de maestros psíquicos</li>
+    <li>excellentExtra->. Cada página revela técnicas intrincadas para dominar [subject_primary]</li>
+    <li>excellentExtra->. Es una lectura atractiva que inspira un profundo crecimiento psíquico</li>
+    <li>excellentExtra->. Sus conocimientos son altamente procesables y transformadores</li>
+    <li>decentDesc->una guía sólida sobre los conceptos básicos de las habilidades psíquicas</li>
+    <li>decentDesc->interesante e informativo, con consejos prácticos</li>
+    <li>decentDesc->centrado en comprender [subject_primary]</li>
+    <li>decentDesc->ocasionalmente inspirador con ejemplos identificables</li>
+    <li>decentDesc->atractivo para los aspirantes a psíquicos</li>
+    <li>decentExtra-> pero carece de profundidad para los practicantes avanzados</li>
+    <li>decentExtra-> pero algunas técnicas parecen obsoletas</li>
+    <li>decentExtra-> pero su orientación puede ser vaga a veces</li>
+    <li>decentExtra-> pero se centra demasiado en la teoría sobre la aplicación</li>
+    <li>decentExtra-> pero a menudo complica demasiado los métodos simples</li>
+    <li>awfulDesc->escrito por alguien con una comprensión limitada de la psíquica</li>
+    <li>awfulDesc->lleno de anécdotas irrelevantes o fantásticas</li>
+    <li>awfulDesc->vago e incoherente en sus explicaciones</li>
+    <li>awfulDesc->carente de técnicas psíquicas claras y procesables</li>
+    <li>awfulDesc->plagado de consejos contradictorios o sin sentido</li>
+    <li>awfulExtra-> y sus métodos son a menudo contraproducentes</li>
+    <li>awfulExtra-> y no aborda los principios clave de la psíquica</li>
+    <li>awfulExtra-> e incluye sugerencias absurdas o poco prácticas</li>
+    <li>maybe_date-></li>
+    <li>maybe_date->El libro fue publicado [date_form].</li>
+    <li>maybe_date->El texto se imprimió por primera vez [date_form].</li>
+    <li>maybe_date->No está claro exactamente cuándo se escribió el libro.</li>
+    <li>date_form->recientemente</li>
+    <li>date_form->hace muchos siglos</li>
+    <li>date_form->en el [date]</li>
+    <li>date_form->en [date_season]</li>
+    <li>bookType(p=4)->guía para psíquicos</li>
+    <li>bookType(p=2)->manual místico</li>
+    <li>bookType->libro de referencia</li>
+    <li>bookType->recurso de aprendizaje</li>
+  </ABooks_PsycasterGuide_Description.rulePack.rulesStrings>
+  
+</LanguageData>

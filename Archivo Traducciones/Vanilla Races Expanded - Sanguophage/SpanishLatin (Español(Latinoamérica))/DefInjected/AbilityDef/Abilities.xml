@@ -1,0 +1,54 @@
+﻿﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: animalfeed -->
+  <VRE_AnimalFeed.label>alimentación animal</VRE_AnimalFeed.label>
+  <!-- EN: Bite the target animal and extract hemogen directly from their blood. The animal will lose blood and will be horrified by the interaction, which can result in it lashing out. A fast-acting coagulant will seal the wound to prevent bleeding.\n\nCan only target animals. -->
+  <VRE_AnimalFeed.description>Muerde al animal objetivo y extrae hemógeno directamente de su sangre. El animal perderá sangre y quedará horrorizado por la interacción, lo que puede resultar en que ataque. Un coagulante de acción rápida sellará la herida para evitar el sangrado.\n\nSolo puede apuntar a animales.</VRE_AnimalFeed.description>
+  
+  <!-- EN: corpsefeed -->
+  <VRE_CorpseFeed.label>alimentación de cadáver</VRE_CorpseFeed.label>
+  <!-- EN: Bite the target corpse and extract hemogen directly from their blood. The corpse will lose any remaining blood.\n\nCan only target human corpses. -->
+  <VRE_CorpseFeed.description>Muerde el cadáver objetivo y extrae hemógeno directamente de su sangre. El cadáver perderá cualquier sangre restante.\n\nSolo puede apuntar a cadáveres humanos.</VRE_CorpseFeed.description>
+  
+  <!-- EN: ecstasy -->
+  <VRE_Ecstasy.label>éxtasis</VRE_Ecstasy.label>
+  <!-- EN: Grant a target a feeling of extreme ecstasy for a brief duration, which makes them fall head over heels with the caster. -->
+  <VRE_Ecstasy.description>Otorga a un objetivo una sensación de éxtasis extremo por una breve duración, lo que hace que se enamoren perdidamente del lanzador.</VRE_Ecstasy.description>
+  
+  <!-- EN: filter infection -->
+  <VRE_FilterInfection.label>filtrar infección</VRE_FilterInfection.label>
+  <!-- EN: Lay hands on a target and help the target battle their infections. Works on animals or humans. -->
+  <VRE_FilterInfection.description>Impone las manos sobre un objetivo y ayúdalo a combatir sus infecciones. Funciona en animales o humanos.</VRE_FilterInfection.description>
+  
+  <!-- EN: heart crush -->
+  <VRE_HeartCrush.label>aplastar corazón</VRE_HeartCrush.label>
+  <!-- EN: Rip out the heart of an enemy in close proximity, instantly killing them and covering the area in blood. Will only work on creatures with body size of 2 or lower. Bigger creatures will still be heavily damaged. -->
+  <VRE_HeartCrush.description>Arranca el corazón de un enemigo en proximidad cercana, matándolo instantáneamente y cubriendo el área de sangre. Solo funcionará en criaturas con tamaño corporal de 2 o menos. Las criaturas más grandes seguirán recibiendo un gran daño.</VRE_HeartCrush.description>
+  
+  <!-- EN: hemosmosis -->
+  <VRE_Hemosmosis.label>hemosmosis</VRE_Hemosmosis.label>
+  <!-- EN: Suck blood filth from the area around the sanguophage and turn it into hemogen. -->
+  <VRE_Hemosmosis.description>Absorbe la suciedad de sangre del área alrededor del sanguífago y conviértela en hemógeno.</VRE_Hemosmosis.description>
+  
+  <!-- EN: resurrect -->
+  <VRE_Resurrect.label>resucitar</VRE_Resurrect.label>
+  <!-- EN: Use archites in the bloodstream to infuse a corpse's body with new life, repairing degenerated cell structures and kickstarting vital functions. The older and worse-preserved the corpse is, the more likely it is that they will come back with memory loss or health conditions. This ability seems to exhaust the archites somehow, so it can only be used very rarely. -->
+  <VRE_Resurrect.description>Usa arquitas en el torrente sanguíneo para infundir nueva vida al cuerpo de un cadáver, reparando estructuras celulares degeneradas y reiniciando funciones vitales. Cuanto más viejo y peor conservado esté el cadáver, más probable es que regrese con pérdida de memoria o condiciones de salud. Esta habilidad parece agotar las arquitas de alguna manera, por lo que solo se puede usar muy raramente.</VRE_Resurrect.description>
+  
+  <!-- EN: sanguofeed -->
+  <VRE_SanguoFeed.label>alimentación sanguífaga</VRE_SanguoFeed.label>
+  <!-- EN: Bite the target and extract hemogen directly from their blood. The target will lose blood and will be insulted by the interaction, but will be otherwise unharmed. A fast-acting coagulant will seal the wound to prevent bleeding.\n\nCan only target hemogenic humans. -->
+  <VRE_SanguoFeed.description>Muerde al objetivo y extrae hemógeno directamente de su sangre. El objetivo perderá sangre y se sentirá insultado por la interacción, pero por lo demás resultará ileso. Un coagulante de acción rápida sellará la herida para evitar el sangrado.\n\nSolo puede apuntar a humanos hemogénicos.</VRE_SanguoFeed.description>
+  
+  <!-- EN: toxic cloud -->
+  <VRE_ToxicCloud.label>nube tóxica</VRE_ToxicCloud.label>
+  <!-- EN: Excrete a thick toxic smoke from special organic reservoirs in the lungs. Tox gas is deadly to almost every creature. -->
+  <VRE_ToxicCloud.description>Excreta un humo tóxico espeso de reservorios orgánicos especiales en los pulmones. El gas tóxico es mortal para casi todas las criaturas.</VRE_ToxicCloud.description>
+  
+  <!-- EN: viscuous goo -->
+  <VRE_ViscuousGoo.label>baba viscosa</VRE_ViscuousGoo.label>
+  <!-- EN: Eject a projectile that explodes on impact and creates a large amount of filth that greatly slows down people trying to move through it. -->
+  <VRE_ViscuousGoo.description>Expulsa un proyectil que explota al impactar y crea una gran cantidad de suciedad que ralentiza enormemente a las personas que intentan moverse a través de ella.</VRE_ViscuousGoo.description>
+  
+</LanguageData>

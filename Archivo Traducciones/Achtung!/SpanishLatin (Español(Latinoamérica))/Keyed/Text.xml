@@ -1,0 +1,241 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<!-- EN: Welcome to Achtung! -->
+  <Feature_Achtung_Welcome>¡Bienvenido a Achtung!</Feature_Achtung_Welcome>
+	<!-- EN: Forcing -->
+  <Feature_Achtung_Forcing>Forzar</Feature_Achtung_Forcing>
+	<!-- EN: Menu Error -->
+  <Feature_Achtung_MenuError>Error de Menú</Feature_Achtung_MenuError>
+	<!-- EN: Formations -->
+  <Feature_Achtung_Formations>Formaciones</Feature_Achtung_Formations>
+	<!-- EN: Cooperation -->
+  <Feature_Achtung_Cooperation>Cooperación</Feature_Achtung_Cooperation>
+	<!-- EN: Four Modes -->
+  <Feature_Achtung_FourModes>Cuatro modos</Feature_Achtung_FourModes>
+	<!-- EN: Settings -->
+  <Feature_Achtung_Settings>Configuración</Feature_Achtung_Settings>
+	<!-- EN: Draft Status -->
+  <Feature_Achtung_Draftstatus>Estado de mobilización</Feature_Achtung_Draftstatus>
+	<!-- EN: Rescue -->
+  <Feature_Achtung_Rescue>Rescate</Feature_Achtung_Rescue>
+	<!-- EN: Drafted Dragging -->
+  <Feature_Achtung_Dragging>Arrastre estado reclutado</Feature_Achtung_Dragging>
+
+	<!-- EN: Custom mouse positioning -->
+  <PositioningEnabledTitle>Posicionamiento del ratón personalizado</PositioningEnabledTitle>
+	<!-- EN: Enables combat positioning for your mouse clicks/drags (see settings below) -->
+  <PositioningEnabledExplained>Permite el posicionamiento en combate con un click o arrastre de tu ratón (ver preferencias abajo)</PositioningEnabledExplained>
+
+	<!-- EN: Achtung! key -->
+  <AchtungModifierTitle>Tecla de Achtung!</AchtungModifierTitle>
+	<!-- EN: Holding this key will Force Draft colonists when they're given Move or Move-in-Formation commands. When held it will allow the selected colonists to be moved in their current formation at your cursor by holding and dragging the right mouse button. Once the right mouse button is held the Achtung! Key may be released. The formation can be rotated using Q and E. -->
+  <AchtungModifierExplained>Manteniendo pulsada esta tecla se forzará el reclutamiento de los colonos cuando reciban órdenes de movimiento o en formación. Cuando se mantenga pulsada, permitirá mover a los colonos seleccionados sin perder su formación actual, pulsando y arrastrando con el botón derecho del ratón. Una vez que el botón derecho del ratón se mantenga pulsado, la tecla Achtung! puede ser liberada. La formación puede rotar usando las teclas Q y E.</AchtungModifierExplained>
+
+	<!-- EN: Right-Click Mode -->
+  <ForceCommandMenuModeTitle>Modo de Clic Derecho</ForceCommandMenuModeTitle>
+	<!-- EN: Right-Click Override Key -->
+  <ForceCommandMenuKeyTitle>Tecla de Sustitución para Clic Derecho</ForceCommandMenuKeyTitle>
+
+	<!-- EN: Draft-Dependent -->
+  <CommandMenuModeOptionAuto>Dependiente del Estado</CommandMenuModeOptionAuto>
+	<!-- EN: The draft status of the colonist decides whether to show the context menu or move to the clicked location -->
+  <CommandMenuModeOptionAutoExplained>El estado de alistamiento del colono decide si se muestra el menú contextual o se mueve a la ubicación clickeada</CommandMenuModeOptionAutoExplained>
+	<!-- EN: Key for Menu -->
+  <CommandMenuModeOptionPressForMenu>Tecla para Menú</CommandMenuModeOptionPressForMenu>
+	<!-- EN: Hold the key to override the default action and display the context menu instead -->
+  <CommandMenuModeOptionPressForMenuExplained>Mantén presionada la tecla para anular la acción predeterminada y mostrar el menú contextual</CommandMenuModeOptionPressForMenuExplained>
+	<!-- EN: Key for Position -->
+  <CommandMenuModeOptionPressForPosition>Tecla para Posición</CommandMenuModeOptionPressForPosition>
+	<!-- EN: Hold the key to override the context menu and issue a positioning command -->
+  <CommandMenuModeOptionPressForPositionExplained>Mantén presionada la tecla para anular el menú contextual y emitir un comando de posicionamiento</CommandMenuModeOptionPressForPositionExplained>
+	<!-- EN: Hold-Switch -->
+  <CommandMenuModeOptionDelayed>Mantener para cambiar</CommandMenuModeOptionDelayed>
+	<!-- EN: Hold down the right-click button; the action will switch from positioning to displaying the context menu after the defined delay -->
+  <CommandMenuModeOptionDelayedExplained>Mantén pulsado el botón derecho del ratón; la acción cambiará de posicionamiento a mostrar el menú contextual después del retardo definido</CommandMenuModeOptionDelayedExplained>
+
+	<!-- EN: Hold Duration -->
+  <DelayTitle>Duración de Retención</DelayTitle>
+	<!-- EN: Duration in milliseconds to hold right-click before the context menu appears, overriding positioning -->
+  <DelayExplained>Duración en milisegundos para mantener presionado el clic derecho antes de que aparezca el menú contextual, anulando el posicionamiento</DelayExplained>
+
+	<!-- EN: 'Rescue' work priority column -->
+  <RescueEnabledTitle>Columna de prioridad de trabajo 'Rescate'</RescueEnabledTitle>
+	<!-- EN: Enables the automatic rescue of pawns and adds a column on the work tab -->
+  <RescueEnabledExplained>Habilita el rescate automático de peones y añade una columna en la pestaña de trabajo</RescueEnabledExplained>
+
+	<!-- EN: Show when forced work ends -->
+  <ShowForceEndLetterTitle>Mostrar mensaje al finalizar tarea forzada</ShowForceEndLetterTitle>
+	<!-- EN: When enabled, a letter is shown when a colonist runs out of forced work -->
+  <ShowForceEndLetterExplained>Si está activado, se mostrará un mensaje cuando un colono termine su tarea forzada</ShowForceEndLetterExplained>
+
+	<!-- EN: Replace Clean Room Command -->
+  <ReplaceCleanRoomTitle>Reemplazar orden "Limpiar habitación"</ReplaceCleanRoomTitle>
+	<!-- EN: Replaces the vanilla clean room job with Achtung's clean room -->
+  <ReplaceCleanRoomExplained>Reemplaza la orden estándar de limpiar habitación por la versión de Achtung</ReplaceCleanRoomExplained>
+
+	<!-- EN: Replace Fight Fire Command -->
+  <ReplaceFightFireTitle>Reemplazar orden "Apagar fuego"</ReplaceFightFireTitle>
+	<!-- EN: Replaces the vanilla fight fire job with Achtung's fight fire -->
+  <ReplaceFightFireExplained>Reemplaza la orden estándar de apagar fuego por la versión de Achtung</ReplaceFightFireExplained>
+
+	<!-- EN: Ordered to work until done. -->
+  <ForcedCommandState>Ordenada para trabajar hasta terminar la tarea.</ForcedCommandState>
+
+	<!-- EN: Force -->
+  <ForceMenuButtonText>Forzar</ForceMenuButtonText>
+
+	<!-- EN: Increase Radius -->
+  <IncreaseForceRadius>Incrementar Radio</IncreaseForceRadius>
+	<!-- EN: Increase the search distance for forced work (current radius is {0}) -->
+  <IncreaseForceRadiusDesc>Incrementa la distancia de búsqueda para el trabajo forzoso (el radio actual es {0})</IncreaseForceRadiusDesc>
+	<!-- EN: Decrease Radius -->
+  <DecreaseForceRadius>Reducir Radio</DecreaseForceRadius>
+	<!-- EN: Decrease the search distance for forced work (current radius is {0}) -->
+  <DecreaseForceRadiusDesc>Reduce la distancia de búsqueda para el trabajo forzoso (el radio actual es {0})</DecreaseForceRadiusDesc>
+	<!-- EN: Building Smart -->
+  <BuildingSmart>Edificio inteligente</BuildingSmart>
+	<!-- EN: Building smart prevents holes or getting stuck but is slower and always builds around your start location -->
+  <BuildingSmartDesc>Evita que se produzcan agujeros o que se atasquen, pero es más lento y siempre se construye alrededor de la ubicación de inicio</BuildingSmartDesc>
+
+	<!-- EN: Notes -->
+  <Notes>Notas</Notes>
+	<!-- EN: When using Achtung the context menu contains both: drafted and undrafted commands -->
+  <Note1>Cuando utilice Achtung! el menú contextual contendrá ambas órdenes: de reclutamiento y libres.</Note1>
+
+	<!-- EN: Disabled -->
+  <AchtungModKeyOptionNone>Desactivado</AchtungModKeyOptionNone>
+	<!-- EN: Alt -->
+  <AchtungModKeyOptionAlt>Alt</AchtungModKeyOptionAlt>
+	<!-- EN: Ctrl -->
+  <AchtungModKeyOptionCtrl>Ctrl</AchtungModKeyOptionCtrl>
+	<!-- EN: Shift -->
+  <AchtungModKeyOptionShift>Shift</AchtungModKeyOptionShift>
+	<!-- EN: Win/Cmd -->
+  <AchtungModKeyOptionMeta>Win/Cmd</AchtungModKeyOptionMeta>
+
+	<!-- EN: Mental break level for jobs -->
+  <BreakLevelTitle>Nivel de interrupción mental para los trabajos</BreakLevelTitle>
+	<!-- EN: Set the break level at which a colonist stop a given Achtung job -->
+  <BreakLevelExplained>Establece el nivel de interrupción mental en el que un colono detendrá un trabajo dado de Achtung</BreakLevelExplained>
+	<!-- EN: Ignore -->
+  <BreakLevelOptionNone>Ignorar</BreakLevelOptionNone>
+	<!-- EN: Minor -->
+  <BreakLevelOptionMinor>Menor</BreakLevelOptionMinor>
+	<!-- EN: Major -->
+  <BreakLevelOptionMajor>Mayor</BreakLevelOptionMajor>
+	<!-- EN: Almost extreme -->
+  <BreakLevelOptionAlmostExtreme>Casi extrema</BreakLevelOptionAlmostExtreme>
+	<!-- EN: Extreme -->
+  <BreakLevelOptionExtreme>Extrema</BreakLevelOptionExtreme>
+
+	<!-- EN: Health status for jobs -->
+  <HealthLevelTitle>Estado de salud para los trabajos</HealthLevelTitle>
+	<!-- EN: Set the health status at which a colonist stop a given Achtung job -->
+  <HealthLevelExplained>Establece el estado de salud en el que un colono detendrá un trabajo dado de Achtung</HealthLevelExplained>
+	<!-- EN: Ignore -->
+  <HealthLevelOptionNone>Ignorar</HealthLevelOptionNone>
+	<!-- EN: Should be tended now -->
+  <HealthLevelOptionShouldBeTendedNow>Debería ser atendido ahora</HealthLevelOptionShouldBeTendedNow>
+	<!-- EN: Medical care -->
+  <HealthLevelOptionPrefersMedicalRest>Preferiría descanso médico</HealthLevelOptionPrefersMedicalRest>
+	<!-- EN: Needs medical rest -->
+  <HealthLevelOptionNeedsMedicalRest>Necesita descanso médico</HealthLevelOptionNeedsMedicalRest>
+	<!-- EN: In pain shock -->
+  <HealthLevelOptionInPainShock>En shock por dolor</HealthLevelOptionInPainShock>
+
+	<!-- EN: Ignore forbidden markings -->
+  <IgnoreForbiddenTitle>Ignorar marcas prohibidas</IgnoreForbiddenTitle>
+	<!-- EN: Allows forced work on forbidden items -->
+  <IgnoreForbiddenExplained>Permite trabajo forzado en objetos prohibidos</IgnoreForbiddenExplained>
+	<!-- EN: Ignore zone restrictions -->
+  <IgnoreRestrictionsTitle>Ignorar restricciones de zona</IgnoreRestrictionsTitle>
+	<!-- EN: Allows forced work in restricted areas -->
+  <IgnoreRestrictionsExplained>Permite trabajo forzado en áreas restringidas</IgnoreRestrictionsExplained>
+	<!-- EN: Ignore work type assignments -->
+  <IgnoreAssignmentsTitle>Ignorar asignaciones de tipo de trabajo</IgnoreAssignmentsTitle>
+	<!-- EN: Allows forced work when work priorities are unset -->
+  <IgnoreAssignmentsExplained>Permite trabajo forzado cuando las prioridades de trabajo no están definidas</IgnoreAssignmentsExplained>
+
+	<!-- EN: Smart building is on for new Achtung! jobs -->
+  <BuildingSmartTitle>Edificio inteligente</BuildingSmartTitle>
+	<!-- EN: Sets the default for how new jobs choose their build order -->
+  <BuildingSmartExplained>Evita que se produzcan agujeros o que se atasquen, pero es más lento y siempre se construye alrededor de la ubicación de inicio</BuildingSmartExplained>
+
+	<!-- EN: Force work markers -->
+  <WorkMarkersTitle>Posiciones de trabajo forzoso</WorkMarkersTitle>
+	<!-- EN: Forced work is displayed with small markers -->
+  <WorkMarkersExplained>Los puestos de trabajo forzoso se indican con marcadores.</WorkMarkersExplained>
+	<!-- EN: Animated -->
+  <WorkMarkersOptionAnimated>Con animación</WorkMarkersOptionAnimated>
+	<!-- EN: Static -->
+  <WorkMarkersOptionStatic>Estático</WorkMarkersOptionStatic>
+	<!-- EN: Off -->
+  <WorkMarkersOptionOff>Apagado</WorkMarkersOptionOff>
+
+	<!-- EN: Maximum forced items -->
+  <MaxForcedItemsTitle>Elementos forzados máximos</MaxForcedItemsTitle>
+	<!-- EN: Restricts the number of forced items for slower computers -->
+  <MaxForcedItemsExplained>Restringe la cantidad de elementos forzados para computadoras más lentas</MaxForcedItemsExplained>
+	<!-- EN: Unlimited -->
+  <MaxForcedItemsUnlimited>Ilimitado</MaxForcedItemsUnlimited>
+
+	<!-- EN: Toggles for core functionality -->
+  <FeatureSettingsDesc>Interruptores para la funcionalidad principal</FeatureSettingsDesc>
+	<!-- EN: Configure features -->
+  <FeatureSettingsButton>Configurar funcionalidades</FeatureSettingsButton>
+
+	<!-- EN: Cancelled: {0} -->
+  <JobInterruptedLabel>Cancelado: {0}</JobInterruptedLabel>
+	<!-- EN: {0}: {1} -->
+  <JobInterruptedBreakdown>{0}: {1}</JobInterruptedBreakdown>
+	<!-- EN: {0} is in bad shape -->
+  <JobInterruptedBadHealth>{0} se encuentra mal</JobInterruptedBadHealth>
+
+	<!-- EN: Clean room (Achtung) -->
+  <CleanRoomLabel>Limpiar sala (Achtung)</CleanRoomLabel>
+	<!-- EN: Cleaning room thoroughly -->
+  <CleanRoomInfoText>Limpiar la sala a fondo</CleanRoomInfoText>
+	<!-- EN: Clean a room until it is completely clean -->
+  <CleanRoomDescription>Limpiar la sala hasta dejarla completamente limpia</CleanRoomDescription>
+	<!-- EN: Cleaning{0}: {1} -->
+  <CleanRoomReport>Limpiando {0}: {1}</CleanRoomReport>
+
+	<!-- EN: Fight fire (Achtung) -->
+  <FireFightLabel>Apagar fuego (Achtung)</FireFightLabel>
+	<!-- EN: Fighting a fire -->
+  <FireFightInfoText>Apagar un fuego</FireFightInfoText>
+	<!-- EN: Fights a fire (even outside home zone) -->
+  <FireFightDescription>Apaga fuegos (incluso fuera de la zona de Hogar)</FireFightDescription>
+	<!-- EN: Fighting fire: {0} -->
+  <FireFightReport>Apagando el fuego: {0}</FireFightReport>
+
+	<!-- EN: Sow this zone/room -->
+  <SowZoneLabel>Siembra esta zona/habitación</SowZoneLabel>
+	<!-- EN: Sowing zone/room -->
+  <SowZoneInfoText>Siembra esta zona/habitación</SowZoneInfoText>
+	<!-- EN: Sow a growing zone or room until it is completely sowed -->
+  <SowZoneDescription>Siembra una zona de cultivos o una habitación por completo.</SowZoneDescription>
+	<!-- EN: Sowing{0}: {1} -->
+  <SowZoneReport>Sembrando {0}: {1}</SowZoneReport>
+
+	<!-- EN: (Job #{0}) -->
+  <AlreadyDoing>(Trabajo #{0})</AlreadyDoing>
+
+	<!-- EN: {0} could not find more forced work. The remaining work is most likely reserved or not accessible. -->
+  <CouldNotFindMoreForcedWork>{0} no pudo encontrar más trabajo forzado. El trabajo restante es probablemente reservado o no accesible.</CouldNotFindMoreForcedWork>
+	<!-- EN: No forced work -->
+  <NoForcedWork>No hay trabajo forzado</NoForcedWork>
+	<!-- EN: Forced work of {0} was interrupted. -->
+  <ForcedWorkWasInterrupted>El trabajo forzado de {0} fue interrumpido.</ForcedWorkWasInterrupted>
+
+	<!-- EN: rescue -->
+  <WorkType_Rescue_Label>Rescate</WorkType_Rescue_Label>
+	<!-- EN: Rescue -->
+  <WorkType_Rescue_PawnLabel>Rescate</WorkType_Rescue_PawnLabel>
+	<!-- EN: Colonist Rescue -->
+  <WorkType_Rescue_GerundLabel>Rescate de colonos</WorkType_Rescue_GerundLabel>
+	<!-- EN: Wounded colonists are brought to beds where they can be treated. -->
+  <WorkType_Rescue_Description>Los colonos heridos son traídos a camas donde pueden ser tratados.</WorkType_Rescue_Description>
+
+</LanguageData>

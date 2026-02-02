@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+<!-- EN: Repopulates fish in -->
+  <WM_NextAct>Repuebla peces en</WM_NextAct>
+
+<!-- EN: Must be placed near water -->
+  <WM_MustBeWater>Debe colocarse cerca del agua</WM_MustBeWater>
+
+<!-- EN: This body of water already has a similar building -->
+  <WM_WaterZoneTaken>Este cuerpo de agua ya tiene un edificio similar</WM_WaterZoneTaken>
+
+<!-- EN: There are no water cells present -->
+  <WM_WaterCellsPresent>No hay celdas de agua presentes</WM_WaterCellsPresent>
+
+<!-- EN: Aquatic Repopulation -->
+  <WM_ModMenu>Aquatic Repopulation</WM_ModMenu>
+
+<!-- EN: Zone limit -->
+  <WM_OnePerZone>Límite de zona</WM_OnePerZone>
+<!-- EN: Should a fishing zone be limited to only one building? -->
+  <WM_OnePerZoneDesc>¿Debería limitarse una zona de pesca a un solo edificio?</WM_OnePerZoneDesc>
+
+<!-- EN: Repopulate percantage -->
+  <WM_Percent>Porcentaje de repoblación</WM_Percent>
+<!-- EN: The percentage of fish to repopulate in one go -->
+  <WM_PercentDesc>El porcentaje de peces a repoblar de una sola vez</WM_PercentDesc>
+
+<!-- EN: Power draw -->
+  <WM_PowerDraw>Consumo de energía</WM_PowerDraw>
+<!-- EN: Power draw of the electric repopulator -->
+  <WM_PowerDrawDesc>Consumo de energía del repoblador eléctrico</WM_PowerDrawDesc>
+
+<!-- EN: Interval -->
+  <WM_Interval>Intervalo</WM_Interval>
+<!-- EN: Interval between activations measured in ticks (Best make it divisible by 250) -->
+  <WM_IntervalDesc>Intervalo entre activaciones medido en ticks (mejor si es divisible por 250)</WM_IntervalDesc>
+
+<!-- EN: Repopulate percantage -->
+  <WM_PercentFuel>Porcentaje de repoblación</WM_PercentFuel>
+<!-- EN: The percentage of fish to repopulate in one go -->
+  <WM_PercentFuelDesc>El porcentaje de peces a repoblar de una sola vez</WM_PercentFuelDesc>
+
+<!-- EN: Kibble consumption -->
+  <WM_FuelConsumption>Consumo de pienso</WM_FuelConsumption>
+<!-- EN: How much kibble should be consumed daily -->
+  <WM_FuelConsumptionDesc>Cuánto pienso debe consumirse diariamente</WM_FuelConsumptionDesc>
+
+<!-- EN: Interval -->
+  <WM_IntervalFuel>Intervalo</WM_IntervalFuel>
+<!-- EN: Interval between activations measured in ticks (Best make it divisible by 250) -->
+  <WM_IntervalFuelDesc>Intervalo entre activaciones medido en ticks (mejor si es divisible por 250)</WM_IntervalFuelDesc>
+
+</LanguageData>

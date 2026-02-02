@@ -1,0 +1,139 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <ConfirmGravEngineLaunch>¿Estás seguro de que quieres lanzar?\n\nTu mapa actual, así como cualquier cosa que no esté en la subestructura de la gravinave, se perderá permanentemente. El proceso de lanzamiento es destructivo, lo que significa que no podrás regresar. Construye un ancla gravitacional para evitar que este mapa sea destruido.</ConfirmGravEngineLaunch>
+  <GravEngineInspectedLetterContents>Entre los restos de la gravinave estrellada, un motor de gravisaltador aún intacto zumba con energía.\n\nPuedes construir la subestructura de la gravinave alrededor del motor para crear una nueva gravinave. El motor empuja contra la gravedad, elevando la nave y permitiendo viajes de larga distancia.\n\nLanza una gravinave investigando gravitecnología básica, luego construye tanques de combustible, propulsores y una consola de piloto.\n\nLanzar una gravinave abandonará tu mapa actual a menos que primero construyas un ancla gravitacional.\n\n  - Investigación desbloqueada: gravitecnología básica\n  - Suelo desbloqueado: subestructura de la gravinave</GravEngineInspectedLetterContents>
+  <VGE_AbsorbGravheat>Absorber gravicalor</VGE_AbsorbGravheat>
+  <VGE_AbsorbGravheatDesc>Elimina cualquier calor estructural restante del motor gravitacional hacia este absorbedor de gravicalor, permitiendo un lanzamiento inmediato de la gravinave. El absorbedor de gravicalor entrará en un largo periodo de enfriamiento durante el cual no podrá absorber más calor.</VGE_AbsorbGravheatDesc>
+  <VGE_AgrocellSunLampDesc>Mantener la lámpara solar encendida hará que la agrocélula produzca luz durante el día, aumentando el uso de energía y permitiendo que la mayoría de las plantas crezcan. Sin embargo, desactivarla permite que crezcan plantas que requieren oscuridad, ahorrando algo de energía al mismo tiempo.</VGE_AgrocellSunLampDesc>
+  <VGE_AgrocellSunLampDisable>Apagar lámpara solar</VGE_AgrocellSunLampDisable>
+  <VGE_AgrocellSunLampEnable>Encender lámpara solar</VGE_AgrocellSunLampEnable>
+  <VGE_Alert_LowMaintenance>Mantenimiento de gravinave bajo</VGE_Alert_LowMaintenance>
+  <VGE_Alert_LowMaintenance_Desc>Algunos componentes de la gravinave tienen un mantenimiento bajo. Esto puede resultar en resultados de lanzamiento negativos y eventuales averías. Considera asignar a un colono para mantenerlos. Componentes de la gravinave con bajo mantenimiento:\n\n {0}</VGE_Alert_LowMaintenance_Desc>
+  <VGE_Alert_LowOxygen>Oxígeno bajo</VGE_Alert_LowOxygen>
+  <VGE_Alert_LowOxygenExplanation>Tienes un nivel de oxígeno peligrosamente bajo.\n\n    Oxígeno almacenado: {0}u³\n    Colonos y prisioneros respirando oxígeno: {1}\n\nCuando se agote el oxígeno, la gravinave comenzará a llenarse de vacío.</VGE_Alert_LowOxygenExplanation>
+  <VGE_AstrofireInHomeArea>¡Astrofuego!</VGE_AstrofireInHomeArea>
+  <VGE_AstrofireInHomeAreaDesc>Hay un astrofuego en el área del hogar.</VGE_AstrofireInHomeAreaDesc>
+  <VGE_AstrofuelPerTile>{0} de astrobustible por casilla</VGE_AstrofuelPerTile>
+  <VGE_BuildSingleGravEngineBuildBlueprintOnly>No puedes construir {0} si ya tienes otro motor gravitacional en construcción.</VGE_BuildSingleGravEngineBuildBlueprintOnly>
+  <VGE_BuildSingleGravEngineOnly>No puedes construir {0} si ya tienes otro motor gravitacional.</VGE_BuildSingleGravEngineOnly>
+  <VGE_CannotLandIndestructibleObstacles>No se puede aterrizar aquí debido a obstáculos indestructibles presentes. Elige otra ubicación de aterrizaje.</VGE_CannotLandIndestructibleObstacles>
+  <VGE_CannotLaunchGravAnomaly>No se puede lanzar la gravinave debido a una anomalía gravitacional</VGE_CannotLaunchGravAnomaly>
+  <VGE_CantLaunchAlreadyInOrbit>No se puede usar: ya está en órbita.</VGE_CantLaunchAlreadyInOrbit>
+  <VGE_ColorPickerValue>brillo</VGE_ColorPickerValue>
+  <VGE_ColorPickerValueTooltip>Elige un color ajustando el brillo del color.\n\nEl brillo se refiere al "valor" del modelo de color HSV: tono, saturación y valor/brillo.</VGE_ColorPickerValueTooltip>
+  <VGE_ConfirmCrashLanding>Aterrizar en esta ubicación se considerará un choque. Cualquier estructura resaltada debajo de la gravinave dañará las estructuras de la gravinave en las ubicaciones correspondientes.\n\nLa subestructura también puede resultar dañada y necesitará ser reemplazada antes del próximo lanzamiento.\n\nAlgunos objetos indestructibles debajo pueden destruir completamente la subestructura y cualquier objeto sobre ella.\n\nConsidera elegir una zona de aterrizaje diferente.</VGE_ConfirmCrashLanding>
+  <VGE_ConvertGravdata>Convertir gravidatos</VGE_ConvertGravdata>
+  <VGE_ConvertGravdataDesc>Convierte los gravidatos almacenados en puntos para el proyecto de investigación no gravitecnológico elegido. La tasa de conversión es de uno a uno.</VGE_ConvertGravdataDesc>
+  <VGE_ConvertedGravdataToResearch>Se convirtieron {0} gravidatos en puntos de investigación para {1}.</VGE_ConvertedGravdataToResearch>
+  <VGE_CooldownRemaining>Enfriamiento restante: {0}</VGE_CooldownRemaining>
+  <VGE_CrashLandingWarning>Aterrizar en esta ubicación se considerará un choque y dañará la gravinave.</VGE_CrashLandingWarning>
+  <VGE_DesignatorRemoveSubstructure>Eliminar subestructura</VGE_DesignatorRemoveSubstructure>
+  <VGE_DesignatorRemoveSubstructureDesc>Elimina la subestructura de la gravinave.</VGE_DesignatorRemoveSubstructureDesc>
+  <VGE_DiscardMap>Descartar el mapa</VGE_DiscardMap>
+  <VGE_DontSettle>No colonizar</VGE_DontSettle>
+  <VGE_EquippingIneffectiveOxygenPack>{PAWN} está equipando una mochila de oxígeno sin usar equipo resistente al vacío. {APPAREL_labelNoParenthesis} no funcionará.</VGE_EquippingIneffectiveOxygenPack>
+  <VGE_EquippingOnOtherIneffectiveOxygenPack>{PAWN} está equipando una mochila de oxígeno en {TARGET} sin usar equipo resistente al vacío. {APPAREL_labelNoParenthesis} no funcionará.</VGE_EquippingOnOtherIneffectiveOxygenPack>
+  <VGE_EscapePodCrash>Choque de cápsula de escape</VGE_EscapePodCrash>
+  <VGE_EscapePodCrashDesc>Una cápsula de escape dañada se ha estrellado en el mapa. Se puede hackear para revelar lo que hay dentro.</VGE_EscapePodCrashDesc>
+  <VGE_GravEngineDisabled>Motor gravitacional desactivado:</VGE_GravEngineDisabled>
+  <VGE_GravdataStored>Gravidatos almacenados: {0}</VGE_GravdataStored>
+  <VGE_GravdataStoredInfo>Los gravidatos almacenados se aplicarán automáticamente al proyecto de investigación de gravitecnología seleccionado en el próximo aterrizaje.</VGE_GravdataStoredInfo>
+  <VGE_GravdataYieldInfo>Rendimiento estimado de gravidatos: {0}</VGE_GravdataYieldInfo>
+  <VGE_GravheatAbsorberCoolingDown>El absorbedor de gravicalor se está enfriando. Disponible en: {0}</VGE_GravheatAbsorberCoolingDown>
+  <VGE_Gravhulk>gravicoloso</VGE_Gravhulk>
+  <VGE_Gravjumper>gravisaltador</VGE_Gravjumper>
+  <VGE_Gravship>gravinave</VGE_Gravship>
+  <VGE_GravshipArtilleryInvalidFiringMode>La artillería no puede disparar en esta dirección.</VGE_GravshipArtilleryInvalidFiringMode>
+  <VGE_GravshipArtilleryInvalidGroundToGround>La artillería no puede disparar de suelo a suelo.</VGE_GravshipArtilleryInvalidGroundToGround>
+  <VGE_GravshipArtilleryInvalidGroundToSpace>La artillería no puede disparar desde el planeta al espacio.</VGE_GravshipArtilleryInvalidGroundToSpace>
+  <VGE_GravshipArtilleryInvalidSpaceToGround>La artillería no puede disparar desde el espacio al suelo.</VGE_GravshipArtilleryInvalidSpaceToGround>
+  <VGE_GravshipArtilleryInvalidSpaceToSpace>La artillería no puede disparar de espacio a espacio.</VGE_GravshipArtilleryInvalidSpaceToSpace>
+  <VGE_GravshipArtilleryNeedsVisibleMap>La artillería de gravinave necesita apuntar a un mapa visible y explorado.</VGE_GravshipArtilleryNeedsVisibleMap>
+  <VGE_GravshipArtilleryOutOfRange>El objetivo está fuera de alcance.</VGE_GravshipArtilleryOutOfRange>
+  <VGE_GravshipCurrentlyActive>otra gravinave está actualmente activa</VGE_GravshipCurrentlyActive>
+  <VGE_GravshipLaunchCurrentlyActive>otra gravinave se está preparando actualmente para el lanzamiento</VGE_GravshipLaunchCurrentlyActive>
+  <VGE_GravtechNeedsGravdata>{0} necesita gravidatos para completarse. Obtén gravidatos viajando con tu gravinave.</VGE_GravtechNeedsGravdata>
+  <VGE_HeatsinkHeatStored>{0} / {1} unidades de calor</VGE_HeatsinkHeatStored>
+  <VGE_IneffectiveOxygenPack>Mochila de oxígeno ineficaz</VGE_IneffectiveOxygenPack>
+  <VGE_IneffectiveOxygenPackDesc>Alguien lleva una mochila de oxígeno sin ninguna prenda de protección contra el vacío. La mochila de oxígeno no funcionará. Considera equipar otra prenda resistente al vacío.\n\nColonos sin prendas de protección contra el vacío:</VGE_IneffectiveOxygenPackDesc>
+  <VGE_InstallSingleGravEngineBuildBlueprintOnly>No puedes instalar {0} si ya tienes otro motor gravitacional en construcción cerca.</VGE_InstallSingleGravEngineBuildBlueprintOnly>
+  <VGE_InstallSingleGravEngineInstallBlueprintOnly>No puedes instalar {0} si hay otro plano de motor gravitacional cerca.</VGE_InstallSingleGravEngineInstallBlueprintOnly>
+  <VGE_InstallSingleGravEngineOnMap>No puedes instalar {0} si hay otro motor gravitacional presente cerca.</VGE_InstallSingleGravEngineOnMap>
+  <VGE_IsIncapableOfIntellectualLower>{1_labelShort} es incapaz de realizar trabajo intelectual</VGE_IsIncapableOfIntellectualLower>
+  <VGE_KeepMap>Conservar el mapa</VGE_KeepMap>
+  <VGE_LaunchBoonChanceInfo>Con las predicciones actuales, hay una probabilidad del {0}% de que ocurra un beneficio positivo.</VGE_LaunchBoonChanceInfo>
+  <VGE_LaunchBoonOutcomeChanceLetterExtra>Basado en el lanzamiento de la gravinave, hubo una probabilidad del {0_percentage} de un resultado positivo.</VGE_LaunchBoonOutcomeChanceLetterExtra>
+  <VGE_LaunchFuelAndHeatUnitsInfo>Este lanzamiento usará {0} astrobustible y generará unas {0} unidades de calor, elevando la temperatura en toda la gravinave.</VGE_LaunchFuelAndHeatUnitsInfo>
+  <VGE_LaunchGravAnchorCooldownInfo>Sin embargo, aterrizar en una ubicación que contenga un ancla gravitacional eliminará por completo el enfriamiento del lanzamiento.</VGE_LaunchGravAnchorCooldownInfo>
+  <VGE_LaunchHeatsinkCooldownInfo>Los disipadores de calor reducirán el tiempo de enfriamiento del lanzamiento en {0}.</VGE_LaunchHeatsinkCooldownInfo>
+  <VGE_LaunchToOrbit>Lanzar a órbita</VGE_LaunchToOrbit>
+  <VGE_LaunchToOrbitDesc>Lanza la gravinave directamente hacia arriba y estabilízala en órbita. Esto todavía se considera un viaje de gravinave y el motor gravitacional entrará en enfriamiento, dejándote potencialmente varado en órbita.</VGE_LaunchToOrbitDesc>
+  <VGE_LetterTextMechanoidThreat>El proceso de escaneo de la colmena mecánica está cerca de determinar tu ubicación. Cuando localice tu {GRAVSHIP}, enviará una fuerza mecanizada masiva para matarte.\n\nReúne tus suministros y huye del mapa seleccionando la {CONSOLE} y eligiendo lanzar.</VGE_LetterTextMechanoidThreat>
+  <VGE_LinkWithTerminal>Vincular con una terminal</VGE_LinkWithTerminal>
+  <VGE_LinkWithTerminalDesc>Selecciona una terminal de puntería para vincular. Se requiere una terminal de puntería para operar la artillería de gravinave.</VGE_LinkWithTerminalDesc>
+  <VGE_LinkWithTurret>Vincular con una torreta</VGE_LinkWithTurret>
+  <VGE_LinkWithTurretDesc>Selecciona una torreta para vincular. Esta terminal de puntería se usará para operar esa torreta.</VGE_LinkWithTurretDesc>
+  <VGE_Maintain>Mantener pieza</VGE_Maintain>
+  <VGE_Maintenance>Mantenimiento de piezas: {0}</VGE_Maintenance>
+  <VGE_MapDecisionSettleText>Tu gravinave ha despegado. Ahora puedes decidir si quieres colonizar el mapa anterior.\n\nSi lo colonizas, seguirá presente como un mapa de colonia hasta que lo abandones.\n\nSi decides no colonizarlo, el mapa se conservará hasta que se descarte automáticamente. Actualmente se conserva debido a que tienes colonos allí, una lanzadera o cápsulas de escape viajando hacia allí, o algún edificio especial presente en el mapa.\nTen en cuenta que mantener varios mapas abiertos puede afectar el rendimiento.</VGE_MapDecisionSettleText>
+  <VGE_MapDecisionText>Tu gravinave ha despegado. Ahora puedes decidir si quieres conservar el mapa anterior o si quieres descartarlo.\n\nSi lo conservas, seguirá presente como un mapa de colonia hasta que lo abandones.\n\nSi lo descartas, puede ser reemplazado por un asentamiento abandonado, devuelto a su dueño original, convertido de nuevo en una ubicación especial/de misión o destruido.\nTen en cuenta que mantener varios mapas abiertos puede afectar el rendimiento.</VGE_MapDecisionText>
+  <VGE_MechanoidPodGestation>La gestación de la cápsula de {0} se completa en: {1}.</VGE_MechanoidPodGestation>
+  <VGE_MechanoidPodsLeft>Cápsulas de mecanoides restantes por completar: {0}.</VGE_MechanoidPodsLeft>
+  <VGE_More>Más</VGE_More>
+  <VGE_MultipleGravEnginesPresent>múltiples motores gravitacionales presentes</VGE_MultipleGravEnginesPresent>
+  <VGE_MustBePlacedInRangeOfGravSource>Debe colocarse dentro del alcance de un motor gravitacional o un amplificador de campo gravitacional.</VGE_MustBePlacedInRangeOfGravSource>
+  <VGE_MustTargetPilotConsole>Esta habilidad debe apuntar a una consola de piloto.</VGE_MustTargetPilotConsole>
+  <VGE_NeedsLinkedTargetingTerminal>Necesita una terminal de puntería vinculada.</VGE_NeedsLinkedTargetingTerminal>
+  <VGE_NeedsMannedTargetingTerminal>Necesita una terminal de puntería tripulada.</VGE_NeedsMannedTargetingTerminal>
+  <VGE_NoAvailableDesignators>No hay designadores disponibles</VGE_NoAvailableDesignators>
+  <VGE_NoCooldownToAbsorb>No hay enfriamiento para absorber</VGE_NoCooldownToAbsorb>
+  <VGE_NoGravEngine>No se encontró ningún motor gravitacional</VGE_NoGravEngine>
+  <VGE_NoGravtechProjectSelected>No se ha seleccionado ningún proyecto de investigación de gravitecnología. El lanzamiento no producirá ningún gravidato.</VGE_NoGravtechProjectSelected>
+  <VGE_NoNonGravtechProjectSelected>No se ha seleccionado ningún proyecto de investigación no gravitecnológico.</VGE_NoNonGravtechProjectSelected>
+  <VGE_OrbitObjectsMultiplier>Multiplicador de objetos orbitales</VGE_OrbitObjectsMultiplier>
+  <VGE_OrbitObjectsMultiplierDesc>Por defecto, el juego intentará mantener 3, 8, 12 o 20 ubicaciones en órbita (dependiendo de la cobertura global del planeta). ¡Con este deslizador puedes aplicar un multiplicador a este número, haciendo que las órbitas de tu planeta estén súper dispersas o muy saturadas!</VGE_OrbitObjectsMultiplierDesc>
+  <VGE_OxygenDrainIfActive>Drenaje de oxígeno por día (si está activo): {0} u³</VGE_OxygenDrainIfActive>
+  <VGE_OxygenPackInactive>inactivo</VGE_OxygenPackInactive>
+  <VGE_OxygenReplenishAt>Reponer oxígeno a: {0} u³</VGE_OxygenReplenishAt>
+  <VGE_OxygenReplenishDisabled>Reposición automática de oxígeno desactivada.</VGE_OxygenReplenishDisabled>
+  <VGE_OxygenReplenishOnOffDesc>Esto determina si {PAWN_nameDef} repondrá automáticamente los botes de oxígeno cuando el oxígeno en su equipo esté por debajo de {MIN} u³.\n\nLa reposición automática de oxígeno está actualmente {ONOFF}.</VGE_OxygenReplenishOnOffDesc>
+  <VGE_OxygenReplenishOnOffNoWearerDesc>Esto determina si el portador repondrá automáticamente los botes de oxígeno cuando el oxígeno en su equipo esté por debajo de {MIN} u³.\n\nLa reposición automática de oxígeno está actualmente {ONOFF}.</VGE_OxygenReplenishOnOffNoWearerDesc>
+  <VGE_OxygenUnits>oxígeno u³</VGE_OxygenUnits>
+  <VGE_PilotGravhulk>Lanzar gravicoloso</VGE_PilotGravhulk>
+  <VGE_PilotGravjumper>Lanzar gravisaltador</VGE_PilotGravjumper>
+  <VGE_RapidlyDeterioratingInSpace>Deteriorándose rápidamente debido al vacío del espacio.</VGE_RapidlyDeterioratingInSpace>
+  <VGE_Refill>Recargar {GEAR_labelShort} con {AMMO_label}</VGE_Refill>
+  <VGE_RefillCannotCarryEnough>No se puede llevar suficiente {AMMO_label} para recargar 1 carga.</VGE_RefillCannotCarryEnough>
+  <VGE_RemainingShieldTime>Tiempo de escudo restante: {0}</VGE_RemainingShieldTime>
+  <VGE_RenameAsteroid>¡Un nuevo descubrimiento!</VGE_RenameAsteroid>
+  <VGE_RenameAsteroidDesc>Dado que {0} fue el primero en descubrir el {1} cercano, puede ponerle nombre.</VGE_RenameAsteroidDesc>
+  <VGE_RequiresSubstructureOrScaffolding>Requiere que se construya sobre una subestructura o andamio.</VGE_RequiresSubstructureOrScaffolding>
+  <VGE_Reset>Restablecer</VGE_Reset>
+  <VGE_ResistantToVacuumExposure>resistente a la exposición al vacío</VGE_ResistantToVacuumExposure>
+  <VGE_ResourceProcessorInfo>La producción de {0} {1} se completa en: {2}\nProcesos de producción restantes por completar: {3}</VGE_ResourceProcessorInfo>
+  <VGE_SelectLinkedTerminal>Seleccionar terminal vinculada</VGE_SelectLinkedTerminal>
+  <VGE_SelectLinkedTerminalDesc>Muestra la terminal de puntería vinculada.</VGE_SelectLinkedTerminalDesc>
+  <VGE_SelectLinkedTurret>Seleccionar torreta vinculada</VGE_SelectLinkedTurret>
+  <VGE_SelectLinkedTurretDesc>Muestra la torreta vinculada.</VGE_SelectLinkedTurretDesc>
+  <VGE_SetDesiredMaintenance>Establecer mantenimiento deseado</VGE_SetDesiredMaintenance>
+  <VGE_SetDesiredMaintenanceDesc>Establece el mantenimiento deseado para todos los componentes de esta gravinave. Los colonos asignados a la construcción mantendrán las estructuras si caen por debajo del nivel establecido.</VGE_SetDesiredMaintenanceDesc>
+  <VGE_SetWorldTarget>Establecer objetivo mundial</VGE_SetWorldTarget>
+  <VGE_SetWorldTargetDesc>Establece el objetivo en el mapa mundial para que la artillería de gravinave dispare. Los disparos a través del mapa mundial son menos precisos. Solo puede disparar a ubicaciones reveladas.</VGE_SetWorldTargetDesc>
+  <VGE_SettleMap>Colonizar mapa</VGE_SettleMap>
+  <VGE_SoildIceAsteroid>Hielo sólido con trazas de {RESOURCE_label}</VGE_SoildIceAsteroid>
+  <VGE_StatsReport_GravEngineGlobalMaintenanceSensitivity>Sensibilidad de mantenimiento global</VGE_StatsReport_GravEngineGlobalMaintenanceSensitivity>
+  <VGE_StoredAstrofuel>astrobustible almacenado</VGE_StoredAstrofuel>
+  <VGE_TargetingTerminalCanOnlyLinkWithGravshipArtillery>La terminal de puntería solo puede vincularse con artillería de gravinave.</VGE_TargetingTerminalCanOnlyLinkWithGravshipArtillery>
+  <VGE_TimeUntilVacuumExposureDeath>muerte por exposición al vacío en {0}</VGE_TimeUntilVacuumExposureDeath>
+  <VGE_UnlinkWithTerminal>Desvincular de una terminal</VGE_UnlinkWithTerminal>
+  <VGE_UnlinkWithTerminalDesc>Rompe el vínculo actual con una terminal de puntería, permitiéndote vincularte con una diferente.</VGE_UnlinkWithTerminalDesc>
+  <VGE_UnlinkWithTurret>Desvincular torreta</VGE_UnlinkWithTurret>
+  <VGE_UnlinkWithTurretDesc>Rompe el vínculo actual con una torreta, permitiéndote vincularte con una torreta diferente.</VGE_UnlinkWithTurretDesc>
+  <VGE_VacCheckpoint_AllowDrafted>Los colonos reclutados siempre tienen permitido el paso</VGE_VacCheckpoint_AllowDrafted>
+  <VGE_VacCheckpoint_AllowDraftedCheckbox>Permitir siempre reclutados</VGE_VacCheckpoint_AllowDraftedCheckbox>
+  <VGE_VacCheckpoint_DisallowDrafted>Los colonos reclutados verifican la resistencia al vacío</VGE_VacCheckpoint_DisallowDrafted>
+  <VGE_VacCheckpoint_MinimumVacuumResistance>Resistencia al vacío mínima: {0_percentage}</VGE_VacCheckpoint_MinimumVacuumResistance>
+  <VGE_VacCheckpoint_SetVacuumResistance>Establecer resistencia al vacío deseada</VGE_VacCheckpoint_SetVacuumResistance>
+  <VGE_VacCheckpoint_SetVacuumResistanceDesc>Establece el porcentaje de resistencia al vacío requerido para cruzar este punto de control. Los colonos sin suficiente resistencia al vacío no pasarán naturalmente por este punto de control. No afecta a los colonos reclutados.</VGE_VacCheckpoint_SetVacuumResistanceDesc>
+  <VGE_VacCheckpoint_VacuumResistancePercent>Resistencia al vacío: {0_percentage}</VGE_VacCheckpoint_VacuumResistancePercent>
+</LanguageData>

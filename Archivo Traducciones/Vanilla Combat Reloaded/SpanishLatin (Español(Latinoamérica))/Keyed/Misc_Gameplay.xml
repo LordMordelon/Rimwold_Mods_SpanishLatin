@@ -1,0 +1,203 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<!-- EN: General Settings -->
+  <VCR.generaltab>Configuración General</VCR.generaltab>
+	
+	<!-- EN: Armor -->
+  <VCR.AdvanceArmorTab>Armadura</VCR.AdvanceArmorTab>
+	<!-- EN: Enable advanced armor behavior -->
+  <VCR.AdvanceArmor>Habilitar comportamiento avanzado de armadura</VCR.AdvanceArmor>
+	<!-- EN: Armor effectiveness is doubled and armor penetration of weapons is quadrupled by default\n\nThis means that 100% armor will block any attacks with no armor penetration, the equivalent of wearing 200% armor protection in vanilla.\nArmor penetration of weapons has been effectively doubled relative to the displayed armor values\n\nExample:\n50% armor penetration bullet against 200% sharp protection armor\nVanilla: armor is reduced to 150%, damage is halved 25% of the time, blocked 75% of the time.\nAdvanced Armor: armor is reduced to 100%, damage is blocked 100% of the time. -->
+  <VCR.AAtooltip>La efectividad de la armadura se duplica y la penetración de armadura de las armas se cuadruplica por defecto\n\nEsto significa que el 100% de armadura bloqueará cualquier ataque sin penetración de armadura, el equivalente a usar un 200% de protección de armadura en vanilla.\nLa penetración de armadura de las armas se ha duplicado efectivamente en relación con los valores de armadura mostrados\n\nEjemplo:\nBala con 50% de penetración de armadura contra armadura con 200% de protección contra filos\nVanilla: la armadura se reduce al 150%, el daño se reduce a la mitad el 25% de las veces, se bloquea el 75% de las veces.\nArmadura Avanzada: la armadura se reduce al 100%, el daño se bloquea el 100% de las veces.</VCR.AAtooltip>
+	<!-- EN: Armor Penetration threshold: {0} -->
+  <VCR.ArmorScale>Umbral de penetración de armadura: {0}</VCR.ArmorScale>
+	<!-- EN: Minimum threshold ap before all damage is blocked\n\nThis threshold is based on 200 divided by the value on the slider or textbox.\n\nRecommended : 100% threshold at an entered value of 2 -->
+  <VCR.ArmScaleTooltip>Umbral mínimo de PA antes de que todo el daño sea bloqueado\n\nEste umbral se basa en 200 dividido por el valor en el control deslizante o cuadro de texto.\n\nRecomendado: umbral del 100% con un valor ingresado de 2</VCR.ArmScaleTooltip>
+	<!-- EN: Armor Penetration Bonus Scaling: {0} -->
+  <VCR.PenetrationScale>Escalado de bonificación de penetración de armadura: {0}</VCR.PenetrationScale>
+	<!-- EN: Multiplier for all penetration values\n\nUse to maintain a competitive weapon environment in conjunction with armor penetration threshold.\n\nRecommended penetration: 2 -->
+  <VCR.PenScaleTooltip>Multiplicador para todos los valores de penetración\n\nÚsalo para mantener un entorno de armas competitivo junto con el umbral de penetración de armadura.\n\nPenetración recomendada: 2</VCR.PenScaleTooltip>
+
+	<!-- EN: Accuracy -->
+  <VCR.AdvanceAccuracyTab>Precisión</VCR.AdvanceAccuracyTab>
+	<!-- EN: Enable advanced accuracy calculations -->
+  <VCR.AdvanceAccuracy>Habilitar cálculos avanzados de precisión</VCR.AdvanceAccuracy>
+	<!-- EN: Shooter Skill now affects weapon and weather accuracy, a good shooter should be able to overcome any problems with a gun or weather condition. Turret, smoke, and cover accuracy are not affected. -->
+  <VCR.AAcctooltip>La habilidad del tirador ahora afecta la precisión del arma y del clima; un buen tirador debería ser capaz de superar cualquier problema con un arma o condición climática. La precisión de torretas, humo y cobertura no se ve afectada.</VCR.AAcctooltip>
+	<!-- EN: Accuracy Bonus Scaling: {0} -->
+  <VCR.AccuracyScale>Escalado de bonificación de precisión: {0}</VCR.AccuracyScale>
+	<!-- EN: Minimum accuracy before advanced accuracy calculations are activated, inversely related to accuracy per point\n\nWith a higher threshold, each point above the threshold has a smaller effect than with a lower threshold\n\nRecommended accuracy: 5 -->
+  <VCR.AccScaleTooltip>Precisión mínima antes de que se activen los cálculos avanzados de precisión, inversamente relacionada con la precisión por punto\n\nCon un umbral más alto, cada punto por encima del umbral tiene un efecto menor que con un umbral más bajo\n\nPrecisión recomendada: 5</VCR.AccScaleTooltip>
+	<!-- EN: Restrict Missed Shots -->
+  <VCR.UseFiringArc>Restringir disparos fallidos</VCR.UseFiringArc>
+	<!-- EN: the max distance of a miss will be restricted to a firing arc from the shooter -->
+  <VCR.UseArctooltip>la distancia máxima de un fallo se restringirá a un arco de disparo desde el tirador</VCR.UseArctooltip>
+	<!-- EN: Firing Arc Angle: {0} -->
+  <VCR.FiringArc>Ángulo del arco de disparo: {0}</VCR.FiringArc>
+	<!-- EN: The total angle in degrees where missed shots can land.\n\nThis value may not be completely accurate at extreme angles.\n\nDefault: 45 -->
+  <VCR.FiringArcTooltip>El ángulo total en grados donde pueden aterrizar los disparos fallidos.\n\nEste valor puede no ser completamente preciso en ángulos extremos.\n\nPor defecto: 45</VCR.FiringArcTooltip>
+	<!-- EN: Missed Shot Behavior Setting: {0} -->
+  <VCR.ArcType>Configuración de comportamiento de disparo fallido: {0}</VCR.ArcType>
+	<!-- EN: Options on how the missed shots are restricted. Recommended settings: 0 or 3 \n\n0: all shots are scaled with distance without restrictions\n\n1: all shots are scaled with distance but are capped at the vanilla max value\n\n2: only close shots scale with distance, far shots are the same as vanilla\n\n3: close shots outside of arc are set to max possible distance inside arc instead of scaled with distance, far shots are scaled with distance\n\n4: close shots outside of arc are set to max, far shots are scaled with distance, but are capped at the vanilla max value\n\n5: close shots outside of arc are set to max, far shots are the same as vanilla -->
+  <VCR.ArcTypeTooltip>Opciones sobre cómo se restringen los disparos fallidos. Configuración recomendada: 0 o 3 \n\n0: todos los disparos se escalan con la distancia sin restricciones\n\n1: todos los disparos se escalan con la distancia pero están limitados al valor máximo de vanilla\n\n2: solo los disparos cercanos escalan con la distancia, los disparos lejanos son iguales a vanilla\n\n3: los disparos cercanos fuera del arco se establecen a la distancia máxima posible dentro del arco en lugar de escalar con la distancia, los disparos lejanos se escalan con la distancia\n\n4: los disparos cercanos fuera del arco se establecen al máximo, los disparos lejanos se escalan con la distancia, pero están limitados al valor máximo de vanilla\n\n5: los disparos cercanos fuera del arco se establecen al máximo, los disparos lejanos son iguales a vanilla</VCR.ArcTypeTooltip>
+
+	<!-- EN: Evasion -->
+  <VCR.EvasionTab>Evasión</VCR.EvasionTab>
+	<!-- EN: Enable Evasion -->
+  <VCR.Evasion>Habilitar evasión</VCR.Evasion>
+	<!-- EN: Pawns can evade ranged shots if they are moving fast enough, based on the current speed of a pawn -->
+  <VCR.Evatooltip>Los peones pueden evadir disparos a distancia si se mueven lo suficientemente rápido, basado en la velocidad actual de un peón</VCR.Evatooltip>
+	<!-- EN: Evasion Scale: {0} -->
+  <VCR.EvasionScale>Escala de evasión: {0}</VCR.EvasionScale>
+	<!-- EN: How substantially evasion can affect accuracy.\n\nHigher values mean evasion has less of an effect, while lower values mean a more drastic effect.\n\nDefault: 0.8 -->
+  <VCR.EvaScaleTooltip>Cuán sustancialmente la evasión puede afectar la precisión.\n\nValores más altos significan que la evasión tiene menos efecto, mientras que valores más bajos significan un efecto más drástico.\n\nPor defecto: 0.8</VCR.EvaScaleTooltip>
+	<!-- EN: Minimum Speed: {0} -->
+  <VCR.MinSpeed>Velocidad mínima: {0}</VCR.MinSpeed>
+	<!-- EN: The minimum speed before evasion has an effect. Default: 2.5 -->
+  <VCR.MinSpeedTooltip>La velocidad mínima antes de que la evasión tenga efecto. Por defecto: 2.5</VCR.MinSpeedTooltip>
+	<!-- EN: Evasion and Advanced Accuracy Link -->
+  <VCR.EvasionAccuracy>Enlace de evasión y precisión avanzada</VCR.EvasionAccuracy>
+	<!-- EN: The amount of evasion a pawn can obtain is reduced by the shooting skill of the shooter. Requires Advanced Accuracy to be active. -->
+  <VCR.EvaAcctooltip>La cantidad de evasión que un peón puede obtener se reduce por la habilidad de disparo del tirador. Requiere que la Precisión Avanzada esté activa.</VCR.EvaAcctooltip>
+
+	<!-- EN: Parry -->
+  <VCR.ParryTab>Parada</VCR.ParryTab>
+	<!-- EN: Enable Parry -->
+  <VCR.Parry>Habilitar parada</VCR.Parry>
+	<!-- EN: Pawns can parry a melee attack if they have a weapon equipped based on the melee hit chance of the attacker and defender -->
+  <VCR.Parrytooltip>Los peones pueden parar un ataque cuerpo a cuerpo si tienen un arma equipada, basado en la probabilidad de golpe cuerpo a cuerpo del atacante y el defensor</VCR.Parrytooltip>
+	<!-- EN: Front Defence: {0} -->
+  <VCR.ParryFront>Defensa frontal: {0}</VCR.ParryFront>
+	<!-- EN: The effectiveness that a pawn can parry an attack coming from the front.\n\nThe higher the number, the more likely to block, this is NOT a linear change.\n\nDefault: 1.5 -->
+  <VCR.ParryFrontTooltip>La efectividad con la que un peón puede parar un ataque proveniente del frente.\n\nCuanto mayor sea el número, más probable es que bloquee, este NO es un cambio lineal.\n\nPor defecto: 1.5</VCR.ParryFrontTooltip>
+	<!-- EN: Side Defence: {0} -->
+  <VCR.ParrySide>Defensa lateral: {0}</VCR.ParrySide>
+	<!-- EN: The effectiveness that a pawn can parry an attack coming from the side.\n\nThe higher the number, the more likely to block, this is NOT a linear change.\n\nDefault: 1.5 -->
+  <VCR.ParrySideTooltip>La efectividad con la que un peón puede parar un ataque proveniente del lado.\n\nCuanto mayor sea el número, más probable es que bloquee, este NO es un cambio lineal.\n\nPor defecto: 1.5</VCR.ParrySideTooltip>
+	
+	<!-- EN: Damage Workers -->
+  <VCR.DamageWorkerTab>Daño</VCR.DamageWorkerTab>
+	<!-- EN: Custom Bullet Damage Worker -->
+  <VCR.BulletsWorker>Daño de balas personalizado</VCR.BulletsWorker>
+	<!-- EN: Bullets now have simulated fragmentation, pass through, and mushrooming damage behaviors based on the stopping power of the weapon.\n\nMultiple projectiles on the same weapon will use the stopping power value of the first projectile. -->
+  <VCR.BWorkerTooltip>Las balas ahora tienen comportamientos simulados de fragmentación, traspaso y expansión de daño basados en el poder de parada del arma.\n\nMúltiples proyectiles en la misma arma usarán el valor de poder de parada del primer proyectil.</VCR.BWorkerTooltip>
+	<!-- EN: Stopping Power Bonus Limit -->
+  <VCR.SPLimit>Límite de bonificación de poder de parada</VCR.SPLimit>
+	<!-- EN: Some modded weapons have extremely high stopping power values leading to unexpectedly high damage values. This setting limits the bonus for weapons above this value.\n\nDefault: 10 -->
+  <VCR.SPTooltip>Algunas armas modificadas tienen valores de poder de parada extremadamente altos que conducen a valores de daño inesperadamente altos. Esta configuración limita la bonificación para armas por encima de este valor.\n\nPor defecto: 10</VCR.SPTooltip>
+	<!-- EN: Custom Arrow Damage Worker -->
+  <VCR.ArrowsWorker>Daño de flechas personalizado</VCR.ArrowsWorker>
+	<!-- EN: Arrows now are more likely to hit internal body parts or deal extra cuts if an outside body part is hit. -->
+  <VCR.AWorkerTooltip>Las flechas ahora tienen más probabilidades de golpear partes internas del cuerpo o causar cortes adicionales si se golpea una parte externa del cuerpo.</VCR.AWorkerTooltip>
+	<!-- EN: Enable Ranged Flanking -->
+  <VCR.Flanking>Habilitar flanqueo a aistancia</VCR.Flanking>
+	<!-- EN: Ranged Damage (Bullets and Arrows) affects a pawn based on the incoming direction of the attack.\n\nActivates height targeting that weights attacks to hit a specified height based on skill. -->
+  <VCR.FlankingTooltip>El daño a distancia (balas y flechas) afecta a un peón según la dirección entrante del ataque.\n\nActiva la selección de objetivos por altura que pondera los ataques para golpear una altura específica según la habilidad.</VCR.FlankingTooltip>
+	<!-- EN: Enable Melee Flanking -->
+  <VCR.MeleeFlank>Habilitar flanqueo cuerpo a cuerpo</VCR.MeleeFlank>
+	<!-- EN: Melee Damage (Blunt, Stab, Scratch and Cut) affects a pawn based on the incoming direction of the attack.\n\nActivates height targeting that weights attacks to hit a specified height based on skill. -->
+  <VCR.MeleeFlankTooltip>El daño cuerpo a cuerpo (contundente, puñalada, rasguño y corte) afecta a un peón según la dirección entrante del ataque.\n\nActiva la selección de objetivos por altura que pondera los ataques para golpear una altura específica según la habilidad.</VCR.MeleeFlankTooltip>
+	
+	<!-- EN: XML -->
+  <VCR.Xml>XML</VCR.Xml>
+	<!-- EN: Xml Settings: Need a restart to take effect -->
+  <VCR.XmlSettings>Configuración XML: Necesita un reinicio para surtir efecto</VCR.XmlSettings>
+	<!-- EN: Cover Hands and Feet -->
+  <VCR.HandFeetPatch>Cubrir manos y pies</VCR.HandFeetPatch>
+	<!-- EN: Armor and apparel cover the hands and feet of a pawn.\n\nGloves or boots are moved to the headgear layer and one can be equipped along with normal armor. -->
+  <VCR.HandFeetTooltip>La armadura y la vestimenta cubren las manos y los pies de un peón.\n\nLos guantes o botas se mueven a la capa de sombreros y se puede equipar uno junto con la armadura normal.</VCR.HandFeetTooltip>
+	<!-- EN: Acid is Heat Damage -->
+  <VCR.AcidHeatPatch>Ácido es daño por calor</VCR.AcidHeatPatch>
+	<!-- EN: Acid damage's armor type is changed from sharp to heat -->
+  <VCR.AcidHeatTooltip>El tipo de armadura del daño por ácido cambia de filo a calor</VCR.AcidHeatTooltip>
+	<!-- EN: Thump is Blunt Damage -->
+  <VCR.ThumpBluntPatch>Golpe sordo es daño contundente</VCR.ThumpBluntPatch>
+	<!-- EN: Thump damage's armor type is changed from sharp to blunt -->
+  <VCR.ThumpBluntTooltip>El tipo de armadura del daño por golpe sordo cambia de filo a contundente</VCR.ThumpBluntTooltip>
+	<!-- EN: Glasses are not Helmets -->
+  <VCR.GlassesHelmetPatch>Las gafas no son cascos</VCR.GlassesHelmetPatch>
+	<!-- EN: Changes eye protection to only cover the eyes instead of including the skull or brain.\n\nAllows for wear of a helmet covering the upper head and separate glasses/goggles in the same layer. -->
+  <VCR.GlassesHelmetTooltip>Cambia la protección ocular para cubrir solo los ojos en lugar de incluir el cráneo o el cerebro.\n\nPermite usar un casco que cubra la parte superior de la cabeza y gafas/antiparras separadas en la misma capa.</VCR.GlassesHelmetTooltip>
+	<!-- EN: Mouth Covers Nose -->
+  <VCR.NoseMouthPatch>La boca cubre la nariz</VCR.NoseMouthPatch>
+	<!-- EN: The nose bodypart is included in the mouth bodypart group.\n\nIn Vanilla, the nose is not covered by the mouth even though it is supposed to based on the text of the cloth mask from biotech. -->
+  <VCR.NoseMouthTooltip>La parte del cuerpo de la nariz se incluye en el grupo de partes del cuerpo de la boca.\n\nEn Vanilla, la nariz no está cubierta por la boca aunque se supone que debería estarlo según el texto de la máscara de tela de Biotech.</VCR.NoseMouthTooltip>
+	<!-- EN: Proper Mask and Face Coverage -->
+  <VCR.MaskPatch>Cobertura adecuada de máscara y cara</VCR.MaskPatch>
+	<!-- EN: Changes Several Vanilla and DLC items to have coverage that is closer to what they visually or thematically cover.\n\nVisage Mask and Gas Mask now cover the eyes and mouth instead of full head.\nBroadwrap covers shoulders, neck, and upper head instead of shoulders, neck, and full head.(eyes and mouth are no longer covered)\nWar Veil covers mouth instead of full head.\nWar Mask covers upper head and mouth instead of full head. (eyes are no longer covered) -->
+  <VCR.MaskTooltip>Cambia varios artículos de Vanilla y DLC para tener una cobertura más cercana a lo que cubren visual o temáticamente.\n\nLa máscara de rostro y la máscara de gas ahora cubren los ojos y la boca en lugar de toda la cabeza.\nEl pañuelo ancho cubre los hombros, el cuello y la parte superior de la cabeza en lugar de los hombros, el cuello y toda la cabeza (los ojos y la boca ya no están cubiertos).\nEl velo de guerra cubre la boca en lugar de toda la cabeza.\nLa máscara de guerra cubre la parte superior de la cabeza y la boca en lugar de toda la cabeza (los ojos ya no están cubiertos).</VCR.MaskTooltip>
+	<!-- EN: Headsets are not Helmets -->
+  <VCR.HeadsetPatch>Los auriculares no son cascos</VCR.HeadsetPatch>
+	<!-- EN: Moves the gunlink, airwire headset, and integrator headsets from the headgear layer to the eyecover layer\n\nAllows for wearing a headset along with a helmet. -->
+  <VCR.HeadsetTooltip>Mueve el enlace de arma, los auriculares de cable aéreo y los auriculares integradores de la capa de sombreros a la capa de cubierta ocular\n\nPermite usar auriculares junto con un casco.</VCR.HeadsetTooltip>
+	<!-- EN: Array Headset is Glasses -->
+  <VCR.ArrayHeadsetPatch>Los auriculares de matriz son gafas</VCR.ArrayHeadsetPatch>
+	<!-- EN: Changes the bodypart group of the array headset from upper head to eyes only and the MechCommander helmet from full head to upper head only.\n\nAllows for wear of the array headset with an upper head covering helmet like the patched mechcommander helmet or flak helmet. -->
+  <VCR.ArrayHeadsetTooltip>Cambia el grupo de partes del cuerpo de los auriculares de matriz de la parte superior de la cabeza a solo los ojos y el casco de comandante meca de cabeza completa a solo parte superior de la cabeza.\n\nPermite el uso de los auriculares de matriz con un casco que cubra la parte superior de la cabeza, como el casco de comandante meca parcheado o el casco antibalas.</VCR.ArrayHeadsetTooltip>
+	<!-- EN: Enable improved headgear layering (Does not need restart) -->
+  <VCR.ApparelTweaks>Habilitar capas de sombreros mejoradas (No necesita reinicio)</VCR.ApparelTweaks>
+	<!-- EN: Slightly Tweaks vanilla's headgear layering rules to allow for some headgears to render in front of the face, but under other hats or hair.\n\nFor modders that want their apparel to render in front of the pawn's face, but under their hair, enable the tags "hatRenderedFrontOfFace" and "forceRenderUnderHair"\nTo hide the hair but render underneath any face apparel, enable the tag "hatRenderedAboveBody" and disable "hatRenderedFrontOfFace" on your apparel. -->
+  <VCR.ApparelTweaksTooltip>Ajusta ligeramente las reglas de capas de sombreros de vanilla para permitir que algunos sombreros se rendericen frente a la cara, pero debajo de otros sombreros o cabello.\n\nPara los modders que desean que su vestimenta se renderice frente a la cara del peón, pero debajo de su cabello, habiliten las etiquetas "hatRenderedFrontOfFace" y "forceRenderUnderHair"\nPara ocultar el cabello pero renderizar debajo de cualquier vestimenta facial, habiliten la etiqueta "hatRenderedAboveBody" y deshabiliten "hatRenderedFrontOfFace" en su vestimenta.</VCR.ApparelTweaksTooltip>
+	
+	<!-- EN: Weapon w/ Skill -->
+  <VCR.AdjWeapon>Arma c/ Habilidad</VCR.AdjWeapon>
+	<!-- EN: Weather w/ Skill -->
+  <VCR.AdjWeather>Clima c/ Habilidad</VCR.AdjWeather>
+	<!-- EN: Evasion -->
+  <VCR.EvasionRead>Evasión</VCR.EvasionRead>
+	<!-- EN: Evasion w/ Skill -->
+  <VCR.AdjEvasionRead>Evasión c/ Habilidad</VCR.AdjEvasionRead>
+	<!-- EN: Target Side -->
+  <VCR.TargetSide>Lado del objetivo</VCR.TargetSide>
+	<!-- EN: Chance to hit  -->
+  <VCR.HeightChance>Probabilidad de golpear</VCR.HeightChance>
+	<!-- EN: Parried -->
+  <VCR.TextMote_Parry>Parado</VCR.TextMote_Parry>
+	
+	<!-- EN: None -->
+  <VCR.Undefined>Ninguno</VCR.Undefined>
+	<!-- EN: Bottom -->
+  <VCR.Bottom>Inferior</VCR.Bottom>
+	<!-- EN: Middle -->
+  <VCR.Middle>Medio</VCR.Middle>
+	<!-- EN: Top -->
+  <VCR.Top>Superior</VCR.Top>
+	
+	<!-- EN: Target mode: {0} -->
+  <VCR.CommandSetTargetingMode>Modo de objetivo: {0}</VCR.CommandSetTargetingMode>
+	<!-- EN: Attacks from this pawn will be weighted to hit parts with this height. -->
+  <VCR.CommandSetTargetingModeDesc>Los ataques de este peón se ponderarán para golpear partes con esta altura.</VCR.CommandSetTargetingModeDesc>
+	
+	<!-- EN: Final Melee Hit Chance: {0} -->
+  <VCR.MeleeHitTotal>Probabilidad final de golpe cuerpo a cuerpo: {0}</VCR.MeleeHitTotal>
+
+	<!-- EN: Melee hit chance: {0} -->
+  <VCR.MeleeHitChance>Probabilidad de golpe cuerpo a cuerpo: {0}</VCR.MeleeHitChance>
+	<!-- EN: Base Melee hit chance: {0} -->
+  <VCR.MeleeHitChanceBase>Probabilidad base de golpe cuerpo a cuerpo: {0}</VCR.MeleeHitChanceBase>
+	<!-- EN: Offset for  -->
+  <VCR.MeleeOffset>Compensación por </VCR.MeleeOffset>
+	<!-- EN: outdoors and daytime: {0} -->
+  <VCR.OutdoorsLit>exteriores y día: {0}</VCR.OutdoorsLit>
+	<!-- EN: outdoors and night-time: {0} -->
+  <VCR.OutdoorsDark>exteriores y noche: {0}</VCR.OutdoorsDark>
+	<!-- EN: indoors and lit: {0} -->
+  <VCR.IndoorsLit>interiores e iluminado: {0}</VCR.IndoorsLit>
+	<!-- EN: indoors and dark: {0} -->
+  <VCR.IndoorsDark>interiores y oscuro: {0}</VCR.IndoorsDark>
+	<!-- EN: Target Dodge Chance: 0% (not in melee) -->
+  <VCR.TargetCannotDodge>Prob. de esquiva del objetivo: 0% (no en cuerpo a cuerpo)</VCR.TargetCannotDodge>
+	<!-- EN: Target Dodge Chance: {0} -->
+  <VCR.TargetDodgeChance>Prob. de esquiva del objetivo: {0}</VCR.TargetDodgeChance>
+	<!-- EN: Base Dodge Chance: {0} -->
+  <VCR.MeleeDodgeChanceBase>Prob. base de esquiva: {0}</VCR.MeleeDodgeChanceBase>
+	<!-- EN: Melee Hit Chance: 100% (suprise attack) -->
+  <VCR.SupriseAttack>Prob. de golpe cuerpo a cuerpo: 100% (ataque sorpresa)</VCR.SupriseAttack>
+	<!-- EN: Melee Hit Chance: 100% (Target Immobile) -->
+  <VCR.ImmobileAttack>Prob. de golpe cuerpo a cuerpo: 100% (Objetivo inmóvil)</VCR.ImmobileAttack>
+	<!-- EN: Enemy Parry Chance: {0} -->
+  <VCR.TargetParryChance>Prob. de parada del enemigo: {0}</VCR.TargetParryChance>
+
+
+</LanguageData>

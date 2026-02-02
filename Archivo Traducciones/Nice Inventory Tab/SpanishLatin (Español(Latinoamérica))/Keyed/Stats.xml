@@ -1,0 +1,150 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Max range of attack -->
+  <NIT_MaxRangeOfAttackTip>Alcance máximo de ataque</NIT_MaxRangeOfAttackTip>
+  <!-- EN: Optimal range: {0} ~ {1} m ({2} ±{3}) -->
+  <NIT_OptimalRangeTip>Alcance óptimo: {0} ~ {1} m ({2} ±{3})</NIT_OptimalRangeTip>
+  <!-- EN: At {0} m: {1} -->
+  <NIT_AtRangeTip>A {0} m: {1}</NIT_AtRangeTip>
+  
+  <!-- EN: Armor penetration -->
+  <NIT_ArmorPenetration>Penetración de armadura</NIT_ArmorPenetration>
+  <!-- EN: Ranged DPS -->
+  <NIT_RangedDPSTip>DPS a distancia</NIT_RangedDPSTip>
+  <!-- EN: Melee DPS -->
+  <NIT_MeleeDPSTip>DPS cuerpo a cuerpo</NIT_MeleeDPSTip>
+  <!-- EN: DPS at optimal range -->
+  <NIT_DPSatOptimalRange>DPS en alcance óptimo</NIT_DPSatOptimalRange>
+  <!-- EN: DPS with 100% accuracy -->
+  <NIT_DPS100Accuracy>DPS con 100% de precisión</NIT_DPS100Accuracy>
+  <!-- EN: Pawn modifiers -->
+  <NIT_PawnModifiers>Modificadores del colono</NIT_PawnModifiers>
+  <!-- EN: One shot damage -->
+  <NIT_OneShotDamage>Daño por disparo</NIT_OneShotDamage>
+  <!-- EN: Damage -->
+  <NIT_Damage>Daño</NIT_Damage>
+
+  <!-- EN: Melee -->
+  <NIT_Melee>Cuerpo a cuerpo</NIT_Melee>
+  <!-- EN: Ranged -->
+  <NIT_Ranged>A distancia</NIT_Ranged>
+  <!-- EN: Range -->
+  <NIT_Range>Alcance</NIT_Range>
+  <!-- EN: Speed -->
+  <NIT_Speed>Velocidad</NIT_Speed>
+
+  <!-- EN: Sharp -->
+  <NIT_Sharp>Cortante</NIT_Sharp>
+  <!-- EN: Blunt -->
+  <NIT_Blunt>Contundente</NIT_Blunt>
+  <!-- EN: Heat -->
+  <NIT_Heat>Calor</NIT_Heat>
+  <!-- EN: Temperature range -->
+  <NIT_TemperatureRangeShort>Rango de temperatura</NIT_TemperatureRangeShort>
+
+  <!-- EN: Toxic -->
+  <NIT_Toxic>Tóxico</NIT_Toxic>
+  <!-- EN: Vacuum -->
+  <NIT_Vacuum>Vacío</NIT_Vacuum>
+  <!-- EN: Flam. -->
+  <NIT_Flammability>Flam.</NIT_Flammability>
+  <!-- EN: Psy. sens -->
+  <NIT_Psychic>Sens. psi.</NIT_Psychic>
+
+  <!-- EN: Medical -->
+  <NIT_Medical>Médico</NIT_Medical>
+  <!-- EN: Social -->
+  <NIT_Social>Social</NIT_Social>
+  <!-- EN: Negotiation -->
+  <NIT_Negotiation>Negociación</NIT_Negotiation>
+  <!-- EN: Meditation -->
+  <NIT_Meditation>Meditación</NIT_Meditation>
+
+  <!-- EN: Mass -->
+  <NIT_Mass>Masa</NIT_Mass>
+
+  <!-- EN: Combat -->
+  <NIT_Combat>Combate</NIT_Combat>
+  <!-- EN: Resistances -->
+  <NIT_Resistances>Resistencias</NIT_Resistances>
+  <!-- EN: Inventory -->
+  <NIT_Inventory>Inventario</NIT_Inventory>
+  <!-- EN: Equipment -->
+  <NIT_Equipment>Equipo</NIT_Equipment>
+  <!-- EN: Apparel -->
+  <NIT_Apparel>Ropa</NIT_Apparel>
+  <!-- EN: Mass and bulk -->
+  <NIT_MassAndBulk>Masa y volumen</NIT_MassAndBulk>
+
+  <!-- EN: Suitable apparel -->
+  <NIT_AvailableApparel>Ropa adecuada</NIT_AvailableApparel>
+  <!-- EN: Wear -->
+  <NIT_Wear>Vestir</NIT_Wear>
+  <!-- EN: Nothing to wear -->
+  <NIT_NothingToWear>Nada que vestir</NIT_NothingToWear>
+  <!-- EN: Make -->
+  <NIT_Make>Fabricar</NIT_Make>
+  <!-- EN: Nothing to make -->
+  <NIT_NothingToMake>Nada que fabricar</NIT_NothingToMake>
+
+  <!-- EN: {0} for {1} -->
+  <NIT_AutoNameRecipe>{0} para {1}</NIT_AutoNameRecipe>
+  <!-- EN: x{0} by {1} -->
+  <NIT_PawnModifierPercent>x{0} por {1}</NIT_PawnModifierPercent>
+  <!-- EN: {0} by {1} -->
+  <NIT_PawnModifierPercentSigned>{0} por {1}</NIT_PawnModifierPercentSigned>
+  <!-- EN: {0} ({1} tasks) -->
+  <NIT_WorktableTasks>{0} ({1} tareas)</NIT_WorktableTasks>
+
+  <!-- EN: Biocoded -->
+  <NIT_Biocoded>Biocodificado</NIT_Biocoded>
+
+  <!-- EN: Open optimization master -->
+  <OpenOptimizationMaster>Abrir gestor de optimización</OpenOptimizationMaster>
+
+  <!-- EN: Torn apparel -->
+  <NIT_ApparelDamageWarning>Ropa desgarrada</NIT_ApparelDamageWarning>
+  <!-- EN: Apparel are not suitable for nudists -->
+  <NIT_ApparelNudistWarning>La ropa no es apta para nudistas</NIT_ApparelNudistWarning>
+  <!-- EN: Weapon is not usable with energy shield -->
+  <NIT_WeaponNotUsableWithShieldWarning>El arma no es usable con escudo de energía</NIT_WeaponNotUsableWithShieldWarning>
+  
+  <!-- EN: Unforce -->
+  <NIT_UnforceApparel>No forzar</NIT_UnforceApparel>
+  <!-- EN: Force -->
+  <NIT_ForceApparel>Forzar</NIT_ForceApparel>
+
+  <!-- EN: Work speed -->
+  <NIT_WorkEfficiency>Velocidad de trabajo</NIT_WorkEfficiency>
+
+  <!-- EN: Clear -->
+  <NIT_ClearWork>Limpiar</NIT_ClearWork>
+  <!-- EN: Eat -->
+  <NIT_EatWork>Comer</NIT_EatWork>
+  <!-- EN: Repair -->
+  <NIT_RepairWork>Reparar</NIT_RepairWork>
+  <!-- EN: Construction -->
+  <NIT_ConstructionWork>Construcción</NIT_ConstructionWork>
+  <!-- EN: Mining -->
+  <NIT_MiningWork>Minería</NIT_MiningWork>
+  <!-- EN: Cooking -->
+  <NIT_CookingWork>Cocina</NIT_CookingWork>
+  <!-- EN: Crafting -->
+  <NIT_CraftingWork>Artesanía</NIT_CraftingWork>
+  <!-- EN: Plants -->
+  <NIT_PlantsWork>Plantas</NIT_PlantsWork>
+  <!-- EN: Animals -->
+  <NIT_AnimalsWork>Animales</NIT_AnimalsWork>
+  <!-- EN: Medical -->
+  <NIT_MedicalWork>Médico</NIT_MedicalWork>
+  <!-- EN: Social -->
+  <NIT_SocialWork>Social</NIT_SocialWork>
+  <!-- EN: Intellectual -->
+  <NIT_IntellectualWork>Intelectual</NIT_IntellectualWork>
+  <!-- EN: Artistic -->
+  <NIT_ArtisticWork>Artístico</NIT_ArtisticWork>
+  <!-- EN: Shooting -->
+  <NIT_ShootingWork>Disparo</NIT_ShootingWork>
+  <!-- EN: Melee -->
+  <NIT_MeleeWork>Cuerpo a cuerpo</NIT_MeleeWork>
+</LanguageData>

@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: gene infected -->
+  <VRE_GeneInfected.label>infectado genéticamente</VRE_GeneInfected.label>
+  <!-- EN: This person was the victim of a gene infection that altered their xenotype. This can't be cured. -->
+  <VRE_GeneInfected.description>Esta persona fue víctima de una infección genética que alteró su xenotipo. Esto no se puede curar.</VRE_GeneInfected.description>
+  
+  <!-- EN: gene infection -->
+  <VRE_GeneInfection.label>infección genética</VRE_GeneInfection.label>
+  <!-- EN: This person was implanted a copy of a xenogerm through a melee attack. This has triggered a progressing infection which, if left untreated will apply this xenogerm to them. -->
+  <VRE_GeneInfection.description>A esta persona se le implantó una copia de un xenogermen a través de un ataque cuerpo a cuerpo. Esto ha desencadenado una infección progresiva que, si no se trata, le aplicará este xenogermen.</VRE_GeneInfection.description>
+  <!-- EN: {0} has been afflicted with a gene infection! If the infection is not treated successfully, they'll be painfully converted into the xenotype of the person who infected them. -->
+  <VRE_GeneInfection.comps.HediffComp_Discoverable.discoverLetterText>¡{0} ha contraído una infección genética! Si la infección no se trata con éxito, se convertirá dolorosamente en el xenotipo de la persona que lo infectó.</VRE_GeneInfection.comps.HediffComp_Discoverable.discoverLetterText>
+  <!-- EN: a gene infection -->
+  <VRE_GeneInfection.labelNoun>una infección genética</VRE_GeneInfection.labelNoun>
+  <!-- EN: minor -->
+  <VRE_GeneInfection.stages.minor.label>menor</VRE_GeneInfection.stages.minor.label>
+  <!-- EN: major -->
+  <VRE_GeneInfection.stages.major.label>mayor</VRE_GeneInfection.stages.major.label>
+  <!-- EN: extreme -->
+  <VRE_GeneInfection.stages.extreme-0.label>extrema</VRE_GeneInfection.stages.extreme-0.label>
+  <!-- EN: extreme -->
+  <VRE_GeneInfection.stages.extreme-1.label>extrema</VRE_GeneInfection.stages.extreme-1.label>
+  
+</LanguageData>

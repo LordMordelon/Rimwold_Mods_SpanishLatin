@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: ADP chain bolt -->
+  <USH_ADP_ChainBolt.label>rayo cadena PDA</USH_ADP_ChainBolt.label>
+  
+  <!-- EN: ADP pylon core -->
+  <USH_Gun_ADPTurret.label>núcleo pilar PDA</USH_Gun_ADPTurret.label>
+  <!-- EN: A glittertech offensive core made out of plasteel. -->
+  <USH_Gun_ADPTurret.description>Un núcleo ofensivo de mundobrillante hecho de plastiacero.</USH_Gun_ADPTurret.description>
+  <!-- EN: ADP pylon core -->
+  <USH_Gun_ADPTurret.verbs.Verb_Shoot.label>disparar núcleo PDA</USH_Gun_ADPTurret.verbs.Verb_Shoot.label>
+  
+  <!-- EN: ADP chain pylon -->
+  <USH_Turret_ADP.label>torreta cadena PDA</USH_Turret_ADP.label>
+  <!-- EN: An automatic turret utilizing a plasteel core to charge and spread powerful ADP bolts. The core must be refurbished after use. It cannot fire at close-up targets, and may explode when damaged. -->
+  <USH_Turret_ADP.description>Torreta automática que utiliza un núcleo de plastiacero para cargar y dispersar potentes rayos PDA. El núcleo debe ser renovado tras su uso. No puede disparar a objetivos cercanos y puede explotar si se daña.</USH_Turret_ADP.description>
+  <!-- EN: Core durability -->
+  <USH_Turret_ADP.comps.CompRefuelable.fuelGizmoLabel>Durabilidad del núcleo</USH_Turret_ADP.comps.CompRefuelable.fuelGizmoLabel>
+  <!-- EN: Shots until core change -->
+  <USH_Turret_ADP.comps.CompRefuelable.fuelLabel>Disparos hasta cambio de núcleo</USH_Turret_ADP.comps.CompRefuelable.fuelLabel>
+  <!-- EN: Needs new core -->
+  <USH_Turret_ADP.comps.CompRefuelable.outOfFuelMessage>Necesita núcleo nuevo</USH_Turret_ADP.comps.CompRefuelable.outOfFuelMessage>
+  
+</LanguageData>

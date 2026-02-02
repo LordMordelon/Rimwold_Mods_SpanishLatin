@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!--Misc-->  
+  <!-- EN: Factor from user -->
+  <MU_StatsReport_FactorFromHolder>Factor del usuario</MU_StatsReport_FactorFromHolder>
+
+  
+  <!--Mech stats-->
+  <!-- EN: Upgradable mech -->
+  <MU_IsUpgradableMechanoid>Mecanoide mejorable</MU_IsUpgradableMechanoid>
+  <!-- EN: This mechanoid can be upgraded. -->
+  <MU_IsUpgradableMechanoid_Desc>Este mecanoide puede ser mejorado.</MU_IsUpgradableMechanoid_Desc>
+  
+  <!-- EN: Upgrades -->
+  <MU_UpgradesInsideMech>Mejoras instaladas</MU_UpgradesInsideMech>
+  <!-- EN: Installed upgrades. -->
+  <MU_UpgradesInsideMech_Desc>Mejoras instaladas.</MU_UpgradesInsideMech_Desc>
+  
+  <!--Modifiers from upgrades-->
+  <!-- EN: Offsets from upgrades -->
+  <MU_StatOffsetsFromUpgrades>Desviaciones por mejoras</MU_StatOffsetsFromUpgrades>
+  <!-- EN: Factors from upgrades -->
+  <MU_StatFactorsFromUpgrades>Factores por mejoras</MU_StatFactorsFromUpgrades>
+  
+  <!-- EN: Gives personal shield -->
+  <MU_GivesPersonalShield>Proporciona escudo personal</MU_GivesPersonalShield>
+  <!-- EN: This upgrade creates shield bubble around mechanoid. -->
+  <MU_GivesPersonalShield_Desc>Esta mejora crea una burbuja de escudo alrededor del mecanoide.</MU_GivesPersonalShield_Desc>
+  
+  <!--Upgrade stats-->
+  <!-- EN: Command range -->
+  <MU_CommandRange>Rango de comando</MU_CommandRange>
+  <!-- EN: Range around mechanoid where other mechs can be controlled. -->
+  <MU_CommandRange_Desc>Rango alrededor del mecanoide en el cual otros mecanoides pueden ser controlados.</MU_CommandRange_Desc>
+  
+  <!-- EN: Upgrade points -->
+  <MU_UpgradePoints>Puntos de mejora</MU_UpgradePoints>
+  <!-- EN: Upgradability which this upgrade takes. -->
+  <MU_UpgradePoints_Desc>Capacidad de mejora que consume esta mejora.</MU_UpgradePoints_Desc>
+  
+  <!-- EN: Allows remote control -->
+  <MU_AllowsRemoteControl>Permite control remoto</MU_AllowsRemoteControl>
+  <!-- EN: With this upgrade mechanoid can be controlled outside of command range. -->
+  <MU_AllowsRemoteControl_Desc>Con esta mejora, el mecanoide puede ser controlado fuera del rango de comando.</MU_AllowsRemoteControl_Desc>
+  
+  <!-- EN: minimum body size -->
+  <MU_MinBodySize>Tamaño corporal mínimo</MU_MinBodySize>
+  <!-- EN: This upgrade is only for mechs with body size equal or larger than this value. -->
+  <MU_MinBodySize_Desc>Esta mejora es solo para mecanoides con un tamaño corporal igual o mayor a este valor.</MU_MinBodySize_Desc>
+  
+  <!-- EN: maximum body size -->
+  <MU_MaxBodySize>Tamaño corporal máximo</MU_MaxBodySize>
+  <!-- EN: This upgrade is only for mechs with body size smaller than this value. -->
+  <MU_MaxBodySize_Desc>Esta mejora es solo para mecanoides con un tamaño corporal menor a este valor.</MU_MaxBodySize_Desc>
+  
+  <!-- EN: Upgradable mechs -->
+  <MU_MechanoidsToAdd>Mecanoides mejorables</MU_MechanoidsToAdd>
+  <!-- EN: Mechanoids which can be upgraded with this upgrade. -->
+  <MU_MechanoidsToAdd_Desc>Mecanoides que pueden ser mejorados con esta mejora.</MU_MechanoidsToAdd_Desc>
+  
+  <!-- EN: Reload cost -->
+  <MU_Stat_ReloadCost>Costo de recarga</MU_Stat_ReloadCost>
+  <!-- EN: The amount of items required to reload this object once. -->
+  <MU_Stat_ReloadCost_Desc>Cantidad de elementos necesarios para recargar este objeto una vez.</MU_Stat_ReloadCost_Desc>
+  
+  <!-- EN: Quality offset -->
+  <MU_QualityOffset>Modificador de calidad</MU_QualityOffset>
+  <!-- EN: Quality offset to crafting or construction. -->
+  <MU_QualityOffset_Desc>Modificador de calidad aplicado a la fabricación o construcción.</MU_QualityOffset_Desc>
+  
+</LanguageData>

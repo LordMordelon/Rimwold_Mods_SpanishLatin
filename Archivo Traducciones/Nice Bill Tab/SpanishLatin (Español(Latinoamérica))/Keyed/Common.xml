@@ -1,0 +1,154 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Mod enabled -->
+  <NiceBillTabEnabledMod>Mod habilitado</NiceBillTabEnabledMod>
+  <!-- EN: Damage -->
+  <FlatDamage>Daño</FlatDamage>
+  <!-- EN: Damage of one shot or attack -->
+  <FlatDamageTooltip>Daño de un disparo o ataque</FlatDamageTooltip>
+  <!-- EN: Damage (DPS) -->
+  <DamageDPS>Daño (DPS)</DamageDPS>
+  <!-- EN: Damage per second (DPS) is a measure that represents the average amount of damage a weapon deals per second of combat. It takes into account the attack preparation time, damage dealt, and attack/shooting speed. -->
+  <DamageDPSTooltip>Daño por segundo (DPS) es una medida que representa la cantidad media de daño que un arma inflige por segundo de combate. Tiene en cuenta el tiempo de preparación del ataque, el daño infligido y la velocidad de ataque/disparo.</DamageDPSTooltip>
+  <!-- EN: Fire rate -->
+  <WeaponFireRate>Cadencia de fuego</WeaponFireRate>
+  <!-- EN: Fire rate shows the number of shots per second. It includes cooldown and delays between shots in the burst.\n\n{0} / ({1} + {2}) = {3} -->
+  <WeaponFireRateTooltip>La cadencia de fuego muestra el número de disparos por segundo. Incluye el enfriamiento y los retrasos entre disparos en una ráfaga.\n\n{0} / ({1} + {2}) = {3}</WeaponFireRateTooltip>
+  <!-- EN: Total burst time -->
+  <WeaponTotalBurstTime>Tiempo total de ráfaga</WeaponTotalBurstTime>
+  <!-- EN: shot/sec -->
+  <ShotPerSecondShort>disp/s</ShotPerSecondShort>
+  <!-- EN: Cooldown -->
+  <CooldownReload>Enfriamiento</CooldownReload>
+  <!-- EN: sec -->
+  <SecondShort>s</SecondShort>
+  <!-- EN: Attack speed -->
+  <WeaponAttackSpeed>Velocidad de ataque</WeaponAttackSpeed>
+  <!-- EN: Attack speed is the time it takes to complete one attack. -->
+  <WeaponAttackSpeedTooltip>La velocidad de ataque es el tiempo que se tarda en completar un ataque.</WeaponAttackSpeedTooltip>
+
+  <!-- EN: Accuracy -->
+  <WeaponAccuracy>Precisión</WeaponAccuracy>
+  <!-- EN: close -->
+  <WeaponAccuracyTouch>Cuerpo a cuerpo</WeaponAccuracyTouch>
+  <!-- EN: short -->
+  <WeaponAccuracyShort>Corta</WeaponAccuracyShort>
+  <!-- EN: medium -->
+  <WeaponAccuracyMedium>Media</WeaponAccuracyMedium>
+  <!-- EN: long -->
+  <WeaponAccuracyLong>Larga</WeaponAccuracyLong>
+
+  <!-- EN: Does not cover -->
+  <NotCovers>No cubre</NotCovers>
+
+  <!-- EN: Paste bill here -->
+  <PasteBillHere>Pegar factura aquí</PasteBillHere>
+
+  <!-- EN: Make -->
+  <BillButton_Make>Fabricar</BillButton_Make>
+  <!-- EN: Cook -->
+  <BillButton_Cook>Cocinar</BillButton_Cook>
+  <!-- EN: Gestate -->
+  <BillButton_Gestate>Gestar</BillButton_Gestate>
+
+  <!-- EN: None can do this work -->
+  <NoOneCanDoThisWork>Nadie puede hacer este trabajo</NoOneCanDoThisWork>
+
+  <!-- EN: Filter bills by name. You can also filter by category. To do this, print {0} followed by the category name (or part of the word). -->
+  <BillFilterTip>Filtrar facturas por nombre. También puedes filtrar por categoría. Para ello, escribe {0} seguido del nombre de la categoría (o parte de la palabra).</BillFilterTip>
+  <!-- EN: Use {0} to filter by apparel layer. -->
+  <ApparelLayerFilterTip>Usa {0} para filtrar por capa de ropa.</ApparelLayerFilterTip>
+  <!-- EN: Use {0} to filter by mod or DLC. -->
+  <ModFilterTip>Usa {0} para filtrar por mod o DLC.</ModFilterTip>
+  <!-- EN: Available categories -->
+  <BillAvailableCategories>Categorías disponibles</BillAvailableCategories>
+
+  <!-- EN: Wide recipe list -->
+  <DefaultRecipeList>Lista de recetas amplia</DefaultRecipeList>
+  <!-- EN: Compact recipe list -->
+  <CompactRecipeList>Lista de recetas compacta</CompactRecipeList>
+  <!-- EN: Categorized recipe list -->
+  <CategorizedRecipeList>Lista de recetas categorizada</CategorizedRecipeList>
+
+  <!-- EN: Compare bars with colors -->
+  <CompareBarsWithColors>Comparar barras con colores</CompareBarsWithColors>
+  <!-- EN: Cannot compare recipes -->
+  <CompareRecipesFail>No se pueden comparar las recetas</CompareRecipesFail>
+
+  <!-- EN: Select material -->
+  <SelectMaterial>Seleccionar material</SelectMaterial>
+  <!-- EN: Maximize {0} -->
+  <StatMaximize>Maximizar {0}</StatMaximize>
+  <!-- EN: From materials in settlement -->
+  <MaximizeFromColonyMaterials>De materiales en el asentamiento</MaximizeFromColonyMaterials>
+  <!-- EN: From any material -->
+  <MaximizeFromAnyMaterial>De cualquier material</MaximizeFromAnyMaterial>
+  <!-- EN: Compare when selecting material -->
+  <CompareWhenSelectMaterial>Comparar al seleccionar material</CompareWhenSelectMaterial>
+  <!-- EN: Cannot find better material -->
+  <SearchBetterMaterialFail>No se puede encontrar un material mejor</SearchBetterMaterialFail>
+
+  <!-- EN: Glowing yellow hint enabled -->
+  <GlowingYellowHintEnabled>Pista amarilla brillante activada</GlowingYellowHintEnabled>
+  <!-- EN: Use special symbol {0} to filter by category -->
+  <UseSpecialSymbolToFilterByCategory>Usa el símbolo especial {0} para filtrar por categoría</UseSpecialSymbolToFilterByCategory>
+  <!-- EN: mm -->
+  <CEmmShort>mm</CEmmShort>
+
+  <!-- EN: Open info -->
+  <OpenInfoDialog>Abrir información</OpenInfoDialog>
+  <!-- EN: Find on map -->
+  <FindOnMap>Encontrar en el mapa</FindOnMap>
+  <!-- EN: Queue task on available workbench -->
+  <CreateTaskOnAvailableWorkbench>Poner tarea en cola en banco de trabajo disponible</CreateTaskOnAvailableWorkbench>
+  <!-- EN: The requested object does not exist on map -->
+  <NoExistOnCurrentMap>El objeto solicitado no existe en el mapa</NoExistOnCurrentMap>
+  <!-- EN: Calculate with this ammo -->
+  <SelectThisAmmo>Calcular con esta munición</SelectThisAmmo>
+  <!-- EN: Use non-linear bars -->
+  <UseNonLinearBars>Usar barras no lineales</UseNonLinearBars>
+  <!-- EN: Show damage of single shot for ranged weapons -->
+  <ShowFlatDamageForRanged>Mostrar daño de un solo disparo para armas a distancia</ShowFlatDamageForRanged>
+  <!-- EN: Show damage of single hit for melee weapons -->
+  <ShowFlatDamageForMelee>Mostrar daño de un solo golpe para armas cuerpo a cuerpo</ShowFlatDamageForMelee>
+
+  <!-- EN: Armor - Sharp -->
+  <ArmorRatingSharpSimple>Blindaje - Cortante</ArmorRatingSharpSimple>
+  <!-- EN: Armor - Blunt -->
+  <ArmorRatingBluntSimple>Blindaje - Contundente</ArmorRatingBluntSimple>
+
+  <!-- EN: Tab height ({0}) -->
+  <BillTabHeight>Altura de la pestaña ({0})</BillTabHeight>
+  <!-- EN: Tab listing extra width ({0}) -->
+  <BillTabListingExtraWidth>Ancho extra de la lista ({0})</BillTabListingExtraWidth>
+  <!-- EN: Add 'Details...' button to bill queue -->
+  <AddDetailsButtonToBillQueue>Añadir botón 'Detalles...' a la cola de facturas</AddDetailsButtonToBillQueue>
+
+  <!-- EN: Stopping power -->
+  <StoppingPowerShort>Poder de detención</StoppingPowerShort>
+  <!-- EN: Show '{0}' -->
+  <ShowStatInfoUniversal>Mostrar '{0}'</ShowStatInfoUniversal>
+
+  <!-- EN: Common -->
+  <SettingsCommonTab>Común</SettingsCommonTab>
+  <!-- EN: Items -->
+  <SettingsItemTab>Objetos</SettingsItemTab>
+  <!-- EN: Experimental -->
+  <SettingsExperimentalTab>Experimental</SettingsExperimentalTab>
+
+  <!-- EN: Enable scroll up when bill added -->
+  <EnableScrollUpWhenBillAdded>Activar desplazamiento hacia arriba al añadir factura</EnableScrollUpWhenBillAdded>
+  <!-- EN: Enable classic suspend button -->
+  <EnableClassicSuspendButton>Activar botón de suspender clásico</EnableClassicSuspendButton>
+
+  <!-- EN: Show bar ticks -->
+  <ShowBarTicks>Mostrar marcas de barra</ShowBarTicks>
+  <!-- EN: Replace 'infinity' to symbol -->
+  <ReplaceInfinityTextToSymbol>Reemplazar 'infinito' por símbolo</ReplaceInfinityTextToSymbol>
+
+  <!-- EN: Enable auto bill naming -->
+  <EnableAutoBillNaming>Activar nombres automáticos de facturas</EnableAutoBillNaming>
+  <!-- EN: Enable colorless mode -->
+  <EnableColorlessMode>Activar modo sin color</EnableColorlessMode>
+  
+</LanguageData>

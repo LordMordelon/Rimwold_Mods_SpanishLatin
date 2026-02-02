@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: joining the cult -->
+  <VAEI_JoinCult.label>uniéndose al culto</VAEI_JoinCult.label>
+  <!-- EN: Mental state: Joining the cult -->
+  <VAEI_JoinCult.baseInspectLine>Estado mental: Uniéndose al culto</VAEI_JoinCult.baseInspectLine>
+  <!-- EN: {0} has succumbed to the void influence.\n\n[PAWN_pronoun] has decided to leave and join the cult of the void. You can try to arrest [PAWN_objective] as [PAWN_pronoun] leaves. Otherwise, you may still see [PAWN_objective] next time the cultists decide to attack you. -->
+  <VAEI_JoinCult.beginLetter>{0} ha sucumbido a la influencia del vacío.\n\n[PAWN_pronoun] ha decidido irse y unirse al culto del vacío. Puedes intentar arrestar a [PAWN_objective] mientras se va. De lo contrario, es posible que [PAWN_objective] vuelva a aparecer la próxima vez que los cultistas decidan atacarte.</VAEI_JoinCult.beginLetter>
+  <!-- EN: joining the cult -->
+  <VAEI_JoinCult.beginLetterLabel>uniéndose al culto</VAEI_JoinCult.beginLetterLabel>
+  <!-- EN: {0} has had a change of heart and is coming back to the colony. -->
+  <VAEI_JoinCult.recoveryMessage>{0} ha cambiado de opinión y está regresando a la colonia.</VAEI_JoinCult.recoveryMessage>
+  
+  <!-- EN: Madness -->
+  <VAEI_Madness.label>Locura</VAEI_Madness.label>
+  <!-- EN: Mental state: Madness -->
+  <VAEI_Madness.baseInspectLine>Estado mental: Locura</VAEI_Madness.baseInspectLine>
+  <!-- EN: {PAWN_nameDef} has lost the last connection to {PAWN_possessive} former self. {PAWN_possessive} regard for health, family, friendship, and love has been shattered by continuous exposure to the dark, corrupting psychic forces of the void.\n\n{PAWN_pronoun} will now enter a severe period of madness for several days as {PAWN_pronoun} struggles with {PAWN_possessive} altered mental state and the grim realization of the deepening nightmare. While there's a chance {PAWN_pronoun} might overcome this crisis and restore {PAWN_possessive} sanity, it's far more likely that {PAWN_pronoun} will be completely inhumanized. -->
+  <VAEI_Madness.beginLetter>{PAWN_nameDef} ha perdido la última conexión con su antiguo ser. Su consideración por la salud, la familia, la amistad y el amor ha sido destrozada por la exposición continua a las fuerzas psíquicas oscuras y corruptoras del vacío.\n\nAhora entrará en un período severo de locura durante varios días mientras lucha con su estado mental alterado y la sombría comprensión de la pesadilla que se profundiza. Si bien existe la posibilidad de que pueda superar esta crisis y restaurar su cordura, es mucho más probable que termine completamente deshumanizado.</VAEI_Madness.beginLetter>
+  
+  <!-- EN: sacrificial -->
+  <VAEI_Sacrificial.label>sacrificio</VAEI_Sacrificial.label>
+  <!-- EN: Mental state: Sacrificial -->
+  <VAEI_Sacrificial.baseInspectLine>Estado mental: Sacrificio</VAEI_Sacrificial.baseInspectLine>
+  
+  <!-- EN: mockery spree -->
+  <VAEI_ViciousMockery.label>racha de burlas</VAEI_ViciousMockery.label>
+  <!-- EN: Mental state: Mockery spree -->
+  <VAEI_ViciousMockery.baseInspectLine>Estado mental: Racha de burlas</VAEI_ViciousMockery.baseInspectLine>
+  <!-- EN: {0} is on an mockery spree.\n\n[PAWN_pronoun] will wander around, randomly mocking others. -->
+  <VAEI_ViciousMockery.beginLetter>{0} está en una racha de burlas.\n\nDeambulará, burlándose aleatoriamente de los demás.</VAEI_ViciousMockery.beginLetter>
+  <!-- EN: {0} is no longer on an mockery spree. -->
+  <VAEI_ViciousMockery.recoveryMessage>{0} ya no está en una racha de burlas.</VAEI_ViciousMockery.recoveryMessage>
+  
+  <!-- EN: void drawing -->
+  <VAEI_VoidDrawing.label>dibujo del vacío</VAEI_VoidDrawing.label>
+  <!-- EN: Mental state: Void Drawing -->
+  <VAEI_VoidDrawing.baseInspectLine>Estado mental: Dibujo del vacío</VAEI_VoidDrawing.baseInspectLine>
+  
+</LanguageData>

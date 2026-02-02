@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<!-- EN: Persona weapon for {PAWN_nameDef} -->
+  <VPWE.GainedPersonaWeaponTitle>Arma con IA para {PAWN_nameDef}</VPWE.GainedPersonaWeaponTitle>
+	<!-- EN: Because {PAWN_nameDef} has reached a rank of {1} with The Empire, they can now be granted an ultratech persona weapon bound to them.
+You can select the type of the weapon, as well as fully customize the look of it and the persona it comes with. Alternatively, you can close this notification and revisit it later.
+The weapon will arrive immediately via drop pod and will be bound to {PAWN_nameDef}. -->
+  <VPWE.GainedPersonaWeaponDesc>Debido a que {PAWN_nameDef} ha alcanzado el rango de {1} con el Imperio, ahora se le puede otorgar un arma con IA ultratecnológica vinculada.\nPuedes seleccionar el tipo de arma, así como personalizar completamente su apariencia y la IA que la acompaña. Alternativamente, puedes cerrar esta notificación y revisarla más tarde.\nEl arma llegará inmediatamente a través de una cápsula de transporte y se vinculará a {PAWN_nameDef}.</VPWE.GainedPersonaWeaponDesc>
+	<!-- EN: Claim a {0} -->
+  <VPWE.ClaimWeapon>Reclamar {0}</VPWE.ClaimWeapon>
+	<!-- EN: Postpone -->
+  <VPWE.Postpone>Posponer</VPWE.Postpone>
+	<!-- EN: Claim for {PAWN_nameDef} -->
+  <VPWE.ClaimFor>Reclamar para {PAWN_nameDef}</VPWE.ClaimFor>
+	<!-- EN: Persona:  -->
+  <VPWE.Persona>IA: </VPWE.Persona>
+	<!-- EN: {PAWN_nameDef} is already bonded with {1}. Are you sure you want to claim a new persona weapon? -->
+  <VPWE.AlreadyBondedWarning>{PAWN_nameDef} ya tiene un vínculo con {1}. ¿Estás seguro de que quieres reclamar una nueva arma con IA?</VPWE.AlreadyBondedWarning>
+	<!-- EN: Cargo pods (Persona weapon) -->
+  <VPWE.ReceivedWeaponTitle>Cápsulas de carga (Arma con IA)</VPWE.ReceivedWeaponTitle>
+	<!-- EN: {0} for {PAWN_nameDef} has arrived nearby. -->
+  <VPWE.ReceivedWeaponDesc>{0} para {PAWN_nameDef} ha llegado cerca.</VPWE.ReceivedWeaponDesc>
+	<!-- EN: Psycast:  -->
+  <VPWE.Psycast>Psicoconjuro: </VPWE.Psycast>
+	<!-- EN: Reject -->
+  <VPWE.RejectLetter>Rechazar</VPWE.RejectLetter>
+	<!-- EN: Are you sure you want to reject a persona weapon for {PAWN_labelShort}? {PAWN_pronoun} won't be offered another one again. -->
+  <VPWE.ConfirmReject>¿Estás seguro de que quieres rechazar un arma con IA para {PAWN_labelShort}? No se le ofrecerá otra de nuevo.</VPWE.ConfirmReject>
+	<!-- EN: {PAWN_labelShort} is dead -->
+  <VPWE.NotAllowedDead>{PAWN_labelShort} ha muerto</VPWE.NotAllowedDead>
+	<!-- EN: {PAWN_labelShort} no longer has the required title -->
+  <VPWE.NotAllowedNoTitle>{PAWN_labelShort} ya no tiene el título requerido</VPWE.NotAllowedNoTitle>
+	<!-- EN: {PAWN_labelShort} is no longer part of your faction -->
+  <VPWE.NotPlayerFaction>{PAWN_labelShort} ya no es parte de tu facción</VPWE.NotPlayerFaction>
+	<!-- EN: {WEAPON_label} cannot be customized and will be delivered with one or more random traits.\n\nDo you want to continue? -->
+  <VPWE.NoCustomizationWeapon>{WEAPON_label} no se puede personalizar y se entregará con uno o más rasgos aleatorios.\n\n¿Quieres continuar?</VPWE.NoCustomizationWeapon>
+	<!-- EN: Could not find a spot to deliver {WEAPON_label} for {PAWN_labelShort}. -->
+  <VPWE.NoDeliverySpotFound>No se pudo encontrar un lugar para entregar {WEAPON_label} para {PAWN_labelShort}.</VPWE.NoDeliverySpotFound>
+</LanguageData>

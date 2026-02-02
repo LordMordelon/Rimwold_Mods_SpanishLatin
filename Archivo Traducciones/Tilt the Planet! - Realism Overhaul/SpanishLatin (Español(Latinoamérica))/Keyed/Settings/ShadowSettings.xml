@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+	<!-- EN: Max Shadow Length: {0} -->
+  <MaxShadowLength>Longitud máxima de sombra: {0}</MaxShadowLength>
+	<!-- EN: The max length a shadow can be in tiles -->
+  <MaxShadowLength_Tooltip>La longitud máxima que puede tener una sombra en casillas</MaxShadowLength_Tooltip>
+
+	<!-- EN: Max Shadow Strength: {0} -->
+  <MaxShadowStrength>Fuerza máxima de sombra: {0}</MaxShadowStrength>
+	<!-- EN: Lightens shadows (0: no shadows, 0-1 lighter shadows, 1: default shadows) -->
+  <MaxShadowStrength_Tooltip>Aclara las sombras (0: sin sombras, 0-1 sombras más claras, 1: sombras predeterminadas)</MaxShadowStrength_Tooltip>
+
+	<!-- EN: Shadow Scaling: {0} -->
+  <ShadowScaling>Escala de sombra: {0}</ShadowScaling>
+	<!-- EN: How long a shadow is when the sun is 45 degrees high (shadow length equals object height)\nWill make objects seem to be taller or shorter -->
+  <ShadowScaling_Tooltip>Qué tan larga es una sombra cuando el sol está a 45 grados de altura (la longitud de la sombra es igual a la altura del objeto)\nHará que los objetos parezcan más altos o más bajos</ShadowScaling_Tooltip>
+
+	<!-- EN: Dark Rooms -->
+  <DarkRooms>Habitaciones oscuras</DarkRooms>
+	<!-- EN: May require exiting to main menu -->
+  <DarkRooms_Warning>Puede requerir salir al menú principal</DarkRooms_Warning>
+	<!-- EN: Rooms without indoor lighting are pitch black -->
+  <DarkRooms_Tooltip>Las habitaciones sin iluminación interior están completamente a oscuras</DarkRooms_Tooltip>
+
+  <!-- EN: Shadow Overlay Correction -->
+  <ShadowOverlayCorrection>Corrección de superposición de sombras</ShadowOverlayCorrection>
+  <!-- EN: Disable this setting if you notice game stuttering -->
+  <ShadowOverlayCorrection_Warning>Desactiva esta configuración si notas tartamudeo en el juego</ShadowOverlayCorrection_Warning>
+  <!-- EN: Fixes vanilla bad shadow overlaps (can cause one noticeable stutter every 6 to 12 in-game hours) -->
+  <ShadowOverlayCorrection_Warning_Tooltip>Corrige las malas superposiciones de sombras del juego base (puede causar un tartamudeo notable cada 6 a 12 horas en el juego)</ShadowOverlayCorrection_Warning_Tooltip>
+
+	<!-- EN: Real Shadow Defaults -->
+  <SetRealShadowDefaults>Valores predeterminados de sombras reales</SetRealShadowDefaults>
+	<!-- EN: Pretty Defaults -->
+  <SetPrettyShadowDefaults>Valores predeterminados bonitos</SetPrettyShadowDefaults>
+</LanguageData>

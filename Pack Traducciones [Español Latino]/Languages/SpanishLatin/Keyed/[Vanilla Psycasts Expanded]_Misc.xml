@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguagData>
+  <VPE.All>Todos</VPE.All>
+  <VPE.AlreadyHasPsycast>Ya conoce {0}</VPE.AlreadyHasPsycast>
+  <VPE.AlreadyPsyring>Ya lleva un anillo psíquico</VPE.AlreadyPsyring>
+  <VPE.AlreadyResearch>Ya investigado</VPE.AlreadyResearch>
+  <VPE.CurrentChanneling>Actualmente canalizando {0}</VPE.CurrentChanneling>
+  <VPE.GroupFocus>{0} otros peones cercanos</VPE.GroupFocus>
+  <VPE.MaxQuality>Calidad máxima: {0}</VPE.MaxQuality>
+  <VPE.MustBeAlly>El objetivo debe estar en la misma facción.</VPE.MustBeAlly>
+  <VPE.MustBeAllyOrNeutral>El objetivo debe ser aliado o neutral.</VPE.MustBeAllyOrNeutral>
+  <VPE.MustBeCorpse>El objetivo debe ser un cadáver.</VPE.MustBeCorpse>
+  <VPE.MustBeCorpseHumanlike>El cadáver debe ser humanoide.</VPE.MustBeCorpseHumanlike>
+  <VPE.MustBeDamaged>El objetivo debe estar dañado</VPE.MustBeDamaged>
+  <VPE.MustBeDowned>El objetivo debe estar derribado.</VPE.MustBeDowned>
+  <VPE.MustBeInDark>El objetivo debe estar en la oscuridad</VPE.MustBeInDark>
+  <VPE.MustBePsycaster>Debe ser un psíquico</VPE.MustBePsycaster>
+  <VPE.MustBeSteelSlag>Apuntar a escoria de acero</VPE.MustBeSteelSlag>
+  <VPE.MustBeStoneChunk>Apuntar a un trozo de piedra</VPE.MustBeStoneChunk>
+  <VPE.MustConsumePower>Debe consumir energía.</VPE.MustConsumePower>
+  <VPE.MustEltex>Debe apuntar a eltex</VPE.MustEltex>
+  <VPE.MustHaveDamagedEquipment>El equipo del objetivo debe estar dañado.</VPE.MustHaveDamagedEquipment>
+  <VPE.MustHaveHeatAmount>Debe tener al menos {0} de calor neural.</VPE.MustHaveHeatAmount>
+  <VPE.MustHaveLivingFamilyMembers>{PAWN_nameDef} debe tener familiares vivos.</VPE.MustHaveLivingFamilyMembers>
+  <VPE.MustHavePsychicLevel>El objetivo debe tener al menos un nivel de psíquico.</VPE.MustHavePsychicLevel>
+  <VPE.MustHaveQuality>El objetivo debe tener calidad</VPE.MustHaveQuality>
+  <VPE.MustTargetBattery>Debe apuntar a una batería o mecanoide amistoso</VPE.MustTargetBattery>
+  <VPE.Nearby>Cercano</VPE.Nearby>
+  <VPE.NoAnimals>No se puede apuntar a animales</VPE.NoAnimals>
+  <VPE.NoAvailableFingers>No hay dedos disponibles.</VPE.NoAvailableFingers>
+  <VPE.NoChunks>Sin trozos cercanos</VPE.NoChunks>
+  <VPE.NotEnoughHeat>No hay suficiente calor neural disponible.</VPE.NotEnoughHeat>
+  <VPE.NotPsycaster>No es un psíquico</VPE.NotPsycaster>
+  <VPE.PackSummon>¡Manada invocada!</VPE.PackSummon>
+  <VPE.PackSummon.Desc>Una manada de animales salvajes ha sido invocada por {0} para defender la colonia.</VPE.PackSummon.Desc>
+  <VPE.PsySetDesc>Mover al siguiente conjunto psíquico. Clic derecho para elegir uno específico.\nActual: {0}, Siguiente: {1}</VPE.PsySetDesc>
+  <VPE.PsySetNext>Siguiente conjunto psíquico</VPE.PsySetNext>
+  <VPE.PsySetPrev>Conjunto psíquico anterior</VPE.PsySetPrev>
+  <VPE.PsylinkGained>Nivel de psicoenlace ganado: {0}</VPE.PsylinkGained>
+  <VPE.PsylinkGained.Desc>{0} ha ganado un nuevo nivel de psicoenlace. Al alcanzar ese nivel, {1} aumentó ligeramente las estadísticas relacionadas con el lanzamiento psíquico. {1} ahora también puede asignar un punto para aprender una nueva psicoemisión, mejorar aún más las estadísticas de lanzamiento psíquico o desbloquear un nuevo foco de meditación.\n\nLa experiencia psíquica necesaria para el siguiente nivel es: {2}.</VPE.PsylinkGained.Desc>
+  <VPE.QualityTooHigh>Calidad del objetivo demasiado alta, debe ser inferior a {0}.</VPE.QualityTooHigh>
+  <VPE.Research>Debe ser investigable</VPE.Research>
+  <VPE.StopHurricane>Detener huracán</VPE.StopHurricane>
+  <VPE.ThingsOfLevel>{0} cosas en el nivel {1}</VPE.ThingsOfLevel>
+  <VPE.TooCheap>No hay suficiente valor, debe valer al menos $1 por artículo.</VPE.TooCheap>
+  <VPE.UnlockedByPoints>Desbloqueado a través de puntos de psíquico</VPE.UnlockedByPoints>
+  <VPE.WealthNearby>{0} riqueza cercana de {1} riqueza total</VPE.WealthNearby>
+  <VPE_BreakLink>Romper enlace</VPE_BreakLink>
+  <VPE_BreakLinkDesc>Romper el enlace y matar inmediatamente a este constructo</VPE_BreakLinkDesc>
+</LanguagData>

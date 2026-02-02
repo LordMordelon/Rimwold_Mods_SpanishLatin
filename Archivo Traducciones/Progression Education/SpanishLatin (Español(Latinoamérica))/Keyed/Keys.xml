@@ -1,0 +1,249 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Create -->
+  <PE_Create>Crear</PE_Create>
+  <!-- EN: Select -->
+  <PE_Select>Seleccionar</PE_Select>
+  <!-- EN: Paste hex -->
+  <PE_PasteHex>Pegar hex</PE_PasteHex>
+  <!-- EN: Active classes -->
+  <PE_Classes>Clases activas</PE_Classes>
+  <!-- EN: Classrooms -->
+  <PE_Classrooms>Aulas</PE_Classrooms>
+  <!-- EN: Participants -->
+  <PE_Participants>Participantes</PE_Participants>
+  <!-- EN: {0} / {1} -->
+  <PE_ProgressFormat>{0} / {1}</PE_ProgressFormat>
+  <!-- EN: Reschedule -->
+  <PE_Reschedule>Reprogramar</PE_Reschedule>
+  <!-- EN: View schedule -->
+  <PE_ClassScheduling>Ver horario</PE_ClassScheduling>
+  <!-- EN: Est. hourly progress -->
+  <PE_EstimatedHourlyProgress>Progreso est. por hora</PE_EstimatedHourlyProgress>
+  <!-- EN: xp/hour -->
+  <PE_XpPerHour>xp/hora</PE_XpPerHour>
+  <!-- EN: {0} xp -->
+  <PE_Xp>{0} xp</PE_Xp>
+  <!-- EN: /hour -->
+  <PE_PerHour>/hora</PE_PerHour>
+  <!-- EN: Classrooms will appear here as you build them in your colony. -->
+  <PE_ClassroomsDescription>Las aulas aparecerán aquí a medida que las construyas en tu colonia.</PE_ClassroomsDescription>
+  <!-- EN: Create a class -->
+  <PE_CreateClass>Crear una clase</PE_CreateClass>
+  <!-- EN: Create a new class semester. Teachers with higher social skills teach faster, and the longer a class stays together the more effective it becomes. Daycares are for children only, and teach random skills. -->
+  <PE_CreateClassDesc>Crea un nuevo semestre de clase. Los profesores con mayores habilidades sociales enseñan más rápido, y cuanto más tiempo permanece una clase junta, más efectiva se vuelve. Las guarderías son solo para niños y enseñan habilidades aleatorias.</PE_CreateClassDesc>
+  <!-- EN: Class name -->
+  <PE_ClassName>Nombre de la clase</PE_ClassName>
+  <!-- EN: Subject -->
+  <PE_Subject>Asignatura</PE_Subject>
+  <!-- EN: Skill focus -->
+  <PE_SkillFocus>Enfoque de habilidad</PE_SkillFocus>
+  <!-- EN: Proficiency focus -->
+  <PE_ProficiencyFocus>Enfoque de competencia</PE_ProficiencyFocus>
+  <!-- EN: Semester goal -->
+  <PE_SemesterGoal>Objetivo del semestre</PE_SemesterGoal>
+  <!-- EN: Are you sure you would like to delete this class? This will reset all learning progress. -->
+  <PE_ConfirmDeleteClass>¿Estás seguro de que deseas eliminar esta clase? Esto restablecerá todo el progreso de aprendizaje.</PE_ConfirmDeleteClass>
+  <!-- EN: Continuous study time needed: {0} -->
+  <PE_StudyTimeNeeded>Tiempo de estudio continuo necesario: {0}</PE_StudyTimeNeeded>
+  <!-- EN: Requirements -->
+  <PE_Requirements>Requisitos</PE_Requirements>
+  <!-- EN: learning board -->
+  <PE_LearningBoard>pizarra de aprendizaje</PE_LearningBoard>
+  <!-- EN: bell -->
+  <PE_Bell>campana</PE_Bell>
+  <!-- EN: school desks -->
+  <PE_SchoolDesks>pupitres escolares</PE_SchoolDesks>
+  <!-- EN: Class hours -->
+  <PE_ClassHours>Horas de clase</PE_ClassHours>
+  <!-- EN: ({0} present) -->
+  <PE_Present>({0} presentes)</PE_Present>
+  <!-- EN: not present on map -->
+  <PE_NotPresent>no presente en el mapa</PE_NotPresent>
+  <!-- EN: Start hour -->
+  <PE_StartHour>Hora de inicio</PE_StartHour>
+  <!-- EN: End hour -->
+  <PE_EndHour>Hora de finalización</PE_EndHour>
+  <!-- EN: Classroom -->
+  <PE_Classroom>Aula</PE_Classroom>
+  <!-- EN: Select classroom -->
+  <PE_SelectClassroom>Seleccionar aula</PE_SelectClassroom>
+  <!-- EN: No classrooms available. -->
+  <PE_NoClassroomsAvailable>No hay aulas disponibles.</PE_NoClassroomsAvailable>
+  <!-- EN: Not enough {0} available. Required: {1}, Have: {2}. -->
+  <PE_NotEnoughBenches>No hay suficientes {0} disponibles. Requerido: {1}, Tienes: {2}.</PE_NotEnoughBenches>
+  <!-- EN: Skill -->
+  <PE_SubjectSkill>Habilidad</PE_SubjectSkill>
+  <!-- EN: Proficiency -->
+  <PE_SubjectProficiency>Competencia</PE_SubjectProficiency>
+  <!-- EN: Daycare -->
+  <PE_SubjectDaycare>Guardería</PE_SubjectDaycare>
+  <!-- EN: Fulfills children's learning need. Scheduled until it's deleted. -->
+  <PE_Daycare>Satisface la necesidad de aprendizaje de los niños. Programado hasta que se elimine.</PE_Daycare>
+  <!-- EN: Reschedule class -->
+  <PE_RescheduleClass>Reprogramar clase</PE_RescheduleClass>
+  <!-- EN: Skill focus is missing -->
+  <PE_SkillFocusMissing>Falta el enfoque de habilidad</PE_SkillFocusMissing>
+  <!-- EN: Schedule: {0}:00 - {1}:00 -->
+  <PE_ScheduleTime>Horario: {0}:00 - {1}:00</PE_ScheduleTime>
+  <!-- EN: Manage students -->
+  <PE_ManageStudents>Gestionar estudiantes</PE_ManageStudents>
+  <!-- EN: Remove students -->
+  <PE_RemoveStudents>Eliminar estudiantes</PE_RemoveStudents>
+  <!-- EN: Remove from class -->
+  <PE_RemoveFromClass>Eliminar de la clase</PE_RemoveFromClass>
+  <!-- EN: Are you sure you want to remove {0} from this class? They cannot be added back. -->
+  <PE_ConfirmRemoveStudent>¿Estás seguro de que quieres eliminar a {0} de esta clase? No se pueden volver a agregar.</PE_ConfirmRemoveStudent>
+  <!-- EN: Removing this student will delete the class, as there will be no students left. Are you sure you want to proceed? -->
+  <PE_ConfirmRemoveLastStudent>Eliminar a este estudiante eliminará la clase, ya que no quedarán estudiantes. ¿Estás seguro de que quieres continuar?</PE_ConfirmRemoveLastStudent>
+  <!-- EN: Edit classroom -->
+  <PE_EditClassroom>Editar aula</PE_EditClassroom>
+  <!-- EN: Change color -->
+  <PE_ChangeColor>Cambiar color</PE_ChangeColor>
+  <!-- EN: Name classroom -->
+  <PE_NameClassroom>Nombrar aula</PE_NameClassroom>
+  <!-- EN: New classroom: {0} -->
+  <PE_NewClassroomCreated>Nueva aula: {0}</PE_NewClassroomCreated>
+  <!-- EN: You have created a classroom. Classes can be managed in the classrooms menu on the bottom bar. -->
+  <PE_NewClassroomCreatedDesc>Has creado un aula. Las clases se pueden gestionar en el menú de aulas en la barra inferior.</PE_NewClassroomCreatedDesc>
+  <!-- EN: Spectators -->
+  <PE_Spectators>Espectadores</PE_Spectators>
+  <!-- EN: Not participating -->
+  <PE_NotParticipating>No participando</PE_NotParticipating>
+  <!-- EN: teacher -->
+  <PE_TeacherRole>profesor</PE_TeacherRole>
+  <!-- EN: Student -->
+  <PE_StudentRole>Estudiante</PE_StudentRole>
+  <!-- EN: Only adults can be teachers. -->
+  <PE_TeacherRoleOnlyForAdults>Solo los adultos pueden ser profesores.</PE_TeacherRoleOnlyForAdults>
+  <!-- EN: Teachers must have social skills enabled. -->
+  <PE_TeacherRoleRequiresSocialSkill>Los profesores deben tener habilidades sociales habilitadas.</PE_TeacherRoleRequiresSocialSkill>
+  <!-- EN: Class cancelled: {0} -->
+  <PE_ClassCancelled>Clase cancelada: {0}</PE_ClassCancelled>
+  <!-- EN: The class "{0}" has been cancelled because not all students could make it to class in time. -->
+  <PE_ClassCancelledDesc>La clase "{0}" ha sido cancelada porque no todos los estudiantes pudieron llegar a clase a tiempo.</PE_ClassCancelledDesc>
+  <!-- EN: Missing students: {0} -->
+  <PE_MissingStudents>Estudiantes faltantes: {0}</PE_MissingStudents>
+  <!-- EN: Class completed: {0} -->
+  <PE_ClassCompleted>Clase completada: {0}</PE_ClassCompleted>
+  <!-- EN: The class "{0}" has successfully completed its semester. -->
+  <PE_ClassCompletedDesc>La clase "{0}" ha completado con éxito su semestre.</PE_ClassCompletedDesc>
+  <!-- EN: Graduates: {0} -->
+  <PE_ClassGraduates>Graduados: {0}</PE_ClassGraduates>
+  <!-- EN: Colonist must be taught {0} proficiency. -->
+  <PE_CannotEquipItem>El colono debe aprender la competencia {0}.</PE_CannotEquipItem>
+  <!-- EN: Low gear -->
+  <PE_ProficiencyLowTech>Baja tecnología</PE_ProficiencyLowTech>
+  <!-- EN: Firearm -->
+  <PE_ProficiencyFirearm>Arma de fuego</PE_ProficiencyFirearm>
+  <!-- EN: High-tech -->
+  <PE_ProficiencyHighTech>Alta tecnología</PE_ProficiencyHighTech>
+  <!-- EN: {0} does not have the required {1} proficiency. -->
+  <PE_StudentNotQualifiedProficiency>{0} no tiene la competencia requerida de {1}.</PE_StudentNotQualifiedProficiency>
+  <!-- EN: {0} already has the required or higher {1} proficiency. -->
+  <PE_StudentAlreadyHasProficiency>{0} ya tiene la competencia requerida de {1} o superior.</PE_StudentAlreadyHasProficiency>
+  <!-- EN: Cannot participate: Scheduled at {0}:00-{1}:00 for the "{2}" class. -->
+  <PE_CannotParticipateScheduled>No puede participar: Programado a las {0}:00-{1}:00 para la clase "{2}".</PE_CannotParticipateScheduled>
+  <!-- EN: Cannot reschedule: {0} is already scheduled at {1}:00-{2}:00 for the "{3}" class. -->
+  <PE_CannotRescheduleScheduled>No se puede reprogramar: {0} ya está programado a las {1}:00-{2}:00 para la clase "{3}".</PE_CannotRescheduleScheduled>
+  <!-- EN: Teaching {0} proficiency -->
+  <PE_TrainingProficiency>Enseñando competencia {0}</PE_TrainingProficiency>
+  <!-- EN: {0} does not have the required {1} proficiency to teach. -->
+  <PE_TeacherNotQualifiedProficiency>{0} no tiene la competencia requerida de {1} para enseñar.</PE_TeacherNotQualifiedProficiency>
+  <!-- EN: Training {0} skill -->
+  <PE_TrainingSkill>Entrenando habilidad {0}</PE_TrainingSkill>
+  <!-- EN: {0}'s {1} skill is too low to teach (must be at least 5). -->
+  <PE_TeacherNotQualifiedSkill>La habilidad {1} de {0} es demasiado baja para enseñar (debe ser al menos 5).</PE_TeacherNotQualifiedSkill>
+  <!-- EN: {0}'s {1} skill is disabled and cannot be trained. -->
+  <PE_StudentSkillDisabled>La habilidad {1} de {0} está deshabilitada y no se puede entrenar.</PE_StudentSkillDisabled>
+  <!-- EN: Must be a child. -->
+  <PE_MustBeChild>Debe ser un niño.</PE_MustBeChild>
+  <!-- EN: No learning need. -->
+  <PE_NoLearningNeed>Sin necesidad de aprendizaje.</PE_NoLearningNeed>
+  <!-- EN: Waiting for students -->
+  <PE_JobReport_WaitingForStudents>Esperando estudiantes</PE_JobReport_WaitingForStudents>
+  <!-- EN: Waiting for class to start -->
+  <PE_JobReport_WaitingForClass>Esperando que empiece la clase</PE_JobReport_WaitingForClass>
+  <!-- EN: Global learning speed -->
+  <PE_GlobalLearningSpeed>Velocidad de aprendizaje global</PE_GlobalLearningSpeed>
+  <!-- EN: Skill classes learning speed -->
+  <PE_SkillClassesLearningSpeed>Velocidad de aprendizaje de clases de habilidad</PE_SkillClassesLearningSpeed>
+  <!-- EN: Proficiency classes learning speed -->
+  <PE_ProficiencyClassesLearningSpeed>Velocidad de aprendizaje de clases de competencia</PE_ProficiencyClassesLearningSpeed>
+  <!-- EN: Children learning need speed -->
+  <PE_DaycareClassesLearningSpeed>Velocidad de necesidad de aprendizaje de niños</PE_DaycareClassesLearningSpeed>
+  <!-- EN: Enable proficiency system -->
+  <PE_EnableProficiencySystem>Habilitar sistema de competencia</PE_EnableProficiencySystem>
+  <!-- EN: Enable debug mode -->
+  <PE_EnableDebugMode>Habilitar modo de depuración</PE_EnableDebugMode>
+  <!-- EN: Enter a class name -->
+  <PE_EnterClassName>Ingresa un nombre de clase</PE_EnterClassName>
+  <!-- EN: Select a teacher -->
+  <PE_SelectTeacher>Selecciona un profesor</PE_SelectTeacher>
+  <!-- EN: Select at least one student -->
+  <PE_SelectAtLeastOneStudent>Selecciona al menos un estudiante</PE_SelectAtLeastOneStudent>
+  <!-- EN: {0} has been unassigned as teacher: {1} -->
+  <PE_TeacherUnassigned>{0} ha sido desasignado como profesor: {1}</PE_TeacherUnassigned>
+  <!-- EN: No learning board found in classroom -->
+  <PE_NoLearningBoard>No se encontró pizarra de aprendizaje en el aula</PE_NoLearningBoard>
+  <!-- EN: No bell found in map -->
+  <PE_NoBell>No se encontró campana en el mapa</PE_NoBell>
+  <!-- EN: Bell is not powered -->
+  <PE_BellNotPowered>La campana no tiene energía</PE_BellNotPowered>
+  <!-- EN: {0} cannot participate in class: {1} -->
+  <PE_StudentUnqualified>{0} no puede participar en la clase: {1}</PE_StudentUnqualified>
+  <!-- EN: Classroom settings -->
+  <PE_ClassroomSettings>Configuración del aula</PE_ClassroomSettings>
+  <!-- EN: Disallow traditional work in classroom -->
+  <PE_RestrictReservationsDuringClass>Prohibir trabajo tradicional en el aula</PE_RestrictReservationsDuringClass>
+  <!-- EN: If enabled, pawns will not be able to use classroom furniture (desks, etc.). -->
+  <PE_RestrictReservationsDuringClass_Desc>Si se habilita, los peones no podrán usar los muebles del aula (pupitres, etc.).</PE_RestrictReservationsDuringClass_Desc>
+  <!-- EN: Interrupt all jobs to attend classes here -->
+  <PE_InterruptJobsDuringClass>Interrumpir todos los trabajos para asistir a clases aquí</PE_InterruptJobsDuringClass>
+  <!-- EN: If enabled, pawns will interrupt all of their current jobs to attend class in this classroom when the bell rings. -->
+  <PE_InterruptJobsDuringClass_Desc>Si se habilita, los peones interrumpirán todos sus trabajos actuales para asistir a clase en esta aula cuando suene la campana.</PE_InterruptJobsDuringClass_Desc>
+  <!-- EN: {0} class cancelled today as members are off map. -->
+  <PE_ClassCancelledOffMap>Clase {0} cancelada hoy ya que los miembros están fuera del mapa.</PE_ClassCancelledOffMap>
+  <!-- EN: {0} class cancelled today, -->
+  <PE_ClassCancelledToday>Clase {0} cancelada hoy,</PE_ClassCancelledToday>
+  <!-- EN: No classes scheduled. Click the plus button to create a class. -->
+  <PE_NoClassesScheduled>No hay clases programadas. Haz clic en el botón más para crear una clase.</PE_NoClassesScheduled>
+  <!-- EN: {0} tried to equip {1} but couldn't due to lack of proficiency -->
+  <PE_TriedToEquipButCouldNotDueToLackOfProficiency>{0} intentó equipar {1} pero no pudo debido a la falta de competencia</PE_TriedToEquipButCouldNotDueToLackOfProficiency>
+  <!-- EN: Create a classroom first. -->
+  <PE_CreateClassroomFirst>Crea un aula primero.</PE_CreateClassroomFirst>
+  <!-- EN: Suspend class -->
+  <PE_SuspendClass>Suspender clase</PE_SuspendClass>
+  <!-- EN: Resume class -->
+  <PE_ResumeClass>Reanudar clase</PE_ResumeClass>
+  <!-- EN: Class {0} will function at reduced efficiency because not all participants are present. -->
+  <PE_ClassPartiallyFunctioningWarning>La clase {0} funcionará con eficiencia reducida porque no todos los participantes están presentes.</PE_ClassPartiallyFunctioningWarning>
+  <!-- EN: Class {0} never started as not all students arrived in time. -->
+  <PE_ProficiencyClassNeverStarted>La clase {0} nunca comenzó ya que no todos los estudiantes llegaron a tiempo.</PE_ProficiencyClassNeverStarted>
+  <!-- EN: This room already has a learning board. -->
+  <PE_AlreadyHasLearningBoard>Esta habitación ya tiene una pizarra de aprendizaje.</PE_AlreadyHasLearningBoard>
+  <!-- EN: There is another learning board too close nearby. -->
+  <PE_LearningBoardNearby>Hay otra pizarra de aprendizaje demasiado cerca.</PE_LearningBoardNearby>
+  <!-- EN: No valid teacher found for classroom. Cannot ring bell. -->
+  <PE_NoTeacherForBell>No se encontró un profesor válido para el aula. No se puede tocar la campana.</PE_NoTeacherForBell>
+  <!-- EN: Select proficiency trait -->
+  <PE_SelectTrait>Seleccionar rasgo de competencia</PE_SelectTrait>
+  <!-- EN: Starting colonists will be {0}. -->
+  <PE_ScenPart_ForcedProficiencyTrait>Los colonos iniciales serán {0}.</PE_ScenPart_ForcedProficiencyTrait>
+  <!-- EN: All starting colonists will have a proficiency trait. -->
+  <PE_ScenPart_ForcedProficiencyTrait_NoTrait>Todos los colonos iniciales tendrán un rasgo de competencia.</PE_ScenPart_ForcedProficiencyTrait_NoTrait>
+  <!-- EN: {0} has aged up and has been removed from the "{1}" daycare. -->
+  <PE_RemovedFromDaycareOnAgeUp>{0} ha crecido y ha sido eliminado de la guardería "{1}".</PE_RemovedFromDaycareOnAgeUp>
+  <!-- EN: Class never started as teacher couldn't alert enough students within the scheduled time. Consider upgrading your school bell or lengthening the class session. -->
+  <PE_TeacherBellFailure>La clase nunca comenzó ya que el profesor no pudo alertar a suficientes estudiantes dentro del tiempo programado. Considera mejorar tu campana escolar o alargar la sesión de clase.</PE_TeacherBellFailure>
+  <!-- EN: You must build a class bell or chime before you can create a class. -->
+  <PE_NoBellToCreateClass>Debes construir una campana de clase o campanillas antes de poder crear una clase.</PE_NoBellToCreateClass>
+  <!-- EN: {0} is blocked. -->
+  <PE_LearningBoardIsBlocked>{0} está bloqueado.</PE_LearningBoardIsBlocked>
+  <!-- EN: Schedule should be at least hour long. -->
+  <PE_ScheduleShouldBeAtleastHourLong>El horario debe ser de al menos una hora.</PE_ScheduleShouldBeAtleastHourLong>
+  <!-- EN: Learning need: {0} -->
+  <PE_Learning>Necesidad de aprendizaje: {0}</PE_Learning>
+  <!-- EN: (suspended) -->
+  <PE_Suspended>(suspendido)</PE_Suspended>
+</LanguageData>

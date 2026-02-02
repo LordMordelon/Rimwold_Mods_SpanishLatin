@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+    <!-- EN: Loading progress: Executing delayed initialization tasks -->
+  <LoadingProgress.ExecuteToExecuteWhenFinished>Loading progress: Ejecutando tareas de inicialización retrasadas</LoadingProgress.ExecuteToExecuteWhenFinished>
+    <!-- EN: Loading progress: Calling all static constructors -->
+  <LoadingProgress.CallAll>Loading progress: Llamando a todos los constructores estáticos</LoadingProgress.CallAll>
+
+    <!-- EN: (Mod list has changed since last game start; estimate may be inaccurate.) -->
+  <LoadingProgress.ModHashChanged>(La lista de mods ha cambiado desde el último inicio del juego; la estimación puede ser imprecisa.)</LoadingProgress.ModHashChanged>
+
+    <!-- EN: Game took {0} to load -->
+  <LoadingProgress.LoadingTime>El juego tardó {0} en cargar</LoadingProgress.LoadingTime>
+    <!-- EN: Information added by Loading Progress mod; can be disabled in the settings. -->
+  <LoadingProgress.LoadingTime.Tip>Información añadida por el mod Loading Progress; se puede desactivar en los ajustes.</LoadingProgress.LoadingTime.Tip>
+
+    <!-- EN: {0} left of {1} -->
+  <LoadingProgress.TimeRemaining>{0} restantes de {1}</LoadingProgress.TimeRemaining>
+    <!-- EN: {0} over {1} -->
+  <LoadingProgress.TimeOverEstimate>{0} sobre {1}</LoadingProgress.TimeOverEstimate>
+
+    <!-- EN: Loading progress — Faster Game Loading Early Mod Content Loading -->
+  <LoadingProgress.FasterGameLoadingEarlyModContentLoading>Loading progress — Carga de contenido de mods temprana de Faster Game Loading</LoadingProgress.FasterGameLoadingEarlyModContentLoading>
+    <!-- EN: Faster Game Loading is early loading content for <i>{0}</i>... -->
+  <LoadingProgress.FasterGameLoadingEarlyModContentLoading.ForMod>Faster Game Loading está cargando contenido de forma temprana para <i>{0}</i>...</LoadingProgress.FasterGameLoadingEarlyModContentLoading.ForMod>
+</LanguageData>

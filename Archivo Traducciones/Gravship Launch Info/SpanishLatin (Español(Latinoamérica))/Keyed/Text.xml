@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+    <!-- EN: Gravship -->
+  <Gravship>Gravinave</Gravship>
+    <!-- EN: Gravship Info -->
+  <GravshipInfoLabel>Gravship Info</GravshipInfoLabel>
+    <!-- EN: Gravship Info is disabled. -->
+  <GravshipDisabled>Información de gravinave desactivada</GravshipDisabled>
+    <!-- EN: Gravship ready! -->
+  <GravshipReadyLabel>¡Gravinave lista!</GravshipReadyLabel>
+    <!-- EN: No Gravship -->
+  <NoGravshipLabel>Sin gravinave</NoGravshipLabel>
+    <!-- EN: No grav engine has been found on this map. -->
+  <NoGravEngineFound>No se encontró ningún motor gravitacional en este mapa</NoGravEngineFound>
+    <!-- EN: Grav engine is ready to launch! -->
+  <ReadyToLaunch>¡Motor gravitacional listo para el lanzamiento!</ReadyToLaunch>
+    <!-- EN: Detected Problems: -->
+  <DetectedProblems>Problemas detectados:</DetectedProblems>
+    <!-- EN: - Engine is not installed -->
+  <EngineNotInstalled>– Motor no instalado</EngineNotInstalled>
+    <!-- EN: - Thruster is blocked -->
+  <ThrustersBlocked>– Propulsor bloqueado</ThrustersBlocked>
+    <!-- EN: - Substructure is too large ( {0} / {1} ) -->
+  <SubstructureTooLarge>– La subestructura es demasiado grande ( {0} / {1} )</SubstructureTooLarge>
+    <!-- EN: - Missing component(s), check above -->
+  <MissingComponents>– Faltan componentes, revisa más arriba</MissingComponents>
+    <!-- EN: - Not enough fuel -->
+  <NotEnoughFuel>– Combustible insuficiente</NotEnoughFuel>
+    <!-- EN: Show Gravship Launch Info: -->
+  <ShowInfoAlertLabel>Mostrar información de lanzamiento de la gravinave:</ShowInfoAlertLabel>
+    <!-- EN: Always -->
+  <ShowInfoAlertAlways>Siempre</ShowInfoAlertAlways>
+    <!-- EN: When a grav engine is available -->
+  <ShowInfoAlertOnShipFound>Cuando haya un motor gravitacional disponible</ShowInfoAlertOnShipFound>
+    <!-- EN: Never -->
+  <ShowInfoAlertDisabled>Nunca</ShowInfoAlertDisabled>
+    <!-- EN: Display Alert with Colors: -->
+  <AlertColorsLabel>Mostrar alerta con colores:</AlertColorsLabel>
+    <!-- EN: Enabled -->
+  <AlertColorsEnabled>Activado</AlertColorsEnabled>
+    <!-- EN: Disabled -->
+  <AlertColorsDisabled>Desactivado</AlertColorsDisabled>
+    <!-- EN: Are you missing a setting or feature? Are you experiencing errors? Feel free to report this on the steam workshop page! -->
+  <MissingSettingsInfoText>¿Falta alguna configuración o función? No dudes en informarlo en la página del workshop de Steam.</MissingSettingsInfoText>
+</LanguageData>

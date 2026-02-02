@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+	<!-- EN: {0} stacks -->
+  <ASF_XStacks>{0} pilas</ASF_XStacks><!-- displayed in parentheses as eg. 1 / 3 stacks -->
+	<!-- EN: empty -->
+  <ASF_Empty>vacío</ASF_Empty>
+	<!-- EN: You have filled the map. -->
+  <ASF_MapFilled>Has llenado el mapa.</ASF_MapFilled>
+	<!-- EN: Contents tab to display on adaptive storage buildings: -->
+  <ASF_SettingContentsTabSelection>Pestaña de contenido a mostrar en edificios de almacenamiento adaptativo:</ASF_SettingContentsTabSelection>
+	<!-- EN: That's the tab saying 'Contents' on the bottom left panel with a building selected. 'None' displays contents in the vanilla way through 'Select x' gizmos on the bar to the right instead of tab. -->
+  <ASF_SettingContentsTabDescription>Es la pestaña que dice 'Contenido' en el panel inferior izquierdo con un edificio seleccionado. 'Ninguno' muestra el contenido de la forma original a través de los iconos 'Seleccionar x' en la barra de la derecha en lugar de la pestaña.</ASF_SettingContentsTabDescription>
+	<!-- EN: maximum number of stacks per cell -->
+  <ASF_MaxNumStacks>número máximo de pilas por celda</ASF_MaxNumStacks> 
+  <!-- identical to LWM's https://github.com/lilwhitemouse/RimWorld-LWM.DeepStorage/blob/master/_Mod/LWM.DeepStorage/Languages/English/Keyed/LWM.DeepStorage.Keys.xml -->
+	<!-- EN: The maximum number of stacks that can go in a single space.  Buildings two-cells large will have twice as much storage capacity.\n\nNote that other factors may reduce storage capacity. -->
+  <ASF_MaxNumStacksDesc>El número máximo de pilas que pueden ir en un solo espacio. Los edificios de dos celdas de tamaño tendrán el doble de capacidad de almacenamiento.\n\nTen en cuenta que otros factores pueden reducir la capacidad de almacenamiento.</ASF_MaxNumStacksDesc>
+	<!-- EN: Drop specific count -->
+  <ASF_DropSpecificCount>Soltar cantidad específica</ASF_DropSpecificCount>
+	<!-- EN: total storage capacity -->
+  <ASF_TotalStorageCapacity>capacidad total de almacenamiento</ASF_TotalStorageCapacity>
+	<!-- EN: The maximum number of stacks fitting into this storage building for all cells combined.\n\n{sizeX} * {sizeZ} cells with individually set capacities. -->
+  <ASF_StorageCapacityDescriptionCustomized>El número máximo de pilas que caben en este edificio de almacenamiento para todas las celdas combinadas.\n\n{sizeX} * {sizeZ} celdas con capacidades configuradas individualmente.</ASF_StorageCapacityDescriptionCustomized>
+	<!-- EN: The maximum number of stacks fitting into this storage building for all cells combined.\n\n{sizeX} * {sizeZ} cells with a maximum capacity of {maxItemsInCell} stacks per cell. -->
+  <ASF_StorageCapacityDescriptionStacksPerCell>El número máximo de pilas que caben en este edificio de almacenamiento para todas las celdas combinadas.\n\n{sizeX} * {sizeZ} celdas con una capacidad máxima de {maxItemsInCell} pilas por celda.</ASF_StorageCapacityDescriptionStacksPerCell>
+	<!-- EN: Automatically open contents tab -->
+  <ASF_AutomaticallyOpenContentsTab>Abrir automáticamente la pestaña de contenido</ASF_AutomaticallyOpenContentsTab>
+	<!-- EN: Selecting a storage building automatically opens its Contents tab with this enabled, or storage settings when empty. -->
+  <ASF_AutomaticallyOpenContentsTabDescription>Al seleccionar un edificio de almacenamiento se abre automáticamente su pestaña de Contenido con esto activado, o los ajustes de almacenamiento cuando está vacío.</ASF_AutomaticallyOpenContentsTabDescription>
+	<!-- EN: Hide labels when zoomed out -->
+  <ASF_HideLabelsZoomSetting>Ocultar etiquetas al alejar el zoom</ASF_HideLabelsZoomSetting>
+	<!-- EN: Affects labels shown on the map, like [ count ] or Item xY. Only show them at a close zoom level when enabled. -->
+  <ASF_HideLabelsZoomDescription>Afecta a las etiquetas que se muestran en el mapa, como [ cantidad ] o Objeto xY. Solo se muestran a un nivel de zoom cercano cuando está activado.</ASF_HideLabelsZoomDescription>
+	<!-- EN: Hide labels until mouseover -->
+  <ASF_HideLabelsMouseOverSetting>Ocultar etiquetas hasta pasar el ratón</ASF_HideLabelsMouseOverSetting>
+	<!-- EN: Affects labels shown on the map, like [ count ] or Item xY. Only show them when pointed at with the mouse when enabled. Overridden by the Toggleable Overlays mod when having that mod enabled. -->
+  <ASF_HideLabelsMouseOverDescription>Afecta a las etiquetas que se muestran en el mapa, como [ cantidad ] o Objeto xY. Solo se muestran cuando se señalan con el ratón cuando está activado. Es anulado por el mod Toggleable Overlays cuando ese mod está activado.</ASF_HideLabelsMouseOverDescription>
+	<!-- EN: Default label style -->
+  <ASF_DefaultLabelStyleSetting>Estilo de etiqueta predeterminado</ASF_DefaultLabelStyleSetting>
+	<!-- EN: What to display for storage labels on the map. Individual buildings can override this in their config. -->
+  <ASF_DefaultLabelStyleDescription>Qué mostrar para las etiquetas de almacenamiento en el mapa. Los edificios individuales pueden anular esto en su configuración.</ASF_DefaultLabelStyleDescription>
+	<!-- EN: Maximum zoom level -->
+  <ASF_MaxZoomLevelSetting>Nivel de zoom máximo</ASF_MaxZoomLevelSetting>
+	<!-- EN: The maximum zoom level to show labels for. They get hidden past this point. -->
+  <ASF_MaxZoomLevelDescription>El nivel de zoom máximo para el que se muestran las etiquetas. Se ocultan a partir de este punto.</ASF_MaxZoomLevelDescription>
+	<!-- EN: Other items -->
+  <ASF_OtherItems>Otros objetos</ASF_OtherItems>
+  <!-- Displayed at the bottom of long storage labels as Other items xY -->
+</LanguageData>

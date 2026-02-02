@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: striker gun -->
+  <VFEE_Gun_StrikerTurret.label>cañón striker</VFEE_Gun_StrikerTurret.label>
+  <!-- EN: A powerful turret mounted on the striker drop pod. -->
+  <VFEE_Gun_StrikerTurret.description>Una poderosa torreta montada en la cápsula de asalto striker.</VFEE_Gun_StrikerTurret.description>
+  <!-- EN: striker gun -->
+  <VFEE_Gun_StrikerTurret.verbs.Verb_Shoot.label>cañón striker</VFEE_Gun_StrikerTurret.verbs.Verb_Shoot.label>
+  
+  <!-- EN: striker turret -->
+  <VFEE_Turret_StrikerTurret.label>torreta striker</VFEE_Turret_StrikerTurret.label>
+  <!-- EN: A redesigned cargo pod designed to bury stabilizing legs upon impact and deploy a powerful turret. Has a limited battery and ammunition pool, and will self-destruct if either run out or it is sufficiently damaged. -->
+  <VFEE_Turret_StrikerTurret.description>Una cápsula de carga rediseñada para enterrar patas estabilizadoras tras el impacto y desplegar una poderosa torreta. Tiene una batería y un grupo de municiones limitados, y se autodestruirá si alguno de los dos se agota o si recibe suficiente daño.</VFEE_Turret_StrikerTurret.description>
+  <!-- EN: Ammo -->
+  <VFEE_Turret_StrikerTurret.comps.CompRefuelable.fuelGizmoLabel>Munición</VFEE_Turret_StrikerTurret.comps.CompRefuelable.fuelGizmoLabel>
+  <!-- EN: Shots left -->
+  <VFEE_Turret_StrikerTurret.comps.CompRefuelable.fuelLabel>Disparos restantes</VFEE_Turret_StrikerTurret.comps.CompRefuelable.fuelLabel>
+  <!-- EN: Cannot shoot: Out of shots -->
+  <VFEE_Turret_StrikerTurret.comps.CompRefuelable.outOfFuelMessage>No puede disparar: Sin munición</VFEE_Turret_StrikerTurret.comps.CompRefuelable.outOfFuelMessage>
+  <!-- EN: deactivates after: -->
+  <VFEE_Turret_StrikerTurret.comps.CompDestroyAfterDelay.countdownLabel>se desactiva tras:</VFEE_Turret_StrikerTurret.comps.CompDestroyAfterDelay.countdownLabel>
+  
+</LanguageData>

@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: graser cannon complex -->
+  <VFES_Complex_GraserCannon.label>complejo de cañón graser</VFES_Complex_GraserCannon.label>
+  <!-- EN: A devastating gamma ray laser mounted on a barricade to grant cover. It fires a sweeping beam capable of piercing armor and igniting targets. Needs to be manned in order to fire. Requires plasteel to refurbish its emitter array after heavy use. -->
+  <VFES_Complex_GraserCannon.description>Un devastador láser de rayos gamma montado en una barricada para otorgar cobertura. Dispara un rayo de barrido capaz de perforar armaduras e incendiar objetivos. Necesita ser operado para disparar. Requiere plastiacero para reacondicionar su matriz emisora después de un uso intenso.</VFES_Complex_GraserCannon.description>
+  <!-- EN: Barrel durability -->
+  <VFES_Complex_GraserCannon.comps.CompRefuelable.fuelGizmoLabel>Durabilidad del cañón</VFES_Complex_GraserCannon.comps.CompRefuelable.fuelGizmoLabel>
+  <!-- EN: Shots until barrel change -->
+  <VFES_Complex_GraserCannon.comps.CompRefuelable.fuelLabel>Disparos hasta cambio de cañón</VFES_Complex_GraserCannon.comps.CompRefuelable.fuelLabel>
+  <!-- EN: Needs new barrel -->
+  <VFES_Complex_GraserCannon.comps.CompRefuelable.outOfFuelMessage>Necesita cañón nuevo</VFES_Complex_GraserCannon.comps.CompRefuelable.outOfFuelMessage>
+  
+  <!-- EN: graser cannon -->
+  <VFES_ComplexGraserCannon_Top.label>cañón graser</VFES_ComplexGraserCannon_Top.label>
+  <!-- EN: A graser cannon designed to be attached to a turret. -->
+  <VFES_ComplexGraserCannon_Top.description>Un cañón graser diseñado para ser acoplado a una torreta.</VFES_ComplexGraserCannon_Top.description>
+  <!-- EN: graser cannon -->
+  <VFES_ComplexGraserCannon_Top.verbs.Verb_ShootBeam.label>cañón graser</VFES_ComplexGraserCannon_Top.verbs.Verb_ShootBeam.label>
+  
+  <!-- EN: Mote -->
+  <VFES_Mote_WideGraserBeamBase.label>Mota</VFES_Mote_WideGraserBeamBase.label>
+  
+</LanguageData>

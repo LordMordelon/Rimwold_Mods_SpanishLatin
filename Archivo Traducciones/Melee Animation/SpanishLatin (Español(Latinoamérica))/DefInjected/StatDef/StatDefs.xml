@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Melee Duel Ability -->
+  <AM_DuelAbility.label>Habilidad de duelo cuerpo a cuerpo</AM_DuelAbility.label>
+  <!-- EN: This pawn's effectiveness in melee duels. This stat value is compared against the opponents, and influcenes the outcome of the duel. -->
+  <AM_DuelAbility.description>La efectividad de este peón en duelos cuerpo a cuerpo. Este valor de estadística se compara con el de los oponentes e influye en el resultado del duelo.</AM_DuelAbility.description>
+  
+  <!-- EN: Execution Cooldown -->
+  <AM_ExecutionCooldown.label>Enfriamiento de ejecución</AM_ExecutionCooldown.label>
+  <!-- EN: The cooldown, measured in seconds, between melee executions. Affected by pawn melee skill and other factors. -->
+  <AM_ExecutionCooldown.description>El tiempo de reutilización, medido en segundos, entre ejecuciones cuerpo a cuerpo. Afectado por la habilidad cuerpo a cuerpo del peón y otros factores.</AM_ExecutionCooldown.description>
+  
+  <!-- EN: Lasso Cooldown -->
+  <AM_GrappleCooldown.label>Enfriamiento de lazo</AM_GrappleCooldown.label>
+  <!-- EN: The cooldown, measured in seconds, between lasso uses. Affected by lasso type and pawn health status. -->
+  <AM_GrappleCooldown.description>El tiempo de reutilización, medido en segundos, entre usos del lazo. Afectado por el tipo de lazo y el estado de salud del peón.</AM_GrappleCooldown.description>
+  
+  <!-- EN: Max Lasso Distance -->
+  <AM_GrappleRadius.label>Distancia máxima de lazo</AM_GrappleRadius.label>
+  <!-- EN: The maximum distance from which an enemy can be lassoed by this pawn.\nAffected by the equipped lasso type. -->
+  <AM_GrappleRadius.description>La distancia máxima desde la cual un enemigo puede ser lazado por este peón.\nAfectada por el tipo de lazo equipado.</AM_GrappleRadius.description>
+  
+  <!-- EN: Lasso Reel Speed -->
+  <AM_GrappleSpeed.label>Velocidad de recogida de lazo</AM_GrappleSpeed.label>
+  <!-- EN: The speed of ensnaring and then reeling in an enemy using a lasso.\nHigher values mean that it takes less time to grab and pull the target into melee range.\nThis is NOT the lasso cooldown. -->
+  <AM_GrappleSpeed.description>La velocidad de atrapar y luego atraer a un enemigo usando un lazo.\nValores más altos significan que toma menos tiempo agarrar y tirar del objetivo al rango cuerpo a cuerpo.\nEste NO es el enfriamiento del lazo.</AM_GrappleSpeed.description>
+  
+  <!-- EN: Melee Lethality -->
+  <AM_Lethality.label>Letalidad cuerpo a cuerpo</AM_Lethality.label>
+  <!-- EN: This pawn's lethality when performing executions. This value represents the chance to kill when performing execution animations, including when winning a duel. -->
+  <AM_Lethality.description>La letalidad de este peón al realizar ejecuciones. Este valor representa la probabilidad de matar al realizar animaciones de ejecución, incluso al ganar un duelo.</AM_Lethality.description>
+  
+</LanguageData>

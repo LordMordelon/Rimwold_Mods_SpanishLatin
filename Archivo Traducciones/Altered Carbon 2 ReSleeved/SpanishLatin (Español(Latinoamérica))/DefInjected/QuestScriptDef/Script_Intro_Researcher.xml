@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>questDescription->[asker_nameFull], [asker_titleIndef], is calling from nearby and explains in a few quick words that [asker_pronoun] has been exiled from [asker_possessive] home world for reasons they won't disclose and got attacked right after crash landing on this planet. [asker_pronoun] managed to escape, but is now badly wounded and in need of medical attention.\n\n\n[asker_nameDef] promises to be able to make it worth your while if you grant them a safe place to stay and get patched up at [map_definite].\n\n\n[asker_pronoun] refuses to answer any more questions, reiterating that their wounds need treatment as soon as possible.</li>
+  -->
+  <AC_Intro_Researcher.questDescriptionRules.rulesStrings>
+    <li>questDescription->[asker_nameFull], [asker_titleIndef], está llamando desde cerca y explica brevemente que ha sido exiliado/a de su mundo natal por razones que no quiere revelar y que fue atacado/a justo después de estrellarse en este planeta. Consiguió escapar, pero ahora está gravemente herido/a y necesita atención médica.\n\n\n[asker_nameDef] promete que hará que valga la pena si le ofreces un lugar seguro donde quedarse y curarse en [map_definite].\n\n\nSe niega a responder más preguntas, reiterando que sus heridas necesitan tratamiento lo antes posible.</li>
+  </AC_Intro_Researcher.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>questName->The [adjAny] researcher</li>
+    <li>adjAny->waning</li>
+    <li>adjAny->fleeing</li>
+    <li>adjAny->distressed</li>
+    <li>adjAny->dying</li>
+  -->
+  <AC_Intro_Researcher.questNameRules.rulesStrings>
+    <li>questName->El/La investigador(a) [adjAny]</li>
+    <li>adjAny->debilitado/a</li>
+    <li>adjAny->fugitivo/a</li>
+    <li>adjAny->angustiado/a</li>
+    <li>adjAny->moribundo/a</li>
+  </AC_Intro_Researcher.questNameRules.rulesStrings>
+  <!-- EN: {BASETEXT}\n\nBecause you accepted [asker_nameDef] the raid that is hunting [asker_objective] will arrive soon. -->
+  <AC_Intro_Researcher.root.nodes.PawnsArrive.customLetterText.slateRef>{BASETEXT}\n\nComo has aceptado a [asker_nameDef], el asalto que le está dando caza llegará pronto.</AC_Intro_Researcher.root.nodes.PawnsArrive.customLetterText.slateRef>
+  <!-- EN: {BASELABEL}: Raid -->
+  <AC_Intro_Researcher.root.nodes.Delay.node.nodes.Util_Raid.parms.customLetterLabel.value.slateRef>{BASELABEL}: Asalto</AC_Intro_Researcher.root.nodes.Delay.node.nodes.Util_Raid.parms.customLetterLabel.value.slateRef>
+  <!-- EN: {BASETEXT}\n\nThis is the raid squad that was hunting [../asker_nameFull]. It seems they came to finish the job. -->
+  <AC_Intro_Researcher.root.nodes.Delay.node.nodes.Util_Raid.parms.customLetterText.value.slateRef>{BASETEXT}\n\nEste es el escuadrón de asalto que estaba cazando a [../asker_nameFull]. Parece que han venido a terminar el trabajo.</AC_Intro_Researcher.root.nodes.Delay.node.nodes.Util_Raid.parms.customLetterText.value.slateRef>
+  
+</LanguageData>

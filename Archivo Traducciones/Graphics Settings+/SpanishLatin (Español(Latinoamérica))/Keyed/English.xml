@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<!-- EN: Graphics Setter -->
+  <GS_MenuTitle>Configurador Gráfico</GS_MenuTitle>
+
+	<!--Tabs-->
+	<!-- EN: Advanced -->
+  <GS_AdvancedTab>Avanzado</GS_AdvancedTab>
+	<!-- EN: Memory -->
+  <GS_MemoryTab>Memoria</GS_MemoryTab>
+	
+	<!--Settings-->
+	<!-- EN: General Settings -->
+  <GS_GeneralSettings>Ajustes generales</GS_GeneralSettings>
+	<!-- EN: (Recommended) Activate Mip-Mapping -->
+  <GS_MipMapping>(Recomendado) Activar Mip-Mapping</GS_MipMapping>
+	<!-- EN: MipMap Bias -->
+  <GS_MipMapBias>Sesgo de MipMap</GS_MipMapBias>
+	<!-- EN: Sharpest -->
+  <GS_MipMapSharp>Más Nítido</GS_MipMapSharp>
+	<!-- EN: Blurriest -->
+  <GS_MipMapBlurry>Más Borroso</GS_MipMapBlurry>
+	<!-- EN: Anisotropic Filter Level -->
+  <GS_AnisoLevel>Nivel de Filtro Anisotrópico</GS_AnisoLevel>
+	
+	<!-- EN: Texture Filtering -->
+  <GS_TextureFiltering>Filtrado de Texturas</GS_TextureFiltering>
+	<!--<GS_FilterModePoint>Point</GS_FilterModePoint>-->
+	<!-- EN: Bilinear -->
+  <GS_FilterModeBilinear>Bilineal</GS_FilterModeBilinear>
+	<!-- EN: Trilinear -->
+  <GS_FilterModeTrilinear>Trilineal</GS_FilterModeTrilinear>
+	
+	<!-- EN: Reset -->
+  <GS_Reset>Restablecer</GS_Reset>
+	<!-- EN: You will have to restart the game to apply changes! -->
+  <GS_RestartRequired>¡Tendrás que reiniciar el juego para aplicar los cambios!</GS_RestartRequired>
+	<!-- EN: Restart Game -->
+  <GS_RestartGameButton>Reiniciar Juego</GS_RestartGameButton>
+	
+	<!-- EN: This value changes how blurry textures can get depending on zoom, it is recommended to be equal or below 0. -->
+  <GS_MipMapToolTip>Este valor cambia cuán borrosas pueden volverse las texturas dependiendo del zoom. Se recomienda que sea igual o inferior a 0.</GS_MipMapToolTip>
+	<!-- EN: Set the level of anisotropic filtering, higher levels may reduce performance on older graphics cards. -->
+  <GS_AnisoLevelToolTip>Establece el nivel de filtrado anisotrópico. Niveles más altos pueden reducir el rendimiento en tarjetas gráficas antiguas.</GS_AnisoLevelToolTip>
+	
+	<!-- Memory -->
+	<!-- EN: All Texture Content -->
+  <GS_AllTextureMemory>Contenido Total de Texturas</GS_AllTextureMemory>
+	<!-- EN: {0} mods to process... -->
+  <GS_ModsToProcessLabel>{0} mods por procesar...</GS_ModsToProcessLabel>
+	<!-- EN: No mods to process. -->
+  <GS_NoModsToProcess>No hay mods por procesar.</GS_NoModsToProcess>
+	
+	<!-- EN: Cached Atlas Textures -->
+  <GS_CachedAtlasses>Texturas de Atlas en Caché</GS_CachedAtlasses>
+	
+	<!-- EN: Recalculate -->
+  <GS_CacheRecalc>Recalcular</GS_CacheRecalc>
+	<!-- EN: Stop -->
+  <GS_CacheStop>Detener</GS_CacheStop>
+	<!-- EN: Continue -->
+  <GS_CacheContinue>Continuar</GS_CacheContinue>
+	
+	<!-- EN: Not Enough VRAM -->
+  <GS_CacheWarnRAM>VRAM Insuficiente</GS_CacheWarnRAM>
+	<!-- EN: Calculating... Please wait. -->
+  <GS_RecalcProcess>Calculando... Por favor, espera.</GS_RecalcProcess>
+	<!-- EN: Warning:\n{0} -->
+  <GS_CacheWarning>Advertencia:\n{0}</GS_CacheWarning>
+	<!-- EN: Your system cannot support these settings." -->
+  <GS_CacheWarnOverflow>Tu sistema no puede soportar estos ajustes.</GS_CacheWarnOverflow>
+	<!-- EN: Your system may struggle with these settings. -->
+  <GS_CacheWarnStruggle>Tu sistema podría tener dificultades con estos ajustes.</GS_CacheWarnStruggle>
+
+</LanguageData>

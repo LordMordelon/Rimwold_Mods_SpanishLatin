@@ -1,0 +1,619 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: Epicguru's Melee Animation -->
+  <AM.ModTitle>Animación cuerpo a cuerpo de Epicguru</AM.ModTitle>
+  <!-- EN: Loading Melee Animation -->
+  <AM.LoadingText>Cargando animación cuerpo a cuerpo</AM.LoadingText>
+
+  <!-- EN: Animation -->
+  <AM.Animation>Animación</AM.Animation>
+
+  <!-- EN: Cannot lasso: {0} -->
+  <AM.Error.Grapple.FloatMenu>No se puede lazar: {0}</AM.Error.Grapple.FloatMenu>
+  <!-- EN: Lasso {0} -->
+  <AM.Grapple.FloatMenu>Lazar a {0}</AM.Grapple.FloatMenu>
+  <!-- EN: Use a lasso to pull {1} towards {0}.\nThis does not harm {1}. -->
+  <AM.Grapple.FloatMenu.Tip>Usa un lazo para atraer a {1} hacia {0}.\nEsto no daña a {1}.</AM.Grapple.FloatMenu.Tip>
+  <!-- EN: Use a lasso to pull {1} towards {0}.\nThis does not harm {1}, but it does put them into melee/execution range. -->
+  <AM.Grapple.FloatMenu.TipEnemy>Usa un lazo para atraer a {1} hacia {0}.\nEsto no daña a {1}, pero los pone en rango de cuerpo a cuerpo/ejecución.</AM.Grapple.FloatMenu.TipEnemy>
+
+  <!-- EN: Execute {0} -->
+  <AM.Exec.FloatMenu>Ejecutar a {0}</AM.Exec.FloatMenu>
+  <!-- EN: Perform an execution animation on {1}.\nPossible outcomes based on weapon, melee skill, armor, mod settings etc:\n{2} -->
+  <AM.Exec.FloatMenu.Tip>Realizar una animación de ejecución en {1}.\nPosibles resultados basados en arma, habilidad cuerpo a cuerpo, armadura, configuración del mod, etc:\n{2}</AM.Exec.FloatMenu.Tip>
+  <!-- EN:  (walk to target) -->
+  <AM.Exec.FloatMenu.Walk> (caminar hacia el objetivo)</AM.Exec.FloatMenu.Walk>
+  <!-- EN:  (lasso) -->
+  <AM.Exec.FloatMenu.Lasso> (lazo)</AM.Exec.FloatMenu.Lasso>
+
+  <!-- EN: Int.Error: {Error} -->
+  <AM.Error.Grapple.Internal>Error Int.: {Error}</AM.Error.Grapple.Internal>
+  <!-- EN: {Target} is already in melee range -->
+  <AM.Error.Grapple.AlreadyAtTarget>{Target} ya está en rango cuerpo a cuerpo</AM.Error.Grapple.AlreadyAtTarget>
+
+  <!-- EN: Kill -->
+  <AM.ProbReport.Kill>Matar</AM.ProbReport.Kill>
+  <!-- EN: Down -->
+  <AM.ProbReport.Down>Incapacitar</AM.ProbReport.Down>
+  <!-- EN: Injure -->
+  <AM.ProbReport.Injure>Herir</AM.ProbReport.Injure>
+  <!-- EN: Fail -->
+  <AM.ProbReport.Fail>Fallar</AM.ProbReport.Fail>
+
+  <!-- Duel command messages -->
+  <!-- EN: Int.Error: {Error} -->
+  <AM.Error.Duel.Internal>Error Int.: {Error}</AM.Error.Duel.Internal>
+  <!-- EN: {Pawn} is dead -->
+  <AM.Error.Duel.Dead>{Pawn} está muerto</AM.Error.Duel.Dead>
+  <!-- EN: {Pawn} is downed -->
+  <AM.Error.Duel.Down>{Pawn} está incapacitado</AM.Error.Duel.Down>
+  <!-- EN: {Pawn} cannot be dueled right now -->
+  <AM.Error.Duel.NotSpawned>{Pawn} no puede tener un duelo ahora mismo</AM.Error.Duel.NotSpawned>
+  <!-- EN: {Pawn} is not available -->
+  <AM.Error.Duel.NotSpawned.Short>{Pawn} no está disponible</AM.Error.Duel.NotSpawned.Short>
+  <!-- EN: {Pawn} does not have a valid melee weapon -->
+  <AM.Error.Duel.MissingWeapon>{Pawn} no tiene un arma cuerpo a cuerpo válida</AM.Error.Duel.MissingWeapon>
+  <!-- EN: The weapon(s) these pawns are carrying cannot be used to duel with. -->
+  <AM.Error.Duel.NoAnim>Las armas que llevan estos peones no se pueden usar para un duelo.</AM.Error.Duel.NoAnim>
+  <!-- EN: These melee weapons cannot be used to duel -->
+  <AM.Error.Duel.NoAnim.Short>Estas armas cuerpo a cuerpo no se pueden usar para un duelo</AM.Error.Duel.NoAnim.Short>
+  <!-- EN: {0} cannot reach {1} to start a duel -->
+  <AM.Error.Duel.NoPath>{0} no puede alcanzar a {1} para iniciar un duelo</AM.Error.Duel.NoPath>
+  <!-- EN: {0}'s duel is on cooldown -->
+  <AM.Error.Duel.OnCooldown>El duelo de {0} está en enfriamiento</AM.Error.Duel.OnCooldown>
+  <!-- EN: {0} got tired of waiting for {1} to arrive to their duel, and called it off. -->
+  <AM.Error.Duel.WaitedTooLong>{0} se cansó de esperar a que {1} llegara a su duelo y lo canceló.</AM.Error.Duel.WaitedTooLong>
+
+  <!-- Duel spot gizmo -->
+  <!-- EN: Start duel -->
+  <AM.Gizmos.DuelSpot.StartDuel.Label>Iniciar duelo</AM.Gizmos.DuelSpot.StartDuel.Label>
+  <!-- EN: Manually start a duel between two friendly pawns with valid weapons. Prisoners cannot participate.\n\nThis is a friendly duel, nobody will be hurt. -->
+  <AM.Gizmos.DuelSpot.StartDuel.Desc>Iniciar manualmente un duelo entre dos peones amistosos con armas válidas. Los prisioneros no pueden participar.\n\nEste es un duelo amistoso, nadie saldrá herido.</AM.Gizmos.DuelSpot.StartDuel.Desc>
+  <!-- EN: The duel spot is currently in use -->
+  <AM.Gizmos.DuelSpot.StartDuel.InUse>El lugar de duelo está actualmente en uso</AM.Gizmos.DuelSpot.StartDuel.InUse>
+  <!-- EN: The duel spot is forbidden -->
+  <AM.Gizmos.DuelSpot.StartDuel.Forbidden>El lugar de duelo está prohibido</AM.Gizmos.DuelSpot.StartDuel.Forbidden>
+  <!-- EN: {0} does not have a valid melee weapon (must be long weapon, not short) -->
+  <AM.Gizmos.DuelSpot.StartDuel.MissingWeapon>{0} no tiene un arma cuerpo a cuerpo válida (debe ser arma larga, no corta)</AM.Gizmos.DuelSpot.StartDuel.MissingWeapon>
+  <!-- EN: {0}'s weapon cannot be used to duel {1}, their weapons are incompatible (must be long weapons, not short) -->
+  <AM.Gizmos.DuelSpot.StartDuel.IncompatWeapon>El arma de {0} no se puede usar para un duelo con {1}, sus armas son incompatibles (deben ser armas largas, no cortas)</AM.Gizmos.DuelSpot.StartDuel.IncompatWeapon>
+  <!-- EN: {0}'s current job cannot be interrupted -->
+  <AM.Gizmos.DuelSpot.StartDuel.CannotInterrupt>El trabajo actual de {0} no puede ser interrumpido</AM.Gizmos.DuelSpot.StartDuel.CannotInterrupt>
+  <!-- EN: {0} cannot reach the duel spot -->
+  <AM.Gizmos.DuelSpot.StartDuel.NoPath>{0} no puede llegar al lugar de duelo</AM.Gizmos.DuelSpot.StartDuel.NoPath>
+  <!-- EN: {0} cannot do a friendly duel for another {2} seconds -->
+  <AM.Gizmos.DuelSpot.StartDuel.OnCooldown>{0} no puede hacer un duelo amistoso por otros {2} segundos</AM.Gizmos.DuelSpot.StartDuel.OnCooldown>
+  <!-- EN: Select a pawn to duel -->
+  <AM.Gizmos.DuelSpot.StartDuel.FloatMenuTitle>Selecciona un peón para el duelo</AM.Gizmos.DuelSpot.StartDuel.FloatMenuTitle>
+  <!-- EN: An unexpected error caused the duel to not be able to be started. Please send logs to the mod author. -->
+  <AM.Gizmos.DuelSpot.StartDuel.FailedToStart>Un error inesperado impidió que se iniciara el duelo. Por favor envía los registros al autor del mod.</AM.Gizmos.DuelSpot.StartDuel.FailedToStart>
+  <!-- EN: Toggle visibility -->
+  <AM.Gizmos.DuelSpot.ToggleVisibility>Alternar visibilidad</AM.Gizmos.DuelSpot.ToggleVisibility>
+  <!-- EN: Makes this duel spot invisible, or shows it again.\nWarning: it really is invisible! Don't forget where you put it down or you may struggle to find it again... -->
+  <AM.Gizmos.DuelSpot.ToggleVisibility.Desc>Hace que este lugar de duelo sea invisible o lo muestra de nuevo.\nAdvertencia: ¡realmente es invisible! No olvides dónde lo pusiste o podrías tener problemas para encontrarlo de nuevo...</AM.Gizmos.DuelSpot.ToggleVisibility.Desc>
+
+  <!-- EN: {Grappler} is dead -->
+  <AM.Error.Grapple.Dead>{Grappler} está muerto</AM.Error.Grapple.Dead>
+  <!-- EN: {Grappler} is stunned -->
+  <AM.Error.Grapple.Stunned>{Grappler} está aturdido</AM.Error.Grapple.Stunned>
+  <!-- EN: {Target} is dead -->
+  <AM.Error.Grapple.DeadTarget>{Target} está muerto</AM.Error.Grapple.DeadTarget>
+  <!-- EN: {Grappler} is downed -->
+  <AM.Error.Grapple.Downed>{Grappler} está incapacitado</AM.Error.Grapple.Downed>
+  <!-- EN: {Target} is already being lassoed -->
+  <AM.Error.Grapple.AlreadyTarget>{Target} ya está siendo lazado</AM.Error.Grapple.AlreadyTarget>
+  <!-- EN: Already being lassoed -->
+  <AM.Error.Grapple.AlreadyTarget.Short>Ya está siendo lazado</AM.Error.Grapple.AlreadyTarget.Short>
+
+  <!-- Execution errors -->
+  <!-- EN: Cannot execute: {0} -->
+  <AM.Error.Exec.FloatMenu>No se puede ejecutar: {0}</AM.Error.Exec.FloatMenu>
+  <!-- EN: Int.Error: {Error} -->
+  <AM.Error.Exec.Internal>Error Int.: {Error}</AM.Error.Exec.Internal>
+  <!-- EN: {Exec} is dead -->
+  <AM.Error.Exec.Dead>{Exec} está muerto</AM.Error.Exec.Dead>
+  <!-- EN: {Target} cannot be reached -->
+  <AM.Error.Exec.NoWalk.Short>{Target} no puede ser alcanzado</AM.Error.Exec.NoWalk.Short>
+  <!-- EN: {Target} is dead -->
+  <AM.Error.Exec.DeadTarget>{Target} está muerto</AM.Error.Exec.DeadTarget>
+  <!-- EN: {Exec} is downed -->
+  <AM.Error.Exec.Downed>{Exec} está incapacitado</AM.Error.Exec.Downed>
+  <!-- EN: {Target} is downed. Downed pawns cannot be executed. -->
+  <AM.Error.Exec.DownedTarget>{Target} está incapacitado. Los peones incapacitados no pueden ser ejecutados.</AM.Error.Exec.DownedTarget>
+  <!-- EN: {Target} is downed -->
+  <AM.Error.Exec.DownedTarget.Short>{Target} está incapacitado</AM.Error.Exec.DownedTarget.Short>
+  <!-- EN: {Target} is not a valid target. -->
+  <AM.Error.Exec.BadRace>{Target} no es un objetivo válido.</AM.Error.Exec.BadRace>
+  <!-- EN: {Target} is not a valid target -->
+  <AM.Error.Exec.BadRace.Short>{Target} no es un objetivo válido</AM.Error.Exec.BadRace.Short>
+  <!-- EN: {Exec} has no weapon and cannot use their fists: {Additional} -->
+  <AM.Error.Exec.CannotFist>{Exec} no tiene arma y no puede usar sus puños: {Additional}</AM.Error.Exec.CannotFist>
+  <!-- EN: {Exec} cannot use their fists -->
+  <AM.Error.Exec.CannotFist.Short>{Exec} no puede usar sus puños</AM.Error.Exec.CannotFist.Short>
+  <!-- EN: {Exec} cannot execute anyone right now -->
+  <AM.Error.Exec.SelfInAnimation>{Exec} no puede ejecutar a nadie ahora mismo</AM.Error.Exec.SelfInAnimation>
+  <!-- EN: {Target} cannot be executed right now -->
+  <AM.Error.Exec.InAnimation>{Target} no puede ser ejecutado ahora mismo</AM.Error.Exec.InAnimation>
+  <!-- EN: {Exec} is stunned -->
+  <AM.Error.Exec.Stunned>{Exec} está aturdido</AM.Error.Exec.Stunned>
+  <!-- EN: {Target} is not adjacent to {Exec}, and cannot be lassoed or walked to. -->
+  <AM.Error.Exec.NoWalk>{Target} no es adyacente a {Exec}, y no puede ser lazado ni alcanzado caminando.</AM.Error.Exec.NoWalk>
+  <!-- EN: {Exec} is not wielding a valid melee weapon -->
+  <AM.Error.Exec.NoWeapon>{Exec} no empuña un arma cuerpo a cuerpo válida</AM.Error.Exec.NoWeapon>
+  <!-- EN: No melee weapon -->
+  <AM.Error.Exec.NoWeapon.Short>Sin arma cuerpo a cuerpo</AM.Error.Exec.NoWeapon.Short>
+  <!-- EN: {Exec}'s execution is on cooldown -->
+  <AM.Error.Exec.Cooldown>La ejecución de {Exec} está en enfriamiento</AM.Error.Exec.Cooldown>
+  <!-- EN: Execution on cooldown -->
+  <AM.Error.Exec.Cooldown.Short>Ejecución en enfriamiento</AM.Error.Exec.Cooldown.Short>
+  <!-- EN: {Exec} cannot perform any execution animations using their {Weapon}.\nThis is probably due to a lack of melee skill or because all animations are disabled in the mod settings. -->
+  <AM.Error.Exec.NoAnims>{Exec} no puede realizar ninguna animación de ejecución usando su {Weapon}.\nEsto probablemente se debe a la falta de habilidad cuerpo a cuerpo o porque todas las animaciones están desactivadas en la configuración del mod.</AM.Error.Exec.NoAnims>
+  <!-- EN: No animations available -->
+  <AM.Error.Exec.NoAnims.Short>No hay animaciones disponibles</AM.Error.Exec.NoAnims.Short>
+  <!-- EN: There is not enough space to perform any execution animation here -->
+  <AM.Error.Exec.NoSpace>No hay suficiente espacio para realizar ninguna animación de ejecución aquí</AM.Error.Exec.NoSpace>
+  <!-- EN: Not enough space -->
+  <AM.Error.Exec.NoSpace.Short>No hay suficiente espacio</AM.Error.Exec.NoSpace.Short>
+  <!-- EN: {Exec} cannot reach {Target} by walking, and their lasso is unavailable or unusable. -->
+  <AM.Error.Exec.NoPath>{Exec} no puede alcanzar a {Target} caminando, y su lazo no está disponible o no se puede usar.</AM.Error.Exec.NoPath>
+  <!-- EN: No path to target -->
+  <AM.Error.Exec.NoPath.Short>Sin camino al objetivo</AM.Error.Exec.NoPath.Short>
+  <!-- EN: {Exec} use their fists for execution: {Additional}. -->
+  <AM.Error.Exec.BadFists>{Exec} usa sus puños para la ejecución: {Additional}.</AM.Error.Exec.BadFists>
+  <!-- EN: Cannot use their fists for execution -->
+  <AM.Error.Exec.BadFists.Short>No puede usar sus puños para la ejecución</AM.Error.Exec.BadFists.Short>
+
+  <!-- EN: No line of sight -->
+  <AM.Error.Grapple.MissingLOS>Sin línea de visión</AM.Error.Grapple.MissingLOS>
+
+  <!-- EN: {Target} is out of reach of {Grappler}'s lasso -->
+  <AM.Error.Grapple.TooFar>{Target} está fuera del alcance del lazo de {Grappler}</AM.Error.Grapple.TooFar>
+  <!-- EN: Too far away -->
+  <AM.Error.Grapple.TooFar.Short>Demasiado lejos</AM.Error.Grapple.TooFar.Short>
+
+  <!-- EN: {Target} cannot be lassoed right now -->
+  <AM.Error.Grapple.InAnimation>{Target} no puede ser lazado ahora mismo</AM.Error.Grapple.InAnimation>
+  <!-- EN: {Grappler} cannot lasso right now -->
+  <AM.Error.Grapple.SelfInAnimation>{Grappler} no puede lazar ahora mismo</AM.Error.Grapple.SelfInAnimation>
+
+  <!-- EN: {Target} is too heavy for {Grappler} to lasso -->
+  <AM.Error.Grapple.Mass>{Target} es demasiado pesado para que {Grappler} lo lace</AM.Error.Grapple.Mass>
+  <!-- EN: {Target} is too heavy -->
+  <AM.Error.Grapple.Mass.Short>{Target} es demasiado pesado</AM.Error.Grapple.Mass.Short>
+
+  <!-- EN: {Target} is too large for {Grappler} to lasso -->
+  <AM.Error.Grapple.Size>{Target} es demasiado grande para que {Grappler} lo lace</AM.Error.Grapple.Size>
+  <!-- EN: {Target} is too large -->
+  <AM.Error.Grapple.Size.Short>{Target} es demasiado grande</AM.Error.Grapple.Size.Short>
+
+  <!-- EN: {Grappler}'s lasso is on cooldown -->
+  <AM.Error.Grapple.Cooldown>El lazo de {Grappler} está en enfriamiento</AM.Error.Grapple.Cooldown>
+  <!-- EN: Lasso on cooldown -->
+  <AM.Error.Grapple.Cooldown.Short>Lazo en enfriamiento</AM.Error.Grapple.Cooldown.Short>
+
+  <!-- EN: {Grappler} does not have the required melee skill ({MeleeSkill}) to use their lasso -->
+  <AM.Error.Grapple.SkillIssue>{Grappler} no tiene la habilidad cuerpo a cuerpo requerida ({MeleeSkill}) para usar su lazo</AM.Error.Grapple.SkillIssue>
+  <!-- EN: Not enough melee skill -->
+  <AM.Error.Grapple.SkillIssue.Short>No hay suficiente habilidad cuerpo a cuerpo</AM.Error.Grapple.SkillIssue.Short>
+
+  <!-- EN: {Grappler} does not have the required manipulation to use their lasso -->
+  <AM.Error.Grapple.Manipulation>{Grappler} no tiene la manipulación requerida para usar su lazo</AM.Error.Grapple.Manipulation>
+  <!-- EN: Not enough manipulation -->
+  <AM.Error.Grapple.Manipulation.Short>No hay suficiente manipulación</AM.Error.Grapple.Manipulation.Short>
+
+  <!-- EN: There is no free spot around {Grappler} to drag {Target} to -->
+  <AM.Error.Grapple.NoDest>No hay un lugar libre alrededor de {Grappler} para arrastrar a {Target}</AM.Error.Grapple.NoDest>
+  <!-- EN: No free spot around {Grappler} -->
+  <AM.Error.Grapple.NoDest.Short>No hay lugar libre alrededor de {Grappler}</AM.Error.Grapple.NoDest.Short>
+
+
+
+  <!-- EN: Base Value: {0} -->
+  <AM.Stats.BaseValue>Valor base: {0}</AM.Stats.BaseValue>
+  <!-- EN: Melee Skill ({0}) Effect: {1} -->
+  <AM.Stats.MeleeSkillOffset>Efecto de habilidad cuerpo a cuerpo ({0}): {1}</AM.Stats.MeleeSkillOffset>
+  <!-- EN: Consciousness ({0}) Effect: {1} -->
+  <AM.Stats.ConsciousnessOffset>Efecto de consciencia ({0}): {1}</AM.Stats.ConsciousnessOffset>
+  <!-- EN: Manipulation ({0}) Effect: {1} -->
+  <AM.Stats.ManipulationOffset>Efecto de manipulación ({0}): {1}</AM.Stats.ManipulationOffset>
+  <!-- EN: Weapon Damage Type ({0}) Effect: {1} -->
+  <AM.Stats.WeaponDamageTypeOffset>Efecto del tipo de daño del arma ({0}): {1}</AM.Stats.WeaponDamageTypeOffset>
+  <!-- EN: Weapon DPS ({0}) Effect: {1} -->
+  <AM.Stats.WeaponDPSCoef>Efecto del DPS del arma ({0}): {1}</AM.Stats.WeaponDPSCoef>
+  <!-- EN: No Melee Weapon Equipped: {0} -->
+  <AM.Stats.NoWeapon>Sin arma cuerpo a cuerpo equipada: {0}</AM.Stats.NoWeapon>
+  <!-- EN: Global {0} Multiplier (from mod settings): {1} -->
+  <AM.Stats.GlobalCoef>Multiplicador global de {0} (de configuración del mod): {1}</AM.Stats.GlobalCoef>
+  <!-- EN: Friendly Pawn Multiplier (from mod settings): x{0} -->
+  <AM.Stats.FriendlyCoef>Multiplicador de peón amistoso (de configuración del mod): x{0}</AM.Stats.FriendlyCoef>
+  <!-- EN: Melee Skill Multiplier: x{0} -->
+  <AM.Stats.SkillCoef>Multiplicador de habilidad cuerpo a cuerpo: x{0}</AM.Stats.SkillCoef>
+  <!-- EN: Hostile Pawn Multiplier (from mod settings): x{0} -->
+  <AM.Stats.EnemyCoef>Multiplicador de peón hostil (de configuración del mod): x{0}</AM.Stats.EnemyCoef>
+  <!-- EN: lethality -->
+  <AM.Stats.Lethality>letalidad</AM.Stats.Lethality>
+  <!-- EN: duel ability -->
+  <AM.Stats.DuelAbility>habilidad de duelo</AM.Stats.DuelAbility>
+  <!-- EN: Friendly Pawn Bonus (from mod settings): {0} -->
+  <AM.Stats.FriendlyPawnBonus>Bonificación de peón amistoso (de configuración del mod): {0}</AM.Stats.FriendlyPawnBonus>
+
+  <!-- EN: Cast unique skill '{0}' on {1} -->
+  <AM.Skill.Cast>Lanzar habilidad única '{0}' en {1}</AM.Skill.Cast>
+  <!-- EN: Can't cast {0}: {1} -->
+  <AM.Skill.CantCast>No se puede lanzar {0}: {1}</AM.Skill.CantCast>
+  <!-- EN: Can't cast {0} on {1} right now. -->
+  <AM.Skill.CantCastGeneric>No se puede lanzar {0} en {1} ahora mismo.</AM.Skill.CantCastGeneric>
+  <!-- EN: Target invalid state. -->
+  <AM.Skill.BadTargetState>Estado del objetivo inválido.</AM.Skill.BadTargetState>
+  <!-- EN: The skill is already active. -->
+  <AM.Skill.AlreadyActive>La habilidad ya está activa.</AM.Skill.AlreadyActive>
+  <!-- EN: On cooldown for {0} seconds. -->
+  <AM.Skill.OnCooldown>En enfriamiento por {0} segundos.</AM.Skill.OnCooldown>
+  <!-- EN: On cooldown for {0} seconds (because of recent execution). -->
+  <AM.Skill.OnCooldownExec>En enfriamiento por {0} segundos (debido a ejecución reciente).</AM.Skill.OnCooldownExec>
+  <!-- EN: Missing required weapon. -->
+  <AM.Skill.BadWeapon>Falta el arma requerida.</AM.Skill.BadWeapon>
+
+  <!-- Gilgamesh skill -->
+  <!-- EN: Psylink level {0} is below required level {1}. -->
+  <AM.Skill.Gilgamesh.LowPsy>El nivel de psienlace {0} está por debajo del nivel requerido {1}.</AM.Skill.Gilgamesh.LowPsy>
+  <!-- EN: Melee level {0} is below required level {1}. -->
+  <AM.Skill.Gilgamesh.LowMelee>El nivel de cuerpo a cuerpo {0} está por debajo del nivel requerido {1}.</AM.Skill.Gilgamesh.LowMelee>
+
+  <!-- EN: The invisibilty optimization has been disabled by the Melee Animation mod due to visual bugs. -->
+  <AM.Patch.OptDisabled>La optimización de invisibilidad ha sido desactivada por el mod Melee Animation debido a errores visuales.</AM.Patch.OptDisabled>
+
+  <!-- Translate settings menu: -->
+  <!-- EN: Preset: -->
+  <SimpleSettings.Preset>Preajuste:</SimpleSettings.Preset>
+  <!-- EN: Custom -->
+  <SimpleSettings.Preset.Custom>Personalizado</SimpleSettings.Preset.Custom>
+  <!-- EN: Right-click to set an option back to its default value. -->
+  <SimpleSettings.ClickToReset>Clic derecho para restablecer una opción a su valor predeterminado.</SimpleSettings.ClickToReset>
+
+  <!-- EN: Default -->
+  <AM.AMSettings.Presets.Default>Predeterminado</AM.AMSettings.Presets.Default>
+  <!-- EN: Enables all features the mod has to offer -->
+  <AM.AMSettings.Presets.Default.Desc>Habilita todas las características que ofrece el mod</AM.AMSettings.Presets.Default.Desc>
+
+  <!-- EN: No Lassos -->
+  <AM.AMSettings.Presets.NoLassos>Sin lazos</AM.AMSettings.Presets.NoLassos>
+  <!-- EN: Everything is enabled except lassos. You can still craft and use lassos manually if you want but enemies will not spawn with or use lassos.
+
+* Adds melee attack animations.
+* Adds melee weapon idle animations
+* Adds duels
+* Adds execution animations
+* Adds Unique Skills -->
+  <AM.AMSettings.Presets.NoLassos.Desc>Todo está habilitado excepto los lazos. Aún puedes fabricar y usar lazos manualmente si quieres, pero los enemigos no aparecerán con lazos ni los usarán.\n\n* Añade animaciones de ataque cuerpo a cuerpo.\n* Añade animaciones de inactividad de armas cuerpo a cuerpo\n* Añade duelos\n* Añade animaciones de ejecución\n* Añade habilidades únicas</AM.AMSettings.Presets.NoLassos.Desc>
+
+  <!-- EN: Vanilla+ -->
+  <AM.AMSettings.Presets.VanillaPlus>Vanilla+</AM.AMSettings.Presets.VanillaPlus>
+  <!-- EN: Keeps things very close to vanilla combat. Your pawns will not use lassos unless you manually instruct them to. Your pawns can not do executions, ever. Enemies will never do executions or use lassos.
+
+* Adds melee attack animations.
+* Adds melee weapon idle animations
+* Lassos can be used by friendly pawns, but must be equipped and triggered manually. -->
+  <AM.AMSettings.Presets.VanillaPlus.Desc>Mantiene las cosas muy cerca del combate vanilla. Tus peones no usarán lazos a menos que les indiques manualmente. Tus peones nunca harán ejecuciones. Los enemigos nunca harán ejecuciones ni usarán lazos.\n\n* Añade animaciones de ataque cuerpo a cuerpo.\n* Añade animaciones de inactividad de armas cuerpo a cuerpo\n* Los lazos pueden ser usados por peones amistosos, pero deben ser equipados y activados manualmente.</AM.AMSettings.Presets.VanillaPlus.Desc>
+
+  <!-- EN: General -->
+  <AM.AMSettings.Settings.Header.General>General</AM.AMSettings.Settings.Header.General>
+  <!-- EN: Always Animate Weapons -->
+  <AM.AMSettings.Settings.AnimateAtIdle>Siempre animar armas</AM.AMSettings.Settings.AnimateAtIdle>
+  <!-- EN: If enabled, melee weapons are animated whenever they are held, such as when standing drafted or while moving in combat.
+If disabled, animations are limited to duels, special skills and executions.
+
+<b>Leaving this enabled can have a large performance impact on densely populated maps.
+Please reload your save after changing this setting.</b> -->
+  <AM.AMSettings.Settings.AnimateAtIdle.Desc>Si se habilita, las armas cuerpo a cuerpo se animan siempre que se sostienen, como cuando se está reclutado o moviéndose en combate.\nSi se deshabilita, las animaciones se limitan a duelos, habilidades especiales y ejecuciones.\n\n<b>Dejar esto habilitado puede tener un gran impacto en el rendimiento en mapas densamente poblados.\nPor favor recarga tu partida después de cambiar esta configuración.</b></AM.AMSettings.Settings.AnimateAtIdle.Desc>
+  <!-- EN: Enable Unique Skills -->
+  <AM.AMSettings.Settings.EnableUniqueSkills>Habilitar habilidades únicas</AM.AMSettings.Settings.EnableUniqueSkills>
+  <!-- EN: Enables or disables the Unique Skill system.
+Unique Skills are powerful attacks or abilities that are unlocked under certain conditions.
+Only your colonists can use these skills and they must be activated manually. See the Steam workshop page for more info. -->
+  <AM.AMSettings.Settings.EnableUniqueSkills.Desc>Habilita o deshabilita el sistema de Habilidades Únicas.\nLas Habilidades Únicas son ataques o habilidades poderosas que se desbloquean bajo ciertas condiciones.\nSolo tus colonos pueden usar estas habilidades y deben activarse manualmente. Consulta la página de Steam workshop para más información.</AM.AMSettings.Settings.EnableUniqueSkills.Desc>
+  <!-- EN: Animated Pawns Considered Invisible -->
+  <AM.AMSettings.Settings.AllowInvisiblePawns>Peones animados considerados invisibles</AM.AMSettings.Settings.AllowInvisiblePawns>
+  <!-- EN: When in an animation, such as an execution, pawns are considered invisible by all other pawns and turrets: they will not be actively targeted or shot at. This makes executions less risky.
+Note that pawns in animations can still take damage, such as from stray gunfire or explosions. -->
+  <AM.AMSettings.Settings.AllowInvisiblePawns.Desc>Cuando están en una animación, como una ejecución, los peones se consideran invisibles para todos los demás peones y torretas: no serán atacados ni disparados activamente. Esto hace que las ejecuciones sean menos riesgosas.\nTen en cuenta que los peones en animaciones aún pueden recibir daño, como por disparos perdidos o explosiones.</AM.AMSettings.Settings.AllowInvisiblePawns.Desc>
+  <!-- EN: Global Animation Speed -->
+  <AM.AMSettings.Settings.GlobalAnimationSpeed>Velocidad global de animación</AM.AMSettings.Settings.GlobalAnimationSpeed>
+  <!-- EN: A modifier on the speed of all animations.
+Higher is faster. -->
+  <AM.AMSettings.Settings.GlobalAnimationSpeed.Desc>Un modificador en la velocidad de todas las animaciones.\nMás alto es más rápido.</AM.AMSettings.Settings.GlobalAnimationSpeed.Desc>
+  <!-- EN: Individual Animation Settings -->
+  <AM.AMSettings.Settings.animSettings>Configuración de animación individual</AM.AMSettings.Settings.animSettings>
+  <AM.AMSettings.Settings.animSettings.Desc></AM.AMSettings.Settings.animSettings.Desc>
+  <!-- EN: Lasso -->
+  <AM.AMSettings.Settings.Header.Lasso>Lazo</AM.AMSettings.Settings.Header.Lasso>
+  <!-- EN: Auto Lasso -->
+  <AM.AMSettings.Settings.AutoGrapple>Auto-lazo</AM.AMSettings.Settings.AutoGrapple>
+  <!-- EN: If true, your colonists will automatically use their lassos against enemies.
+
+This only changes the <b>default</b> setting. It can also be configured on a per-pawn basis. -->
+  <AM.AMSettings.Settings.AutoGrapple.Desc>Si es verdadero, tus colonos usarán automáticamente sus lazos contra los enemigos.\n\nEsto solo cambia la configuración <b>predeterminada</b>. También se puede configurar por peón.</AM.AMSettings.Settings.AutoGrapple.Desc>
+  <!-- EN: Automatic Lasso Average Interval (Friendly) -->
+  <AM.AMSettings.Settings.GrappleAttemptMTBSeconds>Intervalo promedio de lazo automático (Amistoso)</AM.AMSettings.Settings.GrappleAttemptMTBSeconds>
+  <!-- EN: This is the average time, in seconds, at which friendly pawns will attempt to use their lasso to pull an enemy into melee range.
+If their execution is off cooldown and Auto Execute is enabled, they will immediately execute the lassoed target too. -->
+  <AM.AMSettings.Settings.GrappleAttemptMTBSeconds.Desc>Este es el tiempo promedio, en segundos, en el que los peones amistosos intentarán usar su lazo para atraer a un enemigo al rango cuerpo a cuerpo.\nSi su ejecución no está en enfriamiento y la Auto-ejecución está habilitada, también ejecutarán inmediatamente al objetivo lazado.</AM.AMSettings.Settings.GrappleAttemptMTBSeconds.Desc>
+  <!-- EN: Lasso Commonality -->
+  <AM.AMSettings.Settings.LassoSpawnChance>Comunalidad de lazo</AM.AMSettings.Settings.LassoSpawnChance>
+  <!-- EN: This is the % chance for any <b>melee fighter</b> pawn to spawn with a lasso equipped.
+Set this to 0% to disable natural lasso generation on pawns. -->
+  <AM.AMSettings.Settings.LassoSpawnChance.Desc>Este es el % de probabilidad de que cualquier peón <b>luchador cuerpo a cuerpo</b> aparezca con un lazo equipado.\nEstablécelo en 0% para deshabilitar la generación natural de lazos en los peones.</AM.AMSettings.Settings.LassoSpawnChance.Desc>
+  <!-- EN: Enemies Can Lasso -->
+  <AM.AMSettings.Settings.EnemiesCanGrapple>Enemigos pueden lazar</AM.AMSettings.Settings.EnemiesCanGrapple>
+  <!-- EN: Can enemies use lassos (if they have any) to pull your colonists into melee range? -->
+  <AM.AMSettings.Settings.EnemiesCanGrapple.Desc>¿Pueden los enemigos usar lazos (si tienen alguno) para atraer a tus colonos al rango cuerpo a cuerpo?</AM.AMSettings.Settings.EnemiesCanGrapple.Desc>
+  <!-- EN: Automatic Lasso Average Interval (Enemy) -->
+  <AM.AMSettings.Settings.GrappleAttemptMTBSecondsEnemy>Intervalo promedio de lazo automático (Enemigo)</AM.AMSettings.Settings.GrappleAttemptMTBSecondsEnemy>
+  <!-- EN: This is the average time, in seconds, at which enemy pawns will attempt to use their lasso to pull a target into melee range.
+If their execution is off cooldown and 'Enemies Can Perform Executions' is enabled, they will immediately execute the lassoed target too. -->
+  <AM.AMSettings.Settings.GrappleAttemptMTBSecondsEnemy.Desc>Este es el tiempo promedio, en segundos, en el que los peones enemigos intentarán usar su lazo para atraer a un objetivo al rango cuerpo a cuerpo.\nSi su ejecución no está en enfriamiento y 'Enemigos pueden realizar ejecuciones' está habilitado, también ejecutarán inmediatamente al objetivo lazado.</AM.AMSettings.Settings.GrappleAttemptMTBSecondsEnemy.Desc>
+  <!-- EN: Minimum Melee Skill -->
+  <AM.AMSettings.Settings.MinMeleeSkillToLasso>Habilidad cuerpo a cuerpo mínima</AM.AMSettings.Settings.MinMeleeSkillToLasso>
+  <!-- EN: The minumum melee skill required to use a lasso.
+Affects all pawns. -->
+  <AM.AMSettings.Settings.MinMeleeSkillToLasso.Desc>La habilidad cuerpo a cuerpo mínima requerida para usar un lazo.\nAfecta a todos los peones.</AM.AMSettings.Settings.MinMeleeSkillToLasso.Desc>
+  <!-- EN: Minimum Manipulation -->
+  <AM.AMSettings.Settings.MinManipulationToLasso>Manipulación mínima</AM.AMSettings.Settings.MinManipulationToLasso>
+  <!-- EN: The minimum Manipulation stat required to use a lasso.
+Affects all pawns. -->
+  <AM.AMSettings.Settings.MinManipulationToLasso.Desc>La estadística de Manipulación mínima requerida para usar un lazo.\nAfecta a todos los peones.</AM.AMSettings.Settings.MinManipulationToLasso.Desc>
+  <!-- EN: Max Pawn Mass -->
+  <AM.AMSettings.Settings.MaxLassoMass>Masa máxima del peón</AM.AMSettings.Settings.MaxLassoMass>
+  <!-- EN: The maximum mass that a pawn can have in order for it to be lassoed. The mass is measured in kilograms. You can check the mass of pawns in their Stat sheet.
+Set to zero to disable the mass limit. -->
+  <AM.AMSettings.Settings.MaxLassoMass.Desc>La masa máxima que puede tener un peón para ser lazado. La masa se mide en kilogramos. Puedes comprobar la masa de los peones en su hoja de estadísticas.\nEstablécelo en cero para deshabilitar el límite de masa.</AM.AMSettings.Settings.MaxLassoMass.Desc>
+  <!-- EN: Max Pawn Size -->
+  <AM.AMSettings.Settings.MaxLassoBodySize>Tamaño máximo del peón</AM.AMSettings.Settings.MaxLassoBodySize>
+  <!-- EN: The maximum 'body size' that a pawn can have in order for it to be lassoed.
+For reference, here are some example body sizes:
+• Chicken: 0.3
+• Human: 1
+• Boomalope: 2
+• Warg: 3
+• Thrumbo: 4
+
+
+Set to zero to disable the body size limit. -->
+  <AM.AMSettings.Settings.MaxLassoBodySize.Desc>El 'tamaño corporal' máximo que puede tener un peón para ser lazado.\nComo referencia, aquí hay algunos ejemplos de tamaños corporales:\n• Pollo: 0.3\n• Humano: 1\n• Bomalope: 2\n• Huargo: 3\n• Thrumbo: 4\n\n\nEstablécelo en cero para deshabilitar el límite de tamaño corporal.</AM.AMSettings.Settings.MaxLassoBodySize.Desc>
+  <!-- EN: Lasso Travel Speed -->
+  <AM.AMSettings.Settings.GrappleSpeed>Velocidad de viaje del lazo</AM.AMSettings.Settings.GrappleSpeed>
+  <!-- EN: Adjusts the speed <b>(not cooldown)</b> of lassos, making it faster or slower to ensnare and pull in an enemy.
+Higher values make the lasso faster.
+Affects all pawns. -->
+  <AM.AMSettings.Settings.GrappleSpeed.Desc>Ajusta la velocidad <b>(no el enfriamiento)</b> de los lazos, haciéndolos más rápidos o más lentos para atrapar y atraer a un enemigo.\nValores más altos hacen que el lazo sea más rápido.\nAfecta a todos los peones.</AM.AMSettings.Settings.GrappleSpeed.Desc>
+  <!-- EN: Max Building Fill For Lasso Drag -->
+  <AM.AMSettings.Settings.MaxFillPctForLasso>Relleno máximo de edificio para arrastre de lazo</AM.AMSettings.Settings.MaxFillPctForLasso>
+  <!-- EN: The maximum 'fill' percentage of a building that a pawn can be dragged through by a lasso.
+Lower values mean that pawns can <b>not</b> be dragged through/over partial cover such as sand bags or embrasures. A value of 100% means that the lasso can pull pawns though/over anything except completely solid walls and buildings. -->
+  <AM.AMSettings.Settings.MaxFillPctForLasso.Desc>El porcentaje máximo de 'relleno' de un edificio a través del cual se puede arrastrar a un peón con un lazo.\nValores más bajos significan que los peones <b>no</b> pueden ser arrastrados a través/sobre cobertura parcial como sacos de arena o troneras. Un valor del 100% significa que el lazo puede arrastrar peones a través/sobre cualquier cosa excepto paredes y edificios completamente sólidos.</AM.AMSettings.Settings.MaxFillPctForLasso.Desc>
+  <!-- EN: Executions & Duels -->
+  <AM.AMSettings.Settings.Header.Executions___Duels>Ejecuciones y Duelos</AM.AMSettings.Settings.Header.Executions___Duels>
+  <!-- EN: Enable Executions -->
+  <AM.AMSettings.Settings.EnableExecutions>Habilitar ejecuciones</AM.AMSettings.Settings.EnableExecutions>
+  <!-- EN: Entirely enables or disables the execution system. Disabling this means that no pawns will ever be able to do executions, and the option is removed from the UI. -->
+  <AM.AMSettings.Settings.EnableExecutions.Desc>Habilita o deshabilita completamente el sistema de ejecución. Deshabilitar esto significa que ningún peón podrá hacer ejecuciones nunca, y la opción se elimina de la interfaz.</AM.AMSettings.Settings.EnableExecutions.Desc>
+  <!-- EN: Auto Execute -->
+  <AM.AMSettings.Settings.AutoExecute>Auto-ejecución</AM.AMSettings.Settings.AutoExecute>
+  <!-- EN: If true, your pawns will automatically execute enemy pawns in combat, without your input.
+This may include opportunistically using their grappling hooks if the Auto Grapple setting is enabled.
+
+This only changes the <b>default</b> setting. It can also be configured on a per-pawn basis. -->
+  <AM.AMSettings.Settings.AutoExecute.Desc>Si es verdadero, tus peones ejecutarán automáticamente a los peones enemigos en combate, sin tu intervención.\nEsto puede incluir el uso oportunista de sus ganchos de agarre si la configuración de Auto-lazo está habilitada.\n\nEsto solo cambia la configuración <b>predeterminada</b>. También se puede configurar por peón.</AM.AMSettings.Settings.AutoExecute.Desc>
+  <!-- EN: Enemies Can Perform Executions -->
+  <AM.AMSettings.Settings.EnemiesCanExecute>Enemigos pueden realizar ejecuciones</AM.AMSettings.Settings.EnemiesCanExecute>
+  <!-- EN: Can enemies perform execution animations? -->
+  <AM.AMSettings.Settings.EnemiesCanExecute.Desc>¿Pueden los enemigos realizar animaciones de ejecución?</AM.AMSettings.Settings.EnemiesCanExecute.Desc>
+  <!-- EN: Automatic Execution Average Interval (Friendly) -->
+  <AM.AMSettings.Settings.ExecuteAttemptMTBSeconds>Intervalo promedio de ejecución automática (Amistoso)</AM.AMSettings.Settings.ExecuteAttemptMTBSeconds>
+  <!-- EN: This is the average time, in seconds, at which friendly pawns will attempt to start an execution animation on the enemy they are currently fighting.
+For example, if this is set to 5 and your pawn is fighting in melee, an execution animation will be triggered on average after 5 seconds.
+This does not affect execution cooldown, which is a pawn-specific stat.
+
+Lower values can greatly impact performance on populated maps. -->
+  <AM.AMSettings.Settings.ExecuteAttemptMTBSeconds.Desc>Este es el tiempo promedio, en segundos, en el que los peones amistosos intentarán iniciar una animación de ejecución en el enemigo con el que están luchando actualmente.\nPor ejemplo, si se establece en 5 y tu peón está luchando cuerpo a cuerpo, se activará una animación de ejecución en promedio después de 5 segundos.\nEsto no afecta el enfriamiento de ejecución, que es una estadística específica del peón.\n\nValores más bajos pueden afectar mucho el rendimiento en mapas poblados.</AM.AMSettings.Settings.ExecuteAttemptMTBSeconds.Desc>
+  <!-- EN: Automatic Execution Average Interval (Enemy) -->
+  <AM.AMSettings.Settings.ExecuteAttemptMTBSecondsEnemy>Intervalo promedio de ejecución automática (Enemigo)</AM.AMSettings.Settings.ExecuteAttemptMTBSecondsEnemy>
+  <!-- EN: This is the average time, in seconds, at which enemy pawns will attempt to start an execution animation on the target they are currently fighting.
+For example, if this is set to 5 and an enemy is fighting in melee, an execution animation will be triggered on average after 5 seconds.
+This does not affect execution cooldown, which is a pawn-specific stat.
+
+Lower values can greatly impact performance on populated maps. -->
+  <AM.AMSettings.Settings.ExecuteAttemptMTBSecondsEnemy.Desc>Este es el tiempo promedio, en segundos, en el que los peones enemigos intentarán iniciar una animación de ejecución en el objetivo con el que están luchando actualmente.\nPor ejemplo, si se establece en 5 y un enemigo está luchando cuerpo a cuerpo, se activará una animación de ejecución en promedio después de 5 segundos.\nEsto no afecta el enfriamiento de ejecución, que es una estadística específica del peón.\n\nValores más bajos pueden afectar mucho el rendimiento en mapas poblados.</AM.AMSettings.Settings.ExecuteAttemptMTBSecondsEnemy.Desc>
+  <!-- EN: Animals Can Be Executed -->
+  <AM.AMSettings.Settings.AnimalsCanBeExecuted>Animales pueden ser ejecutados</AM.AMSettings.Settings.AnimalsCanBeExecuted>
+  <!-- EN: Allows animals to be executed.
+You are a bad person if you enable this. -->
+  <AM.AMSettings.Settings.AnimalsCanBeExecuted.Desc>Permite que los animales sean ejecutados.\nEres una mala persona si habilitas esto.</AM.AMSettings.Settings.AnimalsCanBeExecuted.Desc>
+  <!-- EN: Execution Lethality Modifier -->
+  <AM.AMSettings.Settings.ExecutionLethalityModifier>Modificador de letalidad de ejecución</AM.AMSettings.Settings.ExecutionLethalityModifier>
+  <!-- EN: A general modifier on the lethality of execution animations. Higher values make executions more lethal. Affects all pawns. -->
+  <AM.AMSettings.Settings.ExecutionLethalityModifier.Desc>Un modificador general en la letalidad de las animaciones de ejecución. Valores más altos hacen que las ejecuciones sean más letales. Afecta a todos los peones.</AM.AMSettings.Settings.ExecutionLethalityModifier.Desc>
+  <!-- EN: Executions Are Non Lethal On Friendlies -->
+  <AM.AMSettings.Settings.ExecutionsOnFriendliesAreNotLethal>Ejecuciones no son letales en amistosos</AM.AMSettings.Settings.ExecutionsOnFriendliesAreNotLethal>
+  <!-- EN: If enabled, execution animations on friendly pawns are always non-lethal regardless of other settings.
+Prisoners and slaves are considered friendly.
+
+Useful when trying to stop a mental break or prisoner uprising without causing a bloodbath. -->
+  <AM.AMSettings.Settings.ExecutionsOnFriendliesAreNotLethal.Desc>Si se habilita, las animaciones de ejecución en peones amistosos son siempre no letales independientemente de otras configuraciones.\nPrisioneros y esclavos se consideran amistosos.\n\nÚtil cuando se trata de detener un colapso mental o un levantamiento de prisioneros sin causar un baño de sangre.</AM.AMSettings.Settings.ExecutionsOnFriendliesAreNotLethal.Desc>
+  <!-- EN: Execution Armor Strength -->
+  <AM.AMSettings.Settings.ExecutionArmorCoefficient>Fuerza de armadura en ejecución</AM.AMSettings.Settings.ExecutionArmorCoefficient>
+  <!-- EN: A multiplier on the effectiveness of armor when calculating execution animation outcome.
+Lower values decrease the effect of armor on the outcome, higher values increase the strength of armor.
+Set to 0% to make armor be ignored. -->
+  <AM.AMSettings.Settings.ExecutionArmorCoefficient.Desc>Un multiplicador en la efectividad de la armadura al calcular el resultado de la animación de ejecución.\nValores más bajos disminuyen el efecto de la armadura en el resultado, valores más altos aumentan la fuerza de la armadura.\nEstablécelo en 0% para hacer que la armadura sea ignorada.</AM.AMSettings.Settings.ExecutionArmorCoefficient.Desc>
+  <!-- EN: Executions Can Destroy Body Parts -->
+  <AM.AMSettings.Settings.ExecutionsCanDestroyBodyParts>Ejecuciones pueden destruir partes del cuerpo</AM.AMSettings.Settings.ExecutionsCanDestroyBodyParts>
+  <!-- EN: If true, executions can destroy specific vital body parts, such as the heart or head.
+If false, the pawn is simply killed by 'magic' (no specific part takes damage)
+Note: if disabled, combat log generation does not work properly for the execution, and will give a default message: "<i>name was killed.</i>" -->
+  <AM.AMSettings.Settings.ExecutionsCanDestroyBodyParts.Desc>Si es verdadero, las ejecuciones pueden destruir partes vitales específicas del cuerpo, como el corazón o la cabeza.\nSi es falso, el peón simplemente muere por 'magia' (ninguna parte específica recibe daño)\nNota: si se deshabilita, la generación del registro de combate no funciona correctamente para la ejecución, y dará un mensaje predeterminado: "<i>nombre fue asesinado.</i>"</AM.AMSettings.Settings.ExecutionsCanDestroyBodyParts.Desc>
+  <!-- EN: Amount Skill Affects Execution Cooldown -->
+  <AM.AMSettings.Settings.MeleeSkillExecCooldownFactor>Cantidad que la habilidad afecta el enfriamiento de ejecución</AM.AMSettings.Settings.MeleeSkillExecCooldownFactor>
+  <!-- EN: The amount that melee skill affects execution cooldown time.
+Higher melee skill means lower cooldown, changing this value increases or decreases the effect of melee skill.
+Set to 0% to disable melee skill as a factor.
+
+Note: only affects friendly pawns. -->
+  <AM.AMSettings.Settings.MeleeSkillExecCooldownFactor.Desc>La cantidad que la habilidad cuerpo a cuerpo afecta el tiempo de enfriamiento de la ejecución.\nMayor habilidad cuerpo a cuerpo significa menor enfriamiento, cambiar este valor aumenta o disminuye el efecto de la habilidad cuerpo a cuerpo.\nEstablécelo en 0% para deshabilitar la habilidad cuerpo a cuerpo como factor.\n\nNota: solo afecta a los peones amistosos.</AM.AMSettings.Settings.MeleeSkillExecCooldownFactor.Desc>
+  <!-- EN: Execution Cooldown Factor (Friendly) -->
+  <AM.AMSettings.Settings.FriendlyExecCooldownFactor>Factor de enfriamiento de ejecución (Amistoso)</AM.AMSettings.Settings.FriendlyExecCooldownFactor>
+  <!-- EN: This adjust the execution cooldown time for friendly pawns. Lower values decrease the cooldown. You can see the final cooldown time in the pawn's stats. -->
+  <AM.AMSettings.Settings.FriendlyExecCooldownFactor.Desc>Esto ajusta el tiempo de enfriamiento de ejecución para peones amistosos. Valores más bajos disminuyen el enfriamiento. Puedes ver el tiempo de enfriamiento final en las estadísticas del peón.</AM.AMSettings.Settings.FriendlyExecCooldownFactor.Desc>
+  <!-- EN: Execution Cooldown Factor (Enemy) -->
+  <AM.AMSettings.Settings.EnemyExecCooldownFactor>Factor de enfriamiento de ejecución (Enemigo)</AM.AMSettings.Settings.EnemyExecCooldownFactor>
+  <!-- EN: This adjust the execution cooldown time for hostile pawns. Lower values decrease the cooldown. You can see the final cooldown time in the pawn's stats. -->
+  <AM.AMSettings.Settings.EnemyExecCooldownFactor.Desc>Esto ajusta el tiempo de enfriamiento de ejecución para peones hostiles. Valores más bajos disminuyen el enfriamiento. Puedes ver el tiempo de enfriamiento final en las estadísticas del peón.</AM.AMSettings.Settings.EnemyExecCooldownFactor.Desc>
+  <!-- EN: Min Duel Duration -->
+  <AM.AMSettings.Settings.MinDuelDuration>Duración mínima del duelo</AM.AMSettings.Settings.MinDuelDuration>
+  <!-- EN: The minimum number of attacks in a duel. Just affects the duration of the animation, has no impact on the outcome of the duel. -->
+  <AM.AMSettings.Settings.MinDuelDuration.Desc>El número mínimo de ataques en un duelo. Solo afecta la duración de la animación, no tiene impacto en el resultado del duelo.</AM.AMSettings.Settings.MinDuelDuration.Desc>
+  <!-- EN: Max Duel Duration -->
+  <AM.AMSettings.Settings.MaxDuelDuration>Duración máxima del duelo</AM.AMSettings.Settings.MaxDuelDuration>
+  <!-- EN: The maximum number of attacks in a duel. Just affects the duration of the animation, has no impact on the outcome of the duel. -->
+  <AM.AMSettings.Settings.MaxDuelDuration.Desc>El número máximo de ataques en un duelo. Solo afecta la duración de la animación, no tiene impacto en el resultado del duelo.</AM.AMSettings.Settings.MaxDuelDuration.Desc>
+  <!-- EN: Friendly Duel Cooldown -->
+  <AM.AMSettings.Settings.FriendlyDuelCooldown>Enfriamiento de duelo amistoso</AM.AMSettings.Settings.FriendlyDuelCooldown>
+  <!-- EN: The cooldown time, in seconds, after a friendly duel where a friendly duel cannot be started again. -->
+  <AM.AMSettings.Settings.FriendlyDuelCooldown.Desc>El tiempo de enfriamiento, en segundos, después de un duelo amistoso donde no se puede iniciar otro duelo amistoso.</AM.AMSettings.Settings.FriendlyDuelCooldown.Desc>
+  <!-- EN: Visuals -->
+  <AM.AMSettings.Settings.Header.Visuals>Visuales</AM.AMSettings.Settings.Header.Visuals>
+  <!-- EN: Show Hands -->
+  <AM.AMSettings.Settings.ShowHands>Mostrar manos</AM.AMSettings.Settings.ShowHands>
+  <!-- EN: Should pawn hands be displayed holding melee weapons? -->
+  <AM.AMSettings.Settings.ShowHands.Desc>¿Deberían mostrarse las manos de los peones sosteniendo armas cuerpo a cuerpo?</AM.AMSettings.Settings.ShowHands.Desc>
+  <!-- EN: Damage Effect -->
+  <AM.AMSettings.Settings.Gore_DamageEffect>Efecto de daño</AM.AMSettings.Settings.Gore_DamageEffect>
+  <!-- EN: Enable or disable the damage affect in animations.
+The damage effect is normally a small, temporary puff of blood. -->
+  <AM.AMSettings.Settings.Gore_DamageEffect.Desc>Habilita o deshabilita el efecto de daño en las animaciones.\nEl efecto de daño es normalmente una pequeña bocanada temporal de sangre.</AM.AMSettings.Settings.Gore_DamageEffect.Desc>
+  <!-- EN: Blood (filth) -->
+  <AM.AMSettings.Settings.Gore_FloorBlood>Sangre (suciedad)</AM.AMSettings.Settings.Gore_FloorBlood>
+  <!-- EN: Enable or disable the spawning of blood in animations.
+The blood is filth that must be cleaned up. Includes modded blood and mechanoid blood (oil). -->
+  <AM.AMSettings.Settings.Gore_FloorBlood.Desc>Habilita o deshabilita la aparición de sangre en las animaciones.\nLa sangre es suciedad que debe limpiarse. Incluye sangre de mods y sangre de mecanoides (aceite).</AM.AMSettings.Settings.Gore_FloorBlood.Desc>
+  <!-- EN: Corpse Offset Mode -->
+  <AM.AMSettings.Settings.CorpseOffsetMode>Modo de desplazamiento de cadáver</AM.AMSettings.Settings.CorpseOffsetMode>
+  <!-- EN: In order for the animation to transition seamlessly to regular gameplay, execution animations leave the corpse of the victim in non-vanilla positions and rotations.
+This offset can be confusing however, because the corpse no longer occupies the center of the tile.
+<b>Note:</b> The offset corpses are reset after a save-reload. -->
+  <AM.AMSettings.Settings.CorpseOffsetMode.Desc>Para que la animación transicione sin problemas al juego regular, las animaciones de ejecución dejan el cadáver de la víctima en posiciones y rotaciones no vanilla.\nSin embargo, este desplazamiento puede ser confuso, porque el cadáver ya no ocupa el centro de la casilla.\n<b>Nota:</b> Los cadáveres desplazados se restablecen después de recargar la partida.</AM.AMSettings.Settings.CorpseOffsetMode.Desc>
+  <!-- EN: Move Animation Speed -->
+  <AM.AMSettings.Settings.MoveAnimSpeedCoef>Velocidad de animación de movimiento</AM.AMSettings.Settings.MoveAnimSpeedCoef>
+  <!-- EN: Changes the speed of the movement animations.
+Higher values increase the speed. This is just a visual change, it obviously doesn't change the pawn's movement speed. -->
+  <AM.AMSettings.Settings.MoveAnimSpeedCoef.Desc>Cambia la velocidad de las animaciones de movimiento.\nValores más altos aumentan la velocidad. Esto es solo un cambio visual, obviamente no cambia la velocidad de movimiento del peón.</AM.AMSettings.Settings.MoveAnimSpeedCoef.Desc>
+  <!-- EN: Increase Animation Speed When Attacks Are Fast -->
+  <AM.AMSettings.Settings.SpeedUpAttackAnims>Aumentar velocidad de animación cuando los ataques son rápidos</AM.AMSettings.Settings.SpeedUpAttackAnims>
+  <!-- EN: If enabled, the speed of melee attack animations will be automatically increased to match the pawn's melee speed.
+If false, the attack animation speed will never change however the animation may be interrupted by the next attack animation starting before the last one ended.
+This is a purely visual change and does not affect combat. -->
+  <AM.AMSettings.Settings.SpeedUpAttackAnims.Desc>Si se habilita, la velocidad de las animaciones de ataque cuerpo a cuerpo aumentará automáticamente para coincidir con la velocidad cuerpo a cuerpo del peón.\nSi es falso, la velocidad de la animación de ataque nunca cambiará, sin embargo, la animación puede ser interrumpida por la siguiente animación de ataque que comience antes de que termine la última.\nEsto es un cambio puramente visual y no afecta el combate.</AM.AMSettings.Settings.SpeedUpAttackAnims.Desc>
+  <!-- EN: Idle Animation Average Interval -->
+  <AM.AMSettings.Settings.FlavourMTB>Intervalo promedio de animación de inactividad</AM.AMSettings.Settings.FlavourMTB>
+  <!-- EN: Pawns standing with their weapon out (such as when drafted) will sometimes play an animation where they swing their weapon about, flourish it etc.
+This option controls the average time, in seconds, between the occurrence of this animation.
+Set to 0 to disable the animations entirely. -->
+  <AM.AMSettings.Settings.FlavourMTB.Desc>Los peones parados con su arma fuera (como cuando están reclutados) a veces reproducirán una animación donde balancean su arma, la florecen, etc.\nEsta opción controla el tiempo promedio, en segundos, entre la ocurrencia de esta animación.\nEstablécelo en 0 para deshabilitar las animaciones por completo.</AM.AMSettings.Settings.FlavourMTB.Desc>
+  <!-- EN: Attack Pause Duration -->
+  <AM.AMSettings.Settings.AttackPauseDuration>Duración de pausa de ataque</AM.AMSettings.Settings.AttackPauseDuration>
+  <!-- EN: When doing a regular melee attack, the animation will very briefly pause at the point when the weapon intersects the target.
+This lets you know whether an attack connected, as well as giving the hit a bit more visual <i>oomph</i>.
+This setting changes the duration of that pause, or disables it entirely. This is a purely visual change and does not affect combat. -->
+  <AM.AMSettings.Settings.AttackPauseDuration.Desc>Al hacer un ataque cuerpo a cuerpo regular, la animación se pausará muy brevemente en el punto donde el arma intersecta al objetivo.\nEsto te permite saber si un ataque conectó, además de darle al golpe un poco más de <i>fuerza</i> visual.\nEsta configuración cambia la duración de esa pausa, o la deshabilita por completo. Esto es un cambio puramente visual y no afecta el combate.</AM.AMSettings.Settings.AttackPauseDuration.Desc>
+  <!-- EN: Weapon Trail Color -->
+  <AM.AMSettings.Settings.TrailColor>Color de estela de arma</AM.AMSettings.Settings.TrailColor>
+  <!-- EN: The base color of weapon trails. If you set the alpha to 0, trails will be disabled. -->
+  <AM.AMSettings.Settings.TrailColor.Desc>El color base de las estelas de armas. Si estableces el alfa en 0, las estelas se deshabilitarán.</AM.AMSettings.Settings.TrailColor.Desc>
+  <!-- EN: Weapon Trail Length -->
+  <AM.AMSettings.Settings.TrailLengthScale>Longitud de estela de arma</AM.AMSettings.Settings.TrailLengthScale>
+  <!-- EN: A multiplier on the length of weapon trails. If 0%, trails are disabled. -->
+  <AM.AMSettings.Settings.TrailLengthScale.Desc>Un multiplicador en la longitud de las estelas de armas. Si es 0%, las estelas se deshabilitan.</AM.AMSettings.Settings.TrailLengthScale.Desc>
+  <!-- EN: Draw Names In Animation -->
+  <AM.AMSettings.Settings.DrawNamesInAnimation>Dibujar nombres en animación</AM.AMSettings.Settings.DrawNamesInAnimation>
+  <!-- EN: If true, the name of pawns is drawn below them, just like in the base game.
+If false, the name is not drawn, for a more cinematic animation. -->
+  <AM.AMSettings.Settings.DrawNamesInAnimation.Desc>Si es verdadero, el nombre de los peones se dibuja debajo de ellos, tal como en el juego base.\nSi es falso, el nombre no se dibuja, para una animación más cinematográfica.</AM.AMSettings.Settings.DrawNamesInAnimation.Desc>
+  <!-- EN: Show Execution Outcome Text -->
+  <AM.AMSettings.Settings.ShowExecutionMotes>Mostrar texto de resultado de ejecución</AM.AMSettings.Settings.ShowExecutionMotes>
+  <!-- EN: Enables or disables the text popup that shows the outcome of an execution (i.e. injure, down or kill) when an execution animation plays. -->
+  <AM.AMSettings.Settings.ShowExecutionMotes.Desc>Habilita o deshabilita la ventana emergente de texto que muestra el resultado de una ejecución (es decir, herir, incapacitar o matar) cuando se reproduce una animación de ejecución.</AM.AMSettings.Settings.ShowExecutionMotes.Desc>
+  <!-- EN: Performance -->
+  <AM.AMSettings.Settings.Header.Performance>Rendimiento</AM.AMSettings.Settings.Header.Performance>
+  <!-- EN: Max Processing Threads -->
+  <AM.AMSettings.Settings.MaxProcessingThreads>Hilos de procesamiento máximos</AM.AMSettings.Settings.MaxProcessingThreads>
+  <!-- EN: The maximum number of CPU threads to use when processing pawns for automatic executions & lasso usage.
+If set to 0, the thread count is automatically determined based on your CPU, and if set to 1 then multi-threaded processing is disabled.
+Set to 1 if you experience error spam caused by a mod conflict, although it will decrease performance considerably. -->
+  <AM.AMSettings.Settings.MaxProcessingThreads.Desc>El número máximo de hilos de CPU para usar al procesar peones para ejecuciones automáticas y uso de lazos.\nSi se establece en 0, el recuento de hilos se determina automáticamente en función de tu CPU, y si se establece en 1, el procesamiento multiproceso se deshabilita.\nEstablécelo en 1 si experimentas spam de errores causado por un conflicto de mods, aunque disminuirá considerablemente el rendimiento.</AM.AMSettings.Settings.MaxProcessingThreads.Desc>
+  <!-- EN: Multithreaded Matrix Calculations -->
+  <AM.AMSettings.Settings.MultithreadedMatrixCalculations>Cálculos de matriz multiproceso</AM.AMSettings.Settings.MultithreadedMatrixCalculations>
+  <!-- EN: When enabled, multiple CPU threads are used to calculate complex matrix transformation needed for animations.
+The number of threads is given by the Max Processing Threads setting. -->
+  <AM.AMSettings.Settings.MultithreadedMatrixCalculations.Desc>Cuando se habilita, se utilizan múltiples hilos de CPU para calcular la transformación de matriz compleja necesaria para las animaciones.\nEl número de hilos viene dado por la configuración de Hilos de procesamiento máximos.</AM.AMSettings.Settings.MultithreadedMatrixCalculations.Desc>
+  <!-- EN: Offscreen Culling -->
+  <AM.AMSettings.Settings.OffscreenCulling>Descarte fuera de pantalla</AM.AMSettings.Settings.OffscreenCulling>
+  <!-- EN: When enabled, offscreen animations are not drawn to save time and increase FPS.
+This option is only here in case there are unexpected bugs related to this culling. -->
+  <AM.AMSettings.Settings.OffscreenCulling.Desc>Cuando se habilita, las animaciones fuera de pantalla no se dibujan para ahorrar tiempo y aumentar los FPS.\nEsta opción solo está aquí en caso de que haya errores inesperados relacionados con este descarte.</AM.AMSettings.Settings.OffscreenCulling.Desc>
+  <!-- EN: Scan Tick Interval -->
+  <AM.AMSettings.Settings.ScanTickInterval>Intervalo de tics de escaneo</AM.AMSettings.Settings.ScanTickInterval>
+  <!-- EN: The number of ticks between scanning all pawns on the map for automatic execution/duel/lasso opportunities.
+Higher values can increase FPS at the cost of less responsiveness. -->
+  <AM.AMSettings.Settings.ScanTickInterval.Desc>El número de tics entre el escaneo de todos los peones en el mapa para oportunidades de ejecución automática/duelo/lazo.\nValores más altos pueden aumentar los FPS a costa de menos capacidad de respuesta.</AM.AMSettings.Settings.ScanTickInterval.Desc>
+  <!-- EN: Other -->
+  <AM.AMSettings.Settings.Header.Other>Otro</AM.AMSettings.Settings.Header.Other>
+  <!-- EN: Friendly Pawn Lethality Bonus -->
+  <AM.AMSettings.Settings.FriendlyPawnLethalityBonus>Bonificación de letalidad de peón amistoso</AM.AMSettings.Settings.FriendlyPawnLethalityBonus>
+  <!-- EN: Positive values act as a lethality bonus for friendly pawns (including slaves) in execution & duel outcomes, meaning that they will be lethal more often. -->
+  <AM.AMSettings.Settings.FriendlyPawnLethalityBonus.Desc>Los valores positivos actúan como una bonificación de letalidad para los peones amistosos (incluidos los esclavos) en los resultados de ejecución y duelo, lo que significa que serán letales con más frecuencia.</AM.AMSettings.Settings.FriendlyPawnLethalityBonus.Desc>
+  <!-- EN: Friendly Pawn Duel Ability Bonus -->
+  <AM.AMSettings.Settings.FriendlyPawnDuelBonus>Bonificación de habilidad de duelo de peón amistoso</AM.AMSettings.Settings.FriendlyPawnDuelBonus>
+  <!-- EN: Positive values act as a duel ability bonus for friendly pawns (including slaves), meaning that they will win duels more often. -->
+  <AM.AMSettings.Settings.FriendlyPawnDuelBonus.Desc>Los valores positivos actúan como una bonificación de habilidad de duelo para los peones amistosos (incluidos los esclavos), lo que significa que ganarán duelos con más frecuencia.</AM.AMSettings.Settings.FriendlyPawnDuelBonus.Desc>
+  <!-- EN: Duel Normal Distribution -->
+  <AM.AMSettings.Settings.NormalDist>Distribución normal de duelo</AM.AMSettings.Settings.NormalDist>
+  <!-- EN: Higher values make duel outcomes less dependent on duel ability and more on randomness, lower values make the outcome more dependent on duel ability and less on randomness.
+
+Technical: This is the standard deviation used in the duel outcome normal distribution curve. -->
+  <AM.AMSettings.Settings.NormalDist.Desc>Valores más altos hacen que los resultados del duelo dependan menos de la habilidad de duelo y más de la aleatoriedad, valores más bajos hacen que el resultado dependa más de la habilidad de duelo y menos de la aleatoriedad.\n\nTécnico: Esta es la desviación estándar utilizada en la curva de distribución normal del resultado del duelo.</AM.AMSettings.Settings.NormalDist.Desc>
+  <!-- EN: Show Warning Before Executing Friendly -->
+  <AM.AMSettings.Settings.WarnOfFriendlyExecution>Mostrar advertencia antes de ejecutar amistoso</AM.AMSettings.Settings.WarnOfFriendlyExecution>
+  <!-- EN: Prevents you from accidentally executing a friendly pawn by requiring you to hold the [Shift] key when selecting a friendly pawn for execution. -->
+  <AM.AMSettings.Settings.WarnOfFriendlyExecution.Desc>Te impide ejecutar accidentalmente a un peón amistoso requiriendo que mantengas presionada la tecla [Shift] al seleccionar un peón amistoso para ejecución.</AM.AMSettings.Settings.WarnOfFriendlyExecution.Desc>
+  <!-- EN: Send Anonymous Patch Statistics -->
+  <AM.AMSettings.Settings.SendStatistics>Enviar estadísticas de parches anónimas</AM.AMSettings.Settings.SendStatistics>
+  <!-- EN: When a mod is missing a patch (that allows the melee weapons to do animations), the ID of said mod is anonymously logged to let this mod's author know that a patch is needed. The <b>only</b> information logged is: mod ID, mod name, weapon count.
+You can opt out of this functionality by disabling this option.
+Note: logging does not occur the first time you run the game with this mod. -->
+  <AM.AMSettings.Settings.SendStatistics.Desc>Cuando a un mod le falta un parche (que permite que las armas cuerpo a cuerpo hagan animaciones), el ID de dicho mod se registra anónimamente para informar al autor de este mod que se necesita un parche. La <b>única</b> información registrada es: ID del mod, nombre del mod, recuento de armas.\nPuedes optar por no participar en esta funcionalidad deshabilitando esta opción.\nNota: el registro no ocurre la primera vez que ejecutas el juego con este mod.</AM.AMSettings.Settings.SendStatistics.Desc>
+
+  <!-- EN: Execution Failure Chance (Low Skill) -->
+  <AM.AMSettings.Settings.ChanceToFailMinSkill>Probabilidad de fallo de ejecución (Habilidad baja)</AM.AMSettings.Settings.ChanceToFailMinSkill>
+  <!-- EN: The chance that an execution attempt will result in failure, stunning the attacking pawn and leaving them vulnerable for a short time.
+This is the chance when a pawn has 0 melee skill.
+Affects all pawns. -->
+  <AM.AMSettings.Settings.ChanceToFailMinSkill.Desc>La probabilidad de que un intento de ejecución resulte en fallo, aturdiendo al peón atacante y dejándolo vulnerable por un corto tiempo.\nEsta es la probabilidad cuando un peón tiene 0 de habilidad cuerpo a cuerpo.\nAfecta a todos los peones.</AM.AMSettings.Settings.ChanceToFailMinSkill.Desc>
+
+  <!-- EN: Execution Failure Chance (High Skill) -->
+  <AM.AMSettings.Settings.ChanceToFailMaxSkill>Probabilidad de fallo de ejecución (Habilidad alta)</AM.AMSettings.Settings.ChanceToFailMaxSkill>
+  <!-- EN: The chance that an execution attempt will result in failure, stunning the attacking pawn and leaving them vulnerable for a short time.
+This is the chance when a pawn has 20 melee skill.
+Affects all pawns. -->
+  <AM.AMSettings.Settings.ChanceToFailMaxSkill.Desc>La probabilidad de que un intento de ejecución resulte en fallo, aturdiendo al peón atacante y dejándolo vulnerable por un corto tiempo.\nEsta es la probabilidad cuando un peón tiene 20 de habilidad cuerpo a cuerpo.\nAfecta a todos los peones.</AM.AMSettings.Settings.ChanceToFailMaxSkill.Desc>
+
+  <!-- EN: Injured -->
+  <AM.ExecutionOutcome.Injured>Herido</AM.ExecutionOutcome.Injured>
+  <!-- EN: Downed -->
+  <AM.ExecutionOutcome.Downed>Incapacitado</AM.ExecutionOutcome.Downed>
+  <!-- EN: Killed -->
+  <AM.ExecutionOutcome.Killed>Asesinado</AM.ExecutionOutcome.Killed>
+  <!-- EN: Failed! -->
+  <AM.ExecutionOutcome.Failed>¡Falló!</AM.ExecutionOutcome.Failed>
+
+</LanguageData>

@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: demolisher charge -->
+  <AM_Bullet_Shell_Demolisher.label>carga demoledora</AM_Bullet_Shell_Demolisher.label>
+  
+  <!-- EN: high-explosive shell -->
+  <AM_Bullet_Shell_Explosive.label>proyectil de alto explosivo</AM_Bullet_Shell_Explosive.label>
+  
+  <!-- EN: cryogenic pellet -->
+  <AM_CryoBullet.label>perdigón criogénico</AM_CryoBullet.label>
+  
+  <!-- EN: cryogenic gun -->
+  <AM_CryogenicGun.label>pistola criogénica</AM_CryogenicGun.label>
+  <!-- EN: A weapon that fires frozen pellets or liquid nitrogen, rapidly lowering the temperature of the target to freeze or immobilize it. Frostbite damage bypasses armor. -->
+  <AM_CryogenicGun.description>Un arma que dispara perdigones congelados o nitrógeno líquido, bajando rápidamente la temperatura del objetivo para congelarlo o inmovilizarlo. El daño por congelación ignora la armadura.</AM_CryogenicGun.description>
+  <!-- EN: barrel -->
+  <AM_CryogenicGun.tools.barrel.label>cañón</AM_CryogenicGun.tools.barrel.label>
+  <!-- EN: cryogenic gun -->
+  <AM_CryogenicGun.verbs.Verb_Shoot.label>pistola criogénica</AM_CryogenicGun.verbs.Verb_Shoot.label>
+  
+  <!-- EN: demolisher charges -->
+  <AM_DemolisherChargeBase.label>cargas demoledoras</AM_DemolisherChargeBase.label>
+  <!-- EN: A huge mechanoid-mounted turret that launches high-explosive demolisher charges, capable of taking out even heavily armored fortifications. Obviously also dangerous against living creatures. -->
+  <AM_DemolisherChargeBase.description>Una enorme torreta montada en un mecanoide que lanza cargas demoledoras de alto explosivo, capaces de eliminar incluso fortificaciones fuertemente blindadas. Obviamente también peligrosa contra criaturas vivas.</AM_DemolisherChargeBase.description>
+  <!-- EN: demolisher charges -->
+  <AM_DemolisherChargeBase.verbs.Verb_Shoot.label>cargas demoledoras</AM_DemolisherChargeBase.verbs.Verb_Shoot.label>
+  
+  <!-- EN: flamethrower -->
+  <AM_Flamethrower.label>lanzallamas</AM_Flamethrower.label>
+  <!-- EN: A chemfuel flamethrower. Short range, but it will cause uncontrollable fires if you let the fireworms come near. -->
+  <AM_Flamethrower.description>Un lanzallamas de quimicombustible. De corto alcance, pero causará incendios incontrolables si dejas que los gusanos de fuego se acerquen.</AM_Flamethrower.description>
+  <!-- EN: barrel -->
+  <AM_Flamethrower.tools.barrel.label>cañón</AM_Flamethrower.tools.barrel.label>
+  <!-- EN: flamethrower -->
+  <AM_Flamethrower.verbs.Verb_Shoot.label>lanzallamas</AM_Flamethrower.verbs.Verb_Shoot.label>
+  
+  <!-- EN: chemical fire -->
+  <AM_FlamethrowerBullet.label>fuego químico</AM_FlamethrowerBullet.label>
+  
+  <!-- EN: goliath charge blaster -->
+  <AM_Gun_GoliathChargeBlaster.label>bláster de carga goliat</AM_Gun_GoliathChargeBlaster.label>
+  <!-- EN: A pulse-charged rapid-fire blaster for area suppressive fire. Heavy cooling allows long, deadly bursts. -->
+  <AM_Gun_GoliathChargeBlaster.description>Un bláster de fuego rápido cargado por pulsos para fuego de supresión de área. El enfriamiento pesado permite ráfagas largas y mortales.</AM_Gun_GoliathChargeBlaster.description>
+  <!-- EN: barrel -->
+  <AM_Gun_GoliathChargeBlaster.tools.barrel.label>cañón</AM_Gun_GoliathChargeBlaster.tools.barrel.label>
+  <!-- EN: goliath charge blaster -->
+  <AM_Gun_GoliathChargeBlaster.verbs.Verb_Shoot.label>bláster de carga goliat</AM_Gun_GoliathChargeBlaster.verbs.Verb_Shoot.label>
+  
+  <!-- EN: goliath needle gun -->
+  <AM_Gun_GoliathNeedle.label>pistola de agujas goliat</AM_Gun_GoliathNeedle.label>
+  <!-- EN: A long-range weapon used by mechanoids. Named after its needle-like projectiles, it fires single shots with great accuracy. While it does less damage than charge weapons, it can reach over very long distances. -->
+  <AM_Gun_GoliathNeedle.description>Un arma de largo alcance utilizada por mecanoides. Llamada así por sus proyectiles similares a agujas, dispara tiros individuales con gran precisión. Si bien hace menos daño que las armas de carga, puede alcanzar distancias muy largas.</AM_Gun_GoliathNeedle.description>
+  <!-- EN: barrel -->
+  <AM_Gun_GoliathNeedle.tools.barrel.label>cañón</AM_Gun_GoliathNeedle.tools.barrel.label>
+  <!-- EN: goliath needle gun -->
+  <AM_Gun_GoliathNeedle.verbs.Verb_Shoot.label>pistola de agujas goliat</AM_Gun_GoliathNeedle.verbs.Verb_Shoot.label>
+  
+  <!-- EN: siege turret -->
+  <AM_SiegebreakerTurret.label>torreta de asedio</AM_SiegebreakerTurret.label>
+  <!-- EN: A huge turret that fires explosive warheads. -->
+  <AM_SiegebreakerTurret.description>Una enorme torreta que dispara ojivas explosivas.</AM_SiegebreakerTurret.description>
+  <!-- EN: barrel -->
+  <AM_SiegebreakerTurret.tools.barrel.label>cañón</AM_SiegebreakerTurret.tools.barrel.label>
+  <!-- EN: siege turret -->
+  <AM_SiegebreakerTurret.verbs.Verb_Shoot.label>torreta de asedio</AM_SiegebreakerTurret.verbs.Verb_Shoot.label>
+  
+</LanguageData>

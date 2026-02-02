@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Copy -->
+  <HugsLogPublisher.copy>Copiar</HugsLogPublisher.copy>
+  <!-- EN: Share logs -->
+  <HugsLogPublisher.shareBtn>Compartir registros</HugsLogPublisher.shareBtn>
+  <!-- EN: Confirm -->
+  <HugsLogPublisher.shareConfirmTitle>Confirmar</HugsLogPublisher.shareConfirmTitle>
+  <!-- EN: Upload game logs now?\n\nThis will post your game logs to a public server and give you the link to share with others. This is useful if you need help fixing a problem or would like to report an issue to a mod author.\n\nNo private information will be shared. -->
+  <HugsLogPublisher.shareConfirmMessage>¿Subir registros del juego ahora?\n\nEsto publicará tus registros del juego en un servidor público y te dará el enlace para compartir con otros. Esto es útil si necesitas ayuda para solucionar un problema o si deseas informar un problema a un autor de mod.\n\nNo se compartirá información privada.</HugsLogPublisher.shareConfirmMessage>
+  <!-- EN: Log publisher -->
+  <HugsLogPublisher.publisherTitle>Publicador de registros</HugsLogPublisher.publisherTitle>
+  <!-- EN: Uploading{0} -->
+  <HugsLogPublisher.uploading>Subiendo{0}</HugsLogPublisher.uploading>
+  <!-- EN: Getting link{0} -->
+  <HugsLogPublisher.shortening>Obteniendo enlace{0}</HugsLogPublisher.shortening>
+  <!-- EN: Upload complete! -->
+  <HugsLogPublisher.uploaded>¡Subida completa!</HugsLogPublisher.uploaded>
+  <!-- EN: Upload error: {0} -->
+  <HugsLogPublisher.uploadError>Error al subir: {0}</HugsLogPublisher.uploadError>
+  <!-- EN: Copied to clipboard. -->
+  <HugsLogPublisher.copiedToClipboard>Copiado al portapapeles.</HugsLogPublisher.copiedToClipboard>
+  <!-- EN: Abort -->
+  <HugsLogPublisher.abortBtn>Abortar</HugsLogPublisher.abortBtn>
+  <!-- EN: Retry -->
+  <HugsLogPublisher.retryBtn>Reintentar</HugsLogPublisher.retryBtn>
+  <!-- EN: Open in browser -->
+  <HugsLogPublisher.browseBtn>Abrir en el navegador</HugsLogPublisher.browseBtn>
+  <!-- EN: Use recommended settings -->
+  <HugsLogPublisher.useRecommendedSettings>Usar configuración recomendada</HugsLogPublisher.useRecommendedSettings>
+  <!-- EN: Use URL shortener -->
+  <HugsLogPublisher.shortUrls>Usar acortador de URL</HugsLogPublisher.shortUrls>
+  <!-- EN: Produces a shorter link when uploading. Not recommended on Steam- short links are automatically removed. -->
+  <HugsLogPublisher.shortUrls_tip>Produce un enlace más corto al subir. No recomendado en Steam, los enlaces cortos se eliminan automáticamente.</HugsLogPublisher.shortUrls_tip>
+  <!-- EN: Include platform information -->
+  <HugsLogPublisher.platformInfo>Incluir información de la plataforma</HugsLogPublisher.platformInfo>
+  <!-- EN: Includes information about your CPU, memory and video card in the log. -->
+  <HugsLogPublisher.platformInfo_tip>Incluye información sobre tu CPU, memoria y tarjeta de video en el registro.</HugsLogPublisher.platformInfo_tip>
+  <!-- EN: Allow unlimited log size -->
+  <HugsLogPublisher.unlimitedLogSize>Permitir tamaño de registro ilimitado</HugsLogPublisher.unlimitedLogSize>
+  <!-- EN: When disabled, log size is limited to 10K lines to prevent very long logs from causing issues. -->
+  <HugsLogPublisher.unlimitedLogSize_tip>Cuando está desactivado, el tamaño del registro está limitado a 10K líneas para evitar que los registros muy largos causen problemas.</HugsLogPublisher.unlimitedLogSize_tip>
+  <!-- EN: To clipboard -->
+  <HugsLogPublisher.toClipboardBtn>Al portapapeles</HugsLogPublisher.toClipboardBtn>
+  <!-- EN: Upload -->
+  <HugsLogPublisher.uploadBtn>Subir</HugsLogPublisher.uploadBtn>
+  <!-- EN: Files -->
+  <HugsLogPublisher.filesBtn>Archivos</HugsLogPublisher.filesBtn>
+  <!-- EN: Open log file -->
+  <HugsLogPublisher.openLogFile>Abrir archivo de registro</HugsLogPublisher.openLogFile>
+  <!-- EN: Open save folder -->
+  <HugsLogPublisher.openSaveDir>Abrir carpeta de guardado</HugsLogPublisher.openSaveDir>
+  <!-- EN: Open mods folder -->
+  <HugsLogPublisher.openModsDir>Abrir carpeta de mods</HugsLogPublisher.openModsDir>
+</LanguageData>

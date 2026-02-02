@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: gravity barrier -->
+  <GravBarrier_GT.label>barrera gravitacional</GravBarrier_GT.label>
+  <!-- EN: A temporary gravity barrier projected by gravlite panels on the ground. It works for 5 hours and provides good cover from gunfire.\n\nGreatly slows down the pawns passing through it (does not work on flying). -->
+  <GravBarrier_GT.description>Una barrera gravitacional temporal proyectada por paneles de gravilita en el suelo. Funciona durante 5 horas y proporciona buena cobertura contra disparos.\n\nRalentiza enormemente a los peones que pasan a través de ella (no funciona en vuelo).</GravBarrier_GT.description>
+  
+  <!-- EN: gravity barrier -->
+  <GravBarrierCentre_GT.label>barrera gravitacional</GravBarrierCentre_GT.label>
+  <!-- EN: Service placeholder. -->
+  <GravBarrierCentre_GT.description>Marcador de posición de servicio.</GravBarrierCentre_GT.description>
+  
+  <!-- EN: gravity barrier -->
+  <GravBarrierProj.label>barrera gravitacional</GravBarrierProj.label>
+  
+  <!-- EN: grav beam cannon -->
+  <GravBeamCannon.label>cañón de gravirrayos</GravBeamCannon.label>
+  <!-- EN: A heavy weapon that emits a beam of concentrated gravity waves that cause micro rips in area. Wounds from the beam do not cause severe bleeding, but they do cause very severe pain.\n\nBody parts damaged by the beam reduce the target's armor and increase taken damage.\nCan place a decelerating barricade on the ground. -->
+  <GravBeamCannon.description>Un arma pesada que emite un rayo de ondas gravitacionales concentradas que causan micro desgarros en el área. Las heridas del rayo no causan sangrado severo, pero causan un dolor muy intenso.\n\nLas partes del cuerpo dañadas por el rayo reducen la armadura del objetivo y aumentan el daño recibido.\nPuede colocar una barricada desaceleradora en el suelo.</GravBeamCannon.description>
+  <!-- EN: barrier charges -->
+  <GravBeamCannon.comps.CompEquippableAbilityReloadable.chargeNoun>cargas de barrera</GravBeamCannon.comps.CompEquippableAbilityReloadable.chargeNoun>
+  <!-- EN: on cooldown -->
+  <GravBeamCannon.comps.CompEquippableAbilityReloadable.cooldownGerund>en enfriamiento</GravBeamCannon.comps.CompEquippableAbilityReloadable.cooldownGerund>
+  <!-- EN: emitter -->
+  <GravBeamCannon.tools.emitter.label>emisor</GravBeamCannon.tools.emitter.label>
+  <!-- EN: grav beam cannon -->
+  <GravBeamCannon.verbs.Verb_ShootBeam.label>cañón de gravirrayos</GravBeamCannon.verbs.Verb_ShootBeam.label>
+  
+</LanguageData>

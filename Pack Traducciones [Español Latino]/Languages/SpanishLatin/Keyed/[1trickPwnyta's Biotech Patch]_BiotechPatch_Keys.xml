@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <BiotechPatch_AlertMechEnergyDepleted>Energía de mecanoide agotada</BiotechPatch_AlertMechEnergyDepleted>
+  <BiotechPatch_AlertMechEnergyDepletedDesc>Uno o más de los mecanoides de tu colonia han agotado por completo su energía y deben ser llevados a un recargador.</BiotechPatch_AlertMechEnergyDepletedDesc>
+  <BiotechPatch_AllowForbiddenXenogermImplantation>Permitir la implantación de xenogemas a través de la pestaña de salud para xenogemas que están prohibidas</BiotechPatch_AllowForbiddenXenogermImplantation>
+  <BiotechPatch_AutoChildNicknamesDisabled>Desactivar el apodo automático de los niños en los momentos de crecimiento</BiotechPatch_AutoChildNicknamesDisabled>
+  <BiotechPatch_BirthNotCancelledWhenNotDowned>Corrección de error: Si un colono que está dando a luz es derribado y luego se recupera durante el parto, el ritual se cancela</BiotechPatch_BirthNotCancelledWhenNotDowned>
+  <BiotechPatch_BreastfeedingCanBeInterrupted>La lactancia puede ser interrumpida si la lactante tiene cosas más importantes que hacer</BiotechPatch_BreastfeedingCanBeInterrupted>
+  <BiotechPatch_ChildLaborEncouraged>Trabajo infantil: el fomento requiere trabajo programado</BiotechPatch_ChildLaborEncouraged>
+  <BiotechPatch_Children>Niños</BiotechPatch_Children>
+  <BiotechPatch_ChildrenGoByFirstName>Los niños son llamados por su primer nombre por defecto</BiotechPatch_ChildrenGoByFirstName>
+  <BiotechPatch_CustomHybridXenotypes>Corrección de error: Los hijos de un xenotipo personalizado y otro xenotipo personalizado o un baseliner son etiquetados como baseliner</BiotechPatch_CustomHybridXenotypes>
+  <BiotechPatch_DeathrestAutoWake>Activar automáticamente el autodespertar para los colonos en descanso mortal</BiotechPatch_DeathrestAutoWake>
+  <BiotechPatch_DeathrestWakeupMessage>Mostrar mensaje cuando un colono en descanso mortal se autodespierta</BiotechPatch_DeathrestWakeupMessage>
+  <BiotechPatch_DrugDeficiencyAlert>Mostrar alerta por deficiencia de drogas debido a los genes</BiotechPatch_DrugDeficiencyAlert>
+  <BiotechPatch_DrugDeficiencyAlertDesc>Hay gente con deficiencia de sus drogas vitales:\n{0}</BiotechPatch_DrugDeficiencyAlertDesc>
+  <BiotechPatch_DrugDeficiencyAlertLabel>Deficiencia de droga</BiotechPatch_DrugDeficiencyAlertLabel>
+  <BiotechPatch_DrugDeficiencyComaAlertDesc>Alguien está en coma debido a una deficiencia de droga:\n{0}\n\nSi no obtienen las drogas necesarias, eventualmente morirán.</BiotechPatch_DrugDeficiencyComaAlertDesc>
+  <BiotechPatch_DrugDeficiencyComaAlertLabel>Coma por deficiencia de droga</BiotechPatch_DrugDeficiencyComaAlertLabel>
+  <BiotechPatch_ExostriderLostAllowsComplex>Corrección de error: Abandonar los restos del exo-caminante impide la misión del complejo mecanitor</BiotechPatch_ExostriderLostAllowsComplex>
+  <BiotechPatch_GeneTraitsDontCancelIdentical>Corrección de error: El mismo xenogen/endogen puede cancelarse mutuamente</BiotechPatch_GeneTraitsDontCancelIdentical>
+  <BiotechPatch_Genetics>Genética</BiotechPatch_Genetics>
+  <BiotechPatch_GrowthMomentChoiceColors>Mostrar opciones de rasgos/pasiones coloreadas para los momentos de crecimiento según la utilidad</BiotechPatch_GrowthMomentChoiceColors>
+  <BiotechPatch_GrowthMomentTraitSuppression>Corrección de error: Los rasgos seleccionados en el momento del crecimiento no son suprimidos por los genes que deberían suprimirlos</BiotechPatch_GrowthMomentTraitSuppression>
+  <BiotechPatch_HemogenExtractionSpam>Desactivar mensaje al extraer hemógeno de una facción hostil</BiotechPatch_HemogenExtractionSpam>
+  <BiotechPatch_InputIsInvalid>Por favor, introduce una entrada válida.</BiotechPatch_InputIsInvalid>
+  <BiotechPatch_LoadGrowthVats>Cambiar el texto de cubas de crecimiento de "creciendo" a "cargando"</BiotechPatch_LoadGrowthVats>
+  <BiotechPatch_MechAutoRepair>Activar automáticamente la autorreparación para los mecanoides</BiotechPatch_MechAutoRepair>
+  <BiotechPatch_MechEnergyDepletedAlert>Hacer que los mecanoides sin energía sean más notorios (alerta + icono diferente)</BiotechPatch_MechEnergyDepletedAlert>
+  <BiotechPatch_MechTaskPrioritization>Corrección de error: Los constructoides no pueden reparar edificios mientras están reclutados</BiotechPatch_MechTaskPrioritization>
+  <BiotechPatch_Mechanoids>Mecanoides</BiotechPatch_Mechanoids>
+  <BiotechPatch_MechsCanSleepOnConduits>Permitir que los mecanoides se autocarguen sobre conductos de energía y otros edificios transitables que no sean sillas</BiotechPatch_MechsCanSleepOnConduits>
+  <BiotechPatch_MechsControlledByCaravan>Los mecanitores en caravanas pueden controlar sus mecanoides en casa (el rango de comando aún se aplica)</BiotechPatch_MechsControlledByCaravan>
+  <BiotechPatch_MechsInColonistBar>Mostrar mecanoides en la barra de colonos</BiotechPatch_MechsInColonistBar>
+  <BiotechPatch_MechsOutsideRadius>Permitir mover mecanoides y ordenar ataques a distancia fuera del radio de control del mecanitor</BiotechPatch_MechsOutsideRadius>
+  <BiotechPatch_Misc>Misceláneo</BiotechPatch_Misc>
+  <BiotechPatch_MoveBabyToSaferTempLater>Solo mover al bebé a una temperatura más segura cuando tenga lesiones por temperatura</BiotechPatch_MoveBabyToSaferTempLater>
+  <BiotechPatch_RestartRequired>(requiere reiniciar)</BiotechPatch_RestartRequired>
+  <BiotechPatch_ResurrectedMechsRememberGroup>Los mecanoides muertos recuerdan su grupo de control después de ser resucitados</BiotechPatch_ResurrectedMechsRememberGroup>
+  <BiotechPatch_SuppressedBy>Suprimido por</BiotechPatch_SuppressedBy>
+  <BiotechPatch_WastepackDeteriorationMuted>No mostrar mensaje cuando los paquetes de residuos se deterioren en un almacenamiento fuera del área de la base</BiotechPatch_WastepackDeteriorationMuted>
+  <BiotechPatch_WokeFromDeathrest>{PAWN_nameDef} ha terminado su descanso mortal.</BiotechPatch_WokeFromDeathrest>
+  <BiotechPatch_XenogermCreationForced>La priorización de la creación de una xenogema no será interrumpida por el capricho del trabajador</BiotechPatch_XenogermCreationForced>
+</LanguageData>

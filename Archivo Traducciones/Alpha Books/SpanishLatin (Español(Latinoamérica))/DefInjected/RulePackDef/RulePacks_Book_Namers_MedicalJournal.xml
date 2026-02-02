@@ -1,0 +1,133 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>title(p=3)->[titleNaked]</li>
+    <li>title->[ANYPAWN_nameIndef]'s [titleNaked]</li>
+    <li>title->[Character]'s [medicalStory]</li>
+    <li>title->[Character]'s [objectMedical]</li>
+    <li>title->[Character] [linkagePlace] [place]</li>
+    <li>title->The [adjective] [objectMedical]</li>
+    <li>titleNaked->[ConceptMedical]</li>
+    <li>titleNaked->[adjective] [ConceptMedical]</li>
+    <li>titleNaked->[ConceptMedical] [linkage] [ConceptMedical]</li>
+    <li>titleNaked->[ConceptMedical] [linkagePlace] [place]</li>
+    <li>titleNaked->[objectMedical] [linkage] [ConceptMedical]</li>
+    <li>objectMedical->Surgery</li>
+    <li>objectMedical->Prosthetics</li>
+    <li>objectMedical->Medicine</li>
+    <li>objectMedical->Healing</li>
+    <li>objectMedical->Anatomy</li>
+    <li>objectMedical->Diagnostics</li>
+    <li>objectMedical->Therapy</li>
+    <li>objectMedical->Vaccines</li>
+    <li>objectMedical->Pathology</li>
+    <li>objectMedical->Pharmacology</li>
+    <li>ConceptMedical->Health</li>
+    <li>ConceptMedical->Infection</li>
+    <li>ConceptMedical->Recovery</li>
+    <li>ConceptMedical->Disease</li>
+    <li>ConceptMedical->Trauma</li>
+    <li>ConceptMedical->Well-being</li>
+    <li>ConceptMedical->Mortality</li>
+    <li>ConceptMedical->Immunity</li>
+    <li>ConceptMedical->Care</li>
+    <li>ConceptMedical->Vitality</li>
+    <li>linkage->of</li>
+    <li>linkage->by</li>
+    <li>linkage->for</li>
+    <li>linkage->without</li>
+    <li>linkage->with</li>
+    <li>linkagePlace->in the</li>
+    <li>linkagePlace->by the</li>
+    <li>linkagePlace->on the</li>
+    <li>linkagePlace->Near the</li>
+    <li>adjective->Essential</li>
+    <li>adjective->Advanced</li>
+    <li>adjective->Comprehensive</li>
+    <li>adjective->Pioneering</li>
+    <li>adjective->Critical</li>
+    <li>adjective->Life-saving</li>
+    <li>adjective->Experimental</li>
+    <li>adjective->Practical</li>
+    <li>adjective->Intriguing</li>
+    <li>adjective->Unprecedented</li>
+    <li>place(p=25)->[TerrainFeature]</li>
+    <li>place->Hospital</li>
+    <li>place->Clinic</li>
+    <li>place->Operating Room</li>
+    <li>place->Recovery Ward</li>
+    <li>place->Laboratory</li>
+    <li>place->Research Center</li>
+    <li>place->Field Station</li>
+    <li>place->Emergency Room</li>
+    <li>place->Medical Outpost</li>
+    <li>place->Sanctuary</li>
+    <li>place->Sanitarium</li>
+  -->
+  <ABooks_MedicalJournal_Namer.rulePack.rulesStrings>
+    <li>title(p=3)->[titleNaked]</li>
+    <li>title->[titleNaked] de [ANYPAWN_nameIndef]</li>
+    <li>title->[medicalStory] de [Character]</li>
+    <li>title->[objectMedical] de [Character]</li>
+    <li>title->[Character] [linkagePlace] [place]</li>
+    <li>title->[objectMedical] [adjective]</li>
+    <li>titleNaked->[ConceptMedical]</li>
+    <li>titleNaked->[ConceptMedical] [adjective]</li>
+    <li>titleNaked->[ConceptMedical] [linkage] [ConceptMedical]</li>
+    <li>titleNaked->[ConceptMedical] [linkagePlace] [place]</li>
+    <li>titleNaked->[objectMedical] [linkage] [ConceptMedical]</li>
+    <li>objectMedical->Cirugía</li>
+    <li>objectMedical->Prótesis</li>
+    <li>objectMedical->Medicina</li>
+    <li>objectMedical->Curación</li>
+    <li>objectMedical->Anatomía</li>
+    <li>objectMedical->Diagnóstico</li>
+    <li>objectMedical->Terapia</li>
+    <li>objectMedical->Vacunas</li>
+    <li>objectMedical->Patología</li>
+    <li>objectMedical->Farmacología</li>
+    <li>ConceptMedical->Salud</li>
+    <li>ConceptMedical->Infección</li>
+    <li>ConceptMedical->Recuperación</li>
+    <li>ConceptMedical->Enfermedad</li>
+    <li>ConceptMedical->Trauma</li>
+    <li>ConceptMedical->Bienestar</li>
+    <li>ConceptMedical->Mortalidad</li>
+    <li>ConceptMedical->Inmunidad</li>
+    <li>ConceptMedical->Cuidado</li>
+    <li>ConceptMedical->Vitalidad</li>
+    <li>linkage->de</li>
+    <li>linkage->por</li>
+    <li>linkage->para</li>
+    <li>linkage->sin</li>
+    <li>linkage->con</li>
+    <li>linkagePlace->en</li>
+    <li>linkagePlace->junto a</li>
+    <li>linkagePlace->sobre</li>
+    <li>linkagePlace->cerca de</li>
+    <li>adjective->Esencial</li>
+    <li>adjective->de Avanzada</li>
+    <li>adjective->Integral</li>
+    <li>adjective->de Vanguardia</li>
+    <li>adjective->Crucial</li>
+    <li>adjective->Vital</li>
+    <li>adjective->Experimental</li>
+    <li>adjective->Funcional</li>
+    <li>adjective->Intrigante</li>
+    <li>adjective->Sin Precedentes</li>
+    <li>place(p=25)->[TerrainFeature]</li>
+    <li>place->el Hospital</li>
+    <li>place->la Clínica</li>
+    <li>place->el Quirófano</li>
+    <li>place->la Sala de Recuperación</li>
+    <li>place->el Laboratorio</li>
+    <li>place->el Centro de Investigación</li>
+    <li>place->la Estación de Campo</li>
+    <li>place->la Sala de Emergencias</li>
+    <li>place->el Puesto Médico</li>
+    <li>place->el Santuario</li>
+    <li>place->el Sanatorio</li>
+  </ABooks_MedicalJournal_Namer.rulePack.rulesStrings>
+  
+</LanguageData>

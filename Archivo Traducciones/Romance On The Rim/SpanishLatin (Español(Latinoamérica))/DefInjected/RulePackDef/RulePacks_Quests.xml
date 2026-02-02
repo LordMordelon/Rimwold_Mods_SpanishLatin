@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>title_bondoffreedom->Bond of Freedom</li>
+    <li>desc_bondoffreedom->{slave_nameFull} and {lover_nameFull} are in love. Driven by a profound sense of compassion, {lover_nameDef} is determined to liberate {lover_possessive} beloved from the shackles of slavery. \n\nUpon the successful emancipation, {slave_nameDef} will join the colony as a colonist.\n\nHowever, this act of mercy may stir discontent among your fellow colonists, challenging the harmony within your ranks.\n\nChoose wisely.</li>
+    <li>title_orphanlover->Orphan Lover</li>
+    <li>desc_orphanlover->Two young wanderers, {boy_nameFull} and {girl_nameFull} have arrived at our colony's gates.\n\nBound not by blood but by a shared history of loss and survival, they have journeyed through perilous landscapes, evading threats both human and natural in search of a sanctuary.\n\nWill we extend our compassion and resources to help them or prioritize our colony's safety and stability by turning them away?</li>
+    <li>title_crush->Crush</li>
+    <li>desc_crush->Amidst the unending cycle of survival and solidarity in the colony, an unexpected tenderness has begun to unfold between two of its members.\n\n{initiator_nameFull} finds {initiator_objective}self caught in the grip of newfound affection towards {other_nameFull}.\n\nThis burgeoning affection, delicate and unspoken, is shadowed by uncertainty, a lingering question of whether the feelings are mirrored in {other_possessive} heart.\n\nCaught in the dance between desire and doubt, {initiator_nameDef} is teetering between reaching out or retreat.</li>
+    <li>title_secretadmirer->Secret Admirer</li>
+    <li>desc_secretadmirer->In the day-to-day life of the colony, {initiator_nameFull} has begun to suspect that {other_nameFull} might harbor secret feelings for {initiator_objective}.\n\nThis suspicion arises from a series of nuanced interactions and perhaps unintentional hints that {other_nameDef} has dropped, stirring a mixture of emotions in {initiator_nameDef}, from flattered curiosity to a cautious hesitation.\n\n{initiator_pronoun} is at a crossroads of interpreting {other_nameDef}'s behavior and deciding how to respond.</li>
+    <li>title_kidneytrade->Kidney Trade</li>
+    <li>desc_kidneytrade->{trader_nameFull} arrived at your colony. {trader_pronoun} might have something to trade.</li>
+    <li>title_adoptchance->Adoption Chance</li>
+    <li>desc_adoptchance->The baby, {child_nameFull}, once saved and nurtured in good care, has grown under the watchful eyes and kind hearts of {child_possessive} guardians.\n\nNow, at {child_possessive} birthday, this young soul has expressed a profound desire to formalize the bond, wishing for {father_nameDef} and {mother_nameDef} to become {child_possessive} official parents.\n\nHow will you respond to this heartfelt plea?</li>
+    <li>title_aheartsreturn->A Heart's Return</li>
+    <li>desc_aheartsreturn->Driven by love and determination, {partner_nameFull}, a long-lost lover of your colonist {colonist_nameFull}, arrived at the colony after {partner_possessive} long journey.\n\nNow at your doorstep, {partner_pronoun} seeks a place in the colony and a chance to rekindle their past relationship.\n\nDecide their fate.</li>
+  -->
+  <RotR_Rule_Quests.rulePack.rulesStrings>
+    <li>title_bondoffreedom->Lazo de Libertad</li>
+    <li>desc_bondoffreedom->{slave_nameFull} y {lover_nameFull} están enamorados. Impulsado por un profundo sentido de compasión, {lover_nameDef} está decidido a liberar a su amado de los grilletes de la esclavitud. \n\nTras la emancipación exitosa, {slave_nameDef} se unirá a la colonia como colono.\n\nSin embargo, este acto de misericordia puede provocar descontento entre tus compañeros colonos, desafiando la armonía dentro de tus filas.\n\nElige sabiamente.</li>
+    <li>title_orphanlover->Amante Huérfano</li>
+    <li>desc_orphanlover->Dos jóvenes vagabundos, {boy_nameFull} y {girl_nameFull} han llegado a las puertas de nuestra colonia.\n\nUnidos no por sangre sino por una historia compartida de pérdida y supervivencia, han viajado a través de paisajes peligrosos, evadiendo amenazas tanto humanas como naturales en busca de un santuario.\n\n¿Extenderemos nuestra compasión y recursos para ayudarlos o priorizaremos la seguridad y estabilidad de nuestra colonia rechazándolos?</li>
+    <li>title_crush->Amor Platónico</li>
+    <li>desc_crush->En medio del ciclo interminable de supervivencia y solidaridad en la colonia, una ternura inesperada ha comenzado a desarrollarse entre dos de sus miembros.\n\n{initiator_nameFull} se encuentra atrapado en las garras de un nuevo afecto hacia {other_nameFull}.\n\nEste afecto floreciente, delicado y no expresado, está ensombrecido por la incertidumbre, una pregunta persistente de si los sentimientos se reflejan en su corazón.\n\nAtrapado en la danza entre el deseo y la duda, {initiator_nameDef} se tambalea entre acercarse o retirarse.</li>
+    <li>title_secretadmirer->Admirador Secreto</li>
+    <li>desc_secretadmirer->En la vida cotidiana de la colonia, {initiator_nameFull} ha comenzado a sospechar que {other_nameFull} podría albergar sentimientos secretos por {initiator_objective}.\n\nEsta sospecha surge de una serie de interacciones matizadas y quizás insinuaciones involuntarias que {other_nameDef} ha dejado caer, agitando una mezcla de emociones en {initiator_nameDef}, desde curiosidad halagada hasta una vacilación cautelosa.\n\n{initiator_pronoun} está en una encrucijada de interpretar el comportamiento de {other_nameDef} y decidir cómo responder.</li>
+    <li>title_kidneytrade->Comercio de Riñones</li>
+    <li>desc_kidneytrade->{trader_nameFull} llegó a tu colonia. {trader_pronoun} podría tener algo para comerciar.</li>
+    <li>title_adoptchance->Oportunidad de Adopción</li>
+    <li>desc_adoptchance->El bebé, {child_nameFull}, una vez salvado y criado con buen cuidado, ha crecido bajo la atenta mirada y los corazones amables de sus guardianes.\n\nAhora, en su cumpleaños, esta joven alma ha expresado un profundo deseo de formalizar el vínculo, deseando que {father_nameDef} y {mother_nameDef} se conviertan en sus padres oficiales.\n\n¿Cómo responderás a esta súplica sincera?</li>
+    <li>title_aheartsreturn->El Regreso de un Corazón</li>
+    <li>desc_aheartsreturn->Impulsado por el amor y la determinación, {partner_nameFull}, un amante perdido hace mucho tiempo de tu colono {colonist_nameFull}, llegó a la colonia después de su largo viaje.\n\nAhora en tu puerta, busca un lugar en la colonia y una oportunidad para reavivar su relación pasada.\n\nDecide su destino.</li>
+  </RotR_Rule_Quests.rulePack.rulesStrings>
+  
+</LanguageData>

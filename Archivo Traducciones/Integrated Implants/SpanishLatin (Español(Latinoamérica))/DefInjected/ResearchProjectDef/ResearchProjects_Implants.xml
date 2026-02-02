@@ -1,0 +1,281 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: hormonal implants -->
+  <I_BasicHormonalImplants.label>implantes hormonales</I_BasicHormonalImplants.label>
+  <!-- EN: Craft specialised implants that enhance the body through hormonal means. -->
+  <I_BasicHormonalImplants.description>Elabora implantes especializados que mejoran el cuerpo mediante métodos hormonales.</I_BasicHormonalImplants.description>
+  <!-- EN:
+    <li>subject->basic implants</li>
+    <li>subject_story->was chased off by a squad of ancient soldiers who woke much faster than expected, due to their cryptowake implants</li>
+    <li>subject_gerund->crafting implants</li>
+  -->
+  <I_BasicHormonalImplants.generalRules.rulesStrings>
+    <li>subject->implantes básicos</li>
+    <li>subject_story->fue ahuyentado por un escuadrón de soldados antiguos que despertaron mucho más rápido de lo esperado, debido a sus implantes de criptodespertar</li>
+    <li>subject_gerund->fabricando implantes</li>
+  </I_BasicHormonalImplants.generalRules.rulesStrings>
+  
+  <!-- EN: mechanical implants -->
+  <I_BasicImplants.label>implantes mecánicos</I_BasicImplants.label>
+  <!-- EN: Craft specialised implants that enhance the body through mechanical means. -->
+  <I_BasicImplants.description>Elabora implantes especializados que mejoran el cuerpo mediante métodos mecánicos.</I_BasicImplants.description>
+  <!-- EN:
+    <li>subject->mechanical implants</li>
+    <li>subject_story->survived a vicious nuclear winter only due to their implanted internal climate control</li>
+    <li>subject_story->fought alongside a rebel cyborg who picked up an entire hover-fighter</li>
+    <li>subject_gerund->crafting implants</li>
+  -->
+  <I_BasicImplants.generalRules.rulesStrings>
+    <li>subject->implantes mecánicos</li>
+    <li>subject_story->sobrevivió a un crudo invierno nuclear solo gracias a su control climático interno implantado</li>
+    <li>subject_story->luchó junto a un cíborg rebelde que levantó un caza flotante entero</li>
+    <li>subject_gerund->fabricando implantes</li>
+  </I_BasicImplants.generalRules.rulesStrings>
+  
+  <!-- EN: cellular manipulation -->
+  <I_Biomimicry.label>manipulación celular</I_Biomimicry.label>
+  <!-- EN: Craft implants able to change a person at the cellular level. -->
+  <I_Biomimicry.description>Elabora implantes capaces de modificar a una persona a nivel celular.</I_Biomimicry.description>
+  <!-- EN:
+    <li>subject->cellular manipulation</li>
+    <li>subject_story->was saved from certain death when they shot their would-be assassin with their own gun</li>
+    <li>subject_story->was tasked with discovering how a master thief kept pulling off seemingly impossible heists</li>
+    <li>subject_story->learnt that their lover had been imprisoned on clearly falsified charges</li>
+    <li>subject_gerund->changing people on the cellular level</li>
+  -->
+  <I_Biomimicry.generalRules.rulesStrings>
+    <li>subject->manipulación celular</li>
+    <li>subject_story->se salvó de una muerte segura cuando le disparó a su posible asesino con su propia arma</li>
+    <li>subject_story->se le encargó descubrir cómo un maestro ladrón seguía realizando atracos aparentemente imposibles</li>
+    <li>subject_story->se enteró de que su amante había sido encarcelado por cargos claramente falsificados</li>
+    <li>subject_gerund->cambiando a las personas a nivel celular</li>
+  </I_Biomimicry.generalRules.rulesStrings>
+  
+  <!-- EN: bionic tails -->
+  <I_BionicTails.label>colas biónicas</I_BionicTails.label>
+  <!-- EN: Use biogel nerve-extensions spliced into the base of the vertebral column to install an artificial tail. -->
+  <I_BionicTails.description>Usa extensiones nerviosas de biogel integradas en la base de la columna vertebral para instalar una cola artificial.</I_BionicTails.description>
+  <!-- EN:
+    <li>subject->extra limbs</li>
+    <li>subject_story->spent a great deal of time in a community of tailed xenohumans, and suffered many inconveniences due to their lack of one</li>
+    <li>subject_story->spent decades clearing out the unending infestations of the sorne geneline, and exterminating it's ever evolving warriors</li>
+    <li>subject_story->became stranded upon an animal world who's intended colony ship had crashed centuries ago</li>
+    <li>subject_gerund->utilising biogel nerve-extensions</li>
+  -->
+  <I_BionicTails.generalRules.rulesStrings>
+    <li>subject->extremidades extra</li>
+    <li>subject_story->pasó mucho tiempo en una comunidad de xenohumanos con cola y sufrió muchos inconvenientes por no tener una</li>
+    <li>subject_story->pasó décadas eliminando las interminables infestaciones de la genolínea sorne y exterminando a sus guerreros en constante evolución</li>
+    <li>subject_story->quedó varado en un mundo animal cuya nave colonial prevista se había estrellado siglos atrás</li>
+    <li>subject_gerund->utilizando extensiones nerviosas de biogel</li>
+  </I_BionicTails.generalRules.rulesStrings>
+  
+  <!-- EN: remote activation -->
+  <I_CaptiveControl.label>activación remota</I_CaptiveControl.label>
+  <!-- EN: Craft implants that can be activated against the users' will. -->
+  <I_CaptiveControl.description>Elabora implantes que pueden activarse en contra de la voluntad del usuario.</I_CaptiveControl.description>
+  <!-- EN:
+    <li>subject->captive control</li>
+    <li>subject_story->became friends with the warden of a maximum security prison, where some of the worlds most dangerous criminals were kept under lock and key</li>
+    <li>subject_story->spent many years in a lunar penal colony, paying off their debts by excavating explosive minerals</li>
+    <li>subject_story->found employment in an assassin guild based on an orbital city. Their job was to decide when an operative was at risk of capture, and remotely detonate their brain implants</li>
+    <li>subject_gerund->installing compliance devices</li>
+  -->
+  <I_CaptiveControl.generalRules.rulesStrings>
+    <li>subject->control de cautivos</li>
+    <li>subject_story->se hizo amigo del alcaide de una prisión de máxima seguridad, donde algunos de los criminales más peligrosos del mundo estaban bajo llave</li>
+    <li>subject_story->pasó muchos años en una colonia penal lunar, pagando sus deudas excavando minerales explosivos</li>
+    <li>subject_story->encontró empleo en un gremio de asesinos con sede en una ciudad orbital. Su trabajo era decidir cuándo un operativo corría riesgo de ser capturado y detonar remotamente sus implantes cerebrales</li>
+    <li>subject_gerund->instalando dispositivos de cumplimiento</li>
+  </I_CaptiveControl.generalRules.rulesStrings>
+  
+  <!-- EN: electromagnetic insulation -->
+  <I_CranialInsulation.label>aislamiento craneal</I_CranialInsulation.label>
+  <!-- EN: Craft and install electromagnetic insulation that can, through a combination of special shielding and shock-dissipation filaments, defends other implants from EMP shock. -->
+  <I_CranialInsulation.description>Elabora e instala aislamiento craneal que, mediante una combinación de protección especial y filamentos disipadores de choque, defiende otros implantes cerebrales de descargas EMP.</I_CranialInsulation.description>
+  <!-- EN:
+    <li>subject->cranial insulation</li>
+    <li>subject_story->saw, with their own eyes, one of the 'poltergeists' haunting a dead glitterworld</li>
+    <li>subject_story->conducted their research in order to improve habitability on worlds bombarded with electromagnetic pulses</li>
+    <li>subject_story->watched in horror as the mechanoids slowly learned to use their own EMP weaponry against them</li>
+    <li>subject_gerund->defending against electro-magnetic pulses</li>
+  -->
+  <I_CranialInsulation.generalRules.rulesStrings>
+    <li>subject->aislamiento craneal</li>
+    <li>subject_story->vio, con sus propios ojos, a uno de los 'poltergeists' que acechaban un mundobrillante muerto</li>
+    <li>subject_story->realizó su investigación para mejorar la habitabilidad en mundos bombardeados con pulsos electromagnéticos</li>
+    <li>subject_story->observó con horror cómo los mecanoides aprendían lentamente a usar su propio armamento PEM contra ellos</li>
+    <li>subject_gerund->defendiéndose de los pulsos electromagnéticos</li>
+  </I_CranialInsulation.generalRules.rulesStrings>
+  
+  <!-- EN: eltex augmentation -->
+  <I_EltexAugmentation.label>augmentación eltex</I_EltexAugmentation.label>
+  <!-- EN: Craft special, eltex enhanced implants to assist with psycasting. -->
+  <I_EltexAugmentation.description>Elabora implantes especiales mejorados con eltex para asistir en psicoemitir.</I_EltexAugmentation.description>
+  <!-- EN:
+    <li>subject->eltex enhanced</li>
+    <li>subject_story->frequently attended parties where the rich and famous whould proudly display their austentatious and post-human modifications</li>
+    <li>subject_story->fell in love with an aspiring psychic priest, only for them to mysteriously and suddenly flee the planet</li>
+    <li>subject_story->observed the glowing meteorite that landed in a well near their home, and the strange effects it had on it's surroundings</li>
+    <li>subject_gerund->using eltex to enhance psychic capabilities</li>
+  -->
+  <I_EltexAugmentation.generalRules.rulesStrings>
+    <li>subject->mejora eltex</li>
+    <li>subject_story->asistía con frecuencia a fiestas donde los ricos y famosos exhibían con orgullo sus ostentosas modificaciones posthumanas</li>
+    <li>subject_story->se enamoró de un aspirante a sacerdote psíquico, solo para que este huyera misteriosa y repentinamente del planeta</li>
+    <li>subject_story->observó el meteorito brillante que cayó en un pozo cerca de su casa y los extraños efectos que tuvo en su entorno</li>
+    <li>subject_gerund->usando eltex para mejorar las capacidades psíquicas</li>
+  </I_EltexAugmentation.generalRules.rulesStrings>
+  
+  <!-- EN: extra limbs -->
+  <I_ExtraArms.label>extremidades extra</I_ExtraArms.label>
+  <!-- EN: Use nerve-gel split-links to install an extra pair of artificial limbs. Archotech arms are always perfectly controllable but human-made limbs require some adjustment time. -->
+  <I_ExtraArms.description>Usa conexiones divididas de gel nervioso para instalar un par adicional de extremidades artificiales. Los brazos arqueotéc siempre son perfectamente controlables, pero las extremidades hechas por humanos requieren algo de tiempo de ajuste.</I_ExtraArms.description>
+  <!-- EN:
+    <li>subject->extra limbs</li>
+    <li>subject_story->meditated with the 4 armed monks of Lutuni</li>
+    <li>subject_story->barely escaped, as a deformed super-soldier with 4 power claws tore through their lab staff</li>
+    <li>subject_story->was saved from certain death by a legendary 4 armed surgeon who could perform faster than any unaugmented doctor</li>
+    <li>subject_gerund->utilising nerve-gel split-links</li>
+    <li>subject_gerund->using extra arms</li>
+  -->
+  <I_ExtraArms.generalRules.rulesStrings>
+    <li>subject->extremidades extra</li>
+    <li>subject_story->meditó con los monjes de 4 brazos de Lutuni</li>
+    <li>subject_story->apenas escapó, mientras un supersoldado deforme con 4 garras de poder destrozaba al personal de su laboratorio</li>
+    <li>subject_story->fue salvado de una muerte segura por un legendario cirujano de 4 brazos que podía operar más rápido que cualquier médico sin aumentos</li>
+    <li>subject_gerund->utilizando conexiones divididas de gel nervioso</li>
+    <li>subject_gerund->usando brazos extra</li>
+  </I_ExtraArms.generalRules.rulesStrings>
+  
+  <!-- EN: implanted explosives -->
+  <I_ImplantedExplosives.label>implantes explosivos</I_ImplantedExplosives.label>
+  <!-- EN: Implant explosive shells that can be detonated at will. -->
+  <I_ImplantedExplosives.description>Implanta cargas explosivas que pueden detonarse a voluntad.</I_ImplantedExplosives.description>
+  <!-- EN:
+    <li>subject->implanted explosives</li>
+    <li>subject_story->saw the flayed corpses of their comrades, hung from trees, and decided the savages wouldn't get him alive</li>
+    <li>subject_story->took a course in bionic design at a prestigeous glitterworld university, and failed</li>
+    <li>subject_story->listened to an urbworld SWAT officer's jarring tales of bomb-stuffed death cultists</li>
+    <li>subject_gerund->implanting explosives</li>
+    <li>subject_gerund->implanting suicide bombs</li>
+  -->
+  <I_ImplantedExplosives.generalRules.rulesStrings>
+    <li>subject->explosivos implantados</li>
+    <li>subject_story->vio los cadáveres desollados de sus camaradas, colgados de los árboles, y decidió que los salvajes no lo atraparían vivo</li>
+    <li>subject_story->tomó un curso de diseño biónico en una prestigiosa universidad de mundobrillante y fracasó</li>
+    <li>subject_story->escuchó los discordantes relatos de un oficial SWAT de un mundo urbano sobre cultistas de la muerte llenos de bombas</li>
+    <li>subject_gerund->implantando explosivos</li>
+    <li>subject_gerund->implantando bombas suicidas</li>
+  </I_ImplantedExplosives.generalRules.rulesStrings>
+  
+  <!-- EN: sanguophage implants -->
+  <I_SanguophageImplants.label>implantes sanguófago</I_SanguophageImplants.label>
+  <!-- EN: Craft and install bionic organs that can boost a sanguophage's unnatural traits. -->
+  <I_SanguophageImplants.description>Elabora e instala órganos biónicos que pueden potenciar los rasgos antinaturales de un sanguófago.</I_SanguophageImplants.description>
+  <!-- EN:
+    <li>subject->deathrest acceleration</li>
+    <li>subject->hemogen metabolisation</li>
+    <li>subject_story->was known for ripping out the throats of any who displeased them with their fangs</li>
+    <li>subject_story->was kidnapped and forced to work in a jet black secret lab</li>
+    <li>subject_story->wanted to help those with incurable blood diseases</li>
+    <li>subject_gerund->metabolising hemogen</li>
+    <li>subject_gerund->crafting sanguophage organs</li>
+  -->
+  <I_SanguophageImplants.generalRules.rulesStrings>
+    <li>subject->aceleración del letargo mortal</li>
+    <li>subject->metabolización de hemógeno</li>
+    <li>subject_story->era conocido por arrancar las gargantas de cualquiera que le desagradara con sus colmillos</li>
+    <li>subject_story->fue secuestrado y obligado a trabajar en un laboratorio secreto completamente negro</li>
+    <li>subject_story->quería ayudar a aquellos con enfermedades sanguíneas incurables</li>
+    <li>subject_gerund->metabolizando hemógeno</li>
+    <li>subject_gerund->fabricando órganos de sanguófago</li>
+  </I_SanguophageImplants.generalRules.rulesStrings>
+  
+  <!-- EN: implanted turrets -->
+  <I_ShoulderTurrets.label>torretas implantadas</I_ShoulderTurrets.label>
+  <!-- EN: Craft miniature, implantable bionic weapons. -->
+  <I_ShoulderTurrets.description>Elabora armas biónicas miniaturizadas e implantables.</I_ShoulderTurrets.description>
+  <!-- EN:
+    <li>subject->bionic turrets</li>
+    <li>subject_story->was comissioned by a space navy to miniaturise weapons</li>
+    <li>subject_story->needed a perfectly concealable gun for the assassination of their urbworld's ceo</li>
+    <li>subject_story->was inspired by the giant snakes of Lutuni, that could shoot venom up to 70 ft.</li>
+    <li>subject_gerund->crafting bionic turrets</li>
+    <li>subject_gerund->implanting bionic turrets</li>
+  -->
+  <I_ShoulderTurrets.generalRules.rulesStrings>
+    <li>subject->torretas biónicas</li>
+    <li>subject_story->fue comisionado por una armada espacial para miniaturizar armas</li>
+    <li>subject_story->necesitaba un arma perfectamente ocultable para el asesinato del director ejecutivo de su mundo urbano</li>
+    <li>subject_story->se inspiró en las serpientes gigantes de Lutuni, que podían disparar veneno hasta 70 pies</li>
+    <li>subject_gerund->fabricando torretas biónicas</li>
+    <li>subject_gerund->implantando torretas biónicas</li>
+  </I_ShoulderTurrets.generalRules.rulesStrings>
+  
+  <!-- EN: subdermal armour -->
+  <I_SubdermalArmour.label>armadura subdérmica</I_SubdermalArmour.label>
+  <!-- EN: Craft subdermal armor, a super-light implanted power armor suit used by diplomats who need concealed protection. -->
+  <I_SubdermalArmour.description>Elabora armadura subdérmica, un traje de armadura potenciada superligero usado por diplomáticos que requieren protección oculta.</I_SubdermalArmour.description>
+  <!-- EN:
+    <li>subject->subdermal armour</li>
+    <li>subject_story->sought a solution to the rampant assassinations of politicians on their urbworld</li>
+    <li>subject_story->was to deliver terms to a general famous for executing messangers</li>
+    <li>subject_story->lost their liver in a random knife attack</li>
+    <li>subject_gerund->subdermal armour</li>
+    <li>subject_gerund->implanted armour</li>
+    <li>subject_gerund->concealed armour</li>
+  -->
+  <I_SubdermalArmour.generalRules.rulesStrings>
+    <li>subject->armadura subdérmica</li>
+    <li>subject_story->buscó una solución a los asesinatos desenfrenados de políticos en su mundo urbano</li>
+    <li>subject_story->debía entregar los términos a un general famoso por ejecutar mensajeros</li>
+    <li>subject_story->perdió el hígado en un ataque con cuchillo al azar</li>
+    <li>subject_gerund->armadura subdérmica</li>
+    <li>subject_gerund->armadura implantada</li>
+    <li>subject_gerund->armadura oculta</li>
+  </I_SubdermalArmour.generalRules.rulesStrings>
+  
+  <!-- EN: telecommunication implants -->
+  <I_TelecommunicationImplants.label>implantes de telecomunicaciones</I_TelecommunicationImplants.label>
+  <!-- EN: Craft specialised implants that enhance the body with telecommunication abilities. -->
+  <I_TelecommunicationImplants.description>Elabora implantes especializados que mejoran el cuerpo con capacidades de telecomunicación.</I_TelecommunicationImplants.description>
+  <!-- EN:
+    <li>subject->telecommunication implants</li>
+    <li>subject_story->aspired to become a global technocrat, despite their techical illiteracy</li>
+    <li>subject_gerund->crafting implants</li>
+  -->
+  <I_TelecommunicationImplants.generalRules.rulesStrings>
+    <li>subject->implantes de telecomunicaciones</li>
+    <li>subject_story->aspiraba a convertirse en un tecnócrata global, a pesar de su analfabetismo técnico</li>
+    <li>subject_gerund->fabricando implantes</li>
+  </I_TelecommunicationImplants.generalRules.rulesStrings>
+  
+  <!-- EN: bionic faceplates -->
+  <LTS_BionicFaceplates.label>biónicas facial</LTS_BionicFaceplates.label>
+  <!-- EN: Use advanced sensory and optical computing technology attached to the optic nerves with nerve-gel split-links to utilise bionic faceplates. -->
+  <LTS_BionicFaceplates.description>Usa tecnología avanzada de sensores y computación óptica conectada a los nervios ópticos mediante enlaces divididos de gel nervioso para emplear placas faciales biónicas.</LTS_BionicFaceplates.description>
+  <!-- EN:
+    <li>subject->bionic faceplates</li>
+    <li>subject_gerund->crafting enhanced bionic faces</li>
+  -->
+  <LTS_BionicFaceplates.generalRules.rulesStrings>
+    <li>subject->placas faciales biónicas</li>
+    <li>subject_gerund->fabricando rostros biónicos mejorados</li>
+  </LTS_BionicFaceplates.generalRules.rulesStrings>
+  
+  <!-- EN: emergency implants -->
+  <LTS_EmergencyImplants.label>implantes de emergencia</LTS_EmergencyImplants.label>
+  <!-- EN: Craft implants that can be activated in specific emergency situations to save a person's life. -->
+  <LTS_EmergencyImplants.description>Elabora implantes que pueden activarse en situaciones de emergencia específicas para salvar la vida de una persona.</LTS_EmergencyImplants.description>
+  <!-- EN:
+    <li>subject->emergency implants</li>
+    <li>subject_gerund->crafting implants for emergency situations</li>
+  -->
+  <LTS_EmergencyImplants.generalRules.rulesStrings>
+    <li>subject->implantes de emergencia</li>
+    <li>subject_gerund->fabricando implantes para situaciones de emergencia</li>
+  </LTS_EmergencyImplants.generalRules.rulesStrings>
+  
+</LanguageData>

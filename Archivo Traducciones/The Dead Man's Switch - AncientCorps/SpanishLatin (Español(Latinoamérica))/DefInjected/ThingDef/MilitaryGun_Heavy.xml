@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: vladimirov HMG bullet -->
+  <Bullet_DMS_VladimirovMG.label>bala HMG vladimirov</Bullet_DMS_VladimirovMG.label>
+  
+  <!-- EN: Aerial autocannon -->
+  <DMS_AerialAutocannon.label>cañón automático aéreo</DMS_AerialAutocannon.label>
+  <!-- EN: An automatroid weapon based on a lightweight aircraft cannon, adapted to fire 30mm cannon rounds. While it is versatile across multiple platforms, overheating issues limit its ground use to only burst shots. -->
+  <DMS_AerialAutocannon.description>Un arma de automatroide basada en un cañón de avión ligero, adaptada para disparar proyectiles de cañón de 30 mm. Aunque es versátil en múltiples plataformas, los problemas de sobrecalentamiento limitan su uso en tierra a solo disparos en ráfaga.</DMS_AerialAutocannon.description>
+  <!-- EN: stock -->
+  <DMS_AerialAutocannon.tools.stock.label>culata</DMS_AerialAutocannon.tools.stock.label>
+  <!-- EN: barrel -->
+  <DMS_AerialAutocannon.tools.barrel.label>cañón</DMS_AerialAutocannon.tools.barrel.label>
+  <!-- EN: Aerial autocannon -->
+  <DMS_AerialAutocannon.verbs.Verb_Shoot.label>cañón automático aéreo</DMS_AerialAutocannon.verbs.Verb_Shoot.label>
+  
+  <!-- EN: armor piercing sabot -->
+  <DMS_Bullet_JusticeGavel.label>bala perforante</DMS_Bullet_JusticeGavel.label>
+  
+  <!-- EN: Gsh30-6 "Flogger" -->
+  <DMS_Gsh30Gatlinggun.label>Gsh30-6 Flogger</DMS_Gsh30Gatlinggun.label>
+  <!-- EN: A lightweight multi-barrel gatling gun originally designed for aircraft, modified for ground-based platforms. It boasts an extremely high rate of fire for rapid enemy suppression, but the lack of an effective rapid cooling system prevents it from sustaining fire for extended periods. -->
+  <DMS_Gsh30Gatlinggun.description>Una ametralladora ligera de varios cañones diseñada originalmente para aviones, modificada para plataformas terrestres. Cuenta con una cadencia de fuego extremadamente alta para la supresión rápida del enemigo, pero la falta de un sistema de enfriamiento rápido eficaz le impide mantener el fuego durante períodos prolongados.</DMS_Gsh30Gatlinggun.description>
+  <!-- EN: stock -->
+  <DMS_Gsh30Gatlinggun.tools.stock.label>culata</DMS_Gsh30Gatlinggun.tools.stock.label>
+  <!-- EN: barrel -->
+  <DMS_Gsh30Gatlinggun.tools.barrel.label>cañón</DMS_Gsh30Gatlinggun.tools.barrel.label>
+  <!-- EN: Gsh30-6 "Flogger" -->
+  <DMS_Gsh30Gatlinggun.verbs.Verb_ArcSprayProjectile.label>Gsh30-6 Flogger</DMS_Gsh30Gatlinggun.verbs.Verb_ArcSprayProjectile.label>
+
+  <!-- EN: 2A46M "Justice Gavel" -->
+  <DMS_Gun_JusticeGavel.label>2A46M Mazo de la Justicia</DMS_Gun_JusticeGavel.label>
+  <!-- EN: A semi-automatic anti-tank cannon carried by ultra-heavy automatrons, known for its simple and reliable structure. It is widely used on various armored platforms to engage heavily armed and armored targets such as tanks and heavy mechs. -->
+  <DMS_Gun_JusticeGavel.description>Un cañón antitanque semiautomático portado por automatroides ultrapesados, conocido por su estructura simple y confiable. Es ampliamente utilizado en diversas plataformas blindadas para atacar objetivos fuertemente armados y blindados, como tanques y mecas pesados.</DMS_Gun_JusticeGavel.description>
+  <!-- EN: stock -->
+  <DMS_Gun_JusticeGavel.tools.stock.label>culata</DMS_Gun_JusticeGavel.tools.stock.label>
+  <!-- EN: barrel -->
+  <DMS_Gun_JusticeGavel.tools.barrel.label>cañón</DMS_Gun_JusticeGavel.tools.barrel.label>
+  <!-- EN: 2A46M "Justice Gavel" -->
+  <DMS_Gun_JusticeGavel.verbs.Verb_Shoot.label>2A46M Mazo de la Justicia</DMS_Gun_JusticeGavel.verbs.Verb_Shoot.label>
+
+  <!-- EN: Kord Machinegun -->
+  <DMS_KordMachineGun.label>ametralladora kord</DMS_KordMachineGun.label>
+  <!-- EN: A reliable standard-issue machine gun, capable of effectively penetrating the armor of most small to medium-sized targets and inflicting suppression during long-range engagements. -->
+  <DMS_KordMachineGun.description>Una ametralladora estándar confiable, capaz de penetrar eficazmente el blindaje de la mayoría de los objetivos de tamaño pequeño a mediano e infligir supresión durante enfrentamientos a larga distancia.</DMS_KordMachineGun.description>
+  <!-- EN: stock -->
+  <DMS_KordMachineGun.tools.stock.label>culata</DMS_KordMachineGun.tools.stock.label>
+  <!-- EN: barrel -->
+  <DMS_KordMachineGun.tools.barrel.label>cañón</DMS_KordMachineGun.tools.barrel.label>
+  <!-- EN: Kord Machinegun -->
+  <DMS_KordMachineGun.verbs.Verb_Shoot.label>ametralladora kord</DMS_KordMachineGun.verbs.Verb_Shoot.label>
+
+  <!-- EN: Vladimirov HMG -->
+  <DMS_VladimirovMachineGun.label>HMG vladimirov</DMS_VladimirovMachineGun.label>
+  <!-- EN: A large-caliber heavy machine gun named after its designer, deployed as a standard weapon by colonial fleets in full-scale wars against various interstellar threats. It ensures that automatroid units can deliver effective and immediate lethal damage to most hostile lifeforms and machines. -->
+  <DMS_VladimirovMachineGun.description>Una ametralladora pesada de gran calibre que lleva el nombre de su diseñador, desplegada como arma estándar por las flotas coloniales en guerras a gran escala contra diversas amenazas interestelares. Asegura que las unidades de automatroides puedan infligir un daño letal efectivo e inmediato a la mayoría de las formas de vida y máquinas hostiles.</DMS_VladimirovMachineGun.description>
+  <!-- EN: stock -->
+  <DMS_VladimirovMachineGun.tools.stock.label>culata</DMS_VladimirovMachineGun.tools.stock.label>
+  <!-- EN: barrel -->
+  <DMS_VladimirovMachineGun.tools.barrel.label>cañón</DMS_VladimirovMachineGun.tools.barrel.label>
+  <!-- EN: Vladimirov HMG -->
+  <DMS_VladimirovMachineGun.verbs.Verb_Shoot.label>HMG vladimirov</DMS_VladimirovMachineGun.verbs.Verb_Shoot.label>
+  
+</LanguageData>

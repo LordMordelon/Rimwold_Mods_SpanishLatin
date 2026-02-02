@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: kiss tale -->
+  <RomanceOnTheRim_Tale_Kiss.label>historia de beso</RomanceOnTheRim_Tale_Kiss.label>
+  <!-- EN:
+    <li>tale_noun->[INITIATOR_nameDef]'s kiss with [RECIPIENT_nameDef]</li>
+    <li>image->[INITIATOR_nameFull] wrapping [INITIATOR_possessive] hands around [RECIPIENT_nameFull]'s waist [circumstance_group]</li>
+    <li>image->[INITIATOR_nameFull] holding [RECIPIENT_nameFull]'s face [circumstance_group]</li>
+    <li>image->[INITIATOR_nameFull] leaning forward [RECIPIENT_nameFull] [circumstance_group]</li>
+    <li>image->[INITIATOR_nameFull] hugging [RECIPIENT_nameFull] behind [RECIPIENT_possessive] back [circumstance_group]</li>
+    <li>image->[INITIATOR_nameFull] pressing [INITIATOR_possessive] forehead against [RECIPIENT_nameFull]'s [circumstance_group]</li>
+    <li>image->[INITIATOR_nameFull] cupping [RECIPIENT_nameFull]'s chin [circumstance_group]</li>
+    <li>circumstance_phrase->while looking into [RECIPIENT_nameDef]'s misty eyes</li>
+    <li>circumstance_phrase->with a heavy breath</li>
+    <li>circumstance_phrase->with a sense of force</li>
+    <li>circumstance_phrase->with a sense of tenderness</li>
+    <li>circumstance_phrase->while locking [INITIATOR_possessive] eyes on [RECIPIENT_nameDef]</li>
+    <li>circumstance_phrase->while others laugh gaily</li>
+    <li>desc_sentence->[RECIPIENT_nameDef] returns [INITIATOR_nameDef]'s kiss passionately.</li>
+    <li>desc_sentence->[RECIPIENT_nameDef] closes [RECIPIENT_possessive] eyes.</li>
+    <li>desc_sentence->[RECIPIENT_nameDef] twins [RECIPIENT_possessive] arms about [INITIATOR_nameDef]'s neck.</li>
+    <li>desc_sentence->[RECIPIENT_nameDef] is standing on tiptoe.</li>
+    <li>desc_sentence->[RECIPIENT_nameDef] smiles softly.</li>
+    <li>desc_sentence->[RECIPIENT_nameDef] shyly covers [INITIATOR_nameDef]'s eyes.</li>
+  -->
+  <RomanceOnTheRim_Tale_Kiss.rulePack.rulesStrings>
+    <li>tale_noun->el beso de [INITIATOR_nameDef] con [RECIPIENT_nameDef]</li>
+    <li>image->[INITIATOR_nameFull] envolviendo sus manos alrededor de la cintura de [RECIPIENT_nameFull] [circumstance_group]</li>
+    <li>image->[INITIATOR_nameFull] sosteniendo el rostro de [RECIPIENT_nameFull] [circumstance_group]</li>
+    <li>image->[INITIATOR_nameFull] inclinándose hacia [RECIPIENT_nameFull] [circumstance_group]</li>
+    <li>image->[INITIATOR_nameFull] abrazando a [RECIPIENT_nameFull] por la espalda [circumstance_group]</li>
+    <li>image->[INITIATOR_nameFull] presionando su frente contra la de [RECIPIENT_nameFull] [circumstance_group]</li>
+    <li>image->[INITIATOR_nameFull] ahuecando la barbilla de [RECIPIENT_nameFull] [circumstance_group]</li>
+    <li>circumstance_phrase->mientras mira los ojos empañados de [RECIPIENT_nameDef]</li>
+    <li>circumstance_phrase->con una respiración pesada</li>
+    <li>circumstance_phrase->con una sensación de fuerza</li>
+    <li>circumstance_phrase->con una sensación de ternura</li>
+    <li>circumstance_phrase->mientras clava sus ojos en [RECIPIENT_nameDef]</li>
+    <li>circumstance_phrase->mientras otros ríen alegremente</li>
+    <li>desc_sentence->[RECIPIENT_nameDef] devuelve el beso de [INITIATOR_nameDef] apasionadamente.</li>
+    <li>desc_sentence->[RECIPIENT_nameDef] cierra sus ojos.</li>
+    <li>desc_sentence->[RECIPIENT_nameDef] entrelaza sus brazos alrededor del cuello de [INITIATOR_nameDef].</li>
+    <li>desc_sentence->[RECIPIENT_nameDef] se pone de puntillas.</li>
+    <li>desc_sentence->[RECIPIENT_nameDef] sonríe suavemente.</li>
+    <li>desc_sentence->[RECIPIENT_nameDef] cubre tímidamente los ojos de [INITIATOR_nameDef].</li>
+  </RomanceOnTheRim_Tale_Kiss.rulePack.rulesStrings>
+  
+</LanguageData>

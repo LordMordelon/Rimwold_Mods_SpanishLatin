@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Autonomous production -->
+  <DMS_Autofacturer.label>Producción autónoma</DMS_Autofacturer.label>
+  <!-- EN: Automated production tables are somewhat different from ordinary work tables. Their operation are more similar to Mech Gestator. That is, after inputting materials and initialization, the colonists can do other things. Only periodic reset of the initialization process is required to complete the manufacturing. -->
+  <DMS_Autofacturer.helpText>Las mesas de producción automatizadas son algo diferentes de las mesas de trabajo ordinarias. Su funcionamiento es más similar al de un Gestador de Mecas. Es decir, después de introducir los materiales y la inicialización, los colonos pueden hacer otras cosas. Solo se requiere un reinicio periódico del proceso de inicialización para completar la fabricación.</DMS_Autofacturer.helpText>
+  
+  <!-- EN: Drone -->
+  <DMS_Drone.label>Dron</DMS_Drone.label>
+  <!-- EN: Drones are an early type of mechs that does not rely on mechanitor. They rely on remote control platforms and operator control, also having limited battery. You can command the Drone to return to the platform to replenish the platform and allow the Drone to be repaired and the battery recharged. -->
+  <DMS_Drone.helpText>Los drones son un tipo temprano de mecanoides que no dependen de un mecanizador. Dependen de plataformas de control remoto y del control de un operador, y también tienen una batería limitada. Puedes ordenar al Dron que regrese a la plataforma para reabastecerla y permitir que el Dron sea reparado y su batería recargada.</DMS_Drone.helpText>
+  
+  <!-- EN: Drone Platform -->
+  <DMS_DronePlatform.label>Plataforma de Drones</DMS_DronePlatform.label>
+  <!-- EN: Control platform is a fixed base station that allows you to manage Drones flexibly. You can command your colonists to load consumable resources to the platform and set platform gizmos to automatically release and retract Drones when available, just be aware that drones will destroy once the platform got destroyed. -->
+  <DMS_DronePlatform.helpText>La plataforma de control es una estación base fija que te permite gestionar los Drones de forma flexible. Puedes ordenar a tus colonos que carguen recursos consumibles en la plataforma y configurar los gizmos de la plataforma para liberar y retraer automáticamente los Drones cuando estén disponibles, solo ten en cuenta que los drones se destruirán si la plataforma es destruida.</DMS_DronePlatform.helpText>
+  
+  <!-- EN: Heavy weapon -->
+  <DMS_HeavyWeapon.label>Arma pesada</DMS_HeavyWeapon.label>
+  <!-- EN: Obviously you got a very heavy weapon. These weapons are not designed for direct use or even not useable by human, so you may need a person or equipped with exoskeleton or a dedicated mech to equip these kind of weapons. The specific equipment conditions can be checked in the weapon's infocard -->
+  <DMS_HeavyWeapon.helpText>Obviamente tienes un arma muy pesada. Estas armas no están diseñadas para uso directo o incluso no son utilizables por humanos, por lo que es posible que necesites una persona o estar equipado con un exoesqueleto o un meca dedicado para equipar este tipo de armas. Las condiciones específicas del equipo se pueden consultar en la tarjeta de información del arma.</DMS_HeavyWeapon.helpText>
+  
+  <!-- EN: Weapon system -->
+  <DMS_WeaponSystems.label>Sistema de armas</DMS_WeaponSystems.label>
+  <!-- EN: Apparently you'll be able to create mechs that can customize weapons. Note that these mechs usually have restrictions on the weapons that can be equipped. You can view all the weapons supported by the mech in the weapon system properties in the infocard. -->
+  <DMS_WeaponSystems.helpText>Aparentemente, podrás crear mecanoides que pueden personalizar armas. Ten en cuenta que estos mecanoides suelen tener restricciones sobre las armas que se pueden equipar. Puedes ver todas las armas compatibles con el meca en las propiedades del sistema de armas en la tarjeta de información.</DMS_WeaponSystems.helpText>
+  
+</LanguageData>

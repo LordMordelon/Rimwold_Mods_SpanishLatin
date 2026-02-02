@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Black Hole Shell -->
+  <GTbc_AmmoBox_BlackHoleShell.label>Proyectil de agujero negro</GTbc_AmmoBox_BlackHoleShell.label>
+  <!-- EN: A medium-sized rocket to deliver a charged gravcore to your enemies' doorstep. If applied correctly, it can erase half of the map. Place it near to the Singularity Cannon to be reloaded. -->
+  <GTbc_AmmoBox_BlackHoleShell.description>Un cohete de tamaño mediano para entregar un gravinúcleo cargado a la puerta de tus enemigos. Si se aplica correctamente, puede borrar la mitad del mapa. Colócalo cerca del cañón de singularidad para recargarlo.</GTbc_AmmoBox_BlackHoleShell.description>
+  
+  <!-- EN: Black Hole shell -->
+  <GTbc_BlackHoleShell.label>Proyectil de agujero negro</GTbc_BlackHoleShell.label>
+  
+  <!-- EN: grav crater -->
+  <GTbc_GravCrater.label>cráter gravitacional</GTbc_GravCrater.label>
+  <!-- EN: A giant crater caused by the impact of the Singularity Cannon. It looks like it's so big that nothing can be done with it. -->
+  <GTbc_GravCrater.description>Un cráter gigante causado por el impacto del cañón de singularidad. Parece tan grande que no se puede hacer nada con él.</GTbc_GravCrater.description>
+  
+  <!-- EN: grav crater -->
+  <GTbc_GravCraterBig.label>cráter gravitacional</GTbc_GravCraterBig.label>
+  <!-- EN: A giant crater caused by the impact of the Singularity Cannon. It looks like it's so big that nothing can be done with it. -->
+  <GTbc_GravCraterBig.description>Un cráter gigante causado por el impacto del cañón de singularidad. Parece tan grande que no se puede hacer nada con él.</GTbc_GravCraterBig.description>
+  
+  <!-- EN: grav crater -->
+  <GTbc_GravCraterSmall.label>cráter gravitacional</GTbc_GravCraterSmall.label>
+  <!-- EN: A giant crater caused by the impact of the Singularity Cannon. It looks like it's so big that nothing can be done with it. -->
+  <GTbc_GravCraterSmall.description>Un cráter gigante causado por el impacto del cañón de singularidad. Parece tan grande que no se puede hacer nada con él.</GTbc_GravCraterSmall.description>
+  
+  <!-- EN: The Singularity Cannon -->
+  <GTbc_Gun_TheSingularityCannon.label>cañón de singularidad</GTbc_Gun_TheSingularityCannon.label>
+  <!-- EN: A small, single-barrel electromagnetic cannon. -->
+  <GTbc_Gun_TheSingularityCannon.description>Un pequeño cañón electromagnético de un solo barril.</GTbc_Gun_TheSingularityCannon.description>
+  <!-- EN: The Singularity Cannon -->
+  <GTbc_Gun_TheSingularityCannon.verbs.Verb_ShootWithWorldTargeting.label>cañón de singularidad</GTbc_Gun_TheSingularityCannon.verbs.Verb_ShootWithWorldTargeting.label>
+  
+  <!-- EN: Black Hole shell -->
+  <GTbc_Rocket_TheSingularityCannon.label>proyectil de agujero negro</GTbc_Rocket_TheSingularityCannon.label>
+  
+  <!-- EN: The Singularity Cannon -->
+  <GTbc_TheSingularityCannon.label>cañón de singularidad</GTbc_TheSingularityCannon.label>
+  <!-- EN: A huge mechanism for charging and launching Black Hole shell. It constantly consumes a lot of power. Due to design features of the shell, it cannot shoot from the ground. Requires a linked targeting terminal with an operator to function.\n\n<color=#FF665B>WARNING:</color> This weapon has a large blast area and requires careful handling. Don't use it with automatic guidance systems unless you want to lose half of your ship.\nThe Cannon may refuse to fire if its minimum firing range intersects with the border of the current map. -->
+  <GTbc_TheSingularityCannon.description>Un mecanismo enorme para cargar y lanzar proyectiles de agujero negro. Consume constantemente mucha energía. Debido a las características de diseño del proyectil, no puede disparar desde el suelo. Requiere una terminal de puntería vinculada con un operador para funcionar.\n\n&lt;color=#FF665B&gt;ADVERTENCIA:&lt;/color&gt; Esta arma tiene una gran área de explosión y requiere un manejo cuidadoso. No la uses con sistemas de guía automática a menos que quieras perder la mitad de tu nave.\nEl Cañón puede negarse a disparar si su rango mínimo de disparo se cruza con el borde del mapa actual.</GTbc_TheSingularityCannon.description>
+  <!-- EN: Black Hole Shell -->
+  <GTbc_TheSingularityCannon.comps.CompRefuelable.fuelGizmoLabel>proyectil de agujero negro</GTbc_TheSingularityCannon.comps.CompRefuelable.fuelGizmoLabel>
+  <!-- EN: Black Hole Shell -->
+  <GTbc_TheSingularityCannon.comps.CompRefuelable.fuelLabel>proyectil de agujero negro</GTbc_TheSingularityCannon.comps.CompRefuelable.fuelLabel>
+    
+</LanguageData>

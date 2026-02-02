@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: AC compressor -->
+  <VTE_ACCompressor.label>compresor de AA</VTE_ACCompressor.label>
+  <!-- EN: An air conditioning compressor that needs to be connected to an AC control unit via air ducts. Can only be placed outside. When powered, it allows the AC network to operate two additional AC devices without losing efficiency. -->
+  <VTE_ACCompressor.description>Un compresor de aire acondicionado que necesita conectarse a una unidad de control de AA mediante conductos de aire. Solo puede colocarse en exteriores. Cuando recibe energía, permite que la red de AA opere dos dispositivos de AA adicionales sin perder eficiencia.</VTE_ACCompressor.description>
+  
+  <!-- EN: AC control unit -->
+  <VTE_ACControlUnit.label>unidad de control de AA</VTE_ACControlUnit.label>
+  <!-- EN: A main air conditioning control unit. Connects to compressors to allow AC units to generate cool or hot air. Needs to be connected to compressors by air ducts. AC control unit dictates the desired temperature for all AC units in the same network. Installing too many AC units may decrease the efficiency of the network, increasing the power drain of all devices. Constructing additional compressors will improve the efficiency of the network. -->
+  <VTE_ACControlUnit.description>Una unidad de control principal de aire acondicionado. Se conecta a compresores para permitir que las unidades de AA generen aire frío o caliente. Necesita conectarse a compresores mediante conductos de aire. La unidad de control de AA dicta la temperatura deseada para todas las unidades de AA en la misma red. Instalar demasiadas unidades de AA puede disminuir la eficiencia de la red, aumentando el consumo de energía de todos los dispositivos. Construir compresores adicionales mejorará la eficiencia de la red.</VTE_ACControlUnit.description>
+  
+  <!-- EN: AC unit -->
+  <VTE_ACUnit.label>unidad de AA</VTE_ACUnit.label>
+  <!-- EN: An air-conditioning machine that fits into a wall. Emits either cool or warm air in the same direction, depending on the current temperature of the room. Unless unlinked from the network settings, it will aim to achieve the temperature specified in the AC control unit. Needs to be connected to the AC control unit via air ducts. -->
+  <VTE_ACUnit.description>Una máquina de aire acondicionado que se instala en una pared. Emite aire frío o caliente en la misma dirección, dependiendo de la temperatura actual de la habitación. A menos que se desvincule de la configuración de la red, intentará alcanzar la temperatura especificada en la unidad de control de AA. Necesita conectarse a la unidad de control de AA mediante conductos de aire.</VTE_ACUnit.description>
+  
+  <!-- EN: wall-mounted AC unit -->
+  <VTE_ACUnitWall.label>unidad de AA de pared</VTE_ACUnitWall.label>
+  <!-- EN: A wall-mounted air-conditioning machine. Emits either cool or warm air in the same direction, depending on the current temperature of the room. Unless unlinked from the network settings, it will aim to achieve the temperature specified in the AC control unit. Needs to be connected to the AC control unit via air ducts. Can only be constructed on a wall. -->
+  <VTE_ACUnitWall.description>Una máquina de aire acondicionado montada en la pared. Emite aire frío o caliente en la misma dirección, dependiendo de la temperatura actual de la habitación. A menos que se desvincule de la configuración de la red, intentará alcanzar la temperatura especificada en la unidad de control de AA. Necesita conectarse a la unidad de control de AA mediante conductos de aire. Solo se puede construir en una pared.</VTE_ACUnitWall.description>
+  
+  <!-- EN: air duct -->
+  <VTE_AirDuct.label>conducto de aire</VTE_AirDuct.label>
+  <!-- EN: An air duct used by the AC network to transport air between the AC units and compressors. -->
+  <VTE_AirDuct.description>Un conducto de aire utilizado por la red de AA para transportar aire entre las unidades de AA y los compresores.</VTE_AirDuct.description>
+  
+  <!-- EN: large AC compressor -->
+  <VTE_LargeACCompressor.label>compresor de AA grande</VTE_LargeACCompressor.label>
+  <!-- EN: A large air conditioning compressor that needs to be connected to an AC control unit via air ducts. Can only be placed outside. When powered, it allows the AC network to operate six additional AC devices without losing efficiency. -->
+  <VTE_LargeACCompressor.description>Un compresor de aire acondicionado grande que necesita conectarse a una unidad de control de AA mediante conductos de aire. Solo puede colocarse en exteriores. Cuando recibe energía, permite que la red de AA opere seis dispositivos de AA adicionales sin perder eficiencia.</VTE_LargeACCompressor.description>
+  
+  <!-- EN: subterranean air duct -->
+  <VTE_UndergroundAirDuct.label>conducto de aire subterráneo</VTE_UndergroundAirDuct.label>
+  <!-- EN: A subterranean air duct used by the AC network to transport air between the AC units and compressors. -->
+  <VTE_UndergroundAirDuct.description>Un conducto de aire subterráneo utilizado por la red de AA para transportar aire entre las unidades de AA y los compresores.</VTE_UndergroundAirDuct.description>
+  
+  <!-- EN: air duct valve -->
+  <VTE_VentValve.label>válvula de conducto de aire</VTE_VentValve.label>
+  <!-- EN: Switches air flow on/off. -->
+  <VTE_VentValve.description>Activa o desactiva el flujo de aire.</VTE_VentValve.description>
+  
+</LanguageData>

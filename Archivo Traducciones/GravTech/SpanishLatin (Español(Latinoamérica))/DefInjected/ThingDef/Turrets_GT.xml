@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: bullet Grav blast -->
+  <Bullet_GravBlastTurret.label>bala de graviexplosión</Bullet_GravBlastTurret.label>
+  
+  <!-- EN: beam repeater turret -->
+  <Gun_BeamRepeaterTurret.label>torreta repetidora de rayos</Gun_BeamRepeaterTurret.label>
+  <!-- EN: An ultratech weapon that emits gamma ray laser bursts in a rapid sequence. The tight gamma beams can pierce shields. -->
+  <Gun_BeamRepeaterTurret.description>Un arma ultratecnológica que emite ráfagas de láser de rayos gamma en una secuencia rápida. Los haces de rayos gamma concentrados pueden atravesar escudos.</Gun_BeamRepeaterTurret.description>
+  <!-- EN: beam repeater turret -->
+  <Gun_BeamRepeaterTurret.verbs.Verb_Shoot.label>torreta repetidora de rayos</Gun_BeamRepeaterTurret.verbs.Verb_Shoot.label>
+  
+  <!-- EN: Heavy grav blaster -->
+  <Gun_GravBlasterTurret.label>gravibláster pesado</Gun_GravBlasterTurret.label>
+  <!-- EN: Heavy version of the grav blaster for mounting on the turret base. -->
+  <Gun_GravBlasterTurret.description>Versión pesada del gravibláster para montar en la base de la torreta.</Gun_GravBlasterTurret.description>
+  <!-- EN: Heavy grav blaster -->
+  <Gun_GravBlasterTurret.verbs.Verb_Shoot.label>gravibláster pesado</Gun_GravBlasterTurret.verbs.Verb_Shoot.label>
+  
+  <!-- EN: IED gravcore trap -->
+  <TrapIED_Gravcore.label>trampa IED de gravinúcleo</TrapIED_Gravcore.label>
+  <!-- EN: A Gravcore loaded with EMP shells, connected to a trigger which detonates on touch or bullet impact. When activated, a gravitational wave is released in a large area. Since it is hidden in the surrounding terrain, it cannot be placed adjacent to other traps. Animals can sense these when calm.\n\nThe Gravcore is preserved after explosion. -->
+  <TrapIED_Gravcore.description>Un gravinúcleo cargado con proyectiles PEM, conectado a un disparador que detona al contacto o impacto de bala. Cuando se activa, se libera una onda gravitacional en un área grande. Dado que está oculto en el terreno circundante, no se puede colocar adyacente a otras trampas. Los animales pueden sentirlas cuando están tranquilos.\n\nEl gravinúcleo se conserva después de la explosión.</TrapIED_Gravcore.description>
+  
+  <!-- EN: beam repeater turret -->
+  <Turret_BeamRepeater.label>torreta repetidora de rayos</Turret_BeamRepeater.label>
+  <!-- EN: A medium-powered turret with a beam repeater. Don't need refill. -->
+  <Turret_BeamRepeater.description>Una torreta de potencia media con un repetidor de rayos. No necesita recarga.</Turret_BeamRepeater.description>
+  
+  <!-- EN: grav blaster turret -->
+  <Turret_GravBlaster.label>torreta gravibláster</Turret_GravBlaster.label>
+  <!-- EN: A high-powered turret with a grav blaster. It cannot sense targets at close ranges. Refilling with gravlite panels. -->
+  <Turret_GravBlaster.description>Una torreta de alta potencia con un gravibláster. No puede detectar objetivos a distancias cortas. Se recarga con paneles de gravilita.</Turret_GravBlaster.description>
+  <!-- EN: Still have gravlite -->
+  <Turret_GravBlaster.comps.CompRefuelable.fuelGizmoLabel>Aún tiene gravilita</Turret_GravBlaster.comps.CompRefuelable.fuelGizmoLabel>
+  <!-- EN: Shots until gravlite panels will be used up -->
+  <Turret_GravBlaster.comps.CompRefuelable.fuelLabel>Disparos hasta que se agoten los paneles de gravilita</Turret_GravBlaster.comps.CompRefuelable.fuelLabel>
+  <!-- EN: Needs more gravlite -->
+  <Turret_GravBlaster.comps.CompRefuelable.outOfFuelMessage>Necesita más gravilita</Turret_GravBlaster.comps.CompRefuelable.outOfFuelMessage>
+  
+</LanguageData>

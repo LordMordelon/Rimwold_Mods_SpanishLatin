@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: gene infector -->
+  <VRE_GeneInfector.label>infector genético</VRE_GeneInfector.label>
+  <!-- EN: Carriers of this gene implant a copy of their xenogerm into another person through attacks with their claws or teeth. This in turn triggers a progressing infection in the victim, which if left untreated will apply the carrier’s xenogerm to them. -->
+  <VRE_GeneInfector.description>Los portadores de este gen implantan una copia de su xenogermen en otra persona a través de ataques con sus garras o dientes. Esto a su vez desencadena una infección progresiva en la víctima, que si no se trata, le aplicará el xenogermen del portador.</VRE_GeneInfector.description>
+  <!-- EN: Won't affect anyone who already has this gene. -->
+  <VRE_GeneInfector.customEffectDescriptions.0>No afectará a nadie que ya tenga este gen.</VRE_GeneInfector.customEffectDescriptions.0>
+  <!-- EN: The gene infector will only transmit xenogenes. Endogenes will not be transmitted. -->
+  <VRE_GeneInfector.customEffectDescriptions.1>El infector genético solo transmitirá xenogenes. Los endogenes no se transmitirán.</VRE_GeneInfector.customEffectDescriptions.1>
+  
+  <!-- EN: mind coalescence -->
+  <VRE_MindCoalescence.label>coalescencia mental</VRE_MindCoalescence.label>
+  <!-- EN: Carriers of this gene have a psychic connection to other carriers, allowing them to share some of the emotions with them. A portion of average happiness gets shared with mind coalescent individuals. Due to that, they also all share mental states and suffer them at the same time. -->
+  <VRE_MindCoalescence.description>Los portadores de este gen tienen una conexión psíquica con otros portadores, lo que les permite compartir algunas de las emociones con ellos. Una parte de la felicidad promedio se comparte con los individuos de coalescencia mental. Debido a eso, también comparten estados mentales y los sufren al mismo tiempo.</VRE_MindCoalescence.description>
+  <!-- EN: This effect is updated twice a day ingame, to avoid lag. -->
+  <VRE_MindCoalescence.customEffectDescriptions.0>Este efecto se actualiza dos veces al día en el juego, para evitar lag.</VRE_MindCoalescence.customEffectDescriptions.0>
+  <!-- EN: coalescent -->
+  <VRE_MindCoalescence.labelShortAdj>coalescente</VRE_MindCoalescence.labelShortAdj>
+  
+</LanguageData>

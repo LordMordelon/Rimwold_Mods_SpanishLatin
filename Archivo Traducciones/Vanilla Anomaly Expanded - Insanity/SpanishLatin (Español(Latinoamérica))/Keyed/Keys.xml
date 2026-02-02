@@ -1,0 +1,152 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<!-- EN: Sanity -->
+  <VAEI_Sanity>Cordura</VAEI_Sanity>
+	<!-- EN: {PAWN_nameDef}’s sanity has been tested by recent events. The sanity level of your colonists can now be seen on the Needs tab. -->
+  <VAEI_SanityLetterDesc>La cordura de {PAWN_nameDef} ha sido puesta a prueba por eventos recientes. El nivel de cordura de tus colonos ahora se puede ver en la pestaña de Necesidades.</VAEI_SanityLetterDesc>
+	<!-- EN: {PAWN_nameDef} has lost sanity due to {0}. {PAWN_nameDef}’s sanity is now {1} -->
+  <VAEI_SanityLossMessage>{PAWN_nameDef} ha perdido cordura debido a {0}. La cordura de {PAWN_nameDef} es ahora {1}</VAEI_SanityLossMessage>
+	<!-- EN: {PAWN_nameDef} has gained sanity due to {0}. {PAWN_nameDef}’s sanity is now {1} -->
+  <VAEI_SanityGainMessage>{PAWN_nameDef} ha ganado cordura debido a {0}. La cordura de {PAWN_nameDef} es ahora {1}</VAEI_SanityGainMessage>
+	<!-- EN: Passive effects: -->
+  <VAEI_PassiveEffects>Efectos pasivos:</VAEI_PassiveEffects>
+	<!-- EN: Most recent effects: -->
+  <VAEI_MostRecentEvents>Efectos más recientes:</VAEI_MostRecentEvents>
+	<!-- EN: Passive sanity gain: {0} - {1} -->
+  <VAEI_PassiveSanityGain>Ganancia pasiva de cordura: {0} - {1}</VAEI_PassiveSanityGain>
+	<!-- EN: Studying {0} -->
+  <VEAI_AnomalyStudy>Estudiando {0}</VEAI_AnomalyStudy>
+	<!-- EN: Eating twisted meat -->
+  <VEAI_EatingTwistedMeat>Comiendo carne retorcida</VEAI_EatingTwistedMeat>
+	<!-- EN: Eating twisted meat as food ingredient -->
+  <VEAI_EatingTwistedMeatAsIngredient>Comiendo carne retorcida como ingrediente</VEAI_EatingTwistedMeatAsIngredient>
+	<!-- EN: Suppressing {0} -->
+  <VAEI_SuppressingEntity>Suprimiendo {0}</VAEI_SuppressingEntity>
+	<!-- EN: Occult teaching by {PAWN_nameDef} -->
+  <VAEI_OccultTeaching>Enseñanza oculta por {PAWN_nameDef}</VAEI_OccultTeaching>
+	<!-- EN: {0} ago: {1}: {2} -->
+  <VAEI_SanityRecord>hace {0}: {1}: {2}</VAEI_SanityRecord>
+	<!-- EN: Disturbing {0} from {PAWN_nameDef} -->
+  <VAEI_DisturbingInteraction>Perturbación por {0} de {PAWN_nameDef}</VAEI_DisturbingInteraction>
+	<!-- EN: {0} from {PAWN_nameDef} -->
+  <VAEI_Interaction>{0} de {PAWN_nameDef}</VAEI_Interaction>
+	<!-- EN: Sanity gain per day: {0} -->
+  <VAEI_StatsReport_SanityGainPerDay>Ganancia de cordura por día: {0}</VAEI_StatsReport_SanityGainPerDay>
+	<!-- EN: Low sanity -->
+  <VAEI_LowSanity>Cordura baja</VAEI_LowSanity>
+	<!-- EN: High sanity -->
+  <VAEI_HighSanity>Cordura alta</VAEI_HighSanity>
+	<!-- EN: Anomalous body part ({0}) -->
+  <VAEI_AnomalyBodypart>Parte del cuerpo anómala ({0})</VAEI_AnomalyBodypart>
+	<!-- EN: Being in labyrinth -->
+  <VAEI_BeingInLabyrinth>Estando en el laberinto</VAEI_BeingInLabyrinth>
+	<!-- EN: Being in the darkness -->
+  <VAEI_BeingInUnnaturalDarkness>Estando en la oscuridad</VAEI_BeingInUnnaturalDarkness>
+	<!-- EN: Unnatural corpse -->
+  <VAEI_UnnaturalCorpse>Cadáver antinatural</VAEI_UnnaturalCorpse>
+	<!-- EN: {0} ritual invocation -->
+  <VAEI_InvokerEffect>Invocación del ritual {0}</VAEI_InvokerEffect>
+	<!-- EN: Targeted by {0} ritual -->
+  <VAEI_TargetEffect>Objetivo del ritual {0}</VAEI_TargetEffect>
+	<!-- EN: Chanting during {0} ritual -->
+  <VAEI_ChanterEffect>Cánticos durante el ritual {0}</VAEI_ChanterEffect>
+	<!-- EN: Being duplicated -->
+  <VAEI_BeingDuplicated>Siendo duplicado</VAEI_BeingDuplicated>
+	<!-- EN: Using {0} -->
+  <VAEI_UsingThing>Usando {0}</VAEI_UsingThing>
+	<!-- EN: Killing {0} -->
+  <VAEI_KillingThing>Matando a {0}</VAEI_KillingThing>
+	<!-- EN: Reading tome -->
+  <VAEI_ReadingTome>Leyendo tomo</VAEI_ReadingTome>
+	<!-- EN: the Nociosphere being killed -->
+  <VAEI_WeKilledNociosphere>la muerte de la Nocioesfera</VAEI_WeKilledNociosphere>
+	<!-- EN: the pit gate collapsing -->
+  <VAEI_PitgateCollapsed>el colapso del pozo</VAEI_PitgateCollapsed>
+	<!-- EN: Attending {0} -->
+  <VAEI_Attending>Asistiendo a {0}</VAEI_Attending>
+	<!-- EN: Meditating -->
+  <VAEI_Meditating>Meditando</VAEI_Meditating>
+	<!-- EN: the Void closing -->
+  <VAEI_VoidClosing>el cierre del Vacío</VAEI_VoidClosing>
+	<!-- EN: It occurred due to sanity loss to 0%. -->
+  <VAEI_SanityLoss>Ocurrió debido a la pérdida de cordura al 0%.</VAEI_SanityLoss>
+	<!-- EN: Inhumanized: {PAWN_nameDef} -->
+  <VAEI_Inhumanized>Deshumanizado: {PAWN_nameDef}</VAEI_Inhumanized>
+	<!-- EN: {PAWN_nameDef}’s connection to humanity is broken. {PAWN_possessive} transformation has left {PAWN_objective} detached from human sensibilities, no longer swayed by pain or social interactions, and indifferent to the aesthetics of beauty and the outdoors. {PAWN_possessive} mind, now attuned to the void, disregards most emotions, finding solace in void meditation and a mysterious, unyielding joy that permeates {PAWN_possessive} existence.\n\n{PAWN_pronoun} has gained the inhumanized trait.\n\nThough drastically altered, {PAWN_nameDef} is still part of your faction, just disconnected from the typical human experiences. -->
+  <VAEI_InhumanizedDesc>La conexión de {PAWN_nameDef} con la humanidad se ha roto. Su transformación le ha dejado desconectado de las sensibilidades humanas, ya no le afectan el dolor ni las interacciones sociales, y es indiferente a la estética de la belleza y el aire libre. Su mente, ahora sintonizada con el vacío, ignora la mayoría de las emociones, encontrando consuelo en la meditación del vacío y una alegría misteriosa e inquebrantable que impregna su existencia.\n\nHa ganado el rasgo deshumanizado.\n\nAunque drásticamente alterado, {PAWN_nameDef} sigue siendo parte de tu facción, solo que desconectado de las experiencias humanas típicas.</VAEI_InhumanizedDesc>
+	<!-- EN: Recovered: {PAWN_nameDef} -->
+  <VAEI_Recovered>Recuperado: {PAWN_nameDef}</VAEI_Recovered>
+	<!-- EN: {PAWN_nameDef} has emerged from the depths of madness, experiencing a catharsis that has restored a measure of sanity to {PAWN_possessive} mind. The suffocating grip of the void that once dominated {PAWN_possessive} thoughts has loosened, granting {PAWN_possessive} a fragile peace. Though the journey back to full sanity will be lengthy, {PAWN_pronoun} has regained crucial aspects of {PAWN_possessive} mental clarity.\n\n{PAWN_pronoun} has begun the slow process of recovery, and did not become inhumanized on this occasion. -->
+  <VAEI_RecoveredDesc>{PAWN_nameDef} ha emergido de las profundidades de la locura, experimentando una catarsis que ha restaurado una medida de cordura en su mente. El agarre sofocante del vacío que una vez dominó sus pensamientos se ha aflojado, otorgándole una paz frágil. Aunque el viaje de regreso a la cordura total será largo, ha recuperado aspectos cruciales de su claridad mental.\n\nHa comenzado el lento proceso de recuperación y no se deshumanizó en esta ocasión.</VAEI_RecoveredDesc>
+	<!-- EN: Recovering from madness -->
+  <VEAI_RecoveringFromMadness>Recuperándose de la locura</VEAI_RecoveringFromMadness>
+	<!-- EN: Sacrificial: {PAWN_nameDef} -->
+  <VAEI_Sacrificial>Sacrificio: {PAWN_nameDef}</VAEI_Sacrificial>
+	<!-- EN: {PAWN_nameDef}'s connection to humanity is broken. {PAWN_possessive} transformation has left {PAWN_objective} detached from human sensibilities, no longer swayed by pain or social interactions, and indifferent to the aesthetics of beauty and the outdoors. {PAWN_possessive} mind, now attuned to the void, disregards most emotions, finding solace in void meditation and a mysterious, unyielding joy that permeates {PAWN_possessive} existence. Compelled by the dark calling, {PAWN_possessive} is now driven to end {PAWN_possessive} existence in a final act of sacrifice to the void.\n\n{PAWN_pronoun} has gained the inhumanized trait.\n\n{PAWN_nameDef} is now set on a path of self-destruction and will attempt to end {PAWN_possessive} existence, however {PAWN_pronoun} can still be restrained and stopped if you arrest them in time. -->
+  <VAEI_SacrificialDesc>La conexión de {PAWN_nameDef} con la humanidad se ha roto. Su transformación le ha dejado desconectado de las sensibilidades humanas, ya no le afectan el dolor ni las interacciones sociales, y es indiferente a la estética de la belleza y el aire libre. Su mente, ahora sintonizada con el vacío, ignora la mayoría de las emociones, encontrando consuelo en la meditación del vacío y una alegría misteriosa e inquebrantable que impregna su existencia. Impulsado por la llamada oscura, ahora se ve obligado a terminar su existencia en un acto final de sacrificio al vacío.\n\nHa ganado el rasgo deshumanizado.\n\n{PAWN_nameDef} ahora está en un camino de autodestrucción e intentará terminar su existencia, sin embargo, todavía puede ser restringido y detenido si lo arrestas a tiempo.</VAEI_SacrificialDesc>
+	<!-- EN: Enable self-harm content (sacrificial mental state, self harm interaction) -->
+  <VAEI_EnableSelfHarmContent>Habilitar contenido de autolesión (estado mental de sacrificio, interacción de autolesión)</VAEI_EnableSelfHarmContent>
+	<!-- EN: VAE - Insanity -->
+  <VAEI_ModSettingsName>VAE - Insanity</VAEI_ModSettingsName>
+	<!-- EN: Sanity ({0}): {1} -->
+  <VAEI_SanityFactorExplanation>Cordura ({0}): {1}</VAEI_SanityFactorExplanation>
+	<!-- EN: Sanity ({0}): {1} -->
+  <VAEI_SanityOffsetExplanation>Cordura ({0}): {1}</VAEI_SanityOffsetExplanation>
+	<!-- EN: Observing void drawings -->
+  <VAEI_ObservingVoidDrawings>Observando dibujos del vacío</VAEI_ObservingVoidDrawings>
+	<!-- EN: Wearing {0} -->
+  <VAEI_Wearing>Usando {0}</VAEI_Wearing>
+	<!-- EN: Rehumanized: {PAWN_nameDef} -->
+  <VAEI_Rehumanized>Rehumanizado: {PAWN_nameDef}</VAEI_Rehumanized>
+	<!-- EN: Because {PAWN_nameDef} regained {PAWN_possessive} sanity, {PAWN_pronoun} became rehumanized. {PAWN_objective} Inhumanized trait has been replaced with {0}.
+
+{1}
+
+{PAWN_nameDef} will unfortunately remain forever prone to losing {PAWN_possessive} mind once again, even more so than others. Any negative effects on sanity will be doubled, which might cause {PAWN_nameDef} to become inhumanized again. -->
+  <VAEI_RehumanizedDesc>Debido a que {PAWN_nameDef} recuperó su cordura, se ha rehumanizado. Su rasgo Deshumanizado ha sido reemplazado por {0}.\n\n{1}\n\nDesafortunadamente, {PAWN_nameDef} seguirá siendo propenso para siempre a perder la cabeza una vez más, incluso más que otros. Cualquier efecto negativo en la cordura se duplicará, lo que podría causar que {PAWN_nameDef} se deshumanice nuevamente.</VAEI_RehumanizedDesc>
+	<!-- EN: Sanity loss/gain effects: -->
+  <VAEI_SanityLossEffects>Efectos de pérdida/ganancia de cordura:</VAEI_SanityLossEffects>
+	<!-- EN: Suppressing entities (sanity per day): -->
+  <VAEI_SuppressingEntities>Suprimiendo entidades (cordura por día):</VAEI_SuppressingEntities>
+	<!-- EN: Studying entities: -->
+  <VAEI_StudyingEntities>Estudiando entidades:</VAEI_StudyingEntities>
+	<!-- EN: Killing entities: -->
+  <VAEI_KillingEntities>Matando entidades:</VAEI_KillingEntities>
+	<!-- EN: Disturbing initiator interactions: -->
+  <VAEI_DisturbingInitiatorEffects>Interacciones de iniciador perturbadoras:</VAEI_DisturbingInitiatorEffects>
+	<!-- EN: Interactions: -->
+  <VAEI_InteractionEffects>Interacciones:</VAEI_InteractionEffects>
+	<!-- EN: Non-disturbing initiator interactions: -->
+  <VAEI_NonDisturbingInitiatorEffects>Interacciones de iniciador no perturbadoras:</VAEI_NonDisturbingInitiatorEffects>
+	<!-- EN: Having health conditions (sanity per day): -->
+  <VAEI_HediffEffects>Teniendo condiciones de salud (cordura por día):</VAEI_HediffEffects>
+	<!-- EN: Using things: -->
+  <VAEI_UsedThingsEffects>Usando cosas:</VAEI_UsedThingsEffects>
+	<!-- EN: Participating in rituals: -->
+  <VAEI_RitualEffects>Participando en rituales:</VAEI_RitualEffects>
+	<!-- EN: Psychic ritual (invoker): -->
+  <VAEI_InvokerEffects>Ritual psíquico (invocador):</VAEI_InvokerEffects>
+	<!-- EN: Psychic ritual (target): -->
+  <VAEI_TargetEffects>Ritual psíquico (objetivo):</VAEI_TargetEffects>
+	<!-- EN: Psychic ritual (chanter): -->
+  <VAEI_ChanterEffects>Ritual psíquico (cantor):</VAEI_ChanterEffects>
+	<!-- EN: Marriage ceremony -->
+  <VAEI_MarriageCeremony>Ceremonia de matrimonio</VAEI_MarriageCeremony>
+	<!-- EN: Partying -->
+  <VAEI_Party>Festejando</VAEI_Party>
+	<!-- EN: General -->
+  <VAEI_General>General</VAEI_General>
+	<!-- EN: Shambler -->
+  <VAEI_KillingShambler>Tambaleante</VAEI_KillingShambler>
+	<!-- EN: Nociosphere -->
+  <VAEI_KillingNociosphere>Nocioesfera</VAEI_KillingNociosphere>
+	<!-- EN: Performing jobs (sanity per day): -->
+  <VAEI_PerformingJobs>Realizando trabajos (cordura por día):</VAEI_PerformingJobs>
+	<!-- EN: Pit gate collapsing -->
+  <VAEI_PitGateCollapsing>Colapso del pozo</VAEI_PitGateCollapsing>
+	<!-- EN: Recovering from madness -->
+  <VAEI_RecoveringFromMadness>Recuperándose de la locura</VAEI_RecoveringFromMadness>
+	<!-- EN: Passive effects (sanity per day): -->
+  <VAEI_PassiveEffectsPerDay>Efectos pasivos (cordura por día):</VAEI_PassiveEffectsPerDay>
+</LanguageData>

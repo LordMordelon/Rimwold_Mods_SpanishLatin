@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: MendAndRecycle -->
+  <MendRecycle>MendAndRecycle</MendRecycle>
+  
+  <!-- Settings -->
+  <!-- EN: Removes Deadman from Apparel -->
+  <MendRecycle.RemovesDeadman>Eliminar marca "De muerto"</MendRecycle.RemovesDeadman>
+  <!-- EN: Does fully fixing an apparel in the mending table remove the deadman tag? -->
+  <MendRecycle.RemovesDeadmanTooltip>¿Reparar por completo una prenda en la mesa de reparación elimina la marca "de muerto"?</MendRecycle.RemovesDeadmanTooltip>
+  <!-- EN: Uses Mending Table -->
+  <MendRecycle.UseTableMending>Usar mesa de reparación</MendRecycle.UseTableMending>
+  <!-- EN: Does it use the mending table? (Needs restart) -->
+  <MendRecycle.UseTableMendingTooltip>¿Habilitar la mesa de reparación? (Requiere reiniciar)</MendRecycle.UseTableMendingTooltip>
+  <!-- EN: Requires Fuel -->
+  <MendRecycle.RequiresFuel>Requiere combustible</MendRecycle.RequiresFuel>
+  <!-- EN: Does the mending table need mending kits? (Needs restart) -->
+  <MendRecycle.RequiresFuelTooltip>¿La mesa de reparación necesita kits de reparación? (Requiere reiniciar)</MendRecycle.RequiresFuelTooltip>
+  <!-- EN: Requires Power -->
+  <MendRecycle.RequiresPower>Requiere energía</MendRecycle.RequiresPower>
+  <!-- EN: Does the mending table require power? (Needs restart) -->
+  <MendRecycle.RequiresPowerTooltip>¿La mesa de reparación requiere energía? (Requiere reiniciar)</MendRecycle.RequiresPowerTooltip>
+  
+  <!-- EN: Percentage of Max Hit Points in play -->
+  <MendRecycle.MaxHPCost>Porcentaje de Puntos de Vida máximos a considerar</MendRecycle.MaxHPCost>
+  <!-- EN: Fail Chance per Tech Level -->
+  <MendRecycle.FailChances>Probabilidad de fallo por Nivel Tecnológico</MendRecycle.FailChances>  
+</LanguageData>

@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: fuel spew -->
+  <VFEI2_ChemfuelSpew.label>vómito combustible</VFEI2_ChemfuelSpew.label>
+  <!-- EN: Discharge a stream of liquid chemfuel from the mouth. This liquid, when released, can coat any object or individual it contacts, without igniting or causing immediate combustion. The chemfuel is synthesized and stored within a specialized organ in the neck area. -->
+  <VFEI2_ChemfuelSpew.description>Descarga un chorro de quimbustible líquido por la boca. Este líquido, al ser liberado, puede cubrir cualquier objeto o individuo con el que entre en contacto, sin encenderse ni causar combustión inmediata. El quimbustible se sintetiza y almacena dentro de un órgano especializado en el área del cuello.</VFEI2_ChemfuelSpew.description>
+  
+  <!-- EN: chemfuel spit -->
+  <VFEI2_ChemfuelSpit.label>escupitajo de quimbustible</VFEI2_ChemfuelSpit.label>
+  <!-- EN: Titantick vomits a giant blob of burning chemfuel over a large distance. -->
+  <VFEI2_ChemfuelSpit.description>La titagarrapata vomita una mancha gigante de quimbustible ardiente a gran distancia.</VFEI2_ChemfuelSpit.description>
+  
+  <!-- EN: create large burrow -->
+  <VFEI2_CreateLargeBurrow.label>crear madriguera grande</VFEI2_CreateLargeBurrow.label>
+  <!-- EN: Patriarch emits vibrations that cause the royal caste of insects to dig to the surface, creating a large burrow. -->
+  <VFEI2_CreateLargeBurrow.description>El patriarca emite vibraciones que hacen que la casta real de insectos cave hacia la superficie, creando una madriguera grande.</VFEI2_CreateLargeBurrow.description>
+  
+  <!-- EN: create burrow -->
+  <VFEI2_CreateMediumBurrow.label>crear madriguera</VFEI2_CreateMediumBurrow.label>
+  <!-- EN: Patriarch emits vibrations that cause the royal caste of insects to dig to the surface, creating a medium burrow. -->
+  <VFEI2_CreateMediumBurrow.description>El patriarca emite vibraciones que hacen que la casta real de insectos cave hacia la superficie, creando una madriguera mediana.</VFEI2_CreateMediumBurrow.description>
+  
+  <!-- EN: create small burrow -->
+  <VFEI2_CreateSmallBurrow.label>crear madriguera pequeña</VFEI2_CreateSmallBurrow.label>
+  <!-- EN: Patriarch emits vibrations that cause the royal caste of insects to dig to the surface, creating a small burrow. -->
+  <VFEI2_CreateSmallBurrow.description>El patriarca emite vibraciones que hacen que la casta real de insectos cave hacia la superficie, creando una madriguera pequeña.</VFEI2_CreateSmallBurrow.description>
+  
+  <!-- EN: flame spew -->
+  <VFEI2_FlameSpew.label>vómito de llamas</VFEI2_FlameSpew.label>
+  <!-- EN: Eject a flow of adhesive, combustible fluid from the oral cavity. This fluid, upon contact, can set ablaze any target or create burning patches upon surfaces. It is produced and held within a gland located in the throat, accompanied by a distinct sac filled with a spontaneously igniting chemical, ensuring immediate combustion upon expulsion. -->
+  <VFEI2_FlameSpew.description>Expulsa un flujo de fluido adhesivo y combustible desde la cavidad oral. Este fluido, al contacto, puede incendiar cualquier objetivo o crear parches ardientes sobre las superficies. Se produce y mantiene dentro de una glándula ubicada en la garganta, acompañada de un saco distinto lleno de un químico que se enciende espontáneamente, asegurando la combustión inmediata tras la expulsión.</VFEI2_FlameSpew.description>
+  
+  <!-- EN: insect acid spew -->
+  <VFEI2_InsectAcidSpew.label>vómito de ácido de insecto</VFEI2_InsectAcidSpew.label>
+  <!-- EN: Insectoid sprays a sticky acid substance from glands in the neck up all over the target area. The acid will stick to targets and burn them. -->
+  <VFEI2_InsectAcidSpew.description>El insectoide rocía una sustancia ácida pegajosa desde las glándulas del cuello sobre toda el área objetivo. El ácido se adherirá a los objetivos y los quemará.</VFEI2_InsectAcidSpew.description>
+  
+  <!-- EN: insect acid spit -->
+  <VFEI2_InsectAcidSpit.label>escupitajo de ácido de insecto</VFEI2_InsectAcidSpit.label>
+  <!-- EN: Insectoid sprays a sticky acid substance from glands in the neck up all over the target area. The acid will stick to targets and burn them. -->
+  <VFEI2_InsectAcidSpit.description>El insectoide rocía una sustancia ácida pegajosa desde las glándulas del cuello sobre toda el área objetivo. El ácido se adherirá a los objetivos y los quemará.</VFEI2_InsectAcidSpit.description>
+  
+  <!-- EN: insect farglide -->
+  <VFEI2_InsectGlide_Far.label>planeo lejano de insecto</VFEI2_InsectGlide_Far.label>
+  <!-- EN: Insectoid does a wing-assisted jump to a very distant location using strong hind legs. -->
+  <VFEI2_InsectGlide_Far.description>El insectoide realiza un salto asistido por alas a una ubicación muy distante usando fuertes patas traseras.</VFEI2_InsectGlide_Far.description>
+  <!-- EN: insect farglide -->
+  <VFEI2_InsectGlide_Far.verbProperties.label>planeo lejano de insecto</VFEI2_InsectGlide_Far.verbProperties.label>
+  
+  <!-- EN: insect glide -->
+  <VFEI2_InsectGlide_Medium.label>planeo de insecto</VFEI2_InsectGlide_Medium.label>
+  <!-- EN: Insectoid does a wing-assisted jump to a location using strong hind legs. -->
+  <VFEI2_InsectGlide_Medium.description>El insectoide realiza un salto asistido por alas a una ubicación usando fuertes patas traseras.</VFEI2_InsectGlide_Medium.description>
+  <!-- EN: insect glide -->
+  <VFEI2_InsectGlide_Medium.verbProperties.label>planeo de insecto</VFEI2_InsectGlide_Medium.verbProperties.label>
+  
+  <!-- EN: insect shortglide -->
+  <VFEI2_InsectGlide_Short.label>planeo corto de insecto</VFEI2_InsectGlide_Short.label>
+  <!-- EN: Insectoid does a wing-assisted jump to a close location using strong hind legs. -->
+  <VFEI2_InsectGlide_Short.description>El insectoide realiza un salto asistido por alas a una ubicación cercana usando fuertes patas traseras.</VFEI2_InsectGlide_Short.description>
+  <!-- EN: insect shortglide -->
+  <VFEI2_InsectGlide_Short.verbProperties.label>planeo corto de insecto</VFEI2_InsectGlide_Short.verbProperties.label>
+  
+  <!-- EN: large acid spew -->
+  <VFEI2_LargeAcidSpew.label>vómito de ácido grande</VFEI2_LargeAcidSpew.label>
+  <!-- EN: Insectoid sprays a sticky acid substance from glands in the neck up through the mouth and all over the target area. The acid deals damage over time. -->
+  <VFEI2_LargeAcidSpew.description>El insectoide rocía una sustancia ácida pegajosa desde las glándulas del cuello a través de la boca y sobre toda el área objetivo. El ácido inflige daño con el tiempo.</VFEI2_LargeAcidSpew.description>
+  
+  <!-- EN: breacher charge -->
+  <VFEI2_WideTunnels.label>carga de brechador</VFEI2_WideTunnels.label>
+  <!-- EN: Insectoid charges towards the target, dealing significant damage to anything on the path. Will destroy any sort of defenses with ease. -->
+  <VFEI2_WideTunnels.description>El insectoide carga hacia el objetivo, infligiendo un daño significativo a cualquier cosa en el camino. Destruirá cualquier tipo de defensa con facilidad.</VFEI2_WideTunnels.description>
+  <!-- EN: wide tunnels -->
+  <VFEI2_WideTunnels.verbProperties.label>túneles anchos</VFEI2_WideTunnels.verbProperties.label>
+  
+</LanguageData>

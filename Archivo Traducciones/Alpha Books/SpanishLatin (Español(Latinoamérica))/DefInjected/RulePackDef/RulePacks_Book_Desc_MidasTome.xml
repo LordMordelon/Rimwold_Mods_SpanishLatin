@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>desc->[intro], [contentOverview]. [quirkStatement]. [qualityStatement][ending]</li>
+    <li>intro->Este [bookType] [writingQualityAdjective] revela los secretos de la transmutación de oro Arqueotécnica</li>
+    <li>intro->Un tomo [writingQualityAdjective] que detalla el enigmático proceso de convertir la materia en oro</li>
+    <li>intro->Una obra [writingQualityAdjective] sobre alquimia Arqueotécnica que explora la Piedra Filosofal moderna</li>
+    <li>intro->Este texto [writingQualityAdjective] promete el dominio sobre el legendario Toque de Midas</li>
+    <li>contentOverview->un método para transformar todas las artesanías y estructuras terminadas en oro puro</li>
+    <li>contentOverview->el arte de convertir materiales mundanos en riqueza reluciente</li>
+    <li>contentOverview->una guía paso a paso para lograr riquezas ilimitadas a través del poder Arqueotécnico</li>
+    <li>contentOverview->los secretos de manipular la materia para producir oro sin fin</li>
+    <li>quirkStatement->Sin embargo, ten cuidado, porque el poder de transmutar puede convertir incluso las herramientas más simples en tesoros ruinosamente pesados</li>
+    <li>quirkStatement->Los usuarios informan de una tendencia inquietante a ver todos los artículos como "oro futuro"</li>
+    <li>quirkStatement->Algunos afirman que el tomo susurra advertencias contra la codicia excesiva durante la transmutación</li>
+    <li>quirkStatement->Los lectores a menudo describen un impulso abrumador de dorar todo, incluido el perro de la colonia</li>
+    <li>qualityStatement(quality==6)->Es [excellentDesc], una obra maestra de la literatura Arqueotécnica.</li>
+    <li>qualityStatement(quality==5)->Es [decentDesc], ofreciendo profundos conocimientos sobre la transmutación.</li>
+    <li>qualityStatement(quality==4)->Es [functionalDesc], proporcionando instrucciones prácticas a pesar de algo de mística.</li>
+    <li>qualityStatement(quality==3)->Es [mediocreDesc], con pasajes crípticos que confunden a los lectores.</li>
+    <li>qualityStatement(quality==2)->Es [poorDesc], lleno de teorías fragmentadas y diagramas a medio terminar.</li>
+    <li>qualityStatement(quality==1)->Es [terribleDesc], un revoltijo incoherente de símbolos arcanos y tonterías.</li>
+    <li>qualityStatement(quality==0)->Es [awfulDesc], un desastre cómico de tonterías incomprensibles.</li>
+    <li>writingQualityAdjective(quality==6)->brillantemente compuesto</li>
+    <li>writingQualityAdjective(quality==5)->excelentemente elaborado</li>
+    <li>writingQualityAdjective(quality==4)->bien organizado</li>
+    <li>writingQualityAdjective(quality==3)->apenas coherente</li>
+    <li>writingQualityAdjective(quality==2)->frustrantemente inconexo</li>
+    <li>writingQualityAdjective(quality==1)->cómicamente terrible</li>
+    <li>writingQualityAdjective(quality==0)->farsa completa de un</li>
+    <li>excellentDesc->una guía atemporal para aquellos que buscan la iluminación Arqueotécnica</li>
+    <li>excellentDesc->una obra definitiva sobre la transmutación</li>
+    <li>excellentDesc->una fuente inigualable de sabiduría alquímica</li>
+    <li>excellentDesc->un testimonio extraordinario del ingenio Arqueotécnico</li>
+    <li>decentDesc->un vistazo fascinante a las técnicas avanzadas de transmutación</li>
+    <li>decentDesc->una explicación competente de la conversión de oro</li>
+    <li>decentDesc->una lectura perspicaz tanto para los curiosos como para los ricos</li>
+    <li>functionalDesc->un recurso suficiente para los aspirantes a transmutadores</li>
+    <li>functionalDesc->un manual útil para aplicaciones prácticas Arqueotécnicas</li>
+    <li>functionalDesc->una guía modesta para dorar lo mundano</li>
+    <li>mediocreDesc->una mezcla confusa de sabiduría y acertijos</li>
+    <li>mediocreDesc->un intento mediocre de transmitir secretos Arqueotécnicos</li>
+    <li>mediocreDesc->una exploración desigual de las artes doradas</li>
+    <li>poorDesc->un volumen confuso y mal ejecutado</li>
+    <li>poorDesc->un libro frustrantemente vago e incompleto</li>
+    <li>poorDesc->un fallo exasperante en la literatura Arqueotécnica</li>
+    <li>terribleDesc->un intento ridículo de documentación, apenas legible</li>
+    <li>terribleDesc->un lío extraño de galimatías y arrogancia fuera de lugar</li>
+    <li>terribleDesc->una representación lamentablemente inepta del conocimiento Arqueotécnico</li>
+    <li>awfulDesc->un intento catastróficamente malo de escritura Arqueotécnica, útil solo como tope de puerta</li>
+    <li>awfulDesc->una parodia humillante de sus propias ambiciones elevadas</li>
+    <li>awfulDesc->una colección de garabatos sin sentido, probablemente escritos por un muffalo borracho</li>
+    <li>ending->\n\nUna vez leído, este libro se consumirá, imbuyendo a su lector con el poder de convertir todas las estructuras construidas y artesanías en oro.</li>
+  -->
+  <ABooks_MidasTome_Description.rulePack.rulesStrings>
+    <li>desc->[intro], [contentOverview]. [quirkStatement]. [qualityStatement][ending]</li>
+    <li>intro->Este [bookType] [writingQualityAdjective] revela los secretos de la transmutación de oro Arqueotécnica</li>
+    <li>intro->Un tomo [writingQualityAdjective] que detalla el enigmático proceso de convertir la materia en oro</li>
+    <li>intro->Una obra [writingQualityAdjective] sobre alquimia Arqueotécnica que explora la Piedra Filosofal moderna</li>
+    <li>intro->Este texto [writingQualityAdjective] promete el dominio sobre el legendario Toque de Midas</li>
+    <li>contentOverview->un método para transformar todas las artesanías y estructuras terminadas en oro puro</li>
+    <li>contentOverview->el arte de convertir materiales mundanos en riqueza reluciente</li>
+    <li>contentOverview->una guía paso a paso para lograr riquezas ilimitadas a través del poder Arqueotécnico</li>
+    <li>contentOverview->los secretos de manipular la materia para producir oro sin fin</li>
+    <li>quirkStatement->Sin embargo, ten cuidado, porque el poder de transmutar puede convertir incluso las herramientas más simples en tesoros ruinosamente pesados</li>
+    <li>quirkStatement->Los usuarios informan de una tendencia inquietante a ver todos los artículos como "oro futuro"</li>
+    <li>quirkStatement->Algunos afirman que el tomo susurra advertencias contra la codicia excesiva durante la transmutación</li>
+    <li>quirkStatement->Los lectores a menudo describen un impulso abrumador de dorar todo, incluido el perro de la colonia</li>
+    <li>qualityStatement(quality==6)->Es [excellentDesc], una obra maestra de la literatura Arqueotécnica.</li>
+    <li>qualityStatement(quality==5)->Es [decentDesc], ofreciendo profundos conocimientos sobre la transmutación.</li>
+    <li>qualityStatement(quality==4)->Es [functionalDesc], proporcionando instrucciones prácticas a pesar de algo de mística.</li>
+    <li>qualityStatement(quality==3)->Es [mediocreDesc], con pasajes crípticos que confunden a los lectores.</li>
+    <li>qualityStatement(quality==2)->Es [poorDesc], lleno de teorías fragmentadas y diagramas a medio terminar.</li>
+    <li>qualityStatement(quality==1)->Es [terribleDesc], un revoltijo incoherente de símbolos arcanos y tonterías.</li>
+    <li>qualityStatement(quality==0)->Es [awfulDesc], un desastre cómico de tonterías incomprensibles.</li>
+    <li>writingQualityAdjective(quality==6)->brillantemente compuesto</li>
+    <li>writingQualityAdjective(quality==5)->excelentemente elaborado</li>
+    <li>writingQualityAdjective(quality==4)->bien organizado</li>
+    <li>writingQualityAdjective(quality==3)->apenas coherente</li>
+    <li>writingQualityAdjective(quality==2)->frustrantemente inconexo</li>
+    <li>writingQualityAdjective(quality==1)->cómicamente terrible</li>
+    <li>writingQualityAdjective(quality==0)->farsa completa de un</li>
+    <li>excellentDesc->una guía atemporal para aquellos que buscan la iluminación Arqueotécnica</li>
+    <li>excellentDesc->una obra definitiva sobre la transmutación</li>
+    <li>excellentDesc->una fuente inigualable de sabiduría alquímica</li>
+    <li>excellentDesc->un testimonio extraordinario del ingenio Arqueotécnico</li>
+    <li>decentDesc->un vistazo fascinante a las técnicas avanzadas de transmutación</li>
+    <li>decentDesc->una explicación competente de la conversión de oro</li>
+    <li>decentDesc->una lectura perspicaz tanto para los curiosos como para los ricos</li>
+    <li>functionalDesc->un recurso suficiente para los aspirantes a transmutadores</li>
+    <li>functionalDesc->un manual útil para aplicaciones prácticas Arqueotécnicas</li>
+    <li>functionalDesc->una guía modesta para dorar lo mundano</li>
+    <li>mediocreDesc->una mezcla confusa de sabiduría y acertijos</li>
+    <li>mediocreDesc->un intento mediocre de transmitir secretos Arqueotécnicos</li>
+    <li>mediocreDesc->una exploración desigual de las artes doradas</li>
+    <li>poorDesc->un volumen confuso y mal ejecutado</li>
+    <li>poorDesc->un libro frustrantemente vago e incompleto</li>
+    <li>poorDesc->un fallo exasperante en la literatura Arqueotécnica</li>
+    <li>terribleDesc->un intento ridículo de documentación, apenas legible</li>
+    <li>terribleDesc->un lío extraño de galimatías y arrogancia fuera de lugar</li>
+    <li>terribleDesc->una representación lamentablemente inepta del conocimiento Arqueotécnico</li>
+    <li>awfulDesc->un intento catastróficamente malo de escritura Arqueotécnica, útil solo como tope de puerta</li>
+    <li>awfulDesc->una parodia humillante de sus propias ambiciones elevadas</li>
+    <li>awfulDesc->una colección de garabatos sin sentido, probablemente escritos por un muffalo borracho</li>
+    <li>ending->\n\nUna vez leído, este libro se consumirá, imbuyendo a su lector con el poder de convertir todas las estructuras construidas y artesanías en oro.</li>
+  </ABooks_MidasTome_Description.rulePack.rulesStrings>
+  
+</LanguageData>

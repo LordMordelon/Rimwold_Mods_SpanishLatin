@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: convert -->
+  <ABooks_Convert_Charges.label>convertir</ABooks_Convert_Charges.label>
+  <!-- EN: Attempt to convert someone to the speaker's ideoligion. This will reduce the target's certainty in their own beliefs. The certainty reduction depends on the speaker's negotiation ability. -->
+  <ABooks_Convert_Charges.description>Intentar convertir a alguien a la ideoligión del orador. Esto reducirá la certeza del objetivo en sus propias creencias. La reducción de certeza depende de la capacidad de negociación del orador.</ABooks_Convert_Charges.description>
+  <!-- EN: {INITIATOR_labelShort} failed to convert {RECIPIENT_labelShort}. {RECIPIENT_labelShort} was upset by the attempt, but {RECIPIENT_possessive} certainty fell from {CERTAINTYBEFORE} to {CERTAINTYAFTER}. -->
+  <ABooks_Convert_Charges.comps.CompAbilityEffect_Convert.failMessage>{INITIATOR_labelShort} falló al convertir a {RECIPIENT_labelShort}. {RECIPIENT_labelShort} se molestó por el intento, pero su certeza cayó de {CERTAINTYBEFORE} a {CERTAINTYAFTER}.</ABooks_Convert_Charges.comps.CompAbilityEffect_Convert.failMessage>
+  <!-- EN: {INITIATOR_labelShort} has converted {RECIPIENT_labelShort} to {IDEO}. -->
+  <ABooks_Convert_Charges.comps.CompAbilityEffect_Convert.successMessage>{INITIATOR_labelShort} ha convertido a {RECIPIENT_labelShort} a {IDEO}.</ABooks_Convert_Charges.comps.CompAbilityEffect_Convert.successMessage>
+  
+</LanguageData>

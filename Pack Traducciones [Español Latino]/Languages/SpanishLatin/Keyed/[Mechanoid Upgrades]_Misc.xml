@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <MU_AllOperations>todas las mejoras</MU_AllOperations>
+  <MU_AutoReload_Desc>¿Debería el mecanoide recargar automáticamente las mejoras?</MU_AutoReload_Desc>
+  <MU_CannotCreateSet>No se puede crear el conjunto de mejoras</MU_CannotCreateSet>
+  <MU_ConfigureUpgrades>Iniciar proceso</MU_ConfigureUpgrades>
+  <MU_HideNotInstallable>Ocultar no instalables</MU_HideNotInstallable>
+  <MU_MechCarrier_Label>mini-gestador</MU_MechCarrier_Label>
+  <MU_MechCarrier_Title>Acero</MU_MechCarrier_Title>
+  <MU_MechCarrier_Tooltip>Cantidad de acero que necesita el mini-gestador para crear erizos de guerra.</MU_MechCarrier_Tooltip>
+  <MU_NoUpgradesInside>Sin mejoras</MU_NoUpgradesInside>
+  <MU_SaveAs>Guardar como</MU_SaveAs>
+  <MU_Setting_BaseUpgradability>Mejorabilidad base</MU_Setting_BaseUpgradability>
+  <MU_Setting_BaseUpgradability_Desc>Valor base de mejorabilidad.\n\nEl cálculo final incluye factores como el tamaño del cuerpo y la clase de peso.</MU_Setting_BaseUpgradability_Desc>
+  <MU_Setting_BaseUpgradability_Warning>¡Advertencia! Cambiar este valor afecta significativamente el equilibrio.</MU_Setting_BaseUpgradability_Warning>
+  <MU_Setting_ChanceForExtraLoot>Probabilidad de botín adicional</MU_Setting_ChanceForExtraLoot>
+  <MU_Setting_ChanceForExtraLoot_Desc>Probabilidad de recursos adicionales tras desmantelar mecanoides mejorados.\n\nEsta probabilidad se aplica a cada mejora.</MU_Setting_ChanceForExtraLoot_Desc>
+  <MU_Setting_ChanceForUpgrades>Probabilidad de generación con mejoras</MU_Setting_ChanceForUpgrades>
+  <MU_Setting_ChanceForUpgrades_Desc>Frecuencia con la que los mecanoides se generarán con mejoras.\n\nLos mecanoides recién fabricados no se verán afectados.</MU_Setting_ChanceForUpgrades_Desc>
+  <MU_Setting_CombinationsCommonality>Probabilidad de combinaciones predefinidas</MU_Setting_CombinationsCommonality>
+  <MU_Setting_CombinationsCommonality_Desc>Frecuencia con la que los mecanoides aparecerán con combinaciones predefinidas de mejoras.</MU_Setting_CombinationsCommonality_Desc>
+  <MU_Setting_ExtraButcherProducts>Botín adicional</MU_Setting_ExtraButcherProducts>
+  <MU_Setting_ExtraButcherProducts_Desc>Permitir recursos adicionales tras desmantelar mecanoides mejorados.</MU_Setting_ExtraButcherProducts_Desc>
+  <MU_Setting_ExtraLootAmount>Cantidad de botín adicional</MU_Setting_ExtraLootAmount>
+  <MU_Setting_ExtraLootAmount_Desc>Cantidad de recursos adicionales tras desmantelar mecanoides mejorados.</MU_Setting_ExtraLootAmount_Desc>
+  <MU_Setting_GenerateWithUpgrades>Generar mecanoides con mejoras</MU_Setting_GenerateWithUpgrades>
+  <MU_Setting_GenerateWithUpgrades_Desc>Permitir la generación de mecanoides con mejoras.</MU_Setting_GenerateWithUpgrades_Desc>
+  <MU_Setting_MaxPercent>Cantidad máxima de mejoras</MU_Setting_MaxPercent>
+  <MU_Setting_MaxPercent_Desc>Cantidad máxima de mejoras para la generación de mecanoides.</MU_Setting_MaxPercent_Desc>
+  <MU_Setting_MinPercent>Cantidad mínima de mejoras</MU_Setting_MinPercent>
+  <MU_Setting_MinPercent_Desc>Cantidad mínima de mejoras para la generación de mecanoides.</MU_Setting_MinPercent_Desc>
+  <MU_TabUpgrades>Mejoras</MU_TabUpgrades>
+  <MU_ThisOperation>mejora actual</MU_ThisOperation>
+  <MU_UpgradeConfig_Label>Elegir mejoras</MU_UpgradeConfig_Label>
+  <MU_Upgrader_TimeLeft>Tiempo restante</MU_Upgrader_TimeLeft>
+  <MU_Upgrader_WaitingForMechanitor>Esperando al mecanizador</MU_Upgrader_WaitingForMechanitor>
+  <MU_Upgrader_WaitingForMechanoid>Esperando al mecanoide</MU_Upgrader_WaitingForMechanoid>
+  <MU_Upgrader_WaitingForOrder>Esperando órdenes</MU_Upgrader_WaitingForOrder>
+</LanguageData>

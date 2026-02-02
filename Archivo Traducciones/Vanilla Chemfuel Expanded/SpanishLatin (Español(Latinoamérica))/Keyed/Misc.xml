@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Extract 150 chemfuel -->
+  <VCHE_ExtractChemfuel>Extraer 150 de quimbustible</VCHE_ExtractChemfuel>
+  <!-- EN: Extract 150 chemfuel from the tank. A pawn will come to extract it. -->
+  <VCHE_ExtractChemfuelDesc>Extrae 150 de quimbustible del tanque. Un colono vendrá a extraerlo.</VCHE_ExtractChemfuelDesc>
+
+  <!-- EN: Extract 150 deepchem -->
+  <VCHE_ExtractDeepchem>Extraer 150 de quimiofango</VCHE_ExtractDeepchem>
+  <!-- EN: Extract 150 deepchem from the tank. A pawn will come to extract it. -->
+  <VCHE_ExtractDeepchemDesc>Extrae 150 de quimiofango del tanque. Un colono vendrá a extraerlo.</VCHE_ExtractDeepchemDesc>
+
+  <!-- EN: Can’t refine: Tanks are full -->
+  <VCHE_CantRefine>No se puede refinar: Los tanques están llenos</VCHE_CantRefine>
+  <!-- EN: Can’t pump: Tanks are full -->
+  <VCHE_CantPump>No se puede bombear: Los tanques están llenos</VCHE_CantPump>
+
+  <!-- EN: Deepchem pumpjack can only be placed on the deepchem deposit. Use ground-penetrating scanner to find the deposits. -->
+  <VCHE_CantPlaceHere>La bomba de varilla de quimiofango solo se puede colocar sobre un depósito de quimiofango. Usa un escáner de penetración terrestre para encontrar los depósitos.</VCHE_CantPlaceHere>
+
+  <!-- EN: Switches chemfuel flow on/off. -->
+  <VCHE_ChemValve>Válvula de quimbustible</VCHE_ChemValve>
+  <!-- EN: Switches chemfuel flow on/off. A pawn will come open/close the valve. -->
+  <VCHE_ChemValveDesc>Abre o cierra el flujo de quimbustible. Un colono vendrá a operar la válvula.</VCHE_ChemValveDesc>
+
+  <!-- EN: Switches deepchem flow on/off. -->
+  <VCHE_DeepChemValve>Válvula de quimiofango</VCHE_DeepChemValve>
+  <!-- EN: Switches deepchem flow on/off. A pawn will come open/close the valve. -->
+  <VCHE_DeepChemValveDesc>Abre o cierra el flujo de quimiofango. Un colono vendrá a operar la válvula.</VCHE_DeepChemValveDesc>
+</LanguageData>

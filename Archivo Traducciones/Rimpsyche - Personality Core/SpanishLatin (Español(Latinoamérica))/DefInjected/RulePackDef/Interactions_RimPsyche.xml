@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>sent(p=2)->[RECIPIENT_nameDef] ignored [INITIATOR_objective].</li>
+    <li>sent->[RECIPIENT_nameDef] did not respond.</li>
+    <li>sent->[RECIPIENT_nameDef] brushed [INITIATOR_objective] off.</li>
+  -->
+  <Sentence_RimpsycheConversationFail.rulePack.rulesStrings>
+    <li>sent(p=2)->[RECIPIENT_nameDef] ignoró a [INITIATOR_objective].</li>
+    <li>sent->[RECIPIENT_nameDef] no respondió.</li>
+    <li>sent->[RECIPIENT_nameDef] despachó a [INITIATOR_objective].</li>
+  </Sentence_RimpsycheConversationFail.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>sent->Their differing views led to a tense exchange.</li>
+    <li>sent->Their discussion devolved into sharp words as views collided.</li>
+    <li>sent->The disagreement escalated quickly, making the conversation feel confrontational.</li>
+  -->
+  <Sentence_RimpsycheConversationNegativeBad.rulePack.rulesStrings>
+    <li>sent->Sus puntos de vista diferentes llevaron a un tenso intercambio.</li>
+    <li>sent->Su discusión degeneró en palabras ásperas al chocar sus opiniones.</li>
+    <li>sent->El desacuerdo escaló rápidamente, haciendo que la conversación se sintiera conflictiva.</li>
+  </Sentence_RimpsycheConversationNegativeBad.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>sent->Despite their differing views, they managed to have a civil conversation.</li>
+    <li>sent->Though their opinions diverged, they kept the discussion civil.</li>
+    <li>sent->Despite their differences, the conversation remained calm and respectful.</li>
+  -->
+  <Sentence_RimpsycheConversationNegativeGood.rulePack.rulesStrings>
+    <li>sent->A pesar de sus puntos de vista diferentes, lograron tener una conversación civilizada.</li>
+    <li>sent->Aunque sus opiniones divergían, mantuvieron la discusión de forma civilizada.</li>
+    <li>sent->A pesar de sus diferencias, la conversación se mantuvo tranquila y respetuosa.</li>
+  </Sentence_RimpsycheConversationNegativeGood.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>sent->Though they agreed on many points, the conversation still felt a little strained.</li>
+    <li>sent->Even though they saw eye-to-eye, there was an underlying awkwardness.</li>
+    <li>sent->Although they found common ground, the conversation didn’t feel entirely comfortable.</li>
+  -->
+  <Sentence_RimpsycheConversationPositiveBad.rulePack.rulesStrings>
+    <li>sent->Aunque estaban de acuerdo en muchos puntos, la conversación se sintió un poco tensa.</li>
+    <li>sent->Aunque coincidían, había una incomodidad subyacente.</li>
+    <li>sent->Aunque encontraron puntos en común, la conversación no se sintió del todo cómoda.</li>
+  </Sentence_RimpsycheConversationPositiveBad.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>sent->They quickly found common ground, making the conversation feel easy and natural.</li>
+    <li>sent->Their discussion flowed easily, with shared views making things smooth.</li>
+    <li>sent->Both of them enjoyed the exchange, finding common ground on the topic.</li>
+  -->
+  <Sentence_RimpsycheConversationPositiveGood.rulePack.rulesStrings>
+    <li>sent->Rápidamente encontraron puntos en común, haciendo que la conversación se sintiera fácil y natural.</li>
+    <li>sent->Su discusión fluyó con facilidad, y sus puntos de vista compartidos hicieron que todo fuera fluido.</li>
+    <li>sent->Ambos disfrutaron del intercambio, encontrando puntos en común sobre el tema.</li>
+  </Sentence_RimpsycheConversationPositiveGood.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>sent->Their conversation was engaging and pleasant, thanks to how their closely algined views.</li>
+    <li>sent->Their shared views made the conversation genuinely enjoyable.</li>
+    <li>sent->They immediately saw eye-to-eye, and the exchange felt pleasant and refreshing.</li>
+  -->
+  <Sentence_RimpsycheConversationPositiveGreat.rulePack.rulesStrings>
+    <li>sent->Su conversación fue interesante y agradable, gracias a lo alineados que estaban sus puntos de vista.</li>
+    <li>sent->Sus puntos de vista compartidos hicieron que la conversación fuera genuinamente agradable.</li>
+    <li>sent->Inmediatamente estuvieron de acuerdo, y el intercambio se sintió agradable y refrescante.</li>
+  </Sentence_RimpsycheConversationPositiveGreat.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>sent->Their differences escalated until [INITIATOR_nameDef] started a fight!</li>
+    <li>sent->What started as a disagreement quickly turned into a fight when [INITIATOR_nameDef] lost their temper!</li>
+    <li>sent->Their clash of opinions turned personal, and [INITIATOR_nameDef] initiated a fight!</li>
+    <li>sent->The conversation became heated, culminating in [INITIATOR_nameDef] starting a fight!</li>
+  -->
+  <Sentence_RimpsycheSocialFightConvoInitiatorStarted.rulePack.rulesStrings>
+    <li>sent->¡Sus diferencias escalaron hasta que [INITIATOR_nameDef] empezó una pelea!</li>
+    <li>sent->¡Lo que empezó como un desacuerdo se convirtió rápidamente en una pelea cuando [INITIATOR_nameDef] perdió los estribos!</li>
+    <li>sent->¡Su choque de opiniones se volvió personal, y [INITIATOR_nameDef] inició una pelea!</li>
+    <li>sent->¡La conversación se acaloró, culminando con [INITIATOR_nameDef] empezando una pelea!</li>
+  </Sentence_RimpsycheSocialFightConvoInitiatorStarted.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>sent->Their differences escalated until [RECIPIENT_nameDef] started a fight!</li>
+    <li>sent->What started as a disagreement quickly turned into a fight when [RECIPIENT_nameDef] lost their temper!</li>
+    <li>sent->Their clash of opinions turned personal, and [RECIPIENT_nameDef] initiated a fight!</li>
+    <li>sent->The conversation became heated, culminating in [RECIPIENT_nameDef] starting a fight!</li>
+  -->
+  <Sentence_RimpsycheSocialFightConvoRecipientStarted.rulePack.rulesStrings>
+    <li>sent->¡Sus diferencias escalaron hasta que [RECIPIENT_nameDef] empezó una pelea!</li>
+    <li>sent->¡Lo que empezó como un desacuerdo se convirtió rápidamente en una pelea cuando [RECIPIENT_nameDef] perdió los estribos!</li>
+    <li>sent->¡Su choque de opiniones se volvió personal, y [RECIPIENT_nameDef] inició una pelea!</li>
+    <li>sent->¡La conversación se acaloró, culminando con [RECIPIENT_nameDef] empezando una pelea!</li>
+  </Sentence_RimpsycheSocialFightConvoRecipientStarted.rulePack.rulesStrings>
+  
+</LanguageData>

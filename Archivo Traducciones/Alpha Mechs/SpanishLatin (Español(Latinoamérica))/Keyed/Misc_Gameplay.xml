@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+
+
+<!-- Options -->
+	
+<!-- EN: Allow Aura -->
+  <AM_allowAura>Permitir Aura</AM_allowAura>
+<!-- EN: Allow Daggersnout -->
+  <AM_allowDaggersnout>Permitir Hocico de daga</AM_allowDaggersnout>
+<!-- EN: Allow Demolisher -->
+  <AM_allowDemolisher>Permitir Demoledor</AM_allowDemolisher>
+<!-- EN: Allow Fireworm -->
+  <AM_allowFireworm>Permitir Gusano de fuego</AM_allowFireworm>
+<!-- EN: Allow Goliath -->
+  <AM_allowGoliath>Permitir Goliat</AM_allowGoliath>
+<!-- EN: Allow Phalanx -->
+  <AM_allowPhalanx>Permitir Falange</AM_allowPhalanx>
+<!-- EN: Allow Siegebreaker -->
+  <AM_allowSiegebreaker>Permitir Rompeasedios</AM_allowSiegebreaker>
+<!-- EN: Bandwidth amount for Beamcaster Band Nodes -->
+  <AM_Tier2BandAmount>Cantidad de ancho de banda para Nodos de Banda de Transmisión de Rayos</AM_Tier2BandAmount>
+<!-- EN: Each Beamcaster Band Node will increase a pawn's bandwidth by this amount. Only applies if you have Biotech DLC active. Electric power in the nodes will need to be toggled before the changes take effect. -->
+  <AM_Tier2BandAmountDesc>Cada Nodo de Banda de Transmisión de Rayos aumentará el ancho de banda de un colono en esta cantidad. Solo se aplica si tienes el DLC Biotech activo. La energía eléctrica en los nodos deberá alternarse antes de que los cambios surtan efecto.</AM_Tier2BandAmountDesc>
+<!-- EN: Bandwidth amount for Voidlink Band Nodes -->
+  <AM_Tier3BandAmount>Cantidad de ancho de banda para Nodos de Banda de Enlace de Vacío</AM_Tier3BandAmount>
+<!-- EN: Each Voidlink Band Node will increase a pawn's bandwidth by this amount. Only applies if you have Biotech DLC active. Electric power in the nodes will need to be toggled before the changes take effect. -->
+  <AM_Tier3BandAmountDesc>Cada Nodo de Banda de Enlace de Vacío aumentará el ancho de banda de un colono en esta cantidad. Solo se aplica si tienes el DLC Biotech activo. La energía eléctrica en los nodos deberá alternarse antes de que los cambios surtan efecto.</AM_Tier3BandAmountDesc>
+<!-- EN: Reset -->
+  <AM_Reset>Reiniciar</AM_Reset>
+
+<!-- Abilities -->
+
+<!-- EN: This ability will only works on mechanoids -->
+  <AM_CantUseOnNonMechs>Esta habilidad solo funciona en mecanoides</AM_CantUseOnNonMechs>
+<!-- EN: Only a mechanitor can use this ability -->
+  <AM_OnlyMechanitorCanUse>Solo un mecanitor puede usar esta habilidad</AM_OnlyMechanitorCanUse>
+<!-- EN: "Boss" mechanoids have a reinforced IFF system that can't be hacked -->
+  <AM_CantUseOnBossMechs>Los mecanoides "Jefe" tienen un sistema IFF reforzado que no se puede hackear</AM_CantUseOnBossMechs>
+<!-- EN: Mechanitor doesn't have enough bandwidth to use this ability on a {0} -->
+  <AM_NotEnoughBandwidth>El mecanitor no tiene suficiente ancho de banda para usar esta habilidad en un {0}</AM_NotEnoughBandwidth>
+<!-- EN: This mechanoid is being remotely controlled by a human pilot, and it can't be hacked -->
+  <AM_CantUseVEMechs>Este mecanoide está siendo controlado remotamente por un piloto humano y no puede ser hackeado</AM_CantUseVEMechs>
+<!-- EN: Can't use on non-downed persons -->
+  <AM_CantUseOnNonDowned>No se puede usar en personas no derribadas</AM_CantUseOnNonDowned>
+<!-- EN: Eject hemogen packs -->
+  <AM_EjectHemogen>Expulsar paquetes de hemogenina</AM_EjectHemogen>
+<!-- EN: Ejects all the hemogen packs stored inside the mech's storage vats -->
+  <AM_EjectHemogenDesc>Expulsa todos los paquetes de hemogenina almacenados dentro de los tanques de almacenamiento del meca</AM_EjectHemogenDesc>
+<!-- EN: Hemogen packs stored: {0} -->
+  <AM_HemogenStored>Paquetes de hemogenina almacenados: {0}</AM_HemogenStored>
+
+<!-- Placeworkers -->
+
+<!-- EN: Band nodes, beamcaster and voidlink band nodes must not be placed close to each other -->
+  <AM_MustNotBePlacedCloseToAnother>Los nodos de banda, los nodos de banda de transmisión de rayos y de enlace de vacío no deben colocarse cerca unos de otros</AM_MustNotBePlacedCloseToAnother>
+
+<!-- Resources -->
+
+<!-- EN: Resource assembly in -->
+  <AM_RandomItems>Ensamblaje de recursos en</AM_RandomItems>
+<!-- EN: Nutrient paste production -->
+  <AM_MealNutrientPaste>Producción de pasta nutritiva</AM_MealNutrientPaste>
+
+
+
+
+
+</LanguageData>

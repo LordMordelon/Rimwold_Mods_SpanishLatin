@@ -1,0 +1,133 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>desc->[intro], [conceptExploration] [contextStatement]. [writingQualitySentence]. [maybe_date][ending]</li>
+    <li>desc->[intro], [conceptExploration]. [impactStatement]. [writingQualitySentence]. [maybe_date][ending]</li>
+    <li>desc->[conceptExploration] [contextStatement]. [impactStatement]. [writingQualitySentence]. [maybe_date][ending]</li>
+    <li>intro->Este compendio [writingQualityAdjective] profundiza en los secretos de [subject_primary]</li>
+    <li>intro->Un tratado [writingQualityAdjective] que descubre el potencial oculto de [subject_primary]</li>
+    <li>intro->Una guía extraordinaria que explora el arte y la ciencia de [subject_primary]</li>
+    <li>intro->Una obra atemporal que narra el papel de [subject_primary] en la evolución culinaria</li>
+    <li>intro->Este manual [writingQualityAdjective] proporciona conocimientos inigualables sobre el dominio de [subject_primary]</li>
+    <li>conceptExploration->los orígenes, preparación y aplicaciones de [subject_primary]</li>
+    <li>conceptExploration->el significado cultural y los usos culinarios de [subject_primary]</li>
+    <li>conceptExploration->cómo [subject_primary] transforma incluso los platos más simples</li>
+    <li>conceptExploration->la química y el arte detrás del sabor de [subject_primary]</li>
+    <li>conceptExploration->las intrincadas técnicas para aprovechar la esencia de [subject_primary]</li>
+    <li>conceptExploration->por qué [subject_primary] es una piedra angular de la cocina gourmet</li>
+    <li>contextStatement->basándose en siglos de tradición culinaria</li>
+    <li>contextStatement->inspirado en los escritos de chefs y alquimistas de renombre</li>
+    <li>contextStatement->con ejemplos de innumerables cocinas regionales</li>
+    <li>contextStatement->revelando su impacto en el sabor y los rituales gastronómicos</li>
+    <li>contextStatement->desenterrando técnicas perdidas hace mucho tiempo para su uso</li>
+    <li>contextStatement->combinando experimentación rigurosa con sabiduría antigua</li>
+    <li>impactStatement->Ofrece conocimientos que cambiarán para siempre tu percepción de [subject_primary]</li>
+    <li>impactStatement->Sus enseñanzas elevarán cualquier comida a una obra maestra culinaria</li>
+    <li>impactStatement->Esta obra redefine la importancia de los condimentos en la gastronomía</li>
+    <li>impactStatement->Los lectores obtendrán una experiencia inigualable en el arte de [subject_primary]</li>
+    <li>impactStatement->El conocimiento interior es un tesoro para entusiastas culinarios y pioneros por igual</li>
+    <li>writingQualityAdjective(quality==6)->escrito magistralmente</li>
+    <li>writingQualityAdjective(quality==5)->elaborado por expertos</li>
+    <li>writingQualityAdjective(quality==4)->perspicaz y atractivo</li>
+    <li>writingQualityAdjective(quality==3)->funcional pero corriente</li>
+    <li>writingQualityAdjective(quality==2)->mediocre y desigual</li>
+    <li>writingQualityAdjective(quality==1)->apenas coherente</li>
+    <li>writingQualityAdjective(quality==0)->desastre incomprensible de un</li>
+    <li>writingQualitySentence(quality[greater_than]3)->Es [excellentDesc] [excellentExtra]</li>
+    <li>writingQualitySentence(quality[less_than]4,quality[greater_than]1)->Es [decentDesc] [decentExtra]</li>
+    <li>writingQualitySentence(quality[less_than]2)->Es [awfulDesc] [awfulExtra]</li>
+    <li>excellentDesc->una exploración brillante de la alquimia culinaria</li>
+    <li>excellentDesc->una guía autorizada para el dominio culinario</li>
+    <li>excellentDesc->un tesoro de sabiduría sobre sabor y técnica</li>
+    <li>excellentDesc->un tratado meticulosamente investigado y bellamente escrito</li>
+    <li>excellentExtra->que inspira creatividad en cada lector</li>
+    <li>excellentExtra->que desbloquea el verdadero potencial de [subject_primary]</li>
+    <li>decentDesc->una exploración razonablemente útil de los condimentos</li>
+    <li>decentDesc->una mezcla de contenido útil y superfluo</li>
+    <li>decentDesc->adecuada pero carente de profundidad u originalidad</li>
+    <li>decentDesc->informativa pero desigual en su presentación</li>
+    <li>decentExtra->y puede ayudar a los entusiastas culinarios en ciernes</li>
+    <li>decentExtra->pero no alcanza su ambiciosa premisa</li>
+    <li>awfulDesc->una colección desorganizada de trivia culinaria</li>
+    <li>awfulDesc->llena de inexactitudes y divagaciones tediosas</li>
+    <li>awfulDesc->mal escrita y prácticamente inútil</li>
+    <li>awfulDesc->un texto frustrantemente vago e inútil</li>
+    <li>awfulExtra->y una pérdida de tiempo para cualquier lector serio</li>
+    <li>awfulExtra->que no ofrece nada de valor al aspirante a chef</li>
+    <li>maybe_date-></li>
+    <li>maybe_date->Publicado por primera vez [date_form].</li>
+    <li>maybe_date->La obra se completó [date_form].</li>
+    <li>maybe_date->Sus orígenes son difíciles de rastrear, como ocurre con muchas tradiciones culinarias.</li>
+    <li>date_form->recientemente</li>
+    <li>date_form->hace décadas</li>
+    <li>date_form->en un renacimiento culinario pasado</li>
+    <li>date_form->en el [date]</li>
+    <li>ending->\n\nUna vez leído, este libro otorgará dominio sobre el arte de usar [subject_primary] por algún tiempo, pero será destruido en el proceso.</li>
+  -->
+  <ABooks_BookOfCondiments_Description.rulePack.rulesStrings>
+    <li>desc->[intro], [conceptExploration] [contextStatement]. [writingQualitySentence]. [maybe_date][ending]</li>
+    <li>desc->[intro], [conceptExploration]. [impactStatement]. [writingQualitySentence]. [maybe_date][ending]</li>
+    <li>desc->[conceptExploration] [contextStatement]. [impactStatement]. [writingQualitySentence]. [maybe_date][ending]</li>
+    <li>intro->Este compendio [writingQualityAdjective] profundiza en los secretos de [subject_primary]</li>
+    <li>intro->Un tratado [writingQualityAdjective] que descubre el potencial oculto de [subject_primary]</li>
+    <li>intro->Una guía extraordinaria que explora el arte y la ciencia de [subject_primary]</li>
+    <li>intro->Una obra atemporal que narra el papel de [subject_primary] en la evolución culinaria</li>
+    <li>intro->Este manual [writingQualityAdjective] proporciona conocimientos inigualables sobre el dominio de [subject_primary]</li>
+    <li>conceptExploration->los orígenes, preparación y aplicaciones de [subject_primary]</li>
+    <li>conceptExploration->el significado cultural y los usos culinarios de [subject_primary]</li>
+    <li>conceptExploration->cómo [subject_primary] transforma incluso los platos más simples</li>
+    <li>conceptExploration->la química y el arte detrás del sabor de [subject_primary]</li>
+    <li>conceptExploration->las intrincadas técnicas para aprovechar la esencia de [subject_primary]</li>
+    <li>conceptExploration->por qué [subject_primary] es una piedra angular de la cocina gourmet</li>
+    <li>contextStatement->basándose en siglos de tradición culinaria</li>
+    <li>contextStatement->inspirado en los escritos de chefs y alquimistas de renombre</li>
+    <li>contextStatement->con ejemplos de innumerables cocinas regionales</li>
+    <li>contextStatement->revelando su impacto en el sabor y los rituales gastronómicos</li>
+    <li>contextStatement->desenterrando técnicas perdidas hace mucho tiempo para su uso</li>
+    <li>contextStatement->combinando experimentación rigurosa con sabiduría antigua</li>
+    <li>impactStatement->Ofrece conocimientos que cambiarán para siempre tu percepción de [subject_primary]</li>
+    <li>impactStatement->Sus enseñanzas elevarán cualquier comida a una obra maestra culinaria</li>
+    <li>impactStatement->Esta obra redefine la importancia de los condimentos en la gastronomía</li>
+    <li>impactStatement->Los lectores obtendrán una experiencia inigualable en el arte de [subject_primary]</li>
+    <li>impactStatement->El conocimiento interior es un tesoro para entusiastas culinarios y pioneros por igual</li>
+    <li>writingQualityAdjective(quality==6)->escrito magistralmente</li>
+    <li>writingQualityAdjective(quality==5)->elaborado por expertos</li>
+    <li>writingQualityAdjective(quality==4)->perspicaz y atractivo</li>
+    <li>writingQualityAdjective(quality==3)->funcional pero corriente</li>
+    <li>writingQualityAdjective(quality==2)->mediocre y desigual</li>
+    <li>writingQualityAdjective(quality==1)->apenas coherente</li>
+    <li>writingQualityAdjective(quality==0)->desastre incomprensible de un</li>
+    <li>writingQualitySentence(quality[greater_than]3)->Es [excellentDesc] [excellentExtra]</li>
+    <li>writingQualitySentence(quality[less_than]4,quality[greater_than]1)->Es [decentDesc] [decentExtra]</li>
+    <li>writingQualitySentence(quality[less_than]2)->Es [awfulDesc] [awfulExtra]</li>
+    <li>excellentDesc->una exploración brillante de la alquimia culinaria</li>
+    <li>excellentDesc->una guía autorizada para el dominio culinario</li>
+    <li>excellentDesc->un tesoro de sabiduría sobre sabor y técnica</li>
+    <li>excellentDesc->un tratado meticulosamente investigado y bellamente escrito</li>
+    <li>excellentExtra->que inspira creatividad en cada lector</li>
+    <li>excellentExtra->que desbloquea el verdadero potencial de [subject_primary]</li>
+    <li>decentDesc->una exploración razonablemente útil de los condimentos</li>
+    <li>decentDesc->una mezcla de contenido útil y superfluo</li>
+    <li>decentDesc->adecuada pero carente de profundidad u originalidad</li>
+    <li>decentDesc->informativa pero desigual en su presentación</li>
+    <li>decentExtra->y puede ayudar a los entusiastas culinarios en ciernes</li>
+    <li>decentExtra->pero no alcanza su ambiciosa premisa</li>
+    <li>awfulDesc->una colección desorganizada de trivia culinaria</li>
+    <li>awfulDesc->llena de inexactitudes y divagaciones tediosas</li>
+    <li>awfulDesc->mal escrita y prácticamente inútil</li>
+    <li>awfulDesc->un texto frustrantemente vago e inútil</li>
+    <li>awfulExtra->y una pérdida de tiempo para cualquier lector serio</li>
+    <li>awfulExtra->que no ofrece nada de valor al aspirante a chef</li>
+    <li>maybe_date-></li>
+    <li>maybe_date->Publicado por primera vez [date_form].</li>
+    <li>maybe_date->La obra se completó [date_form].</li>
+    <li>maybe_date->Sus orígenes son difíciles de rastrear, como ocurre con muchas tradiciones culinarias.</li>
+    <li>date_form->recientemente</li>
+    <li>date_form->hace décadas</li>
+    <li>date_form->en un renacimiento culinario pasado</li>
+    <li>date_form->en el [date]</li>
+    <li>ending->\n\nUna vez leído, este libro otorgará dominio sobre el arte de usar [subject_primary] por algún tiempo, pero será destruido en el proceso.</li>
+  </ABooks_BookOfCondiments_Description.rulePack.rulesStrings>
+  
+</LanguageData>

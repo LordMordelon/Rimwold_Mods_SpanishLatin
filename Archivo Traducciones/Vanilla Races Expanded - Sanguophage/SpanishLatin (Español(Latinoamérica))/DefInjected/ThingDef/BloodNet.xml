@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: draincasket -->
+  <VRE_Draincasket.label>ataúd de drenaje</VRE_Draincasket.label>
+  <!-- EN: A sinister contraption designed to extract hemogen from an individual while maintaining their life force at the barest minimum. This dark and foreboding casket houses its occupant in a twilight state of existence with their body slowly drained of precious hemogen. Bound to their Draincasket, the occupant's survival depends on being fed regularly, as they can still starve to death.\n\nProduces hemogen packs a day as long as the occupant has food and the casket is connected to a hemogen network. The amount of hemogen packs depends on the occupant's hunger rate - someone with a worse metabolic efficiency will produce more hemogen packs while using proportionally more nutrition to do so. If deprived of food, the casket will eventually kill its occupant.\n\nIf connected to a nutrient paste network it will feed its occupant using its stored nutrients. -->
+  <VRE_Draincasket.description>Un artilugio siniestro diseñado para extraer hemógeno de un individuo mientras mantiene su fuerza vital al mínimo indispensable. Este ataúd oscuro y premonitorio alberga a su ocupante en un estado crepuscular de existencia con su cuerpo drenado lentamente de precioso hemógeno. Atado a su Ataúd de Drenaje, la supervivencia del ocupante depende de ser alimentado regularmente, ya que aún pueden morir de hambre.\n\nProduce packs de hemógeno al día siempre que el ocupante tenga comida y el ataúd esté conectado a una red de hemógeno. La cantidad de packs de hemógeno depende de la tasa de hambre del ocupante: alguien con una peor eficiencia metabólica producirá más packs de hemógeno mientras usa proporcionalmente más nutrición para hacerlo. Si se le priva de comida, el ataúd eventualmente matará a su ocupante.\n\nSi está conectado a una red de pasta nutritiva, alimentará a su ocupante utilizando sus nutrientes almacenados.</VRE_Draincasket.description>
+  <!-- EN: Nutrition -->
+  <VRE_Draincasket.comps.CompDraincasket.fuelGizmoLabel>Nutrición</VRE_Draincasket.comps.CompDraincasket.fuelGizmoLabel>
+  <!-- EN: Nutrition -->
+  <VRE_Draincasket.comps.CompDraincasket.fuelLabel>Nutrición</VRE_Draincasket.comps.CompDraincasket.fuelLabel>
+  
+  <!-- EN: hemogen drain -->
+  <VRE_HemogenDrain.label>drenaje de hemógeno</VRE_HemogenDrain.label>
+  <!-- EN: A hopper-like storage basin meant to input hemogen into the network, filling up connected vats. -->
+  <VRE_HemogenDrain.description>Una cuenca de almacenamiento tipo tolva destinada a introducir hemógeno en la red, llenando los tanques conectados.</VRE_HemogenDrain.description>
+  
+  <!-- EN: hemogen pipe -->
+  <VRE_HemogenPipe.label>tubería de hemógeno</VRE_HemogenPipe.label>
+  <!-- EN: A pipe that’s used to transport hemogen between taps, drains, vats and hemogen-fueled structures. -->
+  <VRE_HemogenPipe.description>Una tubería que se utiliza para transportar hemógeno entre grifos, drenajes, tanques y estructuras alimentadas por hemógeno.</VRE_HemogenPipe.description>
+  
+  <!-- EN: hemogen tap -->
+  <VRE_HemogenTap.label>grifo de hemógeno</VRE_HemogenTap.label>
+  <!-- EN: A hopper-like storage basin meant to dispense hemogen for later use. -->
+  <VRE_HemogenTap.description>Una cuenca de almacenamiento tipo tolva destinada a dispensar hemógeno para su uso posterior.</VRE_HemogenTap.description>
+  
+  <!-- EN: hemogen valve -->
+  <VRE_HemogenValve.label>válvula de hemógeno</VRE_HemogenValve.label>
+  <!-- EN: Switches hemogen flow on/off. -->
+  <VRE_HemogenValve.description>Activa/desactiva el flujo de hemógeno.</VRE_HemogenValve.description>
+  
+  <!-- EN: hemogen vat -->
+  <VRE_HemogenVat.label>tanque de hemógeno</VRE_HemogenVat.label>
+  <!-- EN: An industrial liquid storage vat meant for storing hemogen delivered via hemogen pipe network. Vats can be designated to be siphoned for usable hemogen as needed. -->
+  <VRE_HemogenVat.description>Un tanque de almacenamiento de líquido industrial destinado a almacenar hemógeno entregado a través de la red de tuberías de hemógeno. Los tanques pueden designarse para ser sifonados para obtener hemógeno utilizable según sea necesario.</VRE_HemogenVat.description>
+  
+  <!-- EN: hidden hemogen pipe -->
+  <VRE_UndergroundHemogenPipe.label>tubería de hemógeno oculta</VRE_UndergroundHemogenPipe.label>
+  <!-- EN: Hidden steel pipes designed to transport hemogen between taps, drains, vats and hemogen-fueled structures. -->
+  <VRE_UndergroundHemogenPipe.description>Tuberías de acero ocultas diseñadas para transportar hemógeno entre grifos, drenajes, tanques y estructuras alimentadas por hemógeno.</VRE_UndergroundHemogenPipe.description>
+  
+</LanguageData>

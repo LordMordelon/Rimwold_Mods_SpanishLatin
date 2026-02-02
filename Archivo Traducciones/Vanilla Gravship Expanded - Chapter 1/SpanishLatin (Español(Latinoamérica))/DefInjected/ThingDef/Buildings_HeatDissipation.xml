@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: gravheat absorber -->
+  <VGE_GravheatAbsorber.label>absorbedor de gravicalor</VGE_GravheatAbsorber.label>
+  <!-- EN: A specialized thermal sink that draws all residual heat from the grav engine, instantly clearing its cooldown. The absorbed heat leaves the gravheat absorber inoperable for an extended period while it safely dissipates the stored energy. -->
+  <VGE_GravheatAbsorber.description>Un disipador térmico especializado que extrae todo el calor residual del motor gravitacional, eliminando instantáneamente su tiempo de enfriamiento. El calor absorbido deja al absorbedor de gravicalor inoperativo durante un periodo prolongado mientras disipa de forma segura la energía almacenada.</VGE_GravheatAbsorber.description>
+  
+  <!-- EN: large heatsink -->
+  <VGE_LargeHeatsink.label>disipador de calor grande</VGE_LargeHeatsink.label>
+  <!-- EN: A large thermal regulator that absorbs heat from gravship travel and slowly converts part of it into usable power while preventing system overheating and decreasing the grav engine cooldown duration. A gravship can support up to six large heatsinks. -->
+  <VGE_LargeHeatsink.description>Un regulador térmico grande que absorbe el calor de los viajes de la gravinave y convierte lentamente parte de él en energía utilizable, al tiempo que evita el sobrecalentamiento del sistema y reduce la duración del enfriamiento del motor gravitacional. Una gravinave puede soportar hasta seis disipadores de calor grandes.</VGE_LargeHeatsink.description>
+  
+  <!-- EN: small heatsink -->
+  <VGE_SmallHeatsink.label>disipador de calor pequeño</VGE_SmallHeatsink.label>
+  <!-- EN: A compact thermal regulator that absorbs heat from gravship travel and slowly converts part of it into usable power while preventing system overheating and decreasing the grav engine cooldown duration. A gravship can support up to ten small heatsinks. -->
+  <VGE_SmallHeatsink.description>Un regulador térmico compacto que absorbe el calor de los viajes de la gravinave y convierte lentamente parte de él en energía utilizable, al tiempo que evita el sobrecalentamiento del sistema y reduce la duración del enfriamiento del motor gravitacional. Una gravinave puede soportar hasta diez disipadores de calor pequeños.</VGE_SmallHeatsink.description>
+  
+</LanguageData>

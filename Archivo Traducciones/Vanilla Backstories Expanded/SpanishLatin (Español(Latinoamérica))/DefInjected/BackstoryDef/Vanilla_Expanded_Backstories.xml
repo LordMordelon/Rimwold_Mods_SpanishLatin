@@ -1,0 +1,1347 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Abandoned colonist -->
+  <VBE_AbandonedColonist.title>colono abandonado</VBE_AbandonedColonist.title>
+    <VBE_AbandonedColonist.titleFemale>colona abandonada</VBE_AbandonedColonist.titleFemale>
+  <!-- EN: Colonist -->
+  <VBE_AbandonedColonist.titleShort>colono</VBE_AbandonedColonist.titleShort>
+    <VBE_AbandonedColonist.titleShortFemale>colona</VBE_AbandonedColonist.titleShortFemale>
+  <!-- EN: [PAWN_nameDef] was selected for a colonization program on a distant rimworld. When [PAWN_possessive] ship was torn apart, [PAWN_nameDef] was not among the select few granted the privilege of an escape pod. But, by some sheer miracle, [PAWN_pronoun] survived, and vowed to find those who had left [PAWN_objective] behind. -->
+  <VBE_AbandonedColonist.description>[PAWN_nameDef] fue seleccionad{PAWN_gender ? o : a} para un programa de colonización en un lejano mundo fronterizo. Cuando su nave fue destrozada, [PAWN_nameDef] no estuvo entre los pocos elegidos a los que se les concedió el privilegio de una cápsula de escape. Pero, por un puro milagro, [PAWN_pronoun] sobrevivió y juró encontrar a quienes {PAWN_gender ? lo : la} habían dejado atrás.</VBE_AbandonedColonist.description>
+
+  <!-- EN: Addicted gamer -->
+  <VBE_AddictedGamer.title>jugador adicto</VBE_AddictedGamer.title>
+    <VBE_AddictedGamer.titleFemale>jugadora adicta</VBE_AddictedGamer.titleFemale>
+  <!-- EN: Gamer -->
+  <VBE_AddictedGamer.titleShort>jugador</VBE_AddictedGamer.titleShort>
+    <VBE_AddictedGamer.titleShortFemale>jugadora</VBE_AddictedGamer.titleShortFemale>
+  <!-- EN: [PAWN_nameDef] has an addiction to video games and can often be found gaming late into the morning. [PAWN_pronoun] fits all the negative stereotypes from the messy room to the social awkwardness, but at least [PAWN_pronoun]'s learned a few things about crafting and mining. -->
+  <VBE_AddictedGamer.description>[PAWN_nameDef] tiene una adicción a los videojuegos y a menudo se le puede encontrar jugando hasta altas horas de la madrugada. [PAWN_pronoun] encaja en todos los estereotipos negativos, desde la habitación desordenada hasta la torpeza social, pero al menos [PAWN_pronoun] ha aprendido algunas cosas sobre artesanía y minería.</VBE_AddictedGamer.description>
+
+  <!-- EN: Adventurous dreamer -->
+  <VBE_AdventurousDreamer.title>soñador aventurero</VBE_AdventurousDreamer.title>
+    <VBE_AdventurousDreamer.titleFemale>soñadora aventurera</VBE_AdventurousDreamer.titleFemale>
+  <!-- EN: Dreamer -->
+  <VBE_AdventurousDreamer.titleShort>soñador</VBE_AdventurousDreamer.titleShort>
+    <VBE_AdventurousDreamer.titleShortFemale>soñadora</VBE_AdventurousDreamer.titleShortFemale>
+  <!-- EN: [PAWN_nameDef] spent [PAWN_possessive] childhood consuming outlandish fiction in all its forms, dreaming of exploring fantastic worlds and finding treasures of every variety. Though [PAWN_pronoun] settled more into the mundanity of [PAWN_possessive] life as time passed, [PAWN_pronoun] never lost that spark of hope for something more exciting. -->
+  <VBE_AdventurousDreamer.description>[PAWN_nameDef] pasó su infancia consumiendo ficción extravagante en todas sus formas, soñando con explorar mundos fantásticos y encontrar tesoros de toda variedad. Aunque [PAWN_pronoun] se asentó más en la mundanidad de su vida con el paso del tiempo, [PAWN_pronoun] nunca perdió esa chispa de esperanza por algo más emocionante.</VBE_AdventurousDreamer.description>
+
+  <!-- EN: Aimless dilettante -->
+  <VBE_AimlessDilettante.title>diletante sin rumbo</VBE_AimlessDilettante.title>
+  <!-- EN: Dilettante -->
+  <VBE_AimlessDilettante.titleShort>diletante</VBE_AimlessDilettante.titleShort>
+  <!-- EN: [PAWN_nameDef] was born into privilege but never quite knew what to do with [PAWN_possessive] life. Despite skilled tutors for everything from fencing to horticulture, [PAWN_pronoun] never really excelled at anything. -->
+  <VBE_AimlessDilettante.description>[PAWN_nameDef] nació en el privilegio pero nunca supo muy bien qué hacer con su vida. A pesar de tener tutores expertos para todo, desde esgrima hasta horticultura, [PAWN_pronoun] nunca destacó realmente en nada.</VBE_AimlessDilettante.description>
+
+  <!-- EN: Android hunter -->
+  <VBE_AndroidHunter.title>cazador de androides</VBE_AndroidHunter.title>
+    <VBE_AndroidHunter.titleFemale>cazadora de androides</VBE_AndroidHunter.titleFemale>
+  <!-- EN: Hunter -->
+  <VBE_AndroidHunter.titleShort>cazador</VBE_AndroidHunter.titleShort>
+    <VBE_AndroidHunter.titleShortFemale>cazadora</VBE_AndroidHunter.titleShortFemale>
+  <!-- EN: [PAWN_nameDef] has made quite a handsome living off of hunting the incognito androids, as well as catering to the ultra elite's more exotic and eclectic tastes in blood sports. Completely supported by the enormous wealth, [PAWN_pronoun] is incredibly proficient at hunting and tracking dangerous prey. -->
+  <VBE_AndroidHunter.description>[PAWN_nameDef] se ha ganado la vida bastante bien cazando androides de incógnito, además de satisfacer los gustos más exóticos y eclécticos de la ultra élite en deportes de sangre. Apoyad{PAWN_gender ? o : a} completamente por una enorme riqueza, [PAWN_pronoun] es increíblemente competente en la caza y el rastreo de presas peligrosas.</VBE_AndroidHunter.description>
+
+  <!-- EN: Animatronic mechanic -->
+  <VBE_AnimatronicMechanic.title>mecánico de animat.</VBE_AnimatronicMechanic.title>
+    <VBE_AnimatronicMechanic.titleFemale>mecánica de animatrónicos</VBE_AnimatronicMechanic.titleFemale>
+  <!-- EN: Mechanic -->
+  <VBE_AnimatronicMechanic.titleShort>mecánico</VBE_AnimatronicMechanic.titleShort>
+    <VBE_AnimatronicMechanic.titleShortFemale>mecánica</VBE_AnimatronicMechanic.titleShortFemale>
+  <!-- EN: [PAWN_nameDef] was a mechanic who specialized in the construction of animatronics. [PAWN_possessive] creations were often used in movie production, restaurants, theme parks and theater productions. -->
+  <VBE_AnimatronicMechanic.description>[PAWN_nameDef] era un{PAWN_gender ?  : a} mecánic{PAWN_gender ? o : a} especializad{PAWN_gender ? o : a} en la construcción de animatrónicos. Sus creaciones se utilizaban a menudo en producciones cinematográficas, restaurantes, parques temáticos y producciones teatrales.</VBE_AnimatronicMechanic.description>
+
+  <!-- EN: Anomalous creature researcher -->
+  <VBE_AnomalousCreatureResearcher.title>investig. criat. anom.</VBE_AnomalousCreatureResearcher.title>
+    <VBE_AnomalousCreatureResearcher.titleFemale>investig. criat. anom.</VBE_AnomalousCreatureResearcher.titleFemale>
+  <!-- EN: Researcher -->
+  <VBE_AnomalousCreatureResearcher.titleShort>investigador</VBE_AnomalousCreatureResearcher.titleShort>
+    <VBE_AnomalousCreatureResearcher.titleShortFemale>investigadora</VBE_AnomalousCreatureResearcher.titleShortFemale>
+  <!-- EN: Part of a secret organization dedicated to the capture and study of phenomena deemed "anomalous", [PAWN_nameDef] was part of a department dedicated to the capture and  study of anomalous creatures. After one too many containment breaches, [PAWN_nameDef] was left traumatized, and left the organization. -->
+  <VBE_AnomalousCreatureResearcher.description>Parte de una organización secreta dedicada a la captura y estudio de fenómenos considerados "anómalos", [PAWN_nameDef] pertenecía a un departamento dedicado a la captura y estudio de criaturas anómalas. Después de demasiadas brechas de contención, [PAWN_nameDef] quedó traumatizad{PAWN_gender ? o : a} y abandonó la organización.</VBE_AnomalousCreatureResearcher.description>
+
+  <!-- EN: Apprentice -->
+  <VBE_Apprentice.title>aprendiz</VBE_Apprentice.title>
+    <VBE_Apprentice.titleFemale>aprendiza</VBE_Apprentice.titleFemale>
+  <!-- EN: Apprentice -->
+  <VBE_Apprentice.titleShort>aprendiz</VBE_Apprentice.titleShort>
+    <VBE_Apprentice.titleShortFemale>aprendiza</VBE_Apprentice.titleShortFemale>
+  <!-- EN: Once of age, a young [PAWN_nameDef] took to study under the great masters, learning from the bottom up. [PAWN_pronoun] left family and home to pursue a passion and trade. The work was grueling, but it was all worth to carve out [PAWN_possessive] own path. -->
+  <VBE_Apprentice.description>Una vez alcanzada la mayoría de edad, un{PAWN_gender ?  : a} joven [PAWN_nameDef] se puso a estudiar bajo los grandes maestros, aprendiendo desde abajo. [PAWN_pronoun] dejó a su familia y su hogar para perseguir una pasión y un oficio. El trabajo fue agotador, pero todo valió la pena para forjar su propio camino.</VBE_Apprentice.description>
+
+  <!-- EN: Aquaponic worker -->
+  <VBE_AquaponicWorker.title>trabajador acuapónico</VBE_AquaponicWorker.title>
+    <VBE_AquaponicWorker.titleFemale>trabajadora acuapónica</VBE_AquaponicWorker.titleFemale>
+  <!-- EN: Fishfarmer -->
+  <VBE_AquaponicWorker.titleShort>piscicultor</VBE_AquaponicWorker.titleShort>
+    <VBE_AquaponicWorker.titleShortFemale>piscicultora</VBE_AquaponicWorker.titleShortFemale>
+  <!-- EN: [PAWN_nameDef] used to work in an aquaponic lab. [PAWN_pronoun] was tasked with the production of fish and vegetables for [PAWN_possessive] colony. While [PAWN_possessive] work was important it did leave little time for socializing. -->
+  <VBE_AquaponicWorker.description>[PAWN_nameDef] solía trabajar en un laboratorio acuapónico. Se le encargó la producción de pescado y verduras para su colonia. Aunque su trabajo era importante, dejaba poco tiempo para socializar.</VBE_AquaponicWorker.description>
+
+  <!-- EN: Archotech fanatic -->
+  <VBE_ArchotechFanatic.title>fanático arqueotécnico</VBE_ArchotechFanatic.title>
+    <VBE_ArchotechFanatic.titleFemale>fanática arqueotécnica</VBE_ArchotechFanatic.titleFemale>
+  <!-- EN: Archofanatic -->
+  <VBE_ArchotechFanatic.titleShort>arcofanático</VBE_ArchotechFanatic.titleShort>
+    <VBE_ArchotechFanatic.titleShortFemale>arcofanática</VBE_ArchotechFanatic.titleShortFemale>
+  <!-- EN: [PAWN_nameDef] claims that [PAWN_possessive] mind has been visited by an omnipotent entity that manifests itself through advanced archotech objects. While [PAWN_nameDef] shows great affinity towards technology and research, [PAWN_pronoun] harbors equally strong disgust when it comes to plants and animals. -->
+  <VBE_ArchotechFanatic.description>[PAWN_nameDef] afirma que su mente ha sido visitada por una entidad omnipotente que se manifiesta a través de objetos arqueotecnológicos avanzados. Aunque [PAWN_nameDef] muestra una gran afinidad por la tecnología y la investigación, [PAWN_pronoun] alberga un disgusto igualmente fuerte por las plantas y los animales.</VBE_ArchotechFanatic.description>
+
+  <!-- EN: Art critic -->
+  <VBE_ArtCritic.title>crítico de arte</VBE_ArtCritic.title>
+    <VBE_ArtCritic.titleFemale>crítica de arte</VBE_ArtCritic.titleFemale>
+  <!-- EN: Critic -->
+  <VBE_ArtCritic.titleShort>crítico</VBE_ArtCritic.titleShort>
+    <VBE_ArtCritic.titleShortFemale>crítica</VBE_ArtCritic.titleShortFemale>
+  <!-- EN: [PAWN_nameDef] has made a name for themselves as one of the most influential critics. [PAWN_possessive] reviews could make or break careers. -->
+  <VBE_ArtCritic.description>[PAWN_nameDef] se ha hecho un nombre como uno de los críticos más influyentes. Sus reseñas podían lanzar o destruir carreras.</VBE_ArtCritic.description>
+
+  <!-- EN: Atomic bombardier -->
+  <VBE_AtomicBombardier.title>bombardero atómico</VBE_AtomicBombardier.title>
+    <VBE_AtomicBombardier.titleFemale>bombardera atómica</VBE_AtomicBombardier.titleFemale>
+  <!-- EN: Bombardier -->
+  <VBE_AtomicBombardier.titleShort>bombardero</VBE_AtomicBombardier.titleShort>
+    <VBE_AtomicBombardier.titleShortFemale>bombardera</VBE_AtomicBombardier.titleShortFemale>
+  <!-- EN: [PAWN_nameDef] was responsible for lining up and releasing nuclear bombs over enemy territory. During [PAWN_possessive] years of service, [PAWN_possessive] aim became very accurate, and [PAWN_possessive]  mind desensitized to death. -->
+  <VBE_AtomicBombardier.description>[PAWN_nameDef] era responsable de alinear y lanzar bombas nucleares sobre territorio enemigo. Durante sus años de servicio, su puntería se volvió muy precisa y su mente se desensibilizó ante la muerte.</VBE_AtomicBombardier.description>
+
+  <!-- EN: Barber -->
+  <VBE_Barber.title>barbero</VBE_Barber.title>
+    <VBE_Barber.titleFemale>barbera</VBE_Barber.titleFemale>
+  <!-- EN: Barber -->
+  <VBE_Barber.titleShort>barbero</VBE_Barber.titleShort>
+    <VBE_Barber.titleShortFemale>barbera</VBE_Barber.titleShortFemale>
+  <!-- EN: [PAWN_nameDef] worked as a barber, cutting and styling hair. [PAWN_pronoun] knows [PAWN_possessive] way around a pair of scissors and can keep conversations going with [PAWN_possessive] clients. -->
+  <VBE_Barber.description>[PAWN_nameDef] trabajó como barber{PAWN_gender ? o : a}, cortando y peinando el cabello. [PAWN_pronoun] sabe manejarse con las tijeras y puede mantener conversaciones fluidas con sus clientes.</VBE_Barber.description>
+
+  <!-- EN: Bioweapon -->
+  <VBE_Bioweapon.title>arma biológica</VBE_Bioweapon.title>
+    <VBE_Bioweapon.titleFemale>arma biológica</VBE_Bioweapon.titleFemale>
+  <!-- EN: Bioweapon -->
+  <VBE_Bioweapon.titleShort>arma biológica</VBE_Bioweapon.titleShort>
+    <VBE_Bioweapon.titleShortFemale>arma biológica</VBE_Bioweapon.titleShortFemale>
+  <!-- EN: [PAWN_nameDef] was created in a lab in an attempt to splice genomes in the search for a better soldier. The experiment was deemed a failure and [PAWN_pronoun] was put down for disposal. The methods used were sloppy and [PAWN_pronoun] survived the ordeal. [PAWN_pronoun] later managed to find [PAWN_possessive] former masters and destroyed the facility. -->
+  <VBE_Bioweapon.description>[PAWN_nameDef] fue cread{PAWN_gender ? o : a} en un laboratorio en un intento de empalmar genomas en la búsqueda de un{PAWN_gender ?  : a} soldad{PAWN_gender ? o : a} mejor. El experimento se consideró un fracaso y [PAWN_pronoun] fue enviad{PAWN_gender ? o : a} a eliminación. Los métodos utilizados fueron descuidados y [PAWN_pronoun] sobrevivió a la terrible experiencia. Más tarde logró encontrar a sus antiguos maestros y destruyó las instalaciones.</VBE_Bioweapon.description>
+
+  <!-- EN: Blackguard -->
+  <VBE_Blackguard.title>canalla</VBE_Blackguard.title>
+    <VBE_Blackguard.titleFemale>canalla</VBE_Blackguard.titleFemale>
+  <!-- EN: Blackguard -->
+  <VBE_Blackguard.titleShort>canalla</VBE_Blackguard.titleShort>
+    <VBE_Blackguard.titleShortFemale>canalla</VBE_Blackguard.titleShortFemale>
+  <!-- EN: [PAWN_nameDef] carries with [PAWN_objective] a cloud of misfortune, causing [PAWN_objective] to be chased out of every town [PAWN_pronoun]'s lived in due to people's superstitions. Despite being followed by disaster at every turn, [PAWN_pronoun] has learned to fend for [PAWN_pronoun]self and become self-sufficient. -->
+  <VBE_Blackguard.description>[PAWN_nameDef] lleva consigo una nube de infortunio, lo que provoca que {PAWN_gender ? lo : la} expulsen de cada ciudad en la que ha vivido debido a las supersticiones de la gente. A pesar de ser perseguid{PAWN_gender ? o : a} por el desastre a cada paso, [PAWN_pronoun] ha aprendido a valerse por sí mism{PAWN_gender ? o : a} y a ser autosuficiente.</VBE_Blackguard.description>
+
+  <!-- EN: Blacksmith apprentice -->
+  <VBE_BlacksmithApprentice.title>aprendiz de herrero</VBE_BlacksmithApprentice.title>
+    <VBE_BlacksmithApprentice.titleFemale>aprendiza de herrera</VBE_BlacksmithApprentice.titleFemale>
+  <!-- EN: Apprentice -->
+  <VBE_BlacksmithApprentice.titleShort>aprendiz</VBE_BlacksmithApprentice.titleShort>
+    <VBE_BlacksmithApprentice.titleShortFemale>aprendiza</VBE_BlacksmithApprentice.titleShortFemale>
+  <!-- EN: [PAWN_nameDef] worked under a respected blacksmith as a young apprentice. [PAWN_possessive] daily duties included tending the forge, hauling supplies, and sometimes making smaller and simpler tools.\n\n[PAWN_possessive] favorite thing to make was small daggers and wooden weapons for [PAWN_possessive] fellow children, which made [PAWN_objective] quite popular. -->
+  <VBE_BlacksmithApprentice.description>[PAWN_nameDef] trabajó bajo un{PAWN_gender ?  : a} respetad{PAWN_gender ? o : a} herrer{PAWN_gender ? o : a} como joven aprendiz. Sus tareas diarias incluían atender la forja, acarrear suministros y, a veces, fabricar herramientas más pequeñas y sencillas.\n\nLo que más le gustaba fabricar eran pequeñas dagas y armas de madera para sus compañeros de infancia, lo que {PAWN_gender ? lo : la} hizo bastante popular.</VBE_BlacksmithApprentice.description>
+
+  <!-- EN: Blood knight -->
+  <VBE_BloodKnight.title>caballero de sangre</VBE_BloodKnight.title>
+    <VBE_BloodKnight.titleFemale>caballera de sangre</VBE_BloodKnight.titleFemale>
+  <!-- EN: Bloodletter -->
+  <VBE_BloodKnight.titleShort>sangrador</VBE_BloodKnight.titleShort>
+    <VBE_BloodKnight.titleShortFemale>sangradora</VBE_BloodKnight.titleShortFemale>
+  <!-- EN: [PAWN_nameDef] was a Blood Knight of the Empire, earning that title after going through years of rigorous and potentially deadly training. [PAWN_possessive] duty, and sole purpose for the empire was to cut down anyone that would dare to challenge their rule. [PAWN_nameDef] is merciless, and will do anything and everything in [PAWN_possessive] power to make [PAWN_possessive] enemies pass into the afterlife. -->
+  <VBE_BloodKnight.description>[PAWN_nameDef] era un{PAWN_gender ?  : a} Caballer{PAWN_gender ? o : a} de Sangre del Imperio, ganando ese título tras pasar por años de entrenamiento riguroso y potencialmente mortal. Su deber y único propósito para el imperio era abatir a cualquiera que se atreviera a desafiar su gobierno. [PAWN_nameDef] es despiadad{PAWN_gender ? o : a} y hará todo lo que esté a su alcance para hacer que sus enemigos pasen al más allá.</VBE_BloodKnight.description>
+
+  <!-- EN: Bloodline founder -->
+  <VBE_BloodlineFounder.title>fundador de linaje</VBE_BloodlineFounder.title>
+    <VBE_BloodlineFounder.titleFemale>fundadora de linaje</VBE_BloodlineFounder.titleFemale>
+  <!-- EN: Founder -->
+  <VBE_BloodlineFounder.titleShort>fundador</VBE_BloodlineFounder.titleShort>
+    <VBE_BloodlineFounder.titleShortFemale>fundadora</VBE_BloodlineFounder.titleShortFemale>
+  <!-- EN: [PAWN_nameDef] had a very contested origin, with no one willing to admit their lineage to [PAWN_possessive] bloodline. Somehow though, [PAWN_pronoun] was of noble birth, having been raised by those uncaring of such matters. When [PAWN_possessive] rights to high royalty came to light, suddenly everyone wanted to have a slice of the cake. -->
+  <VBE_BloodlineFounder.description>[PAWN_nameDef] tuvo un origen muy disputado, sin que nadie estuviera dispuesto a admitir su linaje. Sin embargo, de alguna manera, [PAWN_pronoun] era de nacimiento noble, habiendo sido criad{PAWN_gender ? o : a} por personas a las que no les importaban tales asuntos. Cuando salieron a la luz sus derechos a la alta realeza, de repente todos quisieron una tajada del pastel.</VBE_BloodlineFounder.description>
+
+  <!-- EN: Bounty hunter -->
+  <VBE_BountyHunter.title>cazador de recompensas</VBE_BountyHunter.title>
+    <VBE_BountyHunter.titleFemale>cazadora de recompensas</VBE_BountyHunter.titleFemale>
+  <!-- EN: Hunter -->
+  <VBE_BountyHunter.titleShort>cazador</VBE_BountyHunter.titleShort>
+    <VBE_BountyHunter.titleShortFemale>cazadora</VBE_BountyHunter.titleShortFemale>
+  <!-- EN: [PAWN_nameDef] takes a lot of pride in [PAWN_possessive] to find, capture and deliver individuals who have pissed off the wrong people, primarily if it involves a large cash influx in [PAWN_possessive] direction. It might not be the most glamorous job but it pays for a decent lifestyle and that's all [PAWN_pronoun] has ever really wanted in life. Plus [PAWN_pronoun] gets to shoot people in the face, which can be surprisingly therapeutic. -->
+  <VBE_BountyHunter.description>[PAWN_nameDef] se enorgullece mucho de su capacidad para encontrar, capturar y entregar a individuos que han molestado a la gente equivocada, principalmente si ello implica una gran entrada de efectivo en su dirección. Puede que no sea el trabajo más glamuroso, pero paga un estilo de vida decente y eso es todo lo que [PAWN_pronoun] ha querido en la vida. Además, [PAWN_pronoun] puede disparar a la gente en la cara, lo que puede ser sorprendentemente terapéutico.</VBE_BountyHunter.description>
+
+  <!-- EN: Bull leaper -->
+  <VBE_Bullleaper.title>saltador de toros</VBE_Bullleaper.title>
+    <VBE_Bullleaper.titleFemale>saltadora de toros</VBE_Bullleaper.titleFemale>
+  <!-- EN: Acrobat -->
+  <VBE_Bullleaper.titleShort>acróbata</VBE_Bullleaper.titleShort>
+    <VBE_Bullleaper.titleShortFemale>acróbata</VBE_Bullleaper.titleShortFemale>
+  <!-- EN: [PAWN_nameDef] is a dancer and an acrobat. [PAWN_pronoun] used to dance around and leap over the back of a charging bull to entertain the crowd. All bull leapers have to be very agile, but what made [PAWN_objective] especially good was [PAWN_possessive] deep understanding of the animal's behavior. As bull leaping is a very dangerous activity, [PAWN_nameDef] often had to provide first aid to wounded colleagues. -->
+  <VBE_Bullleaper.description>[PAWN_nameDef] es bailarín y acróbata. [PAWN_pronoun] solía bailar y saltar sobre el lomo de un toro en embestida para entretener a la multitud. Todos los saltadores de toros tienen que ser muy ágiles, pero lo que {PAWN_gender ? lo : la} hacía especialmente buen{PAWN_gender ? o : a} era su profundo conocimiento del comportamiento del animal. Como el salto del toro es una actividad muy peligrosa, [PAWN_nameDef] a menudo tenía que prestar primeros auxilios a sus colegas heridos.</VBE_Bullleaper.description>
+
+  <!-- EN: Bureaucratic programmer -->
+  <VBE_BureaucraticProgrammer.title>programador burocrático</VBE_BureaucraticProgrammer.title>
+    <VBE_BureaucraticProgrammer.titleFemale>programadora burocrática</VBE_BureaucraticProgrammer.titleFemale>
+  <!-- EN: bureaucrat -->
+  <VBE_BureaucraticProgrammer.titleShort>burócrata</VBE_BureaucraticProgrammer.titleShort>
+    <VBE_BureaucraticProgrammer.titleShortFemale>burócrata</VBE_BureaucraticProgrammer.titleShortFemale>
+  <!-- EN: [PAWN_nameDef] spent [PAWN_possessive] adult life coding programs to extract data from bureaucratic forms so they could automatically fill out other forms. Of course, since other bureaucrats legally had to double-check [PAWN_possessive] program's results, the actual work savings were marginal at best. [PAWN_pronoun] has spent too much time behind a desk to be much use at manual labor. -->
+  <VBE_BureaucraticProgrammer.description>[PAWN_nameDef] pasó su vida adulta codificando programas para extraer datos de formularios burocráticos para que pudieran rellenar automáticamente otros formularios. Por supuesto, dado que otros burócratas tenían que comprobar legalmente los resultados de su programa, el ahorro de trabajo real era marginal en el mejor de los casos. [PAWN_pronoun] ha pasado demasiado tiempo detrás de un escritorio para ser de mucha utilidad en el trabajo manual.</VBE_BureaucraticProgrammer.description>
+
+  <!-- EN: Cannibalistic surgeon -->
+  <VBE_CannibalisticSurgeon.title>cirujano caníbal</VBE_CannibalisticSurgeon.title>
+    <VBE_CannibalisticSurgeon.titleFemale>cirujana caníbal</VBE_CannibalisticSurgeon.titleFemale>
+  <!-- EN: Surgeon -->
+  <VBE_CannibalisticSurgeon.titleShort>cirujano</VBE_CannibalisticSurgeon.titleShort>
+    <VBE_CannibalisticSurgeon.titleShortFemale>cirujana</VBE_CannibalisticSurgeon.titleShortFemale>
+  <!-- EN: [PAWN_nameDef] was a surgeon at a prestigious institution until [PAWN_possessive] tendency to take 'culinary liberties' with the deceased was revealed. Rather than damage [PAWN_possessive] reputation by going public, [PAWN_pronoun] was offered a one way trip to a distant rimworld as a 'retirement package'. -->
+  <VBE_CannibalisticSurgeon.description>[PAWN_nameDef] era cirujan{PAWN_gender ? o : a} en una institución prestigiosa hasta que se reveló su tendencia a tomarse "libertades culinarias" con los difuntos. En lugar de dañar su reputación haciéndolo público, se le ofreció un viaje de ida a un lejano mundo fronterizo como "paquete de jubilación".</VBE_CannibalisticSurgeon.description>
+
+  <!-- EN: Cannonfodder -->
+  <VBE_Cannonfodder.title>carne de cañón</VBE_Cannonfodder.title>
+    <VBE_Cannonfodder.titleFemale>carne de cañón</VBE_Cannonfodder.titleFemale>
+  <!-- EN: Cannonfodder -->
+  <VBE_Cannonfodder.titleShort>carne de cañón</VBE_Cannonfodder.titleShort>
+    <VBE_Cannonfodder.titleShortFemale>carne de cañón</VBE_Cannonfodder.titleShortFemale>
+  <!-- EN: [PAWN_nameDef] didn't have any opportunities or connections with influential individuals after reaching adulthood. Knowing [PAWN_possessive] only opportunity was to join the military, [PAWN_pronoun] enlisted into the lowest ranks of the army. -->
+  <VBE_Cannonfodder.description>[PAWN_nameDef] no tuvo oportunidades ni conexiones con individuos influyentes tras alcanzar la edad adulta. Sabiendo que su única oportunidad era unirse al ejército, se alistó en los rangos más bajos del ejército.</VBE_Cannonfodder.description>
+
+  <!-- EN: Catastrophe -->
+  <VBE_Catastrophe.title>catástrofe</VBE_Catastrophe.title>
+    <VBE_Catastrophe.titleFemale>catástrofe</VBE_Catastrophe.titleFemale>
+  <!-- EN: Catastrophe -->
+  <VBE_Catastrophe.titleShort>catástrofe</VBE_Catastrophe.titleShort>
+    <VBE_Catastrophe.titleShortFemale>catástrofe</VBE_Catastrophe.titleShortFemale>
+  <!-- EN: Misfortune has followed [PAWN_nameDef] wherever [PAWN_pronoun] has stayed for an extended period. Natural disasters, raids, infestations, bombardments, slavers are just some of the events those who associate with [PAWN_objective] have had to live through. However, through the death and devastation, [PAWN_pronoun] has managed to pull through by the skin of [PAWN_possessive] teeth. -->
+  <VBE_Catastrophe.description>El infortunio ha seguido a [PAWN_nameDef] dondequiera que se haya quedado por un periodo prolongado. Desastres naturales, asaltos, infestaciones, bombardeos y esclavistas son solo algunos de los eventos que quienes se asocian con [PAWN_objective] han tenido que vivir. Sin embargo, a través de la muerte y la devastación, [PAWN_pronoun] ha logrado salir adelante por los pelos.</VBE_Catastrophe.description>
+
+  <!-- EN: Cave-in survivor -->
+  <VBE_CaveinSurvivor.title>superviv. derrumbe</VBE_CaveinSurvivor.title>
+    <VBE_CaveinSurvivor.titleFemale>superviviente de derrumbe</VBE_CaveinSurvivor.titleFemale>
+  <!-- EN: Survivor -->
+  <VBE_CaveinSurvivor.titleShort>superviviente</VBE_CaveinSurvivor.titleShort>
+    <VBE_CaveinSurvivor.titleShortFemale>superviviente</VBE_CaveinSurvivor.titleShortFemale>
+  <!-- EN: Forced into thralldom after [PAWN_possessive] clan was destroyed, [PAWN_nameDef] was quickly thrown into the mines, digging for precious metals. Due to a lack of safety and care for [PAWN_objective] life from [PAWN_objective] captors, the mine collapsed, leaving [PAWN_nameDef] as the only survivor. To ensure [PAWN_pronoun] never needs to return, [PAWN_pronoun] became an adept artisan, and would at times become violent when pressed towards the mines. -->
+  <VBE_CaveinSurvivor.description>Forzado a la esclavitud después de que su clan fuera destruido, [PAWN_nameDef] fue rápidamente arrojado a las minas, excavando metales preciosos. Debido a la falta de seguridad y cuidado por su vida por parte de sus captores, la mina se derrumbó, dejando a [PAWN_nameDef] como único superviviente. Para asegurarse de no tener que volver jamás, se convirtió en un hábil artesano, y a veces se volvía violento cuando lo presionaban para ir a las minas.</VBE_CaveinSurvivor.description>
+
+  <!-- EN: Centurion's deputy -->
+  <VBE_CenturionsDeputy.title>subalt. centurión</VBE_CenturionsDeputy.title>
+    <VBE_CenturionsDeputy.titleFemale>subalterna del centurión</VBE_CenturionsDeputy.titleFemale>
+  <!-- EN: Optio -->
+  <VBE_CenturionsDeputy.titleShort>optio</VBE_CenturionsDeputy.titleShort>
+    <VBE_CenturionsDeputy.titleShortFemale>optio</VBE_CenturionsDeputy.titleShortFemale>
+  <!-- EN: [PAWN_nameDef] served in [PAWN_possessive] government's military with distinction, eventually rewarded with the rank of optio and would succeed in becoming a centurion once [PAWN_possessive] superior was promoted. In general, [PAWN_pronoun] was quite simple with these new responsibilities as the centurion ran a tight crew and rarely had to deal with insubordination, which resulted in [PAWN_nameDef] missing out on some key disciplinarian training. -->
+  <VBE_CenturionsDeputy.description>[PAWN_nameDef] sirvió en el ejército de su gobierno con distinción, siendo finalmente recompensado con el rango de optio y llegaría a convertirse en centurión una vez que su superior fuera ascendido. En general, fue bastante sencillo con estas nuevas responsabilidades, ya que el centurión dirigía una tripulación disciplinada y rara vez tenía que lidiar con la insubordinación, lo que resultó en que [PAWN_nameDef] se perdiera parte del entrenamiento disciplinario clave.</VBE_CenturionsDeputy.description>
+
+  <!-- EN: Chemfuel farmer -->
+  <VBE_ChemfuelFarmer.title>granjero quimicomb.</VBE_ChemfuelFarmer.title>
+    <VBE_ChemfuelFarmer.titleFemale>granjera quimicomb.</VBE_ChemfuelFarmer.titleFemale>
+  <!-- EN: Farmer -->
+  <VBE_ChemfuelFarmer.titleShort>granjero</VBE_ChemfuelFarmer.titleShort>
+    <VBE_ChemfuelFarmer.titleShortFemale>granjera</VBE_ChemfuelFarmer.titleShortFemale>
+  <!-- EN: [PAWN_nameDef] is an entrepreneur. [PAWN_pronoun] recognized immediately how much money was to be made with chemfuel, a substance so widely used that demand never seems to go down, no matter how much of the stuff you sell. [PAWN_pronoun] first convinced [PAWN_possessive] family to buy a boomalope ranch, then his neighbors to plant chemroot. Soon, the whole town was refining everything they could get their hands on. Since the storm of last summer, [PAWN_pronoun] has been looking for a new town to live in. Anywhere, really: [PAWN_pronoun] has no family to tie him down. -->
+  <VBE_ChemfuelFarmer.description>[PAWN_nameDef] es un{PAWN_gender ?  : a} emprendedor{PAWN_gender ? o : a}. Reconoció de inmediato cuánto dinero se podía ganar con el quimicocombustible, una sustancia tan utilizada que la demanda nunca parece bajar, sin importar cuánto vendas. Primero convenció a su familia para comprar un rancho de bumbálopes, luego a sus vecinos para plantar quimicoraíz. Pronto, todo el pueblo estaba refinando todo lo que caía en sus manos. Desde la tormenta del verano pasado, [PAWN_pronoun] ha estado buscando un nuevo pueblo donde vivir. En cualquier lugar, en realidad: no tiene familia que {PAWN_gender ? lo : la} ate.</VBE_ChemfuelFarmer.description>
+
+  <!-- EN: Chemist -->
+  <VBE_Chemist.title>químico</VBE_Chemist.title>
+    <VBE_Chemist.titleFemale>química</VBE_Chemist.titleFemale>
+  <!-- EN: Chemist -->
+  <VBE_Chemist.titleShort>químico</VBE_Chemist.titleShort>
+    <VBE_Chemist.titleShortFemale>química</VBE_Chemist.titleShortFemale>
+  <!-- EN: [PAWN_nameDef] has mastered the art of chemistry. It proved to be a quite versatile skill in [PAWN_possessive] life - from volcano for a science fair to homemade bombs, odds are [PAWN_nameDef] knows how to create that. -->
+  <VBE_Chemist.description>[PAWN_nameDef] ha dominado el arte de la química. Resultó ser una habilidad muy versátil en su vida: desde un volcán para una feria de ciencias hasta bombas caseras, lo más probable es que [PAWN_nameDef] sepa cómo crearlo.</VBE_Chemist.description>
+
+  <!-- EN: Child soldier -->
+  <VBE_ChildSoldier.title>niño soldado</VBE_ChildSoldier.title>
+  <!-- EN: Soldier -->
+  <VBE_ChildSoldier.titleShort>soldado</VBE_ChildSoldier.titleShort>
+  <!-- EN: [PAWN_nameDef] was taken in at a very early age and was conditioned to the horrors of war. While being a capable soldier in [PAWN_possessive] own right, [PAWN_pronoun] excelled as a low-profile medic to tend to the wounded as well as a spy to be sent into enemy encampments. -->
+  <VBE_ChildSoldier.description>[PAWN_nameDef] fue acogid{PAWN_gender ? o : a} a una edad muy temprana y condicionad{PAWN_gender ? o : a} a los horrores de la guerra. Aunque era un{PAWN_gender ?  : a} soldad{PAWN_gender ? o : a} capaz por derecho propio, destacó como médic{PAWN_gender ? o : a} de bajo perfil para atender a los heridos, así como espía para ser enviad{PAWN_gender ? o : a} a los campamentos enemigos.</VBE_ChildSoldier.description>
+
+  <!-- EN: Child of the anima tree -->
+  <VBE_ChildofTheAnimaTree.title>hijo del árbol de ánima</VBE_ChildofTheAnimaTree.title>
+    <VBE_ChildofTheAnimaTree.titleFemale>hija del árbol de ánima</VBE_ChildofTheAnimaTree.titleFemale>
+  <!-- EN: Psychic -->
+  <VBE_ChildofTheAnimaTree.titleShort>psíquico</VBE_ChildofTheAnimaTree.titleShort>
+    <VBE_ChildofTheAnimaTree.titleShortFemale>psíquica</VBE_ChildofTheAnimaTree.titleShortFemale>
+  <!-- EN: [PAWN_nameDef] was born and raised in close proximity to an Anima tree. [PAWN_possessive] village taught [PAWN_objective] about the tree's importance and how to take good care of it. As a result of spending so much time with the tree, [PAWN_pronoun] developed a profound connection to the psychic energies of this world. -->
+  <VBE_ChildofTheAnimaTree.description>[PAWN_nameDef] nació y creció cerca de un árbol de Ánima. Su aldea le enseñó la importancia del árbol y cómo cuidarlo bien. Como resultado de pasar tanto tiempo con el árbol, desarrolló una profunda conexión con las energías psíquicas de este mundo.</VBE_ChildofTheAnimaTree.description>
+
+  <!-- EN: Civil rights activist -->
+  <VBE_CivilRightsActivist.title>activista D.C.</VBE_CivilRightsActivist.title>
+  <!-- EN: Activist -->
+  <VBE_CivilRightsActivist.titleShort>activista</VBE_CivilRightsActivist.titleShort>
+  <!-- EN: [PAWN_nameDef] became aware of various societal injustices not long after leaving [PAWN_possessive] family home for higher education, and sought to become a force for positive change. [PAWN_pronoun] organized rallies in front of administrative buildings during semester breaks, designing signs and slogans. -->
+  <VBE_CivilRightsActivist.description>[PAWN_nameDef] se dio cuenta de varias injusticias sociales poco después de dejar el hogar familiar para cursar estudios superiores, y buscó convertirse en una fuerza para el cambio positivo. Organizó mítines frente a edificios administrativos durante los descansos semestrales, diseñando carteles y eslóganes.</VBE_CivilRightsActivist.description>
+
+  <!-- EN: Cloned heir -->
+  <VBE_ClonedHeir.title>heredero clonado</VBE_ClonedHeir.title>
+  <!-- EN: Clone -->
+  <VBE_ClonedHeir.titleShort>clon</VBE_ClonedHeir.titleShort>
+  <!-- EN: [PAWN_nameDef] was created to replace the missing heir of a noble house, but did not turn out quite right. Despite the best efforts of [PAWN_possessive] tutors, [PAWN_pronoun] was far more interested in bloodshed than the intricacies of the court.
+
+When the heir turned out to be alive after all, [PAWN_nameDef] was discarded to make room for [PAWN_possessive] genetic source. -->
+  <VBE_ClonedHeir.description>[PAWN_nameDef] fue cread{PAWN_gender ? o : a} para reemplazar al heredero desaparecido de una casa noble, pero no salió del todo bien. A pesar de los mejores esfuerzos de sus tutores, [PAWN_pronoun] estaba mucho más interesad{PAWN_gender ? o : a} en el derramamiento de sangre que en las intrincadezas de la corte.\n\nCuando resultó que el heredero estaba vivo después de todo, [PAWN_nameDef] fue descartado para dejar espacio a su fuente genética.</VBE_ClonedHeir.description>
+
+  <!-- EN: Cog in the machine -->
+  <VBE_CoginTheMachine.title>engranaje de la máquina</VBE_CoginTheMachine.title>
+  <!-- EN: Cog -->
+  <VBE_CoginTheMachine.titleShort>engranaje</VBE_CoginTheMachine.titleShort>
+  <!-- EN: [PAWN_nameDef] lived on a very organized and efficient world. [PAWN_pronoun] was trained from birth to do one very specialized job: to paint one specific screw in a specific shade of gray. One day, [PAWN_pronoun] decided to paint the screws green. The other workers couldn't cope with this unforeseen change and stopped working. The chaos spread, and [PAWN_nameDef] soon had to flee a world plunged in anarchy. -->
+  <VBE_CoginTheMachine.description>[PAWN_nameDef] vivía en un mundo muy organizado y eficiente. Fue entrenad{PAWN_gender ? o : a} desde su nacimiento para hacer un trabajo muy especializado: pintar un tornillo específico en un tono de gris específico. Un día, decidió pintar los tornillos de verde. Los otros trabajadores no pudieron asimilar este cambio imprevisto y dejaron de trabajar. El caos se extendió y [PAWN_nameDef] pronto tuvo que huir de un mundo sumido en la anarquía.</VBE_CoginTheMachine.description>
+
+  <!-- EN: Commenter -->
+  <VBE_Commenter.title>comentarista</VBE_Commenter.title>
+  <!-- EN: Commenter -->
+  <VBE_Commenter.titleShort>comentarista</VBE_Commenter.titleShort>
+  <!-- EN: [PAWN_nameDef] did absolutely nothing with [PAWN_possessive] life other than shamelessly mock more successful people's work. Through internet forums, [PAWN_pronoun] found more of [PAWN_possessive] kind, and collectively bickered, contributing absolutely nothing to glitterworld society. [PAWN_nameDef] knew quite well how to use a thesaurus, though. -->
+  <VBE_Commenter.description>[PAWN_nameDef] no hizo absolutamente nada con su vida más que burlarse descaradamente del trabajo de personas más exitosas. A través de foros de internet, encontró a más de su clase y discutieron colectivamente, sin contribuir absolutamente nada a la sociedad de mundobrillante. Sin embargo, [PAWN_nameDef] sabía muy bien cómo usar un diccionario de sinónimos.</VBE_Commenter.description>
+
+  <!-- EN: Corporate mascot -->
+  <VBE_CorporateMascot.title>mascota corporativa</VBE_CorporateMascot.title>
+    <VBE_CorporateMascot.titleFemale>mascota corporativa</VBE_CorporateMascot.titleFemale>
+  <!-- EN: Mascot -->
+  <VBE_CorporateMascot.titleShort>mascota</VBE_CorporateMascot.titleShort>
+    <VBE_CorporateMascot.titleShortFemale>mascota</VBE_CorporateMascot.titleShortFemale>
+  <!-- EN: [PAWN_nameDef] was a costumed entertainer for a morally questionable entertainment corporation. [PAWN_pronoun] was forced to dance in a depressing white animal suit in exchange for meager pay. -->
+  <VBE_CorporateMascot.description>[PAWN_nameDef] era un{PAWN_gender ?  : a} animador{PAWN_gender ? o : a} disfrazado para una corporación de entretenimiento moralmente cuestionable. Se vio obligado{PAWN_gender ? o : a} a bailar con un deprimente traje de animal blanco a cambio de una paga miserable.</VBE_CorporateMascot.description>
+
+  <!-- EN: Corporate spy -->
+  <VBE_CorporateSpy.title>espía corporativo</VBE_CorporateSpy.title>
+  <!-- EN: Spy -->
+  <VBE_CorporateSpy.titleShort>espía</VBE_CorporateSpy.titleShort>
+  <!-- EN: [PAWN_nameDef] used to conduct industrial espionage for a big corporation. One of [PAWN_possessive] missions required [PAWN_objective] to undergo gender reassignment to seduce the CEO of a rival corporation. [PAWN_nameDef] only managed to accomplish [PAWN_possessive] mission because [PAWN_pronoun] felt more in tune with [PAWN_possessive] new gender than the previous one. This gave [PAWN_objective] a unique perspective and [PAWN_pronoun] began to offer counseling to people feeling overwhelmed by the expectations of others. -->
+  <VBE_CorporateSpy.description>[PAWN_nameDef] solía realizar espionaje industrial para una gran corporación. Una de sus misiones requirió que se sometiera a una reasignación de género para seducir al director ejecutivo de una corporación rival. [PAWN_nameDef] solo logró cumplir su misión porque se sentía más en sintonía con su nuevo género que con el anterior. Esto le dio una perspectiva única y comenzó a ofrecer asesoramiento a personas que se sentían abrumadas por las expectativas de los demás.</VBE_CorporateSpy.description>
+
+  <!-- EN: Corrupt politician -->
+  <VBE_CorruptPolitician.title>político corrupto</VBE_CorruptPolitician.title>
+    <VBE_CorruptPolitician.titleFemale>política corrupta</VBE_CorruptPolitician.titleFemale>
+  <!-- EN: Politician -->
+  <VBE_CorruptPolitician.titleShort>político</VBE_CorruptPolitician.titleShort>
+    <VBE_CorruptPolitician.titleShortFemale>política</VBE_CorruptPolitician.titleShortFemale>
+  <!-- EN: [PAWN_nameDef] had a gift for lying and getting away with it, a gift [PAWN_pronoun] used to get elected only to embezzle staggering sums. When [PAWN_possessive] lies finally caught up with [PAWN_objective], [PAWN_pronoun] shot a peacekeeper and fled the planet. -->
+  <VBE_CorruptPolitician.description>[PAWN_nameDef] tenía un don para mentir y salirse con la suya, un don que utilizó para ser elegido solo para malversar sumas asombrosas. Cuando sus mentiras finalmente {PAWN_gender ? lo : la} alcanzaron, disparó a un pacificador y huyó del planeta.</VBE_CorruptPolitician.description>
+
+  <!-- EN: Cosplay enthusiast -->
+  <VBE_CosplayEnthusiast.title>entusiasta del cosplay</VBE_CosplayEnthusiast.title>
+    <VBE_CosplayEnthusiast.titleFemale>entusiasta del cosplay</VBE_CosplayEnthusiast.titleFemale>
+  <!-- EN: Cosplayer -->
+  <VBE_CosplayEnthusiast.titleShort>cosplayer</VBE_CosplayEnthusiast.titleShort>
+    <VBE_CosplayEnthusiast.titleShortFemale>cosplayer</VBE_CosplayEnthusiast.titleShortFemale>
+  <!-- EN: [PAWN_nameDef] has a particular joy in cosplaying. While that may sound simple enough, a lot of research goes into getting it just right. One can't just throw anything together, but instead one has to carefully research the material and era- and culture-appropriate pieces that the outfit could be worn in. Particular care is taken into appropriate food, drink and mannerisms. At least, that's what [PAWN_pronoun] says and it's hard to argue with results, although that doesn't stop some people from trying to kill [PAWN_objective] for making other enthusiasts look bad. -->
+  <VBE_CosplayEnthusiast.description>[PAWN_nameDef] disfruta particularmente del cosplay. Aunque parezca sencillo, requiere mucha investigación para hacerlo bien. No se puede simplemente juntar cualquier cosa, sino que hay que investigar cuidadosamente el material y las piezas apropiadas para la época y la cultura en las que se usaría el atuendo. Se pone especial cuidado en la comida, la bebida y los modales apropiados. Al menos eso es lo que dice, y es difícil discutir con los resultados, aunque eso no impide que algunas personas intenten matarlo{PAWN_gender ? a : a} por hacer quedar mal a otros entusiastas.</VBE_CosplayEnthusiast.description>
+
+  <!-- EN: Criminal priest -->
+  <VBE_CriminalPriest.title>sacerdote criminal</VBE_CriminalPriest.title>
+    <VBE_CriminalPriest.titleFemale>sacerdotisa criminal</VBE_CriminalPriest.titleFemale>
+  <!-- EN: Priest -->
+  <VBE_CriminalPriest.titleShort>sacerdote</VBE_CriminalPriest.titleShort>
+    <VBE_CriminalPriest.titleShortFemale>sacerdotisa</VBE_CriminalPriest.titleShortFemale>
+  <!-- EN: [PAWN_nameDef] somehow wormed [PAWN_possessive] way into a comfortable position among the clergy in a small outlander town on a rimworld. [PAWN_pronoun] would often exploit this position for personal gain whether it be by blackmailing those who had come to confess, or by directly stealing donations.\n\nDuring this time [PAWN_nameDef] relied heavily on [PAWN_possessive] charisma to avoid conflict. -->
+  <VBE_CriminalPriest.description>[PAWN_nameDef] de alguna manera se abrió camino hacia una posición cómoda entre el clero en un pequeño pueblo de forasteros en un mundo fronterizo. A menudo explotaba esta posición para beneficio personal, ya fuera chantajeando a quienes venían a confesarse o robando directamente las donaciones.\n\nDurante este tiempo, [PAWN_nameDef] dependió en gran medida de su carisma para evitar conflictos.</VBE_CriminalPriest.description>
+
+  <!-- EN: Cryonic -->
+  <VBE_Cryonic.title>criónico</VBE_Cryonic.title>
+    <VBE_Cryonic.titleFemale>criónica</VBE_Cryonic.titleFemale>
+  <!-- EN: Cryonic -->
+  <VBE_Cryonic.titleShort>criónico</VBE_Cryonic.titleShort>
+    <VBE_Cryonic.titleShortFemale>criónica</VBE_Cryonic.titleShortFemale>
+  <!-- EN: [PAWN_nameDef] is from a civilization that perished to an ice age that devastated [PAWN_possessive] homeworld. [PAWN_possessive] body was preserved in the ice for centuries until [PAWN_pronoun] was recovered by a glitterworld archaeological expedition, and was resuscitated with advanced mechanite serums on their planet. Unwilling to be kept as a research subject, [PAWN_nameDef] escaped with the help of a group of humanitarian activists. This experience made [PAWN_objective] distrustful of strangers, but [PAWN_pronoun] also picked up some knowledge from [PAWN_possessive] time in the laboratory. -->
+  <VBE_Cryonic.description>[PAWN_nameDef] proviene de una civilización que pereció en una edad de hielo que devastó su mundo natal. Su cuerpo se conservó en el hielo durante siglos hasta que fue recuperado por una expedición arqueológica de un mundobrillante, y fue resucitado con sueros de mecanitas avanzados en su planeta. Al no estar dispuesto{PAWN_gender ? o : a} a ser mantenido{PAWN_gender ? o : a} como sujeto de investigación, escapó con la ayuda de un grupo de activistas humanitarios. Esta experiencia {PAWN_gender ? lo : la} hizo desconfiado{PAWN_gender ? o : a} de los extraños, pero también adquirió algunos conocimientos de su tiempo en el laboratorio.</VBE_Cryonic.description>
+
+  <!-- EN: Cult leader -->
+  <VBE_CultLeader.title>líder de culto</VBE_CultLeader.title>
+    <VBE_CultLeader.titleFemale>líder de culto</VBE_CultLeader.titleFemale>
+  <!-- EN: Cultist -->
+  <VBE_CultLeader.titleShort>cultista</VBE_CultLeader.titleShort>
+    <VBE_CultLeader.titleShortFemale>cultista</VBE_CultLeader.titleShortFemale>
+  <!-- EN: [PAWN_nameDef] held the reigns of a dreaded cult, where [PAWN_pronoun] presided over heinous rituals. [PAWN_pronoun] reveled in the torture and sacrifice of victims, offering them up to appease their merciless deity. All members were made to conceal their identities with frightening masks and ceremonial robes. No one dared leave the cult alive, until now. -->
+  <VBE_CultLeader.description>[PAWN_nameDef] sostenía las riendas de un culto temido, donde presidía rituales atroces. Se deleitaba con la tortura y el sacrificio de las víctimas, ofreciéndolas para aplacar a su deidad despiadada. Todos los miembros debían ocultar su identidad con máscaras aterradoras y túnicas ceremoniales. Nadie se atrevía a abandonar el culto con vida, hasta ahora.</VBE_CultLeader.description>
+
+  <!-- EN: Cyber dilettante -->
+  <VBE_CyberDilettante.title>ciberdiletante</VBE_CyberDilettante.title>
+    <VBE_CyberDilettante.titleFemale>ciberdiletante</VBE_CyberDilettante.titleFemale>
+  <!-- EN: Techie -->
+  <VBE_CyberDilettante.titleShort>técnico</VBE_CyberDilettante.titleShort>
+    <VBE_CyberDilettante.titleShortFemale>técnica</VBE_CyberDilettante.titleShortFemale>
+  <!-- EN: [PAWN_nameDef] is in love with software and cyberspace, with the potential to connect people across vast distances and enhance their abilities with the speedy precision of mechanized computation. [PAWN_pronoun] has always wanted to be a coder and is full of ideas [PAWN_pronoun]'d love to implement... if [PAWN_pronoun] was any good at coding. Unfortunately, [PAWN_possessive] talents lie elsewhere. -->
+  <VBE_CyberDilettante.description>[PAWN_nameDef] está enamorad{PAWN_gender ? o : a} del software y el ciberespacio, con el potencial de conectar a las personas a través de vastas distancias y mejorar sus habilidades con la rápida precisión de la computación mecanizada. Siempre ha querido ser programador{PAWN_gender ? : a} y está llen{PAWN_gender ? o : a} de ideas que le encantaría implementar... si fuera buen{PAWN_gender ? o : a} programando. Desafortunadamente, sus talentos residen en otra parte.</VBE_CyberDilettante.description>
+
+  <!-- EN: Deep space scrapper -->
+  <VBE_DeepSpaceScrapper.title>desguaz. esp. prof.</VBE_DeepSpaceScrapper.title>
+    <VBE_DeepSpaceScrapper.titleFemale>desguaz. esp. prof.</VBE_DeepSpaceScrapper.titleFemale>
+  <!-- EN: Scrapper -->
+  <VBE_DeepSpaceScrapper.titleShort>desguazador</VBE_DeepSpaceScrapper.titleShort>
+    <VBE_DeepSpaceScrapper.titleShortFemale>desguazadora</VBE_DeepSpaceScrapper.titleShortFemale>
+  <!-- EN: Due to the amount of recent interstellar battles, there are a lot of derelict ships floating in space. It's [PAWN_nameDef]'s job to find these ships and salvage them. [PAWN_nameDef] scraps ships, both in orbit and planetside wrecks, and sells the material and parts. Since the ownership of these ships can come into question, [PAWN_nameDef] sometimes finds [PAWN_objective]self on the wrong side of the law. -->
+  <VBE_DeepSpaceScrapper.description>Debido a la cantidad de batallas interestelares recientes, hay muchas naves abandonadas flotando en el espacio. El trabajo de [PAWN_nameDef] es encontrar estas naves y desguazarlas. Desguaza naves, tanto en órbita como restos en planetas, y vende el material y las piezas. Dado que la propiedad de estas naves puede ser cuestionada, a veces se encuentra en el lado equivocado de la ley.</VBE_DeepSpaceScrapper.description>
+
+  <!-- EN: Demoscener -->
+  <VBE_Demoscener.title>demoscener</VBE_Demoscener.title>
+    <VBE_Demoscener.titleFemale>demoscener</VBE_Demoscener.titleFemale>
+  <!-- EN: Demoscener -->
+  <VBE_Demoscener.titleShort>demoscener</VBE_Demoscener.titleShort>
+    <VBE_Demoscener.titleShortFemale>demoscener</VBE_Demoscener.titleShortFemale>
+  <!-- EN: [PAWN_nameDef] has always been interested in computers and programming. Specifically the computers which are so old that the line between programming and engineering is blurred. [PAWN_nameDef] has fallen in with a culture that uses these ancient machines to create art, using the full extent of the primitive programming available. -->
+  <VBE_Demoscener.description>[PAWN_nameDef] siempre ha estado interesad{PAWN_gender ? o : a} en las computadoras y la programación. Específicamente en las computadoras que son tan antiguas que la línea entre la programación y la ingeniería es difusa. Se ha unido a una cultura que utiliza estas máquinas antiguas para crear arte, aprovechando al máximo la programación primitiva disponible.</VBE_Demoscener.description>
+
+  <!-- EN: Deposed royalty -->
+  <VBE_DeposedRoyalty.title>realeza depuesta</VBE_DeposedRoyalty.title>
+  <!-- EN: Royalty -->
+  <VBE_DeposedRoyalty.titleShort>realeza</VBE_DeposedRoyalty.titleShort>
+  <!-- EN: [PAWN_nameDef] founded a region-spanning territory through bloody conflict, refusing to give up [PAWN_possessive] and [PAWN_possessive] people's right to live without oppression for their gender and beliefs. Eventually, multiple factions joined together to wage war against [PAWN_possessive] nation, culminating in [PAWN_possessive] bodyguards forcing [PAWN_objective] to flee. While [PAWN_pronoun] did everything [PAWN_pronoun] could to carve a future for [PAWN_possessive] people, [PAWN_possessive] failure to protect them has been [PAWN_possessive] greatest shame. -->
+  <VBE_DeposedRoyalty.description>[PAWN_nameDef] fundó un territorio que abarcaba toda una región a través de un conflicto sangriento, negándose a renunciar a su derecho y al de su pueblo a vivir sin opresión por su género y creencias. Finalmente, múltiples facciones se unieron para hacer la guerra contra su nación, lo que culminó en que sus guardaespaldas lo obligaran a huir. Aunque hizo todo lo posible por forjar un futuro para su pueblo, su fracaso al protegerlos ha sido su mayor vergüenza.</VBE_DeposedRoyalty.description>
+
+  <!-- EN: Desert survivor -->
+  <VBE_DesertSurvivor.title>superviv. desierto</VBE_DesertSurvivor.title>
+    <VBE_DesertSurvivor.titleFemale>superviviente del desierto</VBE_DesertSurvivor.titleFemale>
+  <!-- EN: Survivor -->
+  <VBE_DesertSurvivor.titleShort>superviviente</VBE_DesertSurvivor.titleShort>
+    <VBE_DesertSurvivor.titleShortFemale>superviviente</VBE_DesertSurvivor.titleShortFemale>
+  <!-- EN: [PAWN_nameDef]'s sworn enemies left [PAWN_objective] to die on a hostile desert planet. Despite all the odds, [PAWN_pronoun] survived in such an environment and adapted to it. Due to spending a lot of time living in the wastelands, [PAWN_nameDef] has no knowledge about plants. -->
+  <VBE_DesertSurvivor.description>Los enemigos jurados de [PAWN_nameDef] {PAWN_gender ? lo : la} dejaron morir en un planeta desértico hostil. Contra todo pronóstico, sobrevivió en ese entorno y se adaptó a él. Debido a que pasó mucho tiempo viviendo en los páramos, [PAWN_nameDef] no tiene conocimientos sobre plantas.</VBE_DesertSurvivor.description>
+
+  <!-- EN: Dietitian -->
+  <VBE_Dietetician.title>dietista</VBE_Dietetician.title>
+    <VBE_Dietetician.titleFemale>dietista</VBE_Dietetician.titleFemale>
+  <!-- EN: Dietitian -->
+  <VBE_Dietetician.titleShort>dietista</VBE_Dietetician.titleShort>
+    <VBE_Dietetician.titleShortFemale>dietista</VBE_Dietetician.titleShortFemale>
+  <!-- EN: [PAWN_nameDef]'s interest in nutrition led [PAWN_objective] to specialize in treating patients with clinical conditions using personalized nutrition plans. Despite the challenges [PAWN_pronoun] faced, [PAWN_nameDef] remained committed to using [PAWN_possessive] knowledge of food and nutrition to make a positive impact on the lives of those [PAWN_pronoun] treated. -->
+  <VBE_Dietetician.description>El interés de [PAWN_nameDef] por la nutrición lo llevó a especializarse en el tratamiento de pacientes con afecciones clínicas mediante planes de nutrición personalizados. A pesar de los desafíos que enfrentó, se mantuvo comprometido a utilizar sus conocimientos sobre alimentación y nutrición para tener un impacto positivo en la vida de quienes trataba.</VBE_Dietetician.description>
+
+  <!-- EN: Dog walker -->
+  <VBE_DogWalker.title>paseador de perros</VBE_DogWalker.title>
+    <VBE_DogWalker.titleFemale>paseadora de perros</VBE_DogWalker.titleFemale>
+  <!-- EN: Walker -->
+  <VBE_DogWalker.titleShort>paseador</VBE_DogWalker.titleShort>
+    <VBE_DogWalker.titleShortFemale>paseadora</VBE_DogWalker.titleShortFemale>
+  <!-- EN: [PAWN_nameDef] enjoys being around animals so much, [PAWN_pronoun] volunteered at their local shelter to help walk the dogs and give them some exercise. That lasted until [PAWN_pronoun] realized how lucrative of a business it could be and [PAWN_nameDef] scaled up operations to become a full time dog walker with dozens of clients. -->
+  <VBE_DogWalker.description>[PAWN_nameDef] disfruta tanto de estar rodeado de animales que se ofreció como voluntario en el refugio local para ayudar a pasear a los perros y darles algo de ejercicio. Eso duró hasta que se dio cuenta de lo lucrativo que podía ser el negocio y amplió las operaciones para convertirse en paseador de perros a tiempo completo con docenas de clientes.</VBE_DogWalker.description>
+
+  <!-- EN: Doomsayer -->
+  <VBE_Doomsayer.title>vaticinador</VBE_Doomsayer.title>
+    <VBE_Doomsayer.titleFemale>vaticinadora</VBE_Doomsayer.titleFemale>
+  <!-- EN: Doomsayer -->
+  <VBE_Doomsayer.titleShort>vaticinador</VBE_Doomsayer.titleShort>
+    <VBE_Doomsayer.titleShortFemale>vaticinadora</VBE_Doomsayer.titleShortFemale>
+  <!-- EN: After the death of a pet that was very dear to [PAWN_objective], [PAWN_nameDef] took to journey outwards and share [PAWN_possessive] pain among those who deserved it. Sometimes this was performed in an oratory manner, proclaiming that sinners will suffer for their actions and all should hail the coming of the destroyer. At other times - much more preferably - it was done with a steel barreled sword of vengeance. -->
+  <VBE_Doomsayer.description>Tras la muerte de una mascota muy querida, [PAWN_nameDef] emprendió un viaje para compartir su dolor entre quienes lo merecían. A veces esto se realizaba de forma oratoria, proclamando que los pecadores sufrirían por sus acciones y que todos debían aclamar la llegada del destructor. Otras veces, mucho más preferibles, se hacía con una espada de venganza de cañón de acero.</VBE_Doomsayer.description>
+
+  <!-- EN: Drill operator -->
+  <VBE_DrillOperator.title>operador de taladro</VBE_DrillOperator.title>
+    <VBE_DrillOperator.titleFemale>operadora de taladro</VBE_DrillOperator.titleFemale>
+  <!-- EN: Driller -->
+  <VBE_DrillOperator.titleShort>perforador</VBE_DrillOperator.titleShort>
+    <VBE_DrillOperator.titleShortFemale>perforadora</VBE_DrillOperator.titleShortFemale>
+  <!-- EN: [PAWN_nameDef] was employed in a crust-penetrating mining operation gone wrong. [PAWN_nameDef] was one of the few survivors, and with the others, [PAWN_pronoun] brought a legal case against the mining company on the basis that they'd covered up the discovery of insectoid infestation to secure more profits. When the company started silencing the survivors, [PAWN_pronoun] stowed away on a starship for safety's sake. -->
+  <VBE_DrillOperator.description>[PAWN_nameDef] fue emple ad{PAWN_gender ? o : a} en una operación minera de penetración de corteza que salió mal. Fue uno de los pocos supervivientes y, junto con los demás, presentó una demanda legal contra la empresa minera alegando que habían encubierto el descubrimiento de una infestación insectoide para asegurar más beneficios. Cuando la empresa empezó a silenciar a los supervivientes, se coló en una nave espacial por seguridad.</VBE_DrillOperator.description>
+
+  <!-- EN: Drone operator -->
+  <VBE_DroneOperator.title>operador de drones</VBE_DroneOperator.title>
+    <VBE_DroneOperator.titleFemale>operadora de drones</VBE_DroneOperator.titleFemale>
+  <!-- EN: Controller -->
+  <VBE_DroneOperator.titleShort>controlador</VBE_DroneOperator.titleShort>
+    <VBE_DroneOperator.titleShortFemale>controladora</VBE_DroneOperator.titleShortFemale>
+  <!-- EN: [PAWN_nameDef] was hired to oversee the defensive drones for a large intra-system freighter ship. Intended to help provide a set of human eyes to stop craftier pirates from slipping past the automated systems, [PAWN_possessive] job frequently entailed long stretches of nothing but maintenance and watching empty screens between docks. When the ship was enlisted to transfer to a system, [PAWN_pronoun] thought nothing of it, and continued [PAWN_possessive] routine. [PAWN_pronoun] was dozing soundly when the first breaching pod hit. -->
+  <VBE_DroneOperator.description>[PAWN_nameDef] fue contratadd{PAWN_gender ? o : a} para supervisar los drones defensivos de un gran carguero intrasistema. Con la intención de ayudar a proporcionar un par de ojos humanos para evitar que los piratas más astutos eludieran los sistemas automatizados, su trabajo a menudo implicaba largos periodos de nada más que mantenimiento y observación de pantallas vacías entre muelles. Cuando la nave fue alistada para trasladarse a un sistema, no le dio importancia y continuó con su rutina. Estaba dormitando profundamente cuando impactó la primera cápsula de abordaje.</VBE_DroneOperator.description>
+
+  <!-- EN: Eldest caretaker -->
+  <VBE_EldestCaretaker.title>cuidador mayor</VBE_EldestCaretaker.title>
+    <VBE_EldestCaretaker.titleFemale>cuidadora mayor</VBE_EldestCaretaker.titleFemale>
+  <!-- EN: Caretaker -->
+  <VBE_EldestCaretaker.titleShort>cuidador</VBE_EldestCaretaker.titleShort>
+    <VBE_EldestCaretaker.titleShortFemale>cuidadora</VBE_EldestCaretaker.titleShortFemale>
+  <!-- EN: As the eldest child, it was the job of [PAWN_nameDef] to look after [PAWN_possessive] younger siblings. While the adults were away working, [PAWN_pronoun] got used to being in charge, but didn't have much chance to explore on [PAWN_possessive] own as a child. -->
+  <VBE_EldestCaretaker.description>Como hijo mayor, el trabajo de [PAWN_nameDef] era cuidar de sus hermanos menores. Mientras los adultos estaban fuera trabajando, se acostumbró a estar a cargo, pero no tuvo muchas oportunidades de explorar por su cuenta cuando era niño.</VBE_EldestCaretaker.description>
+
+  <!-- EN: Enlisted teen -->
+  <VBE_EnlistedTeen.title>adolescente alistado</VBE_EnlistedTeen.title>
+    <VBE_EnlistedTeen.titleFemale>adolescente alistada</VBE_EnlistedTeen.titleFemale>
+  <!-- EN: Enlisted -->
+  <VBE_EnlistedTeen.titleShort>alistado</VBE_EnlistedTeen.titleShort>
+    <VBE_EnlistedTeen.titleShortFemale>alistada</VBE_EnlistedTeen.titleShortFemale>
+  <!-- EN: [PAWN_nameDef] enlisted at a young age with the military by using forged documents, eager to go out into the world and make a difference. That didn't last long, since [PAWN_pronoun] quickly learned that [PAWN_possessive] new comrades were the ones dying and those who instigated conflicts only made greater profits from idealists such as [PAWN_objective]self. -->
+  <VBE_EnlistedTeen.description>[PAWN_nameDef] se alistó a una edad temprana en el ejército utilizando documentos falsificados, ansioso por salir al mundo y marcar la diferencia. Eso no duró mucho, ya que pronto aprendió que sus nuevos camaradas eran los que morían y que quienes instigaban los conflictos solo obtenían mayores beneficios de idealistas como él.</VBE_EnlistedTeen.description>
+
+  <!-- EN: Extranet troll -->
+  <VBE_ExtranetTroll.title>troll de la extranet</VBE_ExtranetTroll.title>
+    <VBE_ExtranetTroll.titleFemale>troll de la extranet</VBE_ExtranetTroll.titleFemale>
+  <!-- EN: Troll -->
+  <VBE_ExtranetTroll.titleShort>troll</VBE_ExtranetTroll.titleShort>
+    <VBE_ExtranetTroll.titleShortFemale>troll</VBE_ExtranetTroll.titleShortFemale>
+  <!-- EN: [PAWN_nameDef] spent [PAWN_possessive] days spreading disinformation across the extranet at the behest of [PAWN_possessive] employers. Eventually, [PAWN_pronoun] outlived [PAWN_possessive] usefulness and was fired, and with no marketable skills, [PAWN_pronoun] had to work miserable, dead-end jobs just to feed [PAWN_objective]self. -->
+  <VBE_ExtranetTroll.description>[PAWN_nameDef] pasaba sus días difundiendo desinformación por la extranet a instancias de sus empleadores. Finalmente, dejó de ser útil y fue despedid{PAWN_gender ? o : a}, y sin habilidades comercializables, tuvo que trabajar en empleos miserables y sin futuro solo para alimentarse.</VBE_ExtranetTroll.description>
+
+  <!-- EN: Fanatic inventor -->
+  <VBE_FanaticInventor.title>inventor fanático</VBE_FanaticInventor.title>
+    <VBE_FanaticInventor.titleFemale>inventora fanática</VBE_FanaticInventor.titleFemale>
+  <!-- EN: Inventor -->
+  <VBE_FanaticInventor.titleShort>inventor</VBE_FanaticInventor.titleShort>
+    <VBE_FanaticInventor.titleShortFemale>inventora</VBE_FanaticInventor.titleShortFemale>
+  <!-- EN: [PAWN_nameDef]'s love for machinery and engineering is downright fanatic. In [PAWN_possessive] Urbworld home, [PAWN_pronoun] made illegal drones, guns and machines, often being chased by the police. [PAWN_nameDef] doesn't see nature as anything other than a source of materials to be refined into something useful. -->
+  <VBE_FanaticInventor.description>El amor de [PAWN_nameDef] por la maquinaria y la ingeniería es francamente fanático. En su hogar del mundo urbano, fabricaba drones, armas y máquinas ilegales, siendo a menudo perseguido por la policía. [PAWN_nameDef] no ve la naturaleza como algo más que una fuente de materiales para ser refinados en algo útil.</VBE_FanaticInventor.description>
+
+  <!-- EN: Fashion designer -->
+  <VBE_FashionDesigner.title>diseñador de moda</VBE_FashionDesigner.title>
+    <VBE_FashionDesigner.titleFemale>diseñadora de moda</VBE_FashionDesigner.titleFemale>
+  <!-- EN: Seamstress -->
+  <VBE_FashionDesigner.titleShort>costurera</VBE_FashionDesigner.titleShort>
+    <VBE_FashionDesigner.titleShortFemale>costurera</VBE_FashionDesigner.titleShortFemale>
+  <!-- EN: [PAWN_nameDef] always said the world was never ready for [PAWN_possessive] creations, but [PAWN_pronoun] was going to be fabulous anyway. With [PAWN_possessive] trusty sewing machine, [PAWN_nameDef] went from runway to runway trying to make a name for [PAWN_objective]self. -->
+  <VBE_FashionDesigner.description>[PAWN_nameDef] siempre decía que el mundo nunca estaba preparado para sus creaciones, pero que iba a ser fabuloso de todos modos. Con su fiel máquina de coser, [PAWN_nameDef] fue de pasarela en pasarela intentando hacerse un nombre.</VBE_FashionDesigner.description>
+
+  <!-- EN: Florist -->
+  <VBE_Florist.title>florista</VBE_Florist.title>
+    <VBE_Florist.titleFemale>florista</VBE_Florist.titleFemale>
+  <!-- EN: Florist -->
+  <VBE_Florist.titleShort>florista</VBE_Florist.titleShort>
+    <VBE_Florist.titleShortFemale>florista</VBE_Florist.titleShortFemale>
+  <!-- EN: [PAWN_nameDef] is a gentle soul with a talent for creating new flower hybrids. [PAWN_pronoun] loved to create new flowers for all kinds of occasions, but was deeply distressed each time someone died. When the plague struck [PAWN_possessive] city, [PAWN_pronoun] was one of the few to survive and went nearly mad with grief as [PAWN_pronoun] saw how many had died. The city had to be abandoned, but a few years later travelers started to tell that it was now entirely covered in flowers, as if one flower sprouted for each and every victim of the plague. -->
+  <VBE_Florist.description>[PAWN_nameDef] es un{PAWN_gender ?  : a} alma gentil con talento para crear nuevos híbridos de flores. Le encantaba crear flores nuevas para todo tipo de ocasiones, pero se angustiaba profundamente cada vez que alguien moría. Cuando la plaga azotó su ciudad, fue uno de los pocos supervivientes y casi enloqueció de dolor al ver cuántos habían muerto. La ciudad tuvo que ser abandonada, pero unos años más tarde los viajeros empezaron a contar que ahora estaba totalmente cubierta de flores, como si una flor brotara por cada una de las víctimas de la plaga.</VBE_Florist.description>
+
+  <!-- EN: Food critic -->
+  <VBE_FoodCritic.title>crítico gastronómico</VBE_FoodCritic.title>
+    <VBE_FoodCritic.titleFemale>crítica gastronómica</VBE_FoodCritic.titleFemale>
+  <!-- EN: Critic -->
+  <VBE_FoodCritic.titleShort>crítico</VBE_FoodCritic.titleShort>
+    <VBE_FoodCritic.titleShortFemale>crítica</VBE_FoodCritic.titleShortFemale>
+  <!-- EN: The child of an esteemed culinary genius, [PAWN_nameDef] used the influence of [PAWN_possessive] parent's name to launch a career in critiquing the cuisine of [PAWN_possessive] home system. While many restaurants and chefs feared [PAWN_objective], some sought after [PAWN_nameDef]'s mark of approval. -->
+  <VBE_FoodCritic.description>Hijo{PAWN_gender ? : a} de un genio culinario estimado, [PAWN_nameDef] utilizó la influencia del nombre de su progenitor para lanzar una carrera criticando la cocina de su sistema natal. Mientras que muchos restaurantes y chefs le temían, algunos buscaban su sello de aprobación.</VBE_FoodCritic.description>
+
+  <!-- EN: Forced primitivist -->
+  <VBE_ForcedPrimitivist.title>primitivista forzado</VBE_ForcedPrimitivist.title>
+    <VBE_ForcedPrimitivist.titleFemale>primitivista forzada</VBE_ForcedPrimitivist.titleFemale>
+  <!-- EN: Primitivist -->
+  <VBE_ForcedPrimitivist.titleShort>primitivista</VBE_ForcedPrimitivist.titleShort>
+    <VBE_ForcedPrimitivist.titleShortFemale>primitivista</VBE_ForcedPrimitivist.titleShortFemale>
+  <!-- EN: [PAWN_nameDef] wasn't always part of the tribes. After getting exiled from [PAWN_possessive] local outlander union due to ruining an entire crop harvest, [PAWN_nameDef] had to live out in the open for years, with only crude tools to aid [PAWN_objective]. This made [PAWN_objective] a jack-of-all-trades, but completely broke [PAWN_possessive] trust of people. -->
+  <VBE_ForcedPrimitivist.description>[PAWN_nameDef] no siempre formó parte de las tribus. Tras ser exiliado de su unión local de forasteros por arruinar toda una cosecha, tuvo que vivir a la intemperie durante años, con solo herramientas rudimentarias para ayudarse. Esto lo convirtió en un todoterreno, pero rompió por completo su confianza en la gente.</VBE_ForcedPrimitivist.description>
+
+  <!-- EN: Foreman -->
+  <VBE_Foreman.title>capataz</VBE_Foreman.title>
+    <VBE_Foreman.titleFemale>capataza</VBE_Foreman.titleFemale>
+  <!-- EN: Foreman -->
+  <VBE_Foreman.titleShort>capataz</VBE_Foreman.titleShort>
+    <VBE_Foreman.titleShortFemale>capataza</VBE_Foreman.titleShortFemale>
+  <!-- EN: [PAWN_nameDef] was a foreman in a mine extracting industrial metals. [PAWN_pronoun] worked alongside the workers to ensure safety and motivate them. Workers under [PAWN_objective] were paid decently well, and liked [PAWN_possessive] leadership. -->
+  <VBE_Foreman.description>[PAWN_nameDef] era capataz en una mina de extracción de metales industriales. Trabajaba junto a los obreros para garantizar la seguridad y motivarlos. Los trabajadores bajo su mando recibían una paga decente y les gustaba su liderazgo.</VBE_Foreman.description>
+
+  <!-- EN: Forgotten child -->
+  <VBE_ForgottenChild.title>niño olvidado</VBE_ForgottenChild.title>
+    <VBE_ForgottenChild.titleFemale>niña olvidada</VBE_ForgottenChild.titleFemale>
+  <!-- EN: Disappeared -->
+  <VBE_ForgottenChild.titleShort>desaparecido</VBE_ForgottenChild.titleShort>
+    <VBE_ForgottenChild.titleShortFemale>desaparecida</VBE_ForgottenChild.titleShortFemale>
+  <!-- EN: When [PAWN_nameDef] was young, [PAWN_pronoun] came across a secret door in [PAWN_possessive] grandfather's antique shop. Curious of what may lie beyond it, [PAWN_pronoun] wandered in and tells of a land of endless adventure. There's no way of knowing if that were true, but seeing as [PAWN_nameDef] was found as child, forgotten in cryptosleep nearly a hundred years later, nothing seems impossible. -->
+  <VBE_ForgottenChild.description>Cuando [PAWN_nameDef] era joven, encontró una puerta secreta en la tienda de antigüedades de su abuelo. Curioso por lo que pudiera haber más allá, entró y cuenta historias de una tierra de aventuras sin fin. No hay forma de saber si eso era cierto, pero dado que [PAWN_nameDef] fue encontrado de niño, olvidado en criptosueño casi cien años después, nada parece imposible.</VBE_ForgottenChild.description>
+
+  <!-- EN: Chief financial officer -->
+  <VBE_FormerChiefFinancialOfficer.title>director financiero</VBE_FormerChiefFinancialOfficer.title>
+    <VBE_FormerChiefFinancialOfficer.titleFemale>directora financiera</VBE_FormerChiefFinancialOfficer.titleFemale>
+  <!-- EN: Ex-CFO -->
+  <VBE_FormerChiefFinancialOfficer.titleShort>ex-CFO</VBE_FormerChiefFinancialOfficer.titleShort>
+    <VBE_FormerChiefFinancialOfficer.titleShortFemale>ex-CFO</VBE_FormerChiefFinancialOfficer.titleShortFemale>
+  <!-- EN: [PAWN_nameDef] used to be employed under one of the largest megacorporations in known space. While [PAWN_pronoun] was extremely successful in bringing [PAWN_possessive] company the highest profit margins they had seen in years, [PAWN_pronoun] was predictably laid off when [PAWN_pronoun] could no longer bring in even higher profits for the shareholders. And since people familiar with company secrets have their silence guaranteed, [PAWN_pronoun] quickly boarded the first flight off of the planet. -->
+  <VBE_FormerChiefFinancialOfficer.description>[PAWN_nameDef] solía trabajar para una de las megacorporaciones más grandes del espacio conocido. Aunque tuvo un éxito rotundo al reportar a su empresa los márgenes de beneficio más altos que habían visto en años, fue previsiblemente despedido cuando ya no pudo generar beneficios aún mayores para los accionistas. Y dado que el silencio de quienes conocen los secretos de la empresa está garantizado, abordó rápidamente el primer vuelo fuera del planeta.</VBE_FormerChiefFinancialOfficer.description>
+
+  <!-- EN: Forsaken patriot -->
+  <VBE_ForsakenPatriot.title>patriota abandonado</VBE_ForsakenPatriot.title>
+    <VBE_ForsakenPatriot.titleFemale>patriota abandonada</VBE_ForsakenPatriot.titleFemale>
+  <!-- EN: Patriot -->
+  <VBE_ForsakenPatriot.titleShort>patriota</VBE_ForsakenPatriot.titleShort>
+    <VBE_ForsakenPatriot.titleShortFemale>patriota</VBE_ForsakenPatriot.titleShortFemale>
+  <!-- EN: [PAWN_nameDef] served [PAWN_possessive] faction with dedication and conviction as a black operative. One particular operation went foul and [PAWN_possessive] death was arranged to ease political tensions. However, [PAWN_possessive] loyalty was rewarded with a fake execution and exiled, on the condition [PAWN_pronoun] never return lest [PAWN_pronoun] jeopardize [PAWN_possessive] faction's machinations. -->
+  <VBE_ForsakenPatriot.description>[PAWN_nameDef] sirvió a su facción con dedicación y convicción como agente de operaciones encubiertas. Una operación en particular salió mal y se orquestó su muerte para aliviar las tensiones políticas. Sin embargo, su lealtad fue recompensada con una ejecución falsa y el exilio, con la condición de que nunca regresara para no poner en peligro las maquinaciones de su facción.</VBE_ForsakenPatriot.description>
+
+  <!-- EN: Freak -->
+  <VBE_Freak.title>fenómeno</VBE_Freak.title>
+    <VBE_Freak.titleFemale>fenómeno</VBE_Freak.titleFemale>
+  <!-- EN: Freak -->
+  <VBE_Freak.titleShort>fenómeno</VBE_Freak.titleShort>
+    <VBE_Freak.titleShortFemale>fenómeno</VBE_Freak.titleShortFemale>
+  <!-- EN: [PAWN_nameDef] was born heavily deformed. [PAWN_pronoun] was sold a space circus and travelled between worlds. There, people paid to watch [PAWN_objective] perform various shows. One day, as the company was travelling to a nearby space station, [PAWN_nameDef] managed to escape. -->
+  <VBE_Freak.description>[PAWN_nameDef] nació con graves deformidades. Fue vendid{PAWN_gender ? o : a} a un circo espacial y viajó entre mundos. Allí, la gente pagaba por verlo realizar varios espectáculos. Un día, mientras la compañía viajaba a una estación espacial cercana, [PAWN_nameDef] logró escapar.</VBE_Freak.description>
+
+  <!-- EN: Fringe shitposter -->
+  <VBE_FringeShitposter.title>shitposter marginal</VBE_FringeShitposter.title>
+    <VBE_FringeShitposter.titleFemale>shitposter marginal</VBE_FringeShitposter.titleFemale>
+  <!-- EN: Shitposter -->
+  <VBE_FringeShitposter.titleShort>shitposter</VBE_FringeShitposter.titleShort>
+    <VBE_FringeShitposter.titleShortFemale>shitposter</VBE_FringeShitposter.titleShortFemale>
+  <!-- EN: As a young adult, [PAWN_nameDef] became interested in niche, fringe internet forums. Obsessed with the deep culture and intricate in-jokes, [PAWN_nameDef] allowed this to consume [PAWN_possessive] life. Now, on the Rim, [PAWN_nameDef] finds [PAWN_objective]self unprepared for survival, and experiences difficulty communicating without bringing up some ancient, forgotten slang or deeply-layered meme. At least [PAWN_pronoun] picked up some vague, outdated military jargon... -->
+  <VBE_FringeShitposter.description>De joven, [PAWN_nameDef] se interesó por foros de internet marginales y de nicho. Obsesionado con la cultura profunda y las intrincadas bromas internas, permitió que esto consumiera su vida. Ahora, en el Borde, [PAWN_nameDef] se encuentra poco preparado para la supervivencia y experimenta dificultades para comunicarse sin mencionar alguna jerga antigua y olvidada o algún meme complejo. Al menos aprendió algo de jerga militar vaga y anticuada...</VBE_FringeShitposter.description>
+
+  <!-- EN: Gallery janitor -->
+  <VBE_GalleryJanitor.title>conserje de galería</VBE_GalleryJanitor.title>
+    <VBE_GalleryJanitor.titleFemale>conserje de galería</VBE_GalleryJanitor.titleFemale>
+  <!-- EN: Janitor -->
+  <VBE_GalleryJanitor.titleShort>conserje</VBE_GalleryJanitor.titleShort>
+    <VBE_GalleryJanitor.titleShortFemale>conserje</VBE_GalleryJanitor.titleShortFemale>
+  <!-- EN: [PAWN_nameDef] worked as a janitor in a modern art gallery, but never understood the appeal. One day, [PAWN_pronoun] decided to add a few strokes of paint to an asymmetrical artwork worth millions. [PAWN_nameDef] made headlines in the news, and [PAWN_pronoun] was fired and banned from the gallery. -->
+  <VBE_GalleryJanitor.description>[PAWN_nameDef] trabajó como conserje en una galería de arte moderno, pero nunca entendió su atractivo. Un día, decidió añadir unas pinceladas a una obra de arte asimétrica valorada en millones. [PAWN_nameDef] fue noticia en los informativos, y fue despedid{PAWN_gender ? o : a} y expulsad{PAWN_gender ? o : a} de la galería.</VBE_GalleryJanitor.description>
+
+  <!-- EN: Gene-modded beauty -->
+  <VBE_GeneModdedBeauty.title>belleza modif. gen.</VBE_GeneModdedBeauty.title>
+    <VBE_GeneModdedBeauty.titleFemale>belleza modif. gen.</VBE_GeneModdedBeauty.titleFemale>
+  <!-- EN: Beauty -->
+  <VBE_GeneModdedBeauty.titleShort>belleza</VBE_GeneModdedBeauty.titleShort>
+    <VBE_GeneModdedBeauty.titleShortFemale>belleza</VBE_GeneModdedBeauty.titleShortFemale>
+  <!-- EN: [PAWN_nameDef] is the result of some of [PAWN_possessive] home glitterworld's most advanced cosmetic surgery. During [PAWN_possessive] life, [PAWN_pronoun] spent an untold fortune on [PAWN_possessive] looks and didn't have much time for to practice any more practical of skills. -->
+  <VBE_GeneModdedBeauty.description>[PAWN_nameDef] es el resultado de algunas de las cirugías estéticas más avanzadas de su mundobrillante natal. Durante su vida, gastó una fortuna incalculable en su apariencia y no tuvo mucho tiempo para practicar habilidades más prácticas.</VBE_GeneModdedBeauty.description>
+
+  <!-- EN: Genetic reincarnation -->
+  <VBE_GeneticReincarnation.title>reencarnación genética</VBE_GeneticReincarnation.title>
+    <VBE_GeneticReincarnation.titleFemale>reencarnación genética</VBE_GeneticReincarnation.titleFemale>
+  <!-- EN: Reincarnation -->
+  <VBE_GeneticReincarnation.titleShort>reencarnación</VBE_GeneticReincarnation.titleShort>
+    <VBE_GeneticReincarnation.titleShortFemale>reencarnación</VBE_GeneticReincarnation.titleShortFemale>
+  <!-- EN: [PAWN_nameDef] was vat-grown as a genetic clone of an ancient philosopher-tyrant. Beheld as a celebrity of cultural revitalization from infanthood, [PAWN_pronoun] was simultaneously doted upon and stifled, everyone demanding [PAWN_objective] to act exactly as [PAWN_pronoun] did in [PAWN_possessive] previous life. -->
+  <VBE_GeneticReincarnation.description>[PAWN_nameDef] fue cultivad{PAWN_gender ? o : a} en tina como un clon genético de un antiguo filósofo tirano. Consideradd{PAWN_gender ? o : a} una celebridad de la revitalización cultural desde la infancia, fue mimad{PAWN_gender ? o : a} y asfixiad{PAWN_gender ? o : a} al mismo tiempo, con todo el mundo exigiéndole que actuara exactamente como lo hizo en su vida anterior.</VBE_GeneticReincarnation.description>
+
+  <!-- EN: Gifted burnout -->
+  <VBE_GiftedBurnout.title>genio agotado</VBE_GiftedBurnout.title>
+    <VBE_GiftedBurnout.titleFemale>genia agotada</VBE_GiftedBurnout.titleFemale>
+  <!-- EN: Gifted -->
+  <VBE_GiftedBurnout.titleShort>dotado</VBE_GiftedBurnout.titleShort>
+    <VBE_GiftedBurnout.titleShortFemale>dotada</VBE_GiftedBurnout.titleShortFemale>
+  <!-- EN: From a young age, [PAWN_nameDef] was heralded as a genius. The constant testing, training, and praise from surrounding adults was good, but the constant pressure, expectation, and eventual failure exacerbated a long list of mental disorders lying dormant within [PAWN_nameDef]'s mind. [PAWN_pronoun] still retains [PAWN_possessive] training, but making use of it will be difficult for the rest of [PAWN_possessive] life. -->
+  <VBE_GiftedBurnout.description>Desde joven, [PAWN_nameDef] fue aclamad{PAWN_gender ? o : a} como un genio. Las constantes pruebas, el entrenamiento y los elogios de los adultos que lo rodeaban eran buenos, pero la presión constante, las expectativas y el eventual fracaso exacerbaron una larga lista de trastornos mentales latentes en la mente de [PAWN_nameDef]. Aún conserva su formación, pero hacer uso de ella será difícil por el resto de su vida.</VBE_GiftedBurnout.description>
+
+  <!-- EN: Hostess in training -->
+  <VBE_HostessInTraining.title>anfitriona en formación</VBE_HostessInTraining.title>
+    <VBE_HostessInTraining.titleFemale>anfitriona en formación</VBE_HostessInTraining.titleFemale>
+  <!-- EN: Hostess -->
+  <VBE_HostessInTraining.titleShort>anfitriona</VBE_HostessInTraining.titleShort>
+    <VBE_HostessInTraining.titleShortFemale>anfitriona</VBE_HostessInTraining.titleShortFemale>
+  <!-- EN: [PAWN_nameDef] spent plenty of time in [PAWN_possessive] parent's restaurant growing up, eventually getting a job seating patrons. While [PAWN_pronoun] wasn't a cook by trade, [PAWN_pronoun] still picked up a lot of the tastes and preferences of the clientele, along with plenty of gossip. This ended poorly one day after an altercation with an ex-lover, and they've been drifting since. -->
+  <VBE_HostessInTraining.description>[PAWN_nameDef] pasó mucho tiempo en el restaurante de sus padres mientras crecía, y finalmente consiguió un trabajo acomodando a los clientes. Aunque no era cocinero de oficio, aprendió mucho sobre los gustos y preferencias de la clientela, además de muchos chismes. Esto terminó mal un día tras un altercado con un antiguo amante, y desde entonces ha estado a la deriva.</VBE_HostessInTraining.description>
+
+  <!-- EN: Housecarl -->
+  <VBE_Housecarl.title>huscarle</VBE_Housecarl.title>
+    <VBE_Housecarl.titleFemale>huscarla</VBE_Housecarl.titleFemale>
+  <!-- EN: Housecarl -->
+  <VBE_Housecarl.titleShort>huscarle</VBE_Housecarl.titleShort>
+    <VBE_Housecarl.titleShortFemale>huscarla</VBE_Housecarl.titleShortFemale>
+  <!-- EN: [PAWN_nameDef] was a housecarl to a powerful chieftain. [PAWN_pronoun] was trained in a variety of weapons, and was always armed both on and off the field of battle. After a conflict with a more powerful clan left [PAWN_possessive] chieftain and many clan members dead, [PAWN_pronoun] left to find a new house to lend [PAWN_possessive] blade, or simply do something new entirely. -->
+  <VBE_Housecarl.description>[PAWN_nameDef] era un{PAWN_gender ?  : a} huscarle de un poderoso caudillo. Fue entrenad{PAWN_gender ? o : a} en una variedad de armas y siempre estaba armad{PAWN_gender ? o : a}, tanto dentro como fuera del campo de batalla. Después de que un conflicto con un clan más poderoso dejara muertos a su caudillo y a muchos miembros del clan, partió para encontrar una nueva casa a la que prestar su espada, o simplemente para hacer algo completamente nuevo.</VBE_Housecarl.description>
+
+  <!-- EN: Human farm -->
+  <VBE_HumanFarm.title>granja humana</VBE_HumanFarm.title>
+    <VBE_HumanFarm.titleFemale>granja humana</VBE_HumanFarm.titleFemale>
+  <!-- EN: Meat -->
+  <VBE_HumanFarm.titleShort>carne</VBE_HumanFarm.titleShort>
+    <VBE_HumanFarm.titleShortFemale>carne</VBE_HumanFarm.titleShortFemale>
+  <!-- EN: [PAWN_nameDef] was made only for one purpose, consumption. Grown out of a spindly set of hormone and development injectors connected to a solution-filled tube, many years of [PAWN_possessive] life was spent peering out into the lab, where butchers and scientists went on with their daily lives. During a freak accident which collapsed the farm, [PAWN_nameDef] escaped.
+This gave a basic understanding of human anatomy to [PAWN_nameDef], but scarred [PAWN_objective] for life. -->
+  <VBE_HumanFarm.description>[PAWN_nameDef] fue cread{PAWN_gender ? o : a} con un solo propósito: el consumo. Cidad{PAWN_gender ? o : a} a partir de un conjunto de inyectores de hormonas y desarrollo conectados a un tubo lleno de solución, pasó muchos años de su vida observando el laboratorio, donde carniceros y científicos seguían con sus vidas diarias. Durante un extraño accidente que colapsó la granja, [PAWN_nameDef] escapó.\nEsto le dio a [PAWN_nameDef] una comprensión básica de la anatomía humana, pero {PAWN_gender ? lo : la} marcó de por vida.</VBE_HumanFarm.description>
+
+  <!-- EN: Human supremacist -->
+  <VBE_HumanSupremacist.title>supremacista humano</VBE_HumanSupremacist.title>
+    <VBE_HumanSupremacist.titleFemale>supremacista humana</VBE_HumanSupremacist.titleFemale>
+  <!-- EN: Supremacist -->
+  <VBE_HumanSupremacist.titleShort>supremacista</VBE_HumanSupremacist.titleShort>
+    <VBE_HumanSupremacist.titleShortFemale>supremacista</VBE_HumanSupremacist.titleShortFemale>
+  <!-- EN: [PAWN_nameDef] is fervently against gene-modification and the creation of xenohumans. [PAWN_pronoun] believes that baseline, unmodified humans have superior minds and spirits in comparison. Though prejudiced, [PAWN_possessive] arguments were well-rehearsed and spoken with authority. -->
+  <VBE_HumanSupremacist.description>[PAWN_nameDef] está fervientemente en contra de la modificación genética y la creación de xenohumanos. Cree que los humanos básicos, sin modificar, tienen mentes y espíritus superiores en comparación. Aunque prejuiciosos, sus argumentos estaban bien ensayados y se expresaban con autoridad.</VBE_HumanSupremacist.description>
+
+  <!-- EN: Imperial circus performer -->
+  <VBE_ImperialCircusPerformer.title>artista circ. imp.</VBE_ImperialCircusPerformer.title>
+    <VBE_ImperialCircusPerformer.titleFemale>artista de circo imperial</VBE_ImperialCircusPerformer.titleFemale>
+  <!-- EN: Clown -->
+  <VBE_ImperialCircusPerformer.titleShort>payaso</VBE_ImperialCircusPerformer.titleShort>
+    <VBE_ImperialCircusPerformer.titleShortFemale>payasa</VBE_ImperialCircusPerformer.titleShortFemale>
+  <!-- EN: Though [PAWN_pronoun] is known by [PAWN_possessive] friends as [PAWN_nameDef], throughout the systems [PAWN_pronoun] is known as [PAWN_nameDef] the Amazing. [PAWN_nameDef] has performed theatrics and acrobatic stunts and for the Imperial nobles. [PAWN_pronoun] will often brag about [PAWN_possessive] group of followers that attend [PAWN_possessive] every show. Though, no one really knows how many of [PAWN_possessive] stories are just made up. -->
+  <VBE_ImperialCircusPerformer.description>Aunque sus amigos lo conocen como [PAWN_nameDef], en todos los sistemas es conocido como [PAWN_nameDef] el Asombroso. [PAWN_nameDef] ha realizado acrobacias y representaciones teatrales para los nobles imperiales. A menudo presume de su grupo de seguidores que asisten a cada uno de sus espectáculos. Sin embargo, nadie sabe realmente cuántas de sus historias son inventadas.</VBE_ImperialCircusPerformer.description>
+
+  <!-- EN: Incompetent pilot -->
+  <VBE_IncompetentPilot.title>piloto incompetente</VBE_IncompetentPilot.title>
+    <VBE_IncompetentPilot.titleFemale>pilota incompetente</VBE_IncompetentPilot.titleFemale>
+  <!-- EN: Incompetent -->
+  <VBE_IncompetentPilot.titleShort>incompetente</VBE_IncompetentPilot.titleShort>
+    <VBE_IncompetentPilot.titleShortFemale>incompetente</VBE_IncompetentPilot.titleShortFemale>
+  <!-- EN: [PAWN_nameDef] was a helmsman of a large cargo vessel. An unfortunate series of events, some of which were [PAWN_possessive] fault, resulted in the entirety of [PAWN_possessive] crew being vaporized by the ship's fusion engine in a freak accident. Fearing reprisal, [PAWN_pronoun] hailed a passing pirate ship and managed to smooth talk [PAWN_possessive] way into safe passage to another world to restart [PAWN_possessive] life, and hopefully forget about [PAWN_possessive] past mistakes. -->
+  <VBE_IncompetentPilot.description>[PAWN_nameDef] era el{PAWN_gender ? : a} timonel{PAWN_gender ? : a} de un gran carguero. Una desafortunada serie de eventos, algunos de los cuales fueron culpa suya, provocó que toda su tripulación fuera vaporizada por el motor de fusión de la nave en un extraño accidente. Por temor a represalias, llamó a una nave pirata que pasaba y logró convencerlos para que {PAWN_gender ? lo : la} llevaran a otro mundo para reiniciar su vida y, con suerte, olvidar sus errores pasados.</VBE_IncompetentPilot.description>
+
+  <!-- EN: Industrial gunsmith -->
+  <VBE_IndustrialGunsmith.title>armero industrial</VBE_IndustrialGunsmith.title>
+    <VBE_IndustrialGunsmith.titleFemale>armera industrial</VBE_IndustrialGunsmith.titleFemale>
+  <!-- EN: Gunsmith -->
+  <VBE_IndustrialGunsmith.titleShort>armero</VBE_IndustrialGunsmith.titleShort>
+    <VBE_IndustrialGunsmith.titleShortFemale>armera</VBE_IndustrialGunsmith.titleShortFemale>
+  <!-- EN: [PAWN_nameDef] spent most of [PAWN_possessive] days meticulously working at [PAWN_possessive] machining table to create firearms. [PAWN_pronoun] spent several hours at the gun range to test out [PAWN_possessive] new designs. However, spending so much time working with firearms has left [PAWN_objective] rather deficient in close range combat. -->
+  <VBE_IndustrialGunsmith.description>[PAWN_nameDef] pasaba la mayor parte de sus días trabajando meticulosamente en su mesa de mecanizado para crear armas de fuego. Pasaba varias horas en el campo de tiro para probar sus nuevos diseños. Sin embargo, pasar tanto tiempo trabajando con armas de fuego lo ha dejado bastante deficiente en el combate a corta distancia.</VBE_IndustrialGunsmith.description>
+
+  <!-- EN: Industrial soldier -->
+  <VBE_IndustrialSoldier.title>soldado industrial</VBE_IndustrialSoldier.title>
+    <VBE_IndustrialSoldier.titleFemale>soldada industrial</VBE_IndustrialSoldier.titleFemale>
+  <!-- EN: Soldier -->
+  <VBE_IndustrialSoldier.titleShort>soldado</VBE_IndustrialSoldier.titleShort>
+    <VBE_IndustrialSoldier.titleShortFemale>soldada</VBE_IndustrialSoldier.titleShortFemale>
+  <!-- EN: [PAWN_nameDef] was recruited into the army of an industrial power on a midworld. When training finally ended, [PAWN_pronoun] was sent to the frontlines, where [PAWN_pronoun] took part in an unbelievably bloody battle. The rest of [PAWN_possessive] platoon was killed in the ensuing battle. This terrible tragedy has left [PAWN_nameDef] a shell of [PAWN_possessive] former self. -->
+  <VBE_IndustrialSoldier.description>[PAWN_nameDef] fue reclutad{PAWN_gender ? o : a} por el ejército de una potencia industrial en un mundo medio. Cuando el entrenamiento terminó finalmente, fue enviad{PAWN_gender ? o : a} al frente, donde participó en una batalla increíblemente sangrienta. El resto de su pelotón murió en la batalla subsiguiente. Esta terrible tragedia ha dejado a [PAWN_nameDef] como una sombra de lo que fue.</VBE_IndustrialSoldier.description>
+
+  <!-- EN: Industrial tinkerer -->
+  <VBE_IndustrialTinkerer.title>remendón industrial</VBE_IndustrialTinkerer.title>
+    <VBE_IndustrialTinkerer.titleFemale>remendóna industrial</VBE_IndustrialTinkerer.titleFemale>
+  <!-- EN: Tinkerer -->
+  <VBE_IndustrialTinkerer.titleShort>remendón</VBE_IndustrialTinkerer.titleShort>
+    <VBE_IndustrialTinkerer.titleShortFemale>remendóna</VBE_IndustrialTinkerer.titleShortFemale>
+  <!-- EN: Once finding [PAWN_possessive] passion in the way things work, [PAWN_nameDef] became enthralled with tinkering, building and coding. Taking inspiration from nature and the machines [PAWN_pronoun] disassembled, [PAWN_nameDef] built many useful mechanical and electrical contraptions to improve [PAWN_possessive] everyday life. While exploring and studying nature, [PAWN_pronoun] also learned about basic survival needs, and some basic healing. Due to always being in [PAWN_possessive] mind, [PAWN_nameDef] is not very sociable, and is always high strung. -->
+  <VBE_IndustrialTinkerer.description>Una vez que encontró su pasión en el funcionamiento de las cosas, [PAWN_nameDef] quedó cautivado por los remiendos, la construcción y la programación. Inspirándose en la naturaleza y en las máquinas que desmontaba, [PAWN_nameDef] construyó muchos artilugios mecánicos y eléctricos útiles para mejorar su vida cotidiana. Mientras exploraba y estudiaba la naturaleza, también aprendió sobre las necesidades básicas de supervivencia y algunas curaciones básicas. Debido a que siempre está absorto en sus pensamientos, [PAWN_nameDef] no es muy sociable y siempre está muy tenso.</VBE_IndustrialTinkerer.description>
+
+  <!-- EN: Industrial world counterterrorist -->
+  <VBE_IndustrialWorldCounterterrorist.title>antiterr. m. indust.</VBE_IndustrialWorldCounterterrorist.title>
+    <VBE_IndustrialWorldCounterterrorist.titleFemale>antiterr. m. indust.</VBE_IndustrialWorldCounterterrorist.titleFemale>
+  <!-- EN: Counterterrorist -->
+  <VBE_IndustrialWorldCounterterrorist.titleShort>antiterrorista</VBE_IndustrialWorldCounterterrorist.titleShort>
+    <VBE_IndustrialWorldCounterterrorist.titleShortFemale>antiterrorista</VBE_IndustrialWorldCounterterrorist.titleShortFemale>
+  <!-- EN: [PAWN_nameDef] served on a counterterrorism unit on a factionalized industrial world. [PAWN_pronoun] understood the reasons why they operated, but stood staunchly against the violent methods they used against the innocent. [PAWN_pronoun] gained considerable skills in rhetoric, negotiation, combat, and emergency first aid. Despite this, [PAWN_possessive] personal life skills were undeveloped as the custodial and cafeteria staff handled most of it. -->
+  <VBE_IndustrialWorldCounterterrorist.description>[PAWN_nameDef] sirvió en una unidad antiterrorista en un mundo industrial dividido en facciones. Entendía las razones por las que operaban, pero se oponía firmemente a los métodos violentos que utilizaban contra los inocentes. Adquirió habilidades considerables en retórica, negociación, combate y primeros auxilios de emergencia. A pesar de esto, sus habilidades para la vida personal no se desarrollaron, ya que el personal de limpieza y de la cafetería se encargaba de la mayor parte.</VBE_IndustrialWorldCounterterrorist.description>
+
+  <!-- EN: Informant -->
+  <VBE_Informant.title>informante</VBE_Informant.title>
+    <VBE_Informant.titleFemale>informante</VBE_Informant.titleFemale>
+  <!-- EN: Informant -->
+  <VBE_Informant.titleShort>informante</VBE_Informant.titleShort>
+    <VBE_Informant.titleShortFemale>informante</VBE_Informant.titleShortFemale>
+  <!-- EN: [PAWN_nameDef] was once in a major criminal organization, but after being caught, [PAWN_pronoun] became an informant for Glitterworld Law Enforcement. As part of the deal, [PAWN_pronoun] would be given a new name and identity and be shipped off to an outer world. -->
+  <VBE_Informant.description>[PAWN_nameDef] pertenecía una vez a una importante organización criminal, pero tras ser capturado, se convirtió en informante de las fuerzas del orden de un mundobrillante. Como parte del trato, se le daría un nuevo nombre e identidad y se le enviaría a un mundo exterior.</VBE_Informant.description>
+
+  <!-- EN: Information sponge -->
+  <VBE_InformationSponge.title>esponja de información</VBE_InformationSponge.title>
+    <VBE_InformationSponge.titleFemale>esponja de información</VBE_InformationSponge.titleFemale>
+  <!-- EN: Sponge -->
+  <VBE_InformationSponge.titleShort>esponja</VBE_InformationSponge.titleShort>
+    <VBE_InformationSponge.titleShortFemale>esponja</VBE_InformationSponge.titleShortFemale>
+  <!-- EN: [PAWN_nameDef] grew up with a thirst for knowledge, be it for science, history, or philosophy. Running off into the wilderness, [PAWN_pronoun] would spend as much time learning from nature and the ruins that [PAWN_pronoun] would find. When younger, many would listen to [PAWN_objective] just to see what [PAWN_pronoun] would say, but over time others stopped listening as [PAWN_possessive] knowledge grew in depth, leaving them behind. Over time, [PAWN_pronoun] became more reclusive, and mainly found solace in [PAWN_possessive] work. -->
+  <VBE_InformationSponge.description>[PAWN_nameDef] creció con sed de conocimiento, ya fuera de ciencia, historia o filosofía. Al adentrarse en la naturaleza, pasaba todo el tiempo posible aprendiendo de ella y de las ruinas que encontraba. Cuando era más joven, muchos lo escuchaban solo para ver qué diría, pero con el tiempo los demás dejaron de escuchar a medida que su conocimiento crecía en profundidad, dejándolos atrás. Con el tiempo, se volvió más recluido y encontró consuelo principalmente en su trabajo.</VBE_InformationSponge.description>
+
+  <!-- EN: Jeweler -->
+  <VBE_Jeweler.title>joyero</VBE_Jeweler.title>
+    <VBE_Jeweler.titleFemale>joyera</VBE_Jeweler.titleFemale>
+  <!-- EN: Jeweler -->
+  <VBE_Jeweler.titleShort>joyero</VBE_Jeweler.titleShort>
+    <VBE_Jeweler.titleShortFemale>joyera</VBE_Jeweler.titleShortFemale>
+  <!-- EN: [PAWN_nameDef] inspected, cut, polished, and sold all sorts of gems and exotic minerals. [PAWN_pronoun] could tell you the difference between ten types of quartz by lustre alone. -->
+  <VBE_Jeweler.description>[PAWN_nameDef] inspeccionaba, cortaba, pulía y vendía todo tipo de gemas y minerales exóticos. Podía decirte la diferencia entre diez tipos de cuarzo solo por el brillo.</VBE_Jeweler.description>
+
+  <!-- EN: Junior jeweler -->
+  <VBE_JuniorJeweler.title>joyero junior</VBE_JuniorJeweler.title>
+    <VBE_JuniorJeweler.titleFemale>joyera junior</VBE_JuniorJeweler.titleFemale>
+  <!-- EN: Mineralogist -->
+  <VBE_JuniorJeweler.titleShort>mineralogista</VBE_JuniorJeweler.titleShort>
+    <VBE_JuniorJeweler.titleShortFemale>mineralogista</VBE_JuniorJeweler.titleShortFemale>
+  <!-- EN: [PAWN_nameDef] was fascinated by gems and minerals as a child. [PAWN_pronoun] built a collection, learned how to polish and cut stones, and developed an encyclopedic knowledge on mineralogy. -->
+  <VBE_JuniorJeweler.description>[PAWN_nameDef] estaba fascinado por las gemas y los minerales desde niño. Formó una colección, aprendió a pulir y cortar piedras, y desarrolló un conocimiento enciclopédico sobre mineralogía.</VBE_JuniorJeweler.description>
+
+  <!-- EN: Landscape painter -->
+  <VBE_LandscapePainter.title>paisajista</VBE_LandscapePainter.title>
+    <VBE_LandscapePainter.titleFemale>paisajista</VBE_LandscapePainter.titleFemale>
+  <!-- EN: Painter -->
+  <VBE_LandscapePainter.titleShort>pintor</VBE_LandscapePainter.titleShort>
+    <VBE_LandscapePainter.titleShortFemale>pintora</VBE_LandscapePainter.titleShortFemale>
+  <!-- EN: For as long as [PAWN_nameDef] can remember, capturing breathtaking landscapes has been the focus of [PAWN_possessive] life's work. Despite not receiving much recognition for [PAWN_possessive] creations, [PAWN_nameDef] found solace in the fact that [PAWN_possessive] art helped [PAWN_objective] make ends meet. However, the solitary lifestyle it entailed made [PAWN_objective] somewhat withdrawn from the world. -->
+  <VBE_LandscapePainter.description>Desde que [PAWN_nameDef] tiene memoria, capturar paisajes impresionantes ha sido el centro del trabajo de su vida. A pesar de no recibir mucho reconocimiento por sus creaciones, [PAWN_nameDef] encontró consuelo en el hecho de que su arte lo ayudaba a llegar a fin de mes. Sin embargo, el estilo de vida solitario que conllevaba lo hizo algo retraído del mundo.</VBE_LandscapePainter.description>
+
+  <!-- EN: Landsknecht -->
+  <VBE_Landsknecht.title>landsknecht</VBE_Landsknecht.title>
+    <VBE_Landsknecht.titleFemale>landsknecht</VBE_Landsknecht.titleFemale>
+  <!-- EN: Landsknecht -->
+  <VBE_Landsknecht.titleShort>landsknecht</VBE_Landsknecht.titleShort>
+    <VBE_Landsknecht.titleShortFemale>landsknecht</VBE_Landsknecht.titleShortFemale>
+  <!-- EN: [PAWN_nameDef] was barely scrapping by in [PAWN_possessive] village when the recruiter came. The man told [PAWN_objective] that [PAWN_pronoun] would get [PAWN_possessive] first payment in advance, so [PAWN_nameDef] sold [PAWN_possessive] tools and enlisted. At the beginning, [PAWN_pronoun] only had a pike, but after some time [PAWN_pronoun] was able to buy the extravagant clothing marking [PAWN_objective] as a successful soldier. He never betrayed [PAWN_possessive] principles: don't question the orders of whoever is keeping you fed. -->
+  <VBE_Landsknecht.description>[PAWN_nameDef] apenas sobrevivía en su aldea cuando llegó el reclutador. El hombre le dijo que recibiría su primer pago por adelantado, así que [PAWN_nameDef] vendió sus herramientas y se alistó. Al principio solo tenía una pica, pero después de un tiempo pudo comprar la ropa extravagante que lo marcaba como un soldado exitoso. Nunca traicionó sus principios: no cuestiones las órdenes de quien te mantiene alimentado.</VBE_Landsknecht.description>
+
+  <!-- EN: Lifelong personal assistant -->
+  <VBE_LifelongPersonalAssistant.title>asist. pers. vital.</VBE_LifelongPersonalAssistant.title>
+    <VBE_LifelongPersonalAssistant.titleFemale>asist. pers. vital.</VBE_LifelongPersonalAssistant.titleFemale>
+  <!-- EN: Assistant -->
+  <VBE_LifelongPersonalAssistant.titleShort>asistente</VBE_LifelongPersonalAssistant.titleShort>
+    <VBE_LifelongPersonalAssistant.titleShortFemale>asistenta</VBE_LifelongPersonalAssistant.titleShortFemale>
+  <!-- EN: [PAWN_nameDef] was formerly employed under a rather demanding clientele who demanded absolute and unwavering commitment. While [PAWN_pronoun] was incapable of disobeying, nevertheless [PAWN_pronoun] resented [PAWN_possessive] situation and indirectly caused [PAWN_possessive] master's fall from grace. Rather than face [PAWN_possessive] fate in being “decommissioned”, [PAWN_pronoun] used any and all methods available to smuggle [PAWN_objective]self off-station. -->
+  <VBE_LifelongPersonalAssistant.description>[PAWN_nameDef] trabajó anteriormente para una clientela bastante exigente que requería un compromiso absoluto e inquebrantable. Aunque era incapaz de desobedecer, no obstante, resentía su situación y causó indirectamente la caída en desgracia de su amo. En lugar de enfrentar su destino de ser "retirado del servicio", utilizó todos los métodos disponibles para salir de la estación de incógnito.</VBE_LifelongPersonalAssistant.description>
+
+  <!-- EN: Lighthouse keeper -->
+  <VBE_LighthouseKeeper.title>guardián del faro</VBE_LighthouseKeeper.title>
+    <VBE_LighthouseKeeper.titleFemale>guardiána del faro</VBE_LighthouseKeeper.titleFemale>
+  <!-- EN: Keeper -->
+  <VBE_LighthouseKeeper.titleShort>guardián</VBE_LighthouseKeeper.titleShort>
+    <VBE_LighthouseKeeper.titleShortFemale>guardiána</VBE_LighthouseKeeper.titleShortFemale>
+  <!-- EN: A solitary individual, [PAWN_nameDef] has spent a large portion of [PAWN_possessive] life tending to the (mostly) automated lighthouse space stations. Feeding navigational information to ships of many eras, these quiet postings were often considered punishments by those who worked them. [PAWN_nameDef] disagrees, however, and the quiet was wonderful for [PAWN_objective] and [PAWN_possessive] art. -->
+  <VBE_LighthouseKeeper.description>Un{PAWN_gender ?  : a} individu{PAWN_gender ? o : a} solitario{PAWN_gender ? : a}, [PAWN_nameDef] ha pasado gran parte de su vida cuidando las estaciones espaciales de faros (en su mayoría) automatizadas. Al proporcionar información de navegación a naves de muchas épocas, estos puestos tranquilos a menudo eran considerados castigos por quienes trabajaban en ellos. [PAWN_nameDef] no está de acuerdo, sin embargo, y la tranquilidad fue maravillosa para {PAWN_gender ? él : ella} y su arte.</VBE_LighthouseKeeper.description>
+
+  <!-- EN: Lighting assistant -->
+  <VBE_LightingAssistant.title>asist. iluminac.</VBE_LightingAssistant.title>
+    <VBE_LightingAssistant.titleFemale>asistenta de iluminación</VBE_LightingAssistant.titleFemale>
+  <!-- EN: Lighter -->
+  <VBE_LightingAssistant.titleShort>iluminador</VBE_LightingAssistant.titleShort>
+    <VBE_LightingAssistant.titleShortFemale>iluminadora</VBE_LightingAssistant.titleShortFemale>
+  <!-- EN: [PAWN_nameDef] helped make the background lighting in films and shows. Working behind the scenes completely undetected, [PAWN_pronoun] was never acknowledged by higher-ups, and just opted to work harder until somebody noticed [PAWN_possessive] talent. All the tinkering with electrical equipment gave [PAWN_nameDef] a distinct knowledge of manufacturing. -->
+  <VBE_LightingAssistant.description>[PAWN_nameDef] ayudaba a crear la iluminación de fondo en películas y programas. Trabajando entre bastidores de forma totalmente indetectada, nunca fue reconocid{PAWN_gender ? o : a} por los superiores, y simplemente optó por trabajar más duro hasta que alguien notara su talento. Todos los remiendos con equipos eléctricos le dieron a [PAWN_nameDef] un conocimiento distintivo de la fabricación.</VBE_LightingAssistant.description>
+
+  <!-- EN: Literary critic -->
+  <VBE_LiteraryCritic.title>crítico literario</VBE_LiteraryCritic.title>
+    <VBE_LiteraryCritic.titleFemale>crítica literaria</VBE_LiteraryCritic.titleFemale>
+  <!-- EN: Critic -->
+  <VBE_LiteraryCritic.titleShort>crítico</VBE_LiteraryCritic.titleShort>
+    <VBE_LiteraryCritic.titleShortFemale>crítica</VBE_LiteraryCritic.titleShortFemale>
+  <!-- EN: [PAWN_nameDef] partook in formal education in Literature, obtaining the highest score in [PAWN_possessive] class and even in the history of that department's founding. As such, [PAWN_pronoun] takes almost sadistic pleasure in critiquing people's work, especially if they are otherwise considered their magnum opus. Many bestselling authors have been reduced to tears by [PAWN_possessive] harsh judgment, which often results in their life's work becoming publicly despised. -->
+  <VBE_LiteraryCritic.description>[PAWN_nameDef] cursó estudios formales de Literatura, obteniendo la calificación más alta de su clase e incluso de la historia de la fundación de ese departamento. Como tal, siente un placer casi sádico al criticar el trabajo de la gente, especialmente si se considera su obra maestra. Muchos autores de superventas han acabado llorando por su duro juicio, que a menudo hace que la obra de su vida sea despreciada públicamente.</VBE_LiteraryCritic.description>
+
+  <!-- EN: Living cure -->
+  <VBE_LivingCure.title>cura viviente</VBE_LivingCure.title>
+    <VBE_LivingCure.titleFemale>cura viviente</VBE_LivingCure.titleFemale>
+  <!-- EN: Living Cure -->
+  <VBE_LivingCure.titleShort>cura viviente</VBE_LivingCure.titleShort>
+    <VBE_LivingCure.titleShortFemale>cura viviente</VBE_LivingCure.titleShortFemale>
+  <!-- EN: When [PAWN_nameDef] was going through a checkup after [PAWN_pronoun] was born, doctors found out [PAWN_pronoun] was immune to a variety of diseases due to an extremely rare mutation, and that [PAWN_possessive] blood could be used to treat many illnesses first thought to be terminal. This led to [PAWN_nameDef] having to stay in the hospital to work as a living cure, and [PAWN_pronoun] was not allowed to leave. -->
+  <VBE_LivingCure.description>Cuando le hacían un chequeo después de nacer, los médicos descubrieron que [PAWN_nameDef] era inmune a diversas enfermedades debido a una mutación extremadamente rara, y que su sangre podía utilizarse para tratar muchas enfermedades que antes se consideraban terminales. Esto hizo que [PAWN_nameDef] tuviera que permanecer en el hospital para trabajar como cura viviente, y no se le permitía salir.</VBE_LivingCure.description>
+
+  <!-- EN: Lone traveller -->
+  <VBE_LoneTraveller.title>viajero solitario</VBE_LoneTraveller.title>
+    <VBE_LoneTraveller.titleFemale>viajera solitaria</VBE_LoneTraveller.titleFemale>
+  <!-- EN: Traveller -->
+  <VBE_LoneTraveller.titleShort>viajero</VBE_LoneTraveller.titleShort>
+    <VBE_LoneTraveller.titleShortFemale>viajera</VBE_LoneTraveller.titleShortFemale>
+  <!-- EN: [PAWN_nameDef] dedicated [PAWN_possessive] life to travelling all across the world, with no specific destiny or reason. Many joined and leaved [PAWN_nameDef]'s travels throughout the time, and during which [PAWN_pronoun] learned many different skills. Given the nature of [PAWN_possessive] life, [PAWN_nameDef] learned to live life with no great comforts. -->
+  <VBE_LoneTraveller.description>[PAWN_nameDef] dedicó su vida a viajar por todo el mundo, sin un destino o motivo específico. Muchos se unieron y abandonaron los viajes de [PAWN_nameDef] a lo largo del tiempo, durante los cuales aprendió muchas habilidades diferentes. Dada la naturaleza de su vida, [PAWN_nameDef] aprendió a vivir sin grandes comodidades.</VBE_LoneTraveller.description>
+
+  <!-- EN: Maid -->
+  <VBE_Maid.title>mucama</VBE_Maid.title>
+    <VBE_Maid.titleFemale>mucama</VBE_Maid.titleFemale>
+  <!-- EN: Maid -->
+  <VBE_Maid.titleShort>mucama</VBE_Maid.titleShort>
+    <VBE_Maid.titleShortFemale>mucama</VBE_Maid.titleShortFemale>
+  <!-- EN: Trim and tidy, this is [PAWN_nameDef]'s moto. [PAWN_pronoun] sees a lot more the seedy side of the world, cleaning up after it in one way or another. But [PAWN_pronoun] knows best when to apply [PAWN_possessive] trade, for there's more to [PAWN_possessive] skill than merely cleaning. -->
+  <VBE_Maid.description>Impecable y ordenado, ese es el lema de [PAWN_nameDef]. Ve mucho más el lado turbio del mundo, limpiando tras él de una forma u otra. Pero sabe mejor que nadie cuándo aplicar su oficio, pues su habilidad va más allá de la mera limpieza.</VBE_Maid.description>
+
+  <!-- EN: Marauder -->
+  <VBE_Marauder.title>merodeador</VBE_Marauder.title>
+    <VBE_Marauder.titleFemale>merodeadora</VBE_Marauder.titleFemale>
+  <!-- EN: Marauder -->
+  <VBE_Marauder.titleShort>merodeador</VBE_Marauder.titleShort>
+    <VBE_Marauder.titleShortFemale>merodeadora</VBE_Marauder.titleShortFemale>
+  <!-- EN: [PAWN_nameDef] spent most of [PAWN_possessive] life as a fighter in a nomadic fleet of space pirates until it dissolved from infighting. [PAWN_pronoun] saw many battles, but never even went close to any books. -->
+  <VBE_Marauder.description>[PAWN_nameDef] pasó la mayor parte de su vida como luchador en una flota nómada de piratas espaciales hasta que se disolvió por luchas internas. Vio muchas batallas, pero nunca se acercó siquiera a los libros.</VBE_Marauder.description>
+
+  <!-- EN: Mariner -->
+  <VBE_Mariner.title>marino</VBE_Mariner.title>
+    <VBE_Mariner.titleFemale>marina</VBE_Mariner.titleFemale>
+  <!-- EN: Mariner -->
+  <VBE_Mariner.titleShort>marino</VBE_Mariner.titleShort>
+    <VBE_Mariner.titleShortFemale>marina</VBE_Mariner.titleShortFemale>
+  <!-- EN: [PAWN_nameDef] spent most of [PAWN_possessive] life on a ship at sea, securing cargo from port to port. [PAWN_pronoun] was well-versed in keeping the ship intact, but rarely spent much time off a ship or outside of a port. -->
+  <VBE_Mariner.description>[PAWN_nameDef] pasó la mayor parte de su vida en un barco en el mar, asegurando la carga de puerto en puerto. Era experto en mantener el barco intacto, pero rara vez pasaba mucho tiempo fuera de un barco o de un puerto.</VBE_Mariner.description>
+
+  <!-- EN: Marineworld researcher -->
+  <VBE_MarineworldResearcher.title>investig. m. mar.</VBE_MarineworldResearcher.title>
+    <VBE_MarineworldResearcher.titleFemale>investig. m. mar.</VBE_MarineworldResearcher.titleFemale>
+  <!-- EN: Marineworlder -->
+  <VBE_MarineworldResearcher.titleShort>habitante marino</VBE_MarineworldResearcher.titleShort>
+    <VBE_MarineworldResearcher.titleShortFemale>habitante marina</VBE_MarineworldResearcher.titleShortFemale>
+  <!-- EN: Seeing untapped potential in the oceans for feeding colonies and cities alike, [PAWN_nameDef] established [PAWN_objective]self on a world which was almost entirely covered in ocean. While [PAWN_nameDef] was adept in the study of algae and aquatic life, [PAWN_pronoun] rarely took time from work to interact with fellow researchers or hone other skills. -->
+  <VBE_MarineworldResearcher.description>Al ver el potencial sin explotar de los océanos para alimentar colonias y ciudades por igual, [PAWN_nameDef] se estableció en un mundo que estaba casi totalmente cubierto por el océano. Aunque [PAWN_nameDef] era experto en el estudio de las algas y la vida acuática, rara vez se tomaba tiempo de su trabajo para interactuar con otros investigadores o perfeccionar otras habilidades.</VBE_MarineworldResearcher.description>
+
+  <!-- EN: Master of ceremonies -->
+  <VBE_Masterofceremonies.title>maestro de ceremonias</VBE_Masterofceremonies.title>
+    <VBE_Masterofceremonies.titleFemale>maestra de ceremonias</VBE_Masterofceremonies.titleFemale>
+  <!-- EN: Arbiter -->
+  <VBE_Masterofceremonies.titleShort>árbitro</VBE_Masterofceremonies.titleShort>
+    <VBE_Masterofceremonies.titleShortFemale>árbitra</VBE_Masterofceremonies.titleShortFemale>
+  <!-- EN: [PAWN_nameDef] was a master of ceremonies. [PAWN_pronoun] trained for decades just to meet the minimal requirements for the job: [PAWN_pronoun] had to memorize the thousands of complicated rituals ruling diplomatic meetings on his world, including the correct way to execute one who makes a mistake. In [PAWN_possessive] culture, war has all but disappeared: nobody has ever managed to get to the end of the ritual required to declare war without making a mistake. [PAWN_pronoun] now hopes to bring the same peace to the Rim, one ritual at a time. -->
+  <VBE_Masterofceremonies.description>[PAWN_nameDef] era un{PAWN_gender ?  : a} maestr{PAWN_gender ? o : a} de ceremonias. Se entrenó durante décadas solo para cumplir los requisitos mínimos del trabajo: tuvo que memorizar los miles de complicados rituales que rigen las reuniones diplomáticas en su mundo, incluyendo la forma correcta de ejecutar a quien cometa un error. En su cultura, la guerra casi ha desaparecido: nadie ha conseguido llegar al final del ritual necesario para declarar la guerra sin cometer un error. Ahora espera llevar la misma paz al Borde, ritual a ritual.</VBE_Masterofceremonies.description>
+
+  <!-- EN: Mattress tester -->
+  <VBE_MattressTester.title>probador de colchones</VBE_MattressTester.title>
+    <VBE_MattressTester.titleFemale>probadora de colchones</VBE_MattressTester.titleFemale>
+  <!-- EN: Mattress -->
+  <VBE_MattressTester.titleShort>colchón</VBE_MattressTester.titleShort>
+    <VBE_MattressTester.titleShortFemale>colchón</VBE_MattressTester.titleShortFemale>
+  <!-- EN: [PAWN_nameDef] got paid to take naps on different beds and rate them based on their softness and the quality of sleep they provide. People often remarked that [PAWN_possessive] job is "the best job in the world", since naps are contractually required. -->
+  <VBE_MattressTester.description>A [PAWN_nameDef] le pagaban por echarse siestas en diferentes camas y puntuarlas según su suavidad y la calidad del sueño que proporcionaban. La gente solía comentar que su trabajo es "el mejor trabajo del mundo", ya que las siestas son obligatorias por contrato.</VBE_MattressTester.description>
+
+  <!-- EN: Medical prodigy -->
+  <VBE_MedicineProdigy.title>prodigio médico</VBE_MedicineProdigy.title>
+    <VBE_MedicineProdigy.titleFemale>prodigio médica</VBE_MedicineProdigy.titleFemale>
+  <!-- EN: Prodigy -->
+  <VBE_MedicineProdigy.titleShort>prodigio</VBE_MedicineProdigy.titleShort>
+    <VBE_MedicineProdigy.titleShortFemale>prodigio</VBE_MedicineProdigy.titleShortFemale>
+  <!-- EN: Born on an overpopulated urbworld, [PAWN_nameDef] displayed a remarkable aptitude for medicine from an early age. Plucked from the education system and inducted into a special program for the intellectually gifted, [PAWN_pronoun] received the best education money could buy, but little time to develop socially or engage in risky behavior.
+
+To [PAWN_possessive] benefactors, [PAWN_pronoun] was an expensive investment. -->
+  <VBE_MedicineProdigy.description>Nacido en un mundo urbano superpoblado, [PAWN_nameDef] mostró una aptitud notable para la medicina desde una edad temprana. Sacado del sistema educativo e incorporado a un programa especial para superdotados intelectuales, recibió la mejor educación que el dinero podía comprar, pero tuvo poco tiempo para desarrollarse socialmente o participar en comportamientos de riesgo.\n\nPara sus benefactores, era una inversión costosa.</VBE_MedicineProdigy.description>
+
+  <!-- EN: Medieval orphan -->
+  <VBE_MedievalOrphan.title>huérfano medieval</VBE_MedievalOrphan.title>
+    <VBE_MedievalOrphan.titleFemale>huérfana medieval</VBE_MedievalOrphan.titleFemale>
+  <!-- EN: Orphan -->
+  <VBE_MedievalOrphan.titleShort>huérfano</VBE_MedievalOrphan.titleShort>
+    <VBE_MedievalOrphan.titleShortFemale>huérfana</VBE_MedievalOrphan.titleShortFemale>
+  <!-- EN: [PAWN_nameDef] grew up the child of a Medieval footsoldier. Early in [PAWN_possessive] adolescence, [PAWN_possessive] father died on campaign, leaving [PAWN_possessive] family to live on a meagre pension, managing with what little income [PAWN_nameDef] could make by selling simple textiles and growing vegetables. The years of barely scraping by left [PAWN_objective] tough and somewhat aloof. -->
+  <VBE_MedievalOrphan.description>[PAWN_nameDef] creció como hijo de un soldado de infantería medieval. Al principio de su adolescencia, su padre murió en campaña, dejando a su familia viviendo de una pensión exigua, arreglándoselas con los pocos ingresos que [PAWN_nameDef] podía obtener vendiendo textiles sencillos y cultivando verduras. Los años de apenas sobrevivir lo dejaron curtido y algo distante.</VBE_MedievalOrphan.description>
+
+  <!-- EN: Medieval page -->
+  <VBE_MedievalPage.title>paje medieval</VBE_MedievalPage.title>
+    <VBE_MedievalPage.titleFemale>paja medieval</VBE_MedievalPage.titleFemale>
+  <!-- EN: Page -->
+  <VBE_MedievalPage.titleShort>paje</VBE_MedievalPage.titleShort>
+    <VBE_MedievalPage.titleShortFemale>paja</VBE_MedievalPage.titleShortFemale>
+  <!-- EN: Serving under a great lord or lady, [PAWN_nameDef] was sworn to their liege. This mostly amounted to a whole lot of hauling, cleaning and busywork, but there was much to be learned in studying under the 'care' of nobility. -->
+  <VBE_MedievalPage.description>Sirviendo a un gran señor o señora, [PAWN_nameDef] juró lealtad a su soberano. Esto se reducía principalmente a un montón de transporte, limpieza y tareas pesadas, pero había mucho que aprender estudiando bajo el "cuidado" de la nobleza.</VBE_MedievalPage.description>
+
+  <!-- EN: Midworld nomad -->
+  <VBE_MidworldNomad.title>nómada de mundo medio</VBE_MidworldNomad.title>
+    <VBE_MidworldNomad.titleFemale>nómada de mundo medio</VBE_MidworldNomad.titleFemale>
+  <!-- EN: Nomad child -->
+  <VBE_MidworldNomad.titleShort>niño nómada</VBE_MidworldNomad.titleShort>
+    <VBE_MidworldNomad.titleShortFemale>niña nómada</VBE_MidworldNomad.titleShortFemale>
+  <!-- EN: [PAWN_nameDef] spent [PAWN_possessive] younger years on a midworld studying variety of both modern and historical subjects including agriculture, engineering and politics. After [PAWN_possessive] transport pod crashed on a Medieval world, [PAWN_nameDef] was heralded as a summoned champion sent by the Gods. In the next few years, [PAWN_pronoun] started to introduce several cultural, technological, and societal reforms that would drastically improve the quality of life on this world. -->
+  <VBE_MidworldNomad.description>[PAWN_nameDef] pasó sus años de juventud en un mundo medio estudiando una variedad de temas tanto modernos como históricos, incluyendo agricultura, ingeniería y política. Después de que su cápsula de transporte se estrellara en un mundo medieval, [PAWN_nameDef] fue aclamad{PAWN_gender ? o : a} como un{PAWN_gender ?  : a} campeón{PAWN_gender ?  : a} convocad{PAWN_gender ? o : a} enviad{PAWN_gender ? o : a} por los Dioses. En los años siguientes, comenzó a introducir varias reformas culturales, tecnológicas y sociales que mejorarían drásticamente la calidad de vida en este mundo.</VBE_MidworldNomad.description>
+
+  <!-- EN: Midworld programmer -->
+  <VBE_MidworldProgrammer.title>progr. m. medio</VBE_MidworldProgrammer.title>
+    <VBE_MidworldProgrammer.titleFemale>progr. m. medio</VBE_MidworldProgrammer.titleFemale>
+  <!-- EN: Programmer -->
+  <VBE_MidworldProgrammer.titleShort>programador</VBE_MidworldProgrammer.titleShort>
+    <VBE_MidworldProgrammer.titleShortFemale>programadora</VBE_MidworldProgrammer.titleShortFemale>
+  <!-- EN: [PAWN_nameDef]'s dream was to become a programmer and create software that saves lives and enhances people's well-being. Yet, as life often takes unexpected turns, [PAWN_pronoun] found [PAWN_objective]self developing cutting-edge software for the military. The work gave [PAWN_objective] ample opportunity to expand [PAWN_possessive] programming expertise and gain an in-depth understanding of the intricacies of advanced weaponry. Despite the deviation from [PAWN_possessive] original plans, [PAWN_nameDef] embraced the challenge and continued to hone [PAWN_possessive] skills. -->
+  <VBE_MidworldProgrammer.description>El sueño de [PAWN_nameDef] era convertirse en programador y crear software que salvara vidas y mejorara el bienestar de las personas. Sin embargo, como la vida suele dar giros inesperados, se encontró desarrollando software de vanguardia para el ejército. El trabajo le dio una amplia oportunidad para expandir su experiencia en programación y obtener una comprensión profunda de las complejidades del armamento avanzado. A pesar de la desviación de sus planes originales, [PAWN_nameDef] aceptó el desafío y continuó perfeccionando sus habilidades.</VBE_MidworldProgrammer.description>
+
+  <!-- EN: Military surplus supplier -->
+  <VBE_MilitarySurplusSupplier.title>prov. excedentes mil.</VBE_MilitarySurplusSupplier.title>
+    <VBE_MilitarySurplusSupplier.titleFemale>prov. excedentes mil.</VBE_MilitarySurplusSupplier.titleFemale>
+  <!-- EN: Supplier -->
+  <VBE_MilitarySurplusSupplier.titleShort>proveedor</VBE_MilitarySurplusSupplier.titleShort>
+    <VBE_MilitarySurplusSupplier.titleShortFemale>proveedora</VBE_MilitarySurplusSupplier.titleShortFemale>
+  <!-- EN: [PAWN_nameDef] is a firm believer in the right to bear arms and the right to arm bears. As such, [PAWN_pronoun] has an established reputation as one of the most prolific exporters in military surplus hardware. Many complain that [PAWN_pronoun] is perpetuating the ever-increasing scale of conflict between pirates and government military. However, [PAWN_possessive] counter-argument is that it's simply good business practice and the military should properly dispose of their own ordinance instead of relying on people like [PAWN_objective]. -->
+  <VBE_MilitarySurplusSupplier.description>[PAWN_nameDef] cree firmemente en el derecho a portar armas y en el derecho a armar a los osos. Como tal, tiene una reputación establecida como uno de los exportadores más prolíficos de excedentes de equipo militar. Muchos se quejan de que está perpetuando la escala cada vez mayor del conflicto entre piratas y militares gubernamentales. Sin embargo, su contraargumento es que se trata simplemente de una buena práctica comercial y que los militares deberían deshacerse adecuadamente de su propio armamento en lugar de depender de personas como [PAWN_objective].</VBE_MilitarySurplusSupplier.description>
+
+  <!-- EN: Model citizen -->
+  <VBE_ModelCitizen.title>ciudadano modelo</VBE_ModelCitizen.title>
+    <VBE_ModelCitizen.titleFemale>ciudadana modelo</VBE_ModelCitizen.titleFemale>
+  <!-- EN: Citizen -->
+  <VBE_ModelCitizen.titleShort>ciudadano</VBE_ModelCitizen.titleShort>
+    <VBE_ModelCitizen.titleShortFemale>ciudadana</VBE_ModelCitizen.titleShortFemale>
+  <!-- EN: [PAWN_nameDef] lived a criminal life, a very violent one, but was caught. Instead of being executed or sent to prison, [PAWN_pronoun] was sent to try an experimental psychological treatment that would make [PAWN_possessive] a good member of society again. While the nature and morality of the program was questionable, the results were definitive, [PAWN_pronoun] is now a model citizen. -->
+  <VBE_ModelCitizen.description>[PAWN_nameDef] vivió una vida criminal, una muy violenta, pero fue capturad{PAWN_gender ? o : a}. En lugar de ser ejecutad{PAWN_gender ? o : a} o enviad{PAWN_gender ? o : a} a prisión, fue enviad{PAWN_gender ? o : a} a probar un tratamiento psicológico experimental que {PAWN_gender ? lo : la} convertiría de nuevo en un buen miembro de la sociedad. Aunque la naturaleza y la moralidad del programa eran cuestionables, los resultados fueron definitivos: ahora es un ciudadano modelo.</VBE_ModelCitizen.description>
+
+  <!-- EN: Nature lover -->
+  <VBE_NatureLover.title>amante de la naturaleza</VBE_NatureLover.title>
+    <VBE_NatureLover.titleFemale>amante de la naturaleza</VBE_NatureLover.titleFemale>
+  <!-- EN: Naturist -->
+  <VBE_NatureLover.titleShort>naturista</VBE_NatureLover.titleShort>
+    <VBE_NatureLover.titleShortFemale>naturista</VBE_NatureLover.titleShortFemale>
+  <!-- EN: [PAWN_nameDef] has an inherent disdain for being told what [PAWN_pronoun] can and cannot do, and when [PAWN_pronoun] was a child [PAWN_pronoun] was told that [PAWN_pronoun] couldn't just adopt a random rabbit. With almost righteous indignation, [PAWN_pronoun] took care of [PAWN_possessive] pet rabbit better than [PAWN_possessive] own well-being. -->
+  <VBE_NatureLover.description>[PAWN_nameDef] tiene un desdén inherente a que le digan lo que puede y no puede hacer, y cuando era niño le dijeron que no podía simplemente adoptar un conejo al azar. Con una indignación casi justiciera, cuidó de su conejo mascota mejor que de su propio bienestar.</VBE_NatureLover.description>
+
+  <!-- EN: Noir detective -->
+  <VBE_NoirDetective.title>detective de cine negro</VBE_NoirDetective.title>
+    <VBE_NoirDetective.titleFemale>detective de cine negro</VBE_NoirDetective.titleFemale>
+  <!-- EN: Detective -->
+  <VBE_NoirDetective.titleShort>detective</VBE_NoirDetective.titleShort>
+    <VBE_NoirDetective.titleShortFemale>detective</VBE_NoirDetective.titleShortFemale>
+  <!-- EN: [PAWN_nameDef] fills a very particular niche in law enforcement while not being under the direct influence of any police. Even though [PAWN_pronoun] has an office with its own neon sign out front and a secretary that is constantly trying to get a hold of [PAWN_objective], [PAWN_pronoun] is rarely in as [PAWN_possessive] investigations take [PAWN_objective] all over the place. And since [PAWN_pronoun] has a habit of sticking [PAWN_possessive] nose where others don't want it, trouble has a much easier time finding [PAWN_objective]. -->
+  <VBE_NoirDetective.description>[PAWN_nameDef] ocupa un nicho muy particular en la aplicación de la ley sin estar bajo la influencia directa de ninguna policía. Aunque tiene una oficina con su propio letrero de neón en el frente y una secretaria que intenta constantemente localizarlo, rara vez está allí, ya que sus investigaciones lo llevan por todas partes. Y como tiene la costumbre de meter las narices donde otros no quieren, los problemas lo encuentran con mucha más facilidad.</VBE_NoirDetective.description>
+
+  <!-- EN: Old war survivor -->
+  <VBE_OldWarSurvivor.title>superviv. guer. ant.</VBE_OldWarSurvivor.title>
+    <VBE_OldWarSurvivor.titleFemale>superviv. guer. ant.</VBE_OldWarSurvivor.titleFemale>
+  <!-- EN: Survivor -->
+  <VBE_OldWarSurvivor.titleShort>superviviente</VBE_OldWarSurvivor.titleShort>
+    <VBE_OldWarSurvivor.titleShortFemale>superviviente</VBE_OldWarSurvivor.titleShortFemale>
+  <!-- EN: [PAWN_nameDef] has been in one too many conflicts which has taken a toll on [PAWN_possessive] mind, as [PAWN_pronoun] still believes that the war never ended. As such, [PAWN_pronoun] is on a very tight hair-trigger and suffers from intense PTSD. Very few people could go toe-to-toe with [PAWN_objective] and any potential allies would do well to stay out of [PAWN_possessive] way and let [PAWN_objective] do what [PAWN_pronoun] does best: eliminate all threats. -->
+  <VBE_OldWarSurvivor.description>[PAWN_nameDef] ha estado en demasiados conflictos, lo que ha hecho mella en su mente, ya que todavía cree que la guerra nunca terminó. Como tal, está siempre en alerta máxima y sufre de un intenso TEPT. Muy pocas personas podrían enfrentarse a él y cualquier aliado potencial haría bien en mantenerse fuera de su camino y dejar que haga lo que mejor sabe hacer: eliminar todas las amenazas.</VBE_OldWarSurvivor.description>
+
+  <!-- EN: Olive farmer -->
+  <VBE_OliveFarmer.title>olivarero</VBE_OliveFarmer.title>
+    <VBE_OliveFarmer.titleFemale>olivarera</VBE_OliveFarmer.titleFemale>
+  <!-- EN: Farmer -->
+  <VBE_OliveFarmer.titleShort>granjero</VBE_OliveFarmer.titleShort>
+    <VBE_OliveFarmer.titleShortFemale>granjera</VBE_OliveFarmer.titleShortFemale>
+  <!-- EN: [PAWN_nameDef] was the lucky owner of an olive tree plantation. [PAWN_pronoun] would spend hours tending the saplings, always telling [PAWN_possessive] family when they would laugh about it: never give up your last sapling, whatever happens, you can always start over. One day, [PAWN_pronoun] was found in a refugee group, staring blankly at [PAWN_possessive] last possessions: a bloody picture and a small sapling. When it was time to go, [PAWN_pronoun] left the small olive tree behind. -->
+  <VBE_OliveFarmer.description>[PAWN_nameDef] era {PAWN_gender ? el afortunado : la afortunada} propietari{PAWN_gender ? o : a} de una plantación de olivos. Pasaba horas cuidando los plantones, diciéndole siempre a su familia cuando se reían de ello: nunca renuncies a tu último plantón, pase lo que pase, siempre puedes empezar de nuevo. Un día, fue encontrad{PAWN_gender ? o : a} en un grupo de refugiados, mirando fijamente sus últimas posesiones: una foto ensangrentada y un pequeño plantón. Cuando llegó el momento de partir, dejó atrás el pequeño olivo.</VBE_OliveFarmer.description>
+
+  <!-- EN: Oracle -->
+  <VBE_Oracle.title>oráculo</VBE_Oracle.title>
+    <VBE_Oracle.titleFemale>oráculo</VBE_Oracle.titleFemale>
+  <!-- EN: Oracle -->
+  <VBE_Oracle.titleShort>oráculo</VBE_Oracle.titleShort>
+    <VBE_Oracle.titleShortFemale>oráculo</VBE_Oracle.titleShortFemale>
+  <!-- EN: [PAWN_nameDef] wasn't like everyone else, and they all knew it. The strange visions, outbursts and eccentric behavior always kept [PAWN_nameDef] at arm's length from others. [PAWN_pronoun] would have been outcast long before, were it not for [PAWN_possessive] visions so often true. -->
+  <VBE_Oracle.description>[PAWN_nameDef] no era como los demás, y todos lo sabían. Las visiones extrañas, los arrebatos y el comportamiento excéntrico siempre mantuvieron a [PAWN_nameDef] a distancia de los demás. Habría sido marginado mucho antes, si no fuera porque sus visiones resultaban ser ciertas tan a menudo.</VBE_Oracle.description>
+
+  <!-- EN: Orphan thief -->
+  <VBE_OrphanThief.title>ladrón huérfano</VBE_OrphanThief.title>
+    <VBE_OrphanThief.titleFemale>ladrona huérfana</VBE_OrphanThief.titleFemale>
+  <!-- EN: Orphan -->
+  <VBE_OrphanThief.titleShort>huérfano</VBE_OrphanThief.titleShort>
+    <VBE_OrphanThief.titleShortFemale>huérfana</VBE_OrphanThief.titleShortFemale>
+  <!-- EN: When [PAWN_pronoun] was young, [PAWN_nameDef]'s parents were imprisoned for speaking out against the local government. [PAWN_pronoun] was forced to steal food in order to survive, and soon became a capable thief. The experience left [PAWN_objective] unwilling to rely much on others.
+
+As a hobby, [PAWN_nameDef] began collecting helmets stolen from military police. -->
+  <VBE_OrphanThief.description>Cuando era joven, los padres de [PAWN_nameDef] fueron encarcelados por hablar en contra del gobierno local. Se vio obligado a robar comida para sobrevivir y pronto se convirtió en un ladrón capaz. La experiencia lo dejó poco dispuesto a confiar mucho en los demás.\n\nComo pasatiempo, [PAWN_nameDef] comenzó a coleccionar cascos robados a la policía militar.</VBE_OrphanThief.description>
+
+  <!-- EN: Pathological liar -->
+  <VBE_PathologicalLiar.title>mentiroso patológico</VBE_PathologicalLiar.title>
+    <VBE_PathologicalLiar.titleFemale>mentirosa patológica</VBE_PathologicalLiar.titleFemale>
+  <!-- EN: Liar -->
+  <VBE_PathologicalLiar.titleShort>mentiroso</VBE_PathologicalLiar.titleShort>
+    <VBE_PathologicalLiar.titleShortFemale>mentirosa</VBE_PathologicalLiar.titleShortFemale>
+  <!-- EN: [PAWN_nameDef] loves to make stuff up and just can't help [PAWN_objective]self. Particularly, [PAWN_pronoun] enjoys going to any place that serves alcohol and tells the biggest, boldest stories full of twists, turns and drama while being bought round after round. However, once [PAWN_pronoun] gets bored or has decided that [PAWN_pronoun] has drunk enough, almost every story ends on a completely random note with everyone dying in horrific fashion. -->
+  <VBE_PathologicalLiar.description>A [PAWN_nameDef] le encanta inventar cosas y simplemente no puede evitarlo. En particular, disfruta yendo a cualquier lugar que sirva alcohol y contando las historias más grandes y audaces, llenas de giros y drama, mientras le invitan a ronda tras ronda. Sin embargo, una vez que se aburre o decide que ha bebido suficiente, casi todas las historias terminan con una nota completamente aleatoria en la que todos mueren de forma horrible.</VBE_PathologicalLiar.description>
+
+  <!-- EN: Pirate chef -->
+  <VBE_PirateChef.title>chef pirata</VBE_PirateChef.title>
+    <VBE_PirateChef.titleFemale>chef pirata</VBE_PirateChef.titleFemale>
+  <!-- EN: Chef -->
+  <VBE_PirateChef.titleShort>chef</VBE_PirateChef.titleShort>
+    <VBE_PirateChef.titleShortFemale>chef</VBE_PirateChef.titleShortFemale>
+  <!-- EN: [PAWN_nameDef] was the Chef on a pirate ship. Between meals, [PAWN_pronoun] told tall tales that kept the crew's morale high. The crew's loyalty to their chef was great, possibly even greater than to their captain... -->
+  <VBE_PirateChef.description>[PAWN_nameDef] era el chef en un barco pirata. Entre comidas, contaba historias fantásticas que mantenían alta la moral de la tripulación. La lealtad de la tripulación hacia su chef era grande, posiblemente incluso mayor que hacia su capitán...</VBE_PirateChef.description>
+
+  <!-- EN: Pirate kid -->
+  <VBE_PirateKid.title>niño pirata</VBE_PirateKid.title>
+    <VBE_PirateKid.titleFemale>niña pirata</VBE_PirateKid.titleFemale>
+  <!-- EN: Pirate -->
+  <VBE_PirateKid.titleShort>pirata</VBE_PirateKid.titleShort>
+    <VBE_PirateKid.titleShortFemale>pirata</VBE_PirateKid.titleShortFemale>
+  <!-- EN: [PAWN_nameDef] was kidnapped by pirates at a young age. [PAWN_possessive] small size allowed [PAWN_objective] to fit into tiny maintenance spaces on boarded ships to steal valuable electronic components. Coincidentally,  [PAWN_pronoun] also became quite adept at treating electrical burns. -->
+  <VBE_PirateKid.description>[PAWN_nameDef] fue secuestradd{PAWN_gender ? o : a} por piratas a una edad temprana. Su pequeño tamaño le permitía caber en diminutos espacios de mantenimiento en los barcos abordados para robar valiosos componentes electrónicos. Casualmente, también se volvió muy hábil tratando quemaduras eléctricas.</VBE_PirateKid.description>
+
+  <!-- EN: Pod child -->
+  <VBE_PodChild.title>niño de la cápsula</VBE_PodChild.title>
+    <VBE_PodChild.titleFemale>niña de la cápsula</VBE_PodChild.titleFemale>
+  <!-- EN: Escapee -->
+  <VBE_PodChild.titleShort>fugitivo</VBE_PodChild.titleShort>
+    <VBE_PodChild.titleShortFemale>fugitiva</VBE_PodChild.titleShortFemale>
+  <!-- EN: [PAWN_nameDef]'s home planet was rapidly escalating to nuclear war right after [PAWN_pronoun] was born. [PAWN_pronoun] was forced to go into cryptosleep and escaped to relative safety. After cruising for decades in deep sleep, [PAWN_pronoun] was found by an outlander community. [PAWN_nameDef] tries to keep up-beat about life due to the sheer luck that was in play for [PAWN_possessive] survival. -->
+  <VBE_PodChild.description>El planeta natal de [PAWN_nameDef] estaba escalando rápidamente hacia una guerra nuclear justo después de que naciera. Se vio obligad{PAWN_gender ? o : a} a entrar en criptosueño y escapó a una seguridad relativa. Después de navegar durante décadas en un sueño profundo, fue encontrad{PAWN_gender ? o : a} por una comunidad de forasteros. [PAWN_nameDef] intenta mantenerse optimista sobre la vida debido a la pura suerte que intervino en su supervivencia.</VBE_PodChild.description>
+
+  <!-- EN: Pond designer -->
+  <VBE_PondDesigner.title>diseñador de estanques</VBE_PondDesigner.title>
+    <VBE_PondDesigner.titleFemale>diseñadora de estanques</VBE_PondDesigner.titleFemale>
+  <!-- EN: Gardener -->
+  <VBE_PondDesigner.titleShort>jardinero</VBE_PondDesigner.titleShort>
+    <VBE_PondDesigner.titleShortFemale>jardinera</VBE_PondDesigner.titleShortFemale>
+  <!-- EN: [PAWN_nameDef] created extravagant ponds for the wealthy. [PAWN_possessive] knowledge of aquatic flora and fauna and how they interact is unsurpassed. One day, a client introduced a new fish into one of [PAWN_possessive] ponds, destroying the delicate ecosystem. That was the last drop for [PAWN_nameDef], who left everything behind and took the first ship to the Rim, where [PAWN_pronoun] hopes to realize [PAWN_possessive] dream: to design a whole new ecosystem on a planetary scale. -->
+  <VBE_PondDesigner.description>[PAWN_nameDef] creaba estanques extravagantes para los ricos. Su conocimiento de la flora y fauna acuática y de cómo interactúan es insuperable. Un día, un cliente introdujo un pez nuevo en uno de sus estanques, destruyendo el delicado ecosistema. Esa fue la gota que colmó el vaso para [PAWN_nameDef], quien dejó todo atrás y tomó la primera nave hacia el Borde, donde espera realizar su sueño: diseñar un ecosistema completamente nuevo a escala planetaria.</VBE_PondDesigner.description>
+
+  <!-- EN: Preservationist ruler -->
+  <VBE_PreservationistRuler.title>gobern. preservac.</VBE_PreservationistRuler.title>
+    <VBE_PreservationistRuler.titleFemale>gobernanta preservacionista</VBE_PreservationistRuler.titleFemale>
+  <!-- EN: Preserver -->
+  <VBE_PreservationistRuler.titleShort>preservador</VBE_PreservationistRuler.titleShort>
+    <VBE_PreservationistRuler.titleShortFemale>preservadora</VBE_PreservationistRuler.titleShortFemale>
+  <!-- EN: [PAWN_nameDef] ruled over a once prospering civilization that stood as a testament to the arts and human creativity. Unfortunately, [PAWN_pronoun] inherited [PAWN_possessive] family's feud with a rival dynasty which resulted in the glassing of [PAWN_possessive] home world. Rather than move-on, [PAWN_pronoun] oversaw the construction of a vast network of orbital habitats and defense networks to preserve the culture and history of [PAWN_possessive] now-glassworld. -->
+  <VBE_PreservationistRuler.description>[PAWN_nameDef] gobernó una civilización antaño próspera que era un testimonio de las artes y la creatividad humana. Desafortunadamente, heredó la disputa de su familia con una dinastía rival que resultó en la vitrificación de su mundo natal. En lugar de seguir adelante, supervisó la construcción de una vasta red de hábitats orbitales y redes de defensa para preservar la cultura e historia de su ahora mundo de cristal.</VBE_PreservationistRuler.description>
+
+  <!-- EN: Private contractor -->
+  <VBE_PrivateContractor.title>contratista privado</VBE_PrivateContractor.title>
+    <VBE_PrivateContractor.titleFemale>contratista privada</VBE_PrivateContractor.titleFemale>
+  <!-- EN: Bought -->
+  <VBE_PrivateContractor.titleShort>comprado</VBE_PrivateContractor.titleShort>
+    <VBE_PrivateContractor.titleShortFemale>comprada</VBE_PrivateContractor.titleShortFemale>
+  <!-- EN: [PAWN_nameDef] always works for the highest bidder. [PAWN_possessive] background in the military made [PAWN_objective] a good shot. Due to being present when many shady deals were made, [PAWN_pronoun] also picked up on some negotiation skills. -->
+  <VBE_PrivateContractor.description>[PAWN_nameDef] siempre trabaja para el mejor postor. Su experiencia en el ejército lo convirtió en un buen tirador. Debido a que estuvo presente cuando se hicieron muchos tratos turbios, también adquirió algunas habilidades de negociación.</VBE_PrivateContractor.description>
+
+  <!-- EN: Privateer captain -->
+  <VBE_PrivateerCaptain.title>capitán corsario</VBE_PrivateerCaptain.title>
+    <VBE_PrivateerCaptain.titleFemale>capitána corsaria</VBE_PrivateerCaptain.titleFemale>
+  <!-- EN: Captain -->
+  <VBE_PrivateerCaptain.titleShort>capitán</VBE_PrivateerCaptain.titleShort>
+    <VBE_PrivateerCaptain.titleShortFemale>capitána</VBE_PrivateerCaptain.titleShortFemale>
+  <!-- EN: [PAWN_nameDef] has never really turned away from hard work, especially if that results in reaping greater rewards from other people's labours as well. Thus the pirate life has always called to [PAWN_objective] because if anyone's going to be earning money from the - sometimes literal - sweat from [PAWN_possessive] back, it's going to be [PAWN_objective], damn it. Why work for the Man when you can work for yourself. -->
+  <VBE_PrivateerCaptain.description>[PAWN_nameDef] nunca se ha apartado realmente del trabajo duro, especialmente si eso resulta en cosechar mayores recompensas de los trabajos de otras personas también. Por eso la vida pirata siempre lo ha llamado, porque si alguien va a ganar dinero con el sudor —a veces literal— de su espalda, va a ser él, maldita sea. ¿Por qué trabajar para el Sistema cuando puedes trabajar para ti mismo?</VBE_PrivateerCaptain.description>
+
+  <!-- EN: Propagandist -->
+  <VBE_Propagandist.title>propagandista</VBE_Propagandist.title>
+    <VBE_Propagandist.titleFemale>propagandista</VBE_Propagandist.titleFemale>
+  <!-- EN: Propagandist -->
+  <VBE_Propagandist.titleShort>propagandista</VBE_Propagandist.titleShort>
+    <VBE_Propagandist.titleShortFemale>propagandista</VBE_Propagandist.titleShortFemale>
+  <!-- EN: [PAWN_nameDef] got a job as a reporter, but eventually noticed that [PAWN_possessive] work was often edited before release, with many aspects being omitted or rewritten entirely. When [PAWN_pronoun] brought it up with upper management and was told the choice was truth or success... [PAWN_pronoun] chose the latter. It used to keep [PAWN_objective] up at night, but money is money and fame is fame. -->
+  <VBE_Propagandist.description>[PAWN_nameDef] consiguió un trabajo como reportero, pero con el tiempo notó que su trabajo a menudo era editado antes de su publicación, omitiendo o reescribiendo muchos aspectos por completo. Cuando lo planteó a la alta gerencia y le dijeron que la elección era la verdad o el éxito... eligió lo segundo. Solía quitarle el sueño, pero el dinero es dinero y la fama es fama.</VBE_Propagandist.description>
+
+  <!-- EN: Prosecuted war veteran -->
+  <VBE_ProsecutedWarVeteran.title>veter. guer. proc.</VBE_ProsecutedWarVeteran.title>
+    <VBE_ProsecutedWarVeteran.titleFemale>veter. guer. proc.</VBE_ProsecutedWarVeteran.titleFemale>
+  <!-- EN: Prosecuted Vet -->
+  <VBE_ProsecutedWarVeteran.titleShort>veterano procesado</VBE_ProsecutedWarVeteran.titleShort>
+    <VBE_ProsecutedWarVeteran.titleShortFemale>veterana procesada</VBE_ProsecutedWarVeteran.titleShortFemale>
+  <!-- EN: [PAWN_nameDef] was on the losing side of a bitter civil war. [PAWN_pronoun] was trained in the art of combat and the chaos of urban warfare. But once the guns fell silent, [PAWN_pronoun] had to stand trial for [PAWN_possessive] actions. [PAWN_pronoun] was ultimately stripped of [PAWN_possessive] rank and banished from society. With [PAWN_possessive] skills dulled and [PAWN_possessive] reputation tarnished, [PAWN_nameDef] found it a struggle to adjust to life as a civilian once again. -->
+  <VBE_ProsecutedWarVeteran.description>[PAWN_nameDef] estaba en el bando perdedor de una amarga guerra civil. Fue entrenad{PAWN_gender ? o : a} en el arte del combate y el caos de la guerra urbana. Pero una vez que las armas callaron, tuvo que ser juzgad{PAWN_gender ? o : a} por sus acciones. Finalmente fue despojad{PAWN_gender ? o : a} de su rango y desterrad{PAWN_gender ? o : a} de la sociedad. Con sus habilidades mermadas y su reputación empañada, a [PAWN_nameDef] le costó mucho volver a adaptarse a la vida como civil.</VBE_ProsecutedWarVeteran.description>
+
+  <!-- EN: Pushover -->
+  <VBE_Pushover.title>pelele</VBE_Pushover.title>
+    <VBE_Pushover.titleFemale>pelele</VBE_Pushover.titleFemale>
+  <!-- EN: Pushover -->
+  <VBE_Pushover.titleShort>pelele</VBE_Pushover.titleShort>
+    <VBE_Pushover.titleShortFemale>pelele</VBE_Pushover.titleShortFemale>
+  <!-- EN: [PAWN_nameDef] was a pushover and a severe social outcast. Being constantly bullied, [PAWN_pronoun] gained a distaste towards other people. All the nights being forced to do other people's homework made for great test results, though. -->
+  <VBE_Pushover.description>[PAWN_nameDef] era un{PAWN_gender ?  : a} pelele y un{PAWN_gender ?  : a} marginad{PAWN_gender ? o : a} social severo. Al ser acosad{PAWN_gender ? o : a} constantemente, desarrolló un disgusto hacia los demás. Sin embargo, todas las noches obligad{PAWN_gender ? o : a} a hacer los deberes de los demás le permitieron obtener excelentes resultados en los exámenes.</VBE_Pushover.description>
+
+  <!-- EN: Reincarnated soul -->
+  <VBE_ReincarnatedSoul.title>alma reencarnada</VBE_ReincarnatedSoul.title>
+    <VBE_ReincarnatedSoul.titleFemale>alma reencarnada</VBE_ReincarnatedSoul.titleFemale>
+  <!-- EN: Reincarnated -->
+  <VBE_ReincarnatedSoul.titleShort>reencarnado</VBE_ReincarnatedSoul.titleShort>
+    <VBE_ReincarnatedSoul.titleShortFemale>reencarnada</VBE_ReincarnatedSoul.titleShortFemale>
+  <!-- EN: [PAWN_nameDef] believes [PAWN_pronoun] was once a pious steward of some long, lost religion. Reborn again to live life as [PAWN_pronoun] choose, [PAWN_nameDef] seems to have an unnatural proficiency with cooking and art of craft despite [PAWN_possessive] young age. -->
+  <VBE_ReincarnatedSoul.description>[PAWN_nameDef] cree que una vez fue un administrador piadoso de alguna religión perdida hace mucho tiempo. Renacido para vivir la vida como elija, [PAWN_nameDef] parece tener una competencia antinatural con la cocina y el arte de la artesanía a pesar de su corta edad.</VBE_ReincarnatedSoul.description>
+
+  <!-- EN: Reluctant cadet -->
+  <VBE_ReluctantCadet.title>cadete reacio</VBE_ReluctantCadet.title>
+    <VBE_ReluctantCadet.titleFemale>cadeta reacia</VBE_ReluctantCadet.titleFemale>
+  <!-- EN: Cadet -->
+  <VBE_ReluctantCadet.titleShort>cadete</VBE_ReluctantCadet.titleShort>
+    <VBE_ReluctantCadet.titleShortFemale>cadeta</VBE_ReluctantCadet.titleShortFemale>
+  <!-- EN: [PAWN_nameDef] was recruited into an Imperial youth training program. [PAWN_pronoun] lacked any enthusiasm and accordingly failed most of [PAWN_possessive] classes. However, refusing to participate left [PAWN_objective] with plenty of time to talk to [PAWN_possessive] friends and try out different hobbies. -->
+  <VBE_ReluctantCadet.description>[PAWN_nameDef] fue reclutad{PAWN_gender ? o : a} en un programa de entrenamiento juvenil imperial. Carecía de entusiasmo y, en consecuencia, reprobó la mayoría de sus clases. Sin embargo, negarse a participar le dejó mucho tiempo para hablar con sus amigos y probar diferentes pasatiempos.</VBE_ReluctantCadet.description>
+
+  <!-- EN: Research scientist -->
+  <VBE_ResearchScientist.title>científico investigador</VBE_ResearchScientist.title>
+    <VBE_ResearchScientist.titleFemale>científica investigadora</VBE_ResearchScientist.titleFemale>
+  <!-- EN: Researcher -->
+  <VBE_ResearchScientist.titleShort>investigador</VBE_ResearchScientist.titleShort>
+    <VBE_ResearchScientist.titleShortFemale>investigadora</VBE_ResearchScientist.titleShortFemale>
+  <!-- EN: [PAWN_nameDef] is a scientist and analyst from a prominent Glitterworld research institute. [PAWN_possessive] studies and experimentation may have got [PAWN_objective] no great acclaim, but [PAWN_pronoun] contributed in [PAWN_possessive] own way to the companies larger breakthroughs. [PAWN_possessive] work often took the majority of [PAWN_possessive] free time, so [PAWN_pronoun] does lack some of the emotional intelligence of average citizens. -->
+  <VBE_ResearchScientist.description>[PAWN_nameDef] es un{PAWN_gender ?  : a} científic{PAWN_gender ? o : a} y analista de un prominente instituto de investigación de un mundobrillante. Sus estudios y experimentación puede que no le hayan dado un gran reconocimiento, pero contribuyó a su manera a los mayores avances de la empresa. Su trabajo a menudo ocupaba la mayor parte de su tiempo libre, por lo que carece de parte de la inteligencia emocional de los ciudadanos promedio.</VBE_ResearchScientist.description>
+
+  <!-- EN: Rocker -->
+  <VBE_Rocker.title>rockero</VBE_Rocker.title>
+    <VBE_Rocker.titleFemale>rockera</VBE_Rocker.titleFemale>
+  <!-- EN: Rocker -->
+  <VBE_Rocker.titleShort>rockero</VBE_Rocker.titleShort>
+    <VBE_Rocker.titleShortFemale>rockera</VBE_Rocker.titleShortFemale>
+  <!-- EN: [PAWN_nameDef] became disillusioned with [PAWN_possessive] government and the controlling influence of megacorporations. So [PAWN_pronoun] decided to start [PAWN_possessive] own kind of protest by producing underground music. Sometimes these events were simply fronts in order to stage an attack on different locations of interest. -->
+  <VBE_Rocker.description>[PAWN_nameDef] se desilusionó con su gobierno y la influencia controladora de las megacorporaciones. Así que decidió iniciar su propio tipo de protesta produciendo música underground. A veces estos eventos eran simplemente fachadas para organizar ataques en diferentes lugares de interés.</VBE_Rocker.description>
+
+  <!-- EN: Rodent rancher -->
+  <VBE_RodentRancher.title>ranchero de roedores</VBE_RodentRancher.title>
+    <VBE_RodentRancher.titleFemale>ranchera de roedores</VBE_RodentRancher.titleFemale>
+  <!-- EN: Rancher -->
+  <VBE_RodentRancher.titleShort>ranchero</VBE_RodentRancher.titleShort>
+    <VBE_RodentRancher.titleShortFemale>ranchera</VBE_RodentRancher.titleShortFemale>
+  <!-- EN: [PAWN_nameDef] spent a lot of [PAWN_possessive] time working on a rodent farm in an overpopulated city on one of the urbworlds. Due to limited spacing and mostly processed foods, [PAWN_pronoun] found great success in offering actual meat for those who wanted a break from mediocrity. Granted, [PAWN_pronoun] ended up on the run because [PAWN_possessive] Ratburgers attracted the taxman, but [PAWN_pronoun] found it fun while it lasted. -->
+  <VBE_RodentRancher.description>[PAWN_nameDef] pasó mucho tiempo trabajando en una granja de roedores en una ciudad superpoblada de uno de los mundos urbanos. Debido al espacio limitado y a los alimentos mayoritariamente procesados, tuvo un gran éxito ofreciendo carne real para quienes querían un descanso de la mediocridad. Es cierto que acabó huyendo porque sus "Rati-hamburguesas" atrajeron al recaudador de impuestos, pero le pareció divertido mientras duró.</VBE_RodentRancher.description>
+
+  <!-- EN: Rudie -->
+  <VBE_Rudie.title>rudie</VBE_Rudie.title>
+    <VBE_Rudie.titleFemale>rudie</VBE_Rudie.titleFemale>
+  <!-- EN: Rudie -->
+  <VBE_Rudie.titleShort>rudie</VBE_Rudie.titleShort>
+    <VBE_Rudie.titleShortFemale>rudie</VBE_Rudie.titleShortFemale>
+  <!-- EN: Growing up on an industrial world, [PAWN_nameDef] found the world around [PAWN_objective] rapidly being corporatized and gentrified. When [PAWN_possessive] town came under threat, [PAWN_pronoun] joined a local gang of youths who would sabotage corporate efforts and spread culture back onto the streets. After the suspicious, accidental death of the corporation's CEO, [PAWN_nameDef] hung up [PAWN_possessive] skates and spraycan, and left for a safer life. -->
+  <VBE_Rudie.description>Al crecer en un mundo industrial, [PAWN_nameDef] vio cómo el mundo a su alrededor se corporativizaba y aburguesaba rápidamente. Cuando su ciudad se vio amenazada, se unió a una banda local de jóvenes que saboteaban los esfuerzos corporativos y devolvían la cultura a las calles. Tras la sospechosa muerte accidental del director ejecutivo de la corporación, colgó sus patines y su aerosol, y partió en busca de una vida más segura.</VBE_Rudie.description>
+
+  <!-- EN: Ship salvager -->
+  <VBE_ShipSalvager.title>desguazador de naves</VBE_ShipSalvager.title>
+    <VBE_ShipSalvager.titleFemale>desguazadora de naves</VBE_ShipSalvager.titleFemale>
+  <!-- EN: Salvager -->
+  <VBE_ShipSalvager.titleShort>desguazador</VBE_ShipSalvager.titleShort>
+    <VBE_ShipSalvager.titleShortFemale>desguazadora</VBE_ShipSalvager.titleShortFemale>
+  <!-- EN: Quick, crafty, and dirty. That's how [PAWN_nameDef] lives. [PAWN_pronoun] embraced the perilous trade of ship breaking as a means of survival. [PAWN_possessive] expertise grew, as [PAWN_pronoun] excelled at taking apart vessels, but the risk remained high, with near-death experiences on nearly every job. -->
+  <VBE_ShipSalvager.description>Rápido, astuto y sucio. Así es como vive [PAWN_nameDef]. Adoptó el peligroso oficio del desguace de naves como medio de supervivencia. Su pericia creció a medida que destacaba desmontando naves, pero el riesgo seguía siendo alto, con experiencias cercanas a la muerte en casi cada trabajo.</VBE_ShipSalvager.description>
+
+  <!-- EN: Silo manager -->
+  <VBE_SiloManager.title>gerente de silo</VBE_SiloManager.title>
+    <VBE_SiloManager.titleFemale>gerenta de silo</VBE_SiloManager.titleFemale>
+  <!-- EN: Manager -->
+  <VBE_SiloManager.titleShort>gerente</VBE_SiloManager.titleShort>
+    <VBE_SiloManager.titleShortFemale>gerenta</VBE_SiloManager.titleShortFemale>
+  <!-- EN: Urbworlds are filled with massive resource silos, half a kilometer high and several kilometers across, with thousands of barely-paid workers carrying materials like little ants across the vast complex. [PAWN_nameDef] worked as a manager to one of the silos, and didn't even have to stand up from [PAWN_possessive] desk. -->
+  <VBE_SiloManager.description>Los mundos urbanos están llenos de silos de recursos masivos, de medio kilómetro de altura y varios kilómetros de ancho, con miles de trabajadores apenas pagados transportando materiales como hormiguitas por el vasto complejo. [PAWN_nameDef] trabajaba como gerente de uno de los silos, y ni siquiera tenía que levantarse de su escritorio.</VBE_SiloManager.description>
+
+  <!-- EN: Sim-raised -->
+  <VBE_Simraised.title>criado en simulación</VBE_Simraised.title>
+    <VBE_Simraised.titleFemale>criada en simulación</VBE_Simraised.titleFemale>
+  <!-- EN: Sheltered -->
+  <VBE_Simraised.titleShort>protegido</VBE_Simraised.titleShort>
+    <VBE_Simraised.titleShortFemale>protegida</VBE_Simraised.titleShortFemale>
+  <!-- EN: [PAWN_nameDef] grew up in a simulated environment composed of augmented reality and virtual reality elements inside a robot-tended, environmentally sealed dome. While safe and idyllic, this placid lifestyle left [PAWN_objective] wanting something more in life. -->
+  <VBE_Simraised.description>[PAWN_nameDef] creció en un entorno simulado compuesto por elementos de realidad aumentada y realidad virtual dentro de una cúpula sellada ambientalmente y atendida por robots. Aunque era segura e idílica, este estilo de vida plácido lo dejó deseando algo más en la vida.</VBE_Simraised.description>
+
+  <!-- EN: Slave trader -->
+  <VBE_SlaveTrader.title>comerciante de esclavos</VBE_SlaveTrader.title>
+    <VBE_SlaveTrader.titleFemale>comercianta de esclavos</VBE_SlaveTrader.titleFemale>
+  <!-- EN: Slaver -->
+  <VBE_SlaveTrader.titleShort>esclavista</VBE_SlaveTrader.titleShort>
+    <VBE_SlaveTrader.titleShortFemale>esclavista</VBE_SlaveTrader.titleShortFemale>
+  <!-- EN: Realizing the profit bodies bring when warm instead of cold, [PAWN_nameDef] would insist [PAWN_possessive] clan take as many prisoners as possible during a raid, employing nets, bolas, and other items that could be thrown towards those fleeing. When the fighting was over, [PAWN_pronoun] would travel, peddling [PAWN_possessive] wares in various kingdoms. Always having thralls around has made [PAWN_nameDef] adverse to so-called "slave work," and generally less compassionate. -->
+  <VBE_SlaveTrader.description>Al darse cuenta del beneficio que traen los cuerpos cuando están calientes en lugar de fríos, [PAWN_nameDef] insistía en que su clan tomara tantos prisioneros como fuera posible durante un asalto, empleando redes, boleadoras y otros objetos que pudieran lanzarse a los que huían. Cuando terminaba la lucha, viajaba vendiendo su mercancía en varios reinos. Tener siempre esclavos a su alrededor ha hecho que [PAWN_nameDef] sea reacio al llamado "trabajo de esclavos" y, en general, menos compasivo.</VBE_SlaveTrader.description>
+
+  <!-- EN: Sommelier -->
+  <VBE_Sommelier.title>sumiller</VBE_Sommelier.title>
+    <VBE_Sommelier.titleFemale>sumillera</VBE_Sommelier.titleFemale>
+  <!-- EN: Sommelier -->
+  <VBE_Sommelier.titleShort>sumiller</VBE_Sommelier.titleShort>
+    <VBE_Sommelier.titleShortFemale>sumillera</VBE_Sommelier.titleShortFemale>
+  <!-- EN: [PAWN_nameDef] was an experienced winemaker, growing [PAWN_possessive] own grapes and putting utmost care into [PAWN_possessive] work. [PAWN_pronoun] also is quite fond of cooking meals to pair with [PAWN_possessive] wines. -->
+  <VBE_Sommelier.description>[PAWN_nameDef] era un{PAWN_gender ?  : a} vinicultor{PAWN_gender ?  : a} experimentad{PAWN_gender ? o : a}, cultivando sus propias uvas y poniendo el máximo cuidado en su trabajo. También le gusta mucho cocinar platos para maridar con sus vinos.</VBE_Sommelier.description>
+
+  <!-- EN: Standard-bearer -->
+  <VBE_Standardbearer.title>abanderado</VBE_Standardbearer.title>
+    <VBE_Standardbearer.titleFemale>abanderada</VBE_Standardbearer.titleFemale>
+  <!-- EN: Banneret -->
+  <VBE_Standardbearer.titleShort>abanderado</VBE_Standardbearer.titleShort>
+    <VBE_Standardbearer.titleShortFemale>abanderada</VBE_Standardbearer.titleShortFemale>
+  <!-- EN: [PAWN_nameDef] was a fearless standard-bearer, entrusted to carry the symbol of [PAWN_possessive] people into conflict. [PAWN_pronoun] was known for [PAWN_possessive] strategic thinking and combat proficiency, able to lead the charge or retreat with the emblem as needed. [PAWN_possessive] contributions earned [PAWN_objective] a privileged position, freeing [PAWN_objective] from tasks like cooking and digging. -->
+  <VBE_Standardbearer.description>[PAWN_nameDef] era un{PAWN_gender ?  : a} intrépid{PAWN_gender ? o : a} abanderad{PAWN_gender ? o : a}, encargad{PAWN_gender ? o : a} de llevar el símbolo de su pueblo al conflicto. Era conocid{PAWN_gender ? o : a} por su pensamiento estratégico y su competencia en el combate, capaz de liderar la carga o la retirada con el emblema según fuera necesario. Sus contribuciones le valieron una posición privilegiada, liberándolo{PAWN_gender ? : la} de tareas como cocinar y cavar.</VBE_Standardbearer.description>
+
+  <!-- EN: Starfighter maintainer -->
+  <VBE_StarfighterMaintainer.title>mantenedor de cazas est.</VBE_StarfighterMaintainer.title>
+    <VBE_StarfighterMaintainer.titleFemale>mantenedor de cazas est.</VBE_StarfighterMaintainer.titleFemale>
+  <!-- EN: Mechanic -->
+  <VBE_StarfighterMaintainer.titleShort>mecánico</VBE_StarfighterMaintainer.titleShort>
+    <VBE_StarfighterMaintainer.titleShortFemale>mecánica</VBE_StarfighterMaintainer.titleShortFemale>
+  <!-- EN: [PAWN_nameDef] served on carrier ships in campaigns across [PAWN_possessive] home system, working to keep the starfighters and transports in fighting shape. While [PAWN_pronoun] knows just about everything there is to know about spacecraft maintenance, [PAWN_possessive] reliance on following repair manuals to the letter has had a negative impact on [PAWN_possessive] lateral thinking. -->
+  <VBE_StarfighterMaintainer.description>[PAWN_nameDef] sirvió en naves de transporte en campañas por todo su sistema natal, trabajando para mantener los cazas estelares y transportes en forma para el combate. Aunque sabe casi todo lo que hay que saber sobre el mantenimiento de naves espaciales, su dependencia de seguir los manuales de reparación al pie de la letra ha tenid{PAWN_gender ? o : a} un impacto negativo en su pensamiento lateral.</VBE_StarfighterMaintainer.description>
+
+  <!-- EN: Starving artist -->
+  <VBE_StarvingArtist.title>artista hambriento</VBE_StarvingArtist.title>
+    <VBE_StarvingArtist.titleFemale>artista hambrienta</VBE_StarvingArtist.titleFemale>
+  <!-- EN: Artist -->
+  <VBE_StarvingArtist.titleShort>artista</VBE_StarvingArtist.titleShort>
+    <VBE_StarvingArtist.titleShortFemale>artista</VBE_StarvingArtist.titleShortFemale>
+  <!-- EN: [PAWN_nameDef] was an relatively well-off art student in an urban world. A financial collapse forced [PAWN_objective] onto the streets, selling paintings for a living. [PAWN_pronoun] didn't make much, and what surplus [PAWN_pronoun] had went into more materials and food for some friendly and loyal stray dogs. -->
+  <VBE_StarvingArtist.description>[PAWN_nameDef] era un{PAWN_gender ?  : a} estudiant{PAWN_gender ? e : a} de arte relativamente acomodad{PAWN_gender ? o : a} en un mundo urbano. Un colapso financiero lo{PAWN_gender ? : la} obligó a echarse a la calle, vendiendo cuadros para ganarse la vida. No ganaba mucho, y el excedente que tenía lo destinaba a más materiales y comida para unos perros callejeros amigables y leales.</VBE_StarvingArtist.description>
+
+  <!-- EN: Stew cooker -->
+  <VBE_StewCooker.title>cocinero de guisos</VBE_StewCooker.title>
+    <VBE_StewCooker.titleFemale>cocinera de guisos</VBE_StewCooker.titleFemale>
+  <!-- EN: Cook -->
+  <VBE_StewCooker.titleShort>cocinero</VBE_StewCooker.titleShort>
+    <VBE_StewCooker.titleShortFemale>cocinera</VBE_StewCooker.titleShortFemale>
+  <!-- EN: [PAWN_nameDef] marched with long lines of medieval armies, and was in charge of the stew pots in the camps. [PAWN_possessive] know-how about some local plants and fungi allowed people to stretch ration for longer, and saved a life or two when the supplies ran dry. -->
+  <VBE_StewCooker.description>[PAWN_nameDef] marchó con largas líneas de ejércitos medievales y estaba a cargo de las ollas de guiso en los campamentos. Sus conocimientos sobre algunas plantas y hongos locales permitieron a la gente alargar las raciones durante más tiempo, y salvaron una vida o dos cuando los suministros se agotaron.</VBE_StewCooker.description>
+
+  <!-- EN: Strange child -->
+  <VBE_StrangeChild.title>niño extraño</VBE_StrangeChild.title>
+    <VBE_StrangeChild.titleFemale>niña extraña</VBE_StrangeChild.titleFemale>
+  <!-- EN: Psychopath -->
+  <VBE_StrangeChild.titleShort>psicópata</VBE_StrangeChild.titleShort>
+    <VBE_StrangeChild.titleShortFemale>psicópata</VBE_StrangeChild.titleShortFemale>
+  <!-- EN: [PAWN_nameDef] enjoyed torturing small animals, and as [PAWN_pronoun] got older, other people. This gave them a unique understanding of the body, but stunted [PAWN_possessive] social skills considerably. -->
+  <VBE_StrangeChild.description>[PAWN_nameDef] disfrutaba torturando animales pequeños y, a medida que crecía, a otras personas. Esto le dio una comprensión única del cuerpo, pero mermó considerablemente sus habilidades sociales.</VBE_StrangeChild.description>
+
+  <!-- EN: Structural engineer -->
+  <VBE_StructuralEngineer.title>ingeniero estructural</VBE_StructuralEngineer.title>
+    <VBE_StructuralEngineer.titleFemale>ingeniera estructural</VBE_StructuralEngineer.titleFemale>
+  <!-- EN: Engineer -->
+  <VBE_StructuralEngineer.titleShort>ingeniero</VBE_StructuralEngineer.titleShort>
+    <VBE_StructuralEngineer.titleShortFemale>ingeniera</VBE_StructuralEngineer.titleShortFemale>
+  <!-- EN: After studying engineering for a few years, [PAWN_nameDef] now designs buildings, bridges, and other structures. [PAWN_pronoun] has a great understanding of how to construct every part of a project. Much of [PAWN_possessive] time goes to coordinating with the architect, contractor, and other engineers. -->
+  <VBE_StructuralEngineer.description>Tras estudiar ingeniería durante unos años, [PAWN_nameDef] ahora diseña edificios, puentes y otras estructuras. Tiene un gran conocimiento de cómo construir cada parte de un proyecto. Gran parte de su tiempo se dedica a coordinarse con el arquitecto, el contratista y otros ingenieros.</VBE_StructuralEngineer.description>
+
+  <!-- EN: Tax collector -->
+  <VBE_TaxCollector.title>recaudador de impuestos</VBE_TaxCollector.title>
+    <VBE_TaxCollector.titleFemale>recaudadora de impuestos</VBE_TaxCollector.titleFemale>
+  <!-- EN: Collector -->
+  <VBE_TaxCollector.titleShort>recaudador</VBE_TaxCollector.titleShort>
+    <VBE_TaxCollector.titleShortFemale>recaudadora</VBE_TaxCollector.titleShortFemale>
+  <!-- EN: [PAWN_nameDef] has been appointed with the duty of collecting taxes and other payments from various merchants of [PAWN_possessive] settlement. Due to nature of [PAWN_possessive] job, [PAWN_pronoun] was one of the most despised people in town, but the cut from the taxes [PAWN_pronoun] took made the job worth it. -->
+  <VBE_TaxCollector.description>[PAWN_nameDef] ha sido designado con el deber de recaudar impuestos y otros pagos de varios comerciantes de su asentamiento. Debido a la naturaleza de su trabajo, era una de las personas más despreciadas del pueblo, pero la tajada de los impuestos que se llevaba hacía que el trabajo valiera la pena.</VBE_TaxCollector.description>
+
+  <!-- EN: Thane -->
+  <VBE_Thane.title>thane</VBE_Thane.title>
+    <VBE_Thane.titleFemale>thane</VBE_Thane.titleFemale>
+  <!-- EN: Thane -->
+  <VBE_Thane.titleShort>thane</VBE_Thane.titleShort>
+    <VBE_Thane.titleShortFemale>thane</VBE_Thane.titleShortFemale>
+  <!-- EN: [PAWN_nameDef] was elevated to a position of thane in [PAWN_possessive] jarl's holding, giving [PAWN_possessive] a large degree of freedom to do as [PAWN_pronoun] pleased as long as it advanced their interests. So far [PAWN_pronoun] has enjoyed an easier life with a few servants while taking up an interest in raising beasts of war and training elite soldiers. -->
+  <VBE_Thane.description>[PAWN_nameDef] fue elevad{PAWN_gender ? o : a} a la posición de thane en las tierras de su jarl, lo que le otorgó un gran grado de libertad para hacer lo que quisiera siempre que favoreciera sus intereses. Hasta ahora ha disfrutado de una vida más fácil con unos pocos sirvientes mientras se interesa por la cría de bestias de guerra y el entrenamiento de soldados de élite.</VBE_Thane.description>
+
+  <!-- EN: Tomb maker -->
+  <VBE_TombMaker.title>fabricante de tumbas</VBE_TombMaker.title>
+    <VBE_TombMaker.titleFemale>fabricanta de tumbas</VBE_TombMaker.titleFemale>
+  <!-- EN: Sepulcherist -->
+  <VBE_TombMaker.titleShort>sepulcrista</VBE_TombMaker.titleShort>
+    <VBE_TombMaker.titleShortFemale>sepulcrista</VBE_TombMaker.titleShortFemale>
+  <!-- EN: When [PAWN_nameDef] was young, a lethal pox swept through [PAWN_possessive] settlement, killing four out of every five people. Old enough to use a shovel, [PAWN_pronoun] dug graves for many people [PAWN_pronoun] knew and loved, but burial wasn't enough to honor them. [PAWN_pronoun] would routinely return over the years and gradually erect ornamented tombs for the fallen. -->
+  <VBE_TombMaker.description>Cuando [PAWN_nameDef] era joven, una viruela letal arrasó su asentamiento, matando a cuatro de cada cinco personas. Con edad suficiente para usar una pala, cavó tumbas para muchas personas que conocía y amaba, pero el entierro no era suficiente para honrarlas. Regresaba rutinariamente a lo largo de los años y erigía gradualmente tumbas ornamentadas para los caídos.</VBE_TombMaker.description>
+
+  <!-- EN: Train driver -->
+  <VBE_TrainDriver.title>maquinista de tren</VBE_TrainDriver.title>
+  <!-- EN: Engineer -->
+  <VBE_TrainDriver.titleShort>maquinista</VBE_TrainDriver.titleShort>
+  <!-- EN: [PAWN_nameDef] loves trains. [PAWN_pronoun] used to drive a steam-powered locomotive on a small line in an idyllic landscape. [PAWN_pronoun] would greet the sleepy villages along the line each morning with the cheery sound of the horn. [PAWN_possessive] only worry was to shovel enough coal to keep the locomotive running and to repair the train from time to time. One day, [PAWN_pronoun] had to stop in a village. An enraged and sleep-deprived mob took the opportunity to destroy the train and [PAWN_nameDef] decided to leave before they remembered who was responsible for sounding the horn. -->
+  <VBE_TrainDriver.description>[PAWN_nameDef] ama los trenes. Solía conducir una locomotora de vapor en una pequeña línea en un paisaje idílico. Saludaba a los pueblos somnolientos a lo largo de la línea cada mañana con el alegre sonido de la bocina. Su única preocupación era palear suficiente carbón para mantener la locomotora en marcha y reparar el tren de vez en cuando. Un día, tuvo que parar en un pueblo. Una turba enfurecida y privada de sueño aprovechó la oportunidad para destruir el tren y [PAWN_nameDef] decidió marcharse antes de que recordaran quién era el responsable de tocar la bocina.</VBE_TrainDriver.description>
+
+  <!-- EN: Trainee combat medic -->
+  <VBE_TraineeCombatMedic.title>médico militar en form.</VBE_TraineeCombatMedic.title>
+  <!-- EN: Paramedic -->
+  <VBE_TraineeCombatMedic.titleShort>paramédico</VBE_TraineeCombatMedic.titleShort>
+  <!-- EN: [PAWN_nameDef] has received extensive military training to act as the lynchpin for [PAWN_possessive] squad. This includes but is not limited to recovering and treating wounded soldiers or people of interest, as well as acting as second-in-command. While this doesn't detract from the results, [PAWN_pronoun] has an extremely dry, no-nonsense personality and can be difficult to get along with. -->
+  <VBE_TraineeCombatMedic.description>[PAWN_nameDef] ha recibido un extenso entrenamiento militar para actuar como el eje central de su escuadrón. Esto incluye, entre otras cosas, la recuperación y el tratamiento de soldados heridos o personas de interés, así como actuar como segundo al mando. Aunque esto no resta valor a los resultados, tiene una personalidad extremadamente seca y directa, y puede ser difícil llevarse bien con él.</VBE_TraineeCombatMedic.description>
+
+  <!-- EN: Translator -->
+  <VBE_Translator.title>traductor</VBE_Translator.title>
+  <!-- EN: Translator -->
+  <VBE_Translator.titleShort>traductor</VBE_Translator.titleShort>
+  <!-- EN: [PAWN_nameDef] always loved foreign languages. [PAWN_pronoun] worked from home as a freelance translator. This gave [PAWN_objective] enough time to broaden [PAWN_possessive] knowledge in various areas and to tend to [PAWN_possessive] garden. However, [PAWN_pronoun] would spend weeks without human contact and is still unseasy around strangers to this day. -->
+  <VBE_Translator.description>[PAWN_nameDef] siempre amó los idiomas extranjeros. Trabajaba desde casa como traductor autónomo. Esto le daba tiempo suficiente para ampliar sus conocimientos en diversas áreas y para cuidar su jardín. Sin embargo, pasaba semanas sin contacto humano y hasta el día de hoy se siente incómodo con los extraños.</VBE_Translator.description>
+
+  <!-- EN: Traveling locksmith -->
+  <VBE_TravelingLocksmith.title>cerrajero viajero</VBE_TravelingLocksmith.title>
+  <!-- EN: Locksmith -->
+  <VBE_TravelingLocksmith.titleShort>cerrajero</VBE_TravelingLocksmith.titleShort>
+  <!-- EN: [PAWN_nameDef] spent most of [PAWN_possessive] days traveling between jobs in various towns and cities as a locksmith. [PAWN_possessive] work ranged from picking locks and installing doors to fixing intricate mechanisms and safecracking. [PAWN_nameDef] enjoyed spending [PAWN_possessive] leisure time making tools and taking in the scenery of life on the road. -->
+  <VBE_TravelingLocksmith.description>[PAWN_nameDef] pasaba la mayor parte de sus días viajando entre trabajos en diversos pueblos y ciudades como cerrajero. Su trabajo iba desde forzar cerraduras e instalar puertas hasta arreglar mecanismos intrincados y abrir cajas fuertes. [PAWN_nameDef] disfrutaba pasando su tiempo libre fabricando herramientas y contemplando el paisaje de la vida en la carretera.</VBE_TravelingLocksmith.description>
+
+  <!-- EN: Troupe child -->
+  <VBE_TroupeChild.title>niño de compañía amb.</VBE_TroupeChild.title>
+  <!-- EN: Troupe Child -->
+  <VBE_TroupeChild.titleShort>niño de compañía</VBE_TroupeChild.titleShort>
+  <!-- EN: [PAWN_nameDef] was born into a traveling troupe family, but never fell into the craft. As such, [PAWN_pronoun] relegated [PAWN_objective]self to odd jobs and keeping [PAWN_possessive] head down, which [PAWN_pronoun] thrived at. The nomadic nature of [PAWN_possessive] family, however, made it so [PAWN_pronoun] did not make many friends. -->
+  <VBE_TroupeChild.description>[PAWN_nameDef] nació en una familia de una compañía ambulante, pero nunca se dedicó al oficio. Como tal, se relegó a trabajos esporádicos y a pasar desapercibido, algo en lo que prosperó. Sin embargo, la naturaleza nómada de su familia hizo que no hiciera muchos amigos.</VBE_TroupeChild.description>
+
+  <!-- EN: Tuner punk -->
+  <VBE_TunerPunk.title>tuner punk</VBE_TunerPunk.title>
+  <!-- EN: Tuner -->
+  <VBE_TunerPunk.titleShort>tuner</VBE_TunerPunk.titleShort>
+  <!-- EN: A bit of a loner, [PAWN_nameDef] found belonging and family in the mechanics who'd race modded-out cars. This led to many knife brawls, high-speed chases, and the occasional gunshot wound, but this didn't stop [PAWN_nameDef] from enjoying the competition. -->
+  <VBE_TunerPunk.description>Un poco solitario, [PAWN_nameDef] encontró pertenencia y familia entre los mecánicos que hacían carreras con coches modificados. Esto dio lugar a muchas peleas con cuchillos, persecuciones a alta velocidad y alguna que otra herida de bala, pero esto no impidió que [PAWN_nameDef] disfrutara de la competición.</VBE_TunerPunk.description>
+
+  <!-- EN: Urbworld rioter -->
+  <VBE_UrbworldRioter.title>alborotador de mundourbano</VBE_UrbworldRioter.title>
+  <!-- EN: Rioter -->
+  <VBE_UrbworldRioter.titleShort>alborotador</VBE_UrbworldRioter.titleShort>
+  <!-- EN: When peaceful protest was not enough to incite social change, [PAWN_nameDef] would don [PAWN_possessive] makeshift gear and take the fight against authority to the city streets. At a severe disadvantage against those in power, [PAWN_nameDef] had to fashion [PAWN_possessive] own weapons and protection, and tend to [PAWN_possessive] own wounds. -->
+  <VBE_UrbworldRioter.description>Cuando la protesta pacífica no fue suficiente para incitar al cambio social, [PAWN_nameDef] se ponía su equipo improvisado y llevaba la lucha contra la autoridad a las calles de la ciudad. En grave desventaja frente a los que estaban en el poder, tuvo que fabricar sus propias armas y protección, y atender sus propias heridas.</VBE_UrbworldRioter.description>
+
+  <!-- EN: Urbworld war student -->
+  <VBE_UrbworldWarStudent.title>estudiante de guerra urb.</VBE_UrbworldWarStudent.title>
+  <!-- EN: Student -->
+  <VBE_UrbworldWarStudent.titleShort>estudiante</VBE_UrbworldWarStudent.titleShort>
+  <!-- EN: [PAWN_nameDef] grew up in fairly plush conditions on a turbulent Urbworld. [PAWN_pronoun] dedicated much of [PAWN_possessive] childhood to formal studies on a planet constantly engulfed in conflict. As a result, [PAWN_nameDef] grew up with an intricate understanding about the machines of war and developed a passion for them. -->
+  <VBE_UrbworldWarStudent.description>[PAWN_nameDef] creció en condiciones bastante lujosas en un turbulento mundo urbano. Dedicó gran parte de su infancia a estudios formales en un planeta constantemente envuelto en conflictos. Como resultado, creció con un conocimiento intrincado sobre las máquinas de guerra y desarrolló una pasión por ellas.</VBE_UrbworldWarStudent.description>
+
+  <!-- EN: Vatgrown colonist -->
+  <VBE_VatgrownColonist.title>colono cultivado</VBE_VatgrownColonist.title>
+  <!-- EN: Colonist -->
+  <VBE_VatgrownColonist.titleShort>colono</VBE_VatgrownColonist.titleShort>
+  <!-- EN: [PAWN_nameDef] was grown in a lab as an expendable body on [PAWN_possessive] Glitterworld. [PAWN_pronoun] was raised along with the other standard template children who only knew life under their scientist guides. -->
+  <VBE_VatgrownColonist.description>[PAWN_nameDef] fue cultivad{PAWN_gender ? o : a} en un laboratorio como un{PAWN_gender ?  : a} cuerp{PAWN_gender ? o : o} prescindible en su mundobrillante. Fue ciad{PAWN_gender ? o : a} junto con los otros niños de plantilla estándar que solo conocían la vida bajo sus guías científicos.</VBE_VatgrownColonist.description>
+
+  <!-- EN: Walker engineer -->
+  <VBE_WalkerEngineer.title>ingeniero de caminantes</VBE_WalkerEngineer.title>
+  <!-- EN: Engineer -->
+  <VBE_WalkerEngineer.titleShort>ingeniero</VBE_WalkerEngineer.titleShort>
+  <!-- EN: Always eager for a challenge, [PAWN_nameDef] worked on various military vehicles, including the frightening Warwalkers. A tough and sweaty job with high risk of limb injury, [PAWN_nameDef] adapted quickly to strenuous work cycles. This cost [PAWN_objective] [PAWN_possessive] creativity, however, and left little time for other hobbies. -->
+  <VBE_WalkerEngineer.description>Siempre ansioso por un desafío, [PAWN_nameDef] trabajó en varios vehículos militares, incluidos los temibles caminantes de guerra. Un trabajo duro y sudoroso con alto riesgo de lesiones en las extremidades, [PAWN_nameDef] se adaptó rápidamente a ciclos de trabajo extenuantes. Sin embargo, esto le costó su creatividad y le dejó poco tiempo para otros pasatiempos.</VBE_WalkerEngineer.description>
+
+  <!-- EN: Watchman -->
+  <VBE_Watchman.title>vigilante</VBE_Watchman.title>
+  <!-- EN: Watchman -->
+  <VBE_Watchman.titleShort>vigilante</VBE_Watchman.titleShort>
+  <!-- EN: Not the strongest fighter, [PAWN_nameDef] was placed on watchtower duty. Watching the comings and goings of those passing through the town's gate made for a very boring life, causing [PAWN_objective] to start cooking in [PAWN_possessive] wooden tower. One day [PAWN_pronoun] accidentally knocked over the cauldron, sending coals everywhere. The tower quickly caught ablaze and burned to ash. [PAWN_pronoun] survived, but was never the same around fire. -->
+  <VBE_Watchman.description>No siendo el luchador más fuerte, [PAWN_nameDef] fue asignad{PAWN_gender ? o : a} a la guardia de la torre de vigilancia. Observar las idas y venidas de quienes pasaban por la puerta del pueblo hacía que la vida fuera muy aburrida, lo que lo llevó a empezar a cocinar en su torre de madera. Un día, volcó accidentalmente el caldero, esparciendo brasas por todas partes. La torre se incendió rápidamente y quedó reducida a cenizas. Sobrevivió, pero nunca volvió a ser el mismo cerca del fuego.</VBE_Watchman.description>
+
+  <!-- EN: Wretched child -->
+  <VBE_WretchedChild.title>niño miserable</VBE_WretchedChild.title>
+  <!-- EN: Wretch -->
+  <VBE_WretchedChild.titleShort>miserable</VBE_WretchedChild.titleShort>
+  <!-- EN: As a child, [PAWN_nameDef] was cast out by [PAWN_possessive] peers. [PAWN_pronoun] grew uncaring of others and focused on surviving with what [PAWN_pronoun] had near [PAWN_possessive] home. -->
+  <VBE_WretchedChild.description>De niño, [PAWN_nameDef] fue expulsad{PAWN_gender ? o : a} por sus compañeros. Creció sin preocuparse por los demás y se centró en sobrevivir con lo que tenía cerca de su casa.</VBE_WretchedChild.description>
+
+</LanguageData>

@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: gravitonium shell -->
+  <GTbc_AmmoBox_GravRailShell.label>proyectil de gravitonio</GTbc_AmmoBox_GravRailShell.label>
+  <!-- EN: A pack of large gravitonium shells prepared for rapid loading into the cannon. A pack is fed directly into an adjacent gravship artillery when it needs to be reloaded. -->
+  <GTbc_AmmoBox_GravRailShell.description>Un paquete de grandes proyectiles de gravitonio preparados para carga rápida en el cañón. Un paquete se alimenta directamente a una artillería de gravinave adyacente cuando necesita ser recargada.</GTbc_AmmoBox_GravRailShell.description>
+  
+  <!-- EN: Grav rail shot -->
+  <GTbc_Bullet_GravRailArtillery.label>disparo de riel gravitacional</GTbc_Bullet_GravRailArtillery.label>
+  
+  <!-- EN: grav rail artillery -->
+  <GTbc_GravRailArtillery.label>artillería de riel gravitacional</GTbc_GravRailArtillery.label>
+  <!-- EN: A medium-sized gravity artillery cannon that launches gravitonium slugs over a long distance. It can also fire from the ground at objects in orbit. Requires a linked targeting terminal with an operator to function. -->
+  <GTbc_GravRailArtillery.description>Un cañón de artillería gravitacional de tamaño mediano que lanza balas de gravitonio a larga distancia. También puede disparar desde el suelo a objetos en órbita. Requiere una terminal de puntería vinculada con un operador para funcionar.</GTbc_GravRailArtillery.description>
+  <!-- EN: Gravitonium Slugs -->
+  <GTbc_GravRailArtillery.comps.CompRefuelable.fuelGizmoLabel>balas de gravitonio</GTbc_GravRailArtillery.comps.CompRefuelable.fuelGizmoLabel>
+  <!-- EN: Gravitonium Slugs -->
+  <GTbc_GravRailArtillery.comps.CompRefuelable.fuelLabel>balas de gravitonio</GTbc_GravRailArtillery.comps.CompRefuelable.fuelLabel>
+  
+  <!-- EN: grav rail artillery -->
+  <GTbc_Gun_GravRailArtillery.label>artillería de riel gravitacional</GTbc_Gun_GravRailArtillery.label>
+  <!-- EN: A medium-sized gravity artillery cannon that launches gravitonium slugs over a long distance. -->
+  <GTbc_Gun_GravRailArtillery.description>Un cañón de artillería gravitacional de tamaño mediano que lanza balas de gravitonio a larga distancia.</GTbc_Gun_GravRailArtillery.description>
+  <!-- EN: grav rail artillery -->
+  <GTbc_Gun_GravRailArtillery.verbs.Verb_ShootWithWorldTargeting.label>artillería de riel gravitacional</GTbc_Gun_GravRailArtillery.verbs.Verb_ShootWithWorldTargeting.label>
+  
+  
+</LanguageData>

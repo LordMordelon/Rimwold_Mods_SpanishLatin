@@ -1,0 +1,941 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: FrozenSnowFox Tweaks -->
+  <FrozenSnowFoxTweaksSettings.label>FrozenSnowFox Tweaks</FrozenSnowFoxTweaksSettings.label>
+  <!-- EN: For any changed settings to take effect the game must be restarted. -->
+  <FrozenSnowFoxTweaksSettings.settings.1.text>Para que cualquier cambio en la configuración surta efecto, se debe reiniciar el juego.</FrozenSnowFoxTweaksSettings.settings.1.text>
+  <!-- EN: Core Tweaks -->
+  <FrozenSnowFoxTweaksSettings.settings.5.label>Ajustes de Core</FrozenSnowFoxTweaksSettings.settings.5.label>
+  <!-- EN: Animals Dont Eat Random Things -->
+  <FrozenSnowFoxTweaksSettings.settings.5.settings.1.settings.1.label>Los animales no comen cosas al azar</FrozenSnowFoxTweaksSettings.settings.5.settings.1.settings.1.label>
+  <!-- EN: Removes the action of eating random things for curiosity from animal AI logic trees. -->
+  <FrozenSnowFoxTweaksSettings.settings.5.settings.1.settings.3.text>Elimina la acción de comer cosas al azar por curiosidad de los árboles lógicos de la IA animal.</FrozenSnowFoxTweaksSettings.settings.5.settings.1.settings.3.text>
+  <!-- EN: Animals Don't Mine To Escape -->
+  <FrozenSnowFoxTweaksSettings.settings.5.settings.1.settings.6.label>Los animales no minan para escapar</FrozenSnowFoxTweaksSettings.settings.5.settings.1.settings.6.label>
+  <!-- EN: Removes the action of mining through walls and rock to escape when hungry from animal AI logic trees.  Instead they will now just starve to death.\nNote: This does not apply to Alpha Animals creatures who use the Animal Digger logic tree since they are designed to dig through things. -->
+  <FrozenSnowFoxTweaksSettings.settings.5.settings.1.settings.8.text>Elimina la acción de minar a través de paredes y rocas para escapar cuando tienen hambre de los árboles lógicos de la IA animal. En su lugar, ahora simplemente morirán de hambre.\nNota: Esto no se aplica a las criaturas de Alpha Animals que usan el árbol lógico Animal Digger, ya que están diseñadas para excavar a través de las cosas.</FrozenSnowFoxTweaksSettings.settings.5.settings.1.settings.8.text>
+  <!-- EN: Herd Migration On Any Biome -->
+  <FrozenSnowFoxTweaksSettings.settings.5.settings.1.settings.11.label>Migración de manada en cualquier bioma</FrozenSnowFoxTweaksSettings.settings.5.settings.1.settings.11.label>
+  <!-- EN: Removes the allowedBiomes tag on the Herd Migration event so it can trigger on any biome. -->
+  <FrozenSnowFoxTweaksSettings.settings.5.settings.1.settings.13.text>Elimina la etiqueta allowedBiomes en el evento de Migración de manada para que pueda activarse en cualquier bioma.</FrozenSnowFoxTweaksSettings.settings.5.settings.1.settings.13.text>
+  <!-- EN: Mounts For Sale -->
+  <FrozenSnowFoxTweaksSettings.settings.5.settings.1.settings.16.label>Monturas a la venta</FrozenSnowFoxTweaksSettings.settings.5.settings.1.settings.16.label>
+  <!-- EN: Adds breeding pairs of Horses always for sale at Neolithic and Medieval bases so you have an easy way to get caravan animals. -->
+  <FrozenSnowFoxTweaksSettings.settings.5.settings.1.settings.18.text>Añade parejas reproductoras de caballos siempre a la venta en bases neolíticas y medievales para que tengas una forma fácil de conseguir animales de caravana.</FrozenSnowFoxTweaksSettings.settings.5.settings.1.settings.18.text>
+  <!-- EN: Wild Animal Reproduction -->
+  <FrozenSnowFoxTweaksSettings.settings.5.settings.1.settings.21.label>Reproducción de animales salvajes</FrozenSnowFoxTweaksSettings.settings.5.settings.1.settings.21.label>
+  <!-- EN: Allows wild animals to mate so they become pregnant just like colony animals.  Also removes the deterioration rate of fertilized eggs so they can survive outdoors. -->
+  <FrozenSnowFoxTweaksSettings.settings.5.settings.1.settings.23.text>Permite que los animales salvajes se apareen para que queden preñados al igual que los animales de la colonia. También elimina la tasa de deterioro de los huevos fertilizados para que puedan sobrevivir al aire libre.</FrozenSnowFoxTweaksSettings.settings.5.settings.1.settings.23.text>
+  <!-- EN: Wolves Are Dogs -->
+  <FrozenSnowFoxTweaksSettings.settings.5.settings.1.settings.26.label>Los lobos son perros</FrozenSnowFoxTweaksSettings.settings.5.settings.1.settings.26.label>
+  <!-- EN: Changes the FilthRate to 1, Wildness to 0, Petness to 1, nuzzleMtbHours to 12, removes the manhunter on failed taming chance and adds the Special Trainable Comfort.  This puts them on par with dogs allowing you to have clean, friendly, nuzzle happy wolves.  Also adds mating pairs of Timber Wolves and Arctic Wolves for sale at faction bases so they're easy to acquire. -->
+  <FrozenSnowFoxTweaksSettings.settings.5.settings.1.settings.28.text>Cambia la tasa de suciedad (FilthRate) a 1, la salvajez (Wildness) a 0, el nivel de mascota (Petness) a 1, las horas de mimos (nuzzleMtbHours) a 12, elimina la probabilidad de cazador de hombres al fallar el domesticado y añade el entrenamiento especial de confort. Esto los pone a la par con los perros, permitiéndote tener lobos limpios, amigables y cariñosos. También añade parejas de lobos madereros y lobos árticos a la venta en las bases de las facciones para que sean fáciles de adquirir.</FrozenSnowFoxTweaksSettings.settings.5.settings.1.settings.28.text>
+  <!-- EN: Filters and Storage -->
+  <FrozenSnowFoxTweaksSettings.settings.5.settings.3.label>Filtros y Almacenamiento</FrozenSnowFoxTweaksSettings.settings.5.settings.3.label>
+  <!-- EN: More Filters Drugs -->
+  <FrozenSnowFoxTweaksSettings.settings.5.settings.3.settings.1.label>Más filtros de drogas</FrozenSnowFoxTweaksSettings.settings.5.settings.3.settings.1.label>
+  <!-- EN: Adds a number of new categories for drugs and organises items so they can be more easily accessed.  The following categories are added, Hard, Medical, Social. -->
+  <FrozenSnowFoxTweaksSettings.settings.5.settings.3.settings.3.text>Añade una serie de nuevas categorías para las drogas y organiza los objetos para que se pueda acceder a ellos más fácilmente. Se añaden las siguientes categorías: Fuertes, Médicas, Sociales.</FrozenSnowFoxTweaksSettings.settings.5.settings.3.settings.3.text>
+  <!-- EN: More Filters Food -->
+  <FrozenSnowFoxTweaksSettings.settings.5.settings.3.settings.6.label>Más filtros de comida</FrozenSnowFoxTweaksSettings.settings.5.settings.3.settings.6.label>
+  <!-- EN: Adds a number of new categories for food and organises items so they can be more easily accessed.  The following categories are added, Awful, Simple, Fine, Lavish, Gourmet (VCE), Confectionery (VCE), Long Term, Jelly (Alpha Animals), Milk (Alpha Animals), Raw Tasty, Baby Food (Biotech DLC), Animal Feed, Gluttonous, Blood (Biotech DLC), Cocktails (VBE). -->
+  <FrozenSnowFoxTweaksSettings.settings.5.settings.3.settings.8.text>Añade una serie de nuevas categorías para la comida y organiza los objetos para que se pueda acceder a ellos más fácilmente. Se añaden las siguientes categorías: Pésima, Sencilla, Fina, Lujosa, Gourmet (VCE), Confitería (VCE), A largo plazo, Jalea (Alpha Animals), Leche (Alpha Animals), Cruda sabrosa, Comida para bebés (Biotech DLC), Alimento para animales, Glotona, Sangre (Biotech DLC), Cócteles (VBE).</FrozenSnowFoxTweaksSettings.settings.5.settings.3.settings.8.text>
+  <!-- EN: Warning: Due to changing item categories this tweak can interfere with stacking mods that rely on categories.  For OgreStack this causes the items to be classed under Other instead of their default categories.  If you use more specific stacking settings be sure to account for this. -->
+  <FrozenSnowFoxTweaksSettings.settings.5.settings.3.settings.11.text>Advertencia: Debido al cambio de categorías de objetos, este retoque puede interferir con los mods de apilamiento que dependen de las categorías. Para OgreStack, esto hace que los objetos se clasifiquen en "Otros" en lugar de sus categorías predeterminadas. Si utilizas configuraciones de apilamiento más específicas, asegúrate de tener esto en cuenta.</FrozenSnowFoxTweaksSettings.settings.5.settings.3.settings.11.text>
+  <!-- EN: No Default Storage Settings -->
+  <FrozenSnowFoxTweaksSettings.settings.5.settings.3.settings.14.label>Sin ajustes de almacenamiento predeterminados</FrozenSnowFoxTweaksSettings.settings.5.settings.3.settings.14.label>
+  <!-- EN: Changes every ThingDef to remove the defaultStorageSettings and changes the default priority to normal.  Unlike the mod No Default Shelf Storage which intentionally looks for a ThingClass to target only storage items this patch goes for everything.  This means it'll target things like Mortars, Sarcophaguses, Biosculpters, Growth Pods and more. -->
+  <FrozenSnowFoxTweaksSettings.settings.5.settings.3.settings.16.text>Cambia cada ThingDef para eliminar los ajustes de almacenamiento predeterminados (defaultStorageSettings) y cambia la prioridad predeterminada a normal. A diferencia del mod No Default Shelf Storage, que busca intencionadamente una ThingClass para dirigirse solo a los objetos de almacenamiento, este parche va a por todo. Esto significa que afectará a cosas como morteros, sarcófagos, bioescultores, vainas de crecimiento y más.</FrozenSnowFoxTweaksSettings.settings.5.settings.3.settings.16.text>
+  <!-- EN: Stackable Chunks -->
+  <FrozenSnowFoxTweaksSettings.settings.5.settings.3.settings.19.label>Trozos apilables</FrozenSnowFoxTweaksSettings.settings.5.settings.3.settings.19.label>
+  <!-- EN: Changes rock and slag chunks to be stacklable and allows you to customise the stack limit. -->
+  <FrozenSnowFoxTweaksSettings.settings.5.settings.3.settings.21.text>Cambia los trozos de roca y escoria para que sean apilables y permite personalizar el límite de apilamiento.</FrozenSnowFoxTweaksSettings.settings.5.settings.3.settings.21.text>
+  <!-- EN: Warning: If enabled midsave this option may cause all rock and slag chunks to vanish. -->
+  <FrozenSnowFoxTweaksSettings.settings.5.settings.3.settings.24.text>Advertencia: Si se activa a mitad de una partida, esta opción puede hacer que todos los trozos de roca y escoria desaparezcan.</FrozenSnowFoxTweaksSettings.settings.5.settings.3.settings.24.text>
+  <!-- EN: Rock Chunks Stack Limit -->
+  <FrozenSnowFoxTweaksSettings.settings.5.settings.3.settings.26.caseTrue.1.label>Límite de apilamiento de trozos de roca</FrozenSnowFoxTweaksSettings.settings.5.settings.3.settings.26.caseTrue.1.label>
+  <!-- EN: Slag Chunks Stack Limit -->
+  <FrozenSnowFoxTweaksSettings.settings.5.settings.3.settings.26.caseTrue.2.label>Límite de apilamiento de trozos de escoria</FrozenSnowFoxTweaksSettings.settings.5.settings.3.settings.26.caseTrue.2.label>
+  <!-- EN: Mechanoid Slag Chunks Stack Limit -->
+  <FrozenSnowFoxTweaksSettings.settings.5.settings.3.settings.26.caseTrue.3.label>Límite de apilamiento de trozos de escoria de mecanoides</FrozenSnowFoxTweaksSettings.settings.5.settings.3.settings.26.caseTrue.3.label>
+  <!-- EN: Input values to adjust the stack limit. -->
+  <FrozenSnowFoxTweaksSettings.settings.5.settings.3.settings.26.caseTrue.4.text>Introduce valores para ajustar el límite de apilamiento.</FrozenSnowFoxTweaksSettings.settings.5.settings.3.settings.26.caseTrue.4.text>
+  <!-- EN: Foods Are Safe -->
+  <FrozenSnowFoxTweaksSettings.settings.5.settings.5.settings.1.label>Los alimentos son seguros</FrozenSnowFoxTweaksSettings.settings.5.settings.5.settings.1.label>
+  <!-- EN: Removes the food poisoning chance from all RawTasty foods and all Gluttonous items that have the ParentDef OrganicProductBase.  Foods that use RawTasty are things like Berries, Milk and modded items such as Fruits.  Gluttonous items that have the ParentDef OrganicProductBase are things such as Insect Jelly and modded items such as Honey. -->
+  <FrozenSnowFoxTweaksSettings.settings.5.settings.5.settings.3.text>Elimina la probabilidad de intoxicación alimentaria de todos los alimentos RawTasty y todos los objetos Gluttonous que tengan el ParentDef OrganicProductBase. Los alimentos que usan RawTasty son cosas como bayas, leche y objetos de mods como frutas. Los objetos Gluttonous que tienen el ParentDef OrganicProductBase son cosas como la jalea de insecto y objetos de mods como la miel.</FrozenSnowFoxTweaksSettings.settings.5.settings.5.settings.3.text>
+  <!-- EN: Insect Jelly Isn't A Meal -->
+  <FrozenSnowFoxTweaksSettings.settings.5.settings.5.settings.6.label>La jalea de insecto no es una comida</FrozenSnowFoxTweaksSettings.settings.5.settings.5.settings.6.label>
+  <!-- EN: Changes the preferability of Insect Jelly from Fine Meal to Raw Tasty.  This means pawns will only prefer it as food if there are no cooked meals.  However, they will still eat it for Gluttonous Recreation.  This allows you to easier keep your expensive jelly for sale and recreation. -->
+  <FrozenSnowFoxTweaksSettings.settings.5.settings.5.settings.8.text>Cambia la preferencia de la jalea de insecto de Comida Fina a Cruda Sabrosa. Esto significa que los colonos solo la preferirán como alimento si no hay comidas cocinadas. Sin embargo, seguirán comiéndola por recreación glotona. Esto te permite guardar más fácilmente tu costosa jalea para la venta y la recreación.</FrozenSnowFoxTweaksSettings.settings.5.settings.5.settings.8.text>
+  <!-- EN: Less Desirable Long Term Food -->
+  <FrozenSnowFoxTweaksSettings.settings.5.settings.5.settings.11.label>Comida a largo plazo menos deseable</FrozenSnowFoxTweaksSettings.settings.5.settings.5.settings.11.label>
+  <!-- EN: Changes long term foods like Pemmican and Packaged Survival Meals to be less desirable than normal meals.\nNote: Distance seems to be factored into food choice so for best results long term foods should be stored near other meals. -->
+  <FrozenSnowFoxTweaksSettings.settings.5.settings.5.settings.13.text>Cambia los alimentos a largo plazo como el pemmican y las raciones de supervivencia empaquetadas para que sean menos deseables que las comidas normales.\nNota: La distancia parece ser un factor en la elección de alimentos, por lo que para obtener mejores resultados, los alimentos a largo plazo deben almacenarse cerca de otras comidas.</FrozenSnowFoxTweaksSettings.settings.5.settings.5.settings.13.text>
+  <!-- EN: Warning: This tweak may cause friendlies to pilfer your food supplies more as their preserved meals are considered less desirable. -->
+  <FrozenSnowFoxTweaksSettings.settings.5.settings.5.settings.16.text>Advertencia: Este retoque puede hacer que los aliados roben más tus suministros de comida, ya que sus comidas preservadas se consideran menos deseables.</FrozenSnowFoxTweaksSettings.settings.5.settings.5.settings.16.text>
+  <!-- EN: No Default Fungus In Meals -->
+  <FrozenSnowFoxTweaksSettings.settings.5.settings.5.settings.19.label>Sin hongos predeterminados en las comidas</FrozenSnowFoxTweaksSettings.settings.5.settings.5.settings.19.label>
+  <!-- EN: Adds Raw Fungus to the list of default disallowed ingredients on meals. -->
+  <FrozenSnowFoxTweaksSettings.settings.5.settings.5.settings.21.text>Añade el hongo crudo a la lista de ingredientes no permitidos por defecto en las comidas.</FrozenSnowFoxTweaksSettings.settings.5.settings.5.settings.21.text>
+  <!-- EN: Table Search Radius -->
+  <FrozenSnowFoxTweaksSettings.settings.5.settings.5.settings.24.label>Radio de búsqueda de mesa</FrozenSnowFoxTweaksSettings.settings.5.settings.5.settings.24.label>
+  <!-- EN: Allows you to set a maximum radius pawns will search for a table when consuming ingestible items.  This patches all items with a preferability except ones with NeverForNutrition. -->
+  <FrozenSnowFoxTweaksSettings.settings.5.settings.5.settings.26.text>Te permite establecer un radio máximo en el que los colonos buscarán una mesa al consumir objetos ingeribles. Esto parchea todos los objetos con una preferencia, excepto los que tienen NeverForNutrition.</FrozenSnowFoxTweaksSettings.settings.5.settings.5.settings.26.text>
+  <!-- EN: Table Search Radius -->
+  <FrozenSnowFoxTweaksSettings.settings.5.settings.5.settings.28.caseTrue.1.label>Radio de búsqueda de mesa</FrozenSnowFoxTweaksSettings.settings.5.settings.5.settings.28.caseTrue.1.label>
+  <!-- EN: Input a value to set a maximum radius pawns will search for a table when consuming ingestible items.  This patches all items with a preferability except ones with NeverForNutrition.\nNote: If a table is within this radius they will go to it before consuming items so be careful not to set it too high.  The default value of 75 is what I've found to be a nice middle ground. -->
+  <FrozenSnowFoxTweaksSettings.settings.5.settings.5.settings.28.caseTrue.2.text>Introduce un valor para establecer el radio máximo en el que los colonos buscarán una mesa al consumir objetos ingeribles. Esto parchea todos los objetos con una preferencia, excepto los que tienen NeverForNutrition.\nNota: Si hay una mesa dentro de este radio, irán a ella antes de consumir los objetos, así que ten cuidado de no ponerlo demasiado alto. El valor por defecto de 75 es lo que he encontrado como un buen punto medio.</FrozenSnowFoxTweaksSettings.settings.5.settings.5.settings.28.caseTrue.2.text>
+  <!-- EN: Accurate Mechanoid Disassembly -->
+  <FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.1.label>Desmontaje preciso de mecanoides</FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.1.label>
+  <!-- EN: Replaces the mechanoid disassembly returns with accurate resources based on the resources required for gestating them.  It also allows tweaking of the disassembly efficiency stat so the returns can be scaled down while remaining accurate.  To prevent excess resources Mechanoid Slag Chunk drops are removed from all mechanoids. -->
+  <FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.3.text>Reemplaza los retornos del desmontaje de mecanoides con recursos precisos basados en los recursos necesarios para gestarlos. También permite ajustar la estadística de eficiencia de desmontaje para que los retornos puedan reducirse manteniendo la precisión. Para evitar el exceso de recursos, se eliminan las caídas de trozos de escoria de mecanoides de todos los mecanoides.</FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.3.text>
+  <!-- EN: Base Disassembly Efficiency {FSFAccurateMechDisassemblyBaseEff} -->
+  <FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.5.caseTrue.1.label>Eficiencia de desmontaje base {FSFAccurateMechDisassemblyBaseEff}</FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.5.caseTrue.1.label>
+  <!-- EN: Maximum Disassembly Efficiency {FSFAccurateMechDisassemblyMaxEff} -->
+  <FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.5.caseTrue.4.label>Eficiencia de desmontaje máxima {FSFAccurateMechDisassemblyMaxEff}</FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.5.caseTrue.4.label>
+  <!-- EN: Input a value to adjust the efficiency stats for Mechanoid Disassembly.  The Base stat is the starting efficiency percentage before factoring in manipulation, eyesight and crafting skill while the Max stat is the maximum percentage of resources acquirable.\nVanilla (0.75, 1). -->
+  <FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.5.caseTrue.7.text>Introduce un valor para ajustar las estadísticas de eficiencia para el desmontaje de mecanoides. La estadística base es el porcentaje de eficiencia inicial antes de tener en cuenta la manipulación, la vista y la habilidad de artesanía, mientras que la estadística máxima es el porcentaje máximo de recursos adquiribles.\nVanilla (0.75, 1).</FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.5.caseTrue.7.text>
+  <!-- EN: Disable Mechanoid Subcores from disassembly loot. -->
+  <FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.5.caseTrue.8.label>Desactivar subnúcleos de mecanoides del botín de desmontaje.</FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.5.caseTrue.8.label>
+  <!-- EN: Always Refuel Turrets -->
+  <FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.7.label>Repostar torretas siempre</FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.7.label>
+  <!-- EN: Changes turrets to be rearmed even if they are 99% full of ammo. -->
+  <FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.9.text>Cambia las torretas para que se rearmen incluso si están al 99% de su capacidad de munición.</FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.9.text>
+  <!-- EN: Bed Rest Effectiveness -->
+  <FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.12.label>Efectividad del descanso en cama</FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.12.label>
+  <!-- EN: Allows you to customise how furniture quality effects the Bed Rest Effectiveness stat. -->
+  <FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.14.text>Te permite personalizar cómo la calidad de los muebles afecta a la estadística de efectividad del descanso en cama.</FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.14.text>
+  <!-- EN: Awful Quality {FSFBedRestEffectivenessAwful} -->
+  <FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.16.caseTrue.1.label>Calidad horrible {FSFBedRestEffectivenessAwful}</FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.16.caseTrue.1.label>
+  <!-- EN: Poor Quality {FSFBedRestEffectivenessPoor} -->
+  <FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.16.caseTrue.4.label>Calidad mediocre {FSFBedRestEffectivenessPoor}</FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.16.caseTrue.4.label>
+  <!-- EN: Normal Quality {FSFBedRestEffectivenessNormal} -->
+  <FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.16.caseTrue.7.label>Calidad normal {FSFBedRestEffectivenessNormal}</FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.16.caseTrue.7.label>
+  <!-- EN: Good Quality {FSFBedRestEffectivenessGood} -->
+  <FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.16.caseTrue.10.label>Calidad buena {FSFBedRestEffectivenessGood}</FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.16.caseTrue.10.label>
+  <!-- EN: Excellent Quality {FSFBedRestEffectivenessExcellent} -->
+  <FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.16.caseTrue.13.label>Calidad excelente {FSFBedRestEffectivenessExcellent}</FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.16.caseTrue.13.label>
+  <!-- EN: Masterwork Quality {FSFBedRestEffectivenessMasterwork} -->
+  <FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.16.caseTrue.16.label>Calidad magistral {FSFBedRestEffectivenessMasterwork}</FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.16.caseTrue.16.label>
+  <!-- EN: Legendary Quality {FSFBedRestEffectivenessLegendary} -->
+  <FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.16.caseTrue.19.label>Calidad legendaria {FSFBedRestEffectivenessLegendary}</FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.16.caseTrue.19.label>
+  <!-- EN: Move the slider to adjust the Bed Rest Effectiveness stat for that particular quality.\nVanilla (0.86, 0.92, 1.00, 1.08, 1.14, 1.25, 1.60). -->
+  <FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.16.caseTrue.22.text>Mueve el deslizador para ajustar la estadística de efectividad del descanso en cama para esa calidad en particular.\nVanilla (0.86, 0.92, 1.00, 1.08, 1.14, 1.25, 1.60).</FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.16.caseTrue.22.text>
+  <!-- EN: Better Quest Rewards -->
+  <FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.18.label>Mejores recompensas de misión</FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.18.label>
+  <!-- EN: Allows you to individually enable options that will add or change things in the quest reward pool. -->
+  <FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.20.text>Te permite activar individualmente opciones que añadirán o cambiarán cosas en el grupo de recompensas de misión.</FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.20.text>
+  <!-- EN: Adds Hyperweave as a filler material. -->
+  <FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.22.caseTrue.1.label>Añade hipertejido como material de relleno.</FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.22.caseTrue.1.label>
+  <!-- EN: Adds Jade as a filler material. -->
+  <FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.22.caseTrue.2.label>Añade jade como material de relleno.</FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.22.caseTrue.2.label>
+  <!-- EN: Adds Synthread as a filler material. -->
+  <FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.22.caseTrue.3.label>Añade sinttejido como material de relleno.</FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.22.caseTrue.3.label>
+  <!-- EN: Better Utility Layers -->
+  <FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.24.label>Mejores capas de utilidad</FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.24.label>
+  <!-- EN: Changes the layering of a large number of utility items so they can be worn together.  For instance, many items are moved to the Torso, Lances are moved to the Shoulders, Orbital items are moved to the Legs.  This change does not cause issues for clothing/armour since all items are on the Utility layer which is normally unused except for Waist.  This tweak also includes a patch to change all Utility items to not count as clothing for nudists in the event they are not tagged correctly. -->
+  <FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.26.text>Cambia las capas de un gran número de objetos de utilidad para que puedan usarse juntos. Por ejemplo, muchos objetos se mueven al torso, las lanzas se mueven a los hombros, los objetos orbitales se mueven a las piernas. Este cambio no causa problemas con la ropa/armadura, ya que todos los objetos están en la capa de utilidad, que normalmente no se usa excepto para la cintura. Este retoque también incluye un parche para cambiar todos los objetos de utilidad para que no cuenten como ropa para los nudistas en caso de que no estén etiquados correctamente.</FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.26.text>
+  <!-- EN: Bigger Rivers -->
+  <FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.29.label>Ríos más grandes</FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.29.label>
+  <!-- EN: Allows you to customise how large rivers appear on maps. -->
+  <FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.31.text>Te permite personalizar qué tan grandes aparecen los ríos en los mapas.</FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.31.text>
+  <!-- EN: Huge River -->
+  <FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.33.caseTrue.1.label>Río enorme</FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.33.caseTrue.1.label>
+  <!-- EN: Large River -->
+  <FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.33.caseTrue.2.label>Río grande</FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.33.caseTrue.2.label>
+  <!-- EN: Input a value to adjust the size of rivers.\nVanilla values (30, 14, 6, 4). -->
+  <FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.33.caseTrue.5.text>Introduce un valor para ajustar el tamaño de los ríos.\nValores de Vanilla (30, 14, 6, 4).</FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.33.caseTrue.5.text>
+  <!-- EN: Chat On Comms -->
+  <FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.35.label>Charlar por comunicaciones</FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.35.label>
+  <!-- EN: Allows pawns to chat on the Comms Console to gain Social Recreation and Social Experience. -->
+  <FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.37.text>Permite a los colonos charlar en la consola de comunicaciones para ganar recreación social y experiencia social.</FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.37.text>
+  <!-- EN: Consciousness Affects Learning Speed -->
+  <FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.40.label>La consciencia afecta la velocidad de aprendizaje</FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.40.label>
+  <!-- EN: Changes the Global Learning Speed stat to be affected by consciousness.  This makes it so people with brain injuries learn slower while those with increased consciousness from bionics or drugs learn faster. -->
+  <FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.42.text>Cambia la estadística de velocidad de aprendizaje global para que se vea afectada por la consciencia. Esto hace que las personas con lesiones cerebrales aprendan más lento, mientras que aquellas con mayor consciencia por biónicos o drogas aprendan más rápido.</FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.42.text>
+  <!-- EN: Default White Lights -->
+  <FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.45.label>Luces blancas por defecto</FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.45.label>
+  <!-- EN: Changes the default colour of electric lights to be White. -->
+  <FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.47.text>Cambia el color por defecto de las luces eléctricas a blanco.</FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.47.text>
+  <!-- EN: Encounter Map Ancient Dangers -->
+  <FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.50.label>Peligros antiguos en mapas de encuentro</FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.50.label>
+  <!-- EN: Allows ancient dangers to spawn on encounter maps. -->
+  <FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.52.text>Permite que aparezcan peligros antiguos en los mapas de encuentro.</FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.52.text>
+  <!-- EN: Encounter Map Resources -->
+  <FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.55.label>Recursos en mapas de encuentro</FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.55.label>
+  <!-- EN: Allows resources and deep drilling veins to spawn on encounter maps again. -->
+  <FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.57.text>Permite que los recursos y las vetas de perforación profunda vuelvan a aparecer en los mapas de encuentro.</FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.57.text>
+  <!-- EN: Faster Components -->
+  <FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.60.label>Componentes más rápidos</FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.60.label>
+  <!-- EN: Reduces the crafting time of Components and Advanced Components to 1/4.  Also adds bulk recipes for crafting 5x 10x 25x and 50x. -->
+  <FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.62.text>Reduce el tiempo de fabricación de componentes y componentes avanzados a 1/4. También añade recetas a granel para fabricar 5x, 10x, 25x y 50x.</FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.62.text>
+  <!-- EN: Faster Moisture Pumps -->
+  <FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.65.label>Bombas de humedad más rápidas</FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.65.label>
+  <!-- EN: Allows you to customise the speed of Moisture Pumps. -->
+  <FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.67.text>Te permite personalizar la velocidad de las bombas de humedad.</FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.67.text>
+  <!-- EN: Days to Max Radius -->
+  <FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.69.caseTrue.1.label>Días para el radio máximo</FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.69.caseTrue.1.label>
+  <!-- EN: Input values to adjust the speed and radius of Moisture Pumps.  The speed value is written in days.\nThe Vanilla value is 60 (1 year). -->
+  <FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.69.caseTrue.3.text>Introduce valores para ajustar la velocidad y el radio de las bombas de humedad. El valor de velocidad se escribe en días.\nEl valor de Vanilla es 60 (1 año).</FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.69.caseTrue.3.text>
+  <!-- EN: Filth Vanishes With Rain And Time -->
+  <FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.71.label>La suciedad desaparece con la lluvia y el tiempo</FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.71.label>
+  <!-- EN: Changes all filth types so they disappear within 14-15 days and wash away with rain/snow.  See the Filth Vanishes With Rain And Time workshop page for full details. -->
+  <FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.73.text>Cambia todos los tipos de suciedad para que desaparezcan en 14-15 días y se limpien con la lluvia/nieve. Consulta la página del taller de "Filth Vanishes With Rain And Time" para obtener todos los detalles.</FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.73.text>
+  <!-- EN: Allow Gray Flesh trails to wash away with rain/snow. -->
+  <FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.75.caseTrue.1.label>Permitir que los rastros de carne gris se limpien con la lluvia/nieve.</FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.75.caseTrue.1.label>
+  <!-- EN: Warning: This will make Metalhorrors more dangerous during bad weather as their traces will disappear almost immediately. -->
+  <FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.75.caseTrue.4.text>Advertencia: Esto hará que los horrormetales sean más peligrosos durante el mal tiempo, ya que sus rastros desaparecerán casi de inmediato.</FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.75.caseTrue.4.text>
+  <!-- EN: Allow Revenant blood and trails to wash away with rain/snow. -->
+  <FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.76.caseTrue.1.label>Permitir que la sangre y los rastros de redivivo se limpien con la lluvia/nieve.</FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.76.caseTrue.1.label>
+  <!-- EN: Warning: This will make Revenants significantly more dangerous during bad weather as their traces will disappear almost immediately making them impossible to track. -->
+  <FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.76.caseTrue.4.text>Advertencia: Esto hará que los redivivos sean significativamente más peligrosos durante el mal tiempo, ya que sus rastros desaparecerán casi de inmediato, lo que los hará imposibles de rastrear.</FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.76.caseTrue.4.text>
+  <!-- EN: Harder Drop Pod Raids -->
+  <FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.78.label>Incursiones de cápsulas de transporte más difíciles</FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.78.label>
+  <!-- EN: Doubles the selection weight of Drop Pod raid strategies.  Also removes the raid point scaling so drop pod raids are the same size as normal raids. -->
+  <FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.80.text>Duplica el peso de selección de las estrategias de incursión con cápsulas de transporte. También elimina el escalado de puntos de incursión para que las incursiones con cápsulas de transporte tengan el mismo tamaño que las incursiones normales.</FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.80.text>
+  <!-- EN: Harder Environmental Events -->
+  <FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.83.label>Eventos ambientales más difíciles</FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.83.label>
+  <!-- EN: Modifies the duration of Environmental Events and increases the refire interval somewhat to compensate.  This makes events overall harder as they last longer.\n\nCold Snap and Heat Wave x2 Duration, Toxic Fallout x4 Duration, Volcanic Winter x2.5 Min and x1.5 Max Duration, Blood Rain x4.5 Min and x2 Max Duration (Anomaly DLC), Death Pall x2 Duration (Anomaly DLC), Volcanic Ash x1.5 Min and x1.75 Max Duration (Odyssey DLC), Drought x1.67 Min and x1.5 Max Duration (Odyssey DLC), Gill Rot x2.34 Min and x2.5 Max Duration (Odyssey DLC), Drought (Vanilla Events Expanded) x1.7 Min and x3 Max Duration. -->
+  <FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.85.text>Modifica la duración de los eventos ambientales y aumenta algo el intervalo de repetición para compensar. Esto hace que los eventos sean en general más difíciles, ya que duran más.\n\nOla de frío y ola de calor x2 de duración, lluvia tóxica x4 de duración, invierno volcánico x2.5 de duración mínima y x1.5 de duración máxima, lluvia de sangre x4.5 de duración mínima y x2 de duración máxima (Anomaly DLC), palidez mortal x2 de duración (Anomaly DLC), ceniza volcánica x1.5 de duración mínima y x1.75 de duración máxima (Odyssey DLC), sequía x1.67 de duración mínima y x1.5 de duración máxima (Odyssey DLC), podredumbre de branquias x2.34 de duración mínima y x2.5 de duración máxima (Odyssey DLC), sequía (Vanilla Events Expanded) x1.7 de duración mínima y x3 de duración máxima.</FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.85.text>
+  <!-- EN: Immortal Power Conduits -->
+  <FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.88.label>Conductos de energía inmortales</FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.88.label>
+  <!-- EN: Makes power conduits immortal, they have no health and can't catch fire. -->
+  <FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.90.text>Hace que los conductos de energía sean inmortales, no tienen salud y no pueden incendiarse.</FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.90.text>
+  <!-- EN: Increased Linkables Range -->
+  <FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.93.label>Rango de objetos vinculables aumentado</FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.93.label>
+  <!-- EN: Changes linkables to have a maximum connection distance of 50 tiles, removes the line of sight requirement and removes the must be placed adjacent requirement.\nNote: The adjacent change is only for certain linkables like Vitals Monitors. -->
+  <FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.95.text>Cambia los objetos vinculables para que tengan una distancia máxima de conexión de 50 casillas, elimina el requisito de línea de visión y elimina el requisito de que deban colocarse adyacentes.\nNota: El cambio de adyacencia es solo para ciertos objetos vinculables como los monitores de constantes vitales.</FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.95.text>
+  <!-- EN: Interaction Spots Can Overlap -->
+  <FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.98.label>Los puntos de interacción pueden solaparse</FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.98.label>
+  <!-- EN: Removes the restriction on everything so interaction spots can overlap.  The interaction spot is where a pawn stands while using the building and typically where you place a seat for them. -->
+  <FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.100.text>Elimina la restricción en todo para que los puntos de interacción puedan solaparse. El punto de interacción es donde se sitúa un colono mientras usa el edificio y, normalmente, donde colocas un asiento para él.</FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.100.text>
+  <!-- EN: Metal Flammability -->
+  <FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.103.label>Inflamabilidad de los metales</FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.103.label>
+  <!-- EN: Allows you to customise the flammability stat of each metal.  You can make things less or more flammable or completely immune to fire. -->
+  <FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.105.text>Te permite personalizar la estadística de inflamabilidad de cada metal. Puedes hacer que las cosas sean menos o más inflamables o completamente inmunes al fuego.</FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.105.text>
+  <!-- EN: Bioferrite Flammability {FSFMetalFlammabilityBioferrite} -->
+  <FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.107.caseTrue.1.label>Inflamabilidad de bioferrita {FSFMetalFlammabilityBioferrite}</FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.107.caseTrue.1.label>
+  <!-- EN: Gold Flammability {FSFMetalFlammabilityGold} -->
+  <FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.107.caseTrue.4.label>Inflamabilidad de oro {FSFMetalFlammabilityGold}</FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.107.caseTrue.4.label>
+  <!-- EN: Silver Flammability {FSFMetalFlammabilitySilver} -->
+  <FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.107.caseTrue.7.label>Inflamabilidad de plata {FSFMetalFlammabilitySilver}</FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.107.caseTrue.7.label>
+  <!-- EN: Steel Flammability {FSFMetalFlammabilitySteel} -->
+  <FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.107.caseTrue.10.label>Inflamabilidad de acero {FSFMetalFlammabilitySteel}</FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.107.caseTrue.10.label>
+  <!-- EN: Input a value to adjust the flammability of each metal.  The lower the number the less flammable it is.  The displayed number is a percentage of its flammability.  Setting it to 0 will make that metal completely immune to fire.\nVanilla flammability is 0.4 (40%). -->
+  <FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.107.caseTrue.13.text>Introduce un valor para ajustar la inflamabilidad de cada metal. Cuanto menor sea el número, menos inflamable será. El número mostrado es un porcentaje de su inflamabilidad. Establecerlo en 0 hará que ese metal sea completamente inmune al fuego.\nLa inflamabilidad de Vanilla es 0.4 (40%).</FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.107.caseTrue.13.text>
+  <!-- EN: More Quests -->
+  <FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.109.label>Más misiones</FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.109.label>
+  <!-- EN: Allows you to customise how frequently quests appear. -->
+  <FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.111.text>Te permite personalizar la frecuencia con la que aparecen las misiones.</FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.111.text>
+  <!-- EN: minSpacingDays {FSFMoreQuestsminSpacingDays} -->
+  <FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.113.caseTrue.3.label>minSpacingDays {FSFMoreQuestsminSpacingDays}</FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.113.caseTrue.3.label>
+  <!-- EN: Input a value to adjust the amount of quests generated within a timeframe.  The minSpacingDays (minimum days between quests) must allow the numIncidentsRange (number of quests) to fit within onDays (how many days before this block of quests ends) otherwise the game will throw errors.\nVanilla (12, 2, 3), Double Vanilla (12, 4, 1), Triple Vanilla (12, 6, 1), Daily (1, 1, 0.5).\nNote: Quests by default require a certain wealth threshold to be reached to trigger. In very low wealth starts like naked brutality or tribals its possible you might not get quests for a year or more until you hit that specific threshold. -->
+  <FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.113.caseTrue.6.text>Introduce un valor para ajustar la cantidad de misiones generadas dentro de un periodo de tiempo. El minSpacingDays (días mínimos entre misiones) debe permitir que el numIncidentsRange (número de misiones) quepa dentro de onDays (cuántos días antes de que termine este bloque de misiones), de lo contrario el juego arrojará errores.\nVanilla (12, 2, 3), Doble Vanilla (12, 4, 1), Triple Vanilla (12, 6, 1), Diario (1, 1, 0.5).\nNota: Las misiones, por defecto, requieren que se alcance un cierto umbral de riqueza para activarse. En inicios con muy poca riqueza, como brutalidad desnuda o tribales, es posible que no recibas misiones durante un año o más hasta que alcances ese umbral específico.</FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.113.caseTrue.6.text>
+  <!-- EN: More Slaves -->
+  <FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.115.label>Más esclavos</FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.115.label>
+  <!-- EN: Allows you to customise the number of slaves traders have for sale and makes it so you can request slave caravans.  Also removes the Population Intent on slave trading so you always have a full selection of slaves regardless of your colony population. -->
+  <FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.117.text>Te permite personalizar el número de esclavos que los comerciantes tienen a la venta y hace que puedas solicitar caravanas de esclavos. También elimina la intención de población en el comercio de esclavos para que siempre tengas una selección completa de esclavos independientemente de la población de tu colonia.</FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.117.text>
+  <!-- EN: Slaves For Sale Minimum Range -->
+  <FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.119.caseTrue.1.label>Rango mínimo de esclavos a la venta</FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.119.caseTrue.1.label>
+  <!-- EN: Slaves For Sale Maximum Range -->
+  <FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.119.caseTrue.2.label>Rango máximo de esclavos a la venta</FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.119.caseTrue.2.label>
+  <!-- EN: Input a value to adjust the number of slaves traders have for sale\nDefault Setting 9-10. -->
+  <FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.119.caseTrue.3.text>Introduce un valor para ajustar el número de esclavos que los comerciantes tienen a la venta\nAjuste por defecto 9-10.</FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.119.caseTrue.3.text>
+  <!-- EN: More Varied Raid Loot -->
+  <FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.121.label>Botín de incursión más variado</FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.121.label>
+  <!-- EN: Adds new items to the raid loot tables to add some more variety to the rewards for defeating raids.  Raid loot is a stack of items given to a raider or a number of raiders to serve as a reward for deating them, this typically comes in the form of resources, medicine or drugs. -->
+  <FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.123.text>Añade nuevos objetos a las tablas de botín de incursión para añadir algo más de variedad a las recompensas por derrotar incursiones. El botín de incursión es una pila de objetos que se le da a un asaltante o a varios asaltantes para que sirva como recompensa por derrotarlos; esto suele venir en forma de recursos, medicinas o drogas.</FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.123.text>
+  <!-- EN: No Debuff For Banishing -->
+  <FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.126.label>Sin penalización por desterrar</FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.126.label>
+  <!-- EN: Changes the duration of all thoughts for banishing or rejecting people to expire instantly. -->
+  <FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.128.text>Cambia la duración de todos los pensamientos por desterrar o rechazar personas para que expiren instantáneamente.</FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.128.text>
+  <!-- EN: No Human Filth -->
+  <FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.131.label>Sin suciedad humana</FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.131.label>
+  <!-- EN: Changes the human FilthRate stat to 0 so they don't randomly spawn filth. -->
+  <FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.133.text>Cambia la estadística de tasa de suciedad (FilthRate) humana a 0 para que no generen suciedad al azar.</FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.133.text>
+  <!-- EN: No Improvised Weapons -->
+  <FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.136.label>Sin armas improvisadas</FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.136.label>
+  <!-- EN: Removes the weapon stats from all Ingestible and Resource items so they can no longer be used as weapons.\nNote: If enabled mid save this will cause errors if anyone has these items equipped.  You can use the mod Character Editor to move items to the inventory to fix this. -->
+  <FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.138.text>Elimina las estadísticas de arma de todos los objetos ingeribles y recursos para que ya no puedan usarse como armas.\nNota: Si se activa a mitad de una partida, esto causará errores si alguien tiene estos objetos equipados. Puedes usar el mod Character Editor para mover los objetos al inventario y solucionar esto.</FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.138.text>
+  <!-- EN: No One Ever Flees -->
+  <FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.141.label>Nadie huye jamás</FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.141.label>
+  <!-- EN: Patches every faction adding autoflee false as a tag so they will never break or flee no matter how many people die.\nThis setting is best used in combination with other mods.  See the No One Ever Flees workshop page for full details. -->
+  <FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.143.text>Parchea cada facción añadiendo la etiqueta autoflee false para que nunca se rompan ni huyan, sin importar cuántas personas mueran.\nEste ajuste se utiliza mejor en combinación con otros mods. Consulta la página del taller de "No One Ever Flees" para obtener todos los detalles.</FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.143.text>
+  <!-- EN: Power Generation Multiplier -->
+  <FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.146.label>Multiplicador de generación de energía</FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.146.label>
+  <!-- EN: Allows you to multiply the power generation of all Power Generating items and the Storage Capacity of all Batteries by an input value. -->
+  <FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.148.text>Permite multiplicar la generación de energía de todos los objetos generadores de energía y la capacidad de almacenamiento de todas las baterías por un valor de entrada.</FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.148.text>
+  <!-- EN: Power Generation Multiplier {FSFPowerGenerationMultiplier} -->
+  <FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.150.caseTrue.1.label>Multiplicador de generación de energía {FSFPowerGenerationMultiplier}</FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.150.caseTrue.1.label>
+  <!-- EN: Battery Storage Capacity Multiplier {FSFBatteryStorageMultiplier} -->
+  <FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.150.caseTrue.4.label>Multiplicador de capacidad de almacenamiento de baterías {FSFBatteryStorageMultiplier}</FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.150.caseTrue.4.label>
+  <!-- EN: Vanometric Power Generation Multiplier {FSFVanometricGenerationMultiplier} -->
+  <FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.150.caseTrue.5.label>Multiplicador de generación de energía vanométrica {FSFVanometricGenerationMultiplier}</FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.150.caseTrue.5.label>
+  <!-- EN: Vanilla Quests Expanded The Generator - Power Generation Multiplier {FSFVQEGPowerGenerationMultiplier} -->
+  <FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.150.caseTrue.8.label>Vanilla Quests Expanded The Generator - Multiplicador de generación de energía {FSFVQEGPowerGenerationMultiplier}</FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.150.caseTrue.8.label>
+  <!-- EN: Move the sliders to adjust the multiplier of all Power Generating items and the Storage Capacity of all Batteries.  The value is a straight multiplier, a value of 2 will double the original while 3 will triple it.\nThe Vanilla value is 1. -->
+  <FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.150.caseTrue.11.text>Mueve los deslizadores para ajustar el multiplicador de todos los objetos generadores de energía y la capacidad de almacenamiento de todas las baterías. El valor es un multiplicador directo, un valor de 2 duplicará el original mientras que 3 lo triplicará.\nEl valor de Vanilla es 1.</FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.150.caseTrue.11.text>
+  <!-- EN: Psychic Sensitivity Bonuses -->
+  <FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.152.label>Bonificaciones de sensibilidad psíquica</FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.152.label>
+  <!-- EN: Changes the stats Meditation Psyfocus Gain and Neural Heat Recovery Rate to be affected by Psychic Sensitivity.  Also removes the bonuses to these stats from all GeneDef's (Genes), HediffDef's (Health Conditions), ThingDef's (Weapons and Apparel) and TraitDef's (Traits).  What this means is that Psychic Sensitivity itself will provide these bonuses instead of the aforementioned things.  In this way all bonuses are equally balanced, and those that didn't provide bonuses but probably should have do now.  So now there is a good reason to stack your psycasters with as much Psychic Sensitivity as you can because doing so will increase their overall recovery speed.  With Vanilla Psycasts Expanded the increase in Psyfocus gain will also result in your psycasters gaining XP faster. -->
+  <FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.154.text>Cambia las estadísticas de Ganancia de psicofoco por meditación y Tasa de recuperación de calor neuronal para que se vean afectadas por la sensibilidad psíquica. También elimina las bonificaciones a estas estadísticas de todos los GeneDef (genes), HediffDef (condiciones de salud), ThingDef (armas y ropa) y TraitDef (rasgos). Lo que esto significa es que la sensibilidad psíquica en sí misma proporcionará estas bonificaciones en lugar de las cosas mencionadas anteriormente. De esta manera, todas las bonificaciones están equilibradas por igual, y aquellas que no proporcionaban bonificaciones pero probablemente deberían haberlo hecho, ahora lo hacen. Así que ahora hay una buena razón para acumular tanta sensibilidad psíquica como puedas en tus psíquicos, ya que hacerlo aumentará su velocidad de recuperación general. Con Vanilla Psycasts Expanded, el aumento en la ganancia de psicofoco también resultará en que tus psíquicos ganen XP más rápido.</FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.154.text>
+  <!-- EN: Randy Fixes -->
+  <FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.157.label>Correcciones de Randy</FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.157.label>
+  <!-- EN: Randy is missing the fields TraderCaravanArrival, VisitorGroup, TravelerGroup, OrbitalTraderArrival.  This is no doubt so it relies on his randomness.  Unfortunately the randomness tends to result in not getting these events very often.  This fix adds the fields from Cassandra so these events show up regularly.  This is an addition not a replacement, so the original randomness aspect is also present.  If Vanilla Psycasts Expanded is loaded this tweak also adds the fields to Basilicus Bestower, as he's an exact copy of Randy except for his unique ability. -->
+  <FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.159.text>A Randy le faltan los campos TraderCaravanArrival, VisitorGroup, TravelerGroup, OrbitalTraderArrival. Sin duda, esto es para que dependa de su aleatoriedad. Desafortunadamente, la aleatoriedad tiende a dar como resultado que estos eventos no ocurran muy a menudo. Esta corrección añade los campos de Cassandra para que estos eventos aparezcan regularmente. Esta es una adición, no un reemplazo, por lo que el aspecto de aleatoriedad original también está presente. Si Vanilla Psycasts Expanded está cargado, este retoque también añade los campos a Basilicus Bestower, ya que es una copia exacta de Randy excepto por su habilidad única.</FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.159.text>
+  <!-- EN: Render Hair Over Clothing -->
+  <FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.162.label>Renderizar cabello sobre la ropa</FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.162.label>
+  <!-- EN: With the new rendering system clothing is rendered over a pawns head when viewed from behind.  This is most noticeable with long hairstyles, instead of the hair draping over the clothing as it should it instead ends up hidden beneath making things look rather odd.  This tweak patches all clothing that would pose an issue so hair is rendered over clothing allowing hair to drape over clothing as it should. -->
+  <FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.164.text>Con el nuevo sistema de renderizado, la ropa se renderiza sobre la cabeza de un colono cuando se ve desde atrás. Esto es más notable con peinados largos; en lugar de que el cabello caiga sobre la ropa como debería, termina oculto debajo, lo que hace que las cosas se vean bastante extrañas. Este retoque parchea toda la ropa que podría causar problemas para que el cabello se renderice sobre la ropa, permitiendo que el cabello caiga sobre la ropa como debería.</FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.164.text>
+  <!-- EN: Sealed Power Armour -->
+  <FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.167.label>Armadura de potencia sellada</FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.167.label>
+  <!-- EN: Changes power armour to be airtight if it fully covers the head or body.  Meaning when the body armour and helmet are worn together it provides full Toxic Environmental Resistance.  The helmets will also provide immunity to Toxic Gas. -->
+  <FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.169.text>Cambia la armadura de potencia para que sea hermética si cubre completamente la cabeza o el cuerpo. Esto significa que cuando la armadura corporal y el casco se usan juntos, proporcionan resistencia ambiental tóxica completa. Los cascos también proporcionarán inmunidad al gas tóxico.</FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.169.text>
+  <!-- EN: Tribal Patchleather -->
+  <FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.172.label>Cuero de parches tribal</FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.172.label>
+  <!-- EN: Adds the patchleather recipe to the crafting spot allowing tribals an easier way to craft leather items. -->
+  <FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.174.text>Añade la receta de cuero de parches al lugar de artesanía, permitiendo a los tribales una forma más fácil de fabricar objetos de cuero.</FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.174.text>
+  <!-- EN: Quest Reward Pawn Bios -->
+  <FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.177.label>Biografías de colonos de recompensa de misión</FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.177.label>
+  <!-- EN: Stops quests from hiding the bio of pawns given as rewards so you can decide if its worth doing the quest or not. -->
+  <FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.179.text>Evita que las misiones oculten la biografía de los colonos otorgados como recompensa para que puedas decidir si vale la pena hacer la misión o no.</FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.179.text>
+  <!-- EN: Unlock Hediffs For Scenario Settings -->
+  <FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.182.label>Desbloquear Hediffs para ajustes de escenario</FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.182.label>
+  <!-- EN: Changes a number of hediffs so they can be used in the scenario settings.  For instance this allows you to create a scenario where anyone can have a chance to spawn with Metal Horrors (Anomaly DLC), as a Mime (Alpha Animals) or a Traitor (Vanilla Expanded Events).\nTo do this in the scenario editor click Add Part -> Forced Health Condition -> (The hediff you want). Set the severity (depending on the hediff severity can do different things), modify the percentage chance and set the context. -->
+  <FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.184.text>Cambia una serie de hediffs para que puedan usarse en los ajustes del escenario. Por ejemplo, esto te permite crear un escenario donde cualquiera puede tener la oportunidad de aparecer con horrormetales (Anomaly DLC), como un Mimo (Alpha Animals) o un Traidor (Vanilla Expanded Events).\nPara hacer esto en el editor de escenarios, haz clic en Añadir parte -> Condición de salud forzada -> (El hediff que quieras). Establece la gravedad (dependiendo del hediff, la gravedad puede hacer diferentes cosas), modifica la probabilidad porcentual y establece el contexto.</FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.184.text>
+  <!-- EN: Traitor Minimum Time Range In Ticks -->
+  <FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.186.caseTrue.1.label>Rango mínimo de tiempo del traidor en ticks</FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.186.caseTrue.1.label>
+  <!-- EN: Traitor Maximum Time Range In Ticks -->
+  <FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.186.caseTrue.2.label>Rango máximo de tiempo del traidor en ticks</FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.186.caseTrue.2.label>
+  <!-- EN: Input values to adjust the minimum and maximum time range of a Traitor reveal.  The value is written in what the game calls ticks.  There are 2500 ticks in one game hour and 60000 ticks in a day.\nThe Vanilla value is 120000 (2 day) to 360000 (6 days). -->
+  <FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.186.caseTrue.3.text>Introduce valores para ajustar el rango de tiempo mínimo y máximo de la revelación de un Traidor. El valor se escribe en lo que el juego llama ticks. Hay 2500 ticks en una hora de juego y 60000 ticks en un día.\nEl valor de Vanilla es 120000 (2 días) a 360000 (6 días).</FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.186.caseTrue.3.text>
+  <!-- EN: Water Movement Tweaks -->
+  <FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.188.label>Ajustes de movimiento en el agua</FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.188.label>
+  <!-- EN: Allows you to customise the pathing cost of water and if the tiles are impassable. -->
+  <FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.190.text>Te permite personalizar el coste de ruta del agua y si las casillas son intransitables.</FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.190.text>
+  <!-- EN: Shallow Water Pathing Cost -->
+  <FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.192.caseTrue.1.label>Coste de ruta en agua poco profunda</FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.192.caseTrue.1.label>
+  <!-- EN: Shallow Water is Impassable -->
+  <FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.192.caseTrue.2.label>El agua poco profunda es intransitable</FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.192.caseTrue.2.label>
+  <!-- EN: Chest Deep Water Pathing Cost -->
+  <FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.192.caseTrue.3.label>Coste de ruta en agua a la altura del pecho</FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.192.caseTrue.3.label>
+  <!-- EN: Chest Deep Water is Impassable -->
+  <FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.192.caseTrue.4.label>El agua a la altura del pecho es intransitable</FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.192.caseTrue.4.label>
+  <!-- EN: Deep Water Pathing Cost -->
+  <FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.192.caseTrue.5.label>Coste de ruta en agua profunda</FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.192.caseTrue.5.label>
+  <!-- EN: Deep Water is Passable -->
+  <FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.192.caseTrue.6.label>El agua profunda es transitable</FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.192.caseTrue.6.label>
+  <!-- EN: Input a value to adjust the pathing cost of water tiles.  The pathing cost is irrelevant if the terrain is set to impassable.\nPathing cost is a bit odd so you'll have to experiment with numbers.  A cost of 4 gives 76% movement speed on a tile but 40 gives 25%.\nVanilla Values Shallow Water 30, Chest Deep Water 42, Deep Water 300. -->
+  <FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.192.caseTrue.7.text>Introduce un valor para ajustar el coste de ruta de las casillas de agua. El coste de ruta es irrelevante si el terreno está configurado como intransitable.\nEl coste de ruta es un poco extraño, así que tendrás que experimentar con los números. Un coste de 4 da un 76% de velocidad de movimiento en una casilla, pero 40 da un 25%.\nValores de Vanilla: Agua poco profunda 30, Agua a la altura del pecho 42, Agua profunda 300.</FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.192.caseTrue.7.text>
+  <!-- EN: Wear Masks With Hats -->
+  <FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.194.label>Usar máscaras con sombreros</FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.194.label>
+  <!-- EN: Changes all items with a label name containing the word mask to the layer EyeCover so they can be worn with hats. -->
+  <FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.196.text>Cambia todos los objetos con un nombre de etiqueta que contenga la palabra máscara a la capa EyeCover para que puedan usarse con sombreros.</FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.196.text>
+  <!-- EN: Younger People -->
+  <FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.199.label>Personas más jóvenes</FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.199.label>
+  <!-- EN: This is intended for games with a high ageing multiplier to ensure a steady supply of new marriage candidates.  While the settings are set to 18 to 25 the actual age of people should be between 13 and 25 with it tending toward the average.  The numbers can skew outside of that range when you include children and parent/child relationships.  After spawning people will age at your set multiplier so you should see older pawns as time goes on provided they don't die and the game doesn't purge them. -->
+  <FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.201.text>Esto está destinado a partidas con un multiplicador de envejecimiento alto para asegurar un suministro constante de nuevos candidatos para el matrimonio. Aunque los ajustes están establecidos de 18 a 25 años, la edad real de las personas debería estar entre 13 y 25 años, tendiendo hacia el promedio. Los números pueden desviarse fuera de ese rango cuando se incluyen niños y relaciones de padre/hijo. Después de aparecer, las personas envejecerán según el multiplicador establecido, por lo que deberías ver colonos mayores a medida que pasa el tiempo, siempre que no mueran y el juego no los purgue.</FrozenSnowFoxTweaksSettings.settings.5.settings.7.settings.201.text>
+  <!-- EN: Growable Ambrosia -->
+  <FrozenSnowFoxTweaksSettings.settings.5.settings.9.settings.1.label>Ambrosía cultivable</FrozenSnowFoxTweaksSettings.settings.5.settings.9.settings.1.label>
+  <!-- EN: Allows ambrosia to be researched and planted in growing zones. -->
+  <FrozenSnowFoxTweaksSettings.settings.5.settings.9.settings.3.text>Permite que la ambrosía sea investigada y plantada en zonas de cultivo.</FrozenSnowFoxTweaksSettings.settings.5.settings.9.settings.3.text>
+  <!-- EN: Growable Grass -->
+  <FrozenSnowFoxTweaksSettings.settings.5.settings.9.settings.6.label>Hierba cultivable</FrozenSnowFoxTweaksSettings.settings.5.settings.9.settings.6.label>
+  <!-- EN: Allows grass to be planted in growing zones. -->
+  <FrozenSnowFoxTweaksSettings.settings.5.settings.9.settings.8.text>Permite que la hierba sea plantada en zonas de cultivo.</FrozenSnowFoxTweaksSettings.settings.5.settings.9.settings.8.text>
+  <!-- EN: Growable Mushrooms -->
+  <FrozenSnowFoxTweaksSettings.settings.5.settings.9.settings.11.label>Hongos cultivables</FrozenSnowFoxTweaksSettings.settings.5.settings.9.settings.11.label>
+  <!-- EN: Changes Glowstool, Agarilux and Timbershroom to be plantable crops.  Glowstool and Agarilux have tweaked growth/yield so they are comparable to other crops. -->
+  <FrozenSnowFoxTweaksSettings.settings.5.settings.9.settings.13.text>Cambia Glowstool, Agarilux y Timbershroom para que sean cultivos plantables. Glowstool y Agarilux tienen el crecimiento/rendimiento ajustado para que sean comparables a otros cultivos.</FrozenSnowFoxTweaksSettings.settings.5.settings.9.settings.13.text>
+  <!-- EN: Growable Pasture Grass -->
+  <FrozenSnowFoxTweaksSettings.settings.5.settings.9.settings.16.label>Hierba de pasto cultivable</FrozenSnowFoxTweaksSettings.settings.5.settings.9.settings.16.label>
+  <!-- EN: Adds a new type of grass called Pasture Grass.  It's a species of grass designed for feeding grazing animals.  It lives for a long time and although it can be grown in low fertility soil it likes lushier soil. -->
+  <FrozenSnowFoxTweaksSettings.settings.5.settings.9.settings.18.text>Añade un nuevo tipo de hierba llamada Hierba de pasto. Es una especie de hierba diseñada para alimentar animales de pastoreo. Vive por mucho tiempo y, aunque puede cultivarse en suelos de baja fertilidad, prefiere suelos más exuberantes.</FrozenSnowFoxTweaksSettings.settings.5.settings.9.settings.18.text>
+  <!-- EN: Indoor Tree Farms -->
+  <FrozenSnowFoxTweaksSettings.settings.5.settings.9.settings.21.label>Granjas de árboles de interior</FrozenSnowFoxTweaksSettings.settings.5.settings.9.settings.21.label>
+  <!-- EN: Allows you to individually enable options that will allow plants to be plantable under roofs, allow adjacent sowing and allow planting regardless of biome.  These limitations ordinarily only appear on tree or tree like plants. -->
+  <FrozenSnowFoxTweaksSettings.settings.5.settings.9.settings.23.text>Te permite activar individualmente opciones que permitirán que las plantas se puedan plantar bajo techos, permitir la siembra adyacente y permitir la siembra independientemente del bioma. Estas limitaciones normalmente solo aparecen en árboles o plantas similares a árboles.</FrozenSnowFoxTweaksSettings.settings.5.settings.9.settings.23.text>
+  <!-- EN: Allow Adjacent Sowing on plants. -->
+  <FrozenSnowFoxTweaksSettings.settings.5.settings.9.settings.25.caseTrue.1.label>Permitir siembra adyacente en plantas.</FrozenSnowFoxTweaksSettings.settings.5.settings.9.settings.25.caseTrue.1.label>
+  <!-- EN: Allow plants to be planted under roofs. -->
+  <FrozenSnowFoxTweaksSettings.settings.5.settings.9.settings.25.caseTrue.2.label>Permitir que las plantas se planten bajo techos.</FrozenSnowFoxTweaksSettings.settings.5.settings.9.settings.25.caseTrue.2.label>
+  <!-- EN: Allow plants to be planted regardless of biome. -->
+  <FrozenSnowFoxTweaksSettings.settings.5.settings.9.settings.25.caseTrue.3.label>Permitir que las plantas se planten independientemente del bioma.</FrozenSnowFoxTweaksSettings.settings.5.settings.9.settings.25.caseTrue.3.label>
+  <!-- EN: Plants Give Hay -->
+  <FrozenSnowFoxTweaksSettings.settings.5.settings.9.settings.27.label>Las plantas dan heno</FrozenSnowFoxTweaksSettings.settings.5.settings.9.settings.27.label>
+  <!-- EN: Patches grass and grass like plants to give Hay when they are cut with harvest yields starting at 33% grown.  Normal grass plants gives 3 Hay when fully grown which is around 50% less efficient than Haygrass.  Tall Grass plants give 6 Hay when fully grown which is around 25% less efficient than Haygrass. -->
+  <FrozenSnowFoxTweaksSettings.settings.5.settings.9.settings.29.text>Parchea la hierba y las plantas similares a la hierba para que den heno cuando se cortan, con rendimientos de cosecha que comienzan al 33% de crecimiento. Las plantas de hierba normales dan 3 de heno cuando están completamente crecidas, lo que es aproximadamente un 50% menos eficiente que la hierba de heno. Las plantas de hierba alta dan 6 de heno cuando están completamente crecidas, lo que es aproximadamente un 25% menos eficiente que la hierba de heno.</FrozenSnowFoxTweaksSettings.settings.5.settings.9.settings.29.text>
+  <!-- EN: Tidy Crop Textures -->
+  <FrozenSnowFoxTweaksSettings.settings.5.settings.9.settings.32.label>Texturas de cultivos ordenadas</FrozenSnowFoxTweaksSettings.settings.5.settings.9.settings.32.label>
+  <!-- EN: Changes the texture drawing of crops like rice that have messy texture placement to be nice and uniform like corn. -->
+  <FrozenSnowFoxTweaksSettings.settings.5.settings.9.settings.34.text>Cambia el dibujo de la textura de cultivos como el arroz que tienen una colocación de textura desordenada para que sea agradable y uniforme como el maíz.</FrozenSnowFoxTweaksSettings.settings.5.settings.9.settings.34.text>
+  <!-- EN: No Starting Research -->
+  <FrozenSnowFoxTweaksSettings.settings.5.settings.11.label>Sin investigación inicial</FrozenSnowFoxTweaksSettings.settings.5.settings.11.label>
+  <!-- EN: Allows you to pick which starting Player Factions should start the game with no completed research projects. -->
+  <FrozenSnowFoxTweaksSettings.settings.5.settings.11.settings.1.text>Te permite elegir qué facciones de jugador iniciales deben comenzar el juego sin proyectos de investigación completados.</FrozenSnowFoxTweaksSettings.settings.5.settings.11.settings.1.text>
+  <!-- EN: All Factions -->
+  <FrozenSnowFoxTweaksSettings.settings.5.settings.11.settings.4.label>Todas las facciones</FrozenSnowFoxTweaksSettings.settings.5.settings.11.settings.4.label>
+  <!-- EN: Removes all starting research from every Player Faction.  This should work for all DLC and mods.  If this is enabled then none of the following settings should be enabled.\nNote: This does not remove any research added by starting Scenarios. -->
+  <FrozenSnowFoxTweaksSettings.settings.5.settings.11.settings.5.text>Elimina toda la investigación inicial de cada facción de jugador. Esto debería funcionar para todos los DLC y mods. Si esto está activado, ninguno de los siguientes ajustes debería estar activado.\nNota: Esto no elimina ninguna investigación añadida por los escenarios iniciales.</FrozenSnowFoxTweaksSettings.settings.5.settings.11.settings.5.text>
+  <!-- EN: Colony Faction -->
+  <FrozenSnowFoxTweaksSettings.settings.5.settings.11.settings.6.label>Facción de la colonia</FrozenSnowFoxTweaksSettings.settings.5.settings.11.settings.6.label>
+  <!-- EN: Removes all starting research from the Player Colony Faction called New Arrivals which is used for industrial starting scenarios like Crashlanded. -->
+  <FrozenSnowFoxTweaksSettings.settings.5.settings.11.settings.7.text>Elimina toda la investigación inicial de la facción de la colonia del jugador llamada Recién llegados, que se utiliza para escenarios iniciales industriales como Aterrizaje forzoso.</FrozenSnowFoxTweaksSettings.settings.5.settings.11.settings.7.text>
+  <!-- EN: Research Expedition -->
+  <FrozenSnowFoxTweaksSettings.settings.5.settings.11.settings.8.label>Expedición de investigación</FrozenSnowFoxTweaksSettings.settings.5.settings.11.settings.8.label>
+  <!-- EN: Removes all starting research from the Player Research Expedition Faction called Research Expedition which is used for industrial starting scenarios like The Anomaly. -->
+  <FrozenSnowFoxTweaksSettings.settings.5.settings.11.settings.9.text>Elimina toda la investigación inicial de la facción de expedición de investigación del jugador llamada Expedición de investigación, que se utiliza para escenarios iniciales industriales como La Anomalía.</FrozenSnowFoxTweaksSettings.settings.5.settings.11.settings.9.text>
+  <!-- EN: Tribal Faction -->
+  <FrozenSnowFoxTweaksSettings.settings.5.settings.11.settings.10.label>Facción tribal</FrozenSnowFoxTweaksSettings.settings.5.settings.11.settings.10.label>
+  <!-- EN: Removes all starting research from the Player Tribal Faction called New Tribe which is used for tribal starting scenarios like Lost Tribe. -->
+  <FrozenSnowFoxTweaksSettings.settings.5.settings.11.settings.11.text>Elimina toda la investigación inicial de la facción tribal del jugador llamada Nueva tribu, que se utiliza para escenarios iniciales tribales como Tribu perdida.</FrozenSnowFoxTweaksSettings.settings.5.settings.11.settings.11.text>
+  <!-- EN: Anomaly Tweaks -->
+  <FrozenSnowFoxTweaksSettings.settings.6.settings.0.label>Ajustes de Anomaly</FrozenSnowFoxTweaksSettings.settings.6.settings.0.label>
+  <!-- EN: Ghouls -->
+  <FrozenSnowFoxTweaksSettings.settings.6.settings.0.settings.1.label>Ajustes de caminantes</FrozenSnowFoxTweaksSettings.settings.6.settings.0.settings.1.label>
+  <!-- EN: Ghouls Can Use Any Ability -->
+  <FrozenSnowFoxTweaksSettings.settings.6.settings.0.settings.1.settings.1.label>Los caminantes pueden usar cualquier habilidad</FrozenSnowFoxTweaksSettings.settings.6.settings.0.settings.1.settings.1.label>
+  <!-- EN: Ghouls have a white list of abilities they are allowed to use.  Any ability not on this list will not appear on the ghoul as a UI button to activate.  This tweak removes the white list which results in the game allowing ghouls to use any ability they might have gained via genes, bionics or other methods. -->
+  <FrozenSnowFoxTweaksSettings.settings.6.settings.0.settings.1.settings.3.text>Los caminantes tienen una lista blanca de habilidades que se les permite usar. Cualquier habilidad que no esté en esta lista no aparecerá en el caminante como un botón de la interfaz para activar. Este retoque elimina la lista blanca, lo que permite que el juego deje a los caminantes usar cualquier habilidad que hayan obtenido mediante genes, biónicos u otros métodos.</FrozenSnowFoxTweaksSettings.settings.6.settings.0.settings.1.settings.3.text>
+  <!-- EN: Normal Ghoul Appearance -->
+  <FrozenSnowFoxTweaksSettings.settings.6.settings.0.settings.1.settings.6.label>Apariencia normal de caminante</FrozenSnowFoxTweaksSettings.settings.6.settings.0.settings.1.settings.6.label>
+  <!-- EN: Disables the custom body, head and hairstyles ghouls normally use.  This means pawns made into ghouls will retain their normal appearance but have the dead greenish skin look. -->
+  <FrozenSnowFoxTweaksSettings.settings.6.settings.0.settings.1.settings.8.text>Desactiva el cuerpo, la cabeza y los peinados personalizados que los caminantes usan normalmente. Esto significa que los colonos convertidos en caminantes conservarán su apariencia normal, pero tendrán el aspecto de piel verde y muerta.</FrozenSnowFoxTweaksSettings.settings.6.settings.0.settings.1.settings.8.text>
+  <!-- EN: No Psychic Ritual Cooldown -->
+  <FrozenSnowFoxTweaksSettings.settings.6.settings.0.settings.2.settings.1.label>Sin tiempo de reutilización de rituales psíquicos</FrozenSnowFoxTweaksSettings.settings.6.settings.0.settings.2.settings.1.label>
+  <!-- EN: Removes the cooldown of Psychic Rituals allowing you to perform them again immediately providing you have the time and resources. -->
+  <FrozenSnowFoxTweaksSettings.settings.6.settings.0.settings.2.settings.3.text>Elimina el tiempo de reutilización de los rituales psíquicos, permitiéndote realizarlos de nuevo inmediatamente siempre que tengas el tiempo y los recursos.</FrozenSnowFoxTweaksSettings.settings.6.settings.0.settings.2.settings.3.text>
+  <!-- EN: Lethal Shambler Infections -->
+  <FrozenSnowFoxTweaksSettings.settings.6.settings.0.settings.3.settings.1.label>Infecciones de caminantes letales</FrozenSnowFoxTweaksSettings.settings.6.settings.0.settings.3.settings.1.label>
+  <!-- EN: Changes Shambler infections from Alpha Genes, Ushankas Biological Warfare and Ushankas Necroa Archovirus to be lethal.  These infections can no longer be tended and the natural immunity gain is non-existent. -->
+  <FrozenSnowFoxTweaksSettings.settings.6.settings.0.settings.3.settings.3.text>Cambia las infecciones de caminantes de Alpha Genes, Ushankas Biological Warfare y Ushankas Necroa Archovirus para que sean letales. Estas infecciones ya no pueden atenderse y la ganancia de inmunidad natural no existe.</FrozenSnowFoxTweaksSettings.settings.6.settings.0.settings.3.settings.3.text>
+  <!-- EN: Permanent Shambler Infection -->
+  <FrozenSnowFoxTweaksSettings.settings.6.settings.0.settings.3.settings.5.label>Infección de caminante permanente</FrozenSnowFoxTweaksSettings.settings.6.settings.0.settings.3.settings.5.label>
+  <!-- EN: Adds a hidden hediff that can be applied in the Scenario Settings.  This hediff is a Shambler Infection that does not progress and cannot be cured.  This allows the pawn to immediately return as a shambler in the event of their death even if they weren't previously infected by a shambler. -->
+  <FrozenSnowFoxTweaksSettings.settings.6.settings.0.settings.3.settings.7.text>Añade un hediff oculto que puede aplicarse en los ajustes del escenario. Este hediff es una infección de caminante que no progresa y no puede curarse. Esto permite que el colono regrese inmediatamente como un caminante en caso de morir, incluso si no estaba infectado previamente por un caminante.</FrozenSnowFoxTweaksSettings.settings.6.settings.0.settings.3.settings.7.text>
+  <!-- EN: Shamblers Aggro Further -->
+  <FrozenSnowFoxTweaksSettings.settings.6.settings.0.settings.3.settings.9.label>Los caminantes se enfurecen a mayor distancia</FrozenSnowFoxTweaksSettings.settings.6.settings.0.settings.3.settings.9.label>
+  <!-- EN: Changes the Shambler Acquire Aggro Radius from 20 to 50 and the Keep Aggro Radius from 30 to 60.  This causes Shamblers to seek out targets much further than before. -->
+  <FrozenSnowFoxTweaksSettings.settings.6.settings.0.settings.3.settings.11.text>Cambia el radio de adquisición de agresión del caminante de 20 a 50 y el radio de mantener agresión de 30 a 60. Esto hace que los caminantes busquen objetivos mucho más lejos que antes.</FrozenSnowFoxTweaksSettings.settings.6.settings.0.settings.3.settings.11.text>
+  <!-- EN: Shamblers Wander Further -->
+  <FrozenSnowFoxTweaksSettings.settings.6.settings.0.settings.3.settings.13.label>Los caminantes deambulan más lejos</FrozenSnowFoxTweaksSettings.settings.6.settings.0.settings.3.settings.13.label>
+  <!-- EN: Changes the Shambler wander radius from 5 to the maximum 12.  This causes Shamblers to wander and spread out more instead of idling near the map edge. -->
+  <FrozenSnowFoxTweaksSettings.settings.6.settings.0.settings.3.settings.15.text>Cambia el radio de deambulación del caminante de 5 al máximo de 12. Esto hace que los caminantes deambulen y se dispersen más en lugar de quedarse inactivos cerca del borde del mapa.</FrozenSnowFoxTweaksSettings.settings.6.settings.0.settings.3.settings.15.text>
+  <!-- EN: Biotech Tweaks -->
+  <FrozenSnowFoxTweaksSettings.settings.7.settings.0.label>Ajustes de Biotech</FrozenSnowFoxTweaksSettings.settings.7.settings.0.label>
+  <!-- EN: Genetics -->
+  <FrozenSnowFoxTweaksSettings.settings.7.settings.0.settings.1.label>Xenotipos adicionales</FrozenSnowFoxTweaksSettings.settings.7.settings.0.settings.1.label>
+  <!-- EN: Additional Xenotypes -->
+  <FrozenSnowFoxTweaksSettings.settings.7.settings.0.settings.1.settings.1.label>Xenotipos adicionales</FrozenSnowFoxTweaksSettings.settings.7.settings.0.settings.1.settings.1.label>
+  <!-- EN: Adds a number of different Custom Xenotypes as Defs for better compatibility with mods.  Enabling this option alone does not toggle anything on, it only displays more options.  All Xenotypes are off by default and can be enabled individually. -->
+  <FrozenSnowFoxTweaksSettings.settings.7.settings.0.settings.1.settings.3.text>Añade una serie de xenotipos personalizados diferentes como Defs para una mejor compatibilidad con mods. Activar esta opción por sí sola no activa nada, solo muestra más opciones. Todos los xenotipos están desactivados por defecto y se pueden activar individualmente.</FrozenSnowFoxTweaksSettings.settings.7.settings.0.settings.1.settings.3.text>
+  <!-- EN: Venerated Xenotype -->
+  <FrozenSnowFoxTweaksSettings.settings.7.settings.0.settings.1.settings.5.caseTrue.0.label>Xenotipo venerado</FrozenSnowFoxTweaksSettings.settings.7.settings.0.settings.1.settings.5.caseTrue.0.label>
+  <!-- EN: Adds a dummy xenotype to the game meant to be used with the mod Venerated Xenotype Flexibility.  The xenotype itself does not appear in any faction and uses only a couple genes that will likely be used in any end game custom xenotype build.  As such, regardless of the game's theme the Venerated Xenotype should fit the end game custom xenotype when used alongside the Precept that requires specific genes but allows any additional genes.  The genes used are Archite Metabolism, Dark Vision, Quick Study and Xenogerm Reimplanter. -->
+  <FrozenSnowFoxTweaksSettings.settings.7.settings.0.settings.1.settings.5.caseTrue.2.text>Añade un xenotipo ficticio al juego destinado a ser utilizado con el mod Venerated Xenotype Flexibility. El xenotipo en sí no aparece en ninguna facción y utiliza solo un par de genes que probablemente se utilizarán en cualquier construcción de xenotipo personalizado del final del juego. Como tal, independientemente del tema del juego, el xenotipo venerado debería encajar con el xenotipo personalizado del final del juego cuando se usa junto con el precepto que requiere genes específicos pero permite cualquier gen adicional. Los genes utilizados son Metabolismo de arquita, Visión nocturna, Estudio rápido y Reimplantador de xenogermen.</FrozenSnowFoxTweaksSettings.settings.7.settings.0.settings.1.settings.5.caseTrue.2.text>
+  <!-- EN: Growth Vat No Default Settings -->
+  <FrozenSnowFoxTweaksSettings.settings.7.settings.0.settings.1.settings.7.label>Tanque de crecimiento sin ajustes predeterminados</FrozenSnowFoxTweaksSettings.settings.7.settings.0.settings.1.settings.7.label>
+  <!-- EN: When enabled Growth Vats will no longer have any default settings for nutrition.\nNote: This tweak is not needed if No Default Storage Settings is enabled but it will not cause issues if it is. -->
+  <FrozenSnowFoxTweaksSettings.settings.7.settings.0.settings.1.settings.9.text>Cuando está activado, los tanques de crecimiento ya no tendrán ajustes predeterminados para la nutrición.\nNota: Este retoque no es necesario si Sin ajustes de almacenamiento predeterminados está activado, pero no causará problemas si lo está.</FrozenSnowFoxTweaksSettings.settings.7.settings.0.settings.1.settings.9.text>
+  <!-- EN: Larger Gene Banks -->
+  <FrozenSnowFoxTweaksSettings.settings.7.settings.0.settings.1.settings.12.label>Bancos de genes más grandes</FrozenSnowFoxTweaksSettings.settings.7.settings.0.settings.1.settings.12.label>
+  <!-- EN: Allows you to customise the amount of Genepacks a Gene Bank can hold. -->
+  <FrozenSnowFoxTweaksSettings.settings.7.settings.0.settings.1.settings.14.text>Te permite personalizar la cantidad de paquetes de genes que puede contener un banco de genes.</FrozenSnowFoxTweaksSettings.settings.7.settings.0.settings.1.settings.14.text>
+  <!-- EN: Gene Bank Storage Limit -->
+  <FrozenSnowFoxTweaksSettings.settings.7.settings.0.settings.1.settings.16.caseTrue.1.label>Límite de almacenamiento del banco de genes</FrozenSnowFoxTweaksSettings.settings.7.settings.0.settings.1.settings.16.caseTrue.1.label>
+  <!-- EN: Input a value to adjust the capacity of Gene Banks.  The value is how many Genepacks can be stored per Gene Bank.\nThe Vanilla value Gene Bank 4 (Texture shows 8 slots), Gene Archive 24 (Texture shows 48 slots), Gene Register 80 (Texture shows 144 slots). -->
+  <FrozenSnowFoxTweaksSettings.settings.7.settings.0.settings.1.settings.16.caseTrue.2.text>Introduce un valor para ajustar la capacidad de los bancos de genes. El valor es cuántos paquetes de genes se pueden almacenar por banco de genes.\nEl valor de Vanilla Banco de genes 4 (la textura muestra 8 ranuras), Archivo de genes 24 (la textura muestra 48 ranuras), Registro de genes 80 (la textura muestra 144 ranuras).</FrozenSnowFoxTweaksSettings.settings.7.settings.0.settings.1.settings.16.caseTrue.2.text>
+  <!-- EN: More Genepacks On Traders -->
+  <FrozenSnowFoxTweaksSettings.settings.7.settings.0.settings.1.settings.18.label>Más paquetes de genes en comerciantes</FrozenSnowFoxTweaksSettings.settings.7.settings.0.settings.1.settings.18.label>
+  <!-- EN: Changes the traders stock for Genepacks and Archite Capsules to the input amount. -->
+  <FrozenSnowFoxTweaksSettings.settings.7.settings.0.settings.1.settings.20.text>Cambia el stock de los comerciantes para paquetes de genes y cápsulas de arquita a la cantidad introducida.</FrozenSnowFoxTweaksSettings.settings.7.settings.0.settings.1.settings.20.text>
+  <!-- EN: Genepack Amount Minimum Range -->
+  <FrozenSnowFoxTweaksSettings.settings.7.settings.0.settings.1.settings.22.caseTrue.1.label>Rango mínimo de cantidad de paquetes de genes</FrozenSnowFoxTweaksSettings.settings.7.settings.0.settings.1.settings.22.caseTrue.1.label>
+  <!-- EN: Genepack Amount Maximum Range -->
+  <FrozenSnowFoxTweaksSettings.settings.7.settings.0.settings.1.settings.22.caseTrue.2.label>Rango máximo de cantidad de paquetes de genes</FrozenSnowFoxTweaksSettings.settings.7.settings.0.settings.1.settings.22.caseTrue.2.label>
+  <!-- EN: Archite Capsule Minimum Range -->
+  <FrozenSnowFoxTweaksSettings.settings.7.settings.0.settings.1.settings.22.caseTrue.3.label>Rango mínimo de cápsulas de arquita</FrozenSnowFoxTweaksSettings.settings.7.settings.0.settings.1.settings.22.caseTrue.3.label>
+  <!-- EN: Archite Capsule Maximum Range -->
+  <FrozenSnowFoxTweaksSettings.settings.7.settings.0.settings.1.settings.22.caseTrue.4.label>Rango máximo de cápsulas de arquita</FrozenSnowFoxTweaksSettings.settings.7.settings.0.settings.1.settings.22.caseTrue.4.label>
+  <!-- EN: Changes the traders stock for Genepacks and Archite Capsules to the input amount.  Input values to adjust the minimum and maximum ranges for the above items.  You can set a minimum and maximum for the range.  The game will then use RNG to determine a number between those two numbers.\nDefault settings (5-6, 6-7). -->
+  <FrozenSnowFoxTweaksSettings.settings.7.settings.0.settings.1.settings.22.caseTrue.5.text>Cambia el stock de los comerciantes para paquetes de genes y cápsulas de arquita a la cantidad introducida. Introduce valores para ajustar los rangos mínimo y máximo para los objetos anteriores. Puedes establecer un mínimo y un máximo para el rango. El juego utilizará entonces el RNG para determinar un número entre esos dos números.\nAjustes por defecto (5-6, 6-7).</FrozenSnowFoxTweaksSettings.settings.7.settings.0.settings.1.settings.22.caseTrue.5.text>
+  <!-- EN: Xenogene Regrow Time -->
+  <FrozenSnowFoxTweaksSettings.settings.7.settings.0.settings.1.settings.24.label>Tiempo de regeneración de xenogenes</FrozenSnowFoxTweaksSettings.settings.7.settings.0.settings.1.settings.24.label>
+  <!-- EN: Allows you to adjust the time it takes for Xenogenes to regrow when using the Implant Genes ability from the Gene Implanter gene. -->
+  <FrozenSnowFoxTweaksSettings.settings.7.settings.0.settings.1.settings.26.text>Te permite ajustar el tiempo que tardan los xenogenes en regenerarse al usar la habilidad Implantar genes del gen Implantador de genes.</FrozenSnowFoxTweaksSettings.settings.7.settings.0.settings.1.settings.26.text>
+  <!-- EN: Xenogene Regrow Time Minimum Range -->
+  <FrozenSnowFoxTweaksSettings.settings.7.settings.0.settings.1.settings.28.caseTrue.1.label>Rango mínimo de tiempo de regeneración de xenogenes</FrozenSnowFoxTweaksSettings.settings.7.settings.0.settings.1.settings.28.caseTrue.1.label>
+  <!-- EN: Xenogene Regrow Time Maximum Range -->
+  <FrozenSnowFoxTweaksSettings.settings.7.settings.0.settings.1.settings.28.caseTrue.2.label>Rango máximo de tiempo de regeneración de xenogenes</FrozenSnowFoxTweaksSettings.settings.7.settings.0.settings.1.settings.28.caseTrue.2.label>
+  <!-- EN: Input a value to adjust the regrowth time of Xenogenes.  The value is written in what the game calls ticks.  There are 2500 ticks in one game hour and 60000 ticks in one game day.\nThe Vanilla value is 6000000 (100 days) to 8400000 (140 Days).\nSome values for easy input, (5 Days) 300000 ticks, (10 Days) 600000 ticks, (15 Days) 900000 ticks, (30 Days) 1800000 ticks, (45 Days) 2700000 ticks, (60 Days) 3600000 ticks. -->
+  <FrozenSnowFoxTweaksSettings.settings.7.settings.0.settings.1.settings.28.caseTrue.3.text>Introduce un valor para ajustar el tiempo de regeneración de los xenogenes. El valor se escribe en lo que el juego llama ticks. Hay 2500 ticks en una hora de juego y 60000 ticks en un día de juego.\nEl valor de Vanilla es de 6000000 (100 días) a 8400000 (140 días).\nAlgunos valores para una entrada fácil: (5 días) 300000 ticks, (10 días) 600000 ticks, (15 días) 900000 ticks, (30 días) 1800000 ticks, (45 días) 2700000 ticks, (60 días) 3600000 ticks.</FrozenSnowFoxTweaksSettings.settings.7.settings.0.settings.1.settings.28.caseTrue.3.text>
+  <!-- EN: Human Reproduction -->
+  <FrozenSnowFoxTweaksSettings.settings.7.settings.0.settings.2.label>Reproducción humana</FrozenSnowFoxTweaksSettings.settings.7.settings.0.settings.2.label>
+  <!-- EN: Lactating Doesn't Lower Fertility -->
+  <FrozenSnowFoxTweaksSettings.settings.7.settings.0.settings.2.settings.1.label>La lactancia no reduce la fertilidad</FrozenSnowFoxTweaksSettings.settings.7.settings.0.settings.2.settings.1.label>
+  <!-- EN: Removes the massive fertility reduction for people who are lactating. -->
+  <FrozenSnowFoxTweaksSettings.settings.7.settings.0.settings.2.settings.3.text>Elimina la reducción masiva de fertilidad para las personas que están lactando.</FrozenSnowFoxTweaksSettings.settings.7.settings.0.settings.2.settings.3.text>
+  <!-- EN: Primitive Fertility Procedures -->
+  <FrozenSnowFoxTweaksSettings.settings.7.settings.0.settings.2.settings.5.label>Procedimientos de fertilidad primitivos</FrozenSnowFoxTweaksSettings.settings.7.settings.0.settings.2.settings.5.label>
+  <!-- EN: Adds a new research project for the Neolithic era which provides surgery recipes that use medicine for boosting/inhibiting fertility, inducing/stopping lactation and sterilizing pawns.  Locks the sterilize animal and terminate pregnancy surgery recipes to this research.  Also makes this research a requirement for the Fertility Procedures research but lowers the research cost to compensate. -->
+  <FrozenSnowFoxTweaksSettings.settings.7.settings.0.settings.2.settings.7.text>Añade un nuevo proyecto de investigación para la era neolítica que proporciona recetas de cirugía que usan medicina para aumentar/inhibir la fertilidad, inducir/detener la lactancia y esterilizar colonos. Bloquea las recetas de cirugía de esterilizar animales e interrumpir el embarazo a esta investigación. También hace que esta investigación sea un requisito para la investigación de Procedimientos de fertilidad, pero reduce el coste de investigación para compensar.</FrozenSnowFoxTweaksSettings.settings.7.settings.0.settings.2.settings.7.text>
+  <!-- EN: Human Reproduction Settings -->
+  <FrozenSnowFoxTweaksSettings.settings.7.settings.0.settings.2.settings.9.label>Ajustes de reproducción humana</FrozenSnowFoxTweaksSettings.settings.7.settings.0.settings.2.settings.9.label>
+  <!-- EN: Provides a suite of options to adjust how fertility, lactation and pregnancy functions. -->
+  <FrozenSnowFoxTweaksSettings.settings.7.settings.0.settings.2.settings.11.text>Proporciona un conjunto de opciones para ajustar cómo funcionan la fertilidad, la lactancia y el embarazo.</FrozenSnowFoxTweaksSettings.settings.7.settings.0.settings.2.settings.11.text>
+  <!-- EN: Lactation Duration -->
+  <FrozenSnowFoxTweaksSettings.settings.7.settings.0.settings.2.settings.13.caseTrue.0.text>Duración de la lactancia</FrozenSnowFoxTweaksSettings.settings.7.settings.0.settings.2.settings.13.caseTrue.0.text>
+  <!-- EN: Lactation Duration In Days -->
+  <FrozenSnowFoxTweaksSettings.settings.7.settings.0.settings.2.settings.13.caseTrue.2.label>Duración de la lactancia en días</FrozenSnowFoxTweaksSettings.settings.7.settings.0.settings.2.settings.13.caseTrue.2.label>
+  <!-- EN: Input a value to set the duration of Lactating.\nThe Vanilla value is 10 days. -->
+  <FrozenSnowFoxTweaksSettings.settings.7.settings.0.settings.2.settings.13.caseTrue.3.text>Introduce un valor para establecer la duración de la lactancia.\nEl valor de Vanilla es 10 días.</FrozenSnowFoxTweaksSettings.settings.7.settings.0.settings.2.settings.13.caseTrue.3.text>
+  <!-- EN: Lactation Recharge Speed -->
+  <FrozenSnowFoxTweaksSettings.settings.7.settings.0.settings.2.settings.13.caseTrue.5.text>Velocidad de recarga de lactancia</FrozenSnowFoxTweaksSettings.settings.7.settings.0.settings.2.settings.13.caseTrue.5.text>
+  <!-- EN: Lactation Recharge Speed in Ticks -->
+  <FrozenSnowFoxTweaksSettings.settings.7.settings.0.settings.2.settings.13.caseTrue.7.label>Velocidad de recarga de lactancia en ticks</FrozenSnowFoxTweaksSettings.settings.7.settings.0.settings.2.settings.13.caseTrue.7.label>
+  <!-- EN: Input a value to set how long it takes a person's breasts to reach a full state.  Ticks are a game term for time.  There are 2500 ticks in one game hour and 60000 ticks in one game day.\nThe Vanilla value is 15000 ticks, a total of 6 hours, it's commented as 2 hours to feed a child and 4 hours to recharge. -->
+  <FrozenSnowFoxTweaksSettings.settings.7.settings.0.settings.2.settings.13.caseTrue.8.text>Introduce un valor para establecer cuánto tardan los pechos de una persona en alcanzar un estado completo. Ticks es un término del juego para el tiempo. Hay 2500 ticks en una hora de juego y 60000 ticks en un día de juego.\nEl valor de Vanilla es 15000 ticks, un total de 6 horas; se comenta como 2 horas para alimentar a un niño y 4 horas para recargar.</FrozenSnowFoxTweaksSettings.settings.7.settings.0.settings.2.settings.13.caseTrue.8.text>
+  <!-- EN: Warning: Changing this value changes the required food intake of the lactating pawn.  Making it very low will cause the pawn to require a massive amount of food. -->
+  <FrozenSnowFoxTweaksSettings.settings.7.settings.0.settings.2.settings.13.caseTrue.11.text>Advertencia: Cambiar este valor cambia la ingesta de alimentos requerida del colono lactante. Hacerlo muy bajo hará que el colono requiera una cantidad masiva de comida.</FrozenSnowFoxTweaksSettings.settings.7.settings.0.settings.2.settings.13.caseTrue.11.text>
+  <!-- EN: Ovum Extracted Duration -->
+  <FrozenSnowFoxTweaksSettings.settings.7.settings.0.settings.2.settings.13.caseTrue.13.text>Duración de óvulo extraído</FrozenSnowFoxTweaksSettings.settings.7.settings.0.settings.2.settings.13.caseTrue.13.text>
+  <!-- EN: Ovum Extracted Duration in Ticks -->
+  <FrozenSnowFoxTweaksSettings.settings.7.settings.0.settings.2.settings.13.caseTrue.15.label>Duración de óvulo extraído en ticks</FrozenSnowFoxTweaksSettings.settings.7.settings.0.settings.2.settings.13.caseTrue.15.label>
+  <!-- EN: Input a value to set how long it takes a woman's ovum to regenerate.  Ticks are a game term for time.  There are 2500 ticks in one game hour and 60000 ticks in one game day.\nThe Vanilla value is 600000 ticks (10 Days). -->
+  <FrozenSnowFoxTweaksSettings.settings.7.settings.0.settings.2.settings.13.caseTrue.16.text>Introduce un valor para establecer cuánto tarda en regenerarse el óvulo de una mujer. Ticks es un término del juego para el tiempo. Hay 2500 ticks en una hora de juego y 60000 ticks en un día de juego.\nEl valor de Vanilla es 600000 ticks (10 días).</FrozenSnowFoxTweaksSettings.settings.7.settings.0.settings.2.settings.13.caseTrue.16.text>
+  <!-- EN: Human Pregnancy Duration -->
+  <FrozenSnowFoxTweaksSettings.settings.7.settings.0.settings.2.settings.13.caseTrue.18.text>Duración del embarazo humano</FrozenSnowFoxTweaksSettings.settings.7.settings.0.settings.2.settings.13.caseTrue.18.text>
+  <!-- EN: Pregnancy Duration In Days -->
+  <FrozenSnowFoxTweaksSettings.settings.7.settings.0.settings.2.settings.13.caseTrue.20.label>Duración del embarazo en días</FrozenSnowFoxTweaksSettings.settings.7.settings.0.settings.2.settings.13.caseTrue.20.label>
+  <!-- EN: Input a value to set the duration of Human Pregnancies.\nThe Vanilla value is 18 days. -->
+  <FrozenSnowFoxTweaksSettings.settings.7.settings.0.settings.2.settings.13.caseTrue.21.text>Introduce un valor para establecer la duración de los embarazos humanos.\nEl valor de Vanilla es 18 días.</FrozenSnowFoxTweaksSettings.settings.7.settings.0.settings.2.settings.13.caseTrue.21.text>
+  <!-- EN: Human Postpartum Exhaustion Duration -->
+  <FrozenSnowFoxTweaksSettings.settings.7.settings.0.settings.2.settings.13.caseTrue.23.text>Duración del agotamiento posparto humano</FrozenSnowFoxTweaksSettings.settings.7.settings.0.settings.2.settings.13.caseTrue.23.text>
+  <!-- EN: Postpartum Duration In Ticks -->
+  <FrozenSnowFoxTweaksSettings.settings.7.settings.0.settings.2.settings.13.caseTrue.25.label>Duración del posparto en ticks</FrozenSnowFoxTweaksSettings.settings.7.settings.0.settings.2.settings.13.caseTrue.25.label>
+  <!-- EN: Input a value to set the duration of Human Postpartum Exhaustion.  Ticks are a game term for time.  There are 2500 ticks in one game hour and 60000 ticks in one game day.\nThe Vanilla value is 40000 ticks (16 hours). -->
+  <FrozenSnowFoxTweaksSettings.settings.7.settings.0.settings.2.settings.13.caseTrue.26.text>Introduce un valor para establecer la duración del agotamiento posparto humano. Ticks es un término del juego para el tiempo. Hay 2500 ticks en una hora de juego y 60000 ticks en un día de juego.\nEl valor de Vanilla es 40000 ticks (16 horas).</FrozenSnowFoxTweaksSettings.settings.7.settings.0.settings.2.settings.13.caseTrue.26.text>
+  <!-- EN: VRE Phytokin Sapling Fatigue Duration -->
+  <FrozenSnowFoxTweaksSettings.settings.7.settings.0.settings.2.settings.13.caseTrue.28.text>Duración de la fatiga de retoño de VRE Phytokin</FrozenSnowFoxTweaksSettings.settings.7.settings.0.settings.2.settings.13.caseTrue.28.text>
+  <!-- EN: Sapling Fatigue Duration In Days -->
+  <FrozenSnowFoxTweaksSettings.settings.7.settings.0.settings.2.settings.13.caseTrue.30.label>Duración de la fatiga de retoño en días</FrozenSnowFoxTweaksSettings.settings.7.settings.0.settings.2.settings.13.caseTrue.30.label>
+  <!-- EN: Input a value to set the duration for VRE Phytokin Sapling Fatigue.\nThe Vanilla value is 18 days. -->
+  <FrozenSnowFoxTweaksSettings.settings.7.settings.0.settings.2.settings.13.caseTrue.31.text>Introduce un valor para establecer la duración de la fatiga de retoño de VRE Phytokin.\nEl valor de Vanilla es 18 días.</FrozenSnowFoxTweaksSettings.settings.7.settings.0.settings.2.settings.13.caseTrue.31.text>
+  <!-- EN: VRE Saurid Oviparous Egg Days To Hatch -->
+  <FrozenSnowFoxTweaksSettings.settings.7.settings.0.settings.2.settings.13.caseTrue.33.text>Días para eclosionar huevo ovíparo de VRE Saurid</FrozenSnowFoxTweaksSettings.settings.7.settings.0.settings.2.settings.13.caseTrue.33.text>
+  <!-- EN: Oviparous Egg Days To Hatch -->
+  <FrozenSnowFoxTweaksSettings.settings.7.settings.0.settings.2.settings.13.caseTrue.35.label>Días para eclosionar huevo ovíparo</FrozenSnowFoxTweaksSettings.settings.7.settings.0.settings.2.settings.13.caseTrue.35.label>
+  <!-- EN: Input a value to set how long it takes for VRE Saurid Human Eggs to hatch.\nThe Vanilla value is 18 days. -->
+  <FrozenSnowFoxTweaksSettings.settings.7.settings.0.settings.2.settings.13.caseTrue.36.text>Introduce un valor para establecer cuánto tardan en eclosionar los huevos humanos de VRE Saurid.\nEl valor de Vanilla es 18 días.</FrozenSnowFoxTweaksSettings.settings.7.settings.0.settings.2.settings.13.caseTrue.36.text>
+  <!-- EN: VRE Saurid Oviparous Egg Fatigue Duration -->
+  <FrozenSnowFoxTweaksSettings.settings.7.settings.0.settings.2.settings.13.caseTrue.38.text>Duración de la fatiga de huevo ovíparo de VRE Saurid</FrozenSnowFoxTweaksSettings.settings.7.settings.0.settings.2.settings.13.caseTrue.38.text>
+  <!-- EN: Oviparous Egg Fatigue Duration In Days -->
+  <FrozenSnowFoxTweaksSettings.settings.7.settings.0.settings.2.settings.13.caseTrue.40.label>Duración de la fatiga de huevo ovíparo en días</FrozenSnowFoxTweaksSettings.settings.7.settings.0.settings.2.settings.13.caseTrue.40.label>
+  <!-- EN: Input a value to set the duration for VRE Saurid Egg Fatigue.\nThe Vanilla value is 18 days. -->
+  <FrozenSnowFoxTweaksSettings.settings.7.settings.0.settings.2.settings.13.caseTrue.41.text>Introduce un valor para establecer la duración de la fatiga de huevo de VRE Saurid.\nEl valor de Vanilla es 18 días.</FrozenSnowFoxTweaksSettings.settings.7.settings.0.settings.2.settings.13.caseTrue.41.text>
+  <!-- EN: Mechanoids and Mechanitors -->
+  <FrozenSnowFoxTweaksSettings.settings.7.settings.0.settings.3.label>Mecanoides y Mecanitores</FrozenSnowFoxTweaksSettings.settings.7.settings.0.settings.3.label>
+  <!-- EN: Wastepack Generation and Management -->
+  <FrozenSnowFoxTweaksSettings.settings.7.settings.0.settings.3.settings.1.label>Generación y gestión de paquetes de residuos</FrozenSnowFoxTweaksSettings.settings.7.settings.0.settings.3.settings.1.label>
+  <!-- EN: Allows you to customise various aspects relating to wastepack generation and management. -->
+  <FrozenSnowFoxTweaksSettings.settings.7.settings.0.settings.3.settings.3.text>Te permite personalizar varios aspectos relacionados con la generación y gestión de paquetes de residuos.</FrozenSnowFoxTweaksSettings.settings.7.settings.0.settings.3.settings.3.text>
+  <!-- EN: Mechanoid Wastepacks Per Recharge -->
+  <FrozenSnowFoxTweaksSettings.settings.7.settings.0.settings.3.settings.5.caseTrue.1.label>Paquetes de residuos de mecanoides por recarga</FrozenSnowFoxTweaksSettings.settings.7.settings.0.settings.3.settings.5.caseTrue.1.label>
+  <!-- EN: Input a value to adjust the amount of Wastepacks mechanoids generate per recharge.  The value itself is multiplied by the mechanoids bandwidth consumption.\nThe Vanilla value is 5. -->
+  <FrozenSnowFoxTweaksSettings.settings.7.settings.0.settings.3.settings.5.caseTrue.2.text>Introduce un valor para ajustar la cantidad de paquetes de residuos que generan los mecanoides por recarga. El valor en sí se multiplica por el consumo de ancho de banda de los mecanoides.\nEl valor de Vanilla es 5.</FrozenSnowFoxTweaksSettings.settings.7.settings.0.settings.3.settings.5.caseTrue.2.text>
+  <!-- EN: Wastepack Atomizer Power Consumption -->
+  <FrozenSnowFoxTweaksSettings.settings.7.settings.0.settings.3.settings.5.caseTrue.3.label>Consumo de energía del atomizador de paquetes de residuos</FrozenSnowFoxTweaksSettings.settings.7.settings.0.settings.3.settings.5.caseTrue.3.label>
+  <!-- EN: Wastepack Atomizer Wastepack Stack Limit -->
+  <FrozenSnowFoxTweaksSettings.settings.7.settings.0.settings.3.settings.5.caseTrue.4.label>Límite de apilamiento de paquetes de residuos del atomizador</FrozenSnowFoxTweaksSettings.settings.7.settings.0.settings.3.settings.5.caseTrue.4.label>
+  <!-- EN: Wastepack Atomizer Ticks Required to Destroy a Wastepack -->
+  <FrozenSnowFoxTweaksSettings.settings.7.settings.0.settings.3.settings.5.caseTrue.5.label>Ticks requeridos por el atomizador para destruir un paquete de residuos</FrozenSnowFoxTweaksSettings.settings.7.settings.0.settings.3.settings.5.caseTrue.5.label>
+  <!-- EN: Input values to adjust statistics of the WastePack Atomizer.  Ticks are a game term for time.  There are 2500 ticks in one game hour and 60000 ticks in one game day.\nVanilla Values 400, 10, 30000. -->
+  <FrozenSnowFoxTweaksSettings.settings.7.settings.0.settings.3.settings.5.caseTrue.6.text>Introduce valores para ajustar las estadísticas del atomizador de paquetes de residuos. Ticks es un término del juego para el tiempo. Hay 2500 ticks en una hora de juego y 60000 ticks en un día de juego.\nValores de Vanilla 400, 10, 30000.</FrozenSnowFoxTweaksSettings.settings.7.settings.0.settings.3.settings.5.caseTrue.6.text>
+  <!-- EN: Coagulate Can Target Self -->
+  <FrozenSnowFoxTweaksSettings.settings.7.settings.0.settings.4.settings.1.label>Coagular puede apuntar a uno mismo</FrozenSnowFoxTweaksSettings.settings.7.settings.0.settings.4.settings.1.label>
+  <!-- EN: Allows the Sanguophages to target themselves with the Coagulate power. -->
+  <FrozenSnowFoxTweaksSettings.settings.7.settings.0.settings.4.settings.3.text>Permite a los sangrófagos apuntarse a sí mismos con el poder Coagular.</FrozenSnowFoxTweaksSettings.settings.7.settings.0.settings.4.settings.3.text>
+  <!-- EN: Hemogen For Food -->
+  <FrozenSnowFoxTweaksSettings.settings.7.settings.0.settings.4.settings.6.label>Hemógeno como alimento</FrozenSnowFoxTweaksSettings.settings.7.settings.0.settings.4.settings.6.label>
+  <!-- EN: Changes the preferability on Hemogen Packs so pawns will prioritise them as meals.  Also changes the nutrition they provide to match meals. -->
+  <FrozenSnowFoxTweaksSettings.settings.7.settings.0.settings.4.settings.8.text>Cambia la preferencia de los paquetes de hemógeno para que los colonos los prioricen como comidas. También cambia la nutrición que proporcionan para que coincida con las comidas.</FrozenSnowFoxTweaksSettings.settings.7.settings.0.settings.4.settings.8.text>
+  <!-- EN: Immortal Mechanoid Chips -->
+  <FrozenSnowFoxTweaksSettings.settings.7.settings.0.settings.4.settings.11.label>Chips de mecanoides inmortales</FrozenSnowFoxTweaksSettings.settings.7.settings.0.settings.4.settings.11.label>
+  <!-- EN: Makes the special mechanoid chips immortal, they have no health, can't catch fire, deteriorate from weather or be damaged from combat. -->
+  <FrozenSnowFoxTweaksSettings.settings.7.settings.0.settings.4.settings.13.text>Hace que los chips de mecanoides especiales sean inmortales, no tienen salud, no pueden incendiarse, deteriorarse por el clima ni dañarse en combate.</FrozenSnowFoxTweaksSettings.settings.7.settings.0.settings.4.settings.13.text>
+  <!-- EN: Killed A Child Malus -->
+  <FrozenSnowFoxTweaksSettings.settings.7.settings.0.settings.4.settings.16.label>Penalización por matar a un niño</FrozenSnowFoxTweaksSettings.settings.7.settings.0.settings.4.settings.16.label>
+  <!-- EN: Changes the negative social opinion modifier to 0 for when someone kills a child.  Also changes the Killed Child mood debuff to use DeathMemory as a ParentDef which some mods use to alter how pawns see death.\nNote: The social opinion change also unfortunately affects killing colony children.  There is a flag so it only affects colonists however this does not seem to function on this thought for some reason. -->
+  <FrozenSnowFoxTweaksSettings.settings.7.settings.0.settings.4.settings.18.text>Cambia el modificador negativo de opinión social a 0 para cuando alguien mata a un niño. También cambia el estado de ánimo negativo de Niño asesinado para usar DeathMemory como ParentDef, que algunos mods usan para alterar cómo los colonos ven la muerte.\nNota: El cambio de opinión social también afecta desafortunadamente al asesinato de niños de la colonia. Hay una bandera para que solo afecte a los colonos, sin embargo, esto no parece funcionar en este pensamiento por alguna razón.</FrozenSnowFoxTweaksSettings.settings.7.settings.0.settings.4.settings.18.text>
+  <!-- EN: Love Is Blind -->
+  <FrozenSnowFoxTweaksSettings.settings.7.settings.0.settings.4.settings.21.label>El amor es ciego</FrozenSnowFoxTweaksSettings.settings.7.settings.0.settings.4.settings.21.label>
+  <!-- EN: Removes the romance chance reduction from genes allowing pawns to fall in love with whoever they like. -->
+  <FrozenSnowFoxTweaksSettings.settings.7.settings.0.settings.4.settings.23.text>Elimina la reducción de probabilidad de romance de los genes, permitiendo que los colonos se enamoren de quien quieran.</FrozenSnowFoxTweaksSettings.settings.7.settings.0.settings.4.settings.23.text>
+  <!-- EN: More Children Clothing -->
+  <FrozenSnowFoxTweaksSettings.settings.7.settings.0.settings.4.settings.26.label>Más ropa para niños</FrozenSnowFoxTweaksSettings.settings.7.settings.0.settings.4.settings.26.label>
+  <!-- EN: Changes numerous clothing items so they can be worn by children.  This may include hats, gloves, boots and utility items.\nNote: Some Utility items may look overly large or not sit right.  Fixing this would require adding new child variants of the items so I opted for including them vs not including them. -->
+  <FrozenSnowFoxTweaksSettings.settings.7.settings.0.settings.4.settings.28.text>Cambia numerosas prendas de ropa para que puedan ser usadas por niños. Esto puede incluir sombreros, guantes, botas y objetos de utilidad.\nNota: Algunos objetos de utilidad pueden parecer demasiado grandes o no ajustarse bien. Arreglar esto requeriría añadir nuevas variantes infantiles de los objetos, así que opté por incluirlos en lugar de no hacerlo.</FrozenSnowFoxTweaksSettings.settings.7.settings.0.settings.4.settings.28.text>
+  <!-- EN: More Polux Seeds On Traders -->
+  <FrozenSnowFoxTweaksSettings.settings.7.settings.0.settings.4.settings.31.label>Más semillas de Polux en comerciantes</FrozenSnowFoxTweaksSettings.settings.7.settings.0.settings.4.settings.31.label>
+  <!-- EN: Causes exotic traders and empire traders to stock extra Polux Seeds. -->
+  <FrozenSnowFoxTweaksSettings.settings.7.settings.0.settings.4.settings.33.text>Hace que los comerciantes exóticos y los comerciantes del imperio tengan existencias adicionales de semillas de Polux.</FrozenSnowFoxTweaksSettings.settings.7.settings.0.settings.4.settings.33.text>
+  <!-- EN: Polux Seed Amount Minimum Range -->
+  <FrozenSnowFoxTweaksSettings.settings.7.settings.0.settings.4.settings.35.caseTrue.1.label>Rango mínimo de cantidad de semillas de Polux</FrozenSnowFoxTweaksSettings.settings.7.settings.0.settings.4.settings.35.caseTrue.1.label>
+  <!-- EN: Polux Seed Amount Maximum Range -->
+  <FrozenSnowFoxTweaksSettings.settings.7.settings.0.settings.4.settings.35.caseTrue.2.label>Rango máximo de cantidad de semillas de Polux</FrozenSnowFoxTweaksSettings.settings.7.settings.0.settings.4.settings.35.caseTrue.2.label>
+  <!-- EN: Causes exotic traders and empire traders to stock extra Polux Seeds.  Input values to adjust the minimum and maximum ranges for the above items.  You can set a minimum and maximum for the range.  The game will then use RNG to determine a number between those two numbers.\nDefault settings (0-1). -->
+  <FrozenSnowFoxTweaksSettings.settings.7.settings.0.settings.4.settings.35.caseTrue.3.text>Hace que los comerciantes exóticos y los comerciantes del imperio tengan existencias adicionales de semillas de Polux. Introduce valores para ajustar los rangos mínimo y máximo para los objetos anteriores. Puedes establecer un mínimo y un máximo para el rango. El juego utilizará entonces el RNG para determinar un número entre esos dos números.\nAjustes por defecto (0-1).</FrozenSnowFoxTweaksSettings.settings.7.settings.0.settings.4.settings.35.caseTrue.3.text>
+  <!-- EN: Pollution Pumps -->
+  <FrozenSnowFoxTweaksSettings.settings.7.settings.0.settings.4.settings.37.label>Bombas de polución</FrozenSnowFoxTweaksSettings.settings.7.settings.0.settings.4.settings.37.label>
+  <!-- EN: Allows you to customise the statistics of Pollution Pumps. -->
+  <FrozenSnowFoxTweaksSettings.settings.7.settings.0.settings.4.settings.39.text>Te permite personalizar las estadísticas de las bombas de polución.</FrozenSnowFoxTweaksSettings.settings.7.settings.0.settings.4.settings.39.text>
+  <!-- EN: Power Usage -->
+  <FrozenSnowFoxTweaksSettings.settings.7.settings.0.settings.4.settings.41.caseTrue.1.label>Uso de energía</FrozenSnowFoxTweaksSettings.settings.7.settings.0.settings.4.settings.41.caseTrue.1.label>
+  <!-- EN: Tiles Per Wastepack -->
+  <FrozenSnowFoxTweaksSettings.settings.7.settings.0.settings.4.settings.41.caseTrue.3.label>Casillas por paquete de residuos</FrozenSnowFoxTweaksSettings.settings.7.settings.0.settings.4.settings.41.caseTrue.3.label>
+  <!-- EN: Ticks Per Interval -->
+  <FrozenSnowFoxTweaksSettings.settings.7.settings.0.settings.4.settings.41.caseTrue.4.label>Ticks por intervalo</FrozenSnowFoxTweaksSettings.settings.7.settings.0.settings.4.settings.41.caseTrue.4.label>
+  <!-- EN: Input values to adjust the various statistics of Pollution Pumps.  The Interval value is written in ticks.\nTicks are a game term for time.  There are 2500 ticks in one game hour and 60000 ticks in one game day.\nVanilla Values 200, 10, 6, 15000.  Based on these numbers the pump can cover 372 tiles, it cleans 1 tile every 6 hours which takes 93 days and produces 62 Wastepacks. -->
+  <FrozenSnowFoxTweaksSettings.settings.7.settings.0.settings.4.settings.41.caseTrue.5.text>Introduce valores para ajustar las diversas estadísticas de las bombas de polución. El valor de Intervalo se escribe en ticks.\nTicks es un término del juego para el tiempo. Hay 2500 ticks en una hora de juego y 60000 ticks en un día de juego.\nValores de Vanilla 200, 10, 6, 15000. Basado en estos números, la bomba puede cubrir 372 casillas, limpia 1 casilla cada 6 horas, lo que lleva 93 días y produce 62 paquetes de residuos.</FrozenSnowFoxTweaksSettings.settings.7.settings.0.settings.4.settings.41.caseTrue.5.text>
+  <!-- EN: Ideology Tweaks -->
+  <FrozenSnowFoxTweaksSettings.settings.8.settings.0.label>Ajustes de Ideology</FrozenSnowFoxTweaksSettings.settings.8.settings.0.label>
+  <!-- EN: Archonexus Radius -->
+  <FrozenSnowFoxTweaksSettings.settings.8.settings.0.settings.1.settings.1.label>Radio del Arconexo</FrozenSnowFoxTweaksSettings.settings.8.settings.0.settings.1.settings.1.label>
+  <!-- EN: Scales down the radius of the Archonexus's effects on the initial structures so it expands only slightly out from the towers.  This allows you to safely build and plant around the Archonexus while still allowing it to produce its effects.  The number and density of anima grass has also been doubled. -->
+  <FrozenSnowFoxTweaksSettings.settings.8.settings.0.settings.1.settings.3.text>Reduce el radio de los efectos del Arconexo en las estructuras iniciales para que se expanda solo ligeramente desde las torres. Esto te permite construir y plantar de forma segura alrededor del Arconexo mientras permites que produzca sus efectos. El número y la densidad de la hierba ánima también se han duplicado.</FrozenSnowFoxTweaksSettings.settings.8.settings.0.settings.1.settings.3.text>
+  <!-- EN: Better Mining Worksite Resources -->
+  <FrozenSnowFoxTweaksSettings.settings.8.settings.0.settings.1.settings.6.label>Mejores recursos de centros de trabajo de minería</FrozenSnowFoxTweaksSettings.settings.8.settings.0.settings.1.settings.6.label>
+  <!-- EN: Changes Mining Worksites so they can spawn with extra resource types like Jade, Plasteel and Uranium.  The weighting odds are balanced around the Deep Drill commonality. -->
+  <FrozenSnowFoxTweaksSettings.settings.8.settings.0.settings.1.settings.8.text>Cambia los centros de trabajo de minería para que puedan aparecer con tipos de recursos adicionales como jade, plastiacero y uranio. Las probabilidades de ponderación están equilibradas en torno a la frecuencia del taladro profundo.</FrozenSnowFoxTweaksSettings.settings.8.settings.0.settings.1.settings.8.text>
+  <!-- EN: Biosculpter Pod No Default Settings -->
+  <FrozenSnowFoxTweaksSettings.settings.8.settings.0.settings.1.settings.11.label>Cápsula de bioescultura sin ajustes predeterminados</FrozenSnowFoxTweaksSettings.settings.8.settings.0.settings.1.settings.11.label>
+  <!-- EN: When enabled Biosculpter Pods will no longer have any default settings for nutrition.\nNote: This tweak is not needed if No Default Storage Settings is enabled but it will not cause issues if it is. -->
+  <FrozenSnowFoxTweaksSettings.settings.8.settings.0.settings.1.settings.13.text>Cuando está activado, las cápsulas de bioescultura ya no tendrán ningún ajuste predeterminado para la nutrición.\nNota: Este retoque no es necesario si Sin ajustes de almacenamiento predeterminados está activado, pero no causará problemas si lo está.</FrozenSnowFoxTweaksSettings.settings.8.settings.0.settings.1.settings.13.text>
+  <!-- EN: Biosculpter Pod Restore All Body Parts -->
+  <FrozenSnowFoxTweaksSettings.settings.8.settings.0.settings.1.settings.16.label>Cápsula de bioescultura restaura todas las partes del cuerpo</FrozenSnowFoxTweaksSettings.settings.8.settings.0.settings.1.settings.16.label>
+  <!-- EN: When enabled the Biosculpter Pods Bioregeneration cycle will restore all body parts.  This includes all organs, bones and limbs.  It can also cure the Organ Decay disease. -->
+  <FrozenSnowFoxTweaksSettings.settings.8.settings.0.settings.1.settings.18.text>Cuando está activado, el ciclo de biorregeneración de las cápsulas de bioescultura restaurará todas las partes del cuerpo. Esto incluye todos los órganos, huesos y extremidades. También puede curar la enfermedad de Decaimiento de órganos.</FrozenSnowFoxTweaksSettings.settings.8.settings.0.settings.1.settings.18.text>
+  <!-- EN: Conversion Ritual Effectiveness -->
+  <FrozenSnowFoxTweaksSettings.settings.8.settings.0.settings.1.settings.21.label>Efectividad del ritual de conversión</FrozenSnowFoxTweaksSettings.settings.8.settings.0.settings.1.settings.21.label>
+  <!-- EN: Allows you to customise the cooldown, chance and certainly gain/loss when performing conversion rituals. -->
+  <FrozenSnowFoxTweaksSettings.settings.8.settings.0.settings.1.settings.23.text>Te permite personalizar el tiempo de reutilización, la probabilidad y la ganancia/pérdida de certeza al realizar rituales de conversión.</FrozenSnowFoxTweaksSettings.settings.8.settings.0.settings.1.settings.23.text>
+  <!-- EN: Ticks to Cooldown (2500 is one hour, 60000 is one day) -->
+  <FrozenSnowFoxTweaksSettings.settings.8.settings.0.settings.1.settings.25.caseTrue.1.label>Ticks para el tiempo de reutilización (2500 es una hora, 60000 es un día)</FrozenSnowFoxTweaksSettings.settings.8.settings.0.settings.1.settings.25.caseTrue.1.label>
+  <!-- EN: Terrible Quality Chance {FSFConversionRETerribleChance} -->
+  <FrozenSnowFoxTweaksSettings.settings.8.settings.0.settings.1.settings.25.caseTrue.2.label>Probabilidad de calidad terrible {FSFConversionRETerribleChance}</FrozenSnowFoxTweaksSettings.settings.8.settings.0.settings.1.settings.25.caseTrue.2.label>
+  <!-- EN: Terrible Quality Certainly Gain {FSFConversionRETerribleCertainty} -->
+  <FrozenSnowFoxTweaksSettings.settings.8.settings.0.settings.1.settings.25.caseTrue.5.label>Ganancia de certeza de calidad terrible {FSFConversionRETerribleCertainty}</FrozenSnowFoxTweaksSettings.settings.8.settings.0.settings.1.settings.25.caseTrue.5.label>
+  <!-- EN: Ineffective Quality Chance {FSFConversionREIneffectiveChance} -->
+  <FrozenSnowFoxTweaksSettings.settings.8.settings.0.settings.1.settings.25.caseTrue.8.label>Probabilidad de calidad ineficaz {FSFConversionREIneffectiveChance}</FrozenSnowFoxTweaksSettings.settings.8.settings.0.settings.1.settings.25.caseTrue.8.label>
+  <!-- EN: Ineffective Quality Certainly Gain {FSFConversionREIneffectiveCertainty} -->
+  <FrozenSnowFoxTweaksSettings.settings.8.settings.0.settings.1.settings.25.caseTrue.11.label>Ganancia de certeza de calidad ineficaz {FSFConversionREIneffectiveCertainty}</FrozenSnowFoxTweaksSettings.settings.8.settings.0.settings.1.settings.25.caseTrue.11.label>
+  <!-- EN: Effective Quality Chance {FSFConversionREEffectiveChance} -->
+  <FrozenSnowFoxTweaksSettings.settings.8.settings.0.settings.1.settings.25.caseTrue.14.label>Probabilidad de calidad eficaz {FSFConversionREEffectiveChance}</FrozenSnowFoxTweaksSettings.settings.8.settings.0.settings.1.settings.25.caseTrue.14.label>
+  <!-- EN: Effective Quality Certainly Gain -{FSFConversionREEffectiveCertainty} -->
+  <FrozenSnowFoxTweaksSettings.settings.8.settings.0.settings.1.settings.25.caseTrue.17.label>Ganancia de certeza de calidad eficaz -{FSFConversionREEffectiveCertainty}</FrozenSnowFoxTweaksSettings.settings.8.settings.0.settings.1.settings.25.caseTrue.17.label>
+  <!-- EN: Masterful Quality Chance {FSFConversionREMasterfulChance} -->
+  <FrozenSnowFoxTweaksSettings.settings.8.settings.0.settings.1.settings.25.caseTrue.20.label>Probabilidad de calidad magistral {FSFConversionREMasterfulChance}</FrozenSnowFoxTweaksSettings.settings.8.settings.0.settings.1.settings.25.caseTrue.20.label>
+  <!-- EN: Masterful Quality Certainly Gain -{FSFConversionREMasterfulCertainty} -->
+  <FrozenSnowFoxTweaksSettings.settings.8.settings.0.settings.1.settings.25.caseTrue.23.label>Ganancia de certeza de calidad magistral -{FSFConversionREMasterfulCertainty}</FrozenSnowFoxTweaksSettings.settings.8.settings.0.settings.1.settings.25.caseTrue.23.label>
+  <!-- EN: Input values to adjust the resulting Conversion Ritual Effectiveness's chance and certainty for each ritual quality.  Terrible and Ineffective are always negative and Effective and Masterful are always positive.  If you change the ritual chances ensure the four ritual quality chances add up to 100% otherwise there may be issues.\nVanilla Settings (Terrible 0.05, 0.20, Ineffective 0.15, 0.12, Effective 0.60, -0.30, Masterful 0.20, -1.00). -->
+  <FrozenSnowFoxTweaksSettings.settings.8.settings.0.settings.1.settings.25.caseTrue.26.text>Introduce valores para ajustar la probabilidad y la certeza de la efectividad resultante del ritual de conversión para cada calidad de ritual. Terrible e Ineficaz son siempre negativos y Eficaz y Magistral son siempre positivos. Si cambias las probabilidades del ritual, asegúrate de que las cuatro probabilidades de calidad sumen 100%, de lo contrario puede haber problemas.\nAjustes de Vanilla (Terrible 0.05, 0.20, Ineficaz 0.15, 0.12, Eficaz 0.60, -0.30, Magistral 0.20, -1.00).</FrozenSnowFoxTweaksSettings.settings.8.settings.0.settings.1.settings.25.caseTrue.26.text>
+  <!-- EN: More Ideology Colours -->
+  <FrozenSnowFoxTweaksSettings.settings.8.settings.0.settings.1.settings.27.label>Más colores de ideología</FrozenSnowFoxTweaksSettings.settings.8.settings.0.settings.1.settings.27.label>
+  <!-- EN: Adds a collection of colours usable for Ideologies and Clothing. -->
+  <FrozenSnowFoxTweaksSettings.settings.8.settings.0.settings.1.settings.29.text>Añade una colección de colores utilizables para ideologías y ropa.</FrozenSnowFoxTweaksSettings.settings.8.settings.0.settings.1.settings.29.text>
+  <!-- EN: Neural Supercharger Cooldown -->
+  <FrozenSnowFoxTweaksSettings.settings.8.settings.0.settings.1.settings.32.label>Tiempo de reutilización del supercargador neural</FrozenSnowFoxTweaksSettings.settings.8.settings.0.settings.1.settings.32.label>
+  <!-- EN: Allows you to customise the cooldown of the Neural Supercharger. -->
+  <FrozenSnowFoxTweaksSettings.settings.8.settings.0.settings.1.settings.34.text>Te permite personalizar el tiempo de reutilización del supercargador neural.</FrozenSnowFoxTweaksSettings.settings.8.settings.0.settings.1.settings.34.text>
+  <!-- EN: Ticks to Recharge -->
+  <FrozenSnowFoxTweaksSettings.settings.8.settings.0.settings.1.settings.36.caseTrue.1.label>Ticks para recargar</FrozenSnowFoxTweaksSettings.settings.8.settings.0.settings.1.settings.36.caseTrue.1.label>
+  <!-- EN: Input a value to adjust the cooldown of the Neural Supercharger.  The value is written in what the game calls ticks.  There are 2500 ticks in one game hour.\nThe Vanilla value is 60000 (1 day), set to 0 to remove the cooldown completely. -->
+  <FrozenSnowFoxTweaksSettings.settings.8.settings.0.settings.1.settings.36.caseTrue.2.text>Introduce un valor para ajustar el tiempo de reutilización del supercargador neural. El valor se escribe en lo que el juego llama ticks. Hay 2500 ticks en una hora de juego.\nEl valor de Vanilla es 60000 (1 día), establécelo en 0 para eliminar el tiempo de reutilización por completo.</FrozenSnowFoxTweaksSettings.settings.8.settings.0.settings.1.settings.36.caseTrue.2.text>
+  <!-- EN: No Age Restriction For Ideologies -->
+  <FrozenSnowFoxTweaksSettings.settings.8.settings.0.settings.1.settings.38.label>Sin restricción de edad para ideologías</FrozenSnowFoxTweaksSettings.settings.8.settings.0.settings.1.settings.38.label>
+  <!-- EN: Changes the restrictions on Ideology roles, rituals and abilities to allow children.  In other words they can do everything adults can do when it comes to Ideology interactions. -->
+  <FrozenSnowFoxTweaksSettings.settings.8.settings.0.settings.1.settings.40.text>Cambia las restricciones en los roles, rituales y habilidades de la ideología para permitir niños. En otras palabras, pueden hacer todo lo que los adultos pueden hacer en lo que respecta a las interacciones de ideología.</FrozenSnowFoxTweaksSettings.settings.8.settings.0.settings.1.settings.40.text>
+  <!-- EN: Precepts and Memes -->
+  <FrozenSnowFoxTweaksSettings.settings.8.settings.0.settings.3.label>Preceptos y Memes</FrozenSnowFoxTweaksSettings.settings.8.settings.0.settings.3.label>
+  <!-- EN: Embodied Theist Number Of Deities -->
+  <FrozenSnowFoxTweaksSettings.settings.8.settings.0.settings.3.settings.1.label>Número de deidades teístas encarnadas</FrozenSnowFoxTweaksSettings.settings.8.settings.0.settings.3.settings.1.label>
+  <!-- EN: Changes the minimum and maximum amount of Deities allowed from 2-4 to 1-10. -->
+  <FrozenSnowFoxTweaksSettings.settings.8.settings.0.settings.3.settings.3.text>Cambia la cantidad mínima y máxima de deidades permitidas de 2-4 a 1-10.</FrozenSnowFoxTweaksSettings.settings.8.settings.0.settings.3.settings.3.text>
+  <!-- EN: Pain Idealized Pain Threshold -->
+  <FrozenSnowFoxTweaksSettings.settings.8.settings.0.settings.3.settings.6.label>Umbral de dolor de dolor idealizado</FrozenSnowFoxTweaksSettings.settings.8.settings.0.settings.3.settings.6.label>
+  <!-- EN: Adds a buff to the Pain Idealized precept that increases the pain shock threshold. -->
+  <FrozenSnowFoxTweaksSettings.settings.8.settings.0.settings.3.settings.8.text>Añade una bonificación al precepto de Dolor idealizado que aumenta el umbral de choque por dolor.</FrozenSnowFoxTweaksSettings.settings.8.settings.0.settings.3.settings.8.text>
+  <!-- EN: Raider No Work Speed Malus -->
+  <FrozenSnowFoxTweaksSettings.settings.8.settings.0.settings.3.settings.11.label>Asaltante sin penalización de velocidad de trabajo</FrozenSnowFoxTweaksSettings.settings.8.settings.0.settings.3.settings.11.label>
+  <!-- EN: Removes the work speed penalty from the Raiding precepts. -->
+  <FrozenSnowFoxTweaksSettings.settings.8.settings.0.settings.3.settings.13.text>Elimina la penalización de velocidad de trabajo de los preceptos de asalto.</FrozenSnowFoxTweaksSettings.settings.8.settings.0.settings.3.settings.13.text>
+  <!-- EN: Ranching No Plant Malus -->
+  <FrozenSnowFoxTweaksSettings.settings.8.settings.0.settings.3.settings.16.label>Ganadería sin penalización de plantas</FrozenSnowFoxTweaksSettings.settings.8.settings.0.settings.3.settings.16.label>
+  <!-- EN: Removes the dislike of plants from the Ranching precept. -->
+  <FrozenSnowFoxTweaksSettings.settings.8.settings.0.settings.3.settings.18.text>Elimina el desagrado por las plantas del precepto de Ganadería.</FrozenSnowFoxTweaksSettings.settings.8.settings.0.settings.3.settings.18.text>
+  <!-- EN: All Roles Are Capable -->
+  <FrozenSnowFoxTweaksSettings.settings.8.settings.0.settings.5.settings.1.label>Todos los roles son capaces</FrozenSnowFoxTweaksSettings.settings.8.settings.0.settings.5.settings.1.label>
+  <!-- EN: Removes all the disabled worktypes from all ideoligion roles. -->
+  <FrozenSnowFoxTweaksSettings.settings.8.settings.0.settings.5.settings.3.text>Elimina todos los tipos de trabajo desactivados de todos los roles de ideoligión.</FrozenSnowFoxTweaksSettings.settings.8.settings.0.settings.5.settings.3.text>
+  <!-- EN: Artists Are Production Specialists -->
+  <FrozenSnowFoxTweaksSettings.settings.8.settings.0.settings.5.settings.6.label>Los artistas son especialistas en producción</FrozenSnowFoxTweaksSettings.settings.8.settings.0.settings.5.settings.6.label>
+  <!-- EN: Changes the Production Specialist role to include Artistic as a viable skill. -->
+  <FrozenSnowFoxTweaksSettings.settings.8.settings.0.settings.5.settings.8.text>Cambia el rol de Especialista en producción para incluir Arte como una habilidad viable.</FrozenSnowFoxTweaksSettings.settings.8.settings.0.settings.5.settings.8.text>
+  <!-- EN: Berserk Trance No Mental Break -->
+  <FrozenSnowFoxTweaksSettings.settings.8.settings.0.settings.5.settings.11.label>Trance berserker sin colapso mental</FrozenSnowFoxTweaksSettings.settings.8.settings.0.settings.5.settings.11.label>
+  <!-- EN: Removes the mental break from the berserk trance.  This allows you to continue controlling your pawn while the ability is active. -->
+  <FrozenSnowFoxTweaksSettings.settings.8.settings.0.settings.5.settings.13.text>Elimina el colapso mental del trance berserker. Esto te permite seguir controlando a tu colono mientras la habilidad está activa.</FrozenSnowFoxTweaksSettings.settings.8.settings.0.settings.5.settings.13.text>
+  <!-- EN: People Required For Roles -->
+  <FrozenSnowFoxTweaksSettings.settings.8.settings.0.settings.5.settings.16.label>Personas requeridas para los roles</FrozenSnowFoxTweaksSettings.settings.8.settings.0.settings.5.settings.16.label>
+  <!-- EN: Allows you to change the required amount of people for ideology roles to unlock from the 3 to whatever number you want. -->
+  <FrozenSnowFoxTweaksSettings.settings.8.settings.0.settings.5.settings.18.text>Te permite cambiar la cantidad requerida de personas para que los roles de ideología se desbloqueen de 3 a cualquier número que desees.</FrozenSnowFoxTweaksSettings.settings.8.settings.0.settings.5.settings.18.text>
+  <!-- EN: People required for roles to activate -->
+  <FrozenSnowFoxTweaksSettings.settings.8.settings.0.settings.5.settings.20.caseTrue.1.label>Personas requeridas para que los roles se activen</FrozenSnowFoxTweaksSettings.settings.8.settings.0.settings.5.settings.20.caseTrue.1.label>
+  <!-- EN: Input a value to adjust the number of people required to activate ideology roles.\nThe Vanilla value is 3 and the minimum is 2 due to there being a minimum of 2 roles for ideologies the leader and moral guide. -->
+  <FrozenSnowFoxTweaksSettings.settings.8.settings.0.settings.5.settings.20.caseTrue.2.text>Introduce un valor para ajustar el número de personas requeridas para activar los roles de ideología.\nEl valor de Vanilla es 3 y el mínimo es 2 debido a que hay un mínimo de 2 roles para las ideologías: el líder y el guía moral.</FrozenSnowFoxTweaksSettings.settings.8.settings.0.settings.5.settings.20.caseTrue.2.text>
+  <!-- EN: Roles Don't Require Memes -->
+  <FrozenSnowFoxTweaksSettings.settings.8.settings.0.settings.5.settings.22.label>Los roles no requieren memes</FrozenSnowFoxTweaksSettings.settings.8.settings.0.settings.5.settings.22.label>
+  <!-- EN: Removes the requirement of Memes from Roles and their associated Abilities. -->
+  <FrozenSnowFoxTweaksSettings.settings.8.settings.0.settings.5.settings.24.text>Elimina el requisito de memes de los roles y sus habilidades asociadas.</FrozenSnowFoxTweaksSettings.settings.8.settings.0.settings.5.settings.24.text>
+  <!-- EN: Warning: Removing the Meme lock will cause all Ideoligions to spawn with every role initially. -->
+  <FrozenSnowFoxTweaksSettings.settings.8.settings.0.settings.5.settings.27.text>Advertencia: Eliminar el bloqueo de memes hará que todas las ideoligiones aparezcan con cada rol inicialmente.</FrozenSnowFoxTweaksSettings.settings.8.settings.0.settings.5.settings.27.text>
+  <!-- EN: Royalty Tweaks -->
+  <FrozenSnowFoxTweaksSettings.settings.9.settings.0.label>Ajustes de Royalty</FrozenSnowFoxTweaksSettings.settings.9.settings.0.label>
+  <!-- EN: Better Pawn Lending Quest -->
+  <FrozenSnowFoxTweaksSettings.settings.9.settings.0.settings.1.label>Mejor misión de préstamo de colonos</FrozenSnowFoxTweaksSettings.settings.9.settings.0.settings.1.label>
+  <!-- EN: Changes the Pawn Lending Quest to provide a much larger reward per colonist by smoothing the point curve, making the curve scale up to 10,000 points and adding a multiplier to the formula.  The multiplier itself can be customised. -->
+  <FrozenSnowFoxTweaksSettings.settings.9.settings.0.settings.3.text>Cambia la misión de préstamo de colonos para proporcionar una recompensa mucho mayor por colono suavizando la curva de puntos, haciendo que la curva escale hasta 10,000 puntos y añadiendo un multiplicador a la fórmula. El multiplicador en sí puede ser personalizado.</FrozenSnowFoxTweaksSettings.settings.9.settings.0.settings.3.text>
+  <!-- EN: Quest Reward Multiplier -->
+  <FrozenSnowFoxTweaksSettings.settings.9.settings.0.settings.5.caseTrue.1.label>Multiplicador de recompensa de misión</FrozenSnowFoxTweaksSettings.settings.9.settings.0.settings.5.caseTrue.1.label>
+  <!-- EN: Changes the Pawn Lending Quest to provide a much larger reward per colonist by smoothing the point curve, making the curve scale up to 10,000 points and adding a multiplier to the formula.  The multiplier itself can be customised.\nDefault setting (5) -->
+  <FrozenSnowFoxTweaksSettings.settings.9.settings.0.settings.5.caseTrue.2.text>Cambia la misión de préstamo de colonos para proporcionar una recompensa mucho mayor por colono suavizando la curva de puntos, haciendo que la curva escale hasta 10,000 puntos y añadiendo un multiplicador a la fórmula. El multiplicador en sí puede ser personalizado.\nAjuste por defecto (5)</FrozenSnowFoxTweaksSettings.settings.9.settings.0.settings.5.caseTrue.2.text>
+  <!-- EN: Buyable Psylink Neuroformers -->
+  <FrozenSnowFoxTweaksSettings.settings.9.settings.0.settings.7.label>Neuroformadores de psienlace comprables</FrozenSnowFoxTweaksSettings.settings.9.settings.0.settings.7.label>
+  <!-- EN: Makes Psylink Neuroformers buyable.  Also adds a stock of Psylink Neuroformers to traders based on an input amount and selected factions. -->
+  <FrozenSnowFoxTweaksSettings.settings.9.settings.0.settings.9.text>Hace que los neuroformadores de psienlace sean comprables. También añade un stock de neuroformadores de psienlace a los comerciantes basado en una cantidad de entrada y facciones seleccionadas.</FrozenSnowFoxTweaksSettings.settings.9.settings.0.settings.9.text>
+  <!-- EN: Which factions should sell Psylink Neuroformers? -->
+  <FrozenSnowFoxTweaksSettings.settings.9.settings.0.settings.11.caseTrue.0.text>¿Qué facciones deberían vender neuroformadores de psienlace?</FrozenSnowFoxTweaksSettings.settings.9.settings.0.settings.11.caseTrue.0.text>
+  <!-- EN: Only the Empire -->
+  <FrozenSnowFoxTweaksSettings.settings.9.settings.0.settings.11.caseTrue.2.buttons.0.label>Solo el Imperio</FrozenSnowFoxTweaksSettings.settings.9.settings.0.settings.11.caseTrue.2.buttons.0.label>
+  <!-- EN: All High Tech Factions -->
+  <FrozenSnowFoxTweaksSettings.settings.9.settings.0.settings.11.caseTrue.2.buttons.1.label>Todas las facciones de alta tecnología</FrozenSnowFoxTweaksSettings.settings.9.settings.0.settings.11.caseTrue.2.buttons.1.label>
+  <!-- EN: Psylink Neuroformer Amount Minimum Range -->
+  <FrozenSnowFoxTweaksSettings.settings.9.settings.0.settings.11.caseTrue.3.label>Rango mínimo de cantidad de neuroformadores de psienlace</FrozenSnowFoxTweaksSettings.settings.9.settings.0.settings.11.caseTrue.3.label>
+  <!-- EN: Psylink Neuroformer Amount Maximum Range -->
+  <FrozenSnowFoxTweaksSettings.settings.9.settings.0.settings.11.caseTrue.4.label>Rango máximo de cantidad de neuroformadores de psienlace</FrozenSnowFoxTweaksSettings.settings.9.settings.0.settings.11.caseTrue.4.label>
+  <!-- EN: Input values to adjust the minimum and maximum ranges for the above items.  You can set a minimum and maximum for the range.  The game will then use RNG to determine a number between those two numbers.\nDefault settings (1-2) -->
+  <FrozenSnowFoxTweaksSettings.settings.9.settings.0.settings.11.caseTrue.5.text>Introduce valores para ajustar los rangos mínimo y máximo para los objetos anteriores. Puedes establecer un mínimo y un máximo para el rango. El juego utilizará entonces el RNG para determinar un número entre esos dos números.\nAjustes por defecto (1-2)</FrozenSnowFoxTweaksSettings.settings.9.settings.0.settings.11.caseTrue.5.text>
+  <!-- EN: Buyable Psytrainers -->
+  <FrozenSnowFoxTweaksSettings.settings.9.settings.0.settings.13.label>Psientrenadores comprables</FrozenSnowFoxTweaksSettings.settings.9.settings.0.settings.13.label>
+  <!-- EN: Adds a stock of Psytrainers to traders based on an input amount and selected factions.\nNote: By default Psytrainers appear in small numbers on some traders.  This behaviour is unchanged. -->
+  <FrozenSnowFoxTweaksSettings.settings.9.settings.0.settings.15.text>Añade un stock de psientrenadores a los comerciantes basado en una cantidad de entrada y facciones seleccionadas.\nNota: Por defecto, los psientrenadores aparecen en pequeñas cantidades en algunos comerciantes. Este comportamiento no cambia.</FrozenSnowFoxTweaksSettings.settings.9.settings.0.settings.15.text>
+  <!-- EN: Which factions should sell Psytrainers? -->
+  <FrozenSnowFoxTweaksSettings.settings.9.settings.0.settings.17.caseTrue.0.text>¿Qué facciones deberían vender psientrenadores?</FrozenSnowFoxTweaksSettings.settings.9.settings.0.settings.17.caseTrue.0.text>
+  <!-- EN: Only the Empire -->
+  <FrozenSnowFoxTweaksSettings.settings.9.settings.0.settings.17.caseTrue.2.buttons.0.label>Solo el Imperio</FrozenSnowFoxTweaksSettings.settings.9.settings.0.settings.17.caseTrue.2.buttons.0.label>
+  <!-- EN: All High Tech Factions -->
+  <FrozenSnowFoxTweaksSettings.settings.9.settings.0.settings.17.caseTrue.2.buttons.1.label>Todas las facciones de alta tecnología</FrozenSnowFoxTweaksSettings.settings.9.settings.0.settings.17.caseTrue.2.buttons.1.label>
+  <!-- EN: Psytrainer Types Minimum Range -->
+  <FrozenSnowFoxTweaksSettings.settings.9.settings.0.settings.17.caseTrue.3.label>Rango mínimo de tipos de psientrenadores</FrozenSnowFoxTweaksSettings.settings.9.settings.0.settings.17.caseTrue.3.label>
+  <!-- EN: Psytrainer Types Maximum Range -->
+  <FrozenSnowFoxTweaksSettings.settings.9.settings.0.settings.17.caseTrue.4.label>Rango máximo de tipos de psientrenadores</FrozenSnowFoxTweaksSettings.settings.9.settings.0.settings.17.caseTrue.4.label>
+  <!-- EN: Psytrainer Amount Per Type Minimum Range -->
+  <FrozenSnowFoxTweaksSettings.settings.9.settings.0.settings.17.caseTrue.5.label>Rango mínimo de cantidad por tipo de psientrenador</FrozenSnowFoxTweaksSettings.settings.9.settings.0.settings.17.caseTrue.5.label>
+  <!-- EN: Psytrainer Amount Per Type Maximum Range -->
+  <FrozenSnowFoxTweaksSettings.settings.9.settings.0.settings.17.caseTrue.6.label>Rango máximo de cantidad por tipo de psientrenador</FrozenSnowFoxTweaksSettings.settings.9.settings.0.settings.17.caseTrue.6.label>
+  <!-- EN: Input values to adjust the minimum and maximum ranges for the above items.  You can set a minimum and maximum for the range.  The game will then use RNG to determine a number between those two numbers.\nDefault settings (9-10, 1-2) -->
+  <FrozenSnowFoxTweaksSettings.settings.9.settings.0.settings.17.caseTrue.7.text>Introduce valores para ajustar los rangos mínimo y máximo para los objetos anteriores. Puedes establecer un mínimo y un máximo para el rango. El juego utilizará entonces el RNG para determinar un número entre esos dos números.\nAjustes por defecto (9-10, 1-2)</FrozenSnowFoxTweaksSettings.settings.9.settings.0.settings.17.caseTrue.7.text>
+  <!-- EN: Gunlinks Give Mortar Accuracy -->
+  <FrozenSnowFoxTweaksSettings.settings.9.settings.0.settings.19.label>Los enlaces de armas dan precisión de mortero</FrozenSnowFoxTweaksSettings.settings.9.settings.0.settings.19.label>
+  <!-- EN: Changes Gunlinks so they also give a bonus to mortar accuracy. -->
+  <FrozenSnowFoxTweaksSettings.settings.9.settings.0.settings.21.text>Cambia los enlaces de armas (Gunlinks) para que también den una bonificación a la precisión del mortero.</FrozenSnowFoxTweaksSettings.settings.9.settings.0.settings.21.text>
+  <!-- EN: Meditation Freedom -->
+  <FrozenSnowFoxTweaksSettings.settings.9.settings.0.settings.24.label>Libertad de meditación</FrozenSnowFoxTweaksSettings.settings.9.settings.0.settings.24.label>
+  <!-- EN: Provides a suite of changes to allow you to set up meditation areas for your psycasters however you please without nerfing their psyfocus gain. -->
+  <FrozenSnowFoxTweaksSettings.settings.9.settings.0.settings.26.text>Proporciona un conjunto de cambios para permitirte configurar áreas de meditación para tus psíquicos como desees sin perjudicar su ganancia de psicofoco.</FrozenSnowFoxTweaksSettings.settings.9.settings.0.settings.26.text>
+  <!-- EN: List of active changes.\n- Meditation Focus item is available in Architect Menu.\n- Anima Grass lifespan has been greatly extended to prevent premature death.\n- Negative Artificial Building Radius is disabled on all things.\n- Anima Trees can now be moved and planted.\n- Anima Trees can be planted adjacent to trees and can be planted under roofs.\n- Nature Shrines can be built without a Nature Psycaster. -->
+  <FrozenSnowFoxTweaksSettings.settings.9.settings.0.settings.28.caseTrue.1.text>Lista de cambios activos.\n- El objeto Foco de meditación está disponible en el menú de arquitecto.\n- La vida útil de la hierba ánima se ha extendido enormemente para evitar la muerte prematura.\n- El radio negativo de edificios artificiales está desactivado en todas las cosas.\n- Los árboles ánima ahora se pueden mover y plantar.\n- Los árboles ánima se pueden plantar adyacentes a otros árboles y bajo techos.\n- Los santuarios naturales se pueden construir sin un psíquico natural.</FrozenSnowFoxTweaksSettings.settings.9.settings.0.settings.28.caseTrue.1.text>
+  <!-- EN: Remove Backstory Requirement for Natural Meditation -->
+  <FrozenSnowFoxTweaksSettings.settings.9.settings.0.settings.28.caseTrue.2.label>Eliminar requisito de trasfondo para meditación natural</FrozenSnowFoxTweaksSettings.settings.9.settings.0.settings.28.caseTrue.2.label>
+  <!-- EN: Meditation Focus Strength {FSFMeditationFreedomFocusStr} -->
+  <FrozenSnowFoxTweaksSettings.settings.9.settings.0.settings.28.caseTrue.5.label>Fuerza del foco de meditación {FSFMeditationFreedomFocusStr}</FrozenSnowFoxTweaksSettings.settings.9.settings.0.settings.28.caseTrue.5.label>
+  <!-- EN: The Meditation Focus is an item that can be freely placed anywhere and allows pawns to meditate with any type of meditation.  This allows you to set up a optimal meditation area however and wherever you like.  The strength of the Meditation Focus can be adjusted via the slider above.  The number listed is the speed at which a pawn gains psyfocus from meditating at the Meditation Focus.  The default is 0.40, the Anima Tree with all bonuses provides 0.36, a Grand Throne with all bonuses provides 0.33. -->
+  <FrozenSnowFoxTweaksSettings.settings.9.settings.0.settings.28.caseTrue.8.text>El Foco de meditación es un objeto que se puede colocar libremente en cualquier lugar y permite a los colonos meditar con cualquier tipo de meditación. Esto te permite configurar un área de meditación óptima como y donde quieras. La fuerza del Foco de meditación se puede ajustar mediante el deslizador de arriba. El número indicado es la velocidad a la que un colono gana psicofoco al meditar en el Foco de meditación. El valor por defecto es 0.40, el árbol ánima con todas las bonificaciones proporciona 0.36, un gran trono con todas las bonificaciones proporciona 0.33.</FrozenSnowFoxTweaksSettings.settings.9.settings.0.settings.28.caseTrue.8.text>
+  <!-- EN: Anima Tree Focus Strength {FSFMeditationFreedomAnimaTreeStr} -->
+  <FrozenSnowFoxTweaksSettings.settings.9.settings.0.settings.28.caseTrue.11.label>Fuerza del foco del árbol ánima {FSFMeditationFreedomAnimaTreeStr}</FrozenSnowFoxTweaksSettings.settings.9.settings.0.settings.28.caseTrue.11.label>
+  <!-- EN: The meditation strength of the Anima Tree can be adjusted via the slider above.  The number listed is the base speed at which a pawn gains psyfocus from meditating at the Anima Tree.  The default base speed is 0.28 which excludes attachement bonuses. -->
+  <FrozenSnowFoxTweaksSettings.settings.9.settings.0.settings.28.caseTrue.14.text>La fuerza de meditación del árbol ánima se puede ajustar mediante el deslizador de arriba. El número indicado es la velocidad base a la que un colono gana psicofoco al meditar en el árbol ánima. La velocidad base por defecto es 0.28, lo que excluye las bonificaciones por accesorios.</FrozenSnowFoxTweaksSettings.settings.9.settings.0.settings.28.caseTrue.14.text>
+  <!-- EN: More Varied Refugees -->
+  <FrozenSnowFoxTweaksSettings.settings.9.settings.0.settings.30.label>Refugiados más variados</FrozenSnowFoxTweaksSettings.settings.9.settings.0.settings.30.label>
+  <!-- EN: Changes the Refugee PawnKindDef so the game creates more varied refugees.  This is done by giving them a wider range of item tags and a higher upper limit of money for spawning things.  As a result, refugees can spawn extremely poor (like normal), or they can spawn with armour, guns and bionics. -->
+  <FrozenSnowFoxTweaksSettings.settings.9.settings.0.settings.32.text>Cambia el PawnKindDef de refugiado para que el juego cree refugiados más variados. Esto se hace dándoles un rango más amplio de etiquetas de objetos y un límite superior de dinero más alto para generar cosas. Como resultado, los refugiados pueden aparecer extremadamente pobres (como de costumbre), o pueden aparecer con armaduras, armas y biónicos.</FrozenSnowFoxTweaksSettings.settings.9.settings.0.settings.32.text>
+  <!-- EN: No Empire Trading Permit -->
+  <FrozenSnowFoxTweaksSettings.settings.9.settings.0.settings.35.label>Sin permiso comercial del Imperio</FrozenSnowFoxTweaksSettings.settings.9.settings.0.settings.35.label>
+  <!-- EN: Removes the need for a trading permit to trade with the empire faction. -->
+  <FrozenSnowFoxTweaksSettings.settings.9.settings.0.settings.37.text>Elimina la necesidad de un permiso comercial para comerciar con la facción del Imperio.</FrozenSnowFoxTweaksSettings.settings.9.settings.0.settings.37.text>
+  <!-- EN: No Title Required For Concerts -->
+  <FrozenSnowFoxTweaksSettings.settings.9.settings.0.settings.40.label>Sin título requerido para conciertos</FrozenSnowFoxTweaksSettings.settings.9.settings.0.settings.40.label>
+  <!-- EN: Removes the royal title requirement from Concerts.  Allowing any pawn to hold a music concert. -->
+  <FrozenSnowFoxTweaksSettings.settings.9.settings.0.settings.42.text>Elimina el requisito de título real de los conciertos. Permitiendo que cualquier colono realice un concierto de música.</FrozenSnowFoxTweaksSettings.settings.9.settings.0.settings.42.text>
+  <!-- EN: Normal Fine Carpet -->
+  <FrozenSnowFoxTweaksSettings.settings.9.settings.0.settings.45.label>Alfombra fina normal</FrozenSnowFoxTweaksSettings.settings.9.settings.0.settings.45.label>
+  <!-- EN: Adds a carpet with identical stats to fine carpet only with the normal carpet texture. -->
+  <FrozenSnowFoxTweaksSettings.settings.9.settings.0.settings.47.text>Añade una alfombra con estadísticas idénticas a la alfombra fina, pero con la textura de alfombra normal.</FrozenSnowFoxTweaksSettings.settings.9.settings.0.settings.47.text>
+  <!-- EN: Remove Techprints -->
+  <FrozenSnowFoxTweaksSettings.settings.9.settings.0.settings.50.label>Eliminar planos técnicos</FrozenSnowFoxTweaksSettings.settings.9.settings.0.settings.50.label>
+  <!-- EN: Removes all techprints from the game.  Note: If the mod Configurable Techprints is enabled the patch will be disabled without you needing to turn this setting off. -->
+  <FrozenSnowFoxTweaksSettings.settings.9.settings.0.settings.52.text>Elimina todos los planos técnicos (techprints) del juego. Nota: Si el mod Configurable Techprints está activado, el parche se desactivará sin que necesites apagar este ajuste.</FrozenSnowFoxTweaksSettings.settings.9.settings.0.settings.52.text>
+  <!-- EN: Common Sense Tweaks -->
+  <FrozenSnowFoxTweaksSettings.settings.13.settings.0.label>Ajustes de Common Sense</FrozenSnowFoxTweaksSettings.settings.13.settings.0.label>
+  <!-- EN: Smarter Cleaning -->
+  <FrozenSnowFoxTweaksSettings.settings.13.settings.0.settings.1.label>Limpieza más inteligente</FrozenSnowFoxTweaksSettings.settings.13.settings.0.settings.1.label>
+  <!-- EN: Disables opportunistic cleaning for a number of tasks.  Such as Flicking switches, Opening items, Repairing things, Uninstalling things, Deconstructing things, Rearming traps/turrets and more. -->
+  <FrozenSnowFoxTweaksSettings.settings.13.settings.0.settings.3.text>Desactiva la limpieza oportunista para una serie de tareas. Tales como accionar interruptores, abrir objetos, reparar cosas, desinstalar cosas, deconstruir cosas, rearmar trampas/torretas y más.</FrozenSnowFoxTweaksSettings.settings.13.settings.0.settings.3.text>
+  <!-- EN: Vanilla Cooking Expanded Tweaks -->
+  <FrozenSnowFoxTweaksSettings.settings.24.settings.0.label>Ajustes de Vanilla Cooking Expanded</FrozenSnowFoxTweaksSettings.settings.24.settings.0.label>
+  <!-- EN: Bulk Canning Recipes -->
+  <FrozenSnowFoxTweaksSettings.settings.24.settings.0.settings.1.label>Recetas de enlatado a granel</FrozenSnowFoxTweaksSettings.settings.24.settings.0.settings.1.label>
+  <!-- EN: Adds recipes to process food in larger quantities with the canning machine. -->
+  <FrozenSnowFoxTweaksSettings.settings.24.settings.0.settings.3.text>Añade recetas para procesar alimentos en mayores cantidades con la máquina de enlatado.</FrozenSnowFoxTweaksSettings.settings.24.settings.0.settings.3.text>
+  <!-- EN: No Ruined Grills -->
+  <FrozenSnowFoxTweaksSettings.settings.24.settings.0.settings.6.label>Sin comidas a la parrilla arruinadas</FrozenSnowFoxTweaksSettings.settings.24.settings.0.settings.6.label>
+  <!-- EN: Changes grill meals so they no longer get ruined by low temperatures. -->
+  <FrozenSnowFoxTweaksSettings.settings.24.settings.0.settings.8.text>Cambia las comidas a la parrilla para que ya no se arruinen por bajas temperaturas.</FrozenSnowFoxTweaksSettings.settings.24.settings.0.settings.8.text>
+  <!-- EN: Vanilla Expanded Framework Tweaks -->
+  <FrozenSnowFoxTweaksSettings.settings.26.settings.0.label>Ajustes de Vanilla Expanded Framework</FrozenSnowFoxTweaksSettings.settings.26.settings.0.label>
+  <!-- EN: Vanilla Expanded Pipe Network -->
+  <FrozenSnowFoxTweaksSettings.settings.26.settings.0.settings.1.label>Vanilla Expanded Pipe Network</FrozenSnowFoxTweaksSettings.settings.26.settings.0.settings.1.label>
+  <!-- EN: Allows you to customise the storage capacity of various Pipe Networks that use the Vanilla Expanded Pipe Network framework. -->
+  <FrozenSnowFoxTweaksSettings.settings.26.settings.0.settings.3.text>Te permite personalizar la capacidad de almacenamiento de varias redes de tuberías que utilizan el marco de Vanilla Expanded Pipe Network.</FrozenSnowFoxTweaksSettings.settings.26.settings.0.settings.3.text>
+  <!-- EN: Chemfuel Tanks -->
+  <FrozenSnowFoxTweaksSettings.settings.26.settings.0.settings.5.caseTrue.1.label>Tanques de quimbustible</FrozenSnowFoxTweaksSettings.settings.26.settings.0.settings.5.caseTrue.1.label>
+  <!-- EN: Deepchem Tanks -->
+  <FrozenSnowFoxTweaksSettings.settings.26.settings.0.settings.5.caseTrue.2.label>Tanques de quimiofango</FrozenSnowFoxTweaksSettings.settings.26.settings.0.settings.5.caseTrue.2.label>
+  <!-- EN: Input a value to adjust the amount of fuel that can be stored within the tanks.  The vanilla stack limit of Chemfuel and Deepchem is 150, the tanks take up 6 tiles, at 10x stack size with shelves providing 3 slots per tile the recommended minimum storage capacity is 27,000. -->
+  <FrozenSnowFoxTweaksSettings.settings.26.settings.0.settings.5.caseTrue.3.text>Introduce un valor para ajustar la cantidad de combustible que se puede almacenar dentro de los tanques. El límite de apilamiento de Vanilla de quimbustible y quimiofango es 150, los tanques ocupan 6 casillas, con un tamaño de pila de 10x y estantes que proporcionan 3 ranuras por casilla, la capacidad de almacenamiento mínima recomendada es 27,000.</FrozenSnowFoxTweaksSettings.settings.26.settings.0.settings.5.caseTrue.3.text>
+  <!-- EN: Helixien Gas Tanks -->
+  <FrozenSnowFoxTweaksSettings.settings.26.settings.0.settings.5.caseTrue.6.label>Tanques de gas de helixien</FrozenSnowFoxTweaksSettings.settings.26.settings.0.settings.5.caseTrue.6.label>
+  <!-- EN: Input a value to adjust the amount of helixien gas that can be stored within the tanks.  The vanilla capacity is 3000. -->
+  <FrozenSnowFoxTweaksSettings.settings.26.settings.0.settings.5.caseTrue.7.text>Introduce un valor para ajustar la cantidad de gas de helixien que se puede almacenar dentro de los tanques. La capacidad de Vanilla es 3000.</FrozenSnowFoxTweaksSettings.settings.26.settings.0.settings.5.caseTrue.7.text>
+  <!-- EN: Hemogen Tanks -->
+  <FrozenSnowFoxTweaksSettings.settings.26.settings.0.settings.5.caseTrue.10.label>Tanques de hemógeno</FrozenSnowFoxTweaksSettings.settings.26.settings.0.settings.5.caseTrue.10.label>
+  <!-- EN: Input a value to adjust the amount of hemogen that can be stored within the tanks.  The vanilla capacity is 200, the stack limit of Hemogen Packs is 10, the tank takes up 4 tiles. -->
+  <FrozenSnowFoxTweaksSettings.settings.26.settings.0.settings.5.caseTrue.11.text>Introduce un valor para ajustar la cantidad de hemógeno que se puede almacenar dentro de los tanques. La capacidad de Vanilla es 200, el límite de apilamiento de paquetes de hemógeno es 10, el tanque ocupa 4 casillas.</FrozenSnowFoxTweaksSettings.settings.26.settings.0.settings.5.caseTrue.11.text>
+  <!-- EN: Neutroamine Tanks -->
+  <FrozenSnowFoxTweaksSettings.settings.26.settings.0.settings.5.caseTrue.14.label>Tanques de neutroamina</FrozenSnowFoxTweaksSettings.settings.26.settings.0.settings.5.caseTrue.14.label>
+  <!-- EN: Input a value to adjust the amount of neutroamine that can be stored within the tanks.  The vanilla stack limit of Neutroamine is 150, the tank takes up 6 tiles, at 10x stack size with shelves providing 3 slots per tile the recommended minimum storage capacity is 27,000. -->
+  <FrozenSnowFoxTweaksSettings.settings.26.settings.0.settings.5.caseTrue.15.text>Introduce un valor para ajustar la cantidad de neutroamina que se puede almacenar dentro de los tanques. El límite de apilamiento de Vanilla de neutroamina es 150, el tanque ocupa 6 casillas, con un tamaño de pila de 10x y estantes que proporcionan 3 ranuras por casilla, la capacidad de almacenamiento mínima recomendada es 27,000.</FrozenSnowFoxTweaksSettings.settings.26.settings.0.settings.5.caseTrue.15.text>
+  <!-- EN: Nutrient Paste Tanks -->
+  <FrozenSnowFoxTweaksSettings.settings.26.settings.0.settings.5.caseTrue.18.label>Tanques de pasta nutritiva</FrozenSnowFoxTweaksSettings.settings.26.settings.0.settings.5.caseTrue.18.label>
+  <!-- EN: Input a value to adjust the amount of paste that can be stored within the tanks.  The vanilla stack limit of Paste Meals is 10, the tank takes up 4 tiles, at 10x stack size with shelves providing 3 slots per tile the recommended minimum storage capacity is 1,200. -->
+  <FrozenSnowFoxTweaksSettings.settings.26.settings.0.settings.5.caseTrue.19.text>Introduce un valor para ajustar la cantidad de pasta que se puede almacenar dentro de los tanques. El límite de apilamiento de Vanilla de comidas de pasta es 10, el tanque ocupa 4 casillas, con un tamaño de pila de 10x y estantes que proporcionan 3 ranuras por casilla, la capacidad de almacenamiento mínima recomendada es 1,200.</FrozenSnowFoxTweaksSettings.settings.26.settings.0.settings.5.caseTrue.19.text>
+  <!-- EN: Vanilla Factions Expanded Deserters Tweaks -->
+  <FrozenSnowFoxTweaksSettings.settings.27.settings.0.label>Ajustes de Vanilla Factions Expanded - Deserters</FrozenSnowFoxTweaksSettings.settings.27.settings.0.label>
+  <!-- EN: Intel Never Expires -->
+  <FrozenSnowFoxTweaksSettings.settings.27.settings.0.settings.1.label>La inteligencia nunca expira</FrozenSnowFoxTweaksSettings.settings.27.settings.0.settings.1.label>
+  <!-- EN: Changes Intel and Critical Intel so they never expire allowing you to stockpile or use them as you please. -->
+  <FrozenSnowFoxTweaksSettings.settings.27.settings.0.settings.3.text>Cambia la Inteligencia y la Inteligencia crítica para que nunca expiren, permitiéndote almacenarlas o usarlas como quieras.</FrozenSnowFoxTweaksSettings.settings.27.settings.0.settings.3.text>
+  <!-- EN: More Contraband Items -->
+  <FrozenSnowFoxTweaksSettings.settings.27.settings.0.settings.6.label>Más artículos de contrabando</FrozenSnowFoxTweaksSettings.settings.27.settings.0.settings.6.label>
+  <!-- EN: Adds a range of new contraband items to be purchased from the deserter network.  The items themselves are all Spacer and Ultra tech items. -->
+  <FrozenSnowFoxTweaksSettings.settings.27.settings.0.settings.8.text>Añade una gama de nuevos artículos de contrabando para comprar en la red de desertores. Los artículos en sí son todos de tecnología espacial y ultra.</FrozenSnowFoxTweaksSettings.settings.27.settings.0.settings.8.text>
+  <!-- EN: Vanilla Factions Expanded Empire Tweaks -->
+  <FrozenSnowFoxTweaksSettings.settings.28.settings.0.label>Ajustes de Vanilla Factions Expanded - Empire</FrozenSnowFoxTweaksSettings.settings.28.settings.0.label>
+  <!-- EN: Disguised Rebels -->
+  <FrozenSnowFoxTweaksSettings.settings.28.settings.0.settings.1.label>Rebeldes disfrazados</FrozenSnowFoxTweaksSettings.settings.28.settings.0.settings.1.label>
+  <!-- EN: Changes the name and equipment of rebel soldiers so they blend in with empire troops. -->
+  <FrozenSnowFoxTweaksSettings.settings.28.settings.0.settings.3.text>Cambia el nombre y el equipo de los soldados rebeldes para que se mezclen con las tropas del imperio.</FrozenSnowFoxTweaksSettings.settings.28.settings.0.settings.3.text>
+  <!-- EN: Vanilla Furniture Expanded Security Tweaks -->
+  <FrozenSnowFoxTweaksSettings.settings.29.settings.0.label>Ajustes de Vanilla Furniture Expanded - Security</FrozenSnowFoxTweaksSettings.settings.29.settings.0.label>
+  <!-- EN: Cavalry Spikes Don’t Expire -->
+  <FrozenSnowFoxTweaksSettings.settings.29.settings.0.settings.1.label>Las estacas de caballería no caducan</FrozenSnowFoxTweaksSettings.settings.29.settings.0.settings.1.label>
+  <!-- EN: Changes Cavalry Spikes so they no longer expire.  Instead they now have a small chance to break upon triggering. -->
+  <FrozenSnowFoxTweaksSettings.settings.29.settings.0.settings.3.text>Cambia las estacas de caballería para que ya no caduquen. En su lugar, ahora tienen una pequeña probabilidad de romperse al activarse.</FrozenSnowFoxTweaksSettings.settings.29.settings.0.settings.3.text>
+  <!-- EN: Vanilla Ideology Expanded - Dryads Tweaks -->
+  <FrozenSnowFoxTweaksSettings.settings.30.settings.0.label>Ajustes de Vanilla Ideology Expanded - Dryads</FrozenSnowFoxTweaksSettings.settings.30.settings.0.label>
+  <!-- EN: No Separation Sickness -->
+  <FrozenSnowFoxTweaksSettings.settings.30.settings.0.settings.1.label>Sin enfermedad de separación</FrozenSnowFoxTweaksSettings.settings.30.settings.0.settings.1.label>
+  <!-- EN: Prevents the Separation Sickness from appearing on awakened dryads. -->
+  <FrozenSnowFoxTweaksSettings.settings.30.settings.0.settings.3.text>Evita que la enfermedad de separación aparezca en las dríadas despertadas.</FrozenSnowFoxTweaksSettings.settings.30.settings.0.settings.3.text>
+  <!-- EN: Vanilla Ideology Expanded - Memes and Structures Tweaks -->
+  <FrozenSnowFoxTweaksSettings.settings.31.settings.0.label>Ajustes de Vanilla Ideology Expanded - Memes and Structures</FrozenSnowFoxTweaksSettings.settings.31.settings.0.label>
+  <!-- EN: Unlock Fishing Traps -->
+  <FrozenSnowFoxTweaksSettings.settings.31.settings.0.settings.1.label>Desbloquear trampas de pesca</FrozenSnowFoxTweaksSettings.settings.31.settings.0.settings.1.label>
+  <!-- EN: Allows building fishing traps without having the Fishing Meme. -->
+  <FrozenSnowFoxTweaksSettings.settings.31.settings.0.settings.3.text>Permite construir trampas de pesca sin tener el meme de Pesca.</FrozenSnowFoxTweaksSettings.settings.31.settings.0.settings.3.text>
+  <!-- EN: Warning: Fishing traps are not added if the Odyssey DLC is active.  If you have the Odyssey DLC in your mod list do not enable this tweak. -->
+  <FrozenSnowFoxTweaksSettings.settings.31.settings.0.settings.6.text>Advertencia: Las trampas de pesca no se añaden si el DLC Odyssey está activo. Si tienes el DLC Odyssey en tu lista de mods, no actives este retoque.</FrozenSnowFoxTweaksSettings.settings.31.settings.0.settings.6.text>
+  <!-- EN: Vanilla Psycasts Expanded Tweaks -->
+  <FrozenSnowFoxTweaksSettings.settings.33.settings.0.label>Ajustes de Vanilla Psycasts Expanded</FrozenSnowFoxTweaksSettings.settings.33.settings.0.label>
+  <!-- EN: Psycast Tweaks -->
+  <FrozenSnowFoxTweaksSettings.settings.33.settings.0.settings.1.text>Ajustes de psiconjuración</FrozenSnowFoxTweaksSettings.settings.33.settings.0.settings.1.text>
+  <!-- EN: Allows you to individually enable a variety of tweaks for psycasts.  These changes may be for changing targeting parameters or changing how specific psycasts function. -->
+  <FrozenSnowFoxTweaksSettings.settings.33.settings.0.settings.3.text>Te permite activar individualmente una variedad de retoques para psiconjuraciones. Estos cambios pueden ser para cambiar los parámetros de objetivo o cambiar cómo funcionan psiconjuraciones específicas.</FrozenSnowFoxTweaksSettings.settings.33.settings.0.settings.3.text>
+  <!-- EN: Allow Self Targeting and Pawn Targetting where it makes sense. -->
+  <FrozenSnowFoxTweaksSettings.settings.33.settings.0.settings.6.label>Permitir apuntar a uno mismo y a colonos donde tenga sentido.</FrozenSnowFoxTweaksSettings.settings.33.settings.0.settings.6.label>
+  <!-- EN: Killskip Works Through Walls. -->
+  <FrozenSnowFoxTweaksSettings.settings.33.settings.0.settings.7.label>Salto mortal funciona a través de paredes.</FrozenSnowFoxTweaksSettings.settings.33.settings.0.settings.7.label>
+  <!-- EN: Power Leap Works Through Walls. -->
+  <FrozenSnowFoxTweaksSettings.settings.33.settings.0.settings.8.label>Salto de poder funciona a través de paredes.</FrozenSnowFoxTweaksSettings.settings.33.settings.0.settings.8.label>
+  <!-- EN: Skip Works Through Walls. -->
+  <FrozenSnowFoxTweaksSettings.settings.33.settings.0.settings.9.label>Saltar funciona a través de paredes.</FrozenSnowFoxTweaksSettings.settings.33.settings.0.settings.9.label>
+  <!-- EN: Shield Psycasts Allow Outgoing Projectiles. -->
+  <FrozenSnowFoxTweaksSettings.settings.33.settings.0.settings.10.label>Las psiconjuraciones de escudo permiten proyectiles salientes.</FrozenSnowFoxTweaksSettings.settings.33.settings.0.settings.10.label>
+  <!-- EN: Solar Pinhole Provides Sunlight. -->
+  <FrozenSnowFoxTweaksSettings.settings.33.settings.0.settings.11.label>Agujero solar proporciona luz solar.</FrozenSnowFoxTweaksSettings.settings.33.settings.0.settings.11.label>
+  <!-- EN: Unlock Psycast Trees -->
+  <FrozenSnowFoxTweaksSettings.settings.33.settings.0.settings.14.label>Desbloquear árboles de psiconjuración</FrozenSnowFoxTweaksSettings.settings.33.settings.0.settings.14.label>
+  <!-- EN: Unlocks the locked Psycast trees allowing anyone to use them. -->
+  <FrozenSnowFoxTweaksSettings.settings.33.settings.0.settings.16.text>Desbloquea los árboles de psiconjuración bloqueados, permitiendo que cualquiera los use.</FrozenSnowFoxTweaksSettings.settings.33.settings.0.settings.16.text>
+  <!-- EN: Vanilla Quests Expanded Tweaks -->
+  <FrozenSnowFoxTweaksSettings.settings.34.settings.0.label>Ajustes de Vanilla Quests Expanded</FrozenSnowFoxTweaksSettings.settings.34.settings.0.label>
+  <!-- EN: Vanilla Quests Expanded Ancients -->
+  <FrozenSnowFoxTweaksSettings.settings.34.settings.0.settings.1.label>Vanilla Quests Expanded - Ancients</FrozenSnowFoxTweaksSettings.settings.34.settings.0.settings.1.label>
+  <!-- EN: More Ancient Vaults -->
+  <FrozenSnowFoxTweaksSettings.settings.34.settings.0.settings.1.settings.1.label>Más bóvedas antiguas</FrozenSnowFoxTweaksSettings.settings.34.settings.0.settings.1.settings.1.label>
+  <!-- EN: Allows you to change the interval between random Ancient Vault quests with an input number.  These random quests only begin appearing after advancing the quest chain enough and they trigger when a quest finishes whether that be success, failure or expiry. -->
+  <FrozenSnowFoxTweaksSettings.settings.34.settings.0.settings.1.settings.3.text>Te permite cambiar el intervalo entre misiones aleatorias de Bóvedas antiguas con un número de entrada. Estas misiones aleatorias solo comienzan a aparecer después de avanzar lo suficiente en la cadena de misiones y se activan cuando una misión termina, ya sea con éxito, fracaso o expiración.</FrozenSnowFoxTweaksSettings.settings.34.settings.0.settings.1.settings.3.text>
+  <!-- EN: Days Between Ancient Vaults -->
+  <FrozenSnowFoxTweaksSettings.settings.34.settings.0.settings.1.settings.5.caseTrue.1.label>Días entre bóvedas antiguas</FrozenSnowFoxTweaksSettings.settings.34.settings.0.settings.1.settings.5.caseTrue.1.label>
+  <!-- EN: Input a value to adjust the interval between random Ancient Vault quests.\nVanilla value 60 Days. -->
+  <FrozenSnowFoxTweaksSettings.settings.34.settings.0.settings.1.settings.5.caseTrue.2.text>Introduce un valor para ajustar el intervalo entre misiones aleatorias de Bóvedas antiguas.\nValor de Vanilla 60 días.</FrozenSnowFoxTweaksSettings.settings.34.settings.0.settings.1.settings.5.caseTrue.2.text>
+  <!-- EN: Vanilla Quests Expanded Cryptoforge -->
+  <FrozenSnowFoxTweaksSettings.settings.34.settings.0.settings.2.label>Vanilla Quests Expanded - Cryptoforge</FrozenSnowFoxTweaksSettings.settings.34.settings.0.settings.2.label>
+  <!-- EN: Repeatable Cryptoforge -->
+  <FrozenSnowFoxTweaksSettings.settings.34.settings.0.settings.2.settings.1.label>Criptoforja repetible</FrozenSnowFoxTweaksSettings.settings.34.settings.0.settings.2.settings.1.label>
+  <!-- EN: Changes the Cryptoforge quests to repeat on success after 30 days.  Allowing you to keep looting crashed ships and making crypto equipment. -->
+  <FrozenSnowFoxTweaksSettings.settings.34.settings.0.settings.2.settings.3.text>Cambia las misiones de Criptoforja para que se repitan al tener éxito después de 30 días. Permitiéndote seguir saqueando naves estrelladas y fabricando equipo cripto.</FrozenSnowFoxTweaksSettings.settings.34.settings.0.settings.2.settings.3.text>
+  <!-- EN: Vanilla Quests Expanded Deadlife -->
+  <FrozenSnowFoxTweaksSettings.settings.34.settings.0.settings.3.label>Vanilla Quests Expanded - Deadlife</FrozenSnowFoxTweaksSettings.settings.34.settings.0.settings.3.label>
+  <!-- EN: No Deadlife Apocalypse -->
+  <FrozenSnowFoxTweaksSettings.settings.34.settings.0.settings.3.settings.1.label>Sin apocalipsis de necrovita</FrozenSnowFoxTweaksSettings.settings.34.settings.0.settings.3.settings.1.label>
+  <!-- EN: Changes the required number of completed silos for the ending quest with the General to require 99999 completed silos.  This will allow you to explore and complete the deadlife silos repeatedly without worrying about triggering the ending.  If you do want to see the ending at some point just turn this tweak off. -->
+  <FrozenSnowFoxTweaksSettings.settings.34.settings.0.settings.3.settings.3.text>Cambia el número requerido de silos completados para la misión final con el General para requerir 99999 silos completados. Esto te permitirá explorar y completar los silos de necrovita repetidamente sin preocuparte por activar el final. Si quieres ver el final en algún momento, simplemente desactiva este retoque.</FrozenSnowFoxTweaksSettings.settings.34.settings.0.settings.3.settings.3.text>
+  <!-- EN: Vanilla Races Expanded Genie Tweaks -->
+  <FrozenSnowFoxTweaksSettings.settings.36.settings.0.label>Ajustes de Vanilla Races Expanded - Genie</FrozenSnowFoxTweaksSettings.settings.36.settings.0.label>
+  <!-- EN: No Immunity Issues -->
+  <FrozenSnowFoxTweaksSettings.settings.36.settings.0.settings.1.label>Sin problemas de inmunidad</FrozenSnowFoxTweaksSettings.settings.36.settings.0.settings.1.label>
+  <!-- EN: Removes the genes No Immunity, Slow Diseases and Antibiotics Addiction Resistant from Genies so they no longer have immunity issues. -->
+  <FrozenSnowFoxTweaksSettings.settings.36.settings.0.settings.3.text>Elimina los genes Sin inmunidad, Enfermedades lentas y Resistente a la adicción a antibióticos de los Genios para que ya no tengan problemas de inmunidad.</FrozenSnowFoxTweaksSettings.settings.36.settings.0.settings.3.text>
+  <!-- EN: Vanilla Races Expanded Highmate Tweaks -->
+  <FrozenSnowFoxTweaksSettings.settings.37.settings.0.label>Ajustes de Vanilla Races Expanded - Highmate</FrozenSnowFoxTweaksSettings.settings.37.settings.0.label>
+  <!-- EN: High Libido Lovin Ability -->
+  <FrozenSnowFoxTweaksSettings.settings.37.settings.0.settings.1.label>Habilidad de amar de libido alta</FrozenSnowFoxTweaksSettings.settings.37.settings.0.settings.1.label>
+  <!-- EN: Adds the initiate lovin ability to the High Libido gene.  Also reduces the mood bonus for lovin to match the vanilla one. -->
+  <FrozenSnowFoxTweaksSettings.settings.37.settings.0.settings.3.text>Añade la habilidad de iniciar el amor al gen de Libido alta. También reduce la bonificación de estado de ánimo por amar para que coincida con la de Vanilla.</FrozenSnowFoxTweaksSettings.settings.37.settings.0.settings.3.text>
+  <!-- EN: Initiate Lovin Gene -->
+  <FrozenSnowFoxTweaksSettings.settings.37.settings.0.settings.6.label>Gen de iniciar el amor</FrozenSnowFoxTweaksSettings.settings.37.settings.0.settings.6.label>
+  <!-- EN: Adds a new gene to the game with 0 Complexity and 0 Metabolism that provides the Initiate Lovin ability.  Also reduces the mood bonus from lovin to match the vanilla lovin bonus. -->
+  <FrozenSnowFoxTweaksSettings.settings.37.settings.0.settings.8.text>Añade un nuevo gen al juego con 0 Complejidad y 0 Metabolismo que proporciona la habilidad de Iniciar el amor. También reduce la bonificación de estado de ánimo por amar para que coincida con la bonificación de amar de Vanilla.</FrozenSnowFoxTweaksSettings.settings.37.settings.0.settings.8.text>
+  <!-- EN: Add the Initiate Lovin gene to every xenotype in the game allowing any pawn to use the Initiate Lovin ability. -->
+  <FrozenSnowFoxTweaksSettings.settings.37.settings.0.settings.10.caseTrue.1.label>Añade el gen de Iniciar el amor a cada xenotipo en el juego, permitiendo que cualquier colono use la habilidad de Iniciar el amor.</FrozenSnowFoxTweaksSettings.settings.37.settings.0.settings.10.caseTrue.1.label>
+  <!-- EN: Vanilla Races Expanded Phytokin Tweaks -->
+  <FrozenSnowFoxTweaksSettings.settings.38.settings.0.label>Ajustes de Vanilla Races Expanded - Phytokin</FrozenSnowFoxTweaksSettings.settings.38.settings.0.label>
+  <!-- EN: No Workspeed Malus On Sap Blood -->
+  <FrozenSnowFoxTweaksSettings.settings.38.settings.0.settings.1.label>Sin penalización de velocidad de trabajo en sangre de savia</FrozenSnowFoxTweaksSettings.settings.38.settings.0.settings.1.label>
+  <!-- EN: Removes the work speed malus on the Sap Blood gene and lowers the gene complexity from -2 to -1. -->
+  <FrozenSnowFoxTweaksSettings.settings.38.settings.0.settings.3.text>Elimina la penalización de velocidad de trabajo en el gen Sangre de savia y reduce la complejidad del gen de -2 a -1.</FrozenSnowFoxTweaksSettings.settings.38.settings.0.settings.3.text>
+  
+</LanguageData>

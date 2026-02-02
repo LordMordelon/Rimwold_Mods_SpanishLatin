@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <PO.AmbientTemperature>Thing:AmbientTemperature</PO.AmbientTemperature>
+  <PO.BreakThresholdExtreme>MentalBreaker:BreakThresholdExtreme</PO.BreakThresholdExtreme>
+  <PO.BreakThresholdMajor>MentalBreaker:BreakThresholdMajor</PO.BreakThresholdMajor>
+  <PO.BreakThresholdMinor>MentalBreaker:BreakThresholdMinor</PO.BreakThresholdMinor>
+  <PO.Building_Door_CheckClearReachabilityCacheBecauseOpenedOrClosed>Building_Door:ClearReachabilityCache</PO.Building_Door_CheckClearReachabilityCacheBecauseOpenedOrClosed>
+  <PO.CacheFactionOfPlayer>Cachear Faction:OfPlayer</PO.CacheFactionOfPlayer>
+  <PO.CacheGizmos>Cachear obtención de gizmos de objetos seleccionados</PO.CacheGizmos>
+  <PO.CacheHediffDef_PossibleToDevelopImmunityNaturally>Cachear HediffDef:PossibleToDevelopImmunityNaturally</PO.CacheHediffDef_PossibleToDevelopImmunityNaturally>
+  <PO.CacheSettings>Ajustes de caché y limitación (throttle)</PO.CacheSettings>
+  <PO.CacheStatWorker_MarketValue>Cachear StatWorker_MarketValue:CalculableRecipe</PO.CacheStatWorker_MarketValue>
+  <PO.CacheTextSizeCalc>Cachear cálculos de tamaño de texto</PO.CacheTextSizeCalc>
+  <PO.CacheTraverseReflections>Cachear reflexiones de Traverse</PO.CacheTraverseReflections>
+  <PO.CanGoFeral>CompOverseerSubject:CanGoFeral</PO.CanGoFeral>
+  <PO.CheckCurrentToilEndOrFail>JobDriver:CheckCurrentToilEndOrFail</PO.CheckCurrentToilEndOrFail>
+  <PO.CreateReverseDesignationGizmo>Designator:CreateReverseDesignationGizmo</PO.CreateReverseDesignationGizmo>
+  <PO.CurrentExpectationForMap>ExpectationsUtility:CurrentExpectationForMap</PO.CurrentExpectationForMap>
+  <PO.CurrentExpectationForPawn>ExpectationsUtility:CurrentExpectationForPawn</PO.CurrentExpectationForPawn>
+  <PO.CurrentInstantBeauty>Need_Beauty:CurrentInstantBeauty</PO.CurrentInstantBeauty>
+  <PO.DetermineNextConstantThinkTreeJob>Pawn_JobTracker:DetermineNextConstantThinkTreeJob</PO.DetermineNextConstantThinkTreeJob>
+  <PO.DisablePlantSwayShaderUpdateIfSwayDisabled>Omitir calculo balanceo de plantas si está desactivado</PO.DisablePlantSwayShaderUpdateIfSwayDisabled>
+  <PO.DisableSoundsCompletely>Desactivar sonidos completamente</PO.DisableSoundsCompletely>
+  <PO.DisableSpeedButtons>Desactivar botones de velocidad (dejar solo atajos)</PO.DisableSpeedButtons>
+  <PO.DisableSteamManagerCallbacksChecks>Desactivar comprobaciones de callbacks de Steam Manager</PO.DisableSteamManagerCallbacksChecks>
+  <PO.DoorRotationAt>Building_Door:DoorRotationAt</PO.DoorRotationAt>
+  <PO.FasterGetCompReplacement>Reemplazo de métodos GetComp más rápidos</PO.FasterGetCompReplacement>
+  <PO.FindAllowedDesignator>BuildCopyCommandUtility:FindAllowedDesignator</PO.FindAllowedDesignator>
+  <PO.FixCheckForDuplicateNodes>Intentar corregir errores de nodos XML duplicados</PO.FixCheckForDuplicateNodes>
+  <PO.FormCaravanComp_AnyActiveThreatNow>FormCaravanComp:AnyActiveThreatNow</PO.FormCaravanComp_AnyActiveThreatNow>
+  <PO.Frame_WorkToBuild>Frame:WorkToBuild</PO.Frame_WorkToBuild>
+  <PO.FreePassage>Building_Door:FreePassage</PO.FreePassage>
+  <PO.GenCelestial_CurCelestialSunGlow>GenCelestial:CurCelestialSunGlow</PO.GenCelestial_CurCelestialSunGlow>
+  <PO.GenTemperature_AverageTemperatureAtTileForTwelfth>GenTemperature:AverageTemperatureAtTileForTwelfth</PO.GenTemperature_AverageTemperatureAtTileForTwelfth>
+  <PO.GetStyleDominance>IdeoUtility:GetStyleDominance</PO.GetStyleDominance>
+  <PO.GridsUtilityFogged>GridsUtility:Fogged</PO.GridsUtilityFogged>
+  <PO.GridsUtilityGetRoom>GridsUtility:GetRoom</PO.GridsUtilityGetRoom>
+  <PO.HideBottomButtonBar>Ocultar barra de botones inferior</PO.HideBottomButtonBar>
+  <PO.HideBottomRightOverlayButtons>Ocultar botones de superposición inferiores derechos</PO.HideBottomRightOverlayButtons>
+  <PO.HideResourceReadout>Ocultar lectura de recursos</PO.HideResourceReadout>
+  <PO.HideSpeedButtons>Ocultar botones de velocidad</PO.HideSpeedButtons>
+  <PO.IdeoBuildingPresenceDemand_BuildingPresent>Optimizar IdeoBuildingPresenceDemand:BuildingPresent</PO.IdeoBuildingPresenceDemand_BuildingPresent>
+  <PO.InspectGizmoGrid>InspectGizmoGrid:DrawInspectGizmoGridFor GetGizmos</PO.InspectGizmoGrid>
+  <PO.IsForbidden>ForbidUtility:IsForbidden</PO.IsForbidden>
+  <PO.IsInvisible>PawnUtility:IsInvisible</PO.IsInvisible>
+  <PO.IsTeetotaler>PawnUtility:IsTeetotaler</PO.IsTeetotaler>
+  <PO.JobGiver_ConfigurableHostilityResponse>JobGiver_ConfigurableHostilityResponse:TryGiveJob</PO.JobGiver_ConfigurableHostilityResponse>
+  <PO.MinimizeAlertsReadout>Minimizar lectura de alertas</PO.MinimizeAlertsReadout>
+  <PO.OneKeyMode>¿Una tecla?</PO.OneKeyMode>
+  <PO.OptimizeThingSpawned>Optimizar Thing:Spawned</PO.OptimizeThingSpawned>
+  <PO.PawnCollisionPosOffsetFor>PawnCollisionTweenerUtility:PawnCollisionPosOffsetFor</PO.PawnCollisionPosOffsetFor>
+  <PO.PawnDrawPos>Pawn:DrawPos</PO.PawnDrawPos>
+  <PO.PawnLabel>Pawn:Label</PO.PawnLabel>
+  <PO.Pawn_InteractionsTracker_CurrentSocialMode>Pawn_InteractionsTracker:CurrentSocialMode</PO.Pawn_InteractionsTracker_CurrentSocialMode>
+  <PO.PerformanceOptimizerOverview>Resumen del mod Performance Optimizer</PO.PerformanceOptimizerOverview>
+  <PO.PerformanceOptimizerOverviewDesc>¡Saludos, has instalado el mod Performance Optimizer! Normalmente no necesitas hacer nada más, pero recomiendo ir a los ajustes del mod, donde puedes configurar todo. El mod también incluye la ocultación de elementos de la interfaz (se muestran al pasar el ratón), que está desactivada por defecto. Si quieres FPS/TPS extra, puedes activarlos en los ajustes del mod.</PO.PerformanceOptimizerOverviewDesc>
+  <PO.PerformanceSettings>Rendimiento y ajustes varios</PO.PerformanceSettings>
+  <PO.PlantFallColors_GetFallColorFactor>PlantFallColors:GetFallColorFactor</PO.PlantFallColors_GetFallColorFactor>
+  <PO.Plant_TickLong>Plant:TickLong</PO.Plant_TickLong>
+  <PO.Precept_RoleMulti_RecacheActivity>Precept_RoleMulti:RecacheActivity</PO.Precept_RoleMulti_RecacheActivity>
+  <PO.Precept_RoleSingle_RecacheActivity>Precept_RoleSingle:RecacheActivity</PO.Precept_RoleSingle_RecacheActivity>
+  <PO.QuestLodger>QuestUtility:IsQuestLodger</PO.QuestLodger>
+  <PO.RefreshRate>Tasa ref. {0}</PO.RefreshRate>
+  <PO.SkillRecord_LearnRateFactor>SkillRecord:LearnRateFactor</PO.SkillRecord_LearnRateFactor>
+  <PO.ThrottleRate>Tasa lim. {0}</PO.ThrottleRate>
+  <PO.TicksToOpenNow>Building_Door:TicksToOpenNow</PO.TicksToOpenNow>
+  <PO.TotalMoodOffset>ThoughtHandler:TotalMoodOffset</PO.TotalMoodOffset>
+  <PO.UISettings>Ajustes de interfaz</PO.UISettings>
+  <PO.UIToggle>Alternar interfaz</PO.UIToggle>
+  <PO.WorldGrid_LongLatOf>Cachear WorldGrid:LongLatOf</PO.WorldGrid_LongLatOf>
+</LanguageData>

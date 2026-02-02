@@ -1,0 +1,103 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <ConfirmDeleteSlot>¿Estás seguro de que quieres eliminar la psique guardada permanentemente?</ConfirmDeleteSlot>
+  <ConfirmLoadFromSlot>Cargar la psique sobrescribirá la psique actual de este colono.\n\n¿Estás seguro de que quieres sobrescribirla?</ConfirmLoadFromSlot>
+  <ConfirmLoadFromSlot_RandomOrientation>Cargar la psique sobrescribirá la psique actual de este colono.\n\nADVERTENCIA: La psique que intentas cargar tiene una orientación sexual indefinida. Cargar esta psique en un colono aleatorizará su sexualidad.\n\n¿Estás seguro de que quieres sobrescribirla?</ConfirmLoadFromSlot_RandomOrientation>
+  <ConfirmSaveToSlot>Guardar la psique aquí sobrescribirá la psique existente.\n\n¿Estás seguro de que quieres sobrescribirla?</ConfirmSaveToSlot>
+  <DeleteSlot>Eliminar</DeleteSlot>
+  <GeneAffected>Afectado por gen(es):</GeneAffected>
+  <LoadFromSlot>Cargar</LoadFromSlot>
+  <MemoryReportString>Conversación sobre {0}</MemoryReportString>
+  <PsycheDisabled>Psique desactivada</PsycheDisabled>
+  <RPC_Accommodating>Complaciente</RPC_Accommodating>
+  <RPC_Aloof>Distante</RPC_Aloof>
+  <RPC_Arrogant>Arrogante</RPC_Arrogant>
+  <RPC_Assertive>Asertivo</RPC_Assertive>
+  <RPC_Assertiveness>Asertividad</RPC_Assertiveness>
+  <RPC_Assertiveness_Tooltip>Describe la tendencia de un colono a tomar el control, expresar opiniones e influir en los demás en entornos sociales. Los colonos asertivos son oradores audaces y seguros; los colonos tímidos son más reservados y pueden dudar en expresarse.</RPC_Assertiveness_Tooltip>
+  <RPC_Cheerful>Alegre</RPC_Cheerful>
+  <RPC_Compassion>Compasión</RPC_Compassion>
+  <RPC_Compassion_Tooltip>Refleja la capacidad de un colono para la empatía emocional y su deseo de aliviar la angustia en los demás. Los colonos compasivos son amables, protectores y emocionalmente sintonizados con los sentimientos de los demás; los colonos desapegados tienden a ser menos sensibles a los estados emocionales de quienes los rodean.</RPC_Compassion_Tooltip>
+  <RPC_Compassionate>Compasivo</RPC_Compassionate>
+  <RPC_Confident>Seguro</RPC_Confident>
+  <RPC_Conventional>Convencional</RPC_Conventional>
+  <RPC_Cooperation>Cooperación</RPC_Cooperation>
+  <RPC_Cooperation_Tooltip>Describe la preferencia de un colono por las interacciones pacíficas y su disposición a confiar. Los colonos complacientes evitan las discusiones, valoran el compromiso y no les gusta la tensión; los colonos testarudos pueden resistirse al compromiso y prefieren aferrarse a sus propias opiniones.</RPC_Cooperation_Tooltip>
+  <RPC_Curiosity>Curiosidad</RPC_Curiosity>
+  <RPC_Curiosity_Tooltip>Describe un impulso por la novedad, la diversidad y la exploración. Los colonos exploradores buscan nuevas experiencias y desafían las normas; los colonos convencionales prefieren la rutina y los entornos familiares.</RPC_Curiosity_Tooltip>
+  <RPC_Detached>Desapegado</RPC_Detached>
+  <RPC_Disorganized>Desorganizado</RPC_Disorganized>
+  <RPC_Enthusiasm>Entusiasmo</RPC_Enthusiasm>
+  <RPC_Enthusiasm_Tooltip>Captura el deseo de un colono por la estimulación, la positividad y la actividad. Los colonos alegres son enérgicos, se emocionan fácilmente y a menudo están en movimiento; los colonos estoicos tienden a ser más reservados en su comportamiento y menos impulsados externamente por la emoción.</RPC_Enthusiasm_Tooltip>
+  <RPC_Explorative>Explorador</RPC_Explorative>
+  <RPC_Facets>Facetas</RPC_Facets>
+  <RPC_Friendly>Amistoso</RPC_Friendly>
+  <RPC_Humble>Humilde</RPC_Humble>
+  <RPC_Humbleness>Humildad</RPC_Humbleness>
+  <RPC_Humbleness_Tooltip>Captura la tendencia de un colono a minimizar su propia importancia y evitar la arrogancia. Los colonos humildes son modestos y respetuosos, viéndose a sí mismos como iguales a los demás; los colonos arrogantes tienden a exhibir autoimportancia y pueden actuar con superioridad.</RPC_Humbleness_Tooltip>
+  <RPC_Imagination>Imaginación</RPC_Imagination>
+  <RPC_Imagination_Tooltip>Refleja un mundo interior vívido y una sensibilidad emocional hacia el arte y la belleza. Los colonos imaginativos se sienten atraídos por cosas como soñar despiertos, la música y el arte; los colonos realistas son más pragmáticos y tienen los pies en la tierra.</RPC_Imagination_Tooltip>
+  <RPC_Imaginative>Imaginativo</RPC_Imaginative>
+  <RPC_Inconsistent>Inconsistente</RPC_Inconsistent>
+  <RPC_Industrious>Laborioso</RPC_Industrious>
+  <RPC_Industriousness>Laboriosidad</RPC_Industriousness>
+  <RPC_Industriousness_Tooltip>Describe un impulso para alcanzar metas a largo plazo a través del trabajo duro y la persistencia. Los colonos laboriosos son motivados y centrados, llevando las tareas hasta su finalización; los colonos desmotivados tienden a carecer de impulso y pueden abandonar las tareas.</RPC_Industriousness_Tooltip>
+  <RPC_Insecure>Inseguro</RPC_Insecure>
+  <RPC_Insecurity>Inseguridad</RPC_Insecurity>
+  <RPC_Insecurity_Tooltip>Describe la susceptibilidad de un colono a sentirse abrumado y su falta de confianza en situaciones estresantes. Los colonos inseguros evitan la presión, temen el fracaso y pueden retraerse socialmente; los colonos seguros abordan los desafíos con autoconfianza y se ven menos afectados por el juicio ajeno.</RPC_Insecurity_Tooltip>
+  <RPC_Integrity>Integridad</RPC_Integrity>
+  <RPC_Integrity_Tooltip>Describe un compromiso con la honestidad, la autodisciplina y la coherencia moral. Los colonos fiables cumplen sus promesas, siguen las reglas y priorizan hacer lo correcto; los colonos inconsistentes pueden tener problemas con la autorregulación, tomando atajos o actuando de manera poco fiable.</RPC_Integrity_Tooltip>
+  <RPC_Intellect>Intelecto</RPC_Intellect>
+  <RPC_Intellect_Tooltip>Captura el interés por el pensamiento abstracto y las ideas complejas. Los colonos filosóficos disfrutan de conversaciones profundas y cuestiones filosóficas; los colonos prácticos prefieren el pensamiento concreto y directo.</RPC_Intellect_Tooltip>
+  <RPC_Interest>Intereses</RPC_Interest>
+  <RPC_Optimistic>Optimista</RPC_Optimistic>
+  <RPC_Orderliness>Orden</RPC_Orderliness>
+  <RPC_Orderliness_Tooltip>Describe una preferencia por la estructura, el orden y la planificación cuidadosa. Los colonos organizados gestionan sus entornos y tareas con previsión, valorando el orden y detestando el caos; los colonos desorganizados tienden a ser menos estructurados y pueden tener dificultades para seguir el rastro de las tareas.</RPC_Orderliness_Tooltip>
+  <RPC_Organized>Organizado</RPC_Organized>
+  <RPC_Personality>Personalidad</RPC_Personality>
+  <RPC_Pessimism>Pesimismo</RPC_Pessimism>
+  <RPC_Pessimism_Tooltip>Captura la predisposición de un colono hacia las emociones negativas como la tristeza, el resentimiento y la irritabilidad. Los colonos pesimistas a menudo se sienten desesperanzados y son propensos a estados de ánimo depresivos; los colonos optimistas mantienen una perspectiva más positiva.</RPC_Pessimism_Tooltip>
+  <RPC_Pessimistic>Pesimista</RPC_Pessimistic>
+  <RPC_Philosophical>Filosófico</RPC_Philosophical>
+  <RPC_Practical>Práctico</RPC_Practical>
+  <RPC_Realistic>Realista</RPC_Realistic>
+  <RPC_Reliable>Fiable</RPC_Reliable>
+  <RPC_Sexuality>Sexualidad</RPC_Sexuality>
+  <RPC_Sociability>Sociabilidad</RPC_Sociability>
+  <RPC_Sociability_Tooltip>Refleja la calidez y el compromiso de un colono en las interacciones sociales. Los colonos amistosos disfrutan conectando con los demás y son accesibles; los colonos distantes tienden a ser más reservados y menos sociables externamente.</RPC_Sociability_Tooltip>
+  <RPC_Stable>Estable</RPC_Stable>
+  <RPC_Stoic>Estoico</RPC_Stoic>
+  <RPC_Stubborn>Testarudo</RPC_Stubborn>
+  <RPC_Timid>Tímido</RPC_Timid>
+  <RPC_Unmotivated>Desmotivado</RPC_Unmotivated>
+  <RPC_Volatile>Volátil</RPC_Volatile>
+  <RPC_Volatility>Volatilidad</RPC_Volatility>
+  <RPC_Volatility_Tooltip>Refleja la tendencia de un colono a experimentar emociones intensas y que cambian rápidamente. Los colonos volátiles luchan con la regulación emocional y pueden exhibir un comportamiento errático bajo estrés; los colonos estables mantienen un estado emocional más constante y tranquilo.</RPC_Volatility_Tooltip>
+  <ResetPsycheTooltip>Restablecer personalidad</ResetPsycheTooltip>
+  <RimPsycheIntensityExtremely>Extremadamente {0}</RimPsycheIntensityExtremely>
+  <RimPsycheIntensityMarginally>Ligeramente {0}</RimPsycheIntensityMarginally>
+  <RimPsycheIntensityNeutral>{0} neutral</RimPsycheIntensityNeutral>
+  <RimPsycheIntensitySomewhat>Algo {0}</RimPsycheIntensitySomewhat>
+  <RimPsycheIntensityVery>Muy {0}</RimPsycheIntensityVery>
+  <RimpsycheAllowFacetEdit>Habilitar edición de facetas</RimpsycheAllowFacetEdit>
+  <RimpsycheAllowFacetEditTooltip>Habilita la edición directa de las facetas.</RimpsycheAllowFacetEditTooltip>
+  <RimpsycheConfirmLoadSave>Confirmar antes de cargar/guardar Psique</RimpsycheConfirmLoadSave>
+  <RimpsycheConfirmLoadSaveTooltip>Muestra una ventana emergente de confirmación antes de sobrescribir o cargar la psique del colono.</RimpsycheConfirmLoadSaveTooltip>
+  <RimpsycheEdit>Editar</RimpsycheEdit>
+  <RimpsycheFacetInfo>Las facetas son los componentes básicos que dan forma a los pensamientos, sentimientos y comportamiento de un colono. Cada una representa un aspecto específico de cómo ven el mundo y reaccionan ante él.</RimpsycheFacetInfo>
+  <RimpsycheGeneralSetting>Ajustes generales de RimPsyche</RimpsycheGeneralSetting>
+  <RimpsychePersonalityInfo>La personalidad de un colono es el resultado de la unión de sus facetas individuales. Influye en su comportamiento, relaciones y decisiones.</RimpsychePersonalityInfo>
+  <RimpsycheSettingCategory>RimPsyche - Personalidad</RimpsycheSettingCategory>
+  <RimpsycheShowBar>Mostrar como barras</RimpsycheShowBar>
+  <RimpsycheShowFacet>Mostrar facetas</RimpsycheShowFacet>
+  <RimpsycheShowFacetGraph>Mostrar gráfico de facetas en la interfaz</RimpsycheShowFacetGraph>
+  <RimpsycheShowFacetGraphTooltip>Muestra el gráfico de radar de facetas en la pestaña Psique.</RimpsycheShowFacetGraphTooltip>
+  <RimpsycheShowFacetInMenu>Mostrar facetas en la interfaz</RimpsycheShowFacetInMenu>
+  <RimpsycheShowFacetInMenuTooltip>Habilita la opción para ver las facetas en la pestaña Psique.</RimpsycheShowFacetInMenuTooltip>
+  <RimpsycheShowList>Mostrar como lista</RimpsycheShowList>
+  <RimpsycheTopicHeader>Temas</RimpsycheTopicHeader>
+  <SavePsycheTooltip>Guardar/Cargar Psique</SavePsycheTooltip>
+  <SaveToSlot>Guardar</SaveToSlot>
+  <TabPsyche>Psique</TabPsyche>
+  <TraitAffected>Afectado por rasgo(s):</TraitAffected>
+</LanguageData>

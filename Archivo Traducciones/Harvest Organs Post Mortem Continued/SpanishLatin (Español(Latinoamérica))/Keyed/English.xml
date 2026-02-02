@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: Harvest Organs Post Mortem -->
+  <AutopsyOptions>Harvest Organs Post Mortem</AutopsyOptions>
+  <!-- EN: Basic Autopsy -->
+  <autopsyBasicTab>Autopsia básica</autopsyBasicTab>
+  <!-- EN: Advanced Autopsy -->
+  <autopsyAdvancedTab>Autopsia avanzada</autopsyAdvancedTab>
+  <!-- EN: Glitterworld Autopsy -->
+  <autopsyGlitterTab>Autopsia de mundobrillante</autopsyGlitterTab>
+  <!-- EN: Animal Autopsy -->
+  <autopsyAnimalTab>Autopsia animal</autopsyAnimalTab>
+  <!-- EN: Organ harvest chance -->
+  <organChanceTitle>Probabilidad de extracción de órganos</organChanceTitle>
+  <!-- EN: Maximum chance to harvest each individual organ when using specified recipe. Actual value is equal to pawns surgery success chance. -->
+  <organChanceDescription>Probabilidad máxima de extraer cada órgano individual al usar la receta especificada. El valor real es igual a la probabilidad de éxito de la cirugía del colono.</organChanceDescription>
+  <!-- EN: Bionic harvest chance -->
+  <bionicChanceTitle>Probabilidad de extracción de biónicos</bionicChanceTitle>
+  <!-- EN: Maximum chance to harvest each individual bionic component when using specified recipe.  Actual value is equal to pawns surgery success chance. -->
+  <bionicChanceDescription>Probabilidad máxima de extraer cada componente biónico individual al usar la receta especificada. El valor real es igual a la probabilidad de éxito de la cirugía del colono.</bionicChanceDescription>
+  <!-- EN: Valid corpse age -->
+  <corpseAgeTitle>Edad válida del cadáver</corpseAgeTitle>
+  <!-- EN: Number of hours during which natural organs can be harvested -->
+  <corpseAgeDescription>Número de horas durante las cuales se pueden extraer órganos naturales</corpseAgeDescription>
+  <!-- EN: Max number of parts -->
+  <numberPartsTitle>Número máx. de partes</numberPartsTitle>
+  <!-- EN: Maximum number of organs and bionics that can be harvested from a single corpse -->
+  <numberPartsDescription>Número máximo de órganos y biónicos que se pueden extraer de un solo cadáver</numberPartsDescription>
+  <!-- EN: Medical skill scaling -->
+  <skillScalingTitle>Escalado de habilidad médica</skillScalingTitle>
+  <!-- EN: Dictates how much does pawn medical surgery success chance scales when performing autopsy -->
+  <skillScalingDescription>Dicta cuánto escala la probabilidad de éxito de la cirugía médica del colono al realizar una autopsia</skillScalingDescription>
+  <!-- EN: Decay while frozen -->
+  <frozenDecayTitle>Deterioro mientras está congelado</frozenDecayTitle>
+  <!-- EN: Sets how fast natural organs decay while body is frozen compared to warm -->
+  <frozenDecayDescription>Establece qué tan rápido se deterioran los órganos naturales mientras el cuerpo está congelado en comparación con cuando está caliente</frozenDecayDescription>
+
+</LanguageData>

@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+    <!-- EN: Mounted weapon -->
+    <!-- EN: Mounted weapon -->
+  <FFF.MountedWeapon>Arma montada</FFF.MountedWeapon>
+    <!-- EN: This weapon can only be equipped with listed automatroid or mechframe -->
+    <!-- EN: This weapon can only be equipped with listed automatroid or mech frame -->
+  <FFF.MountedWeaponCanOnlyBeEquippedBySpecificApparelOrRaces>Esta arma solo puede ser equipada con automatroide o exotraje listados</FFF.MountedWeaponCanOnlyBeEquippedBySpecificApparelOrRaces>
+    <!-- EN: This weapon can be equipped with listed specific apparel or bionics -->
+    <!-- EN: This weapon can be equipped with listed specific apparel or bionics -->
+  <FFF.WeaponCanBeEquippedBySpecificApparelOrRaces>Esta arma puede ser equipada con la ropa o biónicos específicos listados</FFF.WeaponCanBeEquippedBySpecificApparelOrRaces>
+
+    <!-- EN: Must be in listed tech level: -->
+  <FFF.Req_TechLevel>Debe estar en el nivel tecnológico listado:</FFF.Req_TechLevel>
+
+    <!-- EN: Can equip heavy weapon with bodysize requirement below:{0} -->
+  <FFF.Req_BodySize>Puede equipar armas pesadas con un requisito de tamaño corporal inferior a:{0}</FFF.Req_BodySize>
+
+    <!-- EN: Limited to use listed weapon below -->
+  <FFF.Req_WeaponFilter>Limitado al uso del arma listada a continuación</FFF.Req_WeaponFilter>
+
+    <!-- EN: No other weapon restrictions -->
+  <FFF.Req_NoWeaponFilter>Sin otras restricciones de armas</FFF.Req_NoWeaponFilter>
+
+    <!-- EN: bodysize not supported (need:{0}) -->
+    <!-- EN: bodysize not supported (need:{0}) -->
+  <FFF.Reason.BodysizeNotSupported>tamaño corporal no compatible (necesita:{0})</FFF.Reason.BodysizeNotSupported>
+
+</LanguageData>

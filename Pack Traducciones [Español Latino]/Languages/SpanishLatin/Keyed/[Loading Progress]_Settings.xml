@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LoadingProgress.Bottom>Abajo</LoadingProgress.Bottom>
+  <LoadingProgress.Custom>Personalizado</LoadingProgress.Custom>
+  <LoadingProgress.LastLoadingTime>Mostrar tiempo de carga</LoadingProgress.LastLoadingTime>
+  <LoadingProgress.LastLoadingTime.Tip>Cuando está activado, el mod mostrará el tiempo transcurrido hasta ahora. Una vez que el juego se haya cargado al menos una vez, lo guardará para la próxima vez y lo usará como el tiempo de carga estimado para la siguiente sesión de carga.</LoadingProgress.LastLoadingTime.Tip>
+  <LoadingProgress.LastLoadingTimeInCorner>Mostrar tiempo de carga en la esquina inferior derecha del menú principal</LoadingProgress.LastLoadingTimeInCorner>
+  <LoadingProgress.LastLoadingTimeInCorner.Tip>Cuando está activado, el mod mostrará el tiempo que tardó en cargar el juego en la esquina inferior derecha del menú principal.</LoadingProgress.LastLoadingTimeInCorner.Tip>
+  <LoadingProgress.LastLoadingTimeProgressBar> - Mostrar barra de progreso del tiempo de carga</LoadingProgress.LastLoadingTimeProgressBar>
+  <LoadingProgress.LastLoadingTimeProgressBar.Tip>Cuando está activado, el mod mostrará una barra de progreso durante la carga que indica cuánto tiempo ha pasado desde que el juego comenzó a cargar en comparación con el tiempo esperado.</LoadingProgress.LastLoadingTimeProgressBar.Tip>
+  <LoadingProgress.LoadingTimeAsCountDown>Mostrar tiempo de carga como cuenta regresiva</LoadingProgress.LoadingTimeAsCountDown>
+  <LoadingProgress.LoadingTimeAsCountDown.Tip>Cuando está activado, el mod mostrará el tiempo de carga como una cuenta regresiva, comenzando desde el tiempo de carga estimado. Esto es útil para ver cuánto tiempo queda hasta que el juego esté completamente cargado.</LoadingProgress.LoadingTimeAsCountDown.Tip>
+  <LoadingProgress.LoadingWindowPlacement>Ubicación de la ventana de carga</LoadingProgress.LoadingWindowPlacement>
+  <LoadingProgress.Middle>Medio</LoadingProgress.Middle>
+  <LoadingProgress.PatchInitialization>Parchear código de inicialización de carga tardía para mostrar el progreso de carga</LoadingProgress.PatchInitialization>
+  <LoadingProgress.PatchInitialization.Tip>Cuando está activado, el mod parcheará la parte del proceso de inicio de RimWorld donde el juego normalmente se cuelga para hacerlo más responsivo. Esto permite al mod rastrear y mostrar el progreso de carga para cada constructor estático. Esto no debería causar ningún problema a menos que estés usando mods que hayan apuntado muy específicamente a este código y sean muy sensibles al tiempo.\n\nSi experimentas algún problema con Loading Progress, intenta desactivar esta opción para ver si se resuelve el problema.</LoadingProgress.PatchInitialization.Tip>
+  <LoadingProgress.PatchReloadContent>Parchear código de carga de contenido para mostrar el progreso de carga</LoadingProgress.PatchReloadContent>
+  <LoadingProgress.PatchReloadContent.Tip>Cuando está activado, el mod reemplazará el método que carga el contenido de los mods para rastrear y mostrar el progreso de carga de cada paquete de contenido que se está recargando. Esto no debería causar ningún problema a menos que estés usando mods que hayan apuntado muy específicamente a este código. El mod registrará una advertencia si detecta que otros mods están parcheando este código.\n\nSi experimentas algún problema con Loading Progress, intenta desactivar esta opción para ver si se resuelve el problema. No dudes en informar cualquier problema que encuentres con mods que activaron el mensaje de advertencia.</LoadingProgress.PatchReloadContent.Tip>
+  <LoadingProgress.ShowFasterGameLoadingEarlyModContentLoading>Mostrar progreso de carga temprana de contenido de mods de Faster Game Loading</LoadingProgress.ShowFasterGameLoadingEarlyModContentLoading>
+  <LoadingProgress.ShowFasterGameLoadingEarlyModContentLoading.Tip>Cuando está activado y Faster Game Loading está activo, el mod mostrará un indicador de carga adicional para el contenido de mods que se carga de forma temprana durante el proceso de inicio del juego.</LoadingProgress.ShowFasterGameLoadingEarlyModContentLoading.Tip>
+  <LoadingProgress.Top>Arriba</LoadingProgress.Top>
+</LanguageData>

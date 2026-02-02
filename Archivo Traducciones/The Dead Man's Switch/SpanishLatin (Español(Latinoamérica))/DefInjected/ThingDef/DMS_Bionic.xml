@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Nutrition port -->
+  <DMS_NutrientPort.label>puerto de nutrición</DMS_NutrientPort.label>
+  <!-- EN: A total overhaul of the patient's digestive system, replacing it with a fueling port and nutrient storage. -->
+  <DMS_NutrientPort.description>Una revisión total del sistema digestivo del paciente, reemplazándolo con un puerto de alimentación y almacenamiento de nutrientes.</DMS_NutrientPort.description>
+  
+  <!-- EN: Mechaneural Arm -->
+  <DMS_ProstheticArm.label>brazo mecaneural</DMS_ProstheticArm.label>
+  <!-- EN: An advanced artificial arm. Features Silenced mini-servos which provide great strength while the biogel nerve-link gives exquisite control. A lattice-dust healing system allows it to recover from damage. It is better than a biological arm in almost every way. -->
+  <DMS_ProstheticArm.description>Un brazo artificial avanzado. Cuenta con mini-servos silenciados que proporcionan gran fuerza, mientras que el enlace nervioso de biogel brinda un control exquisito. Un sistema de curación de polvo de celosía le permite recuperarse de los daños. Es mejor que un brazo biológico en casi todos los sentidos.</DMS_ProstheticArm.description>
+  
+  <!-- EN: Mechaneural Visual Sensor -->
+  <DMS_ProstheticEye.label>sensor visual mecaneural</DMS_ProstheticEye.label>
+  <!-- EN: An artificial light receiver with an integrated nerve-link. The sensor is equipped with night vision and aim assistance making it superior to its biological counterpart. -->
+  <DMS_ProstheticEye.description>Un receptor de luz artificial con un enlace nervioso integrado. El sensor está equipado con visión nocturna y asistencia de puntería, lo que lo hace superior a su contraparte biológica.</DMS_ProstheticEye.description>
+  
+  <!-- EN: Mechaneural kidney -->
+  <DMS_ProstheticKidney.label>riñón mecaneural</DMS_ProstheticKidney.label>
+  <!-- EN: A biocompatible liquid filter implant that filters impurities and waste products out of the blood through osmotic pressure to ensure the acid-base balance of the implantee's internal circulatory system. -->
+  <DMS_ProstheticKidney.description>Un implante de filtro líquido biocompatible que filtra las impurezas y los productos de desecho de la sangre a través de la presión osmótica para asegurar el equilibrio ácido-base del sistema circulatorio interno del implantado.</DMS_ProstheticKidney.description>
+  
+  <!-- EN: Mechaneural leg -->
+  <DMS_ProstheticLeg.label>pierna mecaneural</DMS_ProstheticLeg.label>
+  <!-- EN: An advanced artificial leg. With its biogel nerve-link, powerful mini-servos, and lattice-dust healing system, it is better than a biological leg in almost every way. -->
+  <DMS_ProstheticLeg.description>Una pierna artificial avanzada. Con su enlace nervioso de biogel, potentes mini-servos y sistema de curación de polvo de celosía, es mejor que una pierna biológica en casi todos los sentidos.</DMS_ProstheticLeg.description>
+  
+  <!-- EN: Mechaneural lung -->
+  <DMS_ProstheticLung.label>pulmón mecaneural</DMS_ProstheticLung.label>
+  <!-- EN: A plasteel fiber-based membrane lung prosthesis. It works like an artificial lung. During World War III, due to the lack of protective equipment, most soldiers were exposed to highly concentrated nuclear, biological, and chemical pollution, which caused massive ulceration and paralysis of respiratory organs. These types of prostheses were widely used in the military and gradually perfected through frontline surgeries and rehabilitation efforts for disabled soldiers. -->
+  <DMS_ProstheticLung.description>Una prótesis pulmonar de membrana basada en fibra de plastiacero. Funciona como un pulmón artificial. Durante la tercera guerra mundial, debido a la falta de equipo de protección, la mayoría de los soldados estuvieron expuestos a contaminación nuclear, biológica y química altamente concentrada, lo que causó ulceración masiva y parálisis de los órganos respiratorios. Este tipo de prótesis se utilizaron ampliamente en el ejército y se perfeccionaron gradualmente a través de cirugías en el frente y esfuerzos de rehabilitación para soldados discapacitados.</DMS_ProstheticLung.description>
+  
+  <!-- EN: Biomechanical neurochord -->
+  <DMS_ProstheticSpine.label>neurocordón biomecánico</DMS_ProstheticSpine.label>
+  <!-- EN: An advanced biomechanical spine which works as a sub-brain which is compatible with other prostheses sharing the reflex nerves. -->
+  <DMS_ProstheticSpine.description>Una columna biomecánica avanzada que funciona como un subcerebro compatible con otras prótesis que comparten los nervios y reflejos.</DMS_ProstheticSpine.description>
+  <!-- EN: Implant {0_label} -->
+  <DMS_ProstheticSpine.comps.CompUsableImplant.useLabel>Implantar {0_label}</DMS_ProstheticSpine.comps.CompUsableImplant.useLabel>
+  
+  <!-- EN: Emotion Filter -->
+  <DMS_SensoryFilter.label>neutralizador emocional</DMS_SensoryFilter.label>
+  <!-- EN: An emotion filter which screens most non-essential emotions out of the patient's brain, but leaves basic essential emotionality relatively intact. This allows the patient to still form relationships with others while stile being a perfect soldier during war. While better than an Emotional Neutralizer, the filter is still inhumane. -->
+  <DMS_SensoryFilter.description>Un filtro de emociones que elimina la mayoría de las emociones no esenciales del cerebro del paciente, pero deja la emocionalidad esencial básica relativamente intacta. Esto permite al paciente seguir formando relaciones con otros mientras sigue siendo un soldado perfecto durante la guerra aunque el filtro sigue siendo inhumano.</DMS_SensoryFilter.description>
+  
+  <!-- EN: Biosynthetic arm -->
+  <DMS_SyntheticArm.label>brazo biosintético</DMS_SyntheticArm.label>
+  <!-- EN: An advanced artificial arm composed of synthetic muscles and plasfiber skin grown on bone made by tungsteel. -->
+  <DMS_SyntheticArm.description>Un brazo artificial avanzado compuesto de músculos sintéticos y piel de plasfibra cultivada sobre hueso hecho de tungstanio.</DMS_SyntheticArm.description>
+  
+  <!-- EN: Biosynthetic leg -->
+  <DMS_SyntheticLeg.label>pierna biosintética</DMS_SyntheticLeg.label>
+  <!-- EN: An advanced artificial leg. With its biogel nerve-link, powerful mini-servos, and lattice-dust healing system, it is better than a biological leg in almost every way. -->
+  <DMS_SyntheticLeg.description>Una pierna artificial avanzada. Con su enlace nervioso de biogel, potentes mini-servos y sistema de curación de polvo de celosía, es mejor que una pierna biológica en casi todos los sentidos.</DMS_SyntheticLeg.description>
+  
+</LanguageData>

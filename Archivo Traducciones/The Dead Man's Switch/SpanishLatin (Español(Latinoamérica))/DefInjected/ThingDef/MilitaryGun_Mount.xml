@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Flameblaster -->
+  <DMS_Flameblaster.label>lanzallamas</DMS_Flameblaster.label>
+  <!-- EN: A flame launcher used by mechs that can and will ignite flammable materials within its range.\n\nThis weapon is designed specifically for mounted use, so only specific units can equip it. -->
+  <DMS_Flameblaster.description>Un lanzallamas utilizado por mecas que puede y encenderá materiales inflamables dentro de su alcance.\n\nEsta arma está diseñada específicamente para uso montado, por lo que solo unidades específicas pueden equiparla.</DMS_Flameblaster.description>
+  <!-- EN: stock -->
+  <DMS_Flameblaster.tools.stock.label>culata</DMS_Flameblaster.tools.stock.label>
+  <!-- EN: barrel -->
+  <DMS_Flameblaster.tools.barrel-0.label>cañón</DMS_Flameblaster.tools.barrel-0.label>
+  <!-- EN: barrel -->
+  <DMS_Flameblaster.tools.barrel-1.label>cañón</DMS_Flameblaster.tools.barrel-1.label>
+  <!-- EN: Flameblaster -->
+  <DMS_Flameblaster.verbs.Verb_SpewFire.label>lanzallamas</DMS_Flameblaster.verbs.Verb_SpewFire.label>
+  
+  <!-- EN: Kord -->
+  <DMS_Gun_Kord_Vehicle.label>kord</DMS_Gun_Kord_Vehicle.label>
+  <!-- EN: Kord anti-everything machinegun chambered in death.\n\nThis weapon is designed specifically for mounted use, so only specific units can equip it. -->
+  <DMS_Gun_Kord_Vehicle.description>ametralladora antiespecie con recámara de muerte.\n\nEsta arma está diseñada específicamente para uso montado, por lo que solo unidades específicas pueden equiparla.</DMS_Gun_Kord_Vehicle.description>
+  <!-- EN: Kord -->
+  <DMS_Gun_Kord_Vehicle.verbs.Verb_Shoot.label>kord</DMS_Gun_Kord_Vehicle.verbs.Verb_Shoot.label>
+  
+  <!-- EN: 2B9A Vasilek -->
+  <DMS_Gun_Vasilek_B.label>cañon vasilek</DMS_Gun_Vasilek_B.label>
+  <!-- EN: An ancient design for rapid fire indirect artillery fire. The Vasilek can fire four mortar rounds in one burst. -->
+  <DMS_Gun_Vasilek_B.description>Un diseño antiguo para fuego de artillería indirecta de disparo rápido. El vasilek puede disparar cuatro proyectiles de mortero en una ráfaga.</DMS_Gun_Vasilek_B.description>
+  <!-- EN: 2B9A Vasilek -->
+  <DMS_Gun_Vasilek_B.verbs.Verb_Shoot.label>cañon vasilek</DMS_Gun_Vasilek_B.verbs.Verb_Shoot.label>
+  
+  <!-- EN: Mounted HMG -->
+  <DMS_HeavyMachineGunMounted.label>ametralladora pesada</DMS_HeavyMachineGunMounted.label>
+  <!-- EN: A heavy machine gun for mech soldiers or infantry support platforms.\n\nThis weapon is designed specifically for mounted use, so only specific units can equip it. -->
+  <DMS_HeavyMachineGunMounted.description>Una ametralladora pesada para soldados mecánicos o plataformas de apoyo de infantería.\n\nEsta arma está diseñada específicamente para uso montado, por lo que solo unidades específicas pueden equiparla.</DMS_HeavyMachineGunMounted.description>
+  <!-- EN: Mounted HMG -->
+  <DMS_HeavyMachineGunMounted.verbs.Verb_Shoot.label>ametralladora pesada</DMS_HeavyMachineGunMounted.verbs.Verb_Shoot.label>
+  
+  <!-- EN: Mounted LMG -->
+  <DMS_LightMachineGunMounted.label>ametralladora ligera</DMS_LightMachineGunMounted.label>
+  <!-- EN: A suppressive weapon chambered in a standard rifle round.\n\nThis weapon is designed specifically for mounted use, so only specific units can equip it. -->
+  <DMS_LightMachineGunMounted.description>Un arma supresora con recámara para un proyectil de rifle estándar.\n\nEsta arma está diseñada específicamente para uso montado, por lo que solo unidades específicas pueden equiparla.</DMS_LightMachineGunMounted.description>
+  <!-- EN: Mounted LMG -->
+  <DMS_LightMachineGunMounted.verbs.Verb_Shoot.label>ametralladora ligera</DMS_LightMachineGunMounted.verbs.Verb_Shoot.label>
+  
+  <!-- EN: Close Inbound Defense System -->
+  <DMS_ShotgunGunMounted.label>sistema de defensa cercana</DMS_ShotgunGunMounted.label>
+  <!-- EN: A multi-barrel shotgun designed to suppress enemies at close-range.\n\nThis weapon is designed specifically for mounted use, so only specific units can equip it. -->
+  <DMS_ShotgunGunMounted.description>Una escopeta de cañones múltiples diseñada para suprimir enemigos a corta distancia.\n\nEsta arma está diseñada específicamente para uso montado, por lo que solo unidades específicas pueden equiparla.</DMS_ShotgunGunMounted.description>
+  <!-- EN: Close Inbound Defense System -->
+  <DMS_ShotgunGunMounted.verbs.Verb_Shoot.label>sistema de defensa cercana</DMS_ShotgunGunMounted.verbs.Verb_Shoot.label>
+  
+  <!-- EN: Mounted SMG -->
+  <DMS_SubMachineGunMounted.label>subfusil montado</DMS_SubMachineGunMounted.label>
+  <!-- EN: A suppressive weapon chambered in pistol rounds.\n\nThis weapon is designed specifically for mounted use, so only specific units can equip it. -->
+  <DMS_SubMachineGunMounted.description>Un arma supresora con recámara para munición de pistola.\n\nEsta arma está diseñada específicamente para uso montado, por lo que solo unidades específicas pueden equiparla.</DMS_SubMachineGunMounted.description>
+  <!-- EN: Mounted SMG -->
+  <DMS_SubMachineGunMounted.verbs.Verb_Shoot.label>subfusil montado</DMS_SubMachineGunMounted.verbs.Verb_Shoot.label>
+  
+</LanguageData>

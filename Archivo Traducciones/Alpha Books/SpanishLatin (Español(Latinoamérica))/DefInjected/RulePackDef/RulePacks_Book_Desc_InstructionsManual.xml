@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>desc->[intro] [contentOverview]. [quirkStatement]. [qualityStatement][ending]</li>
+    <li>desc->[intro] [contentOverview]. [quirkStatement]. [qualityStatement][ending]</li>
+    <li>intro->Este [manualType] [writingQualityAdjective] promete guiarte a través de</li>
+    <li>intro->Un [manualType] [writingQualityAdjective] diseñado para simplificar</li>
+    <li>intro->Un intento [writingQualityAdjective] de explicar</li>
+    <li>intro->Una obra maestra [writingQualityAdjective] de instrucciones enrevesadas, cubriendo</li>
+    <li>contentOverview->el montaje de tus muebles modulares</li>
+    <li>contentOverview->el desconcertante proceso de construir tu nueva adquisición</li>
+    <li>contentOverview->cada tuerca, tornillo y misterioso cachivache</li>
+    <li>contentOverview->cómo convertir una pila de madera y tornillos en un objeto utilizable</li>
+    <li>contentOverview->la construcción de lo que eventualmente podría parecerse a muebles</li>
+    <li>quirkStatement->Siempre sobrará al menos una pieza, solo para mantenerte adivinando</li>
+    <li>quirkStatement->Prepárate para discutir sobre qué pieza estaba mal etiquetada</li>
+    <li>quirkStatement->Incluye diagramas crípticos que parecen requerir un título en jeroglíficos</li>
+    <li>quirkStatement->Presenta una página completa dedicada a herramientas que definitivamente no posees</li>
+    <li>quirkStatement->La mitad de los pasos faltan misteriosamente, pero eso es parte del encanto</li>
+    <li>quirkStatement->El resultado final puede no coincidir con la imagen, pero se mantendrá unido (probablemente)</li>
+    <li>quirkStatement->De alguna manera, todas las partes encajan... excepto esa</li>
+    <li>qualityStatement(quality==6)->Es un triunfo de claridad e ingenio, verdaderamente lo mejor de su tipo.</li>
+    <li>qualityStatement(quality==5)->Es una guía sólida y bien construida, con solo frustraciones menores.</li>
+    <li>qualityStatement(quality==4)->Es una guía funcional, aunque puede dejarte rascándote la cabeza a veces.</li>
+    <li>qualityStatement(quality==3)->Es un intento decente, aunque la vaguedad ocasional te ralentizará.</li>
+    <li>qualityStatement(quality==2)->Es frustrantemente vago, dejando mucho a prueba y error.</li>
+    <li>qualityStatement(quality==1)->Es confuso e incompleto, pero aún levemente útil.</li>
+    <li>qualityStatement(quality==0)->Es un desastre desconcertante, menos útil que una variedad aleatoria de imágenes.</li>
+    <li>writingQualityAdjective(quality==6)->brillantemente elaborado</li>
+    <li>writingQualityAdjective(quality==5)->cuidadosamente escrito</li>
+    <li>writingQualityAdjective(quality==4)->competentemente ensamblado</li>
+    <li>writingQualityAdjective(quality==3)->útil</li>
+    <li>writingQualityAdjective(quality==2)->tosco</li>
+    <li>writingQualityAdjective(quality==1)->torpemente escrito</li>
+    <li>writingQualityAdjective(quality==0)->apenas coherente</li>
+    <li>manualType->manual de montaje</li>
+    <li>manualType->guía de instrucciones</li>
+    <li>manualType->folleto de bricolaje</li>
+    <li>manualType->manual de instrucciones</li>
+    <li>ending->\n\nUna vez leído, este manual mejorará la velocidad de construcción de muebles básicos y luego se desmoronará en tornillos sueltos.</li>
+  -->
+  <ABooks_InstructionManual_Description.rulePack.rulesStrings>
+    <li>desc->[intro] [contentOverview]. [quirkStatement]. [qualityStatement][ending]</li>
+    <li>desc->[intro] [contentOverview]. [quirkStatement]. [qualityStatement][ending]</li>
+    <li>intro->Este [manualType] [writingQualityAdjective] promete guiarte a través de</li>
+    <li>intro->Un [manualType] [writingQualityAdjective] diseñado para simplificar</li>
+    <li>intro->Un intento [writingQualityAdjective] de explicar</li>
+    <li>intro->Una obra maestra [writingQualityAdjective] de instrucciones enrevesadas, cubriendo</li>
+    <li>contentOverview->el montaje de tus muebles modulares</li>
+    <li>contentOverview->el desconcertante proceso de construir tu nueva adquisición</li>
+    <li>contentOverview->cada tuerca, tornillo y misterioso cachivache</li>
+    <li>contentOverview->cómo convertir una pila de madera y tornillos en un objeto utilizable</li>
+    <li>contentOverview->la construcción de lo que eventualmente podría parecerse a muebles</li>
+    <li>quirkStatement->Siempre sobrará al menos una pieza, solo para mantenerte adivinando</li>
+    <li>quirkStatement->Prepárate para discutir sobre qué pieza estaba mal etiquetada</li>
+    <li>quirkStatement->Incluye diagramas crípticos que parecen requerir un título en jeroglíficos</li>
+    <li>quirkStatement->Presenta una página completa dedicada a herramientas que definitivamente no posees</li>
+    <li>quirkStatement->La mitad de los pasos faltan misteriosamente, pero eso es parte del encanto</li>
+    <li>quirkStatement->El resultado final puede no coincidir con la imagen, pero se mantendrá unido (probablemente)</li>
+    <li>quirkStatement->De alguna manera, todas las partes encajan... excepto esa</li>
+    <li>qualityStatement(quality==6)->Es un triunfo de claridad e ingenio, verdaderamente lo mejor de su tipo.</li>
+    <li>qualityStatement(quality==5)->Es una guía sólida y bien construida, con solo frustraciones menores.</li>
+    <li>qualityStatement(quality==4)->Es una guía funcional, aunque puede dejarte rascándote la cabeza a veces.</li>
+    <li>qualityStatement(quality==3)->Es un intento decente, aunque la vaguedad ocasional te ralentizará.</li>
+    <li>qualityStatement(quality==2)->Es frustrantemente vago, dejando mucho a prueba y error.</li>
+    <li>qualityStatement(quality==1)->Es confuso e incompleto, pero aún levemente útil.</li>
+    <li>qualityStatement(quality==0)->Es un desastre desconcertante, menos útil que una variedad aleatoria de imágenes.</li>
+    <li>writingQualityAdjective(quality==6)->brillantemente elaborado</li>
+    <li>writingQualityAdjective(quality==5)->cuidadosamente escrito</li>
+    <li>writingQualityAdjective(quality==4)->competentemente ensamblado</li>
+    <li>writingQualityAdjective(quality==3)->útil</li>
+    <li>writingQualityAdjective(quality==2)->tosco</li>
+    <li>writingQualityAdjective(quality==1)->torpemente escrito</li>
+    <li>writingQualityAdjective(quality==0)->apenas coherente</li>
+    <li>manualType->manual de montaje</li>
+    <li>manualType->guía de instrucciones</li>
+    <li>manualType->folleto de bricolaje</li>
+    <li>manualType->manual de instrucciones</li>
+    <li>ending->\n\nUna vez leído, este manual mejorará la velocidad de construcción de muebles básicos y luego se desmoronará en tornillos sueltos.</li>
+  </ABooks_InstructionManual_Description.rulePack.rulesStrings>
+  
+</LanguageData>

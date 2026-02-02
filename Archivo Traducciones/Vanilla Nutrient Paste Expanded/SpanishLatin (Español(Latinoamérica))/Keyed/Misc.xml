@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+	<!-- EN: Switches nutrient paste flow on/off. -->
+  <VNPE_NutValve>Abre o cierra el flujo de pasta nutritiva.</VNPE_NutValve>
+	<!-- EN: Switches nutrient paste flow on/off. A pawn will come open/close the valve. -->
+  <VNPE_NutValveDesc>Abre o cierra el flujo de pasta nutritiva. Un colono vendrá a abrir/cerrar la válvula.</VNPE_NutValveDesc>
+	<!-- EN: Drain vat -->
+  <VNPE_Drain>Vaciar tanque</VNPE_Drain>
+	<!-- EN: Drain vat content. This will remove any unwanted ingredients from the vat. -->
+  <VNPE_DrainDesc>Vacía el contenido del tanque. Esto eliminará cualquier ingrediente no deseado del tanque.</VNPE_DrainDesc>
+	<!-- EN: Extract 5 meals -->
+  <VNPE_Extract5>Extraer 5 raciones</VNPE_Extract5>
+	<!-- EN: Extract 10 meals -->
+  <VNPE_Extract10>Extraer 10 raciones</VNPE_Extract10>
+	<!-- EN: Extract 20 meals -->
+  <VNPE_Extract20>Extraer 20 raciones</VNPE_Extract20>
+	<!-- EN: Nutrient dripper feeding threshold -->
+  <VNPE_NutrientDripperThreshold>Umbral de alimentación del goteador de nutrientes</VNPE_NutrientDripperThreshold>
+	<!-- EN: By default, nutrient drippers will feed bed occupants when their hunger goes below 26%. You can tweak that value with this slider. -->
+  <VNPE_NutrientDripperThresholdDesc>Por defecto, los goteadores de nutrientes alimentarán a los ocupantes de las camas cuando su hambre baje del 26%. Puedes ajustar ese valor con este deslizador.</VNPE_NutrientDripperThresholdDesc>
+	<!-- EN: Reset -->
+  <VNPE_Reset>Restablecer</VNPE_Reset>
+</LanguageData>

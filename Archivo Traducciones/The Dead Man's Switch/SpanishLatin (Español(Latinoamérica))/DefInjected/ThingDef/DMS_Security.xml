@@ -1,0 +1,112 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: APT shell -->
+  <DMS_Bullet_CIWS.label>proyectil APT</DMS_Bullet_CIWS.label>
+  
+  <!-- EN: armor piercing shell -->
+  <DMS_Bullet_Dawnblade.label>proyectil perforante</DMS_Bullet_Dawnblade.label>
+  
+  <!-- EN: uranium APT shell -->
+  <DMS_Bullet_Kord.label>proyectil APT de uranio</DMS_Bullet_Kord.label>
+  
+  <!-- EN: Type 85 Multi-Purpose-Quick-Firing System -->
+  <DMS_Gun_Dawnblade.label>Sistema de disparo rápido multipropósito Tipo 85</DMS_Gun_Dawnblade.label>
+  <!-- EN: An automated artillery system widely used on small to medium-sized frigates and corvettes in colonial fleets. -->
+  <DMS_Gun_Dawnblade.description>Un sistema de artillería automatizado ampliamente utilizado en fragatas y corbetas de tamaño pequeño a mediano en flotas coloniales.</DMS_Gun_Dawnblade.description>
+  <!-- EN: Type 85 Multi-Purpose-Quick-Firing System -->
+  <DMS_Gun_Dawnblade.verbs.Verb_Shoot.label>Sistema de disparo rápido multipropósito Tipo 85</DMS_Gun_Dawnblade.verbs.Verb_Shoot.label>
+  
+  <!-- EN: Gatekeeper -->
+  <DMS_Gun_GateKeeper.label>torreta guardián</DMS_Gun_GateKeeper.label>
+  <!-- EN: A large-caliber multi-barreled autocannon, also known as the GAU-8 "Avenger". It's an ancient practical design with an extremely high rate of fire and a devastating effect on anything unfortunate enough to stand infront of it. -->
+  <DMS_Gun_GateKeeper.description>Un cañón automático de gran calibre y múltiples cañones, también conocido como GAU-8 "Avenger". Es un diseño práctico antiguo con una cadencia de fuego extremadamente alta y un efecto devastador sobre cualquier cosa lo suficientemente desafortunada como para interponerse en su camino.</DMS_Gun_GateKeeper.description>
+  <!-- EN: Gatekeeper -->
+  <DMS_Gun_GateKeeper.verbs.Verb_Shoot.label>torreta guardián</DMS_Gun_GateKeeper.verbs.Verb_Shoot.label>
+  
+  <!-- EN: kord -->
+  <DMS_Gun_Kord.label>kord</DMS_Gun_Kord.label>
+  <!-- EN: kord -->
+  <DMS_Gun_Kord.description>kord</DMS_Gun_Kord.description>
+  <!-- EN: kord -->
+  <DMS_Gun_Kord.verbs.Verb_Shoot.label>kord</DMS_Gun_Kord.verbs.Verb_Shoot.label>
+  
+  <!-- EN: MK44 BushMaster-II -->
+  <DMS_Gun_MK44_Navy.label>torreta de cañon pesada</DMS_Gun_MK44_Navy.label>
+  <!-- EN: The 30x173mm MK44 Bushmaster II autocannon, despite its modest 200 RPM rate of fire, achieves reliable defensive performance through good accuracy and adequate lethality. -->
+  <DMS_Gun_MK44_Navy.description>El cañón automático MK44 Bushmaster II de 30x173 mm, a pesar de su modesta cadencia de fuego de 200 RPM, logra un rendimiento defensivo confiable gracias a su buena precisión y letalidad adecuada.</DMS_Gun_MK44_Navy.description>
+  <!-- EN: MK44 BushMaster-II -->
+  <DMS_Gun_MK44_Navy.verbs.Verb_Shoot.label>torreta de cañon pesada</DMS_Gun_MK44_Navy.verbs.Verb_Shoot.label>
+  
+  <!-- EN: 2B9M vasilek -->
+  <DMS_Gun_Vasilek.label>cañon vasilek</DMS_Gun_Vasilek.label>
+  <!-- EN: An ancient design of rapid fire indirect artillery piece capabler of firing four mortar rounds in one burst. -->
+  <DMS_Gun_Vasilek.description>Un diseño antiguo de pieza de artillería indirecta de fuego rápido capaz de disparar cuatro proyectiles de mortero en una ráfaga.</DMS_Gun_Vasilek.description>
+  <!-- EN: 2B9M vasilek -->
+  <DMS_Gun_Vasilek.verbs.Verb_Shoot.label>2B9M vasilek</DMS_Gun_Vasilek.verbs.Verb_Shoot.label>
+  
+  <!-- EN: Dawnblade -->
+  <DMS_Turret_Dawnblade.label>torreta de cañon alba</DMS_Turret_Dawnblade.label>
+  <!-- EN: MPQFS-85 "Dawnblade" is an onboard multirole quick-firing cannon system. It uses drum magazines and an automatic revolver loader to permit a high rate of sustained fire.\n\nThe armor plating has been removed to allow emplacement to be redeployed as needed for heavy fire support. -->
+  <DMS_Turret_Dawnblade.description>El MPQFS-85 "Hoja del Alba" es un sistema de cañón de disparo rápido multirol a bordo. Utiliza cargadores de tambor y un cargador de revólver automático para permitir una alta cadencia de fuego sostenido.\n\nEl blindaje ha sido retirado para permitir que el emplazamiento sea redesplegado según sea necesario para un apoyo de fuego pesado.</DMS_Turret_Dawnblade.description>
+  <!-- EN: Barrel durability -->
+  <DMS_Turret_Dawnblade.comps.CompRefuelable.fuelGizmoLabel>Durabilidad del cañón</DMS_Turret_Dawnblade.comps.CompRefuelable.fuelGizmoLabel>
+  <!-- EN: Shots until barrel change -->
+  <DMS_Turret_Dawnblade.comps.CompRefuelable.fuelLabel>Disparos hasta el cambio de cañón</DMS_Turret_Dawnblade.comps.CompRefuelable.fuelLabel>
+  <!-- EN: Cannot fire: Needs new reinforced barrel. -->
+  <DMS_Turret_Dawnblade.comps.CompRefuelable.outOfFuelMessage>No puede disparar: Necesita un nuevo cañón reforzado.</DMS_Turret_Dawnblade.comps.CompRefuelable.outOfFuelMessage>
+  
+  <!-- EN: Gatekeeper -->
+  <DMS_Turret_GateKeeper.label>torreta guardián</DMS_Turret_GateKeeper.label>
+  <!-- EN: A large-caliber multi-barreled machine gun turret typically used on spacecraft and maritime ships. It has an extremely high rates of fire and devastating suppression capabilities. -->
+  <DMS_Turret_GateKeeper.description>Una torreta de ametralladora de gran calibre y múltiples cañones, típicamente utilizada en naves espaciales y barcos marítimos. Tiene una cadencia de fuego extremadamente alta y capacidades de supresión devastadoras.</DMS_Turret_GateKeeper.description>
+  <!-- EN: Barrel durability -->
+  <DMS_Turret_GateKeeper.comps.CompRefuelable.fuelGizmoLabel>Durabilidad del cañón</DMS_Turret_GateKeeper.comps.CompRefuelable.fuelGizmoLabel>
+  <!-- EN: Shots until barrel change -->
+  <DMS_Turret_GateKeeper.comps.CompRefuelable.fuelLabel>Disparos hasta el cambio de cañón</DMS_Turret_GateKeeper.comps.CompRefuelable.fuelLabel>
+  <!-- EN: Cannot shoot: Needs new reinforced barrel. -->
+  <DMS_Turret_GateKeeper.comps.CompRefuelable.outOfFuelMessage>No puede disparar: Necesita un nuevo cañón reforzado.</DMS_Turret_GateKeeper.comps.CompRefuelable.outOfFuelMessage>
+  
+  <!-- EN: MK44 BushMaster-II -->
+  <DMS_Turret_MK44_Navy.label>torreta de alta potencia</DMS_Turret_MK44_Navy.label>
+  <!-- EN: The 30x173mm MK44 Bushmaster II autocannon, despite its modest 200 RPM rate of fire, achieves reliable defensive performance through good accuracy and adequate lethality. -->
+  <DMS_Turret_MK44_Navy.description>El cañón automático MK44 Bushmaster II de 30x173 mm, a pesar de su modesta cadencia de fuego de 200 RPM, logra un rendimiento defensivo confiable gracias a su buena precisión y letalidad adecuada.</DMS_Turret_MK44_Navy.description>
+  <!-- EN: Barrel durability -->
+  <DMS_Turret_MK44_Navy.comps.CompRefuelable.fuelGizmoLabel>Durabilidad del cañón</DMS_Turret_MK44_Navy.comps.CompRefuelable.fuelGizmoLabel>
+  <!-- EN: Shots until barrel change -->
+  <DMS_Turret_MK44_Navy.comps.CompRefuelable.fuelLabel>Disparos hasta el cambio de cañón</DMS_Turret_MK44_Navy.comps.CompRefuelable.fuelLabel>
+  <!-- EN: Cannot shoot: Needs new reinforced barrel. -->
+  <DMS_Turret_MK44_Navy.comps.CompRefuelable.outOfFuelMessage>No puede disparar: Necesita un nuevo cañón reforzado.</DMS_Turret_MK44_Navy.comps.CompRefuelable.outOfFuelMessage>
+  
+  <!-- EN: Okhotnik -->
+  <DMS_Turret_Okhotnik.label>okhotnik</DMS_Turret_Okhotnik.label>
+  <!-- EN: An ancient design of a remote controlled turret widely used on armored vehicles and mech armor platforms. -->
+  <DMS_Turret_Okhotnik.description>Un diseño antiguo de torreta controlada a distancia ampliamente utilizada en vehículos blindados y plataformas de blindaje de mecanoides.</DMS_Turret_Okhotnik.description>
+  <!-- EN: Barrel durability -->
+  <DMS_Turret_Okhotnik.comps.CompRefuelable.fuelGizmoLabel>Durabilidad del cañón</DMS_Turret_Okhotnik.comps.CompRefuelable.fuelGizmoLabel>
+  <!-- EN: Shots until barrel change -->
+  <DMS_Turret_Okhotnik.comps.CompRefuelable.fuelLabel>Disparos hasta el cambio de cañón</DMS_Turret_Okhotnik.comps.CompRefuelable.fuelLabel>
+  <!-- EN: Cannot shoot: Needs new reinforced barrel. -->
+  <DMS_Turret_Okhotnik.comps.CompRefuelable.outOfFuelMessage>No puede disparar: Necesita un nuevo cañón reforzado.</DMS_Turret_Okhotnik.comps.CompRefuelable.outOfFuelMessage>
+  
+  <!-- EN: Sentry turret -->
+  <DMS_Turret_Sentry.label>torreta centinela</DMS_Turret_Sentry.label>
+  <!-- EN: A quick-deployed, disposable remote-controlled turret that can be used continuously for about 12 hours after being deployed. It will automatically shut down after the energy is used up. These type of equipments are usually deployed in urban combat environments to ambush enemies. -->
+  <DMS_Turret_Sentry.description>Una torreta controlada a distancia de despliegue rápido y desechable que puede usarse continuamente durante unas 12 horas después de ser desplegada. Se apagará automáticamente una vez que se agote la energía. Este tipo de equipos suelen desplegarse en entornos de combate urbano para emboscar enemigos.</DMS_Turret_Sentry.description>
+  <!-- EN: Battery power -->
+  <DMS_Turret_Sentry.comps.CompMechPowerCell.labelOverride>Energía de la batería</DMS_Turret_Sentry.comps.CompMechPowerCell.labelOverride>
+  <!-- EN: This turret has a limited battery life. Once it runs out, it will stop working entirely. -->
+  <DMS_Turret_Sentry.comps.CompMechPowerCell.tooltipOverride>Esta torreta tiene una duración de batería limitada. Una vez que se agote, dejará de funcionar por completo.</DMS_Turret_Sentry.comps.CompMechPowerCell.tooltipOverride>
+  
+  <!-- EN: Vasilek -->
+  <DMS_Turret_Vasilek.label>artillería vasilek</DMS_Turret_Vasilek.label>
+  <!-- EN: An ancient design of a rapid fire indirect artillery piece capable of firing four mortar rounds in one burst. -->
+  <DMS_Turret_Vasilek.description>Un diseño antiguo de pieza de artillería indirecta de fuego rápido capaz de disparar cuatro proyectiles de mortero en una ráfaga.</DMS_Turret_Vasilek.description>
+  <!-- EN: Barrel durability -->
+  <DMS_Turret_Vasilek.comps.CompRefuelable.fuelGizmoLabel>Durabilidad del cañón</DMS_Turret_Vasilek.comps.CompRefuelable.fuelGizmoLabel>
+  <!-- EN: Shots until barrel change -->
+  <DMS_Turret_Vasilek.comps.CompRefuelable.fuelLabel>Disparos hasta el cambio de cañón</DMS_Turret_Vasilek.comps.CompRefuelable.fuelLabel>
+  <!-- EN: Cannot fire: Needs new reinforced barrel. -->
+  <DMS_Turret_Vasilek.comps.CompRefuelable.outOfFuelMessage>No puede disparar: Necesita un nuevo cañón reforzado.</DMS_Turret_Vasilek.comps.CompRefuelable.outOfFuelMessage>
+  
+</LanguageData>

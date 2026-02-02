@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: Map Preview -->
+  <MapPreview.Title>Vista previa del mapa</MapPreview.Title>
+
+  <!-- EN: Preview -->
+  <MapPreview.Settings.Tab.Preview>Vista previa</MapPreview.Settings.Tab.Preview>
+  <!-- EN: Toolbar -->
+  <MapPreview.Settings.Tab.Toolbar>Barra de herramientas</MapPreview.Settings.Tab.Toolbar>
+  <!-- EN: Show map previews ... -->
+  <MapPreview.Settings.EnableMapPreviewHeader>Mostrar vistas previas del mapa;</MapPreview.Settings.EnableMapPreviewHeader>
+  <!-- EN: ... while starting a new game (choosing the tile to settle on) -->
+  <MapPreview.Settings.EnableMapPreviewInEntry>- al iniciar un nuevo juego (al elegir la casilla para establecerse)</MapPreview.Settings.EnableMapPreviewInEntry>
+  <!-- EN: ... while playing (on the world map screen) -->
+  <MapPreview.Settings.EnableMapPreviewInPlay>- mientras juegas (en la pantalla del mapa mundial)</MapPreview.Settings.EnableMapPreviewInPlay>
+  <!-- EN: Show world map toolbar ... -->
+  <MapPreview.Settings.EnableToolbarHeader>Mostrar barra de herramientas del mapa mundial;</MapPreview.Settings.EnableToolbarHeader>
+  <!-- EN: ... while starting a new game (choosing the tile to settle on) -->
+  <MapPreview.Settings.EnableToolbarInEntry>- al iniciar un nuevo juego (al elegir la casilla para establecerse)</MapPreview.Settings.EnableToolbarInEntry>
+  <!-- EN: ... while playing (on the world map screen) -->
+  <MapPreview.Settings.EnableToolbarInPlay>- mientras juegas (en la pantalla del mapa mundial)</MapPreview.Settings.EnableToolbarInPlay>
+  <!-- EN: Lock window positions -->
+  <MapPreview.Settings.LockWindowPositions>Bloquear posiciones de ventana</MapPreview.Settings.LockWindowPositions>
+  <!-- EN: Enable animation on preview completion -->
+  <MapPreview.Settings.EnablePreviewAnimations>Activar animación al completar la previsualización</MapPreview.Settings.EnablePreviewAnimations>
+  <!-- EN: Automatically open preview window when switching to the world map -->
+  <MapPreview.Settings.AutoOpenPreviewOnWorldMap>Abrir automáticamente la ventana de vista previa al cambiar al mapa mundial</MapPreview.Settings.AutoOpenPreviewOnWorldMap>
+  <!-- EN: Show map preview when a settlement or quest site is selected -->
+  <MapPreview.Settings.TriggerPreviewOnWorldObjects>Mostrar vista previa del mapa al seleccionar un asentamiento o sitio de misión</MapPreview.Settings.TriggerPreviewOnWorldObjects>
+  <!-- EN: Show map seed reroll button -->
+  <MapPreview.Settings.EnableSeedRerollFeature>Mostrar botón para volver a generar la semilla del mapa</MapPreview.Settings.EnableSeedRerollFeature>
+  <!-- EN: Show map seed reroll button (not available because Map Reroll mod is installed) -->
+  <MapPreview.Settings.EnableSeedRerollFeature.MapRerollConflict>Mostrar botón para volver a generar la semilla del mapa (no disponible porque el mod Map Reroll está instalado)</MapPreview.Settings.EnableSeedRerollFeature.MapRerollConflict>
+  <!-- EN: Use reroll helper window (hold shift when clicking reroll button to invert) -->
+  <MapPreview.Settings.EnableSeedRerollWindow>Ventana de ayuda para volver a generar la semilla (mantén presionada la tecla Shift al hacer clic en el botón para invertir)</MapPreview.Settings.EnableSeedRerollWindow>
+  <!-- EN: Show world seed reroll button -->
+  <MapPreview.Settings.EnableWorldSeedRerollFeature>Mostrar botón para volver a generar la semilla del mundo</MapPreview.Settings.EnableWorldSeedRerollFeature>
+  <!-- EN: Preview window size -->
+  <MapPreview.Settings.PreviewWindowSize>Tamaño de la ventana de vista previa</MapPreview.Settings.PreviewWindowSize>
+  <!-- EN: Include caves in preview (disable to make preview generation faster) -->
+  <MapPreview.Settings.IncludeCaves>Incluir cuevas en la vista previa (desactivar para acelerar la generación de la vista previa)</MapPreview.Settings.IncludeCaves>
+  <!-- EN: Use true terrain colors (enables support for terrain added by mods, also applies to Map Reroll) -->
+  <MapPreview.Settings.EnableTrueTerrainColors>Usar colores de terreno reales (permite el soporte para terrenos añadidos por mods, también se aplica a Map Reroll)</MapPreview.Settings.EnableTrueTerrainColors>
+  <!-- EN: Use river generator optimization (faster, but slightly different from vanilla) -->
+  <MapPreview.Settings.SkipRiverFlowCalc>Usar optimización del generador de ríos (más rápido, pero ligeramente diferente al vanilla)</MapPreview.Settings.SkipRiverFlowCalc>
+  <!-- EN: Compatibility mode (increases memory usage, but can help if you have mod compatibility issues) -->
+  <MapPreview.Settings.CompatibilityMode>Modo de compatibilidad (aumenta el uso de memoria, pero puede ayudar si tienes problemas de compatibilidad con mods)</MapPreview.Settings.CompatibilityMode>
+  <!-- EN: Refresh terrain colors -->
+  <MapPreview.Settings.RefreshTerrainColors>Actualizar colores de terreno</MapPreview.Settings.RefreshTerrainColors>
+  <!-- EN: Change map size or starting season -->
+  <MapPreview.Settings.OpenAdvancedGameConfig>Cambiar tamaño del mapa o estación de inicio</MapPreview.Settings.OpenAdvancedGameConfig>
+
+  <!-- EN: There is a map preview currently generating, please wait before continuing... -->
+  <MapPreview.World.WaitForPreview>Actualmente se está generando una vista previa del mapa, por favor espera antes de continuar...</MapPreview.World.WaitForPreview>
+  <!-- EN: Toggle map preview. -->
+  <MapPreview.World.ShowHidePreview>Alternar vista previa del mapa.</MapPreview.World.ShowHidePreview>
+  <!-- EN: Reroll the seed for this map. -->
+  <MapPreview.World.RerollMapSeed>Volver a generar la semilla para este mapa.</MapPreview.World.RerollMapSeed>
+  <!-- EN: Undo rerolls and reset the seed for this map to the original one. -->
+  <MapPreview.World.ResetMapSeed>Deshacer las repeticiones y restablecer la semilla para este mapa a la original.</MapPreview.World.ResetMapSeed>
+  <!-- EN: Generate a new world with a random seed. -->
+  <MapPreview.World.RerollWorldSeed>Generar un nuevo mundo con una semilla aleatoria.</MapPreview.World.RerollWorldSeed>
+  <!-- EN: Open Map Preview settings. -->
+  <MapPreview.World.OpenSettings>Abrir configuraciones de vista previa del mapa.</MapPreview.World.OpenSettings>
+
+  <!-- EN: Reroll Map Seed -->
+  <MapPreview.World.RerollWindow.Title>Volver a generar semilla del mapa</MapPreview.World.RerollWindow.Title>
+  <!-- EN: Close -->
+  <MapPreview.World.RerollWindow.Close>Cerrar</MapPreview.World.RerollWindow.Close>
+  <!-- EN: Refresh seeds (hold shift to jump) -->
+  <MapPreview.World.RerollWindow.RefreshSeeds>Actualizar semillas (mantén presionada la tecla Shift para saltar)</MapPreview.World.RerollWindow.RefreshSeeds>
+  <!-- EN: Zoom out -->
+  <MapPreview.World.RerollWindow.ZoomOut>Alejar</MapPreview.World.RerollWindow.ZoomOut>
+  <!-- EN: Zoom in -->
+  <MapPreview.World.RerollWindow.ZoomIn>Acercar</MapPreview.World.RerollWindow.ZoomIn>
+  <!-- EN: Apply this seed -->
+  <MapPreview.World.RerollWindow.Apply>Aplicar esta semilla</MapPreview.World.RerollWindow.Apply>
+  <!-- EN: Pin this seed -->
+  <MapPreview.World.RerollWindow.Pin>Fijar esta semilla</MapPreview.World.RerollWindow.Pin>
+  <!-- EN: Unpin this seed -->
+  <MapPreview.World.RerollWindow.Unpin>Desfijar esta semilla</MapPreview.World.RerollWindow.Unpin>
+  <!-- EN: Enter number of rerolls: -->
+  <MapPreview.World.RerollWindow.GoTo.Label>Introduce el número de repeticiones:</MapPreview.World.RerollWindow.GoTo.Label>
+  <!-- EN: Invalid number, only digits and + are allowed. -->
+  <MapPreview.World.RerollWindow.GoTo.Invalid>Número inválido, solo se permiten dígitos y +.</MapPreview.World.RerollWindow.GoTo.Invalid>
+
+  <!-- EN: A conflict with one of your mods has caused the map preview generator to fail. Please report this on the Map Preview workshop page so that a compatibility patch can be created. After closing this message, please upload your log file and include that link in your bug report. -->
+  <MapPreview.PreviewGenerationFailed>Un conflicto con uno de tus mods ha causado que el generador de vista previa del mapa falle. Por favor, informa esto en la página del taller de Map Preview para que se pueda crear un parche de compatibilidad. Después de cerrar este mensaje, por favor sube tu archivo de registro e incluye ese enlace en tu informe de error.</MapPreview.PreviewGenerationFailed>
+
+  <!-- EN: Open Map Designer. -->
+  <MapPreview.Integration.MapDesigner.OpenSettings>Abrir Diseñador de Mapas.</MapPreview.Integration.MapDesigner.OpenSettings>
+  <!-- EN: Map Designer can not be used on this tile. -->
+  <MapPreview.Integration.MapDesigner.UnavailableForTile>El Diseñador de Mapas no puede ser utilizado en esta casilla.</MapPreview.Integration.MapDesigner.UnavailableForTile>
+  <!-- EN: Show Map Designer button -->
+  <MapPreview.Integration.MapDesigner.Enabled>Mostrar botón de Diseñador de Mapas</MapPreview.Integration.MapDesigner.Enabled>
+
+  <!-- EN: Open Prepare Landing. -->
+  <MapPreview.Integration.PrepareLanding.Open>Abrir Preparar Aterrizaje.</MapPreview.Integration.PrepareLanding.Open>
+  <!-- EN: Show Prepare Landing button -->
+  <MapPreview.Integration.PrepareLanding.Enabled>Mostrar botón de Preparar Aterrizaje</MapPreview.Integration.PrepareLanding.Enabled>
+
+  <!-- EN: Open World Edit. -->
+  <MapPreview.Integration.WorldEdit.Open>Abrir Edición Mundial.</MapPreview.Integration.WorldEdit.Open>
+  <!-- EN: Show World Edit button -->
+  <MapPreview.Integration.WorldEdit.Enabled>Mostrar botón de Edición Mundial</MapPreview.Integration.WorldEdit.Enabled>
+
+  <!-- EN: Open landform settings. -->
+  <MapPreview.Integration.LandformSettings.Open>Abrir ajustes de formas de terreno.</MapPreview.Integration.LandformSettings.Open>
+  <!-- EN: Show landform settings button -->
+  <MapPreview.Integration.LandformSettings.Enabled>Mostrar botón de ajustes de formas de terreno</MapPreview.Integration.LandformSettings.Enabled>
+
+</LanguageData>

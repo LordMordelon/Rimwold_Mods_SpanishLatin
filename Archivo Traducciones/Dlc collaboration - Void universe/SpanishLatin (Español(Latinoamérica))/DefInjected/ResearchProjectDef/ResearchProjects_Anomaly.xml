@@ -1,0 +1,227 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: dark infusion -->
+  <UV_Project_DarkInfusion.label>infusión oscura</UV_Project_DarkInfusion.label>
+  <!-- EN: Performs a psychic ritual that envelops all allied units within the shard's reach with void-walking capability, allowing safe operation in space for a brief period. -->
+  <UV_Project_DarkInfusion.description>Realiza un ritual psíquico que envuelve a todas las unidades aliadas al alcance del fragmento con la capacidad de caminar por el vacío, permitiendo operar de forma segura en el espacio por un breve periodo.</UV_Project_DarkInfusion.description>
+  <!-- EN:
+    <li>subject->Vacuum Survival Ritual</li>
+    <li>subject_story-> Mastered an esoteric technique to drastically reduce oxygen need through deep meditation</li>
+    <li>subject_story-> Joined an extreme cult that screened followers through vacuum chamber rituals</li>
+    <li>subject_story-> Completed a ten-minute survival ritual in space vacuum without any protection</li>
+    <li>subject_story-> Bears ancient tattoos said to form an invisible protective layer in vacuum</li>
+    <li>subject_gerund-> Performing vacuum survival rituals</li>
+    <li>subject_gerund-> Inscribing vacuum-protection runes on spacesuits</li>
+  -->
+  <UV_Project_DarkInfusion.generalRules.rulesStrings>
+    <li>subject->Ritual de supervivencia en el vacío</li>
+    <li>subject_story->Dominó una técnica esotérica para reducir drásticamente la necesidad de oxígeno mediante la meditación profunda</li>
+    <li>subject_story->Se unió a un culto extremo que examinaba a sus seguidores mediante rituales en cámaras de vacío</li>
+    <li>subject_story->Completó un ritual de supervivencia de diez minutos en el vacío del espacio sin ninguna protección</li>
+    <li>subject_story->Lleva tatuajes antiguos que se dice que forman una capa protectora invisible en el vacío</li>
+    <li>subject_gerund->Realizando rituales de supervivencia en el vacío</li>
+    <li>subject_gerund->Inscribiendo runas de protección contra el vacío en trajes espaciales</li>
+  </UV_Project_DarkInfusion.generalRules.rulesStrings>
+  
+  <!-- EN: distorted terraformer -->
+  <UV_Project_DistortedTerraformer.label>terraformador distorsionado</UV_Project_DistortedTerraformer.label>
+  <!-- EN: Unlocks build a Biometal-powered Terraformer that generates breathable safe zones in space and significantly raises the region's minimum temperature. -->
+  <UV_Project_DistortedTerraformer.description>Desbloquea la construcción de un terraformador alimentado por biometal que genera zonas seguras respirables en el espacio y eleva significativamente la temperatura mínima de la región.</UV_Project_DistortedTerraformer.description>
+  <!-- EN:
+    <li>subject->Supernatural Terraforming</li>
+    <li>subject_story-> Led eco-dome construction on a planet enveloped by lethal atmosphere</li>
+    <li>subject_story-> Researched using native microbiota to rapidly purify toxic environments</li>
+    <li>subject_story-> Accidentally turned a desert into a permanent fluorescent swamp due to failed weather control experiment</li>
+    <li>subject_gerund-> Reshaping local climate by channeling telluric energies</li>
+  -->
+  <UV_Project_DistortedTerraformer.generalRules.rulesStrings>
+    <li>subject->Terraformación sobrenatural</li>
+    <li>subject_story->Dirigió la construcción de ecodomos en un planeta envuelto por una atmósfera letal</li>
+    <li>subject_story->Investigó el uso de microbiota nativa para purificar rápidamente entornos tóxicos</li>
+    <li>subject_story->Convirtió accidentalmente un desierto en un pantano fluorescente permanente debido a un experimento fallido de control climático</li>
+    <li>subject_gerund->Remodelando el clima local mediante la canalización de energías telúricas</li>
+  </UV_Project_DistortedTerraformer.generalRules.rulesStrings>
+  
+  <!-- EN: entity anatomy table -->
+  <UV_Project_EntityAnatomyTable.label>mesa de anatomía de entidades</UV_Project_EntityAnatomyTable.label>
+  <!-- EN: Unlocks build a research bench for dissecting entity corpses to gain Anomaly research points. Yields no leather, meat, or filth. -->
+  <UV_Project_EntityAnatomyTable.description>Desbloquea la construcción de una mesa de investigación para diseccionar cadáveres de entidades y obtener puntos de investigación de Anomalía. No produce cuero, carne ni suciedad.</UV_Project_EntityAnatomyTable.description>
+  <!-- EN:
+    <li>subject->Entity Autopsy</li>
+    <li>subject_story-> Performed systematic biological dissection on a non-carbon-based extraterrestrial lifeform</li>
+    <li>subject_story-> Worked at a clandestine research institute dedicated to classifying unknown biological entities</li>
+    <li>subject_story-> Discovered and documented numerous abnormal organ functions from Void creatures</li>
+    <li>subject_story-> Caused partial reassembly of a dissected entity specimen on the operating table due to operational error, triggering a containment breach</li>
+    <li>subject_gerund-> Dissecting entities to study their biological characteristics</li>
+  -->
+  <UV_Project_EntityAnatomyTable.generalRules.rulesStrings>
+    <li>subject->Autopsia de entidades</li>
+    <li>subject_story->Realizó una disección biológica sistemática en una forma de vida extraterrestre no basada en el carbono</li>
+    <li>subject_story->Trabajó en un instituto de investigación clandestino dedicado a clasificar entidades biológicas desconocidas</li>
+    <li>subject_story->Descubrió y documentó numerosas funciones orgánicas anormales de criaturas del vacío</li>
+    <li>subject_story->Provocó el reensamblaje parcial de un espécimen de entidad diseccionado en la mesa de operaciones debido a un error operativo, desencadenando una brecha de contención</li>
+    <li>subject_gerund->Diseccionando entidades para estudiar sus características biológicas</li>
+  </UV_Project_EntityAnatomyTable.generalRules.rulesStrings>
+  
+  <!-- EN: flesh sealing -->
+  <UV_Project_FleshSealing.label>sellado de carne</UV_Project_FleshSealing.label>
+  <!-- EN: Perform a psychic ritual that seal the fleshmass nucleus within a specialized vessel that automatically purges newly formed warped flesh and converts it into stored chemfuel. Compatible with grav ship fuel systems. -->
+  <UV_Project_FleshSealing.description>Realiza un ritual psíquico que sella el núcleo de masacarne dentro de un recipiente especializado que purga automáticamente la carne deformada recién formada y la convierte en quimbustible almacenado. Compatible con los sistemas de combustible de las naves gravitatorias.</UV_Project_FleshSealing.description>
+  <!-- EN:
+    <li>subject->Flesh Preservation</li>
+    <li>subject_story-> Developed technology to preserve biological tissue permanently in stasis fields</li>
+    <li>subject_story-> Managed a gene bank storing rare alien biological specimens</li>
+    <li>subject_story-> Accidentally activated a preserved predator embryo causing severe consequences</li>
+    <li>subject_gerund-> Containing living flesh in stasis capsules</li>
+  -->
+  <UV_Project_FleshSealing.generalRules.rulesStrings>
+    <li>subject->Preservación de la carne</li>
+    <li>subject_story->Desarrolló tecnología para preservar tejido biológico permanentemente en campos de estasis</li>
+    <li>subject_story->Administró un banco de genes que almacenaba especímenes biológicos alienígenas raros</li>
+    <li>subject_story->Activó accidentalmente un embrión de depredador preservado causando graves consecuencias</li>
+    <li>subject_gerund->Conteniendo carne viva en cápsulas de estasis</li>
+  </UV_Project_FleshSealing.generalRules.rulesStrings>
+  
+  <!-- EN: gold canary -->
+  <UV_Project_GoldCanary.label>canario dorado</UV_Project_GoldCanary.label>
+  <!-- EN: Using a Golden Cube, create an invulnerable legendary creature that provides a mood boost to the entire area. -->
+  <UV_Project_GoldCanary.description>Usando un Cubo Dorado, crea una criatura legendaria invulnerable que proporciona una mejora de humor a toda el área.</UV_Project_GoldCanary.description>
+  <!-- EN:
+    <li>subject->Immortal Gold Canary</li>
+    <li>subject_story-> Researched legendary golden mechanical lifeforms capable of rebirth from flames</li>
+    <li>subject_story-> Restored an eternal guardian device left by ancient civilization</li>
+    <li>subject_story-> Witnessed Gold Canary healing radiation wounds across entire area with its glow</li>
+    <li>subject_gerund-> Seeking eternal blessings from the Gold Canary</li>
+  -->
+  <UV_Project_GoldCanary.generalRules.rulesStrings>
+    <li>subject->Canario dorado inmortal</li>
+    <li>subject_story->Investigó formas de vida mecánicas doradas legendarias capaces de renacer de las llamas</li>
+    <li>subject_story->Restauró un dispositivo guardián eterno dejado por una civilización antigua</li>
+    <li>subject_story->Presenció cómo un canario dorado curaba heridas por radiación en toda el área con su brillo</li>
+    <li>subject_gerund->Buscando bendiciones eternas del canario dorado</li>
+  </UV_Project_GoldCanary.generalRules.rulesStrings>
+  
+  <!-- EN: parallel dimension -->
+  <UV_Project_ParallelDimension.label>dimensión paralela</UV_Project_ParallelDimension.label>
+  <!-- EN: Performs a psychic ritual that transports the entire region to a similar yet distinct world, repairing grav ship wrecks and resetting nearby landmarks. -->
+  <UV_Project_ParallelDimension.description>Realiza un ritual psíquico que transporta a toda la región a un mundo similar pero distinto, reparando los restos de naves gravitatorias y restableciendo los puntos de referencia cercanos.</UV_Project_ParallelDimension.description>
+  <!-- EN:
+    <li>subject->Parallel Spacetime</li>
+    <li>subject_story-> Researched methods to briefly open rifts to resource-rich parallel dimensions</li>
+    <li>subject_story-> Briefly communicated with alternate-timeline self</li>
+    <li>subject_story-> Caused partial overlap of two similar but hostile timelines due to experiment accident</li>
+    <li>subject_gerund-> Scouting parallel timelines for rare resources</li>
+  -->
+  <UV_Project_ParallelDimension.generalRules.rulesStrings>
+    <li>subject->Espacio-tiempo paralelo</li>
+    <li>subject_story->Investigó métodos para abrir brevemente grietas a dimensiones paralelas ricas en recursos</li>
+    <li>subject_story->Se comunicó brevemente con una versión de sí mismo de una línea temporal alternativa</li>
+    <li>subject_story->Provocó el solapamiento parcial de dos líneas temporales similares pero hostiles debido a un accidente experimental</li>
+    <li>subject_gerund->Explorando líneas temporales paralelas en busca de recursos raros</li>
+  </UV_Project_ParallelDimension.generalRules.rulesStrings>
+  
+  <!-- EN: reveal information -->
+  <UV_Project_RevealInformation.label>revelar información</UV_Project_RevealInformation.label>
+  <!-- EN: Performs a psychic ritual to extract valuable information from the Void, revealing a quest location -->
+  <UV_Project_RevealInformation.description>Realiza un ritual psíquico para extraer información valiosa del vacío, revelando la ubicación de una misión.</UV_Project_RevealInformation.description>
+  <!-- EN:
+    <li>subject->Void Message</li>
+    <li>subject_story-> Deciphered non-Euclidean geometric signals from deep Void</li>
+    <li>subject_story-> Served as communications officer monitoring deep space anomalous radiation signals</li>
+    <li>subject_story-> Received warning message from future self but couldn't fully comprehend it</li>
+    <li>subject_gerund-> Decrypting encoded messages from the Void</li>
+  -->
+  <UV_Project_RevealInformation.generalRules.rulesStrings>
+    <li>subject->Mensaje del vacío</li>
+    <li>subject_story->Descifró señales geométricas no euclidianas del vacío profundo</li>
+    <li>subject_story->Sirvió como oficial de comunicaciones monitoreando señales de radiación anómalas del espacio profundo</li>
+    <li>subject_story->Recibió un mensaje de advertencia de su yo del futuro pero no pudo comprenderlo completamente</li>
+    <li>subject_gerund->Desencriptando mensajes codificados del vacío</li>
+  </UV_Project_RevealInformation.generalRules.rulesStrings>
+  
+  <!-- EN: ship cooldown -->
+  <UV_Project_ShipCooldown.label>enfriamiento de nave</UV_Project_ShipCooldown.label>
+  <!-- EN: Performs a psychic ritual that rapidly cools the grav ship's engine and increases the maximum range of its next voyage -->
+  <UV_Project_ShipCooldown.description>Realiza un ritual psíquico que enfría rápidamente el motor de la nave gravitatoria y aumenta el alcance máximo de su próximo viaje.</UV_Project_ShipCooldown.description>
+  <!-- EN:
+    <li>subject->Gravship Cooling Ritual</li>
+    <li>subject_story-> Studied ancient chanting methods said to channel heat into the Void through sonic waves</li>
+    <li>subject_story-> Discovered ritual patterns for "cooling" metals in a lost manuscript</li>
+    <li>subject_story-> Witnessed an old technician calm an overheating engine through chants and complex gestures</li>
+    <li>subject_story-> A ritual failure caused a ship engine to become permanently locked due to over-cooling</li>
+    <li>subject_gerund-> Presiding over starship cooling rituals</li>
+    <li>subject_gerund-> Chilling critical components by chanting cooling hymns</li>
+  -->
+  <UV_Project_ShipCooldown.generalRules.rulesStrings>
+    <li>subject->Ritual de enfriamiento de nave gravitatoria</li>
+    <li>subject_story->Estudió métodos de cánticos antiguos que se dice que canalizan el calor hacia el vacío a través de ondas sónicas</li>
+    <li>subject_story->Descubrió patrones rituales para "enfriar" metales en un manuscrito perdido</li>
+    <li>subject_story->Presenció a un viejo técnico calmar un motor sobrecalentado mediante cánticos y gestos complejos</li>
+    <li>subject_story->Un fallo en el ritual hizo que el motor de una nave quedara bloqueado permanentemente debido al exceso de enfriamiento</li>
+    <li>subject_gerund->Presidiendo rituales de enfriamiento de naves espaciales</li>
+    <li>subject_gerund->Enfriando componentes críticos mediante el canto de himnos de enfriamiento</li>
+  </UV_Project_ShipCooldown.generalRules.rulesStrings>
+  
+  <!-- EN: twisted reconstruction -->
+  <UV_Project_TwistedReconstruction.label>reconstrucción retorcida</UV_Project_TwistedReconstruction.label>
+  <!-- EN: Performs a psychic ritual that warps and mends the target's equipment using Void energy. -->
+  <UV_Project_TwistedReconstruction.description>Realiza un ritual psíquico que deforma y repara el equipo del objetivo usando energía del vacío.</UV_Project_TwistedReconstruction.description>
+  <!-- EN:
+    <li>subject->Gear Refabrication</li>
+    <li>subject_story-> Operated device capable of decomposing and reassembling molecular structures</li>
+    <li>subject_story-> Successfully refabricated scrap metal into functional power armor</li>
+    <li>subject_story-> Fused a weapon with user's arm during refabrication experiment</li>
+    <li>subject_gerund-> Refabricating useless equipment into useful tools</li>
+  -->
+  <UV_Project_TwistedReconstruction.generalRules.rulesStrings>
+    <li>subject->Refabricación de equipo</li>
+    <li>subject_story->Operó un dispositivo capaz de descomponer y reensamblar estructuras moleculares</li>
+    <li>subject_story->Refabricó con éxito chatarra en una armadura de potencia funcional</li>
+    <li>subject_story->Fusionó un arma con el brazo del usuario durante un experimento de refabricación</li>
+    <li>subject_gerund->Refabricando equipo inútil en herramientas útiles</li>
+  </UV_Project_TwistedReconstruction.generalRules.rulesStrings>
+  
+  <!-- EN: void field extender -->
+  <UV_Project_VoidFieldExtender.label>extensor de campo del vacío</UV_Project_VoidFieldExtender.label>
+  <!-- EN: Unlocks build a field extender that uses shard to replace the gravcore. -->
+  <UV_Project_VoidFieldExtender.description>Desbloquea la construcción de un extensor de campo que utiliza fragmentos para reemplazar el núcleo gravitatorio.</UV_Project_VoidFieldExtender.description>
+  <!-- EN:
+    <li>subject->Void Field Extender</li>
+    <li>subject_story-> Participated in experimental projects using Void energy to stabilize local spacetime structures</li>
+    <li>subject_story-> Maintained a remote matter transmission array based on grav engine principles</li>
+    <li>subject_story-> Researched methods to expand internal volume of enclosed spaces through gravitational field distortion</li>
+    <li>subject_story-> Briefly "stretched" a forest area into another dimension during prototype testing</li>
+    <li>subject_gerund-> Calibrating field effect parameters of Void Field Extenders</li>
+    <li>subject_gerund-> Deploying Void Field Extenders to increase grav ship payload capacity</li>
+  -->
+  <UV_Project_VoidFieldExtender.generalRules.rulesStrings>
+    <li>subject->Extensor de campo del vacío</li>
+    <li>subject_story->Participó en proyectos experimentales usando energía del vacío para estabilizar estructuras locales del espacio-tiempo</li>
+    <li>subject_story->Mantuvo una matriz de transmisión de materia remota basada en los principios del motor gravitatorio</li>
+    <li>subject_story->Investigó métodos para expandir el volumen interno de espacios cerrados mediante la distorsión del campo gravitatorio</li>
+    <li>subject_story->"Estiró" brevemente un área forestal hacia otra dimensión durante las pruebas del prototipo</li>
+    <li>subject_gerund->Calibrando parámetros de efecto de campo de los extensores de campo del vacío</li>
+    <li>subject_gerund->Desplegando extensores de campo del vacío para aumentar la capacidad de carga de la nave gravitatoria</li>
+  </UV_Project_VoidFieldExtender.generalRules.rulesStrings>
+  
+  <!-- EN: void monolithtech -->
+  <UV_Project_VoidThruster.label>propulsor del vacío</UV_Project_VoidThruster.label>
+  <!-- EN: Unlocks archotech structures forged from Monolith Fragments, designed for the complete containment of entities and space travel. -->
+  <UV_Project_VoidThruster.description>Desbloquea estructuras arqueotecnológicas forjadas a partir de fragmentos de monolito, diseñadas para la contención completa de entidades y viajes espaciales.</UV_Project_VoidThruster.description>
+  <!-- EN:
+    <li>subject->Void Thruster</li>
+    <li>subject_story-> Tested experimental engines generating thrust by tearing spacetime</li>
+    <li>subject_story-> Reverse-engineered FTL technology from crashed alien spacecraft wreckage</li>
+    <li>subject_story-> Briefly stranded a ship and its crew in timeless Void during jump test</li>
+    <li>subject_gerund-> Installing Void Thrusters on grav ships</li>
+  -->
+  <UV_Project_VoidThruster.generalRules.rulesStrings>
+    <li>subject->Propulsor del vacío</li>
+    <li>subject_story->Probó motores experimentales que generaban empuje desgarrando el espacio-tiempo</li>
+    <li>subject_story->Realizó ingeniería inversa de tecnología FTL a partir de los restos de una nave espacial alienígena estrellada</li>
+    <li>subject_story->Dejó varada brevemente a una nave y su tripulación en el vacío atemporal durante una prueba de salto</li>
+    <li>subject_gerund->Instalando propulsores del vacío en naves gravitatorias</li>
+  </UV_Project_VoidThruster.generalRules.rulesStrings>
+  
+</LanguageData>

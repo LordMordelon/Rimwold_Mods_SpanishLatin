@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <IP_BringIngredients>Traer ingredientes</IP_BringIngredients>
+  <IP_BringIngredientsDesc>Traer ingredientes para comenzar el proceso</IP_BringIngredientsDesc>
+  <IP_CancelIngredients>Cancelar transporte de ingredientes</IP_CancelIngredients>
+  <IP_CancelIngredientsDesc>Cancelar el transporte de ingredientes a este edificio</IP_CancelIngredientsDesc>
+  <IP_CantFindThing>No se encontraron objetos de ese tipo ({0}) en este mapa</IP_CantFindThing>
+  <IP_ChooseIngredient>Elegir ingrediente</IP_ChooseIngredient>
+  <IP_ChooseIngredientFourth>Elegir cuarto ingrediente</IP_ChooseIngredientFourth>
+  <IP_ChooseIngredientSecond>Elegir segundo ingrediente</IP_ChooseIngredientSecond>
+  <IP_ChooseIngredientThird>Elegir tercer ingrediente</IP_ChooseIngredientThird>
+  <IP_ChooseOutput>Elegir producto</IP_ChooseOutput>
+  <IP_ChooseQualityAuto>Elegir calidad automática</IP_ChooseQualityAuto>
+  <IP_FilledWith>{0} está lleno de {1}</IP_FilledWith>
+  <IP_FilledWithFourth>La 4ª ranura de {0} está llena de {1}</IP_FilledWithFourth>
+  <IP_FilledWithSecond>La 2ª ranura de {0} está llena de {1}</IP_FilledWithSecond>
+  <IP_FilledWithThird>La 3ª ranura de {0} está llena de {1}</IP_FilledWithThird>
+  <IP_GenericProductFinished>Un producto ha terminado de procesarse y está esperando a ser recogido</IP_GenericProductFinished>
+  <IP_IngredientImproperlyDefined>Uno de los ingredientes ha sido definido incorrectamente para funcionar con el procesador de objetos; contacta con el autor del mod</IP_IngredientImproperlyDefined>
+  <IP_IngredientPercentage> (lleno al {0} de {1})</IP_IngredientPercentage>
+  <IP_InsertFirstItemDesc>Insertar</IP_InsertFirstItemDesc>
+  <IP_InsertFourthItemDesc>Insertar</IP_InsertFourthItemDesc>
+  <IP_InsertSecondItemDesc>Insertar</IP_InsertSecondItemDesc>
+  <IP_InsertThirdItemDesc>Insertar</IP_InsertThirdItemDesc>
+  <IP_InsertVariable>Insertar {0}</IP_InsertVariable>
+  <IP_InsertVariableSecond>Insertar {0} en la 2ª ranura</IP_InsertVariableSecond>
+  <IP_InsertVariableThird>Insertar {0} en la 3ª ranura</IP_InsertVariableThird>
+  <IP_IsEmpty>{0} está vacío</IP_IsEmpty>
+  <IP_ItRains>El proceso en esta máquina se está interrumpiendo debido a las inclemencias del tiempo y se echará a perder pronto</IP_ItRains>
+  <IP_LightDestroysWarning>{0} necesita un nivel de luz adecuado para empezar a funcionar</IP_LightDestroysWarning>
+  <IP_NoCombination>No se encontró ninguna combinación para estos ingredientes</IP_NoCombination>
+  <IP_NoFuelDestroysWarning>{0} necesita combustible para empezar a funcionar</IP_NoFuelDestroysWarning>
+  <IP_NoIngredientFound>No se encontró el ingrediente en el mapa</IP_NoIngredientFound>
+  <IP_NoPowerDestroysInitialWarning>El resultado se está echando a perder debido a un fallo de energía en el procesador de objetos</IP_NoPowerDestroysInitialWarning>
+  <IP_NoPowerDestroysMessage>El resultado se ha echado a perder debido a un fallo de energía en el procesador de objetos</IP_NoPowerDestroysMessage>
+  <IP_NoPowerDestroysWarning>{0} necesita energía para empezar a funcionar</IP_NoPowerDestroysWarning>
+  <IP_NoRecipesHere>No se encontraron recetas de mods para esta fábrica</IP_NoRecipesHere>
+  <IP_Output>Producto: {0}</IP_Output>
+  <IP_OutputDesc>El procesador producirá {0}. Necesita ser alimentado con {1}</IP_OutputDesc>
+  <IP_OutputVariable>Obtener {0} de {1}</IP_OutputVariable>
+  <IP_OutsideLightRange>El proceso en esta máquina se está interrumpiendo debido a un nivel de luz inadecuado y se echará a perder pronto</IP_OutsideLightRange>
+  <IP_OverThreshold> Esperando a que se despeje la salida. El límite de salida es {0}</IP_OverThreshold>
+  <IP_ProcessingInProgress>{0} está procesando {1}. {2} estará listo con calidad {3} en {4}</IP_ProcessingInProgress>
+  <IP_ProcessingInProgressNoQuality>{0} está procesando {1}. {2} estará listo en {3}</IP_ProcessingInProgressNoQuality>
+  <IP_ProcessorPaused>{0} está en pausa: </IP_ProcessorPaused>
+  <IP_ProcessorWorking>{0} está funcionando: </IP_ProcessorWorking>
+  <IP_ProductWaiting>Esperando recogida</IP_ProductWaiting>
+  <IP_QualityAutoEstablished>Calidad automática, el producto se extraerá al nivel de calidad: {0}</IP_QualityAutoEstablished>
+  <IP_QualityAutoIs>Calidad automática: {0}</IP_QualityAutoIs>
+  <IP_QualityAutoNot>Desactivar calidad automática</IP_QualityAutoNot>
+  <IP_RainDestroysWarning>{0} necesita que no esté lloviendo para empezar a funcionar</IP_RainDestroysWarning>
+  <IP_RemoveProduct>Retirar {0} ({1})</IP_RemoveProduct>
+  <IP_RemoveProductDesc>Retirar {0} de {1}. El producto estará listo con el nivel de calidad actual ({2})</IP_RemoveProductDesc>
+  <IP_ResetFullAuto>Reiniciar máquina</IP_ResetFullAuto>
+  <IP_ResetFullAutoDesc>Reinicia completamente la máquina y la detiene. Advertencia: destruirá el proceso y los objetos de entrada.</IP_ResetFullAutoDesc>
+  <IP_ResetSemiautomatic>Restablecer recetas</IP_ResetSemiautomatic>
+  <IP_ResetSemiautomaticDesc>Esto restablecerá el edificio después de que el producto actual termine, para que se pueda elegir un nuevo ingrediente de entrada</IP_ResetSemiautomaticDesc>
+  <IP_SetAutoQuality>Establecer calidad para la extracción del producto. Cuando el producto alcance esta calidad, un colono lo recogerá automáticamente y lo llevará a un almacén si está disponible. Si no se establece, los productos se extraerán manualmente o al alcanzar la calidad Legendaria.</IP_SetAutoQuality>
+  <IP_SpoiledDueToLight>El producto en esta máquina se ha echado a perder debido a un nivel de luz inadecuado</IP_SpoiledDueToLight>
+  <IP_SpoiledDueToRain>El producto en esta máquina se ha echado a perder debido a las inclemencias del tiempo</IP_SpoiledDueToRain>
+  <IP_SpoiledDueToWrongTemp>El producto se ha echado a perder debido a una temperatura inadecuada. Necesita entre {0} y {1} ºC</IP_SpoiledDueToWrongTemp>
+  <IP_TempRangeInThisMachine>El proceso actual necesita una temperatura entre {0} y {1} ºC</IP_TempRangeInThisMachine>
+  <IP_TemperatureDestroysWarning>{0} necesita una temperatura adecuada ({1} - {2}) para empezar a funcionar</IP_TemperatureDestroysWarning>
+  <IP_ToggleAuto>Adquisición automática de ingredientes</IP_ToggleAuto>
+  <IP_ToggleAutoDesc>Si se activa, este edificio tomará automáticamente los ingredientes de las tolvas adyacentes y volverá a funcionar automáticamente una vez que se retire el producto. Si no, los colonos transportarán los ingredientes al edificio y este deberá activarse manualmente una vez rellenado.</IP_ToggleAutoDesc>
+  <IP_TogglePause>Pausar / Reanudar</IP_TogglePause>
+  <IP_TogglePauseDesc>Pausar o reanudar el procesamiento de esta máquina</IP_TogglePauseDesc>
+  <IP_WrongTemp>El proceso en esta máquina se está interrumpiendo debido a una temperatura inadecuada y se echará a perder pronto</IP_WrongTemp>
+</LanguageData>

@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: mech aiming time offset -->
+  <AimingDelayFactorOffsetMech.label>tiempo de apuntado de mecanoide</AimingDelayFactorOffsetMech.label>
+  <!-- EN: A aiming time offset applied to a mechanitor's mechs. -->
+  <AimingDelayFactorOffsetMech.description>Un modificador de tiempo de apuntado aplicado a los mecanoides de un mecanizador.</AimingDelayFactorOffsetMech.description>
+  
+  <!-- EN: provoke mech cluster cooldown factor -->
+  <MechhiveSatelliteUplinkCooldownFactor.label>mult. enfriamiento provocación de mec.</MechhiveSatelliteUplinkCooldownFactor.label>
+  <!-- EN: A multiplier on the provoke mech cluster ability's cooldown. -->
+  <MechhiveSatelliteUplinkCooldownFactor.description>Un multiplicador del tiempo de enfriamiento de la habilidad de provocar un enjambre mecanoide.</MechhiveSatelliteUplinkCooldownFactor.description>
+  
+  <!-- EN: mech remote control distance offset -->
+  <MechRemoteControlDistanceOffset.label>dist. de control remoto mecanoide</MechRemoteControlDistanceOffset.label>
+  <!-- EN: An offset on the maximum range at which a mechanitor can control a mechanoid. -->
+  <MechRemoteControlDistanceOffset.description>Un modificador del alcance máximo en el que un mecanizador puede controlar un mecanoide.</MechRemoteControlDistanceOffset.description>
+  
+  <!-- EN: mech remote dominate distance -->
+  <MechRemoteDominateDistance.label>dist. de control remoto mecanoide</MechRemoteDominateDistance.label>
+  <!-- EN: the maximum range at which a mechanitor can dominate a mechanoid. -->
+  <MechRemoteDominateDistance.description>El alcance máximo en el que un mecanizador puede dominar un mecanoide.</MechRemoteDominateDistance.description>
+  
+  <!-- EN: mech remote resurrect distance -->
+  <MechRemoteResurrectDistance.label>dist. de resurrección remota mecanoide</MechRemoteResurrectDistance.label>
+  <!-- EN: the maximum range at which a mechanitor can resurrect a mechanoid. -->
+  <MechRemoteResurrectDistance.description>El alcance máximo en el que un mecanizador puede resucitar un mecanoide.</MechRemoteResurrectDistance.description>
+  
+  <!-- EN: mechwomb capacity -->
+  <MechwombCapacity.label>capacidad del mecautero</MechwombCapacity.label>
+  <!-- EN: the maximum material capacity of an installed mechwomb. -->
+  <MechwombCapacity.description>La capacidad máxima de materiales de un mecautero implantado.</MechwombCapacity.description>
+  
+  <!-- EN: mech melee dodge chance offset -->
+  <MeleeDodgeChanceOffsetMech.label>proba. de esquiva CaC mecanoide</MeleeDodgeChanceOffsetMech.label>
+  <!-- EN: A melee dodge chance offset applied to a mechanitor's mechs. -->
+  <MeleeDodgeChanceOffsetMech.description>Un modificador de la probabilidad de esquiva cuerpo a cuerpo aplicado a los mecanoides de un mecanizador.</MeleeDodgeChanceOffsetMech.description>
+  
+  <!-- EN: mech melee hit chance offset -->
+  <MeleeHitChanceOffsetMech.label>proba. de golpe CaC mecanoide</MeleeHitChanceOffsetMech.label>
+  <!-- EN: A aiming time offset applied to a mechanitor's mechs. -->
+  <MeleeHitChanceOffsetMech.description>Un modificador de la probabilidad de golpe cuerpo a cuerpo aplicado a los mecanoides de un mecanizador.</MeleeHitChanceOffsetMech.description>
+  
+  <!-- EN: mech shooting accuracy offset -->
+  <ShootingAccuracyPawnOffsetMech.label>precisión de disparo mecanoide</ShootingAccuracyPawnOffsetMech.label>
+  <!-- EN: A shooting accuracy offset applied to a mechanitor's mechs. -->
+  <ShootingAccuracyPawnOffsetMech.description>Un modificador de la precisión de disparo aplicado a los mecanoides de un mecanizador.</ShootingAccuracyPawnOffsetMech.description>
+  
+</LanguageData>

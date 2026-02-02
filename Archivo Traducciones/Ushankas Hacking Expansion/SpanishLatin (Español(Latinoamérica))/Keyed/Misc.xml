@@ -1,0 +1,169 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+    <!-- EN: Already has {HEDIFF} -->
+  <USH_HE_IncompatibleHediff>Ya tiene {HEDIFF}</USH_HE_IncompatibleHediff>
+    <!-- EN: A hacker must be capable of intellectual tasks to operate.\n\nAre you sure you want to continue? -->
+  <USH_HE_ConfirmInstallCyberlinkIntellectual>Un hacker debe ser capaz de realizar tareas intelectuales para operar.\n\n¿Estás seguro de que quieres continuar?</USH_HE_ConfirmInstallCyberlinkIntellectual>
+    <!-- EN: Must have any of: {HEDIFFS} -->
+  <USH_HE_MustHaveAnyHediff>Debe tener alguno de: {HEDIFFS}</USH_HE_MustHaveAnyHediff>
+    <!-- EN: Choose target to hack -->
+  <USH_HE_CommandChooseToHack>Elegir objetivo para hackear</USH_HE_CommandChooseToHack>
+    <!-- EN: Choose hackable data source -->
+  <USH_HE_CommandChooseDataSource>Elegir fuente de datos hackeable</USH_HE_CommandChooseDataSource>
+
+    <!-- EN: Cannot install -->
+  <USH_HE_CannotInstall>No se puede instalar</USH_HE_CannotInstall>
+    <!-- EN: Already being ripped -->
+  <USH_HE_NoNewData>Ya se está extrayendo información</USH_HE_NoNewData>
+    <!-- EN: Already broken -->
+  <USH_HE_AlreadyBroken>Ya está roto</USH_HE_AlreadyBroken>
+    <!-- EN: No black ICE -->
+  <USH_HE_NeedsBlackICE>Sin Black ICE</USH_HE_NeedsBlackICE>
+
+    <!-- EN: Disabled -->
+  <USH_HE_DisabledOutcomes>Desactivado</USH_HE_DisabledOutcomes>
+    <!-- EN: Reconfigured -->
+  <USH_HE_Reconfigured>Reconfigurado</USH_HE_Reconfigured>
+
+    <!-- EN: Choose data ripping output -->
+  <USH_HE_CommandChooseDataOutput>Elegir resultado de la extracción de datos</USH_HE_CommandChooseDataOutput>
+    <!-- EN: Select what should be outputted as a result of hacking this device. -->
+  <USH_HE_CommandChooseDataOutputDesc>Selecciona qué se debe producir como resultado de hackear este dispositivo.</USH_HE_CommandChooseDataOutputDesc>
+
+    <!-- EN: Mark for data ripping -->
+  <USH_HE_CommandRipDesignation>Marcar para extracción de datos</USH_HE_CommandRipDesignation>
+    <!-- EN: Mark the device for cyberdata extraction. Once ripped, the device's internal security systems will activate. The process initiates automatically during hacking. -->
+  <USH_HE_CommandRipDesignationDesc>Marca el dispositivo para la extracción de ciberdatos. Una vez extraídos, los sistemas de seguridad internos del dispositivo se activarán. El proceso se inicia automáticamente durante el hackeo.</USH_HE_CommandRipDesignationDesc>
+
+    <!-- EN: Cancel data ripping -->
+  <USH_HE_CommandCancelRipDesignation>Cancelar extracción de datos</USH_HE_CommandCancelRipDesignation>
+    <!-- EN: Cancel data ripping designation. -->
+  <USH_HE_CommandCancelRipDesignationDesc>Cancela la designación de extracción de datos.</USH_HE_CommandCancelRipDesignationDesc>
+
+    <!-- EN: Hack target -->
+  <USH_HE_OrderHackTarget>Hackear objetivo</USH_HE_OrderHackTarget>
+    <!-- EN: Select a target to be hacked by this hacker. -->
+  <USH_HE_OrderHackTargetDesc>Selecciona un objetivo para ser hackeado por este hacker.</USH_HE_OrderHackTargetDesc>
+    <!-- EN: Already hacked -->
+  <USH_HE_AlreadyHacked>Ya hackeado</USH_HE_AlreadyHacked>
+    <!-- EN: Belongs to hacker -->
+  <USH_HE_BelongsToHacker>Pertenece al hacker</USH_HE_BelongsToHacker>
+    <!-- EN: Install black ICE breaker -->
+  <USH_HE_InstallICEBreaker>Instalar rompehielos (ICE breaker)</USH_HE_InstallICEBreaker>
+
+    <!-- EN: Hack to disable. -->
+  <USH_HE_HackToDisable>Hackear para desactivar.</USH_HE_HackToDisable>
+    <!-- EN: Hack to reconfigure. -->
+  <USH_HE_HackToReconfigure>Hackear para reconfigurar.</USH_HE_HackToReconfigure>
+
+    <!-- EN: Work amount -->
+  <USH_HE_HackPoints>Puntos de hackeo</USH_HE_HackPoints>
+    <!-- EN: Data ripping progress -->
+  <USH_HE_DataRippingProgress>Progreso de extracción de datos</USH_HE_DataRippingProgress>
+    <!-- EN: Device secured by black ICE was designated for data ripping -->
+  <USH_HE_BlackICEWarning>El dispositivo protegido por Black ICE fue designado para la extracción de datos</USH_HE_BlackICEWarning>
+
+    <!-- EN: Caused by hacking {0}. -->
+  <USH_HE_MentalStateReason>Causado por hackear {0}.</USH_HE_MentalStateReason>
+    <!-- EN: {HACKSET} has caused {OUTCOME} on {PAWN}. -->
+  <USH_HE_OutcomeMessage>{HACKSET} ha causado {OUTCOME} en {PAWN}.</USH_HE_OutcomeMessage>
+
+    <!-- EN: Security hackset -->
+  <USH_HE_SecurityHackset>Hackset de seguridad</USH_HE_SecurityHackset>
+    <!-- EN: dormant -->
+  <USH_HE_HacksetDormant>latente</USH_HE_HacksetDormant>
+    <!-- EN: active -->
+  <USH_HE_HacksetActive>activo</USH_HE_HacksetActive>
+    <!-- EN: What kind of hackset protects this device during data ripping. -->
+  <USH_HE_SecurityHacksetDesc>Qué tipo de hackset protege este dispositivo durante la extracción de datos.</USH_HE_SecurityHacksetDesc>
+    <!-- EN: Hack actions with probabilities -->
+  <USH_HE_HackActionsProbabilities>Acciones de hackeo con probabilidades</USH_HE_HackActionsProbabilities>
+    <!-- EN: Hack actions -->
+  <USH_HE_HackActions>Acciones de hackeo</USH_HE_HackActions>
+    <!-- EN: What hack actions are contained in this type of hackset. -->
+  <USH_HE_HackActionsHacksetDesc>Qué acciones de hackeo contiene este tipo de hackset.</USH_HE_HackActionsHacksetDesc>
+
+    <!-- EN: Temporary faction members not allowed. -->
+  <USH_HE_CyberpodGuestsNotAllowed>No se permiten miembros temporales de la facción.</USH_HE_CyberpodGuestsNotAllowed>
+    <!-- EN: Enter cyberpod -->
+  <USH_HE_EnterCyberpod>Entrar al ciberpod</USH_HE_EnterCyberpod>
+
+    <!-- EN: Toggle ignore auto hack -->
+  <USH_HE_CommandIgnoreAutoHack>Alternar ignorar hackeo automático</USH_HE_CommandIgnoreAutoHack>
+    <!-- EN: If enabled the hacker will automatically target all hackable devices ignoring their auto hack toggle. -->
+  <USH_HE_CommandIgnoreAutoHackDesc>Si está activado, el hacker apuntará automáticamente a todos los dispositivos hackeables ignorando su interruptor de hackeo automático.</USH_HE_CommandIgnoreAutoHackDesc>
+
+    <!-- EN: Start waking up -->
+  <USH_HE_CommandStartWaking>Empezar a despertar</USH_HE_CommandStartWaking>
+    <!-- EN: Slowly and safely disconnects contained hacker from the cyberspace and automatically ejects him after completion. -->
+  <USH_HE_CommandStartWakingDesc>Desconecta de forma lenta y segura al hacker contenido del ciberespacio y lo expulsa automáticamente al terminar.</USH_HE_CommandStartWakingDesc>
+
+    <!-- EN: Cancel waking up -->
+  <USH_HE_CommandStopWaking>Cancelar despertar</USH_HE_CommandStopWaking>
+    <!-- EN: Cancel waking up procedure. -->
+  <USH_HE_CommandStopWakingDesc>Cancela el procedimiento de despertar.</USH_HE_CommandStopWakingDesc>
+
+    <!-- EN: Utilize {0} -->
+  <USH_UtilizeCyberdata>Utilizar {0}</USH_UtilizeCyberdata>
+    <!-- EN: Utilize {0} (for {1} points) -->
+  <USH_UtilizeCyberdataPoints>Utilizar {0} (por {1} puntos)</USH_UtilizeCyberdataPoints>
+    <!-- EN: Cannot utilize: No reachable, un-reserved research bench available. -->
+  <USH_MessageNoResearchBench>No se puede utilizar: No hay una mesa de investigación accesible y sin reservar disponible.</USH_MessageNoResearchBench>
+    <!-- EN: No active research project -->
+  <USH_NoResearchProject>No hay un proyecto de investigación activo</USH_NoResearchProject>
+
+    <!-- EN: Hacking {THING} ({PROGRESS}) -->
+  <USH_HE_Hacking>Hackeando {THING} ({PROGRESS})</USH_HE_Hacking>
+    <!-- EN: Waking up: {TIME} -->
+  <USH_HE_WakingUpProgress>Despertando: {TIME}</USH_HE_WakingUpProgress>
+
+    <!-- EN: Cannot use: No cyberlink -->
+  <USH_HE_CannotUseNotHacker>No se puede usar: Sin ciberenlace</USH_HE_CannotUseNotHacker>
+    <!-- EN: Missing cyberlink -->
+  <USH_HE_MissingCyberlink>Falta ciberenlace</USH_HE_MissingCyberlink>
+    <!-- EN: Device ripped -->
+  <USH_HE_RipperInstalled>Dispositivo extraído</USH_HE_RipperInstalled>
+    <!-- EN: black ICE broken -->
+  <USH_HE_ICEBreakerInstalled>Black ICE roto</USH_HE_ICEBreakerInstalled>
+
+    <!-- EN: The designated device will be ripped as soon as anyone begins hacking it. This process enables cyberdata extraction and activates the device’s internal security systems. They can also self-activate upon detecting physical damage to the electronics.\n\nThe security measures will affect only hackers with installed cyberlinks. -->
+  <USH_HE_RippingMessage>El dispositivo designado será extraído tan pronto como alguien comience a hackearlo. Este proceso permite la extracción de ciberdatos y activa los sistemas de seguridad internos del dispositivo. También pueden autoactivarse al detectar daños físicos en la electrónica.\n\nLas medidas de seguridad solo afectarán a los hackers con ciberenlaces instalados.</USH_HE_RippingMessage>
+
+    <!-- EN: He's beginning to believe... -->
+  <USH_HE_CyberspaceLetterLabel>Está empezando a creer...</USH_HE_CyberspaceLetterLabel>
+    <!-- EN: {PAWN} with an installed cyberlink started hacking {BUILDING}, which is protected by {HACKSET}. If the system is active the hacker is now vulnerable to new cyberthreats and can trigger special security responses with a chance depending on the hacker’s stealth.\n\nColonists not connected to cyberspace by a link will not be affected, so you should always consider who is hacking devices with more advanced security hacksets.\n\nThey activate while taking physical damage or by being ripped.\n\nAnd remember: there is no spoon. -->
+  <USH_HE_CyberspaceLetter>{PAWN} con un ciberenlace instalado ha comenzado a hackear {BUILDING}, que está protegido por {HACKSET}. Si el sistema está activo, el hacker es ahora vulnerable a nuevas ciberamenazas y puede activar respuestas de seguridad especiales con una probabilidad que depende del sigilo del hacker.\n\nLos colonos que no estén conectados al ciberespacio mediante un enlace no se verán afectados, por lo que siempre debes considerar quién está hackeando dispositivos con hacksets de seguridad más avanzados.\n\nSe activan al recibir daños físicos o al ser extraídos.\n\nY recuerda: no hay cuchara.</USH_HE_CyberspaceLetter>
+
+    <!-- EN: Satellite crash -->
+  <USH_HE_BlackBoxLetterLabel>Choque de satélite</USH_HE_BlackBoxLetterLabel>
+    <!-- EN: A surviallece satellite owned by {OWNER} crashed in a nearby orbit and it's flight recorder dropped nearby. It contains sensitive data about {COMPROMISED} faction.\n\nYou can hack it to gain goodwill with {COMPROMISED}, but this action might cause {OWNER} to raid you. -->
+  <USH_HE_BlackBoxLetter>Un satélite de vigilancia propiedad de {OWNER} se estrelló en una órbita cercana y su registrador de vuelo cayó cerca. Contiene datos sensibles sobre la facción {COMPROMISED}.\n\nPuedes hackearlo para ganar buena voluntad con {COMPROMISED}, pero esta acción podría causar que {OWNER} te asalte.</USH_HE_BlackBoxLetter>
+
+    <!-- EN: Raid incoming! -->
+  <USH_HE_RaidLetterLabel>¡Asalto entrante!</USH_HE_RaidLetterLabel>
+    <!-- EN: It looks like the hacker who previously used the cyberdeck somehow angered {FACTION}, and they are now coming to this location. It’s possible that they’ve been trying to track down the hacker for months, or even longer.\n\nThey will arrive soon. -->
+  <USH_HE_RaidLetter>Parece que el hacker que usó anteriormente el ciberdeck de alguna manera enfureció a {FACTION}, y ahora vienen a esta ubicación. Es posible que hayan estado tratando de localizar al hacker durante meses, o incluso más.\n\nLlegarán pronto.</USH_HE_RaidLetter>
+    <!-- EN: The {FACTION} detected the recent data transfer from their satellite black box and are now coming to your location.\n\nThey will arrive soon. -->
+  <USH_HE_RaidBlackBoxLetter>La facción {FACTION} detectó la reciente transferencia de datos de la caja negra de su satélite y ahora se dirigen a tu ubicación.\n\nLlegarán pronto.</USH_HE_RaidBlackBoxLetter>
+
+    <!-- EN: {0} learned -->
+  <USH_HE_AbilityLearnedLetterLabel>{0} aprendido</USH_HE_AbilityLearnedLetterLabel>
+    <!-- EN: After intensive {0} exec training it became usable by {PAWN}. -->
+  <USH_HE_AbilityLearnedLetter>Después de un entrenamiento intensivo de ejecución de {0}, ahora puede ser usado por {PAWN}.</USH_HE_AbilityLearnedLetter>
+
+    <!-- EN: Black ICE response -->
+  <USH_HE_BreakerFailLetterLabel>Respuesta de Black ICE</USH_HE_BreakerFailLetterLabel>
+    <!-- EN: The security system responded to ICE breaker and defended itself by installing a self destruction protocol in the device. It resulted in an explosion. -->
+  <USH_HE_BreakerFailLetter>El sistema de seguridad respondió al rompehielos (ICE breaker) y se defendió instalando un protocolo de autodestrucción en el dispositivo. Esto resultó en una explosión.</USH_HE_BreakerFailLetter>
+
+    <!-- EN: Enable hackable mechanoids -->
+  <USH_GE_EnableMechSetting>Habilitar mecanoides hackeables</USH_GE_EnableMechSetting>
+    <!-- EN: Whether mechanoids can be hacked or not. Changing this setting requires save restart to work. -->
+  <USH_GE_EnableMechSettingDesc>Si los mecanoides pueden ser hackeados o no. Cambiar este ajuste requiere reiniciar la partida para que funcione.</USH_GE_EnableMechSettingDesc>
+
+    <!-- EN: Enable hackable turrets -->
+  <USH_GE_EnableTurretSetting>Habilitar torretas hackeables</USH_GE_EnableTurretSetting>
+    <!-- EN: Whether turrets can be hacked or not. Changing this setting requires save restart to work. -->
+  <USH_GE_EnableTurretSettingDesc>Si las torretas pueden ser hackeadas o no. Cambiar este ajuste requiere reiniciar la partida para que funcione.</USH_GE_EnableTurretSettingDesc>
+</LanguageData>

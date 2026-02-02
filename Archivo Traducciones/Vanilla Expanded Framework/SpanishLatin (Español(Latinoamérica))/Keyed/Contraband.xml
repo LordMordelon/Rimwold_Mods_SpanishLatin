@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+	<!-- EN: Gifting {ILLEGALTHING_label} is against {FACTION_name} law. This may or may not affect your relations with them in the future -->
+  <VEF.Factions.Contraband_Booze_GiftWarning>Regalar {ILLEGALTHING_label} va en contra de la ley de {FACTION_name}. Esto puede o no afectar tus relaciones con ellos en el futuro</VEF.Factions.Contraband_Booze_GiftWarning>
+	<!-- EN: Gifting {ILLEGALTHING_label} to {ILLEGALFACTION_name} is against {FACTION_name} law. This may or may not affect your relations with them in the future -->
+  <VEF.Factions.Contraband_Booze_GiftIllegalWarning>Regalar {ILLEGALTHING_label} a {ILLEGALFACTION_name} va en contra de la ley de {FACTION_name}. Esto puede o no afectar tus relaciones con ellos en el futuro</VEF.Factions.Contraband_Booze_GiftIllegalWarning>
+
+	<!-- EN: Selling {ILLEGALTHING_label} is against {FACTION_name} law. This may or may not affect your relations with them in the future -->
+  <VEF.Factions.Contraband_Booze_SellWarning>Vender {ILLEGALTHING_label} va en contra de la ley de {FACTION_name}. Esto puede o no afectar tus relaciones con ellos en el futuro</VEF.Factions.Contraband_Booze_SellWarning>
+	<!-- EN: Selling {ILLEGALTHING_label} to {ILLEGALFACTION_name} is against {FACTION_name} law. This may or may not affect your relations with them in the future -->
+  <VEF.Factions.Contraband_Booze_SellIllegalWarning>Vender {ILLEGALTHING_label} a {ILLEGALFACTION_name} va en contra de la ley de {FACTION_name}. Esto puede o no afectar tus relaciones con ellos en el futuro</VEF.Factions.Contraband_Booze_SellIllegalWarning>
+
+	<!-- EN: {FACTION_name} angered -->
+  <VEF.Factions.Contraband_Booze_LetterLabel>{FACTION_name} se ha enfadado</VEF.Factions.Contraband_Booze_LetterLabel>
+	<!-- EN: {FACTION_name} caught wind that you have been gifting {ILLEGALTHING_label} behind their back. They consider it to be against the law, and your relations have degraded -->
+  <VEF.Factions.Contraband_Booze_LetterDescGift>{FACTION_name} se ha enterado de que has estado regalando {ILLEGALTHING_label} a sus espaldas. Consideran que va en contra de la ley, y vuestras relaciones se han degradado</VEF.Factions.Contraband_Booze_LetterDescGift>
+	<!-- EN: {FACTION_name} caught wind that you have been selling {ILLEGALTHING_label} behind their back. They consider it to be against the law, and your relations have degraded -->
+  <VEF.Factions.Contraband_Booze_LetterDescSold>{FACTION_name} se ha enterado de que has estado vendiendo {ILLEGALTHING_label} a sus espaldas. Consideran que va en contra de la ley, y vuestras relaciones se han degradado</VEF.Factions.Contraband_Booze_LetterDescSold>
+	
+	<!-- EN: {FACTION_name} caught wind that you have been gifting {ILLEGALTHING_label} to {ILLEGALFACTION_name} behind their back. They consider it to be against the law, and your relations have degraded -->
+  <VEF.Factions.Contraband_Booze_LetterDescIllegalGift>{FACTION_name} se ha enterado de que has estado regalando {ILLEGALTHING_label} a {ILLEGALFACTION_name} a sus espaldas. Consideran que va en contra de la ley, y vuestras relaciones se han degradado</VEF.Factions.Contraband_Booze_LetterDescIllegalGift>
+	<!-- EN: {FACTION_name} caught wind that you have been selling {ILLEGALTHING_label} to {ILLEGALFACTION_name} behind their back. They consider it to be against the law, and your relations have degraded -->
+  <VEF.Factions.Contraband_Booze_LetterDescIllegalSold>{FACTION_name} se ha enterado de que has estado vendiendo {ILLEGALTHING_label} a {ILLEGALFACTION_name} a sus espaldas. Consideran que va en contra de la ley, y vuestras relaciones se han degradado</VEF.Factions.Contraband_Booze_LetterDescIllegalSold>
+	
+	<!-- EN: Goodwill with {FACTION_name} is now {1}. (Changed by {2}) -->
+  <VEF.Factions.Contraband_Booze_RelationInfo>La buena voluntad con {FACTION_name} es ahora {1}. (Cambió por {2})</VEF.Factions.Contraband_Booze_RelationInfo>
+	
+	<!-- EN: Trading details -->
+  <VEF.Factions.FactionDef_Description_Contraband>Detalles de comercio</VEF.Factions.FactionDef_Description_Contraband>
+	<!-- EN: Positive goodwill from trading {0} -->
+  <VEF.Factions.FactionDef_Description_Positives>Buena voluntad positiva por comerciar {0}</VEF.Factions.FactionDef_Description_Positives>
+	<!-- EN: Negative goodwill from trading {0} -->
+  <VEF.Factions.FactionDef_Description_Negatives>Buena voluntad negativa por comerciar {0}</VEF.Factions.FactionDef_Description_Negatives>
+</LanguageData>

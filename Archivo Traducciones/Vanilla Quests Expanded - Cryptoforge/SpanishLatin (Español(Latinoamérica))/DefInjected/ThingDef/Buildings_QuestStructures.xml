@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: ancient black box -->
+  <VQE_AncientBlackBox.label>caja negra antigua</VQE_AncientBlackBox.label>
+  <!-- EN: A ship's black box recorder, filled with encrypted data. Given enough time, a skilled hacker may be able to extract critical information about what transpired. -->
+  <VQE_AncientBlackBox.description>Un registrador de caja negra de una nave, lleno de datos encriptados. Con el tiempo suficiente, un hacker experto podría extraer información crítica sobre lo que ocurrió.</VQE_AncientBlackBox.description>
+  
+  <!-- EN: disabled ancient black box -->
+  <VQE_AncientBlackBox_Off.label>caja negra antigua desactivada</VQE_AncientBlackBox_Off.label>
+  <!-- EN: A ship's black box recorder. Any important information has already been downloaded, and the black box is nothing but junk. -->
+  <VQE_AncientBlackBox_Off.description>Un registrador de caja negra de una nave. Toda la información importante ya ha sido descargada, y la caja negra no es más que chatarra.</VQE_AncientBlackBox_Off.description>
+  
+  <!-- EN: frozen scanning relay -->
+  <VQE_FrozenScanningRelay.label>repetidor de escaneo congelado</VQE_FrozenScanningRelay.label>
+  <!-- EN: A long-range scanning relay with some old alerts about an important event. If one was to initiate a scan, the location of a ship crash will be revealed. Initiating the scan will generate a strong enough power signature to attract a mechanoid hive. -->
+  <VQE_FrozenScanningRelay.description>Un repetidor de escaneo de largo alcance con algunas alertas antiguas sobre un evento importante. Si se iniciara un escaneo, se revelaría la ubicación del impacto de una nave. Iniciar el escaneo generará una firma de energía lo suficientemente fuerte como para atraer a una colmena de mecanoides.</VQE_FrozenScanningRelay.description>
+  
+  <!-- EN: disabled frozen scanning relay -->
+  <VQE_FrozenScanningRelay_Off.label>repetidor de escaneo congelado desactivado</VQE_FrozenScanningRelay_Off.label>
+  <!-- EN: A long-range scanning relay. Any notifications and data has been removed, and it’s nothing but a big hunk of junk. -->
+  <VQE_FrozenScanningRelay_Off.description>Un repetidor de escaneo de largo alcance. Se han eliminado todas las notificaciones y datos, y no es más que un gran trozo de chatarra.</VQE_FrozenScanningRelay_Off.description>
+  
+</LanguageData>

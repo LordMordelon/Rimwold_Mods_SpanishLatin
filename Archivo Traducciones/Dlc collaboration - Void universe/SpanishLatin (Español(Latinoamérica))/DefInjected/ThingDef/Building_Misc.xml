@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: ancient stockpile entrance -->
+  <UV_AncientHatch.label>entrada de reserva antigua</UV_AncientHatch.label>
+  <!-- EN: The entrance to a long-abandoned subterranean facility. Hack it to open the hatch. -->
+  <UV_AncientHatch.description>La entrada a una instalación subterránea abandonada hace mucho tiempo. Hackéala para abrir la escotilla.</UV_AncientHatch.description>
+  <!-- EN: {HACKER_labelShort} has finished hacking {SUBJECT_labelNoParenthesisDef}. -->
+  <UV_AncientHatch.comps.CompHackable.hackedMessage>{HACKER_labelShort} ha terminado de hackear {SUBJECT_labelNoParenthesisDef}.</UV_AncientHatch.comps.CompHackable.hackedMessage>
+  <!-- EN: Hack to open. -->
+  <UV_AncientHatch.comps.CompHackable.notHackedInspectString>Hackear para abrir.</UV_AncientHatch.comps.CompHackable.notHackedInspectString>
+  <!-- EN: Sealed -->
+  <UV_AncientHatch.comps.CompSealable.cannotEnterLabel>Sellado</UV_AncientHatch.comps.CompSealable.cannotEnterLabel>
+  <!-- EN: Cannot seal -->
+  <UV_AncientHatch.comps.CompSealable.cannotSealLabel>No se puede sellar</UV_AncientHatch.comps.CompSealable.cannotSealLabel>
+  <!-- EN: Sealing the ancient stockpile entrance is permanent. Anything or anyone left below will be lost forever.{0}\n\nAre you sure you want to continue? -->
+  <UV_AncientHatch.comps.CompSealable.confirmSealText>Sellar la entrada de la reserva antigua es permanente. Cualquier cosa o persona que se quede abajo se perderá para siempre.{0}\n\n¿Estás seguro de que quieres continuar?</UV_AncientHatch.comps.CompSealable.confirmSealText>
+  <!-- EN: Choose a colonist to permanently seal the entrance. Anything or anyone left below will be lost forever. -->
+  <UV_AncientHatch.comps.CompSealable.sealCommandDesc>Elige a un colono para sellar permanentemente la entrada. Cualquier cosa o persona que se quede abajo se perderá para siempre.</UV_AncientHatch.comps.CompSealable.sealCommandDesc>
+  <!-- EN: Seal entrance -->
+  <UV_AncientHatch.comps.CompSealable.sealCommandLabel>Sellar entrada</UV_AncientHatch.comps.CompSealable.sealCommandLabel>
+  <!-- EN: Permanently sealed. -->
+  <UV_AncientHatch.comps.CompSealable.sealedInspectString>Sellado permanentemente.</UV_AncientHatch.comps.CompSealable.sealedInspectString>
+  
+  <!-- EN: bioferrite slag box -->
+  <UV_BioferriteSlagBox.label>caja de escoria de bioferrita</UV_BioferriteSlagBox.label>
+  <!-- EN: A box filled with valuable bioferrite. Some are intact and useable. -->
+  <UV_BioferriteSlagBox.description>Una caja llena de valiosa bioferrita. Algunas están intactas y son utilizables.</UV_BioferriteSlagBox.description>
+  
+  <!-- EN: biomutation terraformer -->
+  <UV_BiomutationTerraformer.label>terraformador de biomutación</UV_BiomutationTerraformer.label>
+  <!-- EN: A scavenged archotech shard mounted in an electrical stimulation frame. The device creates a frenzied psychic vibration in the local area which stimulates everyone nearby to move and work faster. However, any mental breaks they have are guaranteed to be violent. -->
+  <UV_BiomutationTerraformer.description>Un fragmento de arqueotecnología recuperado montado en un marco de estimulación eléctrica. El dispositivo crea una vibración psíquica frenética en el área local que estimula a todos los cercanos a moverse y trabajar más rápido. Sin embargo, cualquier colapso mental que tengan será garantizadamente violento.</UV_BiomutationTerraformer.description>
+  
+  <!-- EN: pit gate -->
+  <UV_DreadmeldPitGate.label>puerta de foso</UV_DreadmeldPitGate.label>
+  <!-- EN: A massive, foreboding hole that connects the surface with a dark network of underground caves. It is possible to climb down into the caverns below. -->
+  <UV_DreadmeldPitGate.description>Un agujero enorme y premonitorio que conecta la superficie con una red oscura de cuevas subterráneas. Es posible bajar a las cavernas de abajo.</UV_DreadmeldPitGate.description>
+  <!-- EN: Fleshbeast lair -->
+  <UV_DreadmeldPitGate.portal.enteredLetterLabel>Guarida de bestias de carne</UV_DreadmeldPitGate.portal.enteredLetterLabel>
+  <!-- EN: In the depths of the pit gate, you have discovered a massive cavern system infested with fleshbeasts.\n\nThe cavern system is clogged with masses of living flesh that block your progress. Attack the fleshmass to destroy it.\n\nThe entire cavern system seems unstable. If you find what lies behind the fleshmass, you may be able to collapse the tunnels and close the pit gate. -->
+  <UV_DreadmeldPitGate.portal.enteredLetterText>En las profundidades de la puerta de foso, has descubierto un enorme sistema de cavernas infestado de bestias de carne.\n\nEl sistema de cavernas está obstruido con masas de carne viva que bloquean tu progreso. Ataca la masacarne para destruirla.\n\nTodo el sistema de cavernas parece inestable. Si encuentras lo que hay detrás de la masacarne, podrías colapsar los túneles y cerrar la puerta de foso.</UV_DreadmeldPitGate.portal.enteredLetterText>
+  
+  <!-- EN: pit gate -->
+  <UV_HeartPitGate.label>puerta de foso</UV_HeartPitGate.label>
+  <!-- EN: A massive, foreboding hole that connects the surface with a dark network of underground caves. It is possible to climb down into the caverns below. -->
+  <UV_HeartPitGate.description>Un agujero enorme y premonitorio que conecta la superficie con una red oscura de cuevas subterráneas. Es posible bajar a las cavernas de abajo.</UV_HeartPitGate.description>
+  <!-- EN: Fleshbeast lair -->
+  <UV_HeartPitGate.portal.enteredLetterLabel>Guarida de bestias de carne</UV_HeartPitGate.portal.enteredLetterLabel>
+  <!-- EN: In the depths of the pit gate, you have discovered a massive cavern system infested with fleshbeasts.\n\nThe cavern system is clogged with masses of living flesh that block your progress. Attack the fleshmass to destroy it.\n\nThe entire cavern system seems unstable. If you find what lies behind the fleshmass, you may be able to collapse the tunnels and close the pit gate. -->
+  <UV_HeartPitGate.portal.enteredLetterText>En las profundidades de la puerta de foso, has descubierto un enorme sistema de cavernas infestado de bestias de carne.\n\nEl sistema de cavernas está obstruido con masas de carne viva que bloquean tu progreso. Ataca la masacarne para destruirla.\n\nTodo el sistema de cavernas parece inestable. Si encuentras lo que hay detrás de la masacarne, podrías colapsar los túneles y cerrar la puerta de foso.</UV_HeartPitGate.portal.enteredLetterText>
+  
+</LanguageData>

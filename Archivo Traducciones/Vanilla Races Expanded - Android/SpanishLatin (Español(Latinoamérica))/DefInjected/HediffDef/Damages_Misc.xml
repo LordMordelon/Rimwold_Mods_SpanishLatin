@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: electromagnetic shock -->
+  <VREA_ElectromagneticShock.label>choque electromagnético</VREA_ElectromagneticShock.label>
+  <!-- EN: An electromagnetic shock. -->
+  <VREA_ElectromagneticShock.description>Un choque electromagnético.</VREA_ElectromagneticShock.description>
+  
+  <!-- EN: EMP burn -->
+  <VREA_EMPBurn.label>quemadura por PEM</VREA_EMPBurn.label>
+  <!-- EN: An EMP burn. -->
+  <VREA_EMPBurn.description>Una quemadura por PEM.</VREA_EMPBurn.description>
+  <!-- EN: EMP burn scar -->
+  <VREA_EMPBurn.comps.HediffComp_GetsPermanent.permanentLabel>cicatriz de quemadura por PEM</VREA_EMPBurn.comps.HediffComp_GetsPermanent.permanentLabel>
+  <!-- EN: Burned off (EMP) -->
+  <VREA_EMPBurn.injuryProps.destroyedLabel>Quemado (PEM)</VREA_EMPBurn.injuryProps.destroyedLabel>
+  <!-- EN: Burned out (EMP) -->
+  <VREA_EMPBurn.injuryProps.destroyedOutLabel>Quemado (PEM)</VREA_EMPBurn.injuryProps.destroyedOutLabel>
+  <!-- EN: an EMP burn -->
+  <VREA_EMPBurn.labelNoun>una quemadura por PEM</VREA_EMPBurn.labelNoun>
+  <!-- EN: {0} in the {1} -->
+  <VREA_EMPBurn.labelNounPretty>{0} en {1}</VREA_EMPBurn.labelNounPretty>
+  
+</LanguageData>

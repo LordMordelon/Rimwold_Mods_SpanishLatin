@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <VEF_AcidBuildup.description>Una salpicadura de ácido que continúa causando heridas por quemaduras durante bastante tiempo después del ataque inicial.</VEF_AcidBuildup.description>
+  <VEF_AcidBuildup.label>quemadura de ácido</VEF_AcidBuildup.label>
+  <VEF_AcidBuildup.stages.minor_receiving_burns.label>leve, recibiendo quemaduras</VEF_AcidBuildup.stages.minor_receiving_burns.label>
+  <VEF_AcidBuildup.stages.moderate_receiving_burns.label>moderada, recibiendo quemaduras</VEF_AcidBuildup.stages.moderate_receiving_burns.label>
+  <VEF_AcidBuildup.stages.serious_receiving_burns.label>seria, recibiendo quemaduras</VEF_AcidBuildup.stages.serious_receiving_burns.label>
+  <VEF_AcidBurn.comps.HediffComp_GetsPermanent.permanentLabel>cicatriz de quemadura de ácido</VEF_AcidBurn.comps.HediffComp_GetsPermanent.permanentLabel>
+  <VEF_AcidBurn.description>Una quemadura de ácido.</VEF_AcidBurn.description>
+  <VEF_AcidBurn.label>quemadura de ácido</VEF_AcidBurn.label>
+  <VEF_AcidBurn.labelNoun>una quemadura de ácido</VEF_AcidBurn.labelNoun>
+  <VEF_AcidBurn.labelNounPretty>{0} en el/la {1}</VEF_AcidBurn.labelNounPretty>
+  <VEF_ControlledInvisibility.description>Envuelto en un velo de invisibilidad controlada.</VEF_ControlledInvisibility.description>
+  <VEF_ControlledInvisibility.label>invisibilidad</VEF_ControlledInvisibility.label>
+  <VEF_Kamikaze.description>Bum.</VEF_Kamikaze.description>
+  <VEF_Kamikaze.label>detonación repentina</VEF_Kamikaze.label>
+  <VEF_Kamikaze.stages.critical.label>crítico</VEF_Kamikaze.stages.critical.label>
+  <VEF_Kamikaze.stages.initialhidden.label>inicial (oculto)</VEF_Kamikaze.stages.initialhidden.label>
+  <VEF_LightSustenance.description>Esta criatura se alimenta de luz solar. Los niveles inadecuados de luz la matarán.</VEF_LightSustenance.description>
+  <VEF_LightSustenance.label>nivel de luz solar</VEF_LightSustenance.label>
+  <VEF_LightSustenance.stages.adequate_light.label>luz adecuada</VEF_LightSustenance.stages.adequate_light.label>
+  <VEF_LightSustenance.stages.extreme_lack_of_sustenance.label>falta extrema de sustento</VEF_LightSustenance.stages.extreme_lack_of_sustenance.label>
+  <VEF_LightSustenance.stages.lack_of_sunlight.label>falta de luz solar</VEF_LightSustenance.stages.lack_of_sunlight.label>
+  <VEF_LightSustenance.stages.poor_light_levels.label>niveles de luz deficientes</VEF_LightSustenance.stages.poor_light_levels.label>
+  <VEF_LightSustenance.stages.very_low_light_levels.label>niveles de luz muy bajos</VEF_LightSustenance.stages.very_low_light_levels.label>
+  <VEF_PermanentBurn.comps.HediffComp_GetsPermanent.permanentLabel>quemadura permanente</VEF_PermanentBurn.comps.HediffComp_GetsPermanent.permanentLabel>
+  <VEF_PermanentBurn.description>Una cicatriz de quemadura permanente que no puede ser tratada.</VEF_PermanentBurn.description>
+  <VEF_PermanentBurn.injuryProps.destroyedLabel>Quemado</VEF_PermanentBurn.injuryProps.destroyedLabel>
+  <VEF_PermanentBurn.injuryProps.destroyedOutLabel>Quemado (destruido)</VEF_PermanentBurn.injuryProps.destroyedOutLabel>
+  <VEF_PermanentBurn.label>quemadura permanente</VEF_PermanentBurn.label>
+  <VEF_PermanentBurn.labelNoun>una quemadura permanente</VEF_PermanentBurn.labelNoun>
+  <VEF_PermanentBurn.labelNounPretty>{0} en el/la {1}</VEF_PermanentBurn.labelNounPretty>
+  <VEF_ToxicBuildup.description>Toxinas en el torrente sanguíneo. Esto puede provenir de varias fuentes, incluyendo toxinas ambientales, mordeduras venenosas o armas envenenadas.\n\nEn dosis altas, la acumulación tóxica es letal. Incluso en dosis bajas, puede generar cánceres.\n\nA diferencia de la acumulación tóxica del juego base, las criaturas que mueren con este daño tóxico pueden ser consumidas.</VEF_ToxicBuildup.description>
+  <VEF_ToxicBuildup.label>acumulación tóxica</VEF_ToxicBuildup.label>
+  <VEF_ToxicBuildup.stages.extreme.label>extrema</VEF_ToxicBuildup.stages.extreme.label>
+  <VEF_ToxicBuildup.stages.initial-0.label>inicial</VEF_ToxicBuildup.stages.initial-0.label>
+  <VEF_ToxicBuildup.stages.initial-1.label>inicial</VEF_ToxicBuildup.stages.initial-1.label>
+  <VEF_ToxicBuildup.stages.minor.label>leve</VEF_ToxicBuildup.stages.minor.label>
+  <VEF_ToxicBuildup.stages.moderate.label>moderada</VEF_ToxicBuildup.stages.moderate.label>
+  <VEF_ToxicBuildup.stages.serious.label>seria</VEF_ToxicBuildup.stages.serious.label>
+  <VFEP_HypothermicSlowdown.description>Temperatura corporal central peligrosamente baja. A menos que se vuelva a calentar, la ralentización hipotérmica empeora y termina en la muerte. La recuperación es rápida una vez que la víctima entra en calor.</VFEP_HypothermicSlowdown.description>
+  <VFEP_HypothermicSlowdown.label>ralentización hipotérmica</VFEP_HypothermicSlowdown.label>
+  <VFEP_HypothermicSlowdown.stages.extreme.label>extrema</VFEP_HypothermicSlowdown.stages.extreme.label>
+  <VFEP_HypothermicSlowdown.stages.minor-0.label>leve</VFEP_HypothermicSlowdown.stages.minor-0.label>
+  <VFEP_HypothermicSlowdown.stages.minor-1.label>leve</VFEP_HypothermicSlowdown.stages.minor-1.label>
+  <VFEP_HypothermicSlowdown.stages.moderate.label>moderada</VFEP_HypothermicSlowdown.stages.moderate.label>
+  <VFEP_HypothermicSlowdown.stages.serious.label>seria</VFEP_HypothermicSlowdown.stages.serious.label>
+</LanguageData>

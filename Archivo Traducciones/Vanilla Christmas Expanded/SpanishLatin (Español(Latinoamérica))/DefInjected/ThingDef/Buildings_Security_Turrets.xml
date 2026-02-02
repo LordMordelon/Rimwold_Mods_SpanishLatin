@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: snowball -->
+  <VCE_Bullet_Snowthrower.label>bola de nieve</VCE_Bullet_Snowthrower.label>
+  
+  <!-- EN: snowcannon -->
+  <VCE_Gun_SnowcannonTurret.label>cañón de nieve</VCE_Gun_SnowcannonTurret.label>
+  <!-- EN: A heavy automatic snowball-firing cannon. The sheer amount of snowballs fired will cover a small area in devastating white volley, but it needs to be regularly reloaded with snow to continue firing. It cannot fire at close-up targets, and may explode when damaged. -->
+  <VCE_Gun_SnowcannonTurret.description>Un cañón pesado automático que dispara bolas de nieve. La gran cantidad de bolas de nieve disparadas cubrirá un área pequeña en una devastadora descarga blanca, pero necesita ser recargado regularmente con nieve para continuar disparando. No puede disparar a objetivos cercanos y puede explotar cuando se daña.</VCE_Gun_SnowcannonTurret.description>
+  <!-- EN: snowcannon -->
+  <VCE_Gun_SnowcannonTurret.verbs.Verb_Shoot.label>cañón de nieve</VCE_Gun_SnowcannonTurret.verbs.Verb_Shoot.label>
+  
+  <!-- EN: snowthrower -->
+  <VCE_GunTurret_Snowthrower.label>lanzanieves</VCE_GunTurret_Snowthrower.label>
+  <!-- EN: A portable automatic snowball propelling turret. Requires snow to be delivered to it after heavy use. May explode when damaged. Its dumb AI brain can't be directly controlled, so beware of friendly fire. -->
+  <VCE_GunTurret_Snowthrower.description>Una torreta portátil automática que propulsa bolas de nieve. Requiere que se le entregue nieve después de un uso intenso. Puede explotar cuando se daña. Su cerebro de IA tonto no se puede controlar directamente, así que ten cuidado con el fuego amigo.</VCE_GunTurret_Snowthrower.description>
+  <!-- EN: snowthrower -->
+  <VCE_GunTurret_Snowthrower.verbs.Verb_Shoot.label>lanzanieves</VCE_GunTurret_Snowthrower.verbs.Verb_Shoot.label>
+  
+  <!-- EN: Snowcannon -->
+  <VCE_Turret_Snowcannon.label>cañón de nieve</VCE_Turret_Snowcannon.label>
+  <!-- EN: A heavy automatic snowball-firing cannon. The sheer amount of snowballs fired will cover a small area in devastating white volley, but it needs to be regularly reloaded with snow to continue firing. It cannot fire at close-up targets, and may explode when damaged. -->
+  <VCE_Turret_Snowcannon.description>Un cañón pesado automático que dispara bolas de nieve. La gran cantidad de bolas de nieve disparadas cubrirá un área pequeña en una devastadora descarga blanca, pero necesita ser recargado regularmente con nieve para continuar disparando. No puede disparar a objetivos cercanos y puede explotar cuando se daña.</VCE_Turret_Snowcannon.description>
+  <!-- EN: Snowballs -->
+  <VCE_Turret_Snowcannon.comps.CompRefuelable.fuelGizmoLabel>Bolas de nieve</VCE_Turret_Snowcannon.comps.CompRefuelable.fuelGizmoLabel>
+  <!-- EN: Snowballs -->
+  <VCE_Turret_Snowcannon.comps.CompRefuelable.fuelLabel>Bolas de nieve</VCE_Turret_Snowcannon.comps.CompRefuelable.fuelLabel>
+  <!-- EN: Out of snowballs -->
+  <VCE_Turret_Snowcannon.comps.CompRefuelable.outOfFuelMessage>Sin bolas de nieve</VCE_Turret_Snowcannon.comps.CompRefuelable.outOfFuelMessage>
+  <!-- EN: Hackear para reconfigurar. -->
+  <VCE_Turret_Snowcannon.comps.CompTurretHackable.notHackedInspectString>Hackear para reconfigurar.</VCE_Turret_Snowcannon.comps.CompTurretHackable.notHackedInspectString>
+  
+  <!-- EN: snowthrower -->
+  <VCE_Turret_Snowthrower.label>lanzanieves</VCE_Turret_Snowthrower.label>
+  <!-- EN: A portable automatic snowball propelling turret. Requires snow to be delivered to it after heavy use. May explode when damaged. Its dumb AI brain can't be directly controlled, so beware of friendly fire. -->
+  <VCE_Turret_Snowthrower.description>Una torreta portátil automática que propulsa bolas de nieve. Requiere que se le entregue nieve después de un uso intenso. Puede explotar cuando se daña. Su cerebro de IA tonto no se puede controlar directamente, así que ten cuidado con el fuego amigo.</VCE_Turret_Snowthrower.description>
+  <!-- EN: Snowballs -->
+  <VCE_Turret_Snowthrower.comps.CompRefuelable.fuelGizmoLabel>Bolas de nieve</VCE_Turret_Snowthrower.comps.CompRefuelable.fuelGizmoLabel>
+  <!-- EN: Snowballs -->
+  <VCE_Turret_Snowthrower.comps.CompRefuelable.fuelLabel>Bolas de nieve</VCE_Turret_Snowthrower.comps.CompRefuelable.fuelLabel>
+  <!-- EN: Out of snowballs -->
+  <VCE_Turret_Snowthrower.comps.CompRefuelable.outOfFuelMessage>Sin bolas de nieve</VCE_Turret_Snowthrower.comps.CompRefuelable.outOfFuelMessage>
+  <!-- EN: Hackear para reconfigurar. -->
+  <VCE_Turret_Snowthrower.comps.CompTurretHackable.notHackedInspectString>Hackear para reconfigurar.</VCE_Turret_Snowthrower.comps.CompTurretHackable.notHackedInspectString>
+  
+</LanguageData>

@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <AllDisable>Desactivar todo</AllDisable>
+  <AllEnable>Activar todo</AllEnable>
+  <BackSideLayer_Toggle>Alternar BSL</BackSideLayer_Toggle>
+  <BackSideLayer_ToggleDesc>Activa o desactiva la visualización de la capa trasera (BSL).</BackSideLayer_ToggleDesc>
+  <BackSideLayer_ToggleDesc_Undraw>La BSL no se puede dibujar actualmente.</BackSideLayer_ToggleDesc_Undraw>
+  <HeightOne>Altura 1</HeightOne>
+  <SenseOfDepthMod>Sense Of Depth</SenseOfDepthMod>
+  <SenseOfDepth_AllInvisible>Ocultar todas las BSL</SenseOfDepth_AllInvisible>
+  <SenseOfDepth_AllInvisibleTip>Fuerza que no se dibujen todas las "Capas traseras" (BSL). Nota: El cambio no se aplicará inmediatamente.</SenseOfDepth_AllInvisibleTip>
+  <SenseOfDepth_AppliedLog>Registro de salida detallado</SenseOfDepth_AppliedLog>
+  <SenseOfDepth_AppliedLogTip>Genera un registro al iniciar.\nMuestra una lista de todos los edificios compatibles con BSL y aquellos a los que se les ha aplicado un parche de corrección de "def".</SenseOfDepth_AppliedLogTip>
+  <SenseOfDepth_ApplyDefsPatch>Aplicar parche de corrección de Defs</SenseOfDepth_ApplyDefsPatch>
+  <SenseOfDepth_ApplyDefsPatchTip>Aplica un parche a los edificios compatibles con BSL para asegurar su uso correcto. Normalmente no es necesario desactivarlo. Si algún edificio te da problemas debido a estos parches, desactiva esta opción e informa al autor. Si el [Registro de salida detallado] está activado al iniciar el juego, podrás ver los detalles de los edificios parcheados.</SenseOfDepth_ApplyDefsPatchTip>
+  <SenseOfDepth_AttachIcon>Añadir icono</SenseOfDepth_AttachIcon>
+  <SenseOfDepth_AttachIconTip>Añade una marca adicional al icono de Arquitecto para los edificios compatibles con BSL.\nRequiere reiniciar el juego para aplicar los cambios.</SenseOfDepth_AttachIconTip>
+  <SenseOfDepth_DebugInspector>Mostrar gizmo del inspector de edificios</SenseOfDepth_DebugInspector>
+  <SenseOfDepth_DebugInspectorTip>Solo disponible en modo desarrollador. Al seleccionar un edificio, mostrará un gizmo para abrir una ventana de inspección para depurar este mod.</SenseOfDepth_DebugInspectorTip>
+  <SenseOfDepth_DefFixesPatchSubLabel>Parche de corrección de Defs: Requiere reiniciar para aplicar los cambios.</SenseOfDepth_DefFixesPatchSubLabel>
+  <SenseOfDepth_Disabled>Desactivados</SenseOfDepth_Disabled>
+  <SenseOfDepth_DisplayName>Mostrar nombres de etiqueta</SenseOfDepth_DisplayName>
+  <SenseOfDepth_Enabled>Activados</SenseOfDepth_Enabled>
+  <SenseOfDepth_ExcludeBySize>Excluir por tamaño</SenseOfDepth_ExcludeBySize>
+  <SenseOfDepth_ForDev>Para desarrolladores:</SenseOfDepth_ForDev>
+  <SenseOfDepth_GeneralSetting>Configuración general</SenseOfDepth_GeneralSetting>
+  <SenseOfDepth_InitialToggle>Activado inicialmente</SenseOfDepth_InitialToggle>
+  <SenseOfDepth_InitialToggleTip>Cuando se coloca por primera vez un edificio compatible con BSL, su visualización estará activada. Esto también se aplica a los edificios que se generan automáticamente en el mapa.</SenseOfDepth_InitialToggleTip>
+  <SenseOfDepth_MechGestatorTopGraphicsFix>Corrección del gráfico superior del gestador de mecas</SenseOfDepth_MechGestatorTopGraphicsFix>
+  <SenseOfDepth_MechGestatorTopGraphicsFixTip>Corrige la altitud de la capa del gráfico de la tapa del gestador de mecas.</SenseOfDepth_MechGestatorTopGraphicsFixTip>
+  <SenseOfDepth_OverColored>Teñir BSL de rojo</SenseOfDepth_OverColored>
+  <SenseOfDepth_OverColoredTip>Nota: Esto es solo para comprobar las capas. No se recomienda activarlo durante el juego.</SenseOfDepth_OverColoredTip>
+  <SenseOfDepth_Search>Buscar</SenseOfDepth_Search>
+  <SenseOfDepth_SelectionSetting>Configuración de selección</SenseOfDepth_SelectionSetting>
+  <SenseOfDepth_SettingInitializeTip>Restablecer los ajustes a los valores iniciales.</SenseOfDepth_SettingInitializeTip>
+  <SenseOfDepth_ShowAttachIcon>Mostrar icono de BSL</SenseOfDepth_ShowAttachIcon>
+  <SenseOfDepth_ShowAttachIconTip>Mostrar el icono adicional.</SenseOfDepth_ShowAttachIconTip>
+  <SenseOfDepth_ShowToggleButton>Mostrar botón de visualización de capa trasera</SenseOfDepth_ShowToggleButton>
+  <SenseOfDepth_ShowToggleButtonTip>Muestra el botón para alternar la visualización al seleccionar un edificio compatible con capas traseras.</SenseOfDepth_ShowToggleButtonTip>
+  <SquareOne>1 x 1</SquareOne>
+</LanguageData>

@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: industrial cooler -->
+  <VTE_IndustrialCooler.label>refrigerador industrial</VTE_IndustrialCooler.label>
+  <!-- EN: A large, industrial-type air-cooling machine that fits into a wall. Cool air comes out one side, while hot exhaust comes out the other. Can be used to cool down rooms during summer, or to create a walk-in freezer. It’s capable of cooling the room to much lower temperature than the standard cooler. -->
+  <VTE_IndustrialCooler.description>Una máquina de refrigeración de aire grande de tipo industrial que se instala en una pared. El aire frío sale por un lado, mientras que el escape caliente sale por el otro. Se puede usar para enfriar habitaciones durante el verano o para crear un congelador. Es capaz de enfriar la habitación a una temperatura mucho más baja que el refrigerador estándar.</VTE_IndustrialCooler.description>
+  
+  <!-- EN: industrial heater -->
+  <VTE_IndustrialHeater.label>calentador industrial</VTE_IndustrialHeater.label>
+  <!-- EN: A large, industrial-type heater machine that fits into a wall. It converts electricity into heat. It can automatically turn itself on or off to reach a specific target temperature. It is capable of heating up the room to a much higher temperature than the standard heaters. -->
+  <VTE_IndustrialHeater.description>Una máquina de calefacción grande de tipo industrial que se instala en una pared. Convierte electricidad en calor. Puede encenderse o apagarse automáticamente para alcanzar una temperatura objetivo específica. Es capaz de calentar la habitación a una temperatura mucho más alta que los calentadores estándar.</VTE_IndustrialHeater.description>
+  
+  <!-- EN: large ceiling fan -->
+  <VTE_LargeCeilingFan.label>ventilador de techo grande</VTE_LargeCeilingFan.label>
+  <!-- EN: A large, ceiling-mounted fan. Can be used to quickly cool down rooms during the summer. Not efficient enough to refrigerate food, it will aim to reach a room temperature of 17C. -->
+  <VTE_LargeCeilingFan.description>Un ventilador grande montado en el techo. Se puede usar para enfriar rápidamente las habitaciones durante el verano. No es lo suficientemente eficiente para refrigerar alimentos, intentará alcanzar una temperatura ambiente de 17C.</VTE_LargeCeilingFan.description>
+  
+  <!-- EN: small ceiling fan -->
+  <VTE_SmallCeilingFan.label>ventilador de techo pequeño</VTE_SmallCeilingFan.label>
+  <!-- EN: A ceiling-mounted fan. Can be used to slowly cool down rooms during the summer. Not efficient enough to refrigerate food, it will aim to reach a room temperature of 17C. -->
+  <VTE_SmallCeilingFan.description>Un ventilador montado en el techo. Se puede usar para enfriar lentamente las habitaciones durante el verano. No es lo suficientemente eficiente para refrigerar alimentos, intentará alcanzar una temperatura ambiente de 17C.</VTE_SmallCeilingFan.description>
+  
+  <!-- EN: standing cooler -->
+  <VTE_StandingCooler.label>refrigerador pasivo</VTE_StandingCooler.label>
+  <!-- EN: A free standing air-cooling machine. Cool air comes out of a fan and spreads over surrounding area. Can be used to cool down rooms during summer. Not efficient enough to refrigerate food. -->
+  <VTE_StandingCooler.description>Una máquina de refrigeración de aire independiente. El aire frío sale de un ventilador y se esparce por el área circundante. Se puede usar para enfriar habitaciones durante el verano. No es lo suficientemente eficiente para refrigerar alimentos.</VTE_StandingCooler.description>
+  
+  <!-- EN: wall heater -->
+  <VTE_WallHeater.label>calentador</VTE_WallHeater.label>
+  <!-- EN: A heating machine that fits into a wall. It converts electricity into heat. It can automatically turn itself on or off to reach a specific target temperature. Can be used to heat up rooms during winter. -->
+  <VTE_WallHeater.description>Una máquina de calefacción que se instala en una pared. Convierte electricidad en calor. Puede encenderse o apagarse automáticamente para alcanzar una temperatura objetivo específica. Se puede usar para calentar habitaciones durante el invierno.</VTE_WallHeater.description>
+  
+  <!-- EN: wall-mounted cooler -->
+  <VTE_WallMountedCooler.label>enfriador de pared</VTE_WallMountedCooler.label>
+  <!-- EN: A wall-mounted air-cooling machine that fits into a wall. Cool air comes out one side, while hot exhaust comes out the other. Can be used to cool down rooms during summer, or to create a walk-in freezer. Can only be constructed on a wall. -->
+  <VTE_WallMountedCooler.description>Una máquina de refrigeración de aire montada en la pared que se instala en una pared. El aire frío sale por un lado, mientras que el escape caliente sale por el otro. Se puede usar para enfriar habitaciones durante el verano o para crear un congelador. Solo se puede construir en una pared.</VTE_WallMountedCooler.description>
+  
+  <!-- EN: wall-mounted heater -->
+  <VTE_WallMountedHeater.label>calefactor de pared</VTE_WallMountedHeater.label>
+  <!-- EN: A wall-mounted device that converts electricity into heat. It can automatically turn itself on or off to reach a specific target temperature. Can only be constructed on a wall. -->
+  <VTE_WallMountedHeater.description>Un dispositivo montado en la pared que convierte electricidad en calor. Puede encenderse o apagarse automáticamente para alcanzar una temperatura objetivo específica. Solo se puede construir en una pared.</VTE_WallMountedHeater.description>
+  
+  <!-- EN: wall-mounted vent -->
+  <VTE_WallMountedVent.label>respiradero de pared</VTE_WallMountedVent.label>
+  <!-- EN: A simple, wall-mounted vent for equalizing the temperature between two rooms without allowing people to walk between them. Can only be constructed on a wall. -->
+  <VTE_WallMountedVent.description>Una ventilación simple montada en la pared para igualar la temperatura entre dos habitaciones sin permitir que las personas caminen entre ellas. Solo se puede construir en una pared.</VTE_WallMountedVent.description>
+  
+</LanguageData>

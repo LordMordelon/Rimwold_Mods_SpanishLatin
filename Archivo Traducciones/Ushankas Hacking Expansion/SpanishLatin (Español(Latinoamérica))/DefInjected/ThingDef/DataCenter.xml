@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: data center -->
+  <USH_DataCenter.label>centro de datos</USH_DataCenter.label>
+  <!-- EN: An abandoned, encrypted data storage. Hack it to extract preserved cyberdata. -->
+  <USH_DataCenter.description>Un almacenamiento de datos abandonado y cifrado. Hackéalo para extraer ciberdatos preservados.</USH_DataCenter.description>
+  <!-- EN: {HACKER_labelShort} has finished hacking {SUBJECT_labelNoParenthesisDef}. -->
+  <USH_DataCenter.comps.CompHackable.hackedMessage>{HACKER_labelShort} ha terminado de hackear {SUBJECT_labelNoParenthesisDef}.</USH_DataCenter.comps.CompHackable.hackedMessage>
+  <!-- EN: Hack to extract data. -->
+  <USH_DataCenter.comps.CompHackable.notHackedInspectString>Hackear para extraer datos.</USH_DataCenter.comps.CompHackable.notHackedInspectString>
+  
+</LanguageData>

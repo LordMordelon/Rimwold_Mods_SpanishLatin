@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: quantum pulse complex (tier 6) -->
+  <AM_ApoptosisMechlinkBooster.label>complejo de pulso cuántico (nivel 6)</AM_ApoptosisMechlinkBooster.label>
+  <!-- EN: A mechband signaling device that leverages the principles of quantum mechanics to transmit information using more than just binary states of 0s and 1s. The use of these qubits allows for the transmission of complex data, instructions, or commands in a highly efficient and secure manner. Activating it which will attract an Apoptosis mechanoid to attack with its escorts. If you can defeat it, you can collect special technologies from its corpse. The signal pulse burns out the complex, so this building can only be used once. -->
+  <AM_ApoptosisMechlinkBooster.description>Un dispositivo de señalización de banda meca que aprovecha los principios de la mecánica cuántica para transmitir información utilizando más que solo estados binarios de 0s y 1s. El uso de estos qubits permite la transmisión de datos complejos, instrucciones o comandos de una manera altamente eficiente y segura. Activarlo atraerá a un mecanoide Apoptosis para atacar con sus escoltas. Si puedes derrotarlo, puedes recolectar tecnologías especiales de su cadáver. El pulso de señal quema el complejo, por lo que este edificio solo se puede usar una vez.</AM_ApoptosisMechlinkBooster.description>
+  <!-- EN: Summon apoptosis threat -->
+  <AM_ApoptosisMechlinkBooster.comps.CompUsable.useLabel>Invocar amenaza de apoptosis</AM_ApoptosisMechlinkBooster.comps.CompUsable.useLabel>
+  
+  <!-- EN: beamcaster band node -->
+  <AM_BeamcasterBandNode.label>nodo de banda de transmisión de rayos</AM_BeamcasterBandNode.label>
+  <!-- EN: A mechanoid-band signal amplifier. Band nodes must be tuned to a specific mechanitor. This will add 2 bandwidth to that mechanitor's total bandwidth, allowing them to control more mechanoids.\n\nOnce a band node is constructed, it can be quickly tuned to a mechanitor. However, retuning a band node to a different mechanitor takes significantly longer. -->
+  <AM_BeamcasterBandNode.description>Un amplificador de señal de banda mecanoide. Los nodos de banda deben sintonizarse con un mecanitor específico. Esto agregará 2 de ancho de banda al ancho de banda total de ese mecanitor, permitiéndole controlar más mecanoides.\n\nUna vez que se construye un nodo de banda, se puede sintonizar rápidamente con un mecanitor. Sin embargo, volver a sintonizar un nodo de banda a un mecanitor diferente lleva mucho más tiempo.</AM_BeamcasterBandNode.description>
+  
+  <!-- EN: voidlink band node -->
+  <AM_GreaterBandNode.label>nodo de banda de enlace de vacío</AM_GreaterBandNode.label>
+  <!-- EN: A voidlink relay band node. Band nodes must be tuned to a specific mechanitor. This will add 5 bandwidth to that mechanitor's total bandwidth, allowing them to control more mechanoids.\n\nOnce a band node is constructed, it can be quickly tuned to a mechanitor. However, retuning a band node to a different mechanitor takes significantly longer. -->
+  <AM_GreaterBandNode.description>Un nodo de banda de relé de enlace de vacío. Los nodos de banda deben sintonizarse con un mecanitor específico. Esto agregará 5 de ancho de banda al ancho de banda total de ese mecanitor, permitiéndole controlar más mecanoides.\n\nUna vez que se construye un nodo de banda, se puede sintonizar rápidamente con un mecanitor. Sin embargo, volver a sintonizar un nodo de banda a un mecanitor diferente lleva mucho más tiempo.</AM_GreaterBandNode.description>
+  
+  <!-- EN: persistent mech booster -->
+  <AM_GreaterMechBooster.label>potenciador meca persistente</AM_GreaterMechBooster.label>
+  <!-- EN: A remote energy and computation enhancement device. Any friendly mechanoids in its effect radius will move and work faster. This boost will be overwritten if the mech enters the range of a standard mech booster. The effect of the persistent mech booster will remain on the mech up to 3 hours after leaving its area of effect. -->
+  <AM_GreaterMechBooster.description>Un dispositivo de mejora de energía y computación remota. Cualquier mecanoide amigo en su radio de efecto se moverá y trabajará más rápido. Este impulso se sobrescribirá si el meca entra en el rango de un potenciador meca estándar. El efecto del potenciador meca persistente permanecerá en el meca hasta 3 horas después de abandonar su área de efecto.</AM_GreaterMechBooster.description>
+  
+  <!-- EN: mechband beamcaster (tier 4) -->
+  <AM_InfernusMechlinkBooster.label>transmisor de rayos de banda meca (nivel 4)</AM_InfernusMechlinkBooster.label>
+  <!-- EN: A mechband signaling device more powerful than the mechband dish. When activated, it puts out a powerful mech signal pulse, which will attract an Infernus mechanoid to attack with its escorts. If you can defeat it, you can collect special technologies from its corpse. The signal pulse burns out the beamcaster, so this building can only be used once. -->
+  <AM_InfernusMechlinkBooster.description>Un dispositivo de señalización de banda meca más potente que el plato de banda meca. Cuando se activa, emite un potente pulso de señal meca, que atraerá a un mecanoide Infernus para atacar con sus escoltas. Si puedes derrotarlo, puedes recolectar tecnologías especiales de su cadáver. El pulso de señal quema el transmisor de rayos, por lo que este edificio solo se puede usar una vez.</AM_InfernusMechlinkBooster.description>
+  <!-- EN: Summon infernus threat -->
+  <AM_InfernusMechlinkBooster.comps.CompUsable.useLabel>Invocar amenaza de infernus</AM_InfernusMechlinkBooster.comps.CompUsable.useLabel>
+  
+  <!-- EN: mech protection booster -->
+  <AM_MechArmorBooster.label>potenciador de protección meca</AM_MechArmorBooster.label>
+  <!-- EN: A remote armor reinforcement device. Any friendly mechanoids in its effect radius will have greater protection against attacks. -->
+  <AM_MechArmorBooster.description>Un dispositivo de refuerzo de armadura remota. Cualquier mecanoide amigo en su radio de efecto tendrá una mayor protección contra los ataques.</AM_MechArmorBooster.description>
+  
+  <!-- EN: mech disruptor -->
+  <AM_MechDisruptor.label>disruptor meca</AM_MechDisruptor.label>
+  <!-- EN: A remote mech disruption device. Any enemy mechanoids in its effect radius will have reduced agility, movement and targeting skill. -->
+  <AM_MechDisruptor.description>Un dispositivo de interrupción meca remota. Cualquier mecanoide enemigo en su radio de efecto tendrá agilidad, movimiento y habilidad de puntería reducidos.</AM_MechDisruptor.description>
+  
+  <!-- EN: mech efficiency booster -->
+  <AM_MechEfficiencyBooster.label>potenciador de eficiencia meca</AM_MechEfficiencyBooster.label>
+  <!-- EN: A remote energy efficiency enhancement device. Any friendly mechanoids in its effect radius will use less energy per day. -->
+  <AM_MechEfficiencyBooster.description>Un dispositivo de mejora de eficiencia energética remota. Cualquier mecanoide amigo en su radio de efecto usará menos energía por día.</AM_MechEfficiencyBooster.description>
+  
+  <!-- EN: mech targeting booster -->
+  <AM_MechTargettingBooster.label>potenciador de puntería meca</AM_MechTargettingBooster.label>
+  <!-- EN: A remote targeting enhancement device. Any friendly mechanoids in its effect radius will have reduced weapon cooldown. -->
+  <AM_MechTargettingBooster.description>Un dispositivo de mejora de puntería remota. Cualquier mecanoide amigo en su radio de efecto tendrá un tiempo de reutilización de armas reducido.</AM_MechTargettingBooster.description>
+  
+  <!-- EN: voidlink relay (tier 5) -->
+  <AM_WarEmpressMechlinkBooster.label>relé de enlace de vacío (nivel 5)</AM_WarEmpressMechlinkBooster.label>
+  <!-- EN: A mechband signaling device that connects to a framework of relay stations positioned across the system. These relay stations, known as "voidlinks," use subspace communication technology to transmit messages at near-light speed, allowing for rapid communication across sub-stellar distances. Activating it which will attract a War Empress mechanoid to attack with its escorts. If you can defeat it, you can collect special technologies from its corpse. The signal pulse burns out the relay, so this building can only be used once. -->
+  <AM_WarEmpressMechlinkBooster.description>Un dispositivo de señalización de banda meca que se conecta a un marco de estaciones de retransmisión ubicadas en todo el sistema. Estas estaciones de retransmisión, conocidas como "enlaces de vacío", utilizan tecnología de comunicación subespacial para transmitir mensajes a una velocidad cercana a la de la luz, lo que permite una comunicación rápida a través de distancias subestelares. Activarlo atraerá a un mecanoide emperatriz de guerra para atacar con sus escoltas. Si puedes derrotarlo, puedes recolectar tecnologías especiales de su cadáver. El pulso de señal quema el relé, por lo que este edificio solo se puede usar una vez.</AM_WarEmpressMechlinkBooster.description>
+  <!-- EN: Summon war empress threat -->
+  <AM_WarEmpressMechlinkBooster.comps.CompUsable.useLabel>Invocar amenaza de emperatriz de guerra</AM_WarEmpressMechlinkBooster.comps.CompUsable.useLabel>
+  
+</LanguageData>

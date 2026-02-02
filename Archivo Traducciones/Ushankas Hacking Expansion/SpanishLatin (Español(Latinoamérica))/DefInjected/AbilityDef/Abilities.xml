@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: disarm -->
+  <USH_Disarm.label>desarmar</USH_Disarm.label>
+  <!-- EN: Hacks the targeted weapon to be temporary disabled and dropped by the holder. -->
+  <USH_Disarm.description>Hackea el arma seleccionada para que quede temporalmente desactivada y sea soltada por el portador.</USH_Disarm.description>
+  <!-- EN: Using ability: {0} -->
+  <USH_Disarm.jobReportString>Usando habilidad: {0}</USH_Disarm.jobReportString>
+  <!-- EN: disarm -->
+  <USH_Disarm.verbProperties.label>desarmar</USH_Disarm.verbProperties.label>
+  
+  <!-- EN: discharge -->
+  <USH_Discharge.label>descarga</USH_Discharge.label>
+  <!-- EN: Forces the targeted device to discharge its internal power supply, resulting in an EMP explosion. -->
+  <USH_Discharge.description>Fuerza al dispositivo seleccionado a descargar su suministro de energía interno, lo que resulta en una explosión de PEM.</USH_Discharge.description>
+  <!-- EN: Using ability: {0} -->
+  <USH_Discharge.jobReportString>Usando habilidad: {0}</USH_Discharge.jobReportString>
+  <!-- EN: discharge -->
+  <USH_Discharge.verbProperties.label>descarga</USH_Discharge.verbProperties.label>
+  
+  <!-- EN: fork bomb -->
+  <USH_ForkBomb.label>bomba fork</USH_ForkBomb.label>
+  <!-- EN: Overwhelms the targeted software with simple commands that recursively multiply, consuming most of its processing power. -->
+  <USH_ForkBomb.description>Sobrecarga el software seleccionado con comandos simples que se multiplican recursivamente, consumiendo la mayor parte de su potencia de procesamiento.</USH_ForkBomb.description>
+  <!-- EN: Using ability: {0} -->
+  <USH_ForkBomb.jobReportString>Usando habilidad: {0}</USH_ForkBomb.jobReportString>
+  <!-- EN: fork bomb -->
+  <USH_ForkBomb.verbProperties.label>bomba fork</USH_ForkBomb.verbProperties.label>
+  
+  <!-- EN: hijack subcore -->
+  <USH_HijackSubcore.label>secuestrar subnúcleo</USH_HijackSubcore.label>
+  <!-- EN: Reprograms the targeted mechanoid's subcore to recognize the hacker as an ally. The intense, prolonged mental focus required to cast this exec physically harms tissue surrounding the neural port, causing necrosis that can later be healed. -->
+  <USH_HijackSubcore.description>Reprograma el subnúcleo del mecanoide seleccionado para que reconozca al hacker como un aliado. El enfoque mental intenso y prolongado necesario para lanzar este exec daña físicamente el tejido que rodea el puerto neural, causando una necrosis que puede curarse más tarde.</USH_HijackSubcore.description>
+  <!-- EN: Using ability: {0} -->
+  <USH_HijackSubcore.jobReportString>Usando habilidad: {0}</USH_HijackSubcore.jobReportString>
+  <!-- EN: hijack subcore -->
+  <USH_HijackSubcore.verbProperties.label>secuestrar subnúcleo</USH_HijackSubcore.verbProperties.label>
+  
+  <!-- EN: short circuit -->
+  <USH_ShortCircuit.label>cortocircuito</USH_ShortCircuit.label>
+  <!-- EN: Causes a short circuit in the device’s internal components, resulting in a small burning explosion. -->
+  <USH_ShortCircuit.description>Provoca un cortocircuito en los componentes internos del dispositivo, lo que resulta en una pequeña explosión incendiaria.</USH_ShortCircuit.description>
+  <!-- EN: Using ability: {0} -->
+  <USH_ShortCircuit.jobReportString>Usando habilidad: {0}</USH_ShortCircuit.jobReportString>
+  <!-- EN: short circuit -->
+  <USH_ShortCircuit.verbProperties.label>cortocircuito</USH_ShortCircuit.verbProperties.label>
+  
+  <!-- EN: virtual data ripper -->
+  <USH_VirtualDataRipper.label>extractor de datos virtual</USH_VirtualDataRipper.label>
+  <!-- EN: This ability is outdated. Use data ripping gizmo instead. -->
+  <USH_VirtualDataRipper.description>Esta habilidad está obsoleta. Utiliza el artilugio de extracción de datos en su lugar.</USH_VirtualDataRipper.description>
+  <!-- EN: Using ability: {0} -->
+  <USH_VirtualDataRipper.jobReportString>Usando habilidad: {0}</USH_VirtualDataRipper.jobReportString>
+  <!-- EN: virtual data ripper -->
+  <USH_VirtualDataRipper.verbProperties.label>extractor de datos virtual</USH_VirtualDataRipper.verbProperties.label>
+  
+  <!-- EN: virtual black ICE breaker -->
+  <USH_VirtualICEBreaker.label>rompehielos de ICE negro virtual</USH_VirtualICEBreaker.label>
+  <!-- EN: Installs a virtual black ICE breaker on the targeted device, disabling its lethal security measures. -->
+  <USH_VirtualICEBreaker.description>Instala un rompehielos de ICE negro virtual en el dispositivo seleccionado, desactivando sus medidas de seguridad letales.</USH_VirtualICEBreaker.description>
+  <!-- EN: Using ability: {0} -->
+  <USH_VirtualICEBreaker.jobReportString>Usando habilidad: {0}</USH_VirtualICEBreaker.jobReportString>
+  <!-- EN: virtual black ICE breaker -->
+  <USH_VirtualICEBreaker.verbProperties.label>rompehielos de ICE negro virtual</USH_VirtualICEBreaker.verbProperties.label>
+  
+  <!-- EN: zapcode -->
+  <USH_Zapcode.label>zapcode</USH_Zapcode.label>
+  <!-- EN: Penetrates the first layers of security systems. Automatically hacks 35% of the device, but only if it has less then 25% hacking progress. -->
+  <USH_Zapcode.description>Penetra las primeras capas de los sistemas de seguridad. Hackea automáticamente el 35% del dispositivo, pero solo si tiene menos del 25% de progreso de hackeo.</USH_Zapcode.description>
+  <!-- EN: Using ability: {0} -->
+  <USH_Zapcode.jobReportString>Usando habilidad: {0}</USH_Zapcode.jobReportString>
+  <!-- EN: zapcode -->
+  <USH_Zapcode.verbProperties.label>zapcode</USH_Zapcode.verbProperties.label>
+  
+</LanguageData>

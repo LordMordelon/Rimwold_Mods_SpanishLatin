@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: needlecasting sickness -->
+  <AC_NeedlecastingSickness.label>malestar por transmisión remota</AC_NeedlecastingSickness.label>
+  <!-- EN: After-effects of needlecasting. Upon severing the connection, the body takes time to restart and rebalance its natural metabolic processes. While this is ongoing, the caster suffers from nausea and slight dizziness for a short time. -->
+  <AC_NeedlecastingSickness.description>Efectos secundarios de la transmisión remota. Al cortar la conexión, el cuerpo tarda un tiempo en reiniciar y reequilibrar sus procesos metabólicos naturales. Mientras esto ocurre, el transmisor sufre náuseas y ligeros mareos durante un corto período de tiempo.</AC_NeedlecastingSickness.description>
+  <!-- EN: wearing off -->
+  <AC_NeedlecastingSickness.stages.wearing_off.label>remitiendo</AC_NeedlecastingSickness.stages.wearing_off.label>
+  <!-- EN: disoriented -->
+  <AC_NeedlecastingSickness.stages.disoriented.label>desorientado</AC_NeedlecastingSickness.stages.disoriented.label>
+  
+  <!-- EN: needlecasting stasis -->
+  <AC_NeedlecastingStasis.label>estasis por transmisión remota</AC_NeedlecastingStasis.label>
+  <!-- EN: A temporary comatose state that minimises metabolic activity while the caster operates a remote sleeve. The original body reawakens seamlessly once the connection is severed, resuming normal biological functions as the consciousness returns. -->
+  <AC_NeedlecastingStasis.description>Un estado comatoso temporal que minimiza la actividad metabólica mientras el transmisor opera una funda remota. El cuerpo original se despierta sin problemas una vez que se corta la conexión, reanudando las funciones biológicas normales a medida que la conciencia regresa.</AC_NeedlecastingStasis.description>
+  <!-- EN: active -->
+  <AC_NeedlecastingStasis.stages.active.label>activo</AC_NeedlecastingStasis.stages.active.label>
+  
+  <!-- EN: degradation -->
+  <AC_StackDegradation.label>degradación</AC_StackDegradation.label>
+  <!-- EN: Neural stack degradation caused by an unauthorized, aggressive edit. -->
+  <AC_StackDegradation.description>Degradación de la pila neural causada por una edición agresiva y no autorizada.</AC_StackDegradation.description>
+  <!-- EN: stack degradation -->
+  <AC_StackDegradation.labelNoun>degradación de pila</AC_StackDegradation.labelNoun>
+  
+</LanguageData>

@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <VPE_ConsumeBodies.description>Despoja psíquicamente toda la fuerza vital restante de los cadáveres humanoides cercanos y almacena la esencia como un amortiguador de acumulación permanente para el calor neural.</VPE_ConsumeBodies.description>
+  <VPE_ConsumeBodies.jobReportString>Usando habilidad: {0}</VPE_ConsumeBodies.jobReportString>
+  <VPE_ConsumeBodies.label>consumir cuerpos</VPE_ConsumeBodies.label>
+  <VPE_ConsumeBodies.verbProperties.label>consumir cuerpos</VPE_ConsumeBodies.verbProperties.label>
+  <VPE_Corpsetalk.description>Apunta a un cadáver y se apropia temporalmente de las habilidades de la víctima para compensar las deficiencias del lanzador. El efecto dura una estación antes de volver a la normalidad.</VPE_Corpsetalk.description>
+  <VPE_Corpsetalk.jobReportString>Usando habilidad: {0}</VPE_Corpsetalk.jobReportString>
+  <VPE_Corpsetalk.label>charla con cadáveres</VPE_Corpsetalk.label>
+  <VPE_Corpsetalk.verbProperties.label>charla con cadáveres</VPE_Corpsetalk.verbProperties.label>
+  <VPE_Deathshield.description>Bloquea la fuerza vital del objetivo tocado en su lugar durante un día, evitando que muera. Después de este período, pueden morir por heridas acumuladas, pérdida de sangre o falta de extremidades u órganos.</VPE_Deathshield.description>
+  <VPE_Deathshield.jobReportString>Usando habilidad: {0}</VPE_Deathshield.jobReportString>
+  <VPE_Deathshield.label>escudo de la muerte</VPE_Deathshield.label>
+  <VPE_Deathshield.verbProperties.label>escudo de la muerte</VPE_Deathshield.verbProperties.label>
+  <VPE_Enthrall.description>Despoja psíquicamente la fuerza vital del objetivo fallecido y la infunde directamente en sus huesos, animándolos durante un día completo. El único instinto restante es infligir dolor a los enemigos del lanzador.</VPE_Enthrall.description>
+  <VPE_Enthrall.jobReportString>Usando habilidad: {0}</VPE_Enthrall.jobReportString>
+  <VPE_Enthrall.label>esclavizar</VPE_Enthrall.label>
+  <VPE_Enthrall.verbProperties.label>esclavizar</VPE_Enthrall.verbProperties.label>
+  <VPE_Ghostwalk.description>Cubre al lanzador con una capa de atrofia psíquica temporal, permitiéndole caminar a través de estructuras sin impedimentos y sin dañar nada. La duración escala con la sensibilidad psíquica del lanzador.</VPE_Ghostwalk.description>
+  <VPE_Ghostwalk.jobReportString>Usando habilidad: {0}</VPE_Ghostwalk.jobReportString>
+  <VPE_Ghostwalk.label>paso fantasmal</VPE_Ghostwalk.label>
+  <VPE_Ghostwalk.verbProperties.label>paso fantasmal</VPE_Ghostwalk.verbProperties.label>
+  <VPE_Liferot.description>Induce psíquicamente necrosis masiva aleatoria en un objetivo, exponiendo las partes del cuerpo afectadas a infecciones e induciendo vómitos. La duración escala con la sensibilidad psíquica del objetivo y es una acción abiertamente hostil.</VPE_Liferot.description>
+  <VPE_Liferot.jobReportString>Usando habilidad: {0}</VPE_Liferot.jobReportString>
+  <VPE_Liferot.label>podredumbre vital</VPE_Liferot.label>
+  <VPE_Liferot.verbProperties.label>podredumbre vital</VPE_Liferot.verbProperties.label>
+  <VPE_ParalysisPulse.description>Emite una nube de partículas negras del lanzador, que aflige a todos, incluido el lanzador, dentro del área con abasia paralítica durante un día completo. El radio escala con la sensibilidad psíquica del lanzador.</VPE_ParalysisPulse.description>
+  <VPE_ParalysisPulse.jobReportString>Usando habilidad: {0}</VPE_ParalysisPulse.jobReportString>
+  <VPE_ParalysisPulse.label>pulso de parálisis</VPE_ParalysisPulse.label>
+  <VPE_ParalysisPulse.verbProperties.label>pulso de parálisis</VPE_ParalysisPulse.verbProperties.label>
+  <VPE_Resurrect.description>Al sacrificar un dedo natural, el lanzador es capaz de imitar los efectos del suero resucitador mecánico en cualquier cadáver no disecado, la energía psíquica repara los tejidos descompuestos y devuelve la vida al cuerpo. El objetivo quedará incapacitado y sus lealtades seguirán siendo las mismas. Cuanto menos conservado esté el cuerpo, más probable es que el objetivo sufra efectos secundarios negativos. La larga e intensa concentración termina con el lanzador cayendo en coma.</VPE_Resurrect.description>
+  <VPE_Resurrect.jobReportString>Usando habilidad: {0}</VPE_Resurrect.jobReportString>
+  <VPE_Resurrect.label>resucitar</VPE_Resurrect.label>
+  <VPE_Resurrect.verbProperties.label>resucitar</VPE_Resurrect.verbProperties.label>
+  <VPE_StealVitality.description>Sifona la vitalidad de una fuente cercana, transfiriendo el factor de curación natural, la velocidad de movimiento y la conciencia del objetivo al lanzador durante un día completo. Considerada una acción abiertamente hostil.</VPE_StealVitality.description>
+  <VPE_StealVitality.jobReportString>Usando habilidad: {0}</VPE_StealVitality.jobReportString>
+  <VPE_StealVitality.label>robar vitalidad</VPE_StealVitality.label>
+  <VPE_StealVitality.verbProperties.label>robar vitalidad</VPE_StealVitality.verbProperties.label>
+  <VPE_WordofFear.description>Induce pánico sobrecargando su sistema de respuesta de huida durante una duración que escala con su sensibilidad psíquica. Considerada una acción hostil.</VPE_WordofFear.description>
+  <VPE_WordofFear.jobReportString>Usando habilidad: {0}</VPE_WordofFear.jobReportString>
+  <VPE_WordofFear.label>palabra de miedo</VPE_WordofFear.label>
+  <VPE_WordofFear.verbProperties.label>palabra de miedo</VPE_WordofFear.verbProperties.label>
+</LanguageData>

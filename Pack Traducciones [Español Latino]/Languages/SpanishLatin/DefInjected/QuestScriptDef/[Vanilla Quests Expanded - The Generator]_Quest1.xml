@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <VQE_PrototypeARC.questContentRules.rulesStrings>
+    <li>terminalStudiedMessage-&gt;Terminal estudiada. Has recopilado la información y ahora puedes marcharte.</li>
+  </VQE_PrototypeARC.questContentRules.rulesStrings>
+  <VQE_PrototypeARC.questDescriptionRules.rulesStrings>
+    <li>questDescription(asker_factionLeader==True)-&gt;[asker_nameDef], [asker_faction_leaderTitle] de [asker_faction_name], nos ha informado de un antiguo sitio de construcción donde [inventor_nameFull] trabajó una vez en un enorme prototipo de generador. El sitio parece abandonado y aislado, rodeado por los restos de un proyecto olvidado hace mucho tiempo.\n\n[terminalDetails] Visitar este sitio puede proporcionar [potentialRewards]. [journeyDetails] [finalDetails]</li>
+    <li>questDescription(askerIsNull==True)-&gt;Hemos descubierto un antiguo sitio de construcción donde [inventor_nameFull] estaba trabajando en un gran prototipo de generador. El sitio se encuentra en una ubicación remota, rodeado por las ruinas de un proyecto inacabado.\n\n[terminalDetails] Explorar el sitio puede rendir [potentialRewards]. [journeyDetails] [finalDetails]</li>
+    <li>terminalDetails-&gt;Hay una terminal aún operativa que contiene notas de investigación y esquemas del trabajo de [inventor_nameFull].</li>
+    <li>terminalDetails-&gt;Una terminal activa contiene registros de datos críticos y conocimientos experimentales sobre la construcción de generadores.</li>
+    <li>terminalDetails-&gt;El sitio contiene una terminal que se rumorea que tiene planos de diseño y avances en la investigación energética.</li>
+    <li>terminalDetails-&gt;Los sistemas antiguos todavía zumban débilmente, ofreciendo un vistazo al ambicioso prototipo de [inventor_nameFull].</li>
+    <li>terminalDetails-&gt;Una terminal dañada aún puede contener datos sobre el prototipo ARC, pero su estado es incierto.</li>
+    <li>potentialRewards-&gt;componentes raros, datos de investigación avanzados y recursos valiosos</li>
+    <li>potentialRewards-&gt;materiales esenciales, esquemas de generadores y conocimientos tecnológicos avanzados</li>
+    <li>potentialRewards-&gt;conocimientos valiosos, materiales de construcción únicos y artefactos raros</li>
+    <li>potentialRewards-&gt;avances críticos en la investigación y una gran cantidad de materiales recuperables</li>
+    <li>potentialRewards-&gt;botín raro y una investigación energética potencialmente innovadora</li>
+    <li>journeyDetails-&gt;La ubicación está lejos y requerirá una preparación cuidadosa para el viaje.</li>
+    <li>journeyDetails-&gt;La larga distancia al sitio hace que la expedición sea desafiante pero potencialmente gratificante.</li>
+    <li>journeyDetails-&gt;Viajar al sitio exigirá tiempo y recursos significativos.</li>
+    <li>journeyDetails-&gt;El viaje a este sitio remoto puede ser peligroso pero vale la pena el esfuerzo.</li>
+    <li>journeyDetails-&gt;Su ubicación remota sugiere pocas amenazas inmediatas, pero los suministros serán clave.</li>
+    <li>finalDetails-&gt;Aunque no se esperan peligros, el viaje en sí plantea riesgos para los colonos no preparados.</li>
+    <li>finalDetails-&gt;El sitio parece abandonado, pero se recomienda precaución; su aislamiento puede ocultar desafíos inesperados.</li>
+    <li>finalDetails-&gt;El área parece deshabitada, pero su antigüedad puede dificultar la navegación y la supervivencia.</li>
+    <li>finalDetails-&gt;Prepárate para lo peor mientras esperas lo mejor; la oportunidad a menudo viene con riesgos.</li>
+    <li>finalDetails-&gt;El aislamiento puede proporcionar seguridad, pero también deja poco margen de error si surgen problemas.</li>
+  </VQE_PrototypeARC.questDescriptionRules.rulesStrings>
+  <VQE_PrototypeARC.questNameRules.rulesStrings>
+    <li>questName-&gt;El [prototypeName] [adj]</li>
+    <li>adj-&gt;inacabado</li>
+    <li>adj-&gt;abandonado</li>
+    <li>adj-&gt;experimental</li>
+    <li>adj-&gt;antiguo</li>
+    <li>adj-&gt;olvidado</li>
+    <li>adj-&gt;derruido</li>
+    <li>adj-&gt;fallido</li>
+    <li>adj-&gt;no probado</li>
+    <li>adj-&gt;misterioso</li>
+    <li>adj-&gt;parcialmente completado</li>
+    <li>adj-&gt;incompleto</li>
+    <li>adj-&gt;de etapa temprana</li>
+    <li>adj-&gt;oculto</li>
+    <li>prototypeName-&gt;prototipo</li>
+    <li>prototypeName-&gt;experimento</li>
+    <li>prototypeName-&gt;diseño</li>
+    <li>prototypeName-&gt;proyecto</li>
+    <li>prototypeName-&gt;núcleo de energía</li>
+    <li>prototypeName-&gt;máquina</li>
+    <li>prototypeName-&gt;concepto</li>
+    <li>prototypeName-&gt;generador</li>
+    <li>prototypeName-&gt;fuente de energía</li>
+    <li>prototypeName-&gt;dispositivo</li>
+    <li>prototypeName-&gt;creación</li>
+    <li>prototypeName-&gt;artefacto</li>
+    <li>prototypeName-&gt;sitio de prueba</li>
+    <li>prototypeName-&gt;marco</li>
+  </VQE_PrototypeARC.questNameRules.rulesStrings>
+</LanguageData>

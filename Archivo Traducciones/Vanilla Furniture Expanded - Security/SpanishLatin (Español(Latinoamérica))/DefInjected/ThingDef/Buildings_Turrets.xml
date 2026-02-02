@@ -1,0 +1,300 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: tesla blaster bolt -->
+  <Bullet_TeslaBlaster.label>rayo de bláster tesla</Bullet_TeslaBlaster.label>
+  
+  <!-- EN: tesla blaster -->
+  <Gun_TeslaBlaster.label>bláster tesla</Gun_TeslaBlaster.label>
+  <!-- EN: A specialized electrical weapon designed to be mounted on a turret. -->
+  <Gun_TeslaBlaster.description>Un arma eléctrica especializada diseñada para ser montada en una torreta.</Gun_TeslaBlaster.description>
+  <!-- EN: tesla blaster -->
+  <Gun_TeslaBlaster.verbs.Verb_Shoot.label>bláster tesla</Gun_TeslaBlaster.verbs.Verb_Shoot.label>
+  
+  <!-- EN: catapult -->
+  <VFES_Artillery_Catapult.label>catapulta</VFES_Artillery_Catapult.label>
+  <!-- EN: A ballistic device used to launch a projectile a great distance without the aid of gunpowder or other propellants. -->
+  <VFES_Artillery_Catapult.description>Un dispositivo balístico utilizado para lanzar un proyectil a gran distancia sin la ayuda de pólvora u otros propulsores.</VFES_Artillery_Catapult.description>
+  <!-- EN: catapult -->
+  <VFES_Artillery_Catapult.verbs.Verb_Shoot.label>catapulta</VFES_Artillery_Catapult.verbs.Verb_Shoot.label>
+  
+  <!-- EN: ballista bolt -->
+  <VFES_Bullet_Ballista.label>virote de balista</VFES_Bullet_Ballista.label>
+  
+  <!-- EN: massive boulder -->
+  <VFES_Bullet_Catapult.label>roca masiva</VFES_Bullet_Catapult.label>
+  
+  <!-- EN: charge shot -->
+  <VFES_Bullet_ChargeComplex.label>disparo de carga</VFES_Bullet_ChargeComplex.label>
+  
+  <!-- EN: charge railgun shot -->
+  <VFES_Bullet_ChargeRailgunShot.label>disparo de cañón de riel de carga</VFES_Bullet_ChargeRailgunShot.label>
+  
+  <!-- EN: charge shot -->
+  <VFES_Bullet_ChargeTurretShot.label>disparo de carga</VFES_Bullet_ChargeTurretShot.label>
+  
+  <!-- EN: flamer shot -->
+  <VFES_Bullet_FlameTurret.label>disparo de lanzallamas</VFES_Bullet_FlameTurret.label>
+  
+  <!-- EN: HMG bullet -->
+  <VFES_Bullet_HMG.label>bala de ametralladora pesada</VFES_Bullet_HMG.label>
+  
+  <!-- EN: charge complex -->
+  <VFES_Complex_Charge.label>complejo de carga</VFES_Complex_Charge.label>
+  <!-- EN: A heavy, pulse-charged rapid-fire blaster mounted on a barricade to grant cover. Needs to be manned in order to fire. Requires plasteel to refurbish its barrel after heavy use. -->
+  <VFES_Complex_Charge.description>Un bláster pesado de fuego rápido y carga de pulso montado en una barricada para otorgar cobertura. Necesita ser operado para disparar. Requiere plastiacero para reacondicionar su cañón después de un uso intenso.</VFES_Complex_Charge.description>
+  <!-- EN: Barrel durability -->
+  <VFES_Complex_Charge.comps.CompRefuelable.fuelGizmoLabel>Durabilidad del cañón</VFES_Complex_Charge.comps.CompRefuelable.fuelGizmoLabel>
+  <!-- EN: Shots until barrel change -->
+  <VFES_Complex_Charge.comps.CompRefuelable.fuelLabel>Disparos hasta cambio de cañón</VFES_Complex_Charge.comps.CompRefuelable.fuelLabel>
+  <!-- EN: Needs new barrel -->
+  <VFES_Complex_Charge.comps.CompRefuelable.outOfFuelMessage>Necesita cañón nuevo</VFES_Complex_Charge.comps.CompRefuelable.outOfFuelMessage>
+  
+  <!-- EN: HMG complex -->
+  <VFES_Complex_Hmg.label>complejo de ametralladora pesada</VFES_Complex_Hmg.label>
+  <!-- EN: A heavy machine gun mounted on sandbags to grant cover. Needs to be manned in order to fire. Requires steel to refurbish its barrel after heavy use. -->
+  <VFES_Complex_Hmg.description>Una ametralladora pesada montada en sacos de arena para otorgar cobertura. Necesita ser operada para disparar. Requiere acero para reacondicionar su cañón después de un uso intenso.</VFES_Complex_Hmg.description>
+  <!-- EN: Barrel durability -->
+  <VFES_Complex_Hmg.comps.CompRefuelable.fuelGizmoLabel>Durabilidad del cañón</VFES_Complex_Hmg.comps.CompRefuelable.fuelGizmoLabel>
+  <!-- EN: Shots until barrel change -->
+  <VFES_Complex_Hmg.comps.CompRefuelable.fuelLabel>Disparos hasta cambio de cañón</VFES_Complex_Hmg.comps.CompRefuelable.fuelLabel>
+  <!-- EN: Needs new barrel -->
+  <VFES_Complex_Hmg.comps.CompRefuelable.outOfFuelMessage>Necesita cañón nuevo</VFES_Complex_Hmg.comps.CompRefuelable.outOfFuelMessage>
+  
+  <!-- EN: minigun complex -->
+  <VFES_Complex_Minigun.label>complejo de minigun</VFES_Complex_Minigun.label>
+  <!-- EN: A multi-barrel machine gun mounted on sandbags to grant cover and provide stability. Where most self-loading guns are powered by the energy from the gunpowder, the minigun uses an electric motor to rapidly cycle cartridges through the weapon. Needs to be manned in order to fire. Requires steel to refurbish its barrels after heavy use. -->
+  <VFES_Complex_Minigun.description>Una ametralladora de múltiples cañones montada en sacos de arena para otorgar cobertura y proporcionar estabilidad. Donde la mayoría de las armas de carga automática funcionan con la energía de la pólvora, la minigun utiliza un motor eléctrico para ciclar rápidamente los cartuchos a través del arma. Necesita ser operada para disparar. Requiere acero para reacondicionar sus cañones después de un uso intenso.</VFES_Complex_Minigun.description>
+  <!-- EN: Barrel durability -->
+  <VFES_Complex_Minigun.comps.CompRefuelable.fuelGizmoLabel>Durabilidad del cañón</VFES_Complex_Minigun.comps.CompRefuelable.fuelGizmoLabel>
+  <!-- EN: Shots until barrel change -->
+  <VFES_Complex_Minigun.comps.CompRefuelable.fuelLabel>Disparos hasta cambio de cañón</VFES_Complex_Minigun.comps.CompRefuelable.fuelLabel>
+  <!-- EN: Needs new barrel -->
+  <VFES_Complex_Minigun.comps.CompRefuelable.outOfFuelMessage>Necesita cañón nuevo</VFES_Complex_Minigun.comps.CompRefuelable.outOfFuelMessage>
+  
+  <!-- EN: minigun -->
+  <VFES_ComplexCharge_Top.label>minigun</VFES_ComplexCharge_Top.label>
+  <!-- EN: A self-loading minigun designed to be attached to a turret. -->
+  <VFES_ComplexCharge_Top.description>Una minigun de carga automática diseñada para ser acoplada a una torreta.</VFES_ComplexCharge_Top.description>
+  <!-- EN: minigun -->
+  <VFES_ComplexCharge_Top.verbs.Verb_Shoot.label>minigun</VFES_ComplexCharge_Top.verbs.Verb_Shoot.label>
+  
+  <!-- EN: HMG -->
+  <VFES_ComplexHmg_Top.label>ametralladora pesada</VFES_ComplexHmg_Top.label>
+  <!-- EN: A self-loading HMG designed to be attached to a turret. -->
+  <VFES_ComplexHmg_Top.description>Una ametralladora pesada de carga automática diseñada para ser acoplada a una torreta.</VFES_ComplexHmg_Top.description>
+  <!-- EN: HMG -->
+  <VFES_ComplexHmg_Top.verbs.Verb_Shoot.label>ametralladora pesada</VFES_ComplexHmg_Top.verbs.Verb_Shoot.label>
+  
+  <!-- EN: minigun -->
+  <VFES_ComplexMinigun_Top.label>minigun</VFES_ComplexMinigun_Top.label>
+  <!-- EN: A self-loading minigun designed to be attached to a turret. -->
+  <VFES_ComplexMinigun_Top.description>Una minigun de carga automática diseñada para ser acoplada a una torreta.</VFES_ComplexMinigun_Top.description>
+  <!-- EN: minigun -->
+  <VFES_ComplexMinigun_Top.verbs.Verb_Shoot.label>minigun</VFES_ComplexMinigun_Top.verbs.Verb_Shoot.label>
+  
+  <!-- EN: military turret gun -->
+  <VFES_Gun_ArmoredTurret.label>arma de torreta militar</VFES_Gun_ArmoredTurret.label>
+  <!-- EN: A refined automatic gun made to be mounted on a turret. -->
+  <VFES_Gun_ArmoredTurret.description>Un arma automática refinada hecha para ser montada en una torreta.</VFES_Gun_ArmoredTurret.description>
+  <!-- EN: military turret gun -->
+  <VFES_Gun_ArmoredTurret.verbs.Verb_Shoot.label>arma de torreta militar</VFES_Gun_ArmoredTurret.verbs.Verb_Shoot.label>
+  
+  <!-- EN: ballista -->
+  <VFES_Gun_BallistaTurret.label>balista</VFES_Gun_BallistaTurret.label>
+  <!-- EN: An ancient military siege engine in a form of a crossbow mounted on a wooden construct. -->
+  <VFES_Gun_BallistaTurret.description>Una antigua máquina de asedio militar en forma de ballesta montada en una construcción de madera.</VFES_Gun_BallistaTurret.description>
+  <!-- EN: ballista -->
+  <VFES_Gun_BallistaTurret.verbs.Verb_Shoot.label>balista</VFES_Gun_BallistaTurret.verbs.Verb_Shoot.label>
+  
+  <!-- EN: charged turret gun -->
+  <VFES_Gun_ChargeTurret.label>arma de torreta de carga</VFES_Gun_ChargeTurret.label>
+  <!-- EN: A charge rifle made to be mounted on a turret. -->
+  <VFES_Gun_ChargeTurret.description>Un rifle de carga hecho para ser montado en una torreta.</VFES_Gun_ChargeTurret.description>
+  <!-- EN: charged turret gun -->
+  <VFES_Gun_ChargeTurret.verbs.Verb_Shoot.label>arma de torreta de carga</VFES_Gun_ChargeTurret.verbs.Verb_Shoot.label>
+  
+  <!-- EN: flame turret gun -->
+  <VFES_Gun_FlameTurret.label>arma de torreta de llamas</VFES_Gun_FlameTurret.label>
+  <!-- EN: A flamethrower made to be mounted on a turret. -->
+  <VFES_Gun_FlameTurret.description>Un lanzallamas hecho para ser montado en una torreta.</VFES_Gun_FlameTurret.description>
+  <!-- EN: flame turret gun -->
+  <VFES_Gun_FlameTurret.verbs.Verb_Shoot.label>arma de torreta de llamas</VFES_Gun_FlameTurret.verbs.Verb_Shoot.label>
+  
+  <!-- EN: military turret gun -->
+  <VFES_Gun_MilitaryTurret.label>arma de torreta militar</VFES_Gun_MilitaryTurret.label>
+  <!-- EN: A refined automatic gun made to be mounted on a turret. -->
+  <VFES_Gun_MilitaryTurret.description>Un arma automática refinada hecha para ser montada en una torreta.</VFES_Gun_MilitaryTurret.description>
+  <!-- EN: military turret gun -->
+  <VFES_Gun_MilitaryTurret.verbs.Verb_Shoot.label>arma de torreta militar</VFES_Gun_MilitaryTurret.verbs.Verb_Shoot.label>
+  
+  <!-- EN: charged turret gun -->
+  <VFES_Gun_RailgunTurret.label>arma de torreta de carga</VFES_Gun_RailgunTurret.label>
+  <!-- EN: An advanced railgun designed to launch electromagnetically accelerated projectiles. -->
+  <VFES_Gun_RailgunTurret.description>Un cañón de riel avanzado diseñado para lanzar proyectiles acelerados electromagnéticamente.</VFES_Gun_RailgunTurret.description>
+  <!-- EN: charged turret gun -->
+  <VFES_Gun_RailgunTurret.verbs.Verb_Shoot.label>arma de torreta de carga</VFES_Gun_RailgunTurret.verbs.Verb_Shoot.label>
+  
+  <!-- EN: searchlight -->
+  <VFES_Gun_Searchlight.label>reflector</VFES_Gun_Searchlight.label>
+  <!-- EN: A searchlight for a turret. -->
+  <VFES_Gun_Searchlight.description>Un reflector para una torreta.</VFES_Gun_Searchlight.description>
+  <!-- EN: searchlight -->
+  <VFES_Gun_Searchlight.verbs.Verb_Dazzle.label>reflector</VFES_Gun_Searchlight.verbs.Verb_Dazzle.label>
+  
+  <!-- EN: shotgun turret gun -->
+  <VFES_Gun_ShotgunTurret.label>arma de torreta de escopeta</VFES_Gun_ShotgunTurret.label>
+  <!-- EN: An automatic shotgun made to be mounted on a turret. -->
+  <VFES_Gun_ShotgunTurret.description>Una escopeta automática hecha para ser montada en una torreta.</VFES_Gun_ShotgunTurret.description>
+  <!-- EN: shotgun turret gun -->
+  <VFES_Gun_ShotgunTurret.verbs.Verb_Shoot.label>arma de torreta de escopeta</VFES_Gun_ShotgunTurret.verbs.Verb_Shoot.label>
+  
+  <!-- EN: armored turret -->
+  <VFES_Turret_ArmoredTurret.label>torreta blindada</VFES_Turret_ArmoredTurret.label>
+  <!-- EN: An armored, portable automatic turret. Requires steel to refurbish its barrel after heavy use. Extra armor plating allows the turret to provide some cover, makes it more resistant to enemy fire and prevents explosion in case of severe damage. Its dumb AI brain can't be directly controlled, so beware of friendly fire. -->
+  <VFES_Turret_ArmoredTurret.description>Una torreta automática portátil y blindada. Requiere acero para reacondicionar su cañón después de un uso intenso. El blindaje adicional permite que la torreta proporcione algo de cobertura, la hace más resistente al fuego enemigo y evita explosiones en caso de daños graves. Su cerebro de IA tonta no se puede controlar directamente, así que ten cuidado con el fuego amigo.</VFES_Turret_ArmoredTurret.description>
+  <!-- EN: Barrel durability -->
+  <VFES_Turret_ArmoredTurret.comps.CompRefuelable.fuelGizmoLabel>Durabilidad del cañón</VFES_Turret_ArmoredTurret.comps.CompRefuelable.fuelGizmoLabel>
+  <!-- EN: Shots until barrel change -->
+  <VFES_Turret_ArmoredTurret.comps.CompRefuelable.fuelLabel>Disparos hasta cambio de cañón</VFES_Turret_ArmoredTurret.comps.CompRefuelable.fuelLabel>
+  <!-- EN: Needs new barrel -->
+  <VFES_Turret_ArmoredTurret.comps.CompRefuelable.outOfFuelMessage>Necesita cañón nuevo</VFES_Turret_ArmoredTurret.comps.CompRefuelable.outOfFuelMessage>
+  <!-- EN: Hackear para reconfigurar. -->
+  <VFES_Turret_ArmoredTurret.comps.CompTurretHackable.notHackedInspectString>Hackear para reconfigurar.</VFES_Turret_ArmoredTurret.comps.CompTurretHackable.notHackedInspectString>
+  
+  <!-- EN: double autocannon turret -->
+  <VFES_Turret_AutocannonDouble.label>torreta de cañón automático doble</VFES_Turret_AutocannonDouble.label>
+  <!-- EN: A twin-barreled variant of the autocannon turret. While less accurate and slightly shorter-ranged than its single-barreled cousin, it compensates with a high volume of fire. It cannot fire at close-up targets, and may explode when damaged. -->
+  <VFES_Turret_AutocannonDouble.description>Una variante de doble cañón de la torreta de cañón automático. Aunque es menos precisa y tiene un alcance ligeramente menor que su prima de un solo cañón, lo compensa con un alto volumen de fuego. No puede disparar a objetivos cercanos y puede explotar si se daña.</VFES_Turret_AutocannonDouble.description>
+  <!-- EN: Barrel durability -->
+  <VFES_Turret_AutocannonDouble.comps.CompRefuelable.fuelGizmoLabel>Durabilidad del cañón</VFES_Turret_AutocannonDouble.comps.CompRefuelable.fuelGizmoLabel>
+  <!-- EN: Shots until barrel change -->
+  <VFES_Turret_AutocannonDouble.comps.CompRefuelable.fuelLabel>Disparos hasta cambio de cañón</VFES_Turret_AutocannonDouble.comps.CompRefuelable.fuelLabel>
+  <!-- EN: Needs new barrel -->
+  <VFES_Turret_AutocannonDouble.comps.CompRefuelable.outOfFuelMessage>Necesita cañón nuevo</VFES_Turret_AutocannonDouble.comps.CompRefuelable.outOfFuelMessage>
+  <!-- EN: Hackear para reconfigurar. -->
+  <VFES_Turret_AutocannonDouble.comps.CompTurretHackable.notHackedInspectString>Hackear para reconfigurar.</VFES_Turret_AutocannonDouble.comps.CompTurretHackable.notHackedInspectString>
+  
+  <!-- EN: ballista -->
+  <VFES_Turret_Ballista.label>balista</VFES_Turret_Ballista.label>
+  <!-- EN: An ancient military siege engine in the form of a crossbow mounted on a wooden construct. Bolts fired from this machine explode into splinters on impact. Needs to be manned in order to fire. -->
+  <VFES_Turret_Ballista.description>Una antigua máquina de asedio militar en forma de ballesta montada en una construcción de madera. Los virotes disparados desde esta máquina explotan en astillas al impactar. Necesita ser operada para disparar.</VFES_Turret_Ballista.description>
+  <!-- EN: Ballista bolts -->
+  <VFES_Turret_Ballista.comps.CompRefuelable.fuelGizmoLabel>Virotes de balista</VFES_Turret_Ballista.comps.CompRefuelable.fuelGizmoLabel>
+  <!-- EN: Ballista bolts -->
+  <VFES_Turret_Ballista.comps.CompRefuelable.fuelLabel>Virotes de balista</VFES_Turret_Ballista.comps.CompRefuelable.fuelLabel>
+  <!-- EN: Needs ballista bolts -->
+  <VFES_Turret_Ballista.comps.CompRefuelable.outOfFuelMessage>Necesita virotes de balista</VFES_Turret_Ballista.comps.CompRefuelable.outOfFuelMessage>
+  
+  <!-- EN: catapult -->
+  <VFES_Turret_Catapult.label>catapulta</VFES_Turret_Catapult.label>
+  <!-- EN: A ballistic device used to launch a projectile a great distance without the aid of gunpowder or other propellants. In use since ancient times, the catapult has proven to be one of the most persistently effective mechanisms in warfare. -->
+  <VFES_Turret_Catapult.description>Un dispositivo balístico utilizado para lanzar un proyectil a gran distancia sin la ayuda de pólvora u otros propulsores. En uso desde la antigüedad, la catapulta ha demostrado ser uno de los mecanismos más persistentemente efectivos en la guerra.</VFES_Turret_Catapult.description>
+  
+  <!-- EN: charge railgun -->
+  <VFES_Turret_ChargeRailgun.label>cañón de riel de carga</VFES_Turret_ChargeRailgun.label>
+  <!-- EN: A cutting-edge, pulse-charged, rail-assisted weapon system that fires a short burst of high-velocity projectiles, energized with unstable plasma as they leave the rail. The resulting shots pierce armor and bodies alike, but the turret requires new plasteel barrel after use. It cannot fire at close range, and may explode when damaged. -->
+  <VFES_Turret_ChargeRailgun.description>Un sistema de armas de vanguardia, con carga de pulso y asistido por riel, que dispara una ráfaga corta de proyectiles de alta velocidad, energizados con plasma inestable al salir del riel. Los disparos resultantes perforan armaduras y cuerpos por igual, pero la torreta requiere un nuevo cañón de plastiacero después de su uso. No puede disparar a corta distancia y puede explotar si se daña.</VFES_Turret_ChargeRailgun.description>
+  <!-- EN: Barrel durability -->
+  <VFES_Turret_ChargeRailgun.comps.CompRefuelable.fuelGizmoLabel>Durabilidad del cañón</VFES_Turret_ChargeRailgun.comps.CompRefuelable.fuelGizmoLabel>
+  <!-- EN: Shots until barrel change -->
+  <VFES_Turret_ChargeRailgun.comps.CompRefuelable.fuelLabel>Disparos hasta cambio de cañón</VFES_Turret_ChargeRailgun.comps.CompRefuelable.fuelLabel>
+  <!-- EN: Needs new barrel -->
+  <VFES_Turret_ChargeRailgun.comps.CompRefuelable.outOfFuelMessage>Necesita cañón nuevo</VFES_Turret_ChargeRailgun.comps.CompRefuelable.outOfFuelMessage>
+  <!-- EN: Hackear para reconfigurar. -->
+  <VFES_Turret_ChargeRailgun.comps.CompTurretHackable.notHackedInspectString>Hackear para reconfigurar.</VFES_Turret_ChargeRailgun.comps.CompTurretHackable.notHackedInspectString>
+  
+  <!-- EN: charge turret -->
+  <VFES_Turret_ChargeTurret.label>torreta de carga</VFES_Turret_ChargeTurret.label>
+  <!-- EN: A portable automatic charged-shot turret. Pulse-charge technology charges each shot with unstable energy as it leaves the barrel. Requires plasteel to refurbish its barrel after heavy use. May explode when damaged. Its dumb AI brain can't be directly controlled, so beware of friendly fire. -->
+  <VFES_Turret_ChargeTurret.description>Una torreta automática portátil de disparo de carga. La tecnología de carga de pulso carga cada disparo con energía inestable a medida que sale del cañón. Requiere plastiacero para reacondicionar su cañón después de un uso intenso. Puede explotar si se daña. Su cerebro de IA tonta no se puede controlar directamente, así que ten cuidado con el fuego amigo.</VFES_Turret_ChargeTurret.description>
+  <!-- EN: Barrel durability -->
+  <VFES_Turret_ChargeTurret.comps.CompRefuelable.fuelGizmoLabel>Durabilidad del cañón</VFES_Turret_ChargeTurret.comps.CompRefuelable.fuelGizmoLabel>
+  <!-- EN: Shots until barrel change -->
+  <VFES_Turret_ChargeTurret.comps.CompRefuelable.fuelLabel>Disparos hasta cambio de cañón</VFES_Turret_ChargeTurret.comps.CompRefuelable.fuelLabel>
+  <!-- EN: Needs new barrel -->
+  <VFES_Turret_ChargeTurret.comps.CompRefuelable.outOfFuelMessage>Necesita cañón nuevo</VFES_Turret_ChargeTurret.comps.CompRefuelable.outOfFuelMessage>
+  <!-- EN: Hackear para reconfigurar. -->
+  <VFES_Turret_ChargeTurret.comps.CompTurretHackable.notHackedInspectString>Hackear para reconfigurar.</VFES_Turret_ChargeTurret.comps.CompTurretHackable.notHackedInspectString>
+  
+  <!-- EN: flamer turret -->
+  <VFES_Turret_Flame.label>torreta lanzallamas</VFES_Turret_Flame.label>
+  <!-- EN: A portable flamethrower turret, capable of spewing a cone of flame that engulfs enemies and terrain. May explode when damaged. Its dumb AI brain can't be directly controlled, so beware of friendly fire. -->
+  <VFES_Turret_Flame.description>Una torreta lanzallamas portátil, capaz de escupir un cono de llamas que envuelve a los enemigos y el terreno. Puede explotar si se daña. Su cerebro de IA tonta no se puede controlar directamente, así que ten cuidado con el fuego amigo.</VFES_Turret_Flame.description>
+  <!-- EN: Remaining fuel -->
+  <VFES_Turret_Flame.comps.CompRefuelable.fuelGizmoLabel>Combustible restante</VFES_Turret_Flame.comps.CompRefuelable.fuelGizmoLabel>
+  <!-- EN: Remaining fuel -->
+  <VFES_Turret_Flame.comps.CompRefuelable.fuelLabel>Combustible restante</VFES_Turret_Flame.comps.CompRefuelable.fuelLabel>
+  <!-- EN: Needs chemfuel -->
+  <VFES_Turret_Flame.comps.CompRefuelable.outOfFuelMessage>Necesita quimbustible</VFES_Turret_Flame.comps.CompRefuelable.outOfFuelMessage>
+  <!-- EN: Hackear para reconfigurar. -->
+  <VFES_Turret_Flame.comps.CompTurretHackable.notHackedInspectString>Hackear para reconfigurar.</VFES_Turret_Flame.comps.CompTurretHackable.notHackedInspectString>
+  
+  <!-- EN: military turret -->
+  <VFES_Turret_MilitaryTurret.label>torreta militar</VFES_Turret_MilitaryTurret.label>
+  <!-- EN: A refined turret with military-grade stabilization, targeting routines, and hardened casing. Requires steel to refurbish its barrel after heavy use. May explode when damaged. Its dumb AI brain can't be directly controlled, so beware of friendly fire. -->
+  <VFES_Turret_MilitaryTurret.description>Una torreta refinada con estabilización de grado militar, rutinas de puntería y carcasa endurecida. Requiere acero para reacondicionar su cañón después de un uso intenso. Puede explotar si se daña. Su cerebro de IA tonta no se puede controlar directamente, así que ten cuidado con el fuego amigo.</VFES_Turret_MilitaryTurret.description>
+  <!-- EN: Barrel durability -->
+  <VFES_Turret_MilitaryTurret.comps.CompRefuelable.fuelGizmoLabel>Durabilidad del cañón</VFES_Turret_MilitaryTurret.comps.CompRefuelable.fuelGizmoLabel>
+  <!-- EN: Shots until barrel change -->
+  <VFES_Turret_MilitaryTurret.comps.CompRefuelable.fuelLabel>Disparos hasta cambio de cañón</VFES_Turret_MilitaryTurret.comps.CompRefuelable.fuelLabel>
+  <!-- EN: Needs new barrel -->
+  <VFES_Turret_MilitaryTurret.comps.CompRefuelable.outOfFuelMessage>Necesita cañón nuevo</VFES_Turret_MilitaryTurret.comps.CompRefuelable.outOfFuelMessage>
+  <!-- EN: Hackear para reconfigurar. -->
+  <VFES_Turret_MilitaryTurret.comps.CompTurretHackable.notHackedInspectString>Hackear para reconfigurar.</VFES_Turret_MilitaryTurret.comps.CompTurretHackable.notHackedInspectString>
+  
+  <!-- EN: minigun turret -->
+  <VFES_Turret_Minigun.label>torreta minigun</VFES_Turret_Minigun.label>
+  <!-- EN: A heavy automatic turret. Its multi-barrel mechanism unleashes sustained fire at high speed, shredding lightly armored targets at mid-range. It may explode when damaged. Requires steel to refurbish its barrels after heavy use. -->
+  <VFES_Turret_Minigun.description>Una torreta automática pesada. Su mecanismo de múltiples cañones desata fuego sostenido a alta velocidad, triturando objetivos con armadura ligera a medio alcance. Puede explotar si se daña. Requiere acero para reacondicionar sus cañones después de un uso intenso.</VFES_Turret_Minigun.description>
+  <!-- EN: Barrel durability -->
+  <VFES_Turret_Minigun.comps.CompRefuelable.fuelGizmoLabel>Durabilidad del cañón</VFES_Turret_Minigun.comps.CompRefuelable.fuelGizmoLabel>
+  <!-- EN: Shots until barrel change -->
+  <VFES_Turret_Minigun.comps.CompRefuelable.fuelLabel>Disparos hasta cambio de cañón</VFES_Turret_Minigun.comps.CompRefuelable.fuelLabel>
+  <!-- EN: Needs new barrel -->
+  <VFES_Turret_Minigun.comps.CompRefuelable.outOfFuelMessage>Necesita cañón nuevo</VFES_Turret_Minigun.comps.CompRefuelable.outOfFuelMessage>
+  <!-- EN: Hackear para reconfigurar. -->
+  <VFES_Turret_Minigun.comps.CompTurretHackable.notHackedInspectString>Hackear para reconfigurar.</VFES_Turret_Minigun.comps.CompTurretHackable.notHackedInspectString>
+  
+  <!-- EN: searchlight -->
+  <VFES_Turret_Searchlight.label>reflector</VFES_Turret_Searchlight.label>
+  <!-- EN: An apparatus combining an extremely luminous lamp and a mirrored parabolic reflector, useful for lighting up and dazzling targets. -->
+  <VFES_Turret_Searchlight.description>Un aparato que combina una lámpara extremadamente luminosa y un reflector parabólico espejado, útil para iluminar y deslumbrar objetivos.</VFES_Turret_Searchlight.description>
+  <!-- EN: Hackear para reconfigurar. -->
+  <VFES_Turret_Searchlight.comps.CompTurretHackable.notHackedInspectString>Hackear para reconfigurar.</VFES_Turret_Searchlight.comps.CompTurretHackable.notHackedInspectString>
+  
+  <!-- EN: shotgun turret -->
+  <VFES_Turret_ShotgunTurret.label>torreta de escopeta</VFES_Turret_ShotgunTurret.label>
+  <!-- EN: A compact automatic turret fitted with a semi-automatic shotgun. Requires steel to refurbish its barrel after heavy use. May explode when damaged. Its dumb AI brain can't be directly controlled, so beware of friendly fire. -->
+  <VFES_Turret_ShotgunTurret.description>Una torreta automática compacta equipada con una escopeta semiautomática. Requiere acero para reacondicionar su cañón después de un uso intenso. Puede explotar si se daña. Su cerebro de IA tonta no se puede controlar directamente, así que ten cuidado con el fuego amigo.</VFES_Turret_ShotgunTurret.description>
+  <!-- EN: Barrel durability -->
+  <VFES_Turret_ShotgunTurret.comps.CompRefuelable.fuelGizmoLabel>Durabilidad del cañón</VFES_Turret_ShotgunTurret.comps.CompRefuelable.fuelGizmoLabel>
+  <!-- EN: Shots until barrel change -->
+  <VFES_Turret_ShotgunTurret.comps.CompRefuelable.fuelLabel>Disparos hasta cambio de cañón</VFES_Turret_ShotgunTurret.comps.CompRefuelable.fuelLabel>
+  <!-- EN: Needs new barrel -->
+  <VFES_Turret_ShotgunTurret.comps.CompRefuelable.outOfFuelMessage>Necesita cañón nuevo</VFES_Turret_ShotgunTurret.comps.CompRefuelable.outOfFuelMessage>
+  <!-- EN: Hackear para reconfigurar. -->
+  <VFES_Turret_ShotgunTurret.comps.CompTurretHackable.notHackedInspectString>Hackear para reconfigurar.</VFES_Turret_ShotgunTurret.comps.CompTurretHackable.notHackedInspectString>
+  
+  <!-- EN: tesla blaster -->
+  <VFES_Turret_TeslaBlaster.label>bláster tesla</VFES_Turret_TeslaBlaster.label>
+  <!-- EN: A cutting-edge utility turret designed to counter the mechanoid advances. Four capacitors are charged to release a bolt of electricity. Upon impact, the power surge stuns affected mechanoid, before seeking to jump to another. Will only target mechanoids. -->
+  <VFES_Turret_TeslaBlaster.description>Una torreta de utilidad de vanguardia diseñada para contrarrestar los avances mecanoides. Cuatro condensadores se cargan para liberar un rayo de electricidad. Al impactar, la sobrecarga de energía aturde al mecanoide afectado, antes de buscar saltar a otro. Solo apuntará a mecanoides.</VFES_Turret_TeslaBlaster.description>
+  <!-- EN: Hackear para reconfigurar. -->
+  <VFES_Turret_TeslaBlaster.comps.CompTurretHackable.notHackedInspectString>Hackear para reconfigurar.</VFES_Turret_TeslaBlaster.comps.CompTurretHackable.notHackedInspectString>
+  
+  <!-- EN: double autocannon -->
+  <VFES_TurretDoubleAutocannon_Top.label>cañón automático doble</VFES_TurretDoubleAutocannon_Top.label>
+  <!-- EN: A self-loading large-bore double cannon designed to be attached to a turret. -->
+  <VFES_TurretDoubleAutocannon_Top.description>Un cañón doble de gran calibre y carga automática diseñado para ser acoplado a una torreta.</VFES_TurretDoubleAutocannon_Top.description>
+  <!-- EN: double autocannon -->
+  <VFES_TurretDoubleAutocannon_Top.verbs.Verb_Shoot.label>cañón automático doble</VFES_TurretDoubleAutocannon_Top.verbs.Verb_Shoot.label>
+  
+  <!-- EN: minigun -->
+  <VFES_TurretMinigun_Top.label>minigun</VFES_TurretMinigun_Top.label>
+  <!-- EN: A self-loading minigun designed to be attached to a turret. -->
+  <VFES_TurretMinigun_Top.description>Una minigun de carga automática diseñada para ser acoplada a una torreta.</VFES_TurretMinigun_Top.description>
+  <!-- EN: minigun -->
+  <VFES_TurretMinigun_Top.verbs.Verb_Shoot.label>minigun</VFES_TurretMinigun_Top.verbs.Verb_Shoot.label>
+  
+</LanguageData>

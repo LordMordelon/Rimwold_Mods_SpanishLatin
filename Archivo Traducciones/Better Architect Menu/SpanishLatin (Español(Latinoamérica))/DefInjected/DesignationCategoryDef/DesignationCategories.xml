@@ -1,0 +1,456 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Aerial -->
+  <Ferny_AerialTransport.label>Aéreo</Ferny_AerialTransport.label>
+  <!-- EN: Build aerial transport. -->
+  <Ferny_AerialTransport.description>Construir transporte aéreo.</Ferny_AerialTransport.description>
+  
+  <!-- EN: Airflow -->
+  <Ferny_AirManagement.label>Flujo de aire</Ferny_AirManagement.label>
+  <!-- EN: Manage airflow. -->
+  <Ferny_AirManagement.description>Gestionar el flujo de aire.</Ferny_AirManagement.description>
+  
+  <!-- EN: Ammunition -->
+  <Ferny_AmmunitionNetwork.label>Munición</Ferny_AmmunitionNetwork.label>
+  <!-- EN: Manage ammunition. -->
+  <Ferny_AmmunitionNetwork.description>Gestionar munición.</Ferny_AmmunitionNetwork.description>
+  
+  <!-- EN: Bedding -->
+  <Ferny_AnimalBedding.label>Camas</Ferny_AnimalBedding.label>
+  <!-- EN: Build bedding for your animals. -->
+  <Ferny_AnimalBedding.description>Construir camas para tus animales.</Ferny_AnimalBedding.description>
+  
+  <!-- EN: Animals -->
+  <Ferny_Animals.label>Animales</Ferny_Animals.label>
+  <!-- EN: Things that relate to animals. -->
+  <Ferny_Animals.description>Cosas relacionadas con animales.</Ferny_Animals.description>
+  
+  <!-- EN: Travel -->
+  <Ferny_AnimalTravel.label>Viaje</Ferny_AnimalTravel.label>
+  <!-- EN: Travel management for animals. -->
+  <Ferny_AnimalTravel.description>Gestión de viajes para animales.</Ferny_AnimalTravel.description>
+  
+  <!-- EN: Automate -->
+  <Ferny_Automation.label>Automatizar</Ferny_Automation.label>
+  <!-- EN: Things that automate stuff. -->
+  <Ferny_Automation.description>Cosas que automatizan tareas.</Ferny_Automation.description>
+  
+  <!-- EN: Auxiliaries -->
+  <Ferny_Auxiliaries.label>Auxiliares</Ferny_Auxiliaries.label>
+  <!-- EN: Things that boost workspeed. -->
+  <Ferny_Auxiliaries.description>Cosas que aumentan la velocidad de trabajo.</Ferny_Auxiliaries.description>
+  
+  <!-- EN: Barricades -->
+  <Ferny_Barricades.label>Barricadas</Ferny_Barricades.label>
+  <!-- EN: Build barricades for your enemies. -->
+  <Ferny_Barricades.description>Construir barricadas para tus enemigos.</Ferny_Barricades.description>
+  
+  <!-- EN: Bedroom -->
+  <Ferny_Bedroom.label>Dormitorio</Ferny_Bedroom.label>
+  <!-- EN: Things that relate to bedrooms. -->
+  <Ferny_Bedroom.description>Cosas relacionadas con dormitorios.</Ferny_Bedroom.description>
+  
+  <!-- EN: Biohazards -->
+  <Ferny_Biohazards.label>Riesgos biológicos</Ferny_Biohazards.label>
+  <!-- EN: Manage biohazards. -->
+  <Ferny_Biohazards.description>Gestionar riesgos biológicos.</Ferny_Biohazards.description>
+  
+  <!-- EN: Biotech -->
+  <Ferny_Biotech.label>Biotecnología</Ferny_Biotech.label>
+  <!-- EN: Manage biotechnology. -->
+  <Ferny_Biotech.description>Gestionar biotecnología.</Ferny_Biotech.description>
+  
+  <!-- EN: Childhood -->
+  <Ferny_Childhood.label>Niñez</Ferny_Childhood.label>
+  <!-- EN: Things that relate to childhood. -->
+  <Ferny_Childhood.description>Cosas relacionadas con la niñez.</Ferny_Childhood.description>
+  
+  <!-- EN: Manage -->
+  <Ferny_Colony.label>Gestionar</Ferny_Colony.label>
+  <!-- EN: Manage the colony. -->
+  <Ferny_Colony.description>Gestionar la colonia.</Ferny_Colony.description>
+  
+  <!-- EN: Locations -->
+  <Ferny_ColonyLocations.label>Ubicaciones</Ferny_ColonyLocations.label>
+  <!-- EN: Manage relevant colony locations. -->
+  <Ferny_ColonyLocations.description>Gestionar ubicaciones relevantes de la colonia.</Ferny_ColonyLocations.description>
+  
+  <!-- EN: Equipment -->
+  <Ferny_CombatEquipment.label>Equipo</Ferny_CombatEquipment.label>
+  <!-- EN: Manage combat equipment. -->
+  <Ferny_CombatEquipment.description>Gestionar equipo de combate.</Ferny_CombatEquipment.description>
+  
+  <!-- EN: Infrastructure -->
+  <Ferny_CombatInfrastructure.label>Infraestructura</Ferny_CombatInfrastructure.label>
+  <!-- EN: Build infrastructure for your enemies. -->
+  <Ferny_CombatInfrastructure.description>Construir infraestructura para tus enemigos.</Ferny_CombatInfrastructure.description>
+  
+  <!-- EN: Influence -->
+  <Ferny_Control.label>Influencia</Ferny_Control.label>
+  <!-- EN: Influence pawn behavior. -->
+  <Ferny_Control.description>Influir en el comportamiento de los colonos.</Ferny_Control.description>
+  
+  <!-- EN: Cooling -->
+  <Ferny_Cooling.label>Refrigeración</Ferny_Cooling.label>
+  <!-- EN: Cool your colonists. -->
+  <Ferny_Cooling.description>Refrescar a tus colonos.</Ferny_Cooling.description>
+  
+  <!-- EN: Creative -->
+  <Ferny_CreativeProduction.label>Creativo</Ferny_CreativeProduction.label>
+  <!-- EN: Creative production methods. -->
+  <Ferny_CreativeProduction.description>Métodos de producción creativa.</Ferny_CreativeProduction.description>
+  
+  <!-- EN: Art -->
+  <Ferny_DecoArt.label>Arte</Ferny_DecoArt.label>
+  <!-- EN: Manage art and music decorations. -->
+  <Ferny_DecoArt.description>Gestionar decoraciones de arte y música.</Ferny_DecoArt.description>
+  
+  <!-- EN: Hanging -->
+  <Ferny_DecoHanging.label>Colgantes</Ferny_DecoHanging.label>
+  <!-- EN: Manage Hanging Decorations such as signs, banners and curtains. -->
+  <Ferny_DecoHanging.description>Gestionar decoraciones colgantes como carteles, estandartes y cortinas.</Ferny_DecoHanging.description>
+  
+  <!-- EN: Outdoor -->
+  <Ferny_DecoOutdoor.label>Exteriores</Ferny_DecoOutdoor.label>
+  <!-- EN: Manage outdoor decorations. -->
+  <Ferny_DecoOutdoor.description>Gestionar decoraciones exteriores.</Ferny_DecoOutdoor.description>
+  
+  <!-- EN: Plants -->
+  <Ferny_DecoPlants.label>Plantas</Ferny_DecoPlants.label>
+  <!-- EN: Manage plant decorations. -->
+  <Ferny_DecoPlants.description>Gestionar decoraciones de plantas.</Ferny_DecoPlants.description>
+  
+  <!-- EN: Decorate -->
+  <Ferny_Decorations.label>Decorar</Ferny_Decorations.label>
+  <!-- EN: Things that decorate. -->
+  <Ferny_Decorations.description>Cosas que decoran.</Ferny_Decorations.description>
+  
+  <!-- EN: Rugs -->
+  <Ferny_DecoRugs.label>Alfombras</Ferny_DecoRugs.label>
+  <!-- EN: Manage rug decorations. -->
+  <Ferny_DecoRugs.description>Gestionar decoraciones de alfombras.</Ferny_DecoRugs.description>
+  
+  <!-- EN: Doors -->
+  <Ferny_Doors.label>Puertas</Ferny_Doors.label>
+  <!-- EN: Build structural doors. -->
+  <Ferny_Doors.description>Construir puertas estructurales.</Ferny_Doors.description>
+  
+  <!-- EN: Enhancement -->
+  <Ferny_Enhancement.label>Mejora</Ferny_Enhancement.label>
+  <!-- EN: Enhance your colonists. -->
+  <Ferny_Enhancement.description>Mejorar a tus colonos.</Ferny_Enhancement.description>
+  
+  <!-- EN: Explosives -->
+  <Ferny_Explosives.label>Explosivos</Ferny_Explosives.label>
+  <!-- EN: Build explosives for your enemies. -->
+  <Ferny_Explosives.description>Construir explosivos para tus enemigos.</Ferny_Explosives.description>
+  
+  <!-- EN: Farm -->
+  <Ferny_Farming.label>Granja</Ferny_Farming.label>
+  <!-- EN: Things that relate to agriculture. -->
+  <Ferny_Farming.description>Cosas relacionadas con la agricultura.</Ferny_Farming.description>
+  
+  <!-- EN: Filth -->
+  <Ferny_Filth.label>Suciedad</Ferny_Filth.label>
+  <!-- EN: Manage filth. -->
+  <Ferny_Filth.description>Gestionar la suciedad.</Ferny_Filth.description>
+  
+  <!-- EN: Firefighting -->
+  <Ferny_Firefoam.label>Bomberos</Ferny_Firefoam.label>
+  <!-- EN: Manage fires and firefoam. -->
+  <Ferny_Firefoam.description>Gestionar incendios y espuma contraincendios.</Ferny_Firefoam.description>
+  
+  <!-- EN: Carpet -->
+  <Ferny_FloorsCarpet.label>Alfombra</Ferny_FloorsCarpet.label>
+  <!-- EN: Carpeted Floors. -->
+  <Ferny_FloorsCarpet.description>Suelos alfombrados.</Ferny_FloorsCarpet.description>
+  
+  <!-- EN: Clean -->
+  <Ferny_FloorsClean.label>Limpio</Ferny_FloorsClean.label>
+  <!-- EN: Clean Floors. -->
+  <Ferny_FloorsClean.description>Suelos limpios.</Ferny_FloorsClean.description>
+  
+  <!-- EN: Concrete -->
+  <Ferny_FloorsConcrete.label>Hormigón</Ferny_FloorsConcrete.label>
+  <!-- EN: Concrete Floors. -->
+  <Ferny_FloorsConcrete.description>Suelos de hormigón.</Ferny_FloorsConcrete.description>
+  
+  <!-- EN: Metal -->
+  <Ferny_FloorsMetal.label>Metal</Ferny_FloorsMetal.label>
+  <!-- EN: Metal Floors. -->
+  <Ferny_FloorsMetal.description>Suelos de metal.</Ferny_FloorsMetal.description>
+  
+  <!-- EN: Stone -->
+  <Ferny_FloorsStone.label>Piedra</Ferny_FloorsStone.label>
+  <!-- EN: Stone Floors. -->
+  <Ferny_FloorsStone.description>Suelos de piedra.</Ferny_FloorsStone.description>
+  
+  <!-- EN: Wood -->
+  <Ferny_FloorsWood.label>Madera</Ferny_FloorsWood.label>
+  <!-- EN: Wooden Floors. -->
+  <Ferny_FloorsWood.description>Suelos de madera.</Ferny_FloorsWood.description>
+  
+  <!-- EN: Food -->
+  <Ferny_FoodStorage.label>Comida</Ferny_FoodStorage.label>
+  <!-- EN: Build food storage. -->
+  <Ferny_FoodStorage.description>Construir almacenamiento de comida.</Ferny_FoodStorage.description>
+  
+  <!-- EN: Foundations -->
+  <Ferny_Foundations.label>Cimientos</Ferny_Foundations.label>
+  <!-- EN: Build structural bridges. -->
+  <Ferny_Foundations.description>Construir puentes estructurales.</Ferny_Foundations.description>
+  
+  <!-- EN: Gear -->
+  <Ferny_GearStorage.label>Equipo</Ferny_GearStorage.label>
+  <!-- EN: Build gear storage. -->
+  <Ferny_GearStorage.description>Construir almacenamiento de equipo.</Ferny_GearStorage.description>
+  
+  <!-- EN: General -->
+  <Ferny_GeneralStorage.label>General</Ferny_GeneralStorage.label>
+  <!-- EN: Build general storage. -->
+  <Ferny_GeneralStorage.description>Construir almacenamiento general.</Ferny_GeneralStorage.description>
+  
+  <!-- EN: Ground -->
+  <Ferny_GroundTransport.label>Tierra</Ferny_GroundTransport.label>
+  <!-- EN: Build ground transport. -->
+  <Ferny_GroundTransport.description>Construir transporte terrestre.</Ferny_GroundTransport.description>
+  
+  <!-- EN: Hacking -->
+  <Ferny_Hacking.label>Hackeo</Ferny_Hacking.label>
+  <!-- EN: Hack stuff. -->
+  <Ferny_Hacking.description>Hackear cosas.</Ferny_Hacking.description>
+  
+  <!-- EN: Heating -->
+  <Ferny_Heating.label>Calefacción</Ferny_Heating.label>
+  <!-- EN: Heat your colonists. -->
+  <Ferny_Heating.description>Calentar a tus colonos.</Ferny_Heating.description>
+  
+  <!-- EN: Entertain -->
+  <Ferny_Hosting.label>Alojamiento</Ferny_Hosting.label>
+  
+  <!-- EN: Information -->
+  <Ferny_InformationStorage.label>Información</Ferny_InformationStorage.label>
+  <!-- EN: Build information storages. -->
+  <Ferny_InformationStorage.description>Construir almacenamiento de información.</Ferny_InformationStorage.description>
+  
+  <!-- EN: Feed -->
+  <Ferny_Kitchen.label>Cocina</Ferny_Kitchen.label>
+  <!-- EN: Things that relate to food. -->
+  <Ferny_Kitchen.description>Cosas relacionadas con la comida.</Ferny_Kitchen.description>
+  
+  <!-- EN: People -->
+  <Ferny_Life.label>Vida</Ferny_Life.label>
+  <!-- EN: Manage colonists. -->
+  <Ferny_Life.description>Gestionar colonos.</Ferny_Life.description>
+  
+  <!-- EN: Lighting -->
+  <Ferny_Lighting.label>Iluminación</Ferny_Lighting.label>
+  <!-- EN: Buildings that emit light. -->
+  <Ferny_Lighting.description>Edificios que emiten luz.</Ferny_Lighting.description>
+  
+  <!-- EN: Manage -->
+  <Ferny_Management.label>Gestión</Ferny_Management.label>
+  <!-- EN: Manage your pawns. -->
+  <Ferny_Management.description>Gestionar a tus peones.</Ferny_Management.description>
+  
+  <!-- EN: Market -->
+  <Ferny_Market.label>Mercado</Ferny_Market.label>
+  
+  <!-- EN: Medical -->
+  <Ferny_Medical.label>Médico</Ferny_Medical.label>
+  <!-- EN: Manage medical tech. -->
+  <Ferny_Medical.description>Gestionar tecnología médica.</Ferny_Medical.description>
+  
+  <!-- EN: Meditation -->
+  <Ferny_Meditation.label>Meditación</Ferny_Meditation.label>
+  <!-- EN: Places for colonists to meditate. -->
+  <Ferny_Meditation.description>Lugares para que los colonos mediten.</Ferny_Meditation.description>
+  
+  <!-- EN: Memorial -->
+  <Ferny_Memorial.label>Conmemorativo</Ferny_Memorial.label>
+  <!-- EN: Things that relate to burials or memorials. -->
+  <Ferny_Memorial.description>Cosas relacionadas con entierros o monumentos.</Ferny_Memorial.description>
+  
+  <!-- EN: Military -->
+  <Ferny_MilitaryTransport.label>Militar</Ferny_MilitaryTransport.label>
+  <!-- EN: Build military transport. -->
+  <Ferny_MilitaryTransport.description>Construir transporte militar.</Ferny_MilitaryTransport.description>
+  
+  <!-- EN: Museum -->
+  <Ferny_Museum.label>Museo</Ferny_Museum.label>
+  
+  <!-- EN: Naval -->
+  <Ferny_NavalTransport.label>Naval</Ferny_NavalTransport.label>
+  <!-- EN: Build naval transport. -->
+  <Ferny_NavalTransport.description>Construir transporte naval.</Ferny_NavalTransport.description>
+  
+  <!-- EN: Neutroamine -->
+  <Ferny_NeutroamineNetwork.label>Neutroamina</Ferny_NeutroamineNetwork.label>
+  <!-- EN: Manage neutroamine. -->
+  <Ferny_NeutroamineNetwork.description>Gestionar neutroamina.</Ferny_NeutroamineNetwork.description>
+  
+  <!-- EN: Outreach -->
+  <Ferny_Outreach.label>Alcance</Ferny_Outreach.label>
+  <!-- EN: Things that reach out into the world. -->
+  <Ferny_Outreach.description>Cosas que se extienden hacia el mundo.</Ferny_Outreach.description>
+  
+  <!-- EN: Generation -->
+  <Ferny_PowerGeneration.label>Generación</Ferny_PowerGeneration.label>
+  <!-- EN: Things that help you generate your power. -->
+  <Ferny_PowerGeneration.description>Cosas que te ayudan a generar energía.</Ferny_PowerGeneration.description>
+  
+  <!-- EN: Infrastructure -->
+  <Ferny_PowerManagement.label>Infraestructura</Ferny_PowerManagement.label>
+  <!-- EN: Things that help you manage your power. -->
+  <Ferny_PowerManagement.description>Cosas que te ayudan a gestionar tu energía.</Ferny_PowerManagement.description>
+  
+  <!-- EN: Storage -->
+  <Ferny_PowerStorage.label>Almacenamiento</Ferny_PowerStorage.label>
+  <!-- EN: Things that help you store power. -->
+  <Ferny_PowerStorage.description>Cosas que te ayudan a almacenar energía.</Ferny_PowerStorage.description>
+  
+  <!-- EN: Refine -->
+  <Ferny_ProcessingProduction.label>Refinar</Ferny_ProcessingProduction.label>
+  <!-- EN: Processing production methods. -->
+  <Ferny_ProcessingProduction.description>Métodos de producción de procesamiento.</Ferny_ProcessingProduction.description>
+  
+  <!-- EN: Produce -->
+  <Ferny_Production.label>Producción</Ferny_Production.label>
+  <!-- EN: Make stuff. -->
+  <Ferny_Production.description>Hacer cosas.</Ferny_Production.description>
+  
+  <!-- EN: Infrastructure -->
+  <Ferny_ProductionInfrastructure.label>Infraestructura</Ferny_ProductionInfrastructure.label>
+  <!-- EN: Managing production. -->
+  <Ferny_ProductionInfrastructure.description>Gestión de la producción.</Ferny_ProductionInfrastructure.description>
+  
+  <!-- EN: Husbandry -->
+  <Ferny_Ranching.label>Ganadería</Ferny_Ranching.label>
+  <!-- EN: Farming your animals. -->
+  <Ferny_Ranching.description>Cría de tus animales.</Ferny_Ranching.description>
+  
+  <!-- EN: Research -->
+  <Ferny_ResearchProduction.label>Investigación</Ferny_ResearchProduction.label>
+  <!-- EN: Foundational production methods. -->
+  <Ferny_ResearchProduction.description>Métodos de producción fundamentales.</Ferny_ResearchProduction.description>
+  
+  <!-- EN: Resource -->
+  <Ferny_ResourcesStorage.label>Recursos</Ferny_ResourcesStorage.label>
+  <!-- EN: Build resources storages. -->
+  <Ferny_ResourcesStorage.description>Construir almacenamiento de recursos.</Ferny_ResourcesStorage.description>
+  
+  <!-- EN: Seating -->
+  <Ferny_Seating.label>Asientos</Ferny_Seating.label>
+  <!-- EN: Manage seating. -->
+  <Ferny_Seating.description>Gestionar asientos.</Ferny_Seating.description>
+  
+  <!-- EN: Space -->
+  <Ferny_Space.label>Espacio</Ferny_Space.label>
+  <!-- EN: Build space production benches. -->
+  <Ferny_Space.description>Construir mesas de producción espacial.</Ferny_Space.description>
+  
+  <!-- EN: Combat -->
+  <Ferny_SpaceCombat.label>Combate</Ferny_SpaceCombat.label>
+  <!-- EN: Build space combat buildings. -->
+  <Ferny_SpaceCombat.description>Construir edificios de combate espacial.</Ferny_SpaceCombat.description>
+  
+  <!-- EN: Furniture -->
+  <Ferny_SpaceFurniture.label>Muebles</Ferny_SpaceFurniture.label>
+  <!-- EN: Build space furniture. -->
+  <Ferny_SpaceFurniture.description>Construir muebles espaciales.</Ferny_SpaceFurniture.description>
+  
+  <!-- EN: Platform -->
+  <Ferny_SpacePlatform.label>Plataforma</Ferny_SpacePlatform.label>
+  <!-- EN: Build space stuff. -->
+  <Ferny_SpacePlatform.description>Construir cosas espaciales.</Ferny_SpacePlatform.description>
+  
+  <!-- EN: Power -->
+  <Ferny_SpacePower.label>Energía</Ferny_SpacePower.label>
+  <!-- EN: Build space power buildings. -->
+  <Ferny_SpacePower.description>Construir edificios de energía espacial.</Ferny_SpacePower.description>
+  
+  <!-- EN: Production -->
+  <Ferny_SpaceProduction.label>Producción</Ferny_SpaceProduction.label>
+  <!-- EN: Build space production benches. -->
+  <Ferny_SpaceProduction.description>Construir mesas de producción espacial.</Ferny_SpaceProduction.description>
+  
+  <!-- EN: Vacuum -->
+  <Ferny_SpaceVacuum.label>Vacío</Ferny_SpaceVacuum.label>
+  <!-- EN: Build space vacuum buildings. -->
+  <Ferny_SpaceVacuum.description>Construir edificios de vacío espacial.</Ferny_SpaceVacuum.description>
+  
+  <!-- EN: Store -->
+  <Ferny_Storage.label>Almacén</Ferny_Storage.label>
+  <!-- EN: Build storage. -->
+  <Ferny_Storage.description>Construir almacenamiento.</Ferny_Storage.description>
+  
+  <!-- EN: Summon -->
+  <Ferny_Summon.label>Invocar</Ferny_Summon.label>
+  <!-- EN: Things that reach out into the world. -->
+  <Ferny_Summon.description>Cosas que se extienden hacia el mundo.</Ferny_Summon.description>
+  
+  <!-- EN: Supports -->
+  <Ferny_Supports.label>Soportes</Ferny_Supports.label>
+  <!-- EN: Build structural supports. -->
+  <Ferny_Supports.description>Construir soportes estructurales.</Ferny_Supports.description>
+  
+  <!-- EN: Tables -->
+  <Ferny_Tables.label>Mesas</Ferny_Tables.label>
+  <!-- EN: Manage tables. -->
+  <Ferny_Tables.description>Gestionar mesas.</Ferny_Tables.description>
+  
+  <!-- EN: Terraforming -->
+  <Ferny_Terraforming.label>Terraformación</Ferny_Terraforming.label>
+  <!-- EN: Manage the area environment. -->
+  <Ferny_Terraforming.description>Gestionar el entorno del área.</Ferny_Terraforming.description>
+  
+  <!-- EN: Toxic Waste -->
+  <Ferny_ToxicWasteNetwork.label>Residuos tóxicos</Ferny_ToxicWasteNetwork.label>
+  <!-- EN: Manage toxic waste. -->
+  <Ferny_ToxicWasteNetwork.description>Gestionar residuos tóxicos.</Ferny_ToxicWasteNetwork.description>
+  
+  <!-- EN: Transport -->
+  <Ferny_Transport.label>Transporte</Ferny_Transport.label>
+  <!-- EN: Manage transport. -->
+  <Ferny_Transport.description>Gestionar transporte.</Ferny_Transport.description>
+  
+  <!-- EN: Infrastructure -->
+  <Ferny_TransportInfrastructure.label>Infraestructura</Ferny_TransportInfrastructure.label>
+  <!-- EN: Build transport infrastructure. -->
+  <Ferny_TransportInfrastructure.description>Construir infraestructura de transporte.</Ferny_TransportInfrastructure.description>
+  
+  <!-- EN: Traps -->
+  <Ferny_Traps.label>Trampas</Ferny_Traps.label>
+  <!-- EN: Build traps for your enemies. -->
+  <Ferny_Traps.description>Construir trampas para tus enemigos.</Ferny_Traps.description>
+  
+  <!-- EN: Storage -->
+  <Ferny_VehicleStorage.label>Almacenamiento</Ferny_VehicleStorage.label>
+  <!-- EN: Build vehicle storage. -->
+  <Ferny_VehicleStorage.description>Construir almacenamiento de vehículos.</Ferny_VehicleStorage.description>
+  
+  <!-- EN: Walls -->
+  <Ferny_Walls.label>Muros</Ferny_Walls.label>
+  <!-- EN: Build structural walls. -->
+  <Ferny_Walls.description>Construir muros estructurales.</Ferny_Walls.description>
+  
+  <!-- EN: Weapons -->
+  <Ferny_Weapons.label>Armas</Ferny_Weapons.label>
+  <!-- EN: Build weapons for your enemies. -->
+  <Ferny_Weapons.description>Construir armas para tus enemigos.</Ferny_Weapons.description>
+  
+  <!-- EN: Windows -->
+  <Ferny_Windows.label>Ventanas</Ferny_Windows.label>
+  <!-- EN: Windows for walls. -->
+  <Ferny_Windows.description>Ventanas para muros.</Ferny_Windows.description>
+  
+  <!-- EN: World -->
+  <Ferny_World.label>Mundo</Ferny_World.label>
+  <!-- EN: Manage the world. -->
+  <Ferny_World.description>Gestionar el mundo.</Ferny_World.description>
+  
+  <!-- EN: Resources -->
+  <VCHE_PipeNetworks.label>Recursos</VCHE_PipeNetworks.label>
+  
+</LanguageData>

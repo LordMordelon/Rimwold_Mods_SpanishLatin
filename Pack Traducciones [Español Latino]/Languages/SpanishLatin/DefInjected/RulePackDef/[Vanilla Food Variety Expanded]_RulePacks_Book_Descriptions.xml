@@ -1,0 +1,95 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <VCEV_CookingBook_Description.rulePack.rulesStrings>
+    <li>desc-&gt;Este [bookType] [writingQualityAdjective] [follows] a un [chef] mientras [protagHe] [storyStruggles]. [writingQualitySentence]. [maybe_date]\n\nUna vez leído, este libro proporcionará un nuevo ingrediente o comida favorita al lector, y luego se destruirá.</li>
+    <li>follows-&gt;cubre las recetas de</li>
+    <li>follows-&gt;enumera las recetas de</li>
+    <li>protagHe-&gt;él</li>
+    <li>protagHis-&gt;su</li>
+    <li>protagHim-&gt;él</li>
+    <li>storyStruggles-&gt;intenta dar una idea de ingredientes nuevos y emocionantes</li>
+    <li>storyStruggles-&gt;apunta a explorar el mundo de ingredientes audaces e innovadores</li>
+    <li>storyStruggles-&gt;profundiza en el descubrimiento de sabores frescos y emocionantes</li>
+    <li>storyStruggles-&gt;busca descubrir los secretos de ingredientes únicos y exóticos</li>
+    <li>storyStruggles-&gt;ofrece un vistazo al reino de ingredientes vibrantes y desconocidos</li>
+    <li>storyStruggles-&gt;se sumerge profundamente en el descubrimiento de ingredientes emocionantes y novedosos</li>
+    <li>storyStruggles-&gt;se esfuerza por iluminar el potencial de ingredientes nuevos y aventureros</li>
+    <li>storyStruggles-&gt;se embarca en un viaje para revelar la magia de gemas culinarias no descubiertas</li>
+    <li>storyStruggles-&gt;proporciona una perspectiva fresca sobre el uso de ingredientes innovadores y tentadores</li>
+    <li>storyStruggles-&gt;se aventura en el territorio inexplorado de ingredientes intrigantes y nuevos</li>
+    <li>storyStruggles-&gt;muestra el encanto y la versatilidad de ingredientes audaces y poco explorados</li>
+    <li>chef-&gt;chef</li>
+    <li>chef-&gt;artista culinario</li>
+    <li>chef-&gt;gastrónomo</li>
+    <li>chef-&gt;jefe de cocina</li>
+    <li>chef-&gt;maestro de cocina</li>
+    <li>chef-&gt;experto en cocina</li>
+    <li>chef-&gt;pastelero</li>
+    <li>chef-&gt;sous chef</li>
+    <li>chef-&gt;especialista en alimentos</li>
+    <li>chef-&gt;chef gourmet</li>
+    <li>writingQualityAdjective(quality==6)-&gt;notablemente bien escrito</li>
+    <li>writingQualityAdjective(quality==5)-&gt;inteligente y perspicaz</li>
+    <li>writingQualityAdjective(quality==4)-&gt;reflexivo y elocuente</li>
+    <li>writingQualityAdjective(quality==3)-&gt;bien escrito</li>
+    <li>writingQualityAdjective(quality==2)-&gt;mediocre</li>
+    <li>writingQualityAdjective(quality==1)-&gt;mal escrito</li>
+    <li>writingQualityAdjective(quality==0)-&gt;casi incoherente</li>
+    <li>writingQualitySentence(quality[greater_than]4)-&gt;Es [excellentDesc] [excellentExtra]</li>
+    <li>writingQualitySentence(quality[less_than]5,quality[greater_than]1)-&gt;Es [decentDesc] [decentExtra]</li>
+    <li>writingQualitySentence(quality[less_than]2)-&gt;Es [awfulDesc] [awfulExtra]</li>
+    <li>excellentDesc-&gt;una exploración reflexiva del espíritu culinario</li>
+    <li>excellentDesc-&gt;profundamente perspicaz sobre la complejidad de la cocina</li>
+    <li>excellentDesc-&gt;escrito con precisión y rico en creaciones exóticas</li>
+    <li>excellentDesc-&gt;creativo y original</li>
+    <li>excellentDesc-&gt;tremendamente original y notablemente bien elaborado</li>
+    <li>excellentDesc-&gt;lleno de anécdotas de cocina humorísticas y cercanas</li>
+    <li>excellentExtra-&gt;. La descripción de cada receta fluye naturalmente hacia la siguiente</li>
+    <li>excellentExtra-&gt;. Es adictivo y muy difícil de dejar, cada receta es mejor que la anterior</li>
+    <li>excellentExtra-&gt;. Sus recetas constantemente sorprenden al lector</li>
+    <li>decentDesc-&gt;una colección de platos decente</li>
+    <li>decentDesc-&gt;interesante y atractivo, con ideas culinarias ingeniosas</li>
+    <li>decentDesc-&gt;centrado en una técnica culinaria interesante</li>
+    <li>decentDesc-&gt;algo humorístico de vez en cuando</li>
+    <li>decentDesc-&gt;atractivo para cierto tipo de cocinero</li>
+    <li>decentExtra-&gt; pero tiene algunas omisiones culinarias terribles</li>
+    <li>decentExtra-&gt; pero sus recetas son a menudo difíciles de seguir</li>
+    <li>decentExtra-&gt; pero está plagado de errores de cocina</li>
+    <li>decentExtra-&gt; pero carece de complejidad profunda en sus recetas</li>
+    <li>decentExtra-&gt; pero las recetas son trilladas y simplistas</li>
+    <li>decentExtra-&gt; pero el autor usa constantemente palabras de manera inapropiada en un intento de sonar inteligente</li>
+    <li>decentExtra-&gt; pero hay un enorme muro de texto que detalla las experiencias de viaje inanes del autor antes de cada receta. ¡Solo danos la receta!</li>
+    <li>decentExtra-&gt; pero la escritura es excesivamente florida</li>
+    <li>decentExtra-&gt; pero muchos de los ingredientes en sus recetas son innecesarios y no añaden nada a sus sabores</li>
+    <li>awfulDesc-&gt;muy mal escrito, como si fuera creado por un chef aficionado,</li>
+    <li>awfulDesc-&gt;escrito por alguien que nunca debería trabajar en una cocina</li>
+    <li>awfulDesc-&gt;lleno de anécdotas irrelevantes que no añaden nada al plato descrito</li>
+    <li>awfulDesc-&gt;difícil de seguir</li>
+    <li>awfulDesc-&gt;carente de platos atractivos</li>
+    <li>awfulDesc-&gt;presentando platos muy extraños, pero poco originales</li>
+    <li>awfulDesc-&gt;demasiado largo, lleno de recetas redundantes</li>
+    <li>awfulExtra-&gt; y las recetas son casi incoherentes</li>
+    <li>awfulExtra-&gt; y las recetas son extremadamente difíciles de seguir</li>
+    <li>awfulExtra-&gt; y algunas de las recetas suenan como si te mataran directamente</li>
+    <li>awfulExtra-&gt; y las recetas carecen de sentido temático o significado</li>
+    <li>awfulExtra-&gt; y sus recetas no presentan ninguna idea interesante en absoluto</li>
+    <li>awfulExtra-&gt; y sus recetas son sosas y sin sabor</li>
+    <li>awfulExtra-&gt; y por lo que parece es básicamente una guía para intoxicarse con comida</li>
+    <li>awfulExtra-&gt; y tiende a sustituir ingredientes por alternativas de menor calidad</li>
+    <li>maybe_date-&gt;</li>
+    <li>maybe_date-&gt;El libro fue publicado [date_form].</li>
+    <li>maybe_date-&gt;El texto se imprimió por primera vez [date_form].</li>
+    <li>maybe_date-&gt;No está claro exactamente cuándo se escribió el libro.</li>
+    <li>date_form-&gt;recientemente</li>
+    <li>date_form-&gt;hace muchos siglos</li>
+    <li>date_form-&gt;en el [date]</li>
+    <li>date_form-&gt;en [date_season]</li>
+    <li>bookType(p=4)-&gt;libro de cocina</li>
+    <li>bookType(p=2)-&gt;recetario</li>
+    <li>bookType-&gt;guía culinaria</li>
+    <li>bookType-&gt;manual de recetas</li>
+    <li>bookType-&gt;guía de cocina</li>
+    <li>bookType-&gt;guía de cocina</li>
+    <li>bookType-&gt;referencia de cocina</li>
+  </VCEV_CookingBook_Description.rulePack.rulesStrings>
+</LanguageData>

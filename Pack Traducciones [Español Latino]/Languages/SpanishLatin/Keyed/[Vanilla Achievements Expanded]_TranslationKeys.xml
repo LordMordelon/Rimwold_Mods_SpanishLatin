@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <AchievementLocked>Bloqueado</AchievementLocked>
+  <AchievementUnlocked>¡Logro Desbloqueado!</AchievementUnlocked>
+  <AchievementsTotalUnlocked>Total de Logros Desbloqueados: {0}</AchievementsTotalUnlocked>
+  <AchievementsUnlocked>Logros Desbloqueados: {0}</AchievementsUnlocked>
+  <DebugWriter>Habilitar DebugWriter</DebugWriter>
+  <DebugWriterConfirmation>¿Estás seguro de que quieres habilitar el DebugWriter? Esto disminuirá significativamente el rendimiento a cambio de datos relacionados con los logros. Esto solo debe habilitarse para rastrear información valiosa para la depuración.</DebugWriterConfirmation>
+  <FailedRewardEvent>Fallo al canjear recompensa {0}</FailedRewardEvent>
+  <FailedTargetFinder>Debe tener el mapa cargado o un objeto IncidentTarget seleccionado en el Mapa Mundial</FailedTargetFinder>
+  <GenerateLogInfo>Escribir en archivo</GenerateLogInfo>
+  <GenerateLogInfoTooltip>Enviar registros relacionados con logros a un archivo. Solo para fines de depuración.</GenerateLogInfoTooltip>
+  <IncidentNotAvailable>Incidente no disponible en este momento.</IncidentNotAvailable>
+  <NoValidMap>Debe comprarse con el mapa del Hogar del Jugador a la vista.</NoValidMap>
+  <NotEnoughPoints>No hay suficientes puntos</NotEnoughPoints>
+  <PointsAvailable>Disponible: {0}</PointsAvailable>
+  <PointsEarned>Total ganado: {0}</PointsEarned>
+  <PointsRedeem>Canjear Puntos</PointsRedeem>
+  <RandomQuestRewardItem>¡Ha caído un objeto de misión aleatorio!</RandomQuestRewardItem>
+  <RandomQuestRewardItemLetter>Objeto de Misión</RandomQuestRewardItemLetter>
+  <SideBarInfo>Desbloquea logros y gana puntos de Cuentacuentos que puedes canjear por varios eventos.</SideBarInfo>
+  <StorytellerPoints>Puntos de Cuentacuentos</StorytellerPoints>
+  <SuccessfulWriteToFile>Registros de logros enviados exitosamente a AchievementLog.txt</SuccessfulWriteToFile>
+  <UnlockedDevMode>Desbloqueado con Modo Dev</UnlockedDevMode>
+  <VAE>Vanilla Achievements Expanded</VAE>
+  <VAE_AchievementHidden>Oculto hasta nivel de monolito {0}</VAE_AchievementHidden>
+  <VAE_CollateModTabs>Agrupar pestañas de mods</VAE_CollateModTabs>
+  <VAE_CollateModTabsDesc>Al marcar esta opción, todos los logros de todos los mods se unirán en una sola pestaña de Mod. Usa esto si tienes muchos mods que añaden logros y tu ventana de logros parece un desastre de infinitas pestañas diminutas.</VAE_CollateModTabsDesc>
+  <VAE_SideBarInfoNoRedeem>Desbloquea logros y gana puntos de Cuentacuentos para medir tu rendimiento.</VAE_SideBarInfoNoRedeem>
+  <VAE_UsePointsSystem>Usar sistema de recompensas por puntos de logros</VAE_UsePointsSystem>
+  <VAE_UsePointsSystemDesc>Por defecto, obtener logros recompensa al jugador con puntos, que pueden intercambiarse por caravanas comerciales, eventos, asaltos, etc. Al desactivar esto se deshabilita ese sistema, quedando los puntos solo como un recuento.</VAE_UsePointsSystemDesc>
+</LanguageData>

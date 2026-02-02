@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+	<!-- EN: Current Map Mode -->
+  <MMF.CurrentMapMode>Modo de mapa actual</MMF.CurrentMapMode>
+	
+	<!-- EN: Draw Settings -->
+  <MMF.DrawSettings>Ajustes de dibujo</MMF.DrawSettings>
+	<!-- EN: Include Water -->
+  <MMF.DrawSettings.IncludeWater>Incluir agua</MMF.DrawSettings.IncludeWater>
+	<!-- EN: Opacity -->
+  <MMF.DrawSettings.Opacity>Opacidad</MMF.DrawSettings.Opacity>
+	<!-- EN: Draw World Objects -->
+  <MMF.DrawSettings.DrawWorldObjects>Ver objetos del mundo</MMF.DrawSettings.DrawWorldObjects>
+	<!-- EN: Draw Hills -->
+  <MMF.DrawSettings.DrawHills>Ver colinas</MMF.DrawSettings.DrawHills>
+	<!-- EN: Draw Rivers -->
+  <MMF.DrawSettings.DrawRivers>Ver ríos</MMF.DrawSettings.DrawRivers>
+	<!-- EN: Draw Roads -->
+  <MMF.DrawSettings.DrawRoads>Ver caminos</MMF.DrawSettings.DrawRoads>
+	<!-- EN: Draw Pollution -->
+  <MMF.DrawSettings.DrawPollution>Ver contaminación</MMF.DrawSettings.DrawPollution>
+	<!-- EN: Disable Features Text -->
+  <MMF.DrawSettings.DisableFeaturesText>Ver nombres</MMF.DrawSettings.DisableFeaturesText>
+	<!-- EN: Display Labels -->
+  <MMF.DrawSettings.DisplayLabels>Ver etiquetas</MMF.DrawSettings.DisplayLabels>
+	<!-- EN: Do Tooltip -->
+  <MMF.DrawSettings.DoTooltip>Ver descrip. emergente</MMF.DrawSettings.DoTooltip>
+	
+	<!-- EN: Drag button to sort -->
+  <MMF.UI.Tooltip.DragToSort>Arrastra el botón para ordenar</MMF.UI.Tooltip.DragToSort>
+	<!-- EN: Prepared {0} out of {1} tiles -->
+  <MMF.UI.LoadProgress>Preparadas {0} de {1} casillas</MMF.UI.LoadProgress>
+	<!-- EN: Enable caching for this map mode if you would like to shorten regeneration time. -->
+  <MMF.UI.TryCache>Activa el almacenamiento en caché para este modo de mapa si deseas acortar el tiempo de regeneración.</MMF.UI.TryCache>
+	<!-- EN: Caching -->
+  <MMF.UI.Caching>Almacenamiento en caché</MMF.UI.Caching>
+	
+	<!-- EN: Cache Data -->
+  <MMF.Settings.CacheData>Datos de caché</MMF.Settings.CacheData>
+	<!-- EN: Enable caching -->
+  <MMF.Settings.EnableCaching>Activar almacenamiento en caché</MMF.Settings.EnableCaching>
+	<!-- EN: Cache on start -->
+  <MMF.Settings.CacheOnStart>Almacenar en caché al iniciar</MMF.Settings.CacheOnStart>
+	
+	<!-- EN: Commonality -->
+  <MMF.Commonality>Frecuencia</MMF.Commonality>
+	<!-- EN: Type -->
+  <MMF.Type>Tipo</MMF.Type>
+	
+	<!-- EN: Island -->
+  <MMF.WorldFeatures.Island>Isla</MMF.WorldFeatures.Island>
+	<!-- EN: Archipelago -->
+  <MMF.WorldFeatures.Archipelago>Archipiélago</MMF.WorldFeatures.Archipelago>
+	<!-- EN: Peninsula -->
+  <MMF.WorldFeatures.Peninsula>Península</MMF.WorldFeatures.Peninsula>
+	<!-- EN: Bay -->
+  <MMF.WorldFeatures.Bay>Bahía</MMF.WorldFeatures.Bay>
+	<!-- EN: Lake -->
+  <MMF.WorldFeatures.Lake>Lago</MMF.WorldFeatures.Lake>
+	<!-- EN: Sea -->
+  <MMF.WorldFeatures.Sea>Mar</MMF.WorldFeatures.Sea>
+	<!-- EN: Ocean Bay -->
+  <MMF.WorldFeatures.OceanBay>Bahía oceánica</MMF.WorldFeatures.OceanBay>
+	<!-- EN: Ocean -->
+  <MMF.WorldFeatures.Ocean>Océano</MMF.WorldFeatures.Ocean>
+	<!-- EN: Outer Ocean -->
+  <MMF.WorldFeatures.OuterOcean>Océano exterior</MMF.WorldFeatures.OuterOcean>
+	<!-- EN: Mountain Range -->
+  <MMF.WorldFeatures.MountainRange>Cordillera</MMF.WorldFeatures.MountainRange>
+	<!-- EN: Desert -->
+  <MMF.WorldFeatures.Desert>Desierto</MMF.WorldFeatures.Desert>
+	<!-- EN: Temperate Swamp -->
+  <MMF.WorldFeatures.TemperateSwamp>Pantano templado</MMF.WorldFeatures.TemperateSwamp>
+	<!-- EN: Tropical Swamp -->
+  <MMF.WorldFeatures.TropicalSwamp>Pantano tropical</MMF.WorldFeatures.TropicalSwamp>
+	<!-- EN: Cold Bog -->
+  <MMF.WorldFeatures.ColdBog>Ciénaga fría</MMF.WorldFeatures.ColdBog>
+	<!-- EN: Temperate Forest -->
+  <MMF.WorldFeatures.TemperateForest>Bosque templado</MMF.WorldFeatures.TemperateForest>
+	<!-- EN: Tropical Rainforest -->
+  <MMF.WorldFeatures.TropicalRainforest>Selva tropical</MMF.WorldFeatures.TropicalRainforest>
+	<!-- EN: Boreal Forest -->
+  <MMF.WorldFeatures.BorealForest>Bosque boreal</MMF.WorldFeatures.BorealForest>
+	<!-- EN: Arid Shrubland -->
+  <MMF.WorldFeatures.AridShrubland>Matorral árido</MMF.WorldFeatures.AridShrubland>
+	<!-- EN: Ice Sheet -->
+  <MMF.WorldFeatures.IceSheet>Capa de hielo</MMF.WorldFeatures.IceSheet>
+	<!-- EN: Tundra -->
+  <MMF.WorldFeatures.Tundra>Tundra</MMF.WorldFeatures.Tundra>
+</LanguageData>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: advanced shield generator -->
+  <AdvShip_ShieldGenerator.label>generador de escudo avanzado</AdvShip_ShieldGenerator.label>
+  <!-- EN: An advanced shielding device that can protect a gravship will use gravcore. It modulates the grav field to create a short-lived momentum repulsor surface that blocks projectiles. It works against normal shots and mortars. Those inside can still shoot out.\n\nIt must be charged before use. One gravship can support three advanced shield generators. -->
+  <AdvShip_ShieldGenerator.description>Un dispositivo de blindaje avanzado que puede proteger una gravinave usando gravinúcleos. Modula el campo gravitacional para crear una superficie repulsora de momento de corta duración que bloquea los proyectiles. Funciona contra disparos normales y morteros. Los que están dentro aún pueden disparar hacia afuera.\n\nDebe cargarse antes de su uso. Una gravinave puede soportar tres generadores de escudo avanzados.</AdvShip_ShieldGenerator.description>
+  <!-- EN: activate -->
+  <AdvShip_ShieldGenerator.comps.CompInteractable_GravshipShieldGenerator.jobString>activar</AdvShip_ShieldGenerator.comps.CompInteractable_GravshipShieldGenerator.jobString>
+  
+</LanguageData>

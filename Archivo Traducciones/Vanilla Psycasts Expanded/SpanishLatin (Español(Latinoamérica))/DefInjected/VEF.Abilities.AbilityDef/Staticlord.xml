@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: ball lightning -->
+  <VPE_BallLightning.label>bola de rayos</VPE_BallLightning.label>
+  <!-- EN: The caster compresses a ball of condensed electricity which will slowly move to a designated location. A few seconds after release, it will start discharging into nearby surrounding targets with living bolts of electricity. -->
+  <VPE_BallLightning.description>El lanzador comprime una bola de electricidad condensada que se moverá lentamente a una ubicación designada. Unos segundos después de su liberación, comenzará a descargarse en objetivos cercanos con rayos vivos de electricidad.</VPE_BallLightning.description>
+  <!-- EN: Using ability: {0} -->
+  <VPE_BallLightning.jobReportString>Usando habilidad: {0}</VPE_BallLightning.jobReportString>
+  <!-- EN: ball lightning -->
+  <VPE_BallLightning.verbProperties.label>bola de rayos</VPE_BallLightning.verbProperties.label>
+  
+  <!-- EN: bolt -->
+  <VPE_Bolt.label>rayo</VPE_Bolt.label>
+  <!-- EN: Hurls a weak bolt of electricity to strike a small target area, at a distance scaling with psychic sensitivity. Burns on direct hits and inflicts area EMP damage. -->
+  <VPE_Bolt.description>Lanza un rayo débil de electricidad para golpear una pequeña área objetivo, a una distancia que escala con la sensibilidad psíquica. Quema en golpes directos e inflige daño EMP en el área.</VPE_Bolt.description>
+  <!-- EN: Using ability: {0} -->
+  <VPE_Bolt.jobReportString>Usando habilidad: {0}</VPE_Bolt.jobReportString>
+  <!-- EN: bolt -->
+  <VPE_Bolt.verbProperties.label>rayo</VPE_Bolt.verbProperties.label>
+  
+  <!-- EN: chain bolt -->
+  <VPE_ChainBolt.label>rayo en cadena</VPE_ChainBolt.label>
+  <!-- EN: Fires a living bolt of electricity at a target which can leak out onto nearby targets, the amount scaling with psychic sensitivity. Inflicts small burns and EMP damage. -->
+  <VPE_ChainBolt.description>Dispara un rayo vivo de electricidad a un objetivo que puede filtrarse a objetivos cercanos, la cantidad escala con la sensibilidad psíquica. Inflige pequeñas quemaduras y daño EMP.</VPE_ChainBolt.description>
+  <!-- EN: Using ability: {0} -->
+  <VPE_ChainBolt.jobReportString>Usando habilidad: {0}</VPE_ChainBolt.jobReportString>
+  <!-- EN: chain bolt -->
+  <VPE_ChainBolt.verbProperties.label>rayo en cadena</VPE_ChainBolt.verbProperties.label>
+  
+  <!-- EN: flashstorm -->
+  <VPE_Flashstorm.label>tormenta repentina</VPE_Flashstorm.label>
+  <!-- EN: Use concentrated differential-pressure skipgates in the atmosphere to generate a localized flashstorm. The storm will strike the area with lightning for some time before dissipating. -->
+  <VPE_Flashstorm.description>Usa portales de salto de presión diferencial concentrada en la atmósfera para generar una tormenta repentina localizada. La tormenta golpeará el área con rayos durante algún tiempo antes de disiparse.</VPE_Flashstorm.description>
+  <!-- EN: Using ability: {0} -->
+  <VPE_Flashstorm.jobReportString>Usando habilidad: {0}</VPE_Flashstorm.jobReportString>
+  <!-- EN: flashstorm -->
+  <VPE_Flashstorm.verbProperties.label>tormenta repentina</VPE_Flashstorm.verbProperties.label>
+  
+  <!-- EN: hurricane -->
+  <VPE_Hurricane.label>huracán</VPE_Hurricane.label>
+  <!-- EN: The caster forcibly changes the weather - using widespread differential-pressure skipgates - to a downpour with hurricane-force winds, which lasts as long as the caster can manage the heat accumulation and can instantly stop at-will. Those outdoors will experience progressively severe limitations to sight, moving and manipulation to the point they come to a complete stop. -->
+  <VPE_Hurricane.description>El lanzador cambia forzosamente el clima, usando portales de salto de presión diferencial generalizados, a un aguacero con vientos huracanados, que dura tanto como el lanzador pueda manejar la acumulación de calor y puede detenerse instantáneamente a voluntad. Aquellos al aire libre experimentarán limitaciones progresivamente severas a la vista, el movimiento y la manipulación hasta el punto de detenerse por completo.</VPE_Hurricane.description>
+  <!-- EN: Using ability: {0} -->
+  <VPE_Hurricane.jobReportString>Usando habilidad: {0}</VPE_Hurricane.jobReportString>
+  <!-- EN: hurricane -->
+  <VPE_Hurricane.verbProperties.label>huracán</VPE_Hurricane.verbProperties.label>
+  
+  <!-- EN: recharge -->
+  <VPE_Recharge.label>recarga</VPE_Recharge.label>
+  <!-- EN: Carefully and delicately tunes a stream of electricity to a touched battery to charge it with 100kW or the equivalent of 100 Wd/s. The duration of charge depends on the caster’s psychic sensitivity. -->
+  <VPE_Recharge.description>Sintoniza cuidadosa y delicadamente una corriente de electricidad a una batería tocada para cargarla con 100kW o el equivalente a 100 Wd/s. La duración de la carga depende de la sensibilidad psíquica del lanzador.</VPE_Recharge.description>
+  <!-- EN: Using ability: {0} -->
+  <VPE_Recharge.jobReportString>Usando habilidad: {0}</VPE_Recharge.jobReportString>
+  <!-- EN: recharge -->
+  <VPE_Recharge.verbProperties.label>recarga</VPE_Recharge.verbProperties.label>
+  
+  <!-- EN: static aura -->
+  <VPE_StaticAura.label>aura estática</VPE_StaticAura.label>
+  <!-- EN: The caster designates a nearby target to receive an aura of surging electricity, which will inflict EMP effects on anything foreign that they approach, including structures, pawns and electrical objects. -->
+  <VPE_StaticAura.description>El lanzador designa un objetivo cercano para recibir un aura de electricidad creciente, que infligirá efectos EMP en cualquier cosa extraña a la que se acerquen, incluidas estructuras, peones y objetos eléctricos.</VPE_StaticAura.description>
+  <!-- EN: Using ability: {0} -->
+  <VPE_StaticAura.jobReportString>Usando habilidad: {0}</VPE_StaticAura.jobReportString>
+  <!-- EN: static aura -->
+  <VPE_StaticAura.verbProperties.label>aura estática</VPE_StaticAura.verbProperties.label>
+  
+  <!-- EN: static pulse -->
+  <VPE_StaticPulse.label>pulso estático</VPE_StaticPulse.label>
+  <!-- EN: The caster dumps a massive amount of voltage into the surrounding air, causing an EMP blast in a huge radius which is otherwise harmless. -->
+  <VPE_StaticPulse.description>El lanzador descarga una cantidad masiva de voltaje en el aire circundante, causando una explosión EMP en un radio enorme que de otro modo es inofensiva.</VPE_StaticPulse.description>
+  <!-- EN: Using ability: {0} -->
+  <VPE_StaticPulse.jobReportString>Usando habilidad: {0}</VPE_StaticPulse.jobReportString>
+  <!-- EN: static pulse -->
+  <VPE_StaticPulse.verbProperties.label>pulso estático</VPE_StaticPulse.verbProperties.label>
+  
+  <!-- EN: thunderbolt -->
+  <VPE_Thunderbolt.label>trueno</VPE_Thunderbolt.label>
+  <!-- EN: Summons a bolt of lightning to strike a target, inflicting burns on direct hits and a larger area EMP damage. The impact radius scales with the caster’s psychic sensitivity, up to a maximum of 12 cells. -->
+  <VPE_Thunderbolt.description>Invoca un rayo para golpear a un objetivo, infligiendo quemaduras en golpes directos y un daño EMP de área más grande. El radio de impacto escala con la sensibilidad psíquica del lanzador, hasta un máximo de 12 celdas.</VPE_Thunderbolt.description>
+  <!-- EN: Using ability: {0} -->
+  <VPE_Thunderbolt.jobReportString>Usando habilidad: {0}</VPE_Thunderbolt.jobReportString>
+  <!-- EN: thunderbolt -->
+  <VPE_Thunderbolt.verbProperties.label>trueno</VPE_Thunderbolt.verbProperties.label>
+  
+  <!-- EN: vortex -->
+  <VPE_Vortex.label>vórtice</VPE_Vortex.label>
+  <!-- EN: Manifests a gaping vortex of high-voltage electricity - redirected via skipgate from a nebula storm - at a target area with a large effect. Severely hampers movement and manipulating proportionately, with the strongest effect at the center. -->
+  <VPE_Vortex.description>Manifiesta un vórtice enorme de electricidad de alto voltaje, redirigido a través de un portal de salto desde una tormenta de nebulosa, en un área objetivo con un gran efecto. Obstaculiza severamente el movimiento y la manipulación proporcionalmente, con el efecto más fuerte en el centro.</VPE_Vortex.description>
+  <!-- EN: Using ability: {0} -->
+  <VPE_Vortex.jobReportString>Usando habilidad: {0}</VPE_Vortex.jobReportString>
+  <!-- EN: vortex -->
+  <VPE_Vortex.verbProperties.label>vórtice</VPE_Vortex.verbProperties.label>
+  
+</LanguageData>

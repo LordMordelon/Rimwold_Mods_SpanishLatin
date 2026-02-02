@@ -1,0 +1,151 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>desc->[intro] [conceptExploration]. [writingQualitySentence]. [maybe_date][ending]</li>
+    <li>desc->[conceptExploration]: [impactStatement]. [writingQualitySentence]. [maybe_date][ending]</li>
+    <li>desc->[intro] [contextStatement] [conceptExploration]. [writingQualitySentence]. [maybe_date][ending]</li>
+    <li>ending->\n\nOnce read, this journal will grant medical boosts for three days, and then it will be destroyed.</li>
+    <li>intro->This [writingQualityAdjective] [bookType] offers a profound look into</li>
+    <li>intro->A [writingQualityAdjective] guide to understanding</li>
+    <li>intro->A timeless [bookType] chronicling the advances in</li>
+    <li>intro->A [writingQualityAdjective] account of the challenges in</li>
+    <li>intro->An extraordinary [bookType] exploring</li>
+    <li>intro->A hauntingly vivid exploration of</li>
+    <li>conceptExploration->the complexities of field medicine</li>
+    <li>conceptExploration->the intricacies of immunity gain and healing</li>
+    <li>conceptExploration->the evolution of treatment techniques in the Rim</li>
+    <li>conceptExploration->how colonies adapt their medical practices</li>
+    <li>conceptExploration->the importance of resourcefulness in medical care</li>
+    <li>conceptExploration->balancing patient care and survival priorities</li>
+    <li>contextStatement->examples from Rim colonies, this journal examines</li>
+    <li>contextStatement->decades of colonial medical experiences, it explores</li>
+    <li>contextStatement->the writings of stranded physicians, it reveals</li>
+    <li>contextStatement->real stories of pioneers, this journal uncovers</li>
+    <li>contextStatement->vivid anecdotes of emergency treatments, it explains</li>
+    <li>impactStatement->Its insights will reshape how you understand medical care under duress</li>
+    <li>impactStatement->It provides essential knowledge for any frontier doctor</li>
+    <li>impactStatement->It sheds light on the resourceful nature of practitioners on the Rim</li>
+    <li>impactStatement->This journal is a vital resource for those facing harsh medical challenges</li>
+    <li>impactStatement->The lessons within are essential for survival in resource-scarce environments</li>
+    <li>writingQualityAdjective(quality==6)->masterfully crafted</li>
+    <li>writingQualityAdjective(quality==5)->brilliantly insightful</li>
+    <li>writingQualityAdjective(quality==4)->thought-provoking and precise</li>
+    <li>writingQualityAdjective(quality==3)->functional but uninspired</li>
+    <li>writingQualityAdjective(quality==2)->mediocre</li>
+    <li>writingQualityAdjective(quality==1)->barely comprehensible</li>
+    <li>writingQualityAdjective(quality==0)->incoherent ramble of a</li>
+    <li>writingQualitySentence(quality[greater_than]3)->It is [excellentDesc] [excellentExtra]</li>
+    <li>writingQualitySentence(quality[less_than]4,quality[greater_than]1)->It is [decentDesc] [decentExtra]</li>
+    <li>writingQualitySentence(quality[less_than]2)->It is [awfulDesc] [awfulExtra]</li>
+    <li>excellentDesc->a masterwork of practical medical advice</li>
+    <li>excellentDesc->an invaluable resource for understanding emergency treatment</li>
+    <li>excellentDesc->an expertly constructed guide for medical survival</li>
+    <li>excellentDesc->a deeply original exploration of Rim medicine</li>
+    <li>excellentDesc->rich with practical advice and vivid case studies</li>
+    <li>excellentExtra->that reveals the resilience of medical practitioners</li>
+    <li>excellentExtra->that inspires ingenuity even in desperate situations</li>
+    <li>excellentExtra->that equips readers with essential survival knowledge</li>
+    <li>decentDesc->a passable guide to field medicine</li>
+    <li>decentDesc->interesting but unpolished</li>
+    <li>decentDesc->helpful in some areas but lacking depth</li>
+    <li>decentDesc->focused on a few narrow medical scenarios</li>
+    <li>decentDesc->occasionally insightful but uneven</li>
+    <li>decentExtra->and may be of use to less experienced medics</li>
+    <li>decentExtra->, it fails to address the larger picture of rudimentary medicine on the Rim</li>
+    <li>decentExtra->though its methods can be inconsistent</li>
+    <li>awfulDesc->a haphazard collection of medical guesses</li>
+    <li>awfulDesc->a confusing mess of outdated techniques</li>
+    <li>awfulDesc->entirely impractical and poorly researched</li>
+    <li>awfulDesc->filled with irrelevant anecdotes and fluff</li>
+    <li>awfulDesc->a chaotic jumble of contradictory treatments</li>
+    <li>awfulExtra->and utterly useless for anyone treating patients on the Rim</li>
+    <li>awfulExtra->and actively harmful for anyone seeking real medical guidance</li>
+    <li>maybe_date-></li>
+    <li>maybe_date->The journal was published [date_form].</li>
+    <li>maybe_date->The text was first recorded [date_form].</li>
+    <li>maybe_date->Its origins are lost to time, like so many on the Rim.</li>
+    <li>date_form->recently</li>
+    <li>date_form->generations ago</li>
+    <li>date_form->on the [date]</li>
+    <li>date_form->during [date_season]</li>
+    <li>bookType(p=4)->medical journal</li>
+    <li>bookType(p=3)->field guide</li>
+    <li>bookType(p=2)->treatment manual</li>
+    <li>bookType(p=1)->survival guide</li>
+  -->
+  <ABooks_MedicalJournal_Description.rulePack.rulesStrings>
+    <li>desc->[intro] [conceptExploration]. [writingQualitySentence]. [maybe_date][ending]</li>
+    <li>desc->[conceptExploration]: [impactStatement]. [writingQualitySentence]. [maybe_date][ending]</li>
+    <li>desc->[intro] [contextStatement] [conceptExploration]. [writingQualitySentence]. [maybe_date][ending]</li>
+    <li>ending->\n\nUna vez leído, este diario otorgará mejoras médicas durante tres días, y luego será destruido.</li>
+    <li>intro->Este [bookType] [writingQualityAdjective] ofrece una mirada profunda a</li>
+    <li>intro->Una guía [writingQualityAdjective] para comprender</li>
+    <li>intro->Un [bookType] atemporal que narra los avances en</li>
+    <li>intro->Un relato [writingQualityAdjective] de los desafíos en</li>
+    <li>intro->Un [bookType] extraordinario que explora</li>
+    <li>intro->Una exploración inquietantemente vívida de</li>
+    <li>conceptExploration->las complejidades de la medicina de campo</li>
+    <li>conceptExploration->las complejidades de la ganancia de inmunidad y la curación</li>
+    <li>conceptExploration->la evolución de las técnicas de tratamiento en el Borde</li>
+    <li>conceptExploration->cómo las colonias adaptan sus prácticas médicas</li>
+    <li>conceptExploration->la importancia del ingenio en la atención médica</li>
+    <li>conceptExploration->equilibrar la atención al paciente y las prioridades de supervivencia</li>
+    <li>contextStatement->ejemplos de colonias del Borde, este diario examina</li>
+    <li>contextStatement->décadas de experiencias médicas coloniales, explora</li>
+    <li>contextStatement->los escritos de médicos varados, revela</li>
+    <li>contextStatement->historias reales de pioneros, este diario descubre</li>
+    <li>contextStatement->anécdotas vívidas de tratamientos de emergencia, explica</li>
+    <li>impactStatement->Sus conocimientos reformarán cómo entiendes la atención médica bajo presión</li>
+    <li>impactStatement->Proporciona conocimientos esenciales para cualquier médico de la frontera</li>
+    <li>impactStatement->Arroja luz sobre la naturaleza ingeniosa de los practicantes en el Borde</li>
+    <li>impactStatement->Este diario es un recurso vital para aquellos que enfrentan desafíos médicos difíciles</li>
+    <li>impactStatement->Las lecciones internas son esenciales para la supervivencia en entornos con escasez de recursos</li>
+    <li>writingQualityAdjective(quality==6)->elaborado magistralmente</li>
+    <li>writingQualityAdjective(quality==5)->brillantemente perspicaz</li>
+    <li>writingQualityAdjective(quality==4)->estimulante y preciso</li>
+    <li>writingQualityAdjective(quality==3)->funcional pero poco inspirado</li>
+    <li>writingQualityAdjective(quality==2)->mediocre</li>
+    <li>writingQualityAdjective(quality==1)->apenas comprensible</li>
+    <li>writingQualityAdjective(quality==0)->divagar incoherente de un</li>
+    <li>writingQualitySentence(quality[greater_than]3)->Es [excellentDesc] [excellentExtra]</li>
+    <li>writingQualitySentence(quality[less_than]4,quality[greater_than]1)->Es [decentDesc] [decentExtra]</li>
+    <li>writingQualitySentence(quality[less_than]2)->Es [awfulDesc] [awfulExtra]</li>
+    <li>excellentDesc->una obra maestra de consejos médicos prácticos</li>
+    <li>excellentDesc->un recurso invaluable para comprender el tratamiento de emergencia</li>
+    <li>excellentDesc->una guía construida por expertos para la supervivencia médica</li>
+    <li>excellentDesc->una exploración profundamente original de la medicina del Borde</li>
+    <li>excellentDesc->rico en consejos prácticos y estudios de casos vívidos</li>
+    <li>excellentExtra->que revela la resistencia de los médicos</li>
+    <li>excellentExtra->que inspira ingenio incluso en situaciones desesperadas</li>
+    <li>excellentExtra->que equipa a los lectores con conocimientos esenciales de supervivencia</li>
+    <li>decentDesc->una guía aceptable para la medicina de campo</li>
+    <li>decentDesc->interesante pero sin pulir</li>
+    <li>decentDesc->útil en algunas áreas pero carente de profundidad</li>
+    <li>decentDesc->centrado en unos pocos escenarios médicos estrechos</li>
+    <li>decentDesc->ocasionalmente perspicaz pero desigual</li>
+    <li>decentExtra->y puede ser de utilidad para médicos menos experimentados</li>
+    <li>decentExtra->, no aborda el panorama general de la medicina rudimentaria en el Borde</li>
+    <li>decentExtra->aunque sus métodos pueden ser inconsistentes</li>
+    <li>awfulDesc->una colección desordenada de conjeturas médicas</li>
+    <li>awfulDesc->un lío confuso de técnicas obsoletas</li>
+    <li>awfulDesc->completamente poco práctico y mal investigado</li>
+    <li>awfulDesc->lleno de anécdotas irrelevantes y relleno</li>
+    <li>awfulDesc->un revoltijo caótico de tratamientos contradictorios</li>
+    <li>awfulExtra->y totalmente inútil para cualquiera que trate pacientes en el Borde</li>
+    <li>awfulExtra->y activamente dañino para cualquiera que busque orientación médica real</li>
+    <li>maybe_date-></li>
+    <li>maybe_date->El diario fue publicado [date_form].</li>
+    <li>maybe_date->El texto se registró por primera vez [date_form].</li>
+    <li>maybe_date->Sus orígenes se pierden en el tiempo, como tantos en el Borde.</li>
+    <li>date_form->recientemente</li>
+    <li>date_form->hace generaciones</li>
+    <li>date_form->en el [date]</li>
+    <li>date_form->durante [date_season]</li>
+    <li>bookType(p=4)->diario médico</li>
+    <li>bookType(p=3)->guía de campo</li>
+    <li>bookType(p=2)->manual de tratamiento</li>
+    <li>bookType(p=1)->guía de supervivencia</li>
+  </ABooks_MedicalJournal_Description.rulePack.rulesStrings>
+  
+</LanguageData>

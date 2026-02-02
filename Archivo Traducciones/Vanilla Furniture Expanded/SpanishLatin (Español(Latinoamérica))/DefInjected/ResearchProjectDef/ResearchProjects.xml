@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: basic furniture -->
+  <MF_BasicFurniture.label>mobiliario básico</MF_BasicFurniture.label>
+  <!-- EN: Build simple furniture like simple beds, basic tables, stools, benches and more. -->
+  <MF_BasicFurniture.description>Construye muebles sencillos como camas simples, mesas básicas, taburetes, bancos y más.</MF_BasicFurniture.description>
+  <!-- EN:
+    <li>subject->foundations of comfort</li>
+    <li>subject_story->rediscovered ancient techniques for crafting durable, essential furniture</li>
+    <li>subject_story->pioneered the use of local materials to create comfortable living spaces</li>
+    <li>subject_story->taught the community the value of crafting with nature, not against it</li>
+    <li>subject_story->initiated the tradition of communal gatherings around the hearth and table</li>
+    <li>subject_gerund->establishing the basics of homely comfort and utility</li>
+  -->
+  <MF_BasicFurniture.generalRules.rulesStrings>
+    <li>subject->cimientos del confort</li>
+    <li>subject_story->redescubrió técnicas antiguas para fabricar muebles duraderos y esenciales</li>
+    <li>subject_story->fue pionero en el uso de materiales locales para crear espacios habitables cómodos</li>
+    <li>subject_story->enseñó a la comunidad el valor de trabajar con la naturaleza, no contra ella</li>
+    <li>subject_story->inició la tradición de reuniones comunales alrededor del fuego y la mesa</li>
+    <li>subject_gerund->estableciendo las bases del confort hogareño y la utilidad</li>
+  </MF_BasicFurniture.generalRules.rulesStrings>
+  
+  <!-- EN: modern furniture -->
+  <MF_ModernFurniture.label>mobiliario moderno</MF_ModernFurniture.label>
+  <!-- EN: Learn to build furniture of the modern day that is focused on practicality over beauty, such as roulette tables, wardrobes, dart boards, punching bags and ergonomic beds. -->
+  <MF_ModernFurniture.description>Aprende a construir muebles de la época moderna centrados en la practicidad sobre la belleza, como mesas de ruleta, armarios, dianas, sacos de boxeo y camas ergonómicas.</MF_ModernFurniture.description>
+  <!-- EN:
+    <li>subject->practical elegance</li>
+    <li>subject_story->embraced the fusion of form and function to suit modern lifestyles</li>
+    <li>subject_story->innovated with new materials for durability and comfort</li>
+    <li>subject_story->prioritized ergonomic designs to enhance daily living</li>
+    <li>subject_story->introduced concepts of modular and space-saving furniture</li>
+    <li>subject_story->championed the minimalist aesthetic, focusing on simplicity and practicality</li>
+    <li>subject_gerund->redefining living spaces for the contemporary era</li>
+  -->
+  <MF_ModernFurniture.generalRules.rulesStrings>
+    <li>subject->elegancia práctica</li>
+    <li>subject_story->abrazó la fusión de forma y función para adaptarse a los estilos de vida modernos</li>
+    <li>subject_story->innovó con nuevos materiales para durabilidad y confort</li>
+    <li>subject_story->priorizó diseños ergonómicos para mejorar la vida diaria</li>
+    <li>subject_story->introdujo conceptos de muebles modulares y que ahorran espacio</li>
+    <li>subject_story->defendió la estética minimalista, centrándose en la simplicidad y la practicidad</li>
+    <li>subject_gerund->redefiniendo los espacios habitables para la era contemporánea</li>
+  </MF_ModernFurniture.generalRules.rulesStrings>
+  
+  <!-- EN: artisan furniture -->
+  <MF_RoyalFurniture.label>mobiliario artesanal</MF_RoyalFurniture.label>
+  <!-- EN: Build luxury furniture focused strongly on aesthetics and beauty over practicality, usually only seen in the houses of the wealthy elite. Including poster beds, royal chairs, tables and armchairs. -->
+  <MF_RoyalFurniture.description>Construye muebles de lujo centrados fuertemente en la estética y la belleza sobre la practicidad, generalmente vistos solo en las casas de la élite adinerada. Incluye camas con dosel, sillas reales, mesas y sillones.</MF_RoyalFurniture.description>
+  <!-- EN:
+    <li>subject->the art of luxury</li>
+    <li>subject_story->reclaimed forgotten methods of inlay and marquetry for exquisite pieces</li>
+    <li>subject_story->fostered a new age of craftsmanship, blending beauty with utility</li>
+    <li>subject_story->commissioned pieces that would become the envy of visiting dignitaries</li>
+    <li>subject_story->inspired artisans to push the boundaries of design and materials</li>
+    <li>subject_story->created spaces of unparalleled elegance, reflecting the pinnacle of culture</li>
+    <li>subject_gerund->crafting symbols of status and artistry</li>
+  -->
+  <MF_RoyalFurniture.generalRules.rulesStrings>
+    <li>subject->el arte del lujo</li>
+    <li>subject_story->recuperó métodos olvidados de incrustación y marquetería para piezas exquisitas</li>
+    <li>subject_story->fomentó una nueva era de artesanía, mezclando belleza con utilidad</li>
+    <li>subject_story->encargó piezas que se convertirían en la envidia de los dignatarios visitantes</li>
+    <li>subject_story->inspiró a los artesanos a superar los límites del diseño y los materiales</li>
+    <li>subject_story->creó espacios de elegancia inigualable, reflejando la cúspide de la cultura</li>
+    <li>subject_gerund->elaborando símbolos de estatus y arte</li>
+  </MF_RoyalFurniture.generalRules.rulesStrings>
+  
+  <!-- EN: waste disposal -->
+  <MF_WasteDisposal.label>eliminación de residuos</MF_WasteDisposal.label>
+  <!-- EN: Learn to build small and large bins, objects that slowly clean the environment they are in. -->
+  <MF_WasteDisposal.description>Aprende a construir contenedores pequeños y grandes, objetos que limpian lentamente el entorno en el que se encuentran.</MF_WasteDisposal.description>
+  <!-- EN:
+    <li>subject->the cleanliness revolution</li>
+    <li>subject_story->developed efficient waste management solutions to promote hygiene</li>
+    <li>subject_story->introduced the concept of recycling, transforming waste into resources</li>
+    <li>subject_story->engineered bins that integrate seamlessly into both public and private spaces</li>
+    <li>subject_story->pioneered waste processing techniques that minimize environmental impact</li>
+    <li>subject_story->catalyzed a cultural shift towards sustainability and cleanliness</li>
+    <li>subject_gerund->enhancing communities with smart waste solutions</li>
+  -->
+  <MF_WasteDisposal.generalRules.rulesStrings>
+    <li>subject->la revolución de la limpieza</li>
+    <li>subject_story->desarrolló soluciones eficientes de gestión de residuos para promover la higiene</li>
+    <li>subject_story->introdujo el concepto de reciclaje, transformando residuos en recursos</li>
+    <li>subject_story->diseñó contenedores que se integran perfectamente en espacios públicos y privados</li>
+    <li>subject_story->fue pionero en técnicas de procesamiento de residuos que minimizan el impacto ambiental</li>
+    <li>subject_story->catalizó un cambio cultural hacia la sostenibilidad y la limpieza</li>
+    <li>subject_gerund->mejorando las comunidades con soluciones inteligentes de residuos</li>
+  </MF_WasteDisposal.generalRules.rulesStrings>
+  
+</LanguageData>

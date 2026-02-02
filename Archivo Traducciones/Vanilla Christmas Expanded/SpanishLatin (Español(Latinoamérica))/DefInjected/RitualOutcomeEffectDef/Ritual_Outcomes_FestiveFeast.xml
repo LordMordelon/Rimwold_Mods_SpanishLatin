@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Depending on ritual quality, participants will get between {MINMOOD} and {MAXMOOD} mood for {MOODDAYS} days. If the festive feast is fun or unforgettable, varying festive favor amounts will be given for each participant. -->
+  <VCE_FestiveFeastOutcome.description>Dependiendo de la calidad del ritual, los participantes obtendrán entre {MINMOOD} y {MAXMOOD} de humor durante {MOODDAYS} días. Si el banquete festivo es divertido o inolvidable, se otorgarán cantidades variables de favor festivo a cada participante.</VCE_FestiveFeastOutcome.description>
+  <!-- EN: leader present -->
+  <VCE_FestiveFeastOutcome.comps.0.label>líder presente</VCE_FestiveFeastOutcome.comps.0.label>
+  <!-- EN: participant count -->
+  <VCE_FestiveFeastOutcome.comps.1.label>conteo de participantes</VCE_FestiveFeastOutcome.comps.1.label>
+  <!-- EN: during Decembary -->
+  <VCE_FestiveFeastOutcome.comps.2.label>durante Diciembrary</VCE_FestiveFeastOutcome.comps.2.label>
+  <!-- EN: not during Decembary -->
+  <VCE_FestiveFeastOutcome.comps.2.labelNotMet>no es Diciembrary</VCE_FestiveFeastOutcome.comps.2.labelNotMet>
+  <!-- EN: Terrible -->
+  <VCE_FestiveFeastOutcome.outcomeChances.0.label>Terrible</VCE_FestiveFeastOutcome.outcomeChances.0.label>
+  <!-- EN: The {0} was terrible. The food was disgusting and we just quarreled and bickered through all of it. -->
+  <VCE_FestiveFeastOutcome.outcomeChances.0.description>El {0} fue terrible. La comida era asquerosa y solo discutimos y peleamos durante todo el tiempo.</VCE_FestiveFeastOutcome.outcomeChances.0.description>
+  <!-- EN: Boring -->
+  <VCE_FestiveFeastOutcome.outcomeChances.1.label>Aburrido</VCE_FestiveFeastOutcome.outcomeChances.1.label>
+  <!-- EN: The {0} was boring. We just went throught he motions, without putting much heart into it. The food was a bit bland. -->
+  <VCE_FestiveFeastOutcome.outcomeChances.1.description>El {0} fue aburrido. Simplemente seguimos la corriente, sin ponerle mucho corazón. La comida estaba un poco sosa.</VCE_FestiveFeastOutcome.outcomeChances.1.description>
+  <!-- EN: Fun -->
+  <VCE_FestiveFeastOutcome.outcomeChances.2.label>Divertido</VCE_FestiveFeastOutcome.outcomeChances.2.label>
+  <!-- EN: The {0} was super fun. Gathering together to share a festive feast really enhances the spirit of the season. -->
+  <VCE_FestiveFeastOutcome.outcomeChances.2.description>El {0} fue súper divertido. Reunirse para compartir un banquete festivo realmente realza el espíritu de la temporada.</VCE_FestiveFeastOutcome.outcomeChances.2.description>
+  <!-- EN: Unforgettable -->
+  <VCE_FestiveFeastOutcome.outcomeChances.3.label>Inolvidable</VCE_FestiveFeastOutcome.outcomeChances.3.label>
+  <!-- EN: The {0} was unforgettable! We truly felt like a big family and the food was just simply amazing! -->
+  <VCE_FestiveFeastOutcome.outcomeChances.3.description>¡El {0} fue inolvidable! ¡Realmente nos sentimos como una gran familia y la comida fue simplemente increíble!</VCE_FestiveFeastOutcome.outcomeChances.3.description>
+  
+</LanguageData>

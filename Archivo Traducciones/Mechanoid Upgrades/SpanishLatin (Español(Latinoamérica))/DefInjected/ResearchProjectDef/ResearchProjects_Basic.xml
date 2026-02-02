@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: basic mechanoid armor -->
+  <MU_BasicArmor.label>armadura básica de mecanoides</MU_BasicArmor.label>
+  <!-- EN: Create basic mechanoid armor. -->
+  <MU_BasicArmor.description>Crear armadura básica para mecanoides.</MU_BasicArmor.description>
+  <!-- EN:
+    <li>subject->basic mechanoid armor</li>
+    <li>subject_story->created armor for assault mechanoids</li>
+    <li>subject_gerund->crafting basic armor</li>
+  -->
+  <MU_BasicArmor.generalRules.rulesStrings>
+    <li>subject->armadura básica de mecanoides</li>
+    <li>subject_story->creó armaduras para mecanoides de asalto</li>
+    <li>subject_gerund->fabricar armadura básica</li>
+  </MU_BasicArmor.generalRules.rulesStrings>
+  
+  <!-- EN: basic mechanoid chips -->
+  <MU_BasicChips.label>chips básicos de mecanoides</MU_BasicChips.label>
+  <!-- EN: Create basic mechanoid chips. -->
+  <MU_BasicChips.description>Crear chips básicos para mecanoides.</MU_BasicChips.description>
+  <!-- EN:
+    <li>subject->basic chips</li>
+    <li>subject_story->programmed chips to upgrade mechanoids</li>
+    <li>subject_gerund->crafting basic chips</li>
+  -->
+  <MU_BasicChips.generalRules.rulesStrings>
+    <li>subject->chips básicos</li>
+    <li>subject_story->programó chips para mejorar mecanoides</li>
+    <li>subject_gerund->fabricar chips básicos</li>
+  </MU_BasicChips.generalRules.rulesStrings>
+  
+  <!-- EN: basic mechanoid modules -->
+  <MU_BasicModules.label>módulos básicos de mecanoides</MU_BasicModules.label>
+  <!-- EN: Create basic mechanoid modules. -->
+  <MU_BasicModules.description>Crear módulos básicos para mecanoides.</MU_BasicModules.description>
+  <!-- EN:
+    <li>subject->basic modules</li>
+    <li>subject_story->created special modules for mechanoids</li>
+    <li>subject_gerund->crafting basic modules</li>
+  -->
+  <MU_BasicModules.generalRules.rulesStrings>
+    <li>subject->módulos básicos</li>
+    <li>subject_story->creó módulos especiales para mecanoides</li>
+    <li>subject_gerund->fabricar módulos básicos</li>
+  </MU_BasicModules.generalRules.rulesStrings>
+  
+  <!-- EN: basic mechanoid shields -->
+  <MU_BasicShields.label>escudos básicos de mecanoides</MU_BasicShields.label>
+  <!-- EN: Create basic mechanoid shields. -->
+  <MU_BasicShields.description>Crear escudos básicos para mecanoides.</MU_BasicShields.description>
+  <!-- EN:
+    <li>subject->basic mechanoid shields</li>
+    <li>subject_story->created shields for assault mechanoids</li>
+    <li>subject_gerund->crafting basic shields</li>
+  -->
+  <MU_BasicShields.generalRules.rulesStrings>
+    <li>subject->escudos básicos de mecanoides</li>
+    <li>subject_story->creó escudos para mecanoides de asalto</li>
+    <li>subject_gerund->fabricar escudos básicos</li>
+  </MU_BasicShields.generalRules.rulesStrings>
+  
+  <!-- EN: basic upgrades -->
+  <MU_BasicUpgrades.label>mejoras básicas</MU_BasicUpgrades.label>
+  <!-- EN: Create and install basic upgrades for mechanoids. -->
+  <MU_BasicUpgrades.description>Crear e instalar mejoras básicas para mecanoides.</MU_BasicUpgrades.description>
+  <!-- EN:
+    <li>subject->mechanoid upgrades</li>
+    <li>subject_story->created first prototype of mech upgrade</li>
+    <li>subject_gerund->upgrading mechanoids</li>
+  -->
+  <MU_BasicUpgrades.generalRules.rulesStrings>
+    <li>subject->mejoras de mecanoides</li>
+    <li>subject_story->creó el primer prototipo de mejora de meca</li>
+    <li>subject_gerund->mejorar mecanoides</li>
+  </MU_BasicUpgrades.generalRules.rulesStrings>
+  
+  <!-- EN: built-in burners -->
+  <MU_Burners.label>incineradores integrados</MU_Burners.label>
+  <!-- EN: Create compact flamethrowers for mechanoids. -->
+  <MU_Burners.description>Crear lanzallamas compactos para mecanoides.</MU_Burners.description>
+  <!-- EN:
+    <li>subject->built-in flame weapons</li>
+    <li>subject_story->moved into the development of microelectronics</li>
+    <li>subject_gerund->crafting flamethrowers</li>
+  -->
+  <MU_Burners.generalRules.rulesStrings>
+    <li>subject->armas de llama integradas</li>
+    <li>subject_story->se adentró en el desarrollo de la microelectrónica</li>
+    <li>subject_gerund->fabricar lanzallamas</li>
+  </MU_Burners.generalRules.rulesStrings>
+  
+  <!-- EN: mechanoid grenades -->
+  <MU_Grenades.label>granadas para mecanoides</MU_Grenades.label>
+  <!-- EN: Create grenades for mechanoids. -->
+  <MU_Grenades.description>Crear granadas para mecanoides.</MU_Grenades.description>
+  <!-- EN:
+    <li>subject->grenades for mechanoids</li>
+    <li>subject_story->equipped mechanoids with grenades</li>
+    <li>subject_gerund->creating grenades for mechanoids</li>
+  -->
+  <MU_Grenades.generalRules.rulesStrings>
+    <li>subject->granadas para mecanoides</li>
+    <li>subject_story->equipó mecanoides con granadas</li>
+    <li>subject_gerund->crear granadas para mecanoides</li>
+  </MU_Grenades.generalRules.rulesStrings>
+  
+</LanguageData>

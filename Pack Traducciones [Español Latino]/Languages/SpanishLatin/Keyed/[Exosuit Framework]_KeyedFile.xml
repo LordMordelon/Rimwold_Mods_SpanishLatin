@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <WG_ApparelLayerTaken>{0} se negó a quitarse el equipo que no cabe en este exotraje.</WG_ApparelLayerTaken>
+  <WG_ArmorCapacity>Cap. de carga:</WG_ArmorCapacity>
+  <WG_ArmorDeadWeight>Peso muerto:</WG_ArmorDeadWeight>
+  <WG_ArmorSpeed>Velocidad mov. del exotraje:</WG_ArmorSpeed>
+  <WG_AssignPilot>Asignar piloto</WG_AssignPilot>
+  <WG_AutoRepair>Reparación automática</WG_AutoRepair>
+  <WG_AutoRepair_Desc>Activa o desactiva si los colonos deben reparar automáticamente los módulos dañados en este pórtico.</WG_AutoRepair_Desc>
+  <WG_AvailableModuleForThisSlot>Módulos disponibles para esta ranura</WG_AvailableModuleForThisSlot>
+  <WG_BareHands>Ninguno</WG_BareHands>
+  <WG_BayHasNoCore>Sin armazón de núcleo</WG_BayHasNoCore>
+  <WG_BayOccupied>Bahía ocupada</WG_BayOccupied>
+  <WG_BayTip>Click derecho en la ranura del armazón para añadir módulos.</WG_BayTip>
+  <WG_Blunt_CE>MPA</WG_Blunt_CE>
+  <WG_ChangeModuleColor>Cambiar color del módulo</WG_ChangeModuleColor>
+  <WG_CommandToggleTurret>Activar/desactivar torreta</WG_CommandToggleTurret>
+  <WG_CommandToggleTurretDesc>Comando para activar/desactivar torreta</WG_CommandToggleTurretDesc>
+  <WG_Disabled_AlreadyHasCoreFrame>{0} ya está pilotando</WG_Disabled_AlreadyHasCoreFrame>
+  <WG_Disabled_NeedControlledAndDrafted>No se puede usar: Necesita ser reclutado</WG_Disabled_NeedControlledAndDrafted>
+  <WG_Disabled_NoCoreFrame>No hay armazón en este pórtico</WG_Disabled_NoCoreFrame>
+  <WG_Disabled_NoMaintenanceBay>No se puede transportar: No hay pórticos disponibles</WG_Disabled_NoMaintenanceBay>
+  <WG_Disabled_VictimInWalkerCore>No se puede rescatar: herido en el exotraje.</WG_Disabled_VictimInWalkerCore>
+  <WG_EjectToTile>Lanzamiento aéreo de largo alcance</WG_EjectToTile>
+  <WG_EjectToTile>Lanzamiento aéreo de largo alcance</WG_EjectToTile>
+  <WG_EmergencyEject>Expulsión de emergencia</WG_EmergencyEject>
+  <WG_EmergencyEject_Desc>Activando el protocolo de escape, los cohetes de propulsor sólido expulsarán al piloto a un lugar designado dentro del alcance y destruirán el armazón</WG_EmergencyEject_Desc>
+  <WG_Finalized>Finalizado</WG_Finalized>
+  <WG_GetIn>Pilotar</WG_GetIn>
+  <WG_GetInAssigned>Entrar en la bahía</WG_GetInAssigned>
+  <WG_HasMechWeapon>Módulo armado</WG_HasMechWeapon>
+  <WG_Job_DisassembleFrame>Desmontar exotraje derribado</WG_Job_DisassembleFrame>
+  <WG_Job_TakeToMaintenanceBay>Transportar al pórtico</WG_Job_TakeToMaintenanceBay>
+  <WG_MechSolution>Personalizar</WG_MechSolution>
+  <WG_NoAvailablePilot>No hay pilotos disponibles</WG_NoAvailablePilot>
+  <WG_NoModuleForSlot>No hay módulos disponibles</WG_NoModuleForSlot>
+  <WG_Occupied>Ocupado</WG_Occupied>
+  <WG_OverallArmor>Pts. estructurales</WG_OverallArmor>
+  <WG_Overload>[Sobrecargado]</WG_Overload>
+  <WG_Performance>Cap. de carga:</WG_Performance>
+  <WG_PilotInBuilding>Piloto:</WG_PilotInBuilding>
+  <WG_PilotingFrame>Pilotando exotraje</WG_PilotingFrame>
+  <WG_RequireBionic>{0} no tiene el implante adecuado para pilotar este exotraje.</WG_RequireBionic>
+  <WG_RequireMechsuit>Requiere exotraje</WG_RequireMechsuit>
+  <WG_RequirePilotSuit>{0} no lleva un traje de piloto adecuado para este exotraje.</WG_RequirePilotSuit>
+  <WG_SafetyLock>Bloqueo de seguridad</WG_SafetyLock>
+  <WG_SafetyLock_Desc>Dispositivo de seguridad para evitar el mal uso</WG_SafetyLock_Desc>
+  <WG_Sharp_CE>mm RHA</WG_Sharp_CE>
+  <WG_Stats_DisableSlotsOf>Ranuras de módulo deshabilitadas:</WG_Stats_DisableSlotsOf>
+  <WG_Stats_TakingSlotsOf>Ranura de módulo ocupadas:</WG_Stats_TakingSlotsOf>
+  <WG_StructurePoint>Integridad estructural</WG_StructurePoint>
+  <WG_StructurePoint.Tooltip>La integridad estructural general de un exotraje, que anula los efectos del daño en los impactos para proteger al piloto. Pero si es inferior al 25%, hay un 25% de posibilidades de que penetre el blindaje exterior y cause daños al piloto. Una vez que el valor de la estructura cae a cero, el exotraje quedará completamente inutilizado y atrapará a su piloto en los restos destruidos.\n\nPara restaurar los puntos estructurales, el exotraje debe estar acoplado en un pórtico de mantenimiento. Los colonos con capacidades de artesanía podrán reparar el armazón del núcleo y los submódulos dañados.</WG_StructurePoint.Tooltip>
+  <WG_SubTurret>Subtorreta</WG_SubTurret>
+  <WG_SubTurretDesc>Una subtorreta acoplada a este armazón.</WG_SubTurretDesc>
+  <WG_TabMechGear>Exotraje</WG_TabMechGear>
+  <WG_TakeOutModuleWeapon>Tomar arma del módulo</WG_TakeOutModuleWeapon>
+  <WG_ToggleModuleWeapon>Cambiar arma del módulo</WG_ToggleModuleWeapon>
+  <WG_TooBigForPilot>{0} es demasiado corpulento para pilotar este exotraje.</WG_TooBigForPilot>
+  <WG_TooYoungToPilot>{0} es demasiado joven para pilotar este exotraje.</WG_TooYoungToPilot>
+  <WG_WeaponDropped>Después de dejar el armazón, {0} no puede equipar y ha soltado el arma.</WG_WeaponDropped>
+</LanguageData>

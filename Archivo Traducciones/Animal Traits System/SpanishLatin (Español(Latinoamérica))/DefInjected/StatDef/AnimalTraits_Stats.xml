@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: body size factor -->
+  <AnimalTraitsSystemBodySizeFactor.label>factor de tamaño corporal</AnimalTraitsSystemBodySizeFactor.label>
+  <!-- EN: A multiplier applied to the animal's body size. Affects many aspects including carrying capacity, melee dodge chance, and heat output. A value of 1.2 means 20% larger. -->
+  <AnimalTraitsSystemBodySizeFactor.description>Un multiplicador aplicado al tamaño corporal del animal. Afecta muchos aspectos, incluida la capacidad de carga, la probabilidad de esquivar cuerpo a cuerpo y la producción de calor. Un valor de 1.2 significa un 20% más grande.</AnimalTraitsSystemBodySizeFactor.description>
+  
+  <!-- EN: egg count factor -->
+  <AnimalTraitsSystemEggCountFactor.label>factor de conteo de huevos</AnimalTraitsSystemEggCountFactor.label>
+  <!-- EN: A multiplier applied to the number of eggs laid by this animal. A value of 1.5 means 50% more eggs per laying. -->
+  <AnimalTraitsSystemEggCountFactor.description>Un multiplicador aplicado al número de huevos puestos por este animal. Un valor de 1.5 significa un 50% más de huevos por puesta.</AnimalTraitsSystemEggCountFactor.description>
+  
+  <!-- EN: gather yield factor -->
+  <AnimalTraitsSystemGatherYieldFactor.label>factor de rendimiento de recolección</AnimalTraitsSystemGatherYieldFactor.label>
+  <!-- EN: A multiplier applied to the amount of resources gathered from this animal (wool, milk). A value of 1.25 means 25% more yield. This is different from the vanilla AnimalGatherYield stat. -->
+  <AnimalTraitsSystemGatherYieldFactor.description>Un multiplicador aplicado a la cantidad de recursos recolectados de este animal (lana, leche). Un valor de 1.25 significa un 25% más de rendimiento. Esto es diferente de la estadística vanilla Rendimiento de Recolección Animal.</AnimalTraitsSystemGatherYieldFactor.description>
+  
+  <!-- EN: litter size factor -->
+  <AnimalTraitsSystemLitterSizeFactor.label>factor de tamaño de camada</AnimalTraitsSystemLitterSizeFactor.label>
+  <!-- EN: A multiplier applied to the number of offspring produced when this animal gives birth. A value of 2.0 means double the average litter size. Applied to the mother. -->
+  <AnimalTraitsSystemLitterSizeFactor.description>Un multiplicador aplicado al número de crías producidas cuando este animal da a luz. Un valor de 2.0 significa el doble del tamaño promedio de la camada. Se aplica a la madre.</AnimalTraitsSystemLitterSizeFactor.description>
+  
+  <!-- EN: revenge chance on harm -->
+  <AnimalTraitsSystemRevengeChanceOnHarm.label>probabilidad de venganza al ser dañado</AnimalTraitsSystemRevengeChanceOnHarm.label>
+  <!-- EN: Flat bonus to the likelihood that an animal will attack a colonist after being harmed. This is added directly to the base revenge chance. -->
+  <AnimalTraitsSystemRevengeChanceOnHarm.description>Bonificación fija a la probabilidad de que un animal ataque a un colono después de ser dañado. Esto se suma directamente a la probabilidad base de venganza.</AnimalTraitsSystemRevengeChanceOnHarm.description>
+  
+  <!-- EN: revenge chance on taming failure -->
+  <AnimalTraitsSystemRevengeChanceOnTamingFailure.label>prob. de venganza al fallar la domesticación</AnimalTraitsSystemRevengeChanceOnTamingFailure.label>
+  <!-- EN: Flat bonus to the likelihood that an animal will attack a colonist if a taming attempt fails. This is added directly to the base revenge chance. -->
+  <AnimalTraitsSystemRevengeChanceOnTamingFailure.description>Bonificación fija a la probabilidad de que un animal ataque a un colono si falla un intento de domesticación. Esto se suma directamente a la probabilidad base de venganza.</AnimalTraitsSystemRevengeChanceOnTamingFailure.description>
+  
+</LanguageData>

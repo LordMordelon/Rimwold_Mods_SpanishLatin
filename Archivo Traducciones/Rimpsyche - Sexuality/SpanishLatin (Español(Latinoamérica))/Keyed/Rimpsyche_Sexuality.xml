@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- General -->
+  <!-- EN: RimPsyche - Sexuality -->
+  <RimpsycheSexualitySettingCategory>RimPsyche - Sexualidad</RimpsycheSexualitySettingCategory>
+
+  <!-- Settings -->
+  <!-- EN: Sexuality Distribution Settings (Requires restart) -->
+  <RimpsycheKinseyDistributionSettings>Ajustes de distribución de sexualidad (Requiere reiniciar)</RimpsycheKinseyDistributionSettings>
+  <!-- EN: Default Distribution -->
+  <RimpsycheKinseyDefaultSetting>Distribución por defecto</RimpsycheKinseyDefaultSetting>
+  <!-- EN: Use Preference System -->
+  <RimpsycheUsePreferenceSystem>Usar sistema de preferencias</RimpsycheUsePreferenceSystem>
+  <!-- EN: Give each pawns their own preference. -->
+  <RimpsycheUsePreferenceSystemTooltip>Dar a cada colono su propia preferencia.</RimpsycheUsePreferenceSystemTooltip>
+  <!-- EN: Gender Difference -->
+  <RimpsycheRomanceAttemptGenderDiff>Diferencia de género</RimpsycheRomanceAttemptGenderDiff>
+  <!-- EN: Women are less likely to make a romance attempt at men. (Vanilla logic)  -->
+  <RimpsycheRomanceAttemptGenderDiffTooltip>Las mujeres tienen menos probabilidades de intentar un romance con hombres. (Lógica de Vanilla)</RimpsycheRomanceAttemptGenderDiffTooltip>
+  <!-- EN: Relation Min. Attraction -->
+  <RimpsycheMinRelAttraction>Atracción mínima de relación</RimpsycheMinRelAttraction>
+  <!-- EN: Minimum attraction towards pawns one is interested in will be adjusted to this. -->
+  <RimpsycheMinRelAttractionTooltip>La atracción mínima hacia los colonos en los que se está interesado se ajustará a esto.</RimpsycheMinRelAttractionTooltip>
+
+  <!-- Title -->
+  <!-- EN: Preference -->
+  <RPC_Preference>Preferencia</RPC_Preference>
+
+  <!-- Tab -->
+  <!-- EN: Show Interest -->
+  <RimpsycheShowInterest>Mostrar interés</RimpsycheShowInterest>
+  <!-- EN: Show Preference -->
+  <RimpsycheShowPreference>Mostrar preferencia</RimpsycheShowPreference>
+
+  <!-- EN: Attraction toward Males -->
+  <RPS_AttractionMaleTooltip>Atracción hacia hombres</RPS_AttractionMaleTooltip>
+  <!-- EN: Attraction toward Females -->
+  <RPS_AttractionFemaleTooltip>Atracción hacia mujeres</RPS_AttractionFemaleTooltip>
+  <!-- EN: The Kinsey scale -->
+  <RPS_KinseyTitleTooltip>La escala de Kinsey</RPS_KinseyTitleTooltip>
+  <!-- EN: The Kinsey scale uses a range from 0 to 6 to describe a person's sexual orientation.\n\n0 - exclusively heterosexual\n3 - bisexual\n6 - exclusively homosexual -->
+  <RPS_KinseyTooltip>La escala de Kinsey utiliza un rango de 0 a 6 para describir la orientación sexual de una persona.\n\n0 - exclusivamente heterosexual\n3 - bisexual\n6 - exclusivamente homosexual</RPS_KinseyTooltip>
+  <!-- EN: Libido -->
+  <RPS_SexdriveTooltip>Líbido</RPS_SexdriveTooltip>
+
+  <!-- EN: Sexuality -->
+  <RPC_Orientation>Orientación sexual</RPC_Orientation>
+  <!-- EN: Kinsey Rating -->
+  <RPC_Kinsey>Escala Kinsey</RPC_Kinsey>
+  <!-- EN: Max Attraction -->
+  <RPC_MaxAttraction>Atracción máxima</RPC_MaxAttraction>
+  <!-- EN: Male -->
+  <RPC_AttractionMale>Hombre</RPC_AttractionMale>
+  <!-- EN: Female -->
+  <RPC_AttractionFemale>Mujer</RPC_AttractionFemale>
+  <!-- EN: Libido -->
+  <RPC_SexDrive>Líbido</RPC_SexDrive>
+
+  <!-- EN: Heterosexual -->
+  <RPC_Heterosexual>Heterosexual</RPC_Heterosexual>
+  <!-- EN: {0} is romantically attracted to people of the opposite gender. -->
+  <RPC_HeterosexualDescription>{0} se siente atraído románticamente por personas del género opuesto.</RPC_HeterosexualDescription>
+  <!-- EN: Bisexual -->
+  <RPC_Bisexual>Bisexual</RPC_Bisexual>
+  <!-- EN: {0} is romantically attracted to both men and women. -->
+  <RPC_BisexualDescription>{0} se siente atraído románticamente tanto por hombres como por mujeres.</RPC_BisexualDescription>
+  <!-- EN: Homosexual -->
+  <RPC_Homosexual>Homosexual</RPC_Homosexual>
+  <!-- EN: {0} is romantically attracted to people of the same gender. -->
+  <RPC_HomosexualDescription>{0} se siente atraído románticamente por personas del mismo género.</RPC_HomosexualDescription>
+  <!-- EN: Asexual -->
+  <RPC_Asexual>Asexual</RPC_Asexual>
+  <!-- EN: {0} has no sexual attraction to anyone at all. -->
+  <RPC_AsexualDescription>{0} no tiene ninguna atracción sexual por nadie.</RPC_AsexualDescription>
+  <!-- EN: Undefined -->
+  <RPC_SexualityUndefined>Indefinido</RPC_SexualityUndefined>
+  <!-- EN: {0} has lost their sexuality. Can you find it for them? -->
+  <RPC_SexualityUndefinedDescription>{0} ha perdido su sexualidad. ¿Puedes encontrarla por ellos?</RPC_SexualityUndefinedDescription>
+
+  <!-- Preference -->
+  <!-- EN: No Preference available -->
+  <RPS_NoPreference>No hay preferencias disponibles</RPS_NoPreference>
+  <!-- EN: Preferred personalities: -->
+  <RPS_AttractionReport>Personalidades preferidas:</RPS_AttractionReport>
+  <!-- EN: Importance -->
+  <RPS_Importance>Importancia</RPS_Importance>
+
+  <!-- Stats -->
+  <!-- EN: Libido -->
+  <RP_Stat_Sexdrive>Líbido</RP_Stat_Sexdrive>
+
+</LanguageData>

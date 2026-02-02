@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <VCEV_CookingBook_Namer.rulePack.rulesStrings>
+    <li>title-&gt;[titleBasic]</li>
+    <li>title(p=2)-&gt;[titleAuthoredNoSubject]</li>
+    <li>titleBasic(p=6)-&gt;[subject_primary] [randAdjective]</li>
+    <li>titleBasic(p=6)-&gt;[randNoun] y [subject_primary]</li>
+    <li>titleBasic-&gt;Los sabores de [subject_primary]</li>
+    <li>titleBasic-&gt;[subject_primary] sabroso</li>
+    <li>titleBasic-&gt;Gourmet global: [subject_primary]</li>
+    <li>titleBasic-&gt;Fresco de [subject_primary]</li>
+    <li>titleBasic-&gt;Odisea de especias en [subject_primary]</li>
+    <li>titleBasic-&gt;Comidas rápidas y fáciles de [subject_primary]</li>
+    <li>titleBasic-&gt;La cocina de la abuela en [subject_primary]</li>
+    <li>titleBasic-&gt;El plato saludable de [subject_primary]</li>
+    <li>titleBasic-&gt;El libro de cocina vegana definitivo en [subject_primary]</li>
+    <li>titleBasic-&gt;Clásicos culinarios de [subject_primary]</li>
+    <li>titleBasic-&gt;Cocinando con amor en [subject_primary]</li>
+    <li>titleBasic-&gt;Fuego y humo: Guía de parrilla para [subject_primary]</li>
+    <li>titleBasic-&gt;Hornear fácil: [subject_primary]</li>
+    <li>titleBasic-&gt;Festín de fusión: [subject_primary]</li>
+    <li>titleBasic-&gt;Cocina sureña con alma: [subject_primary]</li>
+    <li>titleBasic-&gt;La maravilla de una sola olla: [subject_primary]</li>
+    <li>titleBasic-&gt;Manual del cocinero perezoso de [subject_primary]</li>
+    <li>titleBasic-&gt;Pasta perfecta siempre: [subject_primary]</li>
+    <li>titleBasic-&gt;Comidas sanas para la familia: [subject_primary]</li>
+    <li>titleBasic-&gt;Consejos, trucos y recetas de [subject_primary]</li>
+    <li>titleBasic-&gt;Postres para morirse: [subject_primary]</li>
+    <li>titleBasic-&gt;El libro de cocina para amantes del chocolate de [subject_primary]</li>
+    <li>titleAuthoredNoSubject-&gt;Libro de cocina de [subject_primary] de [ANYPAWN_nameIndef]</li>
+    <li>titleAuthoredNoSubject-&gt;Recetas [randAdjective] de [subject_primary] de [ANYPAWN_nameIndef]</li>
+    <li>titleAuthoredNoSubject-&gt;Recetas de [subject_primary] de [ANYPAWN_nameIndef]</li>
+    <li>titleAuthoredNoSubject-&gt;Guía culinaria de [subject_primary] de [ANYPAWN_nameIndef]</li>
+    <li>titleAuthoredNoSubject-&gt;Colección de recetas de [subject_primary] de [ANYPAWN_nameIndef]</li>
+    <li>titleAuthoredNoSubject-&gt;Manual de cocina de [subject_primary] de [ANYPAWN_nameIndef]</li>
+    <li>titleAuthoredNoSubject-&gt;Libro de cocina de [subject_primary] de [ANYPAWN_nameIndef]</li>
+    <li>titleAuthoredNoSubject-&gt;Guía gastronómica de [subject_primary] de [ANYPAWN_nameIndef]</li>
+    <li>titleAuthoredNoSubject-&gt;Guía de alimentos de [subject_primary] de [ANYPAWN_nameIndef]</li>
+    <li>titleAuthoredNoSubject-&gt;Manual del chef de [subject_primary] de [ANYPAWN_nameIndef]</li>
+    <li>titleAuthoredNoSubject-&gt;Compendio de cocina de [subject_primary] de [ANYPAWN_nameIndef]</li>
+    <li>titleAuthoredNoSubject-&gt;Compañero del cocinero de [subject_primary] de [ANYPAWN_nameIndef]</li>
+    <li>titleAuthoredNoSubject-&gt;Biblia gastronómica de [subject_primary] de [ANYPAWN_nameIndef]</li>
+  </VCEV_CookingBook_Namer.rulePack.rulesStrings>
+</LanguageData>

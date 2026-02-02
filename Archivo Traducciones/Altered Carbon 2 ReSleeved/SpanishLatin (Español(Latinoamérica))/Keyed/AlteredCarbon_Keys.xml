@@ -1,0 +1,615 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+	<!-- ================================ Stacks ====================== -->
+	<!-- EN: Implant stack -->
+  <AC.InstallStack>Implantar pila</AC.InstallStack>
+	<!-- EN: Select a pawn or empty sleeve to implant the neural stack into via surgery. The surgery bill will automatically be created in the health tab of the selected pawn or sleeve. -->
+  <AC.InstallStackDesc>Selecciona un colono o una funda vacía para implantar la pila neural mediante cirugía. La orden de cirugía se creará automáticamente en la pestaña de salud del colono o funda seleccionada.</AC.InstallStackDesc>
+	<!-- EN: Select a pawn to implant the empty neural stack in via surgery. The surgery bill  will automatically be created in the health tab of the selected pawn or sleeve. -->
+  <AC.InstallEmptyStackDesc>Selecciona un colono para implantar la pila neural vacía mediante cirugía. La orden de cirugía se creará automáticamente en la pestaña de salud del colono o funda seleccionada.</AC.InstallEmptyStackDesc>
+	<!-- EN: Implant stack -->
+  <AC.InstallArchotechStack>Implantar pila arqueotéc</AC.InstallArchotechStack>
+	<!-- EN: Select a pawn or empty sleeve to implant the archotech stack in via surgery. The surgery bill will automatically be created in the health tab of the selected pawn or sleeve. -->
+  <AC.InstallArchotechStackDesc>Selecciona un colono o una funda vacía para implantar la pila arqueotéc mediante cirugía. La orden de cirugía se creará automáticamente en la pestaña de salud del colono o funda seleccionada.</AC.InstallArchotechStackDesc>
+	<!-- EN: Select a pawn to implant the empty archotech stack in via surgery. The surgery bill will automatically be created in the health tab of the selected pawn or sleeve. -->
+  <AC.InstallEmptyArchotechStackDesc>Selecciona un colono para implantar la pila arqueotéc vacía mediante cirugía. La orden de cirugía se creará automáticamente en la pestaña de salud del colono o funda seleccionada.</AC.InstallEmptyArchotechStackDesc>
+	<!-- EN: Auto-load -->
+  <AC.AutoLoad>Carga automática</AC.AutoLoad>
+	<!-- EN: If active, haulers will automatically store this stack in a stack cache or neural matrix. -->
+  <AC.AutoLoadDesc>Si está activo, los transportistas almacenarán automáticamente esta pila en un caché de pilas o en una matriz neural.</AC.AutoLoadDesc>
+	<!-- EN: Faction -->
+  <AC.Faction>Facción</AC.Faction>
+	<!-- EN: Childhood -->
+  <AC.Childhood>Infancia</AC.Childhood>
+	<!-- EN: Adulthood -->
+  <AC.Adulthood>Adultez</AC.Adulthood>
+	<!-- EN: Chronological age -->
+  <AC.AgeChronologicalTicks>Edad cronológica</AC.AgeChronologicalTicks>
+	<!-- EN: Destroying stack:\nWARNING! You are about to destroy this stack. Are you sure you want to continue? -->
+  <AC.DestroyStackConfirmation>Destruyendo pila:\n¡ADVERTENCIA! Estás a punto de destruir esta pila. ¿Seguro que quieres continuar?</AC.DestroyStackConfirmation>
+	<!-- EN: {0} have a {1} chance of starting with a {2}. -->
+  <AC.ScenPart_PawnsHaveNeuralStack>{0} tiene(n) una probabilidad de {1} de empezar con una {2}.</AC.ScenPart_PawnsHaveNeuralStack>
+	<!-- EN: Sleeve with stack installed inside. -->
+  <AC.SleeveWithStack>Funda con pila instalada.</AC.SleeveWithStack>
+	<!-- EN: {PAWN_nameDef} already has a neural stack installed! -->
+  <AC.PawnAlreadyHasStack>¡{PAWN_nameDef} ya tiene una pila neural instalada!</AC.PawnAlreadyHasStack>
+	<!-- EN: {PAWN_nameDef} already has an archotech stack installed! -->
+  <AC.PawnAlreadyHasArchotechStack>¡{PAWN_nameDef} ya tiene una pila arqueotéc instalada!</AC.PawnAlreadyHasArchotechStack>
+	<!-- EN: {PAWN_nameDef} already has an archotech stack installed! -->
+  <AC.PawnStackCannotDowngrade>¡{PAWN_nameDef} ya tiene una pila arqueotéc instalada!</AC.PawnStackCannotDowngrade>
+	<!-- EN: Cannot install neural stack - neck is missing or another implant is already present. -->
+  <AC.CannotInstallStackNeckIsMissingOrAnotherImplantInstalled>No se puede instalar la pila neural: falta el cuello o ya hay otro implante.</AC.CannotInstallStackNeckIsMissingOrAnotherImplantInstalled>
+	<!-- EN: Stack is already marked for implantation. -->
+  <AC.AlreadyMarkedForInstalling>La pila ya está marcada para ser implantada.</AC.AlreadyMarkedForInstalling>
+	<!-- EN: {PAWN_nameDef} has been overwritten by a neural stack. -->
+  <AC.PawnDiedOfImplantingStack>La conciencia de {PAWN_nameDef} ha sido sobreescrita por una pila neural.</AC.PawnDiedOfImplantingStack>
+	<!-- EN: {0} has a neural stack implanted. -->
+  <AC.PawnHasNeutralStack>{0} tiene una pila neural implantada.</AC.PawnHasNeutralStack>
+	<!-- EN: {PAWN_nameDef} has died. -->
+  <AC.PawnDiedOfErasingStack>{PAWN_nameDef} ha muerto.</AC.PawnDiedOfErasingStack>
+
+	<!-- ================================ Needlecasting ====================== -->
+	<!-- EN: Start needlecasting -->
+  <AC.StartNeedlecasting>Iniciar transmisión remota</AC.StartNeedlecasting>
+	<!-- EN: Select a traget with a neural reciver to needlecast to. -->
+  <AC.StartNeedlecastingDesc>Selecciona un objetivo con un receptor neural para iniciar la transmisión remota.</AC.StartNeedlecastingDesc>
+	<!-- EN: End needlecasting -->
+  <AC.EndNeedlecasting>Finalizar transmisión remota</AC.EndNeedlecasting>
+	<!-- EN: End the current needlecasting connection. -->
+  <AC.EndNeedlecastingDesc>Finalizar la conexión de transmisión remota actual.</AC.EndNeedlecastingDesc>
+	<!-- EN: Maximum needlecasting range: {0} tiles -->
+  <AC.MaximumNeedlecastingRange>Alcance máximo de transmisión remota: {0} casillas</AC.MaximumNeedlecastingRange>
+	<!-- EN: Current distance to casting origin: {0} tiles -->
+  <AC.CurrentDistanceToCastingOrigin>Distancia actual al origen de la transmisión: {0} casillas</AC.CurrentDistanceToCastingOrigin>
+	<!-- EN: {0} is currently needlecasting into this sleeve. If they travel beyond their casting range will automatically be ended and they might be lost.\n\nMaximum needlecasting range: {1} tiles -->
+  <AC.CaravanNeedlecastingIconTooltip>{0} está actualmente en transmisión remota a esta funda. Si se aleja más allá de su rango de transmisión, la conexión terminará automáticamente y podría perderse.\n\nAlcance máximo de transmisión remota: {1} casillas</AC.CaravanNeedlecastingIconTooltip>
+	<!-- EN: Do your really want to end the {0}'s needlecasting connection?
+
+{0} is currently not on your colonies local map. The sleeve {0} is connected to might be lost if there are no other colonists on the same local map as them. -->
+  <AC.NeedlecastingDisconnectWarning>¿Realmente quieres terminar la conexión de transmisión remota de {0}?\n\n{0} no se encuentra actualmente en el mapa local de tu colonia. La funda a la que {0} está conectado podría perderse si no hay otros colonos en el mismo mapa local.</AC.NeedlecastingDisconnectWarning>
+	<!-- EN: {0} started needlecasting into sleeve of {1}. -->
+  <AC.PawnStartedNeedlecastingIntoOtherPawn>{0} ha iniciado una transmisión remota a la funda de {1}.</AC.PawnStartedNeedlecastingIntoOtherPawn>
+	<!-- EN: {0} started needlecasting into empty sleeve. -->
+  <AC.PawnStartedNeedlecastingIntoEmptySleeve>{0} ha iniciado una transmisión remota a una funda vacía.</AC.PawnStartedNeedlecastingIntoEmptySleeve>
+	<!-- EN: {0} is no longer needlecasting. -->
+  <AC.PawnNoLongerNeedlecasting>{0} ya no está en transmisión remota.</AC.PawnNoLongerNeedlecasting>
+	<!-- EN: {0} stopped needlecasting. Cause: {1} -->
+  <AC.PawnStoppedNeedlecastingCause>{0} ha detenido la transmisión remota. Causa: {1}</AC.PawnStoppedNeedlecastingCause>
+	<!-- EN: Controlled sleeve has died. -->
+  <AC.SleeveHasDied>La funda controlada ha muerto.</AC.SleeveHasDied>
+	<!-- EN: Neural matrix has no power. -->
+  <AC.MatrixHasNoPower>La matriz neural no tiene energía.</AC.MatrixHasNoPower>
+	<!-- EN: Controlled sleeve no longer reachable. -->
+  <AC.SleeveNoLongerReachable>La funda controlada ya no es alcanzable.</AC.SleeveNoLongerReachable>
+	<!-- EN: {0} was removed from the crypto casket. -->
+  <AC.WasRemovedFromCryptoCasket>{0} fue retirado del ataúd de criptosueño.</AC.WasRemovedFromCryptoCasket>
+	<!-- EN: Connection to controlled sleeve disrupted. -->
+  <AC.ConnectionDistrupted>Conexión con la funda controlada interrumpida.</AC.ConnectionDistrupted>
+	<!-- EN: Controlled sleeve lost. -->
+  <AC.ControlledSleeveLost>Funda controlada perdida.</AC.ControlledSleeveLost>
+	<!-- EN: No longer part of {0} faction. -->
+  <AC.NoLongerPartOfPlayerFaction>Ya no forma parte de la facción {0}.</AC.NoLongerPartOfPlayerFaction>
+	<!-- EN: Caster has died. -->
+  <AC.CasterHasDied>El transmisor ha muerto.</AC.CasterHasDied>
+	<!-- EN: Caster stack destroyed. -->
+  <AC.CasterStackDestroyed>Pila del transmisor destruida.</AC.CasterStackDestroyed>
+	<!-- ================================ Extract Stacks ====================== -->
+	<!-- EN: Extract stack -->
+  <AC.DesignatorExtractStack>Extraer pila</AC.DesignatorExtractStack>
+	<!-- EN: Extract stack -->
+  <AC.ExtractStack>Extraer pila</AC.ExtractStack>
+	<!-- EN: Extract stacks from corpses. -->
+  <AC.DesignatorExtractStackDesc>Extraer pilas de cadáveres.</AC.DesignatorExtractStackDesc>
+	<!-- EN: Must designate corpses with stacks installed. -->
+  <AC.MessageMustDesignateHasStack>Se deben designar cadáveres con pilas instaladas.</AC.MessageMustDesignateHasStack>
+	<!-- ================================ Sleeves ====================== -->
+	<!-- EN: Empty sleeve -->
+  <AC.EmptySleeve>Funda vacía</AC.EmptySleeve>
+	<!-- EN: Sleeve Death -->
+  <AC.SleeveDeath>Muerte de la funda</AC.SleeveDeath>
+	<!-- EN: Sleeve of {PAWN_labelShort} has died. Cause: {1}. -->
+  <AC.PawnDiedBecauseOf>La funda de {PAWN_labelShort} ha muerto. Causa: {1}.</AC.PawnDiedBecauseOf>
+	<!-- EN: Sleeve of {1_labelShort} has died. -->
+  <AC.PawnDied>La funda de {1_labelShort} ha muerto.</AC.PawnDied>
+	<!-- EN: Sleeve of -->
+  <AC.SleveOf>Funda de</AC.SleveOf>
+	<!-- EN: Take empty sleeve to sleeve casket or medical bed. -->
+  <AC.TakeToSleeveCasketOrMedicalBed>Llevar funda vacía a un ataúd para fundas o a una cama médica.</AC.TakeToSleeveCasketOrMedicalBed>
+	<!-- EN: Cannot take: No reachable, un-reserved sleeve casket or medical bed in safe temperature. -->
+  <AC.CannotTakeToSleeveCasketOrMedicalBed>No se puede llevar: No hay ataúdes para fundas o camas médicas accesibles, sin reservar y a temperatura segura.</AC.CannotTakeToSleeveCasketOrMedicalBed>
+	<!-- ================================ Sleeve Gestator ====================== -->
+	<!-- EN: Grow sleeve -->
+  <AC.CreateSleeveBody>Crear funda</AC.CreateSleeveBody>
+	<!-- EN: Sleeve Customization -->
+  <AC.SleeveCustomization>Personalización de funda</AC.SleeveCustomization>
+	<!-- EN: No Sleeve -->
+  <AC.NoSleeve>Sin funda</AC.NoSleeve>
+	<!-- EN: Sleeve -->
+  <AC.Sleeve>Funda</AC.Sleeve>
+	<!-- EN: Create a new baseliner or xenotype sleeve using available xenogerms. -->
+  <AC.CreateSleeveBodyDesc>Crear una nueva funda baseliner o de xenotipo usando los xenogérmenes disponibles.</AC.CreateSleeveBodyDesc>
+	<!-- EN: Gene options -->
+  <AC.GeneOptions>Opciones de genes</AC.GeneOptions>
+	<!-- EN: Body options -->
+  <AC.BodyOptions>Opciones corporales</AC.BodyOptions>
+	<!-- EN: Selected xenogerm will be consumed in the process. If no xenogerm is selected, the sleeve will be grown as a "Baseliner". -->
+  <AC.XenogermExplanation>El xenogermen seleccionado se consumirá en el proceso. Si no se selecciona ningún xenogermen, la funda se creará como un "Baseliner".</AC.XenogermExplanation>
+	<!-- EN: Available options depend on the genes of the selected xenogerm. Chosen options will be used as active genes, while conflicting ones will be dormant. -->
+  <AC.GeneOptionsExplanation>Las opciones disponibles dependen de los genes del xenogermen seleccionado. Las opciones elegidas se usarán como genes activos, mientras que las conflictivas quedarán latentes.</AC.GeneOptionsExplanation>
+	<!-- EN: Baseliner skins and hair colour options are always available. Chosen options will be used as active genes, while conflicting ones will be dormant. -->
+  <AC.BodyOptionsExplanation>Las opciones de color de piel y pelo siempre están disponibles. Las opciones elegidas se usarán como genes activos, mientras que las conflictivas quedarán latentes.</AC.BodyOptionsExplanation>
+	<!-- EN: Grow non-archotech genes in xenogerm as germline genes: -->
+  <AC.ConvertGenesToGermline>Crecer genes no arquotecnológicos en el xenogermen como genes de línea germinal:</AC.ConvertGenesToGermline>
+	<!-- EN: Due to lack of power, the sleeve will be lost in {0}. -->
+  <AC.PowerSleeveWillBeLostIn>Debido a la falta de energía, la funda se perderá en {0}.</AC.PowerSleeveWillBeLostIn>
+	<!-- EN: Due to lack of neutroamine, the sleeve will be lost in {0}. -->
+  <AC.FuelSleeveWillBeLostIn>Debido a la falta de neutroamina, la funda se perderá en {0}.</AC.FuelSleeveWillBeLostIn>
+	<!-- EN: Due to lack of neutroamine, the sleeve will begin to deteriorate in {0} -->
+  <AC.FuelSleeveWillBeDeteriorated>Debido a la falta de neutroamina, la funda comenzará a deteriorarse en {0}</AC.FuelSleeveWillBeDeteriorated>
+	<!-- EN: Due to lack of neutroamine, the sleeve is deteriorating. -->
+  <AC.FuelSleeveIsDeteriorating>Debido a la falta de neutroamina, la funda se está deteriorando.</AC.FuelSleeveIsDeteriorating>
+	<!-- EN: Race -->
+  <AC.Race>Raza</AC.Race>
+	<!-- EN: Xenotype -->
+  <AC.Xenotype>Xenotipo</AC.Xenotype>
+	<!-- EN: Sleeve quality -->
+  <AC.SleeveQuality>Calidad de la funda</AC.SleeveQuality>
+	<!-- EN: Sleeve beauty -->
+  <AC.SleeveBeauty>Belleza de la funda</AC.SleeveBeauty>
+	<!-- EN: When you press Accept, a sleeve will begin growing in this Sleeve gestator. During growth, it will require a constant power connection as well as neutroamine connection via neutro pipes. When the timer finishes, a Sleeve can be extracted and either used straight-away, or inserted into a Sleeve casket. -->
+  <AC.SleeveCustomizationExplanation>Comenzada la creación, una funda empezara a crecer en este gestador de fundas. Durante el crecimiento, requerirá una conexión de energía constante y provisión de neutroamina. Cuando el temporizador termine, se podrá extraer la funda y usarla directamente o insertarla en un sarcófago de fundas.</AC.SleeveCustomizationExplanation>
+	<!-- EN: Save template -->
+  <AC.SaveTemplate>Guardar plantilla</AC.SaveTemplate>
+	<!-- EN: Load template -->
+  <AC.LoadTemplate>Cargar plantilla</AC.LoadTemplate>
+	<!-- EN: Cancel the sleeve growing process. -->
+  <AC.CancelSleeveBodyGrowing>Cancelar el proceso de creación de la funda.</AC.CancelSleeveBodyGrowing>
+	<!-- EN: Cancel sleeve growing. -->
+  <AC.CancelSleeveBodyGrowingDesc>Cancelar la creación de la funda.</AC.CancelSleeveBodyGrowingDesc>
+	<!-- EN: Body shape -->
+  <AC.BodyShape>Forma corporal</AC.BodyShape>
+	<!-- EN: Cancel -->
+  <AC.Cancel>Cancelar</AC.Cancel>
+	<!-- EN: Growth progress:  -->
+  <AC.GrowthProgress>Progreso de crecimiento: </AC.GrowthProgress>
+	<!-- EN: Hair colour -->
+  <AC.HairColour>Color de pelo</AC.HairColour>
+	<!-- EN: Hair type -->
+  <AC.HairType>Tipo de pelo</AC.HairType>
+	<!-- EN: Head shape -->
+  <AC.HeadShape>Forma de la cabeza</AC.HeadShape>
+	<!-- EN: Beard type -->
+  <AC.BeardType>Tipo de barba</AC.BeardType>
+	<!-- EN: Skin colour -->
+  <AC.SkinColour>Color de piel</AC.SkinColour>
+	<!-- EN: Total time to grow: {0} -->
+  <AC.TimeToGrow>Tiempo de creación: {0}</AC.TimeToGrow>
+	<!-- EN: Total neutroamine needed: {0} -->
+  <AC.GrowCost>Neutroamina total necesaria: {0}</AC.GrowCost>
+	<!-- EN: Select race -->
+  <AC.SelectRace>Seleccionar raza</AC.SelectRace>
+	<!-- EN: Clone sleeve -->
+  <AC.CloneSleeve>Clonar funda</AC.CloneSleeve>
+	<!-- EN: Create a sleeve based on an existing pawn, including endogenes. -->
+  <AC.CloneSleeveDesc>Crear una funda basada en un colono existente, incluyendo endogenes.</AC.CloneSleeveDesc>
+	<!-- EN: Sleeve gestator is running out neutroamine -->
+  <AC.IsRunningOutFuel>El gestador de fundas se está quedando sin neutroamina</AC.IsRunningOutFuel>
+	<!-- EN: Sleeve gestator is running out power -->
+  <AC.IsRunningOutPower>El gestador de fundas se está quedando sin energía</AC.IsRunningOutPower>
+	<!-- EN: Sleeve body in the gestator is dead -->
+  <AC.SleeveIngestatorIsDead>El cuerpo de la funda en el gestador ha muerto</AC.SleeveIngestatorIsDead>
+	<!-- EN: Repurpose corpse -->
+  <AC.RepurposeCorpse>Reutilizar cadáver</AC.RepurposeCorpse>
+	<!-- EN: Repurpose a not fully rotten corpse and turn it into an empty sleeve. -->
+  <AC.RepurposeCorpseDesc>Reutilizar un cadáver no totalmente descompuesto y convertirlo en una funda vacía.</AC.RepurposeCorpseDesc>
+	<!-- EN: Sleeve grower is occupied. -->
+  <AC.SleeveGrowerIsOccupied>El gestador de fundas está ocupado.</AC.SleeveGrowerIsOccupied>
+	<!-- EN: Cancel repurposing corpse -->
+  <AC.CancelRepurposingCorpse>Cancelar reutilización de cadáver</AC.CancelRepurposingCorpse>
+	<!-- EN: Cancel repurposing corpse into a empty sleeve. -->
+  <AC.CancelRepurposingCorpseDesc>Cancelar la reutilización de un cadáver en una funda vacía.</AC.CancelRepurposingCorpseDesc>
+	<!-- EN: Neural stack must be removed first. -->
+  <AC.NeuralStackMustBeRemovedFirst>Primero se debe extraer la pila neural.</AC.NeuralStackMustBeRemovedFirst>
+	<!-- EN: Cannot repurpose corpse with missing head. -->
+  <AC.CannotRepurposeCorspeWithoutHead>No se puede reutilizar un cadáver sin cabeza.</AC.CannotRepurposeCorspeWithoutHead>
+	<!-- EN: Saved Sleeve Design could not be fully loaded. Missing required xenogerm! -->
+  <AC.SleeveDesignCouldntBeFullyLoaded>El diseño de funda guardado no se pudo cargar completamente. ¡Falta el xenogermen requerido!</AC.SleeveDesignCouldntBeFullyLoaded>
+	<!-- EN: A {PAWN_nameDef} body couldn't be copied fully. The following xenogenes were skipped: {1} -->
+  <AC.PawnBodyCouldntBeFullyCopied>El cuerpo de {PAWN_nameDef} no se pudo copiar por completo. Se omitieron los siguientes xenogenes: {1}</AC.PawnBodyCouldntBeFullyCopied>
+	<!-- EN: Start growing -->
+  <AC.StartGrowing>Comenzar creación</AC.StartGrowing>
+	<!-- EN: Sleeve gestator: Finished growing sleeve! -->
+  <AC.FinishedGrowingSleeve>Gestador de fundas: ¡Creación de funda finalizada!</AC.FinishedGrowingSleeve>
+	<!-- EN: Age: -->
+  <AC.SleeveAge>Edad:</AC.SleeveAge>
+	<!-- EN: {0} years old -->
+  <AC.YearsOld>{0} años</AC.YearsOld>
+	<!-- EN: Psychic sensitivity -->
+  <AC.PsychicSensitivity>Sensibilidad psíquica</AC.PsychicSensitivity>
+	<!-- EN: Corpse repurposing is in process. -->
+  <AC.CorpseRepurposingIsInProcess>Reutilización de cadáver en proceso.</AC.CorpseRepurposingIsInProcess>
+	<!-- EN: Sleeve growing is in process. -->
+  <AC.SleeveGrowingIsInProcess>Creación de funda en proceso.</AC.SleeveGrowingIsInProcess>
+	<!-- ================================ Neural Matrix & Stack Cache ====================== -->
+		<!-- EN: Neural Matrix Management -->
+  <AC.NeuralMatrixManagement>Gestión de la matriz neural</AC.NeuralMatrixManagement>
+	<!-- EN: Manage Neural Matrix -->
+  <AC.ManageNeuralMatrix>Gestionar matriz neural</AC.ManageNeuralMatrix>
+	<!-- EN: Manage stacks stored or registered with the neural matrix. -->
+  <AC.ManageNeuralMatrixDesc>Gestionar las pilas almacenadas o registradas en la matriz neural.</AC.ManageNeuralMatrixDesc>
+	<!-- EN: Storage filters -->
+  <AC.StorageFilters>Filtros de almacenamiento</AC.StorageFilters>
+	<!-- EN: *Allow colonist stacks -->
+  <AC.AllowColonistNeuralStacks>*Permitir pilas de colonos</AC.AllowColonistNeuralStacks>
+	<!-- EN: *Allow stranger stacks -->
+  <AC.AllowStrangerNeuralStacks>*Permitir pilas de extraños</AC.AllowStrangerNeuralStacks>
+	<!-- EN: *Allow hostile stacks -->
+  <AC.AllowHostileNeuralStacks>*Permitir pilas de hostiles</AC.AllowHostileNeuralStacks>
+	<!-- EN: Register {0} with the neural matrix. -->
+  <AC.TooltipTrackStack>Registrar a {0} en la matriz neural.</AC.TooltipTrackStack>
+	<!-- EN: Implant {0} into an empty sleeve. The stack will stay registered with the neural matrix and will continue to be tracked. -->
+  <AC.TooltipImplantStack>Implantar a {0} en una funda vacía. La pila permanecerá registrada en la matriz neural y seguirá siendo rastreada.</AC.TooltipImplantStack>
+	<!-- EN: Drop stack onto the ground. The stack will stay registered with the neural matrix and will continue to be tracked. -->
+  <AC.TooltipRemoveStack>Soltar la pila al suelo. La pila permanecerá registrada en la matriz neural y seguirá siendo rastreada.</AC.TooltipRemoveStack>
+	<!-- EN: Unregister {0}. It will still be stored inside the neural matrix storage, but no longer be tracked. -->
+  <AC.TooltipStopManaging>Dejar de registrar a {0}. Seguirá almacenada en la matriz neural, pero ya no será rastreada.</AC.TooltipStopManaging>
+	<!-- EN: Needlecast {0} into any sleeve with an installed neural reciver. The stack will not be removed from the neural matrix. -->
+  <AC.TooltipNeedlecast>Transmitir remotamente a {0} a cualquier funda con un receptor neural instalado. La pila no se eliminará de la matriz neural.</AC.TooltipNeedlecast>
+	<!-- EN: Drop all contained stacks onto the ground. -->
+  <AC.EjectAllNeuralStacksDesc>Expulsar todas las pilas contenidas al suelo.</AC.EjectAllNeuralStacksDesc>
+	<!-- EN: Eject this stack from the matrix. -->
+  <AC.EjectNeuralStackTooltip>Expulsar esta pila de la matriz.</AC.EjectNeuralStackTooltip>
+	<!-- EN: Do you really want to eject {0}? It will be immediately ejected onto the ground nearby. -->
+  <AC.EjectNeuralStackConfirmation>¿Realmente quieres expulsar a {0}? Será expulsado inmediatamente al suelo cercano.</AC.EjectNeuralStackConfirmation>
+	<!-- EN: Erase this neural stack irreversibly. -->
+  <AC.EraseNeuralStackTooltip>Borrar esta pila neural de forma irreversible.</AC.EraseNeuralStackTooltip>
+	<!-- EN: Do you really want to erase {0}? It will be immediately destroyed. -->
+  <AC.EraseNeuralStackConfirmation>¿Realmente quieres borrar a {0}? Será destruido inmediatamente.</AC.EraseNeuralStackConfirmation>
+	<!-- EN: Contents -->
+  <AC.NeuralStackStorage>Contenido</AC.NeuralStackStorage>
+	<!-- EN: Stacks stored: {0}/{1} -->
+  <AC.NeuralStacksStored>Pilas almacenadas: {0}/{1}</AC.NeuralStacksStored>
+	<!-- EN: Stacks stored: {0} / {1} -->
+  <AC.StacksStored>Pilas almacenadas: {0} / {1}</AC.StacksStored>
+	<!-- EN: Stacks tracked: {0} -->
+  <AC.StacksTracked>Pilas rastreadas: {0}</AC.StacksTracked>
+	<!-- EN: Eject this stack from the stack cache. -->
+  <AC.EjectStackTooltip>Expulsar esta pila del caché de pilas.</AC.EjectStackTooltip>
+	<!-- EN: Do you really want to eject {0}? It will be immediately ejected onto the ground nearby. -->
+  <AC.EjectStackConfirmation>¿Realmente quieres expulsar a {0}? Será expulsado inmediatamente al suelo cercano.</AC.EjectStackConfirmation>
+	<!-- EN: Contents -->
+  <AC.StackStorage>Contenido</AC.StackStorage>
+	<!-- EN: Stacks stored: ({0}/{1}) -->
+  <AC.NeuralStacksInCache>Pilas almacenadas: ({0}/{1})</AC.NeuralStacksInCache>
+	<!-- EN: *Allow colonist stacks -->
+  <AC.AllowColonistStacks>*Permitir pilas de colonos</AC.AllowColonistStacks>
+	<!-- EN: *Allow stranger stacks -->
+  <AC.AllowStrangerStacks>*Permitir pilas de extraños</AC.AllowStrangerStacks>
+	<!-- EN: *Allow hostile stacks -->
+  <AC.AllowHostileStacks>*Permitir pilas de hostiles</AC.AllowHostileStacks>
+	<!-- EN: Status -->
+  <AC.Status>Estado</AC.Status>
+	<!-- EN: Tracked -->
+  <AC.Tracked>Rastreada</AC.Tracked>
+	<!-- EN: Untracked -->
+  <AC.Untracked>No rastreada</AC.Untracked>
+	<!-- EN: Sleeved -->
+  <AC.Sleeved>En una funda</AC.Sleeved>
+	<!-- EN: Dead -->
+  <AC.Dead>Muerto</AC.Dead>
+	<!-- EN: Needlecasting -->
+  <AC.Needlecasting>En transmisión remota</AC.Needlecasting>
+	<!-- EN: Stored -->
+  <AC.Stored>Almacenada</AC.Stored>
+	<!-- EN: Dormant -->
+  <AC.Dormant>Latente</AC.Dormant>
+	<!-- EN: Lost -->
+  <AC.Lost>Perdida</AC.Lost>
+	<!-- EN: Out of range -->
+  <AC.OutOfRange>Fuera de rango</AC.OutOfRange>
+	<!-- EN: Low conscioussness -->
+  <AC.LowConscioussness>Conciencia baja</AC.LowConscioussness>
+	<!-- EN: Stack Information -->
+  <AC.StackInformation>Información de la pila</AC.StackInformation>
+	<!-- EN: Currently Status -->
+  <AC.CurrentlyStatus>Estado actual</AC.CurrentlyStatus>
+	<!-- EN: Original Gender -->
+  <AC.OriginalGender>Género original</AC.OriginalGender>
+	<!-- EN: Needlecasting range -->
+  <AC.NeedlecastingRange>Rango de transmisión remota</AC.NeedlecastingRange>
+	<!-- EN: Stack Degradation: {0} -->
+  <AC.StackDegradation>Degradación de la pila: {0}</AC.StackDegradation>
+	<!-- EN: Eject all -->
+  <AC.EjectAll>Expulsar todo</AC.EjectAll>
+	<!-- EN: Colonists -->
+  <AC.Colonists>Colonos</AC.Colonists>
+	<!-- EN: Friendly -->
+  <AC.Friendly>Amistosos</AC.Friendly>
+	<!-- EN: Hostile -->
+  <AC.Hostile>Hostiles</AC.Hostile>
+	<!-- EN: Male -->
+  <AC.Male>Masculino</AC.Male>
+	<!-- EN: Archostack -->
+  <AC.Archostack>Pila arqueotéc</AC.Archostack>
+	<!-- EN: Duplicates -->
+  <AC.Duplicates>Duplicados</AC.Duplicates>
+	<!-- EN: Local only -->
+  <AC.LocalOnly>Solo local</AC.LocalOnly>
+	<!-- EN: Stack Configuration -->
+  <AC.StackConfiguration>Configuración de la pila</AC.StackConfiguration>
+	<!-- EN: Autobank Stack -->
+  <AC.AutobankStack>Autoalmacenar pila</AC.AutobankStack>
+	<!-- EN: Stop needlecasting {0} into {1}. -->
+  <AC.TooltipStopNeedlecasting>Detener la transmisión remota de {0} a {1}.</AC.TooltipStopNeedlecasting>
+	<!-- EN: Cancel implanting {0} into {1}. -->
+  <AC.TooltipCancelImplanting>Cancelar el implante de {0} en {1}.</AC.TooltipCancelImplanting>
+	<!-- EN: Is copy -->
+  <AC.IsCopy>Es una copia</AC.IsCopy>
+	<!-- EN: True -->
+  <AC.True>Verdadero</AC.True>
+	<!-- EN: False -->
+  <AC.False>Falso</AC.False>
+	<!-- EN: Relationships of {0} unavailable. \n\nStack must be sleeved or needlecasting to show relationships. -->
+  <AC.RelationshipsUnavailable>Relaciones de {0} no disponibles. \n\nLa pila debe estar en una funda o en transmisión remota para mostrar las relaciones.</AC.RelationshipsUnavailable>
+	<!-- EN: Needs of {0} unavailable. \n\nStack must be sleeved or needlecasting to show needs. -->
+  <AC.NeedsUnavailable>Necesidades de {0} no disponibles. \n\nLa pila debe estar en una funda o en transmisión remota para mostrar las necesidades.</AC.NeedsUnavailable>
+	<!-- EN: No stacks currently registered -->
+  <AC.NoStacksRegistered>No hay pilas registradas actualmente</AC.NoStacksRegistered>
+	<!-- EN: No untracked stacks stored -->
+  <AC.NoUntrackedStacksStored>No hay pilas no rastreadas almacenadas</AC.NoUntrackedStacksStored>
+	<!-- EN: tile -->
+  <AC.Tile>casilla</AC.Tile>
+	<!-- EN: Tune this casting relay to a neural matrix. Tuning will take {0} to complete. -->
+  <AC.StackRelayTuningDesc>Sintonizar este relé de transmisión con una matriz neural. La sintonización tardará {0} en completarse.</AC.StackRelayTuningDesc>
+	<!-- EN: Retune this casting relay to another neural matrix. Retuning will take {0} to complete. -->
+  <AC.StackRelayRetuningDesc>Resintonizar este relé de transmisión con otra matriz neural. La resintonización tardará {0} en completarse.</AC.StackRelayRetuningDesc>
+	<!-- EN: Connected relays -->
+  <AC.ConnectedRelays>Relés conectados</AC.ConnectedRelays>
+	<!-- EN: Max range: -->
+  <AC.MaxRange>Alcance máx.:</AC.MaxRange>
+	<!-- EN: {0} world tiles -->
+  <AC.WorldTiles>{0} casillas gloval</AC.WorldTiles>
+	<!-- ================================ Other ====================== -->
+	<!-- EN: Call psylink neuroformers -->
+  <AC.CommandCallsNeuroformers>Llamar neuroformadores de psinivel</AC.CommandCallsNeuroformers>
+	<!-- EN: Install body parts -->
+  <AC.SetBodyParts>Instalar partes del cuerpo</AC.SetBodyParts>
+	<!-- EN: Copy -->
+  <AC.Copy>Copia</AC.Copy>
+	<!-- EN: Original -->
+  <AC.Original>Original</AC.Original>
+	<!-- EN: Search -->
+  <AC.Search>Buscar</AC.Search>
+	<!-- EN: Add filter -->
+  <AC.AddFilter>Añadir filtro</AC.AddFilter>
+	<!-- EN: Is empty sleeve -->
+  <AC.IsEmptySleeve>Es una funda vacía</AC.IsEmptySleeve>
+	<!-- EN: Original gender -->
+  <AC.OriginalGender>Género original</AC.OriginalGender>
+	<!-- EN: Charge cuirassier belt -->
+  <AC.ChargeCuirassierBelt>Cargar cinturón de coracero</AC.ChargeCuirassierBelt>
+	<!-- EN: Needlecasting -->
+  <AC.NeedlecastingCaster>Transmisión remota</AC.NeedlecastingCaster>
+	<!-- EN: Used for needlecasting by {0} -->
+  <AC.NeedlecastingTarget>Usado para transmisión remota por {0}</AC.NeedlecastingTarget>
+	<!-- EN: A cuirassier belt that will attempt to stop incoming projectiles or shrapnel, while not preventing the wearer from firing out. Just like a regular shield belt, it is susceptible to EMP.\n\nCuirassier do not recharge themselves, rather they need to be manually fed from a power grid, like batteries, rechargers or exposed conduits. -->
+  <AC.CuirassierBeltTooltip>Un cinturón de coracero que intentará detener proyectiles o metralla, sin impedir que el portador dispare. Al igual que un cinturón escudo normal, es susceptible a los PEM.\n\nLos coraceros no se recargan solos, sino que necesitan ser alimentados manualmente desde una red eléctrica, como baterías, recargadores o conductos expuestos.</AC.CuirassierBeltTooltip>
+	<!-- ================================ Neural editor ====================== -->
+	<!-- EN: Cannot use: No Neural Matrix nearby. -->
+  <AC.NoConnectedMatrix>No se puede usar: No hay una matriz neural cerca.</AC.NoConnectedMatrix>
+	<!-- EN: Cannot use: Connected Neural Matrix is not powered. -->
+  <AC.ConnectedMatrixHasNoPower>No se puede usar: La matriz neural conectada no tiene energía.</AC.ConnectedMatrixHasNoPower>
+	<!-- EN: Warning: The stack you are trying to factory reset does not belong to your faction.
+
+If you erase the content from a non-colonist stack from another faction, their entire faction may become your enemy. -->
+  <AC.WipingFriendlyStackWarning>Advertencia: La pila que intentas restablecer de fábrica no pertenece a tu facción.\n\nSi borras el contenido de una pila de un no colono de otra facción, su facción entera podría volverse tu enemiga.</AC.WipingFriendlyStackWarning>
+	<!-- EN: Warning: The stack you are trying to duplicate does not belong to your faction.
+
+If you make a copy of the content from a non-colonist stack from another faction, their entire faction may become your enemy. -->
+  <AC.DuplicatingFriendlyStackWarning>Advertencia: La pila que intentas duplicar no pertenece a tu facción.\n\nSi haces una copia del contenido de una pila de un no colono de otra facción, su facción entera podría volverse tu enemiga.</AC.DuplicatingFriendlyStackWarning>
+	<!-- EN: The stack you are trying to edit does not belong to your faction.
+
+If you edit the content from a non-colonist stack from another faction, their entire faction may become your enemy. -->
+  <AC.EditingFriendlyStackWarning>La pila que intentas editar no pertenece a tu facción.\n\nSi editas el contenido de una pila de un no colono de otra facción, su facción entera podría volverse tu enemiga.</AC.EditingFriendlyStackWarning>
+	<!-- EN: This stack is set for reseting already on a neural editor. Remove the bill in order to add new operation on it. -->
+  <AC.AlreadyOrderedToWipeStack>Esta pila ya está programada para ser restablecida en un editor neural. Elimina la orden para poder añadir una nueva operación.</AC.AlreadyOrderedToWipeStack>
+	<!-- EN: This stack is set for editing already on a neural editor. Remove the bill in order to add new operation on it. -->
+  <AC.AlreadyOrderedToEditStack>Esta pila ya está programada para ser editada en un editor neural. Elimina la orden para poder añadir una nueva operación.</AC.AlreadyOrderedToEditStack>
+	<!-- EN: This stack is set for duplicating already on a neural editor. Remove the bill in order to add new operation on it. -->
+  <AC.AlreadyOrderedToDuplicateStack>Esta pila ya está programada para ser duplicada en un editor neural. Elimina la orden para poder añadir una nueva operación.</AC.AlreadyOrderedToDuplicateStack>
+	<!-- EN: This stack is set for restoring already on a neural editor. Remove the bill in order to add new operation on it. -->
+  <AC.AlreadyOrderedToRestoreStack>Esta pila ya está programada para ser restaurada en un editor neural. Elimina la orden para poder añadir una nueva operación.</AC.AlreadyOrderedToRestoreStack>
+	<!-- EN: This biocoded thing is set for resetting already on a neural editor. Remove the bill in order to add new operation on it. -->
+  <AC.AlreadyOrderedToResetBiocodedThing>Este objeto biocodificado ya está programado para ser restablecido en un editor neural. Elimina la orden para poder añadir una nueva operación.</AC.AlreadyOrderedToResetBiocodedThing>
+	<!-- EN: This persona weapon is set for unbounding already on a neural editor. Remove the bill in order to add new operation on it. -->
+  <AC.AlreadyOrderedToUnboundPersonaThing>Esta arma personal ya está programada para ser desvinculada en un editor neural. Elimina la orden para poder añadir una nueva operación.</AC.AlreadyOrderedToUnboundPersonaThing>
+	<!-- EN: Resetting biocoded equipment: Failed, {0} destroyed! -->
+  <AC.ResettingBiocodedFailed>Restableciendo equipo biocodificado: ¡Falló, {0} destruido!</AC.ResettingBiocodedFailed>
+	<!-- EN: Resetting biocoded equipment: Successful! {0} is unlocked. -->
+  <AC.ResettingBiocodedSuccess>Restableciendo equipo biocodificado: ¡Éxito! {0} está desbloqueado.</AC.ResettingBiocodedSuccess>
+	<!-- EN: Unbonding persona weapon: Failed, {0} destroyed! -->
+  <AC.UnbondingPersonaFailed>Desvinculando arma personal: ¡Falló, {0} destruida!</AC.UnbondingPersonaFailed>
+	<!-- EN: Unbonding persona weapon: Successful! {0} is unbound. -->
+  <AC.UnbondingPersonaSuccess>Desvinculando arma personal: ¡Éxito! {0} está desvinculada.</AC.UnbondingPersonaSuccess>
+	<!-- EN: Edit Neural Stack -->
+  <AC.EditNeuralStack>Editar pila neural</AC.EditNeuralStack>
+	<!-- EN: Neural Stacks feature advanced encryption to prevent outside forces from messing with the stored consciousness. Known exploits allow for some data to be edited and rewritten at the cost of stack degradation. -->
+  <AC.NeuralStackEditExplanation>Las pilas neurales cuentan con un cifrado avanzado para evitar que fuerzas externas manipulen la conciencia almacenada. Ciertos exploits conocidos permiten editar y reescribir algunos datos a costa de la degradación de la pila.</AC.NeuralStackEditExplanation>
+	<!-- EN: Backstories -->
+  <AC.Backstories>Trasfondos</AC.Backstories>
+	<!-- EN: No disabled work types -->
+  <AC.NoDisabledWorkTypes>Sin tipos de trabajo deshabilitados</AC.NoDisabledWorkTypes>
+	<!-- EN: No skill penalties -->
+  <AC.NoSkillPenalties>Sin penalizaciones de habilidad</AC.NoSkillPenalties>
+	<!-- EN: Faction allegiance -->
+  <AC.FactionAllegiance>Lealtad a la facción</AC.FactionAllegiance>
+	<!-- EN: Remove unwavering loyal trait: -->
+  <AC.RemoveUnwaveringLoyalTrait>Eliminar rasgo de lealtad inquebrantable:</AC.RemoveUnwaveringLoyalTrait>
+	<!-- EN: Ideology -->
+  <AC.Ideology>Ideología</AC.Ideology>
+	<!-- EN: Belief -->
+  <AC.Belief>Creencia</AC.Belief>
+	<!-- EN: Certainty -->
+  <AC.Certainty>Certeza</AC.Certainty>
+	<!-- EN: Changing a pawn ideology will also remove any roles assosiated from them. -->
+  <AC.ChangingPawnIdeologyWarning>Cambiar la ideología de un colono también eliminará cualquier rol asociado a él.</AC.ChangingPawnIdeologyWarning>
+	<!-- EN: Total time to edit: {0} -->
+  <AC.TotalTimeToEdit>Tiempo total para editar: {0}</AC.TotalTimeToEdit>
+	<!-- EN: Expected stack degradation: {0} -->
+  <AC.TotalStackDegradation>Degradación de pila esperada: {0}</AC.TotalStackDegradation>
+	<!-- EN: WARNING: The more you edit, the higher the stack degradation will be, causing the stored pawns neurallity to become more and more unstable. Stack degradation will go away over time after being installed in a body, but can take years. -->
+  <AC.Tutorial>ADVERTENCIA: Cuanto más edites, mayor será la degradación de la pila, lo que hará que la neutralidad de los colonos almacenados sea cada vez más inestable. La degradación de la pila desaparecerá con el tiempo después de ser instalada en un cuerpo, pero puede tardar años.</AC.Tutorial>
+	<!-- EN: Reset all -->
+  <AC.ResetAll>Restablecer todo</AC.ResetAll>
+	<!-- EN: Stack degradation: {0} -->
+  <AC.StackDegradation>Degradación de la pila: {0}</AC.StackDegradation>
+	<!-- EN: Start editing -->
+  <AC.StartEditing>Comenzar a editar</AC.StartEditing>
+	<!-- EN: Cancel stack reset -->
+  <AC.CancelStackReset>Cancelar restablecimiento de pila</AC.CancelStackReset>
+	<!-- EN: Cancel reseting neural stack. -->
+  <AC.CancelStackResetDesc>Cancelar el restablecimiento de la pila neural.</AC.CancelStackResetDesc>
+	<!-- EN: Cancel stack edit -->
+  <AC.CancelStackEdit>Cancelar edición de pila</AC.CancelStackEdit>
+	<!-- EN: Cancel editing neural stack. -->
+  <AC.CancelStackEditDesc>Cancelar la edición de la pila neural.</AC.CancelStackEditDesc>
+	<!-- EN: Cancel stack duplication -->
+  <AC.CancelStackDuplication>Cancelar duplicación de pila</AC.CancelStackDuplication>
+	<!-- EN: Cancel stack duplicating. -->
+  <AC.CancelStackDuplicationDesc>Cancelar la duplicación de la pila.</AC.CancelStackDuplicationDesc>
+	<!-- EN: Cancel biocoding reset. -->
+  <AC.CancelBiocodingReset>Cancelar restablecimiento de biocodificación.</AC.CancelBiocodingReset>
+	<!-- EN: Cancel reseting biocoded thing. -->
+  <AC.CancelBiocodingResetDesc>Cancelar el restablecimiento del objeto biocodificado.</AC.CancelBiocodingResetDesc>
+	<!-- EN: {PAWN_nameDef} successfully duplicated neural stack. -->
+  <AC.SuccessfullyDuplicatedStack>{PAWN_nameDef} ha duplicado la pila neural con éxito.</AC.SuccessfullyDuplicatedStack>
+	<!-- EN: Cancel stack duplication -->
+  <AC.CancelStackDuplication>Cancelar duplicación de pila</AC.CancelStackDuplication>
+	<!-- EN: Cancel duplication of stored neural stack. -->
+  <AC.CancelStackDuplicationDesc>Cancelar la duplicación de la pila neural almacenada.</AC.CancelStackDuplicationDesc>
+	<!-- EN: Cannot {0} while needlecasting. -->
+  <AC.CannotModifyWhileNeedlecasting>No se puede {0} durante una transmisión remota.</AC.CannotModifyWhileNeedlecasting>
+	<!-- EN: Cancel unbound persona. -->
+  <AC.CancelUnbondingPersona>Cancelar desvinculación de persona.</AC.CancelUnbondingPersona>
+	<!-- EN: Cancel unbonding persona thing. -->
+  <AC.CancelUnbondingPersonaDesc>Cancelar la desvinculación del objeto personal.</AC.CancelUnbondingPersonaDesc>
+	<!-- ================================ Mod Settings ====================== -->
+	<!-- EN: Enable Stack Spawning -->
+  <AC.EnableStackSpawning>Habilitar aparición de pilas</AC.EnableStackSpawning>
+	<!-- EN: If disabled, Neural Stacks and Archostacks will NOT spawn on any pawns. You can still craft them, get them as rewards or trade for them. -->
+  <AC.EnableStackSpawningDesc>Si está deshabilitado, las pilas neurales y arqueotéc NO aparecerán en ningún colono. Aún podrás fabricarlas, obtenerlas como recompensa o comerciar con ellas.</AC.EnableStackSpawningDesc>
+	<!-- EN: Enable techstack requirements in research projects -->
+  <AC.EnableTechstackRequirement>Habilitar requisitos de tecnología para proyectos de investigación</AC.EnableTechstackRequirement>
+	<!-- EN: Only affects Royalty owners! -->
+  <AC.EnableTechstackRequirementDesc>¡Solo afecta a los poseedores de Royalty!</AC.EnableTechstackRequirementDesc>
+	<!-- EN: Time to grow sleeve multiplicator: -->
+  <AC.TimeToGrowSleeveMultiplier>Multi. del tiempo de creación de funda:</AC.TimeToGrowSleeveMultiplier>
+	<!-- EN: Multiplicator of the overall time needed to grow a new sleeve. -->
+  <AC.TimeToGrowSleeveMultiplierDesc>Multiplicador del tiempo total necesario para crear una nueva funda.</AC.TimeToGrowSleeveMultiplierDesc>
+	<!-- EN: Cost to grow sleeve multiplicator: -->
+  <AC.CostToGrowSleeveMultiplier>Multi. del coste de creación de funda:</AC.CostToGrowSleeveMultiplier>
+	<!-- EN: Multiplicator of the overall neutroamine cost needed to grow a new sleeve. -->
+  <AC.CostToGrowSleeveMultiplierDesc>Multiplicador del coste total de neutroamina necesario para crear una nueva funda.</AC.CostToGrowSleeveMultiplierDesc>
+	<!-- EN: Enable Stack Degradation -->
+  <AC.EnableStackDegradation>Habilitar degradación de pilas</AC.EnableStackDegradation>
+	<!-- EN: If disabled, Neural Stacks can be edited to your heart's content without having to worry about stack degradation. -->
+  <AC.EnableStackDegradationDesc>Si está deshabilitado, las pilas neurales se pueden editar a tu antojo sin preocuparte por la degradación.</AC.EnableStackDegradationDesc>
+	<!-- EN: Stack editing time gain multiplier: -->
+  <AC.StackEditEditTimeValueMultiplier>Multiplicador de tiempo de edición de pila:</AC.StackEditEditTimeValueMultiplier>
+	<!-- EN: Multiplicator of the overall stack editing time. -->
+  <AC.StackEditEditTimeValueMultiplierDesc>Multiplicador del tiempo total de edición de la pila.</AC.StackEditEditTimeValueMultiplierDesc>
+	<!-- EN: Stack Degradation gain multiplier: -->
+  <AC.StackEditDegradationValueMultiplier>Multi. de ganancia de degradación de pila:</AC.StackEditDegradationValueMultiplier>
+	<!-- EN: Multiplies the overall stack degradation that is accumulated through editing. -->
+  <AC.StackEditDegradationValueMultiplierDesc>Multiplica la degradación total de la pila que se acumula al editar.</AC.StackEditDegradationValueMultiplierDesc>
+	<!-- EN: Enable Archo Stack editing -->
+  <AC.EnableArchostackEditing>Habilitar edición de pilas arqueotéc</AC.EnableArchostackEditing>
+	<!-- EN: Allows you to edit the content of Archo Stacks. -->
+  <AC.EnableArchostackEditingDesc>Te permite editar el contenido de las pilas arqueotéc.</AC.EnableArchostackEditingDesc>
+	<!-- EN: Colonist stack needs extracting. -->
+  <AC.ColonistStackNeedsExtracting>La pila del colono necesita ser extraída.</AC.ColonistStackNeedsExtracting>
+	<!-- EN: These colonists are incapacitated on the ground:\n\n{0}\nSend another colonist to rescue them and carry them back to bed.\n\n(To rescue, select another colonist, then right click on the victim and select Rescue.) -->
+  <AC.ColonistStackNeedsExtractingDesc>Estos colonos están incapacitados en el suelo:\n\n{0}\nEnvía a otro colono para rescatarlos y llevarlos a la cama.\n\n(Para rescatar, selecciona a otro colono, luego haz clic derecho en la víctima y selecciona Rescatar).</AC.ColonistStackNeedsExtractingDesc>
+	<!-- EN: Sleeve death doesn't cause gear to be tainted -->
+  <AC.SleeveDeathDoesNotCauseGearTainting>La muerte de la funda no contamina el equipo</AC.SleeveDeathDoesNotCauseGearTainting>
+	<!-- EN: Selling neural stacks can create duplicates -->
+  <AC.EnableSoldNeuralStacksCreatingPawnDuplicates>Vender pilas neurales puede crear duplicados</AC.EnableSoldNeuralStacksCreatingPawnDuplicates>
+	<!-- EN: Enable neural stacks spawning in ancient dangers -->
+  <AC.EnableNeuralStacksInAncientDangers>Habilitar aparición de pilas neurales en peligros ancestrales</AC.EnableNeuralStacksInAncientDangers>
+	<!-- EN: Enable single use mental fuses -->
+  <AC.SingleUseMentalFuses>Habilitar fusibles mentales de un solo uso</AC.SingleUseMentalFuses>
+	<!-- EN: If enabled, mental fuses will "blow" when triggered, requiring a new one to be installed. -->
+  <AC.SingleUseMentalFusesDesc>Si está habilitado, los fusibles mentales se "quemarán" al activarse, requiriendo la instalación de uno nuevo.</AC.SingleUseMentalFusesDesc>
+	<!-- EN: Enable "pop" when single use mental fuses blow. -->
+  <AC.SingleUseMentalFusePop>Habilitar sonido "pop" cuando se quemen los fusibles mentales de un solo uso.</AC.SingleUseMentalFusePop>
+	<!-- ================================ Warnings ====================== -->
+	<!-- EN: Cannot install stacks into androids without a neural module. -->
+  <AC.CannotInstallStackOnAndroidWithoutNeuralModule>No se pueden instalar pilas en androides sin un módulo neural.</AC.CannotInstallStackOnAndroidWithoutNeuralModule>
+	<!-- EN: Cannot install an empty stack into an empty sleeve. -->
+  <AC.CannotInstallEmptyStackInEmptySleeve>No se puede instalar una pila vacía en una funda vacía.</AC.CannotInstallEmptyStackInEmptySleeve>
+	<!-- EN: Cannot install stacks into this race: {0}. -->
+  <AC.CannotInstallStackInBodyOfThisRace>No se pueden instalar pilas en esta raza: {0}.</AC.CannotInstallStackInBodyOfThisRace>
+	<!-- EN: Cannot install stacks into non-humanlikes. -->
+  <AC.CannotInstallStackInNonHumanlikes>No se pueden instalar pilas en seres no humanoides.</AC.CannotInstallStackInNonHumanlikes>
+	<!-- EN: Cannot install an active stack into children. -->
+  <AC.CannotInstallActiveStackInChildren>No se puede instalar una pila activa en niños.</AC.CannotInstallActiveStackInChildren>
+	<!-- EN: Cannot install stack: Already has a stack installed. -->
+  <AC.CannotInstallAlreadyHaveStack>No se puede instalar la pila: Ya tiene una pila instalada.</AC.CannotInstallAlreadyHaveStack>
+	<!-- EN: requires artifical parent part -->
+  <AC.RequiresArtificalParentPart>requiere una parte principal artificial</AC.RequiresArtificalParentPart>
+	<!-- EN: Cannot implant: Remot stack present. -->
+  <AC.CannotInstallNeuralStackWithRemoteStack>No se puede implantar: Hay una pila remota presente.</AC.CannotInstallNeuralStackWithRemoteStack>
+	<!-- EN: Cannot implant: Stack present. -->
+  <AC.CannotInstallRemoteStackWithNeuralStack>No se puede implantar: Hay una pila presente.</AC.CannotInstallRemoteStackWithNeuralStack>
+	<!-- EN: {PAWN_nameDef} has no sleeve. -->
+  <AC.PawnHasNoSleeve>{PAWN_nameDef} no tiene funda.</AC.PawnHasNoSleeve>
+	<!-- ================================ Mental Fuse ====================== -->
+	<!-- EN: Mental fuse ({PAWN_nameDef}) -->
+  <AC.TriggeredMentalFuseLabel>Fusible mental ({PAWN_nameDef})</AC.TriggeredMentalFuseLabel>
+	<!-- EN: {PAWN_nameDef}'s mental fuse has triggered, preventing a mental break. -->
+  <AC.TriggeredMentalFuseText>El fusible mental de {PAWN_nameDef} se ha activado, evitando una crisis nerviosa.</AC.TriggeredMentalFuseText>
+	<!-- EN: Mental fuse trauma -->
+  <AC.MentalFuseTraumaLabel>Trauma por fusible mental</AC.MentalFuseTraumaLabel>
+	<!-- EN: {PAWN_nameDef}'s mental fuse has caused permanent damage in {PAWN_objective} brain. This damage has caused {PAWN_objective} to develop strange savant-like abilities. -->
+  <AC.MentalFuseTraumaText>El fusible mental de {PAWN_nameDef} ha causado daño permanente en su cerebro. Este daño ha provocado que {PAWN_objective} desarrolle extrañas habilidades de sabio.</AC.MentalFuseTraumaText>
+	<!-- EN: {PAWN_nameDef}'s mental fuse has been destroyed, and will require replacement. -->
+  <AC.MentalFuseBlownText>El fusible mental de {PAWN_nameDef} ha sido destruido y requerirá ser reemplazado.</AC.MentalFuseBlownText>
+	<!-- ================================ Neural Connector ====================== -->
+	<!-- EN: Requires neural stack installed. -->
+  <AC.RequiresNeuralStackInstalled>Requiere una pila neural instalada.</AC.RequiresNeuralStackInstalled>
+	<!-- EN: Create neural stack -->
+  <AC.CreateNeuralStack>Crear pila neural</AC.CreateNeuralStack>
+	<!-- EN: Create skilltrainer -->
+  <AC.CreateSkilltrainer>Crear neuroentrenador</AC.CreateSkilltrainer>
+	<!-- EN: Not sufficient skill levels -->
+  <AC.NotSufficientSkillLevels>Niveles de habilidad insuficientes</AC.NotSufficientSkillLevels>
+	<!-- EN: Creating neural stack completed for {PAWN_nameDef}. -->
+  <AC.CreatingNeuralStackCompleted>Creación de pila neural completada para {PAWN_nameDef}.</AC.CreatingNeuralStackCompleted>
+	<!-- EN: Creating skilltrainer completed for {PAWN_nameDef}. {PAWN_nameDef}'s brain has been destroyed by the neural connector. -->
+  <AC.CreatingSkilltrainerCompleted>Creación de neuroentrenador completada para {PAWN_nameDef}. El cerebro de {PAWN_nameDef} ha sido destruido por el conector neural.</AC.CreatingSkilltrainerCompleted>
+	<!-- EN: Scanning {PAWN_nameDef} to create a skilltrainer will kill {PAWN_objective}. Are you sure you want to continue?
+
+Scanning {PAWN_nameDef} will create a skilltrainer for one of the following skills:
+{1} -->
+  <AC.ConfirmSkilltrainerPawn>Escanear a {PAWN_nameDef} para crear un neuroentrenador matará a {PAWN_objective}. ¿Seguro que quieres continuar?\n\nEscanear a {PAWN_nameDef} creará un neuroentrenador para una de las siguientes habilidades:\n{1}</AC.ConfirmSkilltrainerPawn>
+	<!-- EN: Cancelling a skilltrainer process will still kill {PAWN_nameDef}. Are you sure you want to continue? -->
+  <AC.ConfirmCancelSkilltrainerPawn>Cancelar el proceso de creación del neuroentrenador matará igualmente a {PAWN_nameDef}. ¿Seguro que quieres continuar?</AC.ConfirmCancelSkilltrainerPawn>
+	<!-- EN: Already registered selected the neural matrix -->
+  <AC.AlreadyRegisteredToMatrix>Ya está registrado en la matriz neural seleccionada</AC.AlreadyRegisteredToMatrix>
+	<!-- EN: Stack of {PAWN_nameDef} successfully registered with neural matrix. -->
+  <AC.RegisteringStackCompleted>La pila de {PAWN_nameDef} se ha registrado con éxito en la matriz neural.</AC.RegisteringStackCompleted>
+	<!-- EN: Register stack -->
+  <AC.RegisterStack>Registrar pila</AC.RegisterStack>
+	<!-- EN: {PAWN_nameDef}'s brain has been destroyed by the neural connector. -->
+  <AC.MessagePawnKilledNeuralConnector>El cerebro de {PAWN_nameDef} ha sido destruido por el conector neural.</AC.MessagePawnKilledNeuralConnector>
+	<!-- EN: Creating skilltrainer from {PAWN_nameDef} -->
+  <AC.CreatingSkillTrainer>Creando neuroentrenador a partir de {PAWN_nameDef}</AC.CreatingSkillTrainer>
+	<!-- EN: Registering stack of {PAWN_nameDef} -->
+  <AC.RegisteringStack>Registrando pila de {PAWN_nameDef}</AC.RegisteringStack>
+	<!-- ================================ Biocoding ====================== -->
+	<!-- EN: Once imprinted to a user, the weapon can not be used by anyone else until its biocoding is reset again. Are you sure you want to equip this time? -->
+  <AC.BiocodableEquipWarning>Una vez vinculada a un usuario, el arma no puede ser utilizada por nadie más hasta que su biocodificación se restablezca. ¿Seguro que quieres equiparla?</AC.BiocodableEquipWarning>
+	<!-- EN: Biocoding: Ready to imprint. -->
+  <AC.BiocodingNotYetImprinted>Biocodificación: Lista para vincular.</AC.BiocodingNotYetImprinted>
+  
+</LanguageData>

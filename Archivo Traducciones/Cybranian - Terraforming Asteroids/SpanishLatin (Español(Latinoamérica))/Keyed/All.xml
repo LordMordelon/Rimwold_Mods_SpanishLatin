@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+	<!---->
+	<!-- EN: Terraforming Asteroids -->
+  <TerraformingAsteroids.TerraformingAsteroidsMod>Terraforming Asteroids</TerraformingAsteroids.TerraformingAsteroidsMod>
+	<!---->
+	<!-- EN: Reset settings -->
+  <TerraformingAsteroids.Settings.ResetSettings>Restablecer ajustes</TerraformingAsteroids.Settings.ResetSettings>
+	<!-- EN: Terraforming speed: {0} -->
+  <TerraformingAsteroids.Settings.TerraformingSpeedFactor>Velocidad de terraformación: {0}</TerraformingAsteroids.Settings.TerraformingSpeedFactor>
+	<!-- EN: Fuel consumption during terraforming: {0} -->
+  <TerraformingAsteroids.Settings.TerraformingFuelConsumptionFactor>Consumo de combustible durante la terraformación: {0}</TerraformingAsteroids.Settings.TerraformingFuelConsumptionFactor>
+	<!-- EN: Energy consumption during terraforming: {0} -->
+  <TerraformingAsteroids.Settings.TerraformingPowerConsumptionFactor>Consumo de energía durante la terraformación: {0}</TerraformingAsteroids.Settings.TerraformingPowerConsumptionFactor>
+	<!-- EN: Chance of atmospheric generator spawning on asteroids: {0} -->
+  <TerraformingAsteroids.Settings.AsteroidTerraformerChance>Probabilidad de que aparezca un generador atmosférico en los asteroides: {0}</TerraformingAsteroids.Settings.AsteroidTerraformerChance>
+	<!---->
+	<!-- EN: Terraforming progress: {0} -->
+  <TerraformingAsteroids.CompAtmosphericProjector.CompInspectStringExtra>Progreso de la terraformación: {0}</TerraformingAsteroids.CompAtmosphericProjector.CompInspectStringExtra>
+	<!---->
+	<!-- EN: Vegetation -->
+  <TerraformingAsteroids.Gizmo_SetPlantLevel.Title>Vegetación</TerraformingAsteroids.Gizmo_SetPlantLevel.Title>
+	<!---->
+	<!-- EN: Power -->
+  <TerraformingAsteroids.Gizmo_SetPowerLevel.Title>Energía</TerraformingAsteroids.Gizmo_SetPowerLevel.Title>
+	<!---->
+	<!-- EN: Current biome: {0}\n\nThe biome selected as a template for terraforming soil and vegetation. -->
+  <TerraformingAsteroids.CompAtmosphericProjector.SelectBiome.Tip>Bioma actual: {0}\n\nEl bioma seleccionado como plantilla para la terraformación del suelo y la vegetación.</TerraformingAsteroids.CompAtmosphericProjector.SelectBiome.Tip>
+	<!-- EN: Current rock: {0}\n\nThe machine will select this rock type when terraforming the terrain. -->
+  <TerraformingAsteroids.CompAtmosphericProjector.SelectStone.Tip>Roca actual: {0}\n\nLa máquina seleccionará este tipo de roca al terraformar el terreno.</TerraformingAsteroids.CompAtmosphericProjector.SelectStone.Tip>
+	<!-- EN: Replace soil when terraforming: {0} -->
+  <TerraformingAsteroids.CompAtmosphericProjector.ToggleChangeTerrainTip>Reemplazar suelo al terraformar: {0}</TerraformingAsteroids.CompAtmosphericProjector.ToggleChangeTerrainTip>
+	<!-- EN: Planting during terraforming: {0} -->
+  <TerraformingAsteroids.CompAtmosphericProjector.ToggleGreenUpTip>Plantar durante la terraformación: {0}</TerraformingAsteroids.CompAtmosphericProjector.ToggleGreenUpTip>
+	<!-- EN: Ignore unnatural terrains: {0} -->
+  <TerraformingAsteroids.CompAtmosphericProjector.ToggleIgroneUnnaturalTerrainTip>Ignorar terrenos no naturales: {0}</TerraformingAsteroids.CompAtmosphericProjector.ToggleIgroneUnnaturalTerrainTip>
+	<!---->
+</LanguageData>

@@ -1,0 +1,112 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+	<!-- Shield -->
+	<!-- EN: Equip {0} as shield -->
+  <VanillaFactionsExpanded.EquipShield>Equipar {0} como escudo</VanillaFactionsExpanded.EquipShield>
+	<!-- EN: (unusable with {0}) -->
+  <VanillaFactionsExpanded.EquipWarningShieldUnusable>(inutilizable con {0})</VanillaFactionsExpanded.EquipWarningShieldUnusable>
+	<!-- EN: ({0} will be unusable) -->
+  <VanillaFactionsExpanded.EquipWarningShieldUnusableWithWeapon>({0} será inutilizable)</VanillaFactionsExpanded.EquipWarningShieldUnusableWithWeapon>
+
+	<!-- EN: Protects -->
+  <VanillaFactionsExpanded.Protects>Protege</VanillaFactionsExpanded.Protects>
+	<!-- EN: What body parts the shield protects. -->
+  <VanillaFactionsExpanded.Protects_Desc>Qué partes del cuerpo protege el escudo.</VanillaFactionsExpanded.Protects_Desc>
+	
+	<!-- Scenario parts -->
+	<!-- EN: Faction relation modifiers -->
+  <VanillaFactionsExpanded.ScenPart_ForcedFactionRelations>Modificadores de relación de facción</VanillaFactionsExpanded.ScenPart_ForcedFactionRelations>
+	<!-- EN: {0} to {1} -->
+  <VanillaFactionsExpanded.NumberRange>{0} a {1}</VanillaFactionsExpanded.NumberRange>
+	<!-- EN: All factions -->
+  <VanillaFactionsExpanded.AllFactions>Todas las facciones</VanillaFactionsExpanded.AllFactions>
+	<!-- EN: All factions including hidden -->
+  <VanillaFactionsExpanded.AllFactionsIncludingHidden>Todas las facciones, incluyendo las ocultas</VanillaFactionsExpanded.AllFactionsIncludingHidden>
+	<!-- EN: Always hostile -->
+  <VanillaFactionsExpanded.AlwaysHostile>Siempre hostil</VanillaFactionsExpanded.AlwaysHostile>
+	<!-- EN: Affect hidden -->
+  <VanillaFactionsExpanded.AffectHiddenFactions>Afectar facciones ocultas</VanillaFactionsExpanded.AffectHiddenFactions>
+	<!-- EN: Starting -->
+  <VanillaFactionsExpanded.StartingGoodwill>Inicial</VanillaFactionsExpanded.StartingGoodwill>
+	<!-- EN: Natural -->
+  <VanillaFactionsExpanded.NaturalGoodwill>Natural</VanillaFactionsExpanded.NaturalGoodwill>
+
+	<!-- Stat Draw Entries -->
+	<!-- EN: Usable with shields -->
+  <VanillaFactionsExpanded.UsableWithShield>Utilizable con escudos</VanillaFactionsExpanded.UsableWithShield>
+	<!-- EN: Whether or not this weapon can be used if the character also has a shield equipped. -->
+  <VanillaFactionsExpanded.UsableWithShield_Desc>Si esta arma puede usarse o no si el personaje también tiene un escudo equipado.</VanillaFactionsExpanded.UsableWithShield_Desc>
+	<!-- EN: Ammo per charge -->
+  <VEF.Weapons.Stat_Thing_MaterialPerCharge>Munición por carga</VEF.Weapons.Stat_Thing_MaterialPerCharge>
+	<!-- EN: {0} {1} per charge (total {2} charges) -->
+  <VEF.Weapons.Stat_Thing_MaterialPerCharge_Value>{0} {1} por carga (total {2} cargas)</VEF.Weapons.Stat_Thing_MaterialPerCharge_Value>
+    <!-- EN: The amount of {0} per charge this ability needs to be recharged. -->
+  <VEF.Weapons.Stat_Thing_MaterialPerCharge_Desc>La cantidad de {0} por carga que esta habilidad necesita para recargarse.</VEF.Weapons.Stat_Thing_MaterialPerCharge_Desc>
+
+	<!-- New Faction Spawning -->
+	<!-- EN: New faction: {FactionName} -->
+  <VanillaFactionsExpanded.FactionTitle>Nueva facción: {FactionName}</VanillaFactionsExpanded.FactionTitle>
+	<!-- EN: This faction is added by {ModName} and not currently present in your game. -->
+  <VanillaFactionsExpanded.ModInfo>Esta facción es añadida por {ModName} y no está presente actualmente en tu partida.</VanillaFactionsExpanded.ModInfo>
+	<!-- EN: an unknown mod -->
+  <VanillaFactionsExpanded.AnUnknownMod>un mod desconocido</VanillaFactionsExpanded.AnUnknownMod>
+	<!-- EN: This is a hidden faction and won't show up in your faction list. -->
+  <VanillaFactionsExpanded.HiddenFactionInfo>Esta es una facción oculta y no aparecerá en tu lista de facciones.</VanillaFactionsExpanded.HiddenFactionInfo>
+	<!-- EN: It is marked as required by {ModName}. -->
+  <VanillaFactionsExpanded.RequiredFactionInfo>Está marcada como requerida por {ModName}.</VanillaFactionsExpanded.RequiredFactionInfo>
+	<!-- EN: This faction is marked as non-spawning and you should probably just ignore it. -->
+  <VanillaFactionsExpanded.NonSpawningFactionInfo>Esta facción está marcada como no generable y probablemente deberías ignorarla.</VanillaFactionsExpanded.NonSpawningFactionInfo>
+	<!-- EN: Please select how to proceed: -->
+  <VanillaFactionsExpanded.FactionSelectOption>Por favor, selecciona cómo proceder:</VanillaFactionsExpanded.FactionSelectOption>
+	<!-- EN: Add the faction -->
+  <VanillaFactionsExpanded.FactionButtonAdd>Añadir la facción</VanillaFactionsExpanded.FactionButtonAdd>
+	<!-- EN: Add the faction with settlements -->
+  <VanillaFactionsExpanded.FactionButtonAddFull>Añadir la facción con asentamientos</VanillaFactionsExpanded.FactionButtonAddFull>
+	<!-- EN: Do nothing -->
+  <VanillaFactionsExpanded.FactionButtonSkip>No hacer nada</VanillaFactionsExpanded.FactionButtonSkip>
+	<!-- EN: Don't ask for this faction again -->
+  <VanillaFactionsExpanded.FactionButtonIgnore>No volver a preguntar por esta facción</VanillaFactionsExpanded.FactionButtonIgnore>
+	<!-- EN: Failed to add the faction. -->
+  <VanillaFactionsExpanded.FactionMessageFailed>Error al añadir la facción.</VanillaFactionsExpanded.FactionMessageFailed>
+	<!-- EN: Failed to create a faction with settlements. -->
+  <VanillaFactionsExpanded.FactionMessageFailedFull>Error al crear una facción con asentamientos.</VanillaFactionsExpanded.FactionMessageFailedFull>
+	<!-- EN: Added {FactionName} with {Amount} settlements. -->
+  <VanillaFactionsExpanded.FactionMessageSuccessFull>Se ha añadido {FactionName} con {Amount} asentamientos.</VanillaFactionsExpanded.FactionMessageSuccessFull>
+	<!-- EN: Added {FactionName}. -->
+  <VanillaFactionsExpanded.FactionMessageSuccess>Se ha añadido {FactionName}.</VanillaFactionsExpanded.FactionMessageSuccess>
+	<!-- EN: It is marked as required, and you must add it to the game. -->
+  <VanillaFactionsExpanded.FactionDiscoveryRequired>Está marcada como requerida, y debes añadirla a la partida.</VanillaFactionsExpanded.FactionDiscoveryRequired>
+	<!-- EN: Failed to generate this faction. It is recommended to try again, but you can now skip adding this faction. Skipping may cause issues. -->
+  <VanillaFactionsExpanded.FactionFailedMessage>Error al generar esta facción. Se recomienda intentarlo de nuevo, pero ahora puedes omitir la adición de esta facción. Omitirla puede causar problemas.</VanillaFactionsExpanded.FactionFailedMessage>
+	<!-- EN: {FACTION} cannot be disabled{REQUIRED_multiple ? , you need at least {REQUIRED} factions of that type. : .} -->
+  <VanillaFactionsExpanded.FactionRequired>{FACTION} no se puede desactivar{REQUIRED_multiple ? , necesitas al menos {REQUIRED} facciones de ese tipo. : .}</VanillaFactionsExpanded.FactionRequired>
+	<!-- EN: {REQUIRED_multiple ? It is recommended to have at least {REQUIRED} factions of {FACTION} type, but currently there's only {COUNT}. : It is recommended to enable {FACTION}.} -->
+  <VanillaFactionsExpanded.FactionRecommended>{REQUIRED_multiple ? Se recomienda tener al menos {REQUIRED} facciones del tipo {FACTION}, pero actualmente solo hay {COUNT}. : Se recomienda habilitar {FACTION}.}</VanillaFactionsExpanded.FactionRecommended>
+
+	<!-- EN: Settlements to spawn (recommended are {0}): {1} -->
+  <VanillaFactionsExpanded.FactionSettlementsToSpawn>Asentamientos a generar (recomendados: {0}): {1}</VanillaFactionsExpanded.FactionSettlementsToSpawn>
+	<!-- EN: The minimum distance from player bases (recommended are {0}): {1} -->
+  <VanillaFactionsExpanded.FactionMinDistance>La distancia mínima desde las bases del jugador (recomendada: {0}): {1}</VanillaFactionsExpanded.FactionMinDistance>
+	<!-- EN: Spawn -->
+  <VanillaFactionsExpanded.FactionButtonSpawn>Generar</VanillaFactionsExpanded.FactionButtonSpawn>
+	<!-- EN: Cancel -->
+  <VanillaFactionsExpanded.FactionButtonCancel>Cancelar</VanillaFactionsExpanded.FactionButtonCancel>
+
+	<!-- EN: Reinforcements -->
+  <VSE.Reinforcements>Refuerzos</VSE.Reinforcements>
+	<!-- EN: Seeing that your forces suffered losses, {FACTION_name} has decided to reinforce their raiding force -->
+  <VSE.ReinforcementsDesc>Viendo que tus fuerzas sufrieron bajas, {FACTION_name} ha decidido reforzar su fuerza de asalto</VSE.ReinforcementsDesc>
+	<!-- EN: cost: {0} goodwill -->
+  <VSE.CostGoodwill>coste: {0} de buena voluntad</VSE.CostGoodwill>
+
+	<!-- EN: Weapon warm-up -->
+  <VWEL_ToggleHotshotLabel>Calentamiento del arma</VWEL_ToggleHotshotLabel>
+	<!-- EN: Shots fired when standing still warm-up the weapon allowing for increased firing speed. Overheating can lead to detonation. -->
+  <VWEL_ToggleHotshotDesc>Los disparos realizados mientras se está quieto calientan el arma, lo que permite una mayor velocidad de disparo. El sobrecalentamiento puede provocar una detonación.</VWEL_ToggleHotshotDesc>
+
+	<!-- EN: Deep drill cannot be used with {0}. -->
+  <VFE_DeepDrillNo>El taladro profundo no se puede usar con {0}.</VFE_DeepDrillNo>
+	
+    <!-- EN: Teleport to {0} -->
+  <VEF.TeleportTo>Teletransportar a {0}</VEF.TeleportTo>
+</LanguageData>

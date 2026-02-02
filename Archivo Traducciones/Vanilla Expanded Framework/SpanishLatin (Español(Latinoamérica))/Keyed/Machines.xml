@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: Force Recharge -->
+  <VFEMechForceRecharge>Recarga forzada</VFEMechForceRecharge>
+  <!-- EN: Order the associated machine to return to this platform for charging, regardless of its current battery level. -->
+  <VFEMechForceRechargeDesc>Ordena a la máquina asociada que regrese a esta plataforma para cargarse, independientemente de su nivel de batería actual.</VFEMechForceRechargeDesc>
+  <!-- EN: Attach Turret -->
+  <VFEMechAttachTurret>Acoplar torreta</VFEMechAttachTurret>
+  <!-- EN: Construct a turret atop this mobile platform. This will require a colonist to deliver resources equal to that turret's normal construction cost. -->
+  <VFEMechAttachTurretDesc>Construye una torreta sobre esta plataforma móvil. Esto requerirá que un colono entregue recursos equivalentes al coste de construcción normal de esa torreta.</VFEMechAttachTurretDesc>
+  <!-- EN: Machine destroyed -->
+  <VFEMechMachineDied>Máquina destruida</VFEMechMachineDied>
+  <!-- EN: One of your machines has been destroyed! You can dismantle its remains at a machining table. In order to construct a replacement, one of your colonists will need to deliver the following parts to its platform:\n\n{0} -->
+  <VFEMechMachineDiedDesc>¡Una de tus máquinas ha sido destruida! Puedes desmantelar sus restos en una mesa de mecanizado. Para construir un reemplazo, uno de tus colonos deberá entregar las siguientes piezas a su plataforma:\n\n{0}</VFEMechMachineDiedDesc>
+  <!-- EN: Not enough resources -->
+  <VFEMechNoResources>No hay suficientes recursos</VFEMechNoResources>
+  <!-- EN: No active mobile turret -->
+  <VFEMechNoTurret>No hay torreta móvil activa</VFEMechNoTurret>
+  <!-- EN: Needed to rebuild machine: -->
+  <VFEMechReconstruct>Necesario para reconstruir la máquina:</VFEMechReconstruct>
+  <!-- EN: Needed to construct turret: -->
+  <VFEMechTurretResources>Necesario para construir la torreta:</VFEMechTurretResources>
+  <!-- EN: Reduce range -->
+  <VFEMechLowerRange>Reducir alcance</VFEMechLowerRange>
+  <!-- EN: Reduce the number of tiles this machine will travel. -->
+  <VFEMechLowerRangeDesc>Reduce el número de casillas que viajará esta máquina.</VFEMechLowerRangeDesc>
+  <!-- EN: Increase range -->
+  <VFEMechRaiseRange>Aumentar alcance</VFEMechRaiseRange>
+  <!-- EN: Increase the number of tiles this machine will travel. -->
+  <VFEMechRaiseRangeDesc>Aumenta el número de casillas que viajará esta máquina.</VFEMechRaiseRangeDesc>
+  <!-- EN: Stop machine -->
+  <VFEMechStopMachine>Detener máquina</VFEMechStopMachine>
+  <!-- EN: Stop this machine's progress and force it to return to base. -->
+  <VFEMechStopMachineDesc>Detiene el progreso de esta máquina y la obliga a regresar a la base.</VFEMechStopMachineDesc>
+  <!-- EN: Start machine -->
+  <VFEMechStartMachine>Iniciar máquina</VFEMechStartMachine>
+  <!-- EN: Start this machine. -->
+  <VFEMechStartMachineDesc>Inicia esta máquina.</VFEMechStartMachineDesc>
+  <!-- EN: Machine has run into an obstacle! -->
+  <VFEMechMachineHitObstacle>¡La máquina se ha topado con un obstáculo!</VFEMechMachineHitObstacle>
+  <!-- EN: Set area -->
+  <VFEMechSetArea>Establecer área</VFEMechSetArea>
+  <!-- EN: Set the allowed area for all of this platform's associated machines. -->
+  <VFEMechSetAreaDesc>Establece el área permitida para todas las máquinas asociadas a esta plataforma.</VFEMechSetAreaDesc>
+  <!-- EN: This droid is rideable. People in a caravan will ride the fastest available animals/droids, improving the speed of the caravan as a whole. -->
+  <VFEMRideableMachineTip>Este droide es montable. Las personas en una caravana montarán los animales/droides más rápidos disponibles, mejorando la velocidad de la caravana en su conjunto.</VFEMRideableMachineTip>
+	<!-- EN: {MACHINE_nameDef} ran out of power, and was left behind. -->
+  <VFEM.CaravanMachineRanOutPower>{MACHINE_nameDef} se quedó sin energía y fue dejado atrás.</VFEM.CaravanMachineRanOutPower>
+  <!-- EN: The drone's name is now {0}. -->
+  <VFEM.DroneGainsName>El nombre del dron es ahora {0}.</VFEM.DroneGainsName>
+</LanguageData>

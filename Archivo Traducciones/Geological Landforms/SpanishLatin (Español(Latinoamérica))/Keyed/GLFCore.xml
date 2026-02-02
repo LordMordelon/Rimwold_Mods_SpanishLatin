@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: There are new versions available for some landforms that you previously modified. Would you like to use the new versions, or keep the old modified ones?\n\nAffected landforms: -->
+  <GeologicalLandforms.LandformManager.LandformUpgrade>Hay nuevas versiones disponibles para algunos accidentes geográficos que modificaste anteriormente. ¿Te gustaría usar las nuevas versiones o mantener las antiguas modificadas?\n\nAccidentes geográficos afectados:</GeologicalLandforms.LandformManager.LandformUpgrade>
+  <!-- EN: Replace with new data -->
+  <GeologicalLandforms.LandformManager.LandformUpgradeYes>Reemplazar con nuevos datos</GeologicalLandforms.LandformManager.LandformUpgradeYes>
+  <!-- EN: Keep old data -->
+  <GeologicalLandforms.LandformManager.LandformUpgradeNo>Mantener datos antiguos</GeologicalLandforms.LandformManager.LandformUpgradeNo>
+
+  <!-- EN: Landform -->
+  <GeologicalLandforms.WorldMap.Landform>Accidente geográfico</GeologicalLandforms.WorldMap.Landform>
+  <!-- EN: Bordering biomes -->
+  <GeologicalLandforms.WorldMap.BorderingBiomes>Biomas colindantes</GeologicalLandforms.WorldMap.BorderingBiomes>
+  <!-- EN: Select landform -->
+  <GeologicalLandforms.WorldMap.SelectLandform>Seleccionar accidente geográfico</GeologicalLandforms.WorldMap.SelectLandform>
+
+  <!-- EN: Mountains -->
+  <GeologicalLandforms.WorldParams.Mountains>Montañas</GeologicalLandforms.WorldParams.Mountains>
+  <!-- EN: Cave systems -->
+  <GeologicalLandforms.WorldParams.CaveSystems>Sistemas de cuevas</GeologicalLandforms.WorldParams.CaveSystems>
+
+  <!-- EN: northern -->
+  <GeologicalLandforms.Rot4.0>norte</GeologicalLandforms.Rot4.0>
+  <!-- EN: eastern -->
+  <GeologicalLandforms.Rot4.1>este</GeologicalLandforms.Rot4.1>
+  <!-- EN: southern -->
+  <GeologicalLandforms.Rot4.2>sur</GeologicalLandforms.Rot4.2>
+  <!-- EN: western -->
+  <GeologicalLandforms.Rot4.3>oeste</GeologicalLandforms.Rot4.3>
+  <!-- EN: northeastern -->
+  <GeologicalLandforms.Rot4.Double.0>noreste</GeologicalLandforms.Rot4.Double.0>
+  <!-- EN: southeastern -->
+  <GeologicalLandforms.Rot4.Double.1>sureste</GeologicalLandforms.Rot4.Double.1>
+  <!-- EN: southwestern -->
+  <GeologicalLandforms.Rot4.Double.2>suroeste</GeologicalLandforms.Rot4.Double.2>
+  <!-- EN: northwestern -->
+  <GeologicalLandforms.Rot4.Double.3>noroeste</GeologicalLandforms.Rot4.Double.3>
+
+  <!-- EN: (corner) -->
+  <GeologicalLandforms.Landform.Corner>(esquina)</GeologicalLandforms.Landform.Corner>
+
+  <!-- EN: Geological Landforms -->
+  <GeologicalLandforms.Integration.PrepareLanding.Title>Accidentes Geográficos</GeologicalLandforms.Integration.PrepareLanding.Title>
+
+  <!-- EN: Override rivers and coasts from Geological Landforms -->
+  <GeologicalLandforms.Integration.MapDesigner.RiverCardOverride>Ignorar ríos y costas de Geological Landforms</GeologicalLandforms.Integration.MapDesigner.RiverCardOverride>
+
+</LanguageData>

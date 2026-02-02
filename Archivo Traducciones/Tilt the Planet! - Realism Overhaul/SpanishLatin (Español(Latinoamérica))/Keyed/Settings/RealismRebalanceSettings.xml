@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+	<!-- EN: This mod's Realistic Plant Balance Changes -->
+  <RealisticPlantChanges>Cambios de equilibrio de plantas realistas de este mod</RealisticPlantChanges>
+
+  <!-- EN: Plant Realism Changes -->
+  <PlantRealism>Realismo de plantas</PlantRealism>
+  
+	<!-- EN: Disable Plant and Sunlamp Rest -->
+  <DisablePlantRest>Desactivar descanso de plantas y lámparas solares</DisablePlantRest>
+  <!-- EN: Sunlamp schedule change requires Rimworld restart to take effect -->
+  <DisablePlantRest_Warning>El cambio de horario de la lámpara solar requiere reiniciar Rimworld para surtir efecto</DisablePlantRest_Warning>
+  <!-- EN: Plants can grow anytime of day they have enough light and are warm enough.\nSunlamps don't automatically turn on and off. -->
+  <DisablePlantRest_Tooltip>Las plantas pueden crecer en cualquier momento del día si tienen suficiente luz y temperatura.\nLas lámparas solares no se encienden y apagan automáticamente.</DisablePlantRest_Tooltip>
+  
+	<!-- EN: Enable Plant Lighting Growth Changes -->
+  <EnablePlantGrowthChanges>Activar cambios de crecimiento por iluminación de plantas</EnablePlantGrowthChanges>
+  <!-- EN: Any plant not set explicitly by Vanilla Growth Changes is modified to have generally realisitc growth needs (includes modded plants) -->
+  <EnablePlantGrowthChanges_Tooltip>Cualquier planta no configurada explícitamente por Cambios de Crecimiento Vanilla se modifica para tener necesidades de crecimiento generalmente realistas (incluye plantas de mods)</EnablePlantGrowthChanges_Tooltip>
+  
+	<!-- EN: Enable Vanilla Growth Changes -->
+  <EnableVanillaGrowthChanges>Activar cambios de crecimiento Vanilla</EnableVanillaGrowthChanges>
+  <!-- EN: Vanilla plants modified to have same stats are their earth-like counterparts (doesn't affect modded plants) -->
+  <EnableVanillaGrowthChanges_Tooltip>Plantas vanilla modificadas para tener las mismas estadísticas que sus contrapartes terrestres (no afecta a plantas de mods)</EnableVanillaGrowthChanges_Tooltip>
+
+  <!-- EN: Enable Realistic Plant Yields -->
+  <EnableRealisticPlantYields>Activar rendimientos de plantas realistas</EnableRealisticPlantYields>
+  <!-- EN: Requires "Enable Vanilla Growth Changes" -->
+  <EnableRealisticPlantYields_Tooltip>Requiere "Activar cambios de crecimiento Vanilla"</EnableRealisticPlantYields_Tooltip>
+
+  <!-- EN: Lighting Realism -->
+  <LightingRealism>Realismo de iluminación</LightingRealism>
+  
+  <!-- EN: Enable Light Rebalance -->
+  <EnableLightingChanges>Activar reequilibrio de luz</EnableLightingChanges>
+  <!-- EN: Sets artificial lights to glow with realistic light values and radii\nPawns work and move at realisitc speeds based on their light levels\n -->
+  <EnableLightingChanges_Tooltip>Configura las luces artificiales para brillar con valores de luz y radios realistas\nLos colonos trabajan y se mueven a velocidades realistas basadas en sus niveles de luz\n</EnableLightingChanges_Tooltip>
+  
+	<!-- EN: Enable Solar Intensity Calculations -->
+  <EnableSolarIntensityCalc>Activar cálculos de intensidad solar</EnableSolarIntensityCalc>
+  <!-- EN: Changes solar glow to reflect how much solar energy actually hits the ground (Affected by weather and game events). -->
+  <EnableSolarIntensityCalc_Tooltip>Cambia el brillo solar para reflejar cuánta energía solar golpea realmente el suelo (Afectado por el clima y eventos del juego).</EnableSolarIntensityCalc_Tooltip>
+
+  <!-- EN: Stack Size Rebalance -->
+  <StackSizeRebalance>Reequilibrio de tamaño de pila</StackSizeRebalance>
+  
+  <!-- EN: Enable Stack Size Rebalance -->
+  <EnableStackSizeRebalance>Activar reequilibrio de tamaño de pila</EnableStackSizeRebalance>
+  <!-- EN: Enables realistic storage capacity (most stacks will hold thousands of items) -->
+  <EnableStackSizeRebalance_Tooltip>Habilita capacidad de almacenamiento realista (la mayoría de las pilas contendrán miles de artículos)</EnableStackSizeRebalance_Tooltip>
+
+	<!-- EN: Turn off if experiencing mod incompatability -->
+  <TurnOffWarning>Desactivar si experimentas incompatibilidad de mods</TurnOffWarning>
+</LanguageData>

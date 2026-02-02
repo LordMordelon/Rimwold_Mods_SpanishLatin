@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <VSIE_Vent.label>desahogo</VSIE_Vent.label>
+  <VSIE_Vent.logRulesInitiator.rulesStrings>
+    <li>r_logentry-&gt;[INITIATOR_nameDef] y [RECIPIENT_nameDef] [talkedabout] [TalkTopicLight].</li>
+    <li>r_logentry-&gt;[INITIATOR_nameDef] [talkedabout] [TalkTopicLight] con [RECIPIENT_nameDef].</li>
+    <li>r_logentry(p=0.8)-&gt;[INITIATOR_nameDef] [commentedabout] [TalkTopicLight] a [RECIPIENT_nameDef].</li>
+    <li>talkedabout(p=4)-&gt;charlaron sobre</li>
+    <li>talkedabout-&gt;compartieron unas palabras sobre</li>
+    <li>talkedabout-&gt;hablaron sobre</li>
+    <li>talkedabout-&gt;parlotearon sobre</li>
+    <li>talkedabout-&gt;conversaron sobre</li>
+    <li>talkedabout-&gt;bromearon sobre</li>
+    <li>talkedabout-&gt;hicieron chistes sobre</li>
+    <li>commentedabout-&gt;dijo algo sobre</li>
+    <li>commentedabout-&gt;dijo una palabra sobre</li>
+    <li>commentedabout-&gt;hizo un comentario sobre</li>
+    <li>commentedabout-&gt;comentó sobre</li>
+    <li>commentedabout-&gt;contó un chiste sobre</li>
+  </VSIE_Vent.logRulesInitiator.rulesStrings>
+</LanguageData>

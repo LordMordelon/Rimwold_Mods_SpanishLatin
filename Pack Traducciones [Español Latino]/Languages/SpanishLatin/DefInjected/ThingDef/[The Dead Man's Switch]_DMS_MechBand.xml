@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <DMS_BandNode.description>Una máquina de matriz procesa la señal recibida y la dirige a un mecanizador específico. Esto añade 4 de ancho de banda al total de ese mecanizador, permitiéndole controlar más mecanoides.\n\nUna vez construida una matriz de proceso, se puede sintonizar rápidamente con un mecanizador. Sin embargo, devolver un nodo de banda a un mecanizador diferente lleva mucho más tiempo.\n\nEste dispositivo sigue el protocolo N.A.C.S., por lo que solo los mecaenlace que sigan el protocolo pueden recibir el servicio.</DMS_BandNode.description>
+  <DMS_BandNode.label>matriz de proceso</DMS_BandNode.label>
+</LanguageData>

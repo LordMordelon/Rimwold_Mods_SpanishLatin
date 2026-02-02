@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+	<!-- EN: Ideology Memes and Precepts -->
+  <IdeologyPatch_MemesPrecepts>Memes y preceptos de la ideología</IdeologyPatch_MemesPrecepts>
+	<!-- EN: Slaves -->
+  <IdeologyPatch_Slaves>Esclavos</IdeologyPatch_Slaves>
+	<!-- EN: Ideological Practices -->
+  <IdeologyPatch_Practices>Prácticas ideológicas</IdeologyPatch_Practices>
+	<!-- EN: Miscellaneous -->
+  <IdeologyPatch_Misc>Misceláneo</IdeologyPatch_Misc>
+	<!-- EN: (requires restart) -->
+  <IdeologyPatch_RestartRequired>(requiere reiniciar)</IdeologyPatch_RestartRequired>
+	<!-- EN: Disable rancher thought about planting human food -->
+  <IdeologyPatch_DisableHumanFoodPlantThought>Desactivar el pensamiento del ganadero sobre plantar comida humana</IdeologyPatch_DisableHumanFoodPlantThought>
+	<!-- EN: Limit dryad wander radius to the building radius of the gauranlen tree -->
+  <IdeologyPatch_DryadWanderRadius>Limitar el radio de deambulación de las dríades al radio de construcción del árbol gauranlen</IdeologyPatch_DryadWanderRadius>
+	<!-- EN: Jump to prisoner in conversion letter -->
+  <IdeologyPatch_PrisonerConversionLetterJumpToPrisoner>Ir al prisionero en la carta de conversión</IdeologyPatch_PrisonerConversionLetterJumpToPrisoner>
+	<!-- EN: Don't ignore needs while pruning gauranlen tree -->
+  <IdeologyPatch_PruningTime>No ignorar las necesidades al podar el árbol gauranlen</IdeologyPatch_PruningTime>
+	<!-- EN: Disable warning when research includes things that require particular memes -->
+  <IdeologyPatch_ResearchMissingMemes>Desactivar la advertencia cuando la investigación incluye cosas que requieren memes particulares</IdeologyPatch_ResearchMissingMemes>
+	<!-- EN: Automatically select unfilled role in role change dialog -->
+  <IdeologyPatch_RoleChangeUseUntaken>Seleccionar automáticamente el rol no ocupado en el diálogo de cambio de rol</IdeologyPatch_RoleChangeUseUntaken>
+	<!-- EN: Bloodfeeding meme adds Corpses: Don't care precept -->
+  <IdeologyPatch_BloodfeedingCorpsesDontCare>El meme de alimentación con sangre añade el precepto Cadáveres: No importa</IdeologyPatch_BloodfeedingCorpsesDontCare>
+	<!-- EN: Default physical love precept to Free -->
+  <IdeologyPatch_PremaritalSex>Precepto de amor físico por defecto a Libre</IdeologyPatch_PremaritalSex>
+	<!-- EN: Default female clothing precept to Pants -->
+  <IdeologyPatch_FemaleNudity>Precepto de vestimenta femenina por defecto a Pantalones</IdeologyPatch_FemaleNudity>
+	<!-- EN: Change name of "Pants at most" to "Pants only" -->
+  <IdeologyPatch_PantsOnly>Cambiar el nombre de "Pantalones como máximo" a "Solo pantalones"</IdeologyPatch_PantsOnly>
+	<!-- EN: Disable darkness mood penalty for Fungus: preferred precept -->
+  <IdeologyPatch_FungusPreferredDisablesDarkThought>Desactivar la penalización de humor por oscuridad para el precepto Hongo: preferido</IdeologyPatch_FungusPreferredDisablesDarkThought>
+	<!-- EN: Newly built lights default to darklight if precept is present -->
+  <IdeologyPatch_DarklightDefault>Las luces recién construidas usan luz oscura por defecto si el precepto está presente</IdeologyPatch_DarklightDefault>
+	<!-- EN: Show a message when rituals can be performed again without repeat penalty -->
+  <IdeologyPatch_RitualCooldownMessage>Mostrar un mensaje cuando los rituales se puedan realizar de nuevo sin penalización por repetición</IdeologyPatch_RitualCooldownMessage>
+	<!-- EN: Allow "Look change desired" even with Biotech enabled -->
+  <IdeologyPatch_LookChangeDesiredFix>Permitir "Desea cambio de apariencia" incluso con Biotech activado</IdeologyPatch_LookChangeDesiredFix>
+	<!-- EN: Pawns will wear even "negative" apparel automatically if their ideology prefers it -->
+  <IdeologyPatch_NegativeApparelDesire>Los peones usarán automáticamente incluso ropa "negativa" si su ideología lo prefiere</IdeologyPatch_NegativeApparelDesire>
+	<!-- EN: Bringing all relics to new archonexus colony does not trigger mood boost -->
+  <IdeologyPatch_RelicsCollectedNotAgain>Llevar todas las reliquias a la nueva colonia del arconexus no activa el aumento de humor</IdeologyPatch_RelicsCollectedNotAgain>
+	<!-- EN: Automatically forbid corpses that spawn near archonexus structures -->
+  <IdeologyPatch_ForbidArchonexusCorpses>Prohibir automáticamente los cadáveres que aparecen cerca de las estructuras del arconexus</IdeologyPatch_ForbidArchonexusCorpses>
+	<!-- EN: Adjust initial enemy faction relations to inside natural goodwill range -->
+  <IdeologyPatch_FactionRelationAdjustment>Ajustar las relaciones iniciales de las facciones enemigas al rango de buena voluntad natural</IdeologyPatch_FactionRelationAdjustment>
+	<!-- EN: Don't ever count slaves as quest-related guests -->
+  <IdeologyPatch_SlavesArentQuestLodgers>Nunca contar a los esclavos como invitados relacionados con misiones</IdeologyPatch_SlavesArentQuestLodgers>
+	<!-- EN: Allow painting all non-textile ideology floors and floor slabs -->
+  <IdeologyPatch_PaintableIdeoFloors>Permitir pintar todos los suelos y losas de ideología no textiles</IdeologyPatch_PaintableIdeoFloors>
+	<!-- EN: Slaves will wear human leather slave gear even if they don't like it -->
+  <IdeologyPatch_SlavesWearHumanLeather>Los esclavos usarán equipo de esclavo de cuero humano aunque no les guste</IdeologyPatch_SlavesWearHumanLeather>
+	<!-- EN: Slaves can't run wild -->
+  <IdeologyPatch_SlavesCantRunWild>Los esclavos no pueden volverse salvajes</IdeologyPatch_SlavesCantRunWild>
+	<!-- EN: {0} can be performed again without repeat penalty. -->
+  <IdeologyPatch_RitualCanBePerformedAgain>{0} se puede realizar de nuevo sin penalización por repetición.</IdeologyPatch_RitualCanBePerformedAgain>
+</LanguageData>

@@ -1,0 +1,117 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>title(p=4)->[religiousTextNameBasic]</li>
+    <li>title(p=2)->[religiousTextNameGrandiose]</li>
+    <li>title->[religiousTextNameSimple]</li>
+    <li>title->[religiousTextNameAuthored]</li>
+    <li>religiousTextNameBasic(p=6)->The Path of the [altStructureNameBasic]</li>
+    <li>religiousTextNameBasic(p=6)->The Code of the [altStructureNameBasic]</li>
+    <li>religiousTextNameBasic(p=6)->The Teachings of the [altStructureNameBasic]</li>
+    <li>religiousTextNameBasic(p=6)->The Writings of the [altStructureNameBasic]</li>
+    <li>religiousTextNameBasic->Sacred Writ of the [altStructureNameBasic]</li>
+    <li>religiousTextNameBasic->The Doctrine of the [altStructureNameBasic]</li>
+    <li>religiousTextNameBasic->The Scripture of the [altStructureNameBasic]</li>
+    <li>religiousTextNameBasic->The Hymns of the [altStructureNameBasic]</li>
+    <li>religiousTextNameBasic->The Revelations of the [altStructureNameBasic]</li>
+    <li>religiousTextNameBasic->The Holy Word of the [altStructureNameBasic]</li>
+    <li>religiousTextNameGrandiose(p=6)->The Eternal Wisdom of the [altStructureNameBasic]</li>
+    <li>religiousTextNameGrandiose(p=6)->The Unveiling Truth of the [altStructureNameBasic]</li>
+    <li>religiousTextNameGrandiose->The Celestial Testament of the [altStructureNameBasic]</li>
+    <li>religiousTextNameGrandiose->The Divine Mandate of the [altStructureNameBasic]</li>
+    <li>religiousTextNameGrandiose->The Chronicles of the [altStructureNameBasic]</li>
+    <li>religiousTextNameGrandiose->The Eternal Teachings of the [altStructureNameBasic]</li>
+    <li>religiousTextNameGrandiose->The Prophecies of the [altStructureNameBasic]</li>
+    <li>religiousTextNameGrandiose->The Immutable Laws of the [altStructureNameBasic]</li>
+    <li>religiousTextNameGrandiose->The Holy Edict of the [altStructureNameBasic]</li>
+    <li>religiousTextNameGrandiose->The Sacred Covenant of the [altStructureNameBasic]</li>
+    <li>religiousTextNameSimple(p=6)->The [altStructureNameBasic]</li>
+    <li>religiousTextNameSimple(p=6)->Reflections on the [altStructureNameBasic]</li>
+    <li>religiousTextNameSimple->The Path of the [altStructureNameBasic]</li>
+    <li>religiousTextNameSimple->Meditations on the [altStructureNameBasic]</li>
+    <li>religiousTextNameSimple->The Scrolls of the [altStructureNameBasic]</li>
+    <li>religiousTextNameSimple->The Words of the [altStructureNameBasic]</li>
+    <li>religiousTextNameSimple->The Wisdom of the [altStructureNameBasic]</li>
+    <li>religiousTextNameSimple->Verses of the [altStructureNameBasic]</li>
+    <li>religiousTextNameSimple->The Testament of the [altStructureNameBasic]</li>
+    <li>religiousTextNameSimple->The Laws of the [altStructureNameBasic]</li>
+    <li>religiousTextNameAuthored(p=6)->The Revelations of [ANYPAWN_nameIndef] on the [altStructureNameBasic]</li>
+    <li>religiousTextNameAuthored(p=6)->[ANYPAWN_nameIndef]’s Chronicle of the [altStructureNameBasic]</li>
+    <li>religiousTextNameAuthored->[ANYPAWN_nameIndef]’s Testament to the [altStructureNameBasic]</li>
+    <li>religiousTextNameAuthored->[ANYPAWN_nameIndef]’s Reflections on the [altStructureNameBasic]</li>
+    <li>religiousTextNameAuthored->[ANYPAWN_nameIndef]’s Visions of the [altStructureNameBasic]</li>
+    <li>religiousTextNameAuthored->[ANYPAWN_nameIndef]’s Hymns of the [altStructureNameBasic]</li>
+    <li>religiousTextNameAuthored->The Philosophy of [ANYPAWN_nameIndef] on the [altStructureNameBasic]</li>
+    <li>religiousTextNameAuthored->The Sacred Writings of [ANYPAWN_nameIndef] on the [altStructureNameBasic]</li>
+    <li>religiousTextNameAuthored->The Prophecies of [ANYPAWN_nameIndef] on the [altStructureNameBasic]</li>
+    <li>religiousTextNameAuthored->[ANYPAWN_nameIndef]’s Divine Insights into the [altStructureNameBasic]</li>
+    <li>altStructureNameBasic->[subject_primary] System</li>
+    <li>altStructureNameBasic->[subject_primary] Framework</li>
+    <li>altStructureNameBasic->[subject_primary] Doctrine</li>
+    <li>altStructureNameBasic->[subject_primary] Order</li>
+    <li>altStructureNameBasic->[subject_primary] Schema</li>
+    <li>altStructureNameBasic->[subject_primary] Organization</li>
+    <li>altStructureNameBasic->[subject_primary] Body</li>
+    <li>altStructureNameBasic->[subject_primary] Institution</li>
+    <li>altStructureNameBasic->[subject_primary] Network</li>
+    <li>altStructureNameBasic->[subject_primary] Hierarchy</li>
+  -->
+  <ABooks_ReligiousText_Namer.rulePack.rulesStrings>
+    <li>title(p=4)->[religiousTextNameBasic]</li>
+    <li>title(p=2)->[religiousTextNameGrandiose]</li>
+    <li>title->[religiousTextNameSimple]</li>
+    <li>title->[religiousTextNameAuthored]</li>
+    <li>religiousTextNameBasic(p=6)->El Camino del [altStructureNameBasic]</li>
+    <li>religiousTextNameBasic(p=6)->El Código del [altStructureNameBasic]</li>
+    <li>religiousTextNameBasic(p=6)->Las Enseñanzas del [altStructureNameBasic]</li>
+    <li>religiousTextNameBasic(p=6)->Los Escritos del [altStructureNameBasic]</li>
+    <li>religiousTextNameBasic->Escritura Sagrada del [altStructureNameBasic]</li>
+    <li>religiousTextNameBasic->La Doctrina del [altStructureNameBasic]</li>
+    <li>religiousTextNameBasic->La Escritura del [altStructureNameBasic]</li>
+    <li>religiousTextNameBasic->Los Himnos del [altStructureNameBasic]</li>
+    <li>religiousTextNameBasic->Las Revelaciones del [altStructureNameBasic]</li>
+    <li>religiousTextNameBasic->La Palabra Sagrada del [altStructureNameBasic]</li>
+    <li>religiousTextNameGrandiose(p=6)->La Sabiduría Eterna del [altStructureNameBasic]</li>
+    <li>religiousTextNameGrandiose(p=6)->La Verdad Revelada del [altStructureNameBasic]</li>
+    <li>religiousTextNameGrandiose->El Testamento Celestial del [altStructureNameBasic]</li>
+    <li>religiousTextNameGrandiose->El Mandato Divino del [altStructureNameBasic]</li>
+    <li>religiousTextNameGrandiose->Las Crónicas del [altStructureNameBasic]</li>
+    <li>religiousTextNameGrandiose->Las Enseñanzas Eternas del [altStructureNameBasic]</li>
+    <li>religiousTextNameGrandiose->Las Profecías del [altStructureNameBasic]</li>
+    <li>religiousTextNameGrandiose->Las Leyes Inmutables del [altStructureNameBasic]</li>
+    <li>religiousTextNameGrandiose->El Edicto Sagrado del [altStructureNameBasic]</li>
+    <li>religiousTextNameGrandiose->El Pacto Sagrado del [altStructureNameBasic]</li>
+    <li>religiousTextNameSimple(p=6)->El [altStructureNameBasic]</li>
+    <li>religiousTextNameSimple(p=6)->Reflexiones sobre el [altStructureNameBasic]</li>
+    <li>religiousTextNameSimple->El Camino del [altStructureNameBasic]</li>
+    <li>religiousTextNameSimple->Meditaciones sobre el [altStructureNameBasic]</li>
+    <li>religiousTextNameSimple->Los Pergaminos del [altStructureNameBasic]</li>
+    <li>religiousTextNameSimple->Las Palabras del [altStructureNameBasic]</li>
+    <li>religiousTextNameSimple->La Sabiduría del [altStructureNameBasic]</li>
+    <li>religiousTextNameSimple->Versos del [altStructureNameBasic]</li>
+    <li>religiousTextNameSimple->El Testamento del [altStructureNameBasic]</li>
+    <li>religiousTextNameSimple->Las Leyes del [altStructureNameBasic]</li>
+    <li>religiousTextNameAuthored(p=6)->Las Revelaciones de [ANYPAWN_nameIndef] sobre el [altStructureNameBasic]</li>
+    <li>religiousTextNameAuthored(p=6)->Crónica del [altStructureNameBasic] de [ANYPAWN_nameIndef]</li>
+    <li>religiousTextNameAuthored->Testamento al [altStructureNameBasic] de [ANYPAWN_nameIndef]</li>
+    <li>religiousTextNameAuthored->Reflexiones sobre el [altStructureNameBasic] de [ANYPAWN_nameIndef]</li>
+    <li>religiousTextNameAuthored->Visiones del [altStructureNameBasic] de [ANYPAWN_nameIndef]</li>
+    <li>religiousTextNameAuthored->Himnos del [altStructureNameBasic] de [ANYPAWN_nameIndef]</li>
+    <li>religiousTextNameAuthored->La Filosofía de [ANYPAWN_nameIndef] sobre el [altStructureNameBasic]</li>
+    <li>religiousTextNameAuthored->Los Escritos Sagrados de [ANYPAWN_nameIndef] sobre el [altStructureNameBasic]</li>
+    <li>religiousTextNameAuthored->Las Profecías de [ANYPAWN_nameIndef] sobre el [altStructureNameBasic]</li>
+    <li>religiousTextNameAuthored->Perspectivas Divinas sobre el [altStructureNameBasic] de [ANYPAWN_nameIndef]</li>
+    <li>altStructureNameBasic->Sistema [subject_primary]</li>
+    <li>altStructureNameBasic->Marco [subject_primary]</li>
+    <li>altStructureNameBasic->Doctrina [subject_primary]</li>
+    <li>altStructureNameBasic->Orden [subject_primary]</li>
+    <li>altStructureNameBasic->Esquema [subject_primary]</li>
+    <li>altStructureNameBasic->Organización [subject_primary]</li>
+    <li>altStructureNameBasic->Cuerpo [subject_primary]</li>
+    <li>altStructureNameBasic->Institución [subject_primary]</li>
+    <li>altStructureNameBasic->Red [subject_primary]</li>
+    <li>altStructureNameBasic->Jerarquía [subject_primary]</li>
+  </ABooks_ReligiousText_Namer.rulePack.rulesStrings>
+  
+</LanguageData>

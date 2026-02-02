@@ -1,0 +1,704 @@
+﻿﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: ancient ammo box -->
+  <VFEPD_AncientAmmoStack.label>caja de munición antigua</VFEPD_AncientAmmoStack.label>
+  <!-- EN: A container of ancient ammunition. It's empty and any remaining rounds are corroded to uselessness. -->
+  <VFEPD_AncientAmmoStack.description>Un contenedor de munición antigua. Está vacío y las rondas restantes están corroídas hasta la inutilidad.</VFEPD_AncientAmmoStack.description>
+  
+  <!-- EN: ancient antenna -->
+  <VFEPD_AncientAntenna.label>antena antigua</VFEPD_AncientAntenna.label>
+  <!-- EN: A rusted antenna used to transmit long-forgotten communications. -->
+  <VFEPD_AncientAntenna.description>Una antena oxidada utilizada para transmitir comunicaciones olvidadas hace mucho tiempo.</VFEPD_AncientAntenna.description>
+  
+  <!-- EN: ancient armchair -->
+  <VFEPD_AncientArmchair.label>sillón antiguo</VFEPD_AncientArmchair.label>
+  <!-- EN: A faded and torn armchair. It's unusable in its current state. -->
+  <VFEPD_AncientArmchair.description>Un sillón descolorido y roto. Es inutilizable en su estado actual.</VFEPD_AncientArmchair.description>
+  
+  <!-- EN: broken autocannon turret -->
+  <VFEPD_AncientAutocannonTurret.label>torreta de cañón automático rota</VFEPD_AncientAutocannonTurret.label>
+  <!-- EN: An autocannon turret with a shattered barrel. The targeting system is missing and all the components are rusted and bent to uselessness. -->
+  <VFEPD_AncientAutocannonTurret.description>Una torreta de cañón automático con un cañón destrozado. Falta el sistema de puntería y todos los componentes están oxidados y doblados hasta la inutilidad.</VFEPD_AncientAutocannonTurret.description>
+  
+  <!-- EN: large concrete barrier -->
+  <VFEPD_AncientBarrierLong.label>barrera de hormigón grande</VFEPD_AncientBarrierLong.label>
+  <!-- EN: A concrete barrier used to block the path of vehicles. -->
+  <VFEPD_AncientBarrierLong.description>Una barrera de hormigón utilizada para bloquear el paso de vehículos.</VFEPD_AncientBarrierLong.description>
+  
+  <!-- EN: cracked bathtub -->
+  <VFEPD_AncientBathtub.label>bañera agrietada</VFEPD_AncientBathtub.label>
+  <!-- EN: A bathtub with deep cracks and rust stains. It's completely unusable. -->
+  <VFEPD_AncientBathtub.description>Una bañera con grietas profundas y manchas de óxido. Es completamente inutilizable.</VFEPD_AncientBathtub.description>
+  
+  <!-- EN: ancient blast door, closed -->
+  <VFEPD_AncientBlastDoor.label>puerta blindada antigua, cerrada</VFEPD_AncientBlastDoor.label>
+  <!-- EN: A heavily-reinforced door made of an ultratech polymer, sealed shut. -->
+  <VFEPD_AncientBlastDoor.description>Una puerta fuertemente reforzada hecha de un polímero de ultratecnología, sellada.</VFEPD_AncientBlastDoor.description>
+  
+  <!-- EN: ancient blast door, frame -->
+  <VFEPD_AncientBlastDoor_Frame.label>puerta blindada antigua, marco</VFEPD_AncientBlastDoor_Frame.label>
+  <!-- EN: A heavily-reinforced door frame made of an ultratech polymer. -->
+  <VFEPD_AncientBlastDoor_Frame.description>Un marco de puerta fuertemente reforzado hecho de un polímero de ultratecnología.</VFEPD_AncientBlastDoor_Frame.description>
+  
+  <!-- EN: component box -->
+  <VFEPD_AncientBox_ComponentIndustrial.label>caja de componentes</VFEPD_AncientBox_ComponentIndustrial.label>
+  <!-- EN: A box filled with fake components. -->
+  <VFEPD_AncientBox_ComponentIndustrial.description>Una caja llena de componentes falsos.</VFEPD_AncientBox_ComponentIndustrial.description>
+  
+  <!-- EN: advanced component box -->
+  <VFEPD_AncientBox_ComponentSpacer.label>caja de componentes avanzados</VFEPD_AncientBox_ComponentSpacer.label>
+  <!-- EN: A box of fake advanced components. -->
+  <VFEPD_AncientBox_ComponentSpacer.description>Una caja de componentes avanzados falsos.</VFEPD_AncientBox_ComponentSpacer.description>
+  
+  <!-- EN: steel scrap box -->
+  <VFEPD_AncientBox_SteelSlag.label>caja de chatarra de acero</VFEPD_AncientBox_SteelSlag.label>
+  <!-- EN: A box filled with fake steel scrap. It's heavy. -->
+  <VFEPD_AncientBox_SteelSlag.description>Una caja llena de chatarra de acero falsa. Es pesada.</VFEPD_AncientBox_SteelSlag.description>
+  
+  <!-- EN: old cardboard box -->
+  <VFEPD_AncientCardboardBox.label>caja de cartón vieja</VFEPD_AncientCardboardBox.label>
+  <!-- EN: An soggy cardboard box filled with old detritus. -->
+  <VFEPD_AncientCardboardBox.description>Una caja de cartón empapada llena de detritos viejos.</VFEPD_AncientCardboardBox.description>
+  
+  <!-- EN: ancient chembarrel -->
+  <VFEPD_AncientChembarrel.label>barril químico antiguo</VFEPD_AncientChembarrel.label>
+  <!-- EN: A rusted barrel that once stored chemfuel. It's empty and corroded. -->
+  <VFEPD_AncientChembarrel.description>Un barril oxidado que una vez almacenó quimbustible. Está vacío y corroído.</VFEPD_AncientChembarrel.description>
+  
+  <!-- EN: ancient chembarrel pallet -->
+  <VFEPD_AncientChembarrelPallet.label>palé de barriles químicos antiguo</VFEPD_AncientChembarrelPallet.label>
+  <!-- EN: A stack of rusted barrels on a decayed pallet. Any valuable fuel leaked out long ago. -->
+  <VFEPD_AncientChembarrelPallet.description>Una pila de barriles oxidados en un palé podrido. Cualquier combustible valioso se filtró hace mucho tiempo.</VFEPD_AncientChembarrelPallet.description>
+  
+  <!-- EN: chemfuel canister -->
+  <VFEPD_AncientChemfuelCanister.label>bote de quimbustible</VFEPD_AncientChemfuelCanister.label>
+  <!-- EN: A sealed canister of chemfuel. It is empty. -->
+  <VFEPD_AncientChemfuelCanister.description>Un bote sellado de quimbustible. Está vacío.</VFEPD_AncientChemfuelCanister.description>
+  
+  <!-- EN: ancient chemtruck -->
+  <VFEPD_AncientChemtruck.label>camión químico antiguo</VFEPD_AncientChemtruck.label>
+  <!-- EN: An abandoned chemfuel transport truck. Any usable parts were looted long ago. -->
+  <VFEPD_AncientChemtruck.description>Un camión de transporte de quimbustible abandonado. Cualquier pieza utilizable fue saqueada hace mucho tiempo.</VFEPD_AncientChemtruck.description>
+  
+  <!-- EN: ancient cold storage -->
+  <VFEPD_AncientColdStorage.label>almacenamiento en frío antiguo</VFEPD_AncientColdStorage.label>
+  <!-- EN: An old refrigeration unit, now rusted shut. Any contents have long since decayed to dust. -->
+  <VFEPD_AncientColdStorage.description>Una vieja unidad de refrigeración, ahora oxidada y cerrada. Cualquier contenido se ha descompuesto en polvo hace mucho tiempo.</VFEPD_AncientColdStorage.description>
+  
+  <!-- EN: ruined crane arm -->
+  <VFEPD_AncientCraneArm.label>brazo de grúa arruinado</VFEPD_AncientCraneArm.label>
+  <!-- EN: A rusted crane arm, twisted and broken. -->
+  <VFEPD_AncientCraneArm.description>Un brazo de grúa oxidado, retorcido y roto.</VFEPD_AncientCraneArm.description>
+  
+  <!-- EN: ruined crane arm -->
+  <VFEPD_AncientCraneArmSmall.label>brazo de grúa arruinado</VFEPD_AncientCraneArmSmall.label>
+  <!-- EN: A smaller chunk of a crane arm, snapped and rusted. -->
+  <VFEPD_AncientCraneArmSmall.description>Un trozo más pequeño de un brazo de grúa, roto y oxidado.</VFEPD_AncientCraneArmSmall.description>
+  
+  <!-- EN: ruined crane base -->
+  <VFEPD_AncientCraneBase.label>base de grúa arruinada</VFEPD_AncientCraneBase.label>
+  <!-- EN: The base of a large industrial crane. -->
+  <VFEPD_AncientCraneBase.description>La base de una gran grúa industrial.</VFEPD_AncientCraneBase.description>
+  
+  <!-- EN: ruined crane column -->
+  <VFEPD_AncientCraneColumn.label>columna de grúa arruinada</VFEPD_AncientCraneColumn.label>
+  <!-- EN: A vertical support column from a ruined crane. It's rusted and no longer stable. -->
+  <VFEPD_AncientCraneColumn.description>Una columna de soporte vertical de una grúa arruinada. Está oxidada y ya no es estable.</VFEPD_AncientCraneColumn.description>
+  
+  <!-- EN: ancient crate pallet -->
+  <VFEPD_AncientCratePallet.label>palé de cajas antiguo</VFEPD_AncientCratePallet.label>
+  <!-- EN: A pallet for stacking and transporting crates. The contents have been scavenged long ago. -->
+  <VFEPD_AncientCratePallet.description>Un palé para apilar y transportar cajas. El contenido ha sido saqueado hace mucho tiempo.</VFEPD_AncientCratePallet.description>
+  
+  <!-- EN: ancient destroyed console -->
+  <VFEPD_AncientDestroyedConsole.label>consola destruida antigua</VFEPD_AncientDestroyedConsole.label>
+  <!-- EN: A ruined console. It is now completely inoperable. Its usable parts were smashed or looted long ago. -->
+  <VFEPD_AncientDestroyedConsole.description>Una consola arruinada. Ahora es completamente inoperable. Sus partes utilizables fueron destrozadas o saqueadas hace mucho tiempo.</VFEPD_AncientDestroyedConsole.description>
+  
+  <!-- EN: ancient destroyed console -->
+  <VFEPD_AncientDestroyedConsoleLarge.label>consola destruida antigua</VFEPD_AncientDestroyedConsoleLarge.label>
+  <!-- EN: A ruined console. It is now completely inoperable. Its usable parts were smashed or looted long ago. -->
+  <VFEPD_AncientDestroyedConsoleLarge.description>Una consola arruinada. Ahora es completamente inoperable. Sus partes utilizables fueron destrozadas o saqueadas hace mucho tiempo.</VFEPD_AncientDestroyedConsoleLarge.description>
+  
+  <!-- EN: rusted double bed -->
+  <VFEPD_AncientDoubleBed.label>cama doble oxidada</VFEPD_AncientDoubleBed.label>
+  <!-- EN: A double bed with broken springs and a tattered mattress. It barely offers comfort, but two can sleep here if desperate. -->
+  <VFEPD_AncientDoubleBed.description>Una cama doble con resortes rotos y un colchón andrajoso. Apenas ofrece comodidad, pero dos pueden dormir aquí si están desesperados.</VFEPD_AncientDoubleBed.description>
+  
+  <!-- EN: ancient drill rig -->
+  <VFEPD_AncientDrillPlatform.label>plataforma de perforación antigua</VFEPD_AncientDrillPlatform.label>
+  <!-- EN: A device meant for drilling deep into the earth. Any valuable parts were looted long ago. -->
+  <VFEPD_AncientDrillPlatform.description>Un dispositivo destinado a perforar profundamente en la tierra. Cualquier pieza valiosa fue saqueada hace mucho tiempo.</VFEPD_AncientDrillPlatform.description>
+  
+  <!-- EN: ancient emergency light -->
+  <VFEPD_AncientEmergencyLight_Red.label>luz de emergencia antigua</VFEPD_AncientEmergencyLight_Red.label>
+  <!-- EN: An ancient light containing a long-lasting battery. Inactive -->
+  <VFEPD_AncientEmergencyLight_Red.description>Una luz antigua que contiene una batería de larga duración. Inactiva</VFEPD_AncientEmergencyLight_Red.description>
+  
+  <!-- EN: ancient excavator -->
+  <VFEPD_AncientExcavator.label>excavadora antigua</VFEPD_AncientExcavator.label>
+  <!-- EN: The remains of a mining vehicle. The valuable parts were looted long ago. -->
+  <VFEPD_AncientExcavator.description>Los restos de un vehículo minero. Las piezas valiosas fueron saqueadas hace mucho tiempo.</VFEPD_AncientExcavator.description>
+  
+  <!-- EN: ancient explosives crate -->
+  <VFEPD_AncientExplosivesCrate.label>caja de explosivos antigua</VFEPD_AncientExplosivesCrate.label>
+  <!-- EN: A container of ancient mining charges. Inactive. -->
+  <VFEPD_AncientExplosivesCrate.description>Un contenedor de cargas mineras antiguas. Inactivo.</VFEPD_AncientExplosivesCrate.description>
+  
+  <!-- EN: rusted filing cabinet -->
+  <VFEPD_AncientFilingCabinet.label>archivador oxidado</VFEPD_AncientFilingCabinet.label>
+  <!-- EN: A corroded filing cabinet. There's nothing useful left inside. -->
+  <VFEPD_AncientFilingCabinet.description>Un archivador corroído. No queda nada útil dentro.</VFEPD_AncientFilingCabinet.description>
+  
+  <!-- EN: ruined forklift -->
+  <VFEPD_AncientForklift.label>carretilla elevadora arruinada</VFEPD_AncientForklift.label>
+  <!-- EN: A broken forklift, rusted and missing parts. It's far too damaged to be repaired. -->
+  <VFEPD_AncientForklift.description>Una carretilla elevadora rota, oxidada y con piezas faltantes. Está demasiado dañada para ser reparada.</VFEPD_AncientForklift.description>
+  
+  <!-- EN: ancient grav engine -->
+  <VFEPD_AncientGravEngine.label>motor gravitatorio antiguo</VFEPD_AncientGravEngine.label>
+  <!-- EN: An ultratech engine used to bring large structures and ships into orbit. Nonfunctional for many years. -->
+  <VFEPD_AncientGravEngine.description>Un motor de ultratecnología utilizado para poner grandes estructuras y naves en órbita. No funcional durante muchos años.</VFEPD_AncientGravEngine.description>
+  
+  <!-- EN: ancient grav reactor -->
+  <VFEPD_AncientGravReactor.label>reactor gravitatorio antiguo</VFEPD_AncientGravReactor.label>
+  <!-- EN: An ancient generator powered by a gravcore. Once capable of producing massive amounts of power, it has now fallen into disrepair. -->
+  <VFEPD_AncientGravReactor.description>Un antiguo generador alimentado por un gravinúcleo. Una vez capaz de producir cantidades masivas de energía, ahora ha caído en mal estado.</VFEPD_AncientGravReactor.description>
+  
+  <!-- EN: ancient stockpile entrance -->
+  <VFEPD_AncientHatch.label>entrada de almacén antigua</VFEPD_AncientHatch.label>
+  <!-- EN: The entrance to a long-abandoned subterranean facility. Sealed shut. -->
+  <VFEPD_AncientHatch.description>La entrada a una instalación subterránea abandonada hace mucho tiempo. Sellada.</VFEPD_AncientHatch.description>
+  
+  <!-- EN: ancient heat vent -->
+  <VFEPD_AncientHeatVent.label>ventilación de calor antigua</VFEPD_AncientHeatVent.label>
+  <!-- EN: A massive duct that drops endlessly into the ground. Permanently inactive. -->
+  <VFEPD_AncientHeatVent.description>Un conducto masivo que cae interminablemente en el suelo. Permanentemente inactivo.</VFEPD_AncientHeatVent.description>
+  
+  <!-- EN: ancient industrial shelf -->
+  <VFEPD_AncientIndustrialShelf.label>estantería industrial antigua</VFEPD_AncientIndustrialShelf.label>
+  <!-- EN: An industrial shelf covered in rust. It offers nothing of value. -->
+  <VFEPD_AncientIndustrialShelf.description>Una estantería industrial cubierta de óxido. No ofrece nada de valor.</VFEPD_AncientIndustrialShelf.description>
+  
+  <!-- EN: rusted industrial truck -->
+  <VFEPD_AncientIndustrialTruck.label>camión industrial oxidado</VFEPD_AncientIndustrialTruck.label>
+  <!-- EN: An industrial truck, heavily rusted and abandoned. The engine is beyond repair. -->
+  <VFEPD_AncientIndustrialTruck.description>Un camión industrial, muy oxidado y abandonado. El motor no tiene reparación.</VFEPD_AncientIndustrialTruck.description>
+  
+  <!-- EN: rusted lockers -->
+  <VFEPD_AncientLockers.label>taquillas oxidadas</VFEPD_AncientLockers.label>
+  <!-- EN: A set of metal lockers, heavily rusted and bent. They've been thoroughly looted. -->
+  <VFEPD_AncientLockers.description>Un conjunto de taquillas de metal, muy oxidadas y dobladas. Han sido saqueadas a fondo.</VFEPD_AncientLockers.description>
+  
+  <!-- EN: ancient container -->
+  <VFEPD_AncientMediumContainer.label>contenedor antiguo</VFEPD_AncientMediumContainer.label>
+  <!-- EN: A rusted shipping container. It's completely empty. -->
+  <VFEPD_AncientMediumContainer.description>Un contenedor de envío oxidado. Está completamente vacío.</VFEPD_AncientMediumContainer.description>
+  
+  <!-- EN: rusted metal crate -->
+  <VFEPD_AncientMetalCrate.label>caja de metal oxidada</VFEPD_AncientMetalCrate.label>
+  <!-- EN: A metal crate, now rusted shut. It's empty and worthless. -->
+  <VFEPD_AncientMetalCrate.description>Una caja de metal, ahora oxidada y cerrada. Está vacía y sin valor.</VFEPD_AncientMetalCrate.description>
+  
+  <!-- EN: ancient military barrier -->
+  <VFEPD_AncientMilitaryBarrier.label>barrera militar antigua</VFEPD_AncientMilitaryBarrier.label>
+  <!-- EN: A concrete barrier once used for military roadblocks. -->
+  <VFEPD_AncientMilitaryBarrier.description>Una barrera de hormigón utilizada una vez para bloqueos militares.</VFEPD_AncientMilitaryBarrier.description>
+  
+  <!-- EN: ancient military generator -->
+  <VFEPD_AncientMilitaryGeneratorSmall.label>generador militar antiguo</VFEPD_AncientMilitaryGeneratorSmall.label>
+  <!-- EN: A small rusted generator. The fuel tank is empty and the engine is beyond repair. -->
+  <VFEPD_AncientMilitaryGeneratorSmall.description>Un pequeño generador oxidado. El tanque de combustible está vacío y el motor no tiene reparación.</VFEPD_AncientMilitaryGeneratorSmall.description>
+  
+  <!-- EN: ancient mining charge -->
+  <VFEPD_AncientMiningCharge.label>carga minera antigua</VFEPD_AncientMiningCharge.label>
+  <!-- EN: An explosive device used to quickly blast through rock. It is made from refined chemfuel. The explosive is old and inert. -->
+  <VFEPD_AncientMiningCharge.description>Un dispositivo explosivo utilizado para atravesar rápidamente la roca. Está hecho de quimbustible refinado. El explosivo es viejo e inerte.</VFEPD_AncientMiningCharge.description>
+  
+  <!-- EN: busted mortar -->
+  <VFEPD_AncientMortar.label>mortero estropeado</VFEPD_AncientMortar.label>
+  <!-- EN: A shattered mortar emplacement. It's smashed and will never work again. -->
+  <VFEPD_AncientMortar.description>Un emplazamiento de mortero destrozado. Está aplastado y nunca volverá a funcionar.</VFEPD_AncientMortar.description>
+  
+  <!-- EN: rusted open container -->
+  <VFEPD_AncientOpenContainer.label>contenedor abierto oxidado</VFEPD_AncientOpenContainer.label>
+  <!-- EN: A rusted shipping container. Its contents are worthless. -->
+  <VFEPD_AncientOpenContainer.description>Un contenedor de envío oxidado. Su contenido no tiene valor.</VFEPD_AncientOpenContainer.description>
+  
+  <!-- EN: steel scrap pallet -->
+  <VFEPD_AncientPallet_SteelSlag.label>palé de chatarra de acero</VFEPD_AncientPallet_SteelSlag.label>
+  <!-- EN: A pallet stacked with fake steel scrap. -->
+  <VFEPD_AncientPallet_SteelSlag.description>Un palé apilado con chatarra de acero falsa.</VFEPD_AncientPallet_SteelSlag.description>
+  
+  <!-- EN: ancient pipe -->
+  <VFEPD_AncientPipes_Odyssey.label>tubería antigua</VFEPD_AncientPipes_Odyssey.label>
+  <!-- EN: Steel pipes. These do not transport anything. -->
+  <VFEPD_AncientPipes_Odyssey.description>Tuberías de acero. Estas no transportan nada.</VFEPD_AncientPipes_Odyssey.description>
+  
+  <!-- EN: ancient plant pot -->
+  <VFEPD_AncientPlantPot.label>maceta antigua</VFEPD_AncientPlantPot.label>
+  <!-- EN: A large cracked pot with dead soil. Nothing can grow here any more. -->
+  <VFEPD_AncientPlantPot.description>Una gran maceta agrietada con tierra muerta. Ya nada puede crecer aquí.</VFEPD_AncientPlantPot.description>
+  
+  <!-- EN: rusted microwave -->
+  <VFEPD_AncientRustedMicrowave.label>microondas oxidado</VFEPD_AncientRustedMicrowave.label>
+  <!-- EN: An ancient microwave covered in rust. It's beyond repair. -->
+  <VFEPD_AncientRustedMicrowave.description>Un microondas antiguo cubierto de óxido. No tiene reparación.</VFEPD_AncientRustedMicrowave.description>
+  
+  <!-- EN: rusted safe -->
+  <VFEPD_AncientSafe.label>caja fuerte oxidada</VFEPD_AncientSafe.label>
+  <!-- EN: A locked safe. It's heavily rusted, and empty. -->
+  <VFEPD_AncientSafe.description>Una caja fuerte cerrada. Está muy oxidada y vacía.</VFEPD_AncientSafe.description>
+  
+  <!-- EN: sealed container -->
+  <VFEPD_AncientSealedContainer.label>contenedor sellado</VFEPD_AncientSealedContainer.label>
+  <!-- EN: A small container that's still sealed. -->
+  <VFEPD_AncientSealedContainer.description>Un pequeño contenedor que todavía está sellado.</VFEPD_AncientSealedContainer.description>
+  
+  <!-- EN: open container -->
+  <VFEPD_AncientSealedContainer_Open.label>contenedor abierto</VFEPD_AncientSealedContainer_Open.label>
+  <!-- EN: A small container. -->
+  <VFEPD_AncientSealedContainer_Open.description>Un pequeño contenedor.</VFEPD_AncientSealedContainer_Open.description>
+  
+  <!-- EN: sealed crate -->
+  <VFEPD_AncientSealedCrate.label>caja sellada</VFEPD_AncientSealedCrate.label>
+  <!-- EN: A small crate that's still sealed. -->
+  <VFEPD_AncientSealedCrate.description>Una pequeña caja que todavía está sellada.</VFEPD_AncientSealedCrate.description>
+  
+  <!-- EN: open crate -->
+  <VFEPD_AncientSealedCrate_Open.label>caja abierta</VFEPD_AncientSealedCrate_Open.label>
+  <!-- EN: A small crate. -->
+  <VFEPD_AncientSealedCrate_Open.description>Una pequeña caja.</VFEPD_AncientSealedCrate_Open.description>
+  
+  <!-- EN: ancient shelf -->
+  <VFEPD_AncientShelf.label>estantería antigua</VFEPD_AncientShelf.label>
+  <!-- EN: An ancient shelf. It holds nothing of interest. -->
+  <VFEPD_AncientShelf.description>Una estantería antigua. No contiene nada de interés.</VFEPD_AncientShelf.description>
+  
+  <!-- EN: cracked shower -->
+  <VFEPD_AncientShower.label>ducha agrietada</VFEPD_AncientShower.label>
+  <!-- EN: A broken shower stall. The plumbing is corroded and the ceramics are shattered. -->
+  <VFEPD_AncientShower.description>Una cabina de ducha rota. La fontanería está corroída y la cerámica está destrozada.</VFEPD_AncientShower.description>
+  
+  <!-- EN: ancient research bench -->
+  <VFEPD_AncientSimpleResearchBench.label>mesa de investigación antigua</VFEPD_AncientSimpleResearchBench.label>
+  <!-- EN: An old, rudimentary research bench with corroded tools and faded notes. Nothing of value remains. -->
+  <VFEPD_AncientSimpleResearchBench.description>Una vieja y rudimentaria mesa de investigación con herramientas corroídas y notas descoloridas. No queda nada de valor.</VFEPD_AncientSimpleResearchBench.description>
+  
+  <!-- EN: rusted bed -->
+  <VFEPD_AncientSingleBed.label>cama oxidada</VFEPD_AncientSingleBed.label>
+  <!-- EN: A single bed frame with rusted metal and a torn mattress. It's better than sleeping on the ground, but just barely. -->
+  <VFEPD_AncientSingleBed.description>Un marco de cama individual con metal oxidado y un colchón roto. Es mejor que dormir en el suelo, pero apenas.</VFEPD_AncientSingleBed.description>
+  
+  <!-- EN: ancient container -->
+  <VFEPD_AncientSmallContainer.label>contenedor antiguo</VFEPD_AncientSmallContainer.label>
+  <!-- EN: A rusted shipping container. It's completely empty. -->
+  <VFEPD_AncientSmallContainer.description>Un contenedor de envío oxidado. Está completamente vacío.</VFEPD_AncientSmallContainer.description>
+  
+  <!-- EN: ancient small shelf -->
+  <VFEPD_AncientSmallShelf.label>estantería pequeña antigua</VFEPD_AncientSmallShelf.label>
+  <!-- EN: An ancient shelf. There's nothing useful left on it. -->
+  <VFEPD_AncientSmallShelf.description>Una estantería antigua. No queda nada útil en ella.</VFEPD_AncientSmallShelf.description>
+  
+  <!-- EN: ancient smoke vent -->
+  <VFEPD_AncientSmokeVent.label>ventilación de humo antigua</VFEPD_AncientSmokeVent.label>
+  <!-- EN: The exhaust vent of some long forgotten underground megastructure. Permanently inactive. -->
+  <VFEPD_AncientSmokeVent.description>La ventilación de escape de alguna megaestructura subterránea olvidada hace mucho tiempo. Permanentemente inactiva.</VFEPD_AncientSmokeVent.description>
+  
+  <!-- EN: ancient brewery -->
+  <VFEPD_AncientTableBrewery.label>cervecería antigua</VFEPD_AncientTableBrewery.label>
+  <!-- EN: A dilapidated brewing table once used for fermentation. The equipment is rusted beyond use. -->
+  <VFEPD_AncientTableBrewery.description>Una mesa de elaboración de cerveza en ruinas que alguna vez se usó para la fermentación. El equipo está oxidado más allá de su uso.</VFEPD_AncientTableBrewery.description>
+  
+  <!-- EN: ancient butcher table -->
+  <VFEPD_AncientTableButcher.label>mesa de carnicero antigua</VFEPD_AncientTableButcher.label>
+  <!-- EN: A broken butcher's table littered with old stains. -->
+  <VFEPD_AncientTableButcher.description>Una mesa de carnicero rota llena de manchas viejas.</VFEPD_AncientTableButcher.description>
+  
+  <!-- EN: ancient drug lab -->
+  <VFEPD_AncientTableDrugLab.label>laboratorio de drogas antiguo</VFEPD_AncientTableDrugLab.label>
+  <!-- EN: A crumbling lab table with shattered glassware. The equipment is useless and contaminated. -->
+  <VFEPD_AncientTableDrugLab.description>Una mesa de laboratorio desmoronada con cristalería destrozada. El equipo es inútil y está contaminado.</VFEPD_AncientTableDrugLab.description>
+  
+  <!-- EN: ancient machining table -->
+  <VFEPD_AncientTableMachining.label>mesa de mecanizado antigua</VFEPD_AncientTableMachining.label>
+  <!-- EN: A rusted machining table covered in debris. All useful parts have been scavenged. -->
+  <VFEPD_AncientTableMachining.description>Una mesa de mecanizado oxidada cubierta de escombros. Todas las piezas útiles han sido saqueadas.</VFEPD_AncientTableMachining.description>
+  
+  <!-- EN: ancient electric smithy -->
+  <VFEPD_AncientTableSmithingElectric.label>herrería eléctrica antigua</VFEPD_AncientTableSmithingElectric.label>
+  <!-- EN: A ruined electric smithy with frayed wires and scorched surfaces. It's beyond repair. -->
+  <VFEPD_AncientTableSmithingElectric.description>Una herrería eléctrica arruinada con cables deshilachados y superficies quemadas. No tiene reparación.</VFEPD_AncientTableSmithingElectric.description>
+  
+  <!-- EN: ancient fueled smithy -->
+  <VFEPD_AncientTableSmithingFueled.label>herrería alimentada antigua</VFEPD_AncientTableSmithingFueled.label>
+  <!-- EN: An ancient smithy that once burned fuel for crafting. Now, it's covered in soot and rust. -->
+  <VFEPD_AncientTableSmithingFueled.description>Una antigua herrería que una vez quemó combustible para la elaboración. Ahora, está cubierta de hollín y óxido.</VFEPD_AncientTableSmithingFueled.description>
+  
+  <!-- EN: ancient electric stove -->
+  <VFEPD_AncientTableStoveElectric.label>estufa eléctrica antigua</VFEPD_AncientTableStoveElectric.label>
+  <!-- EN: An old electric stove with shattered heating elements. It's far too damaged to use. -->
+  <VFEPD_AncientTableStoveElectric.description>Una vieja estufa eléctrica con elementos calefactores destrozados. Está demasiado dañada para usarla.</VFEPD_AncientTableStoveElectric.description>
+  
+  <!-- EN: ancient fueled stove -->
+  <VFEPD_AncientTableStoveFueled.label>estufa alimentada antigua</VFEPD_AncientTableStoveFueled.label>
+  <!-- EN: A rusted cooking stove. It's beyond unusable. -->
+  <VFEPD_AncientTableStoveFueled.description>Una estufa de cocina oxidada. Es más que inutilizable.</VFEPD_AncientTableStoveFueled.description>
+  
+  <!-- EN: ancient electric tailor bench -->
+  <VFEPD_AncientTableTailorElectric.label>mesa de sastrería eléctrica antigua</VFEPD_AncientTableTailorElectric.label>
+  <!-- EN: A ruined tailor's bench with torn fabric and broken tools. It's beyond salvage. -->
+  <VFEPD_AncientTableTailorElectric.description>Una mesa de sastre arruinada con tela rota y herramientas rotas. No se puede salvar.</VFEPD_AncientTableTailorElectric.description>
+  
+  <!-- EN: ancient hand tailor bench -->
+  <VFEPD_AncientTableTailorHand.label>mesa de sastrería manual antigua</VFEPD_AncientTableTailorHand.label>
+  <!-- EN: A simple tailor's bench with splintered wood and rusted needles. Nothing useful remains. -->
+  <VFEPD_AncientTableTailorHand.description>Una simple mesa de sastre con madera astillada y agujas oxidadas. No queda nada útil.</VFEPD_AncientTableTailorHand.description>
+  
+  <!-- EN: ancient terraformer -->
+  <VFEPD_AncientTerraformer.label>terraformador antiguo</VFEPD_AncientTerraformer.label>
+  <!-- EN: An ancient terraforming device powered by a gravcore. It is inert. -->
+  <VFEPD_AncientTerraformer.description>Un antiguo dispositivo de terraformación alimentado por un gravinúcleo. Es inerte.</VFEPD_AncientTerraformer.description>
+  
+  <!-- EN: ancient toxic vent -->
+  <VFEPD_AncientToxVent.label>ventilación tóxica antigua</VFEPD_AncientToxVent.label>
+  <!-- EN: A massive duct that vents toxic fumes from an underground megastructure. Permanently inactive. -->
+  <VFEPD_AncientToxVent.description>Un conducto masivo que ventila humos tóxicos de una megaestructura subterránea. Permanentemente inactivo.</VFEPD_AncientToxVent.description>
+  
+  <!-- EN: ancient transport pod -->
+  <VFEPD_AncientTransportPod.label>cápsula de transporte antigua</VFEPD_AncientTransportPod.label>
+  <!-- EN: An ancient cargo pod capable of carrying people, animals, and items. Not in working condition. -->
+  <VFEPD_AncientTransportPod.description>Una antigua cápsula de carga capaz de transportar personas, animales y artículos. No está en condiciones de funcionamiento.</VFEPD_AncientTransportPod.description>
+  
+  <!-- EN: ancient tunneler claw -->
+  <VFEPD_AncientTunnelerClaw.label>garra de tunelador antigua</VFEPD_AncientTunnelerClaw.label>
+  <!-- EN: The claw of an ancient mining mechanoid. All the parts are degraded to uselessness. -->
+  <VFEPD_AncientTunnelerClaw.description>La garra de un antiguo mecanoide minero. Todas las partes están degradadas hasta la inutilidad.</VFEPD_AncientTunnelerClaw.description>
+  
+  <!-- EN: ancient tunneler husk -->
+  <VFEPD_AncientTunnelerHusk.label>cáscara de tunelador antigua</VFEPD_AncientTunnelerHusk.label>
+  <!-- EN: The remains of an ancient mining mechanoid. Its complex parts are all degraded to uselessness. -->
+  <VFEPD_AncientTunnelerHusk.description>Los restos de un antiguo mecanoide minero. Sus partes complejas están todas degradadas hasta la inutilidad.</VFEPD_AncientTunnelerHusk.description>
+  
+  <!-- EN: busted television -->
+  <VFEPD_AncientTV.label>televisión estropeada</VFEPD_AncientTV.label>
+  <!-- EN: A shattered television set. The screen is broken and the electronics are stripped out. -->
+  <VFEPD_AncientTV.description>Un televisor destrozado. La pantalla está rota y la electrónica está arrancada.</VFEPD_AncientTV.description>
+  
+  <!-- EN: ancient uplink -->
+  <VFEPD_AncientUplink.label>enlace ascendente antiguo</VFEPD_AncientUplink.label>
+  <!-- EN: An ancient transmitter used for secure communications between the surface and orbit. -->
+  <VFEPD_AncientUplink.description>Un antiguo transmisor utilizado para comunicaciones seguras entre la superficie y la órbita.</VFEPD_AncientUplink.description>
+  
+  <!-- EN: broken uranium slug turret -->
+  <VFEPD_AncientUraniumSlugTurret.label>torreta de balas de uranio rota</VFEPD_AncientUraniumSlugTurret.label>
+  <!-- EN: A heavy turret designed to fire uranium slugs. The mechanism is smashed and the ammo is depleted. -->
+  <VFEPD_AncientUraniumSlugTurret.description>Una torreta pesada diseñada para disparar balas de uranio. El mecanismo está destrozado y la munición está agotada.</VFEPD_AncientUraniumSlugTurret.description>
+  
+  <!-- EN: ancient wind turbine -->
+  <VFEPD_AncientWindTurbineBody.label>turbina eólica antigua</VFEPD_AncientWindTurbineBody.label>
+  <!-- EN: A toppled wind turbine with broken blades. It's been scavenged for parts long ago. -->
+  <VFEPD_AncientWindTurbineBody.description>Una turbina eólica derribada con aspas rotas. Ha sido saqueada por piezas hace mucho tiempo.</VFEPD_AncientWindTurbineBody.description>
+  
+  <!-- EN: old wooden crate -->
+  <VFEPD_AncientWoodenCrate.label>caja de madera vieja</VFEPD_AncientWoodenCrate.label>
+  <!-- EN: A weathered wooden crate. It's empty, and the wood is brittle. -->
+  <VFEPD_AncientWoodenCrate.description>Una caja de madera desgastada. Está vacía y la madera es quebradiza.</VFEPD_AncientWoodenCrate.description>
+  
+  <!-- EN: anticraft beam -->
+  <VFEPD_AnticraftBeam.label>rayo antiaéreo</VFEPD_AnticraftBeam.label>
+  <!-- EN: A massive anti-ship beam weapon. Pew pew. -->
+  <VFEPD_AnticraftBeam.description>Una enorme arma de rayo antinave. Pium pium.</VFEPD_AnticraftBeam.description>
+  
+  <!-- EN: archean tree -->
+  <VFEPD_ArcheanTree.label>árbol arcaico</VFEPD_ArcheanTree.label>
+  <!-- EN: A tree imitating those bioengineered to terraform deadworlds and early-stage rimworlds. This is a non-functional fake. -->
+  <VFEPD_ArcheanTree.description>Un árbol que imita a los diseñados biológicamente para terraformar mundos muertos y mundos del borde en etapa temprana. Esta es una falsificación no funcional.</VFEPD_ArcheanTree.description>
+  
+  <!-- EN: boomshroom -->
+  <VFEPD_Boomshroom.label>hongo explosivo</VFEPD_Boomshroom.label>
+  <!-- EN: These mushrooms produce volatile chemicals as a defensive measure. They can be harvested for chemfuel. However, this must be done with extreme caution, as the mushrooms can explode if they're destroyed.\n\nGlitterworld researchers have used genetic material from boomshrooms to bioengineer a number of chemfuel-producing animals.\n\nThis object is inert and serves no biological function. -->
+  <VFEPD_Boomshroom.description>Estos hongos producen productos químicos volátiles como medida defensiva. Se pueden cosechar para obtener quimbustible. Sin embargo, esto debe hacerse con extrema precaución, ya que los hongos pueden explotar si se destruyen.\n\nLos investigadores de los mundos brillantes han utilizado material genético de los hongos explosivos para diseñar biológicamente una serie de animales productores de quimbustible.\n\nEste objeto es inerte y no cumple ninguna función biológica.</VFEPD_Boomshroom.description>
+  
+  <!-- EN: cerebrex core -->
+  <VFEPD_CerebrexCore.label>núcleo cerebrex</VFEPD_CerebrexCore.label>
+  <!-- EN: The thinking mind of the mechanoid swarm. Powered by Linux. -->
+  <VFEPD_CerebrexCore.description>La mente pensante del enjambre mecanoide. Impulsado por Linux.</VFEPD_CerebrexCore.description>
+  
+  <!-- EN: destroyed cerebrex core -->
+  <VFEPD_CerebrexCore_Destroyed.label>núcleo cerebrex destruido</VFEPD_CerebrexCore_Destroyed.label>
+  <!-- EN: The smashed neural nexus of the mechanoid swarm that once commanded mechanoids around the planet. -->
+  <VFEPD_CerebrexCore_Destroyed.description>El nexo neuronal destrozado del enjambre mecanoide que una vez comandó mecanoides alrededor del planeta.</VFEPD_CerebrexCore_Destroyed.description>
+  
+  <!-- EN: cerebrex stabilizer -->
+  <VFEPD_CerebrexStabilizer.label>estabilizador cerebrex</VFEPD_CerebrexStabilizer.label>
+  <!-- EN: A remote shield generator that makes the nearby cerebrex core nearly invincible. Or it would, if it wasn't fake. -->
+  <VFEPD_CerebrexStabilizer.description>Un generador de escudo remoto que hace que el núcleo cerebrex cercano sea casi invencible. O lo haría, si no fuera falso.</VFEPD_CerebrexStabilizer.description>
+  
+  <!-- EN: small chemfuel tank -->
+  <VFEPD_ChemfuelTank_Prop.label>tanque de quimbustible pequeño</VFEPD_ChemfuelTank_Prop.label>
+  <!-- EN: A chemfuel storage tank that supplies fuel for thrusters on a gravship. This tank seems completely inert. -->
+  <VFEPD_ChemfuelTank_Prop.description>Un tanque de almacenamiento de quimbustible que suministra combustible para los propulsores en una gravinave. Este tanque parece completamente inerte.</VFEPD_ChemfuelTank_Prop.description>
+  
+  <!-- EN: locust cocoon -->
+  <VFEPD_CocoonLocust.label>capullo de langosta</VFEPD_CocoonLocust.label>
+  <!-- EN: A stasis cocoon containing a locust. This one is empty. -->
+  <VFEPD_CocoonLocust.description>Un capullo de estasis que contiene una langosta. Este está vacío.</VFEPD_CocoonLocust.description>
+  
+  <!-- EN: egg sac -->
+  <VFEPD_EggSac.label>saco de huevos</VFEPD_EggSac.label>
+  <!-- EN: A slimy sac containing an insect larva. This one is empty. -->
+  <VFEPD_EggSac.description>Un saco viscoso que contiene una larva de insecto. Este está vacío.</VFEPD_EggSac.description>
+  
+  <!-- EN: chipped ice -->
+  <VFEPD_Filth_ChippedIce.label>hielo picado</VFEPD_Filth_ChippedIce.label>
+  <!-- EN: A pile of chipped ice. -->
+  <VFEPD_Filth_ChippedIce.description>Una pila de hielo picado.</VFEPD_Filth_ChippedIce.description>
+  
+  <!-- EN: volcanic ash -->
+  <VFEPD_Filth_VolcanicAsh.label>ceniza volcánica</VFEPD_Filth_VolcanicAsh.label>
+  <!-- EN: A pile of volcanic ash. -->
+  <VFEPD_Filth_VolcanicAsh.description>Una pila de ceniza volcánica.</VFEPD_Filth_VolcanicAsh.description>
+  
+  <!-- EN: fuel optimizer -->
+  <VFEPD_FuelOptimizer_Prop.label>optimizador de combustible</VFEPD_FuelOptimizer_Prop.label>
+  <!-- EN: A gravtech unit that reduces the fuel needed for gravship flight. This unit seems completely inert. -->
+  <VFEPD_FuelOptimizer_Prop.description>Una unidad de gravitecnología que reduce el combustible necesario para el vuelo de la gravinave. Esta unidad parece completamente inerte.</VFEPD_FuelOptimizer_Prop.description>
+  
+  <!-- EN: gauss cannon -->
+  <VFEPD_GaussCannon.label>cañón gauss</VFEPD_GaussCannon.label>
+  <!-- EN: A massive anti-ship cannon that uses electromagnets to launch large metallic darts at extreme velocities. Pew pew. -->
+  <VFEPD_GaussCannon.description>Un enorme cañón antinave que utiliza electroimanes para lanzar grandes dardos metálicos a velocidades extremas. Pium pium.</VFEPD_GaussCannon.description>
+  
+  <!-- EN: sulfur spout -->
+  <VFEPD_GeothermalVent.label>chorro de azufre</VFEPD_GeothermalVent.label>
+  <!-- EN: A naturally-occurring break in the ground from which volcanic gases escape. These vents bring nutrients to the surface from deep underground. Collectively, the fumes they spew are enough to block out the sun. -->
+  <VFEPD_GeothermalVent.description>Una ruptura natural en el suelo de la que escapan gases volcánicos. Estos respiraderos traen nutrientes a la superficie desde las profundidades del subsuelo. Colectivamente, los humos que arrojan son suficientes para bloquear el sol.</VFEPD_GeothermalVent.description>
+  
+  <!-- EN: grav anchor -->
+  <VFEPD_GravAnchor_Prop.label>ancla gravitatoria</VFEPD_GravAnchor_Prop.label>
+  <!-- EN: Prevents the local map from being destroyed during a gravship launch. This anchor seems completely inert. -->
+  <VFEPD_GravAnchor_Prop.description>Evita que el mapa local sea destruido durante el lanzamiento de una gravinave. Esta ancla parece completamente inerte.</VFEPD_GravAnchor_Prop.description>
+  
+  <!-- EN: gravcore power cell -->
+  <VFEPD_GravcorePowerCell_Prop.label>celda de energía de gravinúcleo</VFEPD_GravcorePowerCell_Prop.label>
+  <!-- EN: A power generator that draws energy from gravitational waves passing through the gravship. This generator seems completely inert. -->
+  <VFEPD_GravcorePowerCell_Prop.description>Un generador de energía que extrae energía de las ondas gravitacionales que pasan a través de la gravinave. Este generador parece completamente inerte.</VFEPD_GravcorePowerCell_Prop.description>
+  
+  <!-- EN: grav engine -->
+  <VFEPD_GravEngine_Prop.label>motor gravitatorio</VFEPD_GravEngine_Prop.label>
+  <!-- EN: The ultratech heart of a gravship. Generates lift by inverting and intensifying gravity in a field around itself. Upon closer inspection it seems to be made out of cardboard. -->
+  <VFEPD_GravEngine_Prop.description>El corazón de ultratecnología de una gravinave. Genera sustentación invirtiendo e intensificando la gravedad en un campo a su alrededor. Tras una inspección más cercana, parece estar hecho de cartón.</VFEPD_GravEngine_Prop.description>
+  
+  <!-- EN: grav field extender -->
+  <VFEPD_GravFieldExtender_Prop.label>extensor de campo gravitatorio</VFEPD_GravFieldExtender_Prop.label>
+  <!-- EN: Extends the area in which substructure can be built and increases support capacity. This extender seems completely inert. -->
+  <VFEPD_GravFieldExtender_Prop.description>Extiende el área en la que se puede construir la subestructura y aumenta la capacidad de soporte. Este extensor parece completamente inerte.</VFEPD_GravFieldExtender_Prop.description>
+  
+  <!-- EN: gravship shield generator -->
+  <VFEPD_GravshipShieldGenerator_Prop.label>generador de escudo de gravinave</VFEPD_GravshipShieldGenerator_Prop.label>
+  <!-- EN: Creates a short-lived momentum repulsor surface to block projectiles. This generator seems completely inert. -->
+  <VFEPD_GravshipShieldGenerator_Prop.description>Crea una superficie repulsora de momento de corta duración para bloquear proyectiles. Este generador parece completamente inerte.</VFEPD_GravshipShieldGenerator_Prop.description>
+  
+  <!-- EN: hunter trap -->
+  <VFEPD_HunterDroneTrap.label>trampa de cazador</VFEPD_HunterDroneTrap.label>
+  <!-- EN: A dormant and inactive hunter drone trap. -->
+  <VFEPD_HunterDroneTrap.description>Una trampa de dron cazador inactiva y latente.</VFEPD_HunterDroneTrap.description>
+  
+  <!-- EN: cave entrance -->
+  <VFEPD_InsectLairEntrance.label>entrada de cueva</VFEPD_InsectLairEntrance.label>
+  <!-- EN: The entrance to a cave network. Seems to be just painted on the floor. -->
+  <VFEPD_InsectLairEntrance.description>La entrada a una red de cuevas. Parece estar simplemente pintada en el suelo.</VFEPD_InsectLairEntrance.description>
+  
+  <!-- EN: large chemfuel tank -->
+  <VFEPD_LargeChemfuelTank_Prop.label>tanque de quimbustible grande</VFEPD_LargeChemfuelTank_Prop.label>
+  <!-- EN: A massive chemfuel storage tank that supplies fuel for thrusters on a gravship. This tank seems completely inert. -->
+  <VFEPD_LargeChemfuelTank_Prop.description>Un tanque de almacenamiento de quimbustible masivo que suministra combustible para los propulsores en una gravinave. Este tanque parece completamente inerte.</VFEPD_LargeChemfuelTank_Prop.description>
+  
+  <!-- EN: large thruster -->
+  <VFEPD_LargeThruster_Prop.label>propulsor grande</VFEPD_LargeThruster_Prop.label>
+  <!-- EN: An advanced chemfuel thruster that greatly increases the range of a gravship. This thruster seems completely inert. -->
+  <VFEPD_LargeThruster_Prop.description>Un propulsor de quimbustible avanzado que aumenta enormemente el alcance de una gravinave. Este propulsor parece completamente inerte.</VFEPD_LargeThruster_Prop.description>
+  
+  <!-- EN: life support unit -->
+  <VFEPD_LifeSupportUnit.label>unidad de soporte vital</VFEPD_LifeSupportUnit.label>
+  <!-- EN: A unit connected to the orbital platform's larger life support network. It keeps rooms heated and pressurized. -->
+  <VFEPD_LifeSupportUnit.description>Una unidad conectada a la red de soporte vital más grande de la plataforma orbital. Mantiene las habitaciones calientes y presurizadas.</VFEPD_LifeSupportUnit.description>
+  
+  <!-- EN: malfunctioning transport pod -->
+  <VFEPD_MalfunctioningTransportPod.label>cápsula de transporte averiada</VFEPD_MalfunctioningTransportPod.label>
+  <!-- EN: A cargo pod with a faulty release mechanism. It's still sealed, and empty. -->
+  <VFEPD_MalfunctioningTransportPod.description>Una cápsula de carga con un mecanismo de liberación defectuoso. Todavía está sellada y vacía.</VFEPD_MalfunctioningTransportPod.description>
+  
+  <!-- EN: mechanoid drop pod -->
+  <VFEPD_MechanoidDropPod.label>cápsula de desembarco mecanoide</VFEPD_MechanoidDropPod.label>
+  <!-- EN: A launchable cargo pod intended to carry mechanoids. Not in working condition. -->
+  <VFEPD_MechanoidDropPod.description>Una cápsula de carga lanzable destinada a transportar mecanoides. No está en condiciones de funcionamiento.</VFEPD_MechanoidDropPod.description>
+  
+  <!-- EN: mechanoid processor -->
+  <VFEPD_MechanoidProcessor.label>procesador mecanoide</VFEPD_MechanoidProcessor.label>
+  <!-- EN: A powerful mechanoid computer running Windows 98. -->
+  <VFEPD_MechanoidProcessor.description>Una poderosa computadora mecanoide que ejecuta Windows 98.</VFEPD_MechanoidProcessor.description>
+  
+  <!-- EN: mechhive birther -->
+  <VFEPD_MechhiveAssembler.label>paridera de colmena meca</VFEPD_MechhiveAssembler.label>
+  <!-- EN: An automated mechanoid factory. It periodically births fresh mechanoids. -->
+  <VFEPD_MechhiveAssembler.description>Una fábrica de mecanoides automatizada. Periódicamente da a luz mecanoides frescos.</VFEPD_MechhiveAssembler.description>
+  
+  <!-- EN: mech pylon -->
+  <VFEPD_MechPylon.label>pilón meca</VFEPD_MechPylon.label>
+  <!-- EN: A node in a distributed mechanoid computation network. -->
+  <VFEPD_MechPylon.description>Un nodo en una red de computación mecanoide distribuida.</VFEPD_MechPylon.description>
+  
+  <!-- EN: mechanoid relay -->
+  <VFEPD_MechRelay.label>relé mecanoide</VFEPD_MechRelay.label>
+  <!-- EN: A node that coordinates signals across a planet-wide mechanoid communication network. This one is completely inert. -->
+  <VFEPD_MechRelay.description>Un nodo que coordina señales a través de una red de comunicación mecanoide en todo el planeta. Este es completamente inerte.</VFEPD_MechRelay.description>
+  
+  <!-- EN: crashed mechanoid relay -->
+  <VFEPD_MechRelay_Crashed.label>relé mecanoide estrellado</VFEPD_MechRelay_Crashed.label>
+  <!-- EN: A node that coordinates signals across a planet-wide mechanoid communication network. Wrecked. -->
+  <VFEPD_MechRelay_Crashed.description>Un nodo que coordina señales a través de una red de comunicación mecanoide en todo el planeta. Destrozado.</VFEPD_MechRelay_Crashed.description>
+  
+  <!-- EN: relay stabilizer -->
+  <VFEPD_MechStabilizer.label>estabilizador de relé</VFEPD_MechStabilizer.label>
+  <!-- EN: A shield projecter that protects a nearby mechanoid relay. This one is completely inert. -->
+  <VFEPD_MechStabilizer.description>Un proyector de escudo que protege un relé mecanoide cercano. Este es completamente inerte.</VFEPD_MechStabilizer.description>
+  
+  <!-- EN: orbital scanner -->
+  <VFEPD_OrbitalScanner.label>escáner orbital</VFEPD_OrbitalScanner.label>
+  <!-- EN: A sensor unit that passively scans for irregular objects orbiting the planet. Inactive. -->
+  <VFEPD_OrbitalScanner.description>Una unidad de sensor que escanea pasivamente en busca de objetos irregulares que orbitan el planeta. Inactiva.</VFEPD_OrbitalScanner.description>
+  
+  <!-- EN: oxygen pump -->
+  <VFEPD_OxygenPump.label>bomba de oxígeno</VFEPD_OxygenPump.label>
+  <!-- EN: A small wall-mounted unit that does nothing. -->
+  <VFEPD_OxygenPump.description>Una pequeña unidad montada en la pared que no hace nada.</VFEPD_OxygenPump.description>
+  
+  <!-- EN: medicine pallet -->
+  <VFEPD_Pallet_Medicine.label>palé de medicinas</VFEPD_Pallet_Medicine.label>
+  <!-- EN: A pallet containing fake medical supplies. -->
+  <VFEPD_Pallet_Medicine.description>Un palé que contiene suministros médicos falsos.</VFEPD_Pallet_Medicine.description>
+  
+  <!-- EN: survival meal pallet -->
+  <VFEPD_Pallet_SurvivalMeals.label>palé de comidas de supervivencia</VFEPD_Pallet_SurvivalMeals.label>
+  <!-- EN: A pallet containing fake survival meals. -->
+  <VFEPD_Pallet_SurvivalMeals.description>Un palé que contiene comidas de supervivencia falsas.</VFEPD_Pallet_SurvivalMeals.description>
+  
+  <!-- EN: passenger shuttle -->
+  <VFEPD_PassengerShuttle.label>lanzadera de pasajeros</VFEPD_PassengerShuttle.label>
+  <!-- EN: A chemfuel-powered shuttle designed for long-distance travel. This one refuses to start. -->
+  <VFEPD_PassengerShuttle.description>Una lanzadera impulsada por quimbustible diseñada para viajes de larga distancia. Esta se niega a arrancar.</VFEPD_PassengerShuttle.description>
+  
+  <!-- EN: pilot console -->
+  <VFEPD_PilotConsole_Prop.label>consola de piloto</VFEPD_PilotConsole_Prop.label>
+  <!-- EN: An interface that allows launching and piloting a gravship. This console seems completely inert. -->
+  <VFEPD_PilotConsole_Prop.description>Una interfaz que permite lanzar y pilotar una gravinave. Esta consola parece completamente inerte.</VFEPD_PilotConsole_Prop.description>
+  
+  <!-- EN: pilot subpersona core -->
+  <VFEPD_PilotSubpersonaCore_Prop.label>núcleo de subpersona piloto</VFEPD_PilotSubpersonaCore_Prop.label>
+  <!-- EN: A low-grade subpersona specialized in gravship flight. This one only has access to chatGPT and is therefore dumber than a Steam mod commenter. -->
+  <VFEPD_PilotSubpersonaCore_Prop.description>Una subpersona de bajo grado especializada en vuelo de gravinaves. Esta solo tiene acceso a chatGPT y, por lo tanto, es más tonta que un comentarista de mods de Steam.</VFEPD_PilotSubpersonaCore_Prop.description>
+  
+  <!-- EN: bulrush -->
+  <VFEPD_Plant_Bulrush.label>espadaña</VFEPD_Plant_Bulrush.label>
+  <!-- EN: A fake plant commonly found in swamps, recognizable for its brown cigar-shaped top. -->
+  <VFEPD_Plant_Bulrush.description>Una planta falsa que se encuentra comúnmente en los pantanos, reconocible por su parte superior marrón en forma de cigarro.</VFEPD_Plant_Bulrush.description>
+  
+  <!-- EN: fireweed -->
+  <VFEPD_Plant_Fireweed.label>adelfilla</VFEPD_Plant_Fireweed.label>
+  <!-- EN: A low-lying plant that produces clusters of purple flowers. It is common in alpine environments.\n\nThis object is inert and serves no biological function. -->
+  <VFEPD_Plant_Fireweed.description>Una planta baja que produce racimos de flores moradas. Es común en ambientes alpinos.\n\nEste objeto es inerte y no cumple ninguna función biológica.</VFEPD_Plant_Fireweed.description>
+  
+  <!-- EN: lily pad -->
+  <VFEPD_Plant_LilyPad.label>nenúfar</VFEPD_Plant_LilyPad.label>
+  <!-- EN: A fake water plant with a broad floating leaf. -->
+  <VFEPD_Plant_LilyPad.description>Una planta acuática falsa con una hoja ancha flotante.</VFEPD_Plant_LilyPad.description>
+  
+  <!-- EN: lotus -->
+  <VFEPD_Plant_Lotus.label>loto</VFEPD_Plant_Lotus.label>
+  <!-- EN: A fake aquatic plant known for its fragrant flowers. -->
+  <VFEPD_Plant_Lotus.description>Una planta acuática falsa conocida por sus flores fragantes.</VFEPD_Plant_Lotus.description>
+  
+  <!-- EN: magma cactus -->
+  <VFEPD_Plant_MagmaCactus.label>cactus de magma</VFEPD_Plant_MagmaCactus.label>
+  <!-- EN: A fake resilient species of cactus notable for its ability to survive extreme heat.\n\nThis object is inert and serves no biological function. -->
+  <VFEPD_Plant_MagmaCactus.description>Una especie de cactus falsa y resistente notable por su capacidad para sobrevivir al calor extremo.\n\nEste objeto es inerte y no cumple ninguna función biológica.</VFEPD_Plant_MagmaCactus.description>
+  
+  <!-- EN: night grass -->
+  <VFEPD_Plant_Nightgrass.label>hierba nocturna</VFEPD_Plant_Nightgrass.label>
+  <!-- EN: A fake grass-like fungus that grows as part of a massive mycelium network.\n\nThis object is inert and serves no biological function. -->
+  <VFEPD_Plant_Nightgrass.description>Un hongo falso parecido a la hierba que crece como parte de una red masiva de micelio.\n\nEste objeto es inerte y no cumple ninguna función biológica.</VFEPD_Plant_Nightgrass.description>
+  
+  <!-- EN: night rafflesia -->
+  <VFEPD_Plant_NightRafflesia.label>rafflesia nocturna</VFEPD_Plant_NightRafflesia.label>
+  <!-- EN: A distant cousin of the giant rafflesia, this plant has adapted to thrive in dark locations. Its beauty is tempered by a strong stench of musk and rotten eggs.\n\nThis object is inert and serves no biological function. -->
+  <VFEPD_Plant_NightRafflesia.description>Una prima lejana de la rafflesia gigante, esta planta se ha adaptado para prosperar en lugares oscuros. Su belleza se ve atenuada por un fuerte hedor a almizcle y huevos podridos.\n\nEste objeto es inerte y no cumple ninguna función biológica.</VFEPD_Plant_NightRafflesia.description>
+  
+  <!-- EN: psilocap -->
+  <VFEPD_Plant_Psilocap.label>psilocap</VFEPD_Plant_Psilocap.label>
+  <!-- EN: A fungus that gives off hallucinogenic spores. Standing next to them is enough to produce mild hallucinations. Psilocaps can be harvested and ingested to produce a vivid sensory experience that increases the user's mood.\n\nThis object is inert and serves no biological function. -->
+  <VFEPD_Plant_Psilocap.description>Un hongo que emite esporas alucinógenas. Estar de pie junto a ellos es suficiente para producir alucinaciones leves. Los psilocaps se pueden cosechar e ingerir para producir una experiencia sensorial vívida que aumenta el estado de ánimo del usuario.\n\nEste objeto es inerte y no cumple ninguna función biológica.</VFEPD_Plant_Psilocap.description>
+  
+  <!-- EN: reeds -->
+  <VFEPD_Plant_Reeds.label>juncos</VFEPD_Plant_Reeds.label>
+  <!-- EN: A fake tall slender plant that grows in water. -->
+  <VFEPD_Plant_Reeds.description>Una planta falsa alta y delgada que crece en el agua.</VFEPD_Plant_Reeds.description>
+  
+  <!-- EN: thornvine -->
+  <VFEPD_Plant_Thornvine.label>enredadera espinosa</VFEPD_Plant_Thornvine.label>
+  <!-- EN: A fake prickly vine adapted to living in harsh conditions.\n\nThis object is inert and serves no biological function. -->
+  <VFEPD_Plant_Thornvine.description>Una enredadera espinosa falsa adaptada para vivir en condiciones duras.\n\nEste objeto es inerte y no cumple ninguna función biológica.</VFEPD_Plant_Thornvine.description>
+  
+  <!-- EN: snagroot tree -->
+  <VFEPD_Plant_TreeSnagroot.label>árbol de raíz nudosa</VFEPD_Plant_TreeSnagroot.label>
+  <!-- EN: A fake gnarled slow-growing tree, adapted to live in toxic scarlands.\n\nThis object is inert and serves no biological function. -->
+  <VFEPD_Plant_TreeSnagroot.description>Un árbol falso, nudoso y de crecimiento lento, adaptado para vivir en tierras baldías tóxicas.\n\nEste objeto es inerte y no cumple ninguna función biológica.</VFEPD_Plant_TreeSnagroot.description>
+  
+  <!-- EN: willowgill -->
+  <VFEPD_Plant_Willowgill.label>sauce branquial</VFEPD_Plant_Willowgill.label>
+  <!-- EN: A tall spindly slow-growing mushroom with gills that droop like a willow tree. It gives off a soft light.\n\nThis object is inert and serves no biological function. -->
+  <VFEPD_Plant_Willowgill.description>Un hongo alto, larguirucho y de crecimiento lento con branquias que cuelgan como un sauce. Emite una luz suave.\n\nEste objeto es inerte y no cumple ninguna función biológica.</VFEPD_Plant_Willowgill.description>
+  
+  <!-- EN: yellow grass -->
+  <VFEPD_Plant_YellowGrass.label>hierba amarilla</VFEPD_Plant_YellowGrass.label>
+  <!-- EN: Wild grass. Grows anywhere there is a little light and minimally fertile ground.\n\nThis object is inert and serves no biological function. -->
+  <VFEPD_Plant_YellowGrass.description>Hierba silvestre. Crece en cualquier lugar donde haya un poco de luz y un suelo mínimamente fértil.\n\nEste objeto es inerte y no cumple ninguna función biológica.</VFEPD_Plant_YellowGrass.description>
+  
+  <!-- EN: tall yellow grass -->
+  <VFEPD_Plant_YellowTallGrass.label>hierba amarilla alta</VFEPD_Plant_YellowTallGrass.label>
+  <!-- EN: Wild tall grass that grows in tough thickets. It slows down anyone moving over it.\n\nThis object is inert and serves no biological function. -->
+  <VFEPD_Plant_YellowTallGrass.description>Hierba alta silvestre que crece en matorrales duros. Ralentiza a cualquiera que se mueva sobre ella.\n\nEste objeto es inerte y no cumple ninguna función biológica.</VFEPD_Plant_YellowTallGrass.description>
+  
+  <!-- EN: rubble pile -->
+  <VFEPD_RubblePile.label>pila de escombros</VFEPD_RubblePile.label>
+  <!-- EN: The crumbled remains of an ancient structure. -->
+  <VFEPD_RubblePile.description>Los restos desmoronados de una estructura antigua.</VFEPD_RubblePile.description>
+  
+  <!-- EN: mechanoid ship chunk -->
+  <VFEPD_ShipChunk_Mech.label>trozo de nave mecanoide</VFEPD_ShipChunk_Mech.label>
+  <!-- EN: A chunk of mechanoid spacecraft made of steel and gravlite panels. It seems to have been torn off either by uncontrolled re-entry forces or some kind of weapon. -->
+  <VFEPD_ShipChunk_Mech.description>Un trozo de nave espacial mecanoide hecho de acero y paneles de gravlita. Parece haber sido arrancado por fuerzas de reentrada incontroladas o algún tipo de arma.</VFEPD_ShipChunk_Mech.description>
+  
+  <!-- EN: signal jammer -->
+  <VFEPD_SignalJammer_Prop.label>inhibidor de señal</VFEPD_SignalJammer_Prop.label>
+  <!-- EN: A signal emitter that disguises the electromagnetic signature of your gravship. This emitter seems completely inert. -->
+  <VFEPD_SignalJammer_Prop.description>Un emisor de señal que disfraza la firma electromagnética de tu gravinave. Este emisor parece completamente inerte.</VFEPD_SignalJammer_Prop.description>
+  
+  <!-- EN: small thruster -->
+  <VFEPD_SmallThruster_Prop.label>propulsor pequeño</VFEPD_SmallThruster_Prop.label>
+  <!-- EN: A chemfuel thruster that increases the range of a gravship. This thruster seems completely inert. -->
+  <VFEPD_SmallThruster_Prop.description>Un propulsor de quimbustible que aumenta el alcance de una gravinave. Este propulsor parece completamente inerte.</VFEPD_SmallThruster_Prop.description>
+  
+  <!-- EN: surveying scanner -->
+  <VFEPD_SurveyScanner.label>escáner de topografía</VFEPD_SurveyScanner.label>
+  <!-- EN: A wideband sensor unit that can detect and map various features in a local area. -->
+  <VFEPD_SurveyScanner.description>Una unidad de sensor de banda ancha que puede detectar y mapear varias características en un área local.</VFEPD_SurveyScanner.description>
+  
+  <!-- EN: wasp trap -->
+  <VFEPD_WaspDroneTrap.label>trampa de avispa</VFEPD_WaspDroneTrap.label>
+  <!-- EN: Several dormant and inactive wasp drones. -->
+  <VFEPD_WaspDroneTrap.description>Varios drones avispa inactivos y latentes.</VFEPD_WaspDroneTrap.description>
+  
+</LanguageData>

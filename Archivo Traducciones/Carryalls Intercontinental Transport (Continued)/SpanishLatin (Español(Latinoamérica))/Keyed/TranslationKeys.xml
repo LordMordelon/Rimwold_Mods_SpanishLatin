@@ -1,0 +1,175 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Cargo weight: {0} -->
+  <CA_Storage>Peso de carga: {0}</CA_Storage>
+  <!-- EN: Seats: {0} -->
+  <CA_PassengerCapacity>Asientos: {0}</CA_PassengerCapacity>
+  <!-- EN: Could not add pawn in group selection because seats are full: {0} -->
+  <CA_WarningSeatsFull>No se pudo agregar al peón en la selección de grupo porque los asientos están llenos: {0}</CA_WarningSeatsFull>
+  <!-- EN: Rotate -->
+  <CA_Rotate>Rotar</CA_Rotate>
+  <!-- EN: Rotate the carryall in the opposite direction. -->
+  <CA_RotateDesc>Rota el carguero en la dirección opuesta.</CA_RotateDesc>
+  <!-- EN: Select cargo -->
+  <CA_AddToCarryall>Seleccionar carga</CA_AddToCarryall>
+  <!-- EN: Fireworks -->
+  <CA_SelfDestruct>Fuegos artificiales</CA_SelfDestruct>
+  <!-- EN: Sets the machine on fire to cause an unctontrolled self-destruct sequence. If the airship is 60% damaged will explode right away. but if not, can be canceled by turning off the fire.\n\nBrace for explosion! -->
+  <CA_SelfDestructDesc>Prende fuego a la máquina para causar una secuencia de autodestrucción incontrolada. Si el dirigible tiene un 60% de daño explotará de inmediato, pero si no, se puede cancelar apagando el fuego.\n\n¡Prepárate para la explosión!</CA_SelfDestructDesc>
+  <!-- EN: WARNING: A direct long-distance flight may be very risky. Flight orders cannot be canceled midway, and you may not have enough fuel or food to return.\n\nWould you like to continue? -->
+  <CA_ConfirmationScreen>ADVERTENCIA: Un vuelo directo de larga distancia puede ser muy arriesgado. Las órdenes de vuelo no se pueden cancelar a mitad de camino, y es posible que no tengas suficiente combustible o comida para regresar.\n\n¿Te gustaría continuar?</CA_ConfirmationScreen>
+  <!-- EN: Min Confirmation Distance -->
+  <CA_ConfirmAtDistance>Distancia mínima de confirmación</CA_ConfirmAtDistance>
+  <!-- EN: Set the minimal necessary tile-traversal distance, before warning you about the launch. -->
+  <CA_ConfirmDistanceToolTip>Establece la distancia mínima necesaria de travesía de casillas antes de advertirte sobre el lanzamiento.</CA_ConfirmDistanceToolTip>
+  <!-- for SRTS code-->
+  <!-- Labels and Titles -->
+  <!-- EN: Carryalls -->
+  <SRTSExpanded>Carryalls</SRTSExpanded>
+  <!-- EN: Carryalls Def -->
+  <SRTSDef>Def de Cargueros</SRTSDef>
+  <!-- Settings -->
+  <!-- EN: Reset -->
+  <ResetDefault>Reiniciar</ResetDefault>
+  <!-- EN: Reset to Default Values -->
+  <ResetDefaultTooltip>Reiniciar a valores predeterminados</ResetDefaultTooltip>
+  <!-- EN: Reset This -->
+  <ResetThisSRTS>Reiniciar esto</ResetThisSRTS>
+  <!-- EN: Reset All -->
+  <ResetAll>Reiniciar todo</ResetAll>
+  <!-- EN: Default Values -->
+  <DefaultValues>Valores predeterminados</DefaultValues>
+  <!-- EN: Custom Values -->
+  <CustomValues>Valores personalizados</CustomValues>
+  <!-- EN: Main Settings -->
+  <MainSettings>Configuraciones</MainSettings>
+  <!-- EN: Passenger Limits -->
+  <PassengerLimit>Límites de pasajeros</PassengerLimit>
+  <!-- EN: Enforce minimum and maximum passengers allowed on Carryalls -->
+  <PassengerLimitTooltip>Hacer cumplir el mínimo y máximo de pasajeros permitidos en los cargueros</PassengerLimitTooltip>
+  <!-- EN: Display All Items -->
+  <DisplayHomeItems>Mostrar todos los artículos</DisplayHomeItems>
+  <!-- EN: Display all items on the map when loading Carryalls and not on home map. -->
+  <DisplayHomeItemsTooltip>Mostrar todos los artículos en el mapa al cargar cargueros y no en el mapa del hogar.</DisplayHomeItemsTooltip>
+  <!-- EN: Stats -->
+  <DefSettings>Estadísticas</DefSettings>
+  <!-- EN: Dynamic World Textures -->
+  <DynamicWorldObjectSRTS>Texturas dinámicas del mundo</DynamicWorldObjectSRTS>
+  <!-- EN: Dynamically draw Carryalls textures on the world map to match both Carryalls texture and rotation -->
+  <DynamicWorldObjectSRTSTooltip>Dibujar dinámicamente las texturas de los cargueros en el mapa mundial para que coincidan tanto con la textura como con la rotación de los cargueros</DynamicWorldObjectSRTSTooltip>
+  <!-- EN: Expand Bomb Targets -->
+  <ExpandBombPoints>Expandir objetivos de bombardeo</ExpandBombPoints>
+  <!-- EN: This feature is unavailable. -->
+  <ExpandBombPointsTooltip>Esta función no está disponible.</ExpandBombPointsTooltip>
+  <!-- EN: Allowed Explosives (Bomb Runs) -->
+  <AllowedBombs>Explosivos permitidos (Bombardeos)</AllowedBombs>
+  <!-- EN: Edit -->
+  <ChangeItemSRTS>Editar</ChangeItemSRTS>
+  <!-- EN: Add Item -->
+  <SearchExplosive>Añadir artículo</SearchExplosive>
+  <!-- EN: Allowed Explosives -->
+  <CurrentExplosives>Explosivos permitidos</CurrentExplosives>
+  <!-- EN: Boarding Options -->
+  <SRTSBoardingOptions>Opciones de embarque</SRTSBoardingOptions>
+  <!-- EN: Allow Downed Pawns -->
+  <AllowDownedSRTS>Permitir peones abatidos</AllowDownedSRTS>
+  <!-- EN: Allow Unsecured Prisoners -->
+  <AllowUnsecurePrisonerSRTS>Permitir prisioneros sin asegurar</AllowUnsecurePrisonerSRTS>
+  <!-- EN: Allow Capturable Pawns -->
+  <AllowCapturablePawnSRTS>Permitir peones capturables</AllowCapturablePawnSRTS>
+  <!-- EN: Save Our Ship 2 Options -->
+  <SOS2Compatibility>Opciones de Save Our Ship 2</SOS2Compatibility>
+  <!-- EN: Space Faring -->
+  <SpaceFaring>Viaje espacial</SpaceFaring>
+  <!-- EN: Shuttle Bay Landing -->
+  <ShuttleBayLanding>Aterrizaje en bahía de transbordadores</ShuttleBayLanding>
+  <!-- EN: {0} is unable to reach orbit -->
+  <NonSpaceFaringSRTS>{0} no puede alcanzar la órbita</NonSpaceFaringSRTS>
+  <!-- EN: Carryalls Settings -->
+  <SRTSSettings>Configuraciones:</SRTSSettings>
+  <!-- EN: Flight Speed -->
+  <FlightSpeed>Velocidad de vuelo</FlightSpeed>
+  <!-- EN: Instant -->
+  <Instant>Instantáneo</Instant>
+  <!-- EN: Fuel Cost -->
+  <FuelEfficiency>Costo de combustible</FuelEfficiency>
+  <!-- EN:  per Tile -->
+  <FuelEfficiencySymbol> por casilla</FuelEfficiencySymbol>
+  <!-- EN: Cargo Capacity -->
+  <CargoCapacity>Cap. de carga</CargoCapacity>
+  <!-- EN: Minimum Passengers -->
+  <MinPassengers>Pasajeros mínimos</MinPassengers>
+  <!-- EN: Maximum Passengers -->
+  <MaxPassengers>Pasajeros máximos</MaxPassengers>
+  <!-- EN: Research Cost -->
+  <SRTSResearch>Costo de investigación</SRTSResearch>
+  <!-- EN: Research Required -->
+  <SRTSResearchRequirements>Investigación requerida</SRTSResearchRequirements>
+  <!-- EN: Bomb Settings -->
+  <BombSettings>Configuraciones de bombardeo</BombSettings>
+  <!-- EN: Flight Speed (Bomb Run) -->
+  <BombSpeed>Velocidad de vuelo (Bombardeo)</BombSpeed>
+  <!-- EN: Bomb Radius -->
+  <RadiusDrop>Radio de bomba</RadiusDrop>
+  <!-- EN: Bomb Counts -->
+  <BombCountSRTS>Conteo de bombas</BombCountSRTS>
+  <!-- EN: Carpet Bombing -->
+  <CarpetBombing>Bombardeo de alfombra</CarpetBombing>
+  <!-- EN: Precise Drop -->
+  <PreciseBombing>Caída precisa</PreciseBombing>
+  <!-- EN: Distance between drops -->
+  <DistanceBetweenDrops>Distancia entre caídas</DistanceBetweenDrops>
+  <!-- EN:  Cells -->
+  <CellsEndValue> Celdas</CellsEndValue>
+  <!-- EN: Single Drop -->
+  <SingleDrop>Caída única</SingleDrop>
+  <!-- EN: Research -->
+  <ResearchSettings>Investigación</ResearchSettings>
+  <!-- EN: {0} ResearchDef -->
+  <ResearchDef>{0} ResearchDef</ResearchDef>
+  <!-- EN: Add Research Defs -->
+  <SearchResearch>Añadir Defs de investigación</SearchResearch>
+  <!-- EN: Add -->
+  <AddItemSRTS>Añadir</AddItemSRTS>
+  <!-- EN: Remove -->
+  <RemoveResearch>Eliminar</RemoveResearch>
+  <!-- EN: Restart your game for new research settings to apply -->
+  <RestartGameResearch>Reinicia tu juego para que se apliquen las nuevas configuraciones de investigación</RestartGameResearch>
+  <!-- Float Menu -->
+  <!-- EN: Board {0} -->
+  <BoardSRTS>Abordar {0}</BoardSRTS>
+  <!-- EN: Join SRTS Boarding Group -->
+  <JoinSRTSGroup>Unirse al grupo de embarque SRTS</JoinSRTSGroup>
+  <!-- Messages -->
+  <!-- EN: Cannot send Carryall without a Pilot. -->
+  <SRTSNoPilot>No se puede enviar el carguero sin un piloto.</SRTSNoPilot>
+  <!-- EN: Not enough pilots to launch -->
+  <NotEnoughPilots>No hay suficientes pilotos para lanzar</NotEnoughPilots>
+  <!-- EN: Too many colonists to launch -->
+  <TooManyPilots>Demasiados colonos para lanzar</TooManyPilots>
+  <!-- EN: Bomb run has begun. -->
+  <BombRunStarted>El bombardeo ha comenzado.</BombRunStarted>
+  <!-- EN: Cannot bomb here unless active map is loaded. -->
+  <CannotBombMap>No se puede bombardear aquí a menos que el mapa activo esté cargado.</CannotBombMap>
+  <!-- EN: Refuel {0} -->
+  <CommandAddFuelSRTS>Repostar {0}</CommandAddFuelSRTS>
+  <!-- EN: Add fuel from inventory into SRTS -->
+  <CommandAddFuelDescSRTS>Añadir combustible del inventario al SRTS</CommandAddFuelDescSRTS>
+  <!-- EN: {0} fuel has been added to {1}. -->
+  <AddFuelSRTSCaravan>{0} combustible ha sido añadido a {1}.</AddFuelSRTSCaravan>
+  <!-- EN: No fuel available -->
+  <NoFuelSRTSCaravan>No hay combustible disponible</NoFuelSRTSCaravan>
+  <!-- Caravans -->
+  <!-- Status and Compatibility-->
+  <!-- EN: Launch Orbit -->
+  <CommandLaunchOrbit>Lanzar a órbita</CommandLaunchOrbit>
+  <!-- EN: Launch to locations in Orbit -->
+  <CommandLaunchOrbitDesc>Lanzar a ubicaciones en órbita</CommandLaunchOrbitDesc>
+  <!-- Gizmo -->
+  <!-- EN: Bomb Target -->
+  <BombTarget>Objetivo de bombardeo</BombTarget>
+  <!-- EN: Select a target on another map to drop bombs on. -->
+  <BombTargetDesc>Selecciona un objetivo en otro mapa para lanzar bombas.</BombTargetDesc>
+  <!-- EN: Installed mod-version: {0} -->
+  <carryalls.CurrentModVersion>Versión del mod instalada: {0}</carryalls.CurrentModVersion>
+</LanguageData>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+    <!-- EN: No suitable colonist to modify weapon -->
+  <CWF_Message_NoColonistToModifyWeapon>No hay colonos aptos para modificar el arma</CWF_Message_NoColonistToModifyWeapon>
+    <!-- EN: Cannot find weapon module for modification -->
+  <CWF_Message_CannotFindModuleForModification>No se encuentra el módulo de arma para la modificación</CWF_Message_CannotFindModuleForModification>
+        <!-- EN: {PAWN_label} will modify {WEAPON_label} -->
+  <CWF_Message_ModificationJobDispatched>{PAWN_label} modificará {WEAPON_label}</CWF_Message_ModificationJobDispatched>
+    <!-- EN: {WEAPON_label} has been modified by {PAWN_label} -->
+  <CWF_Message_ModificationComplete>{WEAPON_label} ha sido modificada por {PAWN_label}</CWF_Message_ModificationComplete>
+</LanguageData>

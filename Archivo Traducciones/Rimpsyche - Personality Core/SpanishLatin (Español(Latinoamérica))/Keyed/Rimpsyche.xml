@@ -1,0 +1,222 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- General -->
+  <!-- EN: RimPsyche -->
+  <RimpsycheSettingCategory>RimPsyche - Personalidad</RimpsycheSettingCategory>
+
+  <!-- Settings -->
+  <!-- EN: RimPsyche General Settings -->
+  <RimpsycheGeneralSetting>Ajustes generales de RimPsyche</RimpsycheGeneralSetting>
+  <!-- EN: Enable Facet Edit -->
+  <RimpsycheAllowFacetEdit>Habilitar edición de facetas</RimpsycheAllowFacetEdit>
+  <!-- EN: Enable directly editing facets. -->
+  <RimpsycheAllowFacetEditTooltip>Habilita la edición directa de las facetas.</RimpsycheAllowFacetEditTooltip>
+  <!-- EN: Show Facets in UI -->
+  <RimpsycheShowFacetInMenu>Mostrar facetas en la interfaz</RimpsycheShowFacetInMenu>
+  <!-- EN: Enable view facets option in Psyche tab. -->
+  <RimpsycheShowFacetInMenuTooltip>Habilita la opción para ver las facetas en la pestaña Psique.</RimpsycheShowFacetInMenuTooltip>
+  <!-- EN: Show Facets radar chart in UI -->
+  <RimpsycheShowFacetGraph>Mostrar gráfico de facetas en la interfaz</RimpsycheShowFacetGraph>
+  <!-- EN: Show facet radar chart in Psyche tab. -->
+  <RimpsycheShowFacetGraphTooltip>Muestra el gráfico de radar de facetas en la pestaña Psique.</RimpsycheShowFacetGraphTooltip>
+  <!-- EN: Confirm before load/saving Psyche -->
+  <RimpsycheConfirmLoadSave>Confirmar antes de cargar/guardar Psique</RimpsycheConfirmLoadSave>
+  <!-- EN: Show confirmation pop-up before overwriting or loading pawn Psyche. -->
+  <RimpsycheConfirmLoadSaveTooltip>Muestra una ventana emergente de confirmación antes de sobrescribir o cargar la psique del colono.</RimpsycheConfirmLoadSaveTooltip>
+
+
+  <!-- Title -->
+  <!-- EN: Personality -->
+  <RPC_Personality>Personalidad</RPC_Personality>
+  <!-- EN: Interest -->
+  <RPC_Interest>Intereses</RPC_Interest>
+  <!-- EN: Sexuality -->
+  <RPC_Sexuality>Sexualidad</RPC_Sexuality>
+
+  <!-- Tab -->
+  <!-- EN: Psyche -->
+  <TabPsyche>Psique</TabPsyche>
+
+  <!-- EN: Show as List -->
+  <RimpsycheShowList>Mostrar como lista</RimpsycheShowList>
+  <!-- EN: Show as Bars -->
+  <RimpsycheShowBar>Mostrar como barras</RimpsycheShowBar>
+  <!-- EN: Show Facets -->
+  <RimpsycheShowFacet>Mostrar facetas</RimpsycheShowFacet>
+  <!-- EN: Edit -->
+  <RimpsycheEdit>Editar</RimpsycheEdit>
+  <!-- EN: Topics -->
+  <RimpsycheTopicHeader>Temas</RimpsycheTopicHeader>
+
+  <!-- EN: Affected by trait(s): -->
+  <TraitAffected>Afectado por rasgo(s):</TraitAffected>
+  <!-- EN: Affected by gene(s): -->
+  <GeneAffected>Afectado por gen(es):</GeneAffected>
+
+  <!-- EN: Psyche Disabled -->
+  <PsycheDisabled>Psique desactivada</PsycheDisabled>
+
+  <!-- Interaction -->
+  <!-- EN: Conversation about {0} -->
+  <MemoryReportString>Conversación sobre {0}</MemoryReportString>
+  <!-- EN: Neutral {0} -->
+  <RimPsycheIntensityNeutral>{0} neutral</RimPsycheIntensityNeutral>
+  <!-- EN: Extremely {0} -->
+  <RimPsycheIntensityExtremely>Extremadamente {0}</RimPsycheIntensityExtremely>
+  <!-- EN: Very {0} -->
+  <RimPsycheIntensityVery>Muy {0}</RimPsycheIntensityVery>
+  <!-- EN: Somewhat {0} -->
+  <RimPsycheIntensitySomewhat>Algo {0}</RimPsycheIntensitySomewhat>
+  <!-- EN: Marginally {0} -->
+  <RimPsycheIntensityMarginally>Ligeramente {0}</RimPsycheIntensityMarginally>
+
+  <!-- Edit Mode -->
+  <!-- EN: Facets -->
+  <RPC_Facets>Facetas</RPC_Facets>
+  <!-- EN: Reset Personality -->
+  <ResetPsycheTooltip>Restablecer personalidad</ResetPsycheTooltip>
+  <!-- EN: Facets are the core building blocks that shape a pawn's thoughts, feelings, and behavior. Each one represents a specific aspect of how they see the world and react to it. -->
+  <RimpsycheFacetInfo>Las facetas son los componentes básicos que dan forma a los pensamientos, sentimientos y comportamiento de un colono. Cada una representa un aspecto específico de cómo ven el mundo y reaccionan ante él.</RimpsycheFacetInfo>
+  <!-- EN: A pawn’s personality is the result of their individual facets coming together. It influences their behavior, relationships, and decisions. -->
+  <RimpsychePersonalityInfo>La personalidad de un colono es el resultado de la unión de sus facetas individuales. Influye en su comportamiento, relaciones y decisiones.</RimpsychePersonalityInfo>
+
+  <!-- EN: Save/Load Psyche -->
+  <SavePsycheTooltip>Guardar/Cargar Psique</SavePsycheTooltip>
+  <!-- EN: Save -->
+  <SaveToSlot>Guardar</SaveToSlot>
+  <!-- EN: Saving the Psyche here will overwrite the existing Psyche.\n\nAre you sure you want to overwrite? -->
+  <ConfirmSaveToSlot>Guardar la psique aquí sobrescribirá la psique existente.\n\n¿Estás seguro de que quieres sobrescribirla?</ConfirmSaveToSlot>
+  <!-- EN: Load -->
+  <LoadFromSlot>Cargar</LoadFromSlot>
+  <!-- EN: Loading the Psyche will overwrite the current Psyche of this pawn.\n\nAre you sure you want to overwrite? -->
+  <ConfirmLoadFromSlot>Cargar la psique sobrescribirá la psique actual de este colono.\n\n¿Estás seguro de que quieres sobrescribirla?</ConfirmLoadFromSlot>
+  <!-- EN: Loading the Psyche will overwrite the current Psyche of this pawn.\n\nWARNING: The psyche you are trying to load has an undefined sexual orientation. Loading this psyche unto a pawn will randomize their sexuality.\n\nAre you sure you want to overwrite? -->
+  <ConfirmLoadFromSlot_RandomOrientation>Cargar la psique sobrescribirá la psique actual de este colono.\n\nADVERTENCIA: La psique que intentas cargar tiene una orientación sexual indefinida. Cargar esta psique en un colono aleatorizará su sexualidad.\n\n¿Estás seguro de que quieres sobrescribirla?</ConfirmLoadFromSlot_RandomOrientation>
+  <!-- EN: Delete -->
+  <DeleteSlot>Eliminar</DeleteSlot>
+  <!-- EN: Are you sure you want to delete the saved Psyche permanently? -->
+  <ConfirmDeleteSlot>¿Estás seguro de que quieres eliminar la psique guardada permanentemente?</ConfirmDeleteSlot>
+
+  <!-- Facet Desc. -->
+  <!-- EN: Imagination -->
+  <RPC_Imagination>Imaginación</RPC_Imagination>
+  <!-- EN: Intellect -->
+  <RPC_Intellect>Intelecto</RPC_Intellect>
+  <!-- EN: Curiosity -->
+  <RPC_Curiosity>Curiosidad</RPC_Curiosity>
+  <!-- EN: Industriousness -->
+  <RPC_Industriousness>Laboriosidad</RPC_Industriousness>
+  <!-- EN: Orderliness -->
+  <RPC_Orderliness>Orden</RPC_Orderliness>
+  <!-- EN: Integrity -->
+  <RPC_Integrity>Integridad</RPC_Integrity>
+  <!-- EN: Sociability -->
+  <RPC_Sociability>Sociabilidad</RPC_Sociability>
+  <!-- EN: Assertiveness -->
+  <RPC_Assertiveness>Asertividad</RPC_Assertiveness>
+  <!-- EN: Enthusiasm -->
+  <RPC_Enthusiasm>Entusiasmo</RPC_Enthusiasm>
+  <!-- EN: Compassion -->
+  <RPC_Compassion>Compasión</RPC_Compassion>
+  <!-- EN: Cooperation -->
+  <RPC_Cooperation>Cooperación</RPC_Cooperation>
+  <!-- EN: Humbleness -->
+  <RPC_Humbleness>Humildad</RPC_Humbleness>
+  <!-- EN: Volatility -->
+  <RPC_Volatility>Volatilidad</RPC_Volatility>
+  <!-- EN: Pessimism -->
+  <RPC_Pessimism>Pesimismo</RPC_Pessimism>
+  <!-- EN: Insecurity -->
+  <RPC_Insecurity>Inseguridad</RPC_Insecurity>
+  <!-- EN: Realistic -->
+  <RPC_Realistic>Realista</RPC_Realistic>
+  <!-- EN: Imaginative -->
+  <RPC_Imaginative>Imaginativo</RPC_Imaginative>
+  <!-- EN: Practical -->
+  <RPC_Practical>Práctico</RPC_Practical>
+  <!-- EN: Philosophical -->
+  <RPC_Philosophical>Filosófico</RPC_Philosophical>
+  <!-- EN: Conventional -->
+  <RPC_Conventional>Convencional</RPC_Conventional>
+  <!-- EN: Explorative -->
+  <RPC_Explorative>Explorador</RPC_Explorative>
+  <!-- EN: Unmotivated -->
+  <RPC_Unmotivated>Desmotivado</RPC_Unmotivated>
+  <!-- EN: Industrious -->
+  <RPC_Industrious>Laborioso</RPC_Industrious>
+  <!-- EN: Disorganized -->
+  <RPC_Disorganized>Desorganizado</RPC_Disorganized>
+  <!-- EN: Organized -->
+  <RPC_Organized>Organizado</RPC_Organized>
+  <!-- EN: Inconsistent -->
+  <RPC_Inconsistent>Inconsistente</RPC_Inconsistent>
+  <!-- EN: Reliable -->
+  <RPC_Reliable>Fiable</RPC_Reliable>
+  <!-- EN: Aloof -->
+  <RPC_Aloof>Distante</RPC_Aloof>
+  <!-- EN: Friendly -->
+  <RPC_Friendly>Amistoso</RPC_Friendly>
+  <!-- EN: Timid -->
+  <RPC_Timid>Tímido</RPC_Timid>
+  <!-- EN: Assertive -->
+  <RPC_Assertive>Asertivo</RPC_Assertive>
+  <!-- EN: Stoic -->
+  <RPC_Stoic>Estoico</RPC_Stoic>
+  <!-- EN: Cheerful -->
+  <RPC_Cheerful>Alegre</RPC_Cheerful>
+  <!-- EN: Detached -->
+  <RPC_Detached>Desapegado</RPC_Detached>
+  <!-- EN: Compassionate -->
+  <RPC_Compassionate>Compasivo</RPC_Compassionate>
+  <!-- EN: Stubborn -->
+  <RPC_Stubborn>Testarudo</RPC_Stubborn>
+  <!-- EN: Accommodating -->
+  <RPC_Accommodating>Complaciente</RPC_Accommodating>
+  <!-- EN: Arrogant -->
+  <RPC_Arrogant>Arrogante</RPC_Arrogant>
+  <!-- EN: Humble -->
+  <RPC_Humble>Humilde</RPC_Humble>
+  <!-- EN: Stable -->
+  <RPC_Stable>Estable</RPC_Stable>
+  <!-- EN: Volatile -->
+  <RPC_Volatile>Volátil</RPC_Volatile>
+  <!-- EN: Optimistic -->
+  <RPC_Optimistic>Optimista</RPC_Optimistic>
+  <!-- EN: Pessimistic -->
+  <RPC_Pessimistic>Pesimista</RPC_Pessimistic>
+  <!-- EN: Confident -->
+  <RPC_Confident>Seguro</RPC_Confident>
+  <!-- EN: Insecure -->
+  <RPC_Insecure>Inseguro</RPC_Insecure>
+  <!-- EN: Reflects a vivid inner world and emotional sensitivity to art and beauty. Imaginative pawns are drawn to things like daydreams, music and art; Realistic pawns are more grounded and practical. -->
+  <RPC_Imagination_Tooltip>Refleja un mundo interior vívido y una sensibilidad emocional hacia el arte y la belleza. Los colonos imaginativos se sienten atraídos por cosas como soñar despiertos, la música y el arte; los colonos realistas son más pragmáticos y tienen los pies en la tierra.</RPC_Imagination_Tooltip>
+  <!-- EN: Captures interest in abstract thinking and complex ideas. Philosophical pawns enjoy deep conversations and philosophical questions; Practical pawns prefer concrete, straightforward thinking -->
+  <RPC_Intellect_Tooltip>Captura el interés por el pensamiento abstracto y las ideas complejas. Los colonos filosóficos disfrutan de conversaciones profundas y cuestiones filosóficas; los colonos prácticos prefieren el pensamiento concreto y directo.</RPC_Intellect_Tooltip>
+  <!-- EN: Describes a drive for novelty, diversity, and exploration. Explorative pawns seek new experiences and challenge norms; Conventional pawns favor routine and familiar settings. -->
+  <RPC_Curiosity_Tooltip>Describe un impulso por la novedad, la diversidad y la exploración. Los colonos exploradores buscan nuevas experiencias y desafían las normas; los colonos convencionales prefieren la rutina y los entornos familiares.</RPC_Curiosity_Tooltip>
+  <!-- EN: Describes a drive to achieve long-term goals through hard work and persistence. Industrious pawns are motivated and focused, seeing tasks through to completion; Unmotivated pawns tend to lack drive and may abandon tasks. -->
+  <RPC_Industriousness_Tooltip>Describe un impulso para alcanzar metas a largo plazo a través del trabajo duro y la persistencia. Los colonos laboriosos son motivados y centrados, llevando las tareas hasta su finalización; los colonos desmotivados tienden a carecer de impulso y pueden abandonar las tareas.</RPC_Industriousness_Tooltip>
+  <!-- EN: Describes a preference for structure, tidiness, and careful planning. Organized pawns manage their environments and tasks with forethought, valuing order and disliking chaos; Disorganized pawns tend to be less structured and may struggle with keeping track of tasks. -->
+  <RPC_Orderliness_Tooltip>Describe una preferencia por la estructura, el orden y la planificación cuidadosa. Los colonos organizados gestionan sus entornos y tareas con previsión, valorando el orden y detestando el caos; los colonos desorganizados tienden a ser menos estructurados y pueden tener dificultades para seguir el rastro de las tareas.</RPC_Orderliness_Tooltip>
+  <!-- EN: Describes a commitment to honesty, self-discipline, and moral consistency. Reliable pawns hold themselves to their promises, follow rules, and prioritize doing what's right; Inconsistent pawns may struggle with self-regulation, taking shortcuts or acting unreliably. -->
+  <RPC_Integrity_Tooltip>Describe un compromiso con la honestidad, la autodisciplina y la coherencia moral. Los colonos fiables cumplen sus promesas, siguen las reglas y priorizan hacer lo correcto; los colonos inconsistentes pueden tener problemas con la autorregulación, tomando atajos o actuando de manera poco fiable.</RPC_Integrity_Tooltip>
+  <!-- EN: Reflects a pawn's warmth and engagement in social interactions. Friendly pawns enjoy connecting with others and are approachable; Aloof pawns tend to be more distant and less outwardly social. -->
+  <RPC_Sociability_Tooltip>Refleja la calidez y el compromiso de un colono en las interacciones sociales. Los colonos amistosos disfrutan conectando con los demás y son accesibles; los colonos distantes tienden a ser más reservados y menos sociables externamente.</RPC_Sociability_Tooltip>
+  <!-- EN: Describes a pawn's tendency to take charge, voice opinions, and influence others in social settings. Assertive pawns are bold and confident speakers; Timid pawns are more reserved and may hesitate to express themselves. -->
+  <RPC_Assertiveness_Tooltip>Describe la tendencia de un colono a tomar el control, expresar opiniones e influir en los demás en entornos sociales. Los colonos asertivos son oradores audaces y seguros; los colonos tímidos son más reservados y pueden dudar en expresarse.</RPC_Assertiveness_Tooltip>
+  <!-- EN: Captures a pawn's desire for stimulation, positivity, and activity. Cheerful pawns are energetic, easily excited, and often on the move; Stoic pawns tend to be more reserved in their behavior and less outwardly driven by excitement. -->
+  <RPC_Enthusiasm_Tooltip>Captura el deseo de un colono por la estimulación, la positividad y la actividad. Los colonos alegres son enérgicos, se emocionan fácilmente y a menudo están en movimiento; los colonos estoicos tienden a ser más reservados en su comportamiento y menos impulsados externamente por la emoción.</RPC_Enthusiasm_Tooltip>
+  <!-- EN: Reflects a pawn's capacity for emotional empathy and their desire to alleviate distress in others. Compassionate pawns are kind, nurturing, and emotionally attuned to others' feelings; Detached pawns tend to be less sensitive to the emotional states of those around them. -->
+  <RPC_Compassion_Tooltip>Refleja la capacidad de un colono para la empatía emocional y su deseo de aliviar la angustia en los demás. Los colonos compasivos son amables, protectores y emocionalmente sintonizados con los sentimientos de los demás; los colonos desapegados tienden a ser menos sensibles a los estados emocionales de quienes los rodean.</RPC_Compassion_Tooltip>
+  <!-- EN: Describes a pawn's preference for peaceful interactions and their willingness to trust. Accommodating pawns avoid arguments, value compromise, and dislike tension; Stubborn pawns may resist compromise and prefer to stick to their own views. -->
+  <RPC_Cooperation_Tooltip>Describe la preferencia de un colono por las interacciones pacíficas y su disposición a confiar. Los colonos complacientes evitan las discusiones, valoran el compromiso y no les gusta la tensión; los colonos testarudos pueden resistirse al compromiso y prefieren aferrarse a sus propias opiniones.</RPC_Cooperation_Tooltip>
+  <!-- EN: Captures a pawn's tendency to downplay their own importance and avoid arrogance. Humble pawns are unassuming and respectful, seeing themselves as equals to others; Arrogant pawns tend to exhibit self-importance and may act superior. -->
+  <RPC_Humbleness_Tooltip>Captura la tendencia de un colono a minimizar su propia importancia y evitar la arrogancia. Los colonos humildes son modestos y respetuosos, viéndose a sí mismos como iguales a los demás; los colonos arrogantes tienden a exhibir autoimportancia y pueden actuar con superioridad.</RPC_Humbleness_Tooltip>
+  <!-- EN: Reflects a pawn's tendency to experience intense, rapidly changing emotions. Volatile pawns struggle with emotional regulation and may exhibit erratic behavior under stress; Stable pawns maintain a more consistent and calm emotional state. -->
+  <RPC_Volatility_Tooltip>Refleja la tendencia de un colono a experimentar emociones intensas y que cambian rápidamente. Los colonos volátiles luchan con la regulación emocional y pueden exhibir un comportamiento errático bajo estrés; los colonos estables mantienen un estado emocional más constante y tranquilo.</RPC_Volatility_Tooltip>
+  <!-- EN: Captures a pawn's predisposition towards negative emotions such as sadness, resentment, and irritability. Pessimistic pawns often feel hopeless and are prone to depressive moods; Optimistic pawns maintain a more positive outlook. -->
+  <RPC_Pessimism_Tooltip>Captura la predisposición de un colono hacia las emociones negativas como la tristeza, el resentimiento y la irritabilidad. Los colonos pesimistas a menudo se sienten desesperanzados y son propensos a estados de ánimo depresivos; los colonos optimistas mantienen una perspectiva más positiva.</RPC_Pessimism_Tooltip>
+  <!-- EN: Describes a pawn's susceptibility to feeling overwhelmed and their lack of confidence in stressful situations. Insecure pawns avoid pressure, fear failure, and may withdraw socially; Confident pawns approach challenges with self-assurance and are less affected by judgment. -->
+  <RPC_Insecurity_Tooltip>Describe la susceptibilidad de un colono a sentirse abrumado y su falta de confianza en situaciones estresantes. Los colonos inseguros evitan la presión, temen el fracaso y pueden retraerse socialmente; los colonos seguros abordan los desafíos con autoconfianza y se ven menos afectados por el juicio ajeno.</RPC_Insecurity_Tooltip>
+</LanguageData>

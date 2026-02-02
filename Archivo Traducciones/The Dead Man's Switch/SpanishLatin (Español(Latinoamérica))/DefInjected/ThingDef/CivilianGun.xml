@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: heavy rifle bullet -->
+  <Bullet_DMS_AMR.label>bala de rifle pesado</Bullet_DMS_AMR.label>
+  
+  <!-- EN: Riot machinegun bullet -->
+  <DMS_Bullet_MiniMachineGun.label>Bala de ametralladora antidisturbios</DMS_Bullet_MiniMachineGun.label>
+  
+  <!-- EN: 20 gauge beanbag -->
+  <DMS_Bullet_RiotRevolver.label>bala de goma calibre 20</DMS_Bullet_RiotRevolver.label>
+  
+  <!-- EN: 4 gauge bean bag -->
+  <DMS_Bullet_RiotShotgun.label>bala de goma calibre 4</DMS_Bullet_RiotShotgun.label>
+  
+  <!-- EN: Elephant Rifle -->
+  <DMS_ElephantGun.label>rifle elefante</DMS_ElephantGun.label>
+  <!-- EN: Single-shot high caliber hunting rifle. While made to hunt big game or stop large hostile lifeforms with sheer kinetic energy, it is also used by early industrial colonies against mechanoids thanks to its simple manufacture requirements. -->
+  <DMS_ElephantGun.description>Rifle de caza de un solo tiro de alto calibre. Aunque está hecho para cazar animales grandes o detener grandes formas de vida hostiles con pura energía cinética, también es utilizado por las primeras colonias industriales contra los mecanoides gracias a sus sencillos requisitos de fabricación.</DMS_ElephantGun.description>
+  <!-- EN: grip -->
+  <DMS_ElephantGun.tools.grip.label>empuñadura</DMS_ElephantGun.tools.grip.label>
+  <!-- EN: barrel -->
+  <DMS_ElephantGun.tools.barrel.label>cañón</DMS_ElephantGun.tools.barrel.label>
+  <!-- EN: Elephant Rifle -->
+  <DMS_ElephantGun.verbs.Verb_Shoot.label>Rifle de elefante</DMS_ElephantGun.verbs.Verb_Shoot.label>
+  
+  <!-- EN: Knuckleduster Revolver -->
+  <DMS_KnuckledusterRevolver.label>revólver de nudillos</DMS_KnuckledusterRevolver.label>
+  <!-- EN: A miniature self-defense weapon commonly found on midworld, it barely takes up any space when folded. Knuckleduster accept multiple calibers and may also be used as brass-knuckles in a pinch. -->
+  <DMS_KnuckledusterRevolver.description>Un arma de autodefensa en miniatura que se encuentra comúnmente en el mundo medio, apenas ocupa espacio cuando está plegada. El Knuckleduster acepta múltiples calibres y también puede usarse como nudillos de latón en caso de apuro.</DMS_KnuckledusterRevolver.description>
+  <!-- EN: grip -->
+  <DMS_KnuckledusterRevolver.tools.grip.label>empuñadura</DMS_KnuckledusterRevolver.tools.grip.label>
+  <!-- EN: blade -->
+  <DMS_KnuckledusterRevolver.tools.blade.label>cuchilla</DMS_KnuckledusterRevolver.tools.blade.label>
+  <!-- EN: point -->
+  <DMS_KnuckledusterRevolver.tools.point.label>punta</DMS_KnuckledusterRevolver.tools.point.label>
+  <!-- EN: Knuckleduster Revolver -->
+  <DMS_KnuckledusterRevolver.verbs.Verb_Shoot.label>revólver de nudillos</DMS_KnuckledusterRevolver.verbs.Verb_Shoot.label>
+  
+  <!-- EN: Riot LMG -->
+  <DMS_MiniMachineGun.label>ametralladora antidisturbios</DMS_MiniMachineGun.label>
+  <!-- EN: Pistol caliber machinegun designed for colony defense. The Riot LMG can cut down unarmored enemy hordes and prisoner riots with ease. -->
+  <DMS_MiniMachineGun.description>Ametralladora de calibre de pistola diseñada para la defensa de la colonia. La ametralladora ligera antidisturbios puede acabar con hordas enemigas sin blindaje y disturbios de prisioneros con facilidad.</DMS_MiniMachineGun.description>
+  <!-- EN: stock -->
+  <DMS_MiniMachineGun.tools.stock.label>culata</DMS_MiniMachineGun.tools.stock.label>
+  <!-- EN: barrel -->
+  <DMS_MiniMachineGun.tools.barrel.label>cañón</DMS_MiniMachineGun.tools.barrel.label>
+  <!-- EN: Riot LMG -->
+  <DMS_MiniMachineGun.verbs.Verb_Shoot.label>ametralladora antidisturbios</DMS_MiniMachineGun.verbs.Verb_Shoot.label>
+  
+  <!-- EN: Riot Revolver -->
+  <DMS_Revolver.label>revólver antidisturbios</DMS_Revolver.label>
+  <!-- EN: S double-action revolver designed to load shotgun ammo. It was designed for personal defense purposes but soon became a favored sidearm for mech solders because it can be used against most enemy types at the same time. -->
+  <DMS_Revolver.description>Revólver de doble acción diseñado para cargar munición de escopeta. Fue diseñado para fines de defensa personal, pero pronto se convirtió en un arma secundaria favorita para los soldados meca porque puede usarse contra la mayoría de los tipos de enemigos al mismo tiempo.</DMS_Revolver.description>
+  <!-- EN: grip -->
+  <DMS_Revolver.tools.grip.label>empuñadura</DMS_Revolver.tools.grip.label>
+  <!-- EN: barrel -->
+  <DMS_Revolver.tools.barrel.label>cañón</DMS_Revolver.tools.barrel.label>
+  <!-- EN: Riot Revolver -->
+  <DMS_Revolver.verbs.Verb_Shoot.label>revólver antidisturbios</DMS_Revolver.verbs.Verb_Shoot.label>
+  
+  <!-- EN: Rifled slug gun -->
+  <DMS_RiotShotgun.label>escopeta de cañón estriado</DMS_RiotShotgun.label>
+  <!-- EN: A high caliber rifled shotgun manufactured with stamped components designed for riot operations and disabling hostile mechs. -->
+  <DMS_RiotShotgun.description>Una escopeta de cañón estriado de alto calibre fabricada con componentes estampados diseñada para operaciones antidisturbios e inhabilitación de mecanoides hostiles.</DMS_RiotShotgun.description>
+  <!-- EN: stock -->
+  <DMS_RiotShotgun.tools.stock.label>culata</DMS_RiotShotgun.tools.stock.label>
+  <!-- EN: barrel -->
+  <DMS_RiotShotgun.tools.barrel.label>cañón</DMS_RiotShotgun.tools.barrel.label>
+  <!-- EN: Rifled slug gun -->
+  <DMS_RiotShotgun.verbs.Verb_Shoot.label>escopeta de cañón estriado</DMS_RiotShotgun.verbs.Verb_Shoot.label>
+  
+  <!-- EN: Survival rifle -->
+  <DMS_SurvivalRifle.label>rifle de supervivencia</DMS_SurvivalRifle.label>
+  <!-- EN: Foldable rifle issued to war machine crew members in case of emergency. Accepts multiple common calibers. -->
+  <DMS_SurvivalRifle.description>Rifle plegable entregado a los miembros de la tripulación de máquinas de guerra en caso de emergencia. Acepta múltiples calibres comunes.</DMS_SurvivalRifle.description>
+  <!-- EN: stock -->
+  <DMS_SurvivalRifle.tools.stock.label>culata</DMS_SurvivalRifle.tools.stock.label>
+  <!-- EN: barrel -->
+  <DMS_SurvivalRifle.tools.barrel.label>cañón</DMS_SurvivalRifle.tools.barrel.label>
+  <!-- EN: Survival rifle -->
+  <DMS_SurvivalRifle.verbs.Verb_Shoot.label>rifle de supervivencia</DMS_SurvivalRifle.verbs.Verb_Shoot.label>
+  
+</LanguageData>

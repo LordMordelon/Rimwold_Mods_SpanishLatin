@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+	<!-- linkable item extra tooltip -->
+	<!-- EN: Linked with {LOVER_nameDef}. -->
+  <RotR_LinkedWith>Vinculado con {LOVER_nameDef}.</RotR_LinkedWith>
+	<!-- link targetter -->
+	<!-- EN: Must have lover -->
+  <RotR_WearerMustHaveLover>Debe tener amante</RotR_WearerMustHaveLover>
+	<!-- EN: Can only target lover -->
+  <RotR_CanOnlyTargetLover>Solo puede apuntar al amante</RotR_CanOnlyTargetLover>
+	
+	<!-- rose of rebirth -->
+	<!-- EN: Must be widowed. -->
+  <RotR_MustBeWidowed>Debe ser viudo/a.</RotR_MustBeWidowed>
+	<!-- EN: Must be planted near lover's grave -->
+  <RotR_MustPlantedNearLoversGrave>Debe plantarse cerca de la tumba del amante</RotR_MustPlantedNearLoversGrave>
+	<!-- EN: {0} has resurrected. -->
+  <RotR_ResurrectedFromRoseOfRebirth>{0} ha resucitado.</RotR_ResurrectedFromRoseOfRebirth>
+	<!-- EN: The death of rose disturbs {0}'s corpse. -->
+  <RotR_ResurrectedAsShamblerFromRoseOfRebirth>La muerte de la rosa perturba el cadáver de {0}.</RotR_ResurrectedAsShamblerFromRoseOfRebirth>
+	
+	<!-- stardust bracelet -->
+	<!-- EN: Absorb ranged damage chance -->
+  <RotR_Stat_AbsorbRangedDamageLabel>Probabilidad de absorber daño a distancia</RotR_Stat_AbsorbRangedDamageLabel>
+	<!-- EN: The bracelet may protect its wearer from ranged damage. -->
+  <RotR_Stat_AbsorbRangedDamageDesc>El brazalete puede proteger a su portador del daño a distancia.</RotR_Stat_AbsorbRangedDamageDesc>
+	
+	<!-- longing ring -->
+	<!-- EN: Available in {0}s -->
+  <RotR_RingCoolDown>Disponible en {0}s</RotR_RingCoolDown>
+	<!-- EN: No linked lover. -->
+  <RotR_NoLinkedLover>Sin amante vinculado.</RotR_NoLinkedLover>
+	<!-- EN: Linking it with other pawns will make it unfunctional. Continue? -->
+  <RotR_LinkingWillViolateReciprocity>Vincularlo con otros peones lo hará inoperante. ¿Continuar?</RotR_LinkingWillViolateReciprocity>
+	<!-- EN: The other ring not linked. -->
+  <RotR_LinkedRingNotFunctional>El otro anillo no está vinculado.</RotR_LinkedRingNotFunctional>
+	<!-- EN: Teleport to lover -->
+  <RotR_LongingRingTeleportGizmoLabel>Teletransportarse al amante</RotR_LongingRingTeleportGizmoLabel>
+	<!-- EN: Wearers can activate the ring's magic to instantly teleport to their beloved's side. -->
+  <RotR_LongingRingTeleportGizmoDesc>Los portadores pueden activar la magia del anillo para teletransportarse instantáneamente al lado de su amado.</RotR_LongingRingTeleportGizmoDesc>
+</LanguageData>

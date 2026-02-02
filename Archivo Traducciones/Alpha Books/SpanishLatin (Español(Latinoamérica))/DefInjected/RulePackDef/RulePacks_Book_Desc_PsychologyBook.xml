@@ -1,0 +1,159 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>desc->[intro] [conceptExploration]. [writingQualitySentence]. [maybe_date][ending]</li>
+    <li>desc->[conceptExploration]: [impactStatement]. [writingQualitySentence]. [maybe_date][ending]</li>
+    <li>desc->[intro] [contextStatement] [conceptExploration]. [writingQualitySentence]. [maybe_date][ending]</li>
+    <li>ending->\n\nUna vez leído, este libro otorgará gestión del estado de ánimo y mejoras sociales durante tres días, y luego será destruido.</li>
+    <li>intro->Este [bookType] [writingQualityAdjective] ofrece una mirada profunda a</li>
+    <li>intro->Una guía [writingQualityAdjective] para navegar</li>
+    <li>intro->Un [bookType] atemporal que narra los desafíos de</li>
+    <li>intro->Un relato [writingQualityAdjective] de supervivencia en medio de</li>
+    <li>intro->Un [bookType] extraordinario que explora</li>
+    <li>intro->Una exploración inquietantemente vívida de</li>
+    <li>conceptExploration->la interacción entre el miedo y el liderazgo</li>
+    <li>conceptExploration->los efectos de la soledad en la psique</li>
+    <li>conceptExploration->la ética de la toma de decisiones en escenarios de vida o muerte</li>
+    <li>conceptExploration->cómo la desesperación da forma a las relaciones</li>
+    <li>conceptExploration->el papel de la confianza en la supervivencia</li>
+    <li>conceptExploration->adaptarse al aislamiento aplastante del Borde</li>
+    <li>conceptExploration->el conflicto entre los instintos de supervivencia y la moralidad</li>
+    <li>conceptExploration->el delicado equilibrio entre la esperanza y la desesperación</li>
+    <li>conceptExploration->cómo la lucha colectiva construye, o destruye, comunidades</li>
+    <li>conceptExploration->la psicología del trabajo en un mundo implacable</li>
+    <li>contextStatement->anécdotas vívidas del Borde, examina</li>
+    <li>contextStatement->décadas de experiencias coloniales, este libro explora</li>
+    <li>contextStatement->los registros de innumerables colonos varados, revela</li>
+    <li>contextStatement->historias reales de la frontera, este libro descubre</li>
+    <li>contextStatement->las luchas de los pioneros del Borde, explica</li>
+    <li>impactStatement->Sus conocimientos reformarán cómo entiendes el comportamiento humano bajo presión</li>
+    <li>impactStatement->Proporciona herramientas vitales para cualquier colono que navegue por una frontera dura</li>
+    <li>impactStatement->Arroja luz sobre los rincones más oscuros de la mente humana</li>
+    <li>impactStatement->Este libro es un recurso crítico para líderes en peligro</li>
+    <li>impactStatement->Las lecciones internas son esenciales para cualquiera que se esfuerce por soportar el Borde</li>
+    <li>writingQualityAdjective(quality==6)->elaborado magistralmente</li>
+    <li>writingQualityAdjective(quality==5)->brillantemente perspicaz</li>
+    <li>writingQualityAdjective(quality==4)->estimulante y preciso</li>
+    <li>writingQualityAdjective(quality==3)->funcional pero poco inspirado</li>
+    <li>writingQualityAdjective(quality==2)->mediocre</li>
+    <li>writingQualityAdjective(quality==1)->apenas comprensible</li>
+    <li>writingQualityAdjective(quality==0)->divagar incoherente de un</li>
+    <li>writingQualitySentence(quality[greater_than]3)->Es [excellentDesc] [excellentExtra]</li>
+    <li>writingQualitySentence(quality[less_than]4,quality[greater_than]1)->Es [decentDesc] [decentExtra]</li>
+    <li>writingQualitySentence(quality[less_than]2)->Es [awfulDesc] [awfulExtra]</li>
+    <li>excellentDesc->una obra maestra de perspicacia psicológica</li>
+    <li>excellentDesc->un recurso invaluable para comprender la psicología de la supervivencia</li>
+    <li>excellentDesc->una guía construida por expertos para líderes de colonias</li>
+    <li>excellentDesc->una exploración profundamente original de la supervivencia psicológica en el Borde</li>
+    <li>excellentDesc->rico en consejos prácticos y narraciones vívidas</li>
+    <li>excellentExtra->que revela la verdadera esencia de la psicología humana</li>
+    <li>excellentExtra->que inspira resiliencia incluso en los tiempos más oscuros</li>
+    <li>excellentExtra->que equipa a los lectores para los desafíos de la vida fronteriza</li>
+    <li>decentDesc->una guía aceptable para la resiliencia psicológica</li>
+    <li>decentDesc->interesante pero sin pulir</li>
+    <li>decentDesc->útil en algunas áreas pero carente de profundidad</li>
+    <li>decentDesc->centrado en unos pocos conceptos estrechos</li>
+    <li>decentDesc->ocasionalmente perspicaz pero desigual</li>
+    <li>decentExtra->y puede ser de utilidad para lectores menos experimentados</li>
+    <li>decentExtra->, no aborda el panorama general de la supervivencia</li>
+    <li>decentExtra->aunque sus teorías pueden ser inconsistentes</li>
+    <li>awfulDesc->una colección desordenada de ideas a medio cocinar</li>
+    <li>awfulDesc->un lío confuso de teorías infundadas</li>
+    <li>awfulDesc->completamente poco práctico y mal investigado</li>
+    <li>awfulDesc->lleno de anécdotas irrelevantes y relleno</li>
+    <li>awfulDesc->un revoltijo caótico de teorías contradictorias</li>
+    <li>awfulExtra->y totalmente inútil para cualquiera que enfrente desafíos psicológicos reales</li>
+    <li>awfulExtra->y activamente dañino para cualquiera que busque una visión real de la psicología</li>
+    <li>maybe_date-></li>
+    <li>maybe_date->El libro fue publicado [date_form].</li>
+    <li>maybe_date->El texto se registró por primera vez [date_form].</li>
+    <li>maybe_date->Sus orígenes se pierden en el tiempo, como tantos en el Borde.</li>
+    <li>date_form->recientemente</li>
+    <li>date_form->hace generaciones</li>
+    <li>date_form->en el [date]</li>
+    <li>date_form->durante [date_season]</li>
+    <li>bookType(p=4)->estudio psicológico</li>
+    <li>bookType(p=3)->guía de campo</li>
+    <li>bookType(p=2)->manual colonial</li>
+    <li>bookType(p=1)->tratado de supervivencia</li>
+  -->
+  <ABooks_PsychologyBook_Description.rulePack.rulesStrings>
+    <li>desc->[intro] [conceptExploration]. [writingQualitySentence]. [maybe_date][ending]</li>
+    <li>desc->[conceptExploration]: [impactStatement]. [writingQualitySentence]. [maybe_date][ending]</li>
+    <li>desc->[intro] [contextStatement] [conceptExploration]. [writingQualitySentence]. [maybe_date][ending]</li>
+    <li>ending->\n\nUna vez leído, este libro otorgará gestión del estado de ánimo y mejoras sociales durante tres días, y luego será destruido.</li>
+    <li>intro->Este [bookType] [writingQualityAdjective] ofrece una mirada profunda a</li>
+    <li>intro->Una guía [writingQualityAdjective] para navegar</li>
+    <li>intro->Un [bookType] atemporal que narra los desafíos de</li>
+    <li>intro->Un relato [writingQualityAdjective] de supervivencia en medio de</li>
+    <li>intro->Un [bookType] extraordinario que explora</li>
+    <li>intro->Una exploración inquietantemente vívida de</li>
+    <li>conceptExploration->la interacción entre el miedo y el liderazgo</li>
+    <li>conceptExploration->los efectos de la soledad en la psique</li>
+    <li>conceptExploration->la ética de la toma de decisiones en escenarios de vida o muerte</li>
+    <li>conceptExploration->cómo la desesperación da forma a las relaciones</li>
+    <li>conceptExploration->el papel de la confianza en la supervivencia</li>
+    <li>conceptExploration->adaptarse al aislamiento aplastante del Borde</li>
+    <li>conceptExploration->el conflicto entre los instintos de supervivencia y la moralidad</li>
+    <li>conceptExploration->el delicado equilibrio entre la esperanza y la desesperación</li>
+    <li>conceptExploration->cómo la lucha colectiva construye, o destruye, comunidades</li>
+    <li>conceptExploration->la psicología del trabajo en un mundo implacable</li>
+    <li>contextStatement->anécdotas vívidas del Borde, examina</li>
+    <li>contextStatement->décadas de experiencias coloniales, este libro explora</li>
+    <li>contextStatement->los registros de innumerables colonos varados, revela</li>
+    <li>contextStatement->historias reales de la frontera, este libro descubre</li>
+    <li>contextStatement->las luchas de los pioneros del Borde, explica</li>
+    <li>impactStatement->Sus conocimientos reformarán cómo entiendes el comportamiento humano bajo presión</li>
+    <li>impactStatement->Proporciona herramientas vitales para cualquier colono que navegue por una frontera dura</li>
+    <li>impactStatement->Arroja luz sobre los rincones más oscuros de la mente humana</li>
+    <li>impactStatement->Este libro es un recurso crítico para líderes en peligro</li>
+    <li>impactStatement->Las lecciones internas son esenciales para cualquiera que se esfuerce por soportar el Borde</li>
+    <li>writingQualityAdjective(quality==6)->elaborado magistralmente</li>
+    <li>writingQualityAdjective(quality==5)->brillantemente perspicaz</li>
+    <li>writingQualityAdjective(quality==4)->estimulante y preciso</li>
+    <li>writingQualityAdjective(quality==3)->funcional pero poco inspirado</li>
+    <li>writingQualityAdjective(quality==2)->mediocre</li>
+    <li>writingQualityAdjective(quality==1)->apenas comprensible</li>
+    <li>writingQualityAdjective(quality==0)->divagar incoherente de un</li>
+    <li>writingQualitySentence(quality[greater_than]3)->Es [excellentDesc] [excellentExtra]</li>
+    <li>writingQualitySentence(quality[less_than]4,quality[greater_than]1)->Es [decentDesc] [decentExtra]</li>
+    <li>writingQualitySentence(quality[less_than]2)->Es [awfulDesc] [awfulExtra]</li>
+    <li>excellentDesc->una obra maestra de perspicacia psicológica</li>
+    <li>excellentDesc->un recurso invaluable para comprender la psicología de la supervivencia</li>
+    <li>excellentDesc->una guía construida por expertos para líderes de colonias</li>
+    <li>excellentDesc->una exploración profundamente original de la supervivencia psicológica en el Borde</li>
+    <li>excellentDesc->rico en consejos prácticos y narraciones vívidas</li>
+    <li>excellentExtra->que revela la verdadera esencia de la psicología humana</li>
+    <li>excellentExtra->que inspira resiliencia incluso en los tiempos más oscuros</li>
+    <li>excellentExtra->que equipa a los lectores para los desafíos de la vida fronteriza</li>
+    <li>decentDesc->una guía aceptable para la resiliencia psicológica</li>
+    <li>decentDesc->interesante pero sin pulir</li>
+    <li>decentDesc->útil en algunas áreas pero carente de profundidad</li>
+    <li>decentDesc->centrado en unos pocos conceptos estrechos</li>
+    <li>decentDesc->ocasionalmente perspicaz pero desigual</li>
+    <li>decentExtra->y puede ser de utilidad para lectores menos experimentados</li>
+    <li>decentExtra->, no aborda el panorama general de la supervivencia</li>
+    <li>decentExtra->aunque sus teorías pueden ser inconsistentes</li>
+    <li>awfulDesc->una colección desordenada de ideas a medio cocinar</li>
+    <li>awfulDesc->un lío confuso de teorías infundadas</li>
+    <li>awfulDesc->completamente poco práctico y mal investigado</li>
+    <li>awfulDesc->lleno de anécdotas irrelevantes y relleno</li>
+    <li>awfulDesc->un revoltijo caótico de teorías contradictorias</li>
+    <li>awfulExtra->y totalmente inútil para cualquiera que enfrente desafíos psicológicos reales</li>
+    <li>awfulExtra->y activamente dañino para cualquiera que busque una visión real de la psicología</li>
+    <li>maybe_date-></li>
+    <li>maybe_date->El libro fue publicado [date_form].</li>
+    <li>maybe_date->El texto se registró por primera vez [date_form].</li>
+    <li>maybe_date->Sus orígenes se pierden en el tiempo, como tantos en el Borde.</li>
+    <li>date_form->recientemente</li>
+    <li>date_form->hace generaciones</li>
+    <li>date_form->en el [date]</li>
+    <li>date_form->durante [date_season]</li>
+    <li>bookType(p=4)->estudio psicológico</li>
+    <li>bookType(p=3)->guía de campo</li>
+    <li>bookType(p=2)->manual colonial</li>
+    <li>bookType(p=1)->tratado de supervivencia</li>
+  </ABooks_PsychologyBook_Description.rulePack.rulesStrings>
+  
+</LanguageData>

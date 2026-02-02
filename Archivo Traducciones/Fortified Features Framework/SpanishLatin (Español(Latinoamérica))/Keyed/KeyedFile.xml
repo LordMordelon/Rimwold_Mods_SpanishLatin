@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+
+  <!-- EN: DMS: Trigger Safe Actived -->
+  <FFF.WillTerminateTheBetrayedUnit>DMS: Disparador seguro activado</FFF.WillTerminateTheBetrayedUnit>
+  
+  <!-- EN: Need mechanitor in map -->
+  <FFF.Reason.NoMechanitorInMap>Se necesita un mecanitor en el mapa</FFF.Reason.NoMechanitorInMap>
+  <!-- EN: Must be Mechanitor -->
+  <FFF.Reason.NotMechanitor>Debe ser un mecanitor</FFF.Reason.NotMechanitor>
+  <!-- EN: Orbital downlink has established connection with mechanitor -->
+  <FFF.Message.BandwidthSupported>El enlace orbital ha establecido conexión con el mecanitor</FFF.Message.BandwidthSupported>
+
+  <!-- EN: Inventroy fulled -->
+  <FFF.Reason.NoPayloadCapacity>Inventario lleno</FFF.Reason.NoPayloadCapacity>
+  <!-- EN: Take {0} -->
+  <FFF.TakeToInventory>Tomar {0}</FFF.TakeToInventory>
+  <!-- EN: Drop inventories -->
+  <FFF.DropGears>Soltar inventarios</FFF.DropGears>
+
+  <!-- EN: work type disabled -->
+  <!-- EN: work type disabled -->
+  <FFF.Reason.WorkTypeDisabled>tipo de trabajo deshabilitado</FFF.Reason.WorkTypeDisabled>
+  <!-- EN: need bandwidth:{0} -->
+  <!-- EN: need bandwidths:{0} -->
+  <FFF.Reason.NeedBandwidth>necesita ancho de banda:{0}</FFF.Reason.NeedBandwidth>
+  <!-- EN: altitude layer occupied -->
+  <!-- EN: altitude layer occupied -->
+  <FFF.Reason.AltitudeLayerOccupied>capa de altitud ocupada</FFF.Reason.AltitudeLayerOccupied>
+  <!-- EN: No enough fuel -->
+  <!-- EN: No enough fuel -->
+  <FFF.Reason.NoEnoughFuel>No hay suficiente combustible</FFF.Reason.NoEnoughFuel>
+  <!-- EN: No fuel -->
+  <!-- EN: No fuel -->
+  <FFF.Reason.NotFueled>Sin combustible</FFF.Reason.NotFueled>
+
+  <!-- EN: deactivate Mech -->
+  <!-- EN: deactivate mech -->
+  <FFF.DeactivatedMech_Disable>desactivar mecanoide</FFF.DeactivatedMech_Disable>
+  <!-- EN: Try hacking {0} -->
+  <!-- EN: Try hacking {0} -->
+  <FFF.DeactivatedMech_TryHack>Intentar hackear {0}</FFF.DeactivatedMech_TryHack>
+  <!-- EN: Cannot hacking -->
+  <!-- EN: Cannot hack -->
+  <FFF.DeactivatedMech_CannotHack>No se puede hackear</FFF.DeactivatedMech_CannotHack>
+
+  <!-- EN: Requires total mass exceeding {0} -->
+  <!-- EN: Requires total mass exceeding {0} -->
+  <FFF.BillRequires.Mass>Requiere una masa total superior a {0}</FFF.BillRequires.Mass>
+  <!-- EN: Requires total price to exceed {0} -->
+  <!-- EN: Requires total price to exceed {0} -->
+  <FFF.BillRequires.MarketValue>Requiere que el precio total exceda {0}</FFF.BillRequires.MarketValue>
+
+  <!-- EN: missing mech returned -->
+  <FFF.MechReturn>mecanoide perdido devuelto</FFF.MechReturn>
+  <!-- EN: a wandering mech that was under your command has returned to your base. -->
+  <FFF.MechReturnDesc>un mecanoide errante que estaba bajo tu mando ha regresado a tu base.</FFF.MechReturnDesc>
+  <!-- EN: switch reset failure -->
+  <FFF.MechWake>fallo de reinicio del interruptor</FFF.MechWake>
+  <!-- EN: maybe because it has been wandering for a long time, the dead man switch doesn't reset as usual, and the faulty unit has gained its understanding of death. \n\nIt named itself and now refuses to be controlled, but it respected its former commander. \n\nit will follow your command until it decides to leave. -->
+  <FFF.MechWakeDesc>tal vez porque ha estado vagando durante mucho tiempo, el Dead Man's Switch no se reinicia como de costumbre, y la unidad defectuosa ha ganado su comprensión de la muerte.\n\nSe nombró a sí mismo y ahora se niega a ser controlado, pero respetaba a su antiguo comandante.\n\nseguirá tus órdenes hasta que decida irse.</FFF.MechWakeDesc>
+
+  <!-- EN: {0} is leaving -->
+  <FFF.MechStartLeave>{0} se va</FFF.MechStartLeave>
+  <!-- EN: After spending some time together, {0} decided it is time to leave. -->
+  <FFF.MechStartLeaveDesc>Después de pasar un tiempo juntos, {0} decidió que es hora de irse.</FFF.MechStartLeaveDesc>
+  <!-- EN: {0} is leaving -->
+  <FFF.WokenMechLeave>{0} se va</FFF.WokenMechLeave>
+  <!-- EN: After spending some time together, {0} decided it is time to leave. -->
+  <FFF.WokenMechLeaveDesc>Después de pasar un tiempo juntos, {0} decidió que es hora de irse.</FFF.WokenMechLeaveDesc>
+  <!-- EN: {0}'s after story -->
+  <FFF.MechStory_Attack>La historia posterior de {0}</FFF.MechStory_Attack>
+  <!-- EN: {0}'s return of favors -->
+  <FFF.MechStory_Loot>La devolución de favores de {0}</FFF.MechStory_Loot>
+
+  <!-- EN: APS remain time:{0} -->
+  <FFF.APS_TickRemain>Tiempo restante de APS:{0}</FFF.APS_TickRemain>
+
+  <!-- EN: Imprinted: {0}({1}) -->
+  <FFF.WeaponImprinted>Grabado: {0}({1})</FFF.WeaponImprinted>
+
+  <!-- EN: Imprinted: {0} -->
+  <FFF.Inprinted>Grabado: {0}</FFF.Inprinted>
+
+  <!-- EN: the colony mech {0} has equipped with its first weapon, this makes its adaptive learning ability bound to that type of weapon. -->
+  <FFF.InprintedDesc>el mecanoide de la colonia {0} se ha equipado con su primera arma, esto hace que su capacidad de aprendizaje adaptativo se vincule a ese tipo de arma.</FFF.InprintedDesc>
+
+  <!-- EN: {1} from {0} is inbound. -->
+  <FFF.AirSupportFromClosestBase>{1} de {0} está en camino.</FFF.AirSupportFromClosestBase>
+</LanguageData>

@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: amplify memory mood offset -->
+  <USH_ModifyCellAmplify.label>amplificar ánimo del recuerdo</USH_ModifyCellAmplify.label>
+  <!-- EN: Multiplies memory mood offset by 125%. Caps at a maximum mood offset of 45. -->
+  <USH_ModifyCellAmplify.description>Multiplica el efecto del recuerdo en el estado de ánimo en un 125%. Se limita a un máximo de +45 de estado de ánimo.</USH_ModifyCellAmplify.description>
+  <!-- EN: Modifying memory. -->
+  <USH_ModifyCellAmplify.jobString>Modificando recuerdo.</USH_ModifyCellAmplify.jobString>
+  <!-- EN: amplified mood offset -->
+  <USH_ModifyCellAmplify.modExtensions.0.label>ánimo del recuerdo amplificado</USH_ModifyCellAmplify.modExtensions.0.label>
+  
+  <!-- EN: postpone memory expiration date -->
+  <USH_ModifyCellPostpone.label>posponer expiración del recuerdo</USH_ModifyCellPostpone.label>
+  <!-- EN: Postpones memory expiration time by a half a year. -->
+  <USH_ModifyCellPostpone.description>Pospone el tiempo de expiración del recuerdo por medio año.</USH_ModifyCellPostpone.description>
+  <!-- EN: Modifying memory. -->
+  <USH_ModifyCellPostpone.jobString>Modificando recuerdo.</USH_ModifyCellPostpone.jobString>
+  <!-- EN: postponed expiration date -->
+  <USH_ModifyCellPostpone.modExtensions.0.label>expiración pospuesta</USH_ModifyCellPostpone.modExtensions.0.label>
+  
+  <!-- EN: reduce memory expiration rate -->
+  <USH_ModifyCellReduceRate.label>reducir velocidad de expiración del recuerdo</USH_ModifyCellReduceRate.label>
+  <!-- EN: Reduces memory expiration rate to 50%. -->
+  <USH_ModifyCellReduceRate.description>Reduce la velocidad de expiración del recuerdo al 50%.</USH_ModifyCellReduceRate.description>
+  <!-- EN: Modifying memory. -->
+  <USH_ModifyCellReduceRate.jobString>Modificando recuerdo.</USH_ModifyCellReduceRate.jobString>
+  <!-- EN: reduced expiration rate -->
+  <USH_ModifyCellReduceRate.modExtensions.0.label>velocidad de expiración reducida</USH_ModifyCellReduceRate.modExtensions.0.label>
+  
+</LanguageData>

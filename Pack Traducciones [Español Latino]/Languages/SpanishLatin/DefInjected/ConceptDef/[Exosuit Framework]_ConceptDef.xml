@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <WG_Frame_Capture.helpText>Es imposible encarcelar a un piloto de armazón, pueden salir por la puerta con facilidad. selecciona a tu colono y haz clic derecho en un armazón enemigo derribado para crear una tarea de desmontaje y así poder sacar al piloto de su armazón.</WG_Frame_Capture.helpText>
+  <WG_Frame_Capture.label>capturar un piloto derribado</WG_Frame_Capture.label>
+  <WG_Frame_PilotSchedule.helpText>Puedes designar a un colono para que pilotee automáticamente estableciendo su horario en "Pilotar" y asignándole un pórtico o un lugar de estacionamiento. Si un piloto no tiene asignado el horario "Pilotar" ni "Cualquiera", intentará acoplar su armazón en cualquier lugar o pórtico disponible.</WG_Frame_PilotSchedule.helpText>
+  <WG_Frame_PilotSchedule.label>horario del piloto</WG_Frame_PilotSchedule.label>
+  <WG_Frame_Wreckage.helpText>Cuando el punto de estructura se agota, el armazón quedará totalmente inutilizado y se convertirá en restos, esto no significa que el piloto esté muerto, todavía puedes rescatarlo ordenando a tu colono que lo abra.</WG_Frame_Wreckage.helpText>
+  <WG_Frame_Wreckage.label>armazón inutilizado</WG_Frame_Wreckage.label>
+  <WG_Gantry_LinkBuilding.helpText>El pórtico solo mostrará los módulos del almacenamiento de módulos conectado, así que asegúrate de tener el almacenamiento de módulos conectado antes de abrir el menú de personalización.</WG_Gantry_LinkBuilding.helpText>
+  <WG_Gantry_LinkBuilding.label>almacenamiento de módulos</WG_Gantry_LinkBuilding.label>
+  <WG_Gantry_LoadModule.helpText>Al hacer clic con el botón derecho en la ranura, un menú flotante te mostrará lo que está disponible para esta ranura, y algunas de las ranuras pueden hacer que haya más ranuras disponibles, y algunas pueden desactivar otras ranuras.</WG_Gantry_LoadModule.helpText>
+  <WG_Gantry_LoadModule.label>cargando módulo</WG_Gantry_LoadModule.label>
+  <WG_Gantry_Overloaded.helpText>Si el peso cargado es mayor del que el armazón puede soportar, entonces el armazón se sobrecargará, todavía puedes pilotarlo pero significa que no tienes capacidad de carga y además solo tienes el 50% de la velocidad de movimiento.</WG_Gantry_Overloaded.helpText>
+  <WG_Gantry_Overloaded.label>sobrecargado</WG_Gantry_Overloaded.label>
+  <WG_Gantry_PayloadCapacity.helpText>Cada armazón de núcleo tiene una cantidad máxima de potencia de salida, en resumen, como capacidad de carga útil. cada módulo ensamblado consumirá esta capacidad.</WG_Gantry_PayloadCapacity.helpText>
+  <WG_Gantry_PayloadCapacity.label>capacidad de carga útil</WG_Gantry_PayloadCapacity.label>
+  <WG_Gantry_Repair.helpText>Los colonos con trabajo de artesanía repararán los módulos ensamblados en el pórtico si la reparación automática está activada, pero esto llevará más tiempo de trabajo.</WG_Gantry_Repair.helpText>
+  <WG_Gantry_Repair.label>reparando en el pórtico</WG_Gantry_Repair.label>
+  <WG_ModuleItem.helpText>Parece que has adquirido una caja de módulos, este tipo de artículos solo serán útiles cuando tengas un pórtico para ensamblarlos, pero también puedes reciclarlos en el fundidor si no tienes la tecnología para hacer un buen uso de ellos.</WG_ModuleItem.helpText>
+  <WG_ModuleItem.label>módulo</WG_ModuleItem.label>
+  <WG_Module_Repair.helpText>Los colonos con trabajo de artesanía se encargarán de reparar los módulos dañados, la velocidad de reparación se ve afectada por la velocidad de trabajo del colono.</WG_Module_Repair.helpText>
+  <WG_Module_Repair.label>reparando módulo</WG_Module_Repair.label>
+  <WG_ParkingSpot.helpText>Este es un lugar de estacionamiento para estacionar temporalmente tu armazón. Mientras trabajas en el sitio de la caravana, no tienes herramientas para reparar las partes dañadas, pero el piloto puede descansar y recibir tratamiento médico adecuado.</WG_ParkingSpot.helpText>
+  <WG_ParkingSpot.label>lugar de estacionamiento</WG_ParkingSpot.label>
+  <WG_WalkerFrame.helpText>Parece que has adquirido la tecnología para producir un tipo de exotraje pesado, estos trajes son diferentes de los trajes normales y requieren un edificio específico para ensamblarlos y equiparlos o desequiparlos.</WG_WalkerFrame.helpText>
+  <WG_WalkerFrame.label>armazón de caminante</WG_WalkerFrame.label>
+</LanguageData>

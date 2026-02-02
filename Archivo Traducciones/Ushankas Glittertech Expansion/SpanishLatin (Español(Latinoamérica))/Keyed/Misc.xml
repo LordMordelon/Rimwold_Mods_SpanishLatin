@@ -1,0 +1,301 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+
+  <!-- EN: Reconstructing ends in: {0} s -->
+  <USH_GE_Reconstructing>La reconstrucción termina en: {0} s</USH_GE_Reconstructing>
+
+  <!-- EN: Research performed: {0} -->
+  <USH_GE_ResPerformed>Investigación realizada: {0}</USH_GE_ResPerformed>
+
+  <!-- EN: {0} needed per use: {1} -->
+  <USH_GE_FuelCost>{0} necesario por uso: {1}</USH_GE_FuelCost>
+
+  <!-- EN: Current forming cycle -->
+  <USH_GE_CurrentFormingCycle>Ciclo de formación actual</USH_GE_CurrentFormingCycle>
+  <!-- EN: Forming cycles remaining -->
+  <USH_GE_RemainingFormingCycles>Ciclos de formación restantes</USH_GE_RemainingFormingCycles>
+  <!-- EN: Forming cycles -->
+  <USH_GE_FormingCycles>Ciclos de formación</USH_GE_FormingCycles>
+
+  <!-- EN: Will draw {0} W stored power to start forming {1} -->
+  <USH_GE_WillDraw>Consumirá {0} W de energía almacenada para empezar a formar {1}</USH_GE_WillDraw>
+  <!-- EN: Needs {0} W (has {2} W) stored power for {1} -->
+  <USH_GE_NoPowerStored>Necesita {0} W (tiene {2} W) de energía almacenada para {1}</USH_GE_NoPowerStored>
+  <!-- EN: Needs {0} W (has {1} W) stored power -->
+  <USH_GE_NoPowerStoredShort>Necesita {0} W (tiene {1} W) de energía almacenada</USH_GE_NoPowerStoredShort>
+  <!-- EN: Missing active {0} -->
+  <USH_GE_NoFacility>Falta {0} activo</USH_GE_NoFacility>
+  <!-- EN: Total forming time left: {0} -->
+  <USH_GE_FormTimeTotal>Tiempo total de formación restante: {0}</USH_GE_FormTimeTotal>
+  <!-- EN: Needs power stored:  -->
+  <USH_GE_PowerNeed>Necesita energía almacenada: </USH_GE_PowerNeed>
+  <!-- EN: Total forming duration -->
+  <USH_GE_FormingDuration>Duración total de formación</USH_GE_FormingDuration>
+
+  <!-- EN: Toggle automatic usage -->
+  <USH_GE_CommandAutoUsage>Alternar uso automático</USH_GE_CommandAutoUsage>
+  <!-- EN: If enabled the doctor will automatically activate the machine after completing medical bills on a patient. -->
+  <USH_GE_CommandAutoUsageDesc>Si está activado, el médico activará automáticamente la máquina después de completar procedimientos médicos en un paciente.</USH_GE_CommandAutoUsageDesc>
+
+  <!-- EN: Not placed in a room. -->
+  <USH_GE_NoRoom>No está en una habitación.</USH_GE_NoRoom>
+  <!-- EN: The room area is bigger then {0}. -->
+  <USH_GE_RoomTooBig>El área de la habitación es mayor que {0}.</USH_GE_RoomTooBig>
+  <!-- EN: The room is not fully roofed. -->
+  <USH_GE_RoomUnroofed>La habitación no está completamente techada.</USH_GE_RoomUnroofed>
+  <!-- EN: No nearby pawns under anesthesia. -->
+  <USH_GE_NoAnesthesia>No hay colonos cercanos bajo anestesia.</USH_GE_NoAnesthesia>
+
+  <!-- EN: Waiting for manual maintenance -->
+  <USH_GE_WaitingForMaintenance>Esperando mantenimiento manual</USH_GE_WaitingForMaintenance>
+  <!-- EN: Waiting for manual completion -->
+  <USH_GE_WaitingForCompletion>Esperando finalización manual</USH_GE_WaitingForCompletion>
+  <!-- EN: Forming -->
+  <USH_GE_Forming>Formando</USH_GE_Forming>
+  <!-- EN: Gathered ingredients -->
+  <USH_GE_GatheredIngredients>Ingredientes reunidos</USH_GE_GatheredIngredients>
+  <!-- EN: Power stored: {0} / {1} (will draw on start) -->
+  <USH_GE_StoredPower>Energía almacenada: {0} / {1} (consumirá al iniciar)</USH_GE_StoredPower>
+
+  <!-- EN: Use bombardment attack -->
+  <USH_GE_CommandSetForBombardmentLabel>Usar ataque de bombardeo</USH_GE_CommandSetForBombardmentLabel>
+  <!-- EN: Use power beam attack -->
+  <USH_GE_CommandSetForPowerBeamLabel>Usar ataque de rayo de energía</USH_GE_CommandSetForPowerBeamLabel>
+  <!-- EN: Whether the targeter should use bombardment or power beam attack. -->
+  <USH_GE_CommandSetForTargeterTypeDesc>Define si el designador debe usar un ataque de bombardeo o de rayo de energía.</USH_GE_CommandSetForTargeterTypeDesc>
+  <!-- EN: Missing living bioprint source -->
+  <USH_GE_EmptyBiocoder>Falta una fuente de bioimpresión viva</USH_GE_EmptyBiocoder>
+
+  <!-- EN: Won't intercept: {0} -->
+  <USH_GE_CantIntercept>No interceptará: {0}</USH_GE_CantIntercept>
+  <!-- EN: Discharge time left: {0} -->
+  <USH_GE_DischargeTimeLeft>Tiempo de descarga restante: {0}</USH_GE_DischargeTimeLeft>
+  <!-- EN: Solar flare intercepted -->
+  <USH_GE_SolarFlareInterceptedLabel>Llamarada solar interceptada</USH_GE_SolarFlareInterceptedLabel>
+  <!-- EN: Installed banks (x{0}) have intercepted the solar flare and will slowly discharge the accumulated power into the grid -->
+  <USH_GE_SolarFlareInterceptedText>Los bancos instalados (x{0}) han interceptado la llamarada solar y descargarán lentamente la energía acumulada en la red eléctrica.</USH_GE_SolarFlareInterceptedText>
+
+  <!-- EN: Enter biocoder chamber -->
+  <USH_GE_EnterBiocoder>Entrar a la cámara biocodificadora</USH_GE_EnterBiocoder>
+  <!-- EN: Carry {0} to biocoder chamber -->
+  <USH_GE_CarryToBiocoder>Llevar a {0} a la cámara biocodificadora</USH_GE_CarryToBiocoder>
+  <!-- EN: Cannot carry to biocoder chamber -->
+  <USH_GE_CannotCarryToBiocoder>No se puede llevar a la cámara biocodificadora</USH_GE_CannotCarryToBiocoder>
+  <!-- EN: No available biocoder chambers. -->
+  <USH_GE_NoBiocoder>No hay cámaras biocodificadoras disponibles.</USH_GE_NoBiocoder>
+
+  <!-- EN: Eject chamber content -->
+  <USH_GE_CommandBiocoderEject>Expulsar contenido de la cámara</USH_GE_CommandBiocoderEject>
+  <!-- EN: Wake up the contained bioprint host and eject them. -->
+  <USH_GE_CommandBiocoderEjectDesc>Despierta al anfitrión de bioimpresión contenido y lo expulsa.</USH_GE_CommandBiocoderEjectDesc>
+  <!-- EN: Contains nobody. -->
+  <USH_GE_CommandBiocoderEjectFailEmpty>No contiene a nadie.</USH_GE_CommandBiocoderEjectFailEmpty>
+
+  <!-- EN: Use {0} -->
+  <USH_GE_UseMemoryCellEmpty>Usar {0}</USH_GE_UseMemoryCellEmpty>
+  <!-- EN: Cannot extract -->
+  <USH_GE_CannotExtract>No se puede extraer</USH_GE_CannotExtract>
+  <!-- EN: No emotions -->
+  <USH_GE_NoEmotion>Sin emociones</USH_GE_NoEmotion>
+  <!-- EN: No memories -->
+  <USH_GE_NoMemories>Sin recuerdos</USH_GE_NoMemories>
+  <!-- EN: Too weak from recent extraction -->
+  <USH_GE_RecentExtraction>Demasiado débil por extracción reciente</USH_GE_RecentExtraction>
+  <!-- EN: Will extract -->
+  <USH_GE_WillExtract>Se extraerá</USH_GE_WillExtract>
+  <!-- EN: Choose extraction target -->
+  <USH_GE_CommandChoosePawnToExtract>Elegir objetivo de extracción</USH_GE_CommandChoosePawnToExtract>
+
+
+  <!-- EN: Teleport target -->
+  <USH_GE_OrderTeleportHere>Teletransportar objetivo</USH_GE_OrderTeleportHere>
+  <!-- EN: Choose a target to teleport here -->
+  <USH_GE_OrderTeleportHereDesc>Elige un objetivo para teletransportar aquí</USH_GE_OrderTeleportHereDesc>
+
+  <!-- EN: Teleport everyone here -->
+  <USH_GE_OrderTeleportAll>Teletransportar a todos aquí</USH_GE_OrderTeleportAll>
+  <!-- EN: Teleport to this location everyone under your control with a telepad integrator implant installed.\n\nTo teleport:\n{0} -->
+  <USH_GE_OrderTeleportAllDesc>Teletransporta a esta ubicación a todos bajo tu control que tengan un implante integrador de teleplataforma instalado.\n\nPara teletransportar:\n{0}</USH_GE_OrderTeleportAllDesc>
+
+  <!-- EN: Teleport distant target -->
+  <USH_GE_OrderTeleportPlanet>Teletransportar objetivo distante</USH_GE_OrderTeleportPlanet>
+  <!-- EN: Teleport to this location a selected target from a different map with a telepad integrator implant installed.\n\nLong-range teleportation will put non-mechanical beings into a telepad coma with duration based on distance. -->
+  <USH_GE_OrderTeleportPlanetDesc>Teletransporta a esta ubicación un objetivo seleccionado de un mapa diferente con un implante integrador de teleplataforma instalado.\n\nLa teletransportación de largo alcance pondrá a los seres no mecánicos en un coma de teleplataforma con una duración basada en la distancia.</USH_GE_OrderTeleportPlanetDesc>
+
+  <!-- EN: Cannot teleport -->
+  <USH_GE_CannotTeleport>No se puede teletransportar</USH_GE_CannotTeleport>
+  <!-- EN: Too close to the telepad -->
+  <USH_GE_TooClose>Demasiado cerca de la teleplataforma</USH_GE_TooClose>
+  <!-- EN: Missing telepad integrator implant -->
+  <USH_GE_MissingIntegrator>Falta implante integrador de teleplataforma</USH_GE_MissingIntegrator>
+  <!-- EN: No teleport candidates -->
+  <USH_GE_NoTeleportablePawns>No hay candidatos para teletransporte</USH_GE_NoTeleportablePawns>
+  <!-- EN: Choose teleportation target -->
+  <USH_GE_CommandChoosePawnToTeleport>Elegir objetivo de teletransporte</USH_GE_CommandChoosePawnToTeleport>
+  <!-- EN: Caused by sudden position change. -->
+  <USH_GE_TeleportReason>Causado por un cambio repentino de posición.</USH_GE_TeleportReason>
+
+  <!-- EN: The sudden position change gave {PAWN} telepad nausea -->
+  <USH_GE_NauseaMsg>El cambio repentino de posición le dio a {PAWN} náuseas de teletransporte</USH_GE_NauseaMsg>
+  <!-- EN: Coma duration: {0} -->
+  <USH_GE_ComaMsg>Duración del coma: {0}</USH_GE_ComaMsg>
+
+  <!-- EN: Insert {0} to cell container -->
+  <USH_GE_InsertMemoryCell>Insertar {0} en el contenedor de células</USH_GE_InsertMemoryCell>
+  <!-- EN: Cannot insert -->
+  <USH_GE_CannotInsert>No se puede insertar</USH_GE_CannotInsert>
+  <!-- EN: Container full -->
+  <USH_GE_ContainerFull>Contenedor lleno</USH_GE_ContainerFull>
+  <!-- EN: Choose container -->
+  <USH_GE_CommandChooseContainer>Elegir contenedor</USH_GE_CommandChooseContainer>
+
+  <!-- EN: Expiration rate -->
+  <USH_GE_ExpireRate>Tasa de expiración</USH_GE_ExpireRate>
+  <!-- EN: Expires in -->
+  <USH_GE_ExpiresIn>Expira en</USH_GE_ExpiresIn>
+  <!-- EN: {0} expired. -->
+  <USH_GE_Expired>{0} ha expirado.</USH_GE_Expired>
+  <!-- EN: Installed modifiers -->
+  <USH_GE_InstalledMods>Modificadores instalados</USH_GE_InstalledMods>
+  <!-- EN: Maximum modifiers of this type reached -->
+  <USH_GE_MaxInstalledMods>Se ha alcanzado el número máximo de modificadores de este tipo</USH_GE_MaxInstalledMods>
+  <!-- EN: Erase memory -->
+  <USH_GE_CommandEraseMemory>Borrar recuerdo</USH_GE_CommandEraseMemory>
+  <!-- EN: Destroy currently stored memory with all it's modifiers and allow for extracting another one. -->
+  <USH_GE_CommandEraseMemoryDesc>Destruye el recuerdo actualmente almacenado y permite extraer otro.</USH_GE_CommandEraseMemoryDesc>
+
+  <!-- EN: Eject contained cell -->
+  <USH_GE_CommandMemoryContainerEject>Expulsar célula contenida</USH_GE_CommandMemoryContainerEject>
+  <!-- EN: Removes the memory cell from inner container and places it nearby. -->
+  <USH_GE_CommandMemoryContainerEjectDesc>Retira la célula de memoria del contenedor interior y la coloca cerca.</USH_GE_CommandMemoryContainerEjectDesc>
+  <!-- EN: Contains nothing. -->
+  <USH_GE_CommandMemoryContainerEjectFailEmpty>No contiene nada.</USH_GE_CommandMemoryContainerEjectFailEmpty>
+
+  <!-- EN: Eject upgrade lens -->
+  <USH_GE_CommandUpgradeEject>Expulsar lente de mejora</USH_GE_CommandUpgradeEject>
+  <!-- EN: Removes the lens instructions from mechanites coating and places them in a socket on the ground. -->
+  <USH_GE_CommandUpgradeEjectDesc>Elimina las instrucciones de la lente del revestimiento de mecanitas y las coloca en un zócalo en el suelo.</USH_GE_CommandUpgradeEjectDesc>
+  <!-- EN: No upgrade lens. -->
+  <USH_GE_CommandUpgradeEjectFailEmpty>No hay lente de mejora.</USH_GE_CommandUpgradeEjectFailEmpty>
+
+  <!-- EN: Zzzapp... -->
+  <USH_GE_LetterLabelADPShortCircuit>Zzzapp...</USH_GE_LetterLabelADPShortCircuit>
+  <!-- EN: An overloading simulation in {0} has caused an energy discharge with ADP effects. -->
+  <USH_GE_ADPShortCircuit>Una simulación sobrecargada en {0} ha causado una descarga de energía con efectos ADP.</USH_GE_ADPShortCircuit>
+  <!-- EN: An overloading simulation in {0} has caused an energy discharge with ADP effects which started a fire. -->
+  <USH_GE_ADPShortCircuitStartedFire>Una simulación sobrecargada en {0} ha causado una descarga de energía con efectos ADP que inició un incendio.</USH_GE_ADPShortCircuitStartedFire>
+  <!-- EN: All {0} Wd of energy in the connected batteries has been discharged in an electrical explosion. -->
+  <USH_GE_ADPShortCircuitDischargedEnergy>Toda la energía de {0} Wd de las baterías conectadas se ha descargado en una explosión eléctrica.</USH_GE_ADPShortCircuitDischargedEnergy>
+  <!-- EN: This large amount of power has created an ADP explosion of considerable size. -->
+  <USH_GE_ADPShortCircuitWasLarge>Esta gran cantidad de energía ha creado una explosión ADP de tamaño considerable.</USH_GE_ADPShortCircuitWasLarge>
+
+  <!-- EN: Hssss... -->
+  <USH_GE_LetterLabelOverclockIncident>Hssss...</USH_GE_LetterLabelOverclockIncident>
+  <!-- EN: An aggressive mechanites movement in {0} has caused the weapon to overheat and release flammable chemicals. -->
+  <USH_GE_OverclockIncident>Un movimiento agresivo de mecanitas en {0} ha causado que el arma se sobrecaliente y libere productos químicos inflamables.</USH_GE_OverclockIncident>
+  <!-- EN: {0} has destabilized and exploded -->
+  <USH_GE_OverclockIncidentShort>{0} se ha desestabilizado y ha explotado</USH_GE_OverclockIncidentShort>
+
+  <!-- EN: Overclocked -->
+  <USH_GE_Overclocked>Sobrecargado</USH_GE_Overclocked>
+  <!-- EN: Overclock -->
+  <USH_GE_Overclock>Sobrecarga</USH_GE_Overclock>
+  <!-- EN: Overclocked by advanced mechanites coating designed to make the inner weapon components more efficient.\n\nWeapons with this powerful yet unstable mechanism are known to sporadically combust unless they're stabilized by upgrades or their user is non-flammable.\n\nOverclocking provides the following stats: -->
+  <USH_GE_OverclockDesc>Sobrecargado por un revestimiento de mecanitas avanzado diseñado para hacer más eficientes los componentes internos del arma.\n\nSe sabe que las armas con este mecanismo potente pero inestable entran en combustión espontáneamente a menos que se estabilicen con mejoras o que su usuario no sea inflamable.\n\nLa sobrecarga proporciona las siguientes estadísticas:</USH_GE_OverclockDesc>
+
+  <!-- EN: Gamma serum failed to persuade {PAWN}. The process continues -->
+  <USH_GE_GammaSerumFail>El suero gamma no logró persuadir a {PAWN}. El proceso continúa</USH_GE_GammaSerumFail>
+  <!-- EN: Gamma serum failed to persuade {PAWN} and caused minor brain damage. The process continues -->
+  <USH_GE_GammaSerumFailHarm>El suero gamma no logró persuadir a {PAWN} y causó un daño cerebral menor. El proceso continúa</USH_GE_GammaSerumFailHarm>
+  <!-- EN: Gamma serum injected to {PAWN} stopped working without success -->
+  <USH_GE_GammaSerumFailFinal>El suero gamma inyectado a {PAWN} dejó de funcionar sin éxito</USH_GE_GammaSerumFailFinal>
+  <!-- EN: Gamma serum outcome -->
+  <USH_GE_GammaSerumSuccess>Resultado del suero gamma</USH_GE_GammaSerumSuccess>
+  <!-- EN: Gamma serum has successfully cracked {PAWN} who will now accept anything he's told. -->
+  <USH_GE_GammaSerumSuccessDesc>El suero gamma ha quebrado con éxito a {PAWN}, que ahora aceptará cualquier cosa que se le diga.</USH_GE_GammaSerumSuccessDesc>
+
+  <!-- EN: Choose overclocked firearm -->
+  <USH_GE_CommandChooseFirearm>Elegir arma de fuego sobrecargada</USH_GE_CommandChooseFirearm>
+  <!-- EN: Not overclockable -->
+  <USH_GE_NotOverclockable>No sobrecargable</USH_GE_NotOverclockable>
+  <!-- EN: Cannot install -->
+  <USH_GE_CannotInstall>No se puede instalar</USH_GE_CannotInstall>
+  <!-- EN: Install {0} on firearm -->
+  <USH_GE_InstallUpgrade>Instalar {0} en arma de fuego</USH_GE_InstallUpgrade>
+  <!-- EN: Upgrade slot occupied -->
+  <USH_GE_SlotTaken>Ranura de mejora ocupada</USH_GE_SlotTaken>
+  <!-- EN: Not overclocked -->
+  <USH_GE_NotOverclocked>No sobrecargada</USH_GE_NotOverclocked>
+  <!-- EN: Upgrade slot -->
+  <USH_GE_UpgradeSlot>Ranura de mejora</USH_GE_UpgradeSlot>
+  <!-- EN: Empty -->
+  <USH_GE_Empty>Vacío</USH_GE_Empty>
+  <!-- EN: An empty upgrade socket for providing the mechanites coating with additional instructions. -->
+  <USH_GE_SocketEmptyDesc>Un zócalo de mejora vacío para proporcionar al revestimiento de mecanitas instrucciones adicionales.</USH_GE_SocketEmptyDesc>
+
+  <!-- EN: Extracting neutroamine from {0} -->
+  <USH_GE_NeutroamineJobString>Extrayendo neutroamina de {0}</USH_GE_NeutroamineJobString>
+  <!-- EN: Extract neutroamine x{1} from {0} -->
+  <USH_GE_NeutroamineRecipeLabel>Extraer neutroamina x{1} de {0}</USH_GE_NeutroamineRecipeLabel>
+  <!-- EN: Extract (neutroamine x{0}) from ({2} x{1}) -->
+  <USH_GE_NeutroamineRecipeDesc>Extraer (neutroamina x{0}) de ({2} x{1})</USH_GE_NeutroamineRecipeDesc>
+
+  <!-- EN: Fire rate multiplier -->
+  <USH_GE__BurstShotSpeedMultiplier>Multiplicador de cadencia de fuego</USH_GE__BurstShotSpeedMultiplier>
+  <!-- EN: A multiplier applied to this weapon's time between shots. -->
+  <USH_GE__BurstShotSpeedMultiplierDesc>Un multiplicador aplicado al tiempo entre disparos de esta arma.</USH_GE__BurstShotSpeedMultiplierDesc>
+
+  <!-- EN: Modify -->
+  <USH_GE_ModsTab>Modificar</USH_GE_ModsTab>
+
+  <!-- EN: Mood multipliers -->
+  <USH_GE_MoodMultipliers>Multiplicadores de humor</USH_GE_MoodMultipliers>
+  <!-- EN: Positive memory -->
+  <USH_GE_PositiveMem>Recuerdo positivo</USH_GE_PositiveMem>
+  <!-- EN: Negative memory enjoyer -->
+  <USH_GE_NegativeEnjoyer>Disfrutador de recuerdos negativos</USH_GE_NegativeEnjoyer>
+  <!-- EN: Memory pylon -->
+  <USH_GE_MemPylon>Pilón de recuerdos</USH_GE_MemPylon>
+
+  <!-- Settings -->
+
+  <!-- EN: Forming duration multiplier -->
+  <USH_GE_FormingMultiplierSetting>Multiplicador de duración de formación</USH_GE_FormingMultiplierSetting>
+  <!-- EN: Total forming duration in glittertech fabricator will be multiplied by {0}. -->
+  <USH_GE_FormingMultiplierSettingDesc>La duración total de formación en el fabricador de tecnología de punta se multiplicará por {0}.</USH_GE_FormingMultiplierSettingDesc>
+
+  <!-- EN: Positive cell mood multiplier -->
+  <USH_GE_PositiveMultiplierSetting>Multiplicador de humor de célula positiva</USH_GE_PositiveMultiplierSetting>
+  <!-- EN: Base mood offset from cloned positive memory will be multiplied by {0}. -->
+  <USH_GE_PositiveMultiplierSettingDesc>La bonificación base al humor por un recuerdo positivo clonado se multiplicará por {0}.</USH_GE_PositiveMultiplierSettingDesc>
+
+  <!-- EN: Negative cell mood multiplier -->
+  <USH_GE_NegativeMultiplierSetting>Multiplicador de humor de célula negativa</USH_GE_NegativeMultiplierSetting>
+  <!-- EN: Base mood offset from cloned negative memory will be multiplied by {0}. -->
+  <USH_GE_NegativeMultiplierSettingDesc>La penalización base al humor por un recuerdo negativo clonado se multiplicará por {0}.</USH_GE_NegativeMultiplierSettingDesc>
+
+  <!-- EN: Memory pylon mood multiplier -->
+  <USH_GE_PylonMultiplierSetting>Multiplicador de humor del pilón de recuerdos</USH_GE_PylonMultiplierSetting>
+  <!-- EN: Mood offset from memory pylon thoughts will be multiplied by {0}. -->
+  <USH_GE_PylonMultiplierSettingDesc>El modificador de humor de los pensamientos del pilón de recuerdos se multiplicará por {0}.</USH_GE_PylonMultiplierSettingDesc>
+
+  <!-- EN: Disable changing skin color -->
+  <USH_GE_SkinSetting>Desactivar cambio de color de piel</USH_GE_SkinSetting>
+  <!-- EN: If this setting is disabled, the skin replacements will change pawn's skin color according to the replacement resource color.\nNote that if you enable it, it won't affect already installed implants. You would need to operate on the pawn again to have the default skin color. -->
+  <USH_GE_SkinSettingDesc>Si esta opción está desactivada, los reemplazos de piel cambiarán el color de la piel del colono según el color del recurso de reemplazo.\nTen en cuenta que si la activas, no afectará a los implantes ya instalados. Tendrías que operar al colono de nuevo para que tenga el color de piel predeterminado.</USH_GE_SkinSettingDesc>
+
+  <!-- EN: Doubled neutroamine extraction ingredients -->
+  <USH_GE_NeutroamineSetting>Duplicar ingredientes para extracción de neutroamina</USH_GE_NeutroamineSetting>
+  <!-- EN: If this setting is enabled the extraction recipes will require doubled ingredients. If you find the extractor building OP for your playthrough, that's the place to make it right. Requires game restart. -->
+  <USH_GE_NeutroamineSettingDesc>Si esta opción está activada, las recetas de extracción requerirán el doble de ingredientes. Si consideras que el edificio extractor está demasiado roto (OP) para tu partida, este es el lugar para ajustarlo. Requiere reiniciar el juego.</USH_GE_NeutroamineSettingDesc>
+
+  <!-- EN: Reset options to default -->
+  <USH_GE_ResetSettings>Restablecer opciones a los valores predeterminados</USH_GE_ResetSettings>
+
+  <!-- EN: Glitterworld debris -->
+  <USH_GE_LetterLabelGlittershipChunk>Escombros de nave mundobrillante</USH_GE_LetterLabelGlittershipChunk>
+  <!-- EN: A mysterious piece of glitterworld debris has crashed nearby.\n\nIts significant disturbance of the nearby energy field will cause frequent lightning strikes.\n\nDestroy it to extract valuable resources. But beware - it will probably defend itself. -->
+  <USH_GE_LetterGlittershipChunk>Un misterioso trozo de escombros de nave de mundobrillante se ha estrellado cerca.\n\nSu significativa perturbación del campo de energía cercano causará rayos frecuentes.\n\nDestrúyelo para extraer valiosos recursos. Pero ten cuidado, probablemente se defenderá.</USH_GE_LetterGlittershipChunk>
+
+</LanguageData>

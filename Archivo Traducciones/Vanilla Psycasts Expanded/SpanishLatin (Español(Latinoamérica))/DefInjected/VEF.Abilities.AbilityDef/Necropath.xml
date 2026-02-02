@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: consume bodies -->
+  <VPE_ConsumeBodies.label>consumir cuerpos</VPE_ConsumeBodies.label>
+  <!-- EN: Psychically strips all remaining life force from nearby humanoid corpses and stores the essence as a permanent stacking buffer to neural heat. -->
+  <VPE_ConsumeBodies.description>Despoja psíquicamente toda la fuerza vital restante de los cadáveres humanoides cercanos y almacena la esencia como un amortiguador de acumulación permanente para el calor neural.</VPE_ConsumeBodies.description>
+  <!-- EN: Using ability: {0} -->
+  <VPE_ConsumeBodies.jobReportString>Usando habilidad: {0}</VPE_ConsumeBodies.jobReportString>
+  <!-- EN: consume bodies -->
+  <VPE_ConsumeBodies.verbProperties.label>consumir cuerpos</VPE_ConsumeBodies.verbProperties.label>
+  
+  <!-- EN: corpsetalk -->
+  <VPE_Corpsetalk.label>charla con cadáveres</VPE_Corpsetalk.label>
+  <!-- EN: Target a corpse and temporarily appropriate the victim’s skills to make up for the caster’s deficiencies. Effect lasts for a season before returning to normal. -->
+  <VPE_Corpsetalk.description>Apunta a un cadáver y se apropia temporalmente de las habilidades de la víctima para compensar las deficiencias del lanzador. El efecto dura una estación antes de volver a la normalidad.</VPE_Corpsetalk.description>
+  <!-- EN: Using ability: {0} -->
+  <VPE_Corpsetalk.jobReportString>Usando habilidad: {0}</VPE_Corpsetalk.jobReportString>
+  <!-- EN: corpsetalk -->
+  <VPE_Corpsetalk.verbProperties.label>charla con cadáveres</VPE_Corpsetalk.verbProperties.label>
+  
+  <!-- EN: deathshield -->
+  <VPE_Deathshield.label>escudo de la muerte</VPE_Deathshield.label>
+  <!-- EN: Locks the touched target’s life force in place for a day, preventing them from dying. After this period, they can die from accumulated wounds, blood loss, or missing limbs or organs. -->
+  <VPE_Deathshield.description>Bloquea la fuerza vital del objetivo tocado en su lugar durante un día, evitando que muera. Después de este período, pueden morir por heridas acumuladas, pérdida de sangre o falta de extremidades u órganos.</VPE_Deathshield.description>
+  <!-- EN: Using ability: {0} -->
+  <VPE_Deathshield.jobReportString>Usando habilidad: {0}</VPE_Deathshield.jobReportString>
+  <!-- EN: deathshield -->
+  <VPE_Deathshield.verbProperties.label>escudo de la muerte</VPE_Deathshield.verbProperties.label>
+  
+  <!-- EN: enthrall -->
+  <VPE_Enthrall.label>esclavizar</VPE_Enthrall.label>
+  <!-- EN: Psychically strips the deceased target’s life force and infuses it directly into their bones, animating them for a full day. The only remaining instinct is to inflict pain on the caster’s enemies. -->
+  <VPE_Enthrall.description>Despoja psíquicamente la fuerza vital del objetivo fallecido y la infunde directamente en sus huesos, animándolos durante un día completo. El único instinto restante es infligir dolor a los enemigos del lanzador.</VPE_Enthrall.description>
+  <!-- EN: Using ability: {0} -->
+  <VPE_Enthrall.jobReportString>Usando habilidad: {0}</VPE_Enthrall.jobReportString>
+  <!-- EN: enthrall -->
+  <VPE_Enthrall.verbProperties.label>esclavizar</VPE_Enthrall.verbProperties.label>
+  
+  <!-- EN: ghostwalk -->
+  <VPE_Ghostwalk.label>paso fantasmal</VPE_Ghostwalk.label>
+  <!-- EN: Coats the caster in a layer of temporary psychic atrophy, allowing them to walk through structures unimpeded and without damaging anything. Duration scales with the caster’s psychic sensitivity. -->
+  <VPE_Ghostwalk.description>Cubre al lanzador con una capa de atrofia psíquica temporal, permitiéndole caminar a través de estructuras sin impedimentos y sin dañar nada. La duración escala con la sensibilidad psíquica del lanzador.</VPE_Ghostwalk.description>
+  <!-- EN: Using ability: {0} -->
+  <VPE_Ghostwalk.jobReportString>Usando habilidad: {0}</VPE_Ghostwalk.jobReportString>
+  <!-- EN: ghostwalk -->
+  <VPE_Ghostwalk.verbProperties.label>paso fantasmal</VPE_Ghostwalk.verbProperties.label>
+  
+  <!-- EN: liferot -->
+  <VPE_Liferot.label>podredumbre vital</VPE_Liferot.label>
+  <!-- EN: Psychically induces randomized mass necrosis in a target, exposing the afflicted body parts to infection and inducing vomiting. Duration scales with the target’s psychic sensitivity and is an overtly hostile action. -->
+  <VPE_Liferot.description>Induce psíquicamente necrosis masiva aleatoria en un objetivo, exponiendo las partes del cuerpo afectadas a infecciones e induciendo vómitos. La duración escala con la sensibilidad psíquica del objetivo y es una acción abiertamente hostil.</VPE_Liferot.description>
+  <!-- EN: Using ability: {0} -->
+  <VPE_Liferot.jobReportString>Usando habilidad: {0}</VPE_Liferot.jobReportString>
+  <!-- EN: liferot -->
+  <VPE_Liferot.verbProperties.label>podredumbre vital</VPE_Liferot.verbProperties.label>
+  
+  <!-- EN: paralysis pulse -->
+  <VPE_ParalysisPulse.label>pulso de parálisis</VPE_ParalysisPulse.label>
+  <!-- EN: Emits a cloud of black particles from the caster, which afflicts all, caster included, within the area with paralytic abasia for a full day. The radius scales with the caster’s psychic sensitivity. -->
+  <VPE_ParalysisPulse.description>Emite una nube de partículas negras del lanzador, que aflige a todos, incluido el lanzador, dentro del área con abasia paralítica durante un día completo. El radio escala con la sensibilidad psíquica del lanzador.</VPE_ParalysisPulse.description>
+  <!-- EN: Using ability: {0} -->
+  <VPE_ParalysisPulse.jobReportString>Usando habilidad: {0}</VPE_ParalysisPulse.jobReportString>
+  <!-- EN: paralysis pulse -->
+  <VPE_ParalysisPulse.verbProperties.label>pulso de parálisis</VPE_ParalysisPulse.verbProperties.label>
+  
+  <!-- EN: resurrect -->
+  <VPE_Resurrect.label>resucitar</VPE_Resurrect.label>
+  <!-- EN: By sacrificing a natural finger, the caster is able to imitate the effects of resurrector mech serum on any non-dessicated corpse, the psychic energy repairing broken-down tissues and kickstarting the body back to life. The target will be incapacitated and their allegiances will remain the same. The less preserved the body is, the more likely the target is to suffer from negative side effects. The long, intense concentration ends with the caster falling into a coma. -->
+  <VPE_Resurrect.description>Al sacrificar un dedo natural, el lanzador es capaz de imitar los efectos del suero resucitador mecánico en cualquier cadáver no disecado, la energía psíquica repara los tejidos descompuestos y devuelve la vida al cuerpo. El objetivo quedará incapacitado y sus lealtades seguirán siendo las mismas. Cuanto menos conservado esté el cuerpo, más probable es que el objetivo sufra efectos secundarios negativos. La larga e intensa concentración termina con el lanzador cayendo en coma.</VPE_Resurrect.description>
+  <!-- EN: Using ability: {0} -->
+  <VPE_Resurrect.jobReportString>Usando habilidad: {0}</VPE_Resurrect.jobReportString>
+  <!-- EN: resurrect -->
+  <VPE_Resurrect.verbProperties.label>resucitar</VPE_Resurrect.verbProperties.label>
+  
+  <!-- EN: steal vitality -->
+  <VPE_StealVitality.label>robar vitalidad</VPE_StealVitality.label>
+  <!-- EN: Siphons vitality from a nearby source, transferring the target’s natural healing factor, movement speed, and consciousness to the caster for a full day. Considered an overtly hostile action. -->
+  <VPE_StealVitality.description>Sifona la vitalidad de una fuente cercana, transfiriendo el factor de curación natural, la velocidad de movimiento y la conciencia del objetivo al lanzador durante un día completo. Considerada una acción abiertamente hostil.</VPE_StealVitality.description>
+  <!-- EN: Using ability: {0} -->
+  <VPE_StealVitality.jobReportString>Usando habilidad: {0}</VPE_StealVitality.jobReportString>
+  <!-- EN: steal vitality -->
+  <VPE_StealVitality.verbProperties.label>robar vitalidad</VPE_StealVitality.verbProperties.label>
+  
+  <!-- EN: word of fear -->
+  <VPE_WordofFear.label>palabra de miedo</VPE_WordofFear.label>
+  <!-- EN: Induces panic by overloading their flight response system for a duration scaling with their psychic sensitivity. Considered a hostile action. -->
+  <VPE_WordofFear.description>Induce pánico sobrecargando su sistema de respuesta de huida durante una duración que escala con su sensibilidad psíquica. Considerada una acción hostil.</VPE_WordofFear.description>
+  <!-- EN: Using ability: {0} -->
+  <VPE_WordofFear.jobReportString>Usando habilidad: {0}</VPE_WordofFear.jobReportString>
+  <!-- EN: word of fear -->
+  <VPE_WordofFear.verbProperties.label>palabra de miedo</VPE_WordofFear.verbProperties.label>
+  
+</LanguageData>

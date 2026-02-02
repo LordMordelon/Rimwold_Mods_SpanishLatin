@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: capture a downed pilot -->
+  <WG_Frame_Capture.label>capturar un piloto derribado</WG_Frame_Capture.label>
+  <!-- EN: It's impossible to imprison a frame pilot, they can just break out the door with ease. select your pawn, and right-click a downed enemy frame to make a job to disassemble it so you can remove the pilot from their frame. -->
+  <WG_Frame_Capture.helpText>Es imposible encarcelar a un piloto de armazón, pueden salir por la puerta con facilidad. selecciona a tu colono y haz clic derecho en un armazón enemigo derribado para crear una tarea de desmontaje y así poder sacar al piloto de su armazón.</WG_Frame_Capture.helpText>
+  
+  <!-- EN: Pilot schedule -->
+  <WG_Frame_PilotSchedule.label>horario del piloto</WG_Frame_PilotSchedule.label>
+  <!-- EN: You can designate a pawn to automatically pilot by setting their time schedule to "Pilot" and assigning them a gantry or parking spot, if a pilot has time assignment to neither "Pilot" nor "Any", they will try to dock their frame to any available spot or gantry. -->
+  <WG_Frame_PilotSchedule.helpText>Puedes designar a un colono para que pilotee automáticamente estableciendo su horario en "Pilotar" y asignándole un pórtico o un lugar de estacionamiento. Si un piloto no tiene asignado el horario "Pilotar" ni "Cualquiera", intentará acoplar su armazón en cualquier lugar o pórtico disponible.</WG_Frame_PilotSchedule.helpText>
+  
+  <!-- EN: Disabled frame -->
+  <WG_Frame_Wreckage.label>armazón inutilizado</WG_Frame_Wreckage.label>
+  <!-- EN: When the structure point is empty, frame will be totally disabled and turn into a wreckage, this doesn't mean the pilot is dead, you can still rescue them by ordering your pawn to open it. -->
+  <WG_Frame_Wreckage.helpText>Cuando el punto de estructura se agota, el armazón quedará totalmente inutilizado y se convertirá en restos, esto no significa que el piloto esté muerto, todavía puedes rescatarlo ordenando a tu colono que lo abra.</WG_Frame_Wreckage.helpText>
+  
+  <!-- EN: Module storage -->
+  <WG_Gantry_LinkBuilding.label>almacenamiento de módulos</WG_Gantry_LinkBuilding.label>
+  <!-- EN: The gantry will only show modules from connected module storage, so make sure you have module storage connected before opening the customization menu. -->
+  <WG_Gantry_LinkBuilding.helpText>El pórtico solo mostrará los módulos del almacenamiento de módulos conectado, así que asegúrate de tener el almacenamiento de módulos conectado antes de abrir el menú de personalización.</WG_Gantry_LinkBuilding.helpText>
+  
+  <!-- EN: Loading module -->
+  <WG_Gantry_LoadModule.label>cargando módulo</WG_Gantry_LoadModule.label>
+  <!-- EN: By right click slot, a floating menu will show you what's available to this slot, and some of the slots can make more slots available, and some may disable other slots. -->
+  <WG_Gantry_LoadModule.helpText>Al hacer clic con el botón derecho en la ranura, un menú flotante te mostrará lo que está disponible para esta ranura, y algunas de las ranuras pueden hacer que haya más ranuras disponibles, y algunas pueden desactivar otras ranuras.</WG_Gantry_LoadModule.helpText>
+  
+  <!-- EN: Overloaded -->
+  <WG_Gantry_Overloaded.label>sobrecargado</WG_Gantry_Overloaded.label>
+  <!-- EN: If the loaded weight is more than the frame can handle, then the frame will be overloaded, you can still pilot it but it means you have no carrying capacity also with only 50% of the moving speed. -->
+  <WG_Gantry_Overloaded.helpText>Si el peso cargado es mayor del que el armazón puede soportar, entonces el armazón se sobrecargará, todavía puedes pilotarlo pero significa que no tienes capacidad de carga y además solo tienes el 50% de la velocidad de movimiento.</WG_Gantry_Overloaded.helpText>
+  
+  <!-- EN: Payload Capacity -->
+  <WG_Gantry_PayloadCapacity.label>capacidad de carga útil</WG_Gantry_PayloadCapacity.label>
+  <!-- EN: Every core frame had a maximum amount of power output, in short as payload capacity. every assembled module will be taking this capacity. -->
+  <WG_Gantry_PayloadCapacity.helpText>Cada armazón de núcleo tiene una cantidad máxima de potencia de salida, en resumen, como capacidad de carga útil. cada módulo ensamblado consumirá esta capacidad.</WG_Gantry_PayloadCapacity.helpText>
+  
+  <!-- EN: Repairing at gantry -->
+  <WG_Gantry_Repair.label>reparando en el pórtico</WG_Gantry_Repair.label>
+  <!-- EN: Pawn with crafting work will repair assembled modules at the gantry if auto repair is enabled, but this will take a longer working duration. -->
+  <WG_Gantry_Repair.helpText>Los colonos con trabajo de artesanía repararán los módulos ensamblados en el pórtico si la reparación automática está activada, pero esto llevará más tiempo de trabajo.</WG_Gantry_Repair.helpText>
+  
+  <!-- EN: Repairing module -->
+  <WG_Module_Repair.label>reparando módulo</WG_Module_Repair.label>
+  <!-- EN: Pawn with crafting work will take jobs to repair damaged modules, the repair speed is affected by pawn's work speed. -->
+  <WG_Module_Repair.helpText>Los colonos con trabajo de artesanía se encargarán de reparar los módulos dañados, la velocidad de reparación se ve afectada por la velocidad de trabajo del colono.</WG_Module_Repair.helpText>
+  
+  <!-- EN: Module -->
+  <WG_ModuleItem.label>módulo</WG_ModuleItem.label>
+  <!-- EN: It looks like you acquired a module box, these types of items will only be useful when you have a gantry to assemble them, but you can also recycle them at the smelter if you have no technology to make good use of it. -->
+  <WG_ModuleItem.helpText>Parece que has adquirido una caja de módulos, este tipo de artículos solo serán útiles cuando tengas un pórtico para ensamblarlos, pero también puedes reciclarlos en el fundidor si no tienes la tecnología para hacer un buen uso de ellos.</WG_ModuleItem.helpText>
+  
+  <!-- EN: Parking spot -->
+  <WG_ParkingSpot.label>lugar de estacionamiento</WG_ParkingSpot.label>
+  <!-- EN: this is a parking spot for temporary parking your frame. While working in the caravan site, it has no tools to repair the damaged parts but the pilot can get proper rest and medical treatment. -->
+  <WG_ParkingSpot.helpText>Este es un lugar de estacionamiento para estacionar temporalmente tu armazón. Mientras trabajas en el sitio de la caravana, no tienes herramientas para reparar las partes dañadas, pero el piloto puede descansar y recibir tratamiento médico adecuado.</WG_ParkingSpot.helpText>
+  
+  <!-- EN: Walker Frame -->
+  <WG_WalkerFrame.label>armazón de caminante</WG_WalkerFrame.label>
+  <!-- EN: It looks like you acquired the tech to produce a type of heavy exosuit, these suits are different from regular suits, and require a specific building to assemble and gear up or gear down. -->
+  <WG_WalkerFrame.helpText>Parece que has adquirido la tecnología para producir un tipo de exotraje pesado, estos trajes son diferentes de los trajes normales y requieren un edificio específico para ensamblarlos y equiparlos o desequiparlos.</WG_WalkerFrame.helpText>
+  
+</LanguageData>

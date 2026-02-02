@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+<!-- EN: Cancel proccess -->
+  <FFF.CancelActiveBill>Cancelar proceso</FFF.CancelActiveBill>
+<!-- EN: Cancel the current process, which will return resources and stop consuming power. -->
+  <FFF.CancelActiveBillDesc>Cancela el proceso actual, lo que devolverá los recursos y dejará de consumir energía.</FFF.CancelActiveBillDesc>
+
+<!-- EN: The currently executing work list has been canceled, but it needs to stop running. -->
+  <FFF.Autofacturer.WorkerCanceled>La lista de trabajo en ejecución ha sido cancelada, pero necesita detenerse.</FFF.Autofacturer.WorkerCanceled>
+
+<!-- EN: {0} Completed -->
+  <FFF.Autofacturer.WorkerDone>{0} completado</FFF.Autofacturer.WorkerDone>
+
+<!-- EN: current processes have completed, require colonist to work -->
+  <FFF.Autofacturer.WorkerFinished>los procesos actuales se han completado, se requiere que un colono trabaje</FFF.Autofacturer.WorkerFinished>
+<!-- EN: Remaining work amount: {0}\nRemaining stages: {1} -->
+  <FFF.Autofacturer.Information>Cantidad de trabajo restante: {0}\nEtapas restantes: {1}</FFF.Autofacturer.Information>
+<!-- EN: Completed, require colonist to work -->
+  <FFF.Autofacturer.Prepared>Completado, se requiere que un colono trabaje</FFF.Autofacturer.Prepared>
+
+</LanguageData>

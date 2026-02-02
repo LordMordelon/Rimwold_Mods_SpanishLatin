@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <VGE_AmmoBox_GaussShell.description>Una caja pequeña que contiene proyectiles de uranio grandes. Utilizada por diferentes torretas de artillería gauss para recargar. Una caja se introduce directamente en una artillería de gravinave adyacente cuando necesita ser recargada.</VGE_AmmoBox_GaussShell.description>
+  <VGE_AmmoBox_GaussShell.label>caja de munición gauss</VGE_AmmoBox_GaussShell.label>
+  <VGE_AnticraftCaster.description>Un arma de energía de tamaño medio montada en gravinave que dispara ráfagas cortas y afiladas de rayos de corte con precisión quirúrgica. Construido para perforar sistemas críticos, el emisor sacrifica la supresión sostenida por ataques rápidos y precisos. Requiere una terminal de puntería vinculada con un operador para funcionar. Consume mucha energía al disparar.</VGE_AnticraftCaster.description>
+  <VGE_AnticraftCaster.label>emisor antiaéreo</VGE_AnticraftCaster.label>
+  <VGE_Bullet_AnticraftCaster.label>rayo de emisor antiaéreo</VGE_Bullet_AnticraftCaster.label>
+  <VGE_Bullet_GaussGun.label>disparo de cañón gauss</VGE_Bullet_GaussGun.label>
+  <VGE_GaussGun.comps.CompRefuelable.fuelGizmoLabel>Proyectiles de uranio</VGE_GaussGun.comps.CompRefuelable.fuelGizmoLabel>
+  <VGE_GaussGun.comps.CompRefuelable.fuelLabel>Proyectiles de uranio</VGE_GaussGun.comps.CompRefuelable.fuelLabel>
+  <VGE_GaussGun.description>Un cañón electromagnético pequeño de un solo cañón que lanza proyectiles de uranio densos a velocidades extremas. Diseñado tanto para bombardeos locales como para enfrentamientos de medio alcance, también puede apuntar a otras gravinaves en órbita. Requiere una terminal de puntería vinculada con un operador para funcionar. Extrae energía directamente del motor gravitacional.</VGE_GaussGun.description>
+  <VGE_GaussGun.label>cañón gauss</VGE_GaussGun.label>
+  <VGE_Gun_AnticraftCaster.description>Un arma de energía de tamaño medio montada en gravinave.</VGE_Gun_AnticraftCaster.description>
+  <VGE_Gun_AnticraftCaster.label>emisor antiaéreo</VGE_Gun_AnticraftCaster.label>
+  <VGE_Gun_AnticraftCaster.verbs.Verb_ShootWithWorldTargeting.label>emisor antiaéreo</VGE_Gun_AnticraftCaster.verbs.Verb_ShootWithWorldTargeting.label>
+  <VGE_Gun_GaussGun.description>Un cañón electromagnético pequeño de un solo cañón.</VGE_Gun_GaussGun.description>
+  <VGE_Gun_GaussGun.label>cañón gauss</VGE_Gun_GaussGun.label>
+  <VGE_Gun_GaussGun.verbs.Verb_ShootWithSmoke.label>cañón gauss</VGE_Gun_GaussGun.verbs.Verb_ShootWithSmoke.label>
+  <VGE_Gun_JavelinPod.description>Una plataforma de misiles compacta de tubos múltiples.</VGE_Gun_JavelinPod.description>
+  <VGE_Gun_JavelinPod.label>lanzadera javelin</VGE_Gun_JavelinPod.label>
+  <VGE_Gun_JavelinPod.verbs.Verb_ShootWithWorldTargeting.label>lanzadera javelin</VGE_Gun_JavelinPod.verbs.Verb_ShootWithWorldTargeting.label>
+  <VGE_Gun_PointDefense.description>Un arma de disparo rápido para aplicaciones de defensa de punto.</VGE_Gun_PointDefense.description>
+  <VGE_Gun_PointDefense.label>cañón de defensa de punto</VGE_Gun_PointDefense.label>
+  <VGE_Gun_PointDefense.verbs.Verb_Shoot.label>cañón de defensa de punto</VGE_Gun_PointDefense.verbs.Verb_Shoot.label>
+  <VGE_JavelinPod.comps.CompRefuelable.fuelGizmoLabel>Astrobustible</VGE_JavelinPod.comps.CompRefuelable.fuelGizmoLabel>
+  <VGE_JavelinPod.comps.CompRefuelable.fuelLabel>Astrobustible</VGE_JavelinPod.comps.CompRefuelable.fuelLabel>
+  <VGE_JavelinPod.comps.CompRefuelable.outOfFuelMessage>Faltan cohetes</VGE_JavelinPod.comps.CompRefuelable.outOfFuelMessage>
+  <VGE_JavelinPod.description>Una plataforma de misiles compacta de tubos múltiples que lanza una salva de seis jabalinas de astrobustible guiadas. Destinada a ataques rápidos y contundentes contra gravinaves expuestas y fuerzas de superficie sin blindaje. Requiere una terminal de puntería vinculada con un operador para funcionar. Extrae energía directamente del motor gravitacional.</VGE_JavelinPod.description>
+  <VGE_JavelinPod.label>lanzadera javelin</VGE_JavelinPod.label>
+  <VGE_Mote_BeamRepeaterLaser.label>Mota</VGE_Mote_BeamRepeaterLaser.label>
+  <VGE_PointDefenseTurret.comps.CompRefuelable.fuelGizmoLabel>Munición</VGE_PointDefenseTurret.comps.CompRefuelable.fuelGizmoLabel>
+  <VGE_PointDefenseTurret.comps.CompRefuelable.fuelLabel>Munición</VGE_PointDefenseTurret.comps.CompRefuelable.fuelLabel>
+  <VGE_PointDefenseTurret.description>Una torreta defensiva especializada construida exclusivamente para gravinaves. Intercepta proyectiles explosivos y cápsulas de escape entrantes dentro de su radio de protección, pero no puede atacar objetivos terrestres. La probabilidad de intercepción escala con la velocidad del objetivo.</VGE_PointDefenseTurret.description>
+  <VGE_PointDefenseTurret.label>torreta de defensa de punto</VGE_PointDefenseTurret.label>
+  <VGE_Rocket_JavelinRocket.label>Cohete javelin</VGE_Rocket_JavelinRocket.label>
+  <VGE_TargetingTerminal.description>Una estación de control dedicada a operar una sola pieza de artillería de gravinave. Requiere un miembro de la tripulación para apuntar y disparar el arma manualmente. Extrae energía directamente del motor gravitacional.</VGE_TargetingTerminal.description>
+  <VGE_TargetingTerminal.label>terminal de puntería</VGE_TargetingTerminal.label>
+</LanguageData>

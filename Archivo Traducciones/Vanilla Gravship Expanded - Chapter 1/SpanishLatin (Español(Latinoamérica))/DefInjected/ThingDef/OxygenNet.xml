@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: hidden oxygen pipe -->
+  <VGE_HiddenOxygenPipe.label>tubería de oxígeno oculta</VGE_HiddenOxygenPipe.label>
+  <!-- EN: A hidden, reinforced tube for moving oxygen around. While it’s not visible, it is much more expensive to construct. -->
+  <VGE_HiddenOxygenPipe.description>Un tubo reforzado y oculto para mover oxígeno. Aunque no es visible, es mucho más costoso de construir.</VGE_HiddenOxygenPipe.description>
+  
+  <!-- EN: industrial oxygen pump -->
+  <VGE_IndustrialOxygenPump.label>bomba de oxígeno industrial</VGE_IndustrialOxygenPump.label>
+  <!-- EN: A powerful unit that releases large amounts of oxygen into the surrounding room, allowing enclosed areas to repressurize in space. Essential for long stays in orbit. -->
+  <VGE_IndustrialOxygenPump.description>Una unidad potente que libera grandes cantidades de oxígeno en la habitación circundante, permitiendo que las áreas cerradas se vuelvan a presurizar en el espacio. Esencial para estancias prolongadas en órbita.</VGE_IndustrialOxygenPump.description>
+  
+  <!-- EN: large oxygen tank -->
+  <VGE_LargeOxygenTank.label>tanque de oxígeno grande</VGE_LargeOxygenTank.label>
+  <!-- EN: A large oxygen tank that supplies oxygen to pumps throughout the gravship. -->
+  <VGE_LargeOxygenTank.description>Un tanque de oxígeno grande que suministra oxígeno a las bombas en toda la gravinave.</VGE_LargeOxygenTank.description>
+  
+  <!-- EN: algae oxygenator -->
+  <VGE_LifeSupportSystem.label>oxigenador de algas</VGE_LifeSupportSystem.label>
+  <!-- EN: A vital device that processes harvested oxyalgae into breathable oxygen. Converts biomass into gas and pumps it into the oxygen network to supply pressurized rooms and equipment. -->
+  <VGE_LifeSupportSystem.description>Un dispositivo vital que procesa la oxialga cosechada en oxígeno respirable. Convierte la biomasa en gas y la bombea a la red de oxígeno para abastecer habitaciones presurizadas y equipos.</VGE_LifeSupportSystem.description>
+  <!-- EN: Oxyalgae -->
+  <VGE_LifeSupportSystem.comps.CompRefuelable_IgnoreFlickableComp.fuelGizmoLabel>Oxialga</VGE_LifeSupportSystem.comps.CompRefuelable_IgnoreFlickableComp.fuelGizmoLabel>
+  <!-- EN: Oxyalgae -->
+  <VGE_LifeSupportSystem.comps.CompRefuelable_IgnoreFlickableComp.fuelLabel>Oxialga</VGE_LifeSupportSystem.comps.CompRefuelable_IgnoreFlickableComp.fuelLabel>
+  
+  <!-- EN: oxygen canister emptier -->
+  <VGE_OxygenCanisterEmptier.label>vaciador de botes de oxígeno</VGE_OxygenCanisterEmptier.label>
+  <!-- EN: A hopper-like storage structure meant to input oxygen from canisters into the network, filling up connected tanks. -->
+  <VGE_OxygenCanisterEmptier.description>Una estructura de almacenamiento tipo tolva destinada a introducir oxígeno de los botes en la red, llenando los tanques conectados.</VGE_OxygenCanisterEmptier.description>
+  
+  <!-- EN: oxygen canister filler -->
+  <VGE_OxygenCanisterFiller.label>llenador de botes de oxígeno</VGE_OxygenCanisterFiller.label>
+  <!-- EN: A hopper-like storage device meant to hold dispensed oxygen in canisters for use later. -->
+  <VGE_OxygenCanisterFiller.description>Un dispositivo de almacenamiento tipo tolva destinado a contener el oxígeno dispensado en botes para su uso posterior.</VGE_OxygenCanisterFiller.description>
+  
+  <!-- EN: oxygen harvester -->
+  <VGE_OxygenHarvester.label>recolector de oxígeno</VGE_OxygenHarvester.label>
+  <!-- EN: A device that draws in breathable oxygen from the surrounding atmosphere and stores it in the oxygen network. It functions only on planetary surfaces with an atmosphere and will not operate in vacuum or low-oxygen environments. -->
+  <VGE_OxygenHarvester.description>Un dispositivo que extrae oxígeno respirable de la atmósfera circundante y lo almacena en la red de oxígeno. Funciona solo en superficies planetarias con atmósfera y no operará en el vacío o en entornos con poco oxígeno.</VGE_OxygenHarvester.description>
+  
+  <!-- EN: oxygen pipe -->
+  <VGE_OxygenPipe.label>tubería de oxígeno</VGE_OxygenPipe.label>
+  <!-- EN: A reinforced tube for moving oxygen around. Can be placed under walls and other buildings. -->
+  <VGE_OxygenPipe.description>Un tubo reforzado para mover oxígeno. Puede colocarse debajo de paredes y otros edificios.</VGE_OxygenPipe.description>
+  
+  <!-- EN: oxygen reclaimer -->
+  <VGE_OxygenReclaimer.label>recuperador de oxígeno</VGE_OxygenReclaimer.label>
+  <!-- EN: A self-contained atmospheric unit that extracts trace oxygen from surrounding gases. It produces oxygen at a slow, steady rate, but requires no input materials. Needs to be connected to an oxygen tank via oxygen pipes to work. -->
+  <VGE_OxygenReclaimer.description>Una unidad atmosférica autónoma que extrae trazas de oxígeno de los gases circundantes. Produce oxígeno a un ritmo lento y constante, pero no requiere materiales de entrada. Necesita estar conectado a un tanque de oxígeno mediante tuberías de oxígeno para funcionar.</VGE_OxygenReclaimer.description>
+  
+  <!-- EN: oxygen valve -->
+  <VGE_OxygenValve.label>válvula de oxígeno</VGE_OxygenValve.label>
+  <!-- EN: Switches oxygen flow on and off. -->
+  <VGE_OxygenValve.description>Activa y desactiva el flujo de oxígeno.</VGE_OxygenValve.description>
+  
+  <!-- EN: small oxygen tank -->
+  <VGE_SmallOxygenTank.label>tanque de oxígeno pequeño</VGE_SmallOxygenTank.label>
+  <!-- EN: An oxygen tank that supplies oxygen to pumps throughout the gravship. -->
+  <VGE_SmallOxygenTank.description>Un tanque de oxígeno que suministra oxígeno a las bombas en toda la gravinave.</VGE_SmallOxygenTank.description>
+  
+</LanguageData>

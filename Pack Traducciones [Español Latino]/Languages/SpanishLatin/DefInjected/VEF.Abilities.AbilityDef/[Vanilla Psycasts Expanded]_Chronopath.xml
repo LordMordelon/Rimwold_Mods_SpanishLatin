@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <VPE_Age.description>Sifona muy ineficientemente la fuerza vital de un objetivo vivo, rejuveneciendo al lanzador en 2 años y envejeciendo al otro en 10. Efectos secundarios muy debilitantes para la víctima y considerada una acción hostil por los aliados.</VPE_Age.description>
+  <VPE_Age.jobReportString>Usando habilidad: {0}</VPE_Age.jobReportString>
+  <VPE_Age.label>envejecer</VPE_Age.label>
+  <VPE_Age.verbProperties.label>envejecer</VPE_Age.verbProperties.label>
+  <VPE_CraftTimeskip.description>Usando un salto temporal muy preciso, mueve el artículo deseado a su estado terminado como si el creador hubiera seguido trabajando en él. Envejece biológicamente al lanzador un año completo.</VPE_CraftTimeskip.description>
+  <VPE_CraftTimeskip.jobReportString>Usando habilidad: {0}</VPE_CraftTimeskip.jobReportString>
+  <VPE_CraftTimeskip.label>salto temporal de fabricación</VPE_CraftTimeskip.label>
+  <VPE_CraftTimeskip.verbProperties.label>salto temporal de fabricación</VPE_CraftTimeskip.verbProperties.label>
+  <VPE_PlantTimeskip.description>Hace crecer todas las plantas en un radio alrededor del lanzador, avanzando su madurez por el equivalente a 7 días. Envejece biológicamente al lanzador un año completo.</VPE_PlantTimeskip.description>
+  <VPE_PlantTimeskip.jobReportString>Usando habilidad: {0}</VPE_PlantTimeskip.jobReportString>
+  <VPE_PlantTimeskip.label>salto temporal de plantas</VPE_PlantTimeskip.label>
+  <VPE_PlantTimeskip.verbProperties.label>salto temporal de plantas</VPE_PlantTimeskip.verbProperties.label>
+  <VPE_RaidPause.description>Dependiendo de la sensibilidad psíquica del lanzador, ralentiza a todos los asaltantes en el mapa hasta detenerlos por completo durante hasta cinco minutos. Atacar a cualquier asaltante afectado los devuelve a todos a la acción.</VPE_RaidPause.description>
+  <VPE_RaidPause.jobReportString>Usando habilidad: {0}</VPE_RaidPause.jobReportString>
+  <VPE_RaidPause.label>pausa de asalto</VPE_RaidPause.label>
+  <VPE_RaidPause.verbProperties.label>pausa de asalto</VPE_RaidPause.verbProperties.label>
+  <VPE_SeasonTimeskip.description>Bloquea todo el planeta en una ralentización inducida psíquicamente de una estación, saltando efectivamente una estación hacia adelante. Efecto casi instantáneo, muy extenuante y pone al lanzador en coma, además de envejecerlo biológicamente un año completo.</VPE_SeasonTimeskip.description>
+  <VPE_SeasonTimeskip.jobReportString>Usando habilidad: {0}</VPE_SeasonTimeskip.jobReportString>
+  <VPE_SeasonTimeskip.label>salto temporal de estación</VPE_SeasonTimeskip.label>
+  <VPE_SeasonTimeskip.verbProperties.label>salto temporal de estación</VPE_SeasonTimeskip.verbProperties.label>
+  <VPE_TimeReversal.description>Sifona ineficientemente la fuerza vital a un objetivo vivo, envejeciendo al lanzador en 5 años y rejuveneciendo al otro en 10. Tiene una edad mínima, elimina las penalizaciones relacionadas con la edad y pone al lanzador en coma.</VPE_TimeReversal.description>
+  <VPE_TimeReversal.jobReportString>Usando habilidad: {0}</VPE_TimeReversal.jobReportString>
+  <VPE_TimeReversal.label>inversión temporal</VPE_TimeReversal.label>
+  <VPE_TimeReversal.verbProperties.label>inversión temporal</VPE_TimeReversal.verbProperties.label>
+  <VPE_TimeSphere.description>Comprime psíquicamente el flujo del tiempo en un área. Envejece rápidamente a las criaturas vivas, las plantas florecen y se marchitan, y las estructuras comienzan a desintegrarse por el extraño estrés.</VPE_TimeSphere.description>
+  <VPE_TimeSphere.jobReportString>Usando habilidad: {0}</VPE_TimeSphere.jobReportString>
+  <VPE_TimeSphere.label>esfera de tiempo</VPE_TimeSphere.label>
+  <VPE_TimeSphere.verbProperties.label>esfera de tiempo</VPE_TimeSphere.verbProperties.label>
+  <VPE_Timequake.description>Encuentra una discontinuidad en el campo psíquico y la comprime, liberando una perturbación temporal masiva. Cada criatura dentro del alcance pero fuera del círculo interior seguro experimentará un envejecimiento rápido y las estructuras se deformarán. Lanzar esto toma 20 segundos de meditación, y después, el lanzador entrará en un coma psíquico. Los perturbadores ecos del terremoto temporal infligirán dolor a todos por muchos kilómetros a la redonda, causando consecuencias diplomáticas con todas las facciones.</VPE_Timequake.description>
+  <VPE_Timequake.jobReportString>Usando habilidad: {0}</VPE_Timequake.jobReportString>
+  <VPE_Timequake.label>terremoto temporal</VPE_Timequake.label>
+  <VPE_Timequake.modExtensions.2.message>Si usas terremoto temporal, todos en esta región sentirán el eco del terremoto temporal, perderás buena voluntad con cada facción no hostil.\n\nTerremoto temporal toma 20 segundos para lanzarse y no puede ser interrumpido. Cuando se complete, el lanzador caerá en un coma psíquico por hasta 5 días.\n\nTodos excepto aquellos en un pequeño círculo alrededor del lanzador se verán afectados.\n\n¿Realmente quieres lanzar terremoto temporal?</VPE_Timequake.modExtensions.2.message>
+  <VPE_Timequake.verbProperties.label>terremoto temporal</VPE_Timequake.verbProperties.label>
+  <VPE_TimeskipMeditation.description>Pone al lanzador en un coma autoinfligido mientras gana una cantidad considerable de experiencia hacia su siguiente nivel de psicoemisión y recupera todo el psicofoco. Envejece biológicamente al lanzador cinco años.</VPE_TimeskipMeditation.description>
+  <VPE_TimeskipMeditation.jobReportString>Usando habilidad: {0}</VPE_TimeskipMeditation.jobReportString>
+  <VPE_TimeskipMeditation.label>meditación de salto temporal</VPE_TimeskipMeditation.label>
+  <VPE_TimeskipMeditation.verbProperties.label>meditación de salto temporal</VPE_TimeskipMeditation.verbProperties.label>
+  <VPE_WordofForetelling.description>Susurros psíquicos de cosas por venir. Los peones de la colonia se inspiran, los neutrales o amistosos mejoran las relaciones, los prisioneros pierden su resistencia y los enemigos se retiran de su perdición. Envejece biológicamente al lanzador un año completo.</VPE_WordofForetelling.description>
+  <VPE_WordofForetelling.jobReportString>Usando habilidad: {0}</VPE_WordofForetelling.jobReportString>
+  <VPE_WordofForetelling.label>palabra de predicción</VPE_WordofForetelling.label>
+  <VPE_WordofForetelling.verbProperties.label>palabra de predicción</VPE_WordofForetelling.verbProperties.label>
+</LanguageData>

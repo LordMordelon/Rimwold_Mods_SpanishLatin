@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: gravlite defense turret -->
+  <GTbc_GravliteDefenseTurret.label>torreta de defensa de gravlita</GTbc_GravliteDefenseTurret.label>
+  <!-- EN: A scaled-down defensive turret firing charged fragments of gravlite panels. It intercepts asteroids, explosive projectiles and incoming drop pods within its protective radius, but cannot engage ground targets. Interception chance scales with the target’s velocity.\n\nIt can be placed on the ground. -->
+  <GTbc_GravliteDefenseTurret.description>Una torreta defensiva a escala reducida que dispara fragmentos cargados de paneles de gravlita. Intercepta asteroides, proyectiles explosivos y cápsulas de desembarco entrantes dentro de su radio de protección, pero no puede atacar objetivos terrestres. La probabilidad de intercepción escala con la velocidad del objetivo.\n\nSe puede colocar en el suelo.</GTbc_GravliteDefenseTurret.description>
+  <!-- EN: Gravlite panels -->
+  <GTbc_GravliteDefenseTurret.comps.CompRefuelable.fuelGizmoLabel>paneles de gravlita</GTbc_GravliteDefenseTurret.comps.CompRefuelable.fuelGizmoLabel>
+  <!-- EN: Gravlite panels -->
+  <GTbc_GravliteDefenseTurret.comps.CompRefuelable.fuelLabel>paneles de gravlita</GTbc_GravliteDefenseTurret.comps.CompRefuelable.fuelLabel>
+  
+  <!-- EN: gravlite defense gun -->
+  <GTbc_Gun_GravliteDefense.label>cañón de defensa de gravlita</GTbc_Gun_GravliteDefense.label>
+  <!-- EN: A rapid-fire gun for point-defense applications. -->
+  <GTbc_Gun_GravliteDefense.description>Un cañón de fuego rápido para aplicaciones de defensa puntual.</GTbc_Gun_GravliteDefense.description>
+  <!-- EN: gravlite defense gun -->
+  <GTbc_Gun_GravliteDefense.verbs.Verb_Shoot.label>cañón de defensa de gravlita</GTbc_Gun_GravliteDefense.verbs.Verb_Shoot.label>
+  
+</LanguageData>

@@ -1,0 +1,354 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: blacksight device -->
+  <BlacksightDevice.label>dispositivo de visión oscura</BlacksightDevice.label>
+  <!-- EN: Modify noctolith sensors so that they can be implanted in a human, allowing them to partially enter the void. -->
+  <BlacksightDevice.description>Modifica los sensores de noctolito para que puedan implantarse en un humano, permitiéndole entrar parcialmente en el vacío.</BlacksightDevice.description>
+  <!-- EN:
+    <li>subject->blacksight</li>
+    <li>subject_story->wandered a hell of jagged metal and felt at home</li>
+    <li>subject_story->assassinated an urbworld oligarch's entire family in a single night</li>
+    <li>subject_story->found a strange, evil device and was never seen again</li>
+    <li>subject_gerund->adapting noctolith sensors</li>
+    <li>subject_gerund->implanting noctolith sensors into a human</li>
+  -->
+  <BlacksightDevice.generalRules.rulesStrings>
+    <li>subject->visión oscura</li>
+    <li>subject_story->vagó por un infierno de metal dentado y se sintió como en casa</li>
+    <li>subject_story->asesinó a toda la familia de un oligarca de un mundo urbano en una sola noche</li>
+    <li>subject_story->encontró un extraño y malvado dispositivo y nunca más se le volvió a ver</li>
+    <li>subject_gerund->adaptando sensores de noctolito</li>
+    <li>subject_gerund->implantando sensores de noctolito en un humano</li>
+  </BlacksightDevice.generalRules.rulesStrings>
+  
+  <!-- EN: deadlife coil -->
+  <DeadlifeCoil.label>espiral de necrovita</DeadlifeCoil.label>
+  <!-- EN: Modify deadlife dust present in a human, granting them a far more powerful shambler form. -->
+  <DeadlifeCoil.description>Modifica el polvo de necrovita presente en un humano, otorgándole una forma de errante mucho más poderosa.</DeadlifeCoil.description>
+  <!-- EN:
+    <li>subject->retribution</li>
+    <li>subject->impaling</li>
+    <li>subject_story->uncovered what they thought to be the secret to immortality inscribed upon a strange monolith on a deadworld</li>
+    <li>subject_story->desired an arky that would continue to fight for them, even after death</li>
+    <li>subject_story->discovered a collection of archotech made organs that did not match any known xenotype in a deep urbworld black market</li>
+    <li>subject_gerund->implanting gorehulk archo-DNA</li>
+    <li>subject_gerund->implanting gorehulk archo-DNA into a human</li>
+  -->
+  <DeadlifeCoil.generalRules.rulesStrings>
+    <li>subject->retribución</li>
+    <li>subject->empalamiento</li>
+    <li>subject_story->descubrió lo que creía que era el secreto de la inmortalidad inscrito en un extraño monolito en un mundo muerto</li>
+    <li>subject_story->deseaba un arky que siguiera luchando por ellos, incluso después de la muerte</li>
+    <li>subject_story->descubrió una colección de órganos hechos con arqueotecnología que no coincidían con ningún xenotipo conocido en un profundo mercado negro de un mundo urbano</li>
+    <li>subject_gerund->implantando archo-ADN de goretesco</li>
+    <li>subject_gerund->implantando archo-ADN de goretesco en un humano</li>
+  </DeadlifeCoil.generalRules.rulesStrings>
+  
+  <!-- EN: retributive impaler -->
+  <DefensiveImpaler.label>empalador retributivo</DefensiveImpaler.label>
+  <!-- EN: Modify gorehulk nervous systems so that it can be implanted in a human, granting them retractable bionic quills. -->
+  <DefensiveImpaler.description>Modifica los sistemas nerviosos de un goretesco para que puedan implantarse en un humano, otorgándole púas biónicas retráctiles.</DefensiveImpaler.description>
+  <!-- EN:
+    <li>subject->retribution</li>
+    <li>subject->impaling</li>
+    <li>subject_story->loved their pet hedge-hog, and wondered if humans could reach such levels of perfection</li>
+    <li>subject_story->found the residents of their home villiage replaced with strange not-quite-humans</li>
+    <li>subject_story->wanted to never be hurt again</li>
+    <li>subject_gerund->implanting gorehulk nervous systems</li>
+    <li>subject_gerund->implanting gorehulk nervous systems into a human</li>
+  -->
+  <DefensiveImpaler.generalRules.rulesStrings>
+    <li>subject->retribución</li>
+    <li>subject->empalamiento</li>
+    <li>subject_story->amaba a su erizo mascota y se preguntaba si los humanos podrían alcanzar tales niveles de perfección</li>
+    <li>subject_story->encontró a los residentes de su aldea natal reemplazados por extraños casi-humanos</li>
+    <li>subject_story->quería no volver a ser herido nunca más</li>
+    <li>subject_gerund->implantando sistemas nerviosos de goretesco</li>
+    <li>subject_gerund->implantando sistemas nerviosos de goretesco en un humano</li>
+  </DefensiveImpaler.generalRules.rulesStrings>
+  
+  <!-- EN: dreadheart regeneration -->
+  <DreadheartRegeneration.label>regeneración anómala</DreadheartRegeneration.label>
+  <!-- EN: Modify a dreadmeld core so that it can be implanted in a human, allowing them to temporarily gain incredible regeneration. -->
+  <DreadheartRegeneration.description>Modifica un núcleo de carnifusión para que pueda implantarse en un humano, permitiéndole obtener una regeneración increíble de forma temporal.</DreadheartRegeneration.description>
+  <!-- EN:
+    <li>subject->regeneration</li>
+    <li>subject->flesh-shaping</li>
+    <li>subject_story->visited a tribe that subsisted on an evergrowing mass of flesh</li>
+    <li>subject_story->watched a person explode into an infinite mass of flesh</li>
+    <li>subject_story->cut out the heart of an immortal god-king in their sleep</li>
+    <li>subject_gerund->adapting a dreadmeld core</li>
+    <li>subject_gerund->implanting a dreadmeld core into a human</li>
+  -->
+  <DreadheartRegeneration.generalRules.rulesStrings>
+    <li>subject->regeneración</li>
+    <li>subject->moldeado de carne</li>
+    <li>subject_story->visitó una tribu que subsistía de una masa de carne en constante crecimiento</li>
+    <li>subject_story->vio a una persona explotar en una masa infinita de carne</li>
+    <li>subject_story->le arrancó el corazón a un rey-dios inmortal mientras dormía</li>
+    <li>subject_gerund->adaptando un núcleo de carnifusión</li>
+    <li>subject_gerund->implantando un núcleo de carnifusión en un humano</li>
+  </DreadheartRegeneration.generalRules.rulesStrings>
+  
+  <!-- EN: sangfroidian lobotomy -->
+  <DroneLobotomy.label>lobotomía sangfroidiana</DroneLobotomy.label>
+  <!-- EN: Perform a surgery that lobotomizes a person, rendering them unable to feel the full range of human emotion, while crippling their will to learn. -->
+  <DroneLobotomy.description>Realiza una cirugía que lobotomiza a una persona, haciéndola incapaz de sentir la gama completa de emociones humanas y debilitando su voluntad de aprender.</DroneLobotomy.description>
+  <!-- EN:
+    <li>subject->lobotomy</li>
+    <li>subject_story->made a fortune lobotomizing the work force of an urbworld megacorporation</li>
+    <li>subject_story->decided to make a world where no one would ever be sad</li>
+    <li>subject_story->graduated their neuroscience course full of new ideas</li>
+    <li>subject_gerund->performing lobotomies</li>
+    <li>subject_gerund->excising brain tissue</li>
+  -->
+  <DroneLobotomy.generalRules.rulesStrings>
+    <li>subject->lobotomía</li>
+    <li>subject_story->hizo una fortuna lobotomizando a la fuerza laboral de una megacorporación de un mundo urbano</li>
+    <li>subject_story->decidió crear un mundo donde nadie estuviera triste nunca</li>
+    <li>subject_story->se graduó de su curso de neurociencia lleno de nuevas ideas</li>
+    <li>subject_gerund->realizando lobotomías</li>
+    <li>subject_gerund->extirpando tejido cerebral</li>
+  </DroneLobotomy.generalRules.rulesStrings>
+  
+  <!-- EN: hulkification surgery -->
+  <HulkificationSurgery.label>cirugía de masificación</HulkificationSurgery.label>
+  <!-- EN: Perform a surgery that deforms a person, making them hideous and slow but incredibly strong. -->
+  <HulkificationSurgery.description>Realiza una cirugía que deforma a una persona, volviéndola horrenda y lenta pero increíblemente fuerte.</HulkificationSurgery.description>
+  <!-- EN:
+    <li>subject->deformation</li>
+    <li>subject->mutation</li>
+    <li>subject_story->deformed their body by injecting all manner of strange concoctions and materials while attempting to become their world's top athlete</li>
+    <li>subject_story->witnessed an inhumanly large but deformed soldier heroically carry their injured comrades to safety</li>
+    <li>subject_story->wondered what actually seperated humans and gorehulks</li>
+    <li>subject_gerund->performing surgeries</li>
+    <li>subject_gerund->enhancing bodies</li>
+  -->
+  <HulkificationSurgery.generalRules.rulesStrings>
+    <li>subject->deformación</li>
+    <li>subject->mutación</li>
+    <li>subject_story->deformó su cuerpo inyectándose todo tipo de extraños brebajes y materiales mientras intentaba convertirse en el mejor atleta de su mundo</li>
+    <li>subject_story->presenció a un soldado inhumanamente grande pero deforme llevando heroicamente a sus camaradas heridos a un lugar seguro</li>
+    <li>subject_story->se preguntó qué separaba realmente a los humanos de los goretescos</li>
+    <li>subject_gerund->realizando cirugías</li>
+    <li>subject_gerund->mejorando cuerpos</li>
+  </HulkificationSurgery.generalRules.rulesStrings>
+  
+  <!-- EN: hyper-adrenaline -->
+  <HyperAdrenalineGland.label>hiperadrenalina</HyperAdrenalineGland.label>
+  <!-- EN: Modify a hyper-adrenal gland so that it can be implanted in a human, granting them incredible speed and pain resistance when injured. -->
+  <HyperAdrenalineGland.description>Modifica una glándula hiperadrenal para que pueda implantarse en un humano, otorgándole velocidad increíble y resistencia al dolor cuando está herido.</HyperAdrenalineGland.description>
+  <!-- EN:
+    <li>subject->adrenaline</li>
+    <li>subject_story->mutilated themselves by replacing parts of their body with animal equivalents using glitterworld surgery techniques</li>
+    <li>subject_story->was hunted by a pack of strange, unnatural beasts in the jungles of their home planet</li>
+    <li>subject_story->read a thesis on archo-biological organs</li>
+    <li>subject_gerund->implanting a hyper-adrenaline gland</li>
+    <li>subject_gerund->implanting a hyper-adrenaline gland into a human</li>
+  -->
+  <HyperAdrenalineGland.generalRules.rulesStrings>
+    <li>subject->adrenalina</li>
+    <li>subject_story->se mutiló reemplazando partes de su cuerpo con equivalentes de animales usando técnicas de cirugía de mundobrillante</li>
+    <li>subject_story->fue cazado por una manada de extrañas bestias antinaturales en las selvas de su planeta natal</li>
+    <li>subject_story->leyó una tesis sobre órganos arqueo-biológicos</li>
+    <li>subject_gerund->implantando una glándula hiperadrenal</li>
+    <li>subject_gerund->implantando una glándula hiperadrenal en un humano</li>
+  </HyperAdrenalineGland.generalRules.rulesStrings>
+  
+  <!-- EN: hyperalkalaic archites -->
+  <HyperalkalaicArchites.label>arquitas hiperalcalinas</HyperalkalaicArchites.label>
+  <!-- EN: Modify the hyperalkalaic archites lining a devourer's stomach so that they can be implanted in a human, protecting them from acid. -->
+  <HyperalkalaicArchites.description>Modifica las arquitas hiperalcalinas que recubren el estómago de un devorador para que puedan implantarse en un humano, protegiéndolo del ácido.</HyperalkalaicArchites.description>
+  <!-- EN:
+    <li>subject->acid</li>
+    <li>subject->archites</li>
+    <li>subject_story->wrote a book about an inventor who thought they had become immune to the monster haunting their town. they only prolonged their suffering</li>
+    <li>subject_story->documented the strange effects on those who choosed to tattoo themselves with archites</li>
+    <li>subject_story->was ordered to dissolve hundreds of human bodies</li>
+    <li>subject_gerund->adapting hyperalkalaic archites</li>
+    <li>subject_gerund->implanting hyperalkalaic archites into a human</li>
+  -->
+  <HyperalkalaicArchites.generalRules.rulesStrings>
+    <li>subject->ácido</li>
+    <li>subject->arquitas</li>
+    <li>subject_story->escribió un libro sobre un inventor que creía haberse vuelto inmune al monstruo que acechaba su ciudad. solo prolongó su sufrimiento</li>
+    <li>subject_story->documentó los extraños efectos en aquellos que eligieron tatuarse con arquitas</li>
+    <li>subject_story->recibió la orden de disolver cientos de cuerpos humanos</li>
+    <li>subject_gerund->adaptando arquitas hiperalcalinas</li>
+    <li>subject_gerund->implantando arquitas hiperalcalinas en un humano</li>
+  </HyperalkalaicArchites.generalRules.rulesStrings>
+  
+  <!-- EN: advanced ghoul enhancements -->
+  <LTS_AdvancedGhoulEnhancements.label>mejoras necrófagas avanzadas</LTS_AdvancedGhoulEnhancements.label>
+  <!-- EN: Craft bioferrite bionics to make ghouls stronger. -->
+  <LTS_AdvancedGhoulEnhancements.description>Fabrica biónicos de bioferrita para hacer a los ghouls más fuertes.</LTS_AdvancedGhoulEnhancements.description>
+  <!-- EN:
+    <li>subject->bionic ghoul enhancements</li>
+    <li>subject_story->tried to raise an army of the dead using technology</li>
+    <li>subject_story->was stalked by a creature of flesh and steel</li>
+    <li>subject_story->lost their mind trying to save dying soldiers using bionics</li>
+    <li>subject_gerund->enhancing a ghoul with bioferrite bionics</li>
+  -->
+  <LTS_AdvancedGhoulEnhancements.generalRules.rulesStrings>
+    <li>subject->mejoras biónicas de necrófago</li>
+    <li>subject_story->intentó levantar un ejército de muertos usando tecnología</li>
+    <li>subject_story->fue acechado por una criatura de carne y acero</li>
+    <li>subject_story->perdió la cabeza intentando salvar a soldados moribundos usando biónicos</li>
+    <li>subject_gerund->mejorando un necrófago con biónicos de bioferrita</li>
+  </LTS_AdvancedGhoulEnhancements.generalRules.rulesStrings>
+  
+  <!-- EN: metalhorror symbiosis -->
+  <MetalhorrorSymbiont.label>simbiosis de horrormetal</MetalhorrorSymbiont.label>
+  <!-- EN: Modify a metalhorror seed so that it can be implanted in a human, enhancing their combative capabilities. -->
+  <MetalhorrorSymbiont.description>Modifica una semilla de horrormetal para que pueda implantarse en un humano, mejorando sus capacidades de combate.</MetalhorrorSymbiont.description>
+  <!-- EN:
+    <li>subject->symbiosis</li>
+    <li>subject_story->had archometalic parasites injected into POWs to learn how to enhance their soldiers</li>
+    <li>subject_story->knew that his friends and family had been replaced by monsters</li>
+    <li>subject_story->watched in horror as a creature cut it's way out of their body</li>
+    <li>subject_gerund->adapting a metalhorror seed</li>
+    <li>subject_gerund->implanting a metalhorror seed into a human</li>
+  -->
+  <MetalhorrorSymbiont.generalRules.rulesStrings>
+    <li>subject->simbiosis</li>
+    <li>subject_story->hizo que se inyectaran parásitos arqueometálicos en prisioneros de guerra para aprender a mejorar a sus soldados</li>
+    <li>subject_story->sabía que sus amigos y familiares habían sido reemplazados por monstruos</li>
+    <li>subject_story->observó con horror cómo una criatura se abría paso fuera de su cuerpo</li>
+    <li>subject_gerund->adaptando una semilla de horrormetal</li>
+    <li>subject_gerund->implantando una semilla de horrormetal en un humano</li>
+  </MetalhorrorSymbiont.generalRules.rulesStrings>
+  
+  <!-- EN: nullification lobotomy -->
+  <NullificationLobotomy.label>lobotomía de anulación</NullificationLobotomy.label>
+  <!-- EN: Perform a surgery that lobotomizes a person, rendering them deaf to psychic phenomena -->
+  <NullificationLobotomy.description>Realiza una cirugía que lobotomiza a una persona, dejándola insensible a los fenómenos psíquicos.</NullificationLobotomy.description>
+  <!-- EN:
+    <li>subject->lobotomy</li>
+    <li>subject_story->deformed their body by injecting all manner of strange concoctions and materials while attempting to become their world's top athlete</li>
+    <li>subject_story->witnessed an inhumanly large but deformed soldier heroically carry their injured comrades to safety</li>
+    <li>subject_story->wondered what actually seperated humans and gorehulks</li>
+    <li>subject_gerund->performing lobotomies</li>
+    <li>subject_gerund->excising brain tissue</li>
+  -->
+  <NullificationLobotomy.generalRules.rulesStrings>
+    <li>subject->lobotomía</li>
+    <li>subject_story->deformó su cuerpo inyectándose todo tipo de extraños brebajes y materiales mientras intentaba convertirse en el mejor atleta de su mundo</li>
+    <li>subject_story->presenció a un soldado inhumanamente grande pero deforme llevando heroicamente a sus camaradas heridos a un lugar seguro</li>
+    <li>subject_story->se preguntó qué separaba realmente a los humanos de los goretescos</li>
+    <li>subject_gerund->realizando lobotomías</li>
+    <li>subject_gerund->extirpando tejido cerebral</li>
+  </NullificationLobotomy.generalRules.rulesStrings>
+  
+  <!-- EN: psychic agonizer -->
+  <PsychicAgonizer.label>agonizador psíquico</PsychicAgonizer.label>
+  <!-- EN: Modify a nociosphere emitter so that it can be implanted in a human, allowing them to project a wave of crippling pain. -->
+  <PsychicAgonizer.description>Modifica un emisor de nociosfera para que pueda implantarse en un humano, permitiéndole proyectar una ola de dolor paralizante.</PsychicAgonizer.description>
+  <!-- EN:
+    <li>subject->agony</li>
+    <li>subject_story->knew pain like none ever had before</li>
+    <li>subject_story->became trapped in a shifting contraption of dark archotechnology</li>
+    <li>subject_story->perfected the art of torture with the guidance of dark whispers</li>
+    <li>subject_gerund->adapting a nociosphere emitter</li>
+    <li>subject_gerund->implanting a nociosphere emitter into a human</li>
+  -->
+  <PsychicAgonizer.generalRules.rulesStrings>
+    <li>subject->agonía</li>
+    <li>subject_story->conoció un dolor como nadie lo había conocido antes</li>
+    <li>subject_story->quedó atrapado en un artilugio cambiante de arqueotecnología oscura</li>
+    <li>subject_story->perfeccionó el arte de la tortura con la guía de susurros oscuros</li>
+    <li>subject_gerund->adaptando un emisor de nociosfera</li>
+    <li>subject_gerund->implantando un emisor de nociosfera en un humano</li>
+  </PsychicAgonizer.generalRules.rulesStrings>
+  
+  <!-- EN: psychic beguiler -->
+  <PsychicBeguiler.label>seductor psíquico</PsychicBeguiler.label>
+  <!-- EN: Modify a golden cube so that it can be implanted in a human, granting them manipulative powers. -->
+  <PsychicBeguiler.description>Modifica un cubo dorado para que pueda implantarse en un humano, otorgándole poderes manipuladores.</PsychicBeguiler.description>
+  <!-- EN:
+    <li>subject->beauty</li>
+    <li>subject->cube</li>
+    <li>subject_story->lived in constant fear after their righteous ruler was seduced by a beautiful traveller and convinced to behead hundreds for her pleasure</li>
+    <li>subject_story->stumbled upon a strange, cube worshiping cult in the depths of their urbworld hyperstructure</li>
+    <li>subject_story->achieved great political success through beguilment and seduction</li>
+    <li>subject_gerund->implanting a golden cube</li>
+    <li>subject_gerund->implanting a golden cube into a human</li>
+  -->
+  <PsychicBeguiler.generalRules.rulesStrings>
+    <li>subject->belleza</li>
+    <li>subject->cubo</li>
+    <li>subject_story->vivió con un miedo constante después de que su justo gobernante fuera seducido por una hermosa viajera y convencido de decapitar a cientos por su placer</li>
+    <li>subject_story->se topó con un extraño culto que adoraba a un cubo en las profundidades de la hiperestructura de su mundo urbano</li>
+    <li>subject_story->alcanzó un gran éxito político a través del engaño y la seducción</li>
+    <li>subject_gerund->implantando un cubo dorado</li>
+    <li>subject_gerund->implantando un cubo dorado en un humano</li>
+  </PsychicBeguiler.generalRules.rulesStrings>
+  
+  <!-- EN: occultist implants -->
+  <PsychicSustainer.label>implantes ocultistas</PsychicSustainer.label>
+  <!-- EN: Modify archotechnology so that it can be implanted in a human, enhancing their unnatural powers. -->
+  <PsychicSustainer.description>Modifica la arqueotecnología oscura para que pueda implantarse en un humano, mejorando sus poderes antinaturales.</PsychicSustainer.description>
+  <!-- EN:
+    <li>subject->meditation</li>
+    <li>subject_story->discovered the ruins of an ancient cult deep within a jungle world, inhabited only by statues knelt in prayer</li>
+    <li>subject_story->descended into madness while researching psychic fields</li>
+    <li>subject_story->was captured by a gruesom blood cult who's members never ate or slept</li>
+    <li>subject_gerund->implanting dark archotechnology</li>
+    <li>subject_gerund->implanting dark archotechnology into a human</li>
+  -->
+  <PsychicSustainer.generalRules.rulesStrings>
+    <li>subject->meditación</li>
+    <li>subject_story->descubrió las ruinas de un antiguo culto en las profundidades de un mundo selvático, habitado solo por estatuas arrodilladas en oración</li>
+    <li>subject_story->descendió a la locura mientras investigaba campos psíquicos</li>
+    <li>subject_story->fue capturado por un espantoso culto de sangre cuyos miembros nunca comían ni dormían</li>
+    <li>subject_gerund->implantando arqueotecnología oscura</li>
+    <li>subject_gerund->implantando arqueotecnología oscura en un humano</li>
+  </PsychicSustainer.generalRules.rulesStrings>
+  
+  <!-- EN: slayer's collar -->
+  <SlayersCollar.label>collar de asesino</SlayersCollar.label>
+  <!-- EN: Modify necrotic archotechnology so that it can be implanted in a human, letting them to cheat death by causing it. -->
+  <SlayersCollar.description>Modifica la arqueotecnología necrótica para que pueda implantarse en un humano, permitiéndole burlar a la muerte causándola.</SlayersCollar.description>
+  <!-- EN:
+    <li>subject->death</li>
+    <li>subject->immortality</li>
+    <li>subject_story->read a story about a hero who was corrupted by their own unending bloodlust</li>
+    <li>subject_story->endured the harsh, deadly and grotesque initiation rituals to join the cult of horax</li>
+    <li>subject_story->tracked down and shot a serial killer over and over, only for them to reappear later</li>
+    <li>subject_gerund->implanting necrotic archotechnology</li>
+    <li>subject_gerund->implanting necrotic archotechnology into a human</li>
+  -->
+  <SlayersCollar.generalRules.rulesStrings>
+    <li>subject->muerte</li>
+    <li>subject->inmortalidad</li>
+    <li>subject_story->leyó una historia sobre un héroe que fue corrompido por su propia e interminable sed de sangre</li>
+    <li>subject_story->soportó los duros, mortales y grotescos rituales de iniciación para unirse al culto de horax</li>
+    <li>subject_story->rastreó y disparó a un asesino en serie una y otra vez, solo para que reapareciera más tarde</li>
+    <li>subject_gerund->implantando arqueotecnología necrótica</li>
+    <li>subject_gerund->implantando arqueotecnología necrótica en un humano</li>
+  </SlayersCollar.generalRules.rulesStrings>
+  
+  <!-- EN: emacification surgery -->
+  <StalkerizingSurgery.label>cirugía de emacificación</StalkerizingSurgery.label>
+  <!-- EN: Perform a surgery that deforms a person, making them disturbingly thin and brittle but inhumanly fast. -->
+  <StalkerizingSurgery.description>Realiza una cirugía que deforma a una persona, volviéndola inquietantemente delgada y frágil, pero inhumanamente rápida.</StalkerizingSurgery.description>
+  <!-- EN:
+    <li>subject->deformation</li>
+    <li>subject->mutation</li>
+    <li>subject_story->deformed their body by injecting all manner of strange concoctions and materials while attempting to become their world's top athlete</li>
+    <li>subject_story->wondered just how much of a human body could be removed without reducing it's effectiveness</li>
+    <li>subject_story->had themself surgically altered to disguise themself among a tribe of mutated humanoids</li>
+    <li>subject_gerund->performing surgeries</li>
+    <li>subject_gerund->enhancing bodies</li>
+  -->
+  <StalkerizingSurgery.generalRules.rulesStrings>
+    <li>subject->deformación</li>
+    <li>subject->mutación</li>
+    <li>subject_story->deformó su cuerpo inyectándose todo tipo de extraños brebajes y materiales mientras intentaba convertirse en el mejor atleta de su mundo</li>
+    <li>subject_story->se preguntó qué parte del cuerpo humano podría eliminarse sin reducir su eficacia</li>
+    <li>subject_story->se sometió a una alteración quirúrgica para disfrazarse entre una tribu de humanoides mutados</li>
+    <li>subject_gerund->realizando cirugías</li>
+    <li>subject_gerund->mejorando cuerpos</li>
+  </StalkerizingSurgery.generalRules.rulesStrings>
+  
+</LanguageData>

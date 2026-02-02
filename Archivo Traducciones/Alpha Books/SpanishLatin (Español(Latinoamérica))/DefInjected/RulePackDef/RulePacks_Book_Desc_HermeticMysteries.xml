@@ -1,0 +1,147 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>desc->[intro] [conceptExploration]. [writingQualitySentence]. [maybe_date][ending]</li>
+    <li>desc->[conceptExploration]: [impactStatement]. [writingQualitySentence]. [maybe_date][ending]</li>
+    <li>desc->[intro] [conceptExploration] [contextStatement]. [writingQualitySentence]. [maybe_date][ending]</li>
+    <li>ending->\n\nQuienquiera que haya creado este tomo aparentemente confundía los dos significados de la palabra "hermético". Confusamente, parece haber funcionado... Parece que el libro se autodestruirá después de ser leído una vez.</li>
+    <li>intro->Este [bookType] [writingQualityAdjective] revela la enigmática interacción entre</li>
+    <li>intro->Una exploración [writingQualityAdjective] del vínculo críptico entre</li>
+    <li>intro->Un [bookType] atemporal que narra las conexiones ocultas de</li>
+    <li>intro->Un tratado [writingQualityAdjective] que descubre la naturaleza dual de</li>
+    <li>intro->Un [bookType] extraordinario que une los aspectos arcanos y mundanos de</li>
+    <li>intro->Una exploración inquietantemente vívida de los misterios que rodean</li>
+    <li>conceptExploration->la influencia divina de Hermes y el principio de los contenedores sellados</li>
+    <li>conceptExploration->la sabiduría oculta dentro de los sellos herméticos</li>
+    <li>conceptExploration->el delicado arte de abrir lo que estaba cerrado</li>
+    <li>conceptExploration->los antiguos secretos codificados en artefactos sellados</li>
+    <li>conceptExploration->cómo lo divino y lo mecánico se entrelazan en actos de desbloqueo</li>
+    <li>conceptExploration->el conocimiento críptico que gobierna los tesoros sellados</li>
+    <li>contextStatement->a través de parábolas de Hermes y diagramas técnicos</li>
+    <li>contextStatement->, mezclando mitología y ciencia</li>
+    <li>contextStatement->superponiendo alegorías divinas y conocimiento práctico</li>
+    <li>contextStatement->con susurros de verdad arcana y precisión mecánica</li>
+    <li>contextStatement->a través de instrucciones veladas y poesía críptica</li>
+    <li>impactStatement->Sus enseñanzas empoderarán a aquellos que buscan el dominio sobre lo sellado</li>
+    <li>impactStatement->Ofrece una visión inigualable para los practicantes de las artes herméticas</li>
+    <li>impactStatement->Sus lecciones preparan al lector para abordar cajas con precisión divina</li>
+    <li>impactStatement->Este libro es una clave para desbloquear lo que yace oculto tanto en la mente como en la materia</li>
+    <li>impactStatement->Equipa al lector con herramientas para dominar los enigmas de la contención</li>
+    <li>writingQualityAdjective(quality==6)->elaborado magistralmente</li>
+    <li>writingQualityAdjective(quality==5)->brillantemente perspicaz</li>
+    <li>writingQualityAdjective(quality==4)->estimulante y preciso</li>
+    <li>writingQualityAdjective(quality==3)->funcional pero poco inspirado</li>
+    <li>writingQualityAdjective(quality==2)->mediocre</li>
+    <li>writingQualityAdjective(quality==1)->apenas comprensible</li>
+    <li>writingQualityAdjective(quality==0)->revoltijo incoherente de un</li>
+    <li>writingQualitySentence(quality[greater_than]3)->Es [excellentDesc] [excellentExtra]</li>
+    <li>writingQualitySentence(quality[less_than]4,quality[greater_than]1)->Es [decentDesc] [decentExtra]</li>
+    <li>writingQualitySentence(quality[less_than]2)->Es [awfulDesc] [awfulExtra]</li>
+    <li>excellentDesc->una obra maestra de conocimiento arcano y práctico</li>
+    <li>excellentDesc->una guía invaluable de los misterios herméticos</li>
+    <li>excellentDesc->una mezcla elaborada por expertos de sabiduría divina y práctica</li>
+    <li>excellentDesc->un examen profundamente original del desbloqueo y la contención</li>
+    <li>excellentDesc->rico en conocimiento esotérico y consejos prácticos</li>
+    <li>excellentExtra->que une los reinos divino y mecánico</li>
+    <li>excellentExtra->que inspira dominio sobre lo críptico y lo sellado</li>
+    <li>excellentExtra->que ofrece una visión profunda del arte de abrir</li>
+    <li>decentDesc->una guía aceptable de la teoría hermética</li>
+    <li>decentDesc->interesante pero construido de manera desigual</li>
+    <li>decentDesc->útil en algunos aspectos pero demasiado críptico</li>
+    <li>decentDesc->centrado en interpretaciones estrechas del oficio hermético</li>
+    <li>decentDesc->ocasionalmente perspicaz pero a menudo inconsistente</li>
+    <li>decentExtra->y puede ayudar a aquellos con conocimientos previos</li>
+    <li>decentExtra->aunque sus aplicaciones a veces no están claras</li>
+    <li>decentExtra->pero sus enseñanzas carecen de estructura cohesiva</li>
+    <li>awfulDesc->una mezcla caótica de mitos e instrucciones sin sentido</li>
+    <li>awfulDesc->una guía sin sentido y sin valor práctico</li>
+    <li>awfulDesc->un revoltijo confuso de consejos contradictorios</li>
+    <li>awfulDesc->un desastre poco práctico de referencias crípticas</li>
+    <li>awfulDesc->un divagar incoherente sin sabiduría discernible</li>
+    <li>awfulExtra->y totalmente inútil para cualquiera que busque orientación práctica</li>
+    <li>awfulExtra->y activamente engañoso para aquellos que buscan claridad</li>
+    <li>maybe_date-></li>
+    <li>maybe_date->El tomo fue elaborado por primera vez [date_form].</li>
+    <li>maybe_date->Su origen está envuelto en misterio, al igual que su contenido.</li>
+    <li>date_form->en tiempos antiguos</li>
+    <li>date_form->en el [date]</li>
+    <li>date_form->durante [date_season]</li>
+    <li>bookType(p=4)->manual arcano</li>
+    <li>bookType(p=3)->guía críptica</li>
+    <li>bookType(p=2)->tratado sellado</li>
+    <li>bookType(p=1)->manuscrito esotérico</li>
+  -->
+  <ABooks_HermeticMysteries_Description.rulePack.rulesStrings>
+    <li>desc->[intro] [conceptExploration]. [writingQualitySentence]. [maybe_date][ending]</li>
+    <li>desc->[conceptExploration]: [impactStatement]. [writingQualitySentence]. [maybe_date][ending]</li>
+    <li>desc->[intro] [conceptExploration] [contextStatement]. [writingQualitySentence]. [maybe_date][ending]</li>
+    <li>ending->\n\nQuienquiera que haya creado este tomo aparentemente confundía los dos significados de la palabra "hermético". Confusamente, parece haber funcionado... Parece que el libro se autodestruirá después de ser leído una vez.</li>
+    <li>intro->Este [bookType] [writingQualityAdjective] revela la enigmática interacción entre</li>
+    <li>intro->Una exploración [writingQualityAdjective] del vínculo críptico entre</li>
+    <li>intro->Un [bookType] atemporal que narra las conexiones ocultas de</li>
+    <li>intro->Un tratado [writingQualityAdjective] que descubre la naturaleza dual de</li>
+    <li>intro->Un [bookType] extraordinario que une los aspectos arcanos y mundanos de</li>
+    <li>intro->Una exploración inquietantemente vívida de los misterios que rodean</li>
+    <li>conceptExploration->la influencia divina de Hermes y el principio de los contenedores sellados</li>
+    <li>conceptExploration->la sabiduría oculta dentro de los sellos herméticos</li>
+    <li>conceptExploration->el delicado arte de abrir lo que estaba cerrado</li>
+    <li>conceptExploration->los antiguos secretos codificados en artefactos sellados</li>
+    <li>conceptExploration->cómo lo divino y lo mecánico se entrelazan en actos de desbloqueo</li>
+    <li>conceptExploration->el conocimiento críptico que gobierna los tesoros sellados</li>
+    <li>contextStatement->a través de parábolas de Hermes y diagramas técnicos</li>
+    <li>contextStatement->, mezclando mitología y ciencia</li>
+    <li>contextStatement->superponiendo alegorías divinas y conocimiento práctico</li>
+    <li>contextStatement->con susurros de verdad arcana y precisión mecánica</li>
+    <li>contextStatement->a través de instrucciones veladas y poesía críptica</li>
+    <li>impactStatement->Sus enseñanzas empoderarán a aquellos que buscan el dominio sobre lo sellado</li>
+    <li>impactStatement->Ofrece una visión inigualable para los practicantes de las artes herméticas</li>
+    <li>impactStatement->Sus lecciones preparan al lector para abordar cajas con precisión divina</li>
+    <li>impactStatement->Este libro es una clave para desbloquear lo que yace oculto tanto en la mente como en la materia</li>
+    <li>impactStatement->Equipa al lector con herramientas para dominar los enigmas de la contención</li>
+    <li>writingQualityAdjective(quality==6)->elaborado magistralmente</li>
+    <li>writingQualityAdjective(quality==5)->brillantemente perspicaz</li>
+    <li>writingQualityAdjective(quality==4)->estimulante y preciso</li>
+    <li>writingQualityAdjective(quality==3)->funcional pero poco inspirado</li>
+    <li>writingQualityAdjective(quality==2)->mediocre</li>
+    <li>writingQualityAdjective(quality==1)->apenas comprensible</li>
+    <li>writingQualityAdjective(quality==0)->revoltijo incoherente de un</li>
+    <li>writingQualitySentence(quality[greater_than]3)->Es [excellentDesc] [excellentExtra]</li>
+    <li>writingQualitySentence(quality[less_than]4,quality[greater_than]1)->Es [decentDesc] [decentExtra]</li>
+    <li>writingQualitySentence(quality[less_than]2)->Es [awfulDesc] [awfulExtra]</li>
+    <li>excellentDesc->una obra maestra de conocimiento arcano y práctico</li>
+    <li>excellentDesc->una guía invaluable de los misterios herméticos</li>
+    <li>excellentDesc->una mezcla elaborada por expertos de sabiduría divina y práctica</li>
+    <li>excellentDesc->un examen profundamente original del desbloqueo y la contención</li>
+    <li>excellentDesc->rico en conocimiento esotérico y consejos prácticos</li>
+    <li>excellentExtra->que une los reinos divino y mecánico</li>
+    <li>excellentExtra->que inspira dominio sobre lo críptico y lo sellado</li>
+    <li>excellentExtra->que ofrece una visión profunda del arte de abrir</li>
+    <li>decentDesc->una guía aceptable de la teoría hermética</li>
+    <li>decentDesc->interesante pero construido de manera desigual</li>
+    <li>decentDesc->útil en algunos aspectos pero demasiado críptico</li>
+    <li>decentDesc->centrado en interpretaciones estrechas del oficio hermético</li>
+    <li>decentDesc->ocasionalmente perspicaz pero a menudo inconsistente</li>
+    <li>decentExtra->y puede ayudar a aquellos con conocimientos previos</li>
+    <li>decentExtra->aunque sus aplicaciones a veces no están claras</li>
+    <li>decentExtra->pero sus enseñanzas carecen de estructura cohesiva</li>
+    <li>awfulDesc->una mezcla caótica de mitos e instrucciones sin sentido</li>
+    <li>awfulDesc->una guía sin sentido y sin valor práctico</li>
+    <li>awfulDesc->un revoltijo confuso de consejos contradictorios</li>
+    <li>awfulDesc->un desastre poco práctico de referencias crípticas</li>
+    <li>awfulDesc->un divagar incoherente sin sabiduría discernible</li>
+    <li>awfulExtra->y totalmente inútil para cualquiera que busque orientación práctica</li>
+    <li>awfulExtra->y activamente engañoso para aquellos que buscan claridad</li>
+    <li>maybe_date-></li>
+    <li>maybe_date->El tomo fue elaborado por primera vez [date_form].</li>
+    <li>maybe_date->Su origen está envuelto en misterio, al igual que su contenido.</li>
+    <li>date_form->en tiempos antiguos</li>
+    <li>date_form->en el [date]</li>
+    <li>date_form->durante [date_season]</li>
+    <li>bookType(p=4)->manual arcano</li>
+    <li>bookType(p=3)->guía críptica</li>
+    <li>bookType(p=2)->tratado sellado</li>
+    <li>bookType(p=1)->manuscrito esotérico</li>
+  </ABooks_HermeticMysteries_Description.rulePack.rulesStrings>
+  
+</LanguageData>

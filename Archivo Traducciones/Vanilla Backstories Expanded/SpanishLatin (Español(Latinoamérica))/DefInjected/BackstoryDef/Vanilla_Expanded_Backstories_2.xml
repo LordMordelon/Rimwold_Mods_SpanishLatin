@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: Cargo handler -->
+  <VBE_CargoHandler.title>manipulador de carga</VBE_CargoHandler.title>
+  <VBE_CargoHandler.titleFemale>manipuladora de carga</VBE_CargoHandler.titleFemale>
+  <!-- EN: Handler -->
+  <VBE_CargoHandler.titleShort>manipulador</VBE_CargoHandler.titleShort>
+  <VBE_CargoHandler.titleShortFemale>manipuladora</VBE_CargoHandler.titleShortFemale>
+  <!-- EN: [PAWN_nameDef] was responsible for managing the cargo bay of a space vessel, ensuring supplies were securely stowed and inventory was accurately tracked. [PAWN_pronoun] was physically strong and highly organized, but [PAWN_pronoun] had little patience for detailed documentation or scholarly pursuits. -->
+  <VBE_CargoHandler.description>[PAWN_nameDef] era responsable de gestionar la bodega de carga de una nave espacial, asegurándose de que los suministros estuvieran estibados de forma segura y de que el inventario se rastreara con precisión. [PAWN_pronoun] era físicamente fuerte y muy organizad{PAWN_gender ? o : a}, pero [PAWN_pronoun] tenía poca paciencia para la documentación detallada o las actividades académicas.</VBE_CargoHandler.description>
+
+  <!-- EN: Colony auditor -->
+  <VBE_ColonyAuditor.title>auditor de la colonia</VBE_ColonyAuditor.title>
+  <VBE_ColonyAuditor.titleFemale>auditora de la colonia</VBE_ColonyAuditor.titleFemale>
+  <!-- EN: Auditor -->
+  <VBE_ColonyAuditor.titleShort>auditor</VBE_ColonyAuditor.titleShort>
+  <VBE_ColonyAuditor.titleShortFemale>auditora</VBE_ColonyAuditor.titleShortFemale>
+  <!-- EN: [PAWN_nameDef] kept the colony's finances in check, ensuring resources were used efficiently and planning for future needs. While [PAWN_pronoun] excelled in numbers and was pivotal in resource allocation, [PAWN_pronoun] found hands-on tasks tedious and lacked the patience for caregiving. -->
+  <VBE_ColonyAuditor.description>[PAWN_nameDef] mantenía las finanzas de la colonia bajo control, asegurando que los recursos se usaran eficientemente y planificando para necesidades futuras. Aunque [PAWN_pronoun] destacaba con los números y era fundamental en la asignación de recursos, a [PAWN_pronoun] le resultaban tediosas las tareas prácticas y carecía de paciencia para el cuidado de otros.</VBE_ColonyAuditor.description>
+
+  <!-- EN: Community doctor -->
+  <VBE_CommunityDoctor.title>médico de la comunidad</VBE_CommunityDoctor.title>
+  <VBE_CommunityDoctor.titleFemale>médica de la comunidad</VBE_CommunityDoctor.titleFemale>
+  <!-- EN: Doctor -->
+  <VBE_CommunityDoctor.titleShort>médico</VBE_CommunityDoctor.titleShort>
+  <VBE_CommunityDoctor.titleShortFemale>médica</VBE_CommunityDoctor.titleShortFemale>
+  <!-- EN: [PAWN_nameDef] served as the community's primary healthcare provider, treating everything from minor cuts to major diseases. While [PAWN_pronoun] was an expert in medical practices, [PAWN_pronoun] had little patience for negotiating or handling animals, preferring to focus on [PAWN_possessive] patients' well-being. -->
+  <VBE_CommunityDoctor.description>[PAWN_nameDef] servía como el principal proveedor de atención médica de la comunidad, tratando desde cortes menores hasta enfermedades graves. Aunque [PAWN_pronoun] era expert{PAWN_gender ? o : a} en prácticas médicas, [PAWN_pronoun] tenía poca paciencia para negociar o manejar animales, prefiriendo centrarse en el bienestar de sus pacientes.</VBE_CommunityDoctor.description>
+
+  <!-- EN: Corporate financier -->
+  <VBE_CorporateFinancier.title>financiero corporativo</VBE_CorporateFinancier.title>
+  <VBE_CorporateFinancier.titleFemale>financiera corporativa</VBE_CorporateFinancier.titleFemale>
+  <!-- EN: Financier -->
+  <VBE_CorporateFinancier.titleShort>financiero</VBE_CorporateFinancier.titleShort>
+  <VBE_CorporateFinancier.titleShortFemale>financiera</VBE_CorporateFinancier.titleShortFemale>
+  <!-- EN: [PAWN_nameDef] navigated the complex world of corporate finance, managing investments and financial strategies for a major spacefaring conglomerate. [PAWN_possessive] sharp mind for numbers did not translate well to the physical demands of colony life or the nuances of personal interaction. -->
+  <VBE_CorporateFinancier.description>[PAWN_nameDef] navegó por el complejo mundo de las finanzas corporativas, gestionando inversiones y estrategias financieras para un importante conglomerado espacial. Su mente aguda para los números no se tradujo bien a las demandas físicas de la vida en la colonia ni a los matices de la interacción personal.</VBE_CorporateFinancier.description>
+
+  <!-- EN: Engine helper -->
+  <VBE_EngineHelper.title>ayudante de máquinas</VBE_EngineHelper.title>
+  <VBE_EngineHelper.titleFemale>ayudante de máquinas</VBE_EngineHelper.titleFemale>
+  <!-- EN: Helper -->
+  <VBE_EngineHelper.titleShort>ayudante</VBE_EngineHelper.titleShort>
+  <VBE_EngineHelper.titleShortFemale>ayudante</VBE_EngineHelper.titleShortFemale>
+  <!-- EN: Even as a child, [PAWN_pronoun] was obsessed with the ship's engine room. Under the watchful eye of the engineers, [PAWN_pronoun] learned how to maintain and repair the engines that kept their world alive. This early start gave [PAWN_objective] a good head start in mechanical skills but meant [PAWN_pronoun] was often too busy to make friends or study other subjects. -->
+  <VBE_EngineHelper.description>Incluso de niñ{PAWN_gender ? o : a}, [PAWN_pronoun] estaba obsesionad{PAWN_gender ? o : a} con la sala de máquinas de la nave. Bajo la atenta mirada de los ingenieros, [PAWN_pronoun] aprendió a mantener y reparar los motores que mantenían vivo su mundo. Este comienzo temprano le dio una buena ventaja en habilidades mecánicas, pero significó que [PAWN_pronoun] a menudo estaba demasiado ocupad{PAWN_gender ? o : a} para hacer amigos o estudiar otros temas.</VBE_EngineHelper.description>
+
+  <!-- EN: Engine room tech -->
+  <VBE_EngineRoomTech.title>técnico de máquinas</VBE_EngineRoomTech.title>
+  <VBE_EngineRoomTech.titleFemale>técnica de máquinas</VBE_EngineRoomTech.titleFemale>
+  <!-- EN: Technician -->
+  <VBE_EngineRoomTech.titleShort>técnico</VBE_EngineRoomTech.titleShort>
+  <VBE_EngineRoomTech.titleShortFemale>técnica</VBE_EngineRoomTech.titleShortFemale>
+  <!-- EN: As an engine room technician, [PAWN_nameDef] kept the heart of the spaceship running. [PAWN_pronoun] could fix almost anything with the right tools, but [PAWN_pronoun] lacked finesse in social interactions and avoided any tasks that required a gentle touch. -->
+  <VBE_EngineRoomTech.description>Como técnico de la sala de máquinas, [PAWN_nameDef] mantenía en funcionamiento el corazón de la nave espacial. [PAWN_pronoun] podía arreglar casi cualquier cosa con las herramientas adecuadas, pero [PAWN_pronoun] carecía de delicadeza en las interacciones sociales y evitaba cualquier tarea que requiriera un toque suave.</VBE_EngineRoomTech.description>
+
+  <!-- EN: Field technician -->
+  <VBE_FieldTechnician.title>técnico de campo</VBE_FieldTechnician.title>
+  <VBE_FieldTechnician.titleFemale>técnica de campo</VBE_FieldTechnician.titleFemale>
+  <!-- EN: Technician -->
+  <VBE_FieldTechnician.titleShort>técnico</VBE_FieldTechnician.titleShort>
+  <VBE_FieldTechnician.titleShortFemale>técnica</VBE_FieldTechnician.titleShortFemale>
+  <!-- EN: [PAWN_nameDef] worked as a field technician, maintaining and repairing equipment in remote locations. Adept at solving complex technical problems, [PAWN_pronoun] preferred the company of machines over people, leading to [PAWN_possessive] underdeveloped social skills. -->
+  <VBE_FieldTechnician.description>[PAWN_nameDef] trabajó como técnic{PAWN_gender ? o : a} de campo, manteniendo y reparando equipos en ubicaciones remotas. Expert{PAWN_gender ? o : a} en resolver problemas técnicos complejos, [PAWN_pronoun] prefería la compañía de las máquinas a la de las personas, lo que llevó a que sus habilidades sociales no se desarrollaran lo suficiente.</VBE_FieldTechnician.description>
+
+  <!-- EN: Galactic medic -->
+  <VBE_GalacticMedic.title>médico galáctico</VBE_GalacticMedic.title>
+  <VBE_GalacticMedic.titleFemale>médica galáctica</VBE_GalacticMedic.titleFemale>
+  <!-- EN: Medic -->
+  <VBE_GalacticMedic.titleShort>médico</VBE_GalacticMedic.titleShort>
+  <VBE_GalacticMedic.titleShortFemale>médica</VBE_GalacticMedic.titleShortFemale>
+  <!-- EN: [PAWN_nameDef] served as the medic on a spaceship, treating everything from space sickness to injuries from asteroid impacts. [PAWN_possessive] knowledge of medicine was unparalleled, but [PAWN_pronoun] had no head for research or complex theories. -->
+  <VBE_GalacticMedic.description>[PAWN_nameDef] sirvió como médico en una nave espacial, tratando desde el mareo espacial hasta heridas por impactos de asteroides. Su conocimiento de la medicina era inigualable, pero [PAWN_pronoun] no tenía cabeza para la investigación o las teorías complejas.</VBE_GalacticMedic.description>
+
+  <!-- EN: Galley chef -->
+  <VBE_GalleyChef.title>chef de cocina</VBE_GalleyChef.title>
+  <!-- EN: Chef -->
+  <VBE_GalleyChef.titleShort>chef</VBE_GalleyChef.titleShort>
+  <!-- EN: [PAWN_nameDef] ran the galley on a mid-sized spacecraft, providing hearty and nutritious meals for the crew. Cooking in zero gravity presented unique challenges, yet [PAWN_pronoun] mastered the art. However, [PAWN_pronoun] never took well to the mechanics of the ship, preferring pans over plasma engines. -->
+  <VBE_GalleyChef.description>[PAWN_nameDef] dirigía la cocina de una nave espacial de tamaño medio, proporcionando comidas abundantes y nutritivas para la tripulación. Cocinar en gravedad cero presentaba desafíos únicos, pero [PAWN_pronoun] dominó el arte. Sin embargo, [PAWN_pronoun] nunca se llevó bien con la mecánica de la nave, prefiriendo las sartenes a los motores de plasma.</VBE_GalleyChef.description>
+
+  <!-- EN: Garden curator -->
+  <VBE_GardenCurator.title>curador de jardín</VBE_GardenCurator.title>
+  <VBE_GardenCurator.titleFemale>curadora de jardín</VBE_GardenCurator.titleFemale>
+  <!-- EN: Curator -->
+  <VBE_GardenCurator.titleShort>curador</VBE_GardenCurator.titleShort>
+  <VBE_GardenCurator.titleShortFemale>curadora</VBE_GardenCurator.titleShortFemale>
+  <!-- EN: [PAWN_nameDef] oversaw a large botanical garden, specializing in the cultivation of rare plants and educating the public. [PAWN_possessive] green thumb was unparalleled, yet [PAWN_pronoun] lacked the physical capabilities for demanding labor or combat. -->
+  <VBE_GardenCurator.description>[PAWN_nameDef] supervisaba un gran jardín botánico, especializándose en el cultivo de plantas raras y en la educación del público. Su mano para las plantas era inigualable, pero [PAWN_pronoun] carecía de las capacidades físicas para el trabajo exigente o el combate.</VBE_GardenCurator.description>
+
+  <!-- EN: Herbal kin -->
+  <VBE_HerbalKin.title>pariente herbolario</VBE_HerbalKin.title>
+  <VBE_HerbalKin.titleFemale>pariente herbolaria</VBE_HerbalKin.titleFemale>
+  <!-- EN: Kin -->
+  <VBE_HerbalKin.titleShort>pariente</VBE_HerbalKin.titleShort>
+  <VBE_HerbalKin.titleShortFemale>pariente</VBE_HerbalKin.titleShortFemale>
+  <!-- EN: [PAWN_nameDef] was raised by the tribe's herbal healer, learning the properties of each plant and how to use them to cure ailments. This early exposure to natural medicine made [PAWN_pronoun] proficient in healing practices, though [PAWN_pronoun] never took to the more violent aspects of tribal life, such as hunting or defending the tribe. -->
+  <VBE_HerbalKin.description>[PAWN_nameDef] fue criad{PAWN_gender ? o : a} por el sanador de hierbas de la tribu, aprendiendo las propiedades de cada planta y cómo usarlas para curar dolencias. Esta temprana exposición a la medicina natural hizo que [PAWN_pronoun] fuera competente en las prácticas de curación, aunque [PAWN_pronoun] nunca se interesó por los aspectos más violentos de la vida tribal, como la caza o la defensa de la tribu.</VBE_HerbalKin.description>
+
+  <!-- EN: Jungle scout -->
+  <VBE_JungleScout.title>explorador de la jungla</VBE_JungleScout.title>
+    <VBE_JungleScout.titleFemale>exploradora de la jungla</VBE_JungleScout.titleFemale>
+  <!-- EN: Scout -->
+  <VBE_JungleScout.titleShort>explorador</VBE_JungleScout.titleShort>
+    <VBE_JungleScout.titleShortFemale>exploradora</VBE_JungleScout.titleShortFemale>
+  <!-- EN: [PAWN_nameDef] was born into a tribe that lived in the dense jungles of their homeworld. From a young age, [PAWN_pronoun] learned how to move silently through the underbrush and identify the myriad of plants and animals. While [PAWN_pronoun] became adept at tracking and foraging, the isolation from advanced technology left [PAWN_pronoun] with little understanding of the outside world. -->
+  <VBE_JungleScout.description>[PAWN_nameDef] nació en una tribu que vivía en las densas selvas de su mundo natal. Desde joven, [PAWN_pronoun] aprendió a moverse silenciosamente por la maleza e identificar la miríada de plantas y animales. Aunque [PAWN_pronoun] se volvió expert{PAWN_gender ? o : a} en el rastreo y la recolección, el aislamiento de la tecnología avanzada dejó a [PAWN_pronoun] con poco entendimiento del mundo exterior.</VBE_JungleScout.description>
+
+  <!-- EN: Militia recruit -->
+  <VBE_MilitiaRecruit.title>recluta de la milicia</VBE_MilitiaRecruit.title>
+    <VBE_MilitiaRecruit.titleFemale>recluta de la milicia</VBE_MilitiaRecruit.titleFemale>
+  <!-- EN: Recruit -->
+  <VBE_MilitiaRecruit.titleShort>recluta</VBE_MilitiaRecruit.titleShort>
+    <VBE_MilitiaRecruit.titleShortFemale>recluta</VBE_MilitiaRecruit.titleShortFemale>
+  <!-- EN: In a land torn by conflict, [PAWN_nameDef] was recruited into a local militia at a young age. [PAWN_pronoun] learned the harsh realities of war, becoming proficient with weapons and tactics. Yet, the focus on survival and combat left [PAWN_pronoun] with gaps in [PAWN_possessive] formal education and a wary attitude towards strangers. -->
+  <VBE_MilitiaRecruit.description>En una tierra desgarrada por el conflicto, [PAWN_nameDef] fue reclutad{PAWN_gender ? o : a} en una milicia local a una edad temprana. [PAWN_pronoun] aprendió las duras realidades de la guerra, volviéndose competente con las armas y las tácticas. Sin embargo, el enfoque en la supervivencia y el combate dejó a [PAWN_pronoun] con lagunas en su educación formal y una actitud cautelosa hacia los extraños.</VBE_MilitiaRecruit.description>
+
+  <!-- EN: Refugee runner -->
+  <VBE_RefugeeRunner.title>corredor de refugiados</VBE_RefugeeRunner.title>
+    <VBE_RefugeeRunner.titleFemale>corredora de refugiados</VBE_RefugeeRunner.titleFemale>
+  <!-- EN: Runner -->
+  <VBE_RefugeeRunner.titleShort>corredor</VBE_RefugeeRunner.titleShort>
+    <VBE_RefugeeRunner.titleShortFemale>corredora</VBE_RefugeeRunner.titleShortFemale>
+  <!-- EN: Escaping from conflict zones was a constant part of [PAWN_nameDef]'s childhood. [PAWN_pronoun] learned to navigate dangerous landscapes and to trust [PAWN_possessive] instincts above all. These harrowing experiences honed [PAWN_possessive] survival skills but left little room for education or social niceties. -->
+  <VBE_RefugeeRunner.description>Escapar de las zonas de conflicto fue una parte constante de la infancia de [PAWN_nameDef]. [PAWN_pronoun] aprendió a navegar por paisajes peligrosos y a confiar en sus instintos por encima de todo. Estas experiencias desgarradoras perfeccionaron sus habilidades de supervivencia, pero dejaron poco espacio para la educación o las sutilezas sociales.</VBE_RefugeeRunner.description>
+
+  <!-- EN: Retired soldier -->
+  <VBE_RetiredSoldier.title>soldado retirado</VBE_RetiredSoldier.title>
+    <VBE_RetiredSoldier.titleFemale>soldada retirada</VBE_RetiredSoldier.titleFemale>
+  <!-- EN: Soldier -->
+  <VBE_RetiredSoldier.titleShort>soldado</VBE_RetiredSoldier.titleShort>
+    <VBE_RetiredSoldier.titleShortFemale>soldada</VBE_RetiredSoldier.titleShortFemale>
+  <!-- EN: After years of military service, [PAWN_nameDef] retired to the colony seeking peace. Despite [PAWN_possessive] efforts to integrate, [PAWN_pronoun] struggled with non-violent tasks, finding solace only in routine and physical labor. [PAWN_possessive] experience made [PAWN_objective] a valuable asset during conflicts, but [PAWN_pronoun] never quite adapted to civilian life. -->
+  <VBE_RetiredSoldier.description>Después de años de servicio militar, [PAWN_nameDef] se retiró a la colonia buscando paz. A pesar de sus esfuerzos por integrarse, a [PAWN_pronoun] le costaron las tareas no violentas, encontrando consuelo solo en la rutina y el trabajo físico. Su experiencia {PAWN_gender ? lo : la} convirtió en un activo valioso durante los conflictos, pero [PAWN_pronoun] nunca se adaptó del todo a la vida civil.</VBE_RetiredSoldier.description>
+
+  <!-- EN: Ship's navigator -->
+  <VBE_ShipsNavigator.title>navegante de nave</VBE_ShipsNavigator.title>
+    <VBE_ShipsNavigator.titleFemale>navegante de nave</VBE_ShipsNavigator.titleFemale>
+  <!-- EN: Navigator -->
+  <VBE_ShipsNavigator.titleShort>navegante</VBE_ShipsNavigator.titleShort>
+    <VBE_ShipsNavigator.titleShortFemale>navegante</VBE_ShipsNavigator.titleShortFemale>
+  <!-- EN: [PAWN_nameDef] charted the stars as the primary navigator aboard a spacefaring vessel. [PAWN_pronoun] had an uncanny ability to find the safest and quickest routes through the cosmos, though [PAWN_pronoun] struggled with mechanical tasks and often left those to others. -->
+  <VBE_ShipsNavigator.description>[PAWN_nameDef] cartografió las estrellas como el navegante principal a bordo de una nave espacial. [PAWN_pronoun] tenía una habilidad asombrosa para encontrar las rutas más seguras y rápidas a través del cosmos, aunque a [PAWN_pronoun] le costaban las tareas mecánicas y a menudo se las dejaba a otros.</VBE_ShipsNavigator.description>
+
+  <!-- EN: Starship scamp -->
+  <VBE_StarshipScamp.title>pillo de nave espacial</VBE_StarshipScamp.title>
+    <VBE_StarshipScamp.titleFemale>pilla de nave espacial</VBE_StarshipScamp.titleFemale>
+  <!-- EN: Scamp -->
+  <VBE_StarshipScamp.titleShort>pillo</VBE_StarshipScamp.titleShort>
+    <VBE_StarshipScamp.titleShortFemale>pilla</VBE_StarshipScamp.titleShortFemale>
+  <!-- EN: As a child born aboard the interstellar vessel 'Endeavor', [PAWN_nameDef] grew up navigating the narrow corridors and vast cargo holds of the ship. [PAWN_pronoun] learned to fix small mechanical issues from watching the crew, but [PAWN_possessive] education in other areas was patchy at best, relying on shipboard terminals and any data slates [PAWN_pronoun] could get [PAWN_possessive] hands on. -->
+  <VBE_StarshipScamp.description>Como niñ{PAWN_gender ? o : a} nacid{PAWN_gender ? o : a} a bordo de la nave interestelar 'Endeavor', [PAWN_nameDef] creció navegando por los estrechos pasillos y las vastas bodegas de carga de la nave. [PAWN_pronoun] aprendió a arreglar pequeños problemas mecánicos observando a la tripulación, pero su educación en otras áreas fue irregular en el mejor de los casos, dependiendo de las terminales de a bordo y de cualquier tableta de datos que [PAWN_pronoun] pudiera conseguir.</VBE_StarshipScamp.description>
+
+  <!-- EN: Storyteller's kin -->
+  <VBE_StorytellersKin.title>pariente del narrador</VBE_StorytellersKin.title>
+  <!-- EN: Kin -->
+  <VBE_StorytellersKin.titleShort>pariente</VBE_StorytellersKin.titleShort>
+  <!-- EN: As the kin to the tribe's storyteller, [PAWN_nameDef] learned the ancient tales and legends by heart, understanding the moral and lessons within each story. [PAWN_pronoun] could captivate any audience with [PAWN_possessive] words, but [PAWN_pronoun] struggled with the practical skills of hunting and crafting, finding more comfort in tales than tools. -->
+  <VBE_StorytellersKin.description>Como pariente del narrador de la tribu, [PAWN_nameDef] aprendió de memoria los antiguos cuentos y leyendas, comprendiendo la moraleja y las lecciones de cada historia. [PAWN_pronoun] podía cautivar a cualquier audiencia con sus palabras, pero a [PAWN_pronoun] le costaban las habilidades prácticas de caza y artesanía, encontrando más consuelo en los cuentos que en las herramientas.</VBE_StorytellersKin.description>
+
+  <!-- EN: Supply coordinator -->
+  <VBE_SupplyCoordinator.title>coordinador de suministros</VBE_SupplyCoordinator.title>
+  <!-- EN: Coordinator -->
+  <VBE_SupplyCoordinator.titleShort>coordinador</VBE_SupplyCoordinator.titleShort>
+  <!-- EN: [PAWN_nameDef] was essential in managing the colony's logistics and supply chains, ensuring the efficient flow of goods and materials. Highly organized but not particularly hands-on, [PAWN_pronoun] steered clear of direct care roles and skilled manual work. -->
+  <VBE_SupplyCoordinator.description>[PAWN_nameDef] fue esencial en la gestión de la logística y las cadenas de suministro de la colonia, asegurando el flujo eficiente de bienes y materiales. Muy organizado pero no particularmente práctico, [PAWN_pronoun] se mantuvo alejado de los roles de cuidado directo y del trabajo manual especializado.</VBE_SupplyCoordinator.description>
+
+  <!-- EN: War orphan -->
+  <VBE_WarOrphan.title>huérfano de guerra</VBE_WarOrphan.title>
+  <!-- EN: Orphan -->
+  <VBE_WarOrphan.titleShort>huérfano</VBE_WarOrphan.titleShort>
+  <!-- EN: War took everything from [PAWN_nameDef]: family, home, and innocence. In the aftermath, [PAWN_pronoun] found solace in the pages of books, learning about the world from the safety of a refugee camp's library. While [PAWN_pronoun] developed a keen intellect, [PAWN_pronoun] struggled with physical tasks and social interaction. -->
+  <VBE_WarOrphan.description>La guerra le quitó todo a [PAWN_nameDef]: familia, hogar e inocencia. En las secuelas, [PAWN_pronoun] encontró consuelo en las páginas de los libros, aprendiendo sobre el mundo desde la seguridad de la biblioteca de un campo de refugiados. Aunque [PAWN_pronoun] desarrolló un intelecto agudo, a [PAWN_pronoun] le costaron las tareas físicas y la interacción social.</VBE_WarOrphan.description>
+
+  <!-- EN: Young astronomer -->
+  <VBE_YoungAstronomer.title>joven astrónomo</VBE_YoungAstronomer.title>
+  <!-- EN: Astronomer -->
+  <VBE_YoungAstronomer.titleShort>astrónomo</VBE_YoungAstronomer.titleShort>
+  <!-- EN: [PAWN_pronoun] was fascinated by the stars from a very young age. Living on a spacecraft gave [PAWN_objective] a unique perspective on the cosmos. [PAWN_pronoun] spent nights charting star maps and dreaming of distant galaxies. However, this obsession left little room for practical skills or socializing. -->
+  <VBE_YoungAstronomer.description>[PAWN_pronoun] estaba fascinado por las estrellas desde una edad muy temprana. Vivir en una nave espacial le dio una perspectiva única del cosmos. [PAWN_pronoun] pasaba las noches trazando mapas estelares y soñando con galaxias distantes. Sin embargo, esta obsesión dejó poco espacio para las habilidades prácticas o la socialización.</VBE_YoungAstronomer.description>
+
+</LanguageData>

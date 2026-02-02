@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: EMP cannon -->
+  <CWF_Trait_EMPLauncher.label>cañón PEM</CWF_Trait_EMPLauncher.label>
+  <!-- EN: This underbarrel launcher fires specialized EMP shells. Upon impact, they release a powerful electromagnetic pulse capable of stunning mechanoids and disabling electronics. It can be fired twice before requiring a reload. -->
+  <CWF_Trait_EMPLauncher.description>Este lanzador bajo cañón dispara proyectiles PEM especializados. Al impactar, liberan un potente pulso electromagnético capaz de aturdir a los mecanoides y desactivar los aparatos electrónicos. Se puede disparar dos veces antes de tener que recargarlo.</CWF_Trait_EMPLauncher.description>
+  <!-- EN: shell -->
+  <CWF_Trait_EMPLauncher.abilityProps.chargeNoun>proyectil</CWF_Trait_EMPLauncher.abilityProps.chargeNoun>
+  <!-- EN: on cooldown -->
+  <CWF_Trait_EMPLauncher.abilityProps.cooldownGerund>en enfriamiento</CWF_Trait_EMPLauncher.abilityProps.cooldownGerund>
+  
+  <!-- EN: grenade launcher -->
+  <CWF_Trait_GrenadeLauncher.label>lanzagranadas</CWF_Trait_GrenadeLauncher.label>
+  <!-- EN: This underbarrel attachment allows the weapon to fire a single high-explosive fragmentation grenade, providing a powerful area-of-effect option. It must be reloaded after each use. -->
+  <CWF_Trait_GrenadeLauncher.description>Este accesorio bajo cañón permite al arma disparar una única granada de fragmentación de alto explosivo, proporcionando una potente opción de área de efecto. Debe recargarse después de cada uso.</CWF_Trait_GrenadeLauncher.description>
+  <!-- EN: grenade -->
+  <CWF_Trait_GrenadeLauncher.abilityProps.chargeNoun>granada</CWF_Trait_GrenadeLauncher.abilityProps.chargeNoun>
+  <!-- EN: on cooldown -->
+  <CWF_Trait_GrenadeLauncher.abilityProps.cooldownGerund>en enfriamiento</CWF_Trait_GrenadeLauncher.abilityProps.cooldownGerund>
+  
+  <!-- EN: incendiary launcher -->
+  <CWF_Trait_IncendiaryLauncher.label>lanzador incendiario</CWF_Trait_IncendiaryLauncher.label>
+  <!-- EN: This underbarrel attachment fires a single incendiary shell. Upon impact, it bursts and splashes a wide area with burning chemfuel, creating a field of fire. It must be reloaded after each shot. -->
+  <CWF_Trait_IncendiaryLauncher.description>Este accesorio bajo cañón dispara un único proyectil incendiario. Al impactar, estalla y salpica una amplia zona con quimbustible ardiente, creando un campo de fuego. Debe recargarse después de cada disparo.</CWF_Trait_IncendiaryLauncher.description>
+  <!-- EN: shell -->
+  <CWF_Trait_IncendiaryLauncher.abilityProps.chargeNoun>proyectil</CWF_Trait_IncendiaryLauncher.abilityProps.chargeNoun>
+  <!-- EN: on cooldown -->
+  <CWF_Trait_IncendiaryLauncher.abilityProps.cooldownGerund>en enfriamiento</CWF_Trait_IncendiaryLauncher.abilityProps.cooldownGerund>
+  
+  <!-- EN: laser sight -->
+  <CWF_Trait_LaserSight.label>mira láser</CWF_Trait_LaserSight.label>
+  <!-- EN: This module projects a visible laser dot directly onto the target. This allows for rapid, intuitive point-and-shoot aiming, which significantly speeds up target acquisition and increases precision in close to medium-range engagements. -->
+  <CWF_Trait_LaserSight.description>Este módulo proyecta un punto láser visible directamente sobre el objetivo. Esto permite apuntar de forma rápida e intuitiva, lo que acelera significativamente la adquisición de objetivos y aumenta la precisión en enfrentamientos a corta y media distancia.</CWF_Trait_LaserSight.description>
+  
+  <!-- EN: smoke launcher -->
+  <CWF_Trait_SmokeLauncher.label>lanzador de humo</CWF_Trait_SmokeLauncher.label>
+  <!-- EN: This underbarrel launcher fires shells that release a dense cloud of smoke upon impact. It's perfect for obscuring sightlines and creating cover. It holds two shells and must be reloaded after they are used. -->
+  <CWF_Trait_SmokeLauncher.description>Este lanzador bajo cañón dispara proyectiles que liberan una densa nube de humo al impactar. Es perfecto para ocultar las líneas de visión y crear cobertura. Contiene dos proyectiles y debe recargarse después de su uso.</CWF_Trait_SmokeLauncher.description>
+  <!-- EN: shell -->
+  <CWF_Trait_SmokeLauncher.abilityProps.chargeNoun>proyectil</CWF_Trait_SmokeLauncher.abilityProps.chargeNoun>
+  <!-- EN: on cooldown -->
+  <CWF_Trait_SmokeLauncher.abilityProps.cooldownGerund>en enfriamiento</CWF_Trait_SmokeLauncher.abilityProps.cooldownGerund>
+  
+  <!-- EN: triangular grip -->
+  <CWF_Trait_TriangularGrip.label>empuñadura triangular</CWF_Trait_TriangularGrip.label>
+  <!-- EN: The ergonomic design of this triangular foregrip allows for a more natural and comfortable hold. This improved handling makes it quicker to bring the weapon to a ready position and enhances stability for precise shots at point-blank range. -->
+  <CWF_Trait_TriangularGrip.description>El diseño ergonómico de esta empuñadura triangular permite un agarre más natural y cómodo. Esta mejora en el manejo hace que sea más rápido llevar el arma a una posición lista y mejora la estabilidad para disparos precisos a quemarropa.</CWF_Trait_TriangularGrip.description>
+  
+  <!-- EN: vertical grip -->
+  <CWF_Trait_VerticalGrip.label>empuñadura vertical</CWF_Trait_VerticalGrip.label>
+  <!-- EN: This vertical foregrip provides an additional point of contact, giving the user greater control over the weapon. This enhanced stability is particularly effective for improving aiming precision during close-quarters combat. -->
+  <CWF_Trait_VerticalGrip.description>Esta empuñadura vertical proporciona un punto de contacto adicional, lo que da al usuario un mayor control sobre el arma. Esta estabilidad mejorada es particularmente eficaz para mejorar la precisión de puntería durante el combate a corta distancia.</CWF_Trait_VerticalGrip.description>
+  
+</LanguageData>

@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: animal gate -->
+  <VFEArch_AnimalGate.label>puerta para animales</VFEArch_AnimalGate.label>
+  <!-- EN: A doorway with a gate easy enough to open so that it can be pushed open by animals. It allows animals to pass, but doesn’t insulate the room. Animal gates are often used as barn entrances in warmer climates. -->
+  <VFEArch_AnimalGate.description>Una entrada con una puerta lo suficientemente fácil de abrir para que los animales puedan empujarla. Permite el paso de animales, pero no aísla la habitación. Las puertas para animales se utilizan a menudo como entradas de graneros en climas más cálidos.</VFEArch_AnimalGate.description>
+  
+  <!-- EN: armored door -->
+  <VFEArch_ArmoredDoor.label>puerta blindada</VFEArch_ArmoredDoor.label>
+  <!-- EN: Divides rooms. Armored doors must be manually opened, which slows people down. Armored doors are nearly entirely blast resistant and barely take damage from breaching methods. -->
+  <VFEArch_ArmoredDoor.description>Divide habitaciones. Las puertas blindadas deben abrirse manualmente, lo que ralentiza a las personas. Las puertas blindadas son casi totalmente resistentes a las explosiones y apenas sufren daños por métodos de irrupción.</VFEArch_ArmoredDoor.description>
+  
+  <!-- EN: armored wall -->
+  <VFEArch_ArmoredWall.label>muro blindado</VFEArch_ArmoredWall.label>
+  <!-- EN: An impassable, heavy wall with multiple layers of armor. Nearly completely resistant to explosives and any breaching tools. -->
+  <VFEArch_ArmoredWall.description>Un muro pesado e impasable con múltiples capas de blindaje. Casi completamente resistente a explosivos y cualquier herramienta de irrupción.</VFEArch_ArmoredWall.description>
+  
+  <!-- EN: brick fence -->
+  <VFEArch_BrickFence.label>valla de ladrillo</VFEArch_BrickFence.label>
+  <!-- EN: A brick fence made tall brick pillars and a short fence in between them, used for building pens for certain kinds of animals. Some kinds of animals can get past fences. Predators will not hunt creatures on the other side of a fence, but may still wander inside. -->
+  <VFEArch_BrickFence.description>Una valla de ladrillo hecha de pilares de ladrillo altos y una valla corta entre ellos, utilizada para construir corrales para ciertos tipos de animales. Algunos tipos de animales pueden pasar las vallas. Los depredadores no cazarán criaturas al otro lado de una valla, pero aún pueden deambular dentro.</VFEArch_BrickFence.description>
+  
+  <!-- EN: chain link fence -->
+  <VFEArch_ChainlinkFence.label>valla de alambre</VFEArch_ChainlinkFence.label>
+  <!-- EN: A metal fence made of posts joined by chain link sheets used for building pens for certain kinds of animals. Some kinds of animals can get past fences. Predators will not hunt creatures on the other side of a fence, but may still wander inside. -->
+  <VFEArch_ChainlinkFence.description>Una valla de metal hecha de postes unidos por láminas de eslabones de cadena utilizada para construir corrales para ciertos tipos de animales. Algunos tipos de animales pueden pasar las vallas. Los depredadores no cazarán criaturas al otro lado de una valla, pero aún pueden deambular dentro.</VFEArch_ChainlinkFence.description>
+  
+  <!-- EN: hedge wall -->
+  <VFEArch_HedgeWall.label>muro de setos</VFEArch_HedgeWall.label>
+  <!-- EN: An impassable wall made out of fake hedge. Very flammable. -->
+  <VFEArch_HedgeWall.description>Un muro impasable hecho de seto falso. Muy inflamable.</VFEArch_HedgeWall.description>
+  
+  <!-- EN: invisible fence -->
+  <VFEArch_InvisibleFence.label>valla invisible</VFEArch_InvisibleFence.label>
+  <!-- EN: An invisible fence, for players wanting to create their own pens without fences, or to make it so that rivers or trees act as fence barriers. Does not have any path cost - thus not slowing down pawns wanting to traverse through it. -->
+  <VFEArch_InvisibleFence.description>Una valla invisible, para jugadores que desean crear sus propios corrales sin vallas, o para hacer que los ríos o árboles actúen como barreras de valla. No tiene ningún costo de camino, por lo que no ralentiza a los peones que desean atravesarla.</VFEArch_InvisibleFence.description>
+  
+  <!-- EN: log wall -->
+  <VFEArch_LogWall.label>muro de troncos</VFEArch_LogWall.label>
+  <!-- EN: A wall of horizontally placed wooden logs, for this nice, homely feeling. Capable of holding up a roof. -->
+  <VFEArch_LogWall.description>Un muro de troncos de madera colocados horizontalmente, para esa agradable sensación hogareña. Capaz de sostener un techo.</VFEArch_LogWall.description>
+  
+  <!-- EN: low fence -->
+  <VFEArch_LowFence.label>valla baja</VFEArch_LowFence.label>
+  <!-- EN: A fence made of posts joined by crossbars used for building pens for certain kinds of animals. Some kinds of animals can get past fences. Predators will not hunt creatures on the other side of a fence, but may still wander inside. -->
+  <VFEArch_LowFence.description>Una valla hecha de postes unidos por travesaños utilizada para construir corrales para ciertos tipos de animales. Algunos tipos de animales pueden pasar las vallas. Los depredadores no cazarán criaturas al otro lado de una valla, pero aún pueden deambular dentro.</VFEArch_LowFence.description>
+  
+  <!-- EN: picket fence -->
+  <VFEArch_PicketFence.label>valla de estacas</VFEArch_PicketFence.label>
+  <!-- EN: A fence made of posts joined by vertical wooden boards called pickets, used for building pens for certain kinds of animals. Some kinds of animals can get past fences. Predators will not hunt creatures on the other side of a fence, but may still wander inside.\n	\nPicket fences are considerably more beautiful than alternatives, and evoke a nice, homely feeling. -->
+  <VFEArch_PicketFence.description>Una valla hecha de postes unidos por tablas de madera verticales llamadas estacas, utilizada para construir corrales para ciertos tipos de animales. Algunos tipos de animales pueden pasar las vallas. Los depredadores no cazarán criaturas al otro lado de una valla, pero aún pueden deambular dentro.\n\nLas vallas de estacas son considerablemente más hermosas que las alternativas y evocan una agradable sensación hogareña.</VFEArch_PicketFence.description>
+  
+  <!-- EN: single door -->
+  <VFEArch_SingleDoor.label>puerta simple</VFEArch_SingleDoor.label>
+  <!-- EN: Divides rooms. Simple doors must be manually opened, which slows people down. The amount of slowdown does not depend on what the door is made of. -->
+  <VFEArch_SingleDoor.description>Divide habitaciones. Las puertas simples deben abrirse manualmente, lo que ralentiza a las personas. La cantidad de ralentización no depende de qué esté hecha la puerta.</VFEArch_SingleDoor.description>
+  
+  <!-- EN: single door (flipped) -->
+  <VFEArch_SingleDoor_Flipped.label>puerta simple (invertida)</VFEArch_SingleDoor_Flipped.label>
+  <!-- EN: Divides rooms. Simple doors must be manually opened, which slows people down. The amount of slowdown does not depend on what the door is made of. -->
+  <VFEArch_SingleDoor_Flipped.description>Divide habitaciones. Las puertas simples deben abrirse manualmente, lo que ralentiza a las personas. La cantidad de ralentización no depende de qué esté hecha la puerta.</VFEArch_SingleDoor_Flipped.description>
+  
+</LanguageData>

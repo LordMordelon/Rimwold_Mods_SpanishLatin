@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: non-lethal turret gun -->
+  <VFES_Gun_NonLethalTurret.label>arma de torreta no letal</VFES_Gun_NonLethalTurret.label>
+  <!-- EN: A non-lethal rubber bullet gun made to be mounted on a turret. -->
+  <VFES_Gun_NonLethalTurret.description>Un arma de balas de goma no letal hecha para ser montada en una torreta.</VFES_Gun_NonLethalTurret.description>
+  <!-- EN: non-lethal turret gun -->
+  <VFES_Gun_NonLethalTurret.verbs.Verb_Shoot.label>arma de torreta no letal</VFES_Gun_NonLethalTurret.verbs.Verb_Shoot.label>
+  
+  <!-- EN: non-lethal turret -->
+  <VFES_Turret_NonLethalTurret.label>torreta no letal</VFES_Turret_NonLethalTurret.label>
+  <!-- EN: A turret designed to fire rubber bullets at intruders or unruly colonists. It causes pain and blunt trauma with low chance of fatal injury, making it ideal for non-lethal suppression. May explode when damaged. Its dumb AI brain can't be directly controlled, so beware of friendly fire. -->
+  <VFES_Turret_NonLethalTurret.description>Una torreta diseñada para disparar balas de goma a intrusos o colonos rebeldes. Causa dolor y traumatismo contundente con baja probabilidad de lesiones fatales, lo que la hace ideal para la supresión no letal. Puede explotar si se daña. Su cerebro de IA tonta no se puede controlar directamente, así que ten cuidado con el fuego amigo.</VFES_Turret_NonLethalTurret.description>
+  <!-- EN: Barrel durability -->
+  <VFES_Turret_NonLethalTurret.comps.CompRefuelable.fuelGizmoLabel>Durabilidad del cañón</VFES_Turret_NonLethalTurret.comps.CompRefuelable.fuelGizmoLabel>
+  <!-- EN: Shots until barrel change -->
+  <VFES_Turret_NonLethalTurret.comps.CompRefuelable.fuelLabel>Disparos hasta cambio de cañón</VFES_Turret_NonLethalTurret.comps.CompRefuelable.fuelLabel>
+  <!-- EN: Needs new barrel -->
+  <VFES_Turret_NonLethalTurret.comps.CompRefuelable.outOfFuelMessage>Necesita cañón nuevo</VFES_Turret_NonLethalTurret.comps.CompRefuelable.outOfFuelMessage>
+  <!-- EN: Hackear para reconfigurar. -->
+  <VFES_Turret_NonLethalTurret.comps.CompTurretHackable.notHackedInspectString>Hackear para reconfigurar.</VFES_Turret_NonLethalTurret.comps.CompTurretHackable.notHackedInspectString>
+  
+</LanguageData>

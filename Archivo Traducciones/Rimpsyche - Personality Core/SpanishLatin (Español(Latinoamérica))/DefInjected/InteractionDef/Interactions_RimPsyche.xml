@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: conversation -->
+  <Rimpsyche_Conversation.label>conversación</Rimpsyche_Conversation.label>
+  <!-- EN:
+    <li>r_logentry->[INITIATOR_nameDef] struck up a conversation with [RECIPIENT_nameDef] about {0}.</li>
+    <li>r_logentry->[INITIATOR_nameDef] kicked off a discussion with [RECIPIENT_nameDef] on {0}.</li>
+    <li>r_logentry->[INITIATOR_nameDef] brought up {0} with [RECIPIENT_nameDef] in their conversation.</li>
+    <li>r_logentry->[INITIATOR_nameDef] engaged [RECIPIENT_nameDef] in a conversation about {0}.</li>
+  -->
+  <Rimpsyche_Conversation.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef] inició una conversación con [RECIPIENT_nameDef] sobre {0}.</li>
+    <li>r_logentry->[INITIATOR_nameDef] comenzó una discusión con [RECIPIENT_nameDef] sobre {0}.</li>
+    <li>r_logentry->[INITIATOR_nameDef] sacó el tema de {0} con [RECIPIENT_nameDef] en su conversación.</li>
+    <li>r_logentry->[INITIATOR_nameDef] entabló una conversación con [RECIPIENT_nameDef] sobre {0}.</li>
+  </Rimpsyche_Conversation.logRulesInitiator.rulesStrings>
+  
+  <!-- EN: conversation -->
+  <Rimpsyche_ConversationAttempt.label>conversación</Rimpsyche_ConversationAttempt.label>
+  <!-- EN:
+    <li>r_logentry->[INITIATOR_nameDef] hailed [RECIPIENT_nameDef] for a conversation about {0}.</li>
+    <li>r_logentry->[INITIATOR_nameDef] tried to talk about {0} with [RECIPIENT_nameDef].</li>
+    <li>r_logentry->[INITIATOR_nameDef] tried to engage [RECIPIENT_nameDef] in a conversation about {0}.</li>
+    <li>r_logentry->[INITIATOR_nameDef] tried to open up a conversation with [RECIPIENT_nameDef] about {0}.</li>
+  -->
+  <Rimpsyche_ConversationAttempt.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef] llamó a [RECIPIENT_nameDef] para hablar sobre {0}.</li>
+    <li>r_logentry->[INITIATOR_nameDef] intentó hablar de {0} con [RECIPIENT_nameDef].</li>
+    <li>r_logentry->[INITIATOR_nameDef] intentó entablar conversación con [RECIPIENT_nameDef] sobre {0}.</li>
+    <li>r_logentry->[INITIATOR_nameDef] intentó iniciar una conversación con [RECIPIENT_nameDef] sobre {0}.</li>
+  </Rimpsyche_ConversationAttempt.logRulesInitiator.rulesStrings>
+  
+  <!-- EN: smalltalk -->
+  <Rimpsyche_Smalltalk.label>charla trivial</Rimpsyche_Smalltalk.label>
+  <!-- EN:
+    <li>r_logentry->[INITIATOR_nameDef] [commentedabout] [subject] to [RECIPIENT_nameDef].</li>
+    <li>r_logentry(p=0.7)->[INITIATOR_nameDef] brought up [subject] in a brief chat with [RECIPIENT_nameDef].</li>
+    <li>r_logentry(p=0.5)->[INITIATOR_nameDef] mentioned something about [subject] while passing by [RECIPIENT_nameDef].</li>
+    <li>r_logentry(p=0.3)->[INITIATOR_nameDef] gave a passing nod to [RECIPIENT_nameDef].</li>
+    <li>r_logentry(p=0.1)->[INITIATOR_nameDef] greeted [RECIPIENT_nameDef] in passing.</li>
+    <li>r_logentry(p=0.1)->[INITIATOR_nameDef] waved at [RECIPIENT_nameDef].</li>
+    <li>subject(INITIATOR_cubeInterest==false)->[TalkTopicLight]</li>
+    <li>subject(INITIATOR_cubeInterest==true)->[TalkTopicCube]</li>
+    <li>commentedabout->made a comment about</li>
+    <li>commentedabout->casually remarked on</li>
+    <li>commentedabout->muttered something about</li>
+    <li>commentedabout->made a quick observation about</li>
+  -->
+  <Rimpsyche_Smalltalk.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef] [commentedabout] [subject] a [RECIPIENT_nameDef].</li>
+    <li>r_logentry(p=0.7)->[INITIATOR_nameDef] sacó el tema de [subject] en una breve charla con [RECIPIENT_nameDef].</li>
+    <li>r_logentry(p=0.5)->[INITIATOR_nameDef] mencionó algo sobre [subject] al pasar junto a [RECIPIENT_nameDef].</li>
+    <li>r_logentry(p=0.3)->[INITIATOR_nameDef] saludó con la cabeza a [RECIPIENT_nameDef] al pasar.</li>
+    <li>r_logentry(p=0.1)->[INITIATOR_nameDef] saludó a [RECIPIENT_nameDef] al pasar.</li>
+    <li>r_logentry(p=0.1)->[INITIATOR_nameDef] saludó con la mano a [RECIPIENT_nameDef].</li>
+    <li>subject(INITIATOR_cubeInterest==false)->[TalkTopicLight]</li>
+    <li>subject(INITIATOR_cubeInterest==true)->[TalkTopicCube]</li>
+    <li>commentedabout->hizo un comentario sobre</li>
+    <li>commentedabout->comentó casualmente sobre</li>
+    <li>commentedabout->murmuró algo sobre</li>
+    <li>commentedabout->hizo una observación rápida sobre</li>
+  </Rimpsyche_Smalltalk.logRulesInitiator.rulesStrings>
+  
+  <!-- EN: conversation -->
+  <Rimpsyche_StartConversation.label>conversación</Rimpsyche_StartConversation.label>
+  <!-- EN:
+    <li>r_logentry->Their interaction ended.</li>
+  -->
+  <Rimpsyche_StartConversation.logRulesInitiator.rulesStrings>
+    <li>r_logentry->Su interacción terminó.</li>
+  </Rimpsyche_StartConversation.logRulesInitiator.rulesStrings>
+  
+</LanguageData>

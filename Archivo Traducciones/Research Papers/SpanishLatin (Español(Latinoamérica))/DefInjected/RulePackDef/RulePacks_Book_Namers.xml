@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>title->Research Paper: [subject_primary]</li>
+    <li>title(has_subject_secondary==true)->Research Paper: [subject_primary] and [subject_secondary]</li>
+  -->
+  <Namer_ResearchPaper.rulePack.rulesStrings>
+    <li>title->Investigación: [subject_primary]</li>
+    <li>title(has_subject_secondary==true)->Investigación: [subject_primary] y [subject_secondary]</li>
+  </Namer_ResearchPaper.rulePack.rulesStrings>
+  
+</LanguageData>

@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: focus -->
+  <VPE_Focus.label>foco</VPE_Focus.label>
+  <!-- EN: Psychically focus the target's mind for a minute, boosting their sight, hearing and moving capacities. -->
+  <VPE_Focus.description>Enfoca psíquicamente la mente del objetivo durante un minuto, aumentando su vista, oído y capacidades de movimiento.</VPE_Focus.description>
+  <!-- EN: Using ability: {0} -->
+  <VPE_Focus.jobReportString>Usando habilidad: {0}</VPE_Focus.jobReportString>
+  <!-- EN: focus -->
+  <VPE_Focus.verbProperties.label>foco</VPE_Focus.verbProperties.label>
+  
+  <!-- EN: guardian skipbarrier -->
+  <VPE_GuardianSkipbarrier.label>barrera de salto guardiana</VPE_GuardianSkipbarrier.label>
+  <!-- EN: Generate a spherical skipgate around the caster that sends all incoming ground-level projectiles to some distant place, lasting as long as they can manage the heat accumulation. People and items are not affected. It takes immense concentration to hold, as such the caster needs to be mindful of their steps. -->
+  <VPE_GuardianSkipbarrier.description>Genera un portal de salto esférico alrededor del lanzador que envía todos los proyectiles entrantes a nivel del suelo a algún lugar distante, durando tanto como puedan manejar la acumulación de calor. Las personas y los objetos no se ven afectados. Se necesita una inmensa concentración para mantenerlo, por lo que el lanzador debe ser consciente de sus pasos.</VPE_GuardianSkipbarrier.description>
+  <!-- EN: Using ability: {0} -->
+  <VPE_GuardianSkipbarrier.jobReportString>Usando habilidad: {0}</VPE_GuardianSkipbarrier.jobReportString>
+  <!-- EN: guardian skipbarrier -->
+  <VPE_GuardianSkipbarrier.verbProperties.label>barrera de salto guardiana</VPE_GuardianSkipbarrier.verbProperties.label>
+  
+  <!-- EN: invisibility -->
+  <VPE_Invisibility.label>invisibilidad</VPE_Invisibility.label>
+  <!-- EN: Psychically manipulate the visual centers of everyone nearby, rendering them unable to perceive a particular individual for a short time. -->
+  <VPE_Invisibility.description>Manipula psíquicamente los centros visuales de todos los que están cerca, haciéndolos incapaces de percibir a un individuo en particular por un corto tiempo.</VPE_Invisibility.description>
+  <!-- EN: Using ability: {0} -->
+  <VPE_Invisibility.jobReportString>Usando habilidad: {0}</VPE_Invisibility.jobReportString>
+  <!-- EN: invisibility -->
+  <VPE_Invisibility.verbProperties.label>invisibilidad</VPE_Invisibility.verbProperties.label>
+  
+  <!-- EN: overshield -->
+  <VPE_Overshield.label>sobreescudo</VPE_Overshield.label>
+  <!-- EN: Generate a spherical skipgate on a target that sends all incoming ground-level projectiles to some distant place, the duration scaling with the target’s psychic sensitivity. People and items are not affected. -->
+  <VPE_Overshield.description>Genera un portal de salto esférico en un objetivo que envía todos los proyectiles entrantes a nivel del suelo a algún lugar distante, la duración escala con la sensibilidad psíquica del objetivo. Las personas y los objetos no se ven afectados.</VPE_Overshield.description>
+  <!-- EN: Using ability: {0} -->
+  <VPE_Overshield.jobReportString>Usando habilidad: {0}</VPE_Overshield.jobReportString>
+  <!-- EN: overshield -->
+  <VPE_Overshield.verbProperties.label>sobreescudo</VPE_Overshield.verbProperties.label>
+  
+  <!-- EN: painblock -->
+  <VPE_Painblock.label>bloqueo de dolor</VPE_Painblock.label>
+  <!-- EN: Severely limit pain pathways in the target's brain for a couple of minutes. This can allow a person to move and act even with grievous injuries which would normally incapacitate them. -->
+  <VPE_Painblock.description>Limita severamente las vías del dolor en el cerebro del objetivo durante un par de minutos. Esto puede permitir que una persona se mueva y actúe incluso con lesiones graves que normalmente la incapacitarían.</VPE_Painblock.description>
+  <!-- EN: Using ability: {0} -->
+  <VPE_Painblock.jobReportString>Usando habilidad: {0}</VPE_Painblock.jobReportString>
+  <!-- EN: painblock -->
+  <VPE_Painblock.verbProperties.label>bloqueo de dolor</VPE_Painblock.verbProperties.label>
+  
+  <!-- EN: regrow limbs -->
+  <VPE_RegrowLimbs.label>regenerar extremidades</VPE_RegrowLimbs.label>
+  <!-- EN: Induces a psychic, regenerative coma in the target that lasts for a full day. The psychic energy assists the target by slowly regrowing any missing limbs. -->
+  <VPE_RegrowLimbs.description>Induce un coma psíquico regenerativo en el objetivo que dura un día completo. La energía psíquica ayuda al objetivo regenerando lentamente cualquier extremidad faltante.</VPE_RegrowLimbs.description>
+  <!-- EN: Using ability: {0} -->
+  <VPE_RegrowLimbs.jobReportString>Usando habilidad: {0}</VPE_RegrowLimbs.jobReportString>
+  <!-- EN: regrow limbs -->
+  <VPE_RegrowLimbs.verbProperties.label>regenerar extremidades</VPE_RegrowLimbs.verbProperties.label>
+  
+  <!-- EN: skipshield -->
+  <VPE_Skipshield.label>escudo de salto</VPE_Skipshield.label>
+  <!-- EN: Generate a spherical skipgate that sends all incoming and outgoing ground-level projectiles to some distant place. People and items are not affected. Duration scales with psychic sensitivity of the caster. -->
+  <VPE_Skipshield.description>Genera un portal de salto esférico que envía todos los proyectiles entrantes y salientes a nivel del suelo a algún lugar distante. Las personas y los objetos no se ven afectados. La duración escala con la sensibilidad psíquica del lanzador.</VPE_Skipshield.description>
+  <!-- EN: Using ability: {0} -->
+  <VPE_Skipshield.jobReportString>Usando habilidad: {0}</VPE_Skipshield.jobReportString>
+  <!-- EN: skipshield -->
+  <VPE_Skipshield.verbProperties.label>escudo de salto</VPE_Skipshield.verbProperties.label>
+  
+  <!-- EN: stabilize -->
+  <VPE_Stabilize.label>estabilizar</VPE_Stabilize.label>
+  <!-- EN: Temporarily puts the target’s cardiovascular system in stasis, which prevents them from bleeding out for a time, scaling with the psychic sensitivity of the caster. -->
+  <VPE_Stabilize.description>Pone temporalmente el sistema cardiovascular del objetivo en estasis, lo que evita que se desangre por un tiempo, escalando con la sensibilidad psíquica del lanzador.</VPE_Stabilize.description>
+  <!-- EN: Using ability: {0} -->
+  <VPE_Stabilize.jobReportString>Usando habilidad: {0}</VPE_Stabilize.jobReportString>
+  <!-- EN: stabilize -->
+  <VPE_Stabilize.verbProperties.label>estabilizar</VPE_Stabilize.verbProperties.label>
+  
+  <!-- EN: word of healing -->
+  <VPE_WordofHealing.label>palabra de curación</VPE_WordofHealing.label>
+  <!-- EN: Psychically stimulates a person’s regenerative capabilities into overdrive, effectively tripling their natural healing factor for a few days. -->
+  <VPE_WordofHealing.description>Estimula psíquicamente las capacidades regenerativas de una persona a toda marcha, triplicando efectivamente su factor de curación natural durante unos días.</VPE_WordofHealing.description>
+  <!-- EN: Using ability: {0} -->
+  <VPE_WordofHealing.jobReportString>Usando habilidad: {0}</VPE_WordofHealing.jobReportString>
+  <!-- EN: word of healing -->
+  <VPE_WordofHealing.verbProperties.label>palabra de curación</VPE_WordofHealing.verbProperties.label>
+  
+  <!-- EN: word of immunity -->
+  <VPE_WordofImmunity.label>palabra de inmunidad</VPE_WordofImmunity.label>
+  <!-- EN: Psychically stimulates a person’s immune system into overdrive, effectively nearly doubling their immunity gain speed for a few days. -->
+  <VPE_WordofImmunity.description>Estimula psíquicamente el sistema inmunológico de una persona a toda marcha, casi duplicando efectivamente su velocidad de ganancia de inmunidad durante unos días.</VPE_WordofImmunity.description>
+  <!-- EN: Using ability: {0} -->
+  <VPE_WordofImmunity.jobReportString>Usando habilidad: {0}</VPE_WordofImmunity.jobReportString>
+  <!-- EN: word of immunity -->
+  <VPE_WordofImmunity.verbProperties.label>palabra de inmunidad</VPE_WordofImmunity.verbProperties.label>
+  
+</LanguageData>

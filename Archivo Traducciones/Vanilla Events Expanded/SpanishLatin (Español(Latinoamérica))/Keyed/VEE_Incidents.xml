@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+    <!-- Animal transport pod crash -->
+    <!-- EN: Animal transport pod crash -->
+  <LetterLabelAnimalPodCrash>Cápsula de transporte animal estrellada</LetterLabelAnimalPodCrash>
+    <!-- EN: A crate with a {PAWN_kind} called {PAWN_nameDef} is crashing in a transport pod nearby. If it survives the crash it will be badly wounded.
+
+If rescued, it can freely join the colony, or go back to living in the wild. -->
+  <AnimalPodCrash>Una jaula con un(a) {PAWN_kind} llamado(a) {PAWN_nameDef} se está estrellando en una cápsula de transporte cerca. Si sobrevive al impacto estará gravemente herido(a).\n\nSi es rescatado(a), puede unirse libremente a la colonia o volver a vivir en estado salvaje.</AnimalPodCrash>
+
+    <!-- EN: Rescued animal join -->
+  <AJLabel>Animal rescatado se une</AJLabel>
+    <!-- EN: The animal you rescued is joining the colony -->
+  <AJLetter>El animal que rescataste se está uniendo a la colonia</AJLetter>
+    <!-- EN: Rescued animal don't join -->
+  <ADJLabel>Animal rescatado no se une</ADJLabel>
+    <!-- EN: The animal you rescued isn't joining the colony -->
+  <ADJLetter>El animal que rescataste no se está uniendo a la colonia</ADJLetter>
+    <!-- Traitor -->
+    <!-- EN: Traitor! -->
+  <TraitorLabel>¡Traidor!</TraitorLabel>
+    <!-- EN: A colonist named {PAWN_nameDef}, which you have accepted into your ranks, turns out to be an enemy agent from {PAWN_factionName}.
+
+You can capture {PAWN_objective} for recruitment or slavery purposes. -->
+  <Traitor>Un(a) colono(a) llamado(a) {PAWN_nameDef}, que has aceptado en tus filas, resulta ser un(a) agente enemigo(a) de {PAWN_factionName}.\n\nPuedes capturar{PAWN_objective} para propósitos de reclutamiento o esclavitud.</Traitor>
+
+    <!-- Space Battle -->
+    <!-- EN: Space battle -->
+  <SpaceBattleLabel>Batalla espacial</SpaceBattleLabel>
+    <!-- EN: Several massive spaceships have engaged in combat in the planet's orbit. Missed shots and debris can impact the ground in the area. This can lead to massive fires. -->
+  <SpaceBattle>Varias naves espaciales masivas han entablado combate en la órbita del planeta. Los disparos fallidos y los escombros pueden impactar el suelo en el área. Esto puede provocar incendios masivos.</SpaceBattle>
+
+    <!-- Shuttle Crash -->
+    <!-- EN: Shuttle Crash -->
+  <ShuttleCrashLabel>Accidente de transbordador</ShuttleCrashLabel>
+    <!-- EN: A planet-bound shuttle is crashing nearby. If the crew survives the impact, they will be badly wounded. The crashed ship can be deconstructed for useful resources.
+
+The crew is not affiliated with any faction, which means they can be rescued and may join you freely, or captured for recruitment or slavery purposes. -->
+  <ShuttleCrash>Un transbordador con destino al planeta se está estrellando cerca. Si la tripulación sobrevive al impacto, estarán gravemente heridos. La nave estrellada puede ser desmantelada para obtener recursos útiles.\n\nLa tripulación no está afiliada a ninguna facción, lo que significa que pueden ser rescatados y unirse a ti libremente, o capturados para propósitos de reclutamiento o esclavitud.</ShuttleCrash>
+
+    <!-- Earthquake -->
+    <!-- EN: Earthquake -->
+  <EarthquakeLabel>Terremoto</EarthquakeLabel>
+    <!-- EN: Changes in the planet's crust caused a small scale localised earthquake. Some structures can become damaged and roofs can collapse. -->
+  <Earthquake>Cambios en la corteza del planeta causaron un pequeño terremoto localizado. Algunas estructuras pueden dañarse y los techos pueden colapsar.</Earthquake>
+
+    <!-- Cargo pods (weapons) -->
+    <!-- EN: Cargo pods (weapons) -->
+  <CPWLabel>Cápsulas de carga (armas)</CPWLabel>
+    <!-- EN: You have detected a cluster of cargo pods crashing nearby.
+
+Perhaps you'll find something useful in the wreckage. -->
+  <CPW>Has detectado un grupo de cápsulas de carga estrellándose cerca.\n\nQuizás encuentres algo útil en los restos.</CPW>
+
+    <!-- Cargo pods (apparel) -->
+    <!-- EN: Cargo pods (apparel) -->
+  <CPALabel>Cápsulas de carga (vestimenta)</CPALabel>
+    <!-- EN: You have detected a cluster of cargo pods crashing nearby.
+
+Perhaps you'll find something useful in the wreckage. -->
+  <CPA>Has detectado un grupo de cápsulas de carga estrellándose cerca.\n\nQuizás encuentres algo útil en los restos.</CPA>
+
+    <!-- Caravan animals wander in -->
+    <!-- EN: Caravan animals wander in -->
+  <CAWILabel>Animales de caravana deambulan</CAWILabel>
+    <!-- EN: A group of {PAWN_kind}, abandoned or lost, wanders in.
+
+They seem to have belonged to some caravan, as they still carry packs with valuable items. You can collect these items if you tame them or kill them. Otherwise, they will leave the area in a couple of days. -->
+  <CAWI>Un grupo de {PAWN_kind}, abandonados o perdidos, deambula por la zona.\n\nParecen haber pertenecido a alguna caravana, ya que aún llevan mochilas con objetos valiosos. Puedes recolectar estos objetos si los domas o los matas. De lo contrario, dejarán el área en un par de días.</CAWI>
+
+    <!-- Crop sprout -->
+    <!-- EN: Crop sprout -->
+  <CSLabel>Brote de cultivo</CSLabel>
+    <!-- EN: A large field of -->
+  <CS1>Un gran campo de </CS1>
+    <!-- EN: has sprouted nearby. If you wait for it to grow, you will be able to harvest plenty of food! If left unharvested, it will slowly rot and disappear. -->
+  <CS2> ha brotado cerca. Si esperas a que crezca, ¡podrás cosechar mucha comida! Si no se cosecha, se pudrirá lentamente y desaparecerá.</CS2>
+
+    <!-- Battle animals wander in -->
+    <!-- EN: Battle animals wander in -->
+  <BAWILabel>Animales de batalla deambulan</BAWILabel>
+    <!-- EN: A group of {0}, abandoned or lost, wanders in.
+
+They seem accustomed to human contact and are joining the colony. -->
+  <BAWI>Un grupo de {0}, abandonados o perdidos, deambula por la zona.\n\nParecen acostumbrados al contacto humano y se están uniendo a la colonia.</BAWI>
+
+    <!-- wild men wander in -->
+    <!-- EN: Wild men wander in -->
+  <WMWILabel>Hombres salvajes deambulan</WMWILabel>
+    <!-- EN: A small, pre-neolithic tribe of wild men wanders in. You can attempt to tame them. -->
+  <WMWI>Una pequeña tribu preneolítica de hombres salvajes deambula por la zona. Puedes intentar domesticarlos.</WMWI>
+
+    <!-- Hunting party -->
+    <!-- EN: Hunting party -->
+  <HPLabel>Grupo de caza</HPLabel>
+    <!-- EN: A group of hunters from {0} are passing through the area. They will hunt here for a few hours and then move on. -->
+  <HP>Un grupo de cazadores de {0} está pasando por el área. Cazarán aquí durante unas horas y luego seguirán su camino.</HP>
+
+    <!-- EN: Decaying due to drought. -->
+  <VEE_Decay>Descomponiéndose debido a la sequía.</VEE_Decay>
+    <!-- EN: Adjusted fertility due to drought: {0} -->
+  <VEE_DroughtGui>TODO</VEE_DroughtGui>
+</LanguageData>

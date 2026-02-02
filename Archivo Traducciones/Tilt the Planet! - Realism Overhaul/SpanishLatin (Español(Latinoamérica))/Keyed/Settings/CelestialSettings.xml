@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+	<!-- EN: Planet axial tilt: {0}° -->
+  <AxialTilt>Inclinación axial del planeta: {0}°</AxialTilt>
+	<!-- EN: Greatly affects day length and seasons over the year -->
+  <AxialTilt_Tooltip>Afecta enormemente la duración del día y las estaciones durante el año</AxialTilt_Tooltip>
+	<!-- EN: Set to Earth tilt -->
+  <SetEarthTilt>Establecer inclinación de la Tierra</SetEarthTilt>
+
+	<!-- EN: Moon orbital period: {0} RimWorld days -->
+  <MoonOrbitPeriod>Periodo orbital de la luna: {0} días de RimWorld</MoonOrbitPeriod>
+	<!-- EN: Affects how long moon phases last -->
+  <MoonOrbitPeriod_Tooltip>Afecta la duración de las fases lunares</MoonOrbitPeriod_Tooltip>
+	<!-- EN: Realistic moon orbital period -->
+  <SetMoonRealistic>Periodo orbital lunar realista</SetMoonRealistic>
+
+	<!-- EN: Moon brightness: {0}x -->
+  <MoonBrightness>Brillo de la luna: {0}x</MoonBrightness>
+	<!-- EN: Ajust how bright the moon is (moon will still have phases) -->
+  <MoonBrightness_Tooltip>Ajusta qué tan brillante es la luna (la luna seguirá teniendo fases)</MoonBrightness_Tooltip>
+
+	<!-- EN: Star brightness: {0}x -->
+  <StarBrightness>Brillo de las estrellas: {0}x</StarBrightness>
+	<!-- EN: Adjusts how bright stars are -->
+  <StarBrightness_Tooltip>Ajusta qué tan brillantes son las estrellas</StarBrightness_Tooltip>
+
+	<!-- EN: Airglow brightness: {0}x -->
+  <AirglowBrightness>Brillo de la luminiscencia nocturna: {0}x</AirglowBrightness>
+	<!-- EN: Adjusts how bright the atmosphere is (real phenomenon!). -->
+  <AirglowBrightness_Tooltip>Ajusta qué tan brillante es la atmósfera (¡fenómeno real!).</AirglowBrightness_Tooltip>
+
+  <!-- EN: Aurora brightness: {0}x -->
+  <AuroraBrightness>Brillo de la aurora: {0}x</AuroraBrightness>
+  <!-- EN: Adjusts how bright auroras are. Stronger auroras are more colorful but rare. -->
+  <AuroraBrightness_Tooltip>Ajusta qué tan brillantes son las auroras. Las auroras más fuertes son más coloridas pero raras.</AuroraBrightness_Tooltip>
+
+	<!-- EN: Realistic brightness -->
+  <RealisticBrightness>Brillo realista</RealisticBrightness>
+	
+	<!-- EN: Sunrise/Sunset Speed: {0}x -->
+  <SunriseSunsetSpeed>Velocidad de amanecer/atardecer: {0}x</SunriseSunsetSpeed>
+	<!-- EN: Adjusts how long the sun takes to rise and set without effecting the length of the day\nAlso effects the moon -->
+  <SunriseSunsetSpeed_Tooltip>Ajusta cuánto tarda el sol en salir y ponerse sin afectar la duración del día\nTambién afecta a la luna</SunriseSunsetSpeed_Tooltip>
+
+	<!-- EN: Realistic sunrise/sunset speed -->
+  <SetRealisticSunriseSunsetSpeed>Velocidad de amanecer/atardecer realista</SetRealisticSunriseSunsetSpeed>
+	<!-- EN: Smooth sunrise/sunset speed -->
+  <SetSmoothSunriseSunsetSpeed>Velocidad de amanecer/atardecer suave</SetSmoothSunriseSunsetSpeed>
+
+	<!-- EN: 🌍 Earth Tilt -->
+  <Tilt_Earth>🌍 Inclinación de la Tierra</Tilt_Earth>
+	<!-- EN: None to minimal season variation -->
+  <Tilt_Min>Variación estacional nula o mínima</Tilt_Min>
+	<!-- EN: Earth-like seasons -->
+  <Tilt_EarthLike>Estaciones tipo Tierra</Tilt_EarthLike>
+	<!-- EN: Sun moves more vertically than horizontally at poles -->
+  <Tilt_Major>El sol se mueve más verticalmente que horizontalmente en los polos</Tilt_Major>
+	<!-- EN: Extreme seasons -->
+  <Tilt_Extreme>Estaciones extremas</Tilt_Extreme>
+	<!-- EN: Hell Planet: Equator: varies from little sun to normal day, Poles have a 1-year long day -->
+  <Tilt_Sideways>Planeta infernal: Ecuador: varía de poco sol a día normal, los Polos tienen un día de 1 año de duración</Tilt_Sideways>
+</LanguageData>

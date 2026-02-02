@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+	<!-- EN: Astrogenes -->
+  <VRE_Astrogenes>Astrogenes</VRE_Astrogenes>
+	<!-- EN: Astrogenes are special genetic mutations that only become active in orbit. They don't count towards complexity and metabolism of the gene carrier, but they have no effect on the surface of a planet. -->
+  <VRE_AstrogenesDesc>Los astrogenes son mutaciones genéticas especiales que solo se activan en órbita. No cuentan para la complejidad y el metabolismo del portador del gen, pero no tienen efecto en la superficie de un planeta.</VRE_AstrogenesDesc>
+	<!-- EN: This ability can only be used while in orbit -->
+  <VRE_AbilityOnlyInSpace>Esta habilidad solo se puede usar mientras se está en órbita</VRE_AbilityOnlyInSpace>
+	<!-- EN: Number of Starjack Genes: -->
+  <VRE_StarjackGenes>Número de genes Starjack:</VRE_StarjackGenes>
+	<!-- EN: By default, Starjacks will spawn with 2 Astrogenes. With this you can make the spawn with anything from 0 to 5 Astrogenes. This will obviously not affect already existing Starjacks! -->
+  <VRE_StarjackGenesDesc>Por defecto, los Starjacks aparecerán con 2 astrogenes. Con esto puedes hacer que aparezcan con entre 0 y 5 astrogenes. ¡Esto obviamente no afectará a los Starjacks ya existentes!</VRE_StarjackGenesDesc>
+	<!-- EN: Reset -->
+  <VREStarjack_Reset>Restablecer</VREStarjack_Reset>
+</LanguageData>

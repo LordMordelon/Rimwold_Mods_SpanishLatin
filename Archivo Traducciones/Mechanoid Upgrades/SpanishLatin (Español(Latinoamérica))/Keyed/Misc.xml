@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!--Tabs-->
+  <!-- EN: Choose upgrades -->
+  <MU_UpgradeConfig_Label>Elegir mejoras</MU_UpgradeConfig_Label>
+  <!-- EN: No upgrades -->
+  <MU_NoUpgradesInside>Sin mejoras</MU_NoUpgradesInside>
+  <!-- EN: Upgrades -->
+  <MU_TabUpgrades>Mejoras</MU_TabUpgrades>
+  <!-- EN: Should mechanoid automatically reload upgrades. -->
+  <MU_AutoReload_Desc>¿Debería el mecanoide recargar automáticamente las mejoras?</MU_AutoReload_Desc>
+  
+  <!--Settings-->
+  <!-- EN: Generate mechs with upgrades -->
+  <MU_Setting_GenerateWithUpgrades>Generar mecanoides con mejoras</MU_Setting_GenerateWithUpgrades>
+  <!-- EN: Allow mechanoid generation with upgrades. -->
+  <MU_Setting_GenerateWithUpgrades_Desc>Permitir la generación de mecanoides con mejoras.</MU_Setting_GenerateWithUpgrades_Desc>
+  
+  <!-- EN: Chance for generation with upgrades -->
+  <MU_Setting_ChanceForUpgrades>Probabilidad de generación con mejoras</MU_Setting_ChanceForUpgrades>
+  <!-- EN: How often mechanoids will be generated with upgrades.\n\nFreshly manufactured mechanoids won't be affected. -->
+  <MU_Setting_ChanceForUpgrades_Desc>Frecuencia con la que los mecanoides se generarán con mejoras.\n\nLos mecanoides recién fabricados no se verán afectados.</MU_Setting_ChanceForUpgrades_Desc>
+  
+  <!-- EN: Minimum amount of upgrades -->
+  <MU_Setting_MinPercent>Cantidad mínima de mejoras</MU_Setting_MinPercent>
+  <!-- EN: Minimum amount of upgrades for mechanoid generation. -->
+  <MU_Setting_MinPercent_Desc>Cantidad mínima de mejoras para la generación de mecanoides.</MU_Setting_MinPercent_Desc>
+  
+  <!-- EN: Maximum amount of upgrades -->
+  <MU_Setting_MaxPercent>Cantidad máxima de mejoras</MU_Setting_MaxPercent>
+  <!-- EN: Maximum amount of upgrades for mechanoid generation. -->
+  <MU_Setting_MaxPercent_Desc>Cantidad máxima de mejoras para la generación de mecanoides.</MU_Setting_MaxPercent_Desc>
+  
+  <!-- EN: Chance for preset combination -->
+  <MU_Setting_CombinationsCommonality>Probabilidad de combinaciones predefinidas</MU_Setting_CombinationsCommonality>
+  <!-- EN: How often mechanoids will spawn with preset combinations of upgrades. -->
+  <MU_Setting_CombinationsCommonality_Desc>Frecuencia con la que los mecanoides aparecerán con combinaciones predefinidas de mejoras.</MU_Setting_CombinationsCommonality_Desc>
+  
+  <!-- EN: Extra loot -->
+  <MU_Setting_ExtraButcherProducts>Botín adicional</MU_Setting_ExtraButcherProducts>
+  <!-- EN: Allow extra resources after shredding of upgraded mechs. -->
+  <MU_Setting_ExtraButcherProducts_Desc>Permitir recursos adicionales tras desmantelar mecanoides mejorados.</MU_Setting_ExtraButcherProducts_Desc>
+  
+  <!-- EN: Chance for extra loot -->
+  <MU_Setting_ChanceForExtraLoot>Probabilidad de botín adicional</MU_Setting_ChanceForExtraLoot>
+  <!-- EN: Chance for extra resources after shredding of upgraded mechs.\n\nThis chance applies for each upgrade. -->
+  <MU_Setting_ChanceForExtraLoot_Desc>Probabilidad de recursos adicionales tras desmantelar mecanoides mejorados.\n\nEsta probabilidad se aplica a cada mejora.</MU_Setting_ChanceForExtraLoot_Desc>
+  
+  <!-- EN: Amount of extra loot -->
+  <MU_Setting_ExtraLootAmount>Cantidad de botín adicional</MU_Setting_ExtraLootAmount>
+  <!-- EN: Amount of extra resources after shredding of upgraded mechs. -->
+  <MU_Setting_ExtraLootAmount_Desc>Cantidad de recursos adicionales tras desmantelar mecanoides mejorados.</MU_Setting_ExtraLootAmount_Desc>
+  
+  <!-- EN: Base upgradability -->
+  <MU_Setting_BaseUpgradability>Mejorabilidad base</MU_Setting_BaseUpgradability>
+  <!-- EN: Base upgradability value.\n\nFinal value calculation includes body size and weight class factors. -->
+  <MU_Setting_BaseUpgradability_Desc>Valor base de mejorabilidad.\n\nEl cálculo final incluye factores como el tamaño del cuerpo y la clase de peso.</MU_Setting_BaseUpgradability_Desc>
+  <!-- EN: Warning! Change of value significantly affects balance. -->
+  <MU_Setting_BaseUpgradability_Warning>¡Advertencia! Cambiar este valor afecta significativamente el equilibrio.</MU_Setting_BaseUpgradability_Warning>
+  
+  <!--Inspect strings-->
+  <!-- EN: Waiting -->
+  <MU_Upgrader_WaitingForOrder>Esperando órdenes</MU_Upgrader_WaitingForOrder>
+  <!-- EN: Waiting for mechanoid -->
+  <MU_Upgrader_WaitingForMechanoid>Esperando al mecanoide</MU_Upgrader_WaitingForMechanoid>
+  <!-- EN: Waiting for mechanitor -->
+  <MU_Upgrader_WaitingForMechanitor>Esperando al mecanizador</MU_Upgrader_WaitingForMechanitor>
+  <!-- EN: Time left -->
+  <MU_Upgrader_TimeLeft>Tiempo restante</MU_Upgrader_TimeLeft>
+  
+  <!-- EN: all upgrades -->
+  <MU_AllOperations>todas las mejoras</MU_AllOperations>
+  <!-- EN: current upgrade -->
+  <MU_ThisOperation>mejora actual</MU_ThisOperation>
+  
+  <!--Job-->
+  <!-- EN: Begin process -->
+  <MU_ConfigureUpgrades>Iniciar proceso</MU_ConfigureUpgrades>
+  
+  <!--Carrier comp-->
+  <!-- EN: Steel -->
+  <MU_MechCarrier_Title>Acero</MU_MechCarrier_Title>
+  <!-- EN: How many steel mini-gestator has to create war urchins. -->
+  <MU_MechCarrier_Tooltip>Cantidad de acero que necesita el mini-gestador para crear erizos de guerra.</MU_MechCarrier_Tooltip>
+  <!-- EN: mini-gestator -->
+  <MU_MechCarrier_Label>mini-gestador</MU_MechCarrier_Label>
+  
+  <!--Set-->
+  <!-- EN: Cannot create upgrades set -->
+  <MU_CannotCreateSet>No se puede crear el conjunto de mejoras</MU_CannotCreateSet>
+  <!-- EN: Save as -->
+  <MU_SaveAs>Guardar como</MU_SaveAs>
+  
+  <!--Filters-->
+  <!-- EN: Hide not installable -->
+  <MU_HideNotInstallable>Ocultar no instalables</MU_HideNotInstallable>
+  
+</LanguageData>

@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: cooler pylon -->
+  <CoolerPylon_GT.label>pilón enfriador</CoolerPylon_GT.label>
+  <!-- EN: A pylon with a gravcore designed for fast cooling without heat dissipation.\n\nIt does not require electricity.\nGenerates 300W when idle. -->
+  <CoolerPylon_GT.description>Un pilón con un gravinúcleo diseñado para un enfriamiento rápido sin disipación de calor.\n\nNo requiere electricidad.\nGenera 300W cuando está inactivo.</CoolerPylon_GT.description>
+  
+  <!-- EN: gravity decrease pylon -->
+  <GravDecreasePylon_GT.label>pilón de disminución de gravedad</GravDecreasePylon_GT.label>
+  <!-- EN: A pylon with a gravcore that creates a low gravity field with a radius of 14 m. In this field, pawns move 40% faster and carry more items at a time. -->
+  <GravDecreasePylon_GT.description>Un pilón con un gravinúcleo que crea un campo de baja gravedad con un radio de 14 m. En este campo, los peones se mueven un 40% más rápido y llevan más objetos a la vez.</GravDecreasePylon_GT.description>
+  
+  <!-- EN: gravity increase pylon -->
+  <GravIncreasePylon_GT.label>pilón de aumento de gravedad</GravIncreasePylon_GT.label>
+  <!-- EN: A pylon with a gravcore that creates a high gravity field with a radius of 7 m. In this field, maximum speed of the pawns is 40% and they are in constant pain. -->
+  <GravIncreasePylon_GT.description>Un pilón con un gravinúcleo que crea un campo de alta gravedad con un radio de 7 m. En este campo, la velocidad máxima de los peones es del 40% y sienten dolor constante.</GravIncreasePylon_GT.description>
+  
+  <!-- EN: heater pylon -->
+  <HeaterPylon_GT.label>pilón calentador</HeaterPylon_GT.label>
+  <!-- EN: A pylon with a gravcore designed for rapid heating of the environment.\n\nIt does not require electricity.\nGenerates 300W when idle. -->
+  <HeaterPylon_GT.description>Un pilón con un gravinúcleo diseñado para un calentamiento rápido del entorno.\n\nNo requiere electricidad.\nGenera 300W cuando está inactivo.</HeaterPylon_GT.description>
+  
+  <!-- EN: shield pylon -->
+  <ShieldPylon_GT.label>pilón de escudo</ShieldPylon_GT.label>
+  <!-- EN: A pylon with a gravcore that creates a protective field around itself with a radius of 5 m.\n\nIt does not require electricity.\nRecharges very quickly. -->
+  <ShieldPylon_GT.description>Un pilón con un gravinúcleo que crea un campo protector a su alrededor con un radio de 5 m.\n\nNo requiere electricidad.\nSe recarga muy rápidamente.</ShieldPylon_GT.description>
+  
+</LanguageData>

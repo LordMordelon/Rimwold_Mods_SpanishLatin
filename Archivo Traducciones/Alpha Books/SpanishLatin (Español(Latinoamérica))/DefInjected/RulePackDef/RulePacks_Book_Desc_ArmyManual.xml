@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>desc->[intro] [conceptExploration]. [writingQualitySentence]. [impactStatement].[ending]</li>
+    <li>ending->\n\nEste manual ofrece conocimientos invaluables para preparar las fuerzas de tu colonia, pero se consumirá después del estudio.</li>
+    <li>intro->Un [bookType] [writingQualityAdjective] dedicado a</li>
+    <li>intro->Esta compilación [writingQualityAdjective] se sumerge en</li>
+    <li>intro->Un análisis [writingQualityAdjective] de</li>
+    <li>intro->Un [bookType] curado por expertos para</li>
+    <li>conceptExploration->los fundamentos del combate organizado y la supervivencia</li>
+    <li>conceptExploration->estrategias tácticas para burlar y sobrevivir a cualquier enemigo</li>
+    <li>conceptExploration->técnicas de guerra esenciales y sus aplicaciones prácticas</li>
+    <li>conceptExploration->el intrincado arte de la defensa y el ataque coordinados</li>
+    <li>conceptExploration->principios de supervivencia en el campo de batalla y liderazgo</li>
+    <li>conceptExploration->los principios avanzados de planificación táctica y operativa</li>
+    <li>impactStatement(quality[greater_than]1)->Equipa a los líderes con las herramientas necesarias para convertir el caos en victoria</li>
+    <li>impactStatement(quality[greater_than]1)->Sus lecciones reforzarán las capacidades defensivas y ofensivas de cualquier colonia</li>
+    <li>impactStatement(quality[greater_than]1)->Este manual transforma incluso a la milicia más desorganizada en una fuerza estratégica</li>
+    <li>impactStatement(quality[greater_than]1)->Proporciona una guía crítica para la supervivencia y el dominio en el campo de batalla</li>
+    <li>impactStatement(quality[greater_than]1)->Con este conocimiento, las colonias estarán preparadas para enfrentar incluso a los adversarios más duros</li>
+    <li>impactStatement(quality[less_than]2)->Sus instrucciones inconexas pueden confundir en lugar de ayudar a los aspirantes a líderes</li>
+    <li>impactStatement(quality[less_than]2)->Un intento equivocado de estrategia, este manual deja mucho que desear en el campo de batalla</li>
+    <li>impactStatement(quality[less_than]2)->Si bien se pueden encontrar algunas pepitas de consejos útiles, están enterradas bajo un mar de contradicciones</li>
+    <li>writingQualityAdjective(quality==6)->elaborado magistralmente</li>
+    <li>writingQualityAdjective(quality==5)->brillantemente perspicaz</li>
+    <li>writingQualityAdjective(quality==4)->estimulante y preciso</li>
+    <li>writingQualityAdjective(quality==3)->funcional pero poco inspirado</li>
+    <li>writingQualityAdjective(quality==2)->mediocre</li>
+    <li>writingQualityAdjective(quality==1)->apenas comprensible</li>
+    <li>writingQualityAdjective(quality==0)->desastre revuelto de un</li>
+    <li>writingQualitySentence(quality[greater_than]3)->Es [excellentDesc] [excellentExtra]</li>
+    <li>writingQualitySentence(quality[less_than]4,quality[greater_than]1)->Es [decentDesc] [decentExtra]</li>
+    <li>writingQualitySentence(quality[less_than]2)->Es [awfulDesc] [awfulExtra]</li>
+    <li>excellentDesc->una guía definitiva de tácticas militares y supervivencia</li>
+    <li>excellentDesc->un recurso invaluable para las colonias que enfrentan amenazas hostiles</li>
+    <li>excellentDesc->un estudio exhaustivo de la planificación estratégica y táctica</li>
+    <li>excellentExtra->que ofrece claridad y conocimientos prácticos para cualquier líder</li>
+    <li>excellentExtra->que inspira confianza incluso en las condiciones más desesperadas</li>
+    <li>decentDesc->una guía útil sobre los conceptos básicos del campo de batalla</li>
+    <li>decentDesc->útil pero desigual en su cobertura de la estrategia</li>
+    <li>decentDesc->un intento promedio de explicar tácticas de combate avanzadas</li>
+    <li>decentExtra->y carece de profundidad en áreas cruciales</li>
+    <li>decentExtra->, aunque sus ejemplos son ocasionalmente poco claros</li>
+    <li>awfulDesc->una mezcla confusa de consejos obsoletos y poco prácticos</li>
+    <li>awfulDesc->un intento mal escrito de discutir tácticas militares</li>
+    <li>awfulDesc->un revoltijo caótico de ideas vagas y estrategias contradictorias</li>
+    <li>awfulExtra->y totalmente inútil para una preparación seria en el campo de batalla</li>
+    <li>awfulExtra->y es probable que cause más daño que bien en cualquier enfrentamiento</li>
+    <li>bookType(p=3)->tratado militar</li>
+    <li>bookType(p=3)->manual del ejército</li>
+    <li>bookType(p=2)->manual táctico</li>
+    <li>bookType(p=1)->guía de combate</li>
+  -->
+  <ABooks_ArmyManual_Description.rulePack.rulesStrings>
+    <li>desc->[intro] [conceptExploration]. [writingQualitySentence]. [impactStatement].[ending]</li>
+    <li>ending->\n\nEste manual ofrece conocimientos invaluables para preparar las fuerzas de tu colonia, pero se consumirá después del estudio.</li>
+    <li>intro->Un [bookType] [writingQualityAdjective] dedicado a</li>
+    <li>intro->Esta compilación [writingQualityAdjective] se sumerge en</li>
+    <li>intro->Un análisis [writingQualityAdjective] de</li>
+    <li>intro->Un [bookType] curado por expertos para</li>
+    <li>conceptExploration->los fundamentos del combate organizado y la supervivencia</li>
+    <li>conceptExploration->estrategias tácticas para burlar y sobrevivir a cualquier enemigo</li>
+    <li>conceptExploration->técnicas de guerra esenciales y sus aplicaciones prácticas</li>
+    <li>conceptExploration->el intrincado arte de la defensa y el ataque coordinados</li>
+    <li>conceptExploration->principios de supervivencia en el campo de batalla y liderazgo</li>
+    <li>conceptExploration->los principios avanzados de planificación táctica y operativa</li>
+    <li>impactStatement(quality[greater_than]1)->Equipa a los líderes con las herramientas necesarias para convertir el caos en victoria</li>
+    <li>impactStatement(quality[greater_than]1)->Sus lecciones reforzarán las capacidades defensivas y ofensivas de cualquier colonia</li>
+    <li>impactStatement(quality[greater_than]1)->Este manual transforma incluso a la milicia más desorganizada en una fuerza estratégica</li>
+    <li>impactStatement(quality[greater_than]1)->Proporciona una guía crítica para la supervivencia y el dominio en el campo de batalla</li>
+    <li>impactStatement(quality[greater_than]1)->Con este conocimiento, las colonias estarán preparadas para enfrentar incluso a los adversarios más duros</li>
+    <li>impactStatement(quality[less_than]2)->Sus instrucciones inconexas pueden confundir en lugar de ayudar a los aspirantes a líderes</li>
+    <li>impactStatement(quality[less_than]2)->Un intento equivocado de estrategia, este manual deja mucho que desear en el campo de batalla</li>
+    <li>impactStatement(quality[less_than]2)->Si bien se pueden encontrar algunas pepitas de consejos útiles, están enterradas bajo un mar de contradicciones</li>
+    <li>writingQualityAdjective(quality==6)->elaborado magistralmente</li>
+    <li>writingQualityAdjective(quality==5)->brillantemente perspicaz</li>
+    <li>writingQualityAdjective(quality==4)->estimulante y preciso</li>
+    <li>writingQualityAdjective(quality==3)->funcional pero poco inspirado</li>
+    <li>writingQualityAdjective(quality==2)->mediocre</li>
+    <li>writingQualityAdjective(quality==1)->apenas comprensible</li>
+    <li>writingQualityAdjective(quality==0)->desastre revuelto de un</li>
+    <li>writingQualitySentence(quality[greater_than]3)->Es [excellentDesc] [excellentExtra]</li>
+    <li>writingQualitySentence(quality[less_than]4,quality[greater_than]1)->Es [decentDesc] [decentExtra]</li>
+    <li>writingQualitySentence(quality[less_than]2)->Es [awfulDesc] [awfulExtra]</li>
+    <li>excellentDesc->una guía definitiva de tácticas militares y supervivencia</li>
+    <li>excellentDesc->un recurso invaluable para las colonias que enfrentan amenazas hostiles</li>
+    <li>excellentDesc->un estudio exhaustivo de la planificación estratégica y táctica</li>
+    <li>excellentExtra->que ofrece claridad y conocimientos prácticos para cualquier líder</li>
+    <li>excellentExtra->que inspira confianza incluso en las condiciones más desesperadas</li>
+    <li>decentDesc->una guía útil sobre los conceptos básicos del campo de batalla</li>
+    <li>decentDesc->útil pero desigual en su cobertura de la estrategia</li>
+    <li>decentDesc->un intento promedio de explicar tácticas de combate avanzadas</li>
+    <li>decentExtra->y carece de profundidad en áreas cruciales</li>
+    <li>decentExtra->, aunque sus ejemplos son ocasionalmente poco claros</li>
+    <li>awfulDesc->una mezcla confusa de consejos obsoletos y poco prácticos</li>
+    <li>awfulDesc->un intento mal escrito de discutir tácticas militares</li>
+    <li>awfulDesc->un revoltijo caótico de ideas vagas y estrategias contradictorias</li>
+    <li>awfulExtra->y totalmente inútil para una preparación seria en el campo de batalla</li>
+    <li>awfulExtra->y es probable que cause más daño que bien en cualquier enfrentamiento</li>
+    <li>bookType(p=3)->tratado militar</li>
+    <li>bookType(p=3)->manual del ejército</li>
+    <li>bookType(p=2)->manual táctico</li>
+    <li>bookType(p=1)->guía de combate</li>
+  </ABooks_ArmyManual_Description.rulePack.rulesStrings>
+  
+</LanguageData>

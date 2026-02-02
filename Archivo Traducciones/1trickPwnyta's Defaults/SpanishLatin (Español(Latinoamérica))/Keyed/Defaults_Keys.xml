@@ -1,0 +1,274 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+	<!-- EN: Set defaults -->
+  <Defaults_SetDefaults>Establecer predeterminados</Defaults_SetDefaults>
+	<!-- EN: Set as default -->
+  <Defaults_SetAsDefault>Usar por defecto</Defaults_SetAsDefault>
+	<!-- EN: Saved settings as default. -->
+  <Defaults_SetAsDefaultConfirmed>Configuración guardada como predeterminada.</Defaults_SetAsDefaultConfirmed>
+	<!-- EN: Colonist schedules -->
+  <Defaults_Schedules>Horarios de colonos</Defaults_Schedules>
+	<!-- EN: Medicine settings -->
+  <Defaults_Medicine>Configuración de medicinas</Defaults_Medicine>
+	<!-- EN: Default medicine to carry -->
+  <Defaults_MedicineToCarry>Medicina predeterminada para llevar</Defaults_MedicineToCarry>
+	<!-- EN: Default medicine amount to carry -->
+  <Defaults_MedicineAmountToCarry>Cantidad predeterminada de medicina para llevar</Defaults_MedicineAmountToCarry>
+	<!-- EN: Guests pick up medicine to carry, too -->
+  <Defaults_GuestsCarryMedicine>Los invitados también recogen medicinas para llevar</Defaults_GuestsCarryMedicine>
+	<!-- EN: Reward preferences -->
+  <Defaults_Rewards>Preferencias de recompensa</Defaults_Rewards>
+	<!-- EN: Default hostility response -->
+  <Defaults_HostilityResponse>Respuesta de hostilidad predeterminada</Defaults_HostilityResponse>
+	<!-- EN: Default plant type -->
+  <Defaults_PlantType>Tipo de planta predeterminado</Defaults_PlantType>
+	<!-- EN: Default auto rebuild setting -->
+  <Defaults_AutoRebuild>Configuración de reconstrucción automática predeterminada</Defaults_AutoRebuild>
+	<!-- EN: Default auto home area setting -->
+  <Defaults_AutoHomeArea>Configuración de área de hogar automática predeterminada</Defaults_AutoHomeArea>
+	<!-- EN: Expanded resource categories -->
+  <Defaults_ResourceCategories>Categorías de recursos expandidas</Defaults_ResourceCategories>
+	<!-- EN: Storyteller settings -->
+  <Defaults_Storyteller>Configuración del narrador</Defaults_Storyteller>
+	<!-- EN: Storage settings -->
+  <Defaults_StockpileZones>Configuración de almacenamiento</Defaults_StockpileZones>
+	<!-- EN: Shelf storage settings -->
+  <Defaults_ShelfSettings>Configuración de almacenamiento de estantes</Defaults_ShelfSettings>
+	<!-- EN: Workbench bills -->
+  <Defaults_WorkbenchBills>Tareas de la mesa de trabajo</Defaults_WorkbenchBills>
+	<!-- EN: Miscellaneous defaults -->
+  <Defaults_MiscSettings>Predeterminados varios</Defaults_MiscSettings>
+	<!-- EN: Use manual work priorities by default -->
+  <Defaults_ManualPriorities>Usar prioridades de trabajo manuales por defecto</Defaults_ManualPriorities>
+	<!-- EN: World settings -->
+  <Defaults_WorldSettings>Configuración del mundo</Defaults_WorldSettings>
+	<!-- EN: Advanced world settings -->
+  <Defaults_MapSettings>Configuración avanzada del mundo</Defaults_MapSettings>
+	<!-- EN: Policies -->
+  <Defaults_Policies>Políticas</Defaults_Policies>
+	<!-- EN: apparel policies -->
+  <Defaults_ApparelPolicies>políticas de vestimenta</Defaults_ApparelPolicies>
+	<!-- EN: food policies -->
+  <Defaults_FoodPolicies>políticas de comida</Defaults_FoodPolicies>
+	<!-- EN: drug policies -->
+  <Defaults_DrugPolicies>políticas de drogas</Defaults_DrugPolicies>
+	<!-- EN: reading policies -->
+  <Defaults_ReadingPolicies>políticas de lectura</Defaults_ReadingPolicies>
+	<!-- EN: Default pregnancy approach -->
+  <Defaults_PregnancyApproach>Enfoque de embarazo predeterminado</Defaults_PregnancyApproach>
+	<!-- EN: Target temperature for heaters -->
+  <Defaults_TargetTemperatureHeater>Temperatura objetivo para calentadores</Defaults_TargetTemperatureHeater>
+	<!-- EN: Target temperature for coolers -->
+  <Defaults_TargetTemperatureCooler>Temperatura objetivo para enfriadores</Defaults_TargetTemperatureCooler>
+	<!-- EN: Baby feeding settings -->
+  <Defaults_BabyFeedingSettings>Configuración de alimentación para bebés</Defaults_BabyFeedingSettings>
+	<!-- EN: First mech control group work mode -->
+  <Defaults_WorkModeFirst>Modo de trabajo del primer grupo de control de mecas</Defaults_WorkModeFirst>
+	<!-- EN: Second mech control group work mode -->
+  <Defaults_WorkModeSecond>Modo de trabajo del segundo grupo de control de mecas</Defaults_WorkModeSecond>
+	<!-- EN: Additional mech control groups work mode -->
+  <Defaults_WorkModeAdditional>Modo de trabajo de grupos de control de mecas adicionales</Defaults_WorkModeAdditional>
+	<!-- EN: Reset all settings to vanilla -->
+  <Defaults_ResetAllSettings>Restablecer toda la configuración a la original</Defaults_ResetAllSettings>
+	<!-- EN: Reset to vanilla -->
+  <Defaults_ResetTheseSettings>Restablecer esta configuración a la original</Defaults_ResetTheseSettings>
+	<!-- EN: Do you want to reset all mod settings to their vanilla values? All settings categories will be enabled and all general settings will return to their default values. This action cannot be undone. -->
+  <Defaults_ConfirmResetAllSettings>¿Quieres restablecer toda la configuración del mod a sus valores originales? Todas las categorías de configuración se habilitarán y todos los ajustes generales volverán a sus valores predeterminados. Esta acción no se puede deshacer.</Defaults_ConfirmResetAllSettings>
+	<!-- EN: Do you want to reset all {0} to their vanilla values? This action cannot be undone. -->
+  <Defaults_ConfirmResetTheseSettings>¿Quieres restablecer todos los {0} a sus valores originales? Esta acción no se puede deshacer.</Defaults_ConfirmResetTheseSettings>
+	<!-- EN: Do you want to reset all default workbench bill settings to their vanilla values? This action will delete all default workbench bills and cannot be undone. -->
+  <Defaults_ConfirmResetWorkbenchBills>¿Quieres restablecer toda la configuración predeterminada de las tareas de la mesa de trabajo a sus valores originales? Esta acción eliminará todas las tareas predeterminadas de la mesa de trabajo y no se puede deshacer.</Defaults_ConfirmResetWorkbenchBills>
+	<!-- EN: Schedule {0} -->
+  <Defaults_ScheduleName>Horario {0}</Defaults_ScheduleName>
+	<!-- EN: Use -->
+  <Defaults_UseSchedule>Usar</Defaults_UseSchedule>
+	<!-- EN: Indicates whether the schedule will automatically be assigned to colonists. -->
+  <Defaults_UseScheduleTip>Indica si el horario se asignará automáticamente a los colonos.</Defaults_UseScheduleTip>
+	<!-- EN: Save as new default schedule -->
+  <Defaults_SaveNewDefaultSchedule>Guardar como nuevo horario predeterminado</Defaults_SaveNewDefaultSchedule>
+	<!-- EN: Schedule saved as {0}. -->
+  <Defaults_ScheduleSavedAs>Horario guardado como {0}.</Defaults_ScheduleSavedAs>
+	<!-- EN: Replace with default schedule -->
+  <Defaults_ReplaceWithDefaultSchedule>Reemplazar con horario predeterminado</Defaults_ReplaceWithDefaultSchedule>
+	<!-- EN: Add alternate -->
+  <Defaults_AddAlternateSchedule>Añadir alternativo</Defaults_AddAlternateSchedule>
+	<!-- EN: Accept {0} -->
+  <Defaults_AcceptRoyalFavor>Aceptar {0}</Defaults_AcceptRoyalFavor>
+	<!-- EN: Whether you wish to be rewarded with {0} from {1}.\n\nIf this is disabled, {1} will offer other types of rewards instead.\n\nThis setting only affects newly-arriving quests. -->
+  <Defaults_AcceptRoyalFavorDesc>Si deseas ser recompensado con {0} de {1}.\n\nSi está desactivado, {1} ofrecerá otros tipos de recompensas en su lugar.\n\nEsta configuración solo afecta a las misiones recién llegadas.</Defaults_AcceptRoyalFavorDesc>
+	<!-- EN: Whether you wish to be rewarded via improved faction relations with {0}.\n\nIf this is disabled, {0} will offer other types of rewards instead.\n\nThis setting only affects newly-generated quests. -->
+  <Defaults_AcceptGoodwillDesc>Si deseas ser recompensado mediante la mejora de las relaciones de facción con {0}.\n\nSi está desactivado, {0} ofrecerá otros tipos de recompensas en su lugar.\n\nEsta configuración solo afecta a las misiones recién generadas.</Defaults_AcceptGoodwillDesc>
+	<!-- EN: The default plant type for new growing zones. -->
+  <Defaults_PlantTypeTip>El tipo de planta predeterminado para las nuevas zonas de cultivo.</Defaults_PlantTypeTip>
+	<!-- EN: Current plant type -->
+  <Defaults_CurrentPlantType>Tipo de planta actual</Defaults_CurrentPlantType>
+	<!-- EN: The default medicine for pawns to carry when assigned. -->
+  <Defaults_MedicineToCarryTip>La medicina predeterminada que los peones llevarán cuando se les asigne.</Defaults_MedicineToCarryTip>
+	<!-- EN: Current medicine to carry -->
+  <Defaults_CurrentMedicineToCarry>Medicina actual para llevar</Defaults_CurrentMedicineToCarry>
+	<!-- EN: Add new -->
+  <Defaults_AddNew>Añadir nuevo</Defaults_AddNew>
+	<!-- EN: Create a stockpile where your colonists will store corpses.\nThis tool can also expand any existing stockpile. -->
+  <Defaults_CorpseStockpileZoneDesc>Crea una zona de almacenamiento donde tus colonos guardarán los cadáveres.\nEsta herramienta también puede expandir cualquier zona de almacenamiento existente.</Defaults_CorpseStockpileZoneDesc>
+	<!-- EN: You cannot delete the default policy. -->
+  <Defaults_CantDeleteDefaultPolicy>No puedes eliminar la política predeterminada.</Defaults_CantDeleteDefaultPolicy>
+	<!-- EN: Save as new default policy -->
+  <Defaults_SaveNewDefaultPolicy>Guardar como nueva política predeterminada</Defaults_SaveNewDefaultPolicy>
+	<!-- EN: Policy saved as {0}. -->
+  <Defaults_PolicySavedAs>Política guardada como {0}.</Defaults_PolicySavedAs>
+	<!-- EN: Add from... -->
+  <Defaults_LoadDefaultPolicy>Añadir desde...</Defaults_LoadDefaultPolicy>
+	<!-- EN: Lock this setting to prevent automatic changes when new mods or DLC are added -->
+  <Defaults_LockSetting>Bloquear esta configuración para evitar cambios automáticos cuando se añadan nuevos mods o DLC</Defaults_LockSetting>
+	<!-- EN: UNAVAILABLE -->
+  <Defaults_UnavailableCaps>NO DISPONIBLE</Defaults_UnavailableCaps>
+	<!-- EN: Save as new default bill -->
+  <Defaults_SaveNewDefaultBill>Guardar como nueva tarea predeterminada</Defaults_SaveNewDefaultBill>
+	<!-- EN: Saved bill as default. -->
+  <Defaults_SaveBillConfirmed>Tarea guardada como predeterminada.</Defaults_SaveBillConfirmed>
+	<!-- EN: Load default -->
+  <Defaults_LoadDefaultBill>Cargar predeterminado</Defaults_LoadDefaultBill>
+	<!-- EN: Use -->
+  <Defaults_UseBill>Usar</Defaults_UseBill>
+	<!-- EN: Indicates whether this bill will automatically be added to new workbenches. -->
+  <Defaults_UseBillTip>Indica si esta tarea se añadirá automáticamente a las nuevas mesas de trabajo.</Defaults_UseBillTip>
+	<!-- EN: Global bill settings -->
+  <Defaults_GlobalBillSettings>Configuración global de tareas</Defaults_GlobalBillSettings>
+	<!-- EN: Birthgiver -->
+  <Defaults_BirtherParent>Progenitor gestante</Defaults_BirtherParent>
+	<!-- EN: Non-birthgiver parent (lactating) -->
+  <Defaults_ParentLactating>Otro progenitor (lactante)</Defaults_ParentLactating>
+	<!-- EN: Non-birthgiver parent (not lactating) -->
+  <Defaults_ParentNonlactating>Otro progenitor (no lactante)</Defaults_ParentNonlactating>
+	<!-- EN: Non-parent (lactating) -->
+  <Defaults_NonparentLactating>No progenitor (lactante)</Defaults_NonparentLactating>
+	<!-- EN: Non-parent (not lactating) -->
+  <Defaults_NonparentNonlactating>No progenitor (no lactante)</Defaults_NonparentNonlactating>
+	<!-- EN: Search results -->
+  <Defaults_SearchResults>Resultados de la búsqueda</Defaults_SearchResults>
+	<!-- EN: Setting categories -->
+  <Defaults_DefaultSettingsCategories>Categorías de configuración</Defaults_DefaultSettingsCategories>
+	<!-- EN: Individual settings -->
+  <Defaults_DefaultSettings>Configuraciones individuales</Defaults_DefaultSettings>
+	<!-- EN: New DLC added: {0} -->
+  <Defaults_NewDLC>Nuevo DLC añadido: {0}</Defaults_NewDLC>
+	<!-- EN: 1trickPwnyta's Defaults can incorporate policies available in newly installed DLC if you'd like. {0} adds the following default policies to the game. Select the ones you want to enable. -->
+  <Defaults_NewPoliciesDLC>Defaults de 1trickPwnyta puede incorporar políticas disponibles en DLC recién instalados si lo deseas. {0} añade las siguientes políticas predeterminadas al juego. Selecciona las que quieras habilitar.</Defaults_NewPoliciesDLC>
+	<!-- EN: Vanilla -->
+  <Defaults_Vanilla>Original</Defaults_Vanilla>
+	<!-- EN: Defaults -->
+  <Defaults_Defaults>Predeterminados</Defaults_Defaults>
+	<!-- EN: Change how colonists will react to nearby enemies when not drafted. -->
+  <Defaults_HostilityReponseTip>Cambia cómo reaccionarán los colonos a los enemigos cercanos cuando no estén reclutados.</Defaults_HostilityReponseTip>
+	<!-- EN: Your search "{0}" did not match any settings. -->
+  <Defaults_NoSearchResults>Tu búsqueda "{0}" no coincidió con ninguna configuración.</Defaults_NoSearchResults>
+	<!-- EN: Tell other factions what kinds of rewards you want in quests. -->
+  <Defaults_ChooseRewardsDesc>Dile a otras facciones qué tipo de recompensas quieres en las misiones.</Defaults_ChooseRewardsDesc>
+	<!-- EN: {0} storage settings -->
+  <Defaults_StorageBuildingSettings>Configuración de almacenamiento de {0}</Defaults_StorageBuildingSettings>
+	<!-- EN: stockpile zones -->
+  <Defaults_StockpileStorageSettings>zonas de almacenamiento</Defaults_StockpileStorageSettings>
+	<!-- EN: storage buildings -->
+  <Defaults_BuildingStorageSettings>edificios de almacenamiento</Defaults_BuildingStorageSettings>
+	<!-- EN: Do you want to reset all default stockpile zone settings to their vanilla values? This action will delete all custom stockpile zones as well and cannot be undone. -->
+  <Defaults_ConfirmResetStockpileZoneSettings>¿Quieres restablecer toda la configuración predeterminada de las zonas de almacenamiento a sus valores originales? Esta acción también eliminará todas las zonas de almacenamiento personalizadas y no se puede deshacer.</Defaults_ConfirmResetStockpileZoneSettings>
+	<!-- EN: Do you want to reset all default allowed area settings to their vanilla values? This action will delete all allowed areas and cannot be undone. -->
+  <Defaults_ConfirmResetAllowedAreaSettings>¿Quieres restablecer toda la configuración predeterminada de las áreas permitidas a sus valores originales? Esta acción eliminará todas las áreas permitidas y no se puede deshacer.</Defaults_ConfirmResetAllowedAreaSettings>
+	<!-- EN: This allowed area will include the full map by default. -->
+  <Defaults_FullAreaTip>Esta área permitida incluirá el mapa completo por defecto.</Defaults_FullAreaTip>
+	<!-- EN: This allowed area will be empty by default. -->
+  <Defaults_EmptyAreaTip>Esta área permitida estará vacía por defecto.</Defaults_EmptyAreaTip>
+	<!-- EN: Click to change allowed area color. -->
+  <Defaults_ClickToChangeAllowedAreaColor>Haz clic para cambiar el color del área permitida.</Defaults_ClickToChangeAllowedAreaColor>
+	<!-- EN: Drag to reorder. -->
+  <Defaults_DragToReorder>Arrastra para reordenar.</Defaults_DragToReorder>
+	<!-- EN: Default area restrictions for pawns -->
+  <Defaults_DefaultPawnAllowedAreas>Restricciones de área predeterminadas para peones</Defaults_DefaultPawnAllowedAreas>
+	<!-- EN: adult colonists -->
+  <Defaults_AdultColonists>colonos adultos</Defaults_AdultColonists>
+	<!-- EN: child colonists -->
+  <Defaults_ChildColonists>colonos niños</Defaults_ChildColonists>
+	<!-- EN: slaves -->
+  <Defaults_Slaves>esclavos</Defaults_Slaves>
+	<!-- EN: guests -->
+  <Defaults_Guests>invitados</Defaults_Guests>
+	<!-- EN: mechs -->
+  <Defaults_Mechs>mecas</Defaults_Mechs>
+	<!-- EN: animals -->
+  <Defaults_Animals>animales</Defaults_Animals>
+	<!-- EN: ghouls -->
+  <Defaults_Ghouls>ghouls</Defaults_Ghouls>
+	<!-- EN: Enable -->
+  <Defaults_Enable>Habilitar</Defaults_Enable>
+	<!-- EN: Enable all settings categories -->
+  <Defaults_EnableAll>Habilitar todas las categorías de configuración</Defaults_EnableAll>
+	<!-- EN: Disable -->
+  <Defaults_Disable>Deshabilitar</Defaults_Disable>
+	<!-- EN: Disable all settings categories -->
+  <Defaults_DisableAll>Deshabilitar todas las categorías de configuración</Defaults_DisableAll>
+	<!-- EN: {0} are currently disabled and will not affect gameplay. -->
+  <Defaults_SettingsCategoryDisabled>{0} están actualmente deshabilitados y no afectarán al juego.</Defaults_SettingsCategoryDisabled>
+	<!-- EN: Restart required -->
+  <Defaults_RestartRequired>Se requiere reiniciar</Defaults_RestartRequired>
+	<!-- EN: Disabling or enabling entire settings categories will not take effect until the game is restarted. Do you want to restart now? -->
+  <Defaults_RestartRequiredDesc>Deshabilitar o habilitar categorías de configuración completas no tendrá efecto hasta que se reinicie el juego. ¿Quieres reiniciar ahora?</Defaults_RestartRequiredDesc>
+	<!-- EN: Restart RimWorld -->
+  <Defaults_Restart>Reiniciar RimWorld</Defaults_Restart>
+	<!-- EN: Not now -->
+  <Defaults_NotNow>Ahora no</Defaults_NotNow>
+	<!-- EN: You need to enable {0} and then restart the game in order to view these settings. -->
+  <Defaults_EnableCategoryToViewSettings>Necesitas habilitar {0} y luego reiniciar el juego para ver esta configuración.</Defaults_EnableCategoryToViewSettings>
+	<!-- EN: Limit workbench bills to 15 max -->
+  <Defaults_LimitBillsTo15>Limitar tareas de la mesa de trabajo a un máximo de 15</Defaults_LimitBillsTo15>
+	<!-- EN: Only the first 15 bills will apply to workbenches built in the game. To remove this limit, change the global bill settings. -->
+  <Defaults_BillsLimitedto15>Solo las primeras 15 tareas se aplicarán a las mesas de trabajo construidas en el juego. Para eliminar este límite, cambia la configuración global de tareas.</Defaults_BillsLimitedto15>
+	<!-- EN: No Pause Challenge settings enabled. -->
+  <Defaults_NoPauseOptionsTitle>Configuración del No Pause Challenge.</Defaults_NoPauseOptionsTitle>
+	<!-- EN: Better Workbench Management settings -->
+  <Defaults_BetterWorkbenchOptionsTitle>Configuración de Mejor Gestión de Mesas de Trabajo</Defaults_BetterWorkbenchOptionsTitle>
+	<!-- EN: Advanced work priorities mode -->
+  <Defaults_WorkPrioritiesAdvancedMode>Modo de prioridades de trabajo avanzado</Defaults_WorkPrioritiesAdvancedMode>
+	<!-- EN: Select a work priority for each work type. New colonists will automatically be assigned those priorities when they join your colony. -->
+  <Defaults_BasicWorkPrioritiesDesc>Selecciona una prioridad de trabajo para cada tipo de trabajo. Los nuevos colonos se asignarán automáticamente a esas prioridades cuando se unan a tu colonia.</Defaults_BasicWorkPrioritiesDesc>
+	<!-- EN: Customize the logic for determining the work priority for each work type. New colonists will automatically be assigned priorities based on your custom logic when they join your colony. -->
+  <Defaults_AdvancedWorkPrioritiesDesc>Personaliza la lógica para determinar la prioridad de trabajo para cada tipo de trabajo. Los nuevos colonos se asignarán automáticamente a prioridades basadas en tu lógica personalizada cuando se unan a tu colonia.</Defaults_AdvancedWorkPrioritiesDesc>
+	<!-- EN: game decides -->
+  <Defaults_WorkPriorityTynansChoice>El juego decide</Defaults_WorkPriorityTynansChoice>
+	<!-- EN: off -->
+  <Defaults_WorkPriorityDoNotDo>Apagado</Defaults_WorkPriorityDoNotDo>
+	<!-- EN: on -->
+  <Defaults_WorkPriorityDo>Activado</Defaults_WorkPriorityDo>
+	<!-- EN: Global rules -->
+  <Defaults_WorkPriorityRulesGlobal>Reglas globales</Defaults_WorkPriorityRulesGlobal>
+	<!-- EN: Global rules apply to all work types. -->
+  <Defaults_WorkPriorityRulesGlobalDesc>Las reglas globales se aplican a todos los tipos de trabajo.</Defaults_WorkPriorityRulesGlobalDesc>
+	<!-- EN: Each work type can have its own specific rules. These rules are applied after the global rules are applied. -->
+  <Defaults_WorkPriorityRulesSpecificDesc>Cada tipo de trabajo puede tener sus propias reglas específicas. Estas reglas se aplican después de que se apliquen las reglas globales.</Defaults_WorkPriorityRulesSpecificDesc>
+	<!-- EN: Rules apply in order from top to bottom. -->
+  <Defaults_WorkPriorityRulesDesc>Las reglas se aplican en orden de arriba a abajo.</Defaults_WorkPriorityRulesDesc>
+	<!-- EN: Add rule -->
+  <Defaults_WorkPriorityAddRule>Añadir regla</Defaults_WorkPriorityAddRule>
+	<!-- EN: Condition -->
+  <Defaults_WorkPriorityCondition>Condición</Defaults_WorkPriorityCondition>
+	<!-- EN: Effect -->
+  <Defaults_WorkPriorityEffect>Efecto</Defaults_WorkPriorityEffect>
+	<!-- EN: years -->
+  <Defaults_Years>años</Defaults_Years>
+	<!-- EN: Allow disabling this work type if the priority is decreased beyond {0} -->
+  <Defaults_WorkPriorityAllowDecreaseToZero>Permitir deshabilitar este tipo de trabajo si la prioridad se reduce más allá de {0}</Defaults_WorkPriorityAllowDecreaseToZero>
+	<!-- EN: Allow enabling this work type if it is not already -->
+  <Defaults_WorkPriorityAllowIncreaseFromZero>Permitir habilitar este tipo de trabajo si no está ya habilitado</Defaults_WorkPriorityAllowIncreaseFromZero>
+	<!-- EN: Reset to default work priorities -->
+  <Defaults_RecalculateWorkPriorities>Restablecer a las prioridades de trabajo predeterminadas</Defaults_RecalculateWorkPriorities>
+	<!-- EN: Missing condition and/or effect. Define them or delete this rule. -->
+  <Defaults_WorkPriorityRulesInvalid>Falta condición y/o efecto. Defínelos o elimina esta regla.</Defaults_WorkPriorityRulesInvalid>
+	<!-- EN: Edit subrules -->
+  <Defaults_EditSubrules>Editar subreglas</Defaults_EditSubrules>
+	<!-- EN: {0} rules -->
+  <Defaults_WorkPriorityRulesSpecific>Reglas de {0}</Defaults_WorkPriorityRulesSpecific>
+	<!-- EN: Additional settings -->
+  <Defaults_AdditionalSettings>Configuración adicional</Defaults_AdditionalSettings>
+	
+	<!-- EN: Reset the target temperature to default temperature. -->
+  <CommandResetTempDesc>Reinicia la temperatura objetivo a la temperatura ambiente.</CommandResetTempDesc>
+</LanguageData>

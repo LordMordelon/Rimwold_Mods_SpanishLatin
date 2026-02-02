@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: default allowed areas -->
+  <AllowedAreas.label>áreas permitidas</AllowedAreas.label>
+  <!-- EN: Create default allowed areas for new colonies and control which types of pawns get automatically assigned to which areas. -->
+  <AllowedAreas.description>Crea áreas permitidas por defecto para nuevas colonias y controla qué tipos de colonos se asignan automáticamente a qué áreas.</AllowedAreas.description>
+  
+  <!-- EN: default baby feeding settings -->
+  <BabyFeeding.label>alimentación de bebés</BabyFeeding.label>
+  <!-- EN: Set the default autofeed setting for colonists based on relationship to baby and whether they are lactating. Also allows you to set which foods babies can be fed by default. -->
+  <BabyFeeding.description>Establece la configuración de autoalimentación por defecto para los colonos según la relación con el bebé y si están lactando. También te permite establecer qué alimentos se pueden dar a los bebés por defecto.</BabyFeeding.description>
+  <!-- EN: birth givers -->
+  <BabyFeeding.keywords.3>progenitores</BabyFeeding.keywords.3>
+  
+  <!-- EN: general settings -->
+  <General.label>configuración general</General.label>
+  <!-- EN: General settings for this mod. -->
+  <General.description>Configuración general para este mod.</General.description>
+  
+  <!-- EN: default medicine settings -->
+  <Medicine.label>configuración de medicinas</Medicine.label>
+  <!-- EN: Set the default medicine settings to use for a new colony as well as the type and amount of medicine that new colonists will carry. -->
+  <Medicine.description>Establece la configuración de medicinas por defecto para una nueva colonia, así como el tipo y la cantidad de medicina que llevarán los nuevos colonos.</Medicine.description>
+  
+  <!-- EN: miscellaneous defaults -->
+  <Misc.label>ajustes varios</Misc.label>
+  <!-- EN: Other default settings that don't fit neatly into one of the other categories. -->
+  <Misc.description>Otros ajustes por defecto que no encajan bien en ninguna de las otras categorías.</Misc.description>
+  
+  <!-- EN: default policies -->
+  <Policies.label>políticas</Policies.label>
+  <!-- EN: Set custom default apparel, food, drug, and reading policies that will be copied to each new colony. -->
+  <Policies.description>Establece políticas personalizadas por defecto de vestimenta, comida, drogas y lectura que se copiarán a cada nueva colonia.</Policies.description>
+  
+  <!-- EN: default expanded resource categories -->
+  <ResourceCategories.label>categorías de recursos</ResourceCategories.label>
+  <!-- EN: Set which resource tree categories are expanded by default in categorized mode. -->
+  <ResourceCategories.description>Establece qué categorías del árbol de recursos se expanden por defecto en el modo categorizado.</ResourceCategories.description>
+  
+  <!-- EN: default reward preferences -->
+  <Rewards.label>preferencias de recompensa</Rewards.label>
+  <!-- EN: Set the default reward preferences to use for a new colony. -->
+  <Rewards.description>Establece las preferencias de recompensa por defecto para una nueva colonia.</Rewards.description>
+  
+  <!-- EN: default colonist schedules -->
+  <Schedule.label>horarios de colonos</Schedule.label>
+  <!-- EN: Set custom default schedules for colonists. You can create alternating schedules and the mod will cycle between them when assigning them to new colonists. -->
+  <Schedule.description>Establece horarios personalizados por defecto para los colonos. Puedes crear horarios alternos y el mod rotará entre ellos al asignarlos a nuevos colonos.</Schedule.description>
+  
+  <!-- EN: default storage settings -->
+  <Storage.label>configuración de almacenamiento</Storage.label>
+  <!-- EN: Configure the default settings for stockpile zones, dumping stockpile zones, and storage buildings such as shelves. You can also create your own custom stockpile zone types with their own settings. -->
+  <Storage.description>Configura los ajustes predeterminados para las zonas de almacenamiento, zonas de vertido y edificios de almacenamiento como estantes. También puedes crear tus propios tipos de zonas de almacenamiento personalizadas con sus propios ajustes.</Storage.description>
+  
+  <!-- EN: default storyteller settings -->
+  <Storyteller.label>configuración de cuentacuentos</Storyteller.label>
+  <!-- EN: Set the default storyteller/difficulty settings to use for a new colony, including custom difficulty settings. -->
+  <Storyteller.description>Establece la configuración de cuentacuentos/dificultad por defecto para una nueva colonia, incluyendo ajustes de dificultad personalizados.</Storyteller.description>
+  
+  <!-- EN: default workbench bills -->
+  <WorkbenchBills.label>órdenes de taller</WorkbenchBills.label>
+  <!-- EN: Set default bills for workbenches that will populate automatically upon building a workbench. -->
+  <WorkbenchBills.description>Establece órdenes por defecto para los talleres que se añadirán automáticamente al construir un taller.</WorkbenchBills.description>
+  <!-- EN: hit points -->
+  <WorkbenchBills.keywords.51>puntos de vida</WorkbenchBills.keywords.51>
+  
+  <!-- EN: default work priorities -->
+  <WorkPriorities.label>prioridades de trabajo</WorkPriorities.label>
+  <!-- EN: Create default work priorities for new colonists based on their passions and skills. -->
+  <WorkPriorities.description>Crea prioridades de trabajo predeterminadas para nuevos colonos basadas en sus pasiones y habilidades.</WorkPriorities.description>
+  <!-- EN: bed rest -->
+  <WorkPriorities.keywords.11>reposo en cama</WorkPriorities.keywords.11>
+  <!-- EN: plant cut -->
+  <WorkPriorities.keywords.21>corte de plantas</WorkPriorities.keywords.21>
+  <!-- EN: dark study -->
+  <WorkPriorities.keywords.28>estudio en la oscuridad</WorkPriorities.keywords.28>
+  
+  <!-- EN: default world settings -->
+  <World.label>configuración del mundo</World.label>
+  <!-- EN: Set the default world and map settings to use for a new colony. -->
+  <World.description>Establece la configuración del mundo y del mapa por defecto para una nueva colonia.</World.description>
+  
+</LanguageData>

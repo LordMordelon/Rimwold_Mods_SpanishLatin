@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+
+  <!--Mech upgrader-->
+  <!-- EN: Insert mechanoid -->
+  <MU_InsertMech>Insertar mecanoide</MU_InsertMech>
+  <!-- EN: Insert a mechanoid into the mech upgrader. After insertion mechanitor should begin upgrade process. -->
+  <MU_InsertMech_Desc>Inserta un mecanoide en el mejorador de mecanoides. Después de la inserción, el mecanizador debería iniciar el proceso de mejora.</MU_InsertMech_Desc>
+  
+  <!-- EN: Cancel upgrade -->
+  <MU_CommandCancelWaiting>Cancelar mejora</MU_CommandCancelWaiting>
+  <!-- EN: Cancel the upgrade process. The contained mechanoid will be ejected. -->
+  <MU_CommandCancelWaiting_Desc>Cancela el proceso de mejora. El mecanoide contenido será expulsado.</MU_CommandCancelWaiting_Desc>
+  
+  <!-- EN: Cancel process -->
+  <MU_CommandCancelUpgrading>Cancelar proceso</MU_CommandCancelUpgrading>
+  <!-- EN: Cancel the upgrade process. The contained mechanoid will be ejected. -->
+  <MU_CommandCancelUpgrading_Desc>Cancela el proceso de mejora. El mecanoide contenido será expulsado.</MU_CommandCancelUpgrading_Desc>
+  
+
+  <!--Upgradable mech comp-->
+  <!-- EN: Force reload... -->
+  <MU_ForceReload>Forzar recarga...</MU_ForceReload>
+  <!-- EN: Force mechanoid to reload one of upgrades that need reload. -->
+  <MU_ForceReload_Desc>Fuerza al mecanoide a recargar una de las mejoras que lo requiera.</MU_ForceReload_Desc>
+  
+  <!-- EN: Switch mech booster -->
+  <MU_MechBooster_Label>Cambiar impulsor de mecanoide</MU_MechBooster_Label>
+  <!-- EN: Switch mech booster to another mode. -->
+  <MU_MechBooster_Desc>Cambia el impulsor de mecanoide a otro modo.</MU_MechBooster_Desc>
+  
+</LanguageData>

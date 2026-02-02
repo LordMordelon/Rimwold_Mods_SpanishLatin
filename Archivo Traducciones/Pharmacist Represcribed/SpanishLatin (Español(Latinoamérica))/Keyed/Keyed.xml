@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<!-- EN: Pharmacist -->
+  <Fluffy.Pharmacist>Pharmacist</Fluffy.Pharmacist>
+	<!-- EN: Not all wounds are equal; set guidelines for which medicine to use when. -->
+  <Fluffy.Pharmacist.Tip>No todas las heridas son iguales; establezca pautas sobre qué medicamento usar y en qué momento.</Fluffy.Pharmacist.Tip>
+
+	<!-- EN: Pharmacist settings -->
+  <Fluffy.Pharmacist.Settings.Title>Configuración</Fluffy.Pharmacist.Settings.Title>
+	<Fluffy.Pharmacist.Settings.Tip></Fluffy.Pharmacist.Settings.Tip>
+
+	<!-- EN: Colonists -->
+  <Fluffy.Pharmacist.Population.Colonist>Colonos</Fluffy.Pharmacist.Population.Colonist>
+	<!-- EN: Free members of your colony. -->
+  <Fluffy.Pharmacist.Population.Colonist.Desc>Colonos libres de tu colonia.</Fluffy.Pharmacist.Population.Colonist.Desc>
+	<!-- EN: Prisoners -->
+  <Fluffy.Pharmacist.Population.Prisoner>Prisioneros</Fluffy.Pharmacist.Population.Prisoner>
+	<!-- EN: Prisoners in your colony, regardless of faction. -->
+  <Fluffy.Pharmacist.Population.Prisoner.Desc>Prisioneros de tu colonia, independientemente de la facción.</Fluffy.Pharmacist.Population.Prisoner.Desc>
+	<!-- EN: Slaves -->
+  <Fluffy.Pharmacist.Population.Slave>Esclavos</Fluffy.Pharmacist.Population.Slave>
+	<!-- EN: Enslaved members of your colony. -->
+  <Fluffy.Pharmacist.Population.Slave.Desc>Enslavos de tu colonia.</Fluffy.Pharmacist.Population.Slave.Desc>
+	<!-- EN: Tamed animals -->
+  <Fluffy.Pharmacist.Population.Animal>Animales</Fluffy.Pharmacist.Population.Animal>
+	<!-- EN: Animals which have been tamed by your colony. -->
+  <Fluffy.Pharmacist.Population.Animal.Desc>Animales domésticos de tu colonia.</Fluffy.Pharmacist.Population.Animal.Desc>
+	<!-- EN: Entities -->
+  <Fluffy.Pharmacist.Population.Entity>Entidades</Fluffy.Pharmacist.Population.Entity>
+	<!-- EN: Anomalous entities and their variations. -->
+  <Fluffy.Pharmacist.Population.Entity.Desc>Entidades anómalas y sus variaciones.</Fluffy.Pharmacist.Population.Entity.Desc>
+	<!-- EN: Other -->
+  <Fluffy.Pharmacist.Population.Guest>Visitantes</Fluffy.Pharmacist.Population.Guest>
+	<!-- EN: Anything that doesn't fit into another category, such as guests or wildlife, will make use of these rules. -->
+  <Fluffy.Pharmacist.Population.Guest.Desc>Todo lo que no encaja en otra categoría, como invitados o fauna, hará uso de estas reglas.</Fluffy.Pharmacist.Population.Guest.Desc>
+
+	<!-- EN: Minor wounds -->
+  <Fluffy.Pharmacist.Severity.Minor>Heridas menores</Fluffy.Pharmacist.Severity.Minor>
+	<!-- EN: Major wounds -->
+  <Fluffy.Pharmacist.Severity.Major>Heridas mayores</Fluffy.Pharmacist.Severity.Major>
+	<!-- EN: Life-threatening wounds -->
+  <Fluffy.Pharmacist.Severity.LifeThreathening>Heridas mortales</Fluffy.Pharmacist.Severity.LifeThreathening>
+	<!-- EN: Operations -->
+  <Fluffy.Pharmacist.Severity.Operation>Operaciones</Fluffy.Pharmacist.Severity.Operation>
+	<!-- EN: Ongoing conditions -->
+  <Fluffy.Pharmacist.Severity.LongTerm>Condiciones crónicas</Fluffy.Pharmacist.Severity.LongTerm>
+
+	<!-- EN: Bruises, light bleeding, and other superficial injuries. -->
+  <Fluffy.Pharmacist.Severity.Minor.Tip>Moretones, enfermedades no mortales y pequeños cortes.</Fluffy.Pharmacist.Severity.Minor.Tip>
+	<!-- EN: Heavy bleeding or dangerous diseases. -->
+  <Fluffy.Pharmacist.Severity.Major.Tip>Grandes cortes y enfermedades potencialmente mortales.</Fluffy.Pharmacist.Severity.Major.Tip>
+	<!-- EN: Life-threatening wounds, heart attacks, and near-fatal diseases. -->
+  <Fluffy.Pharmacist.Severity.LifeThreathening.Tip>Heridas potencialmente mortales, ataques al corazón y enfermedades casi mortales.</Fluffy.Pharmacist.Severity.LifeThreathening.Tip>
+	<!-- EN: Any and all surgical operations, regardless of type. -->
+  <Fluffy.Pharmacist.Severity.Operation.Tip>Todas las operaciones, trasplantes y reemplazos de miembros.</Fluffy.Pharmacist.Severity.Operation.Tip>
+	<!-- EN: Non-urgent illnesses that need regular tending, such as blood rot and gut worms. Also includes chronic conditions like asthma. -->
+  <Fluffy.Pharmacist.Severity.LongTerm.Tip>Enfermedades crónicas que requieren atención regular, como la pudrición de sangre y gusanos intestinales. También incluye condiciones crónicas como el asma.</Fluffy.Pharmacist.Severity.LongTerm.Tip>
+
+	<!-- EN: Disease immunity margin: {0} -->
+  <Fluffy.Pharmacist.DiseaseMargin>Margen de inmunidad: {0}</Fluffy.Pharmacist.DiseaseMargin>
+	<!-- EN: Security margin used when treating diseases. \n\nIf immunity is lower than disease progress plus this margin (and severity is higher than the minimum threshold), the disease is treated as a life-threatening injury.\n\nFor example, if a disease has progressed 75%, immunity is at 80%, and the margin is 10%, the disease will be classed as life-threatening. If the threshold was 5%, the disease would be classed as a major injury instead. -->
+  <Fluffy.Pharmacist.DiseaseMargin.Tip>Margen de seguridad empleado en el tratamiento de enfermedades. \n\nSi la inmunidad es menor que la progresión de la enfermedad más este margen, la enfermedad se considerará una lesión potencialmente mortal.\n\nPor ejemplo, si una enfermedad ha progresado un 75%, la inmunidad está en un 80% y el margen es del 10%, la enfermedad se clasificará como potencialmente mortal. Si el margen fuera del 5%, la enfermedad se clasificaría como lesión grave.</Fluffy.Pharmacist.DiseaseMargin.Tip>
+	<!-- EN: Disease minimum severity threshold: {0} -->
+  <Fluffy.Pharmacist.DiseaseThreshold>Umbral de severidad mínima: {0}</Fluffy.Pharmacist.DiseaseThreshold>
+	<!-- EN: Minimum severity before a disease can be classed as potentially lethal. \n\nIf severity is higher than this threshold (and immunity is lower than the severity plus security margin), the disease is treated as a life-threathening injury. -->
+  <Fluffy.Pharmacist.DiseaseThreshold.Tip>Es el umbral de severidad que se debe superar para que una enfermedad pueda ser clasificada como potencialmente mortal. Si la severidad es mayor que este umbral (y la inmunidad es menor que la severidad más el margen de seguridad), la enfermedad se trata como una lesión potencialmente mortal.</Fluffy.Pharmacist.DiseaseThreshold.Tip>
+	<!-- EN: Infectable wounds threshold: {0} -->
+  <Fluffy.Pharmacist.MinorWoundsThreshold>Límite de cortes menores: {0}</Fluffy.Pharmacist.MinorWoundsThreshold>
+	<!-- EN: If the number of infection-causing wounds is greater than this threshold, they are treated as a major injury regardless of other factors. \n\nUseful to prevent 'death by a thousand cuts', where a large number of small cuts can cause multiple infections - and ultimately, death. -->
+  <Fluffy.Pharmacist.MinorWoundsThreshold.Tip>Si el número de cortes menores es mayor que este límite, se tratan como una lesión mayor, independientemente de la tasa de sangrado. \n\nÚtil para prevenir la "muerte por mil cortes", donde un gran número de pequeños cortes pueden causar múltiples infecciones y, en última instancia, la muerte.</Fluffy.Pharmacist.MinorWoundsThreshold.Tip>
+	<!-- EN: Search radius: {0} -->
+  <Fluffy.Pharmacist.SearchRadius>Radio de búsqueda: {0}</Fluffy.Pharmacist.SearchRadius>
+	<!-- EN: Doctors will only search for medicine within this radius. If none can be found, they will use only whatever they have in their inventory. -->
+  <Fluffy.Pharmacist.SearchRadius.Tip>Los médicos solo buscarán medicamentos dentro de este radio. Si no se encuentra ninguno, usarán solo lo que tengan en su inventario.</Fluffy.Pharmacist.SearchRadius.Tip>
+	<!-- EN: Unlimited -->
+  <Fluffy.Pharmacist.SearchRadius.Unlimited>Ilimitado</Fluffy.Pharmacist.SearchRadius.Unlimited>
+
+</LanguageData>

@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+    <!-- EN: Patch late-loading initialization code to show loading progress -->
+  <LoadingProgress.PatchInitialization>Parchear código de inicialización de carga tardía para mostrar el progreso de carga</LoadingProgress.PatchInitialization>
+    <!-- EN: When enabled, the mod will patch the part during RimWorld's startup process where the game typically hangs to make it more responsive. This allows the mod to track and display loading progress for each static constructor. This should not cause any problems unless you are running mods that very specifically have targeted this code and is very timing sensitive.\n\nIf you experience any issues with Loading Progress, try disabling this setting to see if it resolves the issue. -->
+  <LoadingProgress.PatchInitialization.Tip>Cuando está activado, el mod parcheará la parte del proceso de inicio de RimWorld donde el juego normalmente se cuelga para hacerlo más responsivo. Esto permite al mod rastrear y mostrar el progreso de carga para cada constructor estático. Esto no debería causar ningún problema a menos que estés usando mods que hayan apuntado muy específicamente a este código y sean muy sensibles al tiempo.\n\nSi experimentas algún problema con Loading Progress, intenta desactivar esta opción para ver si se resuelve el problema.</LoadingProgress.PatchInitialization.Tip>
+
+
+    <!-- EN: Patch content loading code to show loading progress -->
+  <LoadingProgress.PatchReloadContent>Parchear código de carga de contenido para mostrar el progreso de carga</LoadingProgress.PatchReloadContent>
+    <!-- EN: When enabled, the mod will replace the method that loads mod content to track and display loading progress for each content pack being reloaded. This should not cause any problems unless you are running mods that very specifically have targeted this code. The mod will log a warning if it detects any other mods patching this code.\n\nIf you experience any issues with Loading Progress, try disabling this setting to see if it resolves the issue. Feel free to report any problems you encounter with mods that triggered the warning message. -->
+  <LoadingProgress.PatchReloadContent.Tip>Cuando está activado, el mod reemplazará el método que carga el contenido de los mods para rastrear y mostrar el progreso de carga de cada paquete de contenido que se está recargando. Esto no debería causar ningún problema a menos que estés usando mods que hayan apuntado muy específicamente a este código. El mod registrará una advertencia si detecta que otros mods están parcheando este código.\n\nSi experimentas algún problema con Loading Progress, intenta desactivar esta opción para ver si se resuelve el problema. No dudes en informar cualquier problema que encuentres con mods que activaron el mensaje de advertencia.</LoadingProgress.PatchReloadContent.Tip>
+
+    <!-- EN: Show loading time -->
+  <LoadingProgress.LastLoadingTime>Mostrar tiempo de carga</LoadingProgress.LastLoadingTime>
+    <!-- EN: When enabled, the mod will display the time elapsed so far. Once the game has loaded at least once, it will store it for next time, and use it as the estimated loading time for the next loading session. -->
+  <LoadingProgress.LastLoadingTime.Tip>Cuando está activado, el mod mostrará el tiempo transcurrido hasta ahora. Una vez que el juego se haya cargado al menos una vez, lo guardará para la próxima vez y lo usará como el tiempo de carga estimado para la siguiente sesión de carga.</LoadingProgress.LastLoadingTime.Tip>
+    <!-- EN: Show loading time as countdown -->
+  <LoadingProgress.LoadingTimeAsCountDown>Mostrar tiempo de carga como cuenta regresiva</LoadingProgress.LoadingTimeAsCountDown>
+    <!-- EN: When enabled, the mod will display the loading time as a countdown, starting from the estimated loading time. This is useful to see how much time is left until the game is fully loaded. -->
+  <LoadingProgress.LoadingTimeAsCountDown.Tip>Cuando está activado, el mod mostrará el tiempo de carga como una cuenta regresiva, comenzando desde el tiempo de carga estimado. Esto es útil para ver cuánto tiempo queda hasta que el juego esté completamente cargado.</LoadingProgress.LoadingTimeAsCountDown.Tip>
+    <!-- EN:  - Show loading time progress bar -->
+  <LoadingProgress.LastLoadingTimeProgressBar> - Mostrar barra de progreso del tiempo de carga</LoadingProgress.LastLoadingTimeProgressBar>
+    <!-- EN: When enabled, the mod will show a progress bar during loading that indicates how much time has passed since the game started loading compared to the expected time. -->
+  <LoadingProgress.LastLoadingTimeProgressBar.Tip>Cuando está activado, el mod mostrará una barra de progreso durante la carga que indica cuánto tiempo ha pasado desde que el juego comenzó a cargar en comparación con el tiempo esperado.</LoadingProgress.LastLoadingTimeProgressBar.Tip>
+    <!-- EN: Show loading time in bottom-right corner of the main menu -->
+  <LoadingProgress.LastLoadingTimeInCorner>Mostrar tiempo de carga en la esquina inferior derecha del menú principal</LoadingProgress.LastLoadingTimeInCorner>
+    <!-- EN: When enabled, the mod will show the time it took to load the game in the bottom-right corner of the main menu. -->
+  <LoadingProgress.LastLoadingTimeInCorner.Tip>Cuando está activado, el mod mostrará el tiempo que tardó en cargar el juego en la esquina inferior derecha del menú principal.</LoadingProgress.LastLoadingTimeInCorner.Tip>
+    <!-- EN: Show Faster Game Loading's early mod content loading progress -->
+  <LoadingProgress.ShowFasterGameLoadingEarlyModContentLoading>Mostrar progreso de carga temprana de contenido de mods de Faster Game Loading</LoadingProgress.ShowFasterGameLoadingEarlyModContentLoading>
+    <!-- EN: When enabled, and Faster Game Loading is active, the mod will show an additional loading indicator for mod content that is loaded early during the game startup process. -->
+  <LoadingProgress.ShowFasterGameLoadingEarlyModContentLoading.Tip>Cuando está activado y Faster Game Loading está activo, el mod mostrará un indicador de carga adicional para el contenido de mods que se carga de forma temprana durante el proceso de inicio del juego.</LoadingProgress.ShowFasterGameLoadingEarlyModContentLoading.Tip>
+
+    <!-- EN: Loading window placement -->
+  <LoadingProgress.LoadingWindowPlacement>Ubicación de la ventana de carga</LoadingProgress.LoadingWindowPlacement>
+
+    <!-- EN: Top -->
+  <LoadingProgress.Top>Arriba</LoadingProgress.Top>
+    <!-- EN: Middle -->
+  <LoadingProgress.Middle>Medio</LoadingProgress.Middle>
+    <!-- EN: Bottom -->
+  <LoadingProgress.Bottom>Abajo</LoadingProgress.Bottom>
+    <!-- EN: Custom -->
+  <LoadingProgress.Custom>Personalizado</LoadingProgress.Custom>
+</LanguageData>

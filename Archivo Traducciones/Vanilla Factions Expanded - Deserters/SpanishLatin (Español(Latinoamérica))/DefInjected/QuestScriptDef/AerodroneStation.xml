@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>questDescription->Thanks to the intel we have obtained, we now know the location of an aerodrone station belonging to [empire_name]. These stations recharge and reload powerful aerodrones - autonomous, unmanned aerial vehicles that can bombard targets with powerful missile salvos.\n\nThese drones are a threat to everyone who disagrees with the Empire. They need to be destroyed.\n\nWe might find some useful supplies scattered around the station. It's crucial to remember that ammunition stacks and aerodrone batteries are highly volatile, and we might be able to use them to our advantage.\n\nThe aerodrone station is protected by:\n[forces_description]\n\nWe have also been informed that the location is protected by a number of ground-mounted striker turrets. Despite the limited range, these turrets can easily reveal our approach and provide covering fire for the imperial army.\n\nThe station is protected by surveillance pillars. They should not be approached, and instead should be disabled from afar - either by destroying them, or cutting off their power. Once activated, they will greatly increase our visibility.\n\nThe objective of this mission is to destroy all aerodrones currently stationed here by any means necessary.\n\nOnce we arrive at the station, we can expect an imperial response if our visibility is high enough. We will only have a limited amount of time to complete the mission.</li>
+  -->
+  <VFED_AerodroneStation.questDescriptionRules.rulesStrings>
+    <li>questDescription->Gracias a la inteligencia que hemos obtenido, ahora conocemos la ubicación de una estación de aerodrones perteneciente a [empire_name]. Estas estaciones recargan y reabastecen poderosos aerodrones: vehículos aéreos no tripulados autónomos que pueden bombardear objetivos con potentes salvas de misiles.\n\nEstos drones son una amenaza para todos los que no están de acuerdo con el Imperio. Necesitan ser destruidos.\n\nPodríamos encontrar algunos suministros útiles dispersos por la estación. Es crucial recordar que las pilas de municiones y las baterías de aerodrones son altamente volátiles, y podríamos usarlas a nuestro favor.\n\nLa estación de aerodrones está protegida por:\n[forces_description]\n\nTambién se nos ha informado que la ubicación está protegida por varias torretas striker montadas en el suelo. A pesar de su alcance limitado, estas torretas pueden revelar fácilmente nuestra aproximación y proporcionar fuego de cobertura para el ejército imperial.\n\nLa estación está protegida por pilares de vigilancia. No deben acercarse a ellos, sino que deben desactivarse desde lejos, ya sea destruyéndolos o cortando su energía. Una vez activados, aumentarán enormemente nuestra visibilidad.\n\nEl objetivo de esta misión es destruir todos los aerodrones actualmente estacionados aquí por cualquier medio necesario.\n\nUna vez que lleguemos a la estación, podemos esperar una respuesta imperial si nuestra visibilidad es lo suficientemente alta. Solo tendremos una cantidad limitada de tiempo para completar la misión.</li>
+  </VFED_AerodroneStation.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>questName->Aerodrone station sabotage</li>
+  -->
+  <VFED_AerodroneStation.questNameRules.rulesStrings>
+    <li>questName->Sabotaje a la estación de aerodrones</li>
+  </VFED_AerodroneStation.questNameRules.rulesStrings>
+    
+</LanguageData>
