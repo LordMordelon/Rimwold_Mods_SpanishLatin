@@ -1,0 +1,99 @@
+﻿﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Attraction -->
+  <TM_Attraction.label>atracción</TM_Attraction.label>
+  <!-- EN: Creates a large shadow well that draws all nearby pawns into its center. Shadows will cling to any creature affected by Attraction, drastically reducing their movement speed for a short time.\n\nCast time: 3s\nRange: 40\nCooldown: 60 -->
+  <TM_Attraction.description>Crea un gran pozo de sombras que atrae a todos los colonos cercanos a su centro. Las sombras se aferrarán a cualquier criatura afectada por Atracción, reduciendo drásticamente su velocidad de movimiento por un corto tiempo.\n\nTiempo de lanzamiento: 3s\nAlcance: 40\nEnfriamiento: 60</TM_Attraction.description>
+  
+  <!-- EN: Attraction -->
+  <TM_Attraction_I.label>atracción (I)</TM_Attraction_I.label>
+  <!-- EN: Creates a large shadow well that draws all nearby pawns into its center. Shadows will cling to any creature affected by Attraction, drastically reducing their movement speed for a short time.\n\nCast time: 2.6s\nRange: 45\nCooldown: 55 -->
+  <TM_Attraction_I.description>Crea un gran pozo de sombras que atrae a todos los colonos cercanos a su centro. Las sombras se aferrarán a cualquier criatura afectada por Atracción, reduciendo drásticamente su velocidad de movimiento por un corto tiempo.\n\nTiempo de lanzamiento: 2.6s\nAlcance: 45\nEnfriamiento: 55</TM_Attraction_I.description>
+  
+  <!-- EN: Attraction -->
+  <TM_Attraction_II.label>atracción (II)</TM_Attraction_II.label>
+  <!-- EN: Creates a large shadow well that draws all nearby pawns into its center. Shadows will cling to any creature affected by Attraction, drastically reducing their movement speed for a short time.\n\nCast time: 2.3s\nRange: 50\nCooldown: 50 -->
+  <TM_Attraction_II.description>Crea un gran pozo de sombras que atrae a todos los colonos cercanos a su centro. Las sombras se aferrarán a cualquier criatura afectada por Atracción, reduciendo drásticamente su velocidad de movimiento por un corto tiempo.\n\nTiempo de lanzamiento: 2.3s\nAlcance: 50\nEnfriamiento: 50</TM_Attraction_II.description>
+  
+  <!-- EN: Attraction -->
+  <TM_Attraction_III.label>atracción (III)</TM_Attraction_III.label>
+  <!-- EN: Creates a large shadow well that draws all nearby pawns into its center. Shadows will cling to any creature affected by Attraction, drastically reducing their movement speed for a short time.\n\nCast time: 2s\nRange: 55\nCooldown: 45 -->
+  <TM_Attraction_III.description>Crea un gran pozo de sombras que atrae a todos los colonos cercanos a su centro. Las sombras se aferrarán a cualquier criatura afectada por Atracción, reduciendo drásticamente su velocidad de movimiento por un corto tiempo.\n\nTiempo de lanzamiento: 2s\nAlcance: 55\nEnfriamiento: 45</TM_Attraction_III.description>
+  
+  <!-- EN: Dominate -->
+  <TM_Dominate.label>dominar</TM_Dominate.label>
+  <!-- EN: Command the shadow to envelope your enemies in a living nightmare that will surround them in their greatest fears. Nearby enemies close enough to witness the fear in a dominated pawn may also succumb to fear and allow the shadow to dominate their own mind.\n		\nWarlocks and Succubi dominate their foes in different ways. Warlocks will attempt to break the mind of their enemies, while a succubus will reduce the physical prowess of their victims. -->
+  <TM_Dominate.description>Ordena a la sombra que envuelva a tus enemigos en una pesadilla viviente que los rodeará en sus mayores miedos. Los enemigos cercanos lo suficientemente cerca como para presenciar el miedo en un colono dominado también pueden sucumbir al miedo y permitir que la sombra domine su propia mente.\n\nLos brujos y súcubos dominan a sus enemigos de diferentes maneras. Los Brujos intentarán romper la mente de sus enemigos, mientras que una súcubo reducirá la destreza física de sus víctimas.</TM_Dominate.description>
+  
+  <!-- EN: Psychic Shock -->
+  <TM_PsychicShock.label>choque psíquico</TM_PsychicShock.label>
+  <!-- EN: The Warlock removes all mental barriers and projects a powerful wave of psychic energy. Any pawns caught in the wave will be bombarded by psychic power and will briefly be subjected to the will of the Warlock. \n		\nThe Warlock who will use the minds of others to propagate the psychic wave. The Warlock will also attempt to destroy the mind of any enemy touched by psychic energy. Being subjected to this mental assault will disorient pawns for a short period and may even disorient the warlock if he is affected by reflected psychic energy. Psychic Shock receives a bonus based on the psychic sensitivity of the warlock and may fail to affect pawns with reduced psychic sensitivity. -->
+  <TM_PsychicShock.description>El Brujo elimina todas las barreras mentales y proyecta una poderosa ola de energía psíquica. Cualquier colono atrapado en la ola será bombardeado por poder psíquico y estará brevemente sujeto a la voluntad del Brujo.\n\nEl Brujo usará las mentes de otros para propagar la ola psíquica. El Brujo también intentará destruir la mente de cualquier enemigo tocado por la energía psíquica. Estar sujeto a este asalto mental desorientará a los colonos por un corto período e incluso puede desorientar al brujo si se ve afectado por la energía psíquica reflejada. Choque Psíquico recibe una bonificación basada en la sensibilidad psíquica del brujo y puede no afectar a los colonos con sensibilidad psíquica reducida.</TM_PsychicShock.description>
+  
+  <!-- EN: Repulsion -->
+  <TM_Repulsion.label>repulsión</TM_Repulsion.label>
+  <!-- EN: The Warlock generates a burst of energy at a target cell with enough force to launch nearby creatures away from the center.\n\nCast time: 1s\nRange: 40\nCooldown: 30s\nRadius: 5 -->
+  <TM_Repulsion.description>El Brujo genera una explosión de energía en una celda objetivo con suficiente fuerza para lanzar a las criaturas cercanas lejos del centro.\n\nTiempo de lanzamiento: 1s\nAlcance: 40\nEnfriamiento: 30s\nRadio: 5</TM_Repulsion.description>
+  
+  <!-- EN: Repulsion -->
+  <TM_Repulsion_I.label>repulsión (I)</TM_Repulsion_I.label>
+  <!-- EN: The Warlock generates a burst of energy at a target cell with enough force to launch nearby creatures away from the center.\n\nCast time: .8s\nRange: 47\nCooldown: 25s\nRadius: 6 -->
+  <TM_Repulsion_I.description>El Brujo genera una explosión de energía en una celda objetivo con suficiente fuerza para lanzar a las criaturas cercanas lejos del centro.\n\nTiempo de lanzamiento: .8s\nAlcance: 47\nEnfriamiento: 25s\nRadio: 6</TM_Repulsion_I.description>
+  
+  <!-- EN: Repulsion -->
+  <TM_Repulsion_II.label>repulsión (II)</TM_Repulsion_II.label>
+  <!-- EN: The Warlock generates a burst of energy at a target cell with enough force to launch nearby creatures away from the center.\n\nCast time: .6s\nRange: 54\nCooldown: 20s\nRadius: 7 -->
+  <TM_Repulsion_II.description>El Brujo genera una explosión de energía en una celda objetivo con suficiente fuerza para lanzar a las criaturas cercanas lejos del centro.\n\nTiempo de lanzamiento: .6s\nAlcance: 54\nEnfriamiento: 20s\nRadio: 7</TM_Repulsion_II.description>
+  
+  <!-- EN: Repulsion -->
+  <TM_Repulsion_III.label>repulsión (III)</TM_Repulsion_III.label>
+  <!-- EN: The Warlock generates a burst of energy at a target cell with enough force to launch nearby creatures away from the center.\n\nCast time: .5s\nRange: 60\nCooldown: 15s\nRadius: 8 -->
+  <TM_Repulsion_III.description>El Brujo genera una explosión de energía en una celda objetivo con suficiente fuerza para lanzar a las criaturas cercanas lejos del centro.\n\nTiempo de lanzamiento: .5s\nAlcance: 60\nEnfriamiento: 15s\nRadio: 8</TM_Repulsion_III.description>
+  
+  <!-- EN: Scorn -->
+  <TM_Scorn.label>desprecio</TM_Scorn.label>
+  <!-- EN: The succubus uses her demonic powers to partially transform into a winged demon, launching herself towards a distant location to crush her foes in a torrent of dark fury.\n		\nA succubus will retain her partial demon form for a short period after using this ability, granting her improved physical capacities and a damage shield. -->
+  <TM_Scorn.description>La súcubo usa sus poderes demoníacos para transformarse parcialmente en un demonio alado, lanzándose hacia una ubicación distante para aplastar a sus enemigos en un torrente de furia oscura.\n\nUna súcubo conservará su forma de demonio parcial por un corto período después de usar esta habilidad, otorgándole capacidades físicas mejoradas y un escudo de daño.</TM_Scorn.description>
+  
+  <!-- EN: Shadow Bolt -->
+  <TM_ShadowBolt.label>rayo de sombra</TM_ShadowBolt.label>
+  <!-- EN: Launches a Shadow Bolt. Any creature caught in its path is touched by the shadow. Upon impact, Shadow energy is released in a violent wave of darkness.\n		\nCast time: 2s\nCooldown : 20s\nRange: 40 -->
+  <TM_ShadowBolt.description>Lanza un Rayo de Sombra. Cualquier criatura atrapada en su camino es tocada por la sombra. Al impactar, la energía de Sombra se libera en una violenta ola de oscuridad.\n\nTiempo de lanzamiento: 2s\nEnfriamiento: 20s\nAlcance: 40</TM_ShadowBolt.description>
+  
+  <!-- EN: Shadow Bolt -->
+  <TM_ShadowBolt_I.label>rayo de sombra (I)</TM_ShadowBolt_I.label>
+  <!-- EN: Launches a Shadow Bolt. Any creature caught in its path is touched by the shadow. Upon impact, Shadow energy is released in a violent wave of darkness.\n		\nCast time: 1.8s\nCooldown : 18s\nRange: 45 -->
+  <TM_ShadowBolt_I.description>Lanza un Rayo de Sombra. Cualquier criatura atrapada en su camino es tocada por la sombra. Al impactar, la energía de Sombra se libera en una violenta ola de oscuridad.\n\nTiempo de lanzamiento: 1.8s\nEnfriamiento: 18s\nAlcance: 45</TM_ShadowBolt_I.description>
+  
+  <!-- EN: Shadow Bolt -->
+  <TM_ShadowBolt_II.label>rayo de sombra (II)</TM_ShadowBolt_II.label>
+  <!-- EN: Launches a Shadow Bolt. Any creature caught in its path is touched by the shadow. Upon impact, Shadow energy is released in a violent wave of darkness.\n		\nCast time: 1.6s\nCooldown : 16s\nRange: 50 -->
+  <TM_ShadowBolt_II.description>Lanza un Rayo de Sombra. Cualquier criatura atrapada en su camino es tocada por la sombra. Al impactar, la energía de Sombra se libera en una violenta ola de oscuridad.\n\nTiempo de lanzamiento: 1.6s\nEnfriamiento: 16s\nAlcance: 50</TM_ShadowBolt_II.description>
+  
+  <!-- EN: Shadow Bolt -->
+  <TM_ShadowBolt_III.label>rayo de sombra (III)</TM_ShadowBolt_III.label>
+  <!-- EN: Launches a Shadow Bolt. Any creature caught in its path is touched by the shadow. Upon impact, Shadow energy is released in a violent wave of darkness.\n		\nCast time: 1.5s\nCooldown : 15s\nRange: 55 -->
+  <TM_ShadowBolt_III.description>Lanza un Rayo de Sombra. Cualquier criatura atrapada en su camino es tocada por la sombra. Al impactar, la energía de Sombra se libera en una violenta ola de oscuridad.\n\nTiempo de lanzamiento: 1.5s\nEnfriamiento: 15s\nAlcance: 55</TM_ShadowBolt_III.description>
+  
+  <!-- EN: Shadow Call -->
+  <TM_ShadowCall.label>llamada de sombra</TM_ShadowCall.label>
+  <!-- EN: Commands the soul of a bonded host to travel to your location. -->
+  <TM_ShadowCall.description>Ordena al alma de un anfitrión vinculado que viaje a tu ubicación.</TM_ShadowCall.description>
+  
+  <!-- EN: Shadow Step -->
+  <TM_ShadowStep.label>paso de sombra</TM_ShadowStep.label>
+  <!-- EN: Step through shadow to the location of your soul bonded host. -->
+  <TM_ShadowStep.description>Pasa a través de la sombra hasta la ubicación de tu anfitrión vinculado por el alma.</TM_ShadowStep.description>
+  
+  <!-- EN: SoulBond -->
+  <TM_SoulBond.label>vínculo de alma</TM_SoulBond.label>
+  <!-- EN: Demons, or those possessing the power of a demon, can creates a soul bond (soul contract) with another pawn who will sustain (or host) the bond. The bond provides energy from the soul of the host to the demonkin, in exchange, the emotions of the host are washed away in bliss. The soul bond also creates a link that allows the demonkin to travel to, or summon, the host.\n		\nThe soul bond contract may be canceled at any time by the demonkin by re-using the ability on the current host. Creating a soul bond with another host will cancel any previous contracts. The contract will also end if either party dies or is destroyed. \n\nSuccubi and Warlocks form distinct types of soul bonds - warlocks bonds are mentally reciprocal while a succubus bonds are physical in nature. Demonkin can only sustain a single bond; hosts can only sustain a single bond of each type (mental/physical). -->
+  <TM_SoulBond.description>Los demonios, o aquellos que poseen el poder de un demonio, pueden crear un vínculo de alma (contrato de alma) con otro colono que sostendrá (o hospedará) el vínculo. El vínculo proporciona energía del alma del anfitrión al demonio, a cambio, las emociones del anfitrión se lavan en dicha. El vínculo de alma también crea un enlace que permite al demonio viajar hacia, o invocar, al anfitrión.\n\nEl contrato de vínculo de alma puede ser cancelado en cualquier momento por el demonio reutilizando la habilidad en el anfitrión actual. Crear un vínculo de alma con otro anfitrión cancelará cualquier contrato anterior. El contrato también terminará si cualquiera de las partes muere o es destruida.\n\nLos Súcubos y Brujos forman distintos tipos de vínculos de alma: los vínculos de los brujos son mentalmente recíprocos mientras que los vínculos de una súcubo son de naturaleza física. Los demonios solo pueden sostener un solo vínculo; los anfitriones solo pueden sostener un solo vínculo de cada tipo (mental/físico).</TM_SoulBond.description>
+  
+  <!-- EN: Summon Demon -->
+  <TM_SummonDemon.label>invocar demonio</TM_SummonDemon.label>
+  <!-- EN: Manifest true demonic power through the manipulation of both physical and mental soul bonds. This dark power exacts a heavy toll and its use should only be considered under dire circumstances.\n \nThe summoning is initiated when a Succubus anchors the physical offering and is completed when a Warlock finalizes the terms of the demonic contract. -->
+  <TM_SummonDemon.description>Manifiesta el verdadero poder demoníaco a través de la manipulación de vínculos de alma tanto físicos como mentales. Este poder oscuro cobra un alto precio y su uso solo debe considerarse en circunstancias extremas.\n\nLa invocación se inicia cuando una Súcubo ancla la ofrenda física y se completa cuando un Brujo finaliza los términos del contrato demoníaco.</TM_SummonDemon.description>
+  
+</LanguageData>

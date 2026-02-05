@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Stone compactor -->
+  <TM_Golem_StoneCompactor.label>compactador de piedra</TM_Golem_StoneCompactor.label>
+  <!-- EN: Allows the golem the ability to crush stone chunks into usable bricks. This process occurs on its own after the stone chunks are deposited into the golem, and requires the golem to be in it's dormant state. -->
+  <TM_Golem_StoneCompactor.description>Permite al gólem la capacidad de triturar trozos de piedra en ladrillos utilizables. Este proceso ocurre por sí solo después de que los trozos de piedra se depositan en el gólem, y requiere que el gólem esté en su estado inactivo.</TM_Golem_StoneCompactor.description>
+  
+  <!-- EN: energy efficiency -->
+  <TM_Golem_StoneEnergyEfficiency.label>eficiencia energética</TM_Golem_StoneEnergyEfficiency.label>
+  <!-- EN: Increases energy efficiency by 10% per level. Starting energy efficiency is 50%. -->
+  <TM_Golem_StoneEnergyEfficiency.description>Aumenta la eficiencia energética en un 10% por nivel. La eficiencia energética inicial es del 50%.</TM_Golem_StoneEnergyEfficiency.description>
+  
+  <!-- EN: energy regeneration -->
+  <TM_Golem_StoneEnergyRate.label>regeneración de energía</TM_Golem_StoneEnergyRate.label>
+  <!-- EN: Increases energy charge rate by 20% per level. Starting recharge rate is 20 energy/hour. -->
+  <TM_Golem_StoneEnergyRate.description>Aumenta la tasa de carga de energía en un 20% por nivel. La tasa de recarga inicial es de 20 de energía/hora.</TM_Golem_StoneEnergyRate.description>
+  
+  <!-- EN: hardening -->
+  <TM_Golem_StoneHardening.label>endurecimiento</TM_Golem_StoneHardening.label>
+  <!-- EN: Increases overall protection:\nBlunt:	+[4,8,12]%\nSharp:	+[11,22,33]%\nHeat:	+[6,12,18]% -->
+  <TM_Golem_StoneHardening.description>Aumenta la protección general:\nContundente: +[4,8,12]%\nFilo: +[11,22,33]%\nCalor: +[6,12,18]%</TM_Golem_StoneHardening.description>
+  
+  <!-- EN: frame tier -->
+  <TM_Golem_StoneLifeStage.label>nivel de marco</TM_Golem_StoneLifeStage.label>
+  <!-- EN: Increases stats:\nMovement:	+[10%/20%/30%]\nHealth:		+[40%/70%/100%] -->
+  <TM_Golem_StoneLifeStage.description>Aumenta las estadísticas:\nMovimiento: +[10%/20%/30%]\nSalud: +[40%/70%/100%]</TM_Golem_StoneLifeStage.description>
+  
+  <!-- EN: energy storage -->
+  <TM_Golem_StoneMaxEnergy.label>almacenamiento de energía</TM_Golem_StoneMaxEnergy.label>
+  <!-- EN: Increases maximum energy by 120 per level. Starting max energy is 800. -->
+  <TM_Golem_StoneMaxEnergy.description>Aumenta la energía máxima en 120 por nivel. La energía máxima inicial es 800.</TM_Golem_StoneMaxEnergy.description>
+  
+  <!-- EN: restore part -->
+  <TM_Golem_StoneRepair.label>restaurar parte</TM_Golem_StoneRepair.label>
+  
+  <!-- EN: making -->
+  <TM_Golem_StoneToBricks.label>fabricando</TM_Golem_StoneToBricks.label>
+  <!-- EN: Converts stone chucks into bricks over time -->
+  <TM_Golem_StoneToBricks.description>Convierte trozos de piedra en ladrillos con el tiempo</TM_Golem_StoneToBricks.description>
+  
+</LanguageData>

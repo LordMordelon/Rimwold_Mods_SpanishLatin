@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Dismiss Earth Sprites -->
+  <TM_DismissEarthSprites.label>disipar espíritus de la tierra</TM_DismissEarthSprites.label>
+  <!-- EN: Dismisses a active earth sprite. -->
+  <TM_DismissEarthSprites.description>Disipa un espíritu de la tierra activo.</TM_DismissEarthSprites.description>
+  
+  <!-- EN: Dispel Stoneskin -->
+  <TM_DispelStoneskin.label>disipar piel de piedra</TM_DispelStoneskin.label>
+  <!-- EN: Dispels all instances of stoneskin maintained by this pawn. -->
+  <TM_DispelStoneskin.description>Disipa todas las instancias de piel de piedra mantenidas por este colono.</TM_DispelStoneskin.description>
+  
+  <!-- EN: Earthern Hammer -->
+  <TM_EarthernHammer.label>martillo terrenal</TM_EarthernHammer.label>
+  <!-- EN: The geomancer manipulates the laws of gravity to catapult massive stones from the surrounding earth. The amount of gravitational energy reversed is finite; nearby surface stones require minimal energy while subterranean stones require significantly more.\n		\nThe first, and every third stone after, will always be subterranean unless there is insufficient gravitational energy in which case the geomancer will attempt to use the remaining energy throwing nearby stones. The extreme shift in gravity will temporarily disorient the geomancer. -->
+  <TM_EarthernHammer.description>El geomante manipula las leyes de la gravedad para catapultar piedras masivas de la tierra circundante. La cantidad de energía gravitacional invertida es finita; las piedras superficiales cercanas requieren una energía mínima mientras que las piedras subterráneas requieren significativamente más.\n\nLa primera, y cada tercera piedra después, siempre será subterránea a menos que haya energía gravitacional insuficiente, en cuyo caso el geomante intentará usar la energía restante lanzando piedras cercanas. El cambio extremo en la gravedad desorientará temporalmente al geomante.</TM_EarthernHammer.description>
+  
+  <!-- EN: Earth Sprites -->
+  <TM_EarthSprites.label>espíritus de la tierra</TM_EarthSprites.label>
+  <!-- EN: Calls forth earth sprites to transform the terrain. Sprites appear as flecks of light and can easily be missed by the inattentive, but they are diligent workers capable of breaking rock or stone down into its base component or increase the richness and fertility of soil. \n		\nOnce summoned, they will continue to work on the terrain, even moving to nearby area's, until dismissed by the geomancer. Earth sprites only understand basic instructions and will move randomly to a new area to continue their work; if no nearby area needs work, the summoning will end. If earth sprites are summoned into an area named "earth sprites" then they will only move to nearby cells within this area.\n\nIn exchange for their efforts, earth sprites expect a steady and substantial supply of mana. If the geomancer fails to meet this request, the earth sprites will fade away. Each geomancer can only request the help of a single earth sprite, regardless of how much mana they have. -->
+  <TM_EarthSprites.description>Invoca espíritus de la tierra para transformar el terreno. Los espíritus aparecen como motas de luz y pueden ser pasados por alto fácilmente por los distraídos, pero son trabajadores diligentes capaces de romper roca o piedra en sus componentes base o aumentar la riqueza y fertilidad del suelo.\n\nUna vez invocados, continuarán trabajando en el terreno, incluso moviéndose a áreas cercanas, hasta que sean disipados por el geomante. Los espíritus de la tierra solo entienden instrucciones básicas y se moverán aleatoriamente a una nueva área para continuar su trabajo; si ninguna área cercana necesita trabajo, la invocación terminará. Si los espíritus de la tierra son invocados en un área llamada "earth sprites" (espíritus de la tierra), entonces solo se moverán a celdas cercanas dentro de esta área.\n\nA cambio de sus esfuerzos, los espíritus de la tierra esperan un suministro constante y sustancial de maná. Si el geomante no cumple con esta solicitud, los espíritus de la tierra se desvanecerán. Cada geomante solo puede solicitar la ayuda de un solo espíritu de la tierra, independientemente de cuánto maná tenga.</TM_EarthSprites.description>
+  
+  <!-- EN: Encase -->
+  <TM_Encase.label>encerrar</TM_Encase.label>
+  <!-- EN: Encloses a target area in a ring of stone, effective at isolating sections of the battlefield.\n\nRadius: 3\nRange: 50\nCast time: 1.5s -->
+  <TM_Encase.description>Encierra un área objetivo en un anillo de piedra, eficaz para aislar secciones del campo de batalla.\n\nRadio: 3\nAlcance: 50\nTiempo de lanzamiento: 1.5s</TM_Encase.description>
+  
+  <!-- EN: Encase I -->
+  <TM_Encase_I.label>encerrar (I)</TM_Encase_I.label>
+  <!-- EN: Encloses a target area in a ring of stone, effective at isolating sections of the battlefield.\n		\nRadius: 4\nRange: 55\nCast time: 1.3s -->
+  <TM_Encase_I.description>Encierra un área objetivo en un anillo de piedra, eficaz para aislar secciones del campo de batalla.\n\nRadio: 4\nAlcance: 55\nTiempo de lanzamiento: 1.3s</TM_Encase_I.description>
+  
+  <!-- EN: Encase II -->
+  <TM_Encase_II.label>encerrar (II)</TM_Encase_II.label>
+  <!-- EN: Encloses a target area in a ring of stone, effective at isolating sections of the battlefield.\n		\nRadius: 5\nRange: 60\nCast time: 1.1s -->
+  <TM_Encase_II.description>Encierra un área objetivo en un anillo de piedra, eficaz para aislar secciones del campo de batalla.\n\nRadio: 5\nAlcance: 60\nTiempo de lanzamiento: 1.1s</TM_Encase_II.description>
+  
+  <!-- EN: Encase III -->
+  <TM_Encase_III.label>encerrar (III)</TM_Encase_III.label>
+  <!-- EN: Encloses a target area in a ring of stone, effective at isolating sections of the battlefield.\n		\nRadius: 6\nRange: 65\nCast time: 1.0s -->
+  <TM_Encase_III.description>Encierra un área objetivo en un anillo de piedra, eficaz para aislar secciones del campo de batalla.\n\nRadio: 6\nAlcance: 65\nTiempo de lanzamiento: 1.0s</TM_Encase_III.description>
+  
+  <!-- EN: Meteor -->
+  <TM_Meteor.label>meteoro</TM_Meteor.label>
+  <!-- EN: Collects rock, dust, and debris from the atmosphere and space and forms it into a meteorite. The geomancer directs its descent to bury a target location.\n		\nThe core of the meteorite is always composed of valuable material.\n\nRadius: 2\nCast time: 5s -->
+  <TM_Meteor.description>Recolecta roca, polvo y escombros de la atmósfera y el espacio y los forma en un meteorito. El geomante dirige su descenso para enterrar una ubicación objetivo.\n\nEl núcleo del meteorito siempre está compuesto de material valioso.\n\nRadio: 2\nTiempo de lanzamiento: 5s</TM_Meteor.description>
+  
+  <!-- EN: Meteor I -->
+  <TM_Meteor_I.label>meteoro (I)</TM_Meteor_I.label>
+  <!-- EN: Collects rock, dust, and debris from the atmosphere and space and forms it into a meteorite. The geomancer directs its descent to bury a target location.\n		\nThe core of the meteorite is always composed of valuable material.\n\nRadius: 3\nCast time: 4.6s -->
+  <TM_Meteor_I.description>Recolecta roca, polvo y escombros de la atmósfera y el espacio y los forma en un meteorito. El geomante dirige su descenso para enterrar una ubicación objetivo.\n\nEl núcleo del meteorito siempre está compuesto de material valioso.\n\nRadio: 3\nTiempo de lanzamiento: 4.6s</TM_Meteor_I.description>
+  
+  <!-- EN: Meteor II -->
+  <TM_Meteor_II.label>meteoro (II)</TM_Meteor_II.label>
+  <!-- EN: Collects rock, dust, and debris from the atmosphere and space and forms it into a meteorite. The geomancer directs its descent to bury a target location.\n		\nThe core of the meteorite is always composed of valuable material.\n\nRadius: 4\nCast time: 4.2s -->
+  <TM_Meteor_II.description>Recolecta roca, polvo y escombros de la atmósfera y el espacio y los forma en un meteorito. El geomante dirige su descenso para enterrar una ubicación objetivo.\n\nEl núcleo del meteorito siempre está compuesto de material valioso.\n\nRadio: 4\nTiempo de lanzamiento: 4.2s</TM_Meteor_II.description>
+  
+  <!-- EN: Meteor III -->
+  <TM_Meteor_III.label>meteoro (III)</TM_Meteor_III.label>
+  <!-- EN: Collects rock, dust, and debris from the atmosphere and space and forms it into a meteorite. The geomancer directs its descent to bury a target location.\n		\nThe core of the meteorite is always composed of valuable material.\n\nRadius: 5\nCast time: 3.8s -->
+  <TM_Meteor_III.description>Recolecta roca, polvo y escombros de la atmósfera y el espacio y los forma en un meteorito. El geomante dirige su descenso para enterrar una ubicación objetivo.\n\nEl núcleo del meteorito siempre está compuesto de material valioso.\n\nRadio: 5\nTiempo de lanzamiento: 3.8s</TM_Meteor_III.description>
+  
+  <!-- EN: Sentinel -->
+  <TM_Sentinel.label>centinela</TM_Sentinel.label>
+  <!-- EN: Creates a stone sentinel to defend an area. Sentinels will remain dormant until an enemy is within range, then they will break free of their stone prison to defend their terrain.\n		\nUsing this ability on a dormant sentinel will dismiss the sentinel. Each sentinel reduces max MP by 20.\n\n*Aesthetic note: sentinels will always face away from the caster. -->
+  <TM_Sentinel.description>Crea un centinela de piedra para defender un área. Los centinelas permanecerán inactivos hasta que un enemigo esté dentro del alcance, luego se liberarán de su prisión de piedra para defender su terreno.\n\nUsar esta habilidad en un centinela inactivo disipará al centinela. Cada centinela reduce el MP máximo en 20.\n\n*Nota estética: los centinelas siempre mirarán en dirección opuesta al lanzador.</TM_Sentinel.description>
+  
+  <!-- EN: Shatter Sentinel -->
+  <TM_ShatterSentinel.label>destrozar centinela</TM_ShatterSentinel.label>
+  <!-- EN: All sentinels maintained by this pawn are shattered in a violent eruption. -->
+  <TM_ShatterSentinel.description>Todos los centinelas mantenidos por este colono se hacen añicos en una erupción violenta.</TM_ShatterSentinel.description>
+  
+  <!-- EN: Stoneskin -->
+  <TM_Stoneskin.label>piel de piedra</TM_Stoneskin.label>
+  <!-- EN: Applies stoneskin to the target pawn. Each charge of stoneskin absorbs a single attack, regardless of how powerful, or weak, the attack is. Stoneskin is an unsubstantial defense, meaning the defensive measures it employs are not physical and will not interfere with the combat capabilities of its ward.\n		\nStoneskin requires a constant reserve of mana to maintain, each application will reduce the casters maximum mana by 15. The caster can only maintain a limited number of stoneskin instances regardless of how much mana the caster has available.\n\nApplying stoneskin to a target that already has stoneskin will remove all charges of stoneskin on the target and dissipate the spell (returning mana reserves back to the caster). -->
+  <TM_Stoneskin.description>Aplica piel de piedra al colono objetivo. Cada carga de piel de piedra absorbe un solo ataque, independientemente de cuán poderoso o débil sea el ataque. Piel de piedra es una defensa insustancial, lo que significa que las medidas defensivas que emplea no son físicas y no interferirán con las capacidades de combate de su protegido.\n\nPiel de piedra requiere una reserva constante de maná para mantenerse, cada aplicación reducirá el maná máximo del lanzador en 15. El lanzador solo puede mantener un número limitado de instancias de piel de piedra independientemente de cuánto maná tenga disponible el lanzador.\n\nAplicar piel de piedra a un objetivo que ya tiene piel de piedra eliminará todas las cargas de piel de piedra en el objetivo y disipará el hechizo (devolviendo las reservas de maná al lanzador).</TM_Stoneskin.description>
+  
+</LanguageData>

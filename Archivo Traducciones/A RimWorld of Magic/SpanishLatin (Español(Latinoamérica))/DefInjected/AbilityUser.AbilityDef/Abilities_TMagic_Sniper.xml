@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Anti-Armor -->
+  <TM_AntiArmor.label>anti-armadura</TM_AntiArmor.label>
+  <!-- EN: The sniper carries anti armor rounds for those special occasions. When this ammunition shatters, it releases nanites that will shred any armor they make contact with. Relatively ineffective against soft targets but does extra damage to armored targets, as long as the resistance on impact activates the nanites. Armored targets may be any mechanoid or a target with a Sharp armor rating above 100%. -->
+  <TM_AntiArmor.description>El francotirador lleva munición anti-armadura para esas ocasiones especiales. Cuando esta munición se rompe, libera nanitos que triturarán cualquier armadura con la que entren en contacto. Relativamente ineficaz contra objetivos blandos pero hace daño extra a objetivos blindados, siempre que la resistencia al impacto active los nanitos. Los objetivos blindados pueden ser cualquier mecanoide o un objetivo con un índice de armadura Afilada superior al 100%.</TM_AntiArmor.description>
+  
+  <!-- EN: Disabling Shot -->
+  <TM_DisablingShot.label>disparo incapacitante</TM_DisablingShot.label>
+  <!-- EN: A shot that aims to disable the opponent rather than kill. The sniper fires non-lethal rounds that release a jolt of electricity, briefly paralyzing the target for several seconds. Armored targets are unaffected.\n	\nRange: 20\nFiring Delay: 2.5s\nRecharge 45s -->
+  <TM_DisablingShot.description>Un disparo que tiene como objetivo incapacitar al oponente en lugar de matar. El francotirador dispara rondas no letales que liberan una descarga de electricidad, paralizando brevemente al objetivo durante varios segundos. Los objetivos blindados no se ven afectados.\n\nAlcance: 20\nRetardo de disparo: 2.5s\nRecarga 45s</TM_DisablingShot.description>
+  
+  <!-- EN: Disabling Shot (I) -->
+  <TM_DisablingShot_I.label>disparo incapacitante (I)</TM_DisablingShot_I.label>
+  <!-- EN: A shot that aims to disable the opponent rather than kill. The sniper fires non-lethal rounds that release a jolt of electricity, briefly paralyzing the target for several seconds. Armored targets are unaffected.\n	\nRange: 22\nFiring Delay: 2.3s\nRecharge 43s -->
+  <TM_DisablingShot_I.description>Un disparo que tiene como objetivo incapacitar al oponente en lugar de matar. El francotirador dispara rondas no letales que liberan una descarga de electricidad, paralizando brevemente al objetivo durante varios segundos. Los objetivos blindados no se ven afectados.\n\nAlcance: 22\nRetardo de disparo: 2.3s\nRecarga 43s</TM_DisablingShot_I.description>
+  
+  <!-- EN: Disabling Shot (II) -->
+  <TM_DisablingShot_II.label>disparo incapacitante (II)</TM_DisablingShot_II.label>
+  <!-- EN: A shot that aims to disable the opponent rather than kill. The sniper fires non-lethal rounds that release a jolt of electricity, briefly paralyzing the target for several seconds. Armored targets are unaffected.\n	\nRange: 25\nFiring Delay: 2.1s\nRecharge 41s -->
+  <TM_DisablingShot_II.description>Un disparo que tiene como objetivo incapacitar al oponente en lugar de matar. El francotirador dispara rondas no letales que liberan una descarga de electricidad, paralizando brevemente al objetivo durante varios segundos. Los objetivos blindados no se ven afectados.\n\nAlcance: 25\nRetardo de disparo: 2.1s\nRecarga 41s</TM_DisablingShot_II.description>
+  
+  <!-- EN: Disabling Shot (III) -->
+  <TM_DisablingShot_III.label>disparo incapacitante (III)</TM_DisablingShot_III.label>
+  <!-- EN: A shot that aims to disable the opponent rather than kill. The sniper fires non-lethal rounds that release a jolt of electricity, briefly paralyzing the target for several seconds. Armored targets are unaffected.\n	\nRange: 27\nFiring Delay: 2s\nRecharge 40s -->
+  <TM_DisablingShot_III.description>Un disparo que tiene como objetivo incapacitar al oponente en lugar de matar. El francotirador dispara rondas no letales que liberan una descarga de electricidad, paralizando brevemente al objetivo durante varios segundos. Los objetivos blindados no se ven afectados.\n\nAlcance: 27\nRetardo de disparo: 2s\nRecarga 40s</TM_DisablingShot_III.description>
+  
+  <!-- EN: Headshot -->
+  <TM_Headshot.label>disparo a la cabeza</TM_Headshot.label>
+  <!-- EN: A lethal shot that targets a vital bodypart like the head or heart. Effective on non-humanoids and humanoids alike. Headshot success chance is reduced against targets with thick armor protecting their vital organs. -->
+  <TM_Headshot.description>Un disparo letal que apunta a una parte vital del cuerpo como la cabeza o el corazón. Efectivo tanto en no humanoides como en humanoides. La probabilidad de éxito del disparo a la cabeza se reduce contra objetivos con armadura gruesa que protege sus órganos vitales.</TM_Headshot.description>
+  
+  <!-- EN: Shadow Slayer -->
+  <TM_ShadowSlayer.label>asesino de las sombras</TM_ShadowSlayer.label>
+  <!-- EN: A trained sniper is an expert at stealth and positioning, and knows the right time and place to strike. \n\nThe shadow slayer cloaking field is a long duration form of invisibility. Unlike normal cloaking technology, this stealth field relies heavily on a form of predictive cloaking that rapidly wears off when the user performs rapid or violent actions (such as firing a weapon). -->
+  <TM_ShadowSlayer.description>Un francotirador entrenado es un experto en sigilo y posicionamiento, y conoce el momento y lugar adecuados para atacar.\n\nEl campo de camuflaje del asesino de las sombras es una forma de invisibilidad de larga duración. A diferencia de la tecnología de camuflaje normal, este campo de sigilo depende en gran medida de una forma de camuflaje predictivo que desaparece rápidamente cuando el usuario realiza acciones rápidas o violentas (como disparar un arma).</TM_ShadowSlayer.description>
+  
+  <!-- EN: Sniper Training -->
+  <TM_SniperFocus.label>entrenamiento de francotirador</TM_SniperFocus.label>
+  <!-- EN: Training that improves technique and status as sniper. Each level will change the trait of the sniper to reflect their skill level.\n	\nRanks:\nSharpshooter: Speed +0.1c/s, Aiming Delay -10%, Shooting Acc. +2%, Research and work speed -10%, tame and train animal -10%\nSniper: Speed +0.15c/s, Aiming Delay -15%, Shooting Acc. +4%, Research and work speed -13%, tame and train animal -13%\nMaster Sniper: Speed +0.2c/s, Aiming Delay -22%, Shooting Acc. +6%, Research and work speed -15%, tame and train animal -15%\nLegendary Sniper: Speed +0.25c/s, Aiming Delay -30%, Shooting Acc. +8%, Research and work speed -16%, tame and train animal -16% -->
+  <TM_SniperFocus.description>Entrenamiento que mejora la técnica y el estatus como francotirador. Cada nivel cambiará el rasgo del francotirador para reflejar su nivel de habilidad.\n\nRangos:\nTirador: Velocidad +0.1c/s, Retardo de puntería -10%, Precisión de disparo +2%, Velocidad de investigación y trabajo -10%, domesticar y entrenar animal -10%\nFrancotirador: Velocidad +0.15c/s, Retardo de puntería -15%, Precisión de disparo +4%, Velocidad de investigación y trabajo -13%, domesticar y entrenar animal -13%\nMaestro francotirador: Velocidad +0.2c/s, Retardo de puntería -22%, Precisión de disparo +6%, Velocidad de investigación y trabajo -15%, domesticar y entrenar animal -15%\nFrancotirador legendario: Velocidad +0.25c/s, Retardo de puntería -30%, Precisión de disparo +8%, Velocidad de investigación y trabajo -16%, domesticar y entrenar animal -16%</TM_SniperFocus.description>
+  
+</LanguageData>

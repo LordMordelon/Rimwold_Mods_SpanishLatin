@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Hardening -->
+    <TM_WoodGolem_Armor.label>endurecimiento</TM_WoodGolem_Armor.label>
+  <!-- EN: Each upgrade increases the armor of the golem:\nBlunt:\t+[9,17,23]%\nSharp:\t+[8,15,21]%\nHeat:\t+[4,7,10]% -->
+    <TM_WoodGolem_Armor.description>Cada mejora incrementa la armadura del gólem:\nContundente:\t+[9,17,23]%\nCortante:\t+[8,15,21]%\nCalor:\t+[4,7,10]%</TM_WoodGolem_Armor.description>
+  <!-- EN: crafting golem part -->
+    <TM_WoodGolem_Armor.jobString>Fabricando parte de gólem.</TM_WoodGolem_Armor.jobString>
+  
+  <!-- EN: energy converter -->
+  <TM_WoodGolem_EnergyConverter.label>convertidor de energía</TM_WoodGolem_EnergyConverter.label>
+  <!-- EN: Increases the efficiency of energy absorbed and used by the golem by 5%. -->
+  <TM_WoodGolem_EnergyConverter.description>Aumenta la eficiencia de la energía absorbida y usada por el gólem en 5%.</TM_WoodGolem_EnergyConverter.description>
+  <!-- EN: constructing energy converter -->
+  <TM_WoodGolem_EnergyConverter.jobString>Construyendo convertidor de energía.</TM_WoodGolem_EnergyConverter.jobString>
+  
+  <!-- EN: energy cell -->
+  <TM_WoodGolem_EnergyMax.label>celda de energía</TM_WoodGolem_EnergyMax.label>
+  <!-- EN: Creates an energy cell that increases maximum energy by 100 per cell. -->
+  <TM_WoodGolem_EnergyMax.description>Crea una celda de energía que aumenta la energía máxima en 100 por celda.</TM_WoodGolem_EnergyMax.description>
+  <!-- EN: creating energy cell -->
+  <TM_WoodGolem_EnergyMax.jobString>Creando celda de energía.</TM_WoodGolem_EnergyMax.jobString>
+  
+  <!-- EN: energy generator -->
+  <TM_WoodGolem_EnergyRegen.label>generador de energía</TM_WoodGolem_EnergyRegen.label>
+  <!-- EN: Increases the energy regeneration rate of the golem by 15% per hour. -->
+  <TM_WoodGolem_EnergyRegen.description>Aumenta la tasa de regeneración de energía del gólem en 15% por hora.</TM_WoodGolem_EnergyRegen.description>
+  <!-- EN: constructing energy generator -->
+  <TM_WoodGolem_EnergyRegen.jobString>Construyendo generador de energía.</TM_WoodGolem_EnergyRegen.jobString>
+  
+  <!-- EN: frame tier -->
+  <TM_WoodGolem_LifeStage.label>nivel de armazón</TM_WoodGolem_LifeStage.label>
+  <!-- EN: Improves and refines the golem's frame each level [1,2,3]:\nMovement:	+[20/30/40]%\nHealth:		+[20/40/60]% -->
+  <TM_WoodGolem_LifeStage.description>Mejora y refina el armazón del gólem en cada nivel [1,2,3]:\nMovimiento:\t+[20/30/40]%\nSalud:\t+[20/40/60]%</TM_WoodGolem_LifeStage.description>
+  <!-- EN: improving golem frame -->
+  <TM_WoodGolem_LifeStage.jobString>Mejorando armazón del gólem.</TM_WoodGolem_LifeStage.jobString>
+  
+  <!-- EN: Part restoration -->
+  <TM_WoodGolem_RepairBlock.label>restauración de partes</TM_WoodGolem_RepairBlock.label>
+  <!-- EN: Replaces missing golem parts that do not require an upgrade. -->
+  <TM_WoodGolem_RepairBlock.description>Reemplaza partes faltantes del gólem que no requieren una mejora.</TM_WoodGolem_RepairBlock.description>
+  <!-- EN: crafting golem part -->
+  <TM_WoodGolem_RepairBlock.jobString>Fabricando parte de gólem.</TM_WoodGolem_RepairBlock.jobString>
+  
+  <!-- EN: Skills -->
+  <TM_WoodGolem_Skills.label>habilidades</TM_WoodGolem_Skills.label>
+  <!-- EN: The wood golem improves the quality of cooking, construction, and handling by 2 skill points. -->
+  <TM_WoodGolem_Skills.description>El gólem de madera mejora la calidad de cocina, construcción y manejo en 2 puntos de habilidad.</TM_WoodGolem_Skills.description>
+  <!-- EN: crafting golem upgrade -->
+  <TM_WoodGolem_Skills.jobString>Fabricando mejora de gólem.</TM_WoodGolem_Skills.jobString>
+  
+</LanguageData>

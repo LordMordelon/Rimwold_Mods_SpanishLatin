@@ -1,0 +1,117 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Brittle bones -->
+  <TM_BrittleBonesHD.label>huesos frágiles</TM_BrittleBonesHD.label>
+  <!-- EN: Occurs when exposed to extremely cold temperatures and causes bones and ligaments to become brittle which reduces movement and manipulation. Undead with this condition require 50% additional mana to sustain. -->
+  <TM_BrittleBonesHD.description>Ocurre al exponerse a temperaturas extremadamente frías y hace que los huesos y ligamentos se vuelvan frágiles, lo que reduce el movimiento y la manipulación. Los no muertos con esta condición requieren un 50% de maná adicional para mantenerse.</TM_BrittleBonesHD.description>
+  <!-- EN: I -->
+  <TM_BrittleBonesHD.stages.I.label>I</TM_BrittleBonesHD.stages.I.label>
+  <!-- EN: II -->
+  <TM_BrittleBonesHD.stages.II.label>II</TM_BrittleBonesHD.stages.II.label>
+  <!-- EN: III -->
+  <TM_BrittleBonesHD.stages.III.label>III</TM_BrittleBonesHD.stages.III.label>
+  
+  <!-- EN: death bolt -->
+  <TM_DeathBoltHD.label>rayo de la muerte</TM_DeathBoltHD.label>
+  <!-- EN: Destructive energy that kills all living things. -->
+  <TM_DeathBoltHD.description>Energía destructiva que mata a todos los seres vivos.</TM_DeathBoltHD.description>
+  <!-- EN: melted -->
+  <TM_DeathBoltHD.comps.HediffComp_GetsPermanent.permanentLabel>derretido</TM_DeathBoltHD.comps.HediffComp_GetsPermanent.permanentLabel>
+  <!-- EN: melted off -->
+  <TM_DeathBoltHD.injuryProps.destroyedLabel>derretido</TM_DeathBoltHD.injuryProps.destroyedLabel>
+  <!-- EN: {0} in the {1} -->
+  <TM_DeathBoltHD.labelNounPretty>{0} en el {1}</TM_DeathBoltHD.labelNounPretty>
+  
+  <!-- EN: Death Mark -->
+  <TM_DeathMarkCurse.label>marca de la muerte</TM_DeathMarkCurse.label>
+  <!-- EN: Marked by death, this pawn is unable to focus on the present due to their focus on their inevitable death. -->
+  <TM_DeathMarkCurse.description>Marcado por la muerte, este peón es incapaz de concentrarse en el presente debido a su obsesión con su muerte inevitable.</TM_DeathMarkCurse.description>
+  <!-- EN: clumsy -->
+  <TM_DeathMarkCurse.stages.clumsy.label>torpe</TM_DeathMarkCurse.stages.clumsy.label>
+  <!-- EN: fumbling -->
+  <TM_DeathMarkCurse.stages.fumbling.label>desmañado</TM_DeathMarkCurse.stages.fumbling.label>
+  <!-- EN: cursed -->
+  <TM_DeathMarkCurse.stages.cursed.label>maldito</TM_DeathMarkCurse.stages.cursed.label>
+  
+  <!-- EN: Death Mark -->
+  <TM_DeathMarkHD.label>marca de la muerte</TM_DeathMarkHD.label>
+  <!-- EN: Marked by death, this pawn will soon die and be reanimated as an undead. (not used) -->
+  <TM_DeathMarkHD.description>Marcado por la muerte, este peón morirá pronto y será reanimado como un no muerto. (no usado)</TM_DeathMarkHD.description>
+  
+  <!-- EN: Lich -->
+  <TM_LichHD.label>liche</TM_LichHD.label>
+  <!-- EN: A pawn that has achieved immortality by severing their connection to the cycle of life and death. -->
+  <TM_LichHD.description>Un peón que ha alcanzado la inmortalidad cortando su conexión con el ciclo de la vida y la muerte.</TM_LichHD.description>
+  <!-- EN: Undead -->
+  <TM_LichHD.stages.Undead.label>no muerto</TM_LichHD.stages.Undead.label>
+  
+  <!-- EN: Slagged -->
+  <TM_SlaggedHD.label>escorificado</TM_SlaggedHD.label>
+  <!-- EN: Occurs when exposed to extremely hot temperatures and causes organic matter to decompose and even melt. Undead affected by this condition require 50% more mana to sustain. -->
+  <TM_SlaggedHD.description>Ocurre al exponerse a temperaturas extremadamente calientes y hace que la materia orgánica se descomponga e incluso se derrita. Los no muertos afectados por esta condición requieren un 50% más de maná para mantenerse.</TM_SlaggedHD.description>
+  <!-- EN: I -->
+  <TM_SlaggedHD.stages.I.label>I</TM_SlaggedHD.stages.I.label>
+  <!-- EN: II -->
+  <TM_SlaggedHD.stages.II.label>II</TM_SlaggedHD.stages.II.label>
+  <!-- EN: III -->
+  <TM_SlaggedHD.stages.III.label>III</TM_SlaggedHD.stages.III.label>
+  
+  <!-- EN: Tormented -->
+  <TM_Torment_HD.label>atormentado</TM_Torment_HD.label>
+  <!-- EN: Painfully tormented by dark magic. -->
+  <TM_Torment_HD.description>Dolorosamente atormentado por magia oscura.</TM_Torment_HD.description>
+  <!-- EN: pain -->
+  <TM_Torment_HD.stages.pain.label>dolor</TM_Torment_HD.stages.pain.label>
+  <!-- EN: agony -->
+  <TM_Torment_HD.stages.agony.label>agonía</TM_Torment_HD.stages.agony.label>
+  <!-- EN: torment -->
+  <TM_Torment_HD.stages.torment.label>tormento</TM_Torment_HD.stages.torment.label>
+  
+  <!-- EN: Torment -->
+  <TM_TormentHD.label>tormento</TM_TormentHD.label>
+  <!-- EN: Pain induced by dark energy. -->
+  <TM_TormentHD.description>Dolor inducido por energía oscura.</TM_TormentHD.description>
+  <!-- EN: rotten -->
+  <TM_TormentHD.comps.HediffComp_GetsPermanent.permanentLabel>podrido</TM_TormentHD.comps.HediffComp_GetsPermanent.permanentLabel>
+  <!-- EN: melted off -->
+  <TM_TormentHD.injuryProps.destroyedLabel>derretido</TM_TormentHD.injuryProps.destroyedLabel>
+  <!-- EN: {0} in the {1} -->
+  <TM_TormentHD.labelNounPretty>{0} en el {1}</TM_TormentHD.labelNounPretty>
+  
+  <!-- EN: Undead -->
+  <TM_UndeadAnimalHD.label>no muerto</TM_UndeadAnimalHD.label>
+  <!-- EN: A pawn animated by necrotic energy. This pawn possesses no intent of its own, and requires continual direction and energy from a necromancer. -->
+  <TM_UndeadAnimalHD.description>Un peón animado por energía necrótica. Este peón no posee voluntad propia y requiere dirección y energía continuas de un nigromante.</TM_UndeadAnimalHD.description>
+  <!-- EN: I -->
+  <TM_UndeadAnimalHD.stages.I.label>I</TM_UndeadAnimalHD.stages.I.label>
+  <!-- EN: II -->
+  <TM_UndeadAnimalHD.stages.II.label>II</TM_UndeadAnimalHD.stages.II.label>
+  <!-- EN: III -->
+  <TM_UndeadAnimalHD.stages.III.label>III</TM_UndeadAnimalHD.stages.III.label>
+  <!-- EN: IV -->
+  <TM_UndeadAnimalHD.stages.IV.label>IV</TM_UndeadAnimalHD.stages.IV.label>
+  
+  <!-- EN: Undead -->
+  <TM_UndeadHD.label>no muerto</TM_UndeadHD.label>
+  <!-- EN: A pawn animated by necrotic energy. This pawn possesses no intent of its own, and requires continual direction and energy from a necromancer. -->
+  <TM_UndeadHD.description>Un peón animado por energía necrótica. Este peón no posee voluntad propia y requiere dirección y energía continuas de un nigromante.</TM_UndeadHD.description>
+  <!-- EN: I -->
+  <TM_UndeadHD.stages.I.label>I</TM_UndeadHD.stages.I.label>
+  <!-- EN: II -->
+  <TM_UndeadHD.stages.II.label>II</TM_UndeadHD.stages.II.label>
+  <!-- EN: III -->
+  <TM_UndeadHD.stages.III.label>III</TM_UndeadHD.stages.III.label>
+  <!-- EN: IV -->
+  <TM_UndeadHD.stages.IV.label>IV</TM_UndeadHD.stages.IV.label>
+  
+  <!-- EN: Body stage -->
+  <TM_UndeadStageHD.label>estado del cuerpo</TM_UndeadStageHD.label>
+  <!-- EN: The current stage of undead. -->
+  <TM_UndeadStageHD.description>La etapa actual de no muerto.</TM_UndeadStageHD.description>
+  <!-- EN: Rotting -->
+  <TM_UndeadStageHD.stages.Rotting.label>pudriéndose</TM_UndeadStageHD.stages.Rotting.label>
+  <!-- EN: Dessicated -->
+  <TM_UndeadStageHD.stages.Dessicated.label>disecado</TM_UndeadStageHD.stages.Dessicated.label>
+  
+</LanguageData>

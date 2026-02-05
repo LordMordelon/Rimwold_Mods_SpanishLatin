@@ -1,0 +1,335 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: blizzard -->
+  <Blizzard.label>ventisca</Blizzard.label>
+  <!-- EN: A storm of ice and snow. -->
+  <Blizzard.description>Una tormenta de hielo y nieve.</Blizzard.description>
+  <!-- EN: destroyed in blizzard -->
+  <Blizzard.comps.HediffComp_GetsPermanent.permanentLabel>destruido en ventisca</Blizzard.comps.HediffComp_GetsPermanent.permanentLabel>
+  <!-- EN: {0} in the {1} -->
+  <Blizzard.labelNounPretty>{0} en {1}</Blizzard.labelNounPretty>
+  
+  <!-- EN: frostray -->
+  <FrostRay.label>rayo de escarcha</FrostRay.label>
+  <!-- EN: Super-cooled bolt of energy. -->
+  <FrostRay.description>Rayo de energía superenfriado.</FrostRay.description>
+  <!-- EN: frostbite scar -->
+  <FrostRay.comps.HediffComp_GetsPermanent.permanentLabel>cicatriz de congelación</FrostRay.comps.HediffComp_GetsPermanent.permanentLabel>
+  <!-- EN: frozen off -->
+  <FrostRay.injuryProps.destroyedLabel>congelado</FrostRay.injuryProps.destroyedLabel>
+  <!-- EN: {0} in the {1} -->
+  <FrostRay.labelNounPretty>{0} en {1}</FrostRay.labelNounPretty>
+  
+  <!-- EN: iceshard -->
+  <Iceshard.label>fragmento de hielo</Iceshard.label>
+  <!-- EN: A projected bolt of ice formed with razor sharp edges. -->
+  <Iceshard.description>Un proyectil de hielo formado con bordes afilados como navajas.</Iceshard.description>
+  <!-- EN: iceshard scar -->
+  <Iceshard.comps.HediffComp_GetsPermanent.permanentLabel>cicatriz de fragmento de hielo</Iceshard.comps.HediffComp_GetsPermanent.permanentLabel>
+  <!-- EN: Torn to shreds -->
+  <Iceshard.injuryProps.destroyedOutLabel>hecho trizas</Iceshard.injuryProps.destroyedOutLabel>
+  <!-- EN: {0} in the {1} -->
+  <Iceshard.labelNounPretty>{0} en {1}</Iceshard.labelNounPretty>
+  
+  <!-- EN: snowball -->
+  <Snowball.label>bola de nieve</Snowball.label>
+  <!-- EN: Packed ice and snow. -->
+  <Snowball.description>Hielo y nieve compactados.</Snowball.description>
+  <!-- EN: frostbite scar -->
+  <Snowball.comps.HediffComp_GetsPermanent.permanentLabel>cicatriz de congelación</Snowball.comps.HediffComp_GetsPermanent.permanentLabel>
+  <!-- EN: frozen off -->
+  <Snowball.injuryProps.destroyedLabel>congelado</Snowball.injuryProps.destroyedLabel>
+  <!-- EN: {0} in the {1} -->
+  <Snowball.labelNounPretty>{0} en {1}</Snowball.labelNounPretty>
+  
+  <!-- EN: arcane -->
+  <TM_ArcaneHD.label>arcano</TM_ArcaneHD.label>
+  <!-- EN: Destructive arcane power -->
+  <TM_ArcaneHD.description>Poder arcano destructivo.</TM_ArcaneHD.description>
+  <!-- EN: destroyed by arcane power -->
+  <TM_ArcaneHD.comps.HediffComp_GetsPermanent.permanentLabel>destruido por poder arcano</TM_ArcaneHD.comps.HediffComp_GetsPermanent.permanentLabel>
+  <!-- EN: blasted off -->
+  <TM_ArcaneHD.injuryProps.destroyedLabel>arrancado</TM_ArcaneHD.injuryProps.destroyedLabel>
+  <!-- EN: blasted out -->
+  <TM_ArcaneHD.injuryProps.destroyedOutLabel>reventado</TM_ArcaneHD.injuryProps.destroyedOutLabel>
+  <!-- EN: {0} in the {1} -->
+  <TM_ArcaneHD.labelNounPretty>{0} en {1}</TM_ArcaneHD.labelNounPretty>
+  
+  <!-- EN: spirit cut -->
+  <TM_arcaneSpectre.label>corte espiritual</TM_arcaneSpectre.label>
+  <!-- EN: Spirit damage from a spectre. -->
+  <TM_arcaneSpectre.description>Daño espiritual de un espectro.</TM_arcaneSpectre.description>
+  <!-- EN: pale scar -->
+  <TM_arcaneSpectre.comps.HediffComp_GetsPermanent.permanentLabel>cicatriz pálida</TM_arcaneSpectre.comps.HediffComp_GetsPermanent.permanentLabel>
+  <!-- EN: Cut off -->
+  <TM_arcaneSpectre.injuryProps.destroyedLabel>cortado</TM_arcaneSpectre.injuryProps.destroyedLabel>
+  <!-- EN: Cut out -->
+  <TM_arcaneSpectre.injuryProps.destroyedOutLabel>cortado</TM_arcaneSpectre.injuryProps.destroyedOutLabel>
+  <!-- EN: a cut -->
+  <TM_arcaneSpectre.labelNoun>un corte</TM_arcaneSpectre.labelNoun>
+  <!-- EN: {0} in the {1} -->
+  <TM_arcaneSpectre.labelNounPretty>{0} en {1}</TM_arcaneSpectre.labelNounPretty>
+  
+  <!-- EN: Blazing Power -->
+  <TM_BlazingPowerHD.label>poder ardiente</TM_BlazingPowerHD.label>
+  <!-- EN: Arcane power directed through a focusing vessel. -->
+  <TM_BlazingPowerHD.description>Poder arcano dirigido a través de un recipiente de enfoque.</TM_BlazingPowerHD.description>
+  <!-- EN: destroyed by blazing power -->
+  <TM_BlazingPowerHD.comps.HediffComp_GetsPermanent.permanentLabel>destruido por poder ardiente</TM_BlazingPowerHD.comps.HediffComp_GetsPermanent.permanentLabel>
+  <!-- EN: {0} in the {1} -->
+  <TM_BlazingPowerHD.labelNounPretty>{0} en {1}</TM_BlazingPowerHD.labelNounPretty>
+  
+  <!-- EN: bloody cut -->
+  <TM_BloodyCutHD.label>corte sangriento</TM_BloodyCutHD.label>
+  <!-- EN: A deep cut that bleeds profusely. -->
+  <TM_BloodyCutHD.description>Un corte profundo que sangra profusamente.</TM_BloodyCutHD.description>
+  <!-- EN: cut scar -->
+  <TM_BloodyCutHD.comps.HediffComp_GetsPermanent.permanentLabel>cicatriz de corte</TM_BloodyCutHD.comps.HediffComp_GetsPermanent.permanentLabel>
+  <!-- EN: Cut off -->
+  <TM_BloodyCutHD.injuryProps.destroyedLabel>cortado</TM_BloodyCutHD.injuryProps.destroyedLabel>
+  <!-- EN: Cut out -->
+  <TM_BloodyCutHD.injuryProps.destroyedOutLabel>cortado</TM_BloodyCutHD.injuryProps.destroyedOutLabel>
+  <!-- EN: a bloody cut -->
+  <TM_BloodyCutHD.labelNoun>un corte sangriento</TM_BloodyCutHD.labelNoun>
+  <!-- EN: {0} in the {1} -->
+  <TM_BloodyCutHD.labelNounPretty>{0} en {1}</TM_BloodyCutHD.labelNounPretty>
+  
+  <!-- EN: Chi burn -->
+  <TM_ChiBurnHD.label>quemadura de chi</TM_ChiBurnHD.label>
+  <!-- EN: Damage sustained from a burst of ch'i energy. -->
+  <TM_ChiBurnHD.description>Daño sufrido por una explosión de energía chi.</TM_ChiBurnHD.description>
+  <!-- EN: destroyed -->
+  <TM_ChiBurnHD.comps.HediffComp_GetsPermanent.permanentLabel>destruido</TM_ChiBurnHD.comps.HediffComp_GetsPermanent.permanentLabel>
+  <!-- EN: {0} in the {1} -->
+  <TM_ChiBurnHD.labelNounPretty>{0} en {1}</TM_ChiBurnHD.labelNounPretty>
+  
+  <!-- EN: strike -->
+  <TM_ChiFistHD.label>golpe</TM_ChiFistHD.label>
+  <!-- EN: A melee strike from a monk. -->
+  <TM_ChiFistHD.description>Un golpe cuerpo a cuerpo de un monje.</TM_ChiFistHD.description>
+  <!-- EN: destroyed -->
+  <TM_ChiFistHD.comps.HediffComp_GetsPermanent.permanentLabel>destruido</TM_ChiFistHD.comps.HediffComp_GetsPermanent.permanentLabel>
+  <!-- EN: {0} in the {1} -->
+  <TM_ChiFistHD.labelNounPretty>{0} en {1}</TM_ChiFistHD.labelNounPretty>
+  
+  <!-- EN: Decay -->
+  <TM_DecayDamage.label>descomposición</TM_DecayDamage.label>
+  <!-- EN: Organic decay. -->
+  <TM_DecayDamage.description>Descomposición orgánica.</TM_DecayDamage.description>
+  <!-- EN: lifeless -->
+  <TM_DecayDamage.comps.HediffComp_GetsPermanent.permanentLabel>sin vida</TM_DecayDamage.comps.HediffComp_GetsPermanent.permanentLabel>
+  <!-- EN: {0} in the {1} -->
+  <TM_DecayDamage.labelNounPretty>{0} en {1}</TM_DecayDamage.labelNounPretty>
+  
+  <!-- EN: disabling blow -->
+  <TM_DisablingBlowHD.label>golpe incapacitante</TM_DisablingBlowHD.label>
+  <!-- EN: A melee blow meant to disable rather than kill. -->
+  <TM_DisablingBlowHD.description>Un golpe cuerpo a cuerpo destinado a incapacitar en lugar de matar.</TM_DisablingBlowHD.description>
+  <!-- EN: smashed -->
+  <TM_DisablingBlowHD.comps.HediffComp_GetsPermanent.permanentLabel>aplastado</TM_DisablingBlowHD.comps.HediffComp_GetsPermanent.permanentLabel>
+  <!-- EN: {0} in the {1} -->
+  <TM_DisablingBlowHD.labelNounPretty>{0} en {1}</TM_DisablingBlowHD.labelNounPretty>
+  
+  <!-- EN: disabling shot -->
+  <TM_DisablingShot_HD.label>disparo incapacitante</TM_DisablingShot_HD.label>
+  <!-- EN: A projectile designed to disable rather than kill. -->
+  <TM_DisablingShot_HD.description>Un proyectil diseñado para incapacitar en lugar de matar.</TM_DisablingShot_HD.description>
+  <!-- EN: shot off -->
+  <TM_DisablingShot_HD.comps.HediffComp_GetsPermanent.permanentLabel>arrancado de un disparo</TM_DisablingShot_HD.comps.HediffComp_GetsPermanent.permanentLabel>
+  <!-- EN: shot off -->
+  <TM_DisablingShot_HD.injuryProps.destroyedLabel>arrancado de un disparo</TM_DisablingShot_HD.injuryProps.destroyedLabel>
+  <!-- EN: shot out -->
+  <TM_DisablingShot_HD.injuryProps.destroyedOutLabel>arrancado de un disparo</TM_DisablingShot_HD.injuryProps.destroyedOutLabel>
+  <!-- EN: {0} in the {1} -->
+  <TM_DisablingShot_HD.labelNounPretty>{0} en {1}</TM_DisablingShot_HD.labelNounPretty>
+  
+  <!-- EN: dismember -->
+  <TM_Dismember.label>desmembrar</TM_Dismember.label>
+  <!-- EN: An attack that tears a limb (or head) off a target. -->
+  <TM_Dismember.description>Un ataque que arranca una extremidad (o la cabeza) de un objetivo.</TM_Dismember.description>
+  <!-- EN: torn off -->
+  <TM_Dismember.injuryProps.destroyedLabel>arrancado</TM_Dismember.injuryProps.destroyedLabel>
+  <!-- EN: torn out -->
+  <TM_Dismember.injuryProps.destroyedOutLabel>arrancado</TM_Dismember.injuryProps.destroyedOutLabel>
+  <!-- EN: a massive wound -->
+  <TM_Dismember.labelNoun>una herida masiva</TM_Dismember.labelNoun>
+  <!-- EN: {0} in the {1} -->
+  <TM_Dismember.labelNounPretty>{0} en {1}</TM_Dismember.labelNounPretty>
+  
+  <!-- EN: Firebolt -->
+  <TM_Firebolt.label>rayo de fuego</TM_Firebolt.label>
+  <!-- EN: Projected bolt of elemental fire. -->
+  <TM_Firebolt.description>Rayo proyectado de fuego elemental.</TM_Firebolt.description>
+  <!-- EN: burn scar -->
+  <TM_Firebolt.comps.HediffComp_GetsPermanent.permanentLabel>cicatriz de quemadura</TM_Firebolt.comps.HediffComp_GetsPermanent.permanentLabel>
+  <!-- EN: burned out -->
+  <TM_Firebolt.injuryProps.destroyedOutLabel>quemado</TM_Firebolt.injuryProps.destroyedOutLabel>
+  <!-- EN: {0} in the {1} -->
+  <TM_Firebolt.labelNounPretty>{0} en {1}</TM_Firebolt.labelNounPretty>
+  
+  <!-- EN: freezing winds -->
+  <TM_Frozen.label>vientos helados</TM_Frozen.label>
+  <!-- EN: Bitterly cold winds. -->
+  <TM_Frozen.description>Vientos amargamente fríos.</TM_Frozen.description>
+  <!-- EN: frostbite -->
+  <TM_Frozen.comps.HediffComp_GetsPermanent.permanentLabel>congelación</TM_Frozen.comps.HediffComp_GetsPermanent.permanentLabel>
+  <!-- EN: {0} in the {1} -->
+  <TM_Frozen.labelNounPretty>{0} en {1}</TM_Frozen.labelNounPretty>
+  
+  <!-- EN: Grappling Hook -->
+  <TM_GrapplingHook.label>gancho de agarre</TM_GrapplingHook.label>
+  <!-- EN: Pulls targets close. -->
+  <TM_GrapplingHook.description>Atrae a los objetivos cerca.</TM_GrapplingHook.description>
+  <!-- EN: torn off -->
+  <TM_GrapplingHook.comps.HediffComp_GetsPermanent.permanentLabel>arrancado</TM_GrapplingHook.comps.HediffComp_GetsPermanent.permanentLabel>
+  <!-- EN: torn off -->
+  <TM_GrapplingHook.injuryProps.destroyedLabel>arrancado</TM_GrapplingHook.injuryProps.destroyedLabel>
+  <!-- EN: torn out -->
+  <TM_GrapplingHook.injuryProps.destroyedOutLabel>arrancado</TM_GrapplingHook.injuryProps.destroyedOutLabel>
+  <!-- EN: {0} in the {1} -->
+  <TM_GrapplingHook.labelNounPretty>{0} en {1}</TM_GrapplingHook.labelNounPretty>
+  
+  <!-- EN: Holy Wrath -->
+  <TM_Holy.label>ira sagrada</TM_Holy.label>
+  <!-- EN: Belief made into destructive energy. -->
+  <TM_Holy.description>Creencia convertida en energía destructiva.</TM_Holy.description>
+  <!-- EN: destroyed by holy power -->
+  <TM_Holy.comps.HediffComp_GetsPermanent.permanentLabel>destruido por poder sagrado</TM_Holy.comps.HediffComp_GetsPermanent.permanentLabel>
+  <!-- EN: burned off -->
+  <TM_Holy.injuryProps.destroyedLabel>quemado</TM_Holy.injuryProps.destroyedLabel>
+  <!-- EN: burned out -->
+  <TM_Holy.injuryProps.destroyedOutLabel>quemado</TM_Holy.injuryProps.destroyedOutLabel>
+  <!-- EN: {0} in the {1} -->
+  <TM_Holy.labelNounPretty>{0} en {1}</TM_Holy.labelNounPretty>
+  
+  <!-- EN: Light -->
+  <TM_LightDD.label>luz</TM_LightDD.label>
+  <!-- EN: Destructive energy from the domain of light. -->
+  <TM_LightDD.description>Energía destructiva del dominio de la luz.</TM_LightDD.description>
+  <!-- EN: burned by light -->
+  <TM_LightDD.comps.HediffComp_GetsPermanent.permanentLabel>quemado por la luz</TM_LightDD.comps.HediffComp_GetsPermanent.permanentLabel>
+  <!-- EN: burned away -->
+  <TM_LightDD.injuryProps.destroyedLabel>quemado</TM_LightDD.injuryProps.destroyedLabel>
+  <!-- EN: burned out -->
+  <TM_LightDD.injuryProps.destroyedOutLabel>quemado</TM_LightDD.injuryProps.destroyedOutLabel>
+  <!-- EN: {0} in the {1} -->
+  <TM_LightDD.labelNounPretty>{0} en {1}</TM_LightDD.labelNounPretty>
+  
+  <!-- EN: Lightning -->
+  <TM_Lightning.label>rayo</TM_Lightning.label>
+  <!-- EN: A powerful bolt of electricity. -->
+  <TM_Lightning.description>Un poderoso rayo de electricidad.</TM_Lightning.description>
+  <!-- EN: struck by lightning -->
+  <TM_Lightning.comps.HediffComp_GetsPermanent.permanentLabel>golpeado por un rayo</TM_Lightning.comps.HediffComp_GetsPermanent.permanentLabel>
+  <!-- EN: burned out -->
+  <TM_Lightning.injuryProps.destroyedOutLabel>quemado</TM_Lightning.injuryProps.destroyedOutLabel>
+  <!-- EN: {0} in the {1} -->
+  <TM_Lightning.labelNounPretty>{0} en {1}</TM_Lightning.labelNounPretty>
+  
+  <!-- EN: Lightning -->
+  <TM_LightningCloud.label>rayo</TM_LightningCloud.label>
+  <!-- EN: Ambient electrical discharge caused by condensing charged particles. -->
+  <TM_LightningCloud.description>Descarga eléctrica ambiental causada por la condensación de partículas cargadas.</TM_LightningCloud.description>
+  <!-- EN: electrocuted -->
+  <TM_LightningCloud.comps.HediffComp_GetsPermanent.permanentLabel>electrocutado</TM_LightningCloud.comps.HediffComp_GetsPermanent.permanentLabel>
+  <!-- EN: burned out -->
+  <TM_LightningCloud.injuryProps.destroyedOutLabel>quemado</TM_LightningCloud.injuryProps.destroyedOutLabel>
+  <!-- EN: {0} in the {1} -->
+  <TM_LightningCloud.labelNounPretty>{0} en {1}</TM_LightningCloud.labelNounPretty>
+  
+  <!-- EN: Magic Missile -->
+  <TM_MagicMissile.label>misil mágico</TM_MagicMissile.label>
+  <!-- EN: Arcane energy projected in small, focused bursts. -->
+  <TM_MagicMissile.description>Energía arcana proyectada en ráfagas pequeñas y enfocadas.</TM_MagicMissile.description>
+  <!-- EN: touched by the arcane -->
+  <TM_MagicMissile.comps.HediffComp_GetsPermanent.permanentLabel>tocado por lo arcano</TM_MagicMissile.comps.HediffComp_GetsPermanent.permanentLabel>
+  <!-- EN: sliced off -->
+  <TM_MagicMissile.injuryProps.destroyedLabel>rebanado</TM_MagicMissile.injuryProps.destroyedLabel>
+  <!-- EN: cut out -->
+  <TM_MagicMissile.injuryProps.destroyedOutLabel>cortado</TM_MagicMissile.injuryProps.destroyedOutLabel>
+  <!-- EN: {0} in the {1} -->
+  <TM_MagicMissile.labelNounPretty>{0} en {1}</TM_MagicMissile.labelNounPretty>
+  
+  <!-- EN: mana explosion -->
+  <TM_ManaMine.label>explosión de maná</TM_ManaMine.label>
+  <!-- EN: Explosive release of contained mana. -->
+  <TM_ManaMine.description>Liberación explosiva de maná contenido.</TM_ManaMine.description>
+  <!-- EN: destroyed by a mana explosion -->
+  <TM_ManaMine.comps.HediffComp_GetsPermanent.permanentLabel>destruido por una explosión de maná</TM_ManaMine.comps.HediffComp_GetsPermanent.permanentLabel>
+  <!-- EN: blasted off -->
+  <TM_ManaMine.injuryProps.destroyedLabel>arrancado</TM_ManaMine.injuryProps.destroyedLabel>
+  <!-- EN: burned out -->
+  <TM_ManaMine.injuryProps.destroyedOutLabel>quemado</TM_ManaMine.injuryProps.destroyedOutLabel>
+  <!-- EN: {0} in the {1} -->
+  <TM_ManaMine.labelNounPretty>{0} en {1}</TM_ManaMine.labelNounPretty>
+  
+  <!-- EN: missing -->
+  <TM_PartRemovalHD.label>perdido</TM_PartRemovalHD.label>
+  <!-- EN: A missing bodypart. -->
+  <TM_PartRemovalHD.description>Una parte del cuerpo perdida.</TM_PartRemovalHD.description>
+  <!-- EN: missing -->
+  <TM_PartRemovalHD.labelNoun>perdido</TM_PartRemovalHD.labelNoun>
+  <!-- EN: {0} in the {1} -->
+  <TM_PartRemovalHD.labelNounPretty>{0} en {1}</TM_PartRemovalHD.labelNounPretty>
+  
+  <!-- EN: Spirit -->
+  <TM_SpiritHD.label>espíritu</TM_SpiritHD.label>
+  <!-- EN: Harmful spiritual energy. -->
+  <TM_SpiritHD.description>Energía espiritual dañina.</TM_SpiritHD.description>
+  <!-- EN: drained of spirit -->
+  <TM_SpiritHD.comps.HediffComp_GetsPermanent.permanentLabel>drenado de espíritu</TM_SpiritHD.comps.HediffComp_GetsPermanent.permanentLabel>
+  <!-- EN: {0} in the {1} -->
+  <TM_SpiritHD.labelNounPretty>{0} en {1}</TM_SpiritHD.labelNounPretty>
+  
+  <!-- EN: symbiosis -->
+  <TM_SymbiosisDamage.label>simbiosis</TM_SymbiosisDamage.label>
+  <!-- EN: Damage inferred through a symbiosis connection. -->
+  <TM_SymbiosisDamage.description>Daño inferido a través de una conexión de simbiosis.</TM_SymbiosisDamage.description>
+  <!-- EN: residual injury -->
+  <TM_SymbiosisDamage.comps.HediffComp_GetsPermanent.permanentLabel>lesión residual</TM_SymbiosisDamage.comps.HediffComp_GetsPermanent.permanentLabel>
+  <!-- EN: symbiotic transfer -->
+  <TM_SymbiosisDamage.labelNoun>transferencia simbiótica</TM_SymbiosisDamage.labelNoun>
+  <!-- EN: {0} in the {1} -->
+  <TM_SymbiosisDamage.labelNounPretty>{0} en {1}</TM_SymbiosisDamage.labelNounPretty>
+  
+  <!-- EN: cleave -->
+  <TM_ThrumboCleave.label>tajo</TM_ThrumboCleave.label>
+  <!-- EN: An attack powerful enough to shear through multiple objects. -->
+  <TM_ThrumboCleave.description>Un ataque lo suficientemente poderoso como para cortar múltiples objetos.</TM_ThrumboCleave.description>
+  <!-- EN: scar -->
+  <TM_ThrumboCleave.comps.HediffComp_GetsPermanent.permanentLabel>cicatriz</TM_ThrumboCleave.comps.HediffComp_GetsPermanent.permanentLabel>
+  <!-- EN: Sliced off -->
+  <TM_ThrumboCleave.injuryProps.destroyedLabel>rebanado</TM_ThrumboCleave.injuryProps.destroyedLabel>
+  <!-- EN: Sliced out -->
+  <TM_ThrumboCleave.injuryProps.destroyedOutLabel>cortado</TM_ThrumboCleave.injuryProps.destroyedOutLabel>
+  <!-- EN: a massive wound -->
+  <TM_ThrumboCleave.labelNoun>una herida masiva</TM_ThrumboCleave.labelNoun>
+  <!-- EN: {0} in the {1} -->
+  <TM_ThrumboCleave.labelNounPretty>{0} en {1}</TM_ThrumboCleave.labelNounPretty>
+  
+  <!-- EN: toxin -->
+  <TM_ToxinHD.label>toxina</TM_ToxinHD.label>
+  <!-- EN: damage from toxins. -->
+  <TM_ToxinHD.description>daño por toxinas.</TM_ToxinHD.description>
+  <!-- EN: toxic tissue -->
+  <TM_ToxinHD.comps.HediffComp_GetsPermanent.permanentLabel>tejido tóxico</TM_ToxinHD.comps.HediffComp_GetsPermanent.permanentLabel>
+  <!-- EN: toxin -->
+  <TM_ToxinHD.labelNoun>toxina</TM_ToxinHD.labelNoun>
+  <!-- EN: {0} in the {1} -->
+  <TM_ToxinHD.labelNounPretty>{0} en {1}</TM_ToxinHD.labelNounPretty>
+  
+  <!-- EN: Whirlwind Knockdown -->
+  <TM_Whirlwind_Knockdown.label>derribo de torbellino</TM_Whirlwind_Knockdown.label>
+  <!-- EN: Overwhelmed from a flurry of attacks. -->
+  <TM_Whirlwind_Knockdown.description>Abrumado por una ráfaga de ataques.</TM_Whirlwind_Knockdown.description>
+  <!-- EN: sliced off -->
+  <TM_Whirlwind_Knockdown.comps.HediffComp_GetsPermanent.permanentLabel>rebanado</TM_Whirlwind_Knockdown.comps.HediffComp_GetsPermanent.permanentLabel>
+  <!-- EN: sliced off -->
+  <TM_Whirlwind_Knockdown.injuryProps.destroyedLabel>rebanado</TM_Whirlwind_Knockdown.injuryProps.destroyedLabel>
+  <!-- EN: cut out -->
+  <TM_Whirlwind_Knockdown.injuryProps.destroyedOutLabel>cortado</TM_Whirlwind_Knockdown.injuryProps.destroyedOutLabel>
+  <!-- EN: {0} in the {1} -->
+  <TM_Whirlwind_Knockdown.labelNounPretty>{0} en {1}</TM_Whirlwind_Knockdown.labelNounPretty>
+  
+</LanguageData>

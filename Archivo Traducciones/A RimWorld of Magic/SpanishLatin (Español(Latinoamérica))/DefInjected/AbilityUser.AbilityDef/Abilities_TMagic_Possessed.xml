@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Control Spirit Storm -->
+  <TM_ControlSpiritStorm.label>controlar tormenta espiritual</TM_ControlSpiritStorm.label>
+  <!-- EN: Directs the spirit storm to a designated location. -->
+  <TM_ControlSpiritStorm.description>Dirige la tormenta espiritual a una ubicación designada.</TM_ControlSpiritStorm.description>
+  
+  <!-- EN: Distort Spirit (I) -->
+  <TM_DistortSpirit.label>distorsionar espíritu</TM_DistortSpirit.label>
+  <!-- EN: Distorts the balance between spirit and body of living pawns in a wide area. Pawns suffering from spirit distortion will take 20% more damage from all sources.\n	\nRange: 35\nCast time: 3s\nRecharge: 60s -->
+  <TM_DistortSpirit.description>Distorsiona el equilibrio entre el espíritu y el cuerpo de los colonos vivos en un área amplia. Los colonos que sufren de distorsión espiritual recibirán un 20% más de daño de todas las fuentes.\n\nAlcance: 35\nTiempo de lanzamiento: 3s\nRecarga: 60s</TM_DistortSpirit.description>
+  
+  <!-- EN: Distort Spirit (II) -->
+  <TM_DistortSpirit_I.label>distorsionar espíritu (I)</TM_DistortSpirit_I.label>
+  <!-- EN: Distorts the balance between spirit and body of living pawns in a wide area. Pawns suffering from spirit distortion will take 20% more damage from all sources.\n	\nRange: 40\nCast time: 2s\nRecharge: 45s -->
+  <TM_DistortSpirit_I.description>Distorsiona el equilibrio entre el espíritu y el cuerpo de los colonos vivos en un área amplia. Los colonos que sufren de distorsión espiritual recibirán un 20% más de daño de todas las fuentes.\n\nAlcance: 40\nTiempo de lanzamiento: 2s\nRecarga: 45s</TM_DistortSpirit_I.description>
+  
+  <!-- EN: Distort Spirit (III) -->
+  <TM_DistortSpirit_II.label>distorsionar espíritu (II)</TM_DistortSpirit_II.label>
+  <!-- EN: Distorts the balance between spirit and body of living pawns in a wide area. Pawns suffering from spirit distortion will take 20% more damage from all sources..\n	\nRange: 45\nCast time: 1.5s\nRecharge: 30s -->
+  <TM_DistortSpirit_II.description>Distorsiona el equilibrio entre el espíritu y el cuerpo de los colonos vivos en un área amplia. Los colonos que sufren de distorsión espiritual recibirán un 20% más de daño de todas las fuentes.\n\nAlcance: 45\nTiempo de lanzamiento: 1.5s\nRecarga: 30s</TM_DistortSpirit_II.description>
+  
+  <!-- EN: Distort Spirit (IV) -->
+  <TM_DistortSpirit_III.label>distorsionar espíritu (III)</TM_DistortSpirit_III.label>
+  <!-- EN: Distorts the balance between spirit and body of living pawns in a wide area. Pawns suffering from spirit distortion will take 20% more damage from all sources.\n	\nRange: 50\nCast time: 1s\nRecharge: 20s -->
+  <TM_DistortSpirit_III.description>Distorsiona el equilibrio entre el espíritu y el cuerpo de los colonos vivos en un área amplia. Los colonos que sufren de distorsión espiritual recibirán un 20% más de daño de todas las fuentes.\n\nAlcance: 50\nTiempo de lanzamiento: 1s\nRecarga: 20s</TM_DistortSpirit_III.description>
+  
+  <!-- EN: Spirit Drain -->
+  <TM_SpiritDrain.label>drenaje espiritual</TM_SpiritDrain.label>
+  <!-- EN: Drains the spirit of a living being to restore spirit energy of the caster. -->
+  <TM_SpiritDrain.description>Drena el espíritu de un ser vivo para restaurar la energía espiritual del lanzador.</TM_SpiritDrain.description>
+  
+  <!-- EN: Possess -->
+  <TM_SpiritPossession.label>poseer</TM_SpiritPossession.label>
+  <!-- EN: Possess a physical body, either dead or living. Possessing a body decreases how quickly spirit energy is lost. Deceased bodies or animals may be freely possessed, but do not generate spirit energy on their own, only another body with an existing spirit host will generate spirit energy. However, a body that is already occupied is more difficult to possess and the possessing spirit may struggle with the original spirit of the host. If the spirit still has energy, then it will extract from the body and become a wandering spirit once again. If a spirit's energy is completely drained, then it will cease to exist. When a spirit leaves a body, then the body will return to its original state or owner. Spirit Energy may be gained by siphoning energy through physical harm, using Spirit Drain, or through meditation. Killing another pawn with spirit drain absorbs a large amount of spirit. The body of a possessed pawn will not recover naturally, and only heals wounds and maladies when it gains spirit energy. -->
+  <TM_SpiritPossession.description>Posee un cuerpo físico, ya sea muerto o vivo. Poseer un cuerpo disminuye la rapidez con la que se pierde la energía espiritual. Los cuerpos fallecidos o animales pueden ser poseídos libremente, pero no generan energía espiritual por sí mismos; solo otro cuerpo con un huésped espiritual existente generará energía espiritual. Sin embargo, un cuerpo que ya está ocupado es más difícil de poseer y el espíritu poseedor puede luchar con el espíritu original del huésped. Si el espíritu todavía tiene energía, se extraerá del cuerpo y se convertirá en un espíritu errante una vez más. Si la energía de un espíritu se agota por completo, dejará de existir. Cuando un espíritu abandona un cuerpo, el cuerpo volverá a su estado o dueño original. La energía espiritual se puede ganar sifonando energía a través del daño físico, usando Drenaje espiritual o mediante la meditación. Matar a otro colono con drenaje espiritual absorbe una gran cantidad de espíritu. El cuerpo de un colono poseído no se recuperará naturalmente y solo cura heridas y enfermedades cuando gana energía espiritual.</TM_SpiritPossession.description>
+  
+  <!-- EN: Spirit Rally (I) -->
+  <TM_SpiritRally.label>reunión espiritual</TM_SpiritRally.label>
+  <!-- EN: Enlists the aid of recently deceased pawns to inhabit the form of a spirit wolf and assist the caster for a short time. Spirit Rally is only effective when cast in the proximity of corpses. Each corpse may generate a spirit.\n\nCast time: 2s\nCooldown: 45s -->
+  <TM_SpiritRally.description>Alista la ayuda de colonos recientemente fallecidos para habitar la forma de un lobo espiritual y ayudar al lanzador por un corto tiempo. Reunión espiritual solo es efectiva cuando se lanza cerca de cadáveres. Cada cadáver puede generar un espíritu.\n\nTiempo de lanzamiento: 2s\nTiempo de recarga: 45s</TM_SpiritRally.description>
+  
+  <!-- EN: Spirit Rally (II) -->
+  <TM_SpiritRally_I.label>reunión espiritual (I)</TM_SpiritRally_I.label>
+  <!-- EN: Enlists the aid of recently deceased pawns to inhabit the form of a spirit wolf and assist the caster for a short time. Spirit Rally is only effective when cast in the proximity of corpses. Each corpse may generate a spirit.\n\nCast time: 1s\nCooldown: 30s -->
+  <TM_SpiritRally_I.description>Alista la ayuda de colonos recientemente fallecidos para habitar la forma de un lobo espiritual y ayudar al lanzador por un corto tiempo. Reunión espiritual solo es efectiva cuando se lanza cerca de cadáveres. Cada cadáver puede generar un espíritu.\n\nTiempo de lanzamiento: 1s\nTiempo de recarga: 30s</TM_SpiritRally_I.description>
+  
+  <!-- EN: Spirit Rally (III) -->
+  <TM_SpiritRally_II.label>reunión espiritual (II)</TM_SpiritRally_II.label>
+  <!-- EN: Enlists the aid of recently deceased pawns to inhabit the form of a spirit wolf and assist the caster for a short time. Spirit Rally is only effective when cast in the proximity of corpses. Each corpse may generate a spirit.\n\nCast time: .5s\nCooldown: 20s -->
+  <TM_SpiritRally_II.description>Alista la ayuda de colonos recientemente fallecidos para habitar la forma de un lobo espiritual y ayudar al lanzador por un corto tiempo. Reunión espiritual solo es efectiva cuando se lanza cerca de cadáveres. Cada cadáver puede generar un espíritu.\n\nTiempo de lanzamiento: .5s\nTiempo de recarga: 20s</TM_SpiritRally_II.description>
+  
+  <!-- EN: Spirit Rally (IV) -->
+  <TM_SpiritRally_III.label>reunión espiritual (III)</TM_SpiritRally_III.label>
+  <!-- EN: Enlists the aid of recently deceased pawns to inhabit the form of a spirit wolf and assist the caster for a short time. Spirit Rally is only effective when cast in the proximity of corpses. Each corpse may generate a spirit.\n\nCast time: 0s\nCooldown: 15s -->
+  <TM_SpiritRally_III.description>Alista la ayuda de colonos recientemente fallecidos para habitar la forma de un lobo espiritual y ayudar al lanzador por un corto tiempo. Reunión espiritual solo es efectiva cuando se lanza cerca de cadáveres. Cada cadáver puede generar un espíritu.\n\nTiempo de lanzamiento: 0s\nTiempo de recarga: 15s</TM_SpiritRally_III.description>
+  
+  <!-- EN: Spirit Storm -->
+  <TM_SpiritStorm.label>tormenta espiritual</TM_SpiritStorm.label>
+  <!-- EN: Create a spirit beacon that attracts spirits of loss, spite, and vengeance. The swarm of angry spirits will quickly develop into a vortex that rips away reality and hope. The malevolent spirits within this storm will seek out the spirits of living beings to inflict their suffering. The direction of the spirit storm can be controlled for a short time after it is created. -->
+  <TM_SpiritStorm.description>Crea una baliza espiritual que atrae espíritus de pérdida, rencor y venganza. El enjambre de espíritus enojados se convertirá rápidamente en un vórtice que arranca la realidad y la esperanza. Los espíritus malévolos dentro de esta tormenta buscarán a los espíritus de los seres vivos para infligir su sufrimiento. La dirección de la tormenta espiritual se puede controlar por un corto tiempo después de que se crea.</TM_SpiritStorm.description>
+  
+  <!-- EN: Spirit Animals -->
+  <TM_SummonSpiritAnimalMass.label>animales espirituales</TM_SummonSpiritAnimalMass.label>
+  <!-- EN: Summons 1 of each spirit animal for a short time. -->
+  <TM_SummonSpiritAnimalMass.description>Invoca 1 de cada animal espiritual por un corto tiempo.</TM_SummonSpiritAnimalMass.description>
+  
+</LanguageData>

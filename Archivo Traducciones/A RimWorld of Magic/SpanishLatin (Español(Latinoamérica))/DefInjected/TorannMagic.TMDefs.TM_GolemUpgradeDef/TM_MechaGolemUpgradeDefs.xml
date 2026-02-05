@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: mecha-axe -->
+  <TM_Golem_MechaAxe.label>meca-hacha</TM_Golem_MechaAxe.label>
+  <!-- EN: Adds a quick cutting attack, useful for cutting down unarmored masses. 16.4 DPS with 1.15 armor penetration. \n		*This upgrade shares the same slot as the Mecha-Sword and will remove the Mecha-Sword if installed* -->
+  <TM_Golem_MechaAxe.description>Añade un ataque de corte rápido, útil para cortar masas sin armadura. 16.4 DPS con 1.15 de penetración de armadura.\n *Esta mejora comparte la misma ranura que la Meca-Espada y eliminará la Meca-Espada si se instala*</TM_Golem_MechaAxe.description>
+  
+  <!-- EN: ballistic plate -->
+  <TM_Golem_MechaBallisticPlate.label>placa balística</TM_Golem_MechaBallisticPlate.label>
+  <!-- EN: Increases armor but decreases movement for each level:\nBlunt:	+[24,37,49]%\nSharp:	+[35,53,68]%\nHeat:	+[40,60,75]%\nMove:	-[.3c,.5c,.6c]% -->
+  <TM_Golem_MechaBallisticPlate.description>Aumenta la armadura pero disminuye el movimiento por cada nivel:\nContundente: +[24,37,49]%\nFilo: +[35,53,68]%\nCalor: +[40,60,75]%\nMovimiento: -[.3c,.5c,.6c]%</TM_Golem_MechaBallisticPlate.description>
+  
+  <!-- EN: earth core -->
+  <TM_Golem_MechaEarthCore.label>núcleo de tierra</TM_Golem_MechaEarthCore.label>
+  <!-- EN: Passively increases golem stats and adds an ability that provides a shield.\nArmor:		+[10%/18%/25%]\nAbility Cooldown:	+[5%/10%/15%]\nHealing Bonus:	+[60%/120%/180%]\nEnergy Cost:	+[5%/10%/15%]\nProcessing: 	+[15%/30%/45%]\n\nShield Protocol\nCooldown:	10s\nEnergy Cost:	10\nShield Amount:	120 -->
+  <TM_Golem_MechaEarthCore.description>Aumenta pasivamente las estadísticas del gólem y añade una habilidad que proporciona un escudo.\nArmadura: +[10%/18%/25%]\nEnfriamiento de Habilidad: +[5%/10%/15%]\nBonificación de Curación: +[60%/120%/180%]\nCosto de Energía: +[5%/10%/15%]\nProcesamiento: +[15%/30%/45%]\n\nProtocolo de Escudo\nEnfriamiento: 10s\nCosto de Energía: 10\nCantidad de Escudo: 120</TM_Golem_MechaEarthCore.description>
+  
+  <!-- EN: earth shard -->
+  <TM_Golem_MechaEarthShard.label>fragmento de tierra</TM_Golem_MechaEarthShard.label>
+  <!-- EN: Increases golem stats:\nHealth:		+[40%/80%/120%] -->
+  <TM_Golem_MechaEarthShard.description>Aumenta las estadísticas del gólem:\nSalud: +[40%/80%/120%]</TM_Golem_MechaEarthShard.description>
+  
+  <!-- EN: energy converter -->
+  <TM_Golem_MechaEnergyEfficiency.label>convertidor de energía</TM_Golem_MechaEnergyEfficiency.label>
+  <!-- EN: Increases energy efficiency by 10% per level. Starting energy efficiency is 50%. -->
+  <TM_Golem_MechaEnergyEfficiency.description>Aumenta la eficiencia energética en un 10% por nivel. La eficiencia energética inicial es del 50%.</TM_Golem_MechaEnergyEfficiency.description>
+  
+  <!-- EN: electrical neuro-core -->
+  <TM_Golem_MechaEnergyRate.label>neuro-núcleo eléctrico</TM_Golem_MechaEnergyRate.label>
+  <!-- EN: Increases energy charge rate by 20% per level. Starting recharge rate is 50 energy/hour when disconnected from a power grid. Connecting to a power grind increases the recharge rate. -->
+  <TM_Golem_MechaEnergyRate.description>Aumenta la tasa de carga de energía en un 20% por nivel. La tasa de recarga inicial es de 50 de energía/hora cuando está desconectado de una red eléctrica. Conectarse a una red eléctrica aumenta la tasa de recarga.</TM_Golem_MechaEnergyRate.description>
+  
+  <!-- EN: extinguisher -->
+  <TM_Golem_MechaExtinguisher.label>extintor</TM_Golem_MechaExtinguisher.label>
+  <!-- EN: Adds the ability to quickly douse fires. -->
+  <TM_Golem_MechaExtinguisher.description>Añade la capacidad de apagar incendios rápidamente.</TM_Golem_MechaExtinguisher.description>
+  
+  <!-- EN: flame core -->
+  <TM_Golem_MechaFlameCore.label>núcleo de llama</TM_Golem_MechaFlameCore.label>
+  <!-- EN: Passively increases golem stats and adds an ability that burns away nearby filth.\nMovement:	+[0.5c/0.9c/1.2c]\nProcessing: 	+[10%/20%/30%]\nAbility Damage:	+[10%/20%/30%]\nEnergy Cost:	+[10%/20%/30%]\n\nCleaning Protocol\nCooldown:	6s\nRange:	2c\nEnergy Cost:	4 per filth -->
+  <TM_Golem_MechaFlameCore.description>Aumenta pasivamente las estadísticas del gólem y añade una habilidad que quema la suciedad cercana.\nMovimiento: +[0.5c/0.9c/1.2c]\nProcesamiento: +[10%/20%/30%]\nDaño de Habilidad: +[10%/20%/30%]\nCosto de Energía: +[10%/20%/30%]\n\nProtocolo de Limpieza\nEnfriamiento: 6s\nRango: 2c\nCosto de Energía: 4 por suciedad</TM_Golem_MechaFlameCore.description>
+  
+  <!-- EN: flame shard -->
+  <TM_Golem_MechaFlameShard.label>fragmento de llama</TM_Golem_MechaFlameShard.label>
+  <!-- EN: Increases golem stats:\nMovement:	+[15%/30%/40%]\nHealth:		+[15%/30%/40%] -->
+  <TM_Golem_MechaFlameShard.description>Aumenta las estadísticas del gólem:\nMovimiento: +[15%/30%/40%]\nSalud: +[15%/30%/40%]</TM_Golem_MechaFlameShard.description>
+  
+  <!-- EN: Gatling cannon -->
+  <TM_Golem_MechaGatlingCannon.label>cañón Gatling</TM_Golem_MechaGatlingCannon.label>
+  <!-- EN: Fires a 12 round burst of gunfire.\nCooldown:	5s\nEnergy Cost:	40\nRange: 		40 -->
+  <TM_Golem_MechaGatlingCannon.description>Dispara una ráfaga de 12 rondas de disparos.\nEnfriamiento: 5s\nCosto de Energía: 40\nRango: 40</TM_Golem_MechaGatlingCannon.description>
+  
+  <!-- EN: mecha-hammer -->
+  <TM_Golem_MechaHammer.label>meca-martillo</TM_Golem_MechaHammer.label>
+  <!-- EN: Adds a ruthless blunt attack, more powerful than the golems fists. -->
+  <TM_Golem_MechaHammer.description>Añade un ataque contundente despiadado, más poderoso que los puños del gólem.</TM_Golem_MechaHammer.description>
+  
+  <!-- EN: lightning core -->
+  <TM_Golem_MechaLightningCore.label>núcleo de rayo</TM_Golem_MechaLightningCore.label>
+  <!-- EN: Passively increases golem stats and adds a reflexive coating to the golem's shell that produces an electric discharge that stuns melee attackers.\nMovement:	+[1.2c/1.8c/2.2c]\nAbility Cooldown:	-[15%/30%/45%]\nEnergy Cost:	+[10%/20%/30%]\nProcessing: 	-[5%/10%/15%] -->
+  <TM_Golem_MechaLightningCore.description>Aumenta pasivamente las estadísticas del gólem y añade un recubrimiento reflexivo al caparazón del gólem que produce una descarga eléctrica que aturde a los atacantes cuerpo a cuerpo.\nMovimiento: +[1.2c/1.8c/2.2c]\nEnfriamiento de Habilidad: -[15%/30%/45%]\nCosto de Energía: +[10%/20%/30%]\nProcesamiento: -[5%/10%/15%]</TM_Golem_MechaLightningCore.description>
+  
+  <!-- EN: lightning shard -->
+  <TM_Golem_MechaLightningShard.label>fragmento de rayo</TM_Golem_MechaLightningShard.label>
+  <!-- EN: Increases golem stats:\nMovement:	+[25%/50%/75%] -->
+  <TM_Golem_MechaLightningShard.description>Aumenta las estadísticas del gólem:\nMovimiento: +[25%/50%/75%]</TM_Golem_MechaLightningShard.description>
+  
+  <!-- EN: energy cell -->
+  <TM_Golem_MechaMaxEnergy.label>celda de energía</TM_Golem_MechaMaxEnergy.label>
+  <!-- EN: Increases maximum energy by 500 per level. Starting max energy is 1000. -->
+  <TM_Golem_MechaMaxEnergy.description>Aumenta la energía máxima en 500 por nivel. La energía máxima inicial es 1000.</TM_Golem_MechaMaxEnergy.description>
+  
+  <!-- EN: mining laser -->
+  <TM_Golem_MechaMiningLaser.label>láser de minería</TM_Golem_MechaMiningLaser.label>
+  <!-- EN: Allows the golem to mine designated wall segments.\nEnergy Cost: [20,18,16,14]\nLaser Power: [40,50,60,70] -->
+  <TM_Golem_MechaMiningLaser.description>Permite al gólem minar segmentos de pared designados.\nCosto de Energía: [20,18,16,14]\nPotencia del Láser: [40,50,60,70]</TM_Golem_MechaMiningLaser.description>
+  
+  <!-- EN: restore part -->
+  <TM_Golem_MechaRepair.label>restaurar parte</TM_Golem_MechaRepair.label>
+  
+  <!-- EN: mecha-sword -->
+  <TM_Golem_MechaSword.label>meca-espada</TM_Golem_MechaSword.label>
+  <!-- EN: Adds a powerful cutting attack, useful for breaking through defenses and severing limbs. 20 DPS with .5 armor penetration. \n		*This upgrade shares the same slot as the Mecha-Axe and will remove the Mecha-Axe if installed* -->
+  <TM_Golem_MechaSword.description>Añade un poderoso ataque de corte, útil para atravesar defensas y cortar extremidades. 20 DPS con .5 de penetración de armadura.\n *Esta mejora comparte la misma ranura que la Meca-Hacha y eliminará la Meca-Hacha si se instala*</TM_Golem_MechaSword.description>
+  
+  <!-- EN: water core -->
+  <TM_Golem_MechaWaterCore.label>núcleo de agua</TM_Golem_MechaWaterCore.label>
+  <!-- EN: Passively increases golem stats and adds an autonomous repair mechanism.\nArmor:		+[5%/10%/15%]\nAbility Cooldown:	-[10%/20%/30%]\nHealing Bonus:	+[100%/200%/300%]\nEnergy Cost:	-[15%/30%/45%]\n\nAutonomous Repair\nCooldown:	3s\nEnergy Cost:	10(D), 30(A)\nHeal Amount:	8 -->
+  <TM_Golem_MechaWaterCore.description>Aumenta pasivamente las estadísticas del gólem y añade un mecanismo de reparación autónomo.\nArmadura: +[5%/10%/15%]\nEnfriamiento de Habilidad: -[10%/20%/30%]\nBonificación de Curación: +[100%/200%/300%]\nCosto de Energía: -[15%/30%/45%]\n\nReparación Autónoma\nEnfriamiento: 3s\nCosto de Energía: 10(D), 30(A)\nCantidad de Curación: 8</TM_Golem_MechaWaterCore.description>
+  
+  <!-- EN: water shard -->
+  <TM_Golem_MechaWaterShard.label>fragmento de agua</TM_Golem_MechaWaterShard.label>
+  <!-- EN: Increases golem stats:\nMovement:	+[10%/15%/20%]\nHealth:		+[30%/50%/70%] -->
+  <TM_Golem_MechaWaterShard.description>Aumenta las estadísticas del gólem:\nMovimiento: +[10%/15%/20%]\nSalud: +[30%/50%/70%]</TM_Golem_MechaWaterShard.description>
+  
+</LanguageData>

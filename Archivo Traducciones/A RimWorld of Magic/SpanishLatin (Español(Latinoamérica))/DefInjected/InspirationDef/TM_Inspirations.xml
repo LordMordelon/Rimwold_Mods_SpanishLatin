@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: arcane path -->
+  <ID_ArcanePathways.label>camino arcano</ID_ArcanePathways.label>
+  <!-- EN: Inspired: Arcane Path -->
+  <ID_ArcanePathways.baseInspectLine>Inspirado: Camino Arcano</ID_ArcanePathways.baseInspectLine>
+  <!-- EN: {0} has seen a vision of arcane potential. [PAWN_pronoun] can achieve the power of a {1} with the assistance of a voidseeker. This ritual must be performed within two days or the inspiration will be lost. -->
+  <ID_ArcanePathways.beginLetter>{0} ha visto una visión de potencial arcano. [PAWN_pronoun] puede lograr el poder de un {1} con la ayuda de un buscador del vacío. Este ritual debe realizarse dentro de dos días o la inspiración se perderá.</ID_ArcanePathways.beginLetter>
+  <!-- EN: Inspiration: arcane path -->
+  <ID_ArcanePathways.beginLetterLabel>Inspiración: camino arcano</ID_ArcanePathways.beginLetterLabel>
+  <!-- EN: {0} can no longer reach an arcane path of a {1} through inspiration. -->
+  <ID_ArcanePathways.endMessage>{0} ya no puede alcanzar un camino arcano de un {1} a través de la inspiración.</ID_ArcanePathways.endMessage>
+  
+  <!-- EN: champion -->
+  <ID_Champion.label>campeón</ID_Champion.label>
+  <!-- EN: Inspired: Champion -->
+  <ID_Champion.baseInspectLine>Inspirado: Campeón</ID_Champion.baseInspectLine>
+  <!-- EN: {0} has been heroically inspired. [PAWN_pronoun] dreams of being the champion in the stories told by bards and will live up to those expectations for the next 72 hours. -->
+  <ID_Champion.beginLetter>{0} ha sido heroicamente inspirado. [PAWN_pronoun] sueña con ser el campeón en las historias contadas por los bardos y estará a la altura de esas expectativas durante las próximas 72 horas.</ID_Champion.beginLetter>
+  <!-- EN: Inspiration: champion -->
+  <ID_Champion.beginLetterLabel>Inspiración: campeón</ID_Champion.beginLetterLabel>
+  <!-- EN: {0} is no longer inspired (champion). -->
+  <ID_Champion.endMessage>{0} ya no está inspirado (campeón).</ID_Champion.endMessage>
+  
+  <!-- EN: enlightened -->
+  <ID_Enlightened.label>iluminado</ID_Enlightened.label>
+  <!-- EN: Inspired: Enlightened -->
+  <ID_Enlightened.baseInspectLine>Inspirado: Iluminado</ID_Enlightened.baseInspectLine>
+  <!-- EN: {0} has entered a period of enlightenment. [PAWN_pronoun] consciousness will be significantly expanded for the next 72 hours. -->
+  <ID_Enlightened.beginLetter>{0} ha entrado en un período de iluminación. Su conciencia se expandirá significativamente durante las próximas 72 horas.</ID_Enlightened.beginLetter>
+  <!-- EN: Inspiration: enlightenment -->
+  <ID_Enlightened.beginLetterLabel>Inspiración: iluminación</ID_Enlightened.beginLetterLabel>
+  <!-- EN: {0} is no longer inspired (enlightenment). -->
+  <ID_Enlightened.endMessage>{0} ya no está inspirado (iluminación).</ID_Enlightened.endMessage>
+  
+  <!-- EN: farming frenzy -->
+  <ID_FarmingFrenzy.label>frenesí agrícola</ID_FarmingFrenzy.label>
+  <!-- EN: Inspired: Farming Frenzy -->
+  <ID_FarmingFrenzy.baseInspectLine>Inspirado: Frenesí Agrícola</ID_FarmingFrenzy.baseInspectLine>
+  <!-- EN: {0} has just been inspired. [PAWN_pronoun] will harvest crops 100% faster with 50% more yield during plant cutting jobs for the next 48 hours. -->
+  <ID_FarmingFrenzy.beginLetter>{0} acaba de inspirarse. [PAWN_pronoun] cosechará cultivos un 100% más rápido con un 50% más de rendimiento durante los trabajos de corte de plantas durante las próximas 48 horas.</ID_FarmingFrenzy.beginLetter>
+  <!-- EN: Inspiration: farming frenzy -->
+  <ID_FarmingFrenzy.beginLetterLabel>Inspiración: frenesí agrícola</ID_FarmingFrenzy.beginLetterLabel>
+  <!-- EN: {0} is no longer inspired (farming frenzy). -->
+  <ID_FarmingFrenzy.endMessage>{0} ya no está inspirado (frenesí agrícola).</ID_FarmingFrenzy.endMessage>
+  
+  <!-- EN: introspection -->
+  <ID_Introspection.label>introspección</ID_Introspection.label>
+  <!-- EN: Inspired: Introspection -->
+  <ID_Introspection.baseInspectLine>Inspirado: Introspección</ID_Introspection.baseInspectLine>
+  <!-- EN: {0} has just been inspired. [PAWN_pronoun] will learn 2 times faster for the next 48 hours. -->
+  <ID_Introspection.beginLetter>{0} acaba de inspirarse. [PAWN_pronoun] aprenderá 2 veces más rápido durante las próximas 48 horas.</ID_Introspection.beginLetter>
+  <!-- EN: Inspiration: introspection -->
+  <ID_Introspection.beginLetterLabel>Inspiración: introspección</ID_Introspection.beginLetterLabel>
+  <!-- EN: {0} is no longer inspired (introspection). -->
+  <ID_Introspection.endMessage>{0} ya no está inspirado (introspección).</ID_Introspection.endMessage>
+  
+  <!-- EN: mana regeneration -->
+  <ID_ManaRegen.label>regeneración de maná</ID_ManaRegen.label>
+  <!-- EN: Inspired: Mana regeneration -->
+  <ID_ManaRegen.baseInspectLine>Inspirado: Regeneración de maná</ID_ManaRegen.baseInspectLine>
+  <!-- EN: {0} has just been inspired. [PAWN_pronoun] will gain mana 2 times faster for the next 72 hours. -->
+  <ID_ManaRegen.beginLetter>{0} acaba de inspirarse. [PAWN_pronoun] ganará maná 2 veces más rápido durante las próximas 72 horas.</ID_ManaRegen.beginLetter>
+  <!-- EN: Inspiration: mana regen -->
+  <ID_ManaRegen.beginLetterLabel>Inspiración: regeneración de maná</ID_ManaRegen.beginLetterLabel>
+  <!-- EN: {0} is no longer inspired (mana regen). -->
+  <ID_ManaRegen.endMessage>{0} ya no está inspirado (regeneración de maná).</ID_ManaRegen.endMessage>
+  
+  <!-- EN: mining frenzy -->
+  <ID_MiningFrenzy.label>frenesí minero</ID_MiningFrenzy.label>
+  <!-- EN: Inspired: Mining Frenzy -->
+  <ID_MiningFrenzy.baseInspectLine>Inspirado: Frenesí Minero</ID_MiningFrenzy.baseInspectLine>
+  <!-- EN: {0} has just been inspired. [PAWN_pronoun] will mine 100% faster and yield 100% more resources during mining for the next 48 hours. -->
+  <ID_MiningFrenzy.beginLetter>{0} acaba de inspirarse. [PAWN_pronoun] minará un 100% más rápido y obtendrá un 100% más de recursos durante la minería durante las próximas 48 horas.</ID_MiningFrenzy.beginLetter>
+  <!-- EN: Inspiration: mining frenzy -->
+  <ID_MiningFrenzy.beginLetterLabel>Inspiración: frenesí minero</ID_MiningFrenzy.beginLetterLabel>
+  <!-- EN: {0} is no longer inspired (mining frenzy). -->
+  <ID_MiningFrenzy.endMessage>{0} ya no está inspirado (frenesí minero).</ID_MiningFrenzy.endMessage>
+  
+  <!-- EN: outgoing -->
+  <ID_Outgoing.label>extrovertido</ID_Outgoing.label>
+  <!-- EN: Inspired: Outgoing -->
+  <ID_Outgoing.baseInspectLine>Inspirado: Extrovertido</ID_Outgoing.baseInspectLine>
+  <!-- EN: {0} has just been inspired. [PAWN_pronoun] will be more socially active and will be more likely to have positive social interactions for the next 24 hours. -->
+  <ID_Outgoing.beginLetter>{0} acaba de inspirarse. [PAWN_pronoun] será más socialmente activo y tendrá más probabilidades de tener interacciones sociales positivas durante las próximas 24 horas.</ID_Outgoing.beginLetter>
+  <!-- EN: Inspiration: social activity -->
+  <ID_Outgoing.beginLetterLabel>Inspiración: actividad social</ID_Outgoing.beginLetterLabel>
+  <!-- EN: {0} is no longer inspired (social activity). -->
+  <ID_Outgoing.endMessage>{0} ya no está inspirado (actividad social).</ID_Outgoing.endMessage>
+  
+</LanguageData>

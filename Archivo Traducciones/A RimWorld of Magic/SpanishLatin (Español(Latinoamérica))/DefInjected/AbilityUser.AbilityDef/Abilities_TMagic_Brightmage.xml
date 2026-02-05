@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Light Burst -->
+  <TM_LightBurst.label>estallido de luz</TM_LightBurst.label>
+  <!-- EN: Creates flashes of light that blind and disorient pawns caught in the blast. Disoriented pawns will be unable to distinguish between friend and foe and may fire on nearby friendly pawns. This ability is empowered by stored light. -->
+  <TM_LightBurst.description>Crea destellos de luz que ciegan y desorientan a los colonos atrapados en la explosión. Los colonos desorientados no podrán distinguir entre aliado y enemigo y pueden disparar a colonos aliados cercanos. Esta habilidad está potenciada por luz almacenada.</TM_LightBurst.description>
+  
+  <!-- EN: Light Lance -->
+  <TM_LightLance.label>lanza de luz</TM_LightLance.label>
+  <!-- EN: Focus light into an intense beam that burns everything along its path. This ability is empowered by stored light. -->
+  <TM_LightLance.description>Concentra la luz en un rayo intenso que quema todo a lo largo de su trayectoria. Esta habilidad está potenciada por luz almacenada.</TM_LightLance.description>
+  
+  <!-- EN: Light Skip -->
+  <TM_LightSkip.label>salto de luz</TM_LightSkip.label>
+  <!-- EN: The caster rides a wave of light for near-instant travel. Neither the caster's position or target's position can be roofed. -->
+  <TM_LightSkip.description>El lanzador cabalga una ola de luz para viajar casi al instante. Ni la posición del lanzador ni la del objetivo pueden estar bajo techo.</TM_LightSkip.description>
+  
+  <!-- EN: Global Light Skip -->
+  <TM_LightSkipGlobal.label>salto de luz global</TM_LightSkipGlobal.label>
+  <!-- EN: The caster and all allies in a 5 cell radius rides waves of light for near-instant travel. Pawns under a roof will not be transported. -->
+  <TM_LightSkipGlobal.description>El lanzador y todos los aliados en un radio de 5 celdas cabalgan olas de luz para viajar casi al instante. Los colonos bajo techo no serán transportados.</TM_LightSkipGlobal.description>
+  
+  <!-- EN: Mass Light Skip -->
+  <TM_LightSkipMass.label>salto de luz masivo</TM_LightSkipMass.label>
+  <!-- EN: The caster and all allies in a 5 cell radius rides waves of light for near-instant travel. Pawns under a roof will not be transported. -->
+  <TM_LightSkipMass.description>El lanzador y todos los aliados en un radio de 5 celdas cabalgan olas de luz para viajar casi al instante. Los colonos bajo techo no serán transportados.</TM_LightSkipMass.description>
+  
+  <!-- EN: Refraction -->
+  <TM_Refraction.label>refracción</TM_Refraction.label>
+  <!-- EN: Creates a wall of light that affects projectiles as they pass through the wall. Enemy projectiles may be offset from their intended targets. Friendly projectiles may use a portion of the light energy to create a mirrored reflection of the projectile. The wall will last about 25 seconds or until it runs out of energy. This ability is empowered by stored light. -->
+  <TM_Refraction.description>Crea un muro de luz que afecta los proyectiles al atravesarlo. Los proyectiles enemigos pueden desviarse de sus objetivos previstos. Los proyectiles aliados pueden usar una porción de la energía luminosa para crear un reflejo espejado del proyectil. El muro durará alrededor de 25 segundos o hasta que se quede sin energía. Esta habilidad está potenciada por luz almacenada.</TM_Refraction.description>
+  
+  <!-- EN: Create Light -->
+  <TM_SoL_CreateLight.label>crear luz</TM_SoL_CreateLight.label>
+  <!-- EN: Directs the Spirit of Light to create light at an area. This reduces the Spirit's light regeneration by 70%. Use this ability again at any location to dismiss the light. -->
+  <TM_SoL_CreateLight.description>Dirige al Espíritu de la Luz para crear luz en un área. Esto reduce la regeneración de luz del espíritu en un 70%. Usa esta habilidad de nuevo en cualquier ubicación para disipar la luz.</TM_SoL_CreateLight.description>
+  
+  <!-- EN: Equalize -->
+  <TM_SoL_Equalize.label>ecualizar</TM_SoL_Equalize.label>
+  <!-- EN: Equalizes the light energy between the Spirit of Light and caster. -->
+  <TM_SoL_Equalize.description>Ecualiza la energía luminosa entre el Espíritu de la Luz y el lanzador.</TM_SoL_Equalize.description>
+  
+  <!-- EN: Spirit Of Light -->
+  <TM_SpiritOfLight.label>espíritu de la luz</TM_SpiritOfLight.label>
+  <!-- EN: Summons a Spirit of Light that aids and protects the caster. This ability requires 60 mana to sustain and reduces mana regeneration by 75%. Use this ability again to dismiss the spirit. The SoL is able to store light energy and uses light energy to perform actions.\n		\nThe Spirit of Light works autonomously to aid the caster and will perform the following actions:\no Deflects attacks\no Cauterizes wounds of downed pawns\no Attacks enemies (only when drafted)\no Improve mood of nearby allies\no Create a burst of joy\no Protects the caster's dreams -->
+  <TM_SpiritOfLight.description>Invoca un Espíritu de la Luz que ayuda y protege al lanzador. Esta habilidad requiere 60 de maná para mantenerse y reduce la regeneración de maná en un 75%. Usa esta habilidad de nuevo para disipar el espíritu. El SoL puede almacenar energía luminosa y usa energía luminosa para realizar acciones.\n\nEl Espíritu de la Luz trabaja de forma autónoma para ayudar al lanzador y realizará las siguientes acciones:\no Desvía ataques\no Cauteriza heridas de colonos incapacitados\no Ataca enemigos (solo cuando está en modo de combate)\no Mejora el humor de aliados cercanos\no Crea una explosión de alegría\no Protege los sueños del lanzador</TM_SpiritOfLight.description>
+  
+  <!-- EN: Sunfire -->
+  <TM_Sunfire.label>fuego solar</TM_Sunfire.label>
+  <!-- EN: The target area is laced with burning slashes of light. This ability is empowered by stored light.\n\nCast time: 3s\nRange: 50\nCooldown: 60s\nRadius: 5\nCount: 13 -->
+  <TM_Sunfire.description>El área objetivo está atravesada por tajos ardientes de luz. Esta habilidad está potenciada por luz almacenada.\n\nTiempo de lanzamiento: 3s\nAlcance: 50\nTiempo de recarga: 60s\nRadio: 5\nCantidad: 13</TM_Sunfire.description>
+  
+  <!-- EN: Sunfire (I) -->
+  <TM_Sunfire_I.label>fuego solar (I)</TM_Sunfire_I.label>
+  <!-- EN: The target area is laced with burning slashes of light. This ability is empowered by stored light.\n\nCast time: 2.7s\nRange: 55\nCooldown: 55s\nRadius: 6\nCount: 14 -->
+  <TM_Sunfire_I.description>El área objetivo está atravesada por tajos ardientes de luz. Esta habilidad está potenciada por luz almacenada.\n\nTiempo de lanzamiento: 2.7s\nAlcance: 55\nTiempo de recarga: 55s\nRadio: 6\nCantidad: 14</TM_Sunfire_I.description>
+  
+  <!-- EN: Sunfire (II) -->
+  <TM_Sunfire_II.label>fuego solar (II)</TM_Sunfire_II.label>
+  <!-- EN: The target area is laced with burning slashes of light. This ability is empowered by stored light.\n\nCast time: 2.4s\nRange: 60\nCooldown: 50s\nRadius: 7\nCount: 15 -->
+  <TM_Sunfire_II.description>El área objetivo está atravesada por tajos ardientes de luz. Esta habilidad está potenciada por luz almacenada.\n\nTiempo de lanzamiento: 2.4s\nAlcance: 60\nTiempo de recarga: 50s\nRadio: 7\nCantidad: 15</TM_Sunfire_II.description>
+  
+  <!-- EN: Sunfire (III) -->
+  <TM_Sunfire_III.label>fuego solar (III)</TM_Sunfire_III.label>
+  <!-- EN: The target area is laced with burning slashes of light. This ability is empowered by stored light.\n\nCast time: 2.2s\nRange: 65\nCooldown: 45s\nRadius: 8\nCount: 16 -->
+  <TM_Sunfire_III.description>El área objetivo está atravesada por tajos ardientes de luz. Esta habilidad está potenciada por luz almacenada.\n\nTiempo de lanzamiento: 2.2s\nAlcance: 65\nTiempo de recarga: 45s\nRadio: 8\nCantidad: 16</TM_Sunfire_III.description>
+  
+</LanguageData>

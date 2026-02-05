@@ -2,14 +2,22 @@
 
 Paquete de traducciones al español latino para mods de RimWorld.
 
-## Contenido
-- Traducciones organizadas por mod en la carpeta Archivo Traducciones.
-- Pack principal en Pack Traducciones [Español Latino].
+## Contribuciones / ¿Como ayudar?
 
-## Estructura
-- Archivo Traducciones: fuentes y trabajo por mod.
-- Pack Traducciones [Español Latino]: que no lo eh actualizado para usar.
-- Programas: utilidades internas de extracción/compilación [lo de extraccion habeces funciona, por lo general uso el mod Extract Tranlation].
+Explico cómo trabajo actualmente: mientras juego, uso el mod Extract Translation. Si veo algo que me gusta, lo uso. Extract Translation genera una carpeta "SpanishLatin (Español (Latinoamérica))" dentro del mod, que traduzco por completo con el asistente de Gemini, dándole indicaciones sobre términos y preferencias para adecuar algunas cosas.
 
-## Contribuciones
-Si quieres ayudar, abre un issue o un pull request con tus cambios.
+Luego pruebo la traducción para ver qué tal va mientras ajusto irregularidades y detalles. Una vez revisado el mod, lo muevo de la carpeta de Steam Workshop a la carpeta de Archivo Traducciones. Acumulo algunos otros mods y uso el archivo compilador.py de la carpeta de Programas: lo ejecuto para meter todas las traducciones dentro de una carpeta SpanishLatin, que es con la que actualizo el mod.
+
+Requisitos para usar compilador.py:
+- Python 3 instalado.
+- Paquete PySide6 instalado (para la interfaz gráfica).
+
+Cómo usar compilador.py:
+1. Abre el archivo compilador.py de la carpeta Programas (puedes ejecutarlo con Python).
+2. Selecciona la carpeta de origen donde están los mods traducidos (Archivo Traducciones).
+3. Selecciona la carpeta de destino donde se generará la carpeta SpanishLatin (por ejemplo, el paquete final).
+4. Ejecuta el proceso y espera a que termine; se creará/actualizará la carpeta SpanishLatin con todas las traducciones.
+
+## Glosario (por añadir)
+chemfuel > quimbustible
+astrofuel > astrobustible

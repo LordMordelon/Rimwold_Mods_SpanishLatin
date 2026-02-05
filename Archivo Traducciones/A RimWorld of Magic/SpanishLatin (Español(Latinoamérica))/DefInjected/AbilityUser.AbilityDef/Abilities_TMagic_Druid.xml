@@ -1,0 +1,44 @@
+﻿﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Cure Disease -->
+  <TM_CureDisease.label>curar enfermedad</TM_CureDisease.label>
+  <!-- EN: Potential to cure most diseases and infections. -->
+  <TM_CureDisease.description>Potencial para curar la mayoría de enfermedades e infecciones.</TM_CureDisease.description>
+  
+  <!-- EN: Poison -->
+  <TM_Poison.label>veneno</TM_Poison.label>
+  <!-- EN: Fast acting toxin that works its way into the targets bloodstream. The more a target moves, the more lethal the poison becomes. Poison is ineffective against mechanoids. -->
+  <TM_Poison.description>Toxina de acción rápida que se abre camino en el torrente sanguíneo del objetivo. Cuanto más se mueve un objetivo, más letal se vuelve el veneno. El veneno es ineficaz contra mecanoides.</TM_Poison.description>
+  
+  <!-- EN: Regenerate -->
+  <TM_Regenerate.label>regenerar</TM_Regenerate.label>
+  <!-- EN: Regeneration acts as a natural curative over time and will restore even grievous wounds with continued application. Base regeneration restores 4 health to 1 wound every 5 seconds. Only cures physical injuries and will not restore or heal destroyed body parts. -->
+  <TM_Regenerate.description>La regeneración actúa como un curativo natural con el tiempo y restaurará incluso heridas graves con una aplicación continua. La regeneración base restaura 4 de salud a 1 herida cada 5 segundos. Solo cura lesiones físicas y no restaurará ni curará partes del cuerpo destruidas.</TM_Regenerate.description>
+  
+  <!-- EN: Regrowth -->
+  <TM_RegrowLimb.label>regenerar miembro</TM_RegrowLimb.label>
+  <!-- EN: Creates the Seed of Life required to regrow body parts. Regrowth surgeries will only appear as an option when all components of regrowth are within resource zones: 1x Seed of Life , mana potions, and medicine, then select the body part to regrow in the patient's surgery tab.  Ensure this druid (or another with this spell) performs the surgery and the druid has 90 mana or more at the time the surgery is performed. -->
+  <TM_RegrowLimb.description>Crea la Semilla de la Vida necesaria para regenerar partes del cuerpo. Las cirugías de regeneración solo aparecerán como una opción cuando todos los componentes de regeneración estén dentro de las zonas de recursos: 1x Semilla de la Vida, pociones de maná y medicina, luego selecciona la parte del cuerpo a regenerar en la pestaña de cirugía del paciente. Asegúrate de que este druida (u otro con este hechizo) realice la cirugía y que el druida tenga 90 de maná o más en el momento en que se realice la cirugía.</TM_RegrowLimb.description>
+  
+  <!-- EN: Beguile Animal -->
+  <TM_SootheAnimal.label>embelesar animal</TM_SootheAnimal.label>
+  <!-- EN: Using mastery over nature, the druid can overwhelm the emotional state of animals. This ability is dual purposed - if the animal is in a calm state, it will incite the beast into a manhunter rage; if the animal is already enraged, it will pacify the beast. Will not work on animals that belong to a faction.\n		\nRange: 65\nRecharge: 80s\nMax Targets: 4\nAoE Size: 7 -->
+  <TM_SootheAnimal.description>Usando la maestría sobre la naturaleza, el druida puede abrumar el estado emocional de los animales. Esta habilidad tiene doble propósito: si el animal está en un estado tranquilo, incitará a la bestia a una furia cazahombres; si el animal ya está enfurecido, pacificará a la bestia. No funcionará en animales que pertenezcan a una facción.\n\nAlcance: 65\nRecarga: 80s\nObjetivos Máx: 4\nTamaño del AdE: 7</TM_SootheAnimal.description>
+  
+  <!-- EN: Beguile Animal (I) -->
+  <TM_SootheAnimal_I.label>embelesar animal (I)</TM_SootheAnimal_I.label>
+  <!-- EN: Using mastery over nature, the druid can overwhelm the emotional state of animals. This ability is dual purposed - if the animal is in a calm state, it will incite the beast into a manhunter rage; if the animal is already enraged, it will pacify the beast. Will not work on animals that belong to a faction.\n		\nRange: 70\nRecharge: 75s\nMax Targets: 6\nAoE Size: 8 -->
+  <TM_SootheAnimal_I.description>Usando la maestría sobre la naturaleza, el druida puede abrumar el estado emocional de los animales. Esta habilidad tiene doble propósito: si el animal está en un estado tranquilo, incitará a la bestia a una furia cazahombres; si el animal ya está enfurecido, pacificará a la bestia. No funcionará en animales que pertenezcan a una facción.\n\nAlcance: 70\nRecarga: 75s\nObjetivos Máx: 6\nTamaño del AdE: 8</TM_SootheAnimal_I.description>
+  
+  <!-- EN: Beguile Animal (II) -->
+  <TM_SootheAnimal_II.label>embelesar animal (II)</TM_SootheAnimal_II.label>
+  <!-- EN: Using mastery over nature, the druid can overwhelm the emotional state of animals. This ability is dual purposed - if the animal is in a calm state, it will incite the beast into a manhunter rage; if the animal is already enraged, it will pacify the beast. Will not work on animals that belong to a faction.\n		\nRange: 75\nRecharge: 68s\nMax Targets: 7\nAoE Size: 9 -->
+  <TM_SootheAnimal_II.description>Usando la maestría sobre la naturaleza, el druida puede abrumar el estado emocional de los animales. Esta habilidad tiene doble propósito: si el animal está en un estado tranquilo, incitará a la bestia a una furia cazahombres; si el animal ya está enfurecido, pacificará a la bestia. No funcionará en animales que pertenezcan a una facción.\n\nAlcance: 75\nRecarga: 68s\nObjetivos Máx: 7\nTamaño del AdE: 9</TM_SootheAnimal_II.description>
+  
+  <!-- EN: Beguile Animal (III) -->
+  <TM_SootheAnimal_III.label>embelesar animal (III)</TM_SootheAnimal_III.label>
+  <!-- EN: Using mastery over nature, the druid can overwhelm the emotional state of animals. This ability is dual purposed - if the animal is in a calm state, it will incite the beast into a manhunter rage; if the animal is already enraged, it will pacify the beast. Will not work on animals that belong to a faction.\n		\nRange: 80\nRecharge: 60s\nMax Targets: 7\nAoE Size: 10 -->
+  <TM_SootheAnimal_III.description>Usando la maestría sobre la naturaleza, el druida puede abrumar el estado emocional de los animales. Esta habilidad tiene doble propósito: si el animal está en un estado tranquilo, incitará a la bestia a una furia cazahombres; si el animal ya está enfurecido, pacificará a la bestia. No funcionará en animales que pertenezcan a una facción.\n\nAlcance: 80\nRecarga: 60s\nObjetivos Máx: 7\nTamaño del AdE: 10</TM_SootheAnimal_III.description>
+  
+</LanguageData>

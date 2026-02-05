@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Armor -->
+  <TM_StrawGolem_Armor.label>armadura</TM_StrawGolem_Armor.label>
+  <!-- EN: Each upgrade increases the armor of the golem per level [1,2,3]:\nBlunt:\t+[6,11,15]%\nSharp:\t+[5,9,13]%\nHeat:\t+[4,7,10]% -->
+  <TM_StrawGolem_Armor.description>Cada mejora incrementa la armadura del gólem por nivel [1,2,3]:\nContundente:\t+[6,11,15]%\nCortante:\t+[5,9,13]%\nCalor:\t+[4,7,10]%</TM_StrawGolem_Armor.description>
+  <!-- EN: crafting golem part -->
+  <TM_StrawGolem_Armor.jobString>Fabricando parte de gólem.</TM_StrawGolem_Armor.jobString>
+  
+  <!-- EN: energy converter -->
+  <TM_StrawGolem_EnergyConverter.label>convertidor de energía</TM_StrawGolem_EnergyConverter.label>
+  <!-- EN: Increases the efficiency of energy absorbed and used by the golem by 6%. -->
+  <TM_StrawGolem_EnergyConverter.description>Aumenta la eficiencia de la energía absorbida y usada por el gólem en 6%.</TM_StrawGolem_EnergyConverter.description>
+  <!-- EN: constructing energy converter -->
+  <TM_StrawGolem_EnergyConverter.jobString>Construyendo convertidor de energía.</TM_StrawGolem_EnergyConverter.jobString>
+  
+  <!-- EN: energy cell -->
+  <TM_StrawGolem_EnergyMax.label>celda de energía</TM_StrawGolem_EnergyMax.label>
+  <!-- EN: Creates an energy cell that increases maximum energy by 100 per cell. -->
+  <TM_StrawGolem_EnergyMax.description>Crea una celda de energía que aumenta la energía máxima en 100 por celda.</TM_StrawGolem_EnergyMax.description>
+  <!-- EN: creating energy cell -->
+  <TM_StrawGolem_EnergyMax.jobString>Creando celda de energía.</TM_StrawGolem_EnergyMax.jobString>
+  
+  <!-- EN: energy generator -->
+  <TM_StrawGolem_EnergyRegen.label>generador de energía</TM_StrawGolem_EnergyRegen.label>
+  <!-- EN: Increases the energy regeneration rate of the golem by 20%. -->
+  <TM_StrawGolem_EnergyRegen.description>Aumenta la tasa de regeneración de energía del gólem en 20%.</TM_StrawGolem_EnergyRegen.description>
+  <!-- EN: constructing energy generator -->
+  <TM_StrawGolem_EnergyRegen.jobString>Construyendo generador de energía.</TM_StrawGolem_EnergyRegen.jobString>
+  
+  <!-- EN: frame tier -->
+  <TM_StrawGolem_LifeStage.label>nivel de armazón</TM_StrawGolem_LifeStage.label>
+  <!-- EN: Improves and refines the golem's frame each level [1,2,3]:\nMovement:	+[20/30/40]%\nHealth:		+[20/40/50]% -->
+  <TM_StrawGolem_LifeStage.description>Mejora y refina el armazón del gólem en cada nivel [1,2,3]:\nMovimiento:\t+[20/30/40]%\nSalud:\t+[20/40/50]%</TM_StrawGolem_LifeStage.description>
+  <!-- EN: improving golem frame -->
+  <TM_StrawGolem_LifeStage.jobString>Mejorando armazón del gólem.</TM_StrawGolem_LifeStage.jobString>
+  
+  <!-- EN: Part restoration -->
+  <TM_StrawGolem_RepairBlock.label>restauración de partes</TM_StrawGolem_RepairBlock.label>
+  <!-- EN: Replaces missing golem parts that do not require an upgrade. -->
+  <TM_StrawGolem_RepairBlock.description>Reemplaza partes faltantes del gólem que no requieren una mejora.</TM_StrawGolem_RepairBlock.description>
+  <!-- EN: crafting golem part -->
+  <TM_StrawGolem_RepairBlock.jobString>Fabricando parte de gólem.</TM_StrawGolem_RepairBlock.jobString>
+  
+  <!-- EN: Scarecrow -->
+  <TM_StrawGolem_Scarecrow.label>espantapájaros</TM_StrawGolem_Scarecrow.label>
+  <!-- EN: The straw golem wards off unwanted pests to increase the growing speed of nearby plants. -->
+  <TM_StrawGolem_Scarecrow.description>El gólem de paja ahuyenta plagas no deseadas para aumentar la velocidad de crecimiento de las plantas cercanas.</TM_StrawGolem_Scarecrow.description>
+  <!-- EN: crafting golem upgrade -->
+  <TM_StrawGolem_Scarecrow.jobString>Fabricando mejora de gólem.</TM_StrawGolem_Scarecrow.jobString>
+  
+  <!-- EN: Farming -->
+  <TM_StrawGolem_Seed.label>agricultura</TM_StrawGolem_Seed.label>
+  <!-- EN: Enhances the farming (plants) skill of the golem by 2. -->
+  <TM_StrawGolem_Seed.description>Mejora la habilidad de agricultura (plantas) del gólem en 2.</TM_StrawGolem_Seed.description>
+  <!-- EN: crafting golem upgrade -->
+  <TM_StrawGolem_Seed.jobString>Fabricando mejora de gólem.</TM_StrawGolem_Seed.jobString>
+  
+</LanguageData>

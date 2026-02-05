@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Hardening -->
+  <TM_StoneGolem_Armor.label>endurecimiento</TM_StoneGolem_Armor.label>
+  <!-- EN: Each upgrade increases the armor of the golem:\nBlunt:	+4%\nSharp:	+11%\nHeat:	+6% -->
+  <TM_StoneGolem_Armor.description>Cada mejora incrementa la armadura del gólem:\nContundente:\t+4%\nCortante:\t+11%\nCalor:\t+6%</TM_StoneGolem_Armor.description>
+  <!-- EN: crafting golem part -->
+  <TM_StoneGolem_Armor.jobString>Fabricando parte de gólem.</TM_StoneGolem_Armor.jobString>
+  
+  <!-- EN: Compactor -->
+  <TM_StoneGolem_Compactor.label>compactador</TM_StoneGolem_Compactor.label>
+  <!-- EN: Outfits the hollow golem with a stone compactor able to crush stone chunks into usable brick. -->
+  <TM_StoneGolem_Compactor.description>Equipa al gólem hueco con un compactador de piedra capaz de triturar trozos de piedra en ladrillos utilizables.</TM_StoneGolem_Compactor.description>
+  <!-- EN: crafting golem upgrade -->
+  <TM_StoneGolem_Compactor.jobString>Fabricando mejora de gólem.</TM_StoneGolem_Compactor.jobString>
+  
+  <!-- EN: energy converter -->
+  <TM_StoneGolem_EnergyConverter.label>convertidor de energía</TM_StoneGolem_EnergyConverter.label>
+  <!-- EN: Increases the efficiency of energy absorbed and used by the golem by 10%. -->
+  <TM_StoneGolem_EnergyConverter.description>Aumenta la eficiencia de la energía absorbida y usada por el gólem en 10%.</TM_StoneGolem_EnergyConverter.description>
+  <!-- EN: constructing energy converter -->
+  <TM_StoneGolem_EnergyConverter.jobString>Construyendo convertidor de energía.</TM_StoneGolem_EnergyConverter.jobString>
+  
+  <!-- EN: energy cell -->
+  <TM_StoneGolem_EnergyMax.label>celda de energía</TM_StoneGolem_EnergyMax.label>
+  <!-- EN: Creates an energy cell that increases maximum energy by 120 per cell. -->
+  <TM_StoneGolem_EnergyMax.description>Crea una celda de energía que aumenta la energía máxima en 120 por celda.</TM_StoneGolem_EnergyMax.description>
+  <!-- EN: creating energy cell -->
+  <TM_StoneGolem_EnergyMax.jobString>Creando celda de energía.</TM_StoneGolem_EnergyMax.jobString>
+  
+  <!-- EN: energy generator -->
+  <TM_StoneGolem_EnergyRegen.label>generador de energía</TM_StoneGolem_EnergyRegen.label>
+  <!-- EN: Increases the energy regeneration rate of the golem by 4 per hour. -->
+  <TM_StoneGolem_EnergyRegen.description>Aumenta la tasa de regeneración de energía del gólem en 4 por hora.</TM_StoneGolem_EnergyRegen.description>
+  <!-- EN: constructing energy generator -->
+  <TM_StoneGolem_EnergyRegen.jobString>Construyendo generador de energía.</TM_StoneGolem_EnergyRegen.jobString>
+  
+  <!-- EN: crush granite -->
+  <TM_StoneGolem_GraniteBricks.label>triturar granito</TM_StoneGolem_GraniteBricks.label>
+  <!-- EN: Deposits granite chunks into the golem to be crushed into usable blocks. -->
+  <TM_StoneGolem_GraniteBricks.description>Deposita trozos de granito en el gólem para triturarlos en bloques utilizables.</TM_StoneGolem_GraniteBricks.description>
+  <!-- EN: loading sandstone -->
+  <TM_StoneGolem_GraniteBricks.jobString>Cargando granito.</TM_StoneGolem_GraniteBricks.jobString>
+  
+  <!-- EN: frame tier -->
+  <TM_StoneGolem_LifeStage.label>nivel de armazón</TM_StoneGolem_LifeStage.label>
+  <!-- EN: Improves and refines the golem's frame each level [1,2,3]:\nMovement:	+[10/20/30]%\nHealth:		+[40/70/100]% -->
+  <TM_StoneGolem_LifeStage.description>Mejora y refina el armazón del gólem en cada nivel [1,2,3]:\nMovimiento:\t+[10/20/30]%\nSalud:\t+[40/70/100]%</TM_StoneGolem_LifeStage.description>
+  <!-- EN: improving golem frame -->
+  <TM_StoneGolem_LifeStage.jobString>Mejorando armazón del gólem.</TM_StoneGolem_LifeStage.jobString>
+  
+  <!-- EN: crush limestone -->
+  <TM_StoneGolem_LimestoneBricks.label>triturar caliza</TM_StoneGolem_LimestoneBricks.label>
+  <!-- EN: Deposits limestone chunks into the golem to be crushed into usable blocks. -->
+  <TM_StoneGolem_LimestoneBricks.description>Deposita trozos de caliza en el gólem para triturarlos en bloques utilizables.</TM_StoneGolem_LimestoneBricks.description>
+  <!-- EN: loading limestone -->
+  <TM_StoneGolem_LimestoneBricks.jobString>Cargando caliza.</TM_StoneGolem_LimestoneBricks.jobString>
+  
+  <!-- EN: crush marble -->
+  <TM_StoneGolem_MarbleBricks.label>triturar mármol</TM_StoneGolem_MarbleBricks.label>
+  <!-- EN: Deposits marble chunks into the golem to be crushed into usable blocks. -->
+  <TM_StoneGolem_MarbleBricks.description>Deposita trozos de mármol en el gólem para triturarlos en bloques utilizables.</TM_StoneGolem_MarbleBricks.description>
+  <!-- EN: loading marble -->
+  <TM_StoneGolem_MarbleBricks.jobString>Cargando mármol.</TM_StoneGolem_MarbleBricks.jobString>
+  
+  <!-- EN: Part restoration -->
+  <TM_StoneGolem_RepairBlock.label>restauración de partes</TM_StoneGolem_RepairBlock.label>
+  <!-- EN: Replaces missing golem parts that do not require an upgrade. -->
+  <TM_StoneGolem_RepairBlock.description>Reemplaza partes faltantes del gólem que no requieren una mejora.</TM_StoneGolem_RepairBlock.description>
+  <!-- EN: crafting golem part -->
+  <TM_StoneGolem_RepairBlock.jobString>Fabricando parte de gólem.</TM_StoneGolem_RepairBlock.jobString>
+  
+  <!-- EN: crush sandstone -->
+  <TM_StoneGolem_SandstoneBricks.label>triturar arenisca</TM_StoneGolem_SandstoneBricks.label>
+  <!-- EN: Deposits sandstone chunks into the golem to be crushed into usable blocks. -->
+  <TM_StoneGolem_SandstoneBricks.description>Deposita trozos de arenisca en el gólem para triturarlos en bloques utilizables.</TM_StoneGolem_SandstoneBricks.description>
+  <!-- EN: loading sandstone -->
+  <TM_StoneGolem_SandstoneBricks.jobString>Cargando arenisca.</TM_StoneGolem_SandstoneBricks.jobString>
+  
+  <!-- EN: crush slate -->
+  <TM_StoneGolem_SlateBricks.label>triturar pizarra</TM_StoneGolem_SlateBricks.label>
+  <!-- EN: Deposits slate chunks into the golem to be crushed into usable blocks. -->
+  <TM_StoneGolem_SlateBricks.description>Deposita trozos de pizarra en el gólem para triturarlos en bloques utilizables.</TM_StoneGolem_SlateBricks.description>
+  <!-- EN: loading slate -->
+  <TM_StoneGolem_SlateBricks.jobString>Cargando pizarra.</TM_StoneGolem_SlateBricks.jobString>
+  
+</LanguageData>

@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Chain Lightning -->
+  <TM_ChainLightning.label>relámpago en cadena</TM_ChainLightning.label>
+  <!-- EN: A powerful bolt of lightning that forks after striking its first target. -->
+  <TM_ChainLightning.description>Un poderoso rayo que se bifurca tras golpear a su primer objetivo.</TM_ChainLightning.description>
+  
+  <!-- EN: Dismiss Guardian Spirit -->
+  <TM_DismissGuardianSpirit.label>despedir espíritu guardián</TM_DismissGuardianSpirit.label>
+  <!-- EN: Releases the guardian spirit to return to the spirit realm. -->
+  <TM_DismissGuardianSpirit.description>Libera al espíritu guardián para que regrese al reino espiritual.</TM_DismissGuardianSpirit.description>
+  
+  <!-- EN: Enrage -->
+  <TM_Enrage.label>enfurecer</TM_Enrage.label>
+  <!-- EN: Places a hex on a target that causes their emotions (Mood) to become fuel for battle rage. The hex will burn itself out once all emotions have been consumed. Hostile targets will immediately become berserk if their mind is susceptible.\n\nAn enraged pawn gains increased movement and manipulation, increased pain resistance, cannot be staggered, and increases melee damage by the percent equal to the severity of enrage (20-50% damage bonus). -->
+  <TM_Enrage.description>Coloca un maleficio sobre un objetivo que hace que sus emociones (Humor) se conviertan en combustible para la furia de batalla. El maleficio se consumirá una vez que todas las emociones se hayan agotado. Los objetivos hostiles se volverán locos inmediatamente si su mente es susceptible.\n\nUn colono enfurecido gana mayor movimiento y manipulación, mayor resistencia al dolor, no puede ser tambaleado y aumenta el daño cuerpo a cuerpo en un porcentaje igual a la gravedad de la furia (bonificación de daño del 20-50%).</TM_Enrage.description>
+  
+  <!-- EN: Guardian Spirit -->
+  <TM_GuardianSpirit.label>espíritu guardián</TM_GuardianSpirit.label>
+  <!-- EN: Summons a guardian spirit. Guardian spirits manifest as powerful animals with unique strengths and abilities.\n\nSpirit Bear - represents defense and fortitude; will issue a challenging roar against any that think to ignore this dangerous beast\n\nSpirit Mongoose - represents cunning and agility; able to slip through the spirit realm to deliver a lethal, hidden attack\n\nSpirit Crow - represents magic and insight; will place a hex on enemies and enhances the wisdom of its ward\n		\nOnce determined, a guardian spirit type remains the same, however, this can be forcibly changed using a scroll of spirit binding. -->
+  <TM_GuardianSpirit.description>Invoca un espíritu guardián. Los espíritus guardianes se manifiestan como animales poderosos con fortalezas y habilidades únicas.\n\nOso espiritual: representa defensa y fortaleza; emitirá un rugido desafiante contra cualquiera que piense ignorar a esta bestia peligrosa\n\nMangosta espiritual: representa astucia y agilidad; capaz de deslizarse a través del reino espiritual para lanzar un ataque letal y oculto\n\nCuervo espiritual: representa magia y perspicacia; colocará un maleficio sobre los enemigos y mejora la sabiduría de su protegido\n\nUna vez determinado, el tipo de espíritu guardián sigue siendo el mismo; sin embargo, esto se puede cambiar por la fuerza usando un pergamino de vinculación espiritual.</TM_GuardianSpirit.description>
+  
+  <!-- EN: Hex -->
+  <TM_Hex.label>maleficio</TM_Hex.label>
+  <!-- EN: Hex (I) - places a hex on pawns, additional effects may be applied to hexed targets. Wears off after 6 game hours.\n\nMax targets: 4\nRadius: 3\nRange: 36\nCast time: 1s -->
+  <TM_Hex.description>Maleficio (I) - coloca un maleficio sobre los colonos, se pueden aplicar efectos adicionales a los objetivos malditos. Desaparece después de 6 horas de juego.\n\nObjetivos máx: 4\nRadio: 3\nAlcance: 36\nTiempo de lanzamiento: 1s</TM_Hex.description>
+  
+  <!-- EN: Critical Fail (Hex) -->
+  <TM_Hex_CriticalFail.label>fallo crítico (maleficio)</TM_Hex_CriticalFail.label>
+  <!-- EN: Places a short lived curse on all hexed targets that causes extremely bad luck. -->
+  <TM_Hex_CriticalFail.description>Coloca una maldición de corta duración en todos los objetivos malditos que causa una suerte extremadamente mala.</TM_Hex_CriticalFail.description>
+  
+  <!-- EN: Hex -->
+  <TM_Hex_I.label>maleficio (I)</TM_Hex_I.label>
+  <!-- EN: Hex (II) - places a hex on pawns, additional effects may be applied to hexed targets. Wears off after 6 game hours.\n\nMax targets: 5\nRadius: 3\nRange: 40\nCast time: .8s -->
+  <TM_Hex_I.description>Maleficio (II) - coloca un maleficio sobre los colonos, se pueden aplicar efectos adicionales a los objetivos malditos. Desaparece después de 6 horas de juego.\n\nObjetivos máx: 5\nRadio: 3\nAlcance: 40\nTiempo de lanzamiento: .8s</TM_Hex_I.description>
+  
+  <!-- EN: Hex -->
+  <TM_Hex_II.label>maleficio (II)</TM_Hex_II.label>
+  <!-- EN: Hex (III) - places a hex on pawns, additional effects may be applied to hexed targets. Wears off after 6 game hours.\n\nMax targets: 5\nRadius: 4\nRange: 43\nCast time: .7s -->
+  <TM_Hex_II.description>Maleficio (III) - coloca un maleficio sobre los colonos, se pueden aplicar efectos adicionales a los objetivos malditos. Desaparece después de 6 horas de juego.\n\nObjetivos máx: 5\nRadio: 4\nAlcance: 43\nTiempo de lanzamiento: .7s</TM_Hex_II.description>
+  
+  <!-- EN: Hex -->
+  <TM_Hex_III.label>maleficio (III)</TM_Hex_III.label>
+  <!-- EN: Hex (IV) - places a hex on pawns, additional effects may be applied to hexed targets. Wears off after 6 game hours.\n\nMax targets: 6\nRadius: 4\nRange: 45\nCast time: .6s -->
+  <TM_Hex_III.description>Maleficio (IV) - coloca un maleficio sobre los colonos, se pueden aplicar efectos adicionales a los objetivos malditos. Desaparece después de 6 horas de juego.\n\nObjetivos máx: 6\nRadio: 4\nAlcance: 45\nTiempo de lanzamiento: .6s</TM_Hex_III.description>
+  
+  <!-- EN: Mental Assault (Hex) -->
+  <TM_Hex_MentalAssault.label>asalto mental (maleficio)</TM_Hex_MentalAssault.label>
+  <!-- EN: Causes all hexed targets to experience a dramatic and, potentially, overwhelming surge of emotions. -->
+  <TM_Hex_MentalAssault.description>Hace que todos los objetivos malditos experimenten una oleada de emociones dramática y, potencialmente, abrumadora.</TM_Hex_MentalAssault.description>
+  
+  <!-- EN: Pain (Hex) -->
+  <TM_Hex_Pain.label>dolor (maleficio)</TM_Hex_Pain.label>
+  <!-- EN: All hexed pawns suffer extreme pain. -->
+  <TM_Hex_Pain.description>Todos los colonos malditos sufren un dolor extremo.</TM_Hex_Pain.description>
+  
+  <!-- EN: Spirit Wolves -->
+  <TM_SpiritWolves.label>lobos espirituales</TM_SpiritWolves.label>
+  <!-- EN: Manifests a pack of spirit wolves. Spirit wolves apply spirit damage which ignores armor and stuns.\n\nRange: 50\nCast time: 3s\nCooldown: 120s -->
+  <TM_SpiritWolves.description>Manifiesta una manada de lobos espirituales. Los lobos espirituales aplican daño espiritual que ignora la armadura y aturde.\n\nAlcance: 50\nTiempo de lanzamiento: 3s\nEnfriamiento: 120s</TM_SpiritWolves.description>
+  
+  <!-- EN: Spirit Wolves (I) -->
+  <TM_SpiritWolves_I.label>lobos espirituales (I)</TM_SpiritWolves_I.label>
+  <!-- EN: Manifests a pack of spirit wolves. Spirit wolves apply spirit damage which ignores armor and stuns.\n\nRange: 55\nCast time: 2.7s\nCooldown: 110s -->
+  <TM_SpiritWolves_I.description>Manifiesta una manada de lobos espirituales. Los lobos espirituales aplican daño espiritual que ignora la armadura y aturde.\n\nAlcance: 55\nTiempo de lanzamiento: 2.7s\nEnfriamiento: 110s</TM_SpiritWolves_I.description>
+  
+  <!-- EN: Spirit Wolves (II) -->
+  <TM_SpiritWolves_II.label>lobos espirituales (II)</TM_SpiritWolves_II.label>
+  <!-- EN: Manifests a pack of spirit wolves. Spirit wolves apply spirit damage which ignores armor and stuns.\n\nRange: 60\nCast time: 2.5s\nCooldown: 100s -->
+  <TM_SpiritWolves_II.description>Manifiesta una manada de lobos espirituales. Los lobos espirituales aplican daño espiritual que ignora la armadura y aturde.\n\nAlcance: 60\nTiempo de lanzamiento: 2.5s\nEnfriamiento: 100s</TM_SpiritWolves_II.description>
+  
+  <!-- EN: Spirit Wolves (III) -->
+  <TM_SpiritWolves_III.label>lobos espirituales (III)</TM_SpiritWolves_III.label>
+  <!-- EN: Manifests a pack of spirit wolves. Spirit wolves apply spirit damage which ignores armor and stuns.\n		\nRange: 65\nCast time: 2.4s\nCooldown: 90s -->
+  <TM_SpiritWolves_III.description>Manifiesta una manada de lobos espirituales. Los lobos espirituales aplican daño espiritual que ignora la armadura y aturde.\n\nAlcance: 65\nTiempo de lanzamiento: 2.4s\nEnfriamiento: 90s</TM_SpiritWolves_III.description>
+  
+  <!-- EN: Totem: Earth -->
+  <TM_SummonTotemEarth.label>tótem: tierra</TM_SummonTotemEarth.label>
+  <!-- EN: Creates an earth totem at the target location. Lasts 1 game hour and causes tremors every 3-4 seconds that stagger all pawns within 5 cells. -->
+  <TM_SummonTotemEarth.description>Crea un tótem de tierra en la ubicación objetivo. Dura 1 hora de juego y causa temblores cada 3-4 segundos que tambalean a todos los colonos dentro de 5 celdas.</TM_SummonTotemEarth.description>
+  
+  <!-- EN: Totem: Healing -->
+  <TM_SummonTotemHealing.label>tótem: curación</TM_SummonTotemHealing.label>
+  <!-- EN: Creates a healing totem at the target location. Lasts 1 game hour and periodically heals nearby pawns. -->
+  <TM_SummonTotemHealing.description>Crea un tótem de curación en la ubicación objetivo. Dura 1 hora de juego y cura periódicamente a los colonos cercanos.</TM_SummonTotemHealing.description>
+  
+  <!-- EN: Totem: Lightning -->
+  <TM_SummonTotemLightning.label>tótem: rayo</TM_SummonTotemLightning.label>
+  <!-- EN: Creates a lightning totem at the target location. Lasts 1 game hr and discharges electrical bolts at enemies within 40m every 2-3 seconds. -->
+  <TM_SummonTotemLightning.description>Crea un tótem de rayo en la ubicación objetivo. Dura 1 hora de juego y descarga rayos eléctricos a los enemigos dentro de 40m cada 2-3 segundos.</TM_SummonTotemLightning.description>
+  
+  <!-- EN: Totems -->
+  <TM_Totems.label>tótems</TM_Totems.label>
+  <!-- EN: Totems are a form of magic that anchors an elemental spirit to the physical world allowing it to influence objects near the totem. This ability increases control over all types of totems. -->
+  <TM_Totems.description>Los tótems son una forma de magia que ancla un espíritu elemental al mundo físico permitiéndole influir en objetos cerca del tótem. Esta habilidad aumenta el control sobre todos los tipos de tótems.</TM_Totems.description>
+  
+</LanguageData>

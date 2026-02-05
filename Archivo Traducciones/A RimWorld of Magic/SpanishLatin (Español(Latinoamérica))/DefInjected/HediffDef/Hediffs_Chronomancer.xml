@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Aging -->
+  <TM_AccelerateTimeHD.label>envejecimiento</TM_AccelerateTimeHD.label>
+  <!-- EN: Rapidly ages a pawn. Any other conditions affecting the pawn will also accelerate their natural tendencies. Pawns aged beyond their typical lifespan are frequently beset by age related illnesses or conditions. -->
+  <TM_AccelerateTimeHD.description>Envejece rápidamente a un colono. Cualquier otra condición que afecte al colono también acelerará sus tendencias naturales. Los colonos envejecidos más allá de su esperanza de vida típica suelen verse acosados por enfermedades o afecciones relacionadas con la edad.</TM_AccelerateTimeHD.description>
+  <!-- EN: I -->
+  <TM_AccelerateTimeHD.stages.I.label>I</TM_AccelerateTimeHD.stages.I.label>
+  <!-- EN: II -->
+  <TM_AccelerateTimeHD.stages.II.label>II</TM_AccelerateTimeHD.stages.II.label>
+  <!-- EN: III -->
+  <TM_AccelerateTimeHD.stages.III.label>III</TM_AccelerateTimeHD.stages.III.label>
+  <!-- EN: IV -->
+  <TM_AccelerateTimeHD.stages.IV.label>IV</TM_AccelerateTimeHD.stages.IV.label>
+  
+  <!-- EN: Prediction -->
+  <TM_PredictionHD.label>predicción</TM_PredictionHD.label>
+  <!-- EN: Allows the prediction of future events or actions.\n	\n	Admin note: this ability predicts and delays any event. Some mods use these types of events as triggers for effects or outcomes, this can cause errors if the situation changes and certain objects, items, or conditions are no longer valid when a predicted event occurs. -->
+  <TM_PredictionHD.description>Permite la predicción de eventos o acciones futuras.\n	\n	Nota de admin: esta habilidad predice y retrasa cualquier evento. Algunos mods usan estos tipos de eventos como desencadenantes de efectos o resultados; esto puede causar errores si la situación cambia y ciertos objetos, artículos o condiciones ya no son válidos cuando ocurre un evento predicho.</TM_PredictionHD.description>
+  <!-- EN: I -->
+  <TM_PredictionHD.stages.I.label>I</TM_PredictionHD.stages.I.label>
+  <!-- EN: II -->
+  <TM_PredictionHD.stages.II.label>II</TM_PredictionHD.stages.II.label>
+  <!-- EN: III -->
+  <TM_PredictionHD.stages.III.label>III</TM_PredictionHD.stages.III.label>
+  <!-- EN: IV -->
+  <TM_PredictionHD.stages.IV.label>IV</TM_PredictionHD.stages.IV.label>
+  <!-- EN: V -->
+  <TM_PredictionHD.stages.V.label>V</TM_PredictionHD.stages.V.label>
+  <!-- EN: VI -->
+  <TM_PredictionHD.stages.VI.label>VI</TM_PredictionHD.stages.VI.label>
+  
+  <!-- EN: Reverse Aging -->
+  <TM_ReverseTimeBadHD.label>rejuvenecimiento</TM_ReverseTimeBadHD.label>
+  <!-- EN: Rapidly reverses the age of a pawn. Any other conditions affecting the pawn will also reverse their natural tendencies. Conditions reversed beyond the point in time that they were acquired will cease to exist. Pawns reversed before the point int time that they were spawned will also cease to exist. -->
+  <TM_ReverseTimeBadHD.description>Invierte rápidamente la edad de un colono. Cualquier otra condición que afecte al colono también invertirá sus tendencias naturales. Las condiciones invertidas más allá del momento en que se adquirieron dejarán de existir. Los colonos invertidos antes del momento en que fueron generados también dejarán de existir.</TM_ReverseTimeBadHD.description>
+  <!-- EN: I -->
+  <TM_ReverseTimeBadHD.stages.I.label>I</TM_ReverseTimeBadHD.stages.I.label>
+  <!-- EN: II -->
+  <TM_ReverseTimeBadHD.stages.II.label>II</TM_ReverseTimeBadHD.stages.II.label>
+  <!-- EN: III -->
+  <TM_ReverseTimeBadHD.stages.III.label>III</TM_ReverseTimeBadHD.stages.III.label>
+  <!-- EN: IV -->
+  <TM_ReverseTimeBadHD.stages.IV.label>IV</TM_ReverseTimeBadHD.stages.IV.label>
+  
+  <!-- EN: Reverse Aging -->
+  <TM_ReverseTimeHD.label>rejuvenecimiento</TM_ReverseTimeHD.label>
+  <!-- EN: Rapidly reverses the age of a pawn. Any other conditions affecting the pawn will also reverse their natural tendencies. Conditions reversed beyond the point in time that they were acquired will cease to exist. Pawns reversed before the point int time that they were spawned will also cease to exist. -->
+  <TM_ReverseTimeHD.description>Invierte rápidamente la edad de un colono. Cualquier otra condición que afecte al colono también invertirá sus tendencias naturales. Las condiciones invertidas más allá del momento en que se adquirieron dejarán de existir. Los colonos invertidos antes del momento en que fueron generados también dejarán de existir.</TM_ReverseTimeHD.description>
+  <!-- EN: I -->
+  <TM_ReverseTimeHD.stages.I.label>I</TM_ReverseTimeHD.stages.I.label>
+  <!-- EN: II -->
+  <TM_ReverseTimeHD.stages.II.label>II</TM_ReverseTimeHD.stages.II.label>
+  <!-- EN: III -->
+  <TM_ReverseTimeHD.stages.III.label>III</TM_ReverseTimeHD.stages.III.label>
+  <!-- EN: IV -->
+  <TM_ReverseTimeHD.stages.IV.label>IV</TM_ReverseTimeHD.stages.IV.label>
+  
+</LanguageData>

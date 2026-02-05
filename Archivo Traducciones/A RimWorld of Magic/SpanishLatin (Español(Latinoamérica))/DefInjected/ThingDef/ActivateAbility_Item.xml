@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Scroll of Spirit Binding -->
+  <MagicArtifact_RerollSpiritBond.label>pergamino de vinculación espiritual</MagicArtifact_RerollSpiritBond.label>
+  <!-- EN: This scroll may be used to change the shaman's spirit animal. The new bond will randomly select a new spirit type to bond. -->
+  <MagicArtifact_RerollSpiritBond.description>Este pergamino se puede usar para cambiar el animal espiritual del chamán. El nuevo vínculo seleccionará aleatoriamente un nuevo tipo de espíritu para vincularse.</MagicArtifact_RerollSpiritBond.description>
+  <!-- EN: Use {0_label} -->
+  <MagicArtifact_RerollSpiritBond.comps.CompUsable.useLabel>Usar {0_label}</MagicArtifact_RerollSpiritBond.comps.CompUsable.useLabel>
+  
+  <!-- EN: Shard of Spirit Extraction -->
+  <TM_Artifact_ClassExtraction.label>fragmento de extracción espiritual</TM_Artifact_ClassExtraction.label>
+  <!-- EN: This mysterious shard is capable of extracting the martial or arcane talents of a pawn and converting it to essence. The shard is destroyed after use.\n	\n*Note: this item completely removes a pawn's class and any associated abilities and skills. The pawn may learn another class following a spirit extraction. -->
+  <TM_Artifact_ClassExtraction.description>Este misterioso fragmento es capaz de extraer los talentos marciales o arcanos de un colono y convertirlos en esencia. El fragmento se destruye después de su uso.\n\n*Nota: este objeto elimina por completo la clase de un colono y cualquier habilidad y destreza asociada. El colono puede aprender otra clase después de una extracción espiritual.</TM_Artifact_ClassExtraction.description>
+  <!-- EN: Use {0_label} -->
+  <TM_Artifact_ClassExtraction.comps.CompUsable.useLabel>Usar {0_label}</TM_Artifact_ClassExtraction.comps.CompUsable.useLabel>
+  
+  <!-- EN: Essence of Magic -->
+  <TM_MagicArtifact_MagicEssence.label>esencia de magia</TM_MagicArtifact_MagicEssence.label>
+  <!-- EN: The essence of raw, magical skill. Absorbing the essence grants arcane experience. -->
+  <TM_MagicArtifact_MagicEssence.description>La esencia de la habilidad mágica pura. Absorber la esencia otorga experiencia arcana.</TM_MagicArtifact_MagicEssence.description>
+  <!-- EN: Use {0_label} -->
+  <TM_MagicArtifact_MagicEssence.comps.CompUsable.useLabel>Usar {0_label}</TM_MagicArtifact_MagicEssence.comps.CompUsable.useLabel>
+  
+  <!-- EN: Essence of Might -->
+  <TM_MagicArtifact_MightEssence.label>esencia de fuerza</TM_MagicArtifact_MightEssence.label>
+  <!-- EN: The essence of raw, martial skill. Absorbing the essence grants martial experience. -->
+  <TM_MagicArtifact_MightEssence.description>La esencia de la habilidad marcial pura. Absorber la esencia otorga experiencia marcial.</TM_MagicArtifact_MightEssence.description>
+  <!-- EN: Use {0_label} -->
+  <TM_MagicArtifact_MightEssence.comps.CompUsable.useLabel>Usar {0_label}</TM_MagicArtifact_MightEssence.comps.CompUsable.useLabel>
+  
+</LanguageData>

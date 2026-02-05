@@ -1,0 +1,144 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Enchantment: arcane augmentation -->
+  <TM_ArcaneAugmentationMR.label>encantamiento: aumento arcano</TM_ArcaneAugmentationMR.label>
+  <!-- EN: Applies numerous arcane buffs to colonists.\nCasters: 3\nTarget max: 10\nMana: 40 ea.\nFail chance: 15%\nFail backlash: 6 -->
+  <TM_ArcaneAugmentationMR.description>Aplica numerosos beneficios arcanos a los colonos.\nLanzadores: 3\nObjetivo máximo: 10\nManá: 40 c/u.\nProb. fallo: 15%\nContratiempo: 6</TM_ArcaneAugmentationMR.description>
+  <!-- EN: applying arcane augmentations -->
+  <TM_ArcaneAugmentationMR.jobString>Aplicando aumentos arcanos.</TM_ArcaneAugmentationMR.jobString>
+  
+  <!-- EN: Enchantment: arcane inspiration -->
+  <TM_ArcaneInspirationMR.label>encantamiento: inspiración arcana</TM_ArcaneInspirationMR.label>
+  <!-- EN: searches arcane revelations for inspiration\nCasters: 1\nMana: 50 ea.\nFail chance: 15%\nFail backlash: 6 -->
+  <TM_ArcaneInspirationMR.description>Busca revelaciones arcanas en busca de inspiración.\nLanzadores: 1\nManá: 50 c/u.\nProb. fallo: 15%\nContratiempo: 6</TM_ArcaneInspirationMR.description>
+  <!-- EN: delving into the arcane -->
+  <TM_ArcaneInspirationMR.jobString>Profundizando en lo arcano.</TM_ArcaneInspirationMR.jobString>
+  
+  <!-- EN: Enchantment: predator's rage -->
+  <TM_BeastialRageMR.label>encantamiento: furia brutal</TM_BeastialRageMR.label>
+  <!-- EN: Enrage predator beasts on the map and nudge their rage towards your enemies.\nCasters: 2\nMana: 40 ea.\nFail chance: 35%\nFail backlash: 10 -->
+  <TM_BeastialRageMR.description>Enfurece a las bestias depredadoras en el mapa y dirige su ira hacia tus enemigos.\nLanzadores: 2\nManá: 40 c/u.\nProb. fallo: 35%\nContratiempo: 10</TM_BeastialRageMR.description>
+  <!-- EN: enraging predators -->
+  <TM_BeastialRageMR.jobString>Enfureciendo depredadores.</TM_BeastialRageMR.jobString>
+  
+  <!-- EN: Enchantment: blight wildlife -->
+  <TM_BlightWildlifeMR.label>encantamiento: plaga silvestre</TM_BlightWildlifeMR.label>
+  <!-- EN: Blights all wildlife with the plague.\nCasters: 3\nMana: 40 ea.\nFail chance: 15%\nFail backlash: 6 -->
+  <TM_BlightWildlifeMR.description>Maldice toda la fauna silvestre con la plaga.\nLanzadores: 3\nManá: 40 c/u.\nProb. fallo: 15%\nContratiempo: 6</TM_BlightWildlifeMR.description>
+  <!-- EN: hexing wildlife -->
+  <TM_BlightWildlifeMR.jobString>Maldiciendo fauna.</TM_BlightWildlifeMR.jobString>
+  
+  <!-- EN: Alteration: call of the wild -->
+  <TM_CallOfTheWildMR.label>alteración: llamada de la selva</TM_CallOfTheWildMR.label>
+  <!-- EN: Draws the attention of wild animals\nCasters: 2\nMana: 60 ea.\nFail chance: 20%\nFail backlash: 12 -->
+  <TM_CallOfTheWildMR.description>Atrae la atención de animales salvajes.\nLanzadores: 2\nManá: 60 c/u.\nProb. fallo: 20%\nContratiempo: 12</TM_CallOfTheWildMR.description>
+  <!-- EN: altering event chance -->
+  <TM_CallOfTheWildMR.jobString>Alterando probabilidad de evento.</TM_CallOfTheWildMR.jobString>
+  
+  <!-- EN: Alteration: cold snap -->
+  <TM_ColdSnapMR.label>alteración: ola de frío</TM_ColdSnapMR.label>
+  <!-- EN: A cold snap envelops the map\nCasters: 3\nMana: 50 ea.\nFail chance: 5%\nFail backlash: 0 -->
+  <TM_ColdSnapMR.description>Una ola de frío envuelve el mapa.\nLanzadores: 3\nManá: 50 c/u.\nProb. fallo: 5%\nContratiempo: 0</TM_ColdSnapMR.description>
+  <!-- EN: summoning cold wave -->
+  <TM_ColdSnapMR.jobString>Invocando onda de frío.</TM_ColdSnapMR.jobString>
+  
+  <!-- EN: Conjuration: giant skeleton -->
+  <TM_CreateGiantSkeletonMR.label>conjuración: esqueleto gigante</TM_CreateGiantSkeletonMR.label>
+  <!-- EN: Creates a giant, animated skeleton from a pile of corpses; the skeleton will defend the colony for 5 days or until destroyed.\nCasters: 4\nMana: 50 ea.\nFail chance: 25%\nFail backlash: 12 -->
+  <TM_CreateGiantSkeletonMR.description>Crea un esqueleto gigante animado a partir de un montón de cadáveres; el esqueleto defenderá la colonia durante 5 días o hasta ser destruido.\nLanzadores: 4\nManá: 50 c/u.\nProb. fallo: 25%\nContratiempo: 12</TM_CreateGiantSkeletonMR.description>
+  <!-- EN: animating skeleton -->
+  <TM_CreateGiantSkeletonMR.jobString>Animando esqueleto gigante.</TM_CreateGiantSkeletonMR.jobString>
+  
+  <!-- EN: Conjuration: skeleton -->
+  <TM_CreateSkeletonMR.label>conjuración: esqueleto</TM_CreateSkeletonMR.label>
+  <!-- EN: Creates an animated skeleton from a single corpses; the skeleton will defend the colony for 5 days or until destroyed.\nCasters: 1\nMana: 50 ea.\nFail chance: 10%\nFail backlash: 8 -->
+  <TM_CreateSkeletonMR.description>Crea un esqueleto animado a partir de un cadáver; el esqueleto defenderá la colonia durante 5 días o hasta ser destruido.\nLanzadores: 1\nManá: 50 c/u.\nProb. fallo: 10%\nContratiempo: 8</TM_CreateSkeletonMR.description>
+  <!-- EN: animating skeleton -->
+  <TM_CreateSkeletonMR.jobString>Animando esqueleto.</TM_CreateSkeletonMR.jobString>
+  
+  <!-- EN: Enchantment: divine blessing -->
+  <TM_DivineBlessingMR.label>encantamiento: bendición divina</TM_DivineBlessingMR.label>
+  <!-- EN: Beseech a higher power to show mercy to ailing pawns\nCasters: 3\nMana: 60 ea.\nFail chance: 40%\nFail backlash: 0 -->
+  <TM_DivineBlessingMR.description>Implora a un poder superior que tenga piedad de los peónes enfermos.\nLanzadores: 3\nManá: 60 c/u.\nProb. fallo: 40%\nContratiempo: 0</TM_DivineBlessingMR.description>
+  <!-- EN: seeking divine blessing -->
+  <TM_DivineBlessingMR.jobString>Buscando bendición divina.</TM_DivineBlessingMR.jobString>
+  
+  <!-- EN: Alteration: healing rain -->
+  <TM_HealingRainMR.label>alteración: lluvia sanadora</TM_HealingRainMR.label>
+  <!-- EN: The map is washed in healing rain\nCasters: 1\nMana: 60 ea.\nFail chance: 20%\nFail backlash: 10 -->
+  <TM_HealingRainMR.description>El mapa es lavado por lluvia sanadora.\nLanzadores: 1\nManá: 60 c/u.\nProb. fallo: 20%\nContratiempo: 10</TM_HealingRainMR.description>
+  <!-- EN: forming healing rain -->
+  <TM_HealingRainMR.jobString>Formando lluvia sanadora.</TM_HealingRainMR.jobString>
+  
+  <!-- EN: Alteration: heatwave -->
+  <TM_HeatWaveMR.label>alteración: ola de calor</TM_HeatWaveMR.label>
+  <!-- EN: A heat wave envelops the map\nCasters: 3\nMana: 50 ea.\nFail chance: 5%\nFail backlash: 0 -->
+  <TM_HeatWaveMR.description>Una ola de calor envuelve el mapa.\nLanzadores: 3\nManá: 50 c/u.\nProb. fallo: 5%\nContratiempo: 0</TM_HeatWaveMR.description>
+  <!-- EN: summoning heat wave -->
+  <TM_HeatWaveMR.jobString>Invocando onda de calor.</TM_HeatWaveMR.jobString>
+  
+  <!-- EN: Conjuration: attract meteors -->
+  <TM_MeteorFallMR.label>conjuración: lluvia de meteoritos</TM_MeteorFallMR.label>
+  <!-- EN: Causes multiple meteors to impact nearby\nCasters: 3\nMana: 60 ea.\nFail chance: 15%\nFail backlash: 0 -->
+  <TM_MeteorFallMR.description>Causa el impacto de múltiples meteoritos cerca.\nLanzadores: 3\nManá: 60 c/u.\nProb. fallo: 15%\nContratiempo: 0</TM_MeteorFallMR.description>
+  <!-- EN: summoning meteors -->
+  <TM_MeteorFallMR.jobString>Invocando meteoritos.</TM_MeteorFallMR.jobString>
+  
+  <!-- EN: Alteration: name of the wind -->
+  <TM_NameWindMR.label>alteración: nombre del viento</TM_NameWindMR.label>
+  <!-- EN: causes high wind speeds across the map for several days\nCasters: 1\nMana: 40 ea.\nFail chance: 10%\nFail backlash: 6 -->
+  <TM_NameWindMR.description>Causa altas velocidades de viento en todo el mapa durante varios días.\nLanzadores: 1\nManá: 40 c/u.\nProb. fallo: 10%\nContratiempo: 6</TM_NameWindMR.description>
+  <!-- EN: summoning wind -->
+  <TM_NameWindMR.jobString>Invocando viento.</TM_NameWindMR.jobString>
+  
+  <!-- EN: Alteration: nature's gift -->
+  <TM_NaturesGiftMR.label>alteración: don de la naturaleza</TM_NaturesGiftMR.label>
+  <!-- EN: Causes random events to occur\nCasters: 3\nMana: 40 ea.\nFail chance: 25%\nFail backlash: 12 -->
+  <TM_NaturesGiftMR.description>Causa que ocurran eventos aleatorios.\nLanzadores: 3\nManá: 40 c/u.\nProb. fallo: 25%\nContratiempo: 12</TM_NaturesGiftMR.description>
+  <!-- EN: altering event chance -->
+  <TM_NaturesGiftMR.jobString>Alterando probabilidad de evento.</TM_NaturesGiftMR.jobString>
+  
+  <!-- EN: Alteration: psychic soothe -->
+  <TM_PsychicSootheMR.label>alteración: calma psíquica</TM_PsychicSootheMR.label>
+  <!-- EN: Create soothing psychic emanations\nCasters: 3\nMana: 50 ea.\nFail chance: 25%\nFail backlash: 10 -->
+  <TM_PsychicSootheMR.description>Crea emanaciones psíquicas tranquilizantes.\nLanzadores: 3\nManá: 50 c/u.\nProb. fallo: 25%\nContratiempo: 10</TM_PsychicSootheMR.description>
+  <!-- EN: creating psychic soothe -->
+  <TM_PsychicSootheMR.jobString>Creando calma psíquica.</TM_PsychicSootheMR.jobString>
+  
+  <!-- EN: Conjuration: mystic weapon -->
+  <TM_RuunbledMR.label>conjuración: arma mística</TM_RuunbledMR.label>
+  <!-- EN: Summons a mystic weapon\nCasters: 3\nMana: 60 ea.\nFail chance: 50%\nFail backlash: 10 -->
+  <TM_RuunbledMR.description>Invoca un arma mística.\nLanzadores: 3\nManá: 60 c/u.\nProb. fallo: 50%\nContratiempo: 10</TM_RuunbledMR.description>
+  <!-- EN: summoning a mystic weapon -->
+  <TM_RuunbledMR.jobString>Invocando arma mística.</TM_RuunbledMR.jobString>
+  
+  <!-- EN: Conjuration: summon demon *challenge* -->
+  <TM_SummonDemonMR.label>conjuración: convocar demonio *desafío*</TM_SummonDemonMR.label>
+  <!-- EN: Combat a demonic enemy\nCasters: 6\nMana: 40 ea.\nFail chance: 20%\nFail backlash: 20 -->
+  <TM_SummonDemonMR.description>Combate a un enemigo demónico.\nLanzadores: 6\nManá: 40 c/u.\nProb. fallo: 20%\nContratiempo: 20</TM_SummonDemonMR.description>
+  <!-- EN: summoning demon -->
+  <TM_SummonDemonMR.jobString>Convocando demonio.</TM_SummonDemonMR.jobString>
+  
+  <!-- EN: Conjuration: possessor spirit -->
+  <TM_SummonSpiritMR.label>conjuración: espíritu poseso</TM_SummonSpiritMR.label>
+  <!-- EN: Summons a wandering spirit.\nCasters: 3\nMana: 40 ea.\nFail chance: 25%\nFail backlash: 15 -->
+  <TM_SummonSpiritMR.description>Invoca un espíritu errante.\nLanzadores: 3\nManá: 40 c/u.\nProb. fallo: 25%\nContratiempo: 15</TM_SummonSpiritMR.description>
+  <!-- EN: summoning spirit -->
+  <TM_SummonSpiritMR.jobString>Invocando espíritu.</TM_SummonSpiritMR.jobString>
+  
+  <!-- EN: Conjuration: summon wandering lich *challenge* -->
+  <TM_SummonWanderingLichMR.label>conjuración: convocar lich errante *desafío*</TM_SummonWanderingLichMR.label>
+  <!-- EN: Draw the attention of a wandering lich\nCasters: 6\nMana: 40 ea.\nFail chance: 20%\nFail backlash: 20 -->
+  <TM_SummonWanderingLichMR.description>Atrae la atención de un lich errante.\nLanzadores: 6\nManá: 40 c/u.\nProb. fallo: 20%\nContratiempo: 20</TM_SummonWanderingLichMR.description>
+  <!-- EN: summoning lich -->
+  <TM_SummonWanderingLichMR.jobString>Convocando lich.</TM_SummonWanderingLichMR.jobString>
+  
+  <!-- EN: Alteration: terrestrial beacon -->
+  <TM_TerrestrialBeaconMR.label>alteración: faro terrestre</TM_TerrestrialBeaconMR.label>
+  <!-- EN: Alters the flight path of falling objects to land nearby\nCasters: 2\nMana: 60 ea.\nFail chance: 25%\nFail backlash: 12 -->
+  <TM_TerrestrialBeaconMR.description>Altera la trayectoria de vuelo de objetos caéntes para que aterricen cerca.\nLanzadores: 2\nManá: 60 c/u.\nProb. fallo: 25%\nContratiempo: 12</TM_TerrestrialBeaconMR.description>
+  <!-- EN: altering event chance -->
+  <TM_TerrestrialBeaconMR.jobString>Alterando probabilidad de evento.</TM_TerrestrialBeaconMR.jobString>
+  
+</LanguageData>

@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Poison -->
+  <TM_Poison_HD.label>veneno</TM_Poison_HD.label>
+  <!-- EN: Damage caused by poison. -->
+  <TM_Poison_HD.description>Daño causado por veneno.</TM_Poison_HD.description>
+  <!-- EN: withered away -->
+  <TM_Poison_HD.comps.HediffComp_GetsPermanent.permanentLabel>marchitado</TM_Poison_HD.comps.HediffComp_GetsPermanent.permanentLabel>
+  <!-- EN: {0} in the {1} -->
+  <TM_Poison_HD.labelNounPretty>{0} en {1}</TM_Poison_HD.labelNounPretty>
+  
+  <!-- EN: Poisoned -->
+  <TM_Poisoned_HD.label>envenenado</TM_Poisoned_HD.label>
+  <!-- EN: Side effects of poison. -->
+  <TM_Poisoned_HD.description>Efectos secundarios del veneno.</TM_Poisoned_HD.description>
+  <!-- EN: minor -->
+  <TM_Poisoned_HD.stages.minor.label>leve</TM_Poisoned_HD.stages.minor.label>
+  <!-- EN: moderate -->
+  <TM_Poisoned_HD.stages.moderate.label>moderado</TM_Poisoned_HD.stages.moderate.label>
+  <!-- EN: major -->
+  <TM_Poisoned_HD.stages.major.label>grave</TM_Poisoned_HD.stages.major.label>
+  
+</LanguageData>

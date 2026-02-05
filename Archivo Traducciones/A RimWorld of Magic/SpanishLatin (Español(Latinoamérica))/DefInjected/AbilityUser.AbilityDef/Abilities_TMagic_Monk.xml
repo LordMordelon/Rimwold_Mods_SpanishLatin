@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Ch'i -->
+  <TM_Chi.label>Ch'i</TM_Chi.label>
+  <!-- EN: Ch'i, or spirit, is the life force that resides in all living things. Monks cultivate and harness this force to perform their art. Balancing the rhythm and flow of Ch'i takes time and is generally gained through dedicated meditation. -->
+  <TM_Chi.description>El Ch'i, o espíritu, es la fuerza vital que reside en todos los seres vivos. Los monjes cultivan y aprovechan esta fuerza para realizar su arte. Equilibrar el ritmo y el flujo del Ch'i lleva tiempo y generalmente se gana a través de la meditación dedicada.</TM_Chi.description>
+  
+  <!-- EN: Ch'i Burst -->
+  <TM_ChiBurst.label>estallido de chi</TM_ChiBurst.label>
+  <!-- EN: Projects an enormous amount of ch'i into a target area, overloading and disrupting the energy of all pawns within the area of effect.\n\nCh'i Burst will interrupt fighter and mage abilities and will cause harm based on the amount of energy disrupted. This affects chi, mana, blood magic, stamina, hate and psionic energy.\n\nHas a low chance to disrupt the mental state of any pawn. Can be resisted. -->
+  <TM_ChiBurst.description>Proyecta una enorme cantidad de chi en un área objetivo, sobrecargando e interrumpiendo la energía de todos los colonos dentro del área de efecto.\n\nEstallido de Chi interrumpirá las habilidades de luchadores y magos y causará daño basado en la cantidad de energía interrumpida. Esto afecta chi, maná, magia de sangre, resistencia, odio y energía psiónica.\n\nTiene una baja probabilidad de interrumpir el estado mental de cualquier colono. Puede ser resistido.</TM_ChiBurst.description>
+  
+  <!-- EN: Dragon Strike -->
+  <TM_DragonStrike.label>golpe de dragón</TM_DragonStrike.label>
+  <!-- EN: A leap attack that allows the monk to rapidly close on an opponent. \n\nActivated ability (8 chi): leap through the air and deliver a powerful flying kick against an distant opponent. The closer an opponent is, the more damage Dragon Strike deals. If an opponent is within 5 cells, this attack will also knock the target back. \n\nPassive ability (10 stamina): performs a round-house kick that strikes multiple opponents. Dragon Strike has a chance to trigger on any normal attack when multiple enemies are near the target. -->
+  <TM_DragonStrike.description>Un ataque de salto que permite al monje acercarse rápidamente a un oponente.\n\nHabilidad activada (8 chi): salta por el aire y propina una poderosa patada voladora contra un oponente distante. Cuanto más cerca esté un oponente, más daño inflige Golpe de Dragón. Si un oponente está a menos de 5 celdas, este ataque también empujará al objetivo hacia atrás.\n\nHabilidad pasiva (10 resistencia): realiza una patada giratoria que golpea a múltiples oponentes. Golpe de Dragón tiene la probabilidad de activarse en cualquier ataque normal cuando hay múltiples enemigos cerca del objetivo.</TM_DragonStrike.description>
+  
+  <!-- EN: Meditate -->
+  <TM_Meditate.label>meditar</TM_Meditate.label>
+  <!-- EN: Meditation restores the life force of the monk and is a vital component of maintaining a strong level of Ch'i.\n	\nAny physical or mental ailments must be purged before meditation can generate Ch'i. If the monk is afflicted (wounds, disease, poor mood, drug addictions), meditation will focus Ch'i in an effort to remove the affliction. Afflictions can only be purged while in a meditative state. -->
+  <TM_Meditate.description>La meditación restaura la fuerza vital del monje y es un componente vital para mantener un nivel fuerte de Ch'i.\n\nCualquier dolencia física o mental debe ser purgada antes de que la meditación pueda generar Ch'i. Si el monje está afligido (heridas, enfermedad, mal humor, adicciones a drogas), la meditación enfocará el Ch'i en un esfuerzo por eliminar la aflicción. Las aflicciones solo pueden ser purgadas mientras se está en un estado meditativo.</TM_Meditate.description>
+  
+  <!-- EN: Mind Over Body -->
+  <TM_MindOverBody.label>mente sobre cuerpo</TM_MindOverBody.label>
+  <!-- EN: Mental conditioning that enhances the monk's control over their physical capabilities and improves resilience to both physical and mental stress. Damage mitigation is reduced by the weight (in kg) of armor worn.\n\nMind Over Body is a passive buff that improves consciousness, moving, manipulation, melee hit chance, dodge chance, armor penetration, mental break and pain thresholds. -->
+  <TM_MindOverBody.description>Condicionamiento mental que mejora el control del monje sobre sus capacidades físicas y mejora la resistencia tanto al estrés físico como mental. La mitigación de daño se reduce por el peso (en kg) de la armadura usada.\n\nMente sobre Cuerpo es una mejora pasiva que mejora la consciencia, movimiento, manipulación, probabilidad de golpe cuerpo a cuerpo, probabilidad de esquivar, penetración de armadura, crisis mental y umbrales de dolor.</TM_MindOverBody.description>
+  
+  <!-- EN: Thunder Strike -->
+  <TM_ThunderStrike.label>golpe de trueno</TM_ThunderStrike.label>
+  <!-- EN: Supercharges an attack with enough ch'i to generate lightning. -->
+  <TM_ThunderStrike.description>Sobrecarga un ataque con suficiente chi para generar rayos.</TM_ThunderStrike.description>
+  
+  <!-- EN: Tiger Strike -->
+  <TM_TigerStrike.label>golpe de tigre</TM_TigerStrike.label>
+  <!-- EN: A melee attack that delivers multiple, rapid blows against a single opponent. Must be within melee range and unarmed to perform this attack.\n\nActivated ability (12 chi): delivers 4 attacks in rapid succession.  Tiger Strike can be further trained to add additional attacks that can stun, drain energy, or deliver a precision strike that destroys vital organs.\n\nPassive ability (8 stamina): deliver multiple hits against an opponent; attacks may be any type (physical, stun, drain, vital) that is trained. Tiger Strike has a chance to trigger on any normal attack or itself. -->
+  <TM_TigerStrike.description>Un ataque cuerpo a cuerpo que propina múltiples golpes rápidos contra un solo oponente. Debe estar dentro del alcance cuerpo a cuerpo y desarmado para realizar este ataque.\n\nHabilidad activada (12 chi): propina 4 ataques en rápida sucesión. Golpe de Tigre puede entrenarse más para añadir ataques adicionales que pueden aturdir, drenar energía o propinar un golpe de precisión que destruye órganos vitales.\n\nHabilidad pasiva (8 resistencia): propina múltiples golpes contra un oponente; los ataques pueden ser de cualquier tipo (físico, aturdimiento, drenaje, vital) que esté entrenado. Golpe de Tigre tiene la probabilidad de activarse en cualquier ataque normal o en sí mismo.</TM_TigerStrike.description>
+  
+</LanguageData>

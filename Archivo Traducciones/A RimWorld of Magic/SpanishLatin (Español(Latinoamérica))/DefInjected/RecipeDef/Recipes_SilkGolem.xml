@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: energy converter -->
+  <TM_SilkGolem_EnergyConverter.label>convertidor de energía</TM_SilkGolem_EnergyConverter.label>
+  <!-- EN: Increases the efficiency of energy absorbed and used by the golem by 8%. -->
+  <TM_SilkGolem_EnergyConverter.description>Aumenta la eficiencia de la energía absorbida y usada por el gólem en 8%.</TM_SilkGolem_EnergyConverter.description>
+  <!-- EN: constructing energy converter -->
+  <TM_SilkGolem_EnergyConverter.jobString>Construyendo convertidor de energía.</TM_SilkGolem_EnergyConverter.jobString>
+  
+  <!-- EN: energy cell -->
+  <TM_SilkGolem_EnergyMax.label>celda de energía</TM_SilkGolem_EnergyMax.label>
+  <!-- EN: Creates an energy cell that increases maximum energy by 100 per cell. -->
+  <TM_SilkGolem_EnergyMax.description>Crea una celda de energía que aumenta la energía máxima en 100 por celda.</TM_SilkGolem_EnergyMax.description>
+  <!-- EN: creating energy cell -->
+  <TM_SilkGolem_EnergyMax.jobString>Creando celda de energía.</TM_SilkGolem_EnergyMax.jobString>
+  
+  <!-- EN: energy generator -->
+  <TM_SilkGolem_EnergyRegen.label>generador de energía</TM_SilkGolem_EnergyRegen.label>
+  <!-- EN: Increases the energy regeneration rate of the golem by 10%. -->
+  <TM_SilkGolem_EnergyRegen.description>Aumenta la tasa de regeneración de energía del gólem en 10%.</TM_SilkGolem_EnergyRegen.description>
+  <!-- EN: constructing energy generator -->
+  <TM_SilkGolem_EnergyRegen.jobString>Construyendo generador de energía.</TM_SilkGolem_EnergyRegen.jobString>
+  
+  <!-- EN: frame tier -->
+  <TM_SilkGolem_LifeStage.label>nivel de armazón</TM_SilkGolem_LifeStage.label>
+  <!-- EN: Improves and refines the golem's frame each level [1,2,3]:\nMovement:	+[20/30/40]%\nHealth:		+[20/40/60]% -->
+  <TM_SilkGolem_LifeStage.description>Mejora y refina el armazón del gólem en cada nivel [1,2,3]:\nMovimiento:\t+[20/30/40]%\nSalud:\t+[20/40/60]%</TM_SilkGolem_LifeStage.description>
+  <!-- EN: improving golem frame -->
+  <TM_SilkGolem_LifeStage.jobString>Mejorando armazón del gólem.</TM_SilkGolem_LifeStage.jobString>
+  
+  <!-- EN: Part restoration -->
+  <TM_SilkGolem_RepairBlock.label>restauración de partes</TM_SilkGolem_RepairBlock.label>
+  <!-- EN: Replaces missing golem parts that do not require an upgrade. -->
+  <TM_SilkGolem_RepairBlock.description>Reemplaza partes faltantes del gólem que no requieren una mejora.</TM_SilkGolem_RepairBlock.description>
+  <!-- EN: crafting golem part -->
+  <TM_SilkGolem_RepairBlock.jobString>Fabricando parte de gólem.</TM_SilkGolem_RepairBlock.jobString>
+  
+  <!-- EN: Skills -->
+  <TM_SilkGolem_Skills.label>habilidades</TM_SilkGolem_Skills.label>
+  <!-- EN: The silk golem improves the quality of wardening by 1 skill point. -->
+  <TM_SilkGolem_Skills.description>El gólem de seda mejora la calidad de la vigilancia en 1 punto de habilidad.</TM_SilkGolem_Skills.description>
+  <!-- EN: crafting golem upgrade -->
+  <TM_SilkGolem_Skills.jobString>Fabricando mejora de gólem.</TM_SilkGolem_Skills.jobString>
+  
+</LanguageData>

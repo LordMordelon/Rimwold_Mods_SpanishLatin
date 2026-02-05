@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: arcane weakness -->
+  <TM_ArcaneWeakness.label>debilidad arcana</TM_ArcaneWeakness.label>
+  <!-- EN: Arcane Weakness is a byproduct of casting magical abilities. Minor abilities with a mana cost less than 25 will not incur Arcane Weakness. The amount of Arcane Weakness that will affect a mage is relative to the mana cost of the ability. -->
+  <TM_ArcaneWeakness.description>La debilidad arcana es un subproducto del lanzamiento de habilidades mágicas. Las habilidades menores con un coste de maná inferior a 25 no provocarán debilidad arcana. La cantidad de debilidad arcana que afectará a un mago es relativa al coste de maná de la habilidad.</TM_ArcaneWeakness.description>
+  <!-- EN: weakened -->
+  <TM_ArcaneWeakness.stages.weakened.label>debilitado</TM_ArcaneWeakness.stages.weakened.label>
+  <!-- EN: drained -->
+  <TM_ArcaneWeakness.stages.drained.label>drenado</TM_ArcaneWeakness.stages.drained.label>
+  <!-- EN: severely ill -->
+  <TM_ArcaneWeakness.stages.severely_ill.label>gravemente enfermo</TM_ArcaneWeakness.stages.severely_ill.label>
+  <!-- EN: catatonic -->
+  <TM_ArcaneWeakness.stages.catatonic.label>catatónico</TM_ArcaneWeakness.stages.catatonic.label>
+  <!-- EN: near death -->
+  <TM_ArcaneWeakness.stages.near_death.label>cerca de la muerte</TM_ArcaneWeakness.stages.near_death.label>
+  
+  <!-- EN: arcane curse -->
+  <TM_CursedHD.label>maldición arcana</TM_CursedHD.label>
+  <!-- EN: Arcane curse is a byproduct of the cursed trait. The cursed pawn is constantly affected by arcane weakness that will gradually increase until it is a persistent illness. The effects of the curse can be offset by using magic, however, the pain caused by the curse does provide a unique clarity. The curse can be lifted by removing the pawn's magical trait. -->
+  <TM_CursedHD.description>La maldición arcana es un subproducto del rasgo maldito. El peón maldito se ve constantemente afectado por una debilidad arcana que aumentará gradualmente hasta convertirse en una enfermedad persistente. Los efectos de la maldición pueden contrarrestarse usando magia; sin embargo, el dolor causado por la maldición proporciona una claridad única. La maldición puede levantarse eliminando el rasgo mágico del peón.</TM_CursedHD.description>
+  <!-- EN: faded -->
+  <TM_CursedHD.stages.faded.label>desvanecido</TM_CursedHD.stages.faded.label>
+  <!-- EN: moderate -->
+  <TM_CursedHD.stages.moderate.label>moderado</TM_CursedHD.stages.moderate.label>
+  <!-- EN: heightened -->
+  <TM_CursedHD.stages.heightened.label>intensificado</TM_CursedHD.stages.heightened.label>
+  
+</LanguageData>

@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: arcane sickness -->
+  <TM_ArcaneSickness.label>enfermedad arcana</TM_ArcaneSickness.label>
+  <!-- EN: A sickness caused by tainted magic. -->
+  <TM_ArcaneSickness.description>Una enfermedad causada por magia corrupta.</TM_ArcaneSickness.description>
+  <!-- EN: minor -->
+  <TM_ArcaneSickness.stages.minor-0.label>menor</TM_ArcaneSickness.stages.minor-0.label>
+  <!-- EN: minor -->
+  <TM_ArcaneSickness.stages.minor-1.label>menor</TM_ArcaneSickness.stages.minor-1.label>
+  <!-- EN: moderate -->
+  <TM_ArcaneSickness.stages.moderate.label>moderada</TM_ArcaneSickness.stages.moderate.label>
+  <!-- EN: major -->
+  <TM_ArcaneSickness.stages.major.label>mayor</TM_ArcaneSickness.stages.major.label>
+  <!-- EN: extreme -->
+  <TM_ArcaneSickness.stages.extreme-0.label>extrema</TM_ArcaneSickness.stages.extreme-0.label>
+  <!-- EN: extreme -->
+  <TM_ArcaneSickness.stages.extreme-1.label>extrema</TM_ArcaneSickness.stages.extreme-1.label>
+  
+  <!-- EN: mana sickness -->
+  <TM_ManaSickness.label>enfermedad de maná</TM_ManaSickness.label>
+  <!-- EN: Mana sickness affects mages when they have 0 mana and their regeneration is negative. Mana sickness will eventually kill a mage if it is not reversed. Players may evaluate a mage's mana regeneration in the Magic Tab while hovering over the Mana regeneration value to display a tooltip showing contributors affecting mana regeneration. -->
+  <TM_ManaSickness.description>La enfermedad de maná afecta a los magos cuando tienen 0 de maná y su regeneración es negativa. La enfermedad de maná eventualmente matará a un mago si no se revierte. Los jugadores pueden evaluar la regeneración de maná de un mago en la pestaña de Magia al pasar el cursor sobre el valor de regeneración de maná para mostrar una descripción emergente que muestra los contribuyentes que afectan la regeneración de maná.</TM_ManaSickness.description>
+  <!-- EN: weakened -->
+  <TM_ManaSickness.stages.weakened.label>debilitado</TM_ManaSickness.stages.weakened.label>
+  <!-- EN: ailing -->
+  <TM_ManaSickness.stages.ailing.label>doliente</TM_ManaSickness.stages.ailing.label>
+  <!-- EN: near death -->
+  <TM_ManaSickness.stages.near_death.label>cerca de la muerte</TM_ManaSickness.stages.near_death.label>
+  
+</LanguageData>

@@ -1,0 +1,133 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: transcendent -->
+  <TM_Transcendent.label>transcendente</TM_Transcendent.label>
+  <!-- EN: Those with the ability to change their own fate are to be feared and respected; destroy them, follow behind them, or fall before them. -->
+  <TM_Transcendent.description>Aquellos con la habilidad de cambiar su propio destino deben ser temidos y respetados; destrúyelos, síguelos o cae ante ellos.</TM_Transcendent.description>
+  <!-- EN:
+    <li>creation(tag=meme_TM_Transcendent)           ->Drifting in an eternity of magic, [deity0_name] gazed upon the physical worlds and saw anguish and strife, where the few used the power of machines and archotech to prey upon the many. Wishing to restore balance, [deity0_name] weaved threads of [deity0_possessive] power into the essence of all humankind, granting them the ability to touch and the will to use magic.</li>
+    <li>episode(uses=1,tag=meme_TM_Transcendent)     ->Magic, granted to good and evil alike, was used uncaringly and threatened to sunder the earth, causing pain and chaos to all. [deity0_name], seeing that humankind did not yet have the maturity for self-control, reduced the flow of mana to a trickle, striking the knowledge of its use from the minds of its weilders. Thus, magic became a rarity, where its use was requisite upon the dedication and energy of its stewards.</li>
+    <li>intro(tag=meme_TM_Transcendent)              ->At the [place_summary] [place_name], the ritual of true birth began at the [diety0_type] [altarRoomLabel] of [deity0_name] where the terrified yet desperate [founderName] reached out with intensity and ferver to create a path through sheer strength of will. [diety0_name], witnessing this unfathomable strength of spirit, bestowed upon [founderName] a connection to magic.</li>
+    <li>conflict(tag=meme_TM_Transcendent)           ->A violent [foeLeader] tried to seize this power, killing many to reach [place_name].</li>
+    <li>founderJoin(tag=meme_TM_Transcendent)        ->[deity0_name] commanded [founderName] to learn the ways of magic and defend [founder_possessive] tribe. [founderName] spent every waking hour communing with [deity0_name] at [altarRoomLabel].</li>
+    <li>victory(tag=meme_TM_Transcendent)            ->Consumed by an ocean of malice, [foeLeader] marched [foeLeader_possessive] armies upon [place_name] to kill [founderName]. Yet, on the day of reckoning, [founderName] emerged from [founder_possessive] communion with [diety0_name] and called forth a storm of [TM_stormType] and [TM_stormType], utterly destroying the armies of [foeLeader]. Thus, the bloodline of magic took hold and began to spread its roots throughout [place_summary].</li>
+    <li>setup(tag=meme_TM_Transcendent)              ->[founderName] fought in many battles for his urbworld overlords, seeing much grief, dispare, and death. Exhausted from the senselessness, [founder_pronoun] threw away his weapons and vowed to [diety0_name] to shape [founder_possessive] future in the pursuit of peace and prosperity instead of violence.</li>
+    <li>story(uses=1,tag=meme_TM_Transcendent)       ->[founderName] preached the peaceful way as the true way to eternal life and was granted powerful [diety0_type] magic from his patron diety [diety0_name].</li>
+    <li>lessonIntro(tag=meme_TM_Transcendent)         ->In order to empower ourselves, we must first give up the technologies and contraptions that stunt our growth. Only then can the struggle to survive change us.</li>
+    <li>lesson(tag=meme_TM_Transcendent)              ->We grow and adapt by overcoming challenges.</li>
+    <li>lessonReinforcement(tag=meme_TM_Transcendent) ->In order to attain true power, we must give up the objects that provide stability and allow us to remain weak.</li>
+    <li>archistBasis(tag=meme_TM_Transcendent)       ->When the archotechs appeared they were never concerned for appearances; they showed us that the mind stands above the physical form.</li>
+    <li>archistFact(tag=meme_TM_Transcendent)        ->Archotechs did not foresee the seed of magic within humankind and their instructions to achieve enlightenment took an unforseen turn.</li>
+    <li>archistProphecy(tag=meme_TM_Transcendent)    ->[inTheEnd], humankind was able to achieve a new form of enlightenment through the revelation and connection to magic.</li>
+    <li>animistFact(tag=meme_TM_Transcendent)        ->The spirit realm draws ever closer with the permeation of magic; the veil of spirits can be parted momentarily for those strong in magic, and even crossed if the price is paid.</li>
+  -->
+  <TM_Transcendent.descriptionMaker.rules.rulesStrings>
+    <li>creación(etiqueta=meme_TM_Transcendent)           ->Derivando en una eternidad de magia, [deity0_name] contempló los mundos físicos y vio angustia y conflicto, donde los pocos usaban el poder de máquinas y arcotecnología para depredar a los muchos. Deseando restaurar el equilibrio, [deity0_name] teció hilos de [deity0_possessive] poder en la esencia de toda la humanidad, otorgándoles la habilidad de tocar y la voluntad de usar magia.</li>
+    <li>episodio(usos=1,etiqueta=meme_TM_Transcendent)     ->La magia, otorgada tanto a buenos como malvados, fue usada descuidadamente y amena zó con desgarrar la tierra, causando dolor y caos a todos. [deity0_name], viendo que la humanidad aún no tenía la madurez para el autocontrol, redujo el flujo de maná a un hilo, borrando el conocimiento de su uso de las mentes de sus usuarios. Así, la magia se volvió una rareza, donde su uso era requisito de la dedicación y energía de sus guardianes.</li>
+    <li>introducción(etiqueta=meme_TM_Transcendent)              ->[founderName] comenzó el ritual del verdadero nacimiento en [altarRoomLabel] de [place_name], donde [founderName] desesperado alcanzó con intensidad y fervor para crear un camino a través de pura fuerza de voluntad. [deity0_name], siendo testigo de esta fuerza de espíritu inconcebible, otorgó a [founderName] una conexión a la magia.</li>
+    <li>conflicto(etiqueta=meme_TM_Transcendent)           ->Un violento [foeLeader] intentó apoderarse de este poder, matando a muchos para llegar a [place_name].</li>
+    <li>uniónFundador(etiqueta=meme_TM_Transcendent)        ->[deity0_name] ordenó a [founderName] aprender los caminos de la magia y defender a [founder_possessive] tribu. [founderName] pasó cada hora de vigilia comulgando con [deity0_name] en [altarRoomLabel].</li>
+    <li>victoria(etiqueta=meme_TM_Transcendent)            ->Consumido por un océano de malicia, [foeLeader] marchó [foeLeader_possessive] ejércitos sobre [place_name] para matar a [founderName]. Pero, en el día del ajuste de cuentas, [founderName] emergió de [founder_possessive] comunigión con [deity0_name] e invocó una tormenta de [TM_stormType] y [TM_stormType], destruyendo completamente los ejércitos de [foeLeader]. Así, el linaje de la magia tomó forma y comenzó a extender sus raíces a lo largo de [place_summary].</li>
+    <li>preparación(etiqueta=meme_TM_Transcendent)              ->[founderName] luchó en muchas batallas para sus señores de urbworld, presenciando mucho sufrimiento, desesperación y muerte. Agotado por lo insensato, [founder_pronoun] arrojó sus armas y juró a [deity0_name] dar forma a [founder_possessive] futuro en la búsqueda de paz y prosperidad en lugar de violencia.</li>
+    <li>historia(usos=1,etiqueta=meme_TM_Transcendent)       ->[founderName] predi caba el camino pacíf ico como el verdadero camino hacia la vida eterna y fue otorgada poderosa magia de [deity0_type] de [deity0_name] su deidad patrona.</li>
+    <li>introducciónLección(etiqueta=meme_TM_Transcendent)         ->Para fortalecernos a nosotros mismos, primero debemos renunciar a las tecnologías y artilugios que estancan nuestro crecimiento. Solo entonces el esfuerzo por sobrevivir puede transformarnos.</li>
+    <li>lección(etiqueta=meme_TM_Transcendent)              ->Crecemos y nos adaptamos al superar desafíos.</li>
+    <li>refuerzoLección(etiqueta=meme_TM_Transcendent) ->Para alcanzar el verdadero poder, debemos renunciar a los objetos que proporcionan estabilidad y nos permiten permanecer débiles.</li>
+    <li>baseFuerza(etiqueta=meme_TM_Transcendent)       ->Cuando los arcotecnos aparecieron nunca se preocuparon por las apariencias; nos mostraron que la mente está por encima de la forma física.</li>
+    <li>hechoFuerza(etiqueta=meme_TM_Transcendent)        ->Los arcotecnos no previnieron la semilla de magia dentro de la humanidad y sus instrucciones para alcanzar la iluminación tomaron un giro imprevisto.</li>
+    <li>profecíaFuerza(etiqueta=meme_TM_Transcendent)    ->[inTheEnd], la humanidad pudo alcanzar una nueva forma de iluminación a través de la revelación y conexión a la magia.</li>
+    <li>hechoAnimalista(etiqueta=meme_TM_Transcendent)        ->El reino espiritual se aproxima cada vez más con la permeación de magia; el velo de espíritus puede ser rasgado momentaneamente para aquellos fuertes en magia, e incluso cruzado si el precio es pagado.</li>
+  </TM_Transcendent.descriptionMaker.rules.rulesStrings>
+  <!-- EN:
+    <li>memeAdjective->transcendent</li>
+    <li>memeAdjective->champion</li>
+    <li>memeAdjective->hero</li>
+    <li>memeAdjective->mage</li>
+    <li>memeAdjective->superior</li>
+    <li>memeAdjective->sorcerer</li>
+    <li>memeAdjective->caster</li>
+    <li>memeCreed->brotherhood</li>
+    <li>memeCreed->fold</li>
+    <li>memeCreed->guild</li>
+    <li>memeCreed->chosen</li>
+    <li>memeCreed->masters</li>
+    <li>memeConcept->magic</li>
+    <li>memeConcept->gifted</li>
+    <li>memeConcept->chosen</li>
+    <li>memeConcept->cursed</li>
+    <li>memeConcept->blighted</li>
+    <li>memeLeaderNoun->archmage</li>
+    <li>memeLeaderNoun->master</li>
+    <li>memeLeaderNoun->wizard</li>
+    <li>memeLeaderNoun->mage</li>
+    <li>memeLeaderNoun->emperor</li>
+    <li>memeLeaderAdjective->chosen</li>
+    <li>memeLeaderAdjective->trascendent</li>
+    <li>memeLeaderAdjective->hallowed</li>
+    <li>memeLeaderAdjective->arcane</li>
+    <li>memeMoralist->diviner</li>
+    <li>memeMoralist->speaker</li>
+    <li>memeMoralist->loremaster</li>
+    <li>memeMoralist->seneschal</li>
+    <li>memeMoralist->steward</li>
+    <li>TM_stormType->fire</li>
+    <li>TM_stormType->ice</li>
+    <li>TM_stormType->wind</li>
+    <li>TM_stormType->gravel</li>
+    <li>TM_stormType->lightning</li>
+    <li>TM_stormType->chaos</li>
+    <li>TM_stormType->rock</li>
+    <li>TM_stormType->emotion</li>
+    <li>TM_stormType->raw arcane energy</li>
+    <li>TM_stormType->rage</li>
+    <li>TM_stormType->spirits</li>
+    <li>TM_stormType->water</li>
+  -->
+  <TM_Transcendent.generalRules.rulesStrings>
+    <li>adjetivo_meme->transcendente</li>
+    <li>adjetivo_meme->campeón</li>
+    <li>adjetivo_meme->héroe</li>
+    <li>adjetivo_meme->mago</li>
+    <li>adjetivo_meme->superior</li>
+    <li>adjetivo_meme->hechicero</li>
+    <li>adjetivo_meme->lanzador</li>
+    <li>creencia_meme->hermandad</li>
+    <li>creencia_meme->pliego</li>
+    <li>creencia_meme->gremio</li>
+    <li>creencia_meme->elegidos</li>
+    <li>creencia_meme->maestros</li>
+    <li>concepto_meme->magia</li>
+    <li>concepto_meme->dotado</li>
+    <li>concepto_meme->elegido</li>
+    <li>concepto_meme->maldito</li>
+    <li>concepto_meme->azotado</li>
+    <li>sustantivo_líerr_meme->archimago</li>
+    <li>sustantivo_líerr_meme->maestro</li>
+    <li>sustantivo_líerr_meme->hechicero</li>
+    <li>sustantivo_líerr_meme->mago</li>
+    <li>sustantivo_líerr_meme->emperador</li>
+    <li>adjetivo_líerr_meme->elegido</li>
+    <li>adjetivo_líerr_meme->transcendente</li>
+    <li>adjetivo_líerr_meme->sacrosanto</li>
+    <li>adjetivo_líerr_meme->arcano</li>
+    <li>moralista_meme->adivinador</li>
+    <li>moralista_meme->orador</li>
+    <li>moralista_meme->maestro_lore</li>
+    <li>moralista_meme->senescal</li>
+    <li>moralista_meme->mayordomo</li>
+    <li>TM_stormType->fuego</li>
+    <li>TM_stormType->hielo</li>
+    <li>TM_stormType->viento</li>
+    <li>TM_stormType->grava</li>
+    <li>TM_stormType->rayo</li>
+    <li>TM_stormType->caos</li>
+    <li>TM_stormType->roca</li>
+    <li>TM_stormType->emoción</li>
+    <li>TM_stormType->energía arcana pura</li>
+    <li>TM_stormType->furia</li>
+    <li>TM_stormType->espíritus</li>
+    <li>TM_stormType->agua</li>
+  </TM_Transcendent.generalRules.rulesStrings>
+  
+</LanguageData>

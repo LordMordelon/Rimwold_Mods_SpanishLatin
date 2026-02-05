@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Cleave -->
+  <TM_Cleave.label>hender</TM_Cleave.label>
+  <!-- EN: Executes a powerful, sweeping blow that can strike multiple enemies adjacent to the target. As long as the gladiator has enough stamina, this ability works automatically whenever the gladiator performs a melee attack. Cleave chance is calculated from weapon mass - heavier weapons are more likely to cleave. -->
+  <TM_Cleave.description>Ejecuta un golpe poderoso y amplio que puede golpear a múltiples enemigos adyacentes al objetivo. Mientras el gladiador tenga suficiente resistencia, esta habilidad funciona automáticamente cada vez que el gladiador realiza un ataque cuerpo a cuerpo. La probabilidad de hender se calcula a partir de la masa del arma: las armas más pesadas tienen más probabilidades de hender.</TM_Cleave.description>
+  
+  <!-- EN: Fortitude -->
+  <TM_Fortitude.label>fortaleza</TM_Fortitude.label>
+  <!-- EN: Mitigates a set amount of damage each hit.\nBase mitigation: 5 -->
+  <TM_Fortitude.description>Mitiga una cantidad fija de daño con cada golpe.\nMitigación base: 5</TM_Fortitude.description>
+  
+  <!-- EN: Grapple -->
+  <TM_Grapple.label>forcejeo</TM_Grapple.label>
+  <!-- EN: Forcefully hooks and yanks an opponent to the Gladiator, followed by a violent leg sweep, knocking the opponent down.\n		\nCasting time: 1s\nRange: 15 -->
+  <TM_Grapple.description>Engancha y tira con fuerza de un oponente hacia el Gladiador, seguido de un barrido de pierna violento, derribando al oponente.\n\nTiempo de lanzamiento: 1s\nAlcance: 15</TM_Grapple.description>
+  
+  <!-- EN: Grapple -->
+  <TM_Grapple_I.label>forcejeo (I)</TM_Grapple_I.label>
+  <!-- EN: Forcefully hooks and yanks an opponent to the Gladiator, followed by a violent leg sweep, knocking the opponent down.\nCasting time: .6s\nRange: 17 -->
+  <TM_Grapple_I.description>Engancha y tira con fuerza de un oponente hacia el Gladiador, seguido de un barrido de pierna violento, derribando al oponente.\nTiempo de lanzamiento: .6s\nAlcance: 17</TM_Grapple_I.description>
+  
+  <!-- EN: Grapple -->
+  <TM_Grapple_II.label>forcejeo (II)</TM_Grapple_II.label>
+  <!-- EN: Forcefully hooks and yanks an opponent to the Gladiator, followed by a violent leg sweep, knocking the opponent down.\n		\nCasting time: .4s\nRange: 20 -->
+  <TM_Grapple_II.description>Engancha y tira con fuerza de un oponente hacia el Gladiador, seguido de un barrido de pierna violento, derribando al oponente.\n\nTiempo de lanzamiento: .4s\nAlcance: 20</TM_Grapple_II.description>
+  
+  <!-- EN: Grapple -->
+  <TM_Grapple_III.label>forcejeo (III)</TM_Grapple_III.label>
+  <!-- EN: Forcefully hooks and yanks an opponent to the Gladiator, followed by a violent leg sweep, knocking the opponent down.\n		\nCasting time: .2s\nRange: 23 -->
+  <TM_Grapple_III.description>Engancha y tira con fuerza de un oponente hacia el Gladiador, seguido de un barrido de pierna violento, derribando al oponente.\n\nTiempo de lanzamiento: .2s\nAlcance: 23</TM_Grapple_III.description>
+  
+  <!-- EN: Sprint -->
+  <TM_Sprint.label>esprintar</TM_Sprint.label>
+  <!-- EN: Activates or deactivates the sustained combat skill Sprint - greatly increases movement speed but causes exhaustion. Requires 30 Stamina to sustain and reduces stamina regen by 20%. -->
+  <TM_Sprint.description>Activa o desactiva la habilidad de combate sostenida Esprintar: aumenta enormemente la velocidad de movimiento pero causa agotamiento. Requiere 30 de resistencia para mantenerse y reduce la regeneración de resistencia en un 20%.</TM_Sprint.description>
+  
+  <!-- EN: Sprint -->
+  <TM_Sprint_I.label>esprintar (I)</TM_Sprint_I.label>
+  <!-- EN: Activates or deactivates the sustained combat skill Sprint - greatly increases movement speed but causes exhaustion. Requires 30 Stamina to sustain and reduces stamina regen by 20%.\n\nActivating sprint grants the user 10s of evasion (25% dodge chance) and 5s of adrenaline.\nDeactivating sprint instantly returns 20 stamina and applies 5s of +20% energy regeneration. -->
+  <TM_Sprint_I.description>Activa o desactiva la habilidad de combate sostenida Esprintar: aumenta enormemente la velocidad de movimiento pero causa agotamiento. Requiere 30 de resistencia para mantenerse y reduce la regeneración de resistencia en un 20%.\n\nActivar esprintar otorga al usuario 10s de evasión (25% de probabilidad de esquivar) y 5s de adrenalina.\nDesactivar esprintar devuelve instantáneamente 20 de resistencia y aplica 5s de +20% de regeneración de energía.</TM_Sprint_I.description>
+  
+  <!-- EN: Sprint -->
+  <TM_Sprint_II.label>esprintar (II)</TM_Sprint_II.label>
+  <!-- EN: Activates or deactivates the sustained combat skill Sprint - greatly increases movement speed but causes exhaustion. Requires 30 Stamina to sustain and reduces stamina regen by 20%.\n	\nActivating sprint grants the user 10s of 35% evasion, 8s of adrenaline, and all friendly pawns within 5 cells 10s of 25% evasion.\nDeactivating sprint instantly returns 35 stamina and applies 8s of +30% energy regeneration. -->
+  <TM_Sprint_II.description>Activa o desactiva la habilidad de combate sostenida Esprintar: aumenta enormemente la velocidad de movimiento pero causa agotamiento. Requiere 30 de resistencia para mantenerse y reduce la regeneración de resistencia en un 20%.\n\nActivar esprintar otorga al usuario 10s de 35% de evasión, 8s de adrenalina, y a todos los colonos aliados dentro de 5 celdas 10s de 25% de evasión.\nDesactivar esprintar devuelve instantáneamente 35 de resistencia y aplica 8s de +30% de regeneración de energía.</TM_Sprint_II.description>
+  
+  <!-- EN: Sprint -->
+  <TM_Sprint_III.label>esprintar (III)</TM_Sprint_III.label>
+  <!-- EN: Activates or deactivates the sustained combat skill Sprint - greatly increases movement speed but causes exhaustion. Requires 30 Stamina to sustain and reduces stamina regen by 20%.\n	\nActivating sprint grants the user 10s of 40% evasion, 10s of adrenaline, and all friendly pawns within 10 cells 10s of 30% evasion.\nDeactivating sprint instantly returns 40 stamina and applies 10s of +40% energy regeneration. -->
+  <TM_Sprint_III.description>Activa o desactiva la habilidad de combate sostenida Esprintar: aumenta enormemente la velocidad de movimiento pero causa agotamiento. Requiere 30 de resistencia para mantenerse y reduce la regeneración de resistencia en un 20%.\n\nActivar esprintar otorga al usuario 10s de 40% de evasión, 10s de adrenalina, y a todos los colonos aliados dentro de 10 celdas 10s de 30% de evasión.\nDesactivar esprintar devuelve instantáneamente 40 de resistencia y aplica 10s de +40% de regeneración de energía.</TM_Sprint_III.description>
+  
+  <!-- EN: Whirlwind -->
+  <TM_Whirlwind.label>torbellino</TM_Whirlwind.label>
+  <!-- EN: The Gladiator launches into a frenzied attack, dancing forward in a furious whirlwind of steel and death. -->
+  <TM_Whirlwind.description>El Gladiador se lanza a un ataque frenético, bailando hacia adelante en un furioso torbellino de acero y muerte.</TM_Whirlwind.description>
+  
+</LanguageData>

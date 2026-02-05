@@ -1,0 +1,126 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: bestow magic speech -->
+  <TM_Speech_BestowMagic.label>discurso de otorgamiento de magia</TM_Speech_BestowMagic.label>
+  <!-- EN:
+    <li>r_logentry->[INITIATOR_nameDef] [praised] [doing] [speechtopic].</li>
+    <li>r_logentry(p=0.2)->[INITIATOR_nameDef] [crazy].</li>
+    <li>speechtopic->magic</li>
+    <li>speechtopic->peace through power</li>
+    <li>speechtopic->mages</li>
+    <li>speechtopic->order</li>
+    <li>speechtopic->the power to protect</li>
+    <li>speechtopic->magic and mages</li>
+    <li>speechtopic->the blessings of magic</li>
+    <li>speechtopic->the next stage in human evolution</li>
+    <li>crazy->roared in victory</li>
+    <li>crazy->broke into a chant</li>
+    <li>crazy->chanted towards the heavens</li>
+    <li>crazy->placed a hand of assurance on the mage</li>
+    <li>crazy->smiled heroically</li>
+    <li>crazy->brandished a staff</li>
+    <li>crazy->murmured a mantra</li>
+    <li>crazy->offered a benediction</li>
+    <li>crazy->reached towards the heavens</li>
+    <li>doing->achieving</li>
+    <li>doing->learning</li>
+    <li>doing->understanding</li>
+    <li>doing->using</li>
+    <li>doing->protecting</li>
+    <li>doing->releasing</li>
+    <li>doing->supporting</li>
+    <li>doing->gaining</li>
+  -->
+  <TM_Speech_BestowMagic.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef] [praised] [doing] [speechtopic].</li>
+    <li>r_logentry(p=0.2)->[INITIATOR_nameDef] [crazy].</li>
+    <li>speechtopic->la magia</li>
+    <li>speechtopic->la paz a través del poder</li>
+    <li>speechtopic->los magos</li>
+    <li>speechtopic->el orden</li>
+    <li>speechtopic->el poder de proteger</li>
+    <li>speechtopic->la magia y los magos</li>
+    <li>speechtopic->las bendiciones de la magia</li>
+    <li>speechtopic->la siguiente etapa en la evolución humana</li>
+    <li>crazy->rugió en victoria</li>
+    <li>crazy->comenzó un cántico</li>
+    <li>crazy->cantó hacia los cielos</li>
+    <li>crazy->puso una mano de seguridad en el mago</li>
+    <li>crazy->sonrió heroicamente</li>
+    <li>crazy->blandió un bastón</li>
+    <li>crazy->murmuró un mantra</li>
+    <li>crazy->ofreció una bendición</li>
+    <li>crazy->alcanzó hacia los cielos</li>
+    <li>doing->lograr</li>
+    <li>doing->aprender</li>
+    <li>doing->comprender</li>
+    <li>doing->usar</li>
+    <li>doing->proteger</li>
+    <li>doing->liberar</li>
+    <li>doing->apoyar</li>
+    <li>doing->ganar</li>
+  </TM_Speech_BestowMagic.logRulesInitiator.rulesStrings>
+  
+  <!-- EN: sever magic speech -->
+  <TM_Speech_SeverMagic.label>discurso de separación de magia</TM_Speech_SeverMagic.label>
+  <!-- EN:
+    <li>r_logentry->[INITIATOR_nameDef] [praised] [doing] [speechtopic].</li>
+    <li>r_logentry(p=0.2)->[INITIATOR_nameDef] [crazy].</li>
+    <li>speechtopic->magic</li>
+    <li>speechtopic->peace through power</li>
+    <li>speechtopic->mages</li>
+    <li>speechtopic->chaos</li>
+    <li>speechtopic->the temptation of power</li>
+    <li>speechtopic->magic and mages</li>
+    <li>speechtopic->the seduction of magic</li>
+    <li>speechtopic->an errant bio-genetic cancer</li>
+    <li>crazy->screamed maniacally</li>
+    <li>crazy->broke into a chant</li>
+    <li>crazy->chanted towards the heavens</li>
+    <li>crazy->spat in the mage's eye</li>
+    <li>crazy->cackled</li>
+    <li>crazy->brandished a blade</li>
+    <li>crazy->muttered repetitively</li>
+    <li>crazy->screamed in defiance</li>
+    <li>crazy->spasmed uncontrollably</li>
+    <li>doing->controlling</li>
+    <li>doing->balancing</li>
+    <li>doing->sacrificing</li>
+    <li>doing->removing the temptation</li>
+    <li>doing->manipulating</li>
+    <li>doing->freeing</li>
+    <li>doing->standing firm against</li>
+    <li>doing->rejecting</li>
+  -->
+  <TM_Speech_SeverMagic.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef] [praised] [doing] [speechtopic].</li>
+    <li>r_logentry(p=0.2)->[INITIATOR_nameDef] [crazy].</li>
+    <li>speechtopic->la magia</li>
+    <li>speechtopic->la paz a través del poder</li>
+    <li>speechtopic->los magos</li>
+    <li>speechtopic->el caos</li>
+    <li>speechtopic->la tentación del poder</li>
+    <li>speechtopic->la magia y los magos</li>
+    <li>speechtopic->la seducción de la magia</li>
+    <li>speechtopic->un cáncer biogenético errante</li>
+    <li>crazy->gritó maniáticamente</li>
+    <li>crazy->comenzó un cántico</li>
+    <li>crazy->cantó hacia los cielos</li>
+    <li>crazy->escupió en el ojo del mago</li>
+    <li>crazy->cacareó</li>
+    <li>crazy->blandió una hoja</li>
+    <li>crazy->murmuró repetitivamente</li>
+    <li>crazy->gritó en desafío</li>
+    <li>crazy->tuvo espasmos incontrolables</li>
+    <li>doing->controlar</li>
+    <li>doing->equilibrar</li>
+    <li>doing->sacrificar</li>
+    <li>doing->eliminar la tentación</li>
+    <li>doing->manipular</li>
+    <li>doing->liberar</li>
+    <li>doing->mantenerse firme contra</li>
+    <li>doing->rechazar</li>
+  </TM_Speech_SeverMagic.logRulesInitiator.rulesStrings>
+  
+</LanguageData>

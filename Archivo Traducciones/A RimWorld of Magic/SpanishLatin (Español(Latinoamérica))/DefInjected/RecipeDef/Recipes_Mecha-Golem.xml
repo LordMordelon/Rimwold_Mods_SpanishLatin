@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: mecha-axe -->
+  <TM_Mecha-Golem_Axe.label>hacha mecha</TM_Mecha-Golem_Axe.label>
+  <!-- EN: Forges an axe and mounts it to the left arm attachment. -->
+  <TM_Mecha-Golem_Axe.description>Forja un hacha y la monta en el acople del brazo izquierdo.</TM_Mecha-Golem_Axe.description>
+  <!-- EN: crafting golem part -->
+  <TM_Mecha-Golem_Axe.jobString>Fabricando parte de gólem.</TM_Mecha-Golem_Axe.jobString>
+  
+  <!-- EN: ballistic plate -->
+  <TM_Mecha-Golem_BallisticPlate.label>placa balística</TM_Mecha-Golem_BallisticPlate.label>
+  <!-- EN: Upgrades the bodyarmor of the golem with ballistic plate; incurs a movement penalty. -->
+  <TM_Mecha-Golem_BallisticPlate.description>Mejora la armadura corporal del gólem con placa balística; incurre en una penalización de movimiento.</TM_Mecha-Golem_BallisticPlate.description>
+  <!-- EN: crafting golem part -->
+  <TM_Mecha-Golem_BallisticPlate.jobString>Fabricando parte de gólem.</TM_Mecha-Golem_BallisticPlate.jobString>
+  
+  <!-- EN: earth core processor -->
+  <TM_Mecha-Golem_EarthCore.label>procesador de núcleo de tierra</TM_Mecha-Golem_EarthCore.label>
+  <!-- EN: The earth core processor provides the following benefits per upgrade level [1/2/3]:\nArmor:		+[10%/18%/25%]\nAbility Cooldown:	+[5%/10%/15%]\nHealing Bonus:	+[60%/120%/180%]\nEnergy Cost:	+[5%/10%/15%]\nProcessing: 	+[15%/30%/45%]\n\nIn addition, the earth core allows the golem the ability to shield itself from damage. -->
+  <TM_Mecha-Golem_EarthCore.description>El procesador de núcleo de tierra proporciona los siguientes beneficios por nivel de mejora [1/2/3]:\nArmadura:\t+[10%/18%/25%]\nEnfriamiento de habilidad:\t+[5%/10%/15%]\nBono de curación:\t+[60%/120%/180%]\nCosto de energía:\t+[5%/10%/15%]\nProcesamiento: \t+[15%/30%/45%]\n\nAdemás, el núcleo de tierra permite al gólem la capacidad de protegerse del daño.</TM_Mecha-Golem_EarthCore.description>
+  <!-- EN: crafting golem upgrade -->
+  <TM_Mecha-Golem_EarthCore.jobString>Fabricando mejora de gólem.</TM_Mecha-Golem_EarthCore.jobString>
+  
+  <!-- EN: Earth shard base -->
+  <TM_Mecha-Golem_EarthShard.label>base de fragmento de tierra</TM_Mecha-Golem_EarthShard.label>
+  <!-- EN: The earth shard automaton base provides the following benefits per upgrade level [1/2/3]:\nHealth:	+[40%/80%/120%] -->
+  <TM_Mecha-Golem_EarthShard.description>La base de autómata de fragmento de tierra proporciona los siguientes beneficios por nivel de mejora [1/2/3]:\nSalud:\t+[40%/80%/120%]</TM_Mecha-Golem_EarthShard.description>
+  <!-- EN: crafting golem upgrade -->
+  <TM_Mecha-Golem_EarthShard.jobString>Fabricando mejora de gólem.</TM_Mecha-Golem_EarthShard.jobString>
+  
+  <!-- EN: power cell -->
+  <TM_Mecha-Golem_EnergyCell.label>celda de energía</TM_Mecha-Golem_EnergyCell.label>
+  <!-- EN: Creates a power cell and installs it into a mecha-golem. -->
+  <TM_Mecha-Golem_EnergyCell.description>Crea una celda de energía y la instala en un gólem mecha.</TM_Mecha-Golem_EnergyCell.description>
+  <!-- EN: crafting power cell -->
+  <TM_Mecha-Golem_EnergyCell.jobString>Fabricando celda de energía.</TM_Mecha-Golem_EnergyCell.jobString>
+  
+  <!-- EN: electrical neuro-core -->
+  <TM_Mecha-Golem_EnergyCharge.label>núcleo neuroeléctrico</TM_Mecha-Golem_EnergyCharge.label>
+  <!-- EN: Increases the energy charge rate of the golem by 10 per hour. -->
+  <TM_Mecha-Golem_EnergyCharge.description>Aumenta la tasa de carga de energía del gólem en 10 por hora.</TM_Mecha-Golem_EnergyCharge.description>
+  <!-- EN: upgrading electrical neurology -->
+  <TM_Mecha-Golem_EnergyCharge.jobString>Mejorando neurología eléctrica.</TM_Mecha-Golem_EnergyCharge.jobString>
+  
+  <!-- EN: energy converter -->
+  <TM_Mecha-Golem_EnergyConverter.label>convertidor de energía</TM_Mecha-Golem_EnergyConverter.label>
+  <!-- EN: Increases the efficiency of energy absorbed and used by the golem by 10%. -->
+  <TM_Mecha-Golem_EnergyConverter.description>Aumenta la eficiencia de la energía absorbida y usada por el gólem en 10%.</TM_Mecha-Golem_EnergyConverter.description>
+  <!-- EN: crafting power cycler -->
+  <TM_Mecha-Golem_EnergyConverter.jobString>Fabricando ciclador de energía.</TM_Mecha-Golem_EnergyConverter.jobString>
+  
+  <!-- EN: extinguisher -->
+  <TM_Mecha-Golem_Extinguisher.label>extintor</TM_Mecha-Golem_Extinguisher.label>
+  <!-- EN: Adds built-in steam exhaust vents that can be used to quickly disperse fires on and around the golem. -->
+  <TM_Mecha-Golem_Extinguisher.description>Agrega ventilas de escape de vapor integradas que pueden usarse para dispersar rápidamente incendios en y alrededor del gólem.</TM_Mecha-Golem_Extinguisher.description>
+  <!-- EN: crafting golem part -->
+  <TM_Mecha-Golem_Extinguisher.jobString>Fabricando parte de gólem.</TM_Mecha-Golem_Extinguisher.jobString>
+  
+  <!-- EN: flame core processor -->
+  <TM_Mecha-Golem_FlameCore.label>procesador de núcleo de fuego</TM_Mecha-Golem_FlameCore.label>
+  <!-- EN: The flame core processor provides the following benefits per upgrade level [1/2/3]:\nMovement:	+[0.5c/0.9c/1.2c]\nProcessing: 	+[10%/20%/30%]\nAbility Damage:	+[10%/20%/30%]\nEnergy Cost:	+[10%/20%/30%]\n\nIn addition, the flame core allows the golem the ability to attract and burn nearby filth, gaining energy in the process. -->
+  <TM_Mecha-Golem_FlameCore.description>El procesador de núcleo de fuego proporciona los siguientes beneficios por nivel de mejora [1/2/3]:\nMovimiento:\t+[0.5c/0.9c/1.2c]\nProcesamiento: \t+[10%/20%/30%]\nDaño de habilidad:\t+[10%/20%/30%]\nCosto de energía:\t+[10%/20%/30%]\n\nAdemás, el núcleo de fuego permite al gólem la capacidad de atraer y quemar la suciedad cercana, obteniendo energía en el proceso.</TM_Mecha-Golem_FlameCore.description>
+  <!-- EN: crafting golem upgrade -->
+  <TM_Mecha-Golem_FlameCore.jobString>Fabricando mejora de gólem.</TM_Mecha-Golem_FlameCore.jobString>
+  
+  <!-- EN: Flame shard base -->
+  <TM_Mecha-Golem_FlameShard.label>base de fragmento de fuego</TM_Mecha-Golem_FlameShard.label>
+  <!-- EN: The flame shard automaton base provides the following benefits per upgrade level [1/2/3]:\nMovement:	+[15%/30%/40%]\nHealth:	+[15%/30%/40%] -->
+  <TM_Mecha-Golem_FlameShard.description>La base de autómata de fragmento de fuego proporciona los siguientes beneficios por nivel de mejora [1/2/3]:\nMovimiento:\t+[15%/30%/40%]\nSalud:\t+[15%/30%/40%]</TM_Mecha-Golem_FlameShard.description>
+  <!-- EN: crafting golem upgrade -->
+  <TM_Mecha-Golem_FlameShard.jobString>Fabricando mejora de gólem.</TM_Mecha-Golem_FlameShard.jobString>
+  
+  <!-- EN: gatling cannon -->
+  <TM_Mecha-Golem_GatlingCannon.label>cañón gatling</TM_Mecha-Golem_GatlingCannon.label>
+  <!-- EN: Attaches a minigun onto the right shoulder mount of a mecha-golem. -->
+  <TM_Mecha-Golem_GatlingCannon.description>Acopla una minigun al soporte del hombro derecho de un gólem mecha.</TM_Mecha-Golem_GatlingCannon.description>
+  <!-- EN: crafting golem part -->
+  <TM_Mecha-Golem_GatlingCannon.jobString>Fabricando parte de gólem.</TM_Mecha-Golem_GatlingCannon.jobString>
+  
+  <!-- EN: mecha-hammer -->
+  <TM_Mecha-Golem_Hammer.label>martillo mecha</TM_Mecha-Golem_Hammer.label>
+  <!-- EN: Forges a hammer and mounts it to the right arm attachment. -->
+  <TM_Mecha-Golem_Hammer.description>Forja un martillo y lo monta en el acople del brazo derecho.</TM_Mecha-Golem_Hammer.description>
+  <!-- EN: crafting golem part -->
+  <TM_Mecha-Golem_Hammer.jobString>Fabricando parte de gólem.</TM_Mecha-Golem_Hammer.jobString>
+  
+  <!-- EN: lightning core processor -->
+  <TM_Mecha-Golem_LightningCore.label>procesador de núcleo de relámpago</TM_Mecha-Golem_LightningCore.label>
+  <!-- EN: The lightning core processor provides the following benefits per upgrade level [1/2/3]:\nMovement:	+[1.2c/1.8c/2.2c]\nAbility Cooldown:	-[15%/30%/45%]\nEnergy Cost:	+[10%/20%/30%]\nProcessing: 	-[5%/10%/15%]\n\nIn addition, the lightning core allows the golem the ability to retaliate against melee attackers with a jolt of energy, stunning them briefly. -->
+  <TM_Mecha-Golem_LightningCore.description>El procesador de núcleo de relámpago proporciona los siguientes beneficios por nivel de mejora [1/2/3]:\nMovimiento:\t+[1.2c/1.8c/2.2c]\nEnfriamiento de habilidad:\t-[15%/30%/45%]\nCosto de energía:\t+[10%/20%/30%]\nProcesamiento: \t-[5%/10%/15%]\n\nAdemás, el núcleo de relámpago permite al gólem la capacidad de contraatacar a atacantes cuerpo a cuerpo con una descarga de energía, aturdiéndolos brevemente.</TM_Mecha-Golem_LightningCore.description>
+  <!-- EN: crafting golem upgrade -->
+  <TM_Mecha-Golem_LightningCore.jobString>Fabricando mejora de gólem.</TM_Mecha-Golem_LightningCore.jobString>
+  
+  <!-- EN: Lightning shard base -->
+  <TM_Mecha-Golem_LightningShard.label>base de fragmento de relámpago</TM_Mecha-Golem_LightningShard.label>
+  <!-- EN: The lightning shard automaton base provides the following benefits per upgrade level [1/2/3]:\nMovement:	+[25%/50%/75%] -->
+  <TM_Mecha-Golem_LightningShard.description>La base de autómata de fragmento de relámpago proporciona los siguientes beneficios por nivel de mejora [1/2/3]:\nMovimiento:\t+[25%/50%/75%]</TM_Mecha-Golem_LightningShard.description>
+  <!-- EN: crafting golem upgrade -->
+  <TM_Mecha-Golem_LightningShard.jobString>Fabricando mejora de gólem.</TM_Mecha-Golem_LightningShard.jobString>
+  
+  <!-- EN: mining laser -->
+  <TM_Mecha-Golem_MiningLaser.label>láser minero</TM_Mecha-Golem_MiningLaser.label>
+  <!-- EN: Creates a mining laser to attach to the left shoulder mount. -->
+  <TM_Mecha-Golem_MiningLaser.description>Crea un láser minero para acoplar al soporte del hombro izquierdo.</TM_Mecha-Golem_MiningLaser.description>
+  <!-- EN: crafting golem part -->
+  <TM_Mecha-Golem_MiningLaser.jobString>Fabricando parte de gólem.</TM_Mecha-Golem_MiningLaser.jobString>
+  
+  <!-- EN: repair component -->
+  <TM_Mecha-Golem_RepairComponent.label>componente de reparación</TM_Mecha-Golem_RepairComponent.label>
+  <!-- EN: Replaces missing golem parts that do not require a specific upgrade. -->
+  <TM_Mecha-Golem_RepairComponent.description>Reemplaza partes faltantes del gólem que no requieren una mejora específica.</TM_Mecha-Golem_RepairComponent.description>
+  <!-- EN: crafting golem part -->
+  <TM_Mecha-Golem_RepairComponent.jobString>Fabricando parte de gólem.</TM_Mecha-Golem_RepairComponent.jobString>
+  
+  <!-- EN: mecha-sword -->
+  <TM_Mecha-Golem_Sword.label>espada mecha</TM_Mecha-Golem_Sword.label>
+  <!-- EN: Forges a sword and mounts it to the left arm attachment. -->
+  <TM_Mecha-Golem_Sword.description>Forja una espada y la monta en el acople del brazo izquierdo.</TM_Mecha-Golem_Sword.description>
+  <!-- EN: crafting golem part -->
+  <TM_Mecha-Golem_Sword.jobString>Fabricando parte de gólem.</TM_Mecha-Golem_Sword.jobString>
+  
+  <!-- EN: water core processor -->
+  <TM_Mecha-Golem_WaterCore.label>procesador de núcleo de agua</TM_Mecha-Golem_WaterCore.label>
+  <!-- EN: The water core processor provides the following benefits per upgrade level [1/2/3]:\nArmor:		+[5%/10%/15%]\nAbility Cooldown:	-[10%/20%/30%]\nHealing Bonus:	+[100%/200%/300%]\nEnergy Cost:	-[15%/30%/45%]\n\nIn addition, the water core allows the golem the ability to quickly regenerate health while active and regenerate health to its dormant frame. -->
+  <TM_Mecha-Golem_WaterCore.description>El procesador de núcleo de agua proporciona los siguientes beneficios por nivel de mejora [1/2/3]:\nArmadura:\t+[5%/10%/15%]\nEnfriamiento de habilidad:\t-[10%/20%/30%]\nBono de curación:\t+[100%/200%/300%]\nCosto de energía:\t-[15%/30%/45%]\n\nAdemás, el núcleo de agua permite al gólem regenerar salud rápidamente mientras está activo y regenerar salud en su armazón inactivo.</TM_Mecha-Golem_WaterCore.description>
+  <!-- EN: crafting golem upgrade -->
+  <TM_Mecha-Golem_WaterCore.jobString>Fabricando mejora de gólem.</TM_Mecha-Golem_WaterCore.jobString>
+  
+  <!-- EN: Water shard base -->
+  <TM_Mecha-Golem_WaterShard.label>base de fragmento de agua</TM_Mecha-Golem_WaterShard.label>
+  <!-- EN: The water shard automaton base provides the following benefits per upgrade level [1/2/3]:\nMovement:	+[10%/15%/20%]\nHealth:	+[30%/50%/70%] -->
+  <TM_Mecha-Golem_WaterShard.description>La base de autómata de fragmento de agua proporciona los siguientes beneficios por nivel de mejora [1/2/3]:\nMovimiento:\t+[10%/15%/20%]\nSalud:\t+[30%/50%/70%]</TM_Mecha-Golem_WaterShard.description>
+  <!-- EN: crafting golem upgrade -->
+  <TM_Mecha-Golem_WaterShard.jobString>Fabricando mejora de gólem.</TM_Mecha-Golem_WaterShard.jobString>
+  
+</LanguageData>

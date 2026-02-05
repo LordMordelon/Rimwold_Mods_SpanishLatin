@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: 60mm Mortar -->
+  <TM_60mmMortar.label>mortero de 60mm</TM_60mmMortar.label>
+  <!-- EN: Soften up enemy targets before a fight even begins with a personal mortar system. The 60mm Mortar can easily be transported by a Super Soldier and quickly deployed to launch 3-rounds of indirect fire. -->
+  <TM_60mmMortar.description>Ablanda a los objetivos enemigos antes de que comience una pelea con un sistema de mortero personal. El mortero de 60mm puede ser transportado fácilmente por un Súper Soldado y desplegado rápidamente para lanzar 3 rondas de fuego indirecto.</TM_60mmMortar.description>
+  
+  <!-- EN: Breaching charge -->
+  <TM_BreachingCharge.label>carga de demolición</TM_BreachingCharge.label>
+  <!-- EN: Throws a specialized explosive that excels at destroying structures or stopping enemy clusters. Deals 30x damage to structures. -->
+  <TM_BreachingCharge.description>Lanza un explosivo especializado que sobresale en destruir estructuras o detener grupos de enemigos. Inflige 30x de daño a estructuras.</TM_BreachingCharge.description>
+  
+  <!-- EN: Buckshot -->
+  <TM_Buckshot.label>perdigones</TM_Buckshot.label>
+  <!-- EN: A shotgun shell that fires multiple pellets. The sheer volume of rounds discharged can be devastating at short range, but disperses rapidly. -->
+  <TM_Buckshot.description>Un cartucho de escopeta que dispara múltiples perdigones. El gran volumen de rondas descargadas puede ser devastador a corta distancia, pero se dispersa rápidamente.</TM_Buckshot.description>
+  
+  <!-- EN: CQC -->
+  <TM_CQC.label>CQC</TM_CQC.label>
+  <!-- EN: Close Quarters Combat (CQC) is common training for Soldiers that allows them to smoothly execute a vicious combo attack against an enemy in melee range. -->
+  <TM_CQC.description>El Combate en Espacios Cerrados (CQC) es un entrenamiento común para Soldados que les permite ejecutar suavemente un ataque combinado vicioso contra un enemigo en rango cuerpo a cuerpo.</TM_CQC.description>
+  
+  <!-- EN: Self Aid -->
+  <TM_FirstAid.label>autoayuda</TM_FirstAid.label>
+  <!-- EN: Self Aid is possible for Super Soldiers as a result of the genetic enhancements they acquire from the serum. This ability allows them to consciously focus energy to rapid tend wounds. Self Aid is unable to tend grievous wounds, such as missing body parts. -->
+  <TM_FirstAid.description>La autoayuda es posible para los Súper Soldados como resultado de las mejoras genéticas que adquieren del suero. Esta habilidad les permite enfocar conscientemente la energía para atender heridas rápidamente. La autoayuda no puede atender heridas graves, como partes del cuerpo faltantes.</TM_FirstAid.description>
+  
+  <!-- EN: Mk203_GL -->
+  <TM_Mk203GL.label>Mk203_GL</TM_Mk203GL.label>
+  <!-- EN: Fires a grenade using the Mk203 under-barrel grenade launcher. -->
+  <TM_Mk203GL.description>Dispara una granada usando el lanzagranadas acoplado Mk203.</TM_Mk203GL.description>
+  
+  <!-- EN: Pistol Specialization -->
+  <TM_PistolSpec.label>especialización en pistolas</TM_PistolSpec.label>
+  <!-- EN: Weapon Specialization: Pistol\n\nThis specialization improves all aspects of pistols: accuracy, damage, shot delay, shot count, range, and more.\nWeapon specializations apply automatically when a Super Soldier equips a weapon in their specialization category. Specialized weapons are denoted by a "++" after the item name.\n\nSuper Soldiers with a specialized pistol equipped gain a unique "double tap" talent which will occasionally ignore cooldown and immediately begin another shot burst; this talent consumes stamina when it occurs. -->
+  <TM_PistolSpec.description>Especialización en armas: Pistola\n\nEsta especialización mejora todos los aspectos de las pistolas: precisión, daño, retardo de disparo, conteo de disparos, alcance y más.\nLas especializaciones de armas se aplican automáticamente cuando un Súper Soldado equipa un arma en su categoría de especialización. Las armas especializadas se denotan con un "++" después del nombre del objeto.\n\nLos Súper Soldados con una pistola especializada equipada ganan un talento único de "doble toque" que ocasionalmente ignorará el enfriamiento e inmediatamente comenzará otra ráfaga de disparos; este talento consume resistencia cuando ocurre.</TM_PistolSpec.description>
+  
+  <!-- EN: Pistol Whip -->
+  <TM_PistolWhip.label>culatazo</TM_PistolWhip.label>
+  <!-- EN: A sudden attack using the pistol stock as a blunt weapon; successful attacks will stun a target, leaving them dazed for a short period, and may also disarm them. -->
+  <TM_PistolWhip.description>Un ataque repentino usando la culata de la pistola como arma contundente; los ataques exitosos aturdirán a un objetivo, dejándolo aturdido por un corto período, y también pueden desarmarlo.</TM_PistolWhip.description>
+  
+  <!-- EN: Rifle Specialization -->
+  <TM_RifleSpec.label>especialización en rifles</TM_RifleSpec.label>
+  <!-- EN: Weapon Specialization: Rifle \n\nThis specialization improves all aspects of rifles: accuracy, damage, shot delay, shot count, range, and more.\nWeapon specializations apply automatically when a Super Soldier equips a weapon in their specialization category. Specialized weapons are denoted by a "++" after the item name. -->
+  <TM_RifleSpec.description>Especialización en armas: Rifle\n\nEsta especialización mejora todos los aspectos de los rifles: precisión, daño, retardo de disparo, conteo de disparos, alcance y más.\nLas especializaciones de armas se aplican automáticamente cuando un Súper Soldado equipa un arma en su categoría de especialización. Las armas especializadas se denotan con un "++" después del nombre del objeto.</TM_RifleSpec.description>
+  
+  <!-- EN: Shotgun Specialization -->
+  <TM_ShotgunSpec.label>especialización en escopetas</TM_ShotgunSpec.label>
+  <!-- EN: Weapon Specialization: Shotgun \n\nThis specialization improves all aspects of shotguns: accuracy, damage, shot delay, shot count, range, and more.\nWeapon specializations apply automatically when a Super Soldier equips a weapon in their specialization category. Specialized weapons are denoted by a "++" after the item name. -->
+  <TM_ShotgunSpec.description>Especialización en armas: Escopeta\n\nEsta especialización mejora todos los aspectos de las escopetas: precisión, daño, retardo de disparo, conteo de disparos, alcance y más.\nLas especializaciones de armas se aplican automáticamente cuando un Súper Soldado equipa un arma en su categoría de especialización. Las armas especializadas se denotan con un "++" después del nombre del objeto.</TM_ShotgunSpec.description>
+  
+  <!-- EN: Suppressing Fire -->
+  <TM_SuppressingFire.label>fuego de supresión</TM_SuppressingFire.label>
+  <!-- EN: Suppress enemy positions with a storm of bullets. -->
+  <TM_SuppressingFire.description>Suprime las posiciones enemigas con una tormenta de balas.</TM_SuppressingFire.description>
+  
+</LanguageData>

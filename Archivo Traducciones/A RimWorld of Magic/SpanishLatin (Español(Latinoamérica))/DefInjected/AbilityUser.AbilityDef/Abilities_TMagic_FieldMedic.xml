@@ -1,0 +1,24 @@
+﻿﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Combat Drugs -->
+  <TM_CombatDrugs.label>drogas de combate</TM_CombatDrugs.label>
+  <!-- EN: Gives combat drugs to an ally\n\nThe Field Medic throws a syringe of improvised combat drugs to an ally.\nThe effects are always positive but may vary. -->
+  <TM_CombatDrugs.description>Da drogas de combate a un aliado\n\nEl Médico de Campo lanza una jeringa de drogas de combate improvisadas a un aliado.\nLos efectos son siempre positivos pero pueden variar.</TM_CombatDrugs.description>
+  
+  <!-- EN: Emergency -->
+  <TM_Emergency.label>emergencia</TM_Emergency.label>
+  <!-- EN: The Field Medic rushes to aid their patients.\n\nThe Field Medic gains increased base movement speed, tending speed and tending quality as well as reduced pain for a 30 seconds. -->
+  <TM_Emergency.description>El Médico de Campo se apresura a ayudar a sus pacientes.\n\nEl Médico de Campo gana mayor velocidad de movimiento base, velocidad de atención y calidad de atención, así como dolor reducido durante 30 segundos.</TM_Emergency.description>
+  
+  <!-- EN: Resupply -->
+  <TM_MedicalSupply.label>suministro médico</TM_MedicalSupply.label>
+  <!-- EN: Resupply the Field Medic's medical supplies.\n\nThe Field Medic will use one item from target stockpile and convert it into personal medical supplies he can use to fuel his abilities.\n\nThe amount of supply gained is equal to 20 times the medical potency of the item squared:\nmedicine - 20 medical supplies\nherbal medicine - 4.9 medical supplies\nglitterworld medicine - 51.2 medical supplies\n\nThe Field Medic can train to convert his equipment back into common medicine -->
+  <TM_MedicalSupply.description>Reabastece los suministros médicos del Médico de Campo.\n\nEl Médico de Campo usará un objeto del almacén objetivo y lo convertirá en suministros médicos personales que puede usar para alimentar sus habilidades.\n\nLa cantidad de suministro ganado es igual a 20 veces la potencia médica del objeto al cuadrado:\nmedicina - 20 suministros médicos\nmedicina herbal - 4.9 suministros médicos\nmedicina de glitterworld - 51.2 suministros médicos\n\nEl Médico de Campo puede entrenar para convertir su equipo de nuevo en medicina común</TM_MedicalSupply.description>
+  
+  <!-- EN: Medigel -->
+  <TM_Medigel.label>medigel</TM_Medigel.label>
+  <!-- EN: Applies a healing gel to the wounds of a target that speeds recovery and fights infection. Wounds will be healed slowly over time. Medigel slightly reduces the pain of wounds. -->
+  <TM_Medigel.description>Aplica un gel curativo a las heridas de un objetivo que acelera la recuperación y combate la infección. Las heridas se curarán lentamente con el tiempo. Medigel reduce ligeramente el dolor de las heridas.</TM_Medigel.description>
+  
+</LanguageData>

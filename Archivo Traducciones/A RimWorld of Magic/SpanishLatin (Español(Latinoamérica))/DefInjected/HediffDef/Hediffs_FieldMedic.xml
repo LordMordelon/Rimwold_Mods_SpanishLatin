@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Combat Drugs (accuracy) -->
+  <TM_CombatDrugsAccuracy_HD.label>drogas de combate (precisión)</TM_CombatDrugsAccuracy_HD.label>
+  <!-- EN: Combat drugs enhancing accuracy -->
+  <TM_CombatDrugsAccuracy_HD.description>Drogas de combate que mejoran la precisión.</TM_CombatDrugsAccuracy_HD.description>
+  
+  <!-- EN: Combat Drugs (awareness) -->
+  <TM_CombatDrugsAwareness_HD.label>drogas de combate (conciencia)</TM_CombatDrugsAwareness_HD.label>
+  <!-- EN: Combat drugs enhancing awareness -->
+  <TM_CombatDrugsAwareness_HD.description>Drogas de combate que mejoran la conciencia.</TM_CombatDrugsAwareness_HD.description>
+  
+  <!-- EN: Combat Drugs (movement) -->
+  <TM_CombatDrugsMoving_HD.label>drogas de combate (movimiento)</TM_CombatDrugsMoving_HD.label>
+  <!-- EN: Combat drugs enhancing movement -->
+  <TM_CombatDrugsMoving_HD.description>Drogas de combate que mejoran el movimiento.</TM_CombatDrugsMoving_HD.description>
+  
+  <!-- EN: Combat Drugs (painkiller) -->
+  <TM_CombatDrugsPain_HD.label>drogas de combate (analgésico)</TM_CombatDrugsPain_HD.label>
+  <!-- EN: Combat drugs reducing pain -->
+  <TM_CombatDrugsPain_HD.description>Drogas de combate que reducen el dolor.</TM_CombatDrugsPain_HD.description>
+  
+  <!-- EN: Emergency -->
+  <TM_EmergencyHD.label>emergencia</TM_EmergencyHD.label>
+  <!-- EN: I'll do my best. -->
+  <TM_EmergencyHD.description>Haré lo mejor que pueda.</TM_EmergencyHD.description>
+  <!-- EN: I -->
+  <TM_EmergencyHD.stages.I.label>I</TM_EmergencyHD.stages.I.label>
+  
+  <!-- EN: Medical Supplies -->
+  <TM_MedicalSupplyHD.label>suministros médicos</TM_MedicalSupplyHD.label>
+  <!-- EN: Accounts for the medical supplies equipped by a Field Medic. -->
+  <TM_MedicalSupplyHD.description>Representa los suministros médicos equipados por un médico de campo.</TM_MedicalSupplyHD.description>
+  <!-- EN: medical supplies are not meant to regen -->
+  <TM_MedicalSupplyHD.comps.HediffComp_AbilityResource.regenPerTickUpgradeName>los suministros médicos no están destinados a regenerarse</TM_MedicalSupplyHD.comps.HediffComp_AbilityResource.regenPerTickUpgradeName>
+  
+  <!-- EN: Medigel -->
+  <TM_MedigelHD.label>medigel</TM_MedigelHD.label>
+  <!-- EN: Medigel increases healing rates and fights infections. -->
+  <TM_MedigelHD.description>El medigel aumenta las tasas de curación y combate las infecciones.</TM_MedigelHD.description>
+  <!-- EN: I -->
+  <TM_MedigelHD.stages.I.label>I</TM_MedigelHD.stages.I.label>
+  
+</LanguageData>

@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Body Training -->
+  <TM_BladeArt.label>entrenamiento corporal</TM_BladeArt.label>
+  <!-- EN: Training that enhances physical capabilities.\n\nLevel 0: Moving +10%, Manipulation +10%\nLevel 1: Moving +15%, Manipulation +15%\nLevel 2: Moving +20%, Manipulation +20%, Breathing +10%\nLevel 3: Moving +25%, Manipulation +25%, Breathing +15%, Blood pumping +10%, Blood filtration +10% -->
+  <TM_BladeArt.description>Entrenamiento que mejora las capacidades físicas.\n\nNivel 0: Movimiento +10%, Manipulación +10%\nNivel 1: Movimiento +15%, Manipulación +15%\nNivel 2: Movimiento +20%, Manipulación +20%, Respiración +10%\nNivel 3: Movimiento +25%, Manipulación +25%, Respiración +15%, Bombeo de sangre +10%, Filtración de sangre +10%</TM_BladeArt.description>
+  
+  <!-- EN: Blade training -->
+  <TM_BladeFocus.label>entrenamiento de la espada</TM_BladeFocus.label>
+  <!-- EN: Training that improves technique and skill with melee weapons and raises the status of the bladedancer. Each level will change the trait of the bladedancer to reflect their skill level.\n\nRanks:\nBladesman: Speed +0.15c/s, MBT -3%, Hit chance +3%, Dodge +5%, Shooting Acc. -20%, Global Workspeed -10%\nBlademaster: Speed +0.2c/s, MBT -5%, Hit chance +6%, Dodge +10%, Shooting Acc. -25%, Global Workspeed -8%\nBladedancer: Speed +0.3c/s, MBT -8%, Hit chance +10%, Dodge +15%, Shooting Acc. -28%, Global Workspeed -6%, Pain threshold +5%\nLegendary Bladedancer: Speed +0.4c/s, MBT -10%, Hit chance +15%, Dodge +20%, Shooting Acc. -30%, Global Workspeed -5%, Pain threshold +10% -->
+  <TM_BladeFocus.description>Entrenamiento que mejora la técnica y la habilidad con armas cuerpo a cuerpo y eleva el estatus del danzante de la espada. Cada nivel cambiará el rasgo del danzante de la espada para reflejar su nivel de habilidad.\n\nRangos:\nEspadachín: Velocidad +0.15c/s, TME -3%, Probabilidad de golpe +3%, Esquiva +5%, Precisión de disparo -20%, Velocidad de trabajo global -10%\nMaestro de la espada: Velocidad +0.2c/s, TME -5%, Probabilidad de golpe +6%, Esquiva +10%, Precisión de disparo -25%, Velocidad de trabajo global -8%\nDanzante de la espada: Velocidad +0.3c/s, TME -8%, Probabilidad de golpe +10%, Esquiva +15%, Precisión de disparo -28%, Velocidad de trabajo global -6%, Umbral de dolor +5%\nDanzante de la espada legendario: Velocidad +0.4c/s, TME -10%, Probabilidad de golpe +15%, Esquiva +20%, Precisión de disparo -30%, Velocidad de trabajo global -5%, Umbral de dolor +10%</TM_BladeFocus.description>
+  
+  <!-- EN: Blade Spin -->
+  <TM_BladeSpin.label>giro de espada</TM_BladeSpin.label>
+  <!-- EN: The blademaster seems to blur for a split second, striking all nearby targets in a flurry of steel. -->
+  <TM_BladeSpin.description>El maestro de la espada parece desenfocarse por una fracción de segundo, golpeando a todos los objetivos cercanos en una ráfaga de acero.</TM_BladeSpin.description>
+  
+  <!-- EN: Phase Strike -->
+  <TM_PhaseStrike.label>golpe de fase</TM_PhaseStrike.label>
+  <!-- EN: Melds the bladedancer's razor focus with the edge of a blade to slip between reality, appearing at a chosen location to execute a vicious strike on unsuspecting enemies.\n\nWarmup: .3s\nCooldown: 25s\nRange: 30 -->
+  <TM_PhaseStrike.description>Fusiona el enfoque afilado del danzante de la espada con el filo de una hoja para deslizarse entre la realidad, apareciendo en una ubicación elegida para ejecutar un golpe vicioso sobre enemigos desprevenidos.\n\nCalentamiento: .3s\nEnfriamiento: 25s\nAlcance: 30</TM_PhaseStrike.description>
+  
+  <!-- EN: Phase Strike (I) -->
+  <TM_PhaseStrike_I.label>golpe de fase (I)</TM_PhaseStrike_I.label>
+  <!-- EN: Melds the bladedancer's razor focus with the edge of a blade to slip between reality, appearing at a chosen location to execute a vicious strike on unsuspecting enemies.\n	\nWarmup: .2s\nCooldown: 23s\nRange: 35 -->
+  <TM_PhaseStrike_I.description>Fusiona el enfoque afilado del danzante de la espada con el filo de una hoja para deslizarse entre la realidad, apareciendo en una ubicación elegida para ejecutar un golpe vicioso sobre enemigos desprevenidos.\n\nCalentamiento: .2s\nEnfriamiento: 23s\nAlcance: 35</TM_PhaseStrike_I.description>
+  
+  <!-- EN: Phase Strike (II) -->
+  <TM_PhaseStrike_II.label>golpe de fase (II)</TM_PhaseStrike_II.label>
+  <!-- EN: Melds the bladedancer's razor focus with the edge of a blade to slip between reality, appearing at a chosen location to execute a vicious strike on unsuspecting enemies.\n		\nWarmup: .1s\nCooldown: 21s\nRange: 40 -->
+  <TM_PhaseStrike_II.description>Fusiona el enfoque afilado del danzante de la espada con el filo de una hoja para deslizarse entre la realidad, apareciendo en una ubicación elegida para ejecutar un golpe vicioso sobre enemigos desprevenidos.\n\nCalentamiento: .1s\nEnfriamiento: 21s\nAlcance: 40</TM_PhaseStrike_II.description>
+  
+  <!-- EN: Phase Strike (III) -->
+  <TM_PhaseStrike_III.label>golpe de fase (III)</TM_PhaseStrike_III.label>
+  <!-- EN: Melds the bladedancer's razor focus with the edge of a blade to slip between reality, appearing at a chosen location to execute a vicious strike on unsuspecting enemies.\n\nWarmup: 0s\nCooldown: 20s\nRange: 45 -->
+  <TM_PhaseStrike_III.description>Fusiona el enfoque afilado del danzante de la espada con el filo de una hoja para deslizarse entre la realidad, apareciendo en una ubicación elegida para ejecutar un golpe vicioso sobre enemigos desprevenidos.\n\nCalentamiento: 0s\nEnfriamiento: 20s\nAlcance: 45</TM_PhaseStrike_III.description>
+  
+  <!-- EN: Seismic Slash -->
+  <TM_SeismicSlash.label>tajo sísmico</TM_SeismicSlash.label>
+  <!-- EN: Harnessing the emotionless soul of the blade, the bladedancer unleashes a strike that rends the fabric of space along a line. -->
+  <TM_SeismicSlash.description>Aprovechando el alma sin emociones de la espada, el danzante de la espada desata un golpe que desgarra la tela del espacio a lo largo de una línea.</TM_SeismicSlash.description>
+  
+</LanguageData>

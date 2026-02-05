@@ -1,0 +1,44 @@
+﻿﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Deception -->
+  <TM_Disguise.label>disfraz</TM_Disguise.label>
+  <!-- EN: The faceless manipulates light and motion to make their form appear meaningless to any observer; on a subconscious level, any observer will cognitively dismiss the faceless as an unimportant, harmless object, essentially making the faceless invisible.\n	\nDisguise will not fool any pawn that already sees the faceless as a threat. -->
+  <TM_Disguise.description>El sin rostro manipula la luz y el movimiento para hacer que su forma parezca insignificante para cualquier observador; a nivel subconsciente, cualquier observador descartará cognitivamente al sin rostro como un objeto inofensivo y sin importancia, haciendo al sin rostro esencialmente invisible.\n\nEl disfraz no engañará a ningún colono que ya vea al sin rostro como una amenaza.</TM_Disguise.description>
+  
+  <!-- EN: Mimic -->
+  <TM_Mimic.label>mímica</TM_Mimic.label>
+  <!-- EN: The faceless copies a random ability from a mage or fighter. Only one ability may be stored at a time. The ability is retained after use; reusing Mimic will replace the stored ability. -->
+  <TM_Mimic.description>El sin rostro copia una habilidad aleatoria de un mago o luchador. Solo se puede almacenar una habilidad a la vez. La habilidad se conserva después de su uso; reutilizar Mímica reemplazará la habilidad almacenada.</TM_Mimic.description>
+  
+  <!-- EN: Possess -->
+  <TM_Possess.label>poseer</TM_Possess.label>
+  <!-- EN: Like a puppet master, the faceless applies of the mind and body to cause extreme self-doubt on a target pawn - allowing them to control their target through mental suggestion and coercion. \n		\nNearby enemies are unlikely to immediately detect the possession unless they see suspicious activity. If detected, neutral and friendly factions will consider aggressive actions from a possessed pawn as an act of hostility.\n\nOnly creatures with a human-like mind capable of self-doubt can be possessed. -->
+  <TM_Possess.description>Como un titiritero, el sin rostro aplica la mente y el cuerpo para causar una duda extrema en un colono objetivo, permitiéndole controlar a su objetivo a través de la sugestión mental y la coerción.\n\nEs poco probable que los enemigos cercanos detecten inmediatamente la posesión a menos que vean actividad sospechosa. Si se detecta, las facciones neutrales y aliadas considerarán las acciones agresivas de un colono poseído como un acto de hostilidad.\n\nSolo las criaturas con una mente humanoide capaz de dudar de sí mismas pueden ser poseídas.</TM_Possess.description>
+  
+  <!-- EN: Reversal -->
+  <TM_Reversal.label>inversión</TM_Reversal.label>
+  <!-- EN: Reverses the kinetic energy of all melee and projectile attacks for a brief period. The faceless will take no damage from these attacks. Direct application and explosive attacks cannot be reversed. -->
+  <TM_Reversal.description>Invierte la energía cinética de todos los ataques cuerpo a cuerpo y de proyectiles durante un breve período. El sin rostro no recibirá daño de estos ataques. La aplicación directa y los ataques explosivos no se pueden invertir.</TM_Reversal.description>
+  
+  <!-- EN: Transpose -->
+  <TM_Transpose.label>transponer</TM_Transpose.label>
+  <!-- EN: Swap places with a target pawn. The faceless and the target will be disoriented following transposition. The faceless will gain reversal for a short period.\nCast time: .8s\nRange: 40\nCooldown: 15 -->
+  <TM_Transpose.description>Intercambia lugares con un colono objetivo. El sin rostro y el objetivo estarán desorientados tras la transposición. El sin rostro ganará inversión por un corto período.\nTiempo de lanzamiento: .8s\nAlcance: 40\nEnfriamiento: 15</TM_Transpose.description>
+  
+  <!-- EN: Transpose I -->
+  <TM_Transpose_I.label>transponer (I)</TM_Transpose_I.label>
+  <!-- EN: Swap places with a target pawn. The faceless and the target will be disoriented following transposition. The faceless will gain reversal for a short period.\nCast time: .6s\nRange: 44\nCooldown: 13 -->
+  <TM_Transpose_I.description>Intercambia lugares con un colono objetivo. El sin rostro y el objetivo estarán desorientados tras la transposición. El sin rostro ganará inversión por un corto período.\nTiempo de lanzamiento: .6s\nAlcance: 44\nEnfriamiento: 13</TM_Transpose_I.description>
+  
+  <!-- EN: Transpose II -->
+  <TM_Transpose_II.label>transponer (II)</TM_Transpose_II.label>
+  <!-- EN: Swap places with a target pawn. The faceless and the target will be disoriented following transposition. The faceless will gain reversal for a short period.\nCast time: .4s\nRange: 47\nCooldown: 11 -->
+  <TM_Transpose_II.description>Intercambia lugares con un colono objetivo. El sin rostro y el objetivo estarán desorientados tras la transposición. El sin rostro ganará inversión por un corto período.\nTiempo de lanzamiento: .4s\nAlcance: 47\nEnfriamiento: 11</TM_Transpose_II.description>
+  
+  <!-- EN: Transpose III -->
+  <TM_Transpose_III.label>transponer (III)</TM_Transpose_III.label>
+  <!-- EN: Swap places with a target pawn. The faceless and the target will be disoriented following transposition. The faceless will gain reversal for a short period.\nCast time: .2s\nRange: 50\nCooldown: 9 -->
+  <TM_Transpose_III.description>Intercambia lugares con un colono objetivo. El sin rostro y el objetivo estarán desorientados tras la transposición. El sin rostro ganará inversión por un corto período.\nTiempo de lanzamiento: .2s\nAlcance: 50\nEnfriamiento: 9</TM_Transpose_III.description>
+  
+</LanguageData>

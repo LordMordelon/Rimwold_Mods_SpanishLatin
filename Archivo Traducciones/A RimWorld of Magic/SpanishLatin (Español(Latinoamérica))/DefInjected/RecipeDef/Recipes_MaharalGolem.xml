@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Armor -->
+  <TM_MaharalGolem_Armor.label>armadura</TM_MaharalGolem_Armor.label>
+  <!-- EN: Each upgrade increases the armor of the golem per level [1,2,3]:\nBlunt:	+[9,16,21]%\nSharp:	+[13,22,29]%\nHeat:	+[8,14,18]% -->
+  <TM_MaharalGolem_Armor.description>Cada mejora incrementa la armadura del gólem por nivel [1,2,3]:\nContundente:\t+[9,16,21]%\nCortante:\t+[13,22,29]%\nCalor:\t+[8,14,18]%</TM_MaharalGolem_Armor.description>
+  <!-- EN: crafting golem part -->
+  <TM_MaharalGolem_Armor.jobString>Fabricando parte de gólem.</TM_MaharalGolem_Armor.jobString>
+  
+  <!-- EN: energy converter -->
+  <TM_MaharalGolem_EnergyConverter.label>convertidor de energía</TM_MaharalGolem_EnergyConverter.label>
+  <!-- EN: Increases the efficiency of energy absorbed and used by the golem by 10%. -->
+  <TM_MaharalGolem_EnergyConverter.description>Aumenta la eficiencia de la energía absorbida y usada por el gólem en 10%.</TM_MaharalGolem_EnergyConverter.description>
+  <!-- EN: constructing energy converter -->
+  <TM_MaharalGolem_EnergyConverter.jobString>Construyendo convertidor de energía.</TM_MaharalGolem_EnergyConverter.jobString>
+  
+  <!-- EN: energy cell -->
+  <TM_MaharalGolem_EnergyMax.label>celda de energía</TM_MaharalGolem_EnergyMax.label>
+  <!-- EN: Creates an energy cell that increases maximum energy by 120 per cell. -->
+  <TM_MaharalGolem_EnergyMax.description>Crea una celda de energía que aumenta la energía máxima en 120 por celda.</TM_MaharalGolem_EnergyMax.description>
+  <!-- EN: creating energy cell -->
+  <TM_MaharalGolem_EnergyMax.jobString>Creando celda de energía.</TM_MaharalGolem_EnergyMax.jobString>
+  
+  <!-- EN: energy generator -->
+  <TM_MaharalGolem_EnergyRegen.label>generador de energía</TM_MaharalGolem_EnergyRegen.label>
+  <!-- EN: Increases the energy regeneration rate of the golem by 4 per hour. -->
+  <TM_MaharalGolem_EnergyRegen.description>Aumenta la tasa de regeneración de energía del gólem en 4 por hora.</TM_MaharalGolem_EnergyRegen.description>
+  <!-- EN: constructing energy generator -->
+  <TM_MaharalGolem_EnergyRegen.jobString>Construyendo generador de energía.</TM_MaharalGolem_EnergyRegen.jobString>
+  
+  <!-- EN: Heat -->
+  <TM_MaharalGolem_Heat.label>calor</TM_MaharalGolem_Heat.label>
+  <!-- EN: The shem hamephorash is further enhanced, allowing the Maharal golem the ability to produce an excess heat. -->
+  <TM_MaharalGolem_Heat.description>El shem hamephorash se mejora aún más, permitiendo al gólem Maharal producir exceso de calor.</TM_MaharalGolem_Heat.description>
+  <!-- EN: crafting golem upgrade -->
+  <TM_MaharalGolem_Heat.jobString>Fabricando mejora de gólem.</TM_MaharalGolem_Heat.jobString>
+  
+  <!-- EN: frame tier -->
+  <TM_MaharalGolem_LifeStage.label>nivel de armazón</TM_MaharalGolem_LifeStage.label>
+  <!-- EN: Improves and refines the golem's frame each level [1,2,3]:\nMovement:	+[10/20/30]%\nHealth:		+[40/70/100]% -->
+  <TM_MaharalGolem_LifeStage.description>Mejora y refina el armazón del gólem en cada nivel [1,2,3]:\nMovimiento:\t+[10/20/30]%\nSalud:\t+[40/70/100]%</TM_MaharalGolem_LifeStage.description>
+  <!-- EN: improving golem frame -->
+  <TM_MaharalGolem_LifeStage.jobString>Mejorando armazón del gólem.</TM_MaharalGolem_LifeStage.jobString>
+  
+  <!-- EN: Power -->
+  <TM_MaharalGolem_Power.label>poder</TM_MaharalGolem_Power.label>
+  <!-- EN: The shem hamephorash is further enhanced, allowing the Maharal golem the ability to produce an excess power. -->
+  <TM_MaharalGolem_Power.description>El shem hamephorash se mejora aún más, permitiendo al gólem Maharal producir exceso de poder.</TM_MaharalGolem_Power.description>
+  <!-- EN: crafting golem upgrade -->
+  <TM_MaharalGolem_Power.jobString>Fabricando mejora de gólem.</TM_MaharalGolem_Power.jobString>
+  
+  <!-- EN: Part restoration -->
+  <TM_MaharalGolem_RepairBlock.label>restauración de partes</TM_MaharalGolem_RepairBlock.label>
+  <!-- EN: Replaces missing golem parts that do not require an upgrade. -->
+  <TM_MaharalGolem_RepairBlock.description>Reemplaza partes faltantes del gólem que no requieren una mejora.</TM_MaharalGolem_RepairBlock.description>
+  <!-- EN: crafting golem part -->
+  <TM_MaharalGolem_RepairBlock.jobString>Fabricando parte de gólem.</TM_MaharalGolem_RepairBlock.jobString>
+  
+</LanguageData>
