@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: ambush -->
+  <WVC_Ambush.label>emboscada</WVC_Ambush.label>
+  <!-- EN: The mechanoid shutdown and waits for the enemy to approach it, then attacks.\n\n<color=#f5ffa2>Type:</color> Ambush\n<color=#f5ffa2>Enemy searching:</color> No\n<color=#f5ffa2>Shutdown:</color> Yes\n<color=#f5ffa2>Smart charging:</color> No -->
+  <WVC_Ambush.description>El mecanoide se apaga y espera a que el enemigo se acerque, luego ataca.\n\n&lt;color=#f5ffa2&gt;Tipo:&lt;/color&gt; Emboscada\n&lt;color=#f5ffa2&gt;Búsqueda de enemigos:&lt;/color&gt; No\n&lt;color=#f5ffa2&gt;Apagado:&lt;/color&gt; Sí\n&lt;color=#f5ffa2&gt;Carga inteligente:&lt;/color&gt; No</WVC_Ambush.description>
+  
+  <!-- EN: safe yourself -->
+  <WVC_DefendYourself.label>autodefensa</WVC_DefendYourself.label>
+  <!-- EN: Mechanoids, regardless of type, will attack enemies that get too close. In case of damage, they will try to retreat to a safe zone if possible.\n\n<color=#f5ffa2>Type:</color> Safe\n<color=#f5ffa2>Enemy searching:</color> No\n<color=#f5ffa2>Shutdown:</color> If damaged\n<color=#f5ffa2>Smart charging:</color> No -->
+  <WVC_DefendYourself.description>Los mecanoides, independientemente del tipo, atacarán a los enemigos que se acerquen demasiado. En caso de daño, intentarán retirarse a una zona segura si es posible.\n\n&lt;color=#f5ffa2&gt;Tipo:&lt;/color&gt; Seguro\n&lt;color=#f5ffa2&gt;Búsqueda de enemigos:&lt;/color&gt; No\n&lt;color=#f5ffa2&gt;Apagado:&lt;/color&gt; Si está dañado\n&lt;color=#f5ffa2&gt;Carga inteligente:&lt;/color&gt; No</WVC_DefendYourself.description>
+
+  <!-- EN: hive mind research -->
+  <WVC_HiveMindResearching.label>investigación de mente colmena</WVC_HiveMindResearching.label>
+  <!-- EN: Mechanoids, regardless of type, will generate research points. If there is an enemy on the map or in case of damage, the mechanoids will head to a safe zone.\n\n<color=#f5ffa2>Type:</color> Safe\n<color=#f5ffa2>Enemy searching:</color> Yes\n<color=#f5ffa2>Shutdown:</color> If damaged\n<color=#f5ffa2>Smart charging:</color> No -->
+  <WVC_HiveMindResearching.description>Los mecanoides, independientemente del tipo, generarán puntos de investigación. Si hay un enemigo en el mapa o en caso de daño, los mecanoides se dirigirán a una zona segura.\n\n&lt;color=#f5ffa2&gt;Tipo:&lt;/color&gt; Seguro\n&lt;color=#f5ffa2&gt;Búsqueda de enemigos:&lt;/color&gt; Sí\n&lt;color=#f5ffa2&gt;Apagado:&lt;/color&gt; Si está dañado\n&lt;color=#f5ffa2&gt;Carga inteligente:&lt;/color&gt; No</WVC_HiveMindResearching.description>
+
+  <!-- EN: scavenging -->
+  <WVC_Scavenging.label>recolección</WVC_Scavenging.label>
+  <!-- EN: Mechanoids, regardless of type, will search for useful resources in special "Scavenge" zones. If there is an enemy on the map or in case of damage, the mechanoids will head to a safe zone.\n\n<color=#f5ffa2>Type:</color> Safe\n<color=#f5ffa2>Enemy searching:</color> Yes\n<color=#f5ffa2>Shutdown:</color> If damaged\n<color=#f5ffa2>Smart charging:</color> No -->
+  <WVC_Scavenging.description>Los mecanoides, independientemente del tipo, buscarán recursos útiles en zonas especiales de "recolección". Si hay un enemigo en el mapa o en caso de daño, los mecanoides se dirigirán a una zona segura.\n\n&lt;color=#f5ffa2&gt;Tipo:&lt;/color&gt; Seguro\n&lt;color=#f5ffa2&gt;Búsqueda de enemigos:&lt;/color&gt; Sí\n&lt;color=#f5ffa2&gt;Apagado:&lt;/color&gt; Si está dañado\n&lt;color=#f5ffa2&gt;Carga inteligente:&lt;/color&gt; No</WVC_Scavenging.description>
+  
+  <!-- EN: escort and recharge -->
+  <WVC_EscaortAndRecharge.label>escoltar y recargar</WVC_EscaortAndRecharge.label>
+  <!-- EN: The mechanoid, regardless of its type, will accompany the overseer and, if necessary, go to charge.\n\n<color=#f5ffa2>Type:</color> Combat\n<color=#f5ffa2>Enemy searching:</color> No\n<color=#f5ffa2>Shutdown:</color> No\n<color=#f5ffa2>Smart charging:</color> No -->
+  <WVC_EscaortAndRecharge.description>El mecanoide, independientemente de su tipo, acompañará al supervisor y, si es necesario, irá a cargar.\n\n&lt;color=#f5ffa2&gt;Tipo:&lt;/color&gt; Combate\n&lt;color=#f5ffa2&gt;Búsqueda de enemigos:&lt;/color&gt; No\n&lt;color=#f5ffa2&gt;Apagado:&lt;/color&gt; No\n&lt;color=#f5ffa2&gt;Carga inteligente:&lt;/color&gt; No</WVC_EscaortAndRecharge.description>
+  
+  <!-- EN: escort if enemy -->
+  <WVC_EscortIfEnemyOnMap.label>escoltar si hay enemigos</WVC_EscortIfEnemyOnMap.label>
+  <!-- EN: Mechanoids, regardless of type, will accompany the overseer, but only if there is an enemy on the map. When there is no enemy, mechanoids shutdown.\n\n<color=#f5ffa2>Type:</color> Combat\n<color=#f5ffa2>Enemy searching:</color> Yes\n<color=#f5ffa2>Shutdown:</color> Yes\n<color=#f5ffa2>Smart charging:</color> Yes -->
+  <WVC_EscortIfEnemyOnMap.description>Los mecanoides, independientemente del tipo, acompañarán al supervisor, pero solo si hay un enemigo en el mapa. Cuando no hay enemigos, los mecanoides se apagan.\n\n&lt;color=#f5ffa2&gt;Tipo:&lt;/color&gt; Combate\n&lt;color=#f5ffa2&gt;Búsqueda de enemigos:&lt;/color&gt; Sí\n&lt;color=#f5ffa2&gt;Apagado:&lt;/color&gt; Sí\n&lt;color=#f5ffa2&gt;Carga inteligente:&lt;/color&gt; Sí</WVC_EscortIfEnemyOnMap.description>
+  
+  <!-- EN: find and destroy -->
+  <WVC_FindAndDestroy.label>buscar y destruir</WVC_FindAndDestroy.label>
+  <!-- EN: Mechanoids, regardless of their type, will look for enemies and try to destroy them.\n\n<color=#f5ffa2>Type:</color> Combat\n<color=#f5ffa2>Enemy searching:</color> Yes\n<color=#f5ffa2>Shutdown:</color> No\n<color=#f5ffa2>Smart charging:</color> No -->
+  <WVC_FindAndDestroy.description>Los mecanoides, independientemente de su tipo, buscarán enemigos e intentarán destruirlos.\n\n&lt;color=#f5ffa2&gt;Tipo:&lt;/color&gt; Combate\n&lt;color=#f5ffa2&gt;Búsqueda de enemigos:&lt;/color&gt; Sí\n&lt;color=#f5ffa2&gt;Apagado:&lt;/color&gt; No\n&lt;color=#f5ffa2&gt;Carga inteligente:&lt;/color&gt; No</WVC_FindAndDestroy.description>
+  
+  <!-- EN: work if safe -->
+  <WVC_SafeWorkAndRecharge.label>trabajar si es seguro</WVC_SafeWorkAndRecharge.label>
+  <!-- EN: Mechanoids will work, but only as long as there are no enemies on the map. In case of danger, they will try to get to the <color=#f5ffa2>safe spot</color>.\n\n<color=#f5ffa2>Type:</color> Safe, Work\n<color=#f5ffa2>Enemy searching:</color> Yes\n<color=#f5ffa2>Shutdown:</color> Yes\n<color=#f5ffa2>Smart charging:</color> Yes -->
+  <WVC_SafeWorkAndRecharge.description>Los mecanoides trabajarán, pero solo mientras no haya enemigos en el mapa. En caso de peligro, intentarán llegar al &lt;color=#f5ffa2&gt;lugar seguro&lt;/color&gt;.\n\n&lt;color=#f5ffa2&gt;Tipo:&lt;/color&gt; Seguro, Trabajo\n&lt;color=#f5ffa2&gt;Búsqueda de enemigos:&lt;/color&gt; Sí\n&lt;color=#f5ffa2&gt;Apagado:&lt;/color&gt; Sí\n&lt;color=#f5ffa2&gt;Carga inteligente:&lt;/color&gt; Sí</WVC_SafeWorkAndRecharge.description>
+
+  <!-- EN: recharge and shutdown -->
+  <WVC_RechargeAndShutdown.label>recargar y apagar</WVC_RechargeAndShutdown.label>
+  <!-- EN: Mechanoids, regardless of type, will first go to charge, and then to the shutdown zone.\n\n<color=#f5ffa2>Type:</color> Safe\n<color=#f5ffa2>Enemy searching:</color> No\n<color=#f5ffa2>Shutdown:</color> Yes\n<color=#f5ffa2>Smart charging:</color> Yes -->
+  <WVC_RechargeAndShutdown.description>Los mecanoides, independientemente del tipo, primero irán a cargarse y luego a la zona de apagado.\n\n&lt;color=#f5ffa2&gt;Tipo:&lt;/color&gt; Seguro\n&lt;color=#f5ffa2&gt;Búsqueda de enemigos:&lt;/color&gt; No\n&lt;color=#f5ffa2&gt;Apagado:&lt;/color&gt; Sí\n&lt;color=#f5ffa2&gt;Carga inteligente:&lt;/color&gt; Sí</WVC_RechargeAndShutdown.description>
+  
+  <!-- EN: wait enemy -->
+  <WVC_WaitEnemy.label>esperar enemigo</WVC_WaitEnemy.label>
+  <!-- EN: The mechanoid will shutdown and wait for the enemy, and when it appears, it will wake up and head towards the target.\n\n<color=#f5ffa2>Type:</color> Combat\n<color=#f5ffa2>Enemy searching:</color> Yes\n<color=#f5ffa2>Shutdown:</color> Yes\n<color=#f5ffa2>Smart charging:</color> No -->
+  <WVC_WaitEnemy.description>El mecanoide se apagará y esperará al enemigo, y cuando aparezca, se despertará y se dirigirá hacia el objetivo.\n\n&lt;color=#f5ffa2&gt;Tipo:&lt;/color&gt; Combate\n&lt;color=#f5ffa2&gt;Búsqueda de enemigos:&lt;/color&gt; Sí\n&lt;color=#f5ffa2&gt;Apagado:&lt;/color&gt; Sí\n&lt;color=#f5ffa2&gt;Carga inteligente:&lt;/color&gt; No</WVC_WaitEnemy.description>
+  
+  <!-- EN: work and recharge -->
+  <WVC_WorkAndRecharge.label>trabajar y recargar</WVC_WorkAndRecharge.label>
+  <!-- EN: Work autonomously according to mechanoid type. If the mechanoid cannot work or it has done all the work it shuts down.\n\n<color=#f5ffa2>Type:</color> Work\n<color=#f5ffa2>Enemy searching:</color> No\n<color=#f5ffa2>Shutdown:</color> Yes\n<color=#f5ffa2>Smart charging:</color> Yes -->
+  <WVC_WorkAndRecharge.description>Trabajar de forma autónoma según el tipo de mecanoide. Si el mecanoide no puede trabajar o ha hecho todo el trabajo, se apaga.\n\n&lt;color=#f5ffa2&gt;Tipo:&lt;/color&gt; Trabajo\n&lt;color=#f5ffa2&gt;Búsqueda de enemigos:&lt;/color&gt; No\n&lt;color=#f5ffa2&gt;Apagado:&lt;/color&gt; Sí\n&lt;color=#f5ffa2&gt;Carga inteligente:&lt;/color&gt; Sí</WVC_WorkAndRecharge.description>
+  
+  <!-- EN: work and wait -->
+  <WVC_WorkAndWaitEnemy.label>trabajar y esperar</WVC_WorkAndWaitEnemy.label>
+  <!-- EN: Mechanoids, depending on the type, will work, and when an enemy appears, they will drop everything and go to destroy him. If they don't have a job, they'll just shutdown.\n\n<color=#f5ffa2>Type:</color> Combat\n<color=#f5ffa2>Enemy searching:</color> Yes\n<color=#f5ffa2>Shutdown:</color> Yes\n<color=#f5ffa2>Smart charging:</color> Yes -->
+  <WVC_WorkAndWaitEnemy.description>Los mecanoides, dependiendo del tipo, trabajarán, y cuando aparezca un enemigo, dejarán todo e irán a destruirlo. Si no tienen trabajo, simplemente se apagarán.\n\n&lt;color=#f5ffa2&gt;Tipo:&lt;/color&gt; Combate\n&lt;color=#f5ffa2&gt;Búsqueda de enemigos:&lt;/color&gt; Sí\n&lt;color=#f5ffa2&gt;Apagado:&lt;/color&gt; Sí\n&lt;color=#f5ffa2&gt;Carga inteligente:&lt;/color&gt; Sí</WVC_WorkAndWaitEnemy.description>
+  
+  <!-- EN: work, recharge and escort -->
+  <WVC_WorkRechargeEscort.label>trabajar, recargar y escoltar</WVC_WorkRechargeEscort.label>
+  <!-- EN: The mechanoid will accompany the overseer if it does not have a job, and will also be charged if necessary.\n\n<color=#f5ffa2>Type:</color> Combat\n<color=#f5ffa2>Enemy searching:</color> No\n<color=#f5ffa2>Shutdown:</color> No\n<color=#f5ffa2>Smart charging:</color> No -->
+  <WVC_WorkRechargeEscort.description>El mecanoide acompañará al supervisor si no tiene trabajo, y también se cargará si es necesario.\n\n&lt;color=#f5ffa2&gt;Tipo:&lt;/color&gt; Combate\n&lt;color=#f5ffa2&gt;Búsqueda de enemigos:&lt;/color&gt; No\n&lt;color=#f5ffa2&gt;Apagado:&lt;/color&gt; No\n&lt;color=#f5ffa2&gt;Carga inteligente:&lt;/color&gt; No</WVC_WorkRechargeEscort.description>
+
+  <!-- EN: escort if enemy, work and recharge -->
+  <WVC_EscortIfEnemyWorkAndRecharge.label>escoltar si hay enemigo, trabajar y recargar</WVC_EscortIfEnemyWorkAndRecharge.label>
+  <!-- EN: Mechanoids, regardless of their type, will accompany the overseer when an enemy is in their zone of operation. Otherwise, they will work.\n\n<color=#f5ffa2>Type:</color> Combat\n<color=#f5ffa2>Enemy searching:</color> Yes\n<color=#f5ffa2>Shutdown:</color> Yes\n<color=#f5ffa2>Smart charging:</color> Yes -->
+  <WVC_EscortIfEnemyWorkAndRecharge.description>Los mecanoides, independientemente de su tipo, acompañarán al supervisor cuando haya un enemigo en su zona de operación. De lo contrario, trabajarán.\n\n&lt;color=#f5ffa2&gt;Tipo:&lt;/color&gt; Combate\n&lt;color=#f5ffa2&gt;Búsqueda de enemigos:&lt;/color&gt; Sí\n&lt;color=#f5ffa2&gt;Apagado:&lt;/color&gt; Sí\n&lt;color=#f5ffa2&gt;Carga inteligente:&lt;/color&gt; Sí</WVC_EscortIfEnemyWorkAndRecharge.description>
+
+  <!-- EN: escort if drafted or downed -->
+  <WVC_EscortIfDraftedOrDowned.label>escoltar si está reclutado o derribado</WVC_EscortIfDraftedOrDowned.label>
+  <!-- EN: Mechanoids, regardless of type, will accompany an overseer if it is drafted or downed.\n\n<color=#f5ffa2>Type:</color> Combat\n<color=#f5ffa2>Enemy searching:</color> No\n<color=#f5ffa2>Shutdown:</color> Yes\n<color=#f5ffa2>Smart charging:</color> Yes -->
+  <WVC_EscortIfDraftedOrDowned.description>Los mecanoides, independientemente del tipo, acompañarán a un supervisor si está reclutado o derribado.\n\n&lt;color=#f5ffa2&gt;Tipo:&lt;/color&gt; Combate\n&lt;color=#f5ffa2&gt;Búsqueda de enemigos:&lt;/color&gt; No\n&lt;color=#f5ffa2&gt;Apagado:&lt;/color&gt; Sí\n&lt;color=#f5ffa2&gt;Carga inteligente:&lt;/color&gt; Sí</WVC_EscortIfDraftedOrDowned.description>
+  
+</LanguageData>

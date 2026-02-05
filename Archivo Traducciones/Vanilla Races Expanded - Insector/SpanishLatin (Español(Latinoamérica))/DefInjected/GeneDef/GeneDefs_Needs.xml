@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: insect jelly dependency -->
+  <VRE_InsectJellyDependency.label>dependencia de jalea de insecto</VRE_InsectJellyDependency.label>
+  <!-- EN: Carriers of this gene need to ingest insect jelly on a regular basis to survive. After 5 days without insect jelly, carriers will suffer from insect jelly deficiency. After 30 days, they will fall into a coma. After 60 days, they will die. -->
+  <VRE_InsectJellyDependency.description>Los portadores de este gen necesitan ingerir jalea de insecto de forma regular para sobrevivir. Tras 5 días sin jalea de insecto, los portadores sufrirán deficiencia de jalea de insecto. Tras 30 días, caerán en coma. Tras 60 días, morirán.</VRE_InsectJellyDependency.description>
+  <!-- EN: Gives immunity to food poisoning chance from directly consuming insect jelly. -->
+  <VRE_InsectJellyDependency.customEffectDescriptions.0>Otorga inmunidad a la probabilidad de intoxicación alimentaria por consumir directamente jalea de insecto.</VRE_InsectJellyDependency.customEffectDescriptions.0>
+  <!-- EN: A need by {PAWN_nameDef} to consume insect jelly -->
+  <VRE_InsectJellyDependency.resourceDescription>Una necesidad de {PAWN_nameDef} de consumir jalea de insecto</VRE_InsectJellyDependency.resourceDescription>
+  <!-- EN: insect jelly -->
+  <VRE_InsectJellyDependency.resourceLabel>jalea de insecto</VRE_InsectJellyDependency.resourceLabel>
+  
+</LanguageData>

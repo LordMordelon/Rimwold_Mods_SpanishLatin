@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+
+	<!-- EN: Enable "Cat genes" on Highmates (requires game restart) -->
+  <VRE_EnableCatHighmates>Habilitar "Genes de gato" en Altocompañantes (requiere reiniciar el juego)</VRE_EnableCatHighmates>
+	<!-- EN: Disabling this toggle will make newly created Highmates appear without the Feline ears and Feline tail genes. Bear in mind this will have no effect on already existing Highmates. Will require a game reload. -->
+  <VRE_EnableCatHighmatesDescription>Desactivar esta opción hará que los Altocompañantes recién creados aparezcan sin los genes de orejas felinas y cola felina. Ten en cuenta que esto no tendrá ningún efecto en los Altocompañantes ya existentes. Requerirá recargar el juego.</VRE_EnableCatHighmatesDescription>
+	<!-- EN: Demands lovin' -->
+  <VRE_NotEnoughLovin>Exige amor</VRE_NotEnoughLovin>
+	<!-- EN: Lovin' need -->
+  <VRE_LovinNeed>Necesidad de amor</VRE_LovinNeed>
+	<!-- EN: These people have a too low lovin' need (less than 50%). If they reach 0% lovin' in approximately 15 days, they will attempt to leave the colony:\n\n{0} -->
+  <VRE_LovinNeedDesc>Estas personas tienen una necesidad de amor demasiado baja (menos del 50%). Si llegan al 0% de amor en aproximadamente 15 días, intentarán abandonar la colonia:\n\n{0}</VRE_LovinNeedDesc>
+	<!-- EN: This ability can't be used on members of other factions -->
+  <VRE_MessageCantUseLovinOnOtherFactions>Esta habilidad no se puede usar en miembros de otras facciones</VRE_MessageCantUseLovinOnOtherFactions>
+	<!-- EN: This ability can't be used on enemies -->
+  <VRE_MessageCantUseLovinOnResistingPersons>Esta habilidad no se puede usar en enemigos</VRE_MessageCantUseLovinOnResistingPersons>
+	<!-- EN: {0} cannot initiate lovin’ with {1} as {1} has too low opinion of {0} (Opinion of {0}: {2}) -->
+  <VRE_CantUseLovinLowOpinion>{0} no puede iniciar el amor con {1} ya que {1} tiene una opinión demasiado baja de {0} (Opinión de {0}: {2})</VRE_CantUseLovinLowOpinion>
+	<!-- EN: {0} cannot initiate lovin’ with {1} as {1} is too young. -->
+  <VRE_TooYoungForLovin>{0} no puede iniciar el amor con {1} ya que {1} es demasiado joven.</VRE_TooYoungForLovin>
+	<!-- EN: {0} cannot initiate lovin’ with {1} as {0} is too young. -->
+  <VRE_TooYoungForLovinCaster>{0} no puede iniciar el amor con {1} ya que {0} es demasiado joven.</VRE_TooYoungForLovinCaster>
+	<!-- EN: {0} cannot initiate lovin’ with {1} as {1} is Asexual. -->
+  <VRE_CantUseLovinWithTraitAsexual>{0} no puede iniciar el amor con {1} ya que {1} es asexual.</VRE_CantUseLovinWithTraitAsexual>
+	<!-- EN: {0} cannot initiate lovin’ with {1} as {1} is a Prude. -->
+  <VRE_CantUseLovinWithTraitPrude>{0} no puede iniciar el amor con {1} ya que {1} es puritano.</VRE_CantUseLovinWithTraitPrude>
+	<!-- EN: {0} will initiate lovin’ with {1}, despite being in a relationship with {2}. This will result in a break up. -->
+  <VRE_RelationshipWillBreak>{0} iniciará el amor con {1}, a pesar de estar en una relación con {2}. Esto resultará en una ruptura.</VRE_RelationshipWillBreak>
+	<!-- EN: {0} will initiate lovin’ with {1}, despite the target, {1}, being in a relationship with {2}. This will result in a break up. -->
+  <VRE_RelationshipWillBreakTarget>{0} iniciará el amor con {1}, a pesar de que el objetivo, {1}, está en una relación con {2}. Esto resultará en una ruptura.</VRE_RelationshipWillBreakTarget>
+	<!-- EN: {0} can't initiate lovin’ with {1}, as they are blood relatives. -->
+  <VRE_CantUseOnFamily>{0} no puede iniciar el amor con {1}, ya que son parientes consanguíneos.</VRE_CantUseOnFamily>
+	<!-- EN: Psychic conception (pregnancy guaranteed) -->
+  <VRE_PsychicConceptionDesc>Concepción psíquica (embarazo garantizado)</VRE_PsychicConceptionDesc>
+	<!-- EN: Lovin’ for pleasure (pregnancy chance x0%) -->
+  <VRE_LovinForPleasureDesc>Amor por placer (probabilidad de embarazo x0%)</VRE_LovinForPleasureDesc>
+	<!-- EN: No psychic conception -->
+  <VRE_NoPsychicConceptionDesc>Sin concepción psíquica</VRE_NoPsychicConceptionDesc>
+	<!-- EN: Normal lovin' -->
+  <VRE_NoLovinForPleasureDesc>Amor normal</VRE_NoLovinForPleasureDesc>
+	<!-- EN: Awarded Highmate -->
+  <VRE_AwardedHighmate>Altocompañante otorgado</VRE_AwardedHighmate>
+	<!-- EN: Due to the newly acquired Baron rank, the Empire has awarded {0} with the presence of a Highmate, who will immediately join the colony.\n\nDesigned companions and concubines with a unique ability to psychically bond with a mate, highmates are empathic, beautiful, cheerful, and talented in social matters. They are also inept at manual tasks, physically weak, and mentally incapable of violence. -->
+  <VRE_AwardedHighmateDesc>Debido al rango de Barón recién adquirido, el Imperio ha premiado a {0} con la presencia de un Altocompañante, quien se unirá inmediatamente a la colonia.\n\nDiseñados como compañeros y concubinas con una capacidad única para vincularse psíquicamente con una pareja, los altocompañantes son empáticos, hermosos, alegres y talentosos en asuntos sociales. También son ineptos en tareas manuales, físicamente débiles y mentalmente incapaces de violencia.</VRE_AwardedHighmateDesc>
+</LanguageData>

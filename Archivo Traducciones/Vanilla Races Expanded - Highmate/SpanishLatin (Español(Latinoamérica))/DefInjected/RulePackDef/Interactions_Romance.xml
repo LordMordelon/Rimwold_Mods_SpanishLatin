@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>sent->[RECIPIENT_nameDef] thanked [INITIATOR_nameDef].</li>
+    <li>sent->[RECIPIENT_nameDef] laughed playfully with [INITIATOR_nameDef].</li>
+    <li>sent->[RECIPIENT_nameDef] became aroused and thanked [INITIATOR_nameDef] for the compliment.</li>
+  -->
+  <VRE_Sentence_FlirtingAttemptAccepted.rulePack.rulesStrings>
+    <li>sent->[RECIPIENT_nameDef] le agradeció a [INITIATOR_nameDef].</li>
+    <li>sent->[RECIPIENT_nameDef] se rió juguetonamente con [INITIATOR_nameDef].</li>
+    <li>sent->[RECIPIENT_nameDef] se excitó y le agradeció a [INITIATOR_nameDef] por el cumplido.</li>
+  </VRE_Sentence_FlirtingAttemptAccepted.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>sent->[RECIPIENT_nameDef] ignored the compliment.</li>
+    <li>sent->[RECIPIENT_nameDef] ignored the flirt.</li>
+    <li>sent->[RECIPIENT_nameDef] turned [RECIPIENT_possessive] back.</li>
+    <li>sent->[RECIPIENT_nameDef] turned away.</li>
+    <li>sent->[RECIPIENT_nameDef] gave a minimal response.</li>
+    <li>sent->[RECIPIENT_nameDef] did not respond.</li>
+    <li>sent->[RECIPIENT_nameDef] scolded [INITIATOR_objective].</li>
+  -->
+  <VRE_Sentence_FlirtingAttemptRejected.rulePack.rulesStrings>
+    <li>sent->[RECIPIENT_nameDef] ignoró el cumplido.</li>
+    <li>sent->[RECIPIENT_nameDef] ignoró el coqueteo.</li>
+    <li>sent->[RECIPIENT_nameDef] le dio la espalda.</li>
+    <li>sent->[RECIPIENT_nameDef] se alejó.</li>
+    <li>sent->[RECIPIENT_nameDef] dio una respuesta mínima.</li>
+    <li>sent->[RECIPIENT_nameDef] no respondió.</li>
+    <li>sent->[RECIPIENT_nameDef] regañó a [INITIATOR_nameDef].</li>
+  </VRE_Sentence_FlirtingAttemptRejected.rulePack.rulesStrings>
+  
+</LanguageData>

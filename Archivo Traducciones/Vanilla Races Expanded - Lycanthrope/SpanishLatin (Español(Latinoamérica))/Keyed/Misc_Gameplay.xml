@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+	<!-- EN: Disable photophobia message -->
+  <VRE_DisablePhotophobiaMessage>Desactivar mensaje de fotofobia</VRE_DisablePhotophobiaMessage>
+	<!-- EN: By default, every time a pawn with the photophobia gene fless from light the game will generate a letter informing the player. This may be a bit too much if you have many pawns fleeing often, so you can disable it with this toggle. Bear in mind the pawns will still flee, you'll just NOT get informed. -->
+  <VRE_DisablePhotophobiaMessage_Description>Por defecto, cada vez que un peón con el gen de fotofobia huye de la luz, el juego generará una carta informando al jugador. Esto puede ser excesivo si tienes muchos peones huyendo a menudo, así que puedes desactivarlo con esta opción. Ten en cuenta que los peones seguirán huyendo, simplemente NO se te informará.</VRE_DisablePhotophobiaMessage_Description>
+	<!-- EN: This quest can only be accepted during daytime -->
+  <VRE_OnlyOnDaytime>Esta misión solo puede aceptarse durante el día</VRE_OnlyOnDaytime>
+	<!-- EN: {0_labelShort} has no available endogenes to implant. -->
+  <VRE_MessagePawnHasNoGermline>{0_labelShort} no tiene endogenes disponibles para implantar.</VRE_MessagePawnHasNoGermline>
+	<!-- EN: Warning: {PAWN_nameDef}'s genes are currently regrowing. If {PAWN_pronoun} implants {PAWN_possessive} germline before {PAWN_possessive} genes are fully regrown, it will kill {PAWN_objective}.\n\nAre you sure you wish to continue? -->
+  <VRE_WarningPawnWillDieFromReimplanting>Advertencia: Los genes de {PAWN_nameDef} se están regenerando actualmente. Si implanta su línea germinal antes de que sus genes se hayan regenerado por completo, morirá.\n\n¿Estás seguro de que deseas continuar?</VRE_WarningPawnWillDieFromReimplanting>
+	<!-- EN: {CASTER_nameDef} has implanted a copy of {CASTER_possessive} germline into {TARGET_nameDef}, passing all endogenes onto {TARGET_objective}.\n\n{TARGET_nameDef} will be in an endogermination coma for the next {COMADURATION} while {TARGET_possessive} body adjusts to the changes.\n\n{CASTER_nameDef} will suffer from gene loss shock for the next {SHOCKDURATION}. {CASTER_possessive} genes will also need to regrow. This process takes time. If {CASTER_nameDef} implants {CASTER_possessive} germline again before {CASTER_possessive} genes have regrown, {CASTER_pronoun} will die. -->
+  <VRE_LetterTextGenesImplanted>{CASTER_nameDef} ha implantado una copia de su línea germinal en {TARGET_nameDef}, transfiriéndole todos sus endogenes.\n\n{TARGET_nameDef} estará en un coma de endogerminación durante {COMADURATION} mientras su cuerpo se adapta a los cambios.\n\n{CASTER_nameDef} sufrirá un choque por pérdida de genes durante {SHOCKDURATION}. Sus genes también necesitarán regenerarse. Este proceso lleva tiempo. Si {CASTER_nameDef} vuelve a implantar su línea germinal antes de que sus genes se hayan regenerado, morirá.</VRE_LetterTextGenesImplanted>
+	<!-- EN: Force germline implantation -->
+  <VRE_ForceGermlineImplantation>Forzar implantación de línea germinal</VRE_ForceGermlineImplantation>
+	<!-- EN: Force this person to implant their germline into another individual using a special injector organ. If this person's genes are currently regrowing, they will die in the process.\n\nWhen implanted, a germline will overwrite the target's endogenes. Xenogenes will be unaffected. -->
+  <VRE_ForceGermlineImplantationDesc>Forzar a esta persona a implantar su línea germinal en otro individuo usando un órgano inyector especial. Si los genes de esta persona se están regenerando actualmente, morirá en el proceso.\n\nAl implantarse, una línea germinal sobrescribirá los endogenes del objetivo. Los xenogenes no se verán afectados.</VRE_ForceGermlineImplantationDesc>
+	<!-- EN: Absorbing {PAWN_nameDef}'s germline will anger {0}. -->
+  <VRE_MessageAbsorbingGermlineWillAngerFaction>Absorber la línea germinal de {PAWN_nameDef} enfadará a {0}.</VRE_MessageAbsorbingGermlineWillAngerFaction>
+	<!-- EN: {PAWN_nameDef} suffering from endogene loss shock -->
+  <VRE_EndogeneLossShockPresent>{PAWN_nameDef} sufre de choque por pérdida de endogenes</VRE_EndogeneLossShockPresent>
+	<!-- EN: {PAWN_nameDef} must be downed before you can force {PAWN_objective} to reimplant {PAWN_possessive} germline. -->
+  <VRE_MessageTargetMustBeDownedToForceReimplant>{PAWN_nameDef} debe estar incapacitado antes de que puedas forzarle a reimplantar su línea germinal.</VRE_MessageTargetMustBeDownedToForceReimplant>
+</LanguageData>

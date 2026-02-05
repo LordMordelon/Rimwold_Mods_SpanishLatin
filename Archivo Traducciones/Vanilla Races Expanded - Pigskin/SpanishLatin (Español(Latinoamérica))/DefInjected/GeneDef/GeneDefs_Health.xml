@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: extra meat -->
+  <VRE_ExtraMeat.label>carne extra</VRE_ExtraMeat.label>
+  <!-- EN: Carriers of this gene have much more dense meat and fat tissue, resulting in greater meat yield when butchered. -->
+  <VRE_ExtraMeat.description>Los portadores de este gen tienen tejidos de carne y grasa mucho más densos, lo que resulta en un mayor rendimiento de carne al ser descuartizados.</VRE_ExtraMeat.description>
+  
+  <!-- EN: low meat -->
+  <VRE_LowMeat.label>poca carne</VRE_LowMeat.label>
+  <!-- EN: Carriers of this gene have very thin meat and fat tissue, resulting in much smaller meat yield when butchered. -->
+  <VRE_LowMeat.description>Los portadores de este gen tienen tejidos de carne y grasa muy finos, lo que resulta en un rendimiento de carne mucho menor al ser descuartizados.</VRE_LowMeat.description>
+  
+  <!-- EN: organ regeneration -->
+  <VRE_OrganRegeneration.label>regeneración de órganos</VRE_OrganRegeneration.label>
+  <!-- EN: Carriers of this gene have improved regenerating factors in their DNA, allowing them to slowly regenerate organs that may even be completely missing. The process is slow, and will prioritize healing existing, but damaged, organs. -->
+  <VRE_OrganRegeneration.description>Los portadores de este gen tienen factores de regeneración mejorados en su ADN, lo que les permite regenerar lentamente órganos que incluso pueden faltar por completo. El proceso es lento y priorizará la curación de órganos existentes pero dañados.</VRE_OrganRegeneration.description>
+  <!-- EN: A random organ wound is reduced by 1 severity every 6-15 days. If the organ has been destroyed it will be restored with 1 hit point. -->
+  <VRE_OrganRegeneration.customEffectDescriptions.0>Una herida aleatoria en un órgano reduce su gravedad en 1 cada 6-15 días. Si el órgano ha sido destruido, se restaurará con 1 punto de salud.</VRE_OrganRegeneration.customEffectDescriptions.0>
+  <!-- EN: This will affect damage to the brain, stomach, kidneys, lungs, liver and heart. -->
+  <VRE_OrganRegeneration.customEffectDescriptions.1>Esto afectará al daño en el cerebro, estómago, riñones, pulmones, hígado y corazón.</VRE_OrganRegeneration.customEffectDescriptions.1>
+  
+</LanguageData>

@@ -1,0 +1,120 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<!-- Zones -->
+	<!-- EN: Mechanoid shutdown zone -->
+  <WVC_MechanoidShutdownZone>Zona de apagado de mecanoides</WVC_MechanoidShutdownZone>
+	<!-- EN: Mechanoids will return here before shutting down. -->
+  <WVC_MechanoidShutdownZoneDesc>Los mecanoides volverán aquí antes de apagarse.</WVC_MechanoidShutdownZoneDesc>
+
+	<!-- EN: Work type -->
+  <WVC_ShutdownZone_AllowWorkers>Tipo trabajo</WVC_ShutdownZone_AllowWorkers>
+	<!-- EN: Safe type -->
+  <WVC_ShutdownZone_AllowSafe>Tipo seguro</WVC_ShutdownZone_AllowSafe>
+	<!-- EN: Combat type -->
+  <WVC_ShutdownZone_AllowCombatants>Tipo combate</WVC_ShutdownZone_AllowCombatants>
+	<!-- EN: Ambush type -->
+  <WVC_ShutdownZone_AllowAmbush>Tipo emboscada</WVC_ShutdownZone_AllowAmbush>
+
+	<!-- EN: All groups allowed -->
+  <WVC_WorkModes_allowAllGroups>Todos los grupos permitidos</WVC_WorkModes_allowAllGroups>
+
+	<!-- EN: Responsible for whether mechanoids with this type of work will be able to shutdown here. -->
+  <WVC_ShutdownZone_BasicDesc>Responsable de si los mecanoides con este tipo de trabajo podrán apagarse aquí.</WVC_ShutdownZone_BasicDesc>
+	<!-- EN: Responsible for whether all mechanoids, regardless of the group, can use this zone. -->
+  <WVC_WorkModes_allowAllGroupsDesc>Responsable de si todos los mecanoides, independientemente del grupo, pueden usar esta zona.</WVC_WorkModes_allowAllGroupsDesc>
+
+	<!-- EN: On -->
+  <WVC_WorkModes_On>Encendido</WVC_WorkModes_On>
+	<!-- EN: Off -->
+  <WVC_WorkModes_Off>Apagado</WVC_WorkModes_Off>
+
+	<!-- <WVC_ShutdownZoneInPrisonCell>Shutdown zone cannot be in a prison cell.</WVC_ShutdownZoneInPrisonCell> -->
+	<!-- <WVC_ShutdownZoneNotStandable>Shutdown zone cannot be located on impassable terrain or located on other objects.</WVC_ShutdownZoneNotStandable> -->
+	<!-- <WVC_ShutdownZoneNotStandable>Shutdown zone should be standable.</WVC_ShutdownZoneNotStandable> -->
+
+	<!-- <WVC_MechanoidShutdownZone_FreeCells>Cells not occupied by mechanoids: {0}</WVC_MechanoidShutdownZone_FreeCells> -->
+
+	<!-- Scavenge Zone -->
+	<!-- EN: Mechanoid scavenge zone -->
+  <WVC_MechanoidScavengeZone>Zona de recolección de mecanoides</WVC_MechanoidScavengeZone>
+	<!-- EN: In the "Scavenging" work mode, mechanoids will look for useful resources in this zone. -->
+  <WVC_MechanoidScavengeZoneDesc>En el modo de trabajo "Recolección de chatarra", los mecanoides buscarán recursos útiles en esta zona.</WVC_MechanoidScavengeZoneDesc>
+
+	<!-- EN: Cells: {0} | Minimum allowed: {1} -->
+  <WVC_MechanoidScavengeZone_CellsCount>Celdas: {0} | Mínimo permitido: {1}</WVC_MechanoidScavengeZone_CellsCount>
+
+	<!-- SmartEscort -->
+	<!-- EN: Assign to escort -->
+  <WVC_WorkModes_AssignToPawnEscortLabel>Asignar para escoltar</WVC_WorkModes_AssignToPawnEscortLabel>
+	<!-- EN: Reset escorted pawn -->
+  <WVC_WorkModes_AssignToPawnEscortLabelReset>Restablecer peón escoltado</WVC_WorkModes_AssignToPawnEscortLabelReset>
+	<!-- <WVC_WorkModes_AssignedPawnEscortLabel>{0} assigned escort {1}</WVC_WorkModes_AssignedPawnEscortLabel> -->
+	<!-- EN: {0} assigned escort {1}
+
+Allows you to specify to the mechanoid what colonist it will escort.
+
+{0} cannot follow anyone other than an overseer in a caravan or on non-home maps. -->
+  <WVC_WorkModes_AssignToPawnEscortDesc>{0} asignado escolta {1}\n\nTe permite especificar al mecanoide qué colono escoltará.\n\n{0} no puede seguir a nadie que no sea un supervisor en una caravana o en mapas que no sean el hogar.</WVC_WorkModes_AssignToPawnEscortDesc>
+
+	<!-- EN: {0} assigned to escort {1}. -->
+  <WVC_WorkModes_AssignToPawnEscortAssigned>{0} asignado para escoltar a {1}.</WVC_WorkModes_AssignToPawnEscortAssigned>
+	<!-- EN: {0} no longer escort {1}. -->
+  <WVC_WorkModes_AssignToPawnEscortNoLongerEscort>{0} ya no escolta a {1}.</WVC_WorkModes_AssignToPawnEscortNoLongerEscort>
+	<!-- EN: Assigned to escorts {0} -->
+  <WVC_WorkModes_EscortsAssignTargetLabel>Asignado a escoltas {0}</WVC_WorkModes_EscortsAssignTargetLabel>
+
+	<!-- Job Givers -->
+	<!-- EN: {0} is not researched. Mode changed to {1}. -->
+  <WVC_WorkModes_ChangeModDefaultMessage>{0} no está investigado. Modo cambiado a {1}.</WVC_WorkModes_ChangeModDefaultMessage>
+
+	<!-- Tech Req -->
+	<!-- EN: Required technologies: -->
+  <WVC_WorkModes_ModeTechnologyRequirement>Tecnologías requeridas:</WVC_WorkModes_ModeTechnologyRequirement>
+	<!-- EN: Allows use new modes: -->
+  <WVC_WorkModes_TechnologyAllowsModes>Permite usar nuevos modos:</WVC_WorkModes_TechnologyAllowsModes>
+	<!-- EN:  - <color=#00cccc>{0}</color>: {1} -->
+  <WVC_WorkModes_TechnologyAllowsModes_Desc> - &lt;color=#00cccc&gt;{0}&lt;/color&gt;: {1}</WVC_WorkModes_TechnologyAllowsModes_Desc>
+
+	<!-- Group Zoning -->
+	<!-- EN: Current group -->
+  <WVC_WorkModes_CurrentZoneGroup>Grupo actual</WVC_WorkModes_CurrentZoneGroup>
+	<!-- EN: Current owner -->
+  <WVC_WorkModes_CurrentZoneOwner>Dueño actual</WVC_WorkModes_CurrentZoneOwner>
+
+	<!-- EN: Assign group -->
+  <WVC_WorkModes_ChosenGroupLabel>Asignar grupo</WVC_WorkModes_ChosenGroupLabel>
+	<!-- EN: Allows you to designate a group of mechanoids that will return to this zone. -->
+  <WVC_WorkModes_ChosenGroupDesc>Te permite designar un grupo de mecanoides que volverán a esta zona.</WVC_WorkModes_ChosenGroupDesc>
+	<!-- EN: Group {0} assigned to {1}. -->
+  <WVC_WorkModes_GroupIsChosen>Grupo {0} asignado a {1}.</WVC_WorkModes_GroupIsChosen>
+
+	<!-- EN: Assign mechanitor -->
+  <WVC_WorkModes_ChosenMechanitorLabel>Asignar mecanitor</WVC_WorkModes_ChosenMechanitorLabel>
+	<!-- EN: Allows you to assign a zone owner. -->
+  <WVC_WorkModes_ChosenMechanitorDesc>Te permite asignar un dueño de zona.</WVC_WorkModes_ChosenMechanitorDesc>
+	<!-- EN: {0} assigned as owner of {1}. -->
+  <WVC_WorkModes_MechanitorIsChosen>{0} asignado como dueño de {1}.</WVC_WorkModes_MechanitorIsChosen>
+
+	<!-- EN: Reset owner -->
+  <WVC_WorkModes_ResetOwnerLabel>Restablecer dueño</WVC_WorkModes_ResetOwnerLabel>
+	<!-- EN: Allows you to reset a zone owner. -->
+  <WVC_WorkModes_ResetOwnerDesc>Te permite restablecer un dueño de zona.</WVC_WorkModes_ResetOwnerDesc>
+	<!-- EN: {0} settings are reset to default. -->
+  <WVC_WorkModes_ResetOwnerMessage>La configuración de {0} se ha restablecido a los valores predeterminados.</WVC_WorkModes_ResetOwnerMessage>
+
+	<!-- Group Zoning Mechs -->
+	<!-- EN: Use only group zones -->
+  <WVC_WorkModes_RestrictZoneByGroupLabel>Usar solo zonas de grupo</WVC_WorkModes_RestrictZoneByGroupLabel>
+	<!-- EN: Allows you to limit the mechanoid's choice of zones to those specifically assigned to its group. -->
+  <WVC_WorkModes_RestrictZoneByGroupDesc>Te permite limitar la elección de zonas del mecanoide a aquellas asignadas específicamente a su grupo.</WVC_WorkModes_RestrictZoneByGroupDesc>
+	<!-- EN: Uses only zones of its group -->
+  <WVC_WorkModes_RestrictZoneByGroupInspect>Usa solo zonas de su grupo</WVC_WorkModes_RestrictZoneByGroupInspect>
+
+	<!-- EN: In shutdown mode x{0}% -->
+  <WVC_WorkModes_DormantModeStatPart>En modo de apagado x{0}%</WVC_WorkModes_DormantModeStatPart>
+
+	<!-- EN: shutdown -->
+  <WVC_WM_ShutdownGroup>apagado</WVC_WM_ShutdownGroup>
+
+</LanguageData>

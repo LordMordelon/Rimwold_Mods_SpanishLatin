@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: extreme cell instability -->
+  <VRE_Instability_Extreme.label>inestabilidad celular extrema</VRE_Instability_Extreme.label>
+  <!-- EN: Carriers of this gene need very little metabolic energy to stay alive, at the cost of extremely-reduced stability in their cell-replication machinery. -->
+  <VRE_Instability_Extreme.description>Los portadores de este gen necesitan muy poca energía metabólica para mantenerse con vida, a costa de una estabilidad extremadamente reducida en su maquinaria de replicación celular.</VRE_Instability_Extreme.description>
+  
+  <!-- EN: nominal cell instability -->
+  <VRE_Instability_Nominal.label>inestabilidad celular nominal</VRE_Instability_Nominal.label>
+  <!-- EN: Carriers of this gene need slightly less metabolic energy to stay alive, at the cost of reduced stability in their cell-replication machinery. -->
+  <VRE_Instability_Nominal.description>Los portadores de este gen necesitan un poco menos de energía metabólica para mantenerse con vida, a costa de una estabilidad reducida en su maquinaria de replicación celular.</VRE_Instability_Nominal.description>
+  
+  <!-- EN: progressive cell instability -->
+  <VRE_Instability_Progressive.label>inestabilidad celular progresiva</VRE_Instability_Progressive.label>
+  <!-- EN: Carriers of this gene have their genetic code becoming progressively more unstable with every new generation. -->
+  <VRE_Instability_Progressive.description>Los portadores de este gen tienen su código genético volviéndose progresivamente más inestable con cada nueva generación.</VRE_Instability_Progressive.description>
+  
+  <!-- EN: tox absorption -->
+  <VRE_ToxAbsorption.label>absorción de toxinas</VRE_ToxAbsorption.label>
+  <!-- EN: Carriers of this gene have the extraordinary ability to directly absorb toxic gases through their skin. This gene does not have any effect in itself, but it does increase the speed at which pollution is satisfied for various pollution-related genes. -->
+  <VRE_ToxAbsorption.description>Los portadores de este gen tienen la extraordinaria capacidad de absorber gases tóxicos directamente a través de su piel. Este gen no tiene ningún efecto por sí mismo, pero aumenta la velocidad a la que se satisface la contaminación para varios genes relacionados con la contaminación.</VRE_ToxAbsorption.description>
+  <!-- EN: Pawns with this gene benefit from inhaling tox gas. If the pawn is standing on a cell with tox gas, Every 60 ticks (1 sec), pawn with the gene will increase in stimulus severity of any Pollution genes by additional +2.22%. This is separate from the increase based on standing on polluted terrain when having the pollution stimulus mutation / gene. -->
+  <VRE_ToxAbsorption.customEffectDescriptions.0>Los peones con este gen se benefician de inhalar gas tóxico. Si el peón está parado en una celda con gas tóxico, cada 60 ticks (1 segundo), el peón con el gen aumentará la gravedad del estímulo de cualquier gen de Contaminación en un +2.22% adicional. Esto es independiente del aumento basado en estar parado en terreno contaminado cuando se tiene la mutación / gen de estímulo de contaminación.</VRE_ToxAbsorption.customEffectDescriptions.0>
+  
+</LanguageData>

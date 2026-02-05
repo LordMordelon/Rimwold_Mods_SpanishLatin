@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+	<!-- EN: Manage genelines -->
+  <VRE_ManageGenelines>TODO</VRE_ManageGenelines>
+	<!-- EN: Change the currently selected geneline or create new genelines. -->
+  <VRE_ManageGenelinesDesc>TODO</VRE_ManageGenelinesDesc>
+	<!-- EN: Edit geneline -->
+  <VRE_EditGeneline>TODO</VRE_EditGeneline>
+	<!-- EN: Geneline {0} -->
+  <VRE_GenelineName>TODO</VRE_GenelineName>
+	<!-- EN: Delete this geneline. Removing it will result in all insectors with this geneline immediately entering the metapod stage and turning into baseline insectors. -->
+  <VRE_DeleteThisGeneline>TODO</VRE_DeleteThisGeneline>
+	<!-- EN: Create a new geneline -->
+  <VRE_CreateGeneline>TODO</VRE_CreateGeneline>
+	<!-- EN: You can edit existing genelines or create a brand new geneline. Remember that changing a geneline will require your insectors to enter a metapod stage which will last 24 hours. -->
+  <VRE_CreateGenelineExplanation>TODO</VRE_CreateGenelineExplanation>
+	<!-- EN: Geneline name cannot be empty. -->
+  <VRE_GenelineNameCannotBeEmpty>TODO</VRE_GenelineNameCannotBeEmpty>
+	<!-- EN: Cannot save geneline with multiple conflicting genes. -->
+  <VRE_MessageConflictingGenesPresent>TODO</VRE_MessageConflictingGenesPresent>
+	<!-- EN: Evolutions -->
+  <VRE_Evolutions>TODO</VRE_Evolutions>
+	<!-- EN: Evolutions -->
+  <VRE_EvolutionsDesc>TODO</VRE_EvolutionsDesc>
+	<!-- EN: Degrades -->
+  <VRE_Degrades>TODO</VRE_Degrades>
+	<!-- EN: text.todo -->
+  <VRE_DegradesDesc>TODO</VRE_DegradesDesc>
+	<!-- EN: Save geneline -->
+  <VRE_SaveGeneline>TODO</VRE_SaveGeneline>
+	<!-- EN: Needs equal amount of evolutions and degrades. -->
+  <VRE_NeedEqualAmount>TODO</VRE_NeedEqualAmount>
+	<!-- EN: Changing the genes of a geneline will cause all insectors that are a part of that geneline to enter the metapod stage. The metapod stage will last 24 hours, during which the insectors will be unavailable. -->
+  <VRE_ChangingGenelineExplanation>TODO</VRE_ChangingGenelineExplanation>
+	<!-- EN: Cannot save: {0} -->
+  <VRE_CannotSave>TODO</VRE_CannotSave>
+	<!-- EN: Change to: {0} -->
+  <VRE_ChangeTo>TODO</VRE_ChangeTo>
+	<!-- EN: You are about to remove a geneline that’s used by some of your colonists. Removing it will result in these insectors immediately entering the metapod stage and turning into baseline insectors.
+Insector colonists that will be affected:
+
+{0}
+ -->
+  <VRE_DeleteGenelineConfirmation>TODO</VRE_DeleteGenelineConfirmation>
+	<!-- EN: Genelines -->
+  <VRE_Genelines>TODO</VRE_Genelines>
+	<!-- EN: text.todo -->
+  <VRE_GenelinesDesc>TODO</VRE_GenelinesDesc>
+	<!-- EN: Time until {PAWN_nameDef} emerges: {1}\nInsert insect jelly into the metapod to speed up the process significantly. -->
+  <VRE_MetapodTimer>TODO</VRE_MetapodTimer>
+	<!-- EN: Cannot change genelines due to metapod sickness. -->
+  <VRE_MetapodSicknessCannotChangeGeneline>TODO</VRE_MetapodSicknessCannotChangeGeneline>
+	<!-- EN: Chestburst pregnancy -->
+  <VRE_ChestburstPregnancyReady>TODO</VRE_ChestburstPregnancyReady>
+	<!-- EN: When a colonist with chestburst pregnancy gene becomes pregnant, they need to designate another willing or unwilling individual to implant the fetus. Once the fetus matures, it will burst out of the ribcage of the victim, killing the host. If they don’t do it before the second trimester begins (6 days), the pregnancy will be terminated. -->
+  <VRE_ChestburstPregnancyReadyDesc>TODO</VRE_ChestburstPregnancyReadyDesc>
+	<!-- EN: Chestburst implantation needed -->
+  <VRE_ChestburstImplantationNeeded>TODO</VRE_ChestburstImplantationNeeded>
+	<!-- EN: When a colonist with chestburst pregnancy gene becomes pregnant, they need to designate another willing or unwilling individual to implant the fetus. Once the fetus matures, it will burst out of the ribcage of the victim, killing the host. If they don’t do it before the second trimester begins (6 days), the pregnancy will be terminated. These colonists need to implant a fetus:\n\n{0} -->
+  <VRE_ChestburstImplantationNeededDesc>TODO</VRE_ChestburstImplantationNeededDesc>
+	<!-- EN: Inject chestburst fetus -->
+  <VRE_InjectChestburstFetus>TODO</VRE_InjectChestburstFetus>
+	<!-- EN:  Inject the victim with the fetus, which will burst out of the victim’s chest when mature, killing the host. -->
+  <VRE_InjectChestburstFetusDesc>TODO</VRE_InjectChestburstFetusDesc>
+	<!-- EN: Needs to be injected on a humanoid target or adult animal with body size higher than 1 -->
+  <VRE_NeedsHumanoidOrAnimal>TODO</VRE_NeedsHumanoidOrAnimal>
+	<!-- EN: Can't be injected on ghouls -->
+  <VRE_CantImplantOnGhoul>TODO</VRE_CantImplantOnGhoul>
+	<!-- EN: Can't be injected on shamblers -->
+  <VRE_CantImplantOnShambler>TODO</VRE_CantImplantOnShambler>
+	<!-- EN: Chestburst birth -->
+  <VRE_ChestburstBirthLabel>TODO</VRE_ChestburstBirthLabel>
+	<!-- EN: A newborn, {0}, has hatched from a host, killing it in the process -->
+  <VRE_ChestburstBirth>TODO</VRE_ChestburstBirth>
+	<!-- EN: Chestburst birth! -->
+  <VRE_ChestburstBirthHiddenLabel>TODO</VRE_ChestburstBirthHiddenLabel>
+	<!-- EN: {0} was unknowingly carrying a chestburst pregnancy! A newborn Insector, {1}, has hatched from the host, killing it in the process! -->
+  <VRE_ChestburstBirthHidden>TODO</VRE_ChestburstBirthHidden>
+	<!-- EN: Self-impregnate -->
+  <VRE_SelfImpregnate>TODO</VRE_SelfImpregnate>
+	<!-- EN: Female individual self-impregnates, creating a fetus that’s a perfect copy of the parent. -->
+  <VRE_SelfImpregnateDesc>TODO</VRE_SelfImpregnateDesc>
+	<!-- EN: Only available for females -->
+  <VRE_PawnIsMale>TODO</VRE_PawnIsMale>
+	<!-- EN: Parthenogenesis can only be targeted on self -->
+  <VRE_OnlyOnSelf>TODO</VRE_OnlyOnSelf>
+	<!-- EN: Individual is already pregnant -->
+  <VRE_AlreadyPregnant>TODO</VRE_AlreadyPregnant>
+	<!-- EN: {0} has self-impregnated! -->
+  <VRE_GotPregnant>TODO</VRE_GotPregnant>
+	<!-- EN: {0} is too young! -->
+  <VRE_PawnIsTooYoung>TODO</VRE_PawnIsTooYoung>
+	<!-- EN: {0} is still suffering from implantation fatigue -->
+  <VRE_TempSterile>TODO</VRE_TempSterile>
+	<!-- EN: Swarm synapse gene -->
+  <VRE_SwarmSynapseOffset>TODO</VRE_SwarmSynapseOffset>
+	<!-- EN: Consume {0} to unlock a new mutation / evolution -->
+  <VRE_IngestPherocore>TODO</VRE_IngestPherocore>
+	<!-- EN: Consuming {0} has unlocked the {1} {2} for all carriers of the geneline evolution gene -->
+  <VRE_PherocoreConsumed>TODO</VRE_PherocoreConsumed>
+	<!-- EN: No more genes can be unlocked with the {0} -->
+  <VRE_NoUnlockableGenes>TODO</VRE_NoUnlockableGenes>
+</LanguageData>

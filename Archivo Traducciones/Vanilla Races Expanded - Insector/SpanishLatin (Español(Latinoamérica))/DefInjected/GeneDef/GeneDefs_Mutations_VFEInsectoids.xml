@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: acid burstsack -->
+  <VRE_AcidBurstSack.label>saco de estallido ácido</VRE_AcidBurstSack.label>
+  <!-- EN: Carriers of this gene possess an acid burstsack, which triggers an explosive release of corrosive acid when they take a severe hit. This explosion affects everything within a wide radius, causing ongoing damage to those caught in the blast. -->
+  <VRE_AcidBurstSack.description>Los portadores de este gen poseen un saco de estallido ácido, que desencadena una liberación explosiva de ácido corrosivo cuando reciben un golpe severo. Esta explosión afecta a todo dentro de un amplio radio, causando daño continuo a los atrapados en la explosión.</VRE_AcidBurstSack.description>
+  
+  <!-- EN: chemfuel sacks -->
+  <VRE_ChemfuelSacks.label>sacos de quimbustible</VRE_ChemfuelSacks.label>
+  <!-- EN: Carriers of this gene develop chemfuel sacks resembling a tail, drastically increasing their susceptibility to flame damage. If engulfed in large enough flames or upon death, they erupt in a fiery explosion. Additionally, they can be "milked" periodically to yield chemfuel. -->
+  <VRE_ChemfuelSacks.description>Los portadores de este gen desarrollan sacos de quimbustible que se asemejan a una cola, aumentando drásticamente su susceptibilidad al daño por fuego. Si son envueltos en llamas lo suficientemente grandes o al morir, estallan en una explosión de fuego. Además, pueden ser "ordeñados" periódicamente para obtener quimbustible.</VRE_ChemfuelSacks.description>
+  <!-- EN: Time running in panic when set on fire doubled. -->
+  <VRE_ChemfuelSacks.customEffectDescriptions.0>El tiempo corriendo en pánico cuando se prende fuego se duplica.</VRE_ChemfuelSacks.customEffectDescriptions.0>
+  <!-- EN: Produces 30 chemfuel every 10 days. -->
+  <VRE_ChemfuelSacks.customEffectDescriptions.1>Produce 30 de quimbustible cada 10 días.</VRE_ChemfuelSacks.customEffectDescriptions.1>
+  <!-- EN: If set on fire, and the fire is at least 35 in size, they explode in a fire explosion. Upon fire explosion, they will not explode again for 24 hours. -->
+  <VRE_ChemfuelSacks.customEffectDescriptions.2>Si se prende fuego, y el fuego tiene un tamaño de al menos 35, explotan en una explosión de fuego. Tras la explosión de fuego, no volverán a explotar durante 24 horas.</VRE_ChemfuelSacks.customEffectDescriptions.2>
+  <!-- EN: fuel -->
+  <VRE_ChemfuelSacks.symbolPack.prefixSymbols.0.symbol>combustible</VRE_ChemfuelSacks.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: chem -->
+  <VRE_ChemfuelSacks.symbolPack.prefixSymbols.1.symbol>quim</VRE_ChemfuelSacks.symbolPack.prefixSymbols.1.symbol>
+  <!-- EN: petrol -->
+  <VRE_ChemfuelSacks.symbolPack.prefixSymbols.2.symbol>petrol</VRE_ChemfuelSacks.symbolPack.prefixSymbols.2.symbol>
+  
+  <!-- EN: colossal -->
+  <VRE_Colossal.label>colosal</VRE_Colossal.label>
+  <!-- EN: Carriers of this gene grow to colossal proportions, towering over their peers. Their immense size increases meat and leather yield and hunger needs, while reducing movement speed and melee dodge chance. If equipped with the right enhancements, they can carry the heaviest of weapons and warcasket armaments. -->
+  <VRE_Colossal.description>Los portadores de este gen crecen hasta proporciones colosales, elevándose sobre sus compañeros. Su inmenso tamaño aumenta el rendimiento de carne y cuero y las necesidades de hambre, al tiempo que reduce la velocidad de movimiento y la probabilidad de esquivar cuerpo a cuerpo. Si están equipados con las mejoras adecuadas, pueden llevar las armas más pesadas y armamentos de sarcófagos de guerra.</VRE_Colossal.description>
+  <!-- EN: large -->
+  <VRE_Colossal.symbolPack.prefixSymbols.0.symbol>grande</VRE_Colossal.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: big -->
+  <VRE_Colossal.symbolPack.prefixSymbols.1.symbol>gran</VRE_Colossal.symbolPack.prefixSymbols.1.symbol>
+  <!-- EN: magni -->
+  <VRE_Colossal.symbolPack.prefixSymbols.2.symbol>magni</VRE_Colossal.symbolPack.prefixSymbols.2.symbol>
+  
+  <!-- EN: ecdysone overdrive -->
+  <VRE_EcdysoneOverdrive.label>sobremarcha de ecdisona</VRE_EcdysoneOverdrive.label>
+  <!-- EN: Carriers of this gene experience an ecdysone overdrive, creating a constant need for kill satiety. Prolonged periods without melee kills inflict increasing mood penalties, driving them towards violent confrontations to maintain their mental balance. -->
+  <VRE_EcdysoneOverdrive.description>Los portadores de este gen experimentan una sobremarcha de ecdisona, creando una necesidad constante de saciedad de muerte. Los períodos prolongados sin muertes cuerpo a cuerpo infligen penalizaciones de humor crecientes, llevándolos hacia confrontaciones violentas para mantener su equilibrio mental.</VRE_EcdysoneOverdrive.description>
+  <!-- EN: aggro -->
+  <VRE_EcdysoneOverdrive.symbolPack.prefixSymbols.0.symbol>agro</VRE_EcdysoneOverdrive.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: killer -->
+  <VRE_EcdysoneOverdrive.symbolPack.prefixSymbols.1.symbol>asesino</VRE_EcdysoneOverdrive.symbolPack.prefixSymbols.1.symbol>
+  
+  <!-- EN: hard-locked joints -->
+  <VRE_HardLockedJoints.label>articulaciones bloqueadas</VRE_HardLockedJoints.label>
+  <!-- EN: Carriers of this gene have hardlocked joints, significantly slowing their movements. Their inflexible joints make bending and swift actions extremely difficult. -->
+  <VRE_HardLockedJoints.description>Los portadores de este gen tienen articulaciones bloqueadas, ralentizando significativamente sus movimientos. Sus articulaciones inflexibles hacen que doblarse y realizar acciones rápidas sea extremadamente difícil.</VRE_HardLockedJoints.description>
+  <!-- EN: slow -->
+  <VRE_HardLockedJoints.symbolPack.prefixSymbols.0.symbol>lento</VRE_HardLockedJoints.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: lock -->
+  <VRE_HardLockedJoints.symbolPack.prefixSymbols.1.symbol>bloq</VRE_HardLockedJoints.symbolPack.prefixSymbols.1.symbol>
+  
+  <!-- EN: volatile -->
+  <VRE_InsectVolatile.label>volátil</VRE_InsectVolatile.label>
+  <!-- EN: Carriers of this gene exhibit volatile behavior, drastically increasing their likelihood of initiating social fights and ensuring their mental breaks are always violent when possible. They have a heightened tendency to attempt prison breaks and will use weapons in social confrontations. -->
+  <VRE_InsectVolatile.description>Los portadores de este gen exhiben un comportamiento volátil, aumentando drásticamente su probabilidad de iniciar peleas sociales y asegurando que sus crisis mentales sean siempre violentas cuando sea posible. Tienen una mayor tendencia a intentar fugas de prisión y usarán armas en confrontaciones sociales.</VRE_InsectVolatile.description>
+  <!-- EN: Will use weapons in social fights. -->
+  <VRE_InsectVolatile.customEffectDescriptions.0>Usará armas en peleas sociales.</VRE_InsectVolatile.customEffectDescriptions.0>
+  <!-- EN: aggro -->
+  <VRE_InsectVolatile.symbolPack.prefixSymbols.0.symbol>agro</VRE_InsectVolatile.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: savage -->
+  <VRE_InsectVolatile.symbolPack.prefixSymbols.1.symbol>salvaje</VRE_InsectVolatile.symbolPack.prefixSymbols.1.symbol>
+  <!-- EN: vola -->
+  <VRE_InsectVolatile.symbolPack.prefixSymbols.2.symbol>vola</VRE_InsectVolatile.symbolPack.prefixSymbols.2.symbol>
+  
+  <!-- EN: microsized -->
+  <VRE_Microsized.label>microtamaño</VRE_Microsized.label>
+  <!-- EN: Carriers of this gene exhibit a microsized stature, significantly smaller than their counterparts. Their reduced size results in increased stagger duration, lower meat and leather yield, and a smaller yet more efficient hunger requirement. -->
+  <VRE_Microsized.description>Los portadores de este gen exhiben una estatura de microtamaño, significativamente más pequeña que sus contrapartes. Su tamaño reducido resulta en una mayor duración del tambaleo, menor rendimiento de carne y cuero, y un requisito de hambre menor pero más eficiente.</VRE_Microsized.description>
+  <!-- EN: small -->
+  <VRE_Microsized.symbolPack.prefixSymbols.0.symbol>peque</VRE_Microsized.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: tiny -->
+  <VRE_Microsized.symbolPack.prefixSymbols.1.symbol>diminuto</VRE_Microsized.symbolPack.prefixSymbols.1.symbol>
+  <!-- EN: mini -->
+  <VRE_Microsized.symbolPack.prefixSymbols.2.symbol>mini</VRE_Microsized.symbolPack.prefixSymbols.2.symbol>
+  
+  <!-- EN: passive -->
+  <VRE_PassiveInsect.label>pasivo</VRE_PassiveInsect.label>
+  <!-- EN: Carriers of this gene are inherently passive, showing no interest in and being unable to participate in combat. Their nature compels them to avoid violent confrontations entirely. -->
+  <VRE_PassiveInsect.description>Los portadores de este gen son inherentemente pasivos, no mostrando interés y siendo incapaces de participar en combate. Su naturaleza los obliga a evitar por completo las confrontaciones violentas.</VRE_PassiveInsect.description>
+  
+  <!-- EN: pyrophilic -->
+  <VRE_Pyrophiliac.label>pirofílico</VRE_Pyrophiliac.label>
+  <!-- EN: Carriers of this gene possess a pyrophilic nature, exhibiting a fascination and love for fire. They are drawn to flames and find comfort and joy in their presence. -->
+  <VRE_Pyrophiliac.description>Los portadores de este gen poseen una naturaleza pirofílica, exhibiendo una fascinación y amor por el fuego. Se sienten atraídos por las llamas y encuentran consuelo y alegría en su presencia.</VRE_Pyrophiliac.description>
+  <!-- EN: fire -->
+  <VRE_Pyrophiliac.symbolPack.prefixSymbols.0.symbol>fuego</VRE_Pyrophiliac.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: flame -->
+  <VRE_Pyrophiliac.symbolPack.prefixSymbols.1.symbol>llama</VRE_Pyrophiliac.symbolPack.prefixSymbols.1.symbol>
+  <!-- EN: pyro -->
+  <VRE_Pyrophiliac.symbolPack.prefixSymbols.2.symbol>piro</VRE_Pyrophiliac.symbolPack.prefixSymbols.2.symbol>
+  
+  <!-- EN: solid grey matter -->
+  <VRE_SolidGreyMatter.label>materia gris sólida</VRE_SolidGreyMatter.label>
+  <!-- EN: Carriers of this gene have solidified grey matter, resulting in a complete inability to learn new skills. They experience accelerated skill loss, which affects them even at lower skill levels. -->
+  <VRE_SolidGreyMatter.description>Los portadores de este gen tienen materia gris solidificada, resultando en una completa incapacidad para aprender nuevas habilidades. Experimentan una pérdida acelerada de habilidades, que les afecta incluso en niveles de habilidad más bajos.</VRE_SolidGreyMatter.description>
+  <!-- EN: Global skill loss multiplier: x2. -->
+  <VRE_SolidGreyMatter.customEffectDescriptions.0>Multiplicador global de pérdida de habilidad: x2.</VRE_SolidGreyMatter.customEffectDescriptions.0>
+  <!-- EN: Skill loss applies even below level 10. -->
+  <VRE_SolidGreyMatter.customEffectDescriptions.1>La pérdida de habilidad se aplica incluso por debajo del nivel 10.</VRE_SolidGreyMatter.customEffectDescriptions.1>
+  <!-- EN: thag -->
+  <VRE_SolidGreyMatter.symbolPack.prefixSymbols.0.symbol>tonto</VRE_SolidGreyMatter.symbolPack.prefixSymbols.0.symbol>
+  <!-- EN: grunt -->
+  <VRE_SolidGreyMatter.symbolPack.prefixSymbols.1.symbol>gruñón</VRE_SolidGreyMatter.symbolPack.prefixSymbols.1.symbol>
+  <!-- EN: stupid -->
+  <VRE_SolidGreyMatter.symbolPack.prefixSymbols.2.symbol>estúpido</VRE_SolidGreyMatter.symbolPack.prefixSymbols.2.symbol>
+  <!-- EN: dull -->
+  <VRE_SolidGreyMatter.symbolPack.prefixSymbols.3.symbol>lento</VRE_SolidGreyMatter.symbolPack.prefixSymbols.3.symbol>
+  <!-- EN: dumb -->
+  <VRE_SolidGreyMatter.symbolPack.prefixSymbols.4.symbol>bobo</VRE_SolidGreyMatter.symbolPack.prefixSymbols.4.symbol>
+  
+</LanguageData>

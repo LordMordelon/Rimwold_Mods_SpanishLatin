@@ -1,0 +1,140 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<!-- EN: Work Modes -->
+  <WVC_MMWM_Settings>Modos de Trabajo</WVC_MMWM_Settings>
+
+	<!-- EN: Main -->
+  <WVC_Label_MainModeLabelSetting>Principal</WVC_Label_MainModeLabelSetting>
+	<!-- EN: Bonus -->
+  <WVC_Label_BonusModeLabelSetting>Bonificación</WVC_Label_BonusModeLabelSetting>
+	<!-- EN: Mechanics -->
+  <WVC_Label_WorkModeMechanicsLabelSetting>Mecánicas</WVC_Label_WorkModeMechanicsLabelSetting>
+
+	<!-- EN: Reset -->
+  <WVC_WorkModes_ResetButton>Restablecer</WVC_WorkModes_ResetButton>
+
+	<!-- EN: The settings will be changed, are you sure? -->
+  <WVC_WorkModes_ResetButtonWarning>La configuración cambiará, ¿estás seguro?</WVC_WorkModes_ResetButtonWarning>
+	<!-- EN: The settings have been changed. -->
+  <WVC_WorkModes_ResetButton_SettingsChanged>La configuración ha cambiado.</WVC_WorkModes_ResetButton_SettingsChanged>
+
+	<!-- Main -->
+	<!-- EN: Find and destroy -->
+  <WVC_Label_FindAndDestroy>Buscar y destruir</WVC_Label_FindAndDestroy>
+	<!-- EN: Wait enemy -->
+  <WVC_Label_WaitEnemy>Esperar enemigo</WVC_Label_WaitEnemy>
+	<!-- EN: Work and wait -->
+  <WVC_Label_WorkAndWaitEnemy>Trabajar y esperar</WVC_Label_WorkAndWaitEnemy>
+	<!-- EN: Defend yourself -->
+  <WVC_Label_DefendYourself>Autodefensa</WVC_Label_DefendYourself>
+	<!-- EN: Ambush -->
+  <WVC_Label_Ambush>Emboscada</WVC_Label_Ambush>
+	<!-- EN: Work and recharge -->
+  <WVC_Label_WorkAndRecharge>Trabajar y recargar</WVC_Label_WorkAndRecharge>
+	<!-- EN: Work if safe -->
+  <WVC_Label_SafeWorkAndRecharge>Trabajar si es seguro</WVC_Label_SafeWorkAndRecharge>
+	<!-- EN: Escort and recharge -->
+  <WVC_Label_EscaortAndRecharge>Escoltar y recargar</WVC_Label_EscaortAndRecharge>
+	<!-- EN: Work, recharge and escort -->
+  <WVC_Label_WorkRechargeEscort>Trabajar, recargar y escoltar</WVC_Label_WorkRechargeEscort>
+	<!-- EN: Escort if enemy -->
+  <WVC_Label_EscortIfEnemyOnMap>Escoltar si hay enemigos</WVC_Label_EscortIfEnemyOnMap>
+	<!-- EN: Recharge and shutdown -->
+  <WVC_Label_RechargeAndShutdown>Recargar y apagar</WVC_Label_RechargeAndShutdown>
+
+	<!-- EN: Before disabling, switch all mechanoid modes to vanilla. A restart is required to apply the settings. -->
+  <WVC_ToolTip_Setting>Antes de desactivar, cambia todos los modos de mecanoides a vanilla. Se requiere reiniciar para aplicar la configuración.</WVC_ToolTip_Setting>
+
+	<!-- Bonus -->
+	<!-- EN: Escort if enemy, work and recharge -->
+  <WVC_Label_EscortIfEnemyWorkAndRecharge>Escoltar si hay enemigos, trabajar y recargar</WVC_Label_EscortIfEnemyWorkAndRecharge>
+	<!-- EN: Escort if drafted or downed -->
+  <WVC_Label_EscortIfDraftedOrDowned>Escoltar si está reclutado o abatido</WVC_Label_EscortIfDraftedOrDowned>
+	<!-- EN: Hive mind researching -->
+  <WVC_Label_HiveMindResearching>Investigación de mente colmena</WVC_Label_HiveMindResearching>
+	<!-- EN: Scavenging -->
+  <WVC_Label_Scavenging>Recolección de chatarra</WVC_Label_Scavenging>
+	<!-- EN: Scavenge zone min required cells: {0} -->
+	<WVC_Label_ScavenZoneCells>Celdas mín. recolección: {0}</WVC_Label_ScavenZoneCells>
+
+	<!-- EN: Bonus mode. It is disabled by default. Enabling is compatible with saves. -->
+  <WVC_ToolTip_BonusSetting>Modo de bonificación. Está desactivado por defecto. Habilitarlo es compatible con partidas guardadas.</WVC_ToolTip_BonusSetting>
+
+	<!-- Idle Optimization -->
+	<!-- EN: Idle optimization for vanilla modes -->
+  <WVC_Label_enableShutdownForAllMechanoids>Optimización de inactividad para modos vanilla</WVC_Label_enableShutdownForAllMechanoids>
+	<!-- EN: If enabled, idle optimization will also affect vanilla modes. -->
+  <WVC_ToolTip_enableShutdownForAllMechanoids>Si se habilita, la optimización de inactividad también afectará a los modos vanilla.</WVC_ToolTip_enableShutdownForAllMechanoids>
+
+	<!-- EN: Smart charging for vanilla modes -->
+  <WVC_Label_enableSmartChargingForAllMechanoids>Carga inteligente para modos vanilla</WVC_Label_enableSmartChargingForAllMechanoids>
+	<!-- EN: If enabled, then the mechanoids will go to charge when they are not busy with anything, and not only when the charge runs out. -->
+  <WVC_ToolTip_enableSmartChargingForAllMechanoids>Si se habilita, los mecanoides irán a cargar cuando no estén ocupados con nada, y no solo cuando se agote la carga.</WVC_ToolTip_enableSmartChargingForAllMechanoids>
+
+	<!-- EN: Does not affect combat mechanoids, as their idle has been replaced with a simulated patrol. -->
+  <WVC_ToolTip_VanillaModeOptimizationWarning>No afecta a los mecanoides de combate, ya que su inactividad ha sido reemplazada por una patrulla simulada.</WVC_ToolTip_VanillaModeOptimizationWarning>
+
+	<!-- Features -->
+	<!-- EN: Enable mechanoid shutdown zones -->
+  <WVC_Label_enableShutdownSearching>Habilitar zonas de apagado de mecanoides</WVC_Label_enableShutdownSearching>
+	<!-- EN: If enabled, mechanoids will search for a mechanoid shutdown zone before shutdown. -->
+  <WVC_ToolTip_enableShutdownSearching>Si se habilita, los mecanoides buscarán una zona de apagado de mecanoides antes de apagarse.</WVC_ToolTip_enableShutdownSearching>
+
+	<!-- EN: Enable mechanoid hangar rooms (Beta) -->
+  <WVC_Label_enable_GoToShutdownRoomJob>Habilitar salas de hangar de mecanoides (Beta)</WVC_Label_enable_GoToShutdownRoomJob>
+	<!-- EN: If enabled, all mechanoid chargers will create a new room type "Mechanoid Hangar". Mechanoids will sleep there if there are no alternatives in the form of zones.
+
+Recommended when playing through gravships (Odyssey DLC), since the zones are reset when the ship flies.
+
+(Beta) A special beacon is planned that will allow for fine-tuning similar to that with zones.
+
+Restart required! -->
+  <WVC_ToolTip_enable_GoToShutdownRoomJob>Si se habilita, todos los cargadores de mecanoides crearán un nuevo tipo de sala "Hangar de Mecanoides". Los mecanoides dormirán allí si no hay alternativas en forma de zonas.\n\nRecomendado al jugar con gravships (Odyssey DLC), ya que las zonas se reinician cuando la nave vuela.\n\n(Beta) Se planea una baliza especial que permitirá un ajuste fino similar al de las zonas.\n\n¡Se requiere reiniciar!</WVC_ToolTip_enable_GoToShutdownRoomJob>
+
+	<!-- EN: Enable enemy searching -->
+  <WVC_Label_enableEnemySearching>Habilitar búsqueda de enemigos</WVC_Label_enableEnemySearching>
+	<!-- EN: If enabled, in safe modes, mechanoids will check the map for enemies. -->
+  <WVC_ToolTip_enableEnemySearching>Si se habilita, en modos seguros, los mecanoides buscarán enemigos en el mapa.</WVC_ToolTip_enableEnemySearching>
+
+	<!-- EN: If you don't understand what this option does, leave it enabled. -->
+  <WVC_ToolTip_enableSearchingWarning>Si no entiendes qué hace esta opción, déjala habilitada.</WVC_ToolTip_enableSearchingWarning>
+
+	<!-- EN: Smart escort -->
+  <WVC_Label_enableSmartEscort>Escolta inteligente</WVC_Label_enableSmartEscort>
+	<!-- EN: If enabled, it allows you to select an escort target for mechanoids.
+
+Restart required! -->
+  <WVC_ToolTip_enableSmartEscort>Si se habilita, te permite seleccionar un objetivo de escolta para los mecanoides.\n\n¡Se requiere reiniciar!</WVC_ToolTip_enableSmartEscort>
+
+	<!-- EN: Shutdown mode: Zones or Spots -->
+  <WVC_Label_shutdownModeZonesOrSpots>Modo de apagado: Zonas o Lugares</WVC_Label_shutdownModeZonesOrSpots>
+	<!-- EN: If enabled, zones will be used. Alternatively, spots. It is recommended to enable it.
+
+This option is for advanced users. If you don't know what spots are, then leave it enabled.
+
+Restart required! -->
+  <WVC_ToolTip_shutdownModeZonesOrSpots>Si se habilita, se usarán zonas. Alternativamente, lugares. Se recomienda habilitarlo.\n\nEsta opción es para usuarios avanzados. Si no sabes qué son los lugares, déjala habilitada.\n\n¡Se requiere reiniciar!</WVC_ToolTip_shutdownModeZonesOrSpots>
+
+	<!-- EN: Use custom shutdown behavior -->
+  <WVC_Label_useCustomShutdownBehavior>Usar comportamiento de apagado personalizado</WVC_Label_useCustomShutdownBehavior>
+	<!-- EN: Vanilla shutdown is too stupid, but reliable. If you encounter bugs related to mechanoid shutdown, disable this option. -->
+  <WVC_ToolTip_useCustomShutdownBehavior>El apagado vanilla es demasiado estúpido, pero fiable. Si encuentras errores relacionados con el apagado de mecanoides, desactiva esta opción.</WVC_ToolTip_useCustomShutdownBehavior>
+
+	<!-- EN: Dormant mode -->
+  <WVC_Label_enableDormantMode>Modo inactivo</WVC_Label_enableDormantMode>
+	<!-- EN: If enabled, then when the mechanoid is in shutdown mode it does not consume bandwidth.
+
+In case of performance problems, it is recommended to disable it.
+
+Restart required! -->
+  <WVC_ToolTip_enableDormantMode>Si se habilita, cuando el mecanoide está en modo de apagado no consume ancho de banda.\n\nEn caso de problemas de rendimiento, se recomienda desactivarlo.\n\n¡Se requiere reiniciar!</WVC_ToolTip_enableDormantMode>
+	<!-- EN: Dormant mode bandwidth cost factor x{0}% -->
+	<WVC_Label_mechBandwithCostInDormantMode>Factor de ancho de banda x{0}%</WVC_Label_mechBandwithCostInDormantMode>
+
+	<!-- EN: Auto-repair on by default -->
+  <WVC_WM_Label_enableAutoRepairByDefault>Auto-reparación activada por defecto</WVC_WM_Label_enableAutoRepairByDefault>
+	<!-- EN: After spawning, automatically switches the mechanoid's auto-repair to true. -->
+  <WVC_WM_ToolTip_enableAutoRepairByDefault>Después de aparecer, cambia automáticamente la auto-reparación del mecanoide a verdadero.</WVC_WM_ToolTip_enableAutoRepairByDefault>
+
+</LanguageData>
