@@ -1,103 +1,103 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 	<!-- EN: Manage genelines -->
-  <VRE_ManageGenelines>TODO</VRE_ManageGenelines>
+  <VRE_ManageGenelines>Gestionar linajes genéticos</VRE_ManageGenelines>
 	<!-- EN: Change the currently selected geneline or create new genelines. -->
-  <VRE_ManageGenelinesDesc>TODO</VRE_ManageGenelinesDesc>
+  <VRE_ManageGenelinesDesc>Cambia el linaje genético seleccionado actualmente o crea nuevos linajes.</VRE_ManageGenelinesDesc>
 	<!-- EN: Edit geneline -->
-  <VRE_EditGeneline>TODO</VRE_EditGeneline>
+  <VRE_EditGeneline>Editar linaje genético</VRE_EditGeneline>
 	<!-- EN: Geneline {0} -->
-  <VRE_GenelineName>TODO</VRE_GenelineName>
+  <VRE_GenelineName>Linaje genético {0}</VRE_GenelineName>
 	<!-- EN: Delete this geneline. Removing it will result in all insectors with this geneline immediately entering the metapod stage and turning into baseline insectors. -->
-  <VRE_DeleteThisGeneline>TODO</VRE_DeleteThisGeneline>
+  <VRE_DeleteThisGeneline>Eliminar este linaje genético. Eliminarlo provocará que todos los insectores con este linaje entren inmediatamente en la etapa de metacapullo y se conviertan en insectores base.</VRE_DeleteThisGeneline>
 	<!-- EN: Create a new geneline -->
-  <VRE_CreateGeneline>TODO</VRE_CreateGeneline>
+  <VRE_CreateGeneline>Crear un nuevo linaje genético</VRE_CreateGeneline>
 	<!-- EN: You can edit existing genelines or create a brand new geneline. Remember that changing a geneline will require your insectors to enter a metapod stage which will last 24 hours. -->
-  <VRE_CreateGenelineExplanation>TODO</VRE_CreateGenelineExplanation>
+  <VRE_CreateGenelineExplanation>Puedes editar linajes genéticos existentes o crear uno nuevo. Recuerda que cambiar un linaje requerirá que tus insectores entren en una etapa de metacapullo que durará 24 horas.</VRE_CreateGenelineExplanation>
 	<!-- EN: Geneline name cannot be empty. -->
-  <VRE_GenelineNameCannotBeEmpty>TODO</VRE_GenelineNameCannotBeEmpty>
+  <VRE_GenelineNameCannotBeEmpty>El nombre del linaje genético no puede estar vacío.</VRE_GenelineNameCannotBeEmpty>
 	<!-- EN: Cannot save geneline with multiple conflicting genes. -->
-  <VRE_MessageConflictingGenesPresent>TODO</VRE_MessageConflictingGenesPresent>
+  <VRE_MessageConflictingGenesPresent>No se puede guardar el linaje genético con múltiples genes en conflicto.</VRE_MessageConflictingGenesPresent>
 	<!-- EN: Evolutions -->
-  <VRE_Evolutions>TODO</VRE_Evolutions>
+  <VRE_Evolutions>Evoluciones</VRE_Evolutions>
 	<!-- EN: Evolutions -->
-  <VRE_EvolutionsDesc>TODO</VRE_EvolutionsDesc>
+  <VRE_EvolutionsDesc>Evoluciones</VRE_EvolutionsDesc>
 	<!-- EN: Degrades -->
-  <VRE_Degrades>TODO</VRE_Degrades>
+  <VRE_Degrades>Degradaciones</VRE_Degrades>
 	<!-- EN: text.todo -->
-  <VRE_DegradesDesc>TODO</VRE_DegradesDesc>
+  <VRE_DegradesDesc>text.todo</VRE_DegradesDesc>
 	<!-- EN: Save geneline -->
-  <VRE_SaveGeneline>TODO</VRE_SaveGeneline>
+  <VRE_SaveGeneline>Guardar linaje genético</VRE_SaveGeneline>
 	<!-- EN: Needs equal amount of evolutions and degrades. -->
-  <VRE_NeedEqualAmount>TODO</VRE_NeedEqualAmount>
+  <VRE_NeedEqualAmount>Necesita la misma cantidad de evoluciones y degradaciones.</VRE_NeedEqualAmount>
 	<!-- EN: Changing the genes of a geneline will cause all insectors that are a part of that geneline to enter the metapod stage. The metapod stage will last 24 hours, during which the insectors will be unavailable. -->
-  <VRE_ChangingGenelineExplanation>TODO</VRE_ChangingGenelineExplanation>
+  <VRE_ChangingGenelineExplanation>Cambiar los genes de un linaje provocará que todos los insectores que formen parte de ese linaje entren en la etapa de metacapullo. La etapa de metacapullo durará 24 horas, durante las cuales los insectores no estarán disponibles.</VRE_ChangingGenelineExplanation>
 	<!-- EN: Cannot save: {0} -->
-  <VRE_CannotSave>TODO</VRE_CannotSave>
+  <VRE_CannotSave>No se puede guardar: {0}</VRE_CannotSave>
 	<!-- EN: Change to: {0} -->
-  <VRE_ChangeTo>TODO</VRE_ChangeTo>
+  <VRE_ChangeTo>Cambiar a: {0}</VRE_ChangeTo>
 	<!-- EN: You are about to remove a geneline that’s used by some of your colonists. Removing it will result in these insectors immediately entering the metapod stage and turning into baseline insectors.
 Insector colonists that will be affected:
 
 {0}
  -->
-  <VRE_DeleteGenelineConfirmation>TODO</VRE_DeleteGenelineConfirmation>
+  <VRE_DeleteGenelineConfirmation>Estás a punto de eliminar un linaje genético que es utilizado por algunos de tus colonos. Eliminarlo provocará que estos insectores entren inmediatamente en la etapa de metacapullo y se conviertan en insectores base.\nColonos insectores que se verán afectados:\n\n{0}</VRE_DeleteGenelineConfirmation>
 	<!-- EN: Genelines -->
-  <VRE_Genelines>TODO</VRE_Genelines>
+  <VRE_Genelines>Linajes genéticos</VRE_Genelines>
 	<!-- EN: text.todo -->
-  <VRE_GenelinesDesc>TODO</VRE_GenelinesDesc>
+  <VRE_GenelinesDesc>text.todo</VRE_GenelinesDesc>
 	<!-- EN: Time until {PAWN_nameDef} emerges: {1}\nInsert insect jelly into the metapod to speed up the process significantly. -->
-  <VRE_MetapodTimer>TODO</VRE_MetapodTimer>
+  <VRE_MetapodTimer>Tiempo hasta que {PAWN_nameDef} emerja: {1}\nInserta jalea de insecto en el metacapullo para acelerar el proceso significativamente.</VRE_MetapodTimer>
 	<!-- EN: Cannot change genelines due to metapod sickness. -->
-  <VRE_MetapodSicknessCannotChangeGeneline>TODO</VRE_MetapodSicknessCannotChangeGeneline>
+  <VRE_MetapodSicknessCannotChangeGeneline>No se pueden cambiar los linajes genéticos debido a la enfermedad del metacapullo.</VRE_MetapodSicknessCannotChangeGeneline>
 	<!-- EN: Chestburst pregnancy -->
-  <VRE_ChestburstPregnancyReady>TODO</VRE_ChestburstPregnancyReady>
+  <VRE_ChestburstPregnancyReady>Embarazo revienta-pechos</VRE_ChestburstPregnancyReady>
 	<!-- EN: When a colonist with chestburst pregnancy gene becomes pregnant, they need to designate another willing or unwilling individual to implant the fetus. Once the fetus matures, it will burst out of the ribcage of the victim, killing the host. If they don’t do it before the second trimester begins (6 days), the pregnancy will be terminated. -->
-  <VRE_ChestburstPregnancyReadyDesc>TODO</VRE_ChestburstPregnancyReadyDesc>
+  <VRE_ChestburstPregnancyReadyDesc>Cuando un colono con el gen de embarazo revienta-pechos queda embarazado, necesita designar a otro individuo, dispuesto o no, para implantarle el feto. Una vez que el feto madure, estallará de la caja torácica de la víctima, matando al huésped. Si no lo hacen antes de que comience el segundo trimestre (6 días), el embarazo se interrumpirá.</VRE_ChestburstPregnancyReadyDesc>
 	<!-- EN: Chestburst implantation needed -->
-  <VRE_ChestburstImplantationNeeded>TODO</VRE_ChestburstImplantationNeeded>
+  <VRE_ChestburstImplantationNeeded>Implantación de revienta-pechos necesaria</VRE_ChestburstImplantationNeeded>
 	<!-- EN: When a colonist with chestburst pregnancy gene becomes pregnant, they need to designate another willing or unwilling individual to implant the fetus. Once the fetus matures, it will burst out of the ribcage of the victim, killing the host. If they don’t do it before the second trimester begins (6 days), the pregnancy will be terminated. These colonists need to implant a fetus:\n\n{0} -->
-  <VRE_ChestburstImplantationNeededDesc>TODO</VRE_ChestburstImplantationNeededDesc>
+  <VRE_ChestburstImplantationNeededDesc>Cuando un colono con el gen de embarazo revienta-pechos queda embarazado, necesita designar a otro individuo, dispuesto o no, para implantarle el feto. Una vez que el feto madure, estallará de la caja torácica de la víctima, matando al huésped. Si no lo hacen antes de que comience el segundo trimestre (6 días), el embarazo se interrumpirá. Estos colonos necesitan implantar un feto:\n\n{0}</VRE_ChestburstImplantationNeededDesc>
 	<!-- EN: Inject chestburst fetus -->
-  <VRE_InjectChestburstFetus>TODO</VRE_InjectChestburstFetus>
+  <VRE_InjectChestburstFetus>Inyectar feto revienta-pechos</VRE_InjectChestburstFetus>
 	<!-- EN:  Inject the victim with the fetus, which will burst out of the victim’s chest when mature, killing the host. -->
-  <VRE_InjectChestburstFetusDesc>TODO</VRE_InjectChestburstFetusDesc>
+  <VRE_InjectChestburstFetusDesc>Inyecta a la víctima con el feto, el cual estallará del pecho de la víctima cuando madure, matando al huésped.</VRE_InjectChestburstFetusDesc>
 	<!-- EN: Needs to be injected on a humanoid target or adult animal with body size higher than 1 -->
-  <VRE_NeedsHumanoidOrAnimal>TODO</VRE_NeedsHumanoidOrAnimal>
+  <VRE_NeedsHumanoidOrAnimal>Necesita ser inyectado en un objetivo humanoide o animal adulto con un tamaño corporal superior a 1</VRE_NeedsHumanoidOrAnimal>
 	<!-- EN: Can't be injected on ghouls -->
-  <VRE_CantImplantOnGhoul>TODO</VRE_CantImplantOnGhoul>
+  <VRE_CantImplantOnGhoul>No se puede inyectar en necrófagos</VRE_CantImplantOnGhoul>
 	<!-- EN: Can't be injected on shamblers -->
-  <VRE_CantImplantOnShambler>TODO</VRE_CantImplantOnShambler>
+  <VRE_CantImplantOnShambler>No se puede inyectar en tambaleantes</VRE_CantImplantOnShambler>
 	<!-- EN: Chestburst birth -->
-  <VRE_ChestburstBirthLabel>TODO</VRE_ChestburstBirthLabel>
+  <VRE_ChestburstBirthLabel>Nacimiento revienta-pechos</VRE_ChestburstBirthLabel>
 	<!-- EN: A newborn, {0}, has hatched from a host, killing it in the process -->
-  <VRE_ChestburstBirth>TODO</VRE_ChestburstBirth>
+  <VRE_ChestburstBirth>Un recién nacido, {0}, ha eclosionado de un huésped, matándolo en el proceso</VRE_ChestburstBirth>
 	<!-- EN: Chestburst birth! -->
-  <VRE_ChestburstBirthHiddenLabel>TODO</VRE_ChestburstBirthHiddenLabel>
+  <VRE_ChestburstBirthHiddenLabel>¡Nacimiento revienta-pechos!</VRE_ChestburstBirthHiddenLabel>
 	<!-- EN: {0} was unknowingly carrying a chestburst pregnancy! A newborn Insector, {1}, has hatched from the host, killing it in the process! -->
-  <VRE_ChestburstBirthHidden>TODO</VRE_ChestburstBirthHidden>
+  <VRE_ChestburstBirthHidden>¡{0} llevaba sin saberlo un embarazo revienta-pechos! ¡Un insector recién nacido, {1}, ha eclosionado del huésped, matándolo en el proceso!</VRE_ChestburstBirthHidden>
 	<!-- EN: Self-impregnate -->
-  <VRE_SelfImpregnate>TODO</VRE_SelfImpregnate>
+  <VRE_SelfImpregnate>Autoimpregnarse</VRE_SelfImpregnate>
 	<!-- EN: Female individual self-impregnates, creating a fetus that’s a perfect copy of the parent. -->
-  <VRE_SelfImpregnateDesc>TODO</VRE_SelfImpregnateDesc>
+  <VRE_SelfImpregnateDesc>El individuo femenino se autoimpregna, creando un feto que es una copia perfecta del progenitor.</VRE_SelfImpregnateDesc>
 	<!-- EN: Only available for females -->
-  <VRE_PawnIsMale>TODO</VRE_PawnIsMale>
+  <VRE_PawnIsMale>Solo disponible para mujeres</VRE_PawnIsMale>
 	<!-- EN: Parthenogenesis can only be targeted on self -->
-  <VRE_OnlyOnSelf>TODO</VRE_OnlyOnSelf>
+  <VRE_OnlyOnSelf>La partenogénesis solo puede tener como objetivo a uno mismo</VRE_OnlyOnSelf>
 	<!-- EN: Individual is already pregnant -->
-  <VRE_AlreadyPregnant>TODO</VRE_AlreadyPregnant>
+  <VRE_AlreadyPregnant>El individuo ya está embarazado</VRE_AlreadyPregnant>
 	<!-- EN: {0} has self-impregnated! -->
-  <VRE_GotPregnant>TODO</VRE_GotPregnant>
+  <VRE_GotPregnant>¡{0} se ha autoimpregnado!</VRE_GotPregnant>
 	<!-- EN: {0} is too young! -->
-  <VRE_PawnIsTooYoung>TODO</VRE_PawnIsTooYoung>
+  <VRE_PawnIsTooYoung>¡{0} es demasiado joven!</VRE_PawnIsTooYoung>
 	<!-- EN: {0} is still suffering from implantation fatigue -->
-  <VRE_TempSterile>TODO</VRE_TempSterile>
+  <VRE_TempSterile>{0} todavía sufre fatiga de implantación</VRE_TempSterile>
 	<!-- EN: Swarm synapse gene -->
-  <VRE_SwarmSynapseOffset>TODO</VRE_SwarmSynapseOffset>
+  <VRE_SwarmSynapseOffset>Gen de sinapsis de enjambre</VRE_SwarmSynapseOffset>
 	<!-- EN: Consume {0} to unlock a new mutation / evolution -->
-  <VRE_IngestPherocore>TODO</VRE_IngestPherocore>
+  <VRE_IngestPherocore>Consumir {0} para desbloquear una nueva mutación / evolución</VRE_IngestPherocore>
 	<!-- EN: Consuming {0} has unlocked the {1} {2} for all carriers of the geneline evolution gene -->
-  <VRE_PherocoreConsumed>TODO</VRE_PherocoreConsumed>
+  <VRE_PherocoreConsumed>Consumir {0} ha desbloqueado {1} {2} para todos los portadores del gen de evolución de linaje</VRE_PherocoreConsumed>
 	<!-- EN: No more genes can be unlocked with the {0} -->
-  <VRE_NoUnlockableGenes>TODO</VRE_NoUnlockableGenes>
+  <VRE_NoUnlockableGenes>No se pueden desbloquear más genes con {0}</VRE_NoUnlockableGenes>
 </LanguageData>
