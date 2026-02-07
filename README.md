@@ -21,5 +21,5 @@ Cómo usar compilador.py:
 4. Ejecuta el proceso y espera a que termine; se creará/actualizará la carpeta SpanishLatin con todas las traducciones.
 
 ## Glosario (por añadir)
-chemfuel > quimbustible
-astrofuel > astrobustible
+- chemfuel > quimbustible
+- astrofuel > astrobustible

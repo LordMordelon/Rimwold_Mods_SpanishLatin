@@ -1,0 +1,48 @@
+name: Compilar traducciones
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  compilar:
+    if: github.actor != 'github-actions[bot]'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+          fetch-depth: 0
+
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Compilar traducciones
+        run: |
+          python Programas/cli_compilador.py \
+            --origen "Archivo Traducciones" \
+            --destino "Pack Traducciones [Español Latino]" \
+            --idioma "SpanishLatin (Español(Latinoamérica))" \
+            --limpiar-destino \
+            --eliminar-comentarios \
+            --update-about
+
+      - name: Commit cambios
+        run: |
+          if [ -n "$(git status --porcelain)" ]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "github-actions[bot]@users.noreply.github.com"
+            git add .
+            git commit -m "Compilar traducciones [skip ci]"
+            git push
+          else
+            echo "Sin cambios para commitear."
+          fi
