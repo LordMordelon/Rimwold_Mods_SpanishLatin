@@ -36,6 +36,11 @@ jobs:
             --update-about \
             --reporte
 
+      - name: Preparar paquete beta
+        run: |
+          mkdir -p dist
+          tar -cf "dist/SpanishLatin.tar" -C "Pack Traducciones [Español Latino]/Languages" "SpanishLatin"
+
       - name: Commit cambios
         run: |
           if [ -n "$(git status --porcelain)" ]; then
@@ -47,3 +52,12 @@ jobs:
           else
             echo "Sin cambios para commitear."
           fi
+
+      - name: Publicar pre-release (beta)
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: "beta-${{ github.run_number }}-${{ github.sha }}"
+          name: "Beta ${{ github.run_number }}"
+          prerelease: true
+          files: |
+            dist/SpanishLatin.tar
