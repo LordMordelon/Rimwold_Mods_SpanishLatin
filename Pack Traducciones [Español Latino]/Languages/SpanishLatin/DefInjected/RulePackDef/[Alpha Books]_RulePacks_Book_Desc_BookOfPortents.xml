@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <ABooks_BookOfPortents_Description.rulePack.rulesStrings>
+    <li>desc-&gt;[excerpt]\n\n[qualityStatement][ending]</li>
+    <li>desc-&gt;[excerpt]\n\n[writingQualitySentence][ending]</li>
+    <li>excerpt-&gt;"He aquí, oh buscador, la danza [randAstralDescriptor] de los cielos, donde el [astralSign] predice la llegada de [mysticEvent]."</li>
+    <li>excerpt-&gt;"Dentro de estas páginas sagradas yace la verdad del firmamento [randAstralDescriptor], donde [celestialBeing] teje el tapiz del destino."</li>
+    <li>excerpt-&gt;"Marca esto: [astralSign] se levanta mientras [celestialBeing] susurra secretos que solo los audaces se atreven a captar."</li>
+    <li>excerpt-&gt;"Escrito en [randMaterial], este tomo invoca [mysticEvent], proyectando sombras y luz en igual medida."</li>
+    <li>excerpt-&gt;"A través del velo de la noche [randAstralDescriptor], el [celestialPhenomenon] guía a los dignos hacia la iluminación y [mysticEvent]."</li>
+    <li>excerpt-&gt;"¿Te atreves a confiar en los presagios de [astralSign]? Porque el [celestialPhenomenon] lleva susurros de [mysticEvent] a aquellos que buscan la verdad [randAstralDescriptor]."</li>
+    <li>qualityStatement(quality==6)-&gt;El tomo emana un aura de claridad divina, haciendo innegables sus profecías.</li>
+    <li>qualityStatement(quality==5)-&gt;Sus predicciones, aunque crípticas, resuenan con un poder y una sabiduría innegables.</li>
+    <li>qualityStatement(quality==4)-&gt;Aunque veladas en acertijos místicos, las profecías del libro tienen un encanto curioso.</li>
+    <li>qualityStatement(quality==3)-&gt;Sus presagios, aunque excéntricos, ofrecen vislumbres intrigantes de verdades celestiales.</li>
+    <li>qualityStatement(quality==2)-&gt;Nubladas por divagaciones, las profecías oscilan entre la perspicacia y la locura.</li>
+    <li>qualityStatement(quality==1)-&gt;Un revoltijo desconcertante de absurdo, sus "presagios" inspiran poco más que confusión.</li>
+    <li>qualityStatement(quality==0)-&gt;Un desastre incoherente, sus llamados "presagios" son risibles en el mejor de los casos.</li>
+    <li>writingQualitySentence(quality==6)-&gt;Una mezcla magistral de misticismo poético y autoridad profética.</li>
+    <li>writingQualitySentence(quality==5)-&gt;Una exploración cautivadora de misterios cósmicos, hábilmente entretejidos.</li>
+    <li>writingQualitySentence(quality==4)-&gt;Una narrativa atractiva, aunque ocasionalmente obtusa, de la tradición celestial.</li>
+    <li>writingQualitySentence(quality==3)-&gt;Una colección útil de reflexiones sobre los cielos, aunque demasiado ornamentada.</li>
+    <li>writingQualitySentence(quality==2)-&gt;Sin pulir y desigual, pero persisten débiles chispas de perspicacia.</li>
+    <li>writingQualitySentence(quality==1)-&gt;Plagado de verborrea y confusión, lucha por inspirar.</li>
+    <li>writingQualitySentence(quality==0)-&gt;Una diatriba caótica e ininteligible de tonterías celestiales.</li>
+    <li>ending-&gt;\n\nAl leerlo, este libro desencadenará un incidente astronómico aleatorio e inspirará asombro, otorgando un aumento de humor proporcional a su calidad.</li>
+    <li>randAstralDescriptor-&gt;brillante</li>
+    <li>randAstralDescriptor-&gt;enigmático</li>
+    <li>randAstralDescriptor-&gt;etéreo</li>
+    <li>randAstralDescriptor-&gt;antiguo</li>
+    <li>randAstralDescriptor-&gt;luminiscente</li>
+    <li>randAstralDescriptor-&gt;celestial</li>
+    <li>randAstralDescriptor-&gt;esotérico</li>
+    <li>astralSign-&gt;Sierpe Eclíptica</li>
+    <li>astralSign-&gt;Serpiente Estelar</li>
+    <li>astralSign-&gt;Heraldo del Vacío</li>
+    <li>astralSign-&gt;Presagio Luminoso</li>
+    <li>astralSign-&gt;Cometa del Destino</li>
+    <li>mysticEvent-&gt;grandes despertares</li>
+    <li>mysticEvent-&gt;caos y orden entrelazados</li>
+    <li>mysticEvent-&gt;la iluminación de la verdad</li>
+    <li>mysticEvent-&gt;un heraldo de cambio cósmico</li>
+    <li>mysticEvent-&gt;revelaciones más allá de la comprensión mortal</li>
+    <li>celestialBeing-&gt;el Vidente Forjado en las Estrellas</li>
+    <li>celestialBeing-&gt;el Tejedor Cósmico</li>
+    <li>celestialBeing-&gt;la Luminaria de las Eras</li>
+    <li>celestialBeing-&gt;el Observador del Vacío</li>
+    <li>celestialBeing-&gt;el Oráculo Estelar</li>
+    <li>celestialPhenomenon-&gt;auroras</li>
+    <li>celestialPhenomenon-&gt;eclipses</li>
+    <li>celestialPhenomenon-&gt;lluvias de meteoritos</li>
+    <li>celestialPhenomenon-&gt;erupciones solares</li>
+    <li>celestialPhenomenon-&gt;estrellas fugaces</li>
+    <li>randMaterial-&gt;tinta de polvo de estrellas</li>
+    <li>randMaterial-&gt;pergamino cristalino</li>
+    <li>randMaterial-&gt;acero del vacío</li>
+    <li>randMaterial-&gt;vitela áurica</li>
+    <li>randMaterial-&gt;ataduras lunares</li>
+  </ABooks_BookOfPortents_Description.rulePack.rulesStrings>
+</LanguageData>

@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <ABooks_TynansBook_Description.rulePack.rulesStrings>
+    <li>desc-&gt;[intro] [conceptExploration]. [writingQualitySentence]. [maybe_date][ending]</li>
+    <li>desc-&gt;[conceptExploration]: [impactStatement]. [writingQualitySentence]. [maybe_date][ending]</li>
+    <li>ending-&gt;\n\nLas lecciones internas son profundas, aunque el libro puede ser difícil de comprender completamente dependiendo de tu calidad de comprensión.</li>
+    <li>intro-&gt;Una guía [writingQualityAdjective] que invita a la reflexión sobre el bello arte de</li>
+    <li>intro-&gt;Una exploración [writingQualityAdjective] atractiva del mundo de</li>
+    <li>intro-&gt;Un manual [writingQualityAdjective] inspirador que detalla el delicado equilibrio de</li>
+    <li>conceptExploration-&gt;fundamentos del diseño de juegos que de alguna manera funcionan incluso cuando no deberían</li>
+    <li>conceptExploration-&gt;las complejidades de equilibrar la libertad del jugador y las mecánicas estrictas</li>
+    <li>conceptExploration-&gt;hacer que lo imposible parezca fácil en el ámbito del diseño interactivo</li>
+    <li>conceptExploration-&gt;mantener a los jugadores interesados incluso en sistemas mundanos</li>
+    <li>conceptExploration-&gt;entender por qué los jugadores son impredecibles, y por qué eso está bien</li>
+    <li>conceptExploration-&gt;cómo abrazar el caos y convertirlo en diversión, a través de pura fuerza de voluntad</li>
+    <li>contextStatement-&gt;extraído de años de experiencia en el campo del desarrollo de juegos, este libro ofrece</li>
+    <li>contextStatement-&gt;compilado tanto de los éxitos como de los desastres del diseño de juegos, esta guía explora</li>
+    <li>contextStatement-&gt;basado en luchas de desarrollo del mundo real, explora</li>
+    <li>contextStatement-&gt;ofreciendo reflexiones sinceras sobre lo que salió bien (y lo que salió mal), esta guía</li>
+    <li>contextStatement-&gt;lleno de perspicacia experta, este libro revela</li>
+    <li>impactStatement-&gt;Su sabiduría te guiará a través del frustrante pero gratificante mundo de la creación de juegos</li>
+    <li>impactStatement-&gt;Presenta ideas sobre cómo convertir el caos del desarrollo de juegos en experiencias pulidas</li>
+    <li>impactStatement-&gt;Imprescindible para cualquiera que espere hacer un juego que no se rompa a la mitad</li>
+    <li>impactStatement-&gt;Este libro te hará pensar sobre el diseño de maneras que no sabías que eran posibles</li>
+    <li>impactStatement-&gt;El consejo aquí te ayudará a conquistar incluso los sistemas de juego más complicados</li>
+    <li>writingQualityAdjective(quality==6)-&gt;elaborado magistralmente</li>
+    <li>writingQualityAdjective(quality==5)-&gt;brillantemente perspicaz</li>
+    <li>writingQualityAdjective(quality==4)-&gt;preciso</li>
+    <li>writingQualityAdjective(quality==3)-&gt;funcional</li>
+    <li>writingQualityAdjective(quality==2)-&gt;copia controvertida del original</li>
+    <li>writingQualityAdjective(quality==1)-&gt;copia mal hecha del original</li>
+    <li>writingQualityAdjective(quality==0)-&gt;pero traducción escandalosamente masacrada del original</li>
+    <li>writingQualitySentence(quality[greater_than]3)-&gt;Es [excellentDesc] que ofrece una claridad sorprendente en medio de su densa complejidad</li>
+    <li>writingQualitySentence(quality[less_than]4,quality[greater_than]1)-&gt;Es [decentDesc] que, a pesar de sus bordes ásperos, transmite una comprensión decente del tema</li>
+    <li>writingQualitySentence(quality[less_than]2)-&gt;Es [awfulDesc] y la mayor parte del significado de la obra maestra original se ha perdido</li>
+    <li>excellentDesc-&gt;un compendio brillante de sabiduría de diseño de juegos</li>
+    <li>excellentDesc-&gt;un recurso invaluable para cualquier aspirante a creador de juegos</li>
+    <li>excellentDesc-&gt;una guía cuidadosamente construida, rica en perspicacia,</li>
+    <li>excellentDesc-&gt;una exploración verdaderamente perspicaz y completa</li>
+    <li>excellentDesc-&gt;una obra maestra en el arte de la teoría del diseño</li>
+    <li>decentDesc-&gt;un manual sólido sobre los conceptos básicos del diseño de juegos</li>
+    <li>decentDesc-&gt;informativo, una guía muy completa</li>
+    <li>awfulDesc-&gt;una traducción muy pobre</li>
+    <li>awfulDesc-&gt;una copia de décima mano mal mantenida</li>
+    <li>awfulDesc-&gt;una traducción de una traducción de una traducción</li>
+    <li>awfulDesc-&gt;no es una buena copia, probablemente hecha por alguien que no estaba familiarizado con ella,</li>
+    <li>awfulDesc-&gt;una revisión mal hecha, introduciendo muchos sesgos que no estaban allí para empezar,</li>
+    <li>maybe_date-&gt;El libro fue revisado por última vez [date_form].</li>
+    <li>maybe_date-&gt;Escrito originalmente [date_form], de alguna manera ha seguido siendo relevante.</li>
+    <li>date_form-&gt;recientemente</li>
+    <li>date_form-&gt;hace varios años</li>
+    <li>date_form-&gt;durante el apogeo de la experimentación del diseño de juegos</li>
+    <li>date_form-&gt;en los primeros días de la teoría del desarrollo de juegos</li>
+  </ABooks_TynansBook_Description.rulePack.rulesStrings>
+</LanguageData>

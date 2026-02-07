@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <VRE_Sentence_FlirtingAttemptAccepted.rulePack.rulesStrings>
+    <li>sent-&gt;[RECIPIENT_nameDef] le agradeció a [INITIATOR_nameDef].</li>
+    <li>sent-&gt;[RECIPIENT_nameDef] se rió juguetonamente con [INITIATOR_nameDef].</li>
+    <li>sent-&gt;[RECIPIENT_nameDef] se excitó y le agradeció a [INITIATOR_nameDef] por el cumplido.</li>
+  </VRE_Sentence_FlirtingAttemptAccepted.rulePack.rulesStrings>
+  <VRE_Sentence_FlirtingAttemptRejected.rulePack.rulesStrings>
+    <li>sent-&gt;[RECIPIENT_nameDef] ignoró el cumplido.</li>
+    <li>sent-&gt;[RECIPIENT_nameDef] ignoró el coqueteo.</li>
+    <li>sent-&gt;[RECIPIENT_nameDef] le dio la espalda.</li>
+    <li>sent-&gt;[RECIPIENT_nameDef] se alejó.</li>
+    <li>sent-&gt;[RECIPIENT_nameDef] dio una respuesta mínima.</li>
+    <li>sent-&gt;[RECIPIENT_nameDef] no respondió.</li>
+    <li>sent-&gt;[RECIPIENT_nameDef] regañó a [INITIATOR_nameDef].</li>
+  </VRE_Sentence_FlirtingAttemptRejected.rulePack.rulesStrings>
+</LanguageData>

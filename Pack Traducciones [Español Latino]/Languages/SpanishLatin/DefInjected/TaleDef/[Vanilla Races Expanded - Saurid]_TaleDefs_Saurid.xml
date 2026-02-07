@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <VRESaurids_HyperthermicReveal.label>ralentización hipertérmica revelada</VRESaurids_HyperthermicReveal.label>
+  <VRESaurids_HyperthermicReveal.rulePack.rulesStrings>
+    <li>tale_noun-&gt;el sobrecalentamiento de [PAWN_nameDef]</li>
+    <li>image-&gt;[PAWN_nameFull] caminando penosamente por la arena [circumstance_group]</li>
+    <li>image-&gt;[PAWN_nameFull] acurrucándose a la sombra de un [TerrainFeature] [circumstance_group]</li>
+    <li>image-&gt;[PAWN_nameFull] buscando agua [circumstance_group]</li>
+    <li>image-&gt;[PAWN_nameFull] buscando sombra [circumstance_group]</li>
+    <li>image-&gt;[PAWN_nameFull] arrastrándose por la tierra cocida por el sol [circumstance_group]</li>
+    <li>circumstance_phrase-&gt;y cubierto de sudor</li>
+    <li>circumstance_phrase-&gt;con los labios secos y agrietados</li>
+    <li>circumstance_phrase-&gt;mientras vomita</li>
+    <li>desc_sentence-&gt;[Quantity_adjphrase] cadáveres de [Animal] disecados rodean el área.</li>
+    <li>desc_sentence-&gt;La ropa de [PAWN_nameDef] está hecha jirones y rota.</li>
+    <li>desc_sentence-&gt;Un sol abrasador se vislumbra en el fondo.</li>
+    <li>desc_sentence-&gt;La escena tiene lugar dentro de un desierto abrasador.</li>
+    <li>desc_sentence-&gt;La escena parece tener lugar en el interior, junto a un calentador.</li>
+    <li>desc_sentence-&gt;[Quantity_adjphrase] [Animal]s inmóviles rodean la escena.</li>
+    <li>desc_sentence-&gt;[Quantity_adjphrase] [Animal]s moribundos yacen en el suelo.</li>
+  </VRESaurids_HyperthermicReveal.rulePack.rulesStrings>
+  <VRESaurids_HypothermicReveal.label>ralentización hipotérmica revelada</VRESaurids_HypothermicReveal.label>
+  <VRESaurids_HypothermicReveal.rulePack.rulesStrings>
+    <li>tale_noun-&gt;la muerte por congelación de [PAWN_nameDef]</li>
+    <li>image-&gt;[PAWN_nameFull] caminando penosamente por la nieve [circumstance_group]</li>
+    <li>image-&gt;[PAWN_nameFull] acurrucándose junto a un [TerrainFeature] [circumstance_group]</li>
+    <li>image-&gt;[PAWN_nameFull] buscando una [Apparel] cálida [circumstance_group]</li>
+    <li>image-&gt;[PAWN_nameFull] agachándose junto a un fuego [circumstance_group]</li>
+    <li>image-&gt;[PAWN_nameFull] intentando encender un fuego [circumstance_group]</li>
+    <li>circumstance_phrase-&gt;mientras su cara se vuelve azul lentamente</li>
+    <li>circumstance_phrase-&gt;y temblando incontrolablemente</li>
+    <li>circumstance_phrase-&gt;mientras está cubierto de escarcha</li>
+    <li>circumstance_phrase-&gt;mientras exhala nubes de vaho</li>
+    <li>desc_sentence-&gt;[Quantity_adjphrase] cadáveres de [Animal] congelados rodean el área.</li>
+    <li>desc_sentence-&gt;La ropa de [PAWN_nameDef] está hecha jirones y gastada.</li>
+    <li>desc_sentence-&gt;Una fría luna azul se vislumbra en el fondo.</li>
+    <li>desc_sentence-&gt;La escena tiene lugar dentro de un bosque de [TreeType] cubierto de nieve.</li>
+    <li>desc_sentence-&gt;La escena parece tener lugar dentro de un congelador.</li>
+    <li>desc_sentence-&gt;[Quantity_adjphrase] [Animal]s temblorosos rodean la escena.</li>
+    <li>desc_sentence-&gt;[Quantity_adjphrase] [Animal]s moribundos yacen en el suelo.</li>
+  </VRESaurids_HypothermicReveal.rulePack.rulesStrings>
+</LanguageData>

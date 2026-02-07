@@ -1,16 +1,20 @@
 <?xml version='1.0' encoding='utf-8'?>
 <LanguageData>
+  <CommandResetTempDesc>Reinicia la temperatura objetivo a la temperatura ambiente.</CommandResetTempDesc>
   <Defaults_AcceptGoodwillDesc>Si deseas ser recompensado mediante la mejora de las relaciones de facción con {0}.\n\nSi está desactivado, {0} ofrecerá otros tipos de recompensas en su lugar.\n\nEsta configuración solo afecta a las misiones recién generadas.</Defaults_AcceptGoodwillDesc>
   <Defaults_AcceptRoyalFavor>Aceptar {0}</Defaults_AcceptRoyalFavor>
   <Defaults_AcceptRoyalFavorDesc>Si deseas ser recompensado con {0} de {1}.\n\nSi está desactivado, {1} ofrecerá otros tipos de recompensas en su lugar.\n\nEsta configuración solo afecta a las misiones recién llegadas.</Defaults_AcceptRoyalFavorDesc>
   <Defaults_AddAlternateSchedule>Añadir alternativo</Defaults_AddAlternateSchedule>
   <Defaults_AddNew>Añadir nuevo</Defaults_AddNew>
+  <Defaults_AdditionalSettings>Configuración adicional</Defaults_AdditionalSettings>
   <Defaults_AdultColonists>colonos adultos</Defaults_AdultColonists>
+  <Defaults_AdvancedWorkPrioritiesDesc>Personaliza la lógica para determinar la prioridad de trabajo para cada tipo de trabajo. Los nuevos colonos se asignarán automáticamente a prioridades basadas en tu lógica personalizada cuando se unan a tu colonia.</Defaults_AdvancedWorkPrioritiesDesc>
   <Defaults_Animals>animales</Defaults_Animals>
   <Defaults_ApparelPolicies>políticas de vestimenta</Defaults_ApparelPolicies>
   <Defaults_AutoHomeArea>Configuración de área de hogar automática predeterminada</Defaults_AutoHomeArea>
   <Defaults_AutoRebuild>Configuración de reconstrucción automática predeterminada</Defaults_AutoRebuild>
   <Defaults_BabyFeedingSettings>Configuración de alimentación para bebés</Defaults_BabyFeedingSettings>
+  <Defaults_BasicWorkPrioritiesDesc>Selecciona una prioridad de trabajo para cada tipo de trabajo. Los nuevos colonos se asignarán automáticamente a esas prioridades cuando se unan a tu colonia.</Defaults_BasicWorkPrioritiesDesc>
   <Defaults_BetterWorkbenchOptionsTitle>Configuración de Mejor Gestión de Mesas de Trabajo</Defaults_BetterWorkbenchOptionsTitle>
   <Defaults_BillsLimitedto15>Solo las primeras 15 tareas se aplicarán a las mesas de trabajo construidas en el juego. Para eliminar este límite, cambia la configuración global de tareas.</Defaults_BillsLimitedto15>
   <Defaults_BirtherParent>Progenitor gestante</Defaults_BirtherParent>
@@ -35,6 +39,7 @@
   <Defaults_DisableAll>Deshabilitar todas las categorías de configuración</Defaults_DisableAll>
   <Defaults_DragToReorder>Arrastra para reordenar.</Defaults_DragToReorder>
   <Defaults_DrugPolicies>políticas de drogas</Defaults_DrugPolicies>
+  <Defaults_EditSubrules>Editar subreglas</Defaults_EditSubrules>
   <Defaults_EmptyAreaTip>Esta área permitida estará vacía por defecto.</Defaults_EmptyAreaTip>
   <Defaults_Enable>Habilitar</Defaults_Enable>
   <Defaults_EnableAll>Habilitar todas las categorías de configuración</Defaults_EnableAll>
@@ -56,7 +61,6 @@
   <Defaults_Mechs>mecas</Defaults_Mechs>
   <Defaults_Medicine>Configuración de medicinas</Defaults_Medicine>
   <Defaults_MedicineAmountToCarry>Cantidad predeterminada de medicina para llevar</Defaults_MedicineAmountToCarry>
-  <Defaults_MedicineAssignments>Asignaciones de medicina</Defaults_MedicineAssignments>
   <Defaults_MedicineToCarry>Medicina predeterminada para llevar</Defaults_MedicineToCarry>
   <Defaults_MedicineToCarryTip>La medicina predeterminada que los peones llevarán cuando se les asigne.</Defaults_MedicineToCarryTip>
   <Defaults_MiscSettings>Predeterminados varios</Defaults_MiscSettings>
@@ -75,6 +79,7 @@
   <Defaults_PolicySavedAs>Política guardada como {0}.</Defaults_PolicySavedAs>
   <Defaults_PregnancyApproach>Enfoque de embarazo predeterminado</Defaults_PregnancyApproach>
   <Defaults_ReadingPolicies>políticas de lectura</Defaults_ReadingPolicies>
+  <Defaults_RecalculateWorkPriorities>Restablecer a las prioridades de trabajo predeterminadas</Defaults_RecalculateWorkPriorities>
   <Defaults_ReplaceWithDefaultSchedule>Reemplazar con horario predeterminado</Defaults_ReplaceWithDefaultSchedule>
   <Defaults_ResetAllSettings>Restablecer toda la configuración a la original</Defaults_ResetAllSettings>
   <Defaults_ResetTheseSettings>Restablecer esta configuración a la original</Defaults_ResetTheseSettings>
@@ -91,7 +96,7 @@
   <Defaults_ScheduleSavedAs>Horario guardado como {0}.</Defaults_ScheduleSavedAs>
   <Defaults_Schedules>Horarios de colonos</Defaults_Schedules>
   <Defaults_SearchResults>Resultados de la búsqueda</Defaults_SearchResults>
-  <Defaults_SetAsDefault>Establecer como predeterminado</Defaults_SetAsDefault>
+  <Defaults_SetAsDefault>Usar por defecto</Defaults_SetAsDefault>
   <Defaults_SetAsDefaultConfirmed>Configuración guardada como predeterminada.</Defaults_SetAsDefaultConfirmed>
   <Defaults_SetDefaults>Establecer predeterminados</Defaults_SetDefaults>
   <Defaults_SettingsCategoryDisabled>{0} están actualmente deshabilitados y no afectarán al juego.</Defaults_SettingsCategoryDisabled>
@@ -112,6 +117,22 @@
   <Defaults_WorkModeAdditional>Modo de trabajo de grupos de control de mecas adicionales</Defaults_WorkModeAdditional>
   <Defaults_WorkModeFirst>Modo de trabajo del primer grupo de control de mecas</Defaults_WorkModeFirst>
   <Defaults_WorkModeSecond>Modo de trabajo del segundo grupo de control de mecas</Defaults_WorkModeSecond>
+  <Defaults_WorkPrioritiesAdvancedMode>Modo de prioridades de trabajo avanzado</Defaults_WorkPrioritiesAdvancedMode>
+  <Defaults_WorkPriorityAddRule>Añadir regla</Defaults_WorkPriorityAddRule>
+  <Defaults_WorkPriorityAllowDecreaseToZero>Permitir deshabilitar este tipo de trabajo si la prioridad se reduce más allá de {0}</Defaults_WorkPriorityAllowDecreaseToZero>
+  <Defaults_WorkPriorityAllowIncreaseFromZero>Permitir habilitar este tipo de trabajo si no está ya habilitado</Defaults_WorkPriorityAllowIncreaseFromZero>
+  <Defaults_WorkPriorityCondition>Condición</Defaults_WorkPriorityCondition>
+  <Defaults_WorkPriorityDo>Activado</Defaults_WorkPriorityDo>
+  <Defaults_WorkPriorityDoNotDo>Apagado</Defaults_WorkPriorityDoNotDo>
+  <Defaults_WorkPriorityEffect>Efecto</Defaults_WorkPriorityEffect>
+  <Defaults_WorkPriorityRulesDesc>Las reglas se aplican en orden de arriba a abajo.</Defaults_WorkPriorityRulesDesc>
+  <Defaults_WorkPriorityRulesGlobal>Reglas globales</Defaults_WorkPriorityRulesGlobal>
+  <Defaults_WorkPriorityRulesGlobalDesc>Las reglas globales se aplican a todos los tipos de trabajo.</Defaults_WorkPriorityRulesGlobalDesc>
+  <Defaults_WorkPriorityRulesInvalid>Falta condición y/o efecto. Defínelos o elimina esta regla.</Defaults_WorkPriorityRulesInvalid>
+  <Defaults_WorkPriorityRulesSpecific>Reglas de {0}</Defaults_WorkPriorityRulesSpecific>
+  <Defaults_WorkPriorityRulesSpecificDesc>Cada tipo de trabajo puede tener sus propias reglas específicas. Estas reglas se aplican después de que se apliquen las reglas globales.</Defaults_WorkPriorityRulesSpecificDesc>
+  <Defaults_WorkPriorityTynansChoice>El juego decide</Defaults_WorkPriorityTynansChoice>
   <Defaults_WorkbenchBills>Tareas de la mesa de trabajo</Defaults_WorkbenchBills>
   <Defaults_WorldSettings>Configuración del mundo</Defaults_WorldSettings>
+  <Defaults_Years>años</Defaults_Years>
 </LanguageData>

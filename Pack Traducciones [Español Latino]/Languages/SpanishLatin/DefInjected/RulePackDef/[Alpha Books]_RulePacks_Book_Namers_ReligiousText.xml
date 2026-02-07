@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <ABooks_ReligiousText_Namer.rulePack.rulesStrings>
+    <li>title(p=4)-&gt;[religiousTextNameBasic]</li>
+    <li>title(p=2)-&gt;[religiousTextNameGrandiose]</li>
+    <li>title-&gt;[religiousTextNameSimple]</li>
+    <li>title-&gt;[religiousTextNameAuthored]</li>
+    <li>religiousTextNameBasic(p=6)-&gt;El Camino del [altStructureNameBasic]</li>
+    <li>religiousTextNameBasic(p=6)-&gt;El Código del [altStructureNameBasic]</li>
+    <li>religiousTextNameBasic(p=6)-&gt;Las Enseñanzas del [altStructureNameBasic]</li>
+    <li>religiousTextNameBasic(p=6)-&gt;Los Escritos del [altStructureNameBasic]</li>
+    <li>religiousTextNameBasic-&gt;Escritura Sagrada del [altStructureNameBasic]</li>
+    <li>religiousTextNameBasic-&gt;La Doctrina del [altStructureNameBasic]</li>
+    <li>religiousTextNameBasic-&gt;La Escritura del [altStructureNameBasic]</li>
+    <li>religiousTextNameBasic-&gt;Los Himnos del [altStructureNameBasic]</li>
+    <li>religiousTextNameBasic-&gt;Las Revelaciones del [altStructureNameBasic]</li>
+    <li>religiousTextNameBasic-&gt;La Palabra Sagrada del [altStructureNameBasic]</li>
+    <li>religiousTextNameGrandiose(p=6)-&gt;La Sabiduría Eterna del [altStructureNameBasic]</li>
+    <li>religiousTextNameGrandiose(p=6)-&gt;La Verdad Revelada del [altStructureNameBasic]</li>
+    <li>religiousTextNameGrandiose-&gt;El Testamento Celestial del [altStructureNameBasic]</li>
+    <li>religiousTextNameGrandiose-&gt;El Mandato Divino del [altStructureNameBasic]</li>
+    <li>religiousTextNameGrandiose-&gt;Las Crónicas del [altStructureNameBasic]</li>
+    <li>religiousTextNameGrandiose-&gt;Las Enseñanzas Eternas del [altStructureNameBasic]</li>
+    <li>religiousTextNameGrandiose-&gt;Las Profecías del [altStructureNameBasic]</li>
+    <li>religiousTextNameGrandiose-&gt;Las Leyes Inmutables del [altStructureNameBasic]</li>
+    <li>religiousTextNameGrandiose-&gt;El Edicto Sagrado del [altStructureNameBasic]</li>
+    <li>religiousTextNameGrandiose-&gt;El Pacto Sagrado del [altStructureNameBasic]</li>
+    <li>religiousTextNameSimple(p=6)-&gt;El [altStructureNameBasic]</li>
+    <li>religiousTextNameSimple(p=6)-&gt;Reflexiones sobre el [altStructureNameBasic]</li>
+    <li>religiousTextNameSimple-&gt;El Camino del [altStructureNameBasic]</li>
+    <li>religiousTextNameSimple-&gt;Meditaciones sobre el [altStructureNameBasic]</li>
+    <li>religiousTextNameSimple-&gt;Los Pergaminos del [altStructureNameBasic]</li>
+    <li>religiousTextNameSimple-&gt;Las Palabras del [altStructureNameBasic]</li>
+    <li>religiousTextNameSimple-&gt;La Sabiduría del [altStructureNameBasic]</li>
+    <li>religiousTextNameSimple-&gt;Versos del [altStructureNameBasic]</li>
+    <li>religiousTextNameSimple-&gt;El Testamento del [altStructureNameBasic]</li>
+    <li>religiousTextNameSimple-&gt;Las Leyes del [altStructureNameBasic]</li>
+    <li>religiousTextNameAuthored(p=6)-&gt;Las Revelaciones de [ANYPAWN_nameIndef] sobre el [altStructureNameBasic]</li>
+    <li>religiousTextNameAuthored(p=6)-&gt;Crónica del [altStructureNameBasic] de [ANYPAWN_nameIndef]</li>
+    <li>religiousTextNameAuthored-&gt;Testamento al [altStructureNameBasic] de [ANYPAWN_nameIndef]</li>
+    <li>religiousTextNameAuthored-&gt;Reflexiones sobre el [altStructureNameBasic] de [ANYPAWN_nameIndef]</li>
+    <li>religiousTextNameAuthored-&gt;Visiones del [altStructureNameBasic] de [ANYPAWN_nameIndef]</li>
+    <li>religiousTextNameAuthored-&gt;Himnos del [altStructureNameBasic] de [ANYPAWN_nameIndef]</li>
+    <li>religiousTextNameAuthored-&gt;La Filosofía de [ANYPAWN_nameIndef] sobre el [altStructureNameBasic]</li>
+    <li>religiousTextNameAuthored-&gt;Los Escritos Sagrados de [ANYPAWN_nameIndef] sobre el [altStructureNameBasic]</li>
+    <li>religiousTextNameAuthored-&gt;Las Profecías de [ANYPAWN_nameIndef] sobre el [altStructureNameBasic]</li>
+    <li>religiousTextNameAuthored-&gt;Perspectivas Divinas sobre el [altStructureNameBasic] de [ANYPAWN_nameIndef]</li>
+    <li>altStructureNameBasic-&gt;Sistema [subject_primary]</li>
+    <li>altStructureNameBasic-&gt;Marco [subject_primary]</li>
+    <li>altStructureNameBasic-&gt;Doctrina [subject_primary]</li>
+    <li>altStructureNameBasic-&gt;Orden [subject_primary]</li>
+    <li>altStructureNameBasic-&gt;Esquema [subject_primary]</li>
+    <li>altStructureNameBasic-&gt;Organización [subject_primary]</li>
+    <li>altStructureNameBasic-&gt;Cuerpo [subject_primary]</li>
+    <li>altStructureNameBasic-&gt;Institución [subject_primary]</li>
+    <li>altStructureNameBasic-&gt;Red [subject_primary]</li>
+    <li>altStructureNameBasic-&gt;Jerarquía [subject_primary]</li>
+  </ABooks_ReligiousText_Namer.rulePack.rulesStrings>
+</LanguageData>

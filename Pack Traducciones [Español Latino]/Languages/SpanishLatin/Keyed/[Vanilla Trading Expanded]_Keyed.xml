@@ -15,7 +15,7 @@
   <VTE.BankFees>Tarifas bancarias: {0}%</VTE.BankFees>
   <VTE.BankFeesBasedOn>Basado en {0} de buena voluntad con {FACTION_name}</VTE.BankFeesBasedOn>
   <VTE.BaseBankName>Banco de {FACTION_name}</VTE.BaseBankName>
-  <VTE.Breakdown>Desglose</VTE.Breakdown>
+  <VTE.Breakdown>Desglose de transacción</VTE.Breakdown>
   <VTE.BreakdownBankDesc>Realizar transacciones incurrirá en un cargo basado en la tarifa bancaria actual</VTE.BreakdownBankDesc>
   <VTE.BreakdownStockMarketDesc>Comprar acciones de naves comerciales puede ser arriesgado. Sigue las noticias de cerca para saber cómo le va a la compañía en la que has invertido.</VTE.BreakdownStockMarketDesc>
   <VTE.CancelContract>Cancelar contrato</VTE.CancelContract>
@@ -67,7 +67,7 @@
   <VTE.MaximumPriceFluctuations>Limitaciones de fluctuación de precios</VTE.MaximumPriceFluctuations>
   <VTE.MinimumOfMarketValue>Cambio negativo: {0}</VTE.MinimumOfMarketValue>
   <VTE.MoneyInBanks>Dinero en bancos: {0}</VTE.MoneyInBanks>
-  <VTE.MoneyInBanksAfter>Dinero en bancos después</VTE.MoneyInBanksAfter>
+  <VTE.MoneyInBanksAfter>Dinero en bancos</VTE.MoneyInBanksAfter>
   <VTE.MoneyToSpend>Dinero a gastar: {0}</VTE.MoneyToSpend>
   <VTE.MoneyToTransfer>Dinero a transferir: {0}</VTE.MoneyToTransfer>
   <VTE.MortgageLoan>Préstamo hipotecario</VTE.MortgageLoan>
@@ -88,7 +88,7 @@
   <VTE.PlayerTransactionImpactMultiplierOption>Mult. de impacto de transacción del jugador en la fluctuación de precios:</VTE.PlayerTransactionImpactMultiplierOption>
   <VTE.PriceHistory>Historial de precios de {0}</VTE.PriceHistory>
   <VTE.Profit>Ganancia</VTE.Profit>
-  <VTE.ProfitLoss>Ganancia/Pérdida</VTE.ProfitLoss>
+  <VTE.ProfitLoss>Ganancia\nPérdida</VTE.ProfitLoss>
   <VTE.QuickCashLoan>Préstamo rápido</VTE.QuickCashLoan>
   <VTE.RecentChange>Cambio reciente</VTE.RecentChange>
   <VTE.Repay>Pagar</VTE.Repay>
@@ -112,9 +112,9 @@
   <VTE.TakeLoan>Tomar préstamo</VTE.TakeLoan>
   <VTE.TimeUntilTheEnd>Tiempo hasta el final</VTE.TimeUntilTheEnd>
   <VTE.Total>Total</VTE.Total>
-  <VTE.TransactionCost>Costo de transacción</VTE.TransactionCost>
+  <VTE.TransactionCost>Costo</VTE.TransactionCost>
   <VTE.TransactionCostToPay>Costo de transacción a pagar: {0}</VTE.TransactionCostToPay>
-  <VTE.TransactionGain>Ganancia de transacción</VTE.TransactionGain>
+  <VTE.TransactionGain>Ganancia</VTE.TransactionGain>
   <VTE.TransactionGainToTransfer>Ganancia de transacción a transferir: {0}</VTE.TransactionGainToTransfer>
   <VTE.Value>Valor</VTE.Value>
   <VTE.ViewMarketPrices>Ver precios</VTE.ViewMarketPrices>

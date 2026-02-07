@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RC_AllowFilthyRoomEvent>Permitir lógica de habitación sucia.</RC_AllowFilthyRoomEvent>
+  <RC_AllowFilthyRoomEventDesc>Habilitar / deshabilitar para permitir el evento de habitación sucia.\n\nSi está habilitado, después de un cierto número de comprobaciones sucesivas con suficiente suciedad en cualquier habitación, aparecerán ratas en esa habitación. Deshabilítalo si prefieres no usar esto.</RC_AllowFilthyRoomEventDesc>
+  <RC_AllowMessages>Permitir mensajes.</RC_AllowMessages>
+  <RC_AllowMessagesDesc>Habilitar / deshabilitar mensajes de alerta en la parte superior izquierda de la pantalla.</RC_AllowMessagesDesc>
+  <RC_AnimalWorkHeader>Trabajo con animales</RC_AnimalWorkHeader>
+  <RC_BetterMealProduced>¡La pasión de {0} por su trabajo en la cocina ha llevado a una gloriosa mejora culinaria!</RC_BetterMealProduced>
+  <RC_BonusButcherProductChance>Prob. de producto extra</RC_BonusButcherProductChance>
+  <RC_BonusButcherProductChanceDesc>Ajustar este control deslizante altera la probabilidad de encontrar carne adicional de otros colonos mientras se descuartiza un animal depredador. (Porcentaje de probabilidad antes de tener en cuenta las habilidades relevantes promedio de los colonos).</RC_BonusButcherProductChanceDesc>
+  <RC_BonusMealProduct>{0} ha transformado hábilmente hasta el último bocado de sustento en {1}.</RC_BonusMealProduct>
+  <RC_ButcherMessRadius>Radio del desastre</RC_ButcherMessRadius>
+  <RC_ButcherMessRadiusDesc>Ajustar este control deslizante altera el radio en el que se arrojará sangre si un colono es realmente malo descuartizando.</RC_ButcherMessRadiusDesc>
+  <RC_ButcheringFailureChance>Probabilidad de fallo</RC_ButcheringFailureChance>
+  <RC_ButcheringFailureChanceDesc>Ajustar este control deslizante altera la probabilidad de que un colono cause un desastre absoluto mientras descuartiza un cadáver. (Porcentaje de probabilidad antes de tener en cuenta las habilidades relevantes promedio de los colonos).</RC_ButcheringFailureChanceDesc>
+  <RC_ButcheringHeader>Descuartizar</RC_ButcheringHeader>
+  <RC_CookingBetterMealChance>Prob. de mejor comida</RC_CookingBetterMealChance>
+  <RC_CookingBetterMealChanceDesc>Ajustar este control deslizante altera la probabilidad de que un colono cocine una comida de mayor calidad. (Porcentaje de probabilidad antes de tener en cuenta las habilidades relevantes promedio de los colonos).</RC_CookingBetterMealChanceDesc>
+  <RC_CookingFailureChance>Probabilidad de fallo</RC_CookingFailureChance>
+  <RC_CookingFailureChanceDesc>Ajustar este control deslizante altera la probabilidad de que un colono falle completamente al cocinar una comida en una estufa. (Porcentaje de probabilidad antes de tener en cuenta las habilidades relevantes promedio de los colonos).</RC_CookingFailureChanceDesc>
+  <RC_CookingHeader>Cocina</RC_CookingHeader>
+  <RC_CrematingHeader>Cremación</RC_CrematingHeader>
+  <RC_CrematingInjuryChance>Prob. de lesión</RC_CrematingInjuryChance>
+  <RC_CrematingInjuryChanceDesc>Ajustar este control deslizante altera la probabilidad de que un colono se lesione mientras usa un crematorio. (Porcentaje de probabilidad antes de tener en cuenta las habilidades relevantes promedio de los colonos).</RC_CrematingInjuryChanceDesc>
+  <RC_DirtyRoomsAndFilthyRats>¿Quieres ratas? Porque así es como consigues ratas.</RC_DirtyRoomsAndFilthyRats>
+  <RC_ElectricalRepairFailure>¡{0} ha estropeado algunas reparaciones eléctricas!</RC_ElectricalRepairFailure>
+  <RC_ElectricalRepairFailureChance>Probabilidad de fallo</RC_ElectricalRepairFailureChance>
+  <RC_ElectricalRepairFailureChanceDesc>Ajustar este control deslizante altera la probabilidad de que un colono se electrocute mientras repara equipos eléctricos con componentes. Puede... que incluso haya una explosión secundaria si el destino así lo exige. (Porcentaje de probabilidad antes de tener en cuenta las habilidades relevantes promedio de los colonos).</RC_ElectricalRepairFailureChanceDesc>
+  <RC_ElectricalRepairFireChance>Prob. de incendio por fallo</RC_ElectricalRepairFireChance>
+  <RC_ElectricalRepairFireChanceDesc>Ajustar este control deslizante altera la probabilidad de que comience un incendio en el lugar de las reparaciones eléctricas en curso.</RC_ElectricalRepairFireChanceDesc>
+  <RC_ElectricalRepairShortCircuitChance>Prob. de cortocircuito fallo</RC_ElectricalRepairShortCircuitChance>
+  <RC_ElectricalRepairShortCircuitChanceDesc>Ajustar este control deslizante altera la probabilidad de un evento de cortocircuito más grande como resultado de reparaciones eléctricas fallidas.</RC_ElectricalRepairShortCircuitChanceDesc>
+  <RC_FailedCookingFireSize>Tamaño del fuego por fallo</RC_FailedCookingFireSize>
+  <RC_FailedCookingFireSizeDesc>Ajustar este control deslizante altera el tamaño de un incendio si un colono falla mientras cocina e incendia la cocina.</RC_FailedCookingFireSizeDesc>
+  <RC_FilthyRoomConfigHeader>Configuración de habitación sucia</RC_FilthyRoomConfigHeader>
+  <RC_FilthyRoomCooldownTicks>Tiempo de enfriamiento</RC_FilthyRoomCooldownTicks>
+  <RC_FilthyRoomCooldownTicksDesc>Ajustar este control deslizante altera cuánto tiempo (en ticks, 60 ticks = 1 segundo) dura el enfriamiento de un evento de aparición de animales en una habitación sucia al siguiente.\n\nEsto es para ayudar con el equilibrio. El valor predeterminado es 420,000 o 7 días en el juego.</RC_FilthyRoomCooldownTicksDesc>
+  <RC_FilthyRoomPestSpawnRange>Cantidad de plagas</RC_FilthyRoomPestSpawnRange>
+  <RC_FilthyRoomPestSpawnRangeDesc>Establece un número mínimo y máximo para el posible número de animales plaga que aparecerán si alguno debe aparecer debido a la suciedad no limpiada.\n\nEl valor máximo está limitado a 10.</RC_FilthyRoomPestSpawnRangeDesc>
+  <RC_FilthyRoomSampleChecks>Comprobaciones de muestra</RC_FilthyRoomSampleChecks>
+  <RC_FilthyRoomSampleChecksDesc>Ajustar este control deslizante altera el número de comprobaciones sucesivas y exitosas de habitación sucia requeridas para que aparezcan plagas en cualquier habitación. Por ejemplo, si se establece en 4, entonces la primera comprobación y 3 comprobaciones consecutivas deben pasar (lo que significa que una habitación ha estado excesivamente sucia 4 veces seguidas). Si falla alguna comprobación, el contador se reinicia a 0 y una vez más necesitamos 4 comprobaciones consecutivas para ver si una habitación está lo suficientemente sucia como para generar plagas.</RC_FilthyRoomSampleChecksDesc>
+  <RC_FilthyRoomSampleInterval>Intervalo de muestra</RC_FilthyRoomSampleInterval>
+  <RC_FilthyRoomSampleIntervalDesc>Ajustar este control deslizante altera la duración del tiempo entre cada comprobación para ver si alguna habitación de la colonia está lo suficientemente sucia como para generar plagas.\n\nMantén esto por encima de 30,000 para un buen rendimiento. Realmente no quieres estar comprobando todo más que eso. 45,000 ticks es el valor predeterminado para 3/4 de un día.</RC_FilthyRoomSampleIntervalDesc>
+  <RC_FilthyRoomSpawnThreshold>Umbral de suciedad</RC_FilthyRoomSpawnThreshold>
+  <RC_FilthyRoomSpawnThresholdDesc>Ajustar este control deslizante altera el número de piezas de suciedad real requeridas para estar presentes en cualquier habitación para que aparezcan plagas si han tenido éxito suficientes comprobaciones de habitación sucia.</RC_FilthyRoomSpawnThresholdDesc>
+  <RC_FireInKitchen>¡Las malas habilidades culinarias de {0} han provocado un incendio en la cocina!</RC_FireInKitchen>
+  <RC_HorriblyUncleanKitchen>{0} ha hecho un desastre absoluto mientras descuartizaba un animal.</RC_HorriblyUncleanKitchen>
+  <RC_HurtByFarmAnimal>{0} fue herido por un animal mientras trabajaba en la granja.</RC_HurtByFarmAnimal>
+  <RC_HurtByFarmAnimalChance>Probabilidad de lesión</RC_HurtByFarmAnimalChance>
+  <RC_HurtByFarmAnimalChanceDesc>Ajustar este control deslizante altera la probabilidad de que un colono sea herido por animales de granja mientras recolecta recursos. (Porcentaje de probabilidad antes de tener en cuenta las habilidades relevantes promedio de los colonos).</RC_HurtByFarmAnimalChanceDesc>
+  <RC_InjuredByApparelChance>Prob. lesión por vestimenta</RC_InjuredByApparelChance>
+  <RC_InjuredByApparelChanceDesc>Ajustar este control deslizante altera la probabilidad de que un colono sea herido por... la vestimenta.</RC_InjuredByApparelChanceDesc>
+  <RC_InjuryInKitchen>¡{0} se ha lastimado en la cocina!</RC_InjuryInKitchen>
+  <RC_InjuryWhileCremating>{0} se quemó mientras operaba el crematorio.</RC_InjuryWhileCremating>
+  <RC_InjuryWhileDonningArmor>{0} se lesionó mientras se ponía {1}.</RC_InjuryWhileDonningArmor>
+  <RC_MiscStuffHeader>Cosas varias</RC_MiscStuffHeader>
+  <RC_ModName>Random Chance</RC_ModName>
+  <RC_PlantHarvestAgitatedWildAnimalChance>Prob. animal salvaje agitado</RC_PlantHarvestAgitatedWildAnimalChance>
+  <RC_PlantHarvestAgitatedWildAnimalChanceDesc>Ajustar este control deslizante altera la probabilidad de que un colono sea atacado por animales salvajes mientras busca recursos vegetales crudos. Solo los animales permitidos en el bioma actual pueden aparecer como agitados. (Porcentaje de probabilidad antes de tener en cuenta las habilidades relevantes promedio de los colonos).</RC_PlantHarvestAgitatedWildAnimalChanceDesc>
+  <RC_PlantHarvestingFindEggsChance>Prob. de huevo extra</RC_PlantHarvestingFindEggsChance>
+  <RC_PlantHarvestingFindEggsChanceDesc>Ajustar este control deslizante altera la probabilidad de que un colono tenga suerte y encuentre huevos de animales mientras busca recursos vegetales crudos. Solo se pueden encontrar huevos de animales permitidos en el bioma actual. (Porcentaje de probabilidad antes de tener en cuenta las habilidades relevantes promedio de los colonos).</RC_PlantHarvestingFindEggsChanceDesc>
+  <RC_PlantWorkAngryMomma>{0} ha enfurecido a un {1} mientras cuidaba una planta.</RC_PlantWorkAngryMomma>
+  <RC_PlantWorkFoundEggs>{0} encontró {1} mientras cuidaba una planta.</RC_PlantWorkFoundEggs>
+  <RC_PlantWorkHeader>Trabajo con plantas</RC_PlantWorkHeader>
+  <RC_PredatorButcheryBonusProduct>{0} ha descubierto {1} mientras descuartizaba cuidadosamente un {2}.</RC_PredatorButcheryBonusProduct>
+  <RC_RandomStoneCuttingProduct>{0} ha desenterrado {2} mientras cincelaba un {1}.</RC_RandomStoneCuttingProduct>
+  <RC_RepairingHeader>Reparación</RC_RepairingHeader>
+  <RC_SwitchFlickingSpreeChance>Prob. racha de interruptores</RC_SwitchFlickingSpreeChance>
+  <RC_SwitchFlickingSpreeChanceDesc>Ajustar este control deslizante altera la probabilidad de que un colono entre en una racha de encender y apagar interruptores.</RC_SwitchFlickingSpreeChanceDesc>
+</LanguageData>

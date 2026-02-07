@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <Outcome>Resultado</Outcome>
+  <RotR_DiplomaticMarriage>Matrimonio Diplomático Entrante</RotR_DiplomaticMarriage>
+  <RotR_DiplomaticMarriageAway>Matrimonio Diplomático Saliente</RotR_DiplomaticMarriageAway>
+  <RotR_DiplomaticMarriageAway_ExpectedGoodWill>Buena voluntad esperada: {0}</RotR_DiplomaticMarriageAway_ExpectedGoodWill>
+  <RotR_DiplomaticMarriageAway_IntroInfo>Ha llegado un mensaje de la facción vecina, {faction_name}. Proponen un matrimonio diplomático, preguntando si te gustaría enviar a un colono a su asentamiento como señal de buena voluntad y para fortalecer los lazos.\n\nSi aceptas, el colono elegido dejará tu facción y se casará con {suitor_nameDef}.</RotR_DiplomaticMarriageAway_IntroInfo>
+  <RotR_DiplomaticMarriageAway_IntroInfo_PlayerForced>Ofreciste un matrimonio diplomático a una facción vecina, {faction_name}. Preguntan si te gustaría enviar a un colono a su asentamiento como señal de buena voluntad y para fortalecer los lazos.\n\nSi aceptas, el colono elegido dejará tu facción y se casará con {suitor_nameDef}.</RotR_DiplomaticMarriageAway_IntroInfo_PlayerForced>
+  <RotR_DiplomaticMarriageCaravan_ActionDesc>Enviar al prometido para el matrimonio diplomático.</RotR_DiplomaticMarriageCaravan_ActionDesc>
+  <RotR_DiplomaticMarriageCaravan_ActionLabel>Matrimonio diplomático</RotR_DiplomaticMarriageCaravan_ActionLabel>
+  <RotR_DiplomaticMarriageCaravan_Confirm>¿Enviar a {betrothed_nameDef} para matrimonio diplomático? Se unirá a otra facción.</RotR_DiplomaticMarriageCaravan_Confirm>
+  <RotR_DiplomaticMarriageCaravan_Join>{betrothed_nameDef} se ha unido a {faction_name}.</RotR_DiplomaticMarriageCaravan_Join>
+  <RotR_DiplomaticMarriageCaravan_NoBetrothedInCaravan>{betrothed_nameDef} no está en la caravana.</RotR_DiplomaticMarriageCaravan_NoBetrothedInCaravan>
+  <RotR_DiplomaticMarriageHoveringToolTips>Clic izquierdo para seleccionar, clic derecho para inspeccionar.</RotR_DiplomaticMarriageHoveringToolTips>
+  <RotR_DiplomaticMarriage_AcceptButton>Aceptar</RotR_DiplomaticMarriage_AcceptButton>
+  <RotR_DiplomaticMarriage_IntroInfo>Ha llegado un mensaje de la facción vecina, {faction_name}. Proponen un matrimonio diplomático, ofreciendo enviar a uno de sus residentes, {suitor_nameDef}, para unirse a nuestra colonia como señal de buena voluntad y para fortalecer nuestros lazos.</RotR_DiplomaticMarriage_IntroInfo>
+  <RotR_DiplomaticMarriage_IntroInfo_PlayerForced>Solicitaste un matrimonio diplomático de una facción vecina, {faction_name}. Aceptan enviar a uno de sus residentes, {suitor_nameDef}, para unirse a tu colonia como señal de buena voluntad y para fortalecer los lazos.</RotR_DiplomaticMarriage_IntroInfo_PlayerForced>
+  <RotR_DiplomaticMarriage_NotEligible>Tal conexión romántica podría no estar en las cartas.</RotR_DiplomaticMarriage_NotEligible>
+  <RotR_DiplomaticMarriage_RejectButton>Rechazar</RotR_DiplomaticMarriage_RejectButton>
+  <RotR_DiplomaticMarriage_WaitForArrival>{suitor_nameDef} llegará en 1 día.</RotR_DiplomaticMarriage_WaitForArrival>
+  <RotR_QuestFailed_CriticalPawnLost>Misión fallida: peón crítico {pawn_nameDef} perdido.</RotR_QuestFailed_CriticalPawnLost>
+  <RotR_Quest_ACAcceptButtonLabel>Bienvenido a la nueva familia</RotR_Quest_ACAcceptButtonLabel>
+  <RotR_Quest_ACAcceptOutcome>{father_nameDef} y {mother_nameDef} ahora se convierten en los padres oficiales de {child_nameDef}.</RotR_Quest_ACAcceptOutcome>
+  <RotR_Quest_ACRejectButtonLabel>Quizás no sea una buena idea</RotR_Quest_ACRejectButtonLabel>
+  <RotR_Quest_ACRejectOutcome>{father_nameDef} y {mother_nameDef} declinan ser los padres oficiales de {child_nameDef}.</RotR_Quest_ACRejectOutcome>
+  <RotR_Quest_AHRAcceptButtonLabel>El amor encontrará un camino</RotR_Quest_AHRAcceptButtonLabel>
+  <RotR_Quest_AHRAcceptedOutcome>{partner_nameDef} trabajará para ti durante su estancia temporal.\n\nSin embargo, puede optar por irse eventualmente.\n\nGestiona su integración.</RotR_Quest_AHRAcceptedOutcome>
+  <RotR_Quest_AHRHostedBrokeUp>A pesar de la alegría inicial del reencuentro, {partner_nameDef} y {colonist_nameDef} se dan cuenta de que demasiado ha cambiado entre ellos.\n\nEs hora de seguir adelante.</RotR_Quest_AHRHostedBrokeUp>
+  <RotR_Quest_AHRHostedJoined>Después de un período de estancia temporal, {partner_nameDef} decide hacer permanente su reunión.\n\nAbrazados por la comunidad y reavivando su romance pasado, se comprometen a una nueva vida en la colonia.</RotR_Quest_AHRHostedJoined>
+  <RotR_Quest_AHRHostedLeaving>Después de una reunión sincera pero breve, {partner_nameDef} decide dejar la colonia.\n\nCon emociones encontradas y una despedida final, se pone en marcha una vez más.</RotR_Quest_AHRHostedLeaving>
+  <RotR_Quest_AHRRejectButtonLabel>Lo siento, {colonist_nameDef}</RotR_Quest_AHRRejectButtonLabel>
+  <RotR_Quest_AHRRejectedOutcome>Rechazaste a {partner_nameDef}.\n\nCon una aceptación tranquila, se da la vuelta y comienza su viaje de regreso, desapareciendo en el paisaje tan silenciosamente como llegó.</RotR_Quest_AHRRejectedOutcome>
+  <RotR_Quest_AHRRejectedOutcome_IndifferentColonist>{colonist_nameDef} parece sorprendentemente no afectado/a.\n\nParece que el tiempo y la distancia han enfriado las emociones una vez ardientes, dejándole indiferente a la partida.</RotR_Quest_AHRRejectedOutcome_IndifferentColonist>
+  <RotR_Quest_AHRRejectedOutcome_SadColonist>Mientras su amante se va, el rostro de {colonist_nameDef} cae, ensombrecido por una profunda tristeza.\n\nEl rechazo reabre viejas heridas, dejándole lidiando con una mezcla de dolor y arrepentimiento.</RotR_Quest_AHRRejectedOutcome_SadColonist>
+  <RotR_Quest_BoFAcceptButtonLabel>Abrazar</RotR_Quest_BoFAcceptButtonLabel>
+  <RotR_Quest_BoFAcceptedOutcome>&lt;i&gt;"De las cadenas rompemos una nueva salvación"&lt;/i&gt;\n\n{slave_nameDef} se ha unido a la colonia.</RotR_Quest_BoFAcceptedOutcome>
+  <RotR_Quest_BoFDismissButtonLabel>Despedir</RotR_Quest_BoFDismissButtonLabel>
+  <RotR_Quest_BoFRejectedOutcome>&lt;i&gt;"En una jaula de dolor el amor lucha por liberarse"&lt;/i&gt;\n\nLa propuesta de unión es rechazada.</RotR_Quest_BoFRejectedOutcome>
+  <RotR_Quest_CrushIgnoreButtonLabel>Solo una ilusión</RotR_Quest_CrushIgnoreButtonLabel>
+  <RotR_Quest_CrushIgnoredOutcome>Para mantener su relación actual sin complicarla con matices románticos, {initiator_nameDef} da un paso atrás.\n\n{initiator_pronoun} necesita más tiempo para averiguar si es una ilusión forjada por la supervivencia y las experiencias compartidas.</RotR_Quest_CrushIgnoredOutcome>
+  <RotR_Quest_CrushInitiatedOutcome>Animado/a a perseguir sus sentimientos, el colono enamorado, {initiator_nameDef}, está haciendo un intento sincero de romance hacia {other_nameDef}.</RotR_Quest_CrushInitiatedOutcome>
+  <RotR_Quest_CrushTryRomanceButtonLabel>Ser valiente</RotR_Quest_CrushTryRomanceButtonLabel>
+  <RotR_Quest_DiplomaticMarriageAway_QuestInfo>Has acordado enviar a {0} a {1} para casarse con {2}. El tiempo estimado de viaje es de {3} días.</RotR_Quest_DiplomaticMarriageAway_QuestInfo>
+  <RotR_Quest_DiplomaticMarriage_Followup_NewBorn>{faction_name}, llena de alegría al ver a los niños recién nacidos {baby_nameDef}, promete enviar regalos en honor a la ocasión.</RotR_Quest_DiplomaticMarriage_Followup_NewBorn>
+  <RotR_Quest_DiplomaticMarriage_Followup_SuitorKilled>{faction_name} está furiosa de que {suitor_nameDef} pereciera bajo la vigilancia de tu colonia, culpándote por no garantizar su seguridad.</RotR_Quest_DiplomaticMarriage_Followup_SuitorKilled>
+  <RotR_Quest_Disappointed>Los siguientes colonos están decepcionados</RotR_Quest_Disappointed>
+  <RotR_Quest_FTAReMarryMessage>Después de soportar desafíos que amenazaban la vida lado a lado, la pareja divorciada, {initiator_nameFull} y {recipient_nameFull}, descubrieron una fuerza y comprensión renovadas el uno en el otro.\n\nCon los agravios pasados desvaneciéndose en las sombras de sus pruebas, han decidido volver a casarse, prometiendo apoyarse y apreciarse mutuamente de nuevo en medio de la incertidumbre de su mundo.</RotR_Quest_FTAReMarryMessage>
+  <RotR_Quest_FromTheAshes>De las Cenizas</RotR_Quest_FromTheAshes>
+  <RotR_Quest_KTExplain>No se preocupe, el riñón que vendo no es mío. Es de un... amigo. Sí, un amigo muy generoso.</RotR_Quest_KTExplain>
+  <RotR_Quest_KTExplainSituation>Son los asaltantes. Han sido implacables, y hemos agotado todos nuestros recursos solo tratando de mantenerlos a raya.\n\nNecesitamos comprar protección, reparar nuestras defensas... cualquier cosa para mantener a mi familia a salvo. No tengo opciones.</RotR_Quest_KTExplainSituation>
+  <RotR_Quest_KTExplainSituation_Refuse>Es mejor si te quedas con tu riñón. Confiar en medidas tan extremas\nno resolverá tus problemas a largo plazo.</RotR_Quest_KTExplainSituation_Refuse>
+  <RotR_Quest_KTExplainSituation_Trade>Está bien, haremos esto. Pero solo porque parece que no tienes opciones.</RotR_Quest_KTExplainSituation_Trade>
+  <RotR_Quest_KTExplain_QuestionSituation>Cuéntame más sobre tu situación. ¿Por qué necesitas los fondos?</RotR_Quest_KTExplain_QuestionSituation>
+  <RotR_Quest_KTExplain_Refuse>Eso suena... altamente poco ético. Creo que pasaremos.</RotR_Quest_KTExplain_Refuse>
+  <RotR_Quest_KTExplain_Trade>Un riñón es un riñón, supongo. Hagamos el intercambio.</RotR_Quest_KTExplain_Trade>
+  <RotR_Quest_KTIntro>(Un comerciante cansado pero decidido. Sus ojos, sombreados bajo una frente curtida, parpadean con una mezcla de esperanza y desesperación.)\n\nPor favor, necesito su ayuda. He venido a ofrecer algo valioso a cambio de su asistencia.\n\nMi familia y nuestro asentamiento están en una situación desesperada, y necesitamos los fondos urgentemente.\n\n¿Qué le parecería comprar un riñón en perfecto estado por un precio más barato? Solo ligeramente usado, se lo aseguro.\n\n({trader_pronoun} lo presenta con un aire de indiferencia.)</RotR_Quest_KTIntro>
+  <RotR_Quest_KTIntro_Question>¿Cómo es que tienes un... riñón extra?</RotR_Quest_KTIntro_Question>
+  <RotR_Quest_KTIntro_Refuse>No estamos en el mercado de órganos en este momento, pero gracias por la oferta.</RotR_Quest_KTIntro_Refuse>
+  <RotR_Quest_KTIntro_Trade>Podríamos usar el órgano extra. Hagamos un trato.</RotR_Quest_KTIntro_Trade>
+  <RotR_Quest_KTRefuseOutcome>Un destello de decepción cruza el rostro de {trader_nameDef}, rápidamente enmascarado mientras asentía en reconocimiento de tu decisión.\n\nSin mirar atrás, recogió sus pertenencias y se alejó, sus movimientos deliberados y lentos.</RotR_Quest_KTRefuseOutcome>
+  <RotR_Quest_KTRefused_LastTry>Por favor, entiendo sus reservas, pero esto no es solo un intercambio para mí, es sobre supervivencia.\n\nMi asentamiento... estamos al borde. Sin este intercambio, no sé si lo lograremos.</RotR_Quest_KTRefused_LastTry>
+  <RotR_Quest_KTRefused_LastTry_Refuse>Lo siento, pero nuestra decisión es definitiva.</RotR_Quest_KTRefused_LastTry_Refuse>
+  <RotR_Quest_KTRefused_LastTry_Trade>Tu situación nos ha conmovido, y hemos reconsiderado. Aceptaremos el intercambio</RotR_Quest_KTRefused_LastTry_Trade>
+  <RotR_Quest_KTTradeOutcome>&lt;i&gt;"Dio un pedazo para que pudieran mantenerse en pie"&lt;/i&gt;\n\nLa tensión del comerciante disminuyó al finalizar el intercambio, sus hombros cayendo en un suspiro de alivio. {trader_nameDef} esbozó una breve sonrisa de agradecimiento hacia tus colonos antes de darse la vuelta para irse, sus pasos más ligeros que cuando llegó.</RotR_Quest_KTTradeOutcome>
+  <RotR_Quest_KidneyTrade_Title>Comercio de Riñones</RotR_Quest_KidneyTrade_Title>
+  <RotR_Quest_NoLongerLovers>{lover_nameDef} y {slave_nameDef} ya no están en una relación.</RotR_Quest_NoLongerLovers>
+  <RotR_Quest_OLAcceptedOutcome>&lt;i&gt;"Encontrados a la sombra de un viejo roble\nDos corazones solitarios unidos en misterio\nSin padres que guíen ni hogar que buscar\nEncontraron amor en silencio donde las palabras son débiles"&lt;/i&gt;\n\nHas dado la bienvenida a {boy_nameDef} y {girl_nameDef} a tu colonia.\n\nLos huérfanos están llenos de alegría y gratitud, viendo esto como un nuevo comienzo, ansiosos por comenzar a contribuir a la comunidad.</RotR_Quest_OLAcceptedOutcome>
+  <RotR_Quest_OLHostButtonLabel>Hospedar por un tiempo</RotR_Quest_OLHostButtonLabel>
+  <RotR_Quest_OLHostedLeavingOutcome>&lt;i&gt;"Sueños rotos pero juntos enteros\nCon cada beso remendando almas\nLágrimas silenciosas en días lluviosos\nEn tus ojos encuentro mi camino"&lt;/i&gt;\n\nOfreciste a {boy_nameDef} y {girl_nameDef} una pausa muy necesaria en su viaje. Expresan profundo agradecimiento por la breve estancia.\n\nAhora están preparados para irse y encontrar un lugar al que finalmente puedan llamar hogar.</RotR_Quest_OLHostedLeavingOutcome>
+  <RotR_Quest_OLHostedOutcome>Decides proporcionar un refugio temporal para {boy_nameDef} y {girl_nameDef}.\n\nSe quedarán en la colonia por un tiempo.</RotR_Quest_OLHostedOutcome>
+  <RotR_Quest_OLRefuseButtonLabel>Rechazar entrada</RotR_Quest_OLRefuseButtonLabel>
+  <RotR_Quest_OLRejectedOutcome>&lt;i&gt;"Tú y yo olvidamos el mundo\nPero en los brazos del otro luchamos\nContra la oscuridad aferrándonos fuerte\nAmantes intrépidos a través de la noche"&lt;/i&gt;\n\nAl ser rechazados, {boy_nameDef} y {girl_nameDef} aceptan respetuosamente tu decisión, expresando comprensión por las prioridades de la colonia mientras continúan su búsqueda de santuario en otro lugar.</RotR_Quest_OLRejectedOutcome>
+  <RotR_Quest_OLWelcomeButtonLabel>Dar la bienvenida</RotR_Quest_OLWelcomeButtonLabel>
+  <RotR_Quest_Pleased>Los siguientes colonos están complacidos</RotR_Quest_Pleased>
+  <RotR_Quest_SAIgnoredOutcome>Para preservar el status quo, manteniendo sus interacciones con {other_nameDef} dentro de los límites cómodos de la familiaridad.\n\n{initiator_nameDef} elige no actuar sobre sus sospechas.</RotR_Quest_SAIgnoredOutcome>
+  <RotR_Quest_SAInitiatedOutcome>Impulsado/a por la curiosidad y el encanto de una conexión oculta, {initiator_nameDef} da un paso proactivo para descubrir los sentimientos de su admirador secreto.</RotR_Quest_SAInitiatedOutcome>
+  <RotR_Quest_TalkWith>Hablar con {0}</RotR_Quest_TalkWith>
+</LanguageData>
