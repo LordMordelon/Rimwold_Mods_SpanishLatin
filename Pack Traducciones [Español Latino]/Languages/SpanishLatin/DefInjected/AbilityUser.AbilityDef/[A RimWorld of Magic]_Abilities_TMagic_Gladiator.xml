@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <TM_Cleave.description>Ejecuta un golpe poderoso y amplio que puede golpear a múltiples enemigos adyacentes al objetivo. Mientras el gladiador tenga suficiente resistencia, esta habilidad funciona automáticamente cada vez que el gladiador realiza un ataque cuerpo a cuerpo. La probabilidad de hender se calcula a partir de la masa del arma: las armas más pesadas tienen más probabilidades de hender.</TM_Cleave.description>
+  <TM_Cleave.label>hender</TM_Cleave.label>
+  <TM_Fortitude.description>Mitiga una cantidad fija de daño con cada golpe.\nMitigación base: 5</TM_Fortitude.description>
+  <TM_Fortitude.label>fortaleza</TM_Fortitude.label>
+  <TM_Grapple.description>Engancha y tira con fuerza de un oponente hacia el Gladiador, seguido de un barrido de pierna violento, derribando al oponente.\n\nTiempo de lanzamiento: 1s\nAlcance: 15</TM_Grapple.description>
+  <TM_Grapple.label>forcejeo</TM_Grapple.label>
+  <TM_Grapple_I.description>Engancha y tira con fuerza de un oponente hacia el Gladiador, seguido de un barrido de pierna violento, derribando al oponente.\nTiempo de lanzamiento: .6s\nAlcance: 17</TM_Grapple_I.description>
+  <TM_Grapple_I.label>forcejeo (I)</TM_Grapple_I.label>
+  <TM_Grapple_II.description>Engancha y tira con fuerza de un oponente hacia el Gladiador, seguido de un barrido de pierna violento, derribando al oponente.\n\nTiempo de lanzamiento: .4s\nAlcance: 20</TM_Grapple_II.description>
+  <TM_Grapple_II.label>forcejeo (II)</TM_Grapple_II.label>
+  <TM_Grapple_III.description>Engancha y tira con fuerza de un oponente hacia el Gladiador, seguido de un barrido de pierna violento, derribando al oponente.\n\nTiempo de lanzamiento: .2s\nAlcance: 23</TM_Grapple_III.description>
+  <TM_Grapple_III.label>forcejeo (III)</TM_Grapple_III.label>
+  <TM_Sprint.description>Activa o desactiva la habilidad de combate sostenida Esprintar: aumenta enormemente la velocidad de movimiento pero causa agotamiento. Requiere 30 de resistencia para mantenerse y reduce la regeneración de resistencia en un 20%.</TM_Sprint.description>
+  <TM_Sprint.label>esprintar</TM_Sprint.label>
+  <TM_Sprint_I.description>Activa o desactiva la habilidad de combate sostenida Esprintar: aumenta enormemente la velocidad de movimiento pero causa agotamiento. Requiere 30 de resistencia para mantenerse y reduce la regeneración de resistencia en un 20%.\n\nActivar esprintar otorga al usuario 10s de evasión (25% de probabilidad de esquivar) y 5s de adrenalina.\nDesactivar esprintar devuelve instantáneamente 20 de resistencia y aplica 5s de +20% de regeneración de energía.</TM_Sprint_I.description>
+  <TM_Sprint_I.label>esprintar (I)</TM_Sprint_I.label>
+  <TM_Sprint_II.description>Activa o desactiva la habilidad de combate sostenida Esprintar: aumenta enormemente la velocidad de movimiento pero causa agotamiento. Requiere 30 de resistencia para mantenerse y reduce la regeneración de resistencia en un 20%.\n\nActivar esprintar otorga al usuario 10s de 35% de evasión, 8s de adrenalina, y a todos los colonos aliados dentro de 5 celdas 10s de 25% de evasión.\nDesactivar esprintar devuelve instantáneamente 35 de resistencia y aplica 8s de +30% de regeneración de energía.</TM_Sprint_II.description>
+  <TM_Sprint_II.label>esprintar (II)</TM_Sprint_II.label>
+  <TM_Sprint_III.description>Activa o desactiva la habilidad de combate sostenida Esprintar: aumenta enormemente la velocidad de movimiento pero causa agotamiento. Requiere 30 de resistencia para mantenerse y reduce la regeneración de resistencia en un 20%.\n\nActivar esprintar otorga al usuario 10s de 40% de evasión, 10s de adrenalina, y a todos los colonos aliados dentro de 10 celdas 10s de 30% de evasión.\nDesactivar esprintar devuelve instantáneamente 40 de resistencia y aplica 10s de +40% de regeneración de energía.</TM_Sprint_III.description>
+  <TM_Sprint_III.label>esprintar (III)</TM_Sprint_III.label>
+  <TM_Whirlwind.description>El Gladiador se lanza a un ataque frenético, bailando hacia adelante en un furioso torbellino de acero y muerte.</TM_Whirlwind.description>
+  <TM_Whirlwind.label>torbellino</TM_Whirlwind.label>
+</LanguageData>

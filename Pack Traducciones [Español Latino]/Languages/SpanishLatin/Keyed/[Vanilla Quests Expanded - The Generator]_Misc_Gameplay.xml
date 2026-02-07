@@ -27,13 +27,13 @@
   <VQE_CurrentMaintenance>Mantenimiento del ARC: {0}</VQE_CurrentMaintenance>
   <VQE_DowngradeGenetron>Degradar a {0}</VQE_DowngradeGenetron>
   <VQE_DowngradeGenetronDesc>Degrada el ARC a una etapa anterior de construcción.</VQE_DowngradeGenetronDesc>
-  <VQE_DowngradeGenetronDialog>Advertencia, esto degradará el ARC a {0}. Todos los materiales utilizados para mejorarlo a la etapa actual se perderán. ¿Estás seguro de que quieres continuar?</VQE_DowngradeGenetronDialog>
+  <VQE_DowngradeGenetronDialog>Advertencia, esto degradará el actual ARC a &lt;color=#FFA500&gt;{0}&lt;/color&gt;. Todos los materiales utilizados para mejorarlo a la etapa actual se perderán. ¿Estás seguro de que quieres continuar?</VQE_DowngradeGenetronDialog>
   <VQE_DowngradeGenetronMeltdown>No es posible degradar el ARC durante una fusión nuclear.</VQE_DowngradeGenetronMeltdown>
   <VQE_EmergencyShutDown>parada de emergencia</VQE_EmergencyShutDown>
   <VQE_EmergencyShutDownDesc>Apaga el ARC. Dejará de quemar uranio, deteniendo así la pérdida de mantenimiento. También dejará de generar energía hasta que se inicien los procedimientos de reinicio.</VQE_EmergencyShutDownDesc>
   <VQE_EmergencyShutDownDescExtended>\n\nEl reactor está apagado ahora.</VQE_EmergencyShutDownDescExtended>
   <VQE_FactionBecameHostileTimed>Te has quedado en el pueblo demasiado tiempo. ¡La gente de {FACTION_name} está atacando!</VQE_FactionBecameHostileTimed>
-  <VQE_FuelConsumptionProjected>Consumo de combustible: {0} por día</VQE_FuelConsumptionProjected>
+  <VQE_FuelConsumptionProjected>Consumo: {0} por día</VQE_FuelConsumptionProjected>
   <VQE_FuelRateAtTheMoment>Consumo de combustible por día: {0}</VQE_FuelRateAtTheMoment>
   <VQE_GenetronFineTuning>Ajuste de precisión de ARC</VQE_GenetronFineTuning>
   <VQE_GenetronFineTuningDesc>Altera el consumo de combustible para aumentar o disminuir la energía generada por el ARC, y ajusta el desgaste por mantenimiento del generador para potenciar la salida de energía.</VQE_GenetronFineTuningDesc>
@@ -44,7 +44,7 @@
   <VQE_GenetronPressureLabel>presión del ARC</VQE_GenetronPressureLabel>
   <VQE_GenetronSteamTuning>ajuste de presión</VQE_GenetronSteamTuning>
   <VQE_GenetronSteamTuningDesc>Altera la presión del ARC, afectando al desgaste de los componentes y a la potencia de salida.</VQE_GenetronSteamTuningDesc>
-  <VQE_GenetronSteamTuningMaintenance>establecer pérdida de mantenimiento por día al: {0}%</VQE_GenetronSteamTuningMaintenance>
+  <VQE_GenetronSteamTuningMaintenance>pérdida de mantenimiento por día al: {0}%</VQE_GenetronSteamTuningMaintenance>
   <VQE_GenetronTuning>Ajuste de ARC</VQE_GenetronTuning>
   <VQE_GenetronTuningDesc>Altera el consumo de combustible para aumentar o disminuir la energía generada por el ARC.</VQE_GenetronTuningDesc>
   <VQE_GenetronTuningProjected>Potencia de salida proyectada: {0} Wd</VQE_GenetronTuningProjected>

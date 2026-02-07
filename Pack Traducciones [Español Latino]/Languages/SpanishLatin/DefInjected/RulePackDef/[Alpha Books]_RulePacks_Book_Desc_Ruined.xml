@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <ABooks_RuinedBook_Description.rulePack.rulesStrings>
+    <li>desc-&gt;Este [bookType] [writingQualityAdjective] [follows] a un [trainer] mientras [heOrShe] [storyStruggles]. [writingQualitySentence]. [maybe_date].</li>
+    <li>follows-&gt;comparte _______écnicas de</li>
+    <li>follows-&gt;desta_______as enseñanzas de</li>
+    <li>follows-&gt;document_______namiento de</li>
+    <li>follows-&gt;expl_______os métodos de</li>
+    <li>heOrShe-&gt;él</li>
+    <li>heOrShe-&gt;ella</li>
+    <li>storyStruggles-&gt;___________</li>
+    <li>storyStruggles-&gt;_____________________</li>
+    <li>storyStruggles-&gt;_______</li>
+    <li>storyStruggles-&gt;_________________________________________</li>
+    <li>trainer-&gt;_______</li>
+    <li>trainer-&gt;entrenador</li>
+    <li>trainer-&gt;_______</li>
+    <li>trainer-&gt;instructor</li>
+    <li>trainer-&gt;_______</li>
+    <li>trainer-&gt;experto</li>
+    <li>trainer-&gt;_______</li>
+    <li>trainer-&gt;maestro</li>
+    <li>trainer-&gt;_______</li>
+    <li>trainer-&gt;practicante</li>
+    <li>writingQualityAdjective(quality==6)-&gt;magistral_______ elaborado</li>
+    <li>writingQualityAdjective(quality==5)-&gt;int_______ligente y per_______ptivo</li>
+    <li>writingQualityAdjective(quality==4)-&gt;articulado _______considerado</li>
+    <li>writingQualityAdjective(quality==3)-&gt;de_______ente compuesto</li>
+    <li>writingQualityAdjective(quality==2)-&gt;prom_______o en el mejor de los casos</li>
+    <li>writingQualityAdjective(quality==1)-&gt;mal e_______utado</li>
+    <li>writingQualityAdjective(quality==0)-&gt;ap_______s legible</li>
+    <li>writingQualitySentence(quality[greater_than]4)-&gt;Es [excellentDesc] [excellentExtra]</li>
+    <li>writingQualitySentence(quality[less_than]5,quality[greater_than]1)-&gt;Es [decentDesc] [decentExtra]</li>
+    <li>writingQualitySentence(quality[less_than]2)-&gt;Es [awfulDesc] [awfulExtra]</li>
+    <li>excellentDesc-&gt;una reflex_______ación de la construcción de habilidades</li>
+    <li>excellentDesc-&gt;profundamente perspicaz_______oceso de aprendizaje</li>
+    <li>excellentDesc-&gt;ajustad_______leno de sabiduría práctica</li>
+    <li>excellentDesc-&gt;creativ_______spirador</li>
+    <li>excellentDesc-&gt;una guía notabl_______nal y bien_______</li>
+    <li>excellentDesc-&gt;lleno de anécdotas_______antes de entrenadores_______nzados</li>
+    <li>excellentExtra-&gt;. Cada s_______ sobre la última de manera_______ca</li>
+    <li>excellentExtra-&gt;. Es una lectura_______ue m_______jora constante</li>
+    <li>excellentExtra-&gt;. Sus a_______tamente procesabl_______ efectivos</li>
+    <li>decentDesc-&gt;una guía de_______namiento decente</li>
+    <li>decentDesc-&gt;interes_______informativo,_______onsejos sólidos</li>
+    <li>decentDesc-&gt;centrad_______na sola técnica de _______namiento efectiva</li>
+    <li>decentDesc-&gt;ocasion_______tivo con ejemplos_______cionables</li>
+    <li>decentDesc-&gt;atra_______quellos que buscan _______sus habilidades</li>
+    <li>decentExtra-&gt; pero sus_______estrategias</li>
+    <li>decentExtra-&gt; pero a_______as se sienten obso_______tas</li>
+    <li>decentExtra-&gt; pero sus_______ son a veces_______claras</li>
+    <li>decentExtra-&gt; pero se centra_______mente en la teoría_______ práctica</li>
+    <li>decentExtra-&gt; pero s_______brecomplica_______deas simples</li>
+    <li>awfulDesc-&gt;escrit_______guien con li_______omprensi_______ntrenamiento</li>
+    <li>awfulDesc-&gt;llen_______nécdotas perso_______rrelevantes</li>
+    <li>awfulDesc-&gt;vag_______structurado</li>
+    <li>awfulDesc-&gt;care_______laro, acti_______jo</li>
+    <li>awfulDesc-&gt;plagad_______ontrad_______claraciones</li>
+    <li>awfulExtra-&gt; y _______jo es a_______ntraproducente</li>
+    <li>awfulExtra-&gt; y no_______ aborda principios clave_______ding</li>
+    <li>awfulExtra-&gt; y incl_______todos sicales o poco_______ticos</li>
+    <li>maybe_date-&gt;</li>
+    <li>maybe_date-&gt;El lib_______cado [date_form].</li>
+    <li>maybe_date-&gt;El te_______preso [date_form].</li>
+    <li>maybe_date-&gt;No está clar_______ndo se escri_______bro.</li>
+    <li>date_form-&gt;recien_______te</li>
+    <li>date_form-&gt;hace muc_______glos</li>
+    <li>date_form-&gt;e_______l [date]</li>
+    <li>date_form-&gt;en_______ [date_season]</li>
+    <li>bookType(p=4)-&gt;manual de entre_______miento</li>
+    <li>bookType(p=2)-&gt;guía de est_______io</li>
+    <li>bookType-&gt;lib_______eferencia</li>
+    <li>bookType-&gt;guía edu_______tiva</li>
+    <li>bookType-&gt;recurso de apre_______zaje</li>
+  </ABooks_RuinedBook_Description.rulePack.rulesStrings>
+</LanguageData>

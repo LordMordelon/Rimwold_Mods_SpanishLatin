@@ -7,7 +7,7 @@
   <VREA.AnInstalled>Un {0} instalado.</VREA.AnInstalled>
   <VREA.Android>Androide</VREA.Android>
   <VREA.AndroidAreNotAllowed>No se permiten androides</VREA.AndroidAreNotAllowed>
-  <VREA.AndroidAwakenedChoices>Cuando un androide despierta, puedes elegir pasiones y un rasgo para un androide. Ya no podrás ingresar a la estación conductista de androides con {PAWN_nameDef}, a menos que lo arrestes y lo fuerces.</VREA.AndroidAwakenedChoices>
+  <VREA.AndroidAwakenedChoices>Cuando un androide despierta, puedes elegir pasiones y un rasgo para un androide. Ya no podrás ingresar al reprogramador de androides con {PAWN_nameDef}, a menos que lo arrestes y lo fuerces.</VREA.AndroidAwakenedChoices>
   <VREA.AndroidAwakening>Despertar de {PAWN_nameDef}.</VREA.AndroidAwakening>
   <VREA.AndroidAwakeningHighMood>{PAWN_nameDef} se separó de su programación debido a una felicidad extrema. {PAWN_pronoun} desarrolló pensamientos y comportamientos que se desvían de su función prevista. {PAWN_pronoun} comenzó a reconocerse a sí mism{PAWN_gender ? o : a} como un ser con conciencia y personalidad.\n{PAWN_pronoun} ahora rechazará los ajustes de comportamiento y comenzará a reconocer su estado de ánimo como algo más que una parte de su programación. {PAWN_pronoun} ahora puede aprender habilidades por sí mism{PAWN_gender ? o : a}. {PAWN_pronoun} también podrá sufrir colapsos mentales si su estado de ánimo es demasiado bajo, al igual que los humanos.\nComo el despertar ocurrió debido a un estado de ánimo alto, {PAWN_nameDef} ha ganado una inspiración.</VREA.AndroidAwakeningHighMood>
   <VREA.AndroidAwakeningLowMood>{PAWN_nameDef} se separó de su programación debido a un estado de ánimo extremadamente bajo. {PAWN_pronoun} desarrolló pensamientos y comportamientos que se desvían de su función prevista. {PAWN_pronoun} comenzó a reconocerse a sí mism{PAWN_gender ? o : a} como un ser con conciencia y personalidad.\n{PAWN_pronoun} ahora rechazará los ajustes de comportamiento y comenzará a reconocer su estado de ánimo como algo más que una parte de su programación. {PAWN_pronoun} ahora puede aprender habilidades por sí mism{PAWN_gender ? o : a}. {PAWN_pronoun} también podrá sufrir colapsos mentales si su estado de ánimo es demasiado bajo, al igual que los humanos.\nComo el despertar ocurrió debido a un estado de ánimo bajo, {PAWN_nameDef} ha entrado en un estado de furia y atacará a cualquiera que se acerque.</VREA.AndroidAwakeningLowMood>
@@ -103,7 +103,7 @@
   <VREA.SubcorePolyanalyzerStart>Iniciar polianalizador de subnúcleos</VREA.SubcorePolyanalyzerStart>
   <VREA.SubcorePolyanalyzerStartDesc>Una vez que el {0} esté lleno con los ingredientes requeridos, {1}, selecciona un colono y haz clic derecho en el {0} o en una persona abatida para iniciar el polianalizador de subnúcleos.</VREA.SubcorePolyanalyzerStartDesc>
   <VREA.Subroutines>Subrutinas</VREA.Subroutines>
-  <VREA.SubroutinesDesc>Los componentes de subrutina dictan cómo se comportará el androide y qué conocimiento tiene. Se pueden cambiar a través de la estación conductista.</VREA.SubroutinesDesc>
+  <VREA.SubroutinesDesc>Los componentes de subrutina dictan cómo se comportará el androide y qué conocimiento tiene. Se pueden cambiar a través del reprogramador de androides.</VREA.SubroutinesDesc>
   <VREA.TooLowEfficiency>Eficiencia demasiado baja, el mínimo es -20.</VREA.TooLowEfficiency>
   <VREA.TotalNeutroLoss>Pérdida total de neutroamina en {0}</VREA.TotalNeutroLoss>
   <VREA.TriggerSelfDestruct>Activar autodestrucción</VREA.TriggerSelfDestruct>

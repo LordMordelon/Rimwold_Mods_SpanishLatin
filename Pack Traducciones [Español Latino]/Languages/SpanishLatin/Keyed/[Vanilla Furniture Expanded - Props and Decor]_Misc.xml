@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <VFEPD_BuildProps>construir atrezos</VFEPD_BuildProps>
+  <VFEPD_BuildPropsDesc>Abre un menú para construir atrezos con un coste en plata.</VFEPD_BuildPropsDesc>
+  <VFEPD_MakeCopy>Hacer copia</VFEPD_MakeCopy>
+  <VFEPD_MakeCopyDesc>Haz una copia de este atrezo. Esto requerirá que tengas el coste en plata del atrezo disponible en los almacenes.</VFEPD_MakeCopyDesc>
+  <VFEPD_ResearchNeeded>No se puede construir hasta que la colonia haya investigado {0}</VFEPD_ResearchNeeded>
+  <VFE_ChoosePropCategory>Seleccionar categoría de atrezo:</VFE_ChoosePropCategory>
+  <VFE_GoBack>Volver</VFE_GoBack>
+  <VFE_NoSilver>No hay suficiente plata en los almacenes. Necesitas tener al menos {0} de plata para construir este atrezo</VFE_NoSilver>
+  <VFE_PrefabSearch>Buscar</VFE_PrefabSearch>
+  <VFE_PropCostMultiplier>Multiplicador de coste de atrezo</VFE_PropCostMultiplier>
+  <VFE_PropCostMultiplierDesc>El coste de los prefabricados que se compran con plata se calcula dependiendo de su tamaño, puntos de salud y cobertura. Con este deslizador puedes transformar cuánto costarán. 0 deshabilita todos los costes de plata.</VFE_PropCostMultiplierDesc>
+  <VFE_Reset>Restablecer</VFE_Reset>
+  <VFE_SilverReturnMultiplier>Multiplicador de devolución de plata</VFE_SilverReturnMultiplier>
+  <VFE_SilverReturnMultiplierDesc>Al ser destruidos, los atrezos devolverán su coste de compra en plata. Por defecto será el 100% de este coste, pero se puede reducir con este ajuste.</VFE_SilverReturnMultiplierDesc>
+  <VPE_NeedsMats>Construido</VPE_NeedsMats>
+  <VPE_NeedsMatsDesc>Este atrezo en particular necesita materiales de construcción para ser construido en lugar de plata, y los colonos deben construirlo ellos mismos</VPE_NeedsMatsDesc>
+</LanguageData>
