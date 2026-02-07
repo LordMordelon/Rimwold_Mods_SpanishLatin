@@ -33,7 +33,8 @@ jobs:
             --idioma "SpanishLatin (Español(Latinoamérica))" \
             --limpiar-destino \
             --eliminar-comentarios \
-            --update-about
+            --update-about \
+            --reporte
 
       - name: Commit cambios
         run: |

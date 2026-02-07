@@ -3,6 +3,7 @@ import os
 import re
 import shutil
 import sys
+import traceback
 from datetime import datetime
 import xml.etree.ElementTree as ET
 from xml.etree.ElementTree import ParseError
@@ -106,9 +107,10 @@ def copiar_traducciones(origen, destino_root, nombre_subcarpeta, limpiar_destino
     ]
 
     if not mods_a_procesar:
-        return [], 0
+        return [], 0, []
 
     archivos_copiados = 0
+    errores = []
 
     for mod in mods_a_procesar:
         ruta_mod = os.path.join(origen, mod)
@@ -156,16 +158,34 @@ def copiar_traducciones(origen, destino_root, nombre_subcarpeta, limpiar_destino
                     root[:] = sorted(root, key=lambda child: child.tag)
                     indent_xml(root)
                     tree.write(ruta_destino_archivo, encoding="utf-8", xml_declaration=True)
-                except ParseError:
+                except ParseError as e:
+                    errores.append({
+                        "archivo": ruta_origen,
+                        "motivo": f"XML invalido: {e}",
+                        "trace": traceback.format_exc(),
+                    })
                     shutil.copy2(ruta_origen, ruta_destino_archivo)
-                except Exception:
+                except Exception as e:
+                    errores.append({
+                        "archivo": ruta_origen,
+                        "motivo": f"Error procesando XML: {e}",
+                        "trace": traceback.format_exc(),
+                    })
                     shutil.copy2(ruta_origen, ruta_destino_archivo)
             else:
-                shutil.copy2(ruta_origen, ruta_destino_archivo)
+                try:
+                    shutil.copy2(ruta_origen, ruta_destino_archivo)
+                except Exception as e:
+                    errores.append({
+                        "archivo": ruta_origen,
+                        "motivo": f"Error copiando archivo: {e}",
+                        "trace": traceback.format_exc(),
+                    })
+                    continue
 
             archivos_copiados += 1
 
-    return mods_a_procesar, archivos_copiados
+    return mods_a_procesar, archivos_copiados, errores
 
 
 def actualizar_about_xml(destino_root, origen, mods_procesados):
@@ -244,6 +264,62 @@ def comprimir_resultado(destino_root, nombre_subcarpeta):
     return True, archivo_comprimido
 
 
+def generar_reporte(destino_root, mods_procesados, errores=None, titulo="Reporte de Mods Procesados"):
+    if not mods_procesados:
+        return False, "No hay mods procesados para generar reporte."
+
+    errores = errores or []
+
+    ruta_reportes = os.path.join(destino_root, "Reportes")
+    os.makedirs(ruta_reportes, exist_ok=True)
+
+    timestamp = datetime.now().strftime("%Y-%m-%d_%H-%M-%S")
+    nombre_archivo = f"reporte_mods_{timestamp}.txt"
+    ruta_archivo = os.path.join(ruta_reportes, nombre_archivo)
+
+    with open(ruta_archivo, "w", encoding="utf-8") as f:
+        f.write(f"{titulo} - {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}\n")
+        f.write("=" * 50 + "\n\n")
+        f.write(f"Total de mods encontrados: {len(mods_procesados)}\n\n")
+        f.write("Lista de mods:\n")
+        for mod in sorted(mods_procesados):
+            f.write(f"- {mod}\n")
+
+        if errores:
+            f.write("\n" + "=" * 50 + "\n")
+            f.write("Errores de compilacion:\n\n")
+            for idx, err in enumerate(errores, start=1):
+                f.write(f"{idx}. Archivo: {err.get('archivo', 'N/A')}\n")
+                f.write(f"   Motivo: {err.get('motivo', 'N/A')}\n")
+                f.write("   Trace:\n")
+                f.write(err.get("trace", "") + "\n")
+
+    return True, f"Reporte generado en: {ruta_archivo}"
+
+
+def generar_reporte_errores(destino_root, errores):
+    if not errores:
+        return False, "No hay errores para generar reporte."
+
+    ruta_reportes = os.path.join(destino_root, "Reportes")
+    os.makedirs(ruta_reportes, exist_ok=True)
+
+    timestamp = datetime.now().strftime("%Y-%m-%d_%H-%M-%S")
+    nombre_archivo = f"errores_compilacion_{timestamp}.txt"
+    ruta_archivo = os.path.join(ruta_reportes, nombre_archivo)
+
+    with open(ruta_archivo, "w", encoding="utf-8") as f:
+        f.write(f"Errores de compilacion - {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}\n")
+        f.write("=" * 50 + "\n\n")
+        for idx, err in enumerate(errores, start=1):
+            f.write(f"{idx}. Archivo: {err.get('archivo', 'N/A')}\n")
+            f.write(f"   Motivo: {err.get('motivo', 'N/A')}\n")
+            f.write("   Trace:\n")
+            f.write(err.get("trace", "") + "\n")
+
+    return True, f"Reporte de errores generado en: {ruta_archivo}"
+
+
 def main():
     parser = argparse.ArgumentParser(description="Compilador CLI de traducciones RimWorld")
     parser.add_argument("--origen", required=True, help="Ruta a 'Archivo Traducciones'")
@@ -253,6 +329,9 @@ def main():
     parser.add_argument("--eliminar-comentarios", action="store_true", help="Elimina comentarios XML y ordena tags")
     parser.add_argument("--comprimir", action="store_true", help="Comprime la carpeta resultante en .tar")
     parser.add_argument("--update-about", action="store_true", help="Actualiza About/about.xml con forceLoadAfter")
+    parser.add_argument("--reporte", action="store_true", help="Genera un reporte de mods compilados (default)")
+    parser.add_argument("--sin-reporte", action="store_true", help="No generar reporte de mods compilados")
+    parser.add_argument("--reporte-titulo", default="Reporte de Mods Procesados", help="Titulo del reporte")
 
     args = parser.parse_args()
 
@@ -278,7 +357,7 @@ def main():
                 print(f"- {item}")
             return 2
 
-    mods_procesados, archivos_copiados = copiar_traducciones(
+    mods_procesados, archivos_copiados, errores = copiar_traducciones(
         origen,
         destino,
         idioma,
@@ -288,6 +367,8 @@ def main():
 
     print(f"Mods procesados: {len(mods_procesados)}")
     print(f"Archivos copiados: {archivos_copiados}")
+    if errores:
+        print(f"Errores detectados: {len(errores)}")
 
     if archivos_copiados == 0:
         print("No se encontraron archivos XML para copiar.")
@@ -305,6 +386,18 @@ def main():
         print(mensaje)
         if not ok:
             return 1
+
+    if not args.sin_reporte:
+        ok, mensaje = generar_reporte(destino, mods_procesados, errores=errores, titulo=args.reporte_titulo)
+        print(mensaje)
+        if not ok:
+            return 1
+
+        if errores:
+            ok_err, mensaje_err = generar_reporte_errores(destino, errores)
+            print(mensaje_err)
+            if not ok_err:
+                return 1
 
     print(f"Finalizado: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
     return 0
