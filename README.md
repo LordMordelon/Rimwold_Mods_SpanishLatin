@@ -4,6 +4,8 @@ Paquete de traducciones al español latino para mods de RimWorld.
 
 ## Contribuciones / ¿Como ayudar?
 
+Lo mas rapido es informar errores, terminos o elementos que no se entiendan; tambien descripciones o nombres de historia que resulten raros o vagos, o que necesiten un poco mas de contexto. Se agradecen sugerencias.
+
 Explico cómo trabajo actualmente: mientras juego, uso el mod Extract Translation. Si veo algo que me gusta, lo uso. Extract Translation genera una carpeta "SpanishLatin (Español (Latinoamérica))" dentro del mod, que traduzco por completo con el asistente de Gemini, dándole indicaciones sobre términos y preferencias para adecuar algunas cosas.
 
 Luego pruebo la traducción para ver qué tal va mientras ajusto irregularidades y detalles. Una vez revisado el mod, lo muevo de la carpeta de Steam Workshop a la carpeta de Archivo Traducciones. Acumulo algunos otros mods y uso el archivo compilador.py de la carpeta de Programas: lo ejecuto para meter todas las traducciones dentro de una carpeta SpanishLatin, que es con la que actualizo el mod.
