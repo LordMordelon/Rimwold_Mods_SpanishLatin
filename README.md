@@ -23,3 +23,4 @@ Cómo usar compilador.py:
 ## Glosario (por añadir)
 - chemfuel > quimbustible
 - astrofuel > astrobustible
+- ghoul > necrófago

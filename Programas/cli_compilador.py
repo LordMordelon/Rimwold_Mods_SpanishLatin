@@ -171,7 +171,9 @@ def copiar_traducciones(origen, destino_root, nombre_subcarpeta, limpiar_destino
 def actualizar_about_xml(destino_root, origen, mods_procesados):
     rutas_posibles = [
         os.path.join(destino_root, "About", "about.xml"),
+        os.path.join(destino_root, "About", "About.xml"),
         os.path.join(os.path.dirname(destino_root), "About", "about.xml"),
+        os.path.join(os.path.dirname(destino_root), "About", "About.xml"),
     ]
 
     ruta_about = None
@@ -181,7 +183,7 @@ def actualizar_about_xml(destino_root, origen, mods_procesados):
             break
 
     if not ruta_about:
-        return False, "No se encontro About/about.xml para actualizar."
+        return False, "No se encontro About/about.xml (o About/About.xml) para actualizar."
 
     tree = ET.parse(ruta_about)
     root = tree.getroot()
@@ -293,9 +295,10 @@ def main():
 
     if args.update_about:
         ok, mensaje = actualizar_about_xml(destino, origen, mods_procesados)
-        print(mensaje)
-        if not ok:
-            return 1
+        if ok:
+            print(mensaje)
+        else:
+            print(f"ADVERTENCIA: {mensaje}")
 
     if args.comprimir:
         ok, mensaje = comprimir_resultado(destino, idioma)
