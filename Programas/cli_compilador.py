@@ -273,8 +273,7 @@ def generar_reporte(destino_root, mods_procesados, errores=None, titulo="Reporte
     ruta_reportes = os.path.join(destino_root, "Reportes")
     os.makedirs(ruta_reportes, exist_ok=True)
 
-    timestamp = datetime.now().strftime("%Y-%m-%d_%H-%M-%S")
-    nombre_archivo = f"reporte_mods_{timestamp}.txt"
+    nombre_archivo = "reporte_mods.txt"
     ruta_archivo = os.path.join(ruta_reportes, nombre_archivo)
 
     with open(ruta_archivo, "w", encoding="utf-8") as f:
@@ -304,8 +303,7 @@ def generar_reporte_errores(destino_root, errores):
     ruta_reportes = os.path.join(destino_root, "Reportes")
     os.makedirs(ruta_reportes, exist_ok=True)
 
-    timestamp = datetime.now().strftime("%Y-%m-%d_%H-%M-%S")
-    nombre_archivo = f"errores_compilacion_{timestamp}.txt"
+    nombre_archivo = "errores_compilacion.txt"
     ruta_archivo = os.path.join(ruta_reportes, nombre_archivo)
 
     with open(ruta_archivo, "w", encoding="utf-8") as f:
@@ -398,6 +396,10 @@ def main():
             print(mensaje_err)
             if not ok_err:
                 return 1
+        else:
+            ruta_errores = os.path.join(destino, "Reportes", "errores_compilacion.txt")
+            if os.path.isfile(ruta_errores):
+                os.remove(ruta_errores)
 
     print(f"Finalizado: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
     return 0
