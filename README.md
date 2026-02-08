@@ -10,15 +10,22 @@ Explico cómo trabajo actualmente: mientras juego, uso el mod Extract Translatio
 
 Luego pruebo la traducción para ver qué tal va mientras ajusto irregularidades y detalles. Una vez revisado el mod, lo muevo de la carpeta de Steam Workshop a la carpeta de Archivo Traducciones. Acumulo algunos otros mods y uso el archivo compilador.py de la carpeta de Programas: lo ejecuto para meter todas las traducciones dentro de una carpeta SpanishLatin, que es con la que actualizo el mod.
 
-Requisitos para usar compilador.py:
+Requisitos para usar compilador.py (GUI):
 - Python 3 instalado.
 - Paquete PySide6 instalado (para la interfaz gráfica).
 
-Cómo usar compilador.py:
-1. Abre el archivo compilador.py de la carpeta Programas (puedes ejecutarlo con Python).
-2. Selecciona la carpeta de origen donde están los mods traducidos (Archivo Traducciones).
-3. Selecciona la carpeta de destino donde se generará la carpeta SpanishLatin (por ejemplo, el paquete final).
-4. Ejecuta el proceso y espera a que termine; se creará/actualizará la carpeta SpanishLatin con todas las traducciones.
+Flujo general de trabajo:
+1. Traduzco mods y los guardo en Archivo Traducciones (cada mod con su carpeta de idioma).
+2. Compilo todas las traducciones en el pack final (carpeta SpanishLatin dentro de Languages).
+3. Actualizo About/About.xml con la lista de dependencias.
+
+Herramientas:
+- compilador.py (GUI): uso local con interfaz.
+- cli_compilador.py (CLI): uso automatizado sin interfaz, genera reportes de mods y errores.
+
+Automatizacion:
+- GitHub Actions ejecuta el CLI en cada push a main.
+- Se publica una pre-release (beta) con el pack completo.
 
 ## Glosario (por añadir)
 - chemfuel > quimbustible
