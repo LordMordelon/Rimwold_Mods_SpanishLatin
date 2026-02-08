@@ -39,7 +39,7 @@ jobs:
       - name: Preparar paquete beta
         run: |
           mkdir -p dist
-          tar -cf "dist/Pack_Traducciones_Espanol_Latino.tar" -C "Pack Traducciones [Español Latino]" .
+          tar -cf "dist/Pack_Traducciones_Espanol_Latino.tar" -C "." "Pack Traducciones [Español Latino]"
 
       - name: Commit cambios
         run: |
