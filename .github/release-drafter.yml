@@ -1,0 +1,31 @@
+name-template: "v1.0.$NEXT_PATCH_VERSION"
+tag-template: "v1.0.$NEXT_PATCH_VERSION"
+change-template: "- $TITLE (#$NUMBER)"
+no-changes-template: "- Sin cambios registrados"
+
+categories:
+  - title: "🚀 Caracteristicas y mejoras"
+    labels:
+      - "feature"
+      - "enhancement"
+  - title: "🐛 Correccion de errores"
+    labels:
+      - "bug"
+      - "fix"
+  - title: "🔧 Mantenimiento y cambios internos"
+    labels:
+      - "chore"
+      - "maintenance"
+      - "refactor"
+  - title: "Cambios varios"
+    labels:
+      - "misc"
+
+template: |
+  Version estable $TITLE.
+  La ultima confirmacion es $RESOLVED_VERSION.
+
+  Consulte la accion ejecutar que creo este lanzamiento.
+
+  Lo que ha cambiado
+  $CHANGES

@@ -8,6 +8,7 @@ on:
 
 permissions:
   contents: write
+  pull-requests: read
 
 jobs:
   compilar:
@@ -38,8 +39,24 @@ jobs:
 
       - name: Preparar paquete beta
         run: |
-          mkdir -p dist
-          tar -cf "dist/Pack_Traducciones_Espanol_Latino.tar" -C "." "Pack Traducciones [Español Latino]"
+          mkdir -p "$RUNNER_TEMP/dist"
+          tar -cf "$RUNNER_TEMP/dist/Pack_Traducciones_Espanol_Latino.tar" -C "." "Pack Traducciones [Español Latino]"
+
+      - name: Publicar pre-release (beta)
+        id: release_drafter
+        uses: release-drafter/release-drafter@v6
+        with:
+          config-name: release-drafter.yml
+
+      - name: Publicar release
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: "v1.0.${{ github.run_number }}"
+          name: "v1.0.${{ github.run_number }}"
+          body: ${{ steps.release_drafter.outputs.body }}
+          prerelease: false
+          files: |
+            ${{ runner.temp }}/dist/Pack_Traducciones_Espanol_Latino.tar
 
       - name: Commit cambios
         run: |
@@ -52,12 +69,3 @@ jobs:
           else
             echo "Sin cambios para commitear."
           fi
-
-      - name: Publicar pre-release (beta)
-        uses: softprops/action-gh-release@v2
-        with:
-          tag_name: "beta-${{ github.run_number }}"
-          name: "Beta ${{ github.run_number }}"
-          prerelease: true
-          files: |
-            dist/Pack_Traducciones_Espanol_Latino.tar
