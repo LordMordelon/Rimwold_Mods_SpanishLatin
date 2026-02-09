@@ -9,6 +9,16 @@ import xml.etree.ElementTree as ET
 from xml.etree.ElementTree import ParseError
 
 
+MODS_A_IGNORAR = {
+    "estructura ejemplo",
+    "[estructura ejemplo]",
+}
+
+
+def es_mod_ignorado(nombre: str) -> bool:
+    return nombre.strip().lower() in MODS_A_IGNORAR
+
+
 def normalizar_nombre_idioma(nombre: str) -> str:
     if not isinstance(nombre, str):
         return ""
@@ -52,6 +62,8 @@ def detectar_idiomas(origen: str):
     }
 
     for mod_folder in os.listdir(origen):
+        if es_mod_ignorado(mod_folder):
+            continue
         ruta_mod = os.path.join(origen, mod_folder)
         if not os.path.isdir(ruta_mod):
             continue
@@ -103,7 +115,8 @@ def copiar_traducciones(origen, destino_root, nombre_subcarpeta, limpiar_destino
 
     mods_a_procesar = [
         d for d in os.listdir(origen)
-        if os.path.isdir(os.path.join(origen, d, nombre_subcarpeta))
+        if not es_mod_ignorado(d)
+        and os.path.isdir(os.path.join(origen, d, nombre_subcarpeta))
     ]
 
     if not mods_a_procesar:
