@@ -1,29 +1,19 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-
-
-	
 
 	<!-- Mod Settings -->
 
-	
-	<ME_MegafaunaSpawnMultiplier>Megafauna spawn commonality multiplier</ME_MegafaunaSpawnMultiplier>
-	<ME_MegafaunaSpawnMultiplierTooltip>This multiplier will affect the spawn changes (commonalities) of ALL animals in this mod. For example, if set to 0.5 animals from the mod will spawn half as much as default (which is 1). If set to 2, you'll get twice as many as default, and so on. This only affects wild spawns.</ME_MegafaunaSpawnMultiplierTooltip>
-	<ME_Reset>Reset</ME_Reset>
-	<ME_DisableAnimal>Disable {0}</ME_DisableAnimal>
-	<ME_allowVanillaAnimals>Allow base game animals (affects only wild spawns)</ME_allowVanillaAnimals>
-	<ME_AnimalsSearch>Search:</ME_AnimalsSearch>
-
-
-
-
-
-
-
-
-
-
-
+	<!-- EN: Megafauna spawn commonality multiplier -->
+  <ME_MegafaunaSpawnMultiplier>Multiplicador de aparición de megafauna</ME_MegafaunaSpawnMultiplier>
+	<!-- EN: This multiplier will affect the spawn changes (commonalities) of ALL animals in this mod. For example, if set to 0.5 animals from the mod will spawn half as much as default (which is 1). If set to 2, you'll get twice as many as default, and so on. This only affects wild spawns. -->
+  <ME_MegafaunaSpawnMultiplierTooltip>Este multiplicador afectará la frecuencia de aparición de todos los animales de este mod. Por ejemplo, si se establece en 0.5, los animales del mod aparecerán la mitad de lo predeterminado (que es 1). Si se establece en 2, obtendrás el doble de lo predeterminado, y así sucesivamente. Esto solo afecta a las apariciones salvajes.</ME_MegafaunaSpawnMultiplierTooltip>
+	<!-- EN: Reset -->
+  <ME_Reset>Restablecer</ME_Reset>
+	<!-- EN: Disable {0} -->
+  <ME_DisableAnimal>Desactivar {0}</ME_DisableAnimal>
+	<!-- EN: Allow base game animals (affects only wild spawns) -->
+  <ME_allowVanillaAnimals>Permitir animales del juego base (solo afecta apariciones salvajes)</ME_allowVanillaAnimals>
+	<!-- EN: Search: -->
+  <ME_AnimalsSearch>Buscar:</ME_AnimalsSearch>
 
 </LanguageData>

@@ -1,24 +1,46 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-    <Flipper.label>aletas</Flipper.label>
-
-    <CentipedeFirstSegment.label>primer segmento del cuerpo</CentipedeFirstSegment.label>
-    <CentipedeSecondSegment.label>segundo segmento del cuerpo</CentipedeSecondSegment.label>
-    <CentipedeThirdSegment.label>tercer segmento del cuerpo</CentipedeThirdSegment.label>
-    <CentipedeFourthSegment.label>cuarto segmento del cuerpo</CentipedeFourthSegment.label>
-    <CentipedeFifthSegment.label>quinto segmento del cuerpo</CentipedeFifthSegment.label>
-    <CentipedeSixthSegment.label>sexto segmento del cuerpo</CentipedeSixthSegment.label>
-
-    <Fangs.label>colmillos</Fangs.label>
-
-    <GlyptodonCarapace.label>caparazón de gliptodonte</GlyptodonCarapace.label>	
-    <GlyptodonShell.label>coraza de gliptodonte</GlyptodonShell.label>	
-
-    <InsectWing.label>alas de insecto</InsectWing.label>
-
-	<Pincer.label>pinzas</Pincer.label>
-	<InsectTail.label>cola de insecto</InsectTail.label>
-	<Stinger.label>aguijón</Stinger.label>
-
+  
+  <!-- EN: fifth body segment -->
+  <CentipedeFifthSegment.label>quinto segmento del cuerpo</CentipedeFifthSegment.label>
+  
+  <!-- EN: first body segment -->
+  <CentipedeFirstSegment.label>primer segmento del cuerpo</CentipedeFirstSegment.label>
+  
+  <!-- EN: fourth body segment -->
+  <CentipedeFourthSegment.label>cuarto segmento del cuerpo</CentipedeFourthSegment.label>
+  
+  <!-- EN: second body segment -->
+  <CentipedeSecondSegment.label>segundo segmento del cuerpo</CentipedeSecondSegment.label>
+  
+  <!-- EN: sixth body segment -->
+  <CentipedeSixthSegment.label>sexto segmento del cuerpo</CentipedeSixthSegment.label>
+  
+  <!-- EN: third body segment -->
+  <CentipedeThirdSegment.label>tercer segmento del cuerpo</CentipedeThirdSegment.label>
+  
+  <!-- EN: fangs -->
+  <Fangs.label>colmillos</Fangs.label>
+  
+  <!-- EN: flipper -->
+  <Flipper.label>aleta</Flipper.label>
+  
+  <!-- EN: carapace -->
+  <GlyptodonCarapace.label>caparazón</GlyptodonCarapace.label>
+  
+  <!-- EN: shell -->
+  <GlyptodonShell.label>concha</GlyptodonShell.label>
+  
+  <!-- EN: tail -->
+  <InsectTail.label>cola</InsectTail.label>
+  
+  <!-- EN: wing -->
+  <InsectWing.label>ala</InsectWing.label>
+  
+  <!-- EN: pincer -->
+  <Pincer.label>pinza</Pincer.label>
+  
+  <!-- EN: stinger -->
+  <Stinger.label>aguijón</Stinger.label>
+  
 </LanguageData>

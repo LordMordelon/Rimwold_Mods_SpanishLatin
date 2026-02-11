@@ -1,18 +1,205 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-    <Seal.label>Foca</seal.label>
-
-    <CentipedeLike.label>Parecido Al Ciempiés</CentipedeLike.label>
-
-    <QuadrupedAnimalWithPawsTailAndFangs.label>Cuadrúpedo</QuadrupedAnimalWithPawsTailAndFangs.label>
-
-    <QuadrupedAnimalWithCarapace.label>Cuadrúpedo con Caparazon</QuadrupedAnimalWithCarapace.label>
-
-    <KangarooLike.label>Parecido Al Canguro</KangarooLike.label>
-
-    <FlyingInsect.label>Insecto Volador</FlyingInsect.label>
-
-    <Scorpion.label>Escorpion</Scorpion.label>
-
+  
+  <!-- EN: centipede-like -->
+  <CentipedeLike.label>parecido a un ciempiés</CentipedeLike.label>
+  <!-- EN: left eye -->
+  <CentipedeLike.corePart.parts.Pronotum.parts.InsectHead.parts.left_eye.customLabel>ojo izquierdo</CentipedeLike.corePart.parts.Pronotum.parts.InsectHead.parts.left_eye.customLabel>
+  <!-- EN: right eye -->
+  <CentipedeLike.corePart.parts.Pronotum.parts.InsectHead.parts.right_eye.customLabel>ojo derecho</CentipedeLike.corePart.parts.Pronotum.parts.InsectHead.parts.right_eye.customLabel>
+  <!-- EN: left antenna -->
+  <CentipedeLike.corePart.parts.Pronotum.parts.InsectHead.parts.left_antenna.customLabel>antena izquierda</CentipedeLike.corePart.parts.Pronotum.parts.InsectHead.parts.left_antenna.customLabel>
+  <!-- EN: right antenna -->
+  <CentipedeLike.corePart.parts.Pronotum.parts.InsectHead.parts.right_antenna.customLabel>antena derecha</CentipedeLike.corePart.parts.Pronotum.parts.InsectHead.parts.right_antenna.customLabel>
+  
+  <!-- EN: flying insect -->
+  <FlyingInsect.label>insecto volador</FlyingInsect.label>
+  <!-- EN: left wing -->
+  <FlyingInsect.corePart.parts.left_wing.customLabel>ala izquierda</FlyingInsect.corePart.parts.left_wing.customLabel>
+  <!-- EN: right wing -->
+  <FlyingInsect.corePart.parts.right_wing.customLabel>ala derecha</FlyingInsect.corePart.parts.right_wing.customLabel>
+  <!-- EN: left eye -->
+  <FlyingInsect.corePart.parts.Pronotum.parts.InsectHead.parts.left_eye.customLabel>ojo izquierdo</FlyingInsect.corePart.parts.Pronotum.parts.InsectHead.parts.left_eye.customLabel>
+  <!-- EN: right eye -->
+  <FlyingInsect.corePart.parts.Pronotum.parts.InsectHead.parts.right_eye.customLabel>ojo derecho</FlyingInsect.corePart.parts.Pronotum.parts.InsectHead.parts.right_eye.customLabel>
+  <!-- EN: left antenna -->
+  <FlyingInsect.corePart.parts.Pronotum.parts.InsectHead.parts.left_antenna.customLabel>antena izquierda</FlyingInsect.corePart.parts.Pronotum.parts.InsectHead.parts.left_antenna.customLabel>
+  <!-- EN: right antenna -->
+  <FlyingInsect.corePart.parts.Pronotum.parts.InsectHead.parts.right_antenna.customLabel>antena derecha</FlyingInsect.corePart.parts.Pronotum.parts.InsectHead.parts.right_antenna.customLabel>
+  <!-- EN: front left leg -->
+  <FlyingInsect.corePart.parts.front_left_leg.customLabel>pata delantera izquierda</FlyingInsect.corePart.parts.front_left_leg.customLabel>
+  <!-- EN: front right leg -->
+  <FlyingInsect.corePart.parts.front_right_leg.customLabel>pata delantera derecha</FlyingInsect.corePart.parts.front_right_leg.customLabel>
+  <!-- EN: middle left leg -->
+  <FlyingInsect.corePart.parts.middle_left_leg.customLabel>pata media izquierda</FlyingInsect.corePart.parts.middle_left_leg.customLabel>
+  <!-- EN: middle right leg -->
+  <FlyingInsect.corePart.parts.middle_right_leg.customLabel>pata media derecha</FlyingInsect.corePart.parts.middle_right_leg.customLabel>
+  <!-- EN: rear left leg -->
+  <FlyingInsect.corePart.parts.rear_left_leg.customLabel>pata trasera izquierda</FlyingInsect.corePart.parts.rear_left_leg.customLabel>
+  <!-- EN: rear right leg -->
+  <FlyingInsect.corePart.parts.rear_right_leg.customLabel>pata trasera derecha</FlyingInsect.corePart.parts.rear_right_leg.customLabel>
+  
+  <!-- EN: kangaroo-like -->
+  <KangarooLike.label>parecido a un canguro</KangarooLike.label>
+  <!-- EN: left lung -->
+  <KangarooLike.corePart.parts.left_lung.customLabel>pulmón izquierdo</KangarooLike.corePart.parts.left_lung.customLabel>
+  <!-- EN: right lung -->
+  <KangarooLike.corePart.parts.right_lung.customLabel>pulmón derecho</KangarooLike.corePart.parts.right_lung.customLabel>
+  <!-- EN: left kidney -->
+  <KangarooLike.corePart.parts.left_kidney.customLabel>riñón izquierdo</KangarooLike.corePart.parts.left_kidney.customLabel>
+  <!-- EN: right kidney -->
+  <KangarooLike.corePart.parts.right_kidney.customLabel>riñón derecho</KangarooLike.corePart.parts.right_kidney.customLabel>
+  <!-- EN: left eye -->
+  <KangarooLike.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>ojo izquierdo</KangarooLike.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>
+  <!-- EN: right eye -->
+  <KangarooLike.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>ojo derecho</KangarooLike.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>
+  <!-- EN: left ear -->
+  <KangarooLike.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>oreja izquierda</KangarooLike.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>
+  <!-- EN: right ear -->
+  <KangarooLike.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>oreja derecha</KangarooLike.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>
+  <!-- EN: left shoulder -->
+  <KangarooLike.corePart.parts.left_shoulder.customLabel>hombro izquierdo</KangarooLike.corePart.parts.left_shoulder.customLabel>
+  <!-- EN: left clavicle -->
+  <KangarooLike.corePart.parts.left_shoulder.parts.left_clavicle.customLabel>clavícula izquierda</KangarooLike.corePart.parts.left_shoulder.parts.left_clavicle.customLabel>
+  <!-- EN: left arm -->
+  <KangarooLike.corePart.parts.left_shoulder.parts.left_arm.customLabel>brazo izquierdo</KangarooLike.corePart.parts.left_shoulder.parts.left_arm.customLabel>
+  <!-- EN: left humerus -->
+  <KangarooLike.corePart.parts.left_shoulder.parts.left_arm.parts.left_humerus.customLabel>húmero izquierdo</KangarooLike.corePart.parts.left_shoulder.parts.left_arm.parts.left_humerus.customLabel>
+  <!-- EN: left radius -->
+  <KangarooLike.corePart.parts.left_shoulder.parts.left_arm.parts.left_radius.customLabel>radio izquierdo</KangarooLike.corePart.parts.left_shoulder.parts.left_arm.parts.left_radius.customLabel>
+  <!-- EN: left hand -->
+  <KangarooLike.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.customLabel>mano izquierda</KangarooLike.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.customLabel>
+  <!-- EN: right shoulder -->
+  <KangarooLike.corePart.parts.right_shoulder.customLabel>hombro derecho</KangarooLike.corePart.parts.right_shoulder.customLabel>
+  <!-- EN: right clavicle -->
+  <KangarooLike.corePart.parts.right_shoulder.parts.right_clavicle.customLabel>clavícula derecha</KangarooLike.corePart.parts.right_shoulder.parts.right_clavicle.customLabel>
+  <!-- EN: right arm -->
+  <KangarooLike.corePart.parts.right_shoulder.parts.right_arm.customLabel>brazo derecho</KangarooLike.corePart.parts.right_shoulder.parts.right_arm.customLabel>
+  <!-- EN: right humerus -->
+  <KangarooLike.corePart.parts.right_shoulder.parts.right_arm.parts.right_humerus.customLabel>húmero derecho</KangarooLike.corePart.parts.right_shoulder.parts.right_arm.parts.right_humerus.customLabel>
+  <!-- EN: right radius -->
+  <KangarooLike.corePart.parts.right_shoulder.parts.right_arm.parts.right_radius.customLabel>radio derecho</KangarooLike.corePart.parts.right_shoulder.parts.right_arm.parts.right_radius.customLabel>
+  <!-- EN: right hand -->
+  <KangarooLike.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.customLabel>mano derecha</KangarooLike.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.customLabel>
+  <!-- EN: left leg -->
+  <KangarooLike.corePart.parts.left_leg.customLabel>pata izquierda</KangarooLike.corePart.parts.left_leg.customLabel>
+  <!-- EN: left femur -->
+  <KangarooLike.corePart.parts.left_leg.parts.left_femur.customLabel>fémur izquierdo</KangarooLike.corePart.parts.left_leg.parts.left_femur.customLabel>
+  <!-- EN: left tibia -->
+  <KangarooLike.corePart.parts.left_leg.parts.left_tibia.customLabel>tibia izquierda</KangarooLike.corePart.parts.left_leg.parts.left_tibia.customLabel>
+  <!-- EN: left foot -->
+  <KangarooLike.corePart.parts.left_leg.parts.left_foot.customLabel>pie izquierdo</KangarooLike.corePart.parts.left_leg.parts.left_foot.customLabel>
+  <!-- EN: right leg -->
+  <KangarooLike.corePart.parts.right_leg.customLabel>pata derecha</KangarooLike.corePart.parts.right_leg.customLabel>
+  <!-- EN: right femur -->
+  <KangarooLike.corePart.parts.right_leg.parts.right_femur.customLabel>fémur derecho</KangarooLike.corePart.parts.right_leg.parts.right_femur.customLabel>
+  <!-- EN: right tibia -->
+  <KangarooLike.corePart.parts.right_leg.parts.right_tibia.customLabel>tibia derecha</KangarooLike.corePart.parts.right_leg.parts.right_tibia.customLabel>
+  <!-- EN: right foot -->
+  <KangarooLike.corePart.parts.right_leg.parts.right_foot.customLabel>pie derecho</KangarooLike.corePart.parts.right_leg.parts.right_foot.customLabel>
+  
+  <!-- EN: quadruped animal with carapace -->
+  <QuadrupedAnimalWithCarapace.label>cuadrúpedo con caparazón</QuadrupedAnimalWithCarapace.label>
+  <!-- EN: left lung -->
+  <QuadrupedAnimalWithCarapace.corePart.parts.left_lung.customLabel>pulmón izquierdo</QuadrupedAnimalWithCarapace.corePart.parts.left_lung.customLabel>
+  <!-- EN: right lung -->
+  <QuadrupedAnimalWithCarapace.corePart.parts.right_lung.customLabel>pulmón derecho</QuadrupedAnimalWithCarapace.corePart.parts.right_lung.customLabel>
+  <!-- EN: left kidney -->
+  <QuadrupedAnimalWithCarapace.corePart.parts.left_kidney.customLabel>riñón izquierdo</QuadrupedAnimalWithCarapace.corePart.parts.left_kidney.customLabel>
+  <!-- EN: right kidney -->
+  <QuadrupedAnimalWithCarapace.corePart.parts.right_kidney.customLabel>riñón derecho</QuadrupedAnimalWithCarapace.corePart.parts.right_kidney.customLabel>
+  <!-- EN: left eye -->
+  <QuadrupedAnimalWithCarapace.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>ojo izquierdo</QuadrupedAnimalWithCarapace.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>
+  <!-- EN: right eye -->
+  <QuadrupedAnimalWithCarapace.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>ojo derecho</QuadrupedAnimalWithCarapace.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>
+  <!-- EN: left ear -->
+  <QuadrupedAnimalWithCarapace.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>oreja izquierda</QuadrupedAnimalWithCarapace.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>
+  <!-- EN: right ear -->
+  <QuadrupedAnimalWithCarapace.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>oreja derecha</QuadrupedAnimalWithCarapace.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>
+  <!-- EN: front left leg -->
+  <QuadrupedAnimalWithCarapace.corePart.parts.front_left_leg.customLabel>pata delantera izquierda</QuadrupedAnimalWithCarapace.corePart.parts.front_left_leg.customLabel>
+  <!-- EN: front left paw -->
+  <QuadrupedAnimalWithCarapace.corePart.parts.front_left_leg.parts.front_left_paw.customLabel>garra delantera izquierda</QuadrupedAnimalWithCarapace.corePart.parts.front_left_leg.parts.front_left_paw.customLabel>
+  <!-- EN: front right leg -->
+  <QuadrupedAnimalWithCarapace.corePart.parts.front_right_leg.customLabel>pata delantera derecha</QuadrupedAnimalWithCarapace.corePart.parts.front_right_leg.customLabel>
+  <!-- EN: front right paw -->
+  <QuadrupedAnimalWithCarapace.corePart.parts.front_right_leg.parts.front_right_paw.customLabel>garra delantera derecha</QuadrupedAnimalWithCarapace.corePart.parts.front_right_leg.parts.front_right_paw.customLabel>
+  <!-- EN: rear left leg -->
+  <QuadrupedAnimalWithCarapace.corePart.parts.rear_left_leg.customLabel>pata trasera izquierda</QuadrupedAnimalWithCarapace.corePart.parts.rear_left_leg.customLabel>
+  <!-- EN: rear left paw -->
+  <QuadrupedAnimalWithCarapace.corePart.parts.rear_left_leg.parts.rear_left_paw.customLabel>garra trasera izquierda</QuadrupedAnimalWithCarapace.corePart.parts.rear_left_leg.parts.rear_left_paw.customLabel>
+  <!-- EN: rear right leg -->
+  <QuadrupedAnimalWithCarapace.corePart.parts.rear_right_leg.customLabel>pata trasera derecha</QuadrupedAnimalWithCarapace.corePart.parts.rear_right_leg.customLabel>
+  <!-- EN: rear right paw -->
+  <QuadrupedAnimalWithCarapace.corePart.parts.rear_right_leg.parts.rear_right_paw.customLabel>garra trasera derecha</QuadrupedAnimalWithCarapace.corePart.parts.rear_right_leg.parts.rear_right_paw.customLabel>
+  
+  <!-- EN: quadruped animal -->
+  <QuadrupedAnimalWithPawsTailAndFangs.label>cuadrúpedo con garras, cola y colmillos</QuadrupedAnimalWithPawsTailAndFangs.label>
+  <!-- EN: left lung -->
+  <QuadrupedAnimalWithPawsTailAndFangs.corePart.parts.left_lung.customLabel>pulmón izquierdo</QuadrupedAnimalWithPawsTailAndFangs.corePart.parts.left_lung.customLabel>
+  <!-- EN: right lung -->
+  <QuadrupedAnimalWithPawsTailAndFangs.corePart.parts.right_lung.customLabel>pulmón derecho</QuadrupedAnimalWithPawsTailAndFangs.corePart.parts.right_lung.customLabel>
+  <!-- EN: left kidney -->
+  <QuadrupedAnimalWithPawsTailAndFangs.corePart.parts.left_kidney.customLabel>riñón izquierdo</QuadrupedAnimalWithPawsTailAndFangs.corePart.parts.left_kidney.customLabel>
+  <!-- EN: right kidney -->
+  <QuadrupedAnimalWithPawsTailAndFangs.corePart.parts.right_kidney.customLabel>riñón derecho</QuadrupedAnimalWithPawsTailAndFangs.corePart.parts.right_kidney.customLabel>
+  <!-- EN: left eye -->
+  <QuadrupedAnimalWithPawsTailAndFangs.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>ojo izquierdo</QuadrupedAnimalWithPawsTailAndFangs.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>
+  <!-- EN: right eye -->
+  <QuadrupedAnimalWithPawsTailAndFangs.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>ojo derecho</QuadrupedAnimalWithPawsTailAndFangs.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>
+  <!-- EN: left ear -->
+  <QuadrupedAnimalWithPawsTailAndFangs.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>oreja izquierda</QuadrupedAnimalWithPawsTailAndFangs.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>
+  <!-- EN: right ear -->
+  <QuadrupedAnimalWithPawsTailAndFangs.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>oreja derecha</QuadrupedAnimalWithPawsTailAndFangs.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>
+  <!-- EN: front left leg -->
+  <QuadrupedAnimalWithPawsTailAndFangs.corePart.parts.front_left_leg.customLabel>pata delantera izquierda</QuadrupedAnimalWithPawsTailAndFangs.corePart.parts.front_left_leg.customLabel>
+  <!-- EN: front left paw -->
+  <QuadrupedAnimalWithPawsTailAndFangs.corePart.parts.front_left_leg.parts.front_left_paw.customLabel>garra delantera izquierda</QuadrupedAnimalWithPawsTailAndFangs.corePart.parts.front_left_leg.parts.front_left_paw.customLabel>
+  <!-- EN: front right leg -->
+  <QuadrupedAnimalWithPawsTailAndFangs.corePart.parts.front_right_leg.customLabel>pata delantera derecha</QuadrupedAnimalWithPawsTailAndFangs.corePart.parts.front_right_leg.customLabel>
+  <!-- EN: front right paw -->
+  <QuadrupedAnimalWithPawsTailAndFangs.corePart.parts.front_right_leg.parts.front_right_paw.customLabel>garra delantera derecha</QuadrupedAnimalWithPawsTailAndFangs.corePart.parts.front_right_leg.parts.front_right_paw.customLabel>
+  <!-- EN: rear left leg -->
+  <QuadrupedAnimalWithPawsTailAndFangs.corePart.parts.rear_left_leg.customLabel>pata trasera izquierda</QuadrupedAnimalWithPawsTailAndFangs.corePart.parts.rear_left_leg.customLabel>
+  <!-- EN: rear left paw -->
+  <QuadrupedAnimalWithPawsTailAndFangs.corePart.parts.rear_left_leg.parts.rear_left_paw.customLabel>garra trasera izquierda</QuadrupedAnimalWithPawsTailAndFangs.corePart.parts.rear_left_leg.parts.rear_left_paw.customLabel>
+  <!-- EN: rear right leg -->
+  <QuadrupedAnimalWithPawsTailAndFangs.corePart.parts.rear_right_leg.customLabel>pata trasera derecha</QuadrupedAnimalWithPawsTailAndFangs.corePart.parts.rear_right_leg.customLabel>
+  <!-- EN: rear right paw -->
+  <QuadrupedAnimalWithPawsTailAndFangs.corePart.parts.rear_right_leg.parts.rear_right_paw.customLabel>garra trasera derecha</QuadrupedAnimalWithPawsTailAndFangs.corePart.parts.rear_right_leg.parts.rear_right_paw.customLabel>
+  
+  <!-- EN: scorpion -->
+  <Scorpion.label>escorpión</Scorpion.label>
+  <!-- EN: left lateral eye -->
+  <Scorpion.corePart.parts.Pronotum.parts.InsectHead.parts.left_lateral_eye.customLabel>ojo lateral izquierdo</Scorpion.corePart.parts.Pronotum.parts.InsectHead.parts.left_lateral_eye.customLabel>
+  <!-- EN: right lateral eye -->
+  <Scorpion.corePart.parts.Pronotum.parts.InsectHead.parts.right_lateral_eye.customLabel>ojo lateral derecho</Scorpion.corePart.parts.Pronotum.parts.InsectHead.parts.right_lateral_eye.customLabel>
+  <!-- EN: left median eye -->
+  <Scorpion.corePart.parts.Pronotum.parts.InsectHead.parts.left_median_eye.customLabel>ojo medio izquierdo</Scorpion.corePart.parts.Pronotum.parts.InsectHead.parts.left_median_eye.customLabel>
+  <!-- EN: right median eye -->
+  <Scorpion.corePart.parts.Pronotum.parts.InsectHead.parts.right_median_eye.customLabel>ojo medio derecho</Scorpion.corePart.parts.Pronotum.parts.InsectHead.parts.right_median_eye.customLabel>
+  <!-- EN: front left leg -->
+  <Scorpion.corePart.parts.front_left_leg.customLabel>pata delantera izquierda</Scorpion.corePart.parts.front_left_leg.customLabel>
+  <!-- EN: front right leg -->
+  <Scorpion.corePart.parts.front_right_leg.customLabel>pata delantera derecha</Scorpion.corePart.parts.front_right_leg.customLabel>
+  <!-- EN: middle left leg -->
+  <Scorpion.corePart.parts.middle_left_leg.customLabel>pata media izquierda</Scorpion.corePart.parts.middle_left_leg.customLabel>
+  <!-- EN: middle right leg -->
+  <Scorpion.corePart.parts.middle_right_leg.customLabel>pata media derecha</Scorpion.corePart.parts.middle_right_leg.customLabel>
+  <!-- EN: rear left leg -->
+  <Scorpion.corePart.parts.rear_left_leg.customLabel>pata trasera izquierda</Scorpion.corePart.parts.rear_left_leg.customLabel>
+  <!-- EN: rear right leg -->
+  <Scorpion.corePart.parts.rear_right_leg.customLabel>pata trasera derecha</Scorpion.corePart.parts.rear_right_leg.customLabel>
+  <!-- EN: left pincer -->
+  <Scorpion.corePart.parts.left_pincer.customLabel>pinza izquierda</Scorpion.corePart.parts.left_pincer.customLabel>
+  <!-- EN: right pincer -->
+  <Scorpion.corePart.parts.right_pincer.customLabel>pinza derecha</Scorpion.corePart.parts.right_pincer.customLabel>
+  
+  <!-- EN: seal -->
+  <Seal.label>foca</Seal.label>
+  <!-- EN: front left flipper -->
+  <Seal.corePart.parts.front_left_flipper.customLabel>aleta delantera izquierda</Seal.corePart.parts.front_left_flipper.customLabel>
+  <!-- EN: front right flipper -->
+  <Seal.corePart.parts.front_right_flipper.customLabel>aleta delantera derecha</Seal.corePart.parts.front_right_flipper.customLabel>
+  
 </LanguageData>

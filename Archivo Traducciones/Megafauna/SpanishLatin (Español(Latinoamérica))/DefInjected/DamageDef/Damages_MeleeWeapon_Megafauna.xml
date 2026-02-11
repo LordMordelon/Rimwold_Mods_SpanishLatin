@@ -1,5 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-    <ToxicSting.label>aguijón tóxico</ToxicSting.label>
-    <ToxicSting.deathMessage>{0} ha sido picado hasta la muerte.</ToxicSting.deathMessage>
+  
+  <!-- EN: toxic sting -->
+  <ToxicSting.label>picadura tóxica</ToxicSting.label>
+  <!-- EN: {0} has been stung to death. -->
+  <ToxicSting.deathMessage>{0} ha muerto por picadura.</ToxicSting.deathMessage>
+  
 </LanguageData>
