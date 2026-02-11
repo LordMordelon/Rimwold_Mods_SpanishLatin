@@ -1,0 +1,36 @@
+Errores de compilacion - 2026-02-09 23:12:20
+==================================================
+
+1. Archivo: Archivo Traducciones/Megafauna/SpanishLatin (Español(Latinoamérica))/DefInjected/PawnKindDef/Races_Animal_Megafauna.xml
+   Motivo: XML invalido: mismatched tag: line 5, column 60
+   Trace:
+Traceback (most recent call last):
+  File "/home/runner/work/Rimwold_Mods_SpanishLatin/Rimwold_Mods_SpanishLatin/Programas/cli_compilador.py", line 169, in copiar_traducciones
+    root = ET.fromstring(content, parser=parser)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.14/x64/lib/python3.11/xml/etree/ElementTree.py", line 1350, in XML
+    parser.feed(text)
+xml.etree.ElementTree.ParseError: mismatched tag: line 5, column 60
+
+2. Archivo: Archivo Traducciones/Megafauna/SpanishLatin (Español(Latinoamérica))/DefInjected/BodyDef/Bodies_Animal_Megafauna.xml
+   Motivo: XML invalido: mismatched tag: line 3, column 22
+   Trace:
+Traceback (most recent call last):
+  File "/home/runner/work/Rimwold_Mods_SpanishLatin/Rimwold_Mods_SpanishLatin/Programas/cli_compilador.py", line 169, in copiar_traducciones
+    root = ET.fromstring(content, parser=parser)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.14/x64/lib/python3.11/xml/etree/ElementTree.py", line 1350, in XML
+    parser.feed(text)
+xml.etree.ElementTree.ParseError: mismatched tag: line 3, column 22
+
+3. Archivo: Archivo Traducciones/Megafauna/SpanishLatin (Español(Latinoamérica))/DefInjected/ThingDef/Items_Resource_Megafauna_Items.xml
+   Motivo: XML invalido: mismatched tag: line 73, column 2
+   Trace:
+Traceback (most recent call last):
+  File "/home/runner/work/Rimwold_Mods_SpanishLatin/Rimwold_Mods_SpanishLatin/Programas/cli_compilador.py", line 169, in copiar_traducciones
+    root = ET.fromstring(content, parser=parser)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.14/x64/lib/python3.11/xml/etree/ElementTree.py", line 1350, in XML
+    parser.feed(text)
+xml.etree.ElementTree.ParseError: mismatched tag: line 73, column 2
+
