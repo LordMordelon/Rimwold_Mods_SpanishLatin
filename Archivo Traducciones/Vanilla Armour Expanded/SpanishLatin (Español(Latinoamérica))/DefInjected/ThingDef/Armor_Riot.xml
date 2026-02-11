@@ -1,15 +1,21 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <VAE_Apparel_RiotArmor.label>riot armor</VAE_Apparel_RiotArmor.label>
-  <VAE_Apparel_RiotArmor.description>A thick jacket with armor plates inserted on chests, arms, legs and back. Very effective at protecting against blunt trauma, this kind of armor is often used by riot police and heavy infantry alike.</VAE_Apparel_RiotArmor.description>
-
-  <VAE_Apparel_RiotHelmet.label>riot helmet</VAE_Apparel_RiotHelmet.label>
-  <VAE_Apparel_RiotHelmet.description>A heavy combat helmet with a face covering plate. Often used by riot police units due to its effectiveness at protecting against blunt trauma.</VAE_Apparel_RiotHelmet.description>
-
-  <VAE_Apparel_Shield_Riot.label>riot shield</VAE_Apparel_Shield_Riot.label>
-  <VAE_Apparel_Shield_Riot.description>An industrial heavy shield made out of reinforced steel. Provides a lot of protection against blunt damage, which makes it ideal for urbworld riot police.</VAE_Apparel_Shield_Riot.description>
-  <VAE_Apparel_Shield_Riot.tools.0.label>centre</VAE_Apparel_Shield_Riot.tools.0.label>
-
-
+  
+  <!-- EN: riot armor -->
+  <VAE_Apparel_RiotArmor.label>armadura antidisturbios</VAE_Apparel_RiotArmor.label>
+  <!-- EN: A thick jacket with armor plates inserted on chests, arms, legs and back. Very effective at protecting against blunt trauma, this kind of armor is often used by riot police and heavy infantry alike. -->
+  <VAE_Apparel_RiotArmor.description>Una chaqueta gruesa con placas de armadura insertadas en el pecho, brazos, piernas y espalda. Muy eficaz para proteger contra traumatismos contundentes, este tipo de armadura es utilizada a menudo por la policía antidisturbios y la infantería pesada por igual.</VAE_Apparel_RiotArmor.description>
+  
+  <!-- EN: riot helmet -->
+  <VAE_Apparel_RiotHelmet.label>casco antidisturbios</VAE_Apparel_RiotHelmet.label>
+  <!-- EN: A heavy combat helmet with a face covering plate. Often used by riot police units due to its effectiveness at protecting against blunt trauma. -->
+  <VAE_Apparel_RiotHelmet.description>Un casco de combate pesado con una placa que cubre la cara. A menudo utilizado por unidades de policía antidisturbios debido a su eficacia para proteger contra traumatismos contundentes.</VAE_Apparel_RiotHelmet.description>
+  
+  <!-- EN: riot shield -->
+  <VAE_Apparel_Shield_Riot.label>escudo antidisturbios</VAE_Apparel_Shield_Riot.label>
+  <!-- EN: An industrial heavy shield made out of reinforced steel. Provides a lot of protection against blunt damage, which makes it ideal for urbworld riot police. -->
+  <VAE_Apparel_Shield_Riot.description>Un escudo pesado industrial hecho de acero reforzado. Proporciona mucha protección contra daños contundentes, lo que lo hace ideal para la policía antidisturbios de mundos urbanos.</VAE_Apparel_Shield_Riot.description>
+  <!-- EN: centre -->
+  <VAE_Apparel_Shield_Riot.tools.centre.label>centro</VAE_Apparel_Shield_Riot.tools.centre.label>
+  
 </LanguageData>

@@ -1,12 +1,18 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-    <IntheStandaloneHotSpring.label>Aguas curativas</IntheStandaloneHotSpring.label>
-    <IntheStandaloneHotSpring.description>las aguas terapéuticas de la Fuente termal permiten al cuerpo curar heridas rápidamente y recuperarse de enfermedades con mayor rapidez. A los Colonos no les importan las temperaturas extremas mientras están sumergidos en las aguas termales.</IntheStandaloneHotSpring.description>
-    <IntheStandaloneHotSpring.labelNoun>Aguas curativas</IntheStandaloneHotSpring.labelNoun>
-
-    <BathedInStandaloneHotspring.label>Rejuvenecimiento residual</BathedInStandaloneHotspring.label>
-    <BathedInStandaloneHotspring.description>Un baño reciente en las aguas termales acelera la curación de las heridas y recuperación de enfermedades durante 24 horas tras abandonar las aguas calmantes.\n\n(Los efectos curativos de este hediff son las mismas del hediff de 'aguas curativas'. no necesitas que constantemente los Colonos enfermos y/o heridos usen las aguas termales repetidamente; una sola visita por día es suficiente.)</BathedInStandaloneHotspring.description>
-    <BathedInStandaloneHotspring.labelNoun>Rejuvenecimiento residual</BathedInStandaloneHotspring.labelNoun>
-    
+  
+  <!-- EN: Residual rejuvenation -->
+  <BathedInStandaloneHotspring.label>rejuvenecimiento residual</BathedInStandaloneHotspring.label>
+  <!-- EN: A recent soak in a hot spring accelerates the healing of wounds and recovery from illnesses for slightly over 24 hours after leaving the soothing waters.\n\n(The healing effects of this hediff are the same as the 'Healing waters' hediff. You do not need to constantly direct sick and/or injured pawns to repeatedly use the spring; a single visit per day is sufficient.) -->
+  <BathedInStandaloneHotspring.description>Un baño reciente en una fuente termal acelera la curación de heridas y la recuperación de enfermedades por poco más de 24 horas tras salir de las aguas relajantes.\n\n(Los efectos curativos de este estado son los mismos que los del estado 'Aguas curativas'. No necesitas ordenar constantemente a los colonos enfermos o heridos que usen la fuente repetidamente; una sola visita al día es suficiente.)</BathedInStandaloneHotspring.description>
+  <!-- EN: Residual rejuvenation -->
+  <BathedInStandaloneHotspring.labelNoun>rejuvenecimiento residual</BathedInStandaloneHotspring.labelNoun>
+  
+  <!-- EN: Healing waters -->
+  <IntheStandaloneHotSpring.label>aguas curativas</IntheStandaloneHotSpring.label>
+  <!-- EN: The therapeutic waters of a hot spring allow the body to heal wounds faster and recover from illnesses more quickly. Pawns do not mind temperatures of either extreme while submerged in the hot spring's waters. -->
+  <IntheStandaloneHotSpring.description>Las aguas terapéuticas de una fuente termal permiten al cuerpo curar heridas y recuperarse de enfermedades más rápidamente. A los colonos no les molestan las temperaturas extremas mientras están sumergidos en las aguas de la fuente termal.</IntheStandaloneHotSpring.description>
+  <!-- EN: Healing waters -->
+  <IntheStandaloneHotSpring.labelNoun>aguas curativas</IntheStandaloneHotSpring.labelNoun>
+  
 </LanguageData>

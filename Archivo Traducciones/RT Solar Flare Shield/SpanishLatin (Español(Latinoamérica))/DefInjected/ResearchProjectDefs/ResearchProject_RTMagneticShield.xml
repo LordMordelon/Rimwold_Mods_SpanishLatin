@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-	<ResearchProject_RTMagneticShield.label>escudos anti llamaradas solares</ResearchProject_RTMagneticShield.label>
-	<ResearchProject_RTMagneticShield.description>Permite la construcción de un escudo magnético para proteger los aparatos electrónicos de toda la colonia de una llamarada solar.
-
-Cuando está inactivo, el escudo requiere una miseria de poder para mantener sus circuitos de detección, para cuando ocurra una llamarada solar este se active. cuando eso suceda, el escudo empezará a consumir hasta 25 kWh de energía para formar una semblanza de magnetosfera localizada, neutralizando el efecto de la llamarada solar en los dispositivos de una colonia. El alcance de esta protección es tan efectiva que es suficiente para cubrir la colonia y otras cosas.
-
-incluso siendo reducido por el escudo, las fluctuaciones electromagnéticas excesivas causadas por la llamarada aún seguirán haciendo que los dispositivos más sensibles como las consolas de comunicación sean inoperables.</ResearchProject_RTMagneticShield.description>
+  <!-- EN: solar flare shielding -->
+  <ResearchProject_RTMagneticShield.label>escudo contrallamaradas</ResearchProject_RTMagneticShield.label>
+  <!-- EN: Allows construction of a magnetic shield to protect electric devices in the entire colony from solar flares.\n\nWhen idle, the shield requires a pittance of power to maintain it's detection circuits, ever ready to activate whenever a solar flare occurs. Should that happen, the shield will start drawing up to 25 kWt of power in order to form a semblance of localized magnetosphere, neutralizing the effect a solar flare would have on colony's electronics. Effective range of this protection is enough to cover the colony and then some.\n\nEven reduced by the shield, excessive electromagnetic fluctuations caused by the flare will still render more sensitive devices like comms consoles inoperable. -->
+  <ResearchProject_RTMagneticShield.description>Permite construir un escudo magnetico para proteger los dispositivos electricos de toda la colonia de las llamaradas solares.\n\nCuando esta inactivo, el escudo requiere un poco de energia para mantener sus circuitos de deteccion, listos para activarse cada vez que ocurra una llamarada solar. Cuando eso suceda, el escudo empezara a consumir hasta 25 kWt de energia para formar una semblanza de magnetosfera localizada, neutralizando el efecto que una llamarada solar tendria sobre los dispositivos electronicos de la colonia. El alcance efectivo de esta proteccion es suficiente para cubrir la colonia y algo mas.\n\nIncluso con el escudo, las fluctuaciones electromagneticas excesivas causadas por la llamarada aun haran que los dispositivos mas sensibles como las consolas de comunicacion queden inoperables.</ResearchProject_RTMagneticShield.description>
 
 </LanguageData>
