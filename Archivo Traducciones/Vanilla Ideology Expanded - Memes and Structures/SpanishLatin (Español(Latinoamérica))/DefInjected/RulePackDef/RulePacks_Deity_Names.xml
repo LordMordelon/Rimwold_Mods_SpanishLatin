@@ -1,0 +1,310 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>r_deityType(p=4)->[businessname] [businesstype]</li>
+    <li>r_deityType->[NamePerson] [businesstype]</li>
+    <li>r_deityType->[maybe_adjective] [Animal] [businesstype]</li>
+    <li>r_deityType->[Letter][Letter] [businesstype]</li>
+    <li>r_deityType(p=0.5)->[PersonAlly] [businesstype]</li>
+    <li>r_deityType(p=0.5)->[AdjectiveFriendly] [businesstype]</li>
+    <li>r_deityType(p=0.5)->[AdjectiveBadass] [businesstype]</li>
+    <li>r_deityType(p=0.3)->[PersonFamily] [businesstype]</li>
+    <li>r_deityType(p=0.3)->[maybe_adjective] [NaturalObject] [businesstype]</li>
+    <li>r_deityType(p=0.2)->[maybe_adjective] [TreeType] [businesstype]</li>
+    <li>r_deityType(p=0.2)->[maybe_adjective] [Vegetable] [businesstype]</li>
+    <li>r_deityType(p=0.2)->[Direction] [businesstype]</li>
+    <li>maybe_adjective-></li>
+    <li>maybe_adjective->[Color]</li>
+    <li>maybe_adjective->[AdjectiveFriendly]</li>
+    <li>maybe_adjective->[AdjectiveBadass]</li>
+  -->
+  <VME_DietyTypeMakerCorporate.rulePack.rulesStrings>
+    <li>r_deityType(p=4)->[businessname] [businesstype]</li>
+    <li>r_deityType->[NamePerson] [businesstype]</li>
+    <li>r_deityType->[maybe_adjective] [Animal] [businesstype]</li>
+    <li>r_deityType->[Letter][Letter] [businesstype]</li>
+    <li>r_deityType(p=0.5)->[PersonAlly] [businesstype]</li>
+    <li>r_deityType(p=0.5)->[AdjectiveFriendly] [businesstype]</li>
+    <li>r_deityType(p=0.5)->[AdjectiveBadass] [businesstype]</li>
+    <li>r_deityType(p=0.3)->[PersonFamily] [businesstype]</li>
+    <li>r_deityType(p=0.3)->[maybe_adjective] [NaturalObject] [businesstype]</li>
+    <li>r_deityType(p=0.2)->[maybe_adjective] [TreeType] [businesstype]</li>
+    <li>r_deityType(p=0.2)->[maybe_adjective] [Vegetable] [businesstype]</li>
+    <li>r_deityType(p=0.2)->[Direction] [businesstype]</li>
+    <li>maybe_adjective-></li>
+    <li>maybe_adjective->[Color]</li>
+    <li>maybe_adjective->[AdjectiveFriendly]</li>
+    <li>maybe_adjective->[AdjectiveBadass]</li>
+  </VME_DietyTypeMakerCorporate.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_deityType->[name1] of [name2]</li>
+    <li>name1->Admiral</li>
+    <li>name1->Pontifex</li>
+    <li>name1->Palatine</li>
+    <li>name1->Emperor</li>
+    <li>name1->Delegate</li>
+    <li>name1->Overlord</li>
+    <li>name1->Chairman</li>
+    <li>name1->Guardian</li>
+    <li>name1->Exarch</li>
+    <li>name2->Truth</li>
+    <li>name2->Justice</li>
+    <li>name2->the People</li>
+    <li>name2->the Rivers</li>
+    <li>name2->Dreams</li>
+    <li>name2->Eternity</li>
+    <li>name2->Worship</li>
+    <li>name2->Mercy</li>
+    <li>name2->Unity</li>
+    <li>name2->the New Kingdom</li>
+    <li>name2->the Realm</li>
+  -->
+  <VME_DietyTypeMakerCultofPersonality.rulePack.rulesStrings>
+    <li>r_deityType->[name1] de [name2]</li>
+    <li>name1->Almirante</li>
+    <li>name1->Pontífice</li>
+    <li>name1->Palatino</li>
+    <li>name1->Emperador</li>
+    <li>name1->Delegado</li>
+    <li>name1->Señor Supremo</li>
+    <li>name1->Presidente</li>
+    <li>name1->Guardián</li>
+    <li>name1->Exarca</li>
+    <li>name2->la Verdad</li>
+    <li>name2->la Justicia</li>
+    <li>name2->el Pueblo</li>
+    <li>name2->los Ríos</li>
+    <li>name2->los Sueños</li>
+    <li>name2->la Eternidad</li>
+    <li>name2->la Adoración</li>
+    <li>name2->la Misericordia</li>
+    <li>name2->la Unidad</li>
+    <li>name2->el Nuevo Reino</li>
+    <li>name2->el Reino</li>
+  </VME_DietyTypeMakerCultofPersonality.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_deityType->Progenitor of [concept]</li>
+    <li>r_deityType->Corruptor of [concept]</li>
+    <li>r_deityType->Bane of [concept]</li>
+    <li>r_deityType->Enemy of [concept]</li>
+    <li>r_deityType->Devourer of [concept]</li>
+    <li>r_deityType->Scourge of [concept]</li>
+    <li>r_deityType->The incomprehensible [concept]</li>
+    <li>r_deityType->The noise at the center of [concept]</li>
+    <li>r_deityType->The [concept2] out of [concept3]</li>
+    <li>concept->everything</li>
+    <li>concept->all</li>
+    <li>concept->the universe</li>
+    <li>concept->stars</li>
+    <li>concept->souls</li>
+    <li>concept->humanity</li>
+    <li>concept->space</li>
+    <li>concept->our dreams</li>
+    <li>concept->our deepest fears</li>
+    <li>concept2->colour</li>
+    <li>concept2->thousand goats</li>
+    <li>concept2->hunger</li>
+    <li>concept2->scintillation</li>
+    <li>concept2->inkbloat</li>
+    <li>concept2->madness</li>
+    <li>concept2->insanity</li>
+    <li>concept3->space</li>
+    <li>concept3->the depths</li>
+    <li>concept3->the chthonian abyss</li>
+    <li>concept3->hades</li>
+    <li>concept3->our nightmares</li>
+    <li>concept3->our dreams</li>
+    <li>concept3->our deepest fears</li>
+  -->
+  <VME_DietyTypeMakerEldritch.rulePack.rulesStrings>
+    <li>r_deityType->Progenitor de [concept]</li>
+    <li>r_deityType->Corruptor de [concept]</li>
+    <li>r_deityType->Perdición de [concept]</li>
+    <li>r_deityType->Enemigo de [concept]</li>
+    <li>r_deityType->Devorador de [concept]</li>
+    <li>r_deityType->Azote de [concept]</li>
+    <li>r_deityType->El incomprensible [concept]</li>
+    <li>r_deityType->El ruido en el centro de [concept]</li>
+    <li>r_deityType->El [concept2] fuera de [concept3]</li>
+    <li>concept->todo</li>
+    <li>concept->todo</li>
+    <li>concept->el universo</li>
+    <li>concept->las estrellas</li>
+    <li>concept->las almas</li>
+    <li>concept->la humanidad</li>
+    <li>concept->el espacio</li>
+    <li>concept->nuestros sueños</li>
+    <li>concept->nuestros miedos más profundos</li>
+    <li>concept2->color</li>
+    <li>concept2->mil cabras</li>
+    <li>concept2->hambre</li>
+    <li>concept2->centelleo</li>
+    <li>concept2->hinchazón de tinta</li>
+    <li>concept2->locura</li>
+    <li>concept2->demencia</li>
+    <li>concept3->el espacio</li>
+    <li>concept3->las profundidades</li>
+    <li>concept3->el abismo ctónico</li>
+    <li>concept3->el hades</li>
+    <li>concept3->nuestras pesadillas</li>
+    <li>concept3->nuestros sueños</li>
+    <li>concept3->nuestros miedos más profundos</li>
+  </VME_DietyTypeMakerEldritch.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_deityType->[name1] [name2]</li>
+    <li>name1->All-Encompassing </li>
+    <li>name1->Omnipresent</li>
+    <li>name1->Ubiquitous</li>
+    <li>name1->Universal</li>
+    <li>name1->All-Present</li>
+    <li>name1->All-Pervasive</li>
+    <li>name1->Boundless</li>
+    <li>name2->Creation</li>
+    <li>name2->Space</li>
+    <li>name2->Vaccuum</li>
+    <li>name2->Totality</li>
+    <li>name2->Infinity</li>
+    <li>name2->Spheres</li>
+  -->
+  <VME_DietyTypeMakerPantheism.rulePack.rulesStrings>
+    <li>r_deityType->[name1] [name2]</li>
+    <li>name1->Abarcador </li>
+    <li>name1->Omnipresente</li>
+    <li>name1->Ubicuo</li>
+    <li>name1->Universal</li>
+    <li>name1->Omnipresente</li>
+    <li>name1->Omnipenetrante</li>
+    <li>name1->Ilimitado</li>
+    <li>name2->Creación</li>
+    <li>name2->Espacio</li>
+    <li>name2->Vacío</li>
+    <li>name2->Totalidad</li>
+    <li>name2->Infinitud</li>
+    <li>name2->Esferas</li>
+  </VME_DietyTypeMakerPantheism.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_deityName->The Company</li>
+    <li>r_deityName->The Business</li>
+    <li>r_deityName->The Corporation</li>
+    <li>r_deityName->The Organization</li>
+  -->
+  <VME_NamerCorporate.rulePack.rulesStrings>
+    <li>r_deityName->La Compañía</li>
+    <li>r_deityName->El Negocio</li>
+    <li>r_deityName->La Corporación</li>
+    <li>r_deityName->La Organización</li>
+  </VME_NamerCorporate.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_deityName->Our Supreme Leader</li>
+    <li>r_deityName->Supreme Leader</li>
+  -->
+  <VME_NamerCultofPersonality.rulePack.rulesStrings>
+    <li>r_deityName->Nuestro Líder Supremo</li>
+    <li>r_deityName->Líder Supremo</li>
+  </VME_NamerCultofPersonality.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_deityName->[start][middle][end]</li>
+    <li>start->cn</li>
+    <li>start->kt</li>
+    <li>start->c't</li>
+    <li>start->kh</li>
+    <li>start->yir</li>
+    <li>start->yor</li>
+    <li>start->yok</li>
+    <li>start->igh</li>
+    <li>start->vhal</li>
+    <li>start->gher</li>
+    <li>start->mh'ur</li>
+    <li>start->vh'or</li>
+    <li>start->og</li>
+    <li>start->ak</li>
+    <li>start->kol</li>
+    <li>start->okt</li>
+    <li>start->yom-</li>
+    <li>start->sub-</li>
+    <li>start->ed</li>
+    <li>start->ith</li>
+    <li>middle->all'ra</li>
+    <li>middle->hele</li>
+    <li>middle->ujhu</li>
+    <li>middle->aand'xu</li>
+    <li>middle->'og'vhe</li>
+    <li>middle->aathe</li>
+    <li>middle->omliggda</li>
+    <li>middle->ethla</li>
+    <li>middle->ouvha</li>
+    <li>middle->omlao</li>
+    <li>end(p=4)-></li>
+    <li>end->tl</li>
+    <li>end->ss</li>
+    <li>end->xr</li>
+    <li>end->rc</li>
+    <li>end->sh</li>
+    <li>end->l</li>
+    <li>end->va</li>
+    <li>end->rrath</li>
+    <li>end->th</li>
+  -->
+  <VME_NamerDeityEldritch.rulePack.rulesStrings>
+    <li>r_deityName->[start][middle][end]</li>
+    <li>start->cn</li>
+    <li>start->kt</li>
+    <li>start->c't</li>
+    <li>start->kh</li>
+    <li>start->yir</li>
+    <li>start->yor</li>
+    <li>start->yok</li>
+    <li>start->igh</li>
+    <li>start->vhal</li>
+    <li>start->gher</li>
+    <li>start->mh'ur</li>
+    <li>start->vh'or</li>
+    <li>start->og</li>
+    <li>start->ak</li>
+    <li>start->kol</li>
+    <li>start->okt</li>
+    <li>start->yom-</li>
+    <li>start->sub-</li>
+    <li>start->ed</li>
+    <li>start->ith</li>
+    <li>middle->all'ra</li>
+    <li>middle->hele</li>
+    <li>middle->ujhu</li>
+    <li>middle->aand'xu</li>
+    <li>middle->'og'vhe</li>
+    <li>middle->aathe</li>
+    <li>middle->omliggda</li>
+    <li>middle->ethla</li>
+    <li>middle->ouvha</li>
+    <li>middle->omlao</li>
+    <li>end(p=4)-></li>
+    <li>end->tl</li>
+    <li>end->ss</li>
+    <li>end->xr</li>
+    <li>end->rc</li>
+    <li>end->sh</li>
+    <li>end->l</li>
+    <li>end->va</li>
+    <li>end->rrath</li>
+    <li>end->th</li>
+  </VME_NamerDeityEldritch.rulePack.rulesStrings>
+  
+  <!-- EN:
+    <li>r_deityName->The Universe</li>
+    <li>r_deityName->The Cosmos</li>
+    <li>r_deityName->Existence</li>
+  -->
+  <VME_NamerPantheism.rulePack.rulesStrings>
+    <li>r_deityName->El Universo</li>
+    <li>r_deityName->El Cosmos</li>
+    <li>r_deityName->La Existencia</li>
+  </VME_NamerPantheism.rulePack.rulesStrings>
+  
+</LanguageData>

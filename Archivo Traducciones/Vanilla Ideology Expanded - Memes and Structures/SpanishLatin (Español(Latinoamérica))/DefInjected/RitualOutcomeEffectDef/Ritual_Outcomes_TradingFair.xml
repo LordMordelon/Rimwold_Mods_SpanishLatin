@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Depending on ritual quality and as long as it is positive, between 1 and 6 trade caravans arrive from friendly factions. Also, depending on ritual quality, participants will get between {MINMOOD} and {MAXMOOD} mood for {MOODDAYS} days.\n\nIf Microelectronics has been researched, you will need to have at least 200 silver near a valid trading beacon for the fair to work properly, or else participants will receive a "cheap trading fair" mood penalty. -->
+  <VME_TradingFairRitualOutcome.description>Dependiendo de la calidad del ritual y siempre que sea positiva, llegarán entre 1 y 6 caravanas comerciales de facciones amigas. Además, dependiendo de la calidad del ritual, los participantes obtendrán entre {MINMOOD} y {MAXMOOD} de humor durante {MOODDAYS} días.\n\nSi se ha investigado la Microelectrónica, necesitarás tener al menos 200 de plata cerca de una baliza de comercio válida para que la feria funcione correctamente, o de lo contrario los participantes recibirán una penalización de humor por "feria comercial barata".</VME_TradingFairRitualOutcome.description>
+  <!-- EN: trading fair organizer present -->
+  <VME_TradingFairRitualOutcome.comps.0.label>organizador de la feria comercial presente</VME_TradingFairRitualOutcome.comps.0.label>
+  <!-- EN: participant count -->
+  <VME_TradingFairRitualOutcome.comps.1.label>recuento de participantes</VME_TradingFairRitualOutcome.comps.1.label>
+  <!-- EN: Poorly Organized -->
+  <VME_TradingFairRitualOutcome.outcomeChances.0.label>Mal organizada</VME_TradingFairRitualOutcome.outcomeChances.0.label>
+  <!-- EN: The {0} was very poorly organized! With such a low quality effort, no additional caravans will be attracted to our settlement... -->
+  <VME_TradingFairRitualOutcome.outcomeChances.0.description>¡La {0} estuvo muy mal organizada! Con un esfuerzo de tan baja calidad, no se atraerán caravanas adicionales a nuestro asentamiento...</VME_TradingFairRitualOutcome.outcomeChances.0.description>
+  <!-- EN: Unexciting -->
+  <VME_TradingFairRitualOutcome.outcomeChances.1.label>Poco emocionante</VME_TradingFairRitualOutcome.outcomeChances.1.label>
+  <!-- EN: The {0} was unexciting. Some exciting transactions took place, but the majority of it was boring business talk. Luckily, it was interesting enough to attract a caravan to our settlement, which should arrive soon. -->
+  <VME_TradingFairRitualOutcome.outcomeChances.1.description>La {0} fue poco emocionante. Tuvieron lugar algunas transacciones emocionantes, pero la mayoría fue una aburrida charla de negocios. Afortunadamente, fue lo suficientemente interesante como para atraer una caravana a nuestro asentamiento, que debería llegar pronto.</VME_TradingFairRitualOutcome.outcomeChances.1.description>
+  <!-- EN: Well Organized -->
+  <VME_TradingFairRitualOutcome.outcomeChances.2.label>Bien organizada</VME_TradingFairRitualOutcome.outcomeChances.2.label>
+  <!-- EN: The {0} was very well organized. There was a lot of back and forth and networking. Luckily, at least three caravans will be attracted to our settlement, which should arrive soon. -->
+  <VME_TradingFairRitualOutcome.outcomeChances.2.description>La {0} estuvo muy bien organizada. Hubo mucho intercambio y creación de redes. Afortunadamente, al menos tres caravanas serán atraídas a nuestro asentamiento, que deberían llegar pronto.</VME_TradingFairRitualOutcome.outcomeChances.2.description>
+  <!-- EN: Wondrous -->
+  <VME_TradingFairRitualOutcome.outcomeChances.3.label>Maravillosa</VME_TradingFairRitualOutcome.outcomeChances.3.label>
+  <!-- EN: The {0} was a wondrous event! We discussed exciting and innovative economical paradigms, and our settlement will be renowned as a center of finance learning. With such a display, at least six caravans will be attracted to our settlement, and they should arrive soon. -->
+  <VME_TradingFairRitualOutcome.outcomeChances.3.description>¡La {0} fue un evento maravilloso! Discutimos paradigmas económicos emocionantes e innovadores, y nuestro asentamiento será reconocido como un centro de aprendizaje financiero. Con tal exhibición, al menos seis caravanas serán atraídas a nuestro asentamiento, y deberían llegar pronto.</VME_TradingFairRitualOutcome.outcomeChances.3.description>
+  
+</LanguageData>

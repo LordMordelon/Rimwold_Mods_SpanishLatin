@@ -1,0 +1,181 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+	<!-- Ideoligions -->
+	<!-- EN: Automation efficiency: increased precept -->
+  <VME_Automation>Eficiencia de automatización: precepto aumentado</VME_Automation>
+	<!-- EN: Automation efficiency: decreased precept -->
+  <VME_AutomationDecreased>Eficiencia de automatización: precepto disminuido</VME_AutomationDecreased>
+	<!-- EN: Crafting speed: slower for manual precept -->
+  <VME_AutomationManual>Velocidad de fabricación: más lenta por precepto manual</VME_AutomationManual>
+	<!-- EN: Crafting speed: faster for manual precept -->
+  <VME_AutomationManualFaster>Velocidad de fabricación: más rápida por precepto manual</VME_AutomationManualFaster>
+	<!-- EN: Meditation: exquisite precept -->
+  <VME_MeditationSpotExtra>Meditación: precepto exquisito</VME_MeditationSpotExtra>
+	<!-- EN: Recreation: loved precept -->
+  <VME_ExtraJoyGain>Recreación: precepto amado</VME_ExtraJoyGain>
+	<!-- EN: Pâtissier role -->
+  <VME_ExtraPatissierCooking>Rol de pastelero</VME_ExtraPatissierCooking>
+	<!-- EN: Eldritch Corruption too low -->
+  <VME_ExtraCertaintyLoss>Corrupción sobrenatural demasiado baja</VME_ExtraCertaintyLoss>
+	<!-- EN: Eldritch Corruption -->
+  <VME_NullCertaintyLoss>Corrupción sobrenatural</VME_NullCertaintyLoss>
+	<!-- EN: {0} is not harbouring suicidal thoughts! -->
+  <VME_PawnMustBeSuicidal>¡{0} no alberga pensamientos suicidas!</VME_PawnMustBeSuicidal>
+	<!-- EN: {0} must be the best melee fighter in the colony! -->
+  <VME_PawnMustBeBestMelee>¡{0} debe ser el mejor luchador cuerpo a cuerpo de la colonia!</VME_PawnMustBeBestMelee>
+	<!-- EN: An unroofed ritual spot at night. Spot must be unroofed with at least 25 unroofed cells in the area. -->
+  <VME_RitualTargetDivineTheStarsInfo>Un lugar de ritual sin techo por la noche. El lugar debe estar sin techo con al menos 25 celdas sin techo en el área.</VME_RitualTargetDivineTheStarsInfo>
+	<!-- EN: A built wicker man. -->
+  <VME_WickerManInfo>Un hombre de mimbre construido.</VME_WickerManInfo>
+	<!-- EN: You need a prisoner to start the wicker man ritual. -->
+  <VME_CantStartWickerManRitual>Necesitas un prisionero para iniciar el ritual del hombre de mimbre.</VME_CantStartWickerManRitual>
+	<!-- EN: Participant must be a slave. -->
+  <VME_MessageRitualRoleMustBeSlave>El participante debe ser un esclavo.</VME_MessageRitualRoleMustBeSlave>
+	<!-- EN: Organizer and participants must be consenting adults. -->
+  <VME_NeedsAdults>El organizador y los participantes deben ser adultos con consentimiento.</VME_NeedsAdults>
+
+	<!-- EN: No reachable wicker man. -->
+  <VME_AbilityDisabledNoWickerMan>No hay hombre de mimbre accesible.</VME_AbilityDisabledNoWickerMan>	
+	<!-- EN: This ability needs to target a turret or mechanoid. -->
+  <VME_AbilityNeedsATurret>Esta habilidad necesita apuntar a una torreta o mecanoide.</VME_AbilityNeedsATurret>
+	<!-- EN: This ability needs to target a wild or hostile insectoid. -->
+  <VME_AbilityNeedsInsect>Esta habilidad necesita apuntar a un insectoide salvaje u hostil.</VME_AbilityNeedsInsect>
+	<!-- EN: This ability needs to target an empty spot under mountain roof. -->
+  <VME_AbilityNeedsRoof>Esta habilidad necesita apuntar a un lugar vacío bajo techo de montaña.</VME_AbilityNeedsRoof>
+	<!-- EN: This ability needs to target an empty spot. -->
+  <VME_AbilityNeedsSpotEmpty>Esta habilidad necesita apuntar a un lugar vacío.</VME_AbilityNeedsSpotEmpty>
+	<!-- EN: This ability needs to target food categorized as a meal. -->
+  <VME_AbilityNeedsMeal>Esta habilidad necesita apuntar a comida categorizada como una comida.</VME_AbilityNeedsMeal>
+	<!-- EN: A trader caravan has been attracted to your settlement and will arrive in approximately a day. -->
+  <VME_AbilityCaravanWillArrive>Una caravana comercial ha sido atraída a tu asentamiento y llegará en aproximadamente un día.</VME_AbilityCaravanWillArrive>	
+	<!-- EN: Meal is already a dessert. This ability needs to target a meal that isn't a dessert. -->
+  <VME_AbilityAlreadyADessert>La comida ya es un postre. Esta habilidad necesita apuntar a una comida que no sea un postre.</VME_AbilityAlreadyADessert>
+	<!-- EN: This ability needs to target a free colonist. -->
+  <VME_AbilityNeedsAColonist>Esta habilidad necesita apuntar a un colono libre.</VME_AbilityNeedsAColonist>
+	<!-- EN: This ability needs to target a fresh humanoid corpse. -->
+  <VME_AbilityNeedsCorpse>Esta habilidad necesita apuntar a un cadáver humanoide fresco.</VME_AbilityNeedsCorpse>
+	<!-- EN: {0}'s ideo lacks the Organ use: post mortem precept. Ability can't be used without it -->
+  <VME_AbilityNeedsOrganPostMortemPrecept>La ideo de {0} carece del precepto Uso de órganos: post mortem. La habilidad no se puede usar sin él</VME_AbilityNeedsOrganPostMortemPrecept>
+
+	<!-- EN: Uninstall building -->
+  <VME_DeconstructBuildingLabel>Desinstalar edificio</VME_DeconstructBuildingLabel>
+	<!-- EN: Uninstall junk building to be able to move and reintall it. These can be caravaned out of a map, making "junk expeditions" possible -->
+  <VME_DeconstructBuildingDesc>Desinstala el edificio de chatarra para poder moverlo y reinstalarlo. Estos pueden ser llevados en caravana fuera de un mapa, haciendo posibles las "expediciones de chatarra"</VME_DeconstructBuildingDesc>
+	<!-- EN: Cancel uninstall building -->
+  <VME_CancelDeconstructBuildingLabel>Cancelar desinstalación de edificio</VME_CancelDeconstructBuildingLabel>
+	<!-- EN: Cancel uninstall building -->
+  <VME_CancelDeconstructBuildingDesc>Cancelar desinstalación de edificio</VME_CancelDeconstructBuildingDesc>
+	<!-- EN: Last straw: cosmic horror -->
+  <VME_BreakCorruption>La gota que colmó el vaso: horror cósmico</VME_BreakCorruption>
+	<!-- EN: Must be built on passable water. -->
+  <VME_NeedsWater>Debe construirse sobre agua transitable.</VME_NeedsWater>
+	<!-- EN: Fish traps must be built at least 10 tiles apart from each other. -->
+  <VME_NeedsDistance>Las trampas para peces deben construirse al menos a 10 casillas de distancia entre sí.</VME_NeedsDistance>
+	<!-- EN: This fish trap can catch small fish: -->
+  <VME_SmallFishTrapDescriptionInspect>Esta trampa para peces puede atrapar peces pequeños:</VME_SmallFishTrapDescriptionInspect>
+	<!-- EN: Next small fish caught in -->
+  <VME_SmallFishCaughtIn>Próximo pez pequeño atrapado en</VME_SmallFishCaughtIn>
+	<!-- EN: This fish trap can catch medium fish: -->
+  <VME_MediumFishTrapDescriptionInspect>Esta trampa para peces puede atrapar peces medianos:</VME_MediumFishTrapDescriptionInspect>
+	<!-- EN: Next medium fish caught in -->
+  <VME_MediumFishCaughtIn>Próximo pez mediano atrapado en</VME_MediumFishCaughtIn>
+	<!-- EN: This fish trap can catch large fish: -->
+  <VME_LargeFishTrapDescriptionInspect>Esta trampa para peces puede atrapar peces grandes:</VME_LargeFishTrapDescriptionInspect>
+	<!-- EN: Next large fish caught in -->
+  <VME_LargeFishCaughtIn>Próximo pez grande atrapado en</VME_LargeFishCaughtIn>
+	<!-- EN: Catches until breaking: {0} -->
+  <VME_UsesLeftUntilItBreaks>Capturas hasta romperse: {0}</VME_UsesLeftUntilItBreaks>
+	<!-- EN: Only adults can participate in this ritual -->
+  <VME_PawnMustBeAnAdult>Solo los adultos pueden participar en este ritual</VME_PawnMustBeAnAdult>
+	<!-- EN: Insect nest maintenance: {0}% -->
+  <VME_Maintenance>Mantenimiento del nido de insectos: {0}%</VME_Maintenance>
+	<!-- EN: Maintenance needed. If it reaches 0% the nest will be destroyed. -->
+  <VME_MaintenanceNeeded>Se necesita mantenimiento. Si llega al 0%, el nido será destruido.</VME_MaintenanceNeeded>
+	<!-- EN: This gigantic insectoid is immune to this ability -->
+  <VME_NotTheQueen>Este insectoide gigantesco es inmune a esta habilidad</VME_NotTheQueen>
+	<!-- EN: Could not find any valid party spot or organizer was unavailable. -->
+  <VME_NoValidPartySpot>No se pudo encontrar ningún lugar válido para la fiesta o el organizador no estaba disponible.</VME_NoValidPartySpot>
+	<!-- EN: You need a reasonably healthy prisoner to start the ritual -->
+  <VME_CantStartRitualNoConvertee>Necesitas un prisionero razonablemente sano para iniciar el ritual</VME_CantStartRitualNoConvertee>
+	<!-- EN: Unfortunately, {0} refused to see our reasonable ways and was sacrificed. -->
+  <VME_ViolentOutcome>Desafortunadamente, {0} se negó a ver nuestras formas razonables y fue sacrificado.</VME_ViolentOutcome>
+	<!-- EN: {0} saw our reasonable ways and was converted to our ideoligion. -->
+  <VME_NonViolentOutcome>{0} vio nuestras formas razonables y se convirtió a nuestra ideoligión.</VME_NonViolentOutcome>
+	<!-- EN: Ritual needs to be done at night, or under any condition that lowers light below 50% globally (eclipses don't count). -->
+  <VME_RitualNeedsNightOrDarkness>El ritual debe realizarse de noche, o bajo cualquier condición que reduzca la luz por debajo del 50% globalmente (los eclipses no cuentan).</VME_RitualNeedsNightOrDarkness>
+	<!-- EN: Ritual needs to be done at night, and with clear weather. -->
+  <VME_RitualNeedsClearWeather>El ritual debe realizarse de noche y con clima despejado.</VME_RitualNeedsClearWeather>
+	<!-- EN: Bonfire at {0}% strength -->
+  <VME_BonfireDyingIn>Hoguera al {0}% de fuerza</VME_BonfireDyingIn>
+	<!-- EN: High corruption -->
+  <VEM_HighCorruption>Alta corrupción</VEM_HighCorruption>
+	<!-- EN: These people have a too high corruption need (more than 90%). If they reach 100% corruption they will get an extreme level mental break:\n\n{0} -->
+  <VEM_HighCorruptionDesc>Estas personas tienen una necesidad de corrupción demasiado alta (más del 90%). Si alcanzan el 100% de corrupción, sufrirán un colapso mental de nivel extremo:\n\n{0}</VEM_HighCorruptionDesc>
+	<!-- EN: Low corruption -->
+  <VEM_LowCorruption>Baja corrupción</VEM_LowCorruption>
+	<!-- EN: These people have a too low corruption need (less than 10%). If they reach 0% corruption they will be easily swayed to a different ideoligion. Build obelisks to maintain their corruption need or perform Incantation rituals to increase it by 10%:\n\n{0} -->
+  <VEM_LowCorruptionDesc>Estas personas tienen una necesidad de corrupción demasiado baja (menos del 10%). Si alcanzan el 0% de corrupción, serán fácilmente influenciados a una ideoligión diferente. Construye obeliscos para mantener su necesidad de corrupción o realiza rituales de Encantamiento para aumentarla en un 10%:\n\n{0}</VEM_LowCorruptionDesc>
+	<!-- EN: Chunks of ancient space junk have impacted nearby. You can uninstall and move them to build your junkyard.\n\nThis event happens if you have any colonists with an ideo using the Scrapper meme. -->
+  <VME_MessageJunkChunkDrop>Trozos de chatarra espacial antigua han impactado cerca. Puedes desinstalarlos y moverlos para construir tu depósito de chatarra.\n\nEste evento ocurre si tienes colonos con una ideo que usa el meme Chatarrero.</VME_MessageJunkChunkDrop>
+	<!-- EN: Colonist must be capable of Talking -->
+  <VME_MessageRitualRoleMustBeCapableOfSocial>El colono debe ser capaz de Hablar</VME_MessageRitualRoleMustBeCapableOfSocial>
+	<!-- EN: Ritual needs the Exalted Priesthood meme -->
+  <VME_NeedsExaltedPriesthood>El ritual necesita el meme Sacerdocio Exaltado</VME_NeedsExaltedPriesthood>
+	<!-- EN: Heir changed -->
+  <VME_HeirChange>Heredero cambiado</VME_HeirChange>
+	<!-- EN: Due to royal inheritance, {1} has been automatically designated as the heir of {0} -->
+  <VME_HeirChangeDesc>Debido a la herencia real, {1} ha sido designado automáticamente como el heredero de {0}</VME_HeirChangeDesc>
+	<!-- EN: 200 silver needs to be found in stockpiles near a trading beacon for the fair to bot be considered "cheap" -->
+  <VME_CheapTradingFair>Se necesitan encontrar 200 de plata en almacenes cerca de una baliza de comercio para que la feria no se considere "barata"</VME_CheapTradingFair>
+	
+	
+	<!-- Mod options -->
+	
+	<!-- EN: Reset -->
+  <VME_Reset>Restablecer</VME_Reset>
+	<!-- EN: max memes -->
+  <VME_Meme>máx memes</VME_Meme>
+	<!-- EN: max rituals -->
+  <VME_Ritual>máx rituales</VME_Ritual>
+	<!-- EN: max styles -->
+  <VME_Styles>máx estilos</VME_Styles>
+	<!-- EN: max relics -->
+  <VME_Relics>máx reliquias</VME_Relics>
+	<!-- EN: max buildings -->
+  <VME_Buildings>máx edificios</VME_Buildings>
+	<!-- EN: Max number of memes allowed (default is 4) -->
+  <VME_MemeAmount>Número máximo de memes permitidos (por defecto es 4)</VME_MemeAmount>
+	<!-- EN: Max number of memes allowed. Note that this only applies to player ideoligions. -->
+  <VME_MemeAmountTooltip>Número máximo de memes permitidos. Ten en cuenta que esto solo se aplica a las ideoligiones de los jugadores.</VME_MemeAmountTooltip>
+	<!-- EN: Max number non-meme specific rituals allowed (default is 6) -->
+  <VME_RitualAmount>Número máximo de rituales no específicos de memes permitidos (por defecto es 6)</VME_RitualAmount>
+	<!-- EN: Max number non-meme specific rituals allowed. Rituals that are forced by a meme USUALLY don't count towards this limit, though there can be exceptions. -->
+  <VME_RitualAmountTooltip>Número máximo de rituales no específicos de memes permitidos. Los rituales forzados por un meme GENERALMENTE no cuentan para este límite, aunque puede haber excepciones.</VME_RitualAmountTooltip>
+	<!-- EN: Max number of ideo visual styles allowed (default is 3) -->
+  <VME_StylesAmount>Número máximo de estilos visuales de ideo permitidos (por defecto es 3)</VME_StylesAmount>
+	<!-- EN: Max number of ideo visual styles allowed. Note that we set this to start in the mod as 5 by default, up from base game's 3, because we add quite a lot of them. -->
+  <VME_StylesAmountTooltip>Número máximo de estilos visuales de ideo permitidos. Ten en cuenta que configuramos esto para comenzar en el mod como 5 por defecto, en lugar de los 3 del juego base, porque agregamos bastantes.</VME_StylesAmountTooltip>
+	<!-- EN: Max number of ideo relics allowed (default is 3) -->
+  <VME_RelicsAmount>Número máximo de reliquias de ideo permitidas (por defecto es 3)</VME_RelicsAmount>
+	<!-- EN: Max number of ideo relics allowed -->
+  <VME_RelicsAmountTooltip>Número máximo de reliquias de ideo permitidas</VME_RelicsAmountTooltip>
+	<!-- EN: Max number of ideo buildings allowed (default is 2) -->
+  <VME_BuildingsAmount>Número máximo de edificios de ideo permitidos (por defecto es 2)</VME_BuildingsAmount>
+	<!-- EN: Max number of ideo buildings allowed. This includes altars, pictograms and such, but not buildings added through memes. -->
+  <VME_BuildingsAmountTooltip>Número máximo de edificios de ideo permitidos. Esto incluye altares, pictogramas y similares, pero no edificios agregados a través de memes.</VME_BuildingsAmountTooltip>
+	<!-- EN: Allow high impact memes for fluid ideos -->
+  <VME_AllowHighImpactMemesForFluidIdeos>Permitir memes de alto impacto para ideos fluidas</VME_AllowHighImpactMemesForFluidIdeos>
+	<!-- EN: By default, fluid ideos only let you choose one meme with impact 1 or 2, blocking impact 3 memes from being chosen. With this option toggle you can make it so impact 3 memes are available too. -->
+  <VME_AllowHighImpactMemesForFluidIdeos_Tooltip>Por defecto, las ideos fluidas solo te permiten elegir un meme con impacto 1 o 2, bloqueando la elección de memes de impacto 3. Con esta opción activada puedes hacer que los memes de impacto 3 también estén disponibles.</VME_AllowHighImpactMemesForFluidIdeos_Tooltip>
+
+
+    <!-- EN: No warden is capable of this recruitment. -->
+  <VFEAncients.MessageNoWardenCapableOfRecruitment>Ningún guardia es capaz de este reclutamiento.</VFEAncients.MessageNoWardenCapableOfRecruitment>
+    <!-- EN: Interrogation Success -->
+  <VFEAncients.InterrogationSuccess>Éxito del interrogatorio</VFEAncients.InterrogationSuccess>
+    <!-- EN: {0} has successfully interrogated {1}, who has revealed the location of {2}. -->
+  <VFEAncients.InterrogationSuccessDetail>{0} ha interrogado con éxito a {1}, quien ha revelado la ubicación de {2}.</VFEAncients.InterrogationSuccessDetail>
+    <!-- EN: Interrogation failed! -->
+  <VFEAncients.InterrogationFailure>¡Interrogatorio fallido!</VFEAncients.InterrogationFailure>
+
+</LanguageData>

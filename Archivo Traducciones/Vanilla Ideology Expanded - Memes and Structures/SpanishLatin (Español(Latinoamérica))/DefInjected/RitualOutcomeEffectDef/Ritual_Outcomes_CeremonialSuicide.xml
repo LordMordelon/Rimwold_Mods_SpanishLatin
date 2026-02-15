@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Depending on ritual quality, participants will get between {MINMOOD} and {MAXMOOD} mood for {MOODDAYS} days. All participants must be healthy to attend. -->
+  <VME_CeremonialSuicideRitualOutcome.description>Dependiendo de la calidad del ritual, los participantes obtendrán entre {MINMOOD} y {MAXMOOD} de humor durante {MOODDAYS} días. Todos los participantes deben estar sanos para asistir.</VME_CeremonialSuicideRitualOutcome.description>
+  <!-- EN: {PAWN_labelShort}'s social impact -->
+  <VME_CeremonialSuicideRitualOutcome.comps.0.label>impacto social de {PAWN_labelShort}</VME_CeremonialSuicideRitualOutcome.comps.0.label>
+  <!-- EN: speaker's social impact -->
+  <VME_CeremonialSuicideRitualOutcome.comps.0.labelAbstract>impacto social del orador</VME_CeremonialSuicideRitualOutcome.comps.0.labelAbstract>
+  <!-- EN: room impressiveness -->
+  <VME_CeremonialSuicideRitualOutcome.comps.1.label>impresionabilidad de la sala</VME_CeremonialSuicideRitualOutcome.comps.1.label>
+  <!-- EN: participant count -->
+  <VME_CeremonialSuicideRitualOutcome.comps.2.label>recuento de participantes</VME_CeremonialSuicideRitualOutcome.comps.2.label>
+  <!-- EN: Terrible -->
+  <VME_CeremonialSuicideRitualOutcome.outcomeChances.0.label>Terrible</VME_CeremonialSuicideRitualOutcome.outcomeChances.0.label>
+  <!-- EN: The {0} was terrible! The blade was thrust laterally and there was blood and entrails everywhere. Disgusting! -->
+  <VME_CeremonialSuicideRitualOutcome.outcomeChances.0.description>¡El {0} fue terrible! La hoja se clavó lateralmente y había sangre y entrañas por todas partes. ¡Asqueroso!</VME_CeremonialSuicideRitualOutcome.outcomeChances.0.description>
+  <!-- EN: Boring -->
+  <VME_CeremonialSuicideRitualOutcome.outcomeChances.1.label>Aburrido</VME_CeremonialSuicideRitualOutcome.outcomeChances.1.label>
+  <!-- EN: The {0} was boring. The speech seemed forced. At the very least we have restored the honor of our colony. -->
+  <VME_CeremonialSuicideRitualOutcome.outcomeChances.1.description>El {0} fue aburrido. El discurso parecía forzado. Al menos hemos restaurado el honor de nuestra colonia.</VME_CeremonialSuicideRitualOutcome.outcomeChances.1.description>
+  <!-- EN: Honorable -->
+  <VME_CeremonialSuicideRitualOutcome.outcomeChances.2.label>Honorable</VME_CeremonialSuicideRitualOutcome.outcomeChances.2.label>
+  <!-- EN: The {0} has restored the honor of our colony. The shadow of defeat no longer clouds our minds. -->
+  <VME_CeremonialSuicideRitualOutcome.outcomeChances.2.description>El {0} ha restaurado el honor de nuestra colonia. La sombra de la derrota ya no nubla nuestras mentes.</VME_CeremonialSuicideRitualOutcome.outcomeChances.2.description>
+  <!-- EN: Unforgettable -->
+  <VME_CeremonialSuicideRitualOutcome.outcomeChances.3.label>Inolvidable</VME_CeremonialSuicideRitualOutcome.outcomeChances.3.label>
+  <!-- EN: The {0} was unforgettable! Everyone will remember the courage, self-control, and strong resolve. The honor of our colony is now spotless. -->
+  <VME_CeremonialSuicideRitualOutcome.outcomeChances.3.description>¡El {0} fue inolvidable! Todos recordarán el coraje, el autocontrol y la firme determinación. El honor de nuestra colonia ahora está impecable.</VME_CeremonialSuicideRitualOutcome.outcomeChances.3.description>
+  
+</LanguageData>

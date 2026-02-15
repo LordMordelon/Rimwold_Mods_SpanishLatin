@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Depending on ritual quality, participants will receive a recreation boost that last between 4 hours and 3 days that will raise their recreation bar. They'll also get between {MINMOOD} and {MAXMOOD} mood for {MOODDAYS} days.\n\nThe ritual bonfire will stay lit for at least two quadrums, providing a beauty bonus nearby and counting towards the number of fires around for the Fire: Desired precept. -->
+  <VME_BonfireOutcome.description>Dependiendo de la calidad del ritual, los participantes recibirán un aumento de recreación que dura entre 4 horas y 3 días que elevará su barra de recreación. También obtendrán entre {MINMOOD} y {MAXMOOD} de humor durante {MOODDAYS} días.\n\nLa hoguera ritual permanecerá encendida durante al menos dos cuadrum, proporcionando una bonificación de belleza cercana y contando para el número de fuegos alrededor para el precepto Fuego: Deseado.</VME_BonfireOutcome.description>
+  <!-- EN: {PAWN_labelShort}'s social impact -->
+  <VME_BonfireOutcome.comps.0.label>impacto social de {PAWN_labelShort}</VME_BonfireOutcome.comps.0.label>
+  <!-- EN: speaker's social impact -->
+  <VME_BonfireOutcome.comps.0.labelAbstract>impacto social del orador</VME_BonfireOutcome.comps.0.labelAbstract>
+  <!-- EN: participant count -->
+  <VME_BonfireOutcome.comps.1.label>recuento de participantes</VME_BonfireOutcome.comps.1.label>
+  <!-- EN: Terrible -->
+  <VME_BonfireOutcome.outcomeChances.0.label>Terrible</VME_BonfireOutcome.outcomeChances.0.label>
+  <!-- EN: The {0} was terrible! Some pathetic little flames drifted around, and they went away too soon (no recreation effect applied). -->
+  <VME_BonfireOutcome.outcomeChances.0.description>¡La {0} fue terrible! Algunas pequeñas llamas patéticas flotaron alrededor, y se apagaron demasiado pronto (no se aplicó ningún efecto de recreación).</VME_BonfireOutcome.outcomeChances.0.description>
+  <!-- EN: Lackluster -->
+  <VME_BonfireOutcome.outcomeChances.1.label>Deslucida</VME_BonfireOutcome.outcomeChances.1.label>
+  <!-- EN: The {0} was lackluster. We were expecting a wondrous conflagration, and instead we got an oversized campfire. At least it was kinda entertaining.\n\nRecreation of all participants will be raised for 4 hours. -->
+  <VME_BonfireOutcome.outcomeChances.1.description>La {0} fue deslucida. Esperábamos una conflagración maravillosa, y en su lugar obtuvimos una fogata de gran tamaño. Al menos fue algo entretenido.\n\nLa recreación de todos los participantes aumentará durante 4 horas.</VME_BonfireOutcome.outcomeChances.1.description>
+  <!-- EN: Good -->
+  <VME_BonfireOutcome.outcomeChances.2.label>Buena</VME_BonfireOutcome.outcomeChances.2.label>
+  <!-- EN: The {0} was good. The flames rose and crackled majestically over the settlement, and it lifted all our spirits considerably.\n\nRecreation of all participants will be raised for 1 day. -->
+  <VME_BonfireOutcome.outcomeChances.2.description>La {0} fue buena. Las llamas se elevaron y crepitaron majestuosamente sobre el asentamiento, y levantó considerablemente el ánimo de todos.\n\nLa recreación de todos los participantes aumentará durante 1 día.</VME_BonfireOutcome.outcomeChances.2.description>
+  <!-- EN: Glorious -->
+  <VME_BonfireOutcome.outcomeChances.3.label>Gloriosa</VME_BonfireOutcome.outcomeChances.3.label>
+  <!-- EN: The {0} was glorious! It was super fun and we really connected with each other with the shared experience.\n\nRecreation of all participants will be raised for 3 days. -->
+  <VME_BonfireOutcome.outcomeChances.3.description>¡La {0} fue gloriosa! Fue súper divertido y realmente nos conectamos entre nosotros con la experiencia compartida.\n\nLa recreación de todos los participantes aumentará durante 3 días.</VME_BonfireOutcome.outcomeChances.3.description>
+  
+</LanguageData>

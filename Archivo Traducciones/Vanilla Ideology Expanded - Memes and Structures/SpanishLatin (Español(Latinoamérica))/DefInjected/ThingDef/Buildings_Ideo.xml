@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: bonfire -->
+  <VME_Bonfire.label>hoguera</VME_Bonfire.label>
+  <!-- EN: An incredibly large and bright-burning bonfire made out of a carefully organized pile of logs on a stone base. Used heavily during flame-based rituals and can only be placed outdoors. -->
+  <VME_Bonfire.description>Una hoguera increíblemente grande y brillante hecha de una pila de troncos cuidadosamente organizada sobre una base de piedra. Se usa mucho durante los rituales basados en llamas y solo se puede colocar al aire libre.</VME_Bonfire.description>
+  
+  <!-- EN: bonfire -->
+  <VME_BonfireAfterRitual.label>hoguera</VME_BonfireAfterRitual.label>
+  <!-- EN: An incredibly large and bright-burning bonfire made out of a carefully organized pile of logs on a stone base. Used heavily during flame-based rituals and can only be placed outdoors. Will last for at least two quadrums and provide beauty nearby, as well as count for the Fire: Desired precept. -->
+  <VME_BonfireAfterRitual.description>Una hoguera increíblemente grande y brillante hecha de una pila de troncos cuidadosamente organizada sobre una base de piedra. Se usa mucho durante los rituales basados en llamas y solo se puede colocar al aire libre. Durará al menos dos cuadrum y proporcionará belleza en las cercanías, además de contar para el precepto Fuego: Deseado.</VME_BonfireAfterRitual.description>
+  
+  <!-- EN: insect nest -->
+  <VME_InsectNest.label>nido de insectos</VME_InsectNest.label>
+  <!-- EN: A large, swollen hive that seems to be seeping high amounts of bubbling insectoid jelly but not incubating any insectoids themselves.\n\nThe nest will need maintenance by a colonist with the insectoid herder role. If maintenance reaches 0%, the nest will be destroyed.\n\nInsect nest maintenance is a Handling job that gets auto-queued if the hive's maintenance is lower than 50%.. -->
+  <VME_InsectNest.description>Una colmena grande e hinchada que parece estar rezumando grandes cantidades de jalea de insectoide burbujeante, pero que no incuba ningún insectoide en sí.\n\nEl nido necesitará mantenimiento por parte de un colono con el rol de pastor de insectoides. Si el mantenimiento llega al 0%, el nido será destruido.\n\nEl mantenimiento del nido de insectos es un trabajo de Manejo que se pone en cola automáticamente si el mantenimiento de la colmena es inferior al 50%.</VME_InsectNest.description>
+  
+  <!-- EN: mechanoid effigy -->
+  <VME_MechanoidEffigy.label>efigie de mecanoide</VME_MechanoidEffigy.label>
+  <!-- EN: A structure assembled from scrapped mechanoid parts. Emits an IFF programming signal capable of confusing ancient mechanoid receptors. Should two exist per colonist enough signal noise will soft reset ancient mechanoid programming, causing an immediate retreat. This will only work on raiding mechanoids, clusters and "boss" mechanoids won't be affected. -->
+  <VME_MechanoidEffigy.description>Una estructura ensamblada a partir de piezas de mecanoides desechadas. Emite una señal de programación IFF capaz de confundir a los receptores de mecanoides antiguos. Si existen dos por colono, el ruido de la señal será suficiente para reiniciar suavemente la programación de los mecanoides antiguos, provocando una retirada inmediata. Esto solo funcionará en mecanoides asaltantes; los clústeres y los mecanoides "jefes" no se verán afectados.</VME_MechanoidEffigy.description>
+  
+  <!-- EN: ominous obelisk -->
+  <VME_Obelisk.label>obelisco ominoso</VME_Obelisk.label>
+  <!-- EN: An ominous-looking obelisk of pure chiseled stone. It seems to radiate an aura of hopelessness and despair.\n\nThe Corruption need of any colonist in an obelisk's radius of effect won't decrease. -->
+  <VME_Obelisk.description>Un obelisco de aspecto ominoso de pura piedra cincelada. Parece irradiar un aura de desesperanza y desesperación.\n\nLa necesidad de Corrupción de cualquier colono en el radio de efecto de un obelisco no disminuirá.</VME_Obelisk.description>
+  
+  <!-- EN: wicker man -->
+  <VME_WickerMan.label>hombre de mimbre</VME_WickerMan.label>
+  <!-- EN: A large humanoid figure made out of dry brush, thatch, and wood scraps. Prisoners have to be physically restrained to the figurine then burned alive as part of a trial or ritual. -->
+  <VME_WickerMan.description>Una gran figura humanoide hecha de maleza seca, paja y restos de madera. Los prisioneros deben ser atados físicamente a la figura y luego quemados vivos como parte de un juicio o ritual.</VME_WickerMan.description>
+  
+</LanguageData>

@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Violent conversion has a 50% chance of either completely converting the participant to your ideoligion or just being executed. Depending on ritual quality, participants will get between {MINMOOD} and {MAXMOOD} mood for {MOODDAYS} days. -->
+  <VME_ViolentConversionRitualOutcome.description>La conversión violenta tiene un 50% de probabilidad de convertir completamente al participante a tu ideoligión o simplemente ser ejecutado. Dependiendo de la calidad del ritual, los participantes obtendrán entre {MINMOOD} y {MAXMOOD} de humor durante {MOODDAYS} días.</VME_ViolentConversionRitualOutcome.description>
+  <!-- EN: participant count -->
+  <VME_ViolentConversionRitualOutcome.comps.0.label>recuento de participantes</VME_ViolentConversionRitualOutcome.comps.0.label>
+  <!-- EN: {PAWN_labelShort}'s social impact -->
+  <VME_ViolentConversionRitualOutcome.comps.1.label>impacto social de {PAWN_labelShort}</VME_ViolentConversionRitualOutcome.comps.1.label>
+  <!-- EN: speaker's social impact -->
+  <VME_ViolentConversionRitualOutcome.comps.1.labelAbstract>impacto social del orador</VME_ViolentConversionRitualOutcome.comps.1.labelAbstract>
+  <!-- EN: started at altar or ideogram -->
+  <VME_ViolentConversionRitualOutcome.comps.2.label>iniciado en altar o ideograma</VME_ViolentConversionRitualOutcome.comps.2.label>
+  <!-- EN: an altar or an ideogram -->
+  <VME_ViolentConversionRitualOutcome.comps.2.expectedThingLabelTip>un altar o un ideograma</VME_ViolentConversionRitualOutcome.comps.2.expectedThingLabelTip>
+  <!-- EN: Awkward -->
+  <VME_ViolentConversionRitualOutcome.outcomeChances.0.label>Incómodo</VME_ViolentConversionRitualOutcome.outcomeChances.0.label>
+  <!-- EN: The {0} was awkward. The speech dragged on and it was a fruitless back-and-forth argument. The words were vague and unconvincing. -->
+  <VME_ViolentConversionRitualOutcome.outcomeChances.0.description>El {0} fue incómodo. El discurso se prolongó y fue una discusión infructuosa de ida y vuelta. Las palabras eran vagas y poco convincentes.</VME_ViolentConversionRitualOutcome.outcomeChances.0.description>
+  <!-- EN: Satisfying -->
+  <VME_ViolentConversionRitualOutcome.outcomeChances.1.label>Satisfactorio</VME_ViolentConversionRitualOutcome.outcomeChances.1.label>
+  <!-- EN: The {0} was satisfying. The speech was stirring and enjoyable to listen to. -->
+  <VME_ViolentConversionRitualOutcome.outcomeChances.1.description>El {0} fue satisfactorio. El discurso fue conmovedor y agradable de escuchar.</VME_ViolentConversionRitualOutcome.outcomeChances.1.description>
+  <!-- EN: Spectacular -->
+  <VME_ViolentConversionRitualOutcome.outcomeChances.2.label>Espectacular</VME_ViolentConversionRitualOutcome.outcomeChances.2.label>
+  <!-- EN: The {0} was spectacular! Surely our beliefs will prevail over any others! -->
+  <VME_ViolentConversionRitualOutcome.outcomeChances.2.description>¡El {0} fue espectacular! ¡Seguramente nuestras creencias prevalecerán sobre cualquier otra!</VME_ViolentConversionRitualOutcome.outcomeChances.2.description>
+  
+</LanguageData>

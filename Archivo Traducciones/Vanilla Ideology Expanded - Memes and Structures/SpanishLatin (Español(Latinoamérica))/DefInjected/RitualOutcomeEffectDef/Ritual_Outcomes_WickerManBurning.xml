@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: A prisoner of the colony will be locked in a cage, and set fire, killing the prisoner in the process. Depending on ritual quality, participants will get between {MINMOOD} and {MAXMOOD} mood for {MOODDAYS} days. -->
+  <VME_WickerManBurningOutcome.description>Un prisionero de la colonia será encerrado en una jaula y se le prenderá fuego, matando al prisionero en el proceso. Dependiendo de la calidad del ritual, los participantes obtendrán entre {MINMOOD} y {MAXMOOD} de humor durante {MOODDAYS} días.</VME_WickerManBurningOutcome.description>
+  <!-- EN: participant count -->
+  <VME_WickerManBurningOutcome.comps.0.label>recuento de participantes</VME_WickerManBurningOutcome.comps.0.label>
+  <!-- EN: {PAWN_labelShort}'s social impact -->
+  <VME_WickerManBurningOutcome.comps.1.label>impacto social de {PAWN_labelShort}</VME_WickerManBurningOutcome.comps.1.label>
+  <!-- EN: speaker's social impact -->
+  <VME_WickerManBurningOutcome.comps.1.labelAbstract>impacto social del orador</VME_WickerManBurningOutcome.comps.1.labelAbstract>
+  <!-- EN: Terrible -->
+  <VME_WickerManBurningOutcome.outcomeChances.0.label>Terrible</VME_WickerManBurningOutcome.outcomeChances.0.label>
+  <!-- EN: The {0} was terrible! The prisoner rattled the cage all the time and it smelled like rotten bacon. -->
+  <VME_WickerManBurningOutcome.outcomeChances.0.description>¡El {0} fue terrible! El prisionero sacudió la jaula todo el tiempo y olía a tocino podrido.</VME_WickerManBurningOutcome.outcomeChances.0.description>
+  <!-- EN: Lackluster -->
+  <VME_WickerManBurningOutcome.outcomeChances.1.label>Deslucido</VME_WickerManBurningOutcome.outcomeChances.1.label>
+  <!-- EN: The {0} was lackluster. The prisoner just burned to death too fast, and the fire didn't even lift our spirits much. -->
+  <VME_WickerManBurningOutcome.outcomeChances.1.description>El {0} fue deslucido. El prisionero simplemente murió quemado demasiado rápido, y el fuego ni siquiera levantó mucho nuestro ánimo.</VME_WickerManBurningOutcome.outcomeChances.1.description>
+  <!-- EN: Good -->
+  <VME_WickerManBurningOutcome.outcomeChances.2.label>Bueno</VME_WickerManBurningOutcome.outcomeChances.2.label>
+  <!-- EN: The {0} was good. The anguished cries of the prisoner will resonate with us for a long time, another soul consumed by the flames. -->
+  <VME_WickerManBurningOutcome.outcomeChances.2.description>El {0} fue bueno. Los gritos de angustia del prisionero resonarán con nosotros durante mucho tiempo, otra alma consumida por las llamas.</VME_WickerManBurningOutcome.outcomeChances.2.description>
+  <!-- EN: Glorious -->
+  <VME_WickerManBurningOutcome.outcomeChances.3.label>Glorioso</VME_WickerManBurningOutcome.outcomeChances.3.label>
+  <!-- EN: The {0} was glorious! We will forever remember the thrashing of the prisoner, the frightened crescendo of screams as another soul was consumed by the holy flames. -->
+  <VME_WickerManBurningOutcome.outcomeChances.3.description>¡El {0} fue glorioso! Recordaremos para siempre la agitación del prisionero, el crescendo asustado de gritos mientras otra alma era consumida por las llamas sagradas.</VME_WickerManBurningOutcome.outcomeChances.3.description>
+  
+</LanguageData>
