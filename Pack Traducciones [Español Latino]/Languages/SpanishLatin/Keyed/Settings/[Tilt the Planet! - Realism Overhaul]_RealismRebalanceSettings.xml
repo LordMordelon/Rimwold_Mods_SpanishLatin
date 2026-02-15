@@ -5,17 +5,19 @@
   <DisablePlantRest_Warning>El cambio de horario de la lámpara solar requiere reiniciar Rimworld para surtir efecto</DisablePlantRest_Warning>
   <EnableLightingChanges>Activar reequilibrio de luz</EnableLightingChanges>
   <EnableLightingChanges_Tooltip>Configura las luces artificiales para brillar con valores de luz y radios realistas\nLos colonos trabajan y se mueven a velocidades realistas basadas en sus niveles de luz\n</EnableLightingChanges_Tooltip>
-  <EnablePlantGrowthChanges>Activar cambios de crecimiento por iluminación de plantas</EnablePlantGrowthChanges>
-  <EnablePlantGrowthChanges_Tooltip>Cualquier planta no configurada explícitamente por Cambios de Crecimiento Vanilla se modifica para tener necesidades de crecimiento generalmente realistas (incluye plantas de mods)</EnablePlantGrowthChanges_Tooltip>
-  <EnableRealisticPlantYields>Activar rendimientos de plantas realistas</EnableRealisticPlantYields>
-  <EnableRealisticPlantYields_Tooltip>Requiere "Activar cambios de crecimiento Vanilla"</EnableRealisticPlantYields_Tooltip>
+  <EnableMaterialRealism>Activar realismo de materiales [Requiere reequilibrio de tamaño de pila]</EnableMaterialRealism>
+  <EnableMaterialRealism_Tooltip>Costos de construccion, rendimientos de mineria y rendimientos de comida ajustados para ser realistas</EnableMaterialRealism_Tooltip>
+  <EnablePlantGrowthChanges>Habilitar cambios experimentales de crecimiento de plantas</EnablePlantGrowthChanges>
+  <EnablePlantGrowthChanges_Tooltip>Cualquier planta no compatible explícitamente se modifica automáticamente para tener necesidades de crecimiento generalmente realistas (incluye plantas de mods)</EnablePlantGrowthChanges_Tooltip>
   <EnableSolarIntensityCalc>Activar cálculos de intensidad solar</EnableSolarIntensityCalc>
   <EnableSolarIntensityCalc_Tooltip>Cambia el brillo solar para reflejar cuánta energía solar golpea realmente el suelo (Afectado por el clima y eventos del juego).</EnableSolarIntensityCalc_Tooltip>
   <EnableStackSizeRebalance>Activar reequilibrio de tamaño de pila</EnableStackSizeRebalance>
   <EnableStackSizeRebalance_Tooltip>Habilita capacidad de almacenamiento realista (la mayoría de las pilas contendrán miles de artículos)</EnableStackSizeRebalance_Tooltip>
-  <EnableVanillaGrowthChanges>Activar cambios de crecimiento Vanilla</EnableVanillaGrowthChanges>
-  <EnableVanillaGrowthChanges_Tooltip>Plantas vanilla modificadas para tener las mismas estadísticas que sus contrapartes terrestres (no afecta a plantas de mods)</EnableVanillaGrowthChanges_Tooltip>
+  <EnableVanillaGrowthChanges>Habilitar cambios de crecimiento de plantas compatibles</EnableVanillaGrowthChanges>
+  <EnableVanillaGrowthChanges_Tooltip>Las plantas vanilla y de mods compatibles se modifican manualmente para tener las mismas estadísticas que sus contrapartes terrestres (no afecta a plantas de mods)</EnableVanillaGrowthChanges_Tooltip>
   <LightingRealism>Realismo de iluminación</LightingRealism>
+  <MaxStackSizeMultiplier>Multiplicador de tamano de pila: {0}</MaxStackSizeMultiplier>
+  <MaxStackSizeMultiplier_Tooltip>Que tan "llena" se permite estar cada pila (afecta solo a pilas reequilibradas)</MaxStackSizeMultiplier_Tooltip>
   <PlantRealism>Realismo de plantas</PlantRealism>
   <RealisticPlantChanges>Cambios de equilibrio de plantas realistas de este mod</RealisticPlantChanges>
   <StackSizeRebalance>Reequilibrio de tamaño de pila</StackSizeRebalance>
