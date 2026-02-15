@@ -13,20 +13,20 @@
   <!-- EN: Plants can grow anytime of day they have enough light and are warm enough.\nSunlamps don't automatically turn on and off. -->
   <DisablePlantRest_Tooltip>Las plantas pueden crecer en cualquier momento del día si tienen suficiente luz y temperatura.\nLas lámparas solares no se encienden y apagan automáticamente.</DisablePlantRest_Tooltip>
   
-	<!-- EN: Enable Plant Lighting Growth Changes -->
-  <EnablePlantGrowthChanges>Activar cambios de crecimiento por iluminación de plantas</EnablePlantGrowthChanges>
-  <!-- EN: Any plant not set explicitly by Vanilla Growth Changes is modified to have generally realisitc growth needs (includes modded plants) -->
-  <EnablePlantGrowthChanges_Tooltip>Cualquier planta no configurada explícitamente por Cambios de Crecimiento Vanilla se modifica para tener necesidades de crecimiento generalmente realistas (incluye plantas de mods)</EnablePlantGrowthChanges_Tooltip>
-  
-	<!-- EN: Enable Vanilla Growth Changes -->
-  <EnableVanillaGrowthChanges>Activar cambios de crecimiento Vanilla</EnableVanillaGrowthChanges>
-  <!-- EN: Vanilla plants modified to have same stats are their earth-like counterparts (doesn't affect modded plants) -->
-  <EnableVanillaGrowthChanges_Tooltip>Plantas vanilla modificadas para tener las mismas estadísticas que sus contrapartes terrestres (no afecta a plantas de mods)</EnableVanillaGrowthChanges_Tooltip>
+	<!-- EN: Enable Experimental Plant Growth Changes -->
+  <EnablePlantGrowthChanges>Habilitar cambios experimentales de crecimiento de plantas</EnablePlantGrowthChanges>
+  <!-- EN: Any plant not explicitly supported is automatically modified to have generally realisitc growth needs. -->
+  <EnablePlantGrowthChanges_Tooltip>Cualquier planta no compatible explícitamente se modifica automáticamente para tener necesidades de crecimiento generalmente realistas (incluye plantas de mods)</EnablePlantGrowthChanges_Tooltip>
 
-  <!-- EN: Enable Realistic Plant Yields -->
-  <EnableRealisticPlantYields>Activar rendimientos de plantas realistas</EnableRealisticPlantYields>
-  <!-- EN: Requires "Enable Vanilla Growth Changes" -->
-  <EnableRealisticPlantYields_Tooltip>Requiere "Activar cambios de crecimiento Vanilla"</EnableRealisticPlantYields_Tooltip>
+	<!-- EN: Enable Supported PlantGrowth Changes -->
+  <EnableVanillaGrowthChanges>Habilitar cambios de crecimiento de plantas compatibles</EnableVanillaGrowthChanges>
+  <!-- EN: Vanilla and supported mods' plants are hand-modified modified to have same stats are their earth-like counterparts -->
+  <EnableVanillaGrowthChanges_Tooltip>Las plantas vanilla y de mods compatibles se modifican manualmente para tener las mismas estadísticas que sus contrapartes terrestres (no afecta a plantas de mods)</EnableVanillaGrowthChanges_Tooltip>
+
+  <!-- EN: Enable Material Realism [Requires Stack Size Rebalance] -->
+  <EnableMaterialRealism>Activar realismo de materiales [Requiere reequilibrio de tamaño de pila]</EnableMaterialRealism>
+  <!-- EN: Builldings Costs, Mining Yields, and Food Yields adjusted to be realistic -->
+  <EnableMaterialRealism_Tooltip>Costos de construccion, rendimientos de mineria y rendimientos de comida ajustados para ser realistas</EnableMaterialRealism_Tooltip>
 
   <!-- EN: Lighting Realism -->
   <LightingRealism>Realismo de iluminación</LightingRealism>
@@ -48,6 +48,11 @@
   <EnableStackSizeRebalance>Activar reequilibrio de tamaño de pila</EnableStackSizeRebalance>
   <!-- EN: Enables realistic storage capacity (most stacks will hold thousands of items) -->
   <EnableStackSizeRebalance_Tooltip>Habilita capacidad de almacenamiento realista (la mayoría de las pilas contendrán miles de artículos)</EnableStackSizeRebalance_Tooltip>
+  
+    <!-- EN: Stack Size Multiplier : {0} -->
+  <MaxStackSizeMultiplier>Multiplicador de tamano de pila: {0}</MaxStackSizeMultiplier>
+  <!-- EN: How "full" each stack is allowed to be (affects Rebalanced Stacks only)  -->
+  <MaxStackSizeMultiplier_Tooltip>Que tan "llena" se permite estar cada pila (afecta solo a pilas reequilibradas)</MaxStackSizeMultiplier_Tooltip>
 
 	<!-- EN: Turn off if experiencing mod incompatability -->
   <TurnOffWarning>Desactivar si experimentas incompatibilidad de mods</TurnOffWarning>
