@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <VFEA_Intimidate.label>intentar intimidar</VFEA_Intimidate.label>
+  <VFEA_Intimidate.logRulesInitiator.rulesStrings>
+    <li>r_logentry-&gt;[INITIATOR_nameDef] le dijo a [RECIPIENT_nameDef] que [RECIPIENT_pronoun] [negative].</li>
+    <li>r_logentry-&gt;[INITIATOR_nameDef] explicó que [RECIPIENT_nameDef] [negative].</li>
+    <li>r_logentry-&gt;[INITIATOR_nameDef] amenazó a [RECIPIENT_nameDef] con [threat] si [RECIPIENT_pronoun] [refused].</li>
+    <li>r_logentry-&gt;[INITIATOR_nameDef] informó a [RECIPIENT_nameDef] que [RECIPIENT_pronoun] [disillusionment].</li>
+    <li>r_logentry-&gt;[INITIATOR_nameDef] exigió a [RECIPIENT_nameDef] que [givein] a la colonia.</li>
+    <li>negative-&gt;no tenía futuro</li>
+    <li>negative-&gt;no tenía forma de escapar</li>
+    <li>negative-&gt;debería someterse inmediatamente</li>
+    <li>negative-&gt;debería olvidar [RECIPIENT_possessive] aspiraciones</li>
+    <li>negative-&gt;debería someterse a la colonia</li>
+    <li>negative-&gt;debería entregar la información</li>
+    <li>threat-&gt;tortura</li>
+    <li>threat-&gt;castigo</li>
+    <li>threat-&gt;mutilación</li>
+    <li>threat-&gt;inanición</li>
+    <li>threat-&gt;encarcelamiento de por vida</li>
+    <li>threat-&gt;muerte</li>
+    <li>threat-&gt;aislamiento</li>
+    <li>threat-&gt;desmembramiento</li>
+    <li>threat-&gt;trauma contundente</li>
+    <li>threat-&gt;laceraciones</li>
+    <li>threat-&gt;canibalismo</li>
+    <li>threat-&gt;extracción de órganos</li>
+    <li>threat-&gt;confinamiento prolongado</li>
+    <li>refused-&gt;intentaba escapar</li>
+    <li>refused-&gt;insultaba a la colonia</li>
+    <li>refused-&gt;se resistía a someterse</li>
+    <li>refused-&gt;se comportaba impertinentemente</li>
+    <li>disillusionment-&gt;debería aceptar [RECIPIENT_possessive] situación</li>
+    <li>disillusionment-&gt;no tenía esperanza de otro futuro</li>
+    <li>disillusionment-&gt;estaría mejor sometiéndose</li>
+    <li>disillusionment-&gt;no sobreviviría por [RECIPIENT_possessive] cuenta</li>
+    <li>disillusionment-&gt;no tenía otra opción que someterse</li>
+    <li>givein-&gt;cediera</li>
+    <li>givein-&gt;se sometiera</li>
+    <li>givein-&gt;se rindiera</li>
+    <li>givein-&gt;se entregara</li>
+  </VFEA_Intimidate.logRulesInitiator.rulesStrings>
+</LanguageData>

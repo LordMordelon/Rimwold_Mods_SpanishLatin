@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <VEM_HighCorruption>Alta corrupción</VEM_HighCorruption>
+  <VEM_HighCorruptionDesc>Estas personas tienen una necesidad de corrupción demasiado alta (más del 90%). Si alcanzan el 100% de corrupción, sufrirán un colapso mental de nivel extremo:\n\n{0}</VEM_HighCorruptionDesc>
+  <VEM_LowCorruption>Baja corrupción</VEM_LowCorruption>
+  <VEM_LowCorruptionDesc>Estas personas tienen una necesidad de corrupción demasiado baja (menos del 10%). Si alcanzan el 0% de corrupción, serán fácilmente influenciados a una ideoligión diferente. Construye obeliscos para mantener su necesidad de corrupción o realiza rituales de Encantamiento para aumentarla en un 10%:\n\n{0}</VEM_LowCorruptionDesc>
+  <VFEAncients.InterrogationFailure>¡Interrogatorio fallido!</VFEAncients.InterrogationFailure>
+  <VFEAncients.InterrogationSuccess>Éxito del interrogatorio</VFEAncients.InterrogationSuccess>
+  <VFEAncients.InterrogationSuccessDetail>{0} ha interrogado con éxito a {1}, quien ha revelado la ubicación de {2}.</VFEAncients.InterrogationSuccessDetail>
+  <VFEAncients.MessageNoWardenCapableOfRecruitment>Ningún guardia es capaz de este reclutamiento.</VFEAncients.MessageNoWardenCapableOfRecruitment>
+  <VME_AbilityAlreadyADessert>La comida ya es un postre. Esta habilidad necesita apuntar a una comida que no sea un postre.</VME_AbilityAlreadyADessert>
+  <VME_AbilityCaravanWillArrive>Una caravana comercial ha sido atraída a tu asentamiento y llegará en aproximadamente un día.</VME_AbilityCaravanWillArrive>
+  <VME_AbilityDisabledNoWickerMan>No hay hombre de mimbre accesible.</VME_AbilityDisabledNoWickerMan>
+  <VME_AbilityNeedsAColonist>Esta habilidad necesita apuntar a un colono libre.</VME_AbilityNeedsAColonist>
+  <VME_AbilityNeedsATurret>Esta habilidad necesita apuntar a una torreta o mecanoide.</VME_AbilityNeedsATurret>
+  <VME_AbilityNeedsCorpse>Esta habilidad necesita apuntar a un cadáver humanoide fresco.</VME_AbilityNeedsCorpse>
+  <VME_AbilityNeedsInsect>Esta habilidad necesita apuntar a un insectoide salvaje u hostil.</VME_AbilityNeedsInsect>
+  <VME_AbilityNeedsMeal>Esta habilidad necesita apuntar a comida categorizada como una comida.</VME_AbilityNeedsMeal>
+  <VME_AbilityNeedsOrganPostMortemPrecept>La ideo de {0} carece del precepto Uso de órganos: post mortem. La habilidad no se puede usar sin él</VME_AbilityNeedsOrganPostMortemPrecept>
+  <VME_AbilityNeedsRoof>Esta habilidad necesita apuntar a un lugar vacío bajo techo de montaña.</VME_AbilityNeedsRoof>
+  <VME_AbilityNeedsSpotEmpty>Esta habilidad necesita apuntar a un lugar vacío.</VME_AbilityNeedsSpotEmpty>
+  <VME_AllowHighImpactMemesForFluidIdeos>Permitir memes de alto impacto para ideos fluidas</VME_AllowHighImpactMemesForFluidIdeos>
+  <VME_AllowHighImpactMemesForFluidIdeos_Tooltip>Por defecto, las ideos fluidas solo te permiten elegir un meme con impacto 1 o 2, bloqueando la elección de memes de impacto 3. Con esta opción activada puedes hacer que los memes de impacto 3 también estén disponibles.</VME_AllowHighImpactMemesForFluidIdeos_Tooltip>
+  <VME_Automation>Eficiencia de automatización: precepto aumentado</VME_Automation>
+  <VME_AutomationDecreased>Eficiencia de automatización: precepto disminuido</VME_AutomationDecreased>
+  <VME_AutomationManual>Velocidad de fabricación: más lenta por precepto manual</VME_AutomationManual>
+  <VME_AutomationManualFaster>Velocidad de fabricación: más rápida por precepto manual</VME_AutomationManualFaster>
+  <VME_BonfireDyingIn>Hoguera al {0}% de fuerza</VME_BonfireDyingIn>
+  <VME_BreakCorruption>La gota que colmó el vaso: horror cósmico</VME_BreakCorruption>
+  <VME_Buildings>máx edificios</VME_Buildings>
+  <VME_BuildingsAmount>Número máximo de edificios de ideo permitidos (por defecto es 2)</VME_BuildingsAmount>
+  <VME_BuildingsAmountTooltip>Número máximo de edificios de ideo permitidos. Esto incluye altares, pictogramas y similares, pero no edificios agregados a través de memes.</VME_BuildingsAmountTooltip>
+  <VME_CancelDeconstructBuildingDesc>Cancelar desinstalación de edificio</VME_CancelDeconstructBuildingDesc>
+  <VME_CancelDeconstructBuildingLabel>Cancelar desinstalación de edificio</VME_CancelDeconstructBuildingLabel>
+  <VME_CantStartRitualNoConvertee>Necesitas un prisionero razonablemente sano para iniciar el ritual</VME_CantStartRitualNoConvertee>
+  <VME_CantStartWickerManRitual>Necesitas un prisionero para iniciar el ritual del hombre de mimbre.</VME_CantStartWickerManRitual>
+  <VME_CheapTradingFair>Se necesitan encontrar 200 de plata en almacenes cerca de una baliza de comercio para que la feria no se considere "barata"</VME_CheapTradingFair>
+  <VME_DeconstructBuildingDesc>Desinstala el edificio de chatarra para poder moverlo y reinstalarlo. Estos pueden ser llevados en caravana fuera de un mapa, haciendo posibles las "expediciones de chatarra"</VME_DeconstructBuildingDesc>
+  <VME_DeconstructBuildingLabel>Desinstalar edificio</VME_DeconstructBuildingLabel>
+  <VME_ExtraCertaintyLoss>Corrupción sobrenatural demasiado baja</VME_ExtraCertaintyLoss>
+  <VME_ExtraJoyGain>Recreación: precepto amado</VME_ExtraJoyGain>
+  <VME_ExtraPatissierCooking>Rol de pastelero</VME_ExtraPatissierCooking>
+  <VME_HeirChange>Heredero cambiado</VME_HeirChange>
+  <VME_HeirChangeDesc>Debido a la herencia real, {1} ha sido designado automáticamente como el heredero de {0}</VME_HeirChangeDesc>
+  <VME_LargeFishCaughtIn>Próximo pez grande atrapado en</VME_LargeFishCaughtIn>
+  <VME_LargeFishTrapDescriptionInspect>Esta trampa para peces puede atrapar peces grandes:</VME_LargeFishTrapDescriptionInspect>
+  <VME_Maintenance>Mantenimiento del nido de insectos: {0}%</VME_Maintenance>
+  <VME_MaintenanceNeeded>Se necesita mantenimiento. Si llega al 0%, el nido será destruido.</VME_MaintenanceNeeded>
+  <VME_MeditationSpotExtra>Meditación: precepto exquisito</VME_MeditationSpotExtra>
+  <VME_MediumFishCaughtIn>Próximo pez mediano atrapado en</VME_MediumFishCaughtIn>
+  <VME_MediumFishTrapDescriptionInspect>Esta trampa para peces puede atrapar peces medianos:</VME_MediumFishTrapDescriptionInspect>
+  <VME_Meme>máx memes</VME_Meme>
+  <VME_MemeAmount>Número máximo de memes permitidos (por defecto es 4)</VME_MemeAmount>
+  <VME_MemeAmountTooltip>Número máximo de memes permitidos. Ten en cuenta que esto solo se aplica a las ideoligiones de los jugadores.</VME_MemeAmountTooltip>
+  <VME_MessageJunkChunkDrop>Trozos de chatarra espacial antigua han impactado cerca. Puedes desinstalarlos y moverlos para construir tu depósito de chatarra.\n\nEste evento ocurre si tienes colonos con una ideo que usa el meme Chatarrero.</VME_MessageJunkChunkDrop>
+  <VME_MessageRitualRoleMustBeCapableOfSocial>El colono debe ser capaz de Hablar</VME_MessageRitualRoleMustBeCapableOfSocial>
+  <VME_MessageRitualRoleMustBeSlave>El participante debe ser un esclavo.</VME_MessageRitualRoleMustBeSlave>
+  <VME_NeedsAdults>El organizador y los participantes deben ser adultos con consentimiento.</VME_NeedsAdults>
+  <VME_NeedsDistance>Las trampas para peces deben construirse al menos a 10 casillas de distancia entre sí.</VME_NeedsDistance>
+  <VME_NeedsExaltedPriesthood>El ritual necesita el meme Sacerdocio Exaltado</VME_NeedsExaltedPriesthood>
+  <VME_NeedsWater>Debe construirse sobre agua transitable.</VME_NeedsWater>
+  <VME_NoValidPartySpot>No se pudo encontrar ningún lugar válido para la fiesta o el organizador no estaba disponible.</VME_NoValidPartySpot>
+  <VME_NonViolentOutcome>{0} vio nuestras formas razonables y se convirtió a nuestra ideoligión.</VME_NonViolentOutcome>
+  <VME_NotTheQueen>Este insectoide gigantesco es inmune a esta habilidad</VME_NotTheQueen>
+  <VME_NullCertaintyLoss>Corrupción sobrenatural</VME_NullCertaintyLoss>
+  <VME_PawnMustBeAnAdult>Solo los adultos pueden participar en este ritual</VME_PawnMustBeAnAdult>
+  <VME_PawnMustBeBestMelee>¡{0} debe ser el mejor luchador cuerpo a cuerpo de la colonia!</VME_PawnMustBeBestMelee>
+  <VME_PawnMustBeSuicidal>¡{0} no alberga pensamientos suicidas!</VME_PawnMustBeSuicidal>
+  <VME_Relics>máx reliquias</VME_Relics>
+  <VME_RelicsAmount>Número máximo de reliquias de ideo permitidas (por defecto es 3)</VME_RelicsAmount>
+  <VME_RelicsAmountTooltip>Número máximo de reliquias de ideo permitidas</VME_RelicsAmountTooltip>
+  <VME_Reset>Restablecer</VME_Reset>
+  <VME_Ritual>máx rituales</VME_Ritual>
+  <VME_RitualAmount>Número máximo de rituales no específicos de memes permitidos (por defecto es 6)</VME_RitualAmount>
+  <VME_RitualAmountTooltip>Número máximo de rituales no específicos de memes permitidos. Los rituales forzados por un meme GENERALMENTE no cuentan para este límite, aunque puede haber excepciones.</VME_RitualAmountTooltip>
+  <VME_RitualNeedsClearWeather>El ritual debe realizarse de noche y con clima despejado.</VME_RitualNeedsClearWeather>
+  <VME_RitualNeedsNightOrDarkness>El ritual debe realizarse de noche, o bajo cualquier condición que reduzca la luz por debajo del 50% globalmente (los eclipses no cuentan).</VME_RitualNeedsNightOrDarkness>
+  <VME_RitualTargetDivineTheStarsInfo>Un lugar de ritual sin techo por la noche. El lugar debe estar sin techo con al menos 25 celdas sin techo en el área.</VME_RitualTargetDivineTheStarsInfo>
+  <VME_SmallFishCaughtIn>Próximo pez pequeño atrapado en</VME_SmallFishCaughtIn>
+  <VME_SmallFishTrapDescriptionInspect>Esta trampa para peces puede atrapar peces pequeños:</VME_SmallFishTrapDescriptionInspect>
+  <VME_Styles>máx estilos</VME_Styles>
+  <VME_StylesAmount>Número máximo de estilos visuales de ideo permitidos (por defecto es 3)</VME_StylesAmount>
+  <VME_StylesAmountTooltip>Número máximo de estilos visuales de ideo permitidos. Ten en cuenta que configuramos esto para comenzar en el mod como 5 por defecto, en lugar de los 3 del juego base, porque agregamos bastantes.</VME_StylesAmountTooltip>
+  <VME_UsesLeftUntilItBreaks>Capturas hasta romperse: {0}</VME_UsesLeftUntilItBreaks>
+  <VME_ViolentOutcome>Desafortunadamente, {0} se negó a ver nuestras formas razonables y fue sacrificado.</VME_ViolentOutcome>
+  <VME_WickerManInfo>Un hombre de mimbre construido.</VME_WickerManInfo>
+</LanguageData>
