@@ -1,7 +1,7 @@
-Reporte de Mods Procesados - 2026-02-15 23:46:34
+Reporte de Mods Procesados - 2026-02-16 07:27:50
 ==================================================
 
-Total de mods encontrados: 185
+Total de mods encontrados: 189
 
 Lista de mods:
 - 1trickPwnyta's Anomaly Patch
@@ -12,8 +12,10 @@ Lista de mods:
 - Achtung!
 - Adaptive Storage Framework
 - Advanced Moisture Pump (Continued)
+- Alpha Armoury
 - Alpha Books
 - Alpha Mechs
+- Alpha Random
 - Alpha Skills
 - Altered Carbon 2 ReSleeved
 - Amplified Mobility Platform
@@ -29,6 +31,7 @@ Lista de mods:
 - Automatic Hydroponics Expanded
 - Better Architect Menu
 - Better Transhumanists
+- Bulk Load For Transporters
 - Butter++
 - Carryalls Intercontinental Transport (Continued)
 - Common Sense
@@ -93,6 +96,7 @@ Lista de mods:
 - ReGrowth 2
 - RenameColony
 - Research Papers
+- RimServers
 - Rimpsyche - Disposition
 - Rimpsyche - Personality Core
 - Rimpsyche - Sexuality
@@ -189,3 +193,18 @@ Lista de mods:
 - [sbz] Fridge
 - [sbz] Gravship Storage
 - [sbz] Neat Storage
+
+==================================================
+Errores de compilacion:
+
+1. Archivo: Archivo Traducciones/Alpha Armoury/SpanishLatin (Español(Latinoamérica))/DefInjected/VEF.Abilities.AbilityDef/WeaponTraitAbilities.xml
+   Motivo: XML invalido: not well-formed (invalid token): line 103, column 49
+   Trace:
+Traceback (most recent call last):
+  File "/home/runner/work/Rimwold_Mods_SpanishLatin/Rimwold_Mods_SpanishLatin/Programas/cli_compilador.py", line 169, in copiar_traducciones
+    root = ET.fromstring(content, parser=parser)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.14/x64/lib/python3.11/xml/etree/ElementTree.py", line 1350, in XML
+    parser.feed(text)
+xml.etree.ElementTree.ParseError: not well-formed (invalid token): line 103, column 49
+

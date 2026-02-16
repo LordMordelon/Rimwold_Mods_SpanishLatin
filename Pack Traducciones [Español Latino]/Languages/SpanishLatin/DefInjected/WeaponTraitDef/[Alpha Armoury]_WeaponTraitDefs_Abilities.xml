@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <AArmoury_Detonation.description>Esta arma genera gases ultra calientes que pueden liberarse en forma de una poderosa explosión. No dañará al portador.\n\nDetalles de la habilidad: Sin cargas, 30000 ticks de enfriamiento (medio día). Afecta a 2 casillas alrededor del portador con 50 de daño de bomba.</AArmoury_Detonation.description>
+  <AArmoury_Detonation.label>detonación</AArmoury_Detonation.label>
+  <AArmoury_Detonation.traitAdjectives.0>detonante</AArmoury_Detonation.traitAdjectives.0>
+  <AArmoury_InvisibilityField.description>Esta arma genera un campo de invisibilidad psíquica que ocultará a su usuario por un tiempo.\n\nDetalles de la habilidad: Sin cargas, 30000 ticks de enfriamiento (medio día). Dura 4 horas.</AArmoury_InvisibilityField.description>
+  <AArmoury_InvisibilityField.label>campo de invisibilidad</AArmoury_InvisibilityField.label>
+  <AArmoury_InvisibilityField.traitAdjectives.0>ocultador</AArmoury_InvisibilityField.traitAdjectives.0>
+  <AArmoury_MimicCore.description>Esta arma puede adquirir los rasgos de arma de otra arma única, destruyéndola en el proceso. Ten en cuenta que solo se adquirirán los rasgos que sean compatibles con el arma (nada de arcos lanzacohetes).\n\nDetalles de la habilidad: Sin cargas, 30000 ticks de enfriamiento (medio día). Alcance de 6 casillas.</AArmoury_MimicCore.description>
+  <AArmoury_MimicCore.label>núcleo mimético</AArmoury_MimicCore.label>
+  <AArmoury_MimicCore.traitAdjectives.0>mimético</AArmoury_MimicCore.traitAdjectives.0>
+  <AArmoury_SelfSkipField.description>Esta arma genera un campo de salto localizado que permite a su usuario autosaltar.\n\nDetalles de la habilidad: Sin cargas, 4800 ticks de enfriamiento (alrededor de 2 horas). Alcance de 21 casillas en línea de visión.</AArmoury_SelfSkipField.description>
+  <AArmoury_SelfSkipField.label>campo de autosalto</AArmoury_SelfSkipField.label>
+  <AArmoury_SelfSkipField.traitAdjectives.0>salto</AArmoury_SelfSkipField.traitAdjectives.0>
+  <AArmoury_SkipField.description>Esta arma genera un campo de salto localizado que permite a su usuario saltar a un objetivo lejos.\n\nDetalles de la habilidad: Sin cargas, 4800 ticks de enfriamiento (alrededor de 2 horas). Alcance de 21 casillas en línea de visión.</AArmoury_SkipField.description>
+  <AArmoury_SkipField.label>campo de salto</AArmoury_SkipField.label>
+  <AArmoury_SkipField.traitAdjectives.0>salto</AArmoury_SkipField.traitAdjectives.0>
+  <AArmoury_Sludge.description>Esta arma puede proyectar un spray de lodo ácido. El lodo se pegará a los objetivos y los quemará, y convertirá el terreno en lodo de insectos.</AArmoury_Sludge.description>
+  <AArmoury_Sludge.label>escupidor de lodo</AArmoury_Sludge.label>
+  <AArmoury_Sludge.modExtensions.0.abilityWithCharges.cooldownGerund>en enfriamiento</AArmoury_Sludge.modExtensions.0.abilityWithCharges.cooldownGerund>
+  <AArmoury_Sludge.traitAdjectives.0>acídico</AArmoury_Sludge.traitAdjectives.0>
+</LanguageData>
