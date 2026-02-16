@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <VME_BonfireOutcome.comps.0.label>impacto social de {PAWN_labelShort}</VME_BonfireOutcome.comps.0.label>
+  <VME_BonfireOutcome.comps.0.labelAbstract>impacto social del orador</VME_BonfireOutcome.comps.0.labelAbstract>
+  <VME_BonfireOutcome.comps.1.label>recuento de participantes</VME_BonfireOutcome.comps.1.label>
+  <VME_BonfireOutcome.description>Dependiendo de la calidad del ritual, los participantes recibirán un aumento de recreación que dura entre 4 horas y 3 días que elevará su barra de recreación. También obtendrán entre {MINMOOD} y {MAXMOOD} de humor durante {MOODDAYS} días.\n\nLa hoguera ritual permanecerá encendida durante al menos dos cuadrum, proporcionando una bonificación de belleza cercana y contando para el número de fuegos alrededor para el precepto Fuego: Deseado.</VME_BonfireOutcome.description>
+  <VME_BonfireOutcome.outcomeChances.0.description>¡La {0} fue terrible! Algunas pequeñas llamas patéticas flotaron alrededor, y se apagaron demasiado pronto (no se aplicó ningún efecto de recreación).</VME_BonfireOutcome.outcomeChances.0.description>
+  <VME_BonfireOutcome.outcomeChances.0.label>Terrible</VME_BonfireOutcome.outcomeChances.0.label>
+  <VME_BonfireOutcome.outcomeChances.1.description>La {0} fue deslucida. Esperábamos una conflagración maravillosa, y en su lugar obtuvimos una fogata de gran tamaño. Al menos fue algo entretenido.\n\nLa recreación de todos los participantes aumentará durante 4 horas.</VME_BonfireOutcome.outcomeChances.1.description>
+  <VME_BonfireOutcome.outcomeChances.1.label>Deslucida</VME_BonfireOutcome.outcomeChances.1.label>
+  <VME_BonfireOutcome.outcomeChances.2.description>La {0} fue buena. Las llamas se elevaron y crepitaron majestuosamente sobre el asentamiento, y levantó considerablemente el ánimo de todos.\n\nLa recreación de todos los participantes aumentará durante 1 día.</VME_BonfireOutcome.outcomeChances.2.description>
+  <VME_BonfireOutcome.outcomeChances.2.label>Buena</VME_BonfireOutcome.outcomeChances.2.label>
+  <VME_BonfireOutcome.outcomeChances.3.description>¡La {0} fue gloriosa! Fue súper divertido y realmente nos conectamos entre nosotros con la experiencia compartida.\n\nLa recreación de todos los participantes aumentará durante 3 días.</VME_BonfireOutcome.outcomeChances.3.description>
+  <VME_BonfireOutcome.outcomeChances.3.label>Gloriosa</VME_BonfireOutcome.outcomeChances.3.label>
+</LanguageData>
