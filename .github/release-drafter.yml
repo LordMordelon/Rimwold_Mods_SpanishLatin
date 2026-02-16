@@ -1,31 +1,69 @@
 name-template: "v1.0.$NEXT_PATCH_VERSION"
 tag-template: "v1.0.$NEXT_PATCH_VERSION"
-change-template: "- $TITLE (#$NUMBER)"
+change-template: "- $TITLE"
 no-changes-template: "- Sin cambios registrados"
 
 categories:
-  - title: "🚀 Caracteristicas y mejoras"
+  - title: "Correcciones:"
     labels:
+      - "Correcciones"
+      - "Correccion"
+      - "Corrección"
+      - "Correcion"
+      - "Corregido"
+      - "Corregida"
+      - "Corregidos"
+      - "Corregidas"
+      - "correccion"
+      - "corrección"
+      - "correcciones"
+      - "correcion"
+      - "corregido"
+      - "corregida"
+      - "corregidos"
+      - "corregidas"
+      - "fix"
+      - "bug"
+  - title: "Añadidos:"
+    labels:
+      - "Añadidos"
+      - "Añadido"
+      - "Anadido"
+      - "Anadidos"
+      - "Agregado"
+      - "Agregados"
+      - "añadido"
+      - "añadidos"
+      - "anadido"
+      - "anadidos"
+      - "agregado"
+      - "agregados"
+      - "add"
+      - "added"
       - "feature"
       - "enhancement"
-  - title: "🐛 Correccion de errores"
+  - title: "Actualizaciones:"
     labels:
-      - "bug"
-      - "fix"
-  - title: "🔧 Mantenimiento y cambios internos"
-    labels:
+      - "Actualizaciones"
+      - "Actualizacion"
+      - "Actualización"
+      - "Actualizado"
+      - "Actualizada"
+      - "Actualizados"
+      - "Actualizadas"
+      - "actualizado"
+      - "actualizada"
+      - "actualizacion"
+      - "actualización"
+      - "actualizaciones"
+      - "actualizados"
+      - "actualizadas"
       - "chore"
       - "maintenance"
       - "refactor"
-  - title: "Cambios varios"
+  - title: "Otros"
     labels:
       - "misc"
 
 template: |
-  Version estable $TITLE.
-  La ultima confirmacion es $RESOLVED_VERSION.
-
-  Consulte la accion ejecutar que creo este lanzamiento.
-
-  Lo que ha cambiado
   $CHANGES
