@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: weapon tweaking kit -->
+  <AArmoury_WeaponKit.label>kit de ajuste de armas</AArmoury_WeaponKit.label>
+  <!-- EN: A weapon kit for a specific weapon modifier. It can be used on an unique weapon to add a trait to it, as long as the weapon supports it. -->
+  <AArmoury_WeaponKit.description>Un kit de armas para un modificador de arma específico. Se puede usar en un arma única para agregarle un rasgo, siempre que el arma lo admita.</AArmoury_WeaponKit.description>
+  <!-- EN: Use {0_label} -->
+  <AArmoury_WeaponKit.comps.CompUsable.useLabel>Usar {0_label}</AArmoury_WeaponKit.comps.CompUsable.useLabel>
+  
+  <!-- EN: weapon conversion kit -->
+  <AArmoury_WeaponKit_Converter.label>kit de conversión de armas</AArmoury_WeaponKit_Converter.label>
+  <!-- EN: A weapon conversion kit for a specific weapon. It can be used on a weapon of that type to convert it to the equivalent unique weapon. -->
+  <AArmoury_WeaponKit_Converter.description>Un kit de conversión de armas para un arma específica. Se puede usar en un arma de ese tipo para convertirla en el arma única equivalente.</AArmoury_WeaponKit_Converter.description>
+  <!-- EN: Use {0_label} -->
+  <AArmoury_WeaponKit_Converter.comps.CompUsable.useLabel>Usar {0_label}</AArmoury_WeaponKit_Converter.comps.CompUsable.useLabel>
+  
+  <!-- EN: weapon trait removing kit -->
+  <AArmoury_WeaponKit_Remover.label>kit eliminador de rasgos de armas</AArmoury_WeaponKit_Remover.label>
+  <!-- EN: A weapon kit to remove traits from a weapon. It can be used on an unique weapon to remove a random trait from it. -->
+  <AArmoury_WeaponKit_Remover.description>Un kit de armas para eliminar rasgos de un arma. Se puede usar en un arma única para eliminar un rasgo aleatorio de ella.</AArmoury_WeaponKit_Remover.description>
+  <!-- EN: Use {0_label} -->
+  <AArmoury_WeaponKit_Remover.comps.CompUsable.useLabel>Usar {0_label}</AArmoury_WeaponKit_Remover.comps.CompUsable.useLabel>
+  
+  <!-- EN: tabula rasa weapon kit -->
+  <AArmoury_WeaponKit_TabulaRasa.label>kit de armas tabula rasa</AArmoury_WeaponKit_TabulaRasa.label>
+  <!-- EN: A weapon kit that removes all weapon traits from a weapon. -->
+  <AArmoury_WeaponKit_TabulaRasa.description>Un kit de armas que elimina todos los rasgos de arma de un arma.</AArmoury_WeaponKit_TabulaRasa.description>
+  <!-- EN: Use {0_label} -->
+  <AArmoury_WeaponKit_TabulaRasa.comps.CompUsable.useLabel>Usar {0_label}</AArmoury_WeaponKit_TabulaRasa.comps.CompUsable.useLabel>
+  
+</LanguageData>

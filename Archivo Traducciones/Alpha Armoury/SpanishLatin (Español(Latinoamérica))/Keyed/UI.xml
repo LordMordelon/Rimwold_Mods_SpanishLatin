@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+	<!-- EN: This ability needs to target its caster -->
+  <AArmoury_NeedToTargetCaster>Esta habilidad necesita apuntar a su lanzador</AArmoury_NeedToTargetCaster>
+	<!-- EN: This ability needs to target someone besides its caster -->
+  <AArmoury_NeedToTargetNotCaster>Esta habilidad necesita apuntar a alguien que no sea su lanzador</AArmoury_NeedToTargetNotCaster>
+	<!-- EN: Weapon trait in this kit: "{0}" -->
+  <AArmoury_Trait>Rasgo de arma en este kit: "{0}"</AArmoury_Trait>
+	<!-- EN: Weapon conversion for: "{0}" -->
+  <AArmoury_Weapon>Conversión de arma para: "{0}"</AArmoury_Weapon>
+	<!-- EN: Can't apply "{0}" to {1}. {2} -->
+  <AArmoury_CantApply>No se puede aplicar "{0}" a {1}. {2}</AArmoury_CantApply>
+	<!-- EN: Weapon doesn't accept that trait category. -->
+  <AArmoury_CantAcceptCategory>El arma no acepta esa categoría de rasgo.</AArmoury_CantAcceptCategory>
+	<!-- EN: That trait can't be generated alone. -->
+  <AArmoury_CantGenerateAlone>Ese rasgo no se puede generar solo.</AArmoury_CantGenerateAlone>
+	<!-- EN: Trait conflicts with existing trait "{0}". -->
+  <AArmoury_TraitConflicts>El rasgo entra en conflicto con el rasgo existente "{0}".</AArmoury_TraitConflicts>
+	<!-- EN: {0} doesn't have any traits to remove. -->
+  <AArmoury_NoTraits>{0} no tiene rasgos para eliminar.</AArmoury_NoTraits>
+	<!-- EN: Weapon trait "{0}" has been removed from {1}. It's gone, Jim. -->
+  <AArmoury_RemovedTrait>El rasgo de arma "{0}" ha sido eliminado de {1}. Se ha ido, Jim.</AArmoury_RemovedTrait>
+	<!-- EN: Guns that can use this trait: -->
+  <AArmoury_GunsSupportingTrait>Armas que pueden usar este rasgo:</AArmoury_GunsSupportingTrait>
+	<!-- EN: {0} doesn't seem to have an unique weapon equivalent. -->
+  <AArmoury_NoUniqueEquivalent>{0} no parece tener un equivalente de arma única.</AArmoury_NoUniqueEquivalent>
+	<!-- EN: This is a conversion kit for {0}. It won't work on other weapons. -->
+  <AArmoury_NotForThisGun>Este es un kit de conversión para {0}. No funcionará en otras armas.</AArmoury_NotForThisGun>
+	
+	<!-- EN: Minimum weapon traits -->
+  <AArmoury_MinWeaponTraits>Rasgos de arma mínimos</AArmoury_MinWeaponTraits>
+	<!-- EN: By default, unique weapons have a minimum of 1 weapon trait. Changes to this will only affect newly spawned weapons, not existing ones. -->
+  <AArmoury_MinWeaponTraitsDesc>Por defecto, las armas únicas tienen un mínimo de 1 rasgo de arma. Los cambios en esto solo afectarán a las armas recién generadas, no a las existentes.</AArmoury_MinWeaponTraitsDesc>
+	
+	<!-- EN: Maximum weapon traits -->
+  <AArmoury_MaxWeaponTraits>Rasgos de arma máximos</AArmoury_MaxWeaponTraits>
+	<!-- EN: By default, unique weapons have a maximum of 3 weapon traits. Changes to this will only affect newly spawned weapons, not existing ones. -->
+  <AArmoury_MaxWeaponTraitsDesc>Por defecto, las armas únicas tienen un máximo de 3 rasgos de arma. Los cambios en esto solo afectarán a las armas recién generadas, no a las existentes.</AArmoury_MaxWeaponTraitsDesc>
+	
+	<!-- EN: Send unique weapon pods every quadrum! (weapon FIESTA!) -->
+  <AArmoury_SendWeaponPods>¡Enviar cápsulas de armas únicas cada cuadrum! (¡FIESTA de armas!)</AArmoury_SendWeaponPods>
+	<!-- EN: With this option, which is disabled by default, you can choose to get 1-3 drop pods loaded with random unique weapons every 15 days. Note that this can be very OP... or very underwhelming. If you have a caravan spot the weapons will be delivered there. -->
+  <AArmoury_SendWeaponPodsDesc>Con esta opción, que está desactivada por defecto, puedes elegir recibir 1-3 cápsulas de carga cargadas con armas únicas aleatorias cada 15 días. Ten en cuenta que esto puede ser muy OP... o muy decepcionante. Si tienes un punto de caravana, las armas se entregarán allí.</AArmoury_SendWeaponPodsDesc>
+	<!-- EN: Weapon FIESTA! -->
+  <AArmoury_FiestaDeliveredLabel>¡FIESTA de armas!</AArmoury_FiestaDeliveredLabel>
+	<!-- EN: Drop pods loaded with unique weapons have been delivered to the colony! -->
+  <AArmoury_FiestaDelivered>¡Se han entregado cápsulas de carga cargadas con armas únicas a la colonia!</AArmoury_FiestaDelivered>
+	
+	<!-- EN: Add unique weapons to more Ancient Mercenaries -->
+  <AArmoury_AddWeaponsToMoreMercs>Agregar armas únicas a más Mercenarios Antiguos</AArmoury_AddWeaponsToMoreMercs>
+	<!-- EN: By default, only the leader in a band of mercenaries will have a unique weapon. With this setting you can make it so ALL of the mercenaries in the quest carry a unique! -->
+  <AArmoury_AddWeaponsToMoreMercsDesc>Por defecto, solo el líder en una banda de mercenarios tendrá un arma única. ¡Con esta configuración puedes hacer que TODOS los mercenarios en la misión lleven una única!</AArmoury_AddWeaponsToMoreMercsDesc>
+	
+	<!-- EN: Add weapon kits to more Ancient Mercenaries -->
+  <AArmoury_AddKitsToMoreMercs>Agregar kits de armas a más Mercenarios Antiguos</AArmoury_AddKitsToMoreMercs>
+	<!-- EN: By default, the leader in a band of mercenaries will drop 2-4 weapon tweaking kits. With this setting you can make it so ALL of the mercenaries in the quest will drop an additional kit! -->
+  <AArmoury_AddKitsToMoreMercsDesc>Por defecto, el líder en una banda de mercenarios dejará caer 2-4 kits de ajuste de armas. ¡Con esta configuración puedes hacer que TODOS los mercenarios en la misión dejen caer un kit adicional!</AArmoury_AddKitsToMoreMercsDesc>
+	
+	<!-- EN: Add unique weapons to all raids -->
+  <AArmoury_AddWeaponsToAllRaids>Agregar armas únicas a todas las incursiones</AArmoury_AddWeaponsToAllRaids>
+	<!-- EN: Raids usually don't spawn with unique weapons, but you can change that with this mod option. Enjoy the absolute chaos! -->
+  <AArmoury_AddWeaponsToAllRaidsDesc>Las incursiones generalmente no aparecen con armas únicas, pero puedes cambiar eso con esta opción de mod. ¡Disfruta del caos absoluto!</AArmoury_AddWeaponsToAllRaidsDesc>
+	
+	<!-- EN: ...but make them all biocoded -->
+  <AArmoury_MakeRaidWeaponsBiocoded>...pero hazlas todas biocodificadas</AArmoury_MakeRaidWeaponsBiocoded>
+	<!-- EN: Weapons appearing in raids will be biocoded, so the player will have to fight against MUCH tougher raids, and have no unique weapons as rewards! -->
+  <AArmoury_MakeRaidWeaponsBiocodedDesc>¡Las armas que aparecen en las incursiones estarán biocodificadas, por lo que el jugador tendrá que luchar contra incursiones MUCHO más duras y no tendrá armas únicas como recompensa!</AArmoury_MakeRaidWeaponsBiocodedDesc>
+	
+	<!-- EN: ...but make them all be destroyed when dropped -->
+  <AArmoury_MakeRaidWeaponsDestroyedOnDrop>...pero haz que todas se destruyan al caer</AArmoury_MakeRaidWeaponsDestroyedOnDrop>
+	<!-- EN: By default, even if the weapons are biocoded they can still be used by the raider if you capture them. With this mod options, weapons will autodestroy once dropped, making raids only just more difficult. -->
+  <AArmoury_MakeRaidWeaponsDestroyedOnDropDesc>Por defecto, incluso si las armas están biocodificadas, el asaltante aún puede usarlas si las capturas. Con estas opciones de mod, las armas se autodestruirán una vez que se suelten, haciendo que las incursiones sean solo más difíciles.</AArmoury_MakeRaidWeaponsDestroyedOnDropDesc>
+	
+	<!-- EN: Make unique weapons more common as quest rewards (requires game reload) -->
+  <AArmoury_MakeMoreCommonAsQuestRewards>Hacer que las armas únicas sean más comunes como recompensas de misiones (requiere recargar el juego)</AArmoury_MakeMoreCommonAsQuestRewards>
+	<!-- EN: By default, unique weapons are classified as RewardStandardLowFreq. With this mod option they will be classified instead as RewardStandardHighFreq, so they will appear more frequently as quest rewards. Requires game to be reloaded to take effect. -->
+  <AArmoury_MakeMoreCommonAsQuestRewardsDesc>Por defecto, las armas únicas se clasifican como RewardStandardLowFreq. Con esta opción de mod, se clasificarán en su lugar como RewardStandardHighFreq, por lo que aparecerán con más frecuencia como recompensas de misiones. Requiere que se recargue el juego para que surta efecto.</AArmoury_MakeMoreCommonAsQuestRewardsDesc>
+	
+	<!-- EN: Add unique weapons as drops for Ancient Urban Ruins (requires game reload) -->
+  <AArmoury_AddUniquesToMUR>Agregar armas únicas como botín para Ruinas Urbanas Antiguas (requiere recargar el juego)</AArmoury_AddUniquesToMUR>
+	<!-- EN: If you have the Ancient Urban Ruins mod, this mod option will add all unique weapons as possible drops for the weapon crates there. Requires game to be reloaded to take effect. -->
+  <AArmoury_AddUniquesToMURDesc>Si tienes el mod Ancient Urban Ruins, esta opción de mod agregará todas las armas únicas como posibles botines para las cajas de armas allí. Requiere que se recargue el juego para que surta efecto.</AArmoury_AddUniquesToMURDesc>
+	
+	<!-- EN: Reset -->
+  <AArmoury_Reset>Restablecer</AArmoury_Reset>
+	
+	<!-- EN: Weapon in space -->
+  <AArmoury_StatsReport_InSpace>Arma en el espacio</AArmoury_StatsReport_InSpace>
+	<!-- EN: Weapon planetside -->
+  <AArmoury_StatsReport_NotInSpace>Arma en superficie planetaria</AArmoury_StatsReport_NotInSpace>
+	<!-- EN: Weapon in sunlight -->
+  <AArmoury_StatsReport_InSunlight>Arma bajo luz solar</AArmoury_StatsReport_InSunlight>
+	<!-- EN: Weapon not in sunlight -->
+  <AArmoury_StatsReport_NotInSunlight>Arma sin luz solar</AArmoury_StatsReport_NotInSunlight>
+	<!-- EN: Weapon in polluted terrain -->
+  <AArmoury_StatsReport_InPollution>Arma en terreno contaminado</AArmoury_StatsReport_InPollution>
+	
+	
+</LanguageData>

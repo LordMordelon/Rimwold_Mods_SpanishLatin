@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+	<!-- EN: An inert fate manipulator has transformed into a {0}! -->
+  <ARandom_NewManipulator>¡Un manipulador del destino inerte se ha transformado en un {0}!</ARandom_NewManipulator>
+	<!-- EN: The {0} triggered the {1} event! -->
+  <ARandom_IncidentCaused>¡El {0} desencadenó el evento {1}!</ARandom_IncidentCaused>
+	<!-- EN: The archotechs have blessed {0} with knowledge of {1}! -->
+  <ARandom_BoonSkillsLearned>¡Los arquetecnólogos han bendecido a {0} con el conocimiento de {1}!</ARandom_BoonSkillsLearned>
+	<!-- EN: The archotechs have inspired {0}! -->
+  <ARandom_BoonInspiration>¡Los arquetecnólogos han inspirado a {0}!</ARandom_BoonInspiration>
+	<!-- EN: The archotechs have blessed {0}! -->
+  <ARandom_BoonHediff>¡Los arquetecnólogos han bendecido a {0}!</ARandom_BoonHediff>
+	<!-- EN: The archotechs have mutated {0} with {1}! -->
+  <ARandom_BoonGene>¡Los arquetecnólogos han mutado a {0} con {1}!</ARandom_BoonGene>
+	<!-- EN: The archotechs have completely reshuffled {0}'s personality! -->
+  <ARandom_BoonTraits>¡Los arquetecnólogos han reorganizado completamente la personalidad de {0}!</ARandom_BoonTraits>
+	<!-- EN: The archotechs have given {0} preternatural sight! The whole map has been revealed. -->
+  <ARandom_BoonSight>¡Los arquetecnólogos le han dado a {0} una visión sobrenatural! Todo el mapa ha sido revelado.</ARandom_BoonSight>
+	<!-- EN: The archotechs have turned {0}'s possessions into pure gold! -->
+  <ARandom_BoonMidasTouch>¡Los arquetecnólogos han convertido las posesiones de {0} en oro puro!</ARandom_BoonMidasTouch>
+	<!-- EN: The archotechs have cleaned filth and repaired buildings in the colony's home area! -->
+  <ARandom_BoonCleaningRepairing>¡Los arquetecnólogos han limpiado la suciedad y reparado los edificios en el área del hogar de la colonia!</ARandom_BoonCleaningRepairing>
+	<!-- EN: The archotechs have increased the quality of {0}'s equipment! -->
+  <ARandom_BoonQuality>¡Los arquetecnólogos han aumentado la calidad del equipo de {0}!</ARandom_BoonQuality>
+	<!-- EN: The archotechs... ▌egg 0101▌▌feather-collapse ▌▌[TIME] inexhaustible ███nesting [REDACTED] GRAVITY ▌▌do not. -->
+  <ARandom_BoonChickens>Los arquetecnólogos... ▌huevo 0101▌▌colapso-pluma ▌▌[TIEMPO] inagotable ███anidación [REDACTADO] GRAVEDAD ▌▌no lo hacen.</ARandom_BoonChickens>
+	<!-- EN: Market value range (base) -->
+  <ARandom_TotalMarketValueRange>Valor de mercado (base)</ARandom_TotalMarketValueRange>
+	<!-- EN: Total market value range (minimum and maximum) of the objects that can be found by opening this loot box. -->
+  <ARandom_TotalMarketValueRange_Desc>Rango de valor de mercado total (mínimo y máximo) de los objetos que se pueden encontrar al abrir esta caja de botín.</ARandom_TotalMarketValueRange_Desc>
+	<!-- EN: Market value range (by quality) -->
+  <ARandom_TotalMarketValueRange_Quality>Valor de mercado (por calidad)</ARandom_TotalMarketValueRange_Quality>
+	<!-- EN: Total market value range (minimum and maximum) of the objects that can be found by opening this loot box. Box quality has modified the base value by a factor of {0} -->
+  <ARandom_TotalMarketValueRange_Quality_Desc>Rango de valor de mercado total (mínimo y máximo) de los objetos que se pueden encontrar al abrir esta caja de botín. La calidad de la caja ha modificado el valor base por un factor de {0}</ARandom_TotalMarketValueRange_Quality_Desc>
+	<!-- EN: Add random lootboxes to raiders -->
+  <ARandom_AddLootboxesToRaiders>Añadir cajas de botín aleatorias a los asaltantes</ARandom_AddLootboxesToRaiders>
+	<!-- EN: With this on, all raiders coming into your base have a chance to carry a random loot box. -->
+  <ARandom_AddLootboxesToRaidersDesc>Con esto activado, todos los asaltantes que lleguen a tu base tienen la posibilidad de llevar una caja de botín aleatoria.</ARandom_AddLootboxesToRaidersDesc>
+	<!-- EN: Raider lootbox chance -->
+  <ARandom_LootboxCommonality>Probabilidad de caja de botín en asaltantes</ARandom_LootboxCommonality>
+	<!-- EN: By default, only 1% of raiders will arrive with a lootbox on their inventory, but you can tweak that. -->
+  <ARandom_LootboxCommonalityDesc>Por defecto, solo el 1% de los asaltantes llegarán con una caja de botín en su inventario, pero puedes ajustarlo.</ARandom_LootboxCommonalityDesc>
+	<!-- EN: Reset -->
+  <ARandom_Reset>Restablecer</ARandom_Reset>
+</LanguageData>

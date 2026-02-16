@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: inert archotech fate manipulator -->
+  <ARandom_FateManipulator.label>dado arqueotéc inerte</ARandom_FateManipulator.label>
+  <!-- EN: A dormant archotech relic humming with unreadable potential. After lying inert for 1–10 days, it spontaneously reconfigures itself into one of three fully-formed fate manipulators, as if choosing its own destiny. -->
+  <ARandom_FateManipulator.description>Una reliquia arquetecnológica inactiva que zumba con un potencial ilegible. Después de permanecer inerte durante 1 a 10 días, se reconfigura espontáneamente en uno de los tres dados manipuladores del destino completamente formados, como si eligiera su propio destino.</ARandom_FateManipulator.description>
+  
+  <!-- EN: benign archotech fate manipulator -->
+  <ARandom_FateManipulator_Benign.label>dado arqueotéc benigno</ARandom_FateManipulator_Benign.label>
+  <!-- EN: An archotech device tuned toward harmony. When activated, it subtly bends probability to trigger generally positive events: boons, inspirations, lucky breaks, or gentle twists of fate that favour the colony. Of course there is always a chance for something negative to pop up! -->
+  <ARandom_FateManipulator_Benign.description>Un dispositivo arquetecnológico sintonizado hacia la armonía. Cuando se activa, dobla sutilmente la probabilidad para desencadenar eventos generalmente positivos: bendiciones, inspiraciones, golpes de suerte o giros suaves del destino que favorecen a la colonia. ¡Por supuesto, siempre existe la posibilidad de que surja algo negativo!</ARandom_FateManipulator_Benign.description>
+  <!-- EN: Activate {0_label} -->
+  <ARandom_FateManipulator_Benign.comps.CompUsable.useLabel>Activar {0_label}</ARandom_FateManipulator_Benign.comps.CompUsable.useLabel>
+  
+  <!-- EN: chaotic archotech fate manipulator -->
+  <ARandom_FateManipulator_Chaotic.label>dado arqueotéc caótico</ARandom_FateManipulator_Chaotic.label>
+  <!-- EN: A volatile anomaly of shifting patterns. When activated, it forces three completely random events, good, bad, or absurd, unleashing raw, unpredictable fate in rapid succession. "But Sarg, you broke my game!" Nu-uh, it was the archotechs! -->
+  <ARandom_FateManipulator_Chaotic.description>Una anomalía volátil de patrones cambiantes. Cuando se activa, fuerza tres eventos completamente aleatorios, buenos, malos o absurdos, desatando un destino crudo e impredecible en rápida sucesión. "¡Pero Sarg, rompiste mi juego!" ¡Nop, fueron los arquetecnólogos!</ARandom_FateManipulator_Chaotic.description>
+  <!-- EN: Activate {0_label} -->
+  <ARandom_FateManipulator_Chaotic.comps.CompUsable.useLabel>Activar {0_label}</ARandom_FateManipulator_Chaotic.comps.CompUsable.useLabel>
+  
+  <!-- EN: dark archotech fate manipulator -->
+  <ARandom_FateManipulator_Dark.label>dado arqueotéc oscuro</ARandom_FateManipulator_Dark.label>
+  <!-- EN: A brooding construct that channels misfortune. Its activation guarantees negative events, accidents, threats and ominous omens, twisting probability toward suffering with cold archotech precision.\n\n&lt;color=#E5E54C&gt;Gameplay effect:&lt;/color&gt; WHY would anyone use this? Well, there is a 15% chance an archotech boon will happen, instead of a random negative event. These boons have positive effects that can't be acquired otherwise. -->
+  <ARandom_FateManipulator_Dark.description>Un constructo inquietante que canaliza la desgracia. Su activación garantiza eventos negativos, accidentes, amenazas y presagios siniestros, torciendo la probabilidad hacia el sufrimiento con fría precisión arquetecnológica.\n\n&lt;color=#E5E54C&gt;Efecto de juego:&lt;/color&gt; ¿POR QUÉ alguien usaría esto? Bueno, hay un 15% de probabilidad de que ocurra una bendición arqueotéc en lugar de un evento negativo aleatorio. Estas bendiciones tienen efectos positivos que no se pueden adquirir de otra manera.</ARandom_FateManipulator_Dark.description>
+  <!-- EN: Activate {0_label} -->
+  <ARandom_FateManipulator_Dark.comps.CompUsable.useLabel>Activar {0_label}</ARandom_FateManipulator_Dark.comps.CompUsable.useLabel>
+  
+</LanguageData>

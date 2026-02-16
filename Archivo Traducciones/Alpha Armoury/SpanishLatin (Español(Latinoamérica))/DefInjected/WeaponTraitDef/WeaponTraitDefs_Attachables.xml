@@ -1,0 +1,231 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: acid launcher -->
+  <AArmoury_AcidLauncher.label>lanzador de ácido</AArmoury_AcidLauncher.label>
+  <!-- EN: This weapon has an attached acid grenade launcher. Once fired, it must be reloaded using components. -->
+  <AArmoury_AcidLauncher.description>Esta arma tiene un lanzagranadas de ácido acoplado. Una vez disparado, debe recargarse usando componentes.</AArmoury_AcidLauncher.description>
+  <!-- EN: acid grenade -->
+  <AArmoury_AcidLauncher.modExtensions.0.abilityWithCharges.chargeNoun>granada de ácido</AArmoury_AcidLauncher.modExtensions.0.abilityWithCharges.chargeNoun>
+  <!-- EN: on cooldown -->
+  <AArmoury_AcidLauncher.modExtensions.0.abilityWithCharges.cooldownGerund>en enfriamiento</AArmoury_AcidLauncher.modExtensions.0.abilityWithCharges.cooldownGerund>
+  <!-- EN: corrosive -->
+  <AArmoury_AcidLauncher.traitAdjectives.0>corrosivo</AArmoury_AcidLauncher.traitAdjectives.0>
+  <!-- EN: acidic -->
+  <AArmoury_AcidLauncher.traitAdjectives.1>acídico</AArmoury_AcidLauncher.traitAdjectives.1>
+  
+  <!-- EN: anti-tox launcher -->
+  <AArmoury_AntiToxLauncher.label>lanzador antitoxinas</AArmoury_AntiToxLauncher.label>
+  <!-- EN: This weapon has an attached anti-tox grenade launcher. Once fired, it must be reloaded using steel. Grenades reduce toxic buildup by 20%. -->
+  <AArmoury_AntiToxLauncher.description>Esta arma tiene un lanzagranadas antitoxinas acoplado. Una vez disparado, debe recargarse usando acero. Las granadas reducen la acumulación tóxica en un 20%.</AArmoury_AntiToxLauncher.description>
+  <!-- EN: anti-tox canister -->
+  <AArmoury_AntiToxLauncher.modExtensions.0.abilityWithCharges.chargeNoun>bote antitoxinas</AArmoury_AntiToxLauncher.modExtensions.0.abilityWithCharges.chargeNoun>
+  <!-- EN: on cooldown -->
+  <AArmoury_AntiToxLauncher.modExtensions.0.abilityWithCharges.cooldownGerund>en enfriamiento</AArmoury_AntiToxLauncher.modExtensions.0.abilityWithCharges.cooldownGerund>
+  <!-- EN: anti-toxic -->
+  <AArmoury_AntiToxLauncher.traitAdjectives.0>antitóxico</AArmoury_AntiToxLauncher.traitAdjectives.0>
+  
+  <!-- EN: archotegg launcher -->
+  <AArmoury_ArchoteggLauncher.label>lanzador arqueohuevo</AArmoury_ArchoteggLauncher.label>
+  <!-- EN: This weapon ███cluck ███▌▌egg 0101▌▌feather-collapse ▌▌[TIME] inexhaustible nesting [REDACTED] GRAVITY ▌▌do not ███shell fractals███do not███[ERROR].\n\nThe ███cosmic YOLK ███fracture █cluck▌▌FEATHER cascade ███INITIATE █▌▌▌GOLDEN BEAK██▌▌NULL ██DESTINY ████ERROR. -->
+  <AArmoury_ArchoteggLauncher.description>Esta arma ███cloc ███▌▌huevo 0101▌▌colapso-pluma ▌▌[TIEMPO] anidación inagotable [CENSURADO] GRAVEDAD ▌▌no ███fractales de cáscara███no███[ERROR].\n\nLa ███YEMA cósmica ███fractura █cloc▌▌cascada de PLUMAS ███INICIAR █▌▌▌PICO DORADO██▌▌NULO ██DESTINO ████ERROR.</AArmoury_ArchoteggLauncher.description>
+  <!-- EN: on cooldown -->
+  <AArmoury_ArchoteggLauncher.modExtensions.0.abilityWithCharges.cooldownGerund>en enfriamiento</AArmoury_ArchoteggLauncher.modExtensions.0.abilityWithCharges.cooldownGerund>
+  <!-- EN: ███▌▌egg 0101 -->
+  <AArmoury_ArchoteggLauncher.traitAdjectives.0>███▌▌huevo 0101</AArmoury_ArchoteggLauncher.traitAdjectives.0>
+  <!-- EN: ███DISALLOWED ▌▌▌▌[YOLK-REALM] -->
+  <AArmoury_ArchoteggLauncher.traitAdjectives.1>███NO PERMITIDO ▌▌▌▌[REINO-YEMA]</AArmoury_ArchoteggLauncher.traitAdjectives.1>
+  <!-- EN: [REDACTED] ██eggvector -->
+  <AArmoury_ArchoteggLauncher.traitAdjectives.2>[CENSURADO] ██vectorhuevo</AArmoury_ArchoteggLauncher.traitAdjectives.2>
+  <!-- EN: [WING FRACTAL ████FORM -->
+  <AArmoury_ArchoteggLauncher.traitAdjectives.3>[FORMA FRACTAL ████ALA</AArmoury_ArchoteggLauncher.traitAdjectives.3>
+  
+  <!-- EN: barricade deployer -->
+  <AArmoury_BarricadeDeployer.label>desplegador de barricadas</AArmoury_BarricadeDeployer.label>
+  <!-- EN: This weapon has an attached barricade deployer. Once fired, it can be reloaded using steel. -->
+  <AArmoury_BarricadeDeployer.description>Esta arma tiene un desplegador de barricadas acoplado. Una vez disparado, puede recargarse usando acero.</AArmoury_BarricadeDeployer.description>
+  <!-- EN: on cooldown -->
+  <AArmoury_BarricadeDeployer.modExtensions.0.abilityWithCharges.cooldownGerund>en enfriamiento</AArmoury_BarricadeDeployer.modExtensions.0.abilityWithCharges.cooldownGerund>
+  <!-- EN: barricade deploying -->
+  <AArmoury_BarricadeDeployer.traitAdjectives.0>despliegue de barricadas</AArmoury_BarricadeDeployer.traitAdjectives.0>
+  
+  <!-- EN: caltrop launcher -->
+  <AArmoury_Caltrops.label>lanzador de abrojos</AArmoury_Caltrops.label>
+  <!-- EN: This weapon has an attached caltrop launcher. Once fired, it can be reloaded using steel. -->
+  <AArmoury_Caltrops.description>Esta arma tiene un lanzador de abrojos acoplado. Una vez disparado, puede recargarse usando acero.</AArmoury_Caltrops.description>
+  <!-- EN: on cooldown -->
+  <AArmoury_Caltrops.modExtensions.0.abilityWithCharges.cooldownGerund>en enfriamiento</AArmoury_Caltrops.modExtensions.0.abilityWithCharges.cooldownGerund>
+  <!-- EN: caltrop launching -->
+  <AArmoury_Caltrops.traitAdjectives.0>lanzamiento de abrojos</AArmoury_Caltrops.traitAdjectives.0>
+  
+  <!-- EN: deadlife launcher -->
+  <AArmoury_DeadlifeLauncher.label>lanzador necrovita</AArmoury_DeadlifeLauncher.label>
+  <!-- EN: This weapon has an attached deadlife launcher. Once fired, it must be reloaded using a deadlife shell. -->
+  <AArmoury_DeadlifeLauncher.description>Esta arma tiene un lanzador necrovita acoplado. Una vez disparado, debe recargarse usando un proyectil necrovita.</AArmoury_DeadlifeLauncher.description>
+  <!-- EN: deadlife shell -->
+  <AArmoury_DeadlifeLauncher.modExtensions.0.abilityWithCharges.chargeNoun>proyectil necrovita</AArmoury_DeadlifeLauncher.modExtensions.0.abilityWithCharges.chargeNoun>
+  <!-- EN: on cooldown -->
+  <AArmoury_DeadlifeLauncher.modExtensions.0.abilityWithCharges.cooldownGerund>en enfriamiento</AArmoury_DeadlifeLauncher.modExtensions.0.abilityWithCharges.cooldownGerund>
+  <!-- EN: deadlife -->
+  <AArmoury_DeadlifeLauncher.traitAdjectives.0>vida muerta</AArmoury_DeadlifeLauncher.traitAdjectives.0>
+  
+  <!-- EN: dehydrator grenades -->
+  <AArmoury_DehydratorGrenades.label>granadas deshidratadoras</AArmoury_DehydratorGrenades.label>
+  <!-- EN: This weapon has an attachment to fire dehydrator grenades. They will dry terrain, similar to a moisture pump. Can be reloaded using 10 components. Very expensive, but beats having to wait ages for a moisture pump! -->
+  <AArmoury_DehydratorGrenades.description>Esta arma tiene un accesorio para disparar granadas deshidratadoras. Secarán el terreno, similar a una bomba de humedad. Se puede recargar usando 10 componentes. ¡Muy caro, pero mejor que tener que esperar siglos por una bomba de humedad!</AArmoury_DehydratorGrenades.description>
+  <!-- EN: dehydrator grenade -->
+  <AArmoury_DehydratorGrenades.modExtensions.0.abilityWithCharges.chargeNoun>granada deshidratadora</AArmoury_DehydratorGrenades.modExtensions.0.abilityWithCharges.chargeNoun>
+  <!-- EN: on cooldown -->
+  <AArmoury_DehydratorGrenades.modExtensions.0.abilityWithCharges.cooldownGerund>en enfriamiento</AArmoury_DehydratorGrenades.modExtensions.0.abilityWithCharges.cooldownGerund>
+  <!-- EN: dehydrating -->
+  <AArmoury_DehydratorGrenades.traitAdjectives.0>deshidratante</AArmoury_DehydratorGrenades.traitAdjectives.0>
+  
+  <!-- EN: firefoam launcher -->
+  <AArmoury_FirefoamLauncher.label>lanzador de espuma contraincendios</AArmoury_FirefoamLauncher.label>
+  <!-- EN: This weapon has an attached firefoam launcher. Once fired, it must be reloaded using chemfuel. -->
+  <AArmoury_FirefoamLauncher.description>Esta arma tiene un lanzador de espuma contraincendios acoplado. Una vez disparado, debe recargarse usando biocombustible.</AArmoury_FirefoamLauncher.description>
+  <!-- EN: firefoam shell -->
+  <AArmoury_FirefoamLauncher.modExtensions.0.abilityWithCharges.chargeNoun>proyectil de espuma contraincendios</AArmoury_FirefoamLauncher.modExtensions.0.abilityWithCharges.chargeNoun>
+  <!-- EN: on cooldown -->
+  <AArmoury_FirefoamLauncher.modExtensions.0.abilityWithCharges.cooldownGerund>en enfriamiento</AArmoury_FirefoamLauncher.modExtensions.0.abilityWithCharges.cooldownGerund>
+  <!-- EN: extinguishing -->
+  <AArmoury_FirefoamLauncher.traitAdjectives.0>extintor</AArmoury_FirefoamLauncher.traitAdjectives.0>
+  
+  <!-- EN: flare launcher -->
+  <AArmoury_FlareLauncher.label>lanzabengalas</AArmoury_FlareLauncher.label>
+  <!-- EN: This weapon has an attached flare launcher. Once fired, it must be reloaded using bioferrite. -->
+  <AArmoury_FlareLauncher.description>Esta arma tiene un lanzabengalas acoplado. Una vez disparado, debe recargarse usando bioferrita.</AArmoury_FlareLauncher.description>
+  <!-- EN: on cooldown -->
+  <AArmoury_FlareLauncher.modExtensions.0.abilityWithCharges.cooldownGerund>en enfriamiento</AArmoury_FlareLauncher.modExtensions.0.abilityWithCharges.cooldownGerund>
+  <!-- EN: flaring -->
+  <AArmoury_FlareLauncher.traitAdjectives.0>llameante</AArmoury_FlareLauncher.traitAdjectives.0>
+  
+  <!-- EN: fleshmelter launcher -->
+  <AArmoury_FleshMelter.label>lanzador fundecarne</AArmoury_FleshMelter.label>
+  <!-- EN: This weapon has an attached fleshmelter launcher. Once fired, it must be reloaded using a shard. -->
+  <AArmoury_FleshMelter.description>Esta arma tiene un lanzador fundecarne acoplado. Una vez disparado, debe recargarse usando un fragmento.</AArmoury_FleshMelter.description>
+  <!-- EN: fleshmelter shell -->
+  <AArmoury_FleshMelter.modExtensions.0.abilityWithCharges.chargeNoun>proyectil fundecarne</AArmoury_FleshMelter.modExtensions.0.abilityWithCharges.chargeNoun>
+  <!-- EN: on cooldown -->
+  <AArmoury_FleshMelter.modExtensions.0.abilityWithCharges.cooldownGerund>en enfriamiento</AArmoury_FleshMelter.modExtensions.0.abilityWithCharges.cooldownGerund>
+  <!-- EN: melting -->
+  <AArmoury_FleshMelter.traitAdjectives.0>fundente</AArmoury_FleshMelter.traitAdjectives.0>
+  
+  <!-- EN: grapple gun -->
+  <AArmoury_GrappleGun.label>pistola de anclaje</AArmoury_GrappleGun.label>
+  <!-- EN: This weapon has a grapple launcher. It can be fired at an enemy target, pulling them toward the wielder, or at an empty tile, propelling the wielder toward that tile. Once fired, it must be reloaded using steel. -->
+  <AArmoury_GrappleGun.description>Esta arma tiene un lanzador de anclaje. Se puede disparar a un objetivo enemigo, atrayéndolo hacia el portador, o a una casilla vacía, impulsando al portador hacia esa casilla. Una vez disparado, debe recargarse usando acero.</AArmoury_GrappleGun.description>
+  <!-- EN: grapple gun -->
+  <AArmoury_GrappleGun.modExtensions.0.abilityWithCharges.chargeNoun>pistola de anclaje</AArmoury_GrappleGun.modExtensions.0.abilityWithCharges.chargeNoun>
+  <!-- EN: on cooldown -->
+  <AArmoury_GrappleGun.modExtensions.0.abilityWithCharges.cooldownGerund>en enfriamiento</AArmoury_GrappleGun.modExtensions.0.abilityWithCharges.cooldownGerund>
+  <!-- EN: grappling -->
+  <AArmoury_GrappleGun.traitAdjectives.0>de anclaje</AArmoury_GrappleGun.traitAdjectives.0>
+  
+  <!-- EN: hellsphere launcher -->
+  <AArmoury_HellsphereLauncher.label>lanzador de esfera infernal</AArmoury_HellsphereLauncher.label>
+  <!-- EN: This weapon has an attached hellsphere launcher. Once fired, it must be reloaded using advanced components. -->
+  <AArmoury_HellsphereLauncher.description>Esta arma tiene un lanzador de esfera infernal acoplado. Una vez disparado, debe recargarse usando componentes avanzados.</AArmoury_HellsphereLauncher.description>
+  <!-- EN: on cooldown -->
+  <AArmoury_HellsphereLauncher.modExtensions.0.abilityWithCharges.cooldownGerund>en enfriamiento</AArmoury_HellsphereLauncher.modExtensions.0.abilityWithCharges.cooldownGerund>
+  <!-- EN: hellish -->
+  <AArmoury_HellsphereLauncher.traitAdjectives.0>infernal</AArmoury_HellsphereLauncher.traitAdjectives.0>
+  
+  <!-- EN: "Holy hand" launcher -->
+  <AArmoury_HolyLauncher.label>lanzador de "mano santa"</AArmoury_HolyLauncher.label>
+  <!-- EN: This weapon has an attached grenade launcher that fires "holy hand" grenades, filled with nanite inhibitors that will destabilize reanimated shamblers. It seems to have been intentionally adorned with religious motifs, though whether this was meant as a joke or taken seriously is unclear. Once fired, it must be reloaded using bioferrite. -->
+  <AArmoury_HolyLauncher.description>Esta arma tiene un lanzagranadas acoplado que dispara granadas de "mano santa", llenas de inhibidores de nanitos que desestabilizarán a los shamblers reanimados. Parece haber sido adornada intencionalmente con motivos religiosos, aunque no está claro si esto fue una broma o se tomó en serio. Una vez disparado, debe recargarse usando bioferrita.</AArmoury_HolyLauncher.description>
+  <!-- EN: on cooldown -->
+  <AArmoury_HolyLauncher.modExtensions.0.abilityWithCharges.cooldownGerund>en enfriamiento</AArmoury_HolyLauncher.modExtensions.0.abilityWithCharges.cooldownGerund>
+  <!-- EN: holy -->
+  <AArmoury_HolyLauncher.traitAdjectives.0>santo</AArmoury_HolyLauncher.traitAdjectives.0>
+  
+  <!-- EN: magma launcher -->
+  <AArmoury_MagmaLauncher.label>lanzador de magma</AArmoury_MagmaLauncher.label>
+  <!-- EN: This weapon has an attached magma grenade launcher. Once fired, it must be reloaded using a lot of steel. Magma grenades won't work on water. -->
+  <AArmoury_MagmaLauncher.description>Esta arma tiene un lanzagranadas de magma acoplado. Una vez disparado, debe recargarse usando mucho acero. Las granadas de magma no funcionarán en el agua.</AArmoury_MagmaLauncher.description>
+  <!-- EN: magma grenade -->
+  <AArmoury_MagmaLauncher.modExtensions.0.abilityWithCharges.chargeNoun>granada de magma</AArmoury_MagmaLauncher.modExtensions.0.abilityWithCharges.chargeNoun>
+  <!-- EN: on cooldown -->
+  <AArmoury_MagmaLauncher.modExtensions.0.abilityWithCharges.cooldownGerund>en enfriamiento</AArmoury_MagmaLauncher.modExtensions.0.abilityWithCharges.cooldownGerund>
+  <!-- EN: magmatic -->
+  <AArmoury_MagmaLauncher.traitAdjectives.0>magmático</AArmoury_MagmaLauncher.traitAdjectives.0>
+  
+  <!-- EN: mine deployer -->
+  <AArmoury_MineDeployer.label>desplegador de minas</AArmoury_MineDeployer.label>
+  <!-- EN: This weapon has an attached mine launcher. Once fired, it must be reloaded using steel. -->
+  <AArmoury_MineDeployer.description>Esta arma tiene un lanzador de minas acoplado. Una vez disparado, debe recargarse usando acero.</AArmoury_MineDeployer.description>
+  <!-- EN: on cooldown -->
+  <AArmoury_MineDeployer.modExtensions.0.abilityWithCharges.cooldownGerund>en enfriamiento</AArmoury_MineDeployer.modExtensions.0.abilityWithCharges.cooldownGerund>
+  <!-- EN: mine launching -->
+  <AArmoury_MineDeployer.traitAdjectives.0>lanzamiento de minas</AArmoury_MineDeployer.traitAdjectives.0>
+  
+  <!-- EN: pesticide canisters -->
+  <AArmoury_PesticideCanisters.label>botes de pesticida</AArmoury_PesticideCanisters.label>
+  <!-- EN: This weapon has an attachment to fire pesticide canisters. They will destroy all blighted plants in a large area. Can be reloaded using chemfuel. -->
+  <AArmoury_PesticideCanisters.description>Esta arma tiene un accesorio para disparar botes de pesticida. Destruirán todas las plantas asoladas en un área grande. Se puede recargar usando biocombustible.</AArmoury_PesticideCanisters.description>
+  <!-- EN: pesticide canister -->
+  <AArmoury_PesticideCanisters.modExtensions.0.abilityWithCharges.chargeNoun>bote de pesticida</AArmoury_PesticideCanisters.modExtensions.0.abilityWithCharges.chargeNoun>
+  <!-- EN: on cooldown -->
+  <AArmoury_PesticideCanisters.modExtensions.0.abilityWithCharges.cooldownGerund>en enfriamiento</AArmoury_PesticideCanisters.modExtensions.0.abilityWithCharges.cooldownGerund>
+  <!-- EN: pesticidal -->
+  <AArmoury_PesticideCanisters.traitAdjectives.0>pesticida</AArmoury_PesticideCanisters.traitAdjectives.0>
+  
+  <!-- EN: rotstink launcher -->
+  <AArmoury_RotstinkLauncher.label>lanzador de hedor de putrefacción</AArmoury_RotstinkLauncher.label>
+  <!-- EN: This weapon has an attached rotstink launcher. Once fired, it must be reloaded using steel. -->
+  <AArmoury_RotstinkLauncher.description>Esta arma tiene un lanzador de hedor de putrefacción acoplado. Una vez disparado, debe recargarse usando acero.</AArmoury_RotstinkLauncher.description>
+  <!-- EN: rotstink canister -->
+  <AArmoury_RotstinkLauncher.modExtensions.0.abilityWithCharges.chargeNoun>bote de hedor de putrefacción</AArmoury_RotstinkLauncher.modExtensions.0.abilityWithCharges.chargeNoun>
+  <!-- EN: on cooldown -->
+  <AArmoury_RotstinkLauncher.modExtensions.0.abilityWithCharges.cooldownGerund>en enfriamiento</AArmoury_RotstinkLauncher.modExtensions.0.abilityWithCharges.cooldownGerund>
+  <!-- EN: rot -->
+  <AArmoury_RotstinkLauncher.traitAdjectives.0>putrefacción</AArmoury_RotstinkLauncher.traitAdjectives.0>
+  
+  <!-- EN: broadshield launcher -->
+  <AArmoury_ShieldLauncher.label>lanzador de escudo amplio</AArmoury_ShieldLauncher.label>
+  <!-- EN: This weapon has an attached broadshield launcher. Once fired, it must be reloaded using advanced components. -->
+  <AArmoury_ShieldLauncher.description>Esta arma tiene un lanzador de escudo amplio acoplado. Una vez disparado, debe recargarse usando componentes avanzados.</AArmoury_ShieldLauncher.description>
+  <!-- EN: shield generator -->
+  <AArmoury_ShieldLauncher.modExtensions.0.abilityWithCharges.chargeNoun>generador de escudo</AArmoury_ShieldLauncher.modExtensions.0.abilityWithCharges.chargeNoun>
+  <!-- EN: on cooldown -->
+  <AArmoury_ShieldLauncher.modExtensions.0.abilityWithCharges.cooldownGerund>en enfriamiento</AArmoury_ShieldLauncher.modExtensions.0.abilityWithCharges.cooldownGerund>
+  <!-- EN: shielded -->
+  <AArmoury_ShieldLauncher.traitAdjectives.0>escudado</AArmoury_ShieldLauncher.traitAdjectives.0>
+  
+  <!-- EN: shrapnel launcher -->
+  <AArmoury_ShrapnelLauncher.label>lanzador de metralla</AArmoury_ShrapnelLauncher.label>
+  <!-- EN: This weapon has an attached shrapnel grenade launcher. Once fired, it must be reloaded using steel. -->
+  <AArmoury_ShrapnelLauncher.description>Esta arma tiene un lanzagranadas de metralla acoplado. Una vez disparado, debe recargarse usando acero.</AArmoury_ShrapnelLauncher.description>
+  <!-- EN: shrapnel grenade -->
+  <AArmoury_ShrapnelLauncher.modExtensions.0.abilityWithCharges.chargeNoun>granada de metralla</AArmoury_ShrapnelLauncher.modExtensions.0.abilityWithCharges.chargeNoun>
+  <!-- EN: on cooldown -->
+  <AArmoury_ShrapnelLauncher.modExtensions.0.abilityWithCharges.cooldownGerund>en enfriamiento</AArmoury_ShrapnelLauncher.modExtensions.0.abilityWithCharges.cooldownGerund>
+  <!-- EN: fragmentary -->
+  <AArmoury_ShrapnelLauncher.traitAdjectives.0>fragmentario</AArmoury_ShrapnelLauncher.traitAdjectives.0>
+  <!-- EN: shrapnel -->
+  <AArmoury_ShrapnelLauncher.traitAdjectives.1>metralla</AArmoury_ShrapnelLauncher.traitAdjectives.1>
+  
+  <!-- EN: swarm launcher -->
+  <AArmoury_SwarmLauncher.label>lanzador de enjambre</AArmoury_SwarmLauncher.label>
+  <!-- EN: This weapon has an attached rocket swarm launcher. Once fired, it must be reloaded using advanced components. -->
+  <AArmoury_SwarmLauncher.description>Esta arma tiene un lanzador de enjambre de cohetes acoplado. Una vez disparado, debe recargarse usando componentes avanzados.</AArmoury_SwarmLauncher.description>
+  <!-- EN: rocket swarm shell -->
+  <AArmoury_SwarmLauncher.modExtensions.0.abilityWithCharges.chargeNoun>proyectil de enjambre de cohetes</AArmoury_SwarmLauncher.modExtensions.0.abilityWithCharges.chargeNoun>
+  <!-- EN: on cooldown -->
+  <AArmoury_SwarmLauncher.modExtensions.0.abilityWithCharges.cooldownGerund>en enfriamiento</AArmoury_SwarmLauncher.modExtensions.0.abilityWithCharges.cooldownGerund>
+  <!-- EN: swarming -->
+  <AArmoury_SwarmLauncher.traitAdjectives.0>enjambre</AArmoury_SwarmLauncher.traitAdjectives.0>
+  
+  <!-- EN: tox grenade launcher -->
+  <AArmoury_ToxLauncher.label>lanzagranadas tóxico</AArmoury_ToxLauncher.label>
+  <!-- EN: This weapon has an attached tox grenade launcher. Once fired, it must be reloaded using steel. -->
+  <AArmoury_ToxLauncher.description>Esta arma tiene un lanzagranadas tóxico acoplado. Una vez disparado, debe recargarse usando acero.</AArmoury_ToxLauncher.description>
+  <!-- EN: tox canister -->
+  <AArmoury_ToxLauncher.modExtensions.0.abilityWithCharges.chargeNoun>bote tóxico</AArmoury_ToxLauncher.modExtensions.0.abilityWithCharges.chargeNoun>
+  <!-- EN: on cooldown -->
+  <AArmoury_ToxLauncher.modExtensions.0.abilityWithCharges.cooldownGerund>en enfriamiento</AArmoury_ToxLauncher.modExtensions.0.abilityWithCharges.cooldownGerund>
+  <!-- EN: tox -->
+  <AArmoury_ToxLauncher.traitAdjectives.0>tóxico</AArmoury_ToxLauncher.traitAdjectives.0>
+  
+</LanguageData>

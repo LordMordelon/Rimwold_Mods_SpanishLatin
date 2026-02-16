@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: detonation -->
+  <AArmoury_Detonation.label>detonación</AArmoury_Detonation.label>
+  <!-- EN: This weapon generates ultra heated gasses that can be released in the form of a powerful explosion. It will not harm the wielder.\n\nAbility details: No charges, 30000 ticks cooldown (half a day). Affects 2 tiles around the wielder with 50 Bomb damage. -->
+  <AArmoury_Detonation.description>Esta arma genera gases ultra calientes que pueden liberarse en forma de una poderosa explosión. No dañará al portador.\n\nDetalles de la habilidad: Sin cargas, 30000 ticks de enfriamiento (medio día). Afecta a 2 casillas alrededor del portador con 50 de daño de bomba.</AArmoury_Detonation.description>
+  <!-- EN: detonating -->
+  <AArmoury_Detonation.traitAdjectives.0>detonante</AArmoury_Detonation.traitAdjectives.0>
+  
+  <!-- EN: invisibility field -->
+  <AArmoury_InvisibilityField.label>campo de invisibilidad</AArmoury_InvisibilityField.label>
+  <!-- EN: This weapon generates a field of psychic invisibility that will conceal its user for a time.\n\nAbility details: No charges, 30000 ticks cooldown (half a day). Lasta 4 hours. -->
+  <AArmoury_InvisibilityField.description>Esta arma genera un campo de invisibilidad psíquica que ocultará a su usuario por un tiempo.\n\nDetalles de la habilidad: Sin cargas, 30000 ticks de enfriamiento (medio día). Dura 4 horas.</AArmoury_InvisibilityField.description>
+  <!-- EN: concealing -->
+  <AArmoury_InvisibilityField.traitAdjectives.0>ocultador</AArmoury_InvisibilityField.traitAdjectives.0>
+  
+  <!-- EN: mimic core -->
+  <AArmoury_MimicCore.label>núcleo mimético</AArmoury_MimicCore.label>
+  <!-- EN: This weapon can acquire the weapon traits of another unique weapon, destroying it in the process. Note that only traits that are compatible with the weapon will be acquired (no rocket launching bows).\n\nAbility details: No charges, 30000 ticks cooldown (half a day). 6 tiles range. -->
+  <AArmoury_MimicCore.description>Esta arma puede adquirir los rasgos de arma de otra arma única, destruyéndola en el proceso. Ten en cuenta que solo se adquirirán los rasgos que sean compatibles con el arma (nada de arcos lanzacohetes).\n\nDetalles de la habilidad: Sin cargas, 30000 ticks de enfriamiento (medio día). Alcance de 6 casillas.</AArmoury_MimicCore.description>
+  <!-- EN: mimetic -->
+  <AArmoury_MimicCore.traitAdjectives.0>mimético</AArmoury_MimicCore.traitAdjectives.0>
+  
+  <!-- EN: self-skip field -->
+  <AArmoury_SelfSkipField.label>campo de autosalto</AArmoury_SelfSkipField.label>
+  <!-- EN: This weapon generates a localized skip field that allows its user to self-skip.\n\nAbility details: No charges, 4800 ticks cooldown (around 2 hours). 21 tiles range in line of sight. -->
+  <AArmoury_SelfSkipField.description>Esta arma genera un campo de salto localizado que permite a su usuario autosaltar.\n\nDetalles de la habilidad: Sin cargas, 4800 ticks de enfriamiento (alrededor de 2 horas). Alcance de 21 casillas en línea de visión.</AArmoury_SelfSkipField.description>
+  <!-- EN: skip -->
+  <AArmoury_SelfSkipField.traitAdjectives.0>salto</AArmoury_SelfSkipField.traitAdjectives.0>
+  
+  <!-- EN: skip field -->
+  <AArmoury_SkipField.label>campo de salto</AArmoury_SkipField.label>
+  <!-- EN: This weapon generates a localized skip field that allows its user to skip a target away.\n\nAbility details: No charges, 4800 ticks cooldown (around 2 hours). 21 tiles range in line of sight. -->
+  <AArmoury_SkipField.description>Esta arma genera un campo de salto localizado que permite a su usuario saltar a un objetivo lejos.\n\nDetalles de la habilidad: Sin cargas, 4800 ticks de enfriamiento (alrededor de 2 horas). Alcance de 21 casillas en línea de visión.</AArmoury_SkipField.description>
+  <!-- EN: skip -->
+  <AArmoury_SkipField.traitAdjectives.0>salto</AArmoury_SkipField.traitAdjectives.0>
+  
+  <!-- EN: sludge spewer -->
+  <AArmoury_Sludge.label>escupidor de lodo</AArmoury_Sludge.label>
+  <!-- EN: This weapon can project a spray of acidic slug. The sludge will stick to targets and burn them, and turn terrain into insect sludge. -->
+  <AArmoury_Sludge.description>Esta arma puede proyectar un spray de lodo ácido. El lodo se pegará a los objetivos y los quemará, y convertirá el terreno en lodo de insectos.</AArmoury_Sludge.description>
+  <!-- EN: on cooldown -->
+  <AArmoury_Sludge.modExtensions.0.abilityWithCharges.cooldownGerund>en enfriamiento</AArmoury_Sludge.modExtensions.0.abilityWithCharges.cooldownGerund>
+  <!-- EN: acidic -->
+  <AArmoury_Sludge.traitAdjectives.0>acídico</AArmoury_Sludge.traitAdjectives.0>
+  
+</LanguageData>

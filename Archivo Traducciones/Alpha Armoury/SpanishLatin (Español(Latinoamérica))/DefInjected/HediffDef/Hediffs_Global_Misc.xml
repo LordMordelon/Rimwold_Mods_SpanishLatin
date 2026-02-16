@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: adrenal rush -->
+  <AArmoury_AdrenalRush.label>subidón de adrenalina</AArmoury_AdrenalRush.label>
+  <!-- EN: This person is moving faster and avoiding both melee and ranged attacks due to an adrenaline rush. -->
+  <AArmoury_AdrenalRush.description>Esta persona se mueve más rápido y evita ataques cuerpo a cuerpo y a distancia debido a un subidón de adrenalina.</AArmoury_AdrenalRush.description>
+  
+  <!-- EN: chembursting -->
+  <AArmoury_Chemburster.label>explosión química</AArmoury_Chemburster.label>
+  <!-- EN: Chemfuel in the body. This person or animal will violently explode on death. -->
+  <AArmoury_Chemburster.description>Biocombustible en el cuerpo. Esta persona o animal explotará violentamente al morir.</AArmoury_Chemburster.description>
+  
+  <!-- EN: electric shock -->
+  <AArmoury_Electric.label>descarga eléctrica</AArmoury_Electric.label>
+  <!-- EN: A dangerous electric shock. It might damage the heart, and higher intensities increase the possibility of a heart attack. -->
+  <AArmoury_Electric.description>Una descarga eléctrica peligrosa. Podría dañar el corazón, y las intensidades más altas aumentan la posibilidad de un ataque al corazón.</AArmoury_Electric.description>
+  <!-- EN: initial -->
+  <AArmoury_Electric.stages.initial.label>inicial</AArmoury_Electric.stages.initial.label>
+  <!-- EN: shocked -->
+  <AArmoury_Electric.stages.shocked.label>electrocutado</AArmoury_Electric.stages.shocked.label>
+  <!-- EN: very shocked -->
+  <AArmoury_Electric.stages.very_shocked.label>muy electrocutado</AArmoury_Electric.stages.very_shocked.label>
+  <!-- EN: paralysed -->
+  <AArmoury_Electric.stages.paralysed.label>paralizado</AArmoury_Electric.stages.paralysed.label>
+  
+  <!-- EN: flux-charged -->
+  <AArmoury_Flux.label>cargado de flujo</AArmoury_Flux.label>
+  <!-- EN: Flux damage has destabilized this person or animal's bioelectric field, causing a short-range energy discharge that harms nearby creatures. -->
+  <AArmoury_Flux.description>El daño de flujo ha desestabilizado el campo bioeléctrico de esta persona o animal, causando una descarga de energía de corto alcance que daña a las criaturas cercanas.</AArmoury_Flux.description>
+  
+  <!-- EN: psychic invisibility -->
+  <AArmoury_Invisibility.label>invisibilidad psíquica</AArmoury_Invisibility.label>
+  <!-- EN: This person has psychically shifted their skin tones to camouflage in almost any surroundings. -->
+  <AArmoury_Invisibility.description>Esta persona ha cambiado psíquicamente sus tonos de piel para camuflarse en casi cualquier entorno.</AArmoury_Invisibility.description>
+  
+  <!-- EN: net -->
+  <AArmoury_NetHediff.label>red</AArmoury_NetHediff.label>
+  <!-- EN: The victim has been caught in a net, making movement very hard. This condition is reversible and will naturally dissipate after a few minutes. -->
+  <AArmoury_NetHediff.description>La víctima ha sido atrapada en una red, lo que dificulta mucho el movimiento. Esta condición es reversible y se disipará naturalmente después de unos minutos.</AArmoury_NetHediff.description>
+  <!-- EN: snared -->
+  <AArmoury_NetHediff.stages.snared.label>atrapado</AArmoury_NetHediff.stages.snared.label>
+  <!-- EN: entangled -->
+  <AArmoury_NetHediff.stages.entangled.label>enredado</AArmoury_NetHediff.stages.entangled.label>
+  <!-- EN: enmeshed -->
+  <AArmoury_NetHediff.stages.enmeshed.label>enmarañado</AArmoury_NetHediff.stages.enmeshed.label>
+  <!-- EN: immobilized -->
+  <AArmoury_NetHediff.stages.immobilized.label>inmovilizado</AArmoury_NetHediff.stages.immobilized.label>
+  
+  <!-- EN: euphoric energy -->
+  <AArmoury_Orgasmatron.label>energía eufórica</AArmoury_Orgasmatron.label>
+  <!-- EN: This person or animal has been targeted by an orgasmatron core, leaving them dazed, flushed, and oddly satisfied. -->
+  <AArmoury_Orgasmatron.description>Esta persona o animal ha sido blanco de un núcleo orgasmatrón, dejándolos aturdidos, sonrojados y extrañamente satisfechos.</AArmoury_Orgasmatron.description>
+  <!-- EN: woozy -->
+  <AArmoury_Orgasmatron.stages.woozy.label>mareado</AArmoury_Orgasmatron.stages.woozy.label>
+  
+  <!-- EN: paralysis -->
+  <AArmoury_Paralysis.label>parálisis</AArmoury_Paralysis.label>
+  <!-- EN: A fast acting toxin is coursing through this creature's veins, paralyzing their muscles. It will wear off after a while. -->
+  <AArmoury_Paralysis.description>Una toxina de acción rápida corre por las venas de esta criatura, paralizando sus músculos. Desaparecerá después de un tiempo.</AArmoury_Paralysis.description>
+  <!-- EN: initial -->
+  <AArmoury_Paralysis.stages.initial.label>inicial</AArmoury_Paralysis.stages.initial.label>
+  <!-- EN: stunned -->
+  <AArmoury_Paralysis.stages.stunned.label>aturdido</AArmoury_Paralysis.stages.stunned.label>
+  <!-- EN: very stunned -->
+  <AArmoury_Paralysis.stages.very_stunned.label>muy aturdido</AArmoury_Paralysis.stages.very_stunned.label>
+  <!-- EN: paralysed -->
+  <AArmoury_Paralysis.stages.paralysed.label>paralizado</AArmoury_Paralysis.stages.paralysed.label>
+  
+  <!-- EN: psychic damage -->
+  <AArmoury_PsychicDamage.label>daño psíquico</AArmoury_PsychicDamage.label>
+  <!-- EN: Psychic damage caused by neural heat transfer. -->
+  <AArmoury_PsychicDamage.description>Daño psíquico causado por transferencia de calor neural.</AArmoury_PsychicDamage.description>
+  <!-- EN: permanent psychic damage -->
+  <AArmoury_PsychicDamage.comps.HediffComp_GetsPermanent.instantlyPermanentLabel>daño psíquico permanente</AArmoury_PsychicDamage.comps.HediffComp_GetsPermanent.instantlyPermanentLabel>
+  <!-- EN: old psychic damage -->
+  <AArmoury_PsychicDamage.comps.HediffComp_GetsPermanent.permanentLabel>daño psíquico antiguo</AArmoury_PsychicDamage.comps.HediffComp_GetsPermanent.permanentLabel>
+  <!-- EN: Irreparable nerve damage -->
+  <AArmoury_PsychicDamage.injuryProps.destroyedLabel>Daño nervioso irreparable</AArmoury_PsychicDamage.injuryProps.destroyedLabel>
+  <!-- EN: Irreparable nerve damage -->
+  <AArmoury_PsychicDamage.injuryProps.destroyedOutLabel>Daño nervioso irreparable</AArmoury_PsychicDamage.injuryProps.destroyedOutLabel>
+  <!-- EN: {0} in the {1} -->
+  <AArmoury_PsychicDamage.labelNounPretty>{0} en el {1}</AArmoury_PsychicDamage.labelNounPretty>
+  
+  <!-- EN: reduced hunger -->
+  <AArmoury_ReducedHunger.label>hambre reducida</AArmoury_ReducedHunger.label>
+  <!-- EN: A wielded weapon is psychically suppressing this person's appetite. -->
+  <AArmoury_ReducedHunger.description>Un arma empuñada está suprimiendo psíquicamente el apetito de esta persona.</AArmoury_ReducedHunger.description>
+  
+  <!-- EN: sharpshooter's focus -->
+  <AArmoury_SharpshootersFocus.label>enfoque de tirador</AArmoury_SharpshootersFocus.label>
+  <!-- EN: This weapon is so easy to handle and wield that it will increase the wielders shooting skill just by having it equipped. -->
+  <AArmoury_SharpshootersFocus.description>Esta arma es tan fácil de manejar y empuñar que aumentará la habilidad de disparo del portador con solo tenerla equipada.</AArmoury_SharpshootersFocus.description>
+  
+  <!-- EN: marked by a target locator -->
+  <AArmoury_TargetLocator.label>marcado por un localizador de objetivos</AArmoury_TargetLocator.label>
+  <!-- EN: This person or animal has been marked with a target locator and will receive increased damage. -->
+  <AArmoury_TargetLocator.description>Esta persona o animal ha sido marcado con un localizador de objetivos y recibirá mayor daño.</AArmoury_TargetLocator.description>
+  <!-- EN: taking increased damage -->
+  <AArmoury_TargetLocator.stages.taking_increased_damage.label>recibiendo daño aumentado</AArmoury_TargetLocator.stages.taking_increased_damage.label>
+  
+</LanguageData>

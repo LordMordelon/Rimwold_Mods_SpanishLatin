@@ -1,0 +1,160 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- JobDef Report String (Pawn status) -->
+  <!-- EN: Bulk loading {0} -->
+  <BulkLoadForTransporters.ReportString.Loading>Cargando {0} en masa</BulkLoadForTransporters.ReportString.Loading>
+  <!-- EN: Bulk loading -->
+  <BulkLoadForTransporters.ReportString.Loading_Generic>Cargando en masa</BulkLoadForTransporters.ReportString.Loading_Generic>
+
+  <!-- EN: Bulk loading into {0} -->
+  <BulkLoadForTransporters.ReportString.LoadingPortal>Cargando en {0} en masa</BulkLoadForTransporters.ReportString.LoadingPortal>
+  <!-- EN: Bulk loading -->
+  <BulkLoadForTransporters.ReportString.LoadingPortal_Generic>Cargando en masa</BulkLoadForTransporters.ReportString.LoadingPortal_Generic>
+
+  <!-- EN: Bulk unloading {0}. -->
+  <BulkLoadForTransporters.ReportString.Unloading>Descargando {0} en masa.</BulkLoadForTransporters.ReportString.Unloading>
+  <!-- EN: Bulk unloading -->
+  <BulkLoadForTransporters.ReportString.Unloading_Generic>Descargando en masa</BulkLoadForTransporters.ReportString.Unloading_Generic>
+
+<!-- EN: Bulk delivering materials to {0} -->
+  <BulkLoadForTransporters.ReportString.DeliveringTo>Entregando materiales a {0} en masa</BulkLoadForTransporters.ReportString.DeliveringTo>
+<!-- EN: Bulk delivering materials -->
+  <BulkLoadForTransporters.ReportString.DeliveringTo_Generic>Entregando materiales en masa</BulkLoadForTransporters.ReportString.DeliveringTo_Generic>
+
+  <!-- Right-Click Float Menu Option -->
+  <!-- EN: Prioritize bulk loading {0} -->
+  <BulkLoadForTransporters.PriorityLoadCommand>Priorizar carga masiva de {0}</BulkLoadForTransporters.PriorityLoadCommand>
+  <!-- EN: Prioritize bulk unloading {0} -->
+  <BulkLoadForTransporters.PriorityUnloadCommand>Priorizar descarga masiva de {0}</BulkLoadForTransporters.PriorityUnloadCommand>
+  <!-- EN: Prioritize bulk loading {0} until complete -->
+  <BulkLoadForTransporters.PriorityLoadUntilCompleteCommand>Priorizar carga masiva de {0} hasta terminar</BulkLoadForTransporters.PriorityLoadUntilCompleteCommand>
+  
+  <!-- Message (Top-left notification) -->
+  <!-- EN: Could not create a bulk load plan for {0}. -->
+  <BulkLoadForTransporters.NoHaulPlanFound>No se pudo crear un plan de carga masiva para {0}.</BulkLoadForTransporters.NoHaulPlanFound>
+
+	
+	
+  <!-- ==================== Mod Settings ==================== -->
+
+  <!-- EN: Debug Settings (Developer Mode Only) -->
+  <BulkLoadForTransporters.Settings.Header.Debug>Ajustes de depuración (Solo modo desarrollador)</BulkLoadForTransporters.Settings.Header.Debug>
+  <!-- EN: Debugging log options. Detailed options are only visible and effective in Developer Mode. -->
+  <BulkLoadForTransporters.Settings.Header.Debug.Tooltip>Opciones de registro de depuración. Las opciones detalladas solo son visibles y efectivas en el Modo Desarrollador.</BulkLoadForTransporters.Settings.Header.Debug.Tooltip>  
+  
+  <!-- EN: Log WorkGiver -->
+  <BulkLoadForTransporters.Settings.Debug.LogWorkGiver>Registrar WorkGiver</BulkLoadForTransporters.Settings.Debug.LogWorkGiver>
+  <!-- EN: Enable this if colonists are NOT starting bulk jobs when you expect, or ARE starting them when they shouldn't. This log tracks the "Should I work?" decision process. -->
+  <BulkLoadForTransporters.Settings.Debug.LogWorkGiver.Tooltip>Actívalo si los colonos NO inician trabajos masivos cuando esperas que lo hagan, o si los inician cuando no deberían. Este registro rastrea el proceso de decisión "¿Debería trabajar?".</BulkLoadForTransporters.Settings.Debug.LogWorkGiver.Tooltip>
+  <!-- EN: Log Planner -->
+  <BulkLoadForTransporters.Settings.Debug.LogPlanner>Registrar Planificador</BulkLoadForTransporters.Settings.Debug.LogPlanner>
+  <!-- EN: Enable this if a bulk job has started, but the pawn gets stuck "waiting", doesn't pick up the expected items, picks up the wrong amount, or pathing seems inefficient. This log tracks the "What should I pick up, and in what order?" planning process. -->
+  <BulkLoadForTransporters.Settings.Debug.LogPlanner.Tooltip>Actívalo si un trabajo masivo ha comenzado, pero el peón se queda atascado "esperando", no recoge los objetos esperados, recoge la cantidad incorrecta o la ruta parece ineficiente. Este registro rastrea el proceso de planificación "¿Qué debo recoger y en qué orden?".</BulkLoadForTransporters.Settings.Debug.LogPlanner.Tooltip>
+  <!-- EN: Log Toils -->
+  <BulkLoadForTransporters.Settings.Debug.LogToils>Registrar Toils (Tareas)</BulkLoadForTransporters.Settings.Debug.LogToils>
+  <!-- EN: Enable this if a pawn fails to go to an item, the unloading process fails, or an item is not handled correctly (e.g., not properly placed in inventory/hands). This log tracks the "How am I physically executing this job, step-by-step?" process. -->
+  <BulkLoadForTransporters.Settings.Debug.LogToils.Tooltip>Actívalo si un peón falla al ir a un objeto, el proceso de descarga falla o un objeto no se maneja correctamente (ej. no se coloca bien en el inventario/manos). Este registro rastrea el proceso "¿Cómo estoy ejecutando físicamente este trabajo, paso a paso?".</BulkLoadForTransporters.Settings.Debug.LogToils.Tooltip>
+  <!-- EN: Log Manager -->
+  <BulkLoadForTransporters.Settings.Debug.LogManager>Registrar Gestor</BulkLoadForTransporters.Settings.Debug.LogManager>
+  <!-- EN: Enable this if multiple colonists are trying to haul the same item, specific items are being ignored, or the loading progress is calculated incorrectly. This log tracks the "Who has claimed what?" concurrency state. -->
+  <BulkLoadForTransporters.Settings.Debug.LogManager.Tooltip>Actívalo si varios colonos intentan transportar el mismo objeto, se ignoran objetos específicos o el progreso de carga se calcula incorrectamente. Este registro rastrea el estado de concurrencia "¿Quién ha reclamado qué?".</BulkLoadForTransporters.Settings.Debug.LogManager.Tooltip>
+
+  <!-- EN: Enable Bulk Load Transporters -->
+  <BulkLoadForTransporters.Settings.Header.BulkLoad>Habilitar carga masiva de transportadores</BulkLoadForTransporters.Settings.Header.BulkLoad>
+  <!-- EN: Settings for the core feature: loading transport pods, shuttles, etc., in bulk. -->
+  <BulkLoadForTransporters.Settings.Header.BulkLoad.Tooltip>Ajustes para la característica principal: cargar cápsulas de transporte, lanzaderas, etc., en masa.</BulkLoadForTransporters.Settings.Header.BulkLoad.Tooltip>
+  <!-- EN: Enable Bulk Load Portals -->
+  <BulkLoadForTransporters.Settings.Header.BulkLoadPortal>Habilitar carga masiva de portales</BulkLoadForTransporters.Settings.Header.BulkLoadPortal>
+  <!-- EN: Enables the bulk loading feature for pit gates, cave exits, and other portals. -->
+  <BulkLoadForTransporters.Settings.Header.BulkLoadPortal.Tooltip>Habilita la función de carga masiva para grietas, salidas de cuevas y otros portales.</BulkLoadForTransporters.Settings.Header.BulkLoadPortal.Tooltip>
+  <!-- EN: Enable Bulk Unload Carriers -->
+  <BulkLoadForTransporters.Settings.Header.BulkUnload>Habilitar descarga masiva de portadores</BulkLoadForTransporters.Settings.Header.BulkUnload>
+  <!-- EN: Settings for the additional feature: unloading pack animals and other carriers in bulk. -->
+  <BulkLoadForTransporters.Settings.Header.BulkUnload.Tooltip>Ajustes para la característica adicional: descargar animales de carga y otros portadores en masa.</BulkLoadForTransporters.Settings.Header.BulkUnload.Tooltip>
+  <!-- EN: General Settings -->
+  <BulkLoadForTransporters.Settings.Header.General>Ajustes generales</BulkLoadForTransporters.Settings.Header.General>
+  <!-- EN: Enable Bulk Delivery for Construction -->
+  <BulkLoadForTransporters.Settings.Header.BulkConstructionDelivery>Habilitar entrega masiva para construcción</BulkLoadForTransporters.Settings.Header.BulkConstructionDelivery>
+  <!-- EN: Master switch to enable or disable the entire feature of bulk hauling materials for blueprints and frames. -->
+  <BulkLoadForTransporters.Settings.Header.BulkConstructionDelivery.Tooltip>Interruptor principal para habilitar o deshabilitar la función completa de transporte masivo de materiales para planos y marcos.</BulkLoadForTransporters.Settings.Header.BulkConstructionDelivery.Tooltip>
+
+  <!-- EN: Force surplus into inventory (ignore mass) -->
+  <BulkLoadForTransporters.Settings.CheatIgnoreInventoryMass>Forzar excedente al inventario (ignorar masa)</BulkLoadForTransporters.Settings.CheatIgnoreInventoryMass>
+  <!-- EN: When enabled, any surplus items left in a pawn's hands after delivery will be forced back into their inventory, even if it makes them over-encumbered. This prevents items from being dropped on the ground, ensuring a smoother workflow at the cost of realism. -->
+  <BulkLoadForTransporters.Settings.CheatIgnoreInventoryMass.Tooltip>Cuando está habilitado, cualquier objeto sobrante en las manos de un peón después de la entrega se forzará a su inventario, incluso si lo sobrecarga. Esto evita que los objetos caigan al suelo, asegurando un flujo de trabajo más fluido a costa del realismo.</BulkLoadForTransporters.Settings.CheatIgnoreInventoryMass.Tooltip>
+	
+  <!-- EN: Job Chaining Radius (cells): {0} -->
+  <BulkLoadForTransporters.Settings.ConstructionChainScanRadius>Radio de encadenamiento de trabajos (celdas): {0}</BulkLoadForTransporters.Settings.ConstructionChainScanRadius>
+  <!-- EN: After completing a material delivery, a colonist will search for the next needy construction site within this radius to "chain" tasks. \nDefault: 15. Set to 0 to completely disable job chaining for construction. -->
+  <BulkLoadForTransporters.Settings.ConstructionChainScanRadius.Tooltip>Después de completar una entrega de material, un colono buscará el siguiente sitio de construcción necesitado dentro de este radio para "encadenar" tareas.\nPor defecto: 15. Establecer en 0 para deshabilitar completamente el encadenamiento de trabajos para la construcción.</BulkLoadForTransporters.Settings.ConstructionChainScanRadius.Tooltip>
+  <!-- EN: Disabled -->
+  <BulkLoadForTransporters.Settings.ConstructionChainScanRadius.Disabled>Deshabilitado</BulkLoadForTransporters.Settings.ConstructionChainScanRadius.Disabled>
+
+  <!-- EN: Site Grouping Grid Size (cells): {0}x{0} -->
+  <BulkLoadForTransporters.Settings.ConstructionGroupingGridSize>Tamaño de cuadrícula de agrupación de sitios (celdas): {0}x{0}</BulkLoadForTransporters.Settings.ConstructionGroupingGridSize>
+  <!-- EN: Determines how nearby construction sites are grouped together for unified planning. A larger grid means colonists will plan for more sites at once; a smaller grid is more localized.\nDefault: 32x32. -->
+  <BulkLoadForTransporters.Settings.ConstructionGroupingGridSize.Tooltip>Determina cómo se agrupan los sitios de construcción cercanos para una planificación unificada. Una cuadrícula más grande significa que los colonos planificarán para más sitios a la vez; una más pequeña es más localizada.\nPor defecto: 32x32.</BulkLoadForTransporters.Settings.ConstructionGroupingGridSize.Tooltip>
+	
+  <!-- EN: Update Frequency (Ticks): {0} -->
+  <BulkLoadForTransporters.Settings.AiUpdateFrequency>Frecuencia de actualización (Ticks): {0}</BulkLoadForTransporters.Settings.AiUpdateFrequency>
+  <!-- EN: Lower values mean faster colonists' reaction but may cost more performance. Higher values improve performance.\nDefault: 60 (1 second). -->
+  <BulkLoadForTransporters.Settings.AiUpdateFrequency.Tooltip>Valores más bajos significan una reacción más rápida de los colonos pero pueden costar más rendimiento. Valores más altos mejoran el rendimiento.\nPor defecto: 60 (1 segundo).</BulkLoadForTransporters.Settings.AiUpdateFrequency.Tooltip>
+
+  <!-- EN: Enable PUAH Inventory Cleaner -->
+  <BulkLoadForTransporters.Settings.EnableSoftlockCleaner>Habilitar limpiador de inventario PUAH</BulkLoadForTransporters.Settings.EnableSoftlockCleaner>
+  <!-- EN: [Recommended] Periodically checks for and drops items from the Pick Up And Haul inventories of pawns who are incapable of hauling. This prevents items from getting "soft-locked" on non-haulers. -->
+  <BulkLoadForTransporters.Settings.EnableSoftlockCleaner.Tooltip>[Recomendado] Comprueba periódicamente y suelta objetos de los inventarios de Pick Up And Haul de los peones que son incapaces de transportar. Esto evita que los objetos se queden "bloqueados" en no transportadores.</BulkLoadForTransporters.Settings.EnableSoftlockCleaner.Tooltip>
+	
+  <!-- EN: Enable 'load until complete' command -->
+  <BulkLoadForTransporters.Settings.EnableContinuousLoading>Habilitar comando 'cargar hasta terminar'</BulkLoadForTransporters.Settings.EnableContinuousLoading>
+  <!-- EN: Adds a right-click option to make colonists continuously work on loading transporters in an area until all tasks are done. -->
+  <BulkLoadForTransporters.Settings.EnableContinuousLoading.Tooltip>Añade una opción de clic derecho para hacer que los colonos trabajen continuamente en la carga de transportadores en un área hasta que todas las tareas estén hechas.</BulkLoadForTransporters.Settings.EnableContinuousLoading.Tooltip>
+  
+  <!-- EN: Min free backpack space to unload carrier: {0} -->
+  <BulkLoadForTransporters.Settings.MinFreeSpaceToUnloadCarrierPct>Espacio libre mín. en mochila para descargar portador: {0}</BulkLoadForTransporters.Settings.MinFreeSpaceToUnloadCarrierPct>
+  <!-- EN: To start a new 'bulk unload carrier' job, a colonist's backpack must have at least this much free space. This prevents pawns with nearly-full backpacks from making inefficient trips. They will prioritize unloading their own backpack first.\nDefault: 50%. -->
+  <BulkLoadForTransporters.Settings.MinFreeSpaceToUnloadCarrierPct.Tooltip>Para iniciar un nuevo trabajo de 'descarga masiva de portador', la mochila de un colono debe tener al menos este espacio libre. Esto evita que los peones con mochilas casi llenas hagan viajes ineficientes. Priorizarán descargar su propia mochila primero.\nPor defecto: 50%.</BulkLoadForTransporters.Settings.MinFreeSpaceToUnloadCarrierPct.Tooltip>
+  
+  <!-- EN: Reserve carrier during bulk unload -->
+  <BulkLoadForTransporters.Settings.ReserveCarrierOnUnload>Reservar portador durante descarga masiva</BulkLoadForTransporters.Settings.ReserveCarrierOnUnload>
+  <!-- EN: Determines if the carrier is reserved during the unloading process.\n\nEnabled: The job is uninterruptible, similar to vanilla behavior.\n\nDisabled: The job will be automatically cancelled if there is another task like roping needs the carrier. -->
+  <BulkLoadForTransporters.Settings.ReserveCarrierOnUnload.Tooltip>Determina si el portador está reservado durante el proceso de descarga.\n\nHabilitado: El trabajo es ininterrumpible, similar al comportamiento vanilla.\n\nDeshabilitado: El trabajo se cancelará automáticamente si hay otra tarea como atar que necesite al portador.</BulkLoadForTransporters.Settings.ReserveCarrierOnUnload.Tooltip>
+
+  <!-- EN: Opportunity Scan Radius (cells): {0} -->
+  <BulkLoadForTransporters.Settings.OpportunityScanRadius>Radio de escaneo de oportunidades (celdas): {0}</BulkLoadForTransporters.Settings.OpportunityScanRadius>
+  <!-- EN: Unlimited -->
+  <BulkLoadForTransporters.Settings.OpportunityScanRadius.Unlimited>Ilimitado</BulkLoadForTransporters.Settings.OpportunityScanRadius.Unlimited>
+  <!-- EN: When a hauler has items in their Pick Up And Haul inventory, how far will they look for transport pod loading opportunities?\nDefault: 90. Set to max for unlimited (whole map) scanning. -->
+  <BulkLoadForTransporters.Settings.OpportunityScanRadius.Tooltip>Cuando un transportista tiene objetos en su inventario de Pick Up And Haul, ¿qué tan lejos buscará oportunidades de carga de cápsulas de transporte?\nPor defecto: 90. Establecer al máximo para escaneo ilimitado (todo el mapa).</BulkLoadForTransporters.Settings.OpportunityScanRadius.Tooltip>
+
+  <!-- EN: Pathfinding Accuracy vs. Performance: {0} -->
+  <BulkLoadForTransporters.Settings.PathfindingCandidates>Precisión de ruta vs. Rendimiento: {0}</BulkLoadForTransporters.Settings.PathfindingCandidates>
+  <!-- EN: Controls the trade-off between pathfinding accuracy and performance. Higher values result in more intelligent routes but require more processing.\n\n1: Colonists decide which item to pick up next based only on straight-line distance. \n\n2-6: Colonists first identify the N closest targets by straight-line distance, then calculate the actual walking distance for only that group to find the truly optimal target. \n\nDefault: 3. -->
+  <BulkLoadForTransporters.Settings.PathfindingCandidates.Tooltip>Controla el equilibrio entre la precisión de la búsqueda de rutas y el rendimiento. Valores más altos resultan en rutas más inteligentes pero requieren más procesamiento.\n\n1: Los colonos deciden qué objeto recoger a continuación basándose solo en la distancia en línea recta.\n\n2-6: Los colonos identifican primero los N objetivos más cercanos por distancia en línea recta, luego calculan la distancia real a pie solo para ese grupo para encontrar el objetivo verdaderamente óptimo.\n\nPor defecto: 3.</BulkLoadForTransporters.Settings.PathfindingCandidates.Tooltip>
+
+  <!-- EN: Visual Delay (Ticks): {0} -->
+  <BulkLoadForTransporters.Settings.VisualUnloadDelay>Retraso visual (Ticks): {0}</BulkLoadForTransporters.Settings.VisualUnloadDelay>
+  <!-- EN: Controls the small visual delay when processing each item into a transporter. A lower value makes processing faster.\nDefault: 15. Set to 0 to make it instant. -->
+  <BulkLoadForTransporters.Settings.VisualUnloadDelay.Tooltip>Controla el pequeño retraso visual al procesar cada objeto en un transportador. Un valor más bajo hace que el procesamiento sea más rápido.\nPor defecto: 15. Establecer en 0 para hacerlo instantáneo.</BulkLoadForTransporters.Settings.VisualUnloadDelay.Tooltip>  
+  
+  <!-- EN: Interrupt bulk load jobs on save -->
+  <BulkLoadForTransporters.Settings.CleanupOnSave>Interrumpir trabajos de carga masiva al guardar</BulkLoadForTransporters.Settings.CleanupOnSave>
+  <!-- EN: [Recommended] This option ensures the mod can be safely removed from a save game.\n\nWhen enabled, any ongoing bulk loading jobs will be safely interrupted whenever you save the game. This prevents game-breaking freezes when you load that save after uninstalling this mod.\n\nIf you do not intend to uninstall this mod, you can disable this option to prevent ongoing loading jobs from being interrupted by saving. -->
+  <BulkLoadForTransporters.Settings.CleanupOnSave.Tooltip>[Recomendado] Esta opción asegura que el mod se pueda eliminar de forma segura de una partida guardada.\n\nCuando está habilitado, cualquier trabajo de carga masiva en curso se interrumpirá de forma segura siempre que guardes el juego. Esto evita congelaciones que rompen el juego cuando cargas esa partida después de desinstalar este mod.\n\nSi no tienes intención de desinstalar este mod, puedes deshabilitar esta opción para evitar que los trabajos de carga en curso sean interrumpidos por el guardado.</BulkLoadForTransporters.Settings.CleanupOnSave.Tooltip>
+
+  <!-- EN: Auto-open 'Contents' tab for transporters -->
+  <BulkLoadForTransporters.Settings.AutoOpenTransporterContents>Auto-abrir pestaña 'Contenido' para transportadores</BulkLoadForTransporters.Settings.AutoOpenTransporterContents>
+  <!-- EN: When you select a transport pod or shuttle, automatically open the 'Contents' tab. -->
+  <BulkLoadForTransporters.Settings.AutoOpenTransporterContents.Tooltip>Cuando seleccionas una cápsula de transporte o lanzadera, abre automáticamente la pestaña 'Contenido'.</BulkLoadForTransporters.Settings.AutoOpenTransporterContents.Tooltip>
+  <!-- EN: Auto-open 'Gear' tab for carriers -->
+  <BulkLoadForTransporters.Settings.AutoOpenCarrierGear>Auto-abrir pestaña 'Equipo' para portadores</BulkLoadForTransporters.Settings.AutoOpenCarrierGear>
+  <!-- EN: When you select a pack animal (carrier), automatically open the 'Gear' tab to see its inventory. -->
+  <BulkLoadForTransporters.Settings.AutoOpenCarrierGear.Tooltip>Cuando seleccionas un animal de carga (portador), abre automáticamente la pestaña 'Equipo' para ver su inventario.</BulkLoadForTransporters.Settings.AutoOpenCarrierGear.Tooltip>
+
+  <!-- EN: Reset to Defaults -->
+  <BulkLoadForTransporters.Settings.ResetButton>Restablecer a valores predeterminados</BulkLoadForTransporters.Settings.ResetButton>
+  <!-- EN: Are you sure you want to reset all settings to their default values? -->
+  <BulkLoadForTransporters.Settings.ResetConfirmDialog>¿Estás seguro de que quieres restablecer todos los ajustes a sus valores predeterminados?</BulkLoadForTransporters.Settings.ResetConfirmDialog>
+
+</LanguageData>
