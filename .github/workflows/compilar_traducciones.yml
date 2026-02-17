@@ -44,18 +44,17 @@ jobs:
           mkdir -p "$RUNNER_TEMP/dist"
           tar -cf "$RUNNER_TEMP/dist/Pack_Traducciones_Espanol_Latino.tar" -C "." "Pack Traducciones [Español Latino]"
 
-      - name: Publicar pre-release (beta)
-        id: release_drafter
-        uses: release-drafter/release-drafter@v6
-        with:
-          config-name: release-drafter.yml
+      - name: Generar notas de release
+        run: |
+          python Programas/generar_release_notes.py \
+            --output "$RUNNER_TEMP/release_notes.md"
 
       - name: Publicar release
         uses: softprops/action-gh-release@v2
         with:
           tag_name: "v1.0.${{ github.run_number }}"
           name: "v1.0.${{ github.run_number }}"
-          body: ${{ steps.release_drafter.outputs.body }}
+          body_path: ${{ runner.temp }}/release_notes.md
           prerelease: false
           files: |
             ${{ runner.temp }}/dist/Pack_Traducciones_Espanol_Latino.tar
