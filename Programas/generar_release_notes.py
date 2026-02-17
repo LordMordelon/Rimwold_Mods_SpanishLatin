@@ -1,11 +1,17 @@
 #!/usr/bin/env python3
 import argparse
 import subprocess
-from pathlib import PurePosixPath
+from pathlib import Path, PurePosixPath
+import xml.etree.ElementTree as ET
 
 
-def run_git(args):
-    return subprocess.check_output(["git"] + args, text=True, encoding="utf-8", errors="replace").strip()
+def run_git(args, text=True):
+    return subprocess.check_output(
+        ["git"] + args,
+        text=text,
+        encoding="utf-8" if text else None,
+        errors="replace" if text else None,
+    ).strip()
 
 
 def get_last_tag():
@@ -19,10 +25,43 @@ def get_root_commit():
     return run_git(["rev-list", "--max-parents=0", "HEAD"]).splitlines()[0]
 
 
+def get_repo_root():
+    return Path(run_git(["rev-parse", "--show-toplevel"]))
+
+
 def parse_changes(base_ref):
     diff_range = f"{base_ref}..HEAD"
-    output = run_git(["diff", "--name-status", diff_range])
-    return [line for line in output.splitlines() if line.strip()]
+    output = run_git(["diff", "--name-status", "-z", diff_range], text=False)
+    if not output:
+        return []
+
+    parts = output.split(b"\x00")
+    changes = []
+    i = 0
+    while i < len(parts) - 1:
+        status = parts[i].decode("utf-8", errors="replace")
+        i += 1
+        if not status:
+            continue
+
+        code = status[0]
+        if code in {"R", "C"}:
+            # status, old path, new path
+            if i + 1 >= len(parts):
+                break
+            old_path = parts[i].decode("utf-8", errors="replace")
+            new_path = parts[i + 1].decode("utf-8", errors="replace")
+            i += 2
+            changes.append((status, old_path))
+            changes.append((status, new_path))
+        else:
+            if i >= len(parts):
+                break
+            path = parts[i].decode("utf-8", errors="replace")
+            i += 1
+            changes.append((status, path))
+
+    return changes
 
 
 def extract_mod_name(path):
@@ -35,21 +74,44 @@ def extract_mod_name(path):
     return parts[1]
 
 
+def load_mod_display_name(mod_dir, repo_root, name_cache):
+    if mod_dir in name_cache:
+        return name_cache[mod_dir]
+
+    mod_path = repo_root / "Archivo Traducciones" / mod_dir
+    about_path = mod_path / "About"
+    if about_path.is_dir():
+        for xml_path in sorted(about_path.glob("*.xml")):
+            try:
+                tree = ET.parse(xml_path)
+                root = tree.getroot()
+                name_node = root.find("name")
+                if name_node is not None and name_node.text:
+                    display_name = name_node.text.strip()
+                    if display_name:
+                        name_cache[mod_dir] = display_name
+                        return display_name
+            except (ET.ParseError, OSError):
+                continue
+
+    name_cache[mod_dir] = mod_dir
+    return mod_dir
+
+
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("--output", required=True)
     args = parser.parse_args()
 
     base_ref = get_last_tag() or get_root_commit()
+    repo_root = get_repo_root()
+    name_cache = {}
 
     added = set()
     modified = set()
     deleted = set()
 
-    for line in parse_changes(base_ref):
-        fields = line.split("\t")
-        status = fields[0]
-        path = fields[-1]
+    for status, path in parse_changes(base_ref):
 
         mod_name = extract_mod_name(path)
         if not mod_name:
@@ -65,13 +127,19 @@ def main():
     lines = []
     if modified:
         lines.append("Correcciones:")
-        lines.extend([f"- {name}" for name in sorted(modified)])
+        lines.extend(
+            [f"- {load_mod_display_name(name, repo_root, name_cache)}" for name in sorted(modified)]
+        )
     if added:
         lines.append("Añadidos:")
-        lines.extend([f"- {name}" for name in sorted(added)])
+        lines.extend(
+            [f"- {load_mod_display_name(name, repo_root, name_cache)}" for name in sorted(added)]
+        )
     if deleted:
         lines.append("Ajustes:")
-        lines.extend([f"- {name}" for name in sorted(deleted)])
+        lines.extend(
+            [f"- {load_mod_display_name(name, repo_root, name_cache)}" for name in sorted(deleted)]
+        )
 
     if not lines:
         lines = ["Sin cambios registrados"]
