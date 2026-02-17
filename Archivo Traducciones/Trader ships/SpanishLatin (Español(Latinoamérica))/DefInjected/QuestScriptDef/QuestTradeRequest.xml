@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>questDescription->A trader ship temporarily stationed nearby, [requester_label], has a special trade request. They would like to purchase:\n\n  [requestedThingCount]x [requestedThing_label] [qualityInfo](worth [requestedThingMarketValue_money])\n\nIn return, [allRewardsDescriptions]\n\nIf you want to make the trade, accept the quest, and the ship will land. You will have about one day to deliver requested items.</li>
+    <li>qualityInfo(requestedThingHasQuality==True,priority=1)->of normal+ quality </li>
+    <li>qualityInfo-></li>
+  -->
+  <TraderShipsTradeRequest.questDescriptionRules.rulesStrings>
+    <li>questDescription->Un transbordador comercial estacionado temporalmente cerca, [requester_label], tiene una solicitud comercial especial. Les gustaría comprar:\n\n  [requestedThingCount]x [requestedThing_label] [qualityInfo](valor [requestedThingMarketValue_money])\n\nA cambio, [allRewardsDescriptions]\n\nSi quieres realizar el intercambio, acepta la misión y el transbordador aterrizará. Tendrás aproximadamente un día para entregar los artículos solicitados.</li>
+    <li>qualityInfo(requestedThingHasQuality==True,priority=1)->de calidad normal o superior </li>
+    <li>qualityInfo-></li>
+  </TraderShipsTradeRequest.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>questName->[special] [trade] [requester_label]</li>
+    <li>special->A Special</li>
+    <li>special->A Unique</li>
+    <li>special->A Non-traditional</li>
+    <li>special->An Unconventional</li>
+    <li>special->An Unexpected</li>
+    <li>special->A Puzzling</li>
+    <li>special->An Interesting And Exciting New Shiny</li>
+    <li>trade->Sale to</li>
+    <li>trade->Delivery to</li>
+    <li>trade->Trade with</li>
+    <li>trade->Exchange with</li>
+    <li>trade->Deal with</li>
+    <li>trade->Offer from</li>
+    <li>trade->Business Exchange with</li>
+    <li>trade->Arrangement with</li>
+    <li>trade->Transaction with</li>
+  -->
+  <TraderShipsTradeRequest.questNameRules.rulesStrings>
+    <li>questName->[special] [trade] [requester_label]</li>
+    <li>special->Especial</li>
+    <li>special->Singular</li>
+    <li>special->No tradicional</li>
+    <li>special->Poco convencional</li>
+    <li>special->Sorprendente</li>
+    <li>special->Desconcertante</li>
+    <li>special->Interesante, emocionante y reluciente</li>
+    <li>trade->Venta a</li>
+    <li>trade->Entrega a</li>
+    <li>trade->Comercio con</li>
+    <li>trade->Intercambio con</li>
+    <li>trade->Trato con</li>
+    <li>trade->Oferta de</li>
+    <li>trade->Intercambio comercial con</li>
+    <li>trade->Acuerdo con</li>
+    <li>trade->Transacción con</li>
+  </TraderShipsTradeRequest.questNameRules.rulesStrings>
+  <!-- EN: [asker_faction_royalFavorLabel] -->
+  <TraderShipsTradeRequest.root.nodes.GiveRewards.nodeIfChosenPawnSignalUsed.label.slateRef>[asker_faction_royalFavorLabel]</TraderShipsTradeRequest.root.nodes.GiveRewards.nodeIfChosenPawnSignalUsed.label.slateRef>
+  <!-- EN: Who should be credited with [asker_faction_royalFavorLabel] for fulfilling the trade request? -->
+  <TraderShipsTradeRequest.root.nodes.GiveRewards.nodeIfChosenPawnSignalUsed.text.slateRef>¿A quién se le debe acreditar [asker_faction_royalFavorLabel] por cumplir la solicitud comercial?</TraderShipsTradeRequest.root.nodes.GiveRewards.nodeIfChosenPawnSignalUsed.text.slateRef>
+  
+</LanguageData>

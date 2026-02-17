@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+    <!-- EN: {PAWN} doesn't carry any disease that can be sampled. -->
+  <USH_NoDisease>{PAWN} no porta ninguna enfermedad que pueda ser muestreada.</USH_NoDisease>
+    <!-- EN: Insert {ITEM} to sample container -->
+  <USH_InsertSample>Insertar {ITEM} en el contenedor de muestras</USH_InsertSample>
+    <!-- EN: Extract sample -->
+  <USH_ExtractSample>Extraer muestra</USH_ExtractSample>
+
+    <!-- EN: Contained sample: {0} -->
+  <USH_ContainedSample>Muestra contenida: {0}</USH_ContainedSample>
+    <!-- EN: Missing {TYPE} sample. -->
+  <USH_NoSample>Falta muestra de {TYPE}.</USH_NoSample>
+
+    <!-- EN: {BUILDING} already contains disease sample. -->
+  <USH_SampleContainerFull>{BUILDING} ya contiene una muestra de enfermedad.</USH_SampleContainerFull>
+    <!-- EN: already empty -->
+  <USH_SampleContainerEmpty>ya está vacío</USH_SampleContainerEmpty>
+    <!-- EN: {BUILDING} only accept {TYPE} samples. -->
+  <USH_SampleContainerTypeMismatch>{BUILDING} solo acepta muestras de {TYPE}.</USH_SampleContainerTypeMismatch>
+
+    <!-- EN: Not placed in a room. -->
+  <USH_ReplicatorNoRoom>No colocado en una habitación.</USH_ReplicatorNoRoom>
+    <!-- EN: The room area is bigger then {0}. -->
+  <USH_ReplicatorRoomTooBig>El área de la habitación es mayor que {0}.</USH_ReplicatorRoomTooBig>
+    <!-- EN: The room is not fully roofed. -->
+  <USH_ReplicatorRoomUnroofed>La habitación no está completamente techada.</USH_ReplicatorRoomUnroofed>
+
+    <!-- EN: Incubation ends in: {0} -->
+  <USH_IncubatorTimeLeft>La incubación termina en: {0}</USH_IncubatorTimeLeft>
+    <!-- EN: Will produce: {0} {1} patogens -->
+  <USH_IncubatorWillProduce>Producirá: {0} patógenos de {1}</USH_IncubatorWillProduce>
+
+    <!-- EN: can't during incubation -->
+  <USH_IncubationInProgress>no se puede durante la incubación</USH_IncubationInProgress>
+
+    <!-- EN: Insert disease sample to begin researching. -->
+  <USH_InsertSampleToResearch>Inserte una muestra de enfermedad para comenzar a investigar.</USH_InsertSampleToResearch>
+    <!-- EN: No vaccine can be developed from this sample. -->
+  <USH_WrongSampleToResearch>No se puede desarrollar ninguna vacuna a partir de esta muestra.</USH_WrongSampleToResearch>
+
+    <!-- EN: {THING} succesfully healed {HEDIFF} carried by {PAWN}. -->
+  <USH_ThingHealed>{THING} curó con éxito {HEDIFF} portado por {PAWN}.</USH_ThingHealed>
+
+    <!-- EN: Consumes {0} fuel per gas spread. -->
+  <USH_GasVentConsumtion>Consume {0} de combustible por propagación de gas.</USH_GasVentConsumtion>
+    <!-- EN: Choose a vent to activate in the same power network. -->
+  <USH_GasVentChoose>Elija una ventilación para activar en la misma red eléctrica.</USH_GasVentChoose>
+    <!-- EN: Can't activate {0}: {1}. -->
+  <USH_GasVentCantActivate>No se puede activar {0}: {1}.</USH_GasVentCantActivate>
+    <!-- EN: Activate all -->
+  <USH_GasVentActivateAll>Activar todo</USH_GasVentActivateAll>
+
+    <!-- EN: Related condition: {0}. -->
+  <USH_VirusReplicationRelated>Condición relacionada: {0}.</USH_VirusReplicationRelated>
+    <!-- EN: Will yield: {0} pathogens. -->
+  <USH_VirusReplicationCount>Producirá: {0} patógenos.</USH_VirusReplicationCount>
+
+    <!-- EN: User -->
+  <USH_User>Usuario</USH_User>
+    <!-- EN: Users -->
+  <USH_Users>Usuarios</USH_Users>
+    <!-- EN: Set users -->
+  <USH_SetUsers>Establecer usuarios</USH_SetUsers>
+
+    <!-- EN: Can't gather: {0} -->
+  <USH_CantGather>No se puede recolectar: {0}</USH_CantGather>
+    <!-- EN: {DISEASE} can't be gathered on {BIOME} -->
+  <USH_WrongBiome>{DISEASE} no se puede recolectar en {BIOME}</USH_WrongBiome>
+    <!-- EN: prepared to infect -->
+  <USH_AlreadyGathered>preparado para infectar</USH_AlreadyGathered>
+    <!-- EN: Gathering progress: {0} -->
+  <USH_GatheringProgress>Progreso de recolección: {0}</USH_GatheringProgress>
+    <!-- EN: Speed multiplier from biome: {0} -->
+  <USH_GatheringMultiplier>Multiplicador de velocidad del bioma: {0}</USH_GatheringMultiplier>
+    <!-- EN: Ready to infect. -->
+  <USH_MechanitesReady>Listo para infectar.</USH_MechanitesReady>
+    <!-- EN: Already infected with: {0} -->
+  <USH_AlreadyInfected>Ya infectado con: {0}</USH_AlreadyInfected>
+
+    <!-- EN: Pathogen gas severity multiplier -->
+  <USH_GasMultplierSetting>Multiplicador de gravedad del gas patógeno</USH_GasMultplierSetting>
+    <!-- EN: Pathogen gas severity per second will be multiplied by: {0}.\nIf you only want to infect pawns without killing them, I advise setting this to 1%. -->
+  <USH_GasMultplierSettingDesc>La gravedad del gas patógeno por segundo se multiplicará por: {0}.\nSi solo quieres infectar a los peones sin matarlos, te aconsejo que establezcas esto en 1%.</USH_GasMultplierSettingDesc>
+
+    <!-- EN: Max gas infections before disappearing -->
+  <USH_GasInfectionCountSetting>Infecciones máximas de gas antes de desaparecer</USH_GasInfectionCountSetting>
+    <!-- EN: Pathogen gas will infect pawns {0} times before disappearing.\nIf set to -1 the setting will be ignored. -->
+  <USH_GasInfectionCountSettingDesc>El gas patógeno infectará a los peones {0} veces antes de desaparecer.\nSi se establece en -1, la configuración se ignorará.</USH_GasInfectionCountSettingDesc>
+
+    <!-- EN: Shamblers spread necroa archovirus -->
+  <USH_ShamblerInfectionSetting>Los tambaleantes propagan el archovirus necroa</USH_ShamblerInfectionSetting>
+    <!-- EN: When enabled shamblers will infect damaged pawns with necroa virus. -->
+  <USH_ShamblerInfectionSettingDesc>Cuando está habilitado, los tambaleantes infectarán a los peones dañados con el virus necroa.</USH_ShamblerInfectionSettingDesc>
+
+    <!-- EN: Reset options to default -->
+  <USH_ResetSettings>Restablecer opciones a predeterminadas</USH_ResetSettings>
+
+</LanguageData>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: gas vents controller -->
+  <USH_GasVentsController.label>controlador de ventilaciones de gas</USH_GasVentsController.label>
+  <!-- EN: An interactive panel used for remote pathogen gas vents activation. To trigger it, the targeted vent must be connected to the same power network as the controller. -->
+  <USH_GasVentsController.description>Un panel interactivo utilizado para la activación remota de ventilaciones de gas patógeno. Para activarlo, la ventilación objetivo debe estar conectada a la misma red eléctrica que el controlador.</USH_GasVentsController.description>
+  <!-- EN: activate -->
+  <USH_GasVentsController.comps.CompGasVentsController.jobString>activar</USH_GasVentsController.comps.CompGasVentsController.jobString>
+  <!-- EN: cooling off -->
+  <USH_GasVentsController.comps.CompGasVentsController.onCooldownString>enfriando</USH_GasVentsController.comps.CompGasVentsController.onCooldownString>
+  
+</LanguageData>

@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Trader ships -->
+  <TraderShipsTitle>Trader ships</TraderShipsTitle>
+  
+  <!-- EN: Send away -->
+  <TraderShipsSendAway>Despedir</TraderShipsSendAway>
+  <!-- EN: Ask the trader to leave. -->
+  <TraderShipsSendAwayDesc>Pedir al comerciante que se vaya.</TraderShipsSendAwayDesc>
+  <!-- EN: Leaving in: {0} -->
+  <TraderShipsLeavingIn>Parte en: {0}</TraderShipsLeavingIn>
+  <!-- EN: A trade ship has landed nearby.\n\nThey are known as {0}. They are a {1}.\n\n{2} -->
+  <TraderShipsArrival>Un transbordador comercial ha aterrizado cerca.\n\nSe les conoce como {0}. Son un {1}.\n\n{2}</TraderShipsArrival>
+  <!-- EN: Trade ship crashed -->
+  <TraderShipsCrashName>Transbordador comercial estrellado</TraderShipsCrashName>
+  <!-- EN: A trade ship previously known as {0} has crashed nearby.\n\nThey were a {1}.\n\nSome of their stock is scattered around. -->
+  <TraderShipsCrash>Un transbordador comercial anteriormente conocido como {0} se ha estrellado cerca.\n\nEran un {1}.\n\nParte de su mercancía está esparcida por los alrededores.</TraderShipsCrash>
+  <!-- EN: {0} is leaving because of damage to the ship. -->
+  <TraderShipsLeavingDueToDamage>{0} se marcha debido a los daños en el transbordador.</TraderShipsLeavingDueToDamage>
+  
+  <!-- EN: Disable orbital traders -->
+  <TraderShipsDisableOrbitalName>Desactivar comerciantes orbitales</TraderShipsDisableOrbitalName>
+  <!-- EN: Prevent orbital traders from appearing (trade ships will still come as long as this mod is active). -->
+  <TraderShipsDisableOrbitalDesc>Evita que aparezcan comerciantes orbitales (los transbordadores comerciales seguirán llegando mientras este mod esté activo).</TraderShipsDisableOrbitalDesc>
+  <!-- EN: Colored ships -->
+  <TraderShipsColorsName>Transbordadores coloreados</TraderShipsColorsName>
+  <!-- EN: Allow ships to have different colors. -->
+  <TraderShipsColorsDesc>Permite que los transbordadores tengan diferentes colores.</TraderShipsColorsDesc>
+  <!-- EN: Require comms console -->
+  <TraderShipsRequireCommssConsoleName>Requerir consola de comunicaciones</TraderShipsRequireCommssConsoleName>
+  <!-- EN: Ships won't come unless you have a comms console. -->
+  <TraderShipsRequireCommssConsoleDesc>Los transbordadores no vendrán a menos que tengas una consola de comunicaciones.</TraderShipsRequireCommssConsoleDesc>
+  <!-- EN: Enable quests -->
+  <TraderShipsEnableQuestsName>Habilitar misiones</TraderShipsEnableQuestsName>
+  <!-- EN: Enable trade ship-related quests. -->
+  <TraderShipsEnableQuestsDesc>Habilita misiones relacionadas con transbordadores comerciales.</TraderShipsEnableQuestsDesc>
+  <!-- EN: Saturation range -->
+  <TraderShipsSaturationName>Rango de saturación</TraderShipsSaturationName>
+  <!-- EN: Generated ships will have HSV color with saturation in specified range (also bound by [0,100]). -->
+  <TraderShipsSaturationDesc>Los transbordadores generados tendrán color HSV con saturación en el rango especificado (también limitado por [0,100]).</TraderShipsSaturationDesc>
+  <!-- EN: Value range -->
+  <TraderShipsValueName>Rango de valor</TraderShipsValueName>
+  <!-- EN: Generated ships will have HSV color with value in specified range (also bound by [0,100]) -->
+  <TraderShipsValueDesc>Los transbordadores generados tendrán color HSV con valor en el rango especificado (también limitado por [0,100]).</TraderShipsValueDesc>
+  <!-- EN: Reroll colors -->
+  <TraderShipsRerollColors>Reasignar colores</TraderShipsRerollColors>
+
+  <!-- EN: Landing zone -->
+  <TraderShipsLandingZone>Zona de aterrizaje</TraderShipsLandingZone>
+  <!-- EN: Expand landing zone -->
+  <TraderShipsLandingZoneExpandName>Expandir zona de aterrizaje</TraderShipsLandingZoneExpandName>
+  <!-- EN: Create an area that will be preferred as a landing zone by space ships. A ship will try to land in the middle of a landing zone, so if you want a large landing pad with multiple ships on it, designate multiple non-intersecting zones. -->
+  <TraderShipsLandingZoneExpandDesc>Crea un área que será preferida como zona de aterrizaje por los transbordadores espaciales. Un transbordador intentará aterrizar en el centro de una zona de aterrizaje, así que si quieres una plataforma de aterrizaje grande con múltiples transbordadores, designa múltiples zonas que no se crucen.</TraderShipsLandingZoneExpandDesc>
+  <!-- EN: Clear landing zone -->
+  <TraderShipsLandingZoneClearName>Borrar zona de aterrizaje</TraderShipsLandingZoneClearName>
+  <!-- EN: Remove landing zone area, making space ships choose where to land themselves. -->
+  <TraderShipsLandingZoneClearDesc>Elimina el área de zona de aterrizaje, haciendo que los transbordadores espaciales elijan dónde aterrizar por sí mismos.</TraderShipsLandingZoneClearDesc>
+
+  <!-- EN: Space ship could not land on landing zone: {0}. -->
+  <TraderShipsLandingZoneBlocked>El transbordador espacial no pudo aterrizar en la zona de aterrizaje: {0}.</TraderShipsLandingZoneBlocked>
+  <!-- EN: blocked by {0_label} -->
+  <TraderShipsBlockedBy>bloqueado por {0_label}</TraderShipsBlockedBy>
+
+  <!-- EN: Requesting: {0} ({1}) -->
+  <TraderShipsQuestRequestInfo>Solicitando: {0} ({1})</TraderShipsQuestRequestInfo>
+
+</LanguageData>
