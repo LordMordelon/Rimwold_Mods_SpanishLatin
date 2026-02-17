@@ -129,15 +129,16 @@ def main():
 
     sections = []
 
-    def add_section(title, names):
+    def add_section(title_singular, title_plural, names):
         if not names:
             return
+        title = title_singular if len(names) == 1 else title_plural
         items = [f"- {load_mod_display_name(name, repo_root, name_cache)}" for name in sorted(names)]
         sections.append("\n".join([title] + items))
 
-    add_section("Correcciones:", modified)
-    add_section("Añadidos:", added)
-    add_section("Ajustes:", deleted)
+    add_section("Añadido:", "Añadidos:", added)
+    add_section("Actualizado:", "Actualizaciones:", deleted)
+    add_section("Correccion:", "Correcciones:", modified)
 
     if not sections:
         lines = ["Sin cambios registrados"]
