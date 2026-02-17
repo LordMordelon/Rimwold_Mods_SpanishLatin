@@ -125,25 +125,22 @@ def main():
         elif status.startswith("M") or status.startswith("R") or status.startswith("C"):
             modified.add(mod_name)
 
-    lines = []
-    if modified:
-        lines.append("Correcciones:")
-        lines.extend(
-            [f"- {load_mod_display_name(name, repo_root, name_cache)}" for name in sorted(modified)]
-        )
-    if added:
-        lines.append("Añadidos:")
-        lines.extend(
-            [f"- {load_mod_display_name(name, repo_root, name_cache)}" for name in sorted(added)]
-        )
-    if deleted:
-        lines.append("Ajustes:")
-        lines.extend(
-            [f"- {load_mod_display_name(name, repo_root, name_cache)}" for name in sorted(deleted)]
-        )
+    sections = []
 
-    if not lines:
+    def add_section(title, names):
+        if not names:
+            return
+        items = [f"- {load_mod_display_name(name, repo_root, name_cache)}" for name in sorted(names)]
+        sections.append("\n".join([title] + items))
+
+    add_section("Correcciones:", modified)
+    add_section("Añadidos:", added)
+    add_section("Ajustes:", deleted)
+
+    if not sections:
         lines = ["Sin cambios registrados"]
+    else:
+        lines = ["\n\n".join(sections)]
 
     output_path = args.output
     with open(output_path, "w", encoding="utf-8") as f:
