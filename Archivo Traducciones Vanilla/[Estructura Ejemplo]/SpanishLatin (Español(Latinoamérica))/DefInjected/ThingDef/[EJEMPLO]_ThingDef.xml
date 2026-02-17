@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- EJEMPLO: Traducción de ThingDef modificado por un mod que altera Vanilla -->
+  <!-- 
+       Este archivo muestra la estructura correcta.
+       - Reemplaza [EJEMPLO] con el nombre real del mod
+       - Mantén la jerarquía: DefInjected/ThingDef/
+       - Los keys deben coincidir exactamente con el archivo inglés
+  -->
+
+  <Human.label>Humano</Human.label>
+  <Human.description>Es un humano.</Human.description>
+
+  <!-- Si el mod original modifica ThingDefs existentes de Vanilla,
+       los traducimos aquí. Ejemplo: si añade una raza nueva -->
+  
+  <NuevaRaza_Mod.label>Nueva Raza del Mod</NuevaRaza_Mod.label>
+  <NuevaRaza_Mod.description>Descripción de la nueva raza que el mod añade/modifica en Vanilla.</NuevaRaza_Mod.description>
+
+</LanguageData>

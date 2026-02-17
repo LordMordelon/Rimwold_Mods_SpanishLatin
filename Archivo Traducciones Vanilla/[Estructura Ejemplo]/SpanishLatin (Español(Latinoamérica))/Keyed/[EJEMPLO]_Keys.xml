@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- EJEMPLO: Traducciones Keyed para mod que altera Vanilla -->
+  <!-- 
+       Este archivo muestra la estructura correcta para archivo Keyed.
+       - Mantén la jerarquía: Keyed/
+       - Los keys deben coincidir exactamente con el archivo inglés del mod
+  -->
+
+  <ExampleKey>Texto de ejemplo traducido</ExampleKey>
+  <AnotherKey>Otro texto en español latino</AnotherKey>
+  
+  <!-- Si el mod añade diálogos o textos que modifican el UI de Vanilla,
+       translatelos aquí -->
+  
+  <ModifiedVanillaDialog>Este diálogo está modificado por el mod</ModifiedVanillaDialog>
+
+</LanguageData>
