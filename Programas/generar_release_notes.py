@@ -102,6 +102,8 @@ def load_mod_display_name(mod_dir, repo_root, name_cache):
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("--output", required=True)
+    parser.add_argument("--repo", required=False)
+    parser.add_argument("--tag", required=False)
     args = parser.parse_args()
 
     base_ref = get_last_tag() or get_root_commit()
@@ -141,6 +143,10 @@ def main():
         lines = ["Sin cambios registrados"]
     else:
         lines = ["\n\n".join(sections)]
+
+    if args.repo and args.tag and base_ref:
+        lines.append("")
+        lines.append(f"**Full Changelog**: https://github.com/{args.repo}/compare/{base_ref}...{args.tag}")
 
     output_path = args.output
     with open(output_path, "w", encoding="utf-8") as f:

@@ -47,7 +47,9 @@ jobs:
       - name: Generar notas de release
         run: |
           python Programas/generar_release_notes.py \
-            --output "$RUNNER_TEMP/release_notes.md"
+            --output "$RUNNER_TEMP/release_notes.md" \
+            --repo "${{ github.repository }}" \
+            --tag "v1.0.${{ github.run_number }}"
 
       - name: Publicar release
         uses: softprops/action-gh-release@v2
