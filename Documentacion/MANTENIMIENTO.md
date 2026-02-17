@@ -113,25 +113,56 @@ git tag v2.1.0
 
 ## 📝 Cambios Recientes (Historial)
 
-### ✅ [DONE] Implementación de LoadFolders.xml
+### ✅ [DONE] Implementación Completa de LoadFolders.xml + Estructura Vanilla
 **Versión:** 2.0.0  
 **Fecha:** 17/02/2026  
 **Cambios realizados:**
-- compilador.py: Añadida función `generar_loadfolders_xml()`
-- compilador.py: Lectura de About.xml para extraer packageId
-- Nueva carpeta: `/Archivo Traducciones Vanilla/` (estructura)
-- Documentación: Este archivo (MANTENIMIENTO.md)
 
-**Testing:**
-- ✓ Función identifica packageId correctamente
-- ✓ LoadFolders.xml válido XML
-- ✓ Condicionales `IfModActive` correctas
-- ✓ 0 conflictos con mods existentes
+**1. cli_compilador.py - Cambios estructurales:**
+- ✅ Añadida función `normalizar_nombre_carpeta()` - convierte espacios a underscores
+- ✅ Añadida función `copiar_vanilla_patches()` - procesa "Archivo Traducciones Vanilla"
+- ✅ Añadida función `generar_loadfolders_xml()` - crea LoadFolders.xml con condicionales
+- ✅ Añadida función `reorganizar_a_common()` - mueve Languages/ a Common/Languages/
+- ✅ Modificado `main()` - procesa AMBAS carpetas (normal + vanilla)
 
-**Estado:** EN_PROGRESO → será COMPLETADO cuando:
-  - [ ] Se migran primeros mods a `/Archivo Traducciones Vanilla/`
-  - [ ] Se valida LoadFolders.xml contra mods reales
-  - [ ] Se documenta en README principal
+**2. Estructura de carpetas:**
+- ✅ Creada carpeta `/Archivo Traducciones Vanilla/`
+- ✅ Creada subcarpeta ejemplo con About.xml template
+- ✅ README.md con instrucciones de uso
+
+**3. Flujo de compilación actualizado:**
+```
+[1/4] Procesa "Archivo Traducciones" → Common/Languages/SpanishLatin/
+[2/4] Procesa "Archivo Traducciones Vanilla" → Mods/Nombre_Mod/Languages/SpanishLatin/
+[3/4] Reorganiza estructura (mueve a Common/)
+[4/4] Genera LoadFolders.xml con packageIds
+```
+
+**4. Output esperado:**
+```
+Pack Traducciones [Español Latino]/
+├── Common/
+│   └── Languages/SpanishLatin/
+├── Mods/
+│   └── Vanilla_Gravship_Expanded_-_Chapter_1/
+│       └── Languages/SpanishLatin/
+└── LoadFolders.xml ⭐
+```
+
+**Testing realizado:**
+- ✓ Sintaxis Python validada (0 errores)
+- ✓ Función `normalizar_nombre_carpeta()` convierte correctamente
+- ✓ Función `copiar_vanilla_patches()` procesa carpetas
+- ✓ Función `generar_loadfolders_xml()` crea XML válido
+- ✓ Main() integra todas las piezas
+
+**Testing pendiente:**
+- [ ] Ejecutar CLI con mods reales
+- [ ] Validar PackageIDs contra Steam Workshop
+- [ ] Probar en RimWorld con Gravship Expanded
+- [ ] Verificar que LoadFolders.xml carga correctamente
+
+**Estado:** IMPLEMENTADO → Pendiente testing real
 
 ---
 

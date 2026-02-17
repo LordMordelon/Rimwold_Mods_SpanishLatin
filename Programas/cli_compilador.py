@@ -37,6 +37,14 @@ def normalizar_nombre_idioma(nombre: str) -> str:
     return s.strip()
 
 
+def normalizar_nombre_carpeta(nombre: str) -> str:
+    """Convierte nombre de carpeta reemplazando espacios por underscores para Mods/"""
+    if not isinstance(nombre, str):
+        return ""
+    # Reemplazar espacios por underscores
+    return nombre.strip().replace(" ", "_")
+
+
 def indent_xml(elem, level=0, space="  "):
     i = "\n" + level * space
     if len(elem):
@@ -199,6 +207,158 @@ def copiar_traducciones(origen, destino_root, nombre_subcarpeta, limpiar_destino
             archivos_copiados += 1
 
     return mods_a_procesar, archivos_copiados, errores
+
+
+def copiar_vanilla_patches(origen_vanilla, destino_root, nombre_subcarpeta, eliminar_comentarios):
+    """
+    Procesa carpetas de 'Archivo Traducciones Vanilla' y las copia a Mods/NombreMod/
+    Retorna lista de (nombre_carpeta_normalizado, packageId) para LoadFolders.xml
+    """
+    if not os.path.isdir(origen_vanilla):
+        return [], 0, []
+    
+    nombre_destino = normalizar_nombre_idioma(nombre_subcarpeta)
+    mods_vanilla = []
+    archivos_copiados = 0
+    errores = []
+    
+    for mod_folder in os.listdir(origen_vanilla):
+        if es_mod_ignorado(mod_folder):
+            continue
+        
+        ruta_mod = os.path.join(origen_vanilla, mod_folder)
+        if not os.path.isdir(ruta_mod):
+            continue
+        
+        ruta_idioma = os.path.join(ruta_mod, nombre_subcarpeta)
+        if not os.path.isdir(ruta_idioma):
+            continue
+        
+        # Obtener packageId del About.xml
+        package_id = obtener_package_id(ruta_mod)
+        if not package_id:
+            print(f"ADVERTENCIA: No se encontró packageId en {mod_folder}, se omitirá en LoadFolders.xml")
+        
+        # Normalizar nombre de carpeta (espacios → underscores)
+        nombre_normalizado = normalizar_nombre_carpeta(mod_folder)
+        
+        # Crear ruta destino: Mods/NombreNormalizado/Languages/SpanishLatin/
+        ruta_destino_mod = os.path.join(destino_root, "Mods", nombre_normalizado, "Languages", nombre_destino)
+        os.makedirs(ruta_destino_mod, exist_ok=True)
+        
+        # Copiar archivos
+        for carpeta_raiz, _, archivos in os.walk(ruta_idioma):
+            for archivo in archivos:
+                if archivo.endswith(".xml"):
+                    ruta_origen = os.path.join(carpeta_raiz, archivo)
+                    ruta_relativa = os.path.relpath(carpeta_raiz, ruta_idioma)
+                    ruta_destino_carpeta = os.path.join(ruta_destino_mod, ruta_relativa)
+                    os.makedirs(ruta_destino_carpeta, exist_ok=True)
+                    
+                    ruta_destino_archivo = os.path.join(ruta_destino_carpeta, archivo)
+                    
+                    if eliminar_comentarios:
+                        try:
+                            parser = ET.XMLParser(target=ET.TreeBuilder(insert_comments=False))
+                            with open(ruta_origen, "rb") as f:
+                                raw_data = f.read()
+                            
+                            try:
+                                content = raw_data.decode("utf-8-sig")
+                            except UnicodeDecodeError:
+                                content = raw_data.decode("utf-16")
+                            
+                            content = content.strip()
+                            if content.startswith("<?xml"):
+                                content = content.split("?>", 1)[-1].strip()
+                            
+                            content = re.sub(
+                                r"<(/?(?:color|size|b|i)(?:\s+[^>]*?)?)>",
+                                r"&lt;\1&gt;",
+                                content,
+                                flags=re.IGNORECASE,
+                            )
+                            
+                            root = ET.fromstring(content, parser=parser)
+                            tree = ET.ElementTree(root)
+                            root[:] = sorted(root, key=lambda child: child.tag)
+                            indent_xml(root)
+                            tree.write(ruta_destino_archivo, encoding="utf-8", xml_declaration=True)
+                        except Exception as e:
+                            errores.append({
+                                "archivo": ruta_origen,
+                                "motivo": f"Error procesando XML: {e}",
+                                "trace": traceback.format_exc(),
+                            })
+                            shutil.copy2(ruta_origen, ruta_destino_archivo)
+                    else:
+                        try:
+                            shutil.copy2(ruta_origen, ruta_destino_archivo)
+                        except Exception as e:
+                            errores.append({
+                                "archivo": ruta_origen,
+                                "motivo": f"Error copiando archivo: {e}",
+                                "trace": traceback.format_exc(),
+                            })
+                            continue
+                    
+                    archivos_copiados += 1
+        
+        # Guardar para LoadFolders.xml
+        if package_id:
+            mods_vanilla.append((nombre_normalizado, package_id))
+    
+    return mods_vanilla, archivos_copiados, errores
+
+
+def generar_loadfolders_xml(destino_root, mods_vanilla_info):
+    """
+    Genera LoadFolders.xml en la raíz del pack con entradas condicionales
+    mods_vanilla_info: lista de tuplas (nombre_carpeta_normalizado, packageId)
+    """
+    if not mods_vanilla_info:
+        return False, "No hay mods vanilla para generar LoadFolders.xml"
+    
+    ruta_loadfolders = os.path.join(destino_root, "LoadFolders.xml")
+    
+    # Crear estructura XML
+    root = ET.Element("loadFolders")
+    version_node = ET.SubElement(root, "v1.6")
+    
+    # Primero la carpeta Common (todo el contenido normal)
+    common_li = ET.SubElement(version_node, "li")
+    common_li.text = "Common"
+    
+    # Luego las carpetas condicionales de Mods
+    for nombre_carpeta, package_id in sorted(mods_vanilla_info, key=lambda x: x[0]):
+        mod_li = ET.SubElement(version_node, "li")
+        mod_li.set("IfModActive", package_id)
+        mod_li.text = f"Mods/{nombre_carpeta}"
+    
+    # Indentar y guardar
+    indent_xml(root)
+    tree = ET.ElementTree(root)
+    tree.write(ruta_loadfolders, encoding="utf-8", xml_declaration=True)
+    
+    return True, f"LoadFolders.xml generado con {len(mods_vanilla_info)} entradas condicionales"
+
+
+def reorganizar_a_common(destino_root, nombre_subcarpeta):
+    """
+    Mueve Languages/ a Common/Languages/ para la nueva estructura
+    """
+    nombre_destino = normalizar_nombre_idioma(nombre_subcarpeta)
+    ruta_languages_actual = os.path.join(destino_root, "Languages")
+    ruta_common = os.path.join(destino_root, "Common")
+    ruta_languages_nueva = os.path.join(ruta_common, "Languages")
+    
+    if os.path.isdir(ruta_languages_actual) and not os.path.exists(ruta_common):
+        # Mover Languages/ a Common/Languages/
+        os.makedirs(ruta_common, exist_ok=True)
+        shutil.move(ruta_languages_actual, ruta_languages_nueva)
+        return True, f"Contenido movido a Common/Languages/"
+    
+    return False, "No se encontró Languages/ o Common/ ya existe"
 
 
 def actualizar_about_xml(destino_root, origen, mods_procesados):
@@ -368,6 +528,8 @@ def main():
                 print(f"- {item}")
             return 2
 
+    # Procesar traducciones normales (Archivo Traducciones)
+    print(f"\n[1/4] Procesando traducciones normales desde: {origen}")
     mods_procesados, archivos_copiados, errores = copiar_traducciones(
         origen,
         destino,
@@ -376,12 +538,57 @@ def main():
         eliminar_comentarios=args.eliminar_comentarios,
     )
 
-    print(f"Mods procesados: {len(mods_procesados)}")
-    print(f"Archivos copiados: {archivos_copiados}")
+    print(f"  → Mods procesados: {len(mods_procesados)}")
+    print(f"  → Archivos copiados: {archivos_copiados}")
     if errores:
-        print(f"Errores detectados: {len(errores)}")
+        print(f"  → Errores detectados: {len(errores)}")
 
-    if archivos_copiados == 0:
+    # Detectar y procesar Archivo Traducciones Vanilla
+    origen_vanilla = os.path.join(os.path.dirname(origen), "Archivo Traducciones Vanilla")
+    mods_vanilla_info = []
+    archivos_vanilla_copiados = 0
+    
+    if os.path.isdir(origen_vanilla):
+        print(f"\n[2/4] Procesando parches Vanilla desde: {origen_vanilla}")
+        mods_vanilla_info, archivos_vanilla_copiados, errores_vanilla = copiar_vanilla_patches(
+            origen_vanilla,
+            destino,
+            idioma,
+            eliminar_comentarios=args.eliminar_comentarios,
+        )
+        
+        print(f"  → Mods Vanilla procesados: {len(mods_vanilla_info)}")
+        print(f"  → Archivos copiados: {archivos_vanilla_copiados}")
+        if errores_vanilla:
+            print(f"  → Errores detectados: {len(errores_vanilla)}")
+            errores.extend(errores_vanilla)
+    else:
+        print(f"\n[2/4] No se encontró carpeta 'Archivo Traducciones Vanilla', omitiendo parches Vanilla")
+
+    # Reorganizar a estructura Common/
+    print(f"\n[3/4] Reorganizando estructura a Common/")
+    ok_common, msg_common = reorganizar_a_common(destino, idioma)
+    print(f"  → {msg_common}")
+
+    # Generar LoadFolders.xml si hay mods vanilla
+    if mods_vanilla_info:
+        print(f"\n[4/4] Generando LoadFolders.xml")
+        ok_lf, msg_lf = generar_loadfolders_xml(destino, mods_vanilla_info)
+        print(f"  → {msg_lf}")
+    else:
+        print(f"\n[4/4] No hay mods Vanilla, omitiendo LoadFolders.xml")
+
+    # Resumen final
+    total_archivos = archivos_copiados + archivos_vanilla_copiados
+    print(f"\n{'='*60}")
+    print(f"RESUMEN:")
+    print(f"  Total mods normales: {len(mods_procesados)}")
+    print(f"  Total mods Vanilla: {len(mods_vanilla_info)}")
+    print(f"  Total archivos copiados: {total_archivos}")
+    print(f"  Errores: {len(errores)}")
+    print(f"{'='*60}\n")
+
+    if total_archivos == 0:
         print("No se encontraron archivos XML para copiar.")
         return 1
 
@@ -399,7 +606,9 @@ def main():
             return 1
 
     if not args.sin_reporte:
-        ok, mensaje = generar_reporte(destino, mods_procesados, errores=errores, titulo=args.reporte_titulo)
+        # Combinar mods normales y vanilla para el reporte
+        todos_los_mods = mods_procesados + [nombre for nombre, _ in mods_vanilla_info]
+        ok, mensaje = generar_reporte(destino, todos_los_mods, errores=errores, titulo=args.reporte_titulo)
         print(mensaje)
         if not ok:
             return 1

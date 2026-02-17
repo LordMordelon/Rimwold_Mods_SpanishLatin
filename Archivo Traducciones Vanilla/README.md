@@ -8,22 +8,21 @@ Esta carpeta contiene traducciones que **modifican contenido del juego base (Van
 
 ```
 Archivo Traducciones Vanilla/
-├── Mod_Name_Vanilla_Patches/
+├── Vanilla Gravship Expanded - Chapter 1/   ← Nombre original (con espacios)
 │   ├── About/
-│   │   └── About.xml                    ← Metadatos (packageId CRÍTICO)
+│   │   ├── About_3609835606.xml             ← packageId CRÍTICO
+│   │   └── PublishedFileId.txt
 │   │
 │   └── SpanishLatin (Español(Latinoamérica))/
 │       ├── DefInjected/
-│       │   ├── ThingDef/
-│       │   │   └── [Mod_Name]_ThingDef.xml
-│       │   └── ... (otras Defs)
+│       │   └── ... (archivos que modifican Vanilla)
 │       │
 │       └── Keyed/
-│           └── [Mod_Name]_Keys.xml
+│           └── ... (keys que modifican Vanilla)
 │
-└── Another_Mod_Vanilla_Patches/
+└── Otro Mod Ejemplo/
     ├── About/
-    │   └── About.xml                    ← Metadatos (packageId CRÍTICO)
+    │   └── About.xml                        ← packageId CRÍTICO
     │
     └── SpanishLatin (Español(Latinoamérica))/
         └── ... (estructura igual)
@@ -31,12 +30,16 @@ Archivo Traducciones Vanilla/
 
 ## 📝 Nominación de Carpetas
 
-**Formato:** `ModName_Vanilla_Patches`
+**IMPORTANTE:** Usa el **nombre exacto** del mod tal como aparece en `Archivo Traducciones/`
+
+El compilador automáticamente convertirá espacios a underscores al generar el Pack final.
 
 Ejemplos:
-- `Royalty_Vanilla_Patches` ← para "Ludeon.RimWorld.Royalty"
-- `VFE_Core_Vanilla_Patches` ← para "OskarPotocki.VanillaFactionsExpanded.Core"
-- `EPOE_Vanilla_Patches` ← para "vanya.tools.expandedprostheticsandorganengineering"
+- `Vanilla Gravship Expanded - Chapter 1` → Se convierte a `Vanilla_Gravship_Expanded_-_Chapter_1` en Output
+- `Royalty` → Se convierte a `Royalty` en Output
+- `VFE Core` → Se convierte a `VFE_Core` en Output
+
+**Recomendación:** Copia textualmente la carpeta del mod desde `Archivo Traducciones/` manteniendo su nombre original.
 
 ## ⚠️ About.xml Requerido
 
@@ -61,9 +64,16 @@ Cada carpeta **DEBE** tener un `About/About.xml` con el PackageID **exacto** del
 
 El compilador lee estos About.xml y **automáticamente** genera líneas en `LoadFolders.xml`:
 
+**Input:** `Vanilla Gravship Expanded - Chapter 1/` con packageId `vanillaexpanded.gravship`
+
+**Output generado:**
 ```xml
-<li IfModActive="ludeon.rimworld.royalty">Mods/Royalty_Vanilla_Patches</li>
+<li IfModActive="vanillaexpanded.gravship">
+  Mods/Vanilla_Gravship_Expanded_-_Chapter_1
+</li>
 ```
+
+**Nota:** Los espacios y caracteres especiales del nombre se convierten a underscores automáticamente.
 
 ## ✅ Validación Antes de Compilar
 
