@@ -81,7 +81,8 @@ def load_mod_display_name(mod_dir, repo_root, name_cache):
     mod_path = repo_root / "Archivo Traducciones" / mod_dir
     about_path = mod_path / "About"
     if about_path.is_dir():
-        for xml_path in sorted(about_path.glob("*.xml")):
+        xml_paths = sorted(about_path.glob("About_*.xml")) + sorted(about_path.glob("About.xml"))
+        for xml_path in xml_paths:
             try:
                 tree = ET.parse(xml_path)
                 root = tree.getroot()
