@@ -34,7 +34,8 @@ class RimWorldTranslatorGUI(QMainWindow):
 
         # Etiquetas técnicas a excluir (blacklist)
         self.blacklisted_tags = [
-            'verbClass', 'commandTexture', 'commandLabelKey', 'texPath', 'iconPath'
+            'verbClass', 'commandTexture', 'commandLabelKey', 'texPath', 'iconPath',
+            'extractOptions', 'labelKey'  # Ignorar opciones técnicas y keys de extracción
         ]
 
         self.init_ui()
