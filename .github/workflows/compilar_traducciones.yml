@@ -104,7 +104,7 @@ jobs:
         uses: softprops/action-gh-release@v2
         with:
           tag_name: ${{ steps.version.outputs.new_tag }}
-          name: ${{ steps.version.outputs.new_tag }} Latest
+          name: ${{ steps.version.outputs.new_tag }}
           body_path: ${{ runner.temp }}/release_notes.md
           prerelease: false
           files: |
