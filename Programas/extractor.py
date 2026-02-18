@@ -546,11 +546,79 @@ class RimWorldTranslatorGUI(QMainWindow):
                     self.log(f"   └── {line}")
                 total_files_processed += len(keyed_files_log)
             
+            # --- 3. Procesar PATCHES ---
+            patches_directories = []
+            for root, dirs, files in os.walk(mod_path):
+                if os.path.basename(root).lower() == 'patches':
+                    patches_directories.append(Path(root))
+            
+            patches_directories.sort(key=lambda p: str(p))
+            
+            patches_files_log = []
+            for patches_path in patches_directories:
+                # Calcular ruta relativa para mantener estructura
+                try:
+                    rel_path = patches_path.parent.relative_to(mod_path)
+                except ValueError:
+                    rel_path = Path(".")
+                
+                should_process = True
+                output_rel_path = rel_path
+
+                if target_version != "Todas":
+                    if merge_versions:
+                        target_path = Path(target_version) if target_version != "Base" else Path(".")
+                        parts = rel_path.parts
+                        if str(rel_path) == ".":
+                            output_rel_path = target_path
+                        elif re.match(r'^\d+\.\d+$', parts[0]):
+                            output_rel_path = target_path.joinpath(*parts[1:])
+                        else:
+                            output_rel_path = target_path / rel_path
+                    else:
+                        is_base = str(rel_path) == "."
+                        if target_version == "Base" and not is_base: should_process = False
+                        if target_version != "Base" and str(rel_path) != target_version: should_process = False
+                
+                if not should_process: continue
+
+                if simplify_mods:
+                    parts_out = list(output_rel_path.parts)
+                    mods_idx = -1
+                    for i, p in enumerate(parts_out):
+                        if p.lower() == 'mods':
+                            mods_idx = i
+                            break
+                    if mods_idx != -1 and len(parts_out) > mods_idx + 1:
+                        del parts_out[mods_idx:mods_idx+2]
+                        output_rel_path = Path(*parts_out) if parts_out else Path(".")
+
+                target_patches_base = output_root / output_rel_path / "Patches"
+                
+                # Ruta equivalente en el archivo para Patches
+                archive_patches_base = None
+                if archive_lang_path:
+                    archive_patches_base = archive_lang_path / output_rel_path / "Patches"
+                
+                # Procesar archivos de patches con estructura DefInjected
+                for root, _, files in os.walk(str(patches_path)):
+                    for file in files:
+                        if file.endswith('.xml'):
+                            file_path = os.path.join(root, file)
+                            results = self.process_patches_file(file_path, file, target_patches_base, archive_patches_base)
+                            patches_files_log.extend(results)
+            
+            if patches_files_log:
+                self.log(f"\nPatches (Parches del Mod)")
+                for line in patches_files_log:
+                    self.log(f"   └── {line}")
+                total_files_processed += len(patches_files_log)
+            
             self.log("\n------------------------------------------------------------")
             self.log(f"Proceso completado! Archivos procesados: {total_files_processed}")
             
             if total_files_processed == 0:
-                QMessageBox.warning(self, "Aviso", "No se encontraron archivos Defs ni Keyed (en inglés).")
+                QMessageBox.warning(self, "Aviso", "No se encontraron archivos Defs, Keyed (en inglés) ni Patches.")
             else:
                 if self.act_readme.isChecked():
                     self.create_readme(output_root)
@@ -685,6 +753,132 @@ class RimWorldTranslatorGUI(QMainWindow):
         if entries:
             return self.save_keyed_translations(entries, file_name, target_dir, archive_dir)
         return []
+
+    def process_patches_file(self, file_path, file_name, target_base_path, archive_base_path=None):
+        """Procesa archivos de Patches para extraer textos traducibles organizados por DefType"""
+        try:
+            tree = ET.parse(file_path)
+            root = tree.getroot()
+        except ET.ParseError:
+            self.log(f"Error al parsear Patch: {file_name}")
+            return []
+
+        translations_by_type = {}
+        
+        # Buscar operaciones de patch que modifiquen Defs
+        for operation in root:
+            if not isinstance(operation.tag, str):
+                continue
+            
+            # Buscar xpath para determinar el tipo de Def
+            xpath_elem = operation.find('xpath')
+            if xpath_elem is not None and xpath_elem.text:
+                xpath = xpath_elem.text.strip()
+                # Extraer el tipo de Def del xpath (ej: "Defs/ThingDef[@Name='XX']" -> ThingDef)
+                match = re.search(r'Defs/(\w+Def)', xpath)
+                if match:
+                    def_type = match.group(1)
+                    
+                    # Extraer defName del xpath si existe
+                    defname_match = re.search(r'defName\s*=\s*["\']([^"\']+)["\']', xpath)
+                    if defname_match:
+                        def_name = defname_match.group(1)
+                    else:
+                        # Intentar extraer de Name o ParentName
+                        name_match = re.search(r'Name\s*=\s*["\']([^"\']+)["\']', xpath)
+                        if name_match:
+                            def_name = name_match.group(1)
+                        else:
+                            # Usar un nombre genérico basado en el archivo
+                            def_name = f"Patch_{file_name.replace('.xml', '')}"
+                    
+                    if def_type not in translations_by_type:
+                        translations_by_type[def_type] = []
+                    
+                    # Buscar nodos value o añadir que contengan textos traducibles
+                    for value_node in operation:
+                        if value_node.tag in ['value', 'li']:
+                            self.extract_recursive(value_node, def_name, translations_by_type[def_type])
+        
+        if translations_by_type:
+            return self.save_patches_translations(translations_by_type, file_name, target_base_path, archive_base_path)
+        return []
+    
+    def save_patches_translations(self, translations_dict, original_filename, target_base_path, archive_base_path=None):
+        """Guarda las traducciones extraídas de patches organizadas por DefType"""
+        results_log = []
+
+        for def_type, entries in translations_dict.items():
+            if not entries:
+                continue
+
+            # Crear estructura Patches/DefInjected/ThingDef/
+            output_dir = target_base_path / "DefInjected" / def_type
+            output_dir.mkdir(parents=True, exist_ok=True)
+            output_file = output_dir / original_filename
+            
+            # Cargar traducciones locales específicas
+            local_translations = {}
+            if archive_base_path:
+                local_file = archive_base_path / "DefInjected" / def_type / original_filename
+                if local_file.exists():
+                    local_translations = self.load_single_xml_translations(local_file)
+
+            existing_translations = {}
+            if output_file.exists():
+                try:
+                    tree = ET.parse(output_file)
+                    root = tree.getroot()
+                    for child in root:
+                        if child.tag and child.text:
+                            existing_translations[child.tag] = child.text.strip()
+                except Exception:
+                    pass
+
+            # Usar la caché global
+            archive_translations = self.global_archive_translations
+
+            # Escribir archivo XML
+            with open(output_file, 'w', encoding='utf-8') as f:
+                f.write('<?xml version="1.0" encoding="UTF-8"?>\n')
+                f.write('<LanguageData>\n')
+                f.write('  \n')
+                
+                used_keys = set()
+                for entry in entries:
+                    key = entry['key']
+                    used_keys.add(key)
+                    original_text = entry['value'].replace('--', '- -')
+                    
+                    val_to_write = existing_translations.get(key, "TODO")
+                    
+                    # Si es TODO, intentar recuperar del archivo
+                    if val_to_write == "TODO" or val_to_write == "":
+                        if key in local_translations:
+                            val_to_write = local_translations[key]
+                        elif key in archive_translations:
+                            val_to_write = archive_translations[key]
+                    
+                    val_to_write = escape(val_to_write)
+
+                    f.write(f'  <!-- EN: {original_text} -->\n')
+                    f.write(f'  <{key}>{val_to_write}</{key}>\n')
+                
+                # Preservar traducciones antiguas (INUTILIZADO)
+                unused_keys = [k for k in existing_translations if k not in used_keys]
+                if unused_keys:
+                    f.write('\n  <!-- INUTILIZADO -->\n')
+                    for k in unused_keys:
+                        val = existing_translations[k]
+                        f.write(f'  <!-- <{k}>{val}</{k}> -->\n')
+                
+                f.write('  \n')
+                f.write('</LanguageData>')
+            
+            action = "Actualizado" if existing_translations else "Generado"
+            results_log.append(f"[{action}] Patches/DefInjected/{def_type}/{original_filename}")
+        
+        return results_log
 
     def save_keyed_translations(self, entries, original_filename, target_dir, archive_dir=None):
         target_dir.mkdir(parents=True, exist_ok=True)
