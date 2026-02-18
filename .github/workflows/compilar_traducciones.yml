@@ -45,11 +45,6 @@ jobs:
             --update-about \
             --reporte
 
-      - name: Preparar paquete beta
-        run: |
-          mkdir -p "$RUNNER_TEMP/dist"
-          tar -cf "$RUNNER_TEMP/dist/Pack_Traducciones_Espanol_Latino.tar" -C "." "Pack Traducciones [Español Latino]"
-
       - name: Obtener última versión
         id: version
         run: |
@@ -68,6 +63,14 @@ jobs:
             NEW_TAG="v1.1.25"
           fi
           echo "new_tag=$NEW_TAG" >> $GITHUB_OUTPUT
+
+      - name: Preparar paquete beta
+        run: |
+          mkdir -p "$RUNNER_TEMP/dist"
+          cd "Pack Traducciones [Español Latino]"
+          zip -r "$RUNNER_TEMP/dist/Pack_Traducciones_Espanol_Latino-${{ steps.version.outputs.new_tag }}.zip" .
+          cd ..
+
 
       - name: Generar release notes
         continue-on-error: true
@@ -101,8 +104,8 @@ jobs:
         uses: softprops/action-gh-release@v2
         with:
           tag_name: ${{ steps.version.outputs.new_tag }}
-          name: ${{ steps.version.outputs.new_tag }}
+          name: ${{ steps.version.outputs.new_tag }} Latest
           body_path: ${{ runner.temp }}/release_notes.md
           prerelease: false
           files: |
-            ${{ runner.temp }}/dist/Pack_Traducciones_Espanol_Latino.tar
+            ${{ runner.temp }}/dist/Pack_Traducciones_Espanol_Latino-${{ steps.version.outputs.new_tag }}.zip
