@@ -76,7 +76,9 @@ jobs:
         continue-on-error: true
         run: |
           python Programas/generar_release_notes.py \
-            --output "$RUNNER_TEMP/release_notes.md"
+            --output "$RUNNER_TEMP/release_notes.md" \
+            --repo "${{ github.repository }}" \
+            --tag "${{ steps.version.outputs.new_tag }}"
 
       - name: Crear release notes por defecto
         if: failure()

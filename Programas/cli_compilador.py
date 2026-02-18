@@ -88,24 +88,53 @@ def bump_tag(last_tag):
     return f"v{major}.{minor}.{patch}"
 
 
+def get_repo_name(repo_root):
+    """Obtiene el nombre del repositorio en formato user/repo desde git"""
+    try:
+        url = subprocess.check_output(
+            ["git", "config", "--get", "remote.origin.url"],
+            cwd=repo_root,
+            text=True,
+            encoding="utf-8",
+        ).strip()
+        
+        # Parsear URLs tipo: https://github.com/user/repo.git o git@github.com:user/repo.git
+        if "github.com" in url:
+            if url.startswith("https://"):
+                # https://github.com/user/repo.git -> user/repo
+                parts = url.replace("https://github.com/", "").replace(".git", "")
+            elif url.startswith("git@"):
+                # git@github.com:user/repo.git -> user/repo
+                parts = url.replace("git@github.com:", "").replace(".git", "")
+            else:
+                return ""
+            return parts
+        return ""
+    except subprocess.CalledProcessError:
+        return ""
+
+
 def generar_release_notes(repo_root, tag):
     output_path = repo_root / "RELEASE_NOTES.md"
     script_path = repo_root / "Programas" / "generar_release_notes.py"
     if not script_path.is_file():
         return False, "No se encontró generar_release_notes.py"
 
+    repo_name = get_repo_name(repo_root)
+    args = [
+        sys.executable,
+        str(script_path),
+        "--output",
+        str(output_path),
+        "--tag",
+        tag,
+    ]
+    
+    if repo_name:
+        args.extend(["--repo", repo_name])
+
     try:
-        subprocess.check_call(
-            [
-                sys.executable,
-                str(script_path),
-                "--output",
-                str(output_path),
-                "--tag",
-                tag,
-            ],
-            cwd=repo_root,
-        )
+        subprocess.check_call(args, cwd=repo_root)
     except subprocess.CalledProcessError as e:
         return False, f"Error generando release notes: {e}"
 
