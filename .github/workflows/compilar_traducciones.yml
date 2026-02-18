@@ -6,6 +6,7 @@ on:
       - master
     paths:
       - "Archivo Traducciones/**"
+      - "Archivo Traducciones Vanilla/**"
   workflow_dispatch:
 
 permissions:
@@ -37,19 +38,29 @@ jobs:
             --limpiar-destino \
             --eliminar-comentarios \
             --update-about \
-            --reporte
+            --reporte \
+            --git
 
       - name: Preparar paquete beta
         run: |
           mkdir -p "$RUNNER_TEMP/dist"
           tar -cf "$RUNNER_TEMP/dist/Pack_Traducciones_Espanol_Latino.tar" -C "." "Pack Traducciones [Español Latino]"
 
-      - name: Generar notas de release
+      - name: Obtener última versión
+        id: version
         run: |
+          if git describe --tags --exact-match 2>/dev/null; then
+            TAG=$(git describe --tags --exact-match)
+          else
+            TAG=$(git describe --tags --abbrev=0 2>/dev/null || echo "v1.1.23")
+          fi
+        if: success()
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: ${{ steps.version.outputs.current_tag }}
+          name: ${{ steps.version.outputs.current_tag }}
           python Programas/generar_release_notes.py \
-            --output "$RUNNER_TEMP/release_notes.md" \
-            --repo "${{ github.repository }}" \
-            --tag "v1.0.${{ github.run_number }}"
+            --output "$RUNNER_TEMP/release_notes.md"
 
       - name: Publicar release
         uses: softprops/action-gh-release@v2
@@ -60,13 +71,14 @@ jobs:
           prerelease: false
           files: |
             ${{ runner.temp }}/dist/Pack_Traducciones_Espanol_Latino.tar
-
-      - name: Commit cambios
+Push cambios compilados
+        if: success()
         run: |
           if [ -n "$(git status --porcelain)" ]; then
             git config user.name "github-actions[bot]"
             git config user.email "github-actions[bot]@users.noreply.github.com"
-            git add .
+            git add -A
+            git commit -m "Actualizar Pack Traducciones [skip ci]" || true
             git commit -m "Compilar traducciones [skip ci]"
             git push
           else
