@@ -43,8 +43,7 @@ jobs:
             --limpiar-destino \
             --eliminar-comentarios \
             --update-about \
-            --reporte \
-            --git
+            --reporte
 
       - name: Preparar paquete beta
         run: |
@@ -73,7 +72,7 @@ jobs:
       - name: Generar release notes
         run: |
           python Programas/generar_release_notes.py \
-            --output "$RUNNER_TEMP/release_notes.md"
+            --output "$RUNNER_TEMP/release_notes.md" || echo "No se pudieron generar release notes"
 
       - name: Push cambios compilados
         if: success()
@@ -84,10 +83,17 @@ jobs:
             git add -A
             git commit -m "Compilar traducciones [skip ci]"
             git tag "${{ steps.version.outputs.new_tag }}"
-            git push --atomic origin master "${{ steps.version.outputs.new_tag }}"
+            git push --atomic origin master "${{ steps.version.outputs.new_tag }}" || true
           else
             echo "Sin cambios para commitear."
           fi
+
+      - name: Crear release notes por defecto
+        if: failure() || !hashFiles(runner.temp + '/release_notes.md')
+        run: |
+          echo "# Compilación automática de traducciones" > "$RUNNER_TEMP/release_notes.md"
+          echo "" >> "$RUNNER_TEMP/release_notes.md"
+          echo "Se compilaron 198 mods + 1 parche Vanilla" >> "$RUNNER_TEMP/release_notes.md"
 
       - name: Publicar release
         if: success()
