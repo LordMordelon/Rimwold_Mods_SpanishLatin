@@ -54,31 +54,31 @@ jobs:
           else
             TAG=$(git describe --tags --abbrev=0 2>/dev/null || echo "v1.1.23")
           fi
+          echo "current_tag=$TAG" >> $GITHUB_OUTPUT
+
+      - name: Generar release notes
+        run: |
+          python Programas/generar_release_notes.py \
+            --output "$RUNNER_TEMP/release_notes.md"
+
+      - name: Publicar release
         if: success()
         uses: softprops/action-gh-release@v2
         with:
           tag_name: ${{ steps.version.outputs.current_tag }}
           name: ${{ steps.version.outputs.current_tag }}
-          python Programas/generar_release_notes.py \
-            --output "$RUNNER_TEMP/release_notes.md"
-
-      - name: Publicar release
-        uses: softprops/action-gh-release@v2
-        with:
-          tag_name: "v1.0.${{ github.run_number }}"
-          name: "v1.0.${{ github.run_number }}"
           body_path: ${{ runner.temp }}/release_notes.md
           prerelease: false
           files: |
             ${{ runner.temp }}/dist/Pack_Traducciones_Espanol_Latino.tar
-Push cambios compilados
+
+      - name: Push cambios compilados
         if: success()
         run: |
           if [ -n "$(git status --porcelain)" ]; then
             git config user.name "github-actions[bot]"
             git config user.email "github-actions[bot]@users.noreply.github.com"
             git add -A
-            git commit -m "Actualizar Pack Traducciones [skip ci]" || true
             git commit -m "Compilar traducciones [skip ci]"
             git push
           else
