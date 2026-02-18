@@ -73,7 +73,7 @@ def get_last_tag(repo_root):
 
 def bump_tag(last_tag):
     if not last_tag:
-        return "v2.0.0"
+        return "v1.1.24"
 
     tag = last_tag.strip()
     if tag.startswith("v"):
@@ -81,7 +81,7 @@ def bump_tag(last_tag):
 
     parts = tag.split(".")
     if len(parts) != 3 or not all(p.isdigit() for p in parts):
-        return "v2.0.0"
+        return "v1.1.24"
 
     major, minor, patch = [int(p) for p in parts]
     patch += 1

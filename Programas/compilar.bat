@@ -1,13 +1,13 @@
 @echo off
 REM ============================================================
 REM Script de Compilacion - Pack Traducciones [Español Latino]
-REM Versión: 2.0.0
+REM Versión: 1.1.24
 REM ============================================================
 
 echo.
 echo ============================================================
 echo   COMPILADOR DE TRADUCCIONES RIMWORLD
-echo   Version 2.0.0 - Soporte Vanilla Patches
+echo   Version 1.1.24 - Soporte Vanilla Patches
 echo ============================================================
 echo.
 
