@@ -54,28 +54,26 @@ jobs:
       - name: Obtener última versión
         id: version
         run: |
-          if git describe --tags --exact-match 2>/dev/null; then
-            TAG=$(git describe --tags --exact-match)
+          LATEST_TAG=$(git describe --tags --abbrev=0 2>/dev/null || echo "v1.1.24")
+          echo "latest_tag=$LATEST_TAG" >> $GITHUB_OUTPUT
+          
+          # Incrementar versión (patch)
+          TAG=$LATEST_TAG
+          if [[ $TAG =~ ^v([0-9]+)\.([0-9]+)\.([0-9]+)$ ]]; then
+            MAJOR=${BASH_REMATCH[1]}
+            MINOR=${BASH_REMATCH[2]}
+            PATCH=${BASH_REMATCH[3]}
+            NEW_PATCH=$((PATCH + 1))
+            NEW_TAG="v${MAJOR}.${MINOR}.${NEW_PATCH}"
           else
-            TAG=$(git describe --tags --abbrev=0 2>/dev/null || echo "v1.1.23")
+            NEW_TAG="v1.1.25"
           fi
-          echo "current_tag=$TAG" >> $GITHUB_OUTPUT
+          echo "new_tag=$NEW_TAG" >> $GITHUB_OUTPUT
 
       - name: Generar release notes
         run: |
           python Programas/generar_release_notes.py \
             --output "$RUNNER_TEMP/release_notes.md"
-
-      - name: Publicar release
-        if: success()
-        uses: softprops/action-gh-release@v2
-        with:
-          tag_name: ${{ steps.version.outputs.current_tag }}
-          name: ${{ steps.version.outputs.current_tag }}
-          body_path: ${{ runner.temp }}/release_notes.md
-          prerelease: false
-          files: |
-            ${{ runner.temp }}/dist/Pack_Traducciones_Espanol_Latino.tar
 
       - name: Push cambios compilados
         if: success()
@@ -85,7 +83,19 @@ jobs:
             git config user.email "github-actions[bot]@users.noreply.github.com"
             git add -A
             git commit -m "Compilar traducciones [skip ci]"
-            git push
+            git tag "${{ steps.version.outputs.new_tag }}"
+            git push --atomic origin master "${{ steps.version.outputs.new_tag }}"
           else
             echo "Sin cambios para commitear."
           fi
+
+      - name: Publicar release
+        if: success()
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: ${{ steps.version.outputs.new_tag }}
+          name: ${{ steps.version.outputs.new_tag }}
+          body_path: ${{ runner.temp }}/release_notes.md
+          prerelease: false
+          files: |
+            ${{ runner.temp }}/dist/Pack_Traducciones_Espanol_Latino.tar
