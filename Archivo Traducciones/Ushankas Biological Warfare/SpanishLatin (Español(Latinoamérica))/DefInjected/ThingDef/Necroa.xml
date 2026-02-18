@@ -15,8 +15,8 @@
   <!-- EN: A barrel full of necroa gas. Ignites upon getting shot, which results in a massive gas explosion infecting everyone around it. -->
   <USH_NecroaBarrel.description>Un barril lleno de gas necroa. Se enciende al recibir un disparo, lo que resulta en una explosión masiva de gas que infecta a todos a su alrededor.</USH_NecroaBarrel.description>
   
-  <!-- EN: necroa archovirus gas -->
-  <USH_NecroaGas.label>gas de archovirus necroa</USH_NecroaGas.label>
+  <!-- EN: necroa arcovirus gas -->
+  <USH_NecroaGas.label>gas de arcovirus necroa</USH_NecroaGas.label>
   <!-- EN: A necroa pathogen gas -->
   <USH_NecroaGas.description>Un gas patógeno de necroa</USH_NecroaGas.description>
   
@@ -41,8 +41,8 @@
   
   <!-- EN: necroa gas missile launcher -->
   <USH_NecroaMissileLauncher.label>lanzamisiles de gas necroa</USH_NecroaMissileLauncher.label>
-  <!-- EN: A military-grade necroa gas missile launcher that fires a single barrage of rockets covering a large area with necroa gas. The turret does not fire until someone activates it. It is very effective against sieges, but less effective against moving targets. A single burst of missiles can severely weaken any siege, potentially killing raiders.\nAn integrated targeting system makes it effective over long distances.\n\nOnce fired, it must cool off for hours and be reloaded to fire again. It's refueled with large quantities of necroa archovirus pathogens. -->
-  <USH_NecroaMissileLauncher.description>Un lanzamisiles de gas necroa de grado militar que dispara una sola andanada de cohetes cubriendo un área grande con gas necroa. La torreta no dispara hasta que alguien la activa. Es muy eficaz contra asedios, pero menos eficaz contra objetivos en movimiento. Una sola ráfaga de misiles puede debilitar gravemente cualquier asedio, matando potencialmente a los asaltantes.\nUn sistema de puntería integrado lo hace efectivo a largas distancias.\n\nUna vez disparado, debe enfriarse durante horas y recargarse para disparar de nuevo. Se reposta con grandes cantidades de patógenos de archovirus necroa.</USH_NecroaMissileLauncher.description>
+  <!-- EN: A military-grade necroa gas missile launcher that fires a single barrage of rockets covering a large area with necroa gas. The turret does not fire until someone activates it. It is very effective against sieges, but less effective against moving targets. A single burst of missiles can severely weaken any siege, potentially killing raiders.\nAn integrated targeting system makes it effective over long distances.\n\nOnce fired, it must cool off for hours and be reloaded to fire again. It's refueled with large quantities of necroa arcovirus pathogens. -->
+  <USH_NecroaMissileLauncher.description>Un lanzamisiles de gas necroa de grado militar que dispara una sola andanada de cohetes cubriendo un área grande con gas necroa. La torreta no dispara hasta que alguien la activa. Es muy eficaz contra asedios, pero menos eficaz contra objetivos en movimiento. Una sola ráfaga de misiles puede debilitar gravemente cualquier asedio, matando potencialmente a los asaltantes.\nUn sistema de puntería integrado lo hace efectivo a largas distancias.\n\nUna vez disparado, debe enfriarse durante horas y recargarse para disparar de nuevo. Se reposta con grandes cantidades de patógenos de arcovirus necroa.</USH_NecroaMissileLauncher.description>
   <!-- EN: Missiles -->
   <USH_NecroaMissileLauncher.comps.CompRefuelable.fuelGizmoLabel>Misiles</USH_NecroaMissileLauncher.comps.CompRefuelable.fuelGizmoLabel>
   <!-- EN: Missiles -->
@@ -61,15 +61,15 @@
   <!-- EN: missile tube -->
   <USH_NecroaMissileLauncherTurret.verbs.Verb_Shoot.label>tubo de misil</USH_NecroaMissileLauncherTurret.verbs.Verb_Shoot.label>
   
-  <!-- EN: necroa archovirus pathogen -->
-  <USH_NecroaPathogen.label>patógeno de archovirus necroa</USH_NecroaPathogen.label>
-  <!-- EN: A necroa archovirus pathogen that's a crucial ingredient in producing biological weapons. It must be kept indoors at freezing temperatures to stay fresh and usable. -->
-  <USH_NecroaPathogen.description>Un patógeno de archovirus necroa que es un ingrediente crucial en la producción de armas biológicas. Debe mantenerse en interiores a temperaturas bajo cero para mantenerse fresco y utilizable.</USH_NecroaPathogen.description>
+  <!-- EN: necroa arcovirus pathogen -->
+  <USH_NecroaPathogen.label>patógeno de arcovirus necroa</USH_NecroaPathogen.label>
+  <!-- EN: A necroa arcovirus pathogen that's a crucial ingredient in producing biological weapons. It must be kept indoors at freezing temperatures to stay fresh and usable. -->
+  <USH_NecroaPathogen.description>Un patógeno de arcovirus necroa que es un ingrediente crucial en la producción de armas biológicas. Debe mantenerse en interiores a temperaturas bajo cero para mantenerse fresco y utilizable.</USH_NecroaPathogen.description>
   
-  <!-- EN: necroa archovirus sample -->
-  <USH_NecroaSample.label>muestra de archovirus necroa</USH_NecroaSample.label>
-  <!-- EN: A sample of necroa archovirus. Can be used as fuel for virus replicator to produce valuable necroa pathogens.\n\nCan be obtained by using disease sampler on a living creature infected with necroa or crafted from necroa pathogens. -->
-  <USH_NecroaSample.description>Una muestra de archovirus necroa. Se puede usar como combustible para el replicador de virus para producir valiosos patógenos de necroa.\n\nSe puede obtener usando un muestreador de enfermedades en una criatura viva infectada con necroa o fabricarse a partir de patógenos de necroa.</USH_NecroaSample.description>
+  <!-- EN: necroa arcovirus sample -->
+  <USH_NecroaSample.label>muestra de arcovirus necroa</USH_NecroaSample.label>
+  <!-- EN: A sample of necroa arcovirus. Can be used as fuel for virus replicator to produce valuable necroa pathogens.\n\nCan be obtained by using disease sampler on a living creature infected with necroa or crafted from necroa pathogens. -->
+  <USH_NecroaSample.description>Una muestra de arcovirus necroa. Se puede usar como combustible para el replicador de virus para producir valiosos patógenos de necroa.\n\nSe puede obtener usando un muestreador de enfermedades en una criatura viva infectada con necroa o fabricarse a partir de patógenos de necroa.</USH_NecroaSample.description>
   
   <!-- EN: necroa gas shell -->
   <USH_NecroaShell.label>proyectil de gas necroa</USH_NecroaShell.label>
