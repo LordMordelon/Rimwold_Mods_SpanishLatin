@@ -1,7 +1,7 @@
-Reporte de Mods Procesados - 2026-02-18 03:48:47
+Reporte de Mods Procesados - 2026-02-18 06:11:00
 ==================================================
 
-Total de mods encontrados: 200
+Total de mods encontrados: 201
 
 Lista de mods:
 - 1trickPwnyta's Anomaly Patch
@@ -198,9 +198,25 @@ Lista de mods:
 - WVC - Work Modes
 - XML Extensions
 - [FSF] FrozenSnowFox Tweaks
+- [FSF]_Advanced_Bionics_Expansion
 - [HRK] Vanilla Expanded Extra Embrasures
 - [HRK]_Vanilla_Expanded_Extra_Embrasures
 - [RH2] Uncle Boris' - Brainwash Chair
 - [sbz] Fridge
 - [sbz] Gravship Storage
 - [sbz] Neat Storage
+
+==================================================
+Errores de compilacion:
+
+1. Archivo: Archivo Traducciones Vanilla/[FSF] Advanced Bionics Expansion/SpanishLatin (Español(Latinoamérica))/DefInjected/ThingDef/FSFABE_Royalty_Royalty_Bionics.xml
+   Motivo: Error procesando XML: not well-formed (invalid token): line 1, column 1
+   Trace:
+Traceback (most recent call last):
+  File "/home/runner/work/Rimwold_Mods_SpanishLatin/Rimwold_Mods_SpanishLatin/Programas/cli_compilador.py", line 363, in copiar_vanilla_patches
+    root = ET.fromstring(content, parser=parser)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.14/x64/lib/python3.11/xml/etree/ElementTree.py", line 1350, in XML
+    parser.feed(text)
+xml.etree.ElementTree.ParseError: not well-formed (invalid token): line 1, column 1
+
