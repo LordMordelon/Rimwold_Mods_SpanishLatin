@@ -2,9 +2,11 @@ import argparse
 import os
 import re
 import shutil
+import subprocess
 import sys
 import traceback
 from datetime import datetime
+from pathlib import Path
 import xml.etree.ElementTree as ET
 from xml.etree.ElementTree import ParseError
 
@@ -43,6 +45,86 @@ def normalizar_nombre_carpeta(nombre: str) -> str:
         return ""
     # Reemplazar espacios por underscores
     return nombre.strip().replace(" ", "_")
+
+
+def run_git(args, cwd=None, text=True):
+    return subprocess.check_output(
+        ["git"] + args,
+        cwd=cwd,
+        text=text,
+        encoding="utf-8" if text else None,
+        errors="replace" if text else None,
+    ).strip()
+
+
+def get_repo_root(cwd):
+    try:
+        return Path(run_git(["rev-parse", "--show-toplevel"], cwd=cwd))
+    except subprocess.CalledProcessError:
+        return None
+
+
+def get_last_tag(repo_root):
+    try:
+        return run_git(["describe", "--tags", "--abbrev=0"], cwd=repo_root)
+    except subprocess.CalledProcessError:
+        return ""
+
+
+def bump_tag(last_tag):
+    if not last_tag:
+        return "v2.0.0"
+
+    tag = last_tag.strip()
+    if tag.startswith("v"):
+        tag = tag[1:]
+
+    parts = tag.split(".")
+    if len(parts) != 3 or not all(p.isdigit() for p in parts):
+        return "v2.0.0"
+
+    major, minor, patch = [int(p) for p in parts]
+    patch += 1
+    return f"v{major}.{minor}.{patch}"
+
+
+def generar_release_notes(repo_root, tag):
+    output_path = repo_root / "RELEASE_NOTES.md"
+    script_path = repo_root / "Programas" / "generar_release_notes.py"
+    if not script_path.is_file():
+        return False, "No se encontró generar_release_notes.py"
+
+    try:
+        subprocess.check_call(
+            [
+                sys.executable,
+                str(script_path),
+                "--output",
+                str(output_path),
+                "--tag",
+                tag,
+            ],
+            cwd=repo_root,
+        )
+    except subprocess.CalledProcessError as e:
+        return False, f"Error generando release notes: {e}"
+
+    return True, f"Release notes generado en {output_path}"
+
+
+def git_commit_and_tag(repo_root, tag):
+    try:
+        run_git(["add", "-A"], cwd=repo_root)
+        status = run_git(["status", "--porcelain"], cwd=repo_root)
+        if not status:
+            return False, "No hay cambios para commitear"
+
+        run_git(["commit", "-m", f"Release {tag}"] , cwd=repo_root)
+        run_git(["tag", tag], cwd=repo_root)
+    except subprocess.CalledProcessError as e:
+        return False, f"Error en git: {e}"
+
+    return True, f"Commit y tag creados: {tag}"
 
 
 def indent_xml(elem, level=0, space="  "):
@@ -503,6 +585,7 @@ def main():
     parser.add_argument("--reporte", action="store_true", help="Genera un reporte de mods compilados (default)")
     parser.add_argument("--sin-reporte", action="store_true", help="No generar reporte de mods compilados")
     parser.add_argument("--reporte-titulo", default="Reporte de Mods Procesados", help="Titulo del reporte")
+    parser.add_argument("--git", action="store_true", help="Genera release notes y hace commit+tag automaticamente")
 
     args = parser.parse_args()
 
@@ -622,6 +705,24 @@ def main():
             ruta_errores = os.path.join(destino, "Reportes", "errores_compilacion.txt")
             if os.path.isfile(ruta_errores):
                 os.remove(ruta_errores)
+
+    if args.git:
+        repo_root = get_repo_root(os.getcwd())
+        if not repo_root:
+            print("ADVERTENCIA: No se detecto repositorio git, omitiendo git/release notes")
+            print(f"Finalizado: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
+            return 0
+
+        nuevo_tag = bump_tag(get_last_tag(repo_root))
+        ok_notes, msg_notes = generar_release_notes(repo_root, nuevo_tag)
+        print(msg_notes)
+        if not ok_notes:
+            return 1
+
+        ok_git, msg_git = git_commit_and_tag(repo_root, nuevo_tag)
+        print(msg_git)
+        if not ok_git:
+            return 1
 
     print(f"Finalizado: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
     return 0

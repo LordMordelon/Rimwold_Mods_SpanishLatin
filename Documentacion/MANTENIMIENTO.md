@@ -155,6 +155,7 @@ Pack Traducciones [Español Latino]/
 - ✓ Función `copiar_vanilla_patches()` procesa carpetas
 - ✓ Función `generar_loadfolders_xml()` crea XML válido
 - ✓ Main() integra todas las piezas
+- ✓ CLI soporta release notes + commit + tag con `--git`
 
 **Testing pendiente:**
 - [ ] Ejecutar CLI con mods reales

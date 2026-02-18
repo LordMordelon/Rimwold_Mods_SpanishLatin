@@ -66,7 +66,8 @@ def parse_changes(base_ref):
 
 def extract_mod_name(path):
     path = path.replace("\\", "/")
-    if not path.startswith("Archivo Traducciones/"):
+    roots = ("Archivo Traducciones/", "Archivo Traducciones Vanilla/")
+    if not any(path.startswith(root) for root in roots):
         return ""
     parts = PurePosixPath(path).parts
     if len(parts) < 2:
@@ -137,8 +138,8 @@ def main():
         sections.append("\n".join([title] + items))
 
     add_section("Añadido:", "Añadidos:", added)
-    add_section("Actualizado:", "Actualizaciones:", deleted)
-    add_section("Correccion:", "Correcciones:", modified)
+    add_section("Actualizado:", "Actualizaciones:", modified)
+    add_section("Correccion:", "Correcciones:", deleted)
 
     if not sections:
         lines = ["Sin cambios registrados"]

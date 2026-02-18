@@ -56,7 +56,8 @@ python cli_compilador.py \
   --destino "C:/RimWorld/Mods/Pack Traducciones [ES]" \
   --idioma "SpanishLatin (Español(Latinoamérica))" \
   --limpiar-destino \
-  --eliminar-comentarios
+  --eliminar-comentarios \
+  --git
 ```
 
 ---
@@ -138,6 +139,7 @@ RESUMEN:
 | `--update-about` | Actualiza About.xml con forceLoadAfter | 🟡 Opcional |
 | `--reporte` | Genera reporte de mods procesados | ✅ Sí (default) |
 | `--sin-reporte` | NO generar reporte | ❌ No |
+| `--git` | Genera release notes + commit + tag automaticamente | ✅ Sí |
 
 ---
 

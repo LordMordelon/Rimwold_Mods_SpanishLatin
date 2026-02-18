@@ -40,7 +40,8 @@ python cli_compilador.py ^
   --idioma "%IDIOMA%" ^
   --limpiar-destino ^
   --eliminar-comentarios ^
-  --update-about
+    --update-about ^
+    --git
 
 REM Verificar resultado
 if %ERRORLEVEL% equ 0 (

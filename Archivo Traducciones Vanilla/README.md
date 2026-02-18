@@ -30,7 +30,7 @@ Archivo Traducciones Vanilla/
 
 ## 📝 Nominación de Carpetas
 
-**IMPORTANTE:** Usa el **nombre exacto** del mod tal como aparece en `Archivo Traducciones/`
+**IMPORTANTE:** Usa el **nombre exacto** del mod tal como aparece en `Archivo Traducciones/`.
 
 El compilador automáticamente convertirá espacios a underscores al generar el Pack final.
 

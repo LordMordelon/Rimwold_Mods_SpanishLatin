@@ -22,6 +22,7 @@ Flujo general de trabajo:
 Herramientas:
 - compilador.py (GUI): uso local con interfaz.
 - cli_compilador.py (CLI): uso automatizado sin interfaz, genera reportes de mods y errores.
+	- Modo `--git`: genera release notes y crea commit/tag automaticamente.
 
 Automatizacion:
 - GitHub Actions ejecuta el CLI en cada push a main.
