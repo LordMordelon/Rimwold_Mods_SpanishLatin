@@ -200,8 +200,7 @@ def copiar_traducciones(origen, destino_root, nombre_subcarpeta, limpiar_destino
     nombre_destino = normalizar_nombre_idioma(nombre_subcarpeta)
     ruta_destino_subcarpeta = os.path.join(destino_languages, nombre_destino)
 
-    if limpiar_destino and os.path.isdir(ruta_destino_subcarpeta):
-        shutil.rmtree(ruta_destino_subcarpeta)
+    # Ya no limpiamos aquí, se hace al inicio del main()
 
     mods_a_procesar = [
         d for d in os.listdir(origen)
@@ -434,13 +433,17 @@ def reorganizar_a_common(destino_root, nombre_subcarpeta):
     ruta_common = os.path.join(destino_root, "Common")
     ruta_languages_nueva = os.path.join(ruta_common, "Languages")
     
-    if os.path.isdir(ruta_languages_actual) and not os.path.exists(ruta_common):
-        # Mover Languages/ a Common/Languages/
-        os.makedirs(ruta_common, exist_ok=True)
-        shutil.move(ruta_languages_actual, ruta_languages_nueva)
-        return True, f"Contenido movido a Common/Languages/"
+    if not os.path.isdir(ruta_languages_actual):
+        return False, "No se encontró Languages/ para mover"
     
-    return False, "No se encontró Languages/ o Common/ ya existe"
+    # Si Common/ ya existe, eliminarlo primero
+    if os.path.exists(ruta_common):
+        shutil.rmtree(ruta_common)
+    
+    # Crear Common/ y mover Languages/
+    os.makedirs(ruta_common, exist_ok=True)
+    shutil.move(ruta_languages_actual, ruta_languages_nueva)
+    return True, f"Contenido movido a Common/Languages/"
 
 
 def actualizar_about_xml(destino_root, origen, mods_procesados):
@@ -610,6 +613,23 @@ def main():
             for item in idiomas:
                 print(f"- {item}")
             return 2
+
+    # Limpiar destino si se especifica (excepto About/ y Reportes/)
+    if args.limpiar_destino:
+        carpetas_a_eliminar = ["Languages", "Common", "Mods"]
+        archivos_a_eliminar = ["LoadFolders.xml"]
+        
+        for carpeta in carpetas_a_eliminar:
+            ruta_carpeta = os.path.join(destino, carpeta)
+            if os.path.isdir(ruta_carpeta):
+                print(f"Limpiando: {carpeta}/")
+                shutil.rmtree(ruta_carpeta)
+        
+        for archivo in archivos_a_eliminar:
+            ruta_archivo = os.path.join(destino, archivo)
+            if os.path.isfile(ruta_archivo):
+                print(f"Eliminando: {archivo}")
+                os.remove(ruta_archivo)
 
     # Procesar traducciones normales (Archivo Traducciones)
     print(f"\n[1/4] Procesando traducciones normales desde: {origen}")
