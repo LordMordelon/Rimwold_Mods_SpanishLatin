@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <DMS_BionicShock.comps.HediffComp_RemoveIfOtherHediff.message>el síndrome biónico ha sido curado</DMS_BionicShock.comps.HediffComp_RemoveIfOtherHediff.message>
+  <DMS_BionicShock.description>Un síndrome que ocurre comúnmente en mundos pre-espaciales cuando se instalan una o más biónicas con interfaz neuronal. Debido a la falta de receptores biológicos, el cuerpo rechazará temporalmente la conexión biónica con el sistema nervioso.\n\nHay cinco clasificaciones de gravedad para estos síntomas.</DMS_BionicShock.description>
+  <DMS_BionicShock.label>Síndrome del miembro xeno</DMS_BionicShock.label>
+  <DMS_BionicShock.stages.Initial.label>Inicial</DMS_BionicShock.stages.Initial.label>
+  <DMS_BionicShock.stages.LV1_Initial.label>NV.1 Inicial</DMS_BionicShock.stages.LV1_Initial.label>
+  <DMS_BionicShock.stages.LV2_Minor.label>NV.2 Menor</DMS_BionicShock.stages.LV2_Minor.label>
+  <DMS_BionicShock.stages.LV3_Serious.label>NV.3 Grave</DMS_BionicShock.stages.LV3_Serious.label>
+  <DMS_BionicShock.stages.LV4_Catatonic.label>NV.4 Catatónico</DMS_BionicShock.stages.LV4_Catatonic.label>
+  <DMS_BionicShock.stages.LV5_Disabled.label>NV.5 Incapacitado</DMS_BionicShock.stages.LV5_Disabled.label>
+  <DMS_BionicShockRemove.comps.HediffComp_RemoveIfOtherHediff.message>El síndrome del miembro fantasma ha sido curado</DMS_BionicShockRemove.comps.HediffComp_RemoveIfOtherHediff.message>
+  <DMS_BionicShockRemove.description>Un síndrome que ocurre comúnmente en mundos pre-espaciales cuando se retiran las biónicas con interfaz neuronal.</DMS_BionicShockRemove.description>
+  <DMS_BionicShockRemove.label>Síndrome del miembro fantasma</DMS_BionicShockRemove.label>
+  <DMS_BionicShockRemove.stages.initial.label>inicial</DMS_BionicShockRemove.stages.initial.label>
+  <DMS_BionicShockRemove.stages.pain.label>dolor</DMS_BionicShockRemove.stages.pain.label>
+  <DMS_FilterShock.description>Un síndrome causado por una disonancia cognitiva creada por el conflicto entre la mente del usuario y las biónicas instaladas. Este conflicto interno causa un trauma emocional mientras el usuario lucha por adaptarse a su nueva línea de base.</DMS_FilterShock.description>
+  <DMS_FilterShock.label>Desalineación emocional</DMS_FilterShock.label>
+  <DMS_FilterShock.stages.catatonic.label>catatónico</DMS_FilterShock.stages.catatonic.label>
+  <DMS_MechlinkFatalTrigger.description>Debido a la inestabilidad de este dispositivo, se creó este protocolo de seguridad para expulsar y destruir automáticamente el enlace mecánico desactivado antes de que pueda causar un daño catastrófico al cerebro del usuario.</DMS_MechlinkFatalTrigger.description>
+  <DMS_MechlinkFatalTrigger.label>Gatillo fatal</DMS_MechlinkFatalTrigger.label>
+  <DMS_MechlinkKillSwitch.description>Este dispositivo destruirá el enlace mecánico sobrecargando la interfaz neuronal después de la muerte del usuario.</DMS_MechlinkKillSwitch.description>
+  <DMS_MechlinkKillSwitch.label>Interruptor de apagado</DMS_MechlinkKillSwitch.label>
+  <DMS_MechlinkOverload.description>Sistema de Computación y Control Neuro-Auxiliar, el protocolo único de este sistema permite al usuario conectarse con la tecnología de mecanoides y automatroides existente.</DMS_MechlinkOverload.description>
+  <DMS_MechlinkOverload.label>N.A.C.S.</DMS_MechlinkOverload.label>
+  <DMS_MechlinkOverload.stages.danger.label>peligro</DMS_MechlinkOverload.stages.danger.label>
+  <DMS_MechlinkOverload.stages.high.label>alto</DMS_MechlinkOverload.stages.high.label>
+  <DMS_MechlinkOverload.stages.low.label>bajo</DMS_MechlinkOverload.stages.low.label>
+  <DMS_MechlinkOverload.stages.medium.label>medio</DMS_MechlinkOverload.stages.medium.label>
+  <DMS_MechlinkOverload.stages.overloaded.label>sobrecargado</DMS_MechlinkOverload.stages.overloaded.label>
+  <DMS_MechlinkOverload.stages.very_high.label>muy alto</DMS_MechlinkOverload.stages.very_high.label>
+  <DMS_MechlinkRejection.description>Debido a la tecnología limitada y la falta de nanitos médicos, existen algunos efectos secundarios después de instalar este enlace mecánico. Tomará algún tiempo antes de que el sistema nervioso del implantado se adapte a su presencia.</DMS_MechlinkRejection.description>
+  <DMS_MechlinkRejection.label>Rechazo de mecaenlace</DMS_MechlinkRejection.label>
+  <DMS_MechlinkRejection.stages.fever.label>fiebre</DMS_MechlinkRejection.stages.fever.label>
+  <DMS_SyntheticRejection.comps.HediffComp_RemoveIfOtherHediff.message>El síndrome de rechazo biónico ha sido curado.</DMS_SyntheticRejection.comps.HediffComp_RemoveIfOtherHediff.message>
+  <DMS_SyntheticRejection.description>Debido a las modificaciones del sistema circulatorio, las mejoras biónicas sintéticas pueden ser rechazadas temporalmente por el cuerpo. El efecto no dura mucho y la capacidad del cuerpo para combatir infecciones se reduce durante su duración.</DMS_SyntheticRejection.description>
+  <DMS_SyntheticRejection.label>Rechazo sintético</DMS_SyntheticRejection.label>
+  <DMS_SyntheticRejection.stages.fever.label>fiebre</DMS_SyntheticRejection.stages.fever.label>
+  <DMS_WeaponInprint.description>Este sintético está integrado con un mecanismo adaptativo que permite a su cuerpo desarrollar acciones reflejas basadas en su experiencia de manejo y aumentar la densidad de los músculos artificiales en partes específicas para adaptarse mejor al arma. Como resultado, un MG-1 puede lograr una efectividad de combate superior cuando opera el arma a la que está adaptado.\n\nSin embargo, los problemas de sobreajuste en el sistema le impiden calibrarse a una sola arma, generalmente la primera arma equipada al iniciarse.</DMS_WeaponInprint.description>
+  <DMS_WeaponInprint.descriptionShort>Se adapta a armas específicas y tiene una mejor efectividad de combate al usar armas adaptadas. El efecto aumentará con el tiempo.</DMS_WeaponInprint.descriptionShort>
+  <DMS_WeaponInprint.label>calibración</DMS_WeaponInprint.label>
+  <DMS_WeaponInprint.stages.acquaintance.label>conocimiento</DMS_WeaponInprint.stages.acquaintance.label>
+  <DMS_WeaponInprint.stages.adaptation.label>adaptación</DMS_WeaponInprint.stages.adaptation.label>
+  <DMS_WeaponInprint.stages.experienced.label>experimentado</DMS_WeaponInprint.stages.experienced.label>
+  <DMS_WeaponInprint.stages.maximized.label>maximizado</DMS_WeaponInprint.stages.maximized.label>
+  <DMS_WeaponInprint.stages.optimization.label>optimización</DMS_WeaponInprint.stages.optimization.label>
+  <DMS_WeaponInprint.stages.specialized.label>especializado</DMS_WeaponInprint.stages.specialized.label>
+</LanguageData>

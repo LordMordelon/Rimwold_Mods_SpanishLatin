@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <ASF_AutomaticallyOpenContentsTab>Abrir automáticamente la pestaña de contenido</ASF_AutomaticallyOpenContentsTab>
+  <ASF_AutomaticallyOpenContentsTabDescription>Al seleccionar un edificio de almacenamiento se abre automáticamente su pestaña de Contenido con esto activado, o los ajustes de almacenamiento cuando está vacío.</ASF_AutomaticallyOpenContentsTabDescription>
+  <ASF_DefaultLabelStyleDescription>Qué mostrar para las etiquetas de almacenamiento en el mapa. Los edificios individuales pueden anular esto en su configuración.</ASF_DefaultLabelStyleDescription>
+  <ASF_DefaultLabelStyleSetting>Estilo de etiqueta predeterminado</ASF_DefaultLabelStyleSetting>
+  <ASF_DropSpecificCount>Soltar cantidad específica</ASF_DropSpecificCount>
+  <ASF_Empty>vacío</ASF_Empty>
+  <ASF_HideLabelsMouseOverDescription>Afecta a las etiquetas que se muestran en el mapa, como [ cantidad ] o Objeto xY. Solo se muestran cuando se señalan con el ratón cuando está activado. Es anulado por el mod Toggleable Overlays cuando ese mod está activado.</ASF_HideLabelsMouseOverDescription>
+  <ASF_HideLabelsMouseOverSetting>Ocultar etiquetas hasta pasar el ratón</ASF_HideLabelsMouseOverSetting>
+  <ASF_HideLabelsZoomDescription>Afecta a las etiquetas que se muestran en el mapa, como [ cantidad ] o Objeto xY. Solo se muestran a un nivel de zoom cercano cuando está activado.</ASF_HideLabelsZoomDescription>
+  <ASF_HideLabelsZoomSetting>Ocultar etiquetas al alejar el zoom</ASF_HideLabelsZoomSetting>
+  <ASF_MapFilled>Has llenado el mapa.</ASF_MapFilled>
+  <ASF_MaxNumStacks>número máximo de pilas por celda</ASF_MaxNumStacks>
+  <ASF_MaxNumStacksDesc>El número máximo de pilas que pueden ir en un solo espacio. Los edificios de dos celdas de tamaño tendrán el doble de capacidad de almacenamiento.\n\nTen en cuenta que otros factores pueden reducir la capacidad de almacenamiento.</ASF_MaxNumStacksDesc>
+  <ASF_MaxZoomLevelDescription>El nivel de zoom máximo para el que se muestran las etiquetas. Se ocultan a partir de este punto.</ASF_MaxZoomLevelDescription>
+  <ASF_MaxZoomLevelSetting>Nivel de zoom máximo</ASF_MaxZoomLevelSetting>
+  <ASF_OtherItems>Otros objetos</ASF_OtherItems>
+  <ASF_SettingContentsTabDescription>Es la pestaña que dice 'Contenido' en el panel inferior izquierdo con un edificio seleccionado. 'Ninguno' muestra el contenido de la forma original a través de los iconos 'Seleccionar x' en la barra de la derecha en lugar de la pestaña.</ASF_SettingContentsTabDescription>
+  <ASF_SettingContentsTabSelection>Pestaña de contenido a mostrar en edificios de almacenamiento adaptativo:</ASF_SettingContentsTabSelection>
+  <ASF_StorageCapacityDescriptionCustomized>El número máximo de pilas que caben en este edificio de almacenamiento para todas las celdas combinadas.\n\n{sizeX} * {sizeZ} celdas con capacidades configuradas individualmente.</ASF_StorageCapacityDescriptionCustomized>
+  <ASF_StorageCapacityDescriptionStacksPerCell>El número máximo de pilas que caben en este edificio de almacenamiento para todas las celdas combinadas.\n\n{sizeX} * {sizeZ} celdas con una capacidad máxima de {maxItemsInCell} pilas por celda.</ASF_StorageCapacityDescriptionStacksPerCell>
+  <ASF_TotalStorageCapacity>capacidad total de almacenamiento</ASF_TotalStorageCapacity>
+  <ASF_XStacks>{0} pilas</ASF_XStacks>
+</LanguageData>

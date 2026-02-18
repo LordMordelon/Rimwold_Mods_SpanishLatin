@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <WVC_MechanoidScavengeZone>Zona de recolección de mecanoides</WVC_MechanoidScavengeZone>
+  <WVC_MechanoidScavengeZoneDesc>En el modo de trabajo "Recolección de chatarra", los mecanoides buscarán recursos útiles en esta zona.</WVC_MechanoidScavengeZoneDesc>
+  <WVC_MechanoidScavengeZone_CellsCount>Celdas: {0} | Mínimo permitido: {1}</WVC_MechanoidScavengeZone_CellsCount>
+  <WVC_MechanoidShutdownZone>Zona de apagado de mecanoides</WVC_MechanoidShutdownZone>
+  <WVC_MechanoidShutdownZoneDesc>Los mecanoides volverán aquí antes de apagarse.</WVC_MechanoidShutdownZoneDesc>
+  <WVC_ShutdownZone_AllowAmbush>Tipo emboscada</WVC_ShutdownZone_AllowAmbush>
+  <WVC_ShutdownZone_AllowCombatants>Tipo combate</WVC_ShutdownZone_AllowCombatants>
+  <WVC_ShutdownZone_AllowSafe>Tipo seguro</WVC_ShutdownZone_AllowSafe>
+  <WVC_ShutdownZone_AllowWorkers>Tipo trabajo</WVC_ShutdownZone_AllowWorkers>
+  <WVC_ShutdownZone_BasicDesc>Responsable de si los mecanoides con este tipo de trabajo podrán apagarse aquí.</WVC_ShutdownZone_BasicDesc>
+  <WVC_WM_ShutdownGroup>apagado</WVC_WM_ShutdownGroup>
+  <WVC_WorkModes_AssignToPawnEscortAssigned>{0} asignado para escoltar a {1}.</WVC_WorkModes_AssignToPawnEscortAssigned>
+  <WVC_WorkModes_AssignToPawnEscortDesc>{0} asignado escolta {1}\n\nTe permite especificar al mecanoide qué colono escoltará.\n\n{0} no puede seguir a nadie que no sea un supervisor en una caravana o en mapas que no sean el hogar.</WVC_WorkModes_AssignToPawnEscortDesc>
+  <WVC_WorkModes_AssignToPawnEscortLabel>Asignar para escoltar</WVC_WorkModes_AssignToPawnEscortLabel>
+  <WVC_WorkModes_AssignToPawnEscortLabelReset>Restablecer peón escoltado</WVC_WorkModes_AssignToPawnEscortLabelReset>
+  <WVC_WorkModes_AssignToPawnEscortNoLongerEscort>{0} ya no escolta a {1}.</WVC_WorkModes_AssignToPawnEscortNoLongerEscort>
+  <WVC_WorkModes_ChangeModDefaultMessage>{0} no está investigado. Modo cambiado a {1}.</WVC_WorkModes_ChangeModDefaultMessage>
+  <WVC_WorkModes_ChosenGroupDesc>Te permite designar un grupo de mecanoides que volverán a esta zona.</WVC_WorkModes_ChosenGroupDesc>
+  <WVC_WorkModes_ChosenGroupLabel>Asignar grupo</WVC_WorkModes_ChosenGroupLabel>
+  <WVC_WorkModes_ChosenMechanitorDesc>Te permite asignar un dueño de zona.</WVC_WorkModes_ChosenMechanitorDesc>
+  <WVC_WorkModes_ChosenMechanitorLabel>Asignar mecanitor</WVC_WorkModes_ChosenMechanitorLabel>
+  <WVC_WorkModes_CurrentZoneGroup>Grupo actual</WVC_WorkModes_CurrentZoneGroup>
+  <WVC_WorkModes_CurrentZoneOwner>Dueño actual</WVC_WorkModes_CurrentZoneOwner>
+  <WVC_WorkModes_DormantModeStatPart>En modo de apagado x{0}%</WVC_WorkModes_DormantModeStatPart>
+  <WVC_WorkModes_EscortsAssignTargetLabel>Asignado a escoltas {0}</WVC_WorkModes_EscortsAssignTargetLabel>
+  <WVC_WorkModes_GroupIsChosen>Grupo {0} asignado a {1}.</WVC_WorkModes_GroupIsChosen>
+  <WVC_WorkModes_MechanitorIsChosen>{0} asignado como dueño de {1}.</WVC_WorkModes_MechanitorIsChosen>
+  <WVC_WorkModes_ModeTechnologyRequirement>Tecnologías requeridas:</WVC_WorkModes_ModeTechnologyRequirement>
+  <WVC_WorkModes_Off>Apagado</WVC_WorkModes_Off>
+  <WVC_WorkModes_On>Encendido</WVC_WorkModes_On>
+  <WVC_WorkModes_ResetOwnerDesc>Te permite restablecer un dueño de zona.</WVC_WorkModes_ResetOwnerDesc>
+  <WVC_WorkModes_ResetOwnerLabel>Restablecer dueño</WVC_WorkModes_ResetOwnerLabel>
+  <WVC_WorkModes_ResetOwnerMessage>La configuración de {0} se ha restablecido a los valores predeterminados.</WVC_WorkModes_ResetOwnerMessage>
+  <WVC_WorkModes_RestrictZoneByGroupDesc>Te permite limitar la elección de zonas del mecanoide a aquellas asignadas específicamente a su grupo.</WVC_WorkModes_RestrictZoneByGroupDesc>
+  <WVC_WorkModes_RestrictZoneByGroupInspect>Usa solo zonas de su grupo</WVC_WorkModes_RestrictZoneByGroupInspect>
+  <WVC_WorkModes_RestrictZoneByGroupLabel>Usar solo zonas de grupo</WVC_WorkModes_RestrictZoneByGroupLabel>
+  <WVC_WorkModes_TechnologyAllowsModes>Permite usar nuevos modos:</WVC_WorkModes_TechnologyAllowsModes>
+  <WVC_WorkModes_TechnologyAllowsModes_Desc> - &lt;color=#00cccc&gt;{0}&lt;/color&gt;: {1}</WVC_WorkModes_TechnologyAllowsModes_Desc>
+  <WVC_WorkModes_allowAllGroups>Todos los grupos permitidos</WVC_WorkModes_allowAllGroups>
+  <WVC_WorkModes_allowAllGroupsDesc>Responsable de si todos los mecanoides, independientemente del grupo, pueden usar esta zona.</WVC_WorkModes_allowAllGroupsDesc>
+</LanguageData>

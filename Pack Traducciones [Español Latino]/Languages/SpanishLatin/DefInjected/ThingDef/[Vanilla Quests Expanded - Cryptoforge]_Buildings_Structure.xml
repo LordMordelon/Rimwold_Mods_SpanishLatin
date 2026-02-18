@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <VQE_AncientAirlock.description>Una puerta de esclusa de aire fuertemente reforzada. Es lenta de abrir pero muy resistente. La puerta requiere paredes a ambos lados para funcionar.</VQE_AncientAirlock.description>
+  <VQE_AncientAirlock.label>esclusa de aire antigua</VQE_AncientAirlock.label>
+  <VQE_AncientAirlock_Large.description>Una puerta de esclusa de aire grande y fuertemente reforzada. Es lenta de abrir pero muy resistente. La puerta requiere paredes a ambos lados para funcionar.</VQE_AncientAirlock_Large.description>
+  <VQE_AncientAirlock_Large.label>esclusa de aire antigua grande</VQE_AncientAirlock_Large.label>
+  <VQE_CryptoshipHull1x1Left.description>Un fragmento del casco exterior de la nave criptoforja.</VQE_CryptoshipHull1x1Left.description>
+  <VQE_CryptoshipHull1x1Left.label>casco de criptonave</VQE_CryptoshipHull1x1Left.label>
+  <VQE_CryptoshipHull1x1Right.description>Un fragmento del casco exterior de la nave criptoforja.</VQE_CryptoshipHull1x1Right.description>
+  <VQE_CryptoshipHull1x1Right.label>casco de criptonave</VQE_CryptoshipHull1x1Right.label>
+  <VQE_CryptoshipHull2x1Left.description>Un fragmento del casco exterior de la nave criptoforja.</VQE_CryptoshipHull2x1Left.description>
+  <VQE_CryptoshipHull2x1Left.label>casco de criptonave</VQE_CryptoshipHull2x1Left.label>
+  <VQE_CryptoshipHull2x1Right.description>Un fragmento del casco exterior de la nave criptoforja.</VQE_CryptoshipHull2x1Right.description>
+  <VQE_CryptoshipHull2x1Right.label>casco de criptonave</VQE_CryptoshipHull2x1Right.label>
+  <VQE_CryptoshipHull3x1Left.description>Un fragmento del casco exterior de la nave criptoforja.</VQE_CryptoshipHull3x1Left.description>
+  <VQE_CryptoshipHull3x1Left.label>casco de criptonave</VQE_CryptoshipHull3x1Left.label>
+  <VQE_CryptoshipHull3x1Right.description>Un fragmento del casco exterior de la nave criptoforja.</VQE_CryptoshipHull3x1Right.description>
+  <VQE_CryptoshipHull3x1Right.label>casco de criptonave</VQE_CryptoshipHull3x1Right.label>
+  <VQE_ForcedAncientAirlock.description>Una puerta de esclusa de aire fuertemente reforzada. Ha sido forzada para abrirse y no se puede volver a cerrar.</VQE_ForcedAncientAirlock.description>
+  <VQE_ForcedAncientAirlock.label>esclusa de aire antigua forzada</VQE_ForcedAncientAirlock.label>
+  <VQE_ForcedAncientAirlock_Large.description>Una puerta de esclusa de aire grande y fuertemente reforzada. Ha sido forzada para abrirse y no se puede volver a cerrar.</VQE_ForcedAncientAirlock_Large.description>
+  <VQE_ForcedAncientAirlock_Large.label>esclusa de aire antigua grande forzada</VQE_ForcedAncientAirlock_Large.label>
+  <VQE_FragileFrozenShipHull.description>Una pared de casco de nave impasable. Las grietas y el daño del impacto permiten que sea destruida. Capaz de sostener un techo.</VQE_FragileFrozenShipHull.description>
+  <VQE_FragileFrozenShipHull.label>casco de nave congelado frágil</VQE_FragileFrozenShipHull.label>
+  <VQE_FrozenShipHull.description>Una pared de casco de nave impasable e indestructible. Capaz de sostener un techo.</VQE_FrozenShipHull.description>
+  <VQE_FrozenShipHull.label>casco de nave congelado</VQE_FrozenShipHull.label>
+  <VQE_JammedAncientAirlock.comps.CompJammedAirlock.activateDescString>Elige a alguien para forzar la apertura de esta esclusa de aire antigua.</VQE_JammedAncientAirlock.comps.CompJammedAirlock.activateDescString>
+  <VQE_JammedAncientAirlock.comps.CompJammedAirlock.activateLabelString>Forzar apertura...</VQE_JammedAncientAirlock.comps.CompJammedAirlock.activateLabelString>
+  <VQE_JammedAncientAirlock.comps.CompJammedAirlock.activatingString>forzando la apertura de la esclusa de aire antigua: {1}s</VQE_JammedAncientAirlock.comps.CompJammedAirlock.activatingString>
+  <VQE_JammedAncientAirlock.comps.CompJammedAirlock.activatingStringPending>forzando la apertura de la esclusa de aire antigua</VQE_JammedAncientAirlock.comps.CompJammedAirlock.activatingStringPending>
+  <VQE_JammedAncientAirlock.comps.CompJammedAirlock.guiLabelString>Elige quién debe hacer esto</VQE_JammedAncientAirlock.comps.CompJammedAirlock.guiLabelString>
+  <VQE_JammedAncientAirlock.comps.CompJammedAirlock.jobString>Forzar la apertura de esta esclusa de aire antigua</VQE_JammedAncientAirlock.comps.CompJammedAirlock.jobString>
+  <VQE_JammedAncientAirlock.comps.CompJammedAirlock.messageCompletedString>{PAWN_nameDef} ha forzado con éxito la apertura de la esclusa de aire antigua.</VQE_JammedAncientAirlock.comps.CompJammedAirlock.messageCompletedString>
+  <VQE_JammedAncientAirlock.description>Una puerta de esclusa de aire fuertemente reforzada. Debido a un mal funcionamiento o daño, necesita ser forzada para abrirse. Es lenta de abrir pero muy resistente. La puerta requiere paredes a ambos lados para funcionar.</VQE_JammedAncientAirlock.description>
+  <VQE_JammedAncientAirlock.label>esclusa de aire antigua atascada</VQE_JammedAncientAirlock.label>
+  <VQE_JammedAncientAirlock_Large.comps.CompJammedAirlock.activateDescString>Elige a alguien para forzar la apertura de esta esclusa de aire antigua grande.</VQE_JammedAncientAirlock_Large.comps.CompJammedAirlock.activateDescString>
+  <VQE_JammedAncientAirlock_Large.comps.CompJammedAirlock.activateLabelString>Forzar apertura...</VQE_JammedAncientAirlock_Large.comps.CompJammedAirlock.activateLabelString>
+  <VQE_JammedAncientAirlock_Large.comps.CompJammedAirlock.activatingString>forzando la apertura de la esclusa de aire antigua grande: {1}s</VQE_JammedAncientAirlock_Large.comps.CompJammedAirlock.activatingString>
+  <VQE_JammedAncientAirlock_Large.comps.CompJammedAirlock.activatingStringPending>forzando la apertura de la esclusa de aire antigua grande</VQE_JammedAncientAirlock_Large.comps.CompJammedAirlock.activatingStringPending>
+  <VQE_JammedAncientAirlock_Large.comps.CompJammedAirlock.guiLabelString>Elige quién debe hacer esto</VQE_JammedAncientAirlock_Large.comps.CompJammedAirlock.guiLabelString>
+  <VQE_JammedAncientAirlock_Large.comps.CompJammedAirlock.jobString>Forzar la apertura de esta esclusa de aire antigua grande</VQE_JammedAncientAirlock_Large.comps.CompJammedAirlock.jobString>
+  <VQE_JammedAncientAirlock_Large.comps.CompJammedAirlock.messageCompletedString>{PAWN_nameDef} ha forzado con éxito la apertura de la esclusa de aire antigua grande.</VQE_JammedAncientAirlock_Large.comps.CompJammedAirlock.messageCompletedString>
+  <VQE_JammedAncientAirlock_Large.description>Una puerta de esclusa de aire grande y fuertemente reforzada. Debido a un mal funcionamiento o daño, necesita ser forzada para abrirse. Es lenta de abrir pero muy resistente. La puerta requiere paredes a ambos lados para funcionar.</VQE_JammedAncientAirlock_Large.description>
+  <VQE_JammedAncientAirlock_Large.label>esclusa de aire antigua grande atascada</VQE_JammedAncientAirlock_Large.label>
+</LanguageData>

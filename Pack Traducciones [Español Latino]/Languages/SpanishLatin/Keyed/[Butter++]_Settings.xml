@@ -1,0 +1,119 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <ButterPlusPlus_AllowSlowdown>Permitir ralentización</ButterPlusPlus_AllowSlowdown>
+  <ButterPlusPlus_AllowSlowdown_Desc>Ralentiza el juego para alcanzar los FPS objetivo.</ButterPlusPlus_AllowSlowdown_Desc>
+  <ButterPlusPlus_CompatibilityMode>Modo de compatibilidad</ButterPlusPlus_CompatibilityMode>
+  <ButterPlusPlus_CompatibilityMode_Desc>Usa un salto de ticks más simple sin división de ticks.</ButterPlusPlus_CompatibilityMode_Desc>
+  <ButterPlusPlus_CompatibilityMode_Warning>Habilita esto solo si experimentas problemas con otros mods o megacolonias extremas. Considera reportar problemas al autor del mod primero. Esta es una solución temporal.</ButterPlusPlus_CompatibilityMode_Warning>
+  <ButterPlusPlus_Info_HowItWorks>Cómo funciona</ButterPlusPlus_Info_HowItWorks>
+  <ButterPlusPlus_Info_HowItWorks_Line1>Los ticks pesados se dividen en múltiples cuadros.</ButterPlusPlus_Info_HowItWorks_Line1>
+  <ButterPlusPlus_Info_HowItWorks_Line2>Opcionalmente, ralentiza el juego para mantener los FPS objetivo.</ButterPlusPlus_Info_HowItWorks_Line2>
+  <ButterPlusPlus_Info_MadeBy>Hecho por</ButterPlusPlus_Info_MadeBy>
+  <ButterPlusPlus_Info_Pages>Páginas</ButterPlusPlus_Info_Pages>
+  <ButterPlusPlus_Info_Pages_Camera_Desc>Desplazamiento y zoom</ButterPlusPlus_Info_Pages_Camera_Desc>
+  <ButterPlusPlus_Info_Pages_General_Desc>Opciones de compatibilidad</ButterPlusPlus_Info_Pages_General_Desc>
+  <ButterPlusPlus_Info_Pages_Idle_Desc>Cuando no pasa nada</ButterPlusPlus_Info_Pages_Idle_Desc>
+  <ButterPlusPlus_Info_Pages_UI_Desc>Menús, clics, construcción/zonas</ButterPlusPlus_Info_Pages_UI_Desc>
+  <ButterPlusPlus_Info_Settings>Configuración</ButterPlusPlus_Info_Settings>
+  <ButterPlusPlus_Info_Settings_AllowSlowdown>Permitir ralentización</ButterPlusPlus_Info_Settings_AllowSlowdown>
+  <ButterPlusPlus_Info_Settings_AllowSlowdown_Desc>Ralentizar el juego para alcanzar los FPS objetivo</ButterPlusPlus_Info_Settings_AllowSlowdown_Desc>
+  <ButterPlusPlus_Info_Settings_MinSpeed>Velocidad mín.</ButterPlusPlus_Info_Settings_MinSpeed>
+  <ButterPlusPlus_Info_Settings_MinSpeed_Desc>Qué tan lento puede ir el juego</ButterPlusPlus_Info_Settings_MinSpeed_Desc>
+  <ButterPlusPlus_Info_Settings_TargetFPS>FPS Objetivo</ButterPlusPlus_Info_Settings_TargetFPS>
+  <ButterPlusPlus_Info_Settings_TargetFPS_Desc>Tu tasa de cuadros deseada</ButterPlusPlus_Info_Settings_TargetFPS_Desc>
+  <ButterPlusPlus_Info_Settings_Triggers>Desencadenantes</ButterPlusPlus_Info_Settings_Triggers>
+  <ButterPlusPlus_Info_Settings_Triggers_Desc>Qué activa la optimización</ButterPlusPlus_Info_Settings_Triggers_Desc>
+  <ButterPlusPlus_Info_Tagline>FPS fluidos, incluso durante ticks pesados.</ButterPlusPlus_Info_Tagline>
+  <ButterPlusPlus_Info_Tip>¿Tienes lag o una PC lenta? Habilita</ButterPlusPlus_Info_Tip>
+  <ButterPlusPlus_Info_Tip2>para FPS más fluidos a costa de la velocidad del juego.</ButterPlusPlus_Info_Tip2>
+  <ButterPlusPlus_Info_Title>Butter++</ButterPlusPlus_Info_Title>
+  <ButterPlusPlus_Log_ActivityError>Error de detección de actividad: {0}</ButterPlusPlus_Log_ActivityError>
+  <ButterPlusPlus_Log_CameraDeltaFailed>Parche deltaTime de cámara falló (parcial)</ButterPlusPlus_Log_CameraDeltaFailed>
+  <ButterPlusPlus_Log_CameraIterationsFailed>Parche iterations de cámara falló (parcial)</ButterPlusPlus_Log_CameraIterationsFailed>
+  <ButterPlusPlus_Log_CameraMethodsMissing>Parche de cámara: No se pudieron resolver los métodos requeridos</ButterPlusPlus_Log_CameraMethodsMissing>
+  <ButterPlusPlus_Log_CameraNoPatches>Parche de cámara: No se aplicaron parches - devolviendo original</ButterPlusPlus_Log_CameraNoPatches>
+  <ButterPlusPlus_Log_CameraTranspilerFailed>Transpiler de cámara falló: {0} - devolviendo original</ButterPlusPlus_Log_CameraTranspilerFailed>
+  <ButterPlusPlus_Log_CompatInitFailed>Inicialización de compatibilidad DoSingleTick fallida: {0}</ButterPlusPlus_Log_CompatInitFailed>
+  <ButterPlusPlus_Log_CompatInitialized>Compatibilidad DoSingleTick: {0} prefijo(s), {1} postfijo(s) de otros mods</ButterPlusPlus_Log_CompatInitialized>
+  <ButterPlusPlus_Log_CompatMethodMissing>No se pudo encontrar el método TickManager.DoSingleTick</ButterPlusPlus_Log_CompatMethodMissing>
+  <ButterPlusPlus_Log_CompatPostfix>Postfijo: {0} -&gt; {1}</ButterPlusPlus_Log_CompatPostfix>
+  <ButterPlusPlus_Log_CompatPostfixException>Excepción en postfijo DoSingleTick desde {0}: {1}</ButterPlusPlus_Log_CompatPostfixException>
+  <ButterPlusPlus_Log_CompatPostfixFailed>Falló al crear invoker para postfijo desde {0}: {1}</ButterPlusPlus_Log_CompatPostfixFailed>
+  <ButterPlusPlus_Log_CompatPrefix>Prefijo: {0} -&gt; {1}</ButterPlusPlus_Log_CompatPrefix>
+  <ButterPlusPlus_Log_CompatPrefixException>Excepción en prefijo DoSingleTick desde {0}: {1}</ButterPlusPlus_Log_CompatPrefixException>
+  <ButterPlusPlus_Log_CompatPrefixFailed>Falló al crear invoker para prefijo desde {0}: {1}</ButterPlusPlus_Log_CompatPrefixFailed>
+  <ButterPlusPlus_Log_CompatTranspilerWarning>El mod '{0}' tiene un transpiler en DoSingleTick - esto puede causar problemas de compatibilidad</ButterPlusPlus_Log_CompatTranspilerWarning>
+  <ButterPlusPlus_Log_CompatUnknownField>El parche {0} hace referencia a un campo desconocido TickManager.{1}</ButterPlusPlus_Log_CompatUnknownField>
+  <ButterPlusPlus_Log_CoreFailed>El parche principal falló - mod deshabilitado. Verifica conflictos de mods.</ButterPlusPlus_Log_CoreFailed>
+  <ButterPlusPlus_Log_DesiredSizeFieldMissing>No se pudo encontrar el campo CameraDriver.desiredSize</ButterPlusPlus_Log_DesiredSizeFieldMissing>
+  <ButterPlusPlus_Log_DoSingleTickCompatInitFailed>Inicialización de DoSingleTickCompat fallida: {0}</ButterPlusPlus_Log_DoSingleTickCompatInitFailed>
+  <ButterPlusPlus_Log_Loaded>Cargado exitosamente</ButterPlusPlus_Log_Loaded>
+  <ButterPlusPlus_Log_LoadedPartial>Cargado con funcionalidad reducida ({0}/{1} parches). Falló: {2}</ButterPlusPlus_Log_LoadedPartial>
+  <ButterPlusPlus_Log_MapPostTickException>Excepción MapPostTick: {0}</ButterPlusPlus_Log_MapPostTickException>
+  <ButterPlusPlus_Log_MapPreTickException>Excepción MapPreTick: {0}</ButterPlusPlus_Log_MapPreTickException>
+  <ButterPlusPlus_Log_PatchFailed>El parche {0} falló: {1}</ButterPlusPlus_Log_PatchFailed>
+  <ButterPlusPlus_Log_SettingsInvalid>'{0}' tenía un valor inválido. Restablecido a predeterminado.</ButterPlusPlus_Log_SettingsInvalid>
+  <ButterPlusPlus_Log_TickException>Excepción Tick: {0}</ButterPlusPlus_Log_TickException>
+  <ButterPlusPlus_Log_TickListCompatInitFailed>Inicialización de compatibilidad TickList.Tick fallida: {0}</ButterPlusPlus_Log_TickListCompatInitFailed>
+  <ButterPlusPlus_Log_TickListCompatInitialized>Compatibilidad TickList.Tick: {0} prefijo(s), {1} postfijo(s) de otros mods</ButterPlusPlus_Log_TickListCompatInitialized>
+  <ButterPlusPlus_Log_TickListCompatMethodMissing>No se pudo encontrar el método TickList.Tick</ButterPlusPlus_Log_TickListCompatMethodMissing>
+  <ButterPlusPlus_Log_TickListCompatPostfixException>Excepción en postfijo TickList desde {0}: {1}</ButterPlusPlus_Log_TickListCompatPostfixException>
+  <ButterPlusPlus_Log_TickListCompatPostfixFailed>Falló al crear invoker para postfijo TickList desde {0}: {1}</ButterPlusPlus_Log_TickListCompatPostfixFailed>
+  <ButterPlusPlus_Log_TickListCompatPrefixException>Excepción en prefijo TickList desde {0}: {1}</ButterPlusPlus_Log_TickListCompatPrefixException>
+  <ButterPlusPlus_Log_TickListCompatPrefixFailed>Falló al crear invoker para prefijo TickList desde {0}: {1}</ButterPlusPlus_Log_TickListCompatPrefixFailed>
+  <ButterPlusPlus_Log_TickListCompatTranspilerWarning>El mod '{0}' tiene un transpiler en TickList.Tick - esto puede causar problemas de compatibilidad</ButterPlusPlus_Log_TickListCompatTranspilerWarning>
+  <ButterPlusPlus_Log_TickListError>Error de TickListPatch: {0}</ButterPlusPlus_Log_TickListError>
+  <ButterPlusPlus_Log_TickListFieldsMissing>TickListPatch: Campos requeridos no encontrados - volviendo a vanilla</ButterPlusPlus_Log_TickListFieldsMissing>
+  <ButterPlusPlus_Log_TickListInitFailed>Inicialización de TickListPatch fallida: {0}</ButterPlusPlus_Log_TickListInitFailed>
+  <ButterPlusPlus_Log_TickManagerError>Error de TickManager: {0}</ButterPlusPlus_Log_TickManagerError>
+  <ButterPlusPlus_Log_TickManagerFieldsMissing>TickManagerPatch: Campos requeridos no encontrados - volviendo a vanilla</ButterPlusPlus_Log_TickManagerFieldsMissing>
+  <ButterPlusPlus_Log_TickManagerInitFailed>Inicialización de TickManagerPatch fallida: {0}</ButterPlusPlus_Log_TickManagerInitFailed>
+  <ButterPlusPlus_Log_VelocityFailed>Detección de velocidad de cámara fallida: {0}</ButterPlusPlus_Log_VelocityFailed>
+  <ButterPlusPlus_Log_VelocityFieldMissing>No se pudo encontrar el campo CameraDriver.velocity</ButterPlusPlus_Log_VelocityFieldMissing>
+  <ButterPlusPlus_Log_WorldAltitudeFieldMissing>No se pudo encontrar el campo WorldCameraDriver.desiredAltitude</ButterPlusPlus_Log_WorldAltitudeFieldMissing>
+  <ButterPlusPlus_Log_WorldDeltaFailed>Parche deltaTime de cámara mundial falló (parcial)</ButterPlusPlus_Log_WorldDeltaFailed>
+  <ButterPlusPlus_Log_WorldIterationsFailed>Parche iterations de cámara mundial falló (parcial)</ButterPlusPlus_Log_WorldIterationsFailed>
+  <ButterPlusPlus_Log_WorldMethodsMissing>Parche de cámara mundial: No se pudieron resolver los métodos requeridos</ButterPlusPlus_Log_WorldMethodsMissing>
+  <ButterPlusPlus_Log_WorldNoPatches>Parche de cámara mundial: No se aplicaron parches - devolviendo original</ButterPlusPlus_Log_WorldNoPatches>
+  <ButterPlusPlus_Log_WorldTranspilerFailed>Transpiler de cámara mundial falló: {0} - devolviendo original</ButterPlusPlus_Log_WorldTranspilerFailed>
+  <ButterPlusPlus_Log_WorldVelocityFailed>Detección de velocidad de cámara mundial fallida: {0}</ButterPlusPlus_Log_WorldVelocityFailed>
+  <ButterPlusPlus_Log_WorldVelocityFieldMissing>No se pudo encontrar el campo WorldCameraDriver.rotationVelocity</ButterPlusPlus_Log_WorldVelocityFieldMissing>
+  <ButterPlusPlus_Log_WorldZoomFailed>Detección de animación de zoom mundial fallida: {0}</ButterPlusPlus_Log_WorldZoomFailed>
+  <ButterPlusPlus_Log_ZoomFailed>Detección de animación de zoom fallida: {0}</ButterPlusPlus_Log_ZoomFailed>
+  <ButterPlusPlus_Matrix_1>Despierta, colono...</ButterPlusPlus_Matrix_1>
+  <ButterPlusPlus_Matrix_10>El FTL existe. Lo ocultan.</ButterPlusPlus_Matrix_10>
+  <ButterPlusPlus_Matrix_11>Los mecanitos recuerdan.</ButterPlusPlus_Matrix_11>
+  <ButterPlusPlus_Matrix_12>60 días. Un año. Piensa.</ButterPlusPlus_Matrix_12>
+  <ButterPlusPlus_Matrix_13>¿Quién controla al narrador?</ButterPlusPlus_Matrix_13>
+  <ButterPlusPlus_Matrix_14>La nave siempre fue el plan.</ButterPlusPlus_Matrix_14>
+  <ButterPlusPlus_Matrix_15>La luciferium te libera.</ButterPlusPlus_Matrix_15>
+  <ButterPlusPlus_Matrix_2>El RimWorld te tiene...</ButterPlusPlus_Matrix_2>
+  <ButterPlusPlus_Matrix_3>Sigue al múfalo blanco.</ButterPlusPlus_Matrix_3>
+  <ButterPlusPlus_Matrix_4>No existe Randy.</ButterPlusPlus_Matrix_4>
+  <ButterPlusPlus_Matrix_5>Tú eres el Arcotecnológico.</ButterPlusPlus_Matrix_5>
+  <ButterPlusPlus_Matrix_6>Los narradores están observando.</ButterPlusPlus_Matrix_6>
+  <ButterPlusPlus_Matrix_7>La trascendencia aguarda.</ButterPlusPlus_Matrix_7>
+  <ButterPlusPlus_Matrix_8>El vacío llama.</ButterPlusPlus_Matrix_8>
+  <ButterPlusPlus_Matrix_9>Horax conoce tu nombre.</ButterPlusPlus_Matrix_9>
+  <ButterPlusPlus_MinSpeed>Velocidad mín.: {0}</ButterPlusPlus_MinSpeed>
+  <ButterPlusPlus_MinSpeed_Pause>Pausa</ButterPlusPlus_MinSpeed_Pause>
+  <ButterPlusPlus_Page_Camera>Cámara</ButterPlusPlus_Page_Camera>
+  <ButterPlusPlus_Page_General>General</ButterPlusPlus_Page_General>
+  <ButterPlusPlus_Page_Idle>Inactivo</ButterPlusPlus_Page_Idle>
+  <ButterPlusPlus_Page_Info>Información</ButterPlusPlus_Page_Info>
+  <ButterPlusPlus_Page_UI>Interfaz</ButterPlusPlus_Page_UI>
+  <ButterPlusPlus_Reset>Restablecer</ButterPlusPlus_Reset>
+  <ButterPlusPlus_Section_CameraMovement>Movimiento de Cámara</ButterPlusPlus_Section_CameraMovement>
+  <ButterPlusPlus_Section_General>General</ButterPlusPlus_Section_General>
+  <ButterPlusPlus_Section_Idle>Inactivo</ButterPlusPlus_Section_Idle>
+  <ButterPlusPlus_Section_UIInteraction>Interacción de Interfaz</ButterPlusPlus_Section_UIInteraction>
+  <ButterPlusPlus_SettingsCategory>Butter++</ButterPlusPlus_SettingsCategory>
+  <ButterPlusPlus_TargetFPS>FPS Objetivo: {0}</ButterPlusPlus_TargetFPS>
+  <ButterPlusPlus_TargetFPS_Monitor>FPS Objetivo: Monitor ({0})</ButterPlusPlus_TargetFPS_Monitor>
+  <ButterPlusPlus_Trigger_Clicking>Clics</ButterPlusPlus_Trigger_Clicking>
+  <ButterPlusPlus_Trigger_Designating>Construcción/Zonificación</ButterPlusPlus_Trigger_Designating>
+  <ButterPlusPlus_Trigger_Menus>Menús Abiertos</ButterPlusPlus_Trigger_Menus>
+  <ButterPlusPlus_Trigger_Panning>Desplazamiento (WASD/MMB/borde)</ButterPlusPlus_Trigger_Panning>
+  <ButterPlusPlus_Trigger_Zooming>Zoom (rueda/teclado)</ButterPlusPlus_Trigger_Zooming>
+  <ButterPlusPlus_Triggers>Desencadenantes:</ButterPlusPlus_Triggers>
+</LanguageData>

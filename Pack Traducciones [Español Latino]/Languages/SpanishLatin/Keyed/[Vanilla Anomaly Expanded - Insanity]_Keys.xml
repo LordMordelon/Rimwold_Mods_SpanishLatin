@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <VAEI_AnomalyBodypart>Parte del cuerpo anómala ({0})</VAEI_AnomalyBodypart>
+  <VAEI_Attending>Asistiendo a {0}</VAEI_Attending>
+  <VAEI_BeingDuplicated>Siendo duplicado</VAEI_BeingDuplicated>
+  <VAEI_BeingInLabyrinth>Estando en el laberinto</VAEI_BeingInLabyrinth>
+  <VAEI_BeingInUnnaturalDarkness>Estando en la oscuridad</VAEI_BeingInUnnaturalDarkness>
+  <VAEI_ChanterEffect>Cánticos durante el ritual {0}</VAEI_ChanterEffect>
+  <VAEI_ChanterEffects>Ritual psíquico (cantor):</VAEI_ChanterEffects>
+  <VAEI_DisturbingInitiatorEffects>Interacciones de iniciador perturbadoras:</VAEI_DisturbingInitiatorEffects>
+  <VAEI_DisturbingInteraction>Perturbación por {0} de {PAWN_nameDef}</VAEI_DisturbingInteraction>
+  <VAEI_EnableSelfHarmContent>Habilitar contenido de autolesión (estado mental de sacrificio, interacción de autolesión)</VAEI_EnableSelfHarmContent>
+  <VAEI_General>General</VAEI_General>
+  <VAEI_HediffEffects>Teniendo condiciones de salud (cordura por día):</VAEI_HediffEffects>
+  <VAEI_HighSanity>Cordura alta</VAEI_HighSanity>
+  <VAEI_Inhumanized>Deshumanizado: {PAWN_nameDef}</VAEI_Inhumanized>
+  <VAEI_InhumanizedDesc>La conexión de {PAWN_nameDef} con la humanidad se ha roto. Su transformación le ha dejado desconectado de las sensibilidades humanas, ya no le afectan el dolor ni las interacciones sociales, y es indiferente a la estética de la belleza y el aire libre. Su mente, ahora sintonizada con el vacío, ignora la mayoría de las emociones, encontrando consuelo en la meditación del vacío y una alegría misteriosa e inquebrantable que impregna su existencia.\n\nHa ganado el rasgo deshumanizado.\n\nAunque drásticamente alterado, {PAWN_nameDef} sigue siendo parte de tu facción, solo que desconectado de las experiencias humanas típicas.</VAEI_InhumanizedDesc>
+  <VAEI_Interaction>{0} de {PAWN_nameDef}</VAEI_Interaction>
+  <VAEI_InteractionEffects>Interacciones:</VAEI_InteractionEffects>
+  <VAEI_InvokerEffect>Invocación del ritual {0}</VAEI_InvokerEffect>
+  <VAEI_InvokerEffects>Ritual psíquico (invocador):</VAEI_InvokerEffects>
+  <VAEI_KillingEntities>Matando entidades:</VAEI_KillingEntities>
+  <VAEI_KillingNociosphere>Nocioesfera</VAEI_KillingNociosphere>
+  <VAEI_KillingShambler>Tambaleante</VAEI_KillingShambler>
+  <VAEI_KillingThing>Matando a {0}</VAEI_KillingThing>
+  <VAEI_LowSanity>Cordura baja</VAEI_LowSanity>
+  <VAEI_MarriageCeremony>Ceremonia de matrimonio</VAEI_MarriageCeremony>
+  <VAEI_Meditating>Meditando</VAEI_Meditating>
+  <VAEI_ModSettingsName>VAE - Insanity</VAEI_ModSettingsName>
+  <VAEI_MostRecentEvents>Efectos más recientes:</VAEI_MostRecentEvents>
+  <VAEI_NonDisturbingInitiatorEffects>Interacciones de iniciador no perturbadoras:</VAEI_NonDisturbingInitiatorEffects>
+  <VAEI_ObservingVoidDrawings>Observando dibujos del vacío</VAEI_ObservingVoidDrawings>
+  <VAEI_OccultTeaching>Enseñanza oculta por {PAWN_nameDef}</VAEI_OccultTeaching>
+  <VAEI_Party>Festejando</VAEI_Party>
+  <VAEI_PassiveEffects>Efectos pasivos:</VAEI_PassiveEffects>
+  <VAEI_PassiveEffectsPerDay>Efectos pasivos (cordura por día):</VAEI_PassiveEffectsPerDay>
+  <VAEI_PassiveSanityGain>Ganancia pasiva de cordura: {0} - {1}</VAEI_PassiveSanityGain>
+  <VAEI_PerformingJobs>Realizando trabajos (cordura por día):</VAEI_PerformingJobs>
+  <VAEI_PitGateCollapsing>Colapso del pozo</VAEI_PitGateCollapsing>
+  <VAEI_PitgateCollapsed>el colapso del pozo</VAEI_PitgateCollapsed>
+  <VAEI_ReadingTome>Leyendo tomo</VAEI_ReadingTome>
+  <VAEI_Recovered>Recuperado: {PAWN_nameDef}</VAEI_Recovered>
+  <VAEI_RecoveredDesc>{PAWN_nameDef} ha emergido de las profundidades de la locura, experimentando una catarsis que ha restaurado una medida de cordura en su mente. El agarre sofocante del vacío que una vez dominó sus pensamientos se ha aflojado, otorgándole una paz frágil. Aunque el viaje de regreso a la cordura total será largo, ha recuperado aspectos cruciales de su claridad mental.\n\nHa comenzado el lento proceso de recuperación y no se deshumanizó en esta ocasión.</VAEI_RecoveredDesc>
+  <VAEI_RecoveringFromMadness>Recuperándose de la locura</VAEI_RecoveringFromMadness>
+  <VAEI_Rehumanized>Rehumanizado: {PAWN_nameDef}</VAEI_Rehumanized>
+  <VAEI_RehumanizedDesc>Debido a que {PAWN_nameDef} recuperó su cordura, se ha rehumanizado. Su rasgo Deshumanizado ha sido reemplazado por {0}.\n\n{1}\n\nDesafortunadamente, {PAWN_nameDef} seguirá siendo propenso para siempre a perder la cabeza una vez más, incluso más que otros. Cualquier efecto negativo en la cordura se duplicará, lo que podría causar que {PAWN_nameDef} se deshumanice nuevamente.</VAEI_RehumanizedDesc>
+  <VAEI_RitualEffects>Participando en rituales:</VAEI_RitualEffects>
+  <VAEI_Sacrificial>Sacrificio: {PAWN_nameDef}</VAEI_Sacrificial>
+  <VAEI_SacrificialDesc>La conexión de {PAWN_nameDef} con la humanidad se ha roto. Su transformación le ha dejado desconectado de las sensibilidades humanas, ya no le afectan el dolor ni las interacciones sociales, y es indiferente a la estética de la belleza y el aire libre. Su mente, ahora sintonizada con el vacío, ignora la mayoría de las emociones, encontrando consuelo en la meditación del vacío y una alegría misteriosa e inquebrantable que impregna su existencia. Impulsado por la llamada oscura, ahora se ve obligado a terminar su existencia en un acto final de sacrificio al vacío.\n\nHa ganado el rasgo deshumanizado.\n\n{PAWN_nameDef} ahora está en un camino de autodestrucción e intentará terminar su existencia, sin embargo, todavía puede ser restringido y detenido si lo arrestas a tiempo.</VAEI_SacrificialDesc>
+  <VAEI_Sanity>Cordura</VAEI_Sanity>
+  <VAEI_SanityFactorExplanation>Cordura ({0}): {1}</VAEI_SanityFactorExplanation>
+  <VAEI_SanityGainMessage>{PAWN_nameDef} ha ganado cordura debido a {0}. La cordura de {PAWN_nameDef} es ahora {1}</VAEI_SanityGainMessage>
+  <VAEI_SanityLetterDesc>La cordura de {PAWN_nameDef} ha sido puesta a prueba por eventos recientes. El nivel de cordura de tus colonos ahora se puede ver en la pestaña de Necesidades.</VAEI_SanityLetterDesc>
+  <VAEI_SanityLoss>Ocurrió debido a la pérdida de cordura al 0%.</VAEI_SanityLoss>
+  <VAEI_SanityLossEffects>Efectos de pérdida/ganancia de cordura:</VAEI_SanityLossEffects>
+  <VAEI_SanityLossMessage>{PAWN_nameDef} ha perdido cordura debido a {0}. La cordura de {PAWN_nameDef} es ahora {1}</VAEI_SanityLossMessage>
+  <VAEI_SanityOffsetExplanation>Cordura ({0}): {1}</VAEI_SanityOffsetExplanation>
+  <VAEI_SanityRecord>hace {0}: {1}: {2}</VAEI_SanityRecord>
+  <VAEI_StatsReport_SanityGainPerDay>Ganancia de cordura por día: {0}</VAEI_StatsReport_SanityGainPerDay>
+  <VAEI_StudyingEntities>Estudiando entidades:</VAEI_StudyingEntities>
+  <VAEI_SuppressingEntities>Suprimiendo entidades (cordura por día):</VAEI_SuppressingEntities>
+  <VAEI_SuppressingEntity>Suprimiendo {0}</VAEI_SuppressingEntity>
+  <VAEI_TargetEffect>Objetivo del ritual {0}</VAEI_TargetEffect>
+  <VAEI_TargetEffects>Ritual psíquico (objetivo):</VAEI_TargetEffects>
+  <VAEI_UnnaturalCorpse>Cadáver antinatural</VAEI_UnnaturalCorpse>
+  <VAEI_UsedThingsEffects>Usando cosas:</VAEI_UsedThingsEffects>
+  <VAEI_UsingThing>Usando {0}</VAEI_UsingThing>
+  <VAEI_VoidClosing>el cierre del Vacío</VAEI_VoidClosing>
+  <VAEI_WeKilledNociosphere>la muerte de la Nocioesfera</VAEI_WeKilledNociosphere>
+  <VAEI_Wearing>Usando {0}</VAEI_Wearing>
+  <VEAI_AnomalyStudy>Estudiando {0}</VEAI_AnomalyStudy>
+  <VEAI_EatingTwistedMeat>Comiendo carne retorcida</VEAI_EatingTwistedMeat>
+  <VEAI_EatingTwistedMeatAsIngredient>Comiendo carne retorcida como ingrediente</VEAI_EatingTwistedMeatAsIngredient>
+  <VEAI_RecoveringFromMadness>Recuperándose de la locura</VEAI_RecoveringFromMadness>
+</LanguageData>

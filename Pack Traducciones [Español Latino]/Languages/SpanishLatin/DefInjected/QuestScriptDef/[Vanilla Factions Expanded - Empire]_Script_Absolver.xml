@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <VFEE_Permit_CallAbsolver.questDescriptionAndNameRules.rulesStrings>
+    <li>questName-&gt;Absolvedor</li>
+    <li>questDescription-&gt;</li>
+  </VFEE_Permit_CallAbsolver.questDescriptionAndNameRules.rulesStrings>
+  <VFEE_Permit_CallAbsolver.root.nodes.Letter.label.slateRef>Llegada del absolvedor</VFEE_Permit_CallAbsolver.root.nodes.Letter.label.slateRef>
+  <VFEE_Permit_CallAbsolver.root.nodes.Letter.text.slateRef>El absolvedor de [permitFaction_name] ha llegado. Un transbordador vendrá a recogerlo en [absolverDurationDays] días.</VFEE_Permit_CallAbsolver.root.nodes.Letter.text.slateRef>
+  <VFEE_Permit_CallAbsolver.root.nodes.ShuttleDelay.node.nodes.InspectString.inspectString.slateRef>Debería partir en el transbordador</VFEE_Permit_CallAbsolver.root.nodes.ShuttleDelay.node.nodes.InspectString.inspectString.slateRef>
+  <VFEE_Permit_CallAbsolver.root.nodes.ShuttleDelay.node.nodes.Letter.label.slateRef>Llegada del transbordador</VFEE_Permit_CallAbsolver.root.nodes.ShuttleDelay.node.nodes.Letter.label.slateRef>
+  <VFEE_Permit_CallAbsolver.root.nodes.ShuttleDelay.node.nodes.Letter.text.slateRef>Un transbordador ha llegado para recoger al absolvedor de [permitFaction_name].</VFEE_Permit_CallAbsolver.root.nodes.ShuttleDelay.node.nodes.Letter.text.slateRef>
+  <VFEE_Permit_CallAbsolver.root.nodes.absolverDestroyed.node.nodes.Letter.label.slateRef>Absolvedor muerto: {SUBJECT_definite}</VFEE_Permit_CallAbsolver.root.nodes.absolverDestroyed.node.nodes.Letter.label.slateRef>
+  <VFEE_Permit_CallAbsolver.root.nodes.absolverDestroyed.node.nodes.Letter.text.slateRef>Un absolvedor enviado por [permitFaction_name] ha muerto. Se ha enviado un reemplazo.</VFEE_Permit_CallAbsolver.root.nodes.absolverDestroyed.node.nodes.Letter.text.slateRef>
+</LanguageData>

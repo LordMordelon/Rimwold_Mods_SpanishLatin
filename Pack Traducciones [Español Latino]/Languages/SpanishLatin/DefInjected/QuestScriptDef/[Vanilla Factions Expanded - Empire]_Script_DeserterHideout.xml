@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <VFEE_DeserterHideout.questDescriptionRules.rulesStrings>
+    <li>questDescription-&gt; [asker_nameFull], un [asker_royalTitleInCurrentFaction] de [asker_faction_name] nos ha informado sobre un escondite de desertores cerca de [colonyName].\nLos desertores son un grupo de ex soldados imperiales y nobleza que han decidido separarse de la Gran Jerarquía y adaptarse a la nueva vida posterior al desmoronamiento. Son considerados el enemigo público número uno.\nAparentemente, [siteFaction_pawnsPlural] han estado asaltando convoyes imperiales.\n[asker_nameDef] está planeando un asalto aéreo al escondite, que está custodiado por [enemiesCount] [enemiesLabel]. [asker_pronoun] quiere que proporciones [requiredPawnCount] soldados para llevar a cabo el ataque.\n\n[asker_pronoun] enviará un transbordador para recoger a tus combatientes, llevarlos al sitio del ataque y traerlos a casa después. Serán alimentados y atendidos médicamente en el camino.\n\nUna vez que comience el ataque, debes derrotar a todos los enemigos y torretas dentro de [timeoutTime_duration].\n\n[asker_nameDef] enviará [alliesCount] de sus guardias personales y los pondrá bajo tu mando. [asker_pronoun] no se molestará si mueren.\n</li>
+  </VFEE_DeserterHideout.questDescriptionRules.rulesStrings>
+  <VFEE_DeserterHideout.questNameRules.rulesStrings>
+    <li>questName-&gt;El [camp] [bandit]</li>
+    <li>questName-&gt;[camp] [bandit]</li>
+    <li>questName-&gt;[asker_nameDef] y el [camp]</li>
+    <li>camp-&gt;Campamento</li>
+    <li>camp-&gt;Puesto de avanzada</li>
+    <li>camp-&gt;Guarida</li>
+    <li>camp-&gt;Campamento</li>
+    <li>bandit-&gt;Bandido</li>
+    <li>bandit-&gt;Asaltante</li>
+    <li>bandit-&gt;Forajido</li>
+    <li>bandit-&gt;Desperado</li>
+    <li>bandit-&gt;Fugitivo</li>
+    <li>bandit-&gt;Merodeador</li>
+    <li>bandit-&gt;Ladrón</li>
+    <li>bandit-&gt;Bandolero</li>
+  </VFEE_DeserterHideout.questNameRules.rulesStrings>
+</LanguageData>

@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <VRE_Intro_Phytokin.questDescriptionRules.rulesStrings>
+    <li>questDescription-&gt;[asker_nameFull], una poderosa fitokin, está llamando desde cerca. Fue expulsada por [enemyFaction_name] por darles un consejo equivocado, y ahora está siendo cazada por un grupo de búsqueda. El grupo de búsqueda de [enemyFaction_pawnsPlural] está compuesto por: \n\n[raid/raidPawnKinds]\n\n[asker_nameFull] quiere que la mantengas a salvo en [map_definite]. Si aceptas, llegará inmediatamente, pero será seguida por el grupo de búsqueda que tendrás que derrotar.\n\nLos fitokins son humanoides basados en plantas con énfasis en la simetría y la simbiosis. Su capacidad para subsistir solo con luz solar y su afinidad con toda la vida vegetal los hacen especialmente adecuados para ayudar a colonias recién establecidas o granjas industriales de bajo rendimiento.</li>
+  </VRE_Intro_Phytokin.questDescriptionRules.rulesStrings>
+  <VRE_Intro_Phytokin.questNameRules.rulesStrings>
+    <li>questName-&gt;la Fitokin [adjAny]</li>
+    <li>adjAny-&gt;cazada</li>
+    <li>adjAny-&gt;fugitiva</li>
+    <li>adjAny-&gt;solitaria</li>
+    <li>adjAny-&gt;emboscada</li>
+  </VRE_Intro_Phytokin.questNameRules.rulesStrings>
+  <VRE_Intro_Phytokin.root.nodes.Delay-0.node.parms.customLetterLabel.value.slateRef>{BASELABEL}: Piratas perseguidores</VRE_Intro_Phytokin.root.nodes.Delay-0.node.parms.customLetterLabel.value.slateRef>
+  <VRE_Intro_Phytokin.root.nodes.Delay-0.node.parms.customLetterText.value.slateRef>{BASETEXT}\n\nEstos son los piratas que estaban cazando a [../asker_nameFull].\n              </VRE_Intro_Phytokin.root.nodes.Delay-0.node.parms.customLetterText.value.slateRef>
+  <VRE_Intro_Phytokin.root.nodes.PawnsArrive.customLetterText.slateRef>{BASETEXT}\n\nDebido a que aceptaste a [asker_nameDef], la banda de piratas que la persigue llegará pronto.</VRE_Intro_Phytokin.root.nodes.PawnsArrive.customLetterText.slateRef>
+</LanguageData>

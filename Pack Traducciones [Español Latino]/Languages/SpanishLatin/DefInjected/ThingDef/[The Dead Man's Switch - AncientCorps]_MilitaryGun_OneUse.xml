@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <DMSAC_Grenade_Stugna.label>torreta stugna</DMSAC_Grenade_Stugna.label>
+  <DMSAC_Gun_StugnaATGM.description>Un sistema de misiles antitanque Stugna montado en una plataforma de puntería remota.</DMSAC_Gun_StugnaATGM.description>
+  <DMSAC_Gun_StugnaATGM.label>ATGM stugna</DMSAC_Gun_StugnaATGM.label>
+  <DMSAC_Gun_StugnaATGM.verbs.Verb_Shoot.label>ATGM stugna</DMSAC_Gun_StugnaATGM.verbs.Verb_Shoot.label>
+  <DMSAC_StugnaATGM.comps.CompApparelReloadable.chargeNoun>carga</DMSAC_StugnaATGM.comps.CompApparelReloadable.chargeNoun>
+  <DMSAC_StugnaATGM.comps.CompApparelReloadable.cooldownGerund>en enfriamiento</DMSAC_StugnaATGM.comps.CompApparelReloadable.cooldownGerund>
+  <DMSAC_StugnaATGM.description>Un misil guiado antitanque de un solo uso diseñado para ser disparado y desechado. eficaz contra mecas pesados e incluso tanques. sin embargo, para fijar el objetivo, requiere un tiempo de puntería prolongado y una línea de visión clara.</DMSAC_StugnaATGM.description>
+  <DMSAC_StugnaATGM.label>lanzador de misiles stugna</DMSAC_StugnaATGM.label>
+  <DMSAC_StugnaATGM.verbs.deploy_turret.label>desplegar torreta</DMSAC_StugnaATGM.verbs.deploy_turret.label>
+  <DMSAC_Turret_StugnaATGM.comps.CompMechPowerCell.labelOverride>Energía de la batería</DMSAC_Turret_StugnaATGM.comps.CompMechPowerCell.labelOverride>
+  <DMSAC_Turret_StugnaATGM.comps.CompMechPowerCell.tooltipOverride>Esta torreta tiene una vida útil de batería limitada. Una vez que se agote, dejará de funcionar por completo.</DMSAC_Turret_StugnaATGM.comps.CompMechPowerCell.tooltipOverride>
+  <DMSAC_Turret_StugnaATGM.comps.CompRefuelable.fuelGizmoLabel>misil cargado</DMSAC_Turret_StugnaATGM.comps.CompRefuelable.fuelGizmoLabel>
+  <DMSAC_Turret_StugnaATGM.comps.CompRefuelable.fuelLabel>disparos de misil</DMSAC_Turret_StugnaATGM.comps.CompRefuelable.fuelLabel>
+  <DMSAC_Turret_StugnaATGM.comps.CompRefuelable.outOfFuelMessage>No se puede disparar: necesita un proyectil de misil.</DMSAC_Turret_StugnaATGM.comps.CompRefuelable.outOfFuelMessage>
+  <DMSAC_Turret_StugnaATGM.description>Una plataforma de lanzamiento de misiles antitanque que se puede desplegar y operar de forma remota. Dejará de funcionar una vez que se agote la batería o no haya proyectiles disponibles. Si se daña lo suficiente, puede explotar.</DMSAC_Turret_StugnaATGM.description>
+  <DMSAC_Turret_StugnaATGM.label>plataforma remota skif</DMSAC_Turret_StugnaATGM.label>
+</LanguageData>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <MTC.AddButton>Agregar arma</MTC.AddButton>
+  <MTC.AddWeaponLabel>Agregar arma:</MTC.AddWeaponLabel>
+  <MTC.AssignedAWeapon.Explanation>Un colono que detesta la violencia tiene un arma asignada. A corto plazo puede no ser un problema, pero con el tiempo podría generar infelicidad extrema.</MTC.AssignedAWeapon.Explanation>
+  <MTC.AssignedAWeapon.Label>Colono no violento con arma asignada</MTC.AssignedAWeapon.Label>
+  <MTC.BadWorkAssignment.Explanation>Al menos un colono tiene asignado un tipo de trabajo que odia. A corto plazo puede no ser un problema, pero con el tiempo podría generar infelicidad extrema.</MTC.BadWorkAssignment.Explanation>
+  <MTC.BadWorkAssignment.Label>Asignación de trabajo inadecuada</MTC.BadWorkAssignment.Label>
+  <MTC.CannotDoThisWork>{0} odia hacer este tipo de trabajo.</MTC.CannotDoThisWork>
+  <MTC.CannotPrioritizeNotAssignedToWorkType>No se puede priorizar (colono odia y/o no tiene asignado {0})</MTC.CannotPrioritizeNotAssignedToWorkType>
+  <MTC.CannotPrioritizeWorkGiverDisabled>No se puede priorizar (colono no violento sin arma asignada)</MTC.CannotPrioritizeWorkGiverDisabled>
+  <MTC.IgnoredWeaponsLabel>Armas ignoradas:</MTC.IgnoredWeaponsLabel>
+  <MTC.IgnoredWeaponsLabelTip>Lista de DefNames de armas que se ignorarán en colonos no violentos. Para ver el DefName de un arma: activa el modo de depuración, haz clic en Inspeccionar (ícono de lupa), luego en Inspección avanzada (primer botón), y pasa el cursor sobre el arma en el suelo.</MTC.IgnoredWeaponsLabelTip>
+  <MTC.IncapableOf>Trabajos odiados</MTC.IncapableOf>
+  <MTC.IsIncapableOfViolenceLower>{0} es no violento y no tiene un arma asignada</MTC.IsIncapableOfViolenceLower>
+  <MTC.MoreThanCapable>More than Capable</MTC.MoreThanCapable>
+  <MTC.NoIgnoredWeapons>(Sin armas ignoradas)</MTC.NoIgnoredWeapons>
+  <MTC.RemoveButton>Eliminar {0}</MTC.RemoveButton>
+  <MTC.allowFDJ>Permitir "Forzar trabajo"</MTC.allowFDJ>
+  <MTC.allowFDJTip>Si está activado, se puede ordenar a un colono que haga un trabajo específico aunque no tenga asignado ese tipo de trabajo. Si prefieres el comportamiento del juego base, desactívalo. Requiere reinicio.</MTC.allowFDJTip>
+  <MTC.obeyGuestExceptions>Respetar restricciones a huéspedes</MTC.obeyGuestExceptions>
+  <MTC.obeyGuestExceptionsTip>Si está activado, los trabajos prohibidos para huéspedes (esclavos) serán respetados.</MTC.obeyGuestExceptionsTip>
+  <MTC.obeyLifeStages>Respetar etapas de vida</MTC.obeyLifeStages>
+  <MTC.obeyLifeStagesTip>Si está activado, se respetarán los trabajos restringidos por edad.</MTC.obeyLifeStagesTip>
+  <MTC.suppressDebugLogs>Suprimir registros de depuración</MTC.suppressDebugLogs>
+  <MTC.suppressDebugLogsTip>Si está activado, no se mostrarán mensajes no críticos de este mod en los registros.</MTC.suppressDebugLogsTip>
+</LanguageData>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <MU_OpportunitySite_AncientComplex_Upgrades.questDescriptionRules.rulesStrings>
+    <li>questDescription-&gt;Has [discoveryDesc] de un complejo antiguo cercano que contiene los restos de un mecanizador muerto hace mucho tiempo.\n\nLos mecanizadores pueden crear, controlar y manipular mecanoides para el trabajo y el combate. Si puedes entrar en el complejo y recoger el cadáver del mecanizador, podrás extraer su enlace mecánico y convertir a uno de tus propios colonos en un mecanizador.\n\nTen cuidado: este tipo de estructuras pueden contener una variedad de amenazas, y tu actividad en el complejo podría atraer atención no deseada.</li>
+    <li>discoveryDesc(discovered==false)-&gt;tenido noticias</li>
+    <li>discoveryDesc(discovered==true)-&gt;determinado la ubicación</li>
+  </MU_OpportunitySite_AncientComplex_Upgrades.questDescriptionRules.rulesStrings>
+  <MU_OpportunitySite_AncientComplex_Upgrades.questNameRules.rulesStrings>
+    <li>questName(p=3)-&gt;[complex] de mecanizador [complexAdj]</li>
+    <li>questName-&gt;[complex] de mecanizador</li>
+    <li>complexAdj-&gt;secreto</li>
+    <li>complexAdj-&gt;antiguo</li>
+    <li>complexAdj-&gt;viejo</li>
+    <li>complexAdj-&gt;oculto</li>
+    <li>complexAdj-&gt;polvoriento</li>
+    <li>complexAdj-&gt;peligroso</li>
+    <li>complexAdj-&gt;escondido</li>
+    <li>complex-&gt;complejo</li>
+    <li>complex-&gt;guarida</li>
+    <li>complex-&gt;base</li>
+    <li>complex-&gt;recinto</li>
+    <li>complex-&gt;cripta</li>
+    <li>complex-&gt;mecaplejo</li>
+    <li>complex-&gt;mecasitio</li>
+  </MU_OpportunitySite_AncientComplex_Upgrades.questNameRules.rulesStrings>
+</LanguageData>

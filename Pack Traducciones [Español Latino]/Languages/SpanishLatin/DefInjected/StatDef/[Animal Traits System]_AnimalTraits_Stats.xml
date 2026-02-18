@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <AnimalTraitsSystemBodySizeFactor.description>Un multiplicador aplicado al tamaño corporal del animal. Afecta muchos aspectos, incluida la capacidad de carga, la probabilidad de esquivar cuerpo a cuerpo y la producción de calor. Un valor de 1.2 significa un 20% más grande.</AnimalTraitsSystemBodySizeFactor.description>
+  <AnimalTraitsSystemBodySizeFactor.label>factor de tamaño corporal</AnimalTraitsSystemBodySizeFactor.label>
+  <AnimalTraitsSystemEggCountFactor.description>Un multiplicador aplicado al número de huevos puestos por este animal. Un valor de 1.5 significa un 50% más de huevos por puesta.</AnimalTraitsSystemEggCountFactor.description>
+  <AnimalTraitsSystemEggCountFactor.label>factor de conteo de huevos</AnimalTraitsSystemEggCountFactor.label>
+  <AnimalTraitsSystemGatherYieldFactor.description>Un multiplicador aplicado a la cantidad de recursos recolectados de este animal (lana, leche). Un valor de 1.25 significa un 25% más de rendimiento. Esto es diferente de la estadística vanilla Rendimiento de Recolección Animal.</AnimalTraitsSystemGatherYieldFactor.description>
+  <AnimalTraitsSystemGatherYieldFactor.label>factor de rendimiento de recolección</AnimalTraitsSystemGatherYieldFactor.label>
+  <AnimalTraitsSystemLitterSizeFactor.description>Un multiplicador aplicado al número de crías producidas cuando este animal da a luz. Un valor de 2.0 significa el doble del tamaño promedio de la camada. Se aplica a la madre.</AnimalTraitsSystemLitterSizeFactor.description>
+  <AnimalTraitsSystemLitterSizeFactor.label>factor de tamaño de camada</AnimalTraitsSystemLitterSizeFactor.label>
+  <AnimalTraitsSystemRevengeChanceOnHarm.description>Bonificación fija a la probabilidad de que un animal ataque a un colono después de ser dañado. Esto se suma directamente a la probabilidad base de venganza.</AnimalTraitsSystemRevengeChanceOnHarm.description>
+  <AnimalTraitsSystemRevengeChanceOnHarm.label>probabilidad de venganza al ser dañado</AnimalTraitsSystemRevengeChanceOnHarm.label>
+  <AnimalTraitsSystemRevengeChanceOnTamingFailure.description>Bonificación fija a la probabilidad de que un animal ataque a un colono si falla un intento de domesticación. Esto se suma directamente a la probabilidad base de venganza.</AnimalTraitsSystemRevengeChanceOnTamingFailure.description>
+  <AnimalTraitsSystemRevengeChanceOnTamingFailure.label>prob. de venganza al fallar la domesticación</AnimalTraitsSystemRevengeChanceOnTamingFailure.label>
+</LanguageData>

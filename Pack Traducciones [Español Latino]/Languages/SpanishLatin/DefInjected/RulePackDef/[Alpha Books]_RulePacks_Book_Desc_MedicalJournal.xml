@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <ABooks_MedicalJournal_Description.rulePack.rulesStrings>
+    <li>desc-&gt;[intro] [conceptExploration]. [writingQualitySentence]. [maybe_date][ending]</li>
+    <li>desc-&gt;[conceptExploration]: [impactStatement]. [writingQualitySentence]. [maybe_date][ending]</li>
+    <li>desc-&gt;[intro] [contextStatement] [conceptExploration]. [writingQualitySentence]. [maybe_date][ending]</li>
+    <li>ending-&gt;\n\nUna vez leído, este diario otorgará mejoras médicas durante tres días, y luego será destruido.</li>
+    <li>intro-&gt;Este [bookType] [writingQualityAdjective] ofrece una mirada profunda a</li>
+    <li>intro-&gt;Una guía [writingQualityAdjective] para comprender</li>
+    <li>intro-&gt;Un [bookType] atemporal que narra los avances en</li>
+    <li>intro-&gt;Un relato [writingQualityAdjective] de los desafíos en</li>
+    <li>intro-&gt;Un [bookType] extraordinario que explora</li>
+    <li>intro-&gt;Una exploración inquietantemente vívida de</li>
+    <li>conceptExploration-&gt;las complejidades de la medicina de campo</li>
+    <li>conceptExploration-&gt;las complejidades de la ganancia de inmunidad y la curación</li>
+    <li>conceptExploration-&gt;la evolución de las técnicas de tratamiento en el Borde</li>
+    <li>conceptExploration-&gt;cómo las colonias adaptan sus prácticas médicas</li>
+    <li>conceptExploration-&gt;la importancia del ingenio en la atención médica</li>
+    <li>conceptExploration-&gt;equilibrar la atención al paciente y las prioridades de supervivencia</li>
+    <li>contextStatement-&gt;ejemplos de colonias del Borde, este diario examina</li>
+    <li>contextStatement-&gt;décadas de experiencias médicas coloniales, explora</li>
+    <li>contextStatement-&gt;los escritos de médicos varados, revela</li>
+    <li>contextStatement-&gt;historias reales de pioneros, este diario descubre</li>
+    <li>contextStatement-&gt;anécdotas vívidas de tratamientos de emergencia, explica</li>
+    <li>impactStatement-&gt;Sus conocimientos reformarán cómo entiendes la atención médica bajo presión</li>
+    <li>impactStatement-&gt;Proporciona conocimientos esenciales para cualquier médico de la frontera</li>
+    <li>impactStatement-&gt;Arroja luz sobre la naturaleza ingeniosa de los practicantes en el Borde</li>
+    <li>impactStatement-&gt;Este diario es un recurso vital para aquellos que enfrentan desafíos médicos difíciles</li>
+    <li>impactStatement-&gt;Las lecciones internas son esenciales para la supervivencia en entornos con escasez de recursos</li>
+    <li>writingQualityAdjective(quality==6)-&gt;elaborado magistralmente</li>
+    <li>writingQualityAdjective(quality==5)-&gt;brillantemente perspicaz</li>
+    <li>writingQualityAdjective(quality==4)-&gt;estimulante y preciso</li>
+    <li>writingQualityAdjective(quality==3)-&gt;funcional pero poco inspirado</li>
+    <li>writingQualityAdjective(quality==2)-&gt;mediocre</li>
+    <li>writingQualityAdjective(quality==1)-&gt;apenas comprensible</li>
+    <li>writingQualityAdjective(quality==0)-&gt;divagar incoherente de un</li>
+    <li>writingQualitySentence(quality[greater_than]3)-&gt;Es [excellentDesc] [excellentExtra]</li>
+    <li>writingQualitySentence(quality[less_than]4,quality[greater_than]1)-&gt;Es [decentDesc] [decentExtra]</li>
+    <li>writingQualitySentence(quality[less_than]2)-&gt;Es [awfulDesc] [awfulExtra]</li>
+    <li>excellentDesc-&gt;una obra maestra de consejos médicos prácticos</li>
+    <li>excellentDesc-&gt;un recurso invaluable para comprender el tratamiento de emergencia</li>
+    <li>excellentDesc-&gt;una guía construida por expertos para la supervivencia médica</li>
+    <li>excellentDesc-&gt;una exploración profundamente original de la medicina del Borde</li>
+    <li>excellentDesc-&gt;rico en consejos prácticos y estudios de casos vívidos</li>
+    <li>excellentExtra-&gt;que revela la resistencia de los médicos</li>
+    <li>excellentExtra-&gt;que inspira ingenio incluso en situaciones desesperadas</li>
+    <li>excellentExtra-&gt;que equipa a los lectores con conocimientos esenciales de supervivencia</li>
+    <li>decentDesc-&gt;una guía aceptable para la medicina de campo</li>
+    <li>decentDesc-&gt;interesante pero sin pulir</li>
+    <li>decentDesc-&gt;útil en algunas áreas pero carente de profundidad</li>
+    <li>decentDesc-&gt;centrado en unos pocos escenarios médicos estrechos</li>
+    <li>decentDesc-&gt;ocasionalmente perspicaz pero desigual</li>
+    <li>decentExtra-&gt;y puede ser de utilidad para médicos menos experimentados</li>
+    <li>decentExtra-&gt;, no aborda el panorama general de la medicina rudimentaria en el Borde</li>
+    <li>decentExtra-&gt;aunque sus métodos pueden ser inconsistentes</li>
+    <li>awfulDesc-&gt;una colección desordenada de conjeturas médicas</li>
+    <li>awfulDesc-&gt;un lío confuso de técnicas obsoletas</li>
+    <li>awfulDesc-&gt;completamente poco práctico y mal investigado</li>
+    <li>awfulDesc-&gt;lleno de anécdotas irrelevantes y relleno</li>
+    <li>awfulDesc-&gt;un revoltijo caótico de tratamientos contradictorios</li>
+    <li>awfulExtra-&gt;y totalmente inútil para cualquiera que trate pacientes en el Borde</li>
+    <li>awfulExtra-&gt;y activamente dañino para cualquiera que busque orientación médica real</li>
+    <li>maybe_date-&gt;</li>
+    <li>maybe_date-&gt;El diario fue publicado [date_form].</li>
+    <li>maybe_date-&gt;El texto se registró por primera vez [date_form].</li>
+    <li>maybe_date-&gt;Sus orígenes se pierden en el tiempo, como tantos en el Borde.</li>
+    <li>date_form-&gt;recientemente</li>
+    <li>date_form-&gt;hace generaciones</li>
+    <li>date_form-&gt;en el [date]</li>
+    <li>date_form-&gt;durante [date_season]</li>
+    <li>bookType(p=4)-&gt;diario médico</li>
+    <li>bookType(p=3)-&gt;guía de campo</li>
+    <li>bookType(p=2)-&gt;manual de tratamiento</li>
+    <li>bookType(p=1)-&gt;guía de supervivencia</li>
+  </ABooks_MedicalJournal_Description.rulePack.rulesStrings>
+</LanguageData>

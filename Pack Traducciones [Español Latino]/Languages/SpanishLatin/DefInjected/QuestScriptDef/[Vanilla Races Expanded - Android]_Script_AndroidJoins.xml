@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <VREA_Quest_AndroidJoins.questDescriptionRules.rulesStrings>
+    <li>questDescription-&gt;[asker_nameFull], un androide despierto, está llamando desde cerca. [asker_pronoun] está siendo cazado por [enemyFaction_name]. Una vez que un androide experimenta un gran trauma emocional o felicidad, puede desarrollar sensibilidad y personalidad. A pesar de ser sintéticos, los androides despiertos exhiben un comportamiento similar al humano y poseen subrutinas adaptables. Sus cuerpos artificiales otorgan inmunidad a las enfermedades, pero requieren comodidad y espacio personal. Se entregan a actividades humanas y se esfuerzan por integrarse en la sociedad. Muchas sociedades no están de acuerdo con esto y prefieren a los androides como sirvientes, no como iguales. El grupo de búsqueda de [enemyFaction_pawnsPlural] está compuesto por: \n\n[raid/raidPawnKinds]\n\n[asker_nameFull] quiere que le des refugio en [map_definite]. Si aceptas, [asker_pronoun] llegará inmediatamente, pero [asker_pronoun] será seguido por el grupo de búsqueda que tendrás que derrotar.\n\nLos androides son construcciones sintéticas hechas por el hombre con cuerpos de metal y neutroamina corriendo por sus venas. Operados por un subnúcleo de IA, los androides son capaces de realizar todos los mismos tipos de trabajo que los humanos, sin los inconvenientes generalmente asociados con la vida orgánica.</li>
+  </VREA_Quest_AndroidJoins.questDescriptionRules.rulesStrings>
+  <VREA_Quest_AndroidJoins.questNameRules.rulesStrings>
+    <li>questName-&gt;el Androide [adjAny]</li>
+    <li>adjAny-&gt;cazado</li>
+    <li>adjAny-&gt;fugitivo</li>
+    <li>adjAny-&gt;perseguido</li>
+    <li>adjAny-&gt;emboscado</li>
+  </VREA_Quest_AndroidJoins.questNameRules.rulesStrings>
+  <VREA_Quest_AndroidJoins.root.nodes.Delay-0.node.parms.customLetterLabel.value.slateRef>{BASELABEL}: Enemigos persiguiendo</VREA_Quest_AndroidJoins.root.nodes.Delay-0.node.parms.customLetterLabel.value.slateRef>
+  <VREA_Quest_AndroidJoins.root.nodes.Delay-0.node.parms.customLetterText.value.slateRef>{BASETEXT}\n\nEstos son los enemigos que estaban cazando a [../asker_nameFull].\n              </VREA_Quest_AndroidJoins.root.nodes.Delay-0.node.parms.customLetterText.value.slateRef>
+  <VREA_Quest_AndroidJoins.root.nodes.PawnsArrive.customLetterText.slateRef>{BASETEXT}\n\nDebido a que aceptaste a [asker_nameDef], la banda de piratas que persigue a [asker_objective] llegará pronto.</VREA_Quest_AndroidJoins.root.nodes.PawnsArrive.customLetterText.slateRef>
+</LanguageData>

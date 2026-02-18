@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LoadingProgress.Stage.ApplyPatches>Aplicando parches XML... (&lt;i&gt;{0}&lt;/i&gt;)</LoadingProgress.Stage.ApplyPatches>
+  <LoadingProgress.Stage.AtlasBaking>Creando atlas estáticos...</LoadingProgress.Stage.AtlasBaking>
+  <LoadingProgress.Stage.ClearCachedPatches>Limpiando parches en caché...</LoadingProgress.Stage.ClearCachedPatches>
+  <LoadingProgress.Stage.CombineIntoUnifiedXml>Combinando XML...</LoadingProgress.Stage.CombineIntoUnifiedXml>
+  <LoadingProgress.Stage.CopyAllDefsToGlobalDatabases>Copiando todas las definiciones de los mods a las bases de datos globales...</LoadingProgress.Stage.CopyAllDefsToGlobalDatabases>
+  <LoadingProgress.Stage.ErrorCheckAllDefs>Comprobando errores en todas las definiciones...</LoadingProgress.Stage.ErrorCheckAllDefs>
+  <LoadingProgress.Stage.ErrorCheckPatches>Comprobando errores en parches XML...</LoadingProgress.Stage.ErrorCheckPatches>
+  <LoadingProgress.Stage.ErrorCheckPatches.ForMod>Comprobando errores en parches XML.. (&lt;i&gt;{0}&lt;/i&gt;)</LoadingProgress.Stage.ErrorCheckPatches.ForMod>
+  <LoadingProgress.Stage.ExecuteToExecuteWhenFinished>Ejecutando tareas de inicialización retrasadas... (&lt;i&gt;{0}&lt;/i&gt;)</LoadingProgress.Stage.ExecuteToExecuteWhenFinished>
+  <LoadingProgress.Stage.ExecuteToExecuteWhenFinished.Reloading.asset_bundles>Cargando paquetes de recursos para &lt;i&gt;{0}&lt;/i&gt;</LoadingProgress.Stage.ExecuteToExecuteWhenFinished.Reloading.asset_bundles>
+  <LoadingProgress.Stage.ExecuteToExecuteWhenFinished.Reloading.audio_clips>Cargando clips de audio para &lt;i&gt;{0}&lt;/i&gt;</LoadingProgress.Stage.ExecuteToExecuteWhenFinished.Reloading.audio_clips>
+  <LoadingProgress.Stage.ExecuteToExecuteWhenFinished.Reloading.strings>Cargando cadenas de texto para &lt;i&gt;{0}&lt;/i&gt;</LoadingProgress.Stage.ExecuteToExecuteWhenFinished.Reloading.strings>
+  <LoadingProgress.Stage.ExecuteToExecuteWhenFinished.Reloading.textures>Cargando texturas para &lt;i&gt;{0}&lt;/i&gt;</LoadingProgress.Stage.ExecuteToExecuteWhenFinished.Reloading.textures>
+  <LoadingProgress.Stage.Finished>¡Finalizado!</LoadingProgress.Stage.Finished>
+  <LoadingProgress.Stage.GarbageCollection>Ejecutando recolección de basura...</LoadingProgress.Stage.GarbageCollection>
+  <LoadingProgress.Stage.GenerateImpliedDefs>Generando definiciones implícitas (pre-resolución)...</LoadingProgress.Stage.GenerateImpliedDefs>
+  <LoadingProgress.Stage.GlobalOperationsEarly>Ejecutando operaciones globales (pasada temprana)...</LoadingProgress.Stage.GlobalOperationsEarly>
+  <LoadingProgress.Stage.Initializing>Inicializando...</LoadingProgress.Stage.Initializing>
+  <LoadingProgress.Stage.InjectSelectedLanguageDataEarly>Inyectando datos de idioma seleccionado en los datos del juego (pasada temprana)...</LoadingProgress.Stage.InjectSelectedLanguageDataEarly>
+  <LoadingProgress.Stage.InjectSelectedLanguageDataIntoGameData>Inyectando datos de idioma seleccionado en los datos del juego...</LoadingProgress.Stage.InjectSelectedLanguageDataIntoGameData>
+  <LoadingProgress.Stage.LegacyBackstoryTranslations>Cargando traducciones de trasfondos heredados...</LoadingProgress.Stage.LegacyBackstoryTranslations>
+  <LoadingProgress.Stage.LoadLanguage>Cargando datos de idioma... (&lt;i&gt;{0}&lt;/i&gt;)</LoadingProgress.Stage.LoadLanguage>
+  <LoadingProgress.Stage.LoadLanguageMetadata>Cargando metadatos de idioma...</LoadingProgress.Stage.LoadLanguageMetadata>
+  <LoadingProgress.Stage.LoadModXml>Cargando XML de mods... (&lt;i&gt;{0}&lt;/i&gt;)</LoadingProgress.Stage.LoadModXml>
+  <LoadingProgress.Stage.LoadingAllBios>Cargando todas las biografías...</LoadingProgress.Stage.LoadingAllBios>
+  <LoadingProgress.Stage.LoadingDefs>Cargando definiciones... (&lt;i&gt;{0}&lt;/i&gt;)</LoadingProgress.Stage.LoadingDefs>
+  <LoadingProgress.Stage.LoadingDefs.WithDef>Cargando definiciones... (&lt;i&gt;{0} — {1} ({2})&lt;/i&gt;)</LoadingProgress.Stage.LoadingDefs.WithDef>
+  <LoadingProgress.Stage.LoadingModClasses>Cargando clases de mods... (&lt;i&gt;{0}&lt;/i&gt;)</LoadingProgress.Stage.LoadingModClasses>
+  <LoadingProgress.Stage.OtherOperationsPostResolve>Ejecutando otras operaciones globales (post-resolución)...</LoadingProgress.Stage.OtherOperationsPostResolve>
+  <LoadingProgress.Stage.OtherOperationsPreResolve>Ejecutando otras operaciones globales (pre-resolución)...</LoadingProgress.Stage.OtherOperationsPreResolve>
+  <LoadingProgress.Stage.ParseAndProcessXml>Analizando y procesando XML...</LoadingProgress.Stage.ParseAndProcessXml>
+  <LoadingProgress.Stage.ParseAndProcessXml.ForMod>Analizando y procesando XML... (&lt;i&gt;{0}&lt;/i&gt;)</LoadingProgress.Stage.ParseAndProcessXml.ForMod>
+  <LoadingProgress.Stage.RebindDefOfsEarly>Revinculando DefOfs (temprano)...</LoadingProgress.Stage.RebindDefOfsEarly>
+  <LoadingProgress.Stage.RebindDefOfsFinal>Revinculando DefOfs (final)...</LoadingProgress.Stage.RebindDefOfsFinal>
+  <LoadingProgress.Stage.ResolveCrossReferencesBetweenImpliedDefs>Resolviendo referencias cruzadas entre definiciones creadas por las definiciones implícitas...</LoadingProgress.Stage.ResolveCrossReferencesBetweenImpliedDefs>
+  <LoadingProgress.Stage.ResolveCrossReferencesBetweenNonImpliedDefsStage1>Resolviendo referencias cruzadas entre definiciones no implícitas (etapa 1)...</LoadingProgress.Stage.ResolveCrossReferencesBetweenNonImpliedDefsStage1>
+  <LoadingProgress.Stage.ResolveCrossReferencesBetweenNonImpliedDefsStage2>Resolviendo referencias cruzadas entre definiciones no implícitas (etapa 2)...</LoadingProgress.Stage.ResolveCrossReferencesBetweenNonImpliedDefsStage2>
+  <LoadingProgress.Stage.ResolveReferences>Resolviendo referencias... (&lt;i&gt;{0}&lt;/i&gt;)</LoadingProgress.Stage.ResolveReferences>
+  <LoadingProgress.Stage.ShortHashGiving>Asignando hashes cortos a las definiciones...</LoadingProgress.Stage.ShortHashGiving>
+  <LoadingProgress.Stage.StaticConstructorOnStartupCallAll>Llamando a todos los constructores estáticos... (&lt;i&gt;{0}&lt;/i&gt;)</LoadingProgress.Stage.StaticConstructorOnStartupCallAll>
+  <LoadingProgress.Stage.TKeySystemBuildMappings>Construyendo mapeos del sistema de claves de traducción...</LoadingProgress.Stage.TKeySystemBuildMappings>
+  <LoadingProgress.Stage.TKeySystemParse>Analizando sistema de claves de traducción...</LoadingProgress.Stage.TKeySystemParse>
+  <LoadingProgress.Stage.XmlInheritanceClear>Limpiando herencia XML...</LoadingProgress.Stage.XmlInheritanceClear>
+  <LoadingProgress.Stage.XmlInheritanceResolve>Resolviendo herencia XML...</LoadingProgress.Stage.XmlInheritanceResolve>
+</LanguageData>

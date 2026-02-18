@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <VCE_SantaAerodrone.questDescriptionRules.rulesStrings>
+    <li>questDescription-&gt;Se ha detectado un aerodrón festivo en órbita, transportando un cargamento de regalos. Has adquirido los medios para redirigirlo, haciendo que se estrelle en [map_definite].\n\nCuando se estrelle, el aerodrón expulsará numerosos regalos al aire, esparciéndolos por la zona. Recógelos rápidamente antes de que se pierdan o destruyan. [raidsDescription]\n\nLos restos del aerodrón se autodestruirán en [destroyDelayTicks_duration], sin dejar nada atrás.</li>
+    <li>questDescription-&gt;Se ha detectado en órbita un alegre aerodrón cargado de regalos. Con los códigos correctos, puedes redirigirlo para que se estrelle en [map_definite].\n\nTras el impacto, el dron esparcirá su preciosa carga de regalos por la zona. Reúnelos rápidamente antes de que sean reclamados por otros o destruidos. [raidsDescription]\n\nTen en cuenta que los restos del aerodrón se autodestruirán en [destroyDelayTicks_duration].</li>
+    <li>questDescription-&gt;Se ha localizado un dron de reparto festivo que transporta un cargamento de regalos. Puedes usar un código especial para forzarlo a estrellarse en [map_definite].\n\nCuando se estrelle, una lluvia de regalos caerá sobre la zona, listos para ser recogidos. Asegura tantos como puedas antes de que llegue el peligro. [raidsDescription]\n\nLos restos del dron se borrarán en [destroyDelayTicks_duration].</li>
+    <li>questDescription-&gt;Has interceptado una señal de un aerodrón festivo repleto de regalos. Redirígelo para que se estrelle en [map_definite] y reclama la recompensa de regalos dispersos que expulsará tras el impacto. [raidsDescription]\n\nDate prisa, ya que los restos del dron se autodestruirán en [destroyDelayTicks_duration], sin dejar nada atrás.</li>
+    <li>questDescription-&gt;Se ha detectado un aerodrón en órbita repleto de regalos festivos. Usando tus códigos, puedes hacer que se estrelle en [map_definite], liberando una cascada de regalos en el aire. Recógelos rápidamente y prepárate para posibles problemas. [raidsDescription]\n\nLos restos del dron se destruirán a sí mismos en [destroyDelayTicks_duration].</li>
+    <li>raidsDescription(allowViolence==true)-&gt;\n\n[enemyFaction_pawnsPlural] de [enemyFaction_name] [droneDetectionMethod]. Intentarán apoderarse de los regalos, enviando atacantes aproximadamente cada [raidIntervalAvg_duration]. Tendrás una breve ventana para asegurar el área y defender tu botín antes de que lleguen.</li>
+    <li>raidsDescription(allowViolence==false)-&gt;</li>
+    <li>droneDetectionMethod(enemyFactionNeolithic==true)-&gt;verán el aerodrón durante su descenso</li>
+    <li>droneDetectionMethod(enemyFactionNeolithic==false)-&gt;detectarán la firma de energía del aerodrón</li>
+    <li>droneDetectionMethod(enemyFactionNeolithic==true)-&gt;verán el aerodrón festivo durante su descenso</li>
+    <li>droneDetectionMethod(enemyFactionNeolithic==false)-&gt;detectarán la firma de energía única del aerodrón festivo</li>
+    <li>raidsDescription(allowViolence==true)-&gt;\n\n[enemyFaction_pawnsPlural] de [enemyFaction_name] [droneDetectionMethod]. Intentarán apoderarse de los regalos, enviando atacantes aproximadamente cada [raidIntervalAvg_duration]. Usa el tiempo antes de su llegada para fortificar tus defensas y asegurar los regalos.</li>
+    <li>raidsDescription(allowViolence==true)-&gt;\n\n[enemyFaction_pawnsPlural] de [enemyFaction_name] seguramente [droneDetectionMethod]. Lanzarán ataques aproximadamente cada [raidIntervalAvg_duration] en un intento de reclamar el botín. Prepárate para defender tus ganancias.</li>
+    <li>raidsDescription(allowViolence==true)-&gt;\n\n[enemyFaction_pawnsPlural] de [enemyFaction_name] [droneDetectionMethod]. Convencidos del valor del aerodrón, atacarán aproximadamente cada [raidIntervalAvg_duration]. Prepárate para proteger los regalos de sus garras.</li>
+    <li>raidsDescription(allowViolence==false)-&gt;</li>
+  </VCE_SantaAerodrone.questDescriptionRules.rulesStrings>
+  <VCE_SantaAerodrone.questNameRules.rulesStrings>
+    <li>questName-&gt;redirección de [aerodrone] [santaAdj]</li>
+    <li>questName-&gt;intercepción de [cargo] de [aerodrone]</li>
+    <li>questName-&gt;accidente de [cargo] [santaAdj]</li>
+    <li>santaAdj-&gt;festivo</li>
+    <li>santaAdj-&gt;alegre</li>
+    <li>santaAdj-&gt;vacacional</li>
+    <li>santaAdj-&gt;cargado de regalos</li>
+    <li>aerodrone-&gt;aerodrón</li>
+    <li>aerodrone-&gt;dron de reparto</li>
+    <li>aerodrone-&gt;nave de regalos</li>
+    <li>aerodrone-&gt;trineodrón</li>
+    <li>cargo-&gt;carga</li>
+    <li>cargo-&gt;regalos</li>
+    <li>cargo-&gt;obsequios</li>
+    <li>cargo-&gt;tesoros</li>
+  </VCE_SantaAerodrone.questNameRules.rulesStrings>
+</LanguageData>

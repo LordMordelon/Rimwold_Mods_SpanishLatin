@@ -1,0 +1,475 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <VCE_ToyDescriptionRoot_Metal.rulePack.rulesStrings>
+    <li>desc-&gt;[toy_description_group]</li>
+    <li>toy_description_group-&gt;[metaltoy_clause]. [play_description_group]</li>
+    <li>toy_description_group-&gt;[metaltoy_clause] [toy_conjunction]. [metaltoy_extra_clause].</li>
+    <li>toy_description_group-&gt;[metaltoy_clause] [toy_conjunction].</li>
+    <li>toy_description_group-&gt;[metaltoy_extra_clause]. [play_description_group]</li>
+    <li>toy_conjunction(p=6)-&gt;</li>
+    <li>toy_conjunction-&gt;reflejando un sentido de nostalgia</li>
+    <li>toy_conjunction-&gt;brillando con precisión</li>
+    <li>toy_conjunction-&gt;con una artesanía robusta</li>
+    <li>toy_conjunction-&gt;destacando su atractivo atemporal</li>
+    <li>toy_conjunction-&gt;insinuando viajes no contados</li>
+    <li>toy_conjunction-&gt;con una elegancia juguetona</li>
+    <li>toy_conjunction-&gt;invitando a la exploración</li>
+    <li>toy_conjunction-&gt;evocando una sensación de asombro</li>
+    <li>metaltoy_clause-&gt;la superficie de este juguete es [metal_texture] y [metal_markings]</li>
+    <li>metaltoy_clause-&gt;sus bordes son [edge_quality], mezclándose en [form_quality]</li>
+    <li>metaltoy_clause-&gt;el acabado metálico de este juguete es [finish_quality], dándole [visual_tone]</li>
+    <li>metaltoy_clause-&gt;pequeñas [imperfections] en el metal hacen que este juguete se sienta [emotive_descriptor]</li>
+    <li>metaltoy_clause-&gt;el equilibrio del juguete se siente [balance_descriptor], fomentando [action_descriptor]</li>
+    <li>metaltoy_clause-&gt;[sound_effect] resuena cuando este juguete se mueve, sumándose a su encanto</li>
+    <li>metaltoy_clause-&gt;el diseño de este juguete es tanto [design_quality] como [emotional_tone]</li>
+    <li>metaltoy_extra_clause-&gt;sutiles [use_quality] marcan su superficie</li>
+    <li>metaltoy_extra_clause-&gt;los bordes están pulidos por [time_effect]</li>
+    <li>metaltoy_extra_clause-&gt;la forma insinúa [vague_inspiration]</li>
+    <li>metaltoy_extra_clause-&gt;un tenue brillo [color_descriptor] refleja la luz</li>
+    <li>metaltoy_extra_clause-&gt;su precisión conlleva una sensación de [abstract_concept]</li>
+    <li>metaltoy_extra_clause-&gt;el juguete irradia energía [emotive_descriptor]</li>
+    <li>metaltoy_extra_clause-&gt;pequeñas abolladuras cuentan una historia de [implied_history]</li>
+    <li>metal_texture-&gt;suave y fría</li>
+    <li>metal_texture-&gt;ligeramente áspera</li>
+    <li>metal_texture-&gt;pulida hasta brillar</li>
+    <li>metal_texture-&gt;desgastada y mate</li>
+    <li>metal_texture-&gt;suave como el vidrio, con tenues ondas</li>
+    <li>metal_texture-&gt;estriada con delicados surcos</li>
+    <li>metal_texture-&gt;levemente picada con imperfecciones</li>
+    <li>metal_texture-&gt;pulida hasta un brillo de espejo</li>
+    <li>metal_texture-&gt;grabada con patrones nítidos e intrincados</li>
+    <li>metal_texture-&gt;adornada con un desgaste desigual de innumerables manos</li>
+    <li>metal_texture-&gt;salpicada con pequeñas manchas de decoloración</li>
+    <li>metal_texture-&gt;estropeada por líneas sutiles de años de movimiento</li>
+    <li>metal_markings-&gt;grabada con finos detalles</li>
+    <li>metal_markings-&gt;rayada con rasguños</li>
+    <li>metal_markings-&gt;raspada por el juego</li>
+    <li>metal_markings-&gt;mostrando signos de edad</li>
+    <li>edge_quality-&gt;nítidos y definidos</li>
+    <li>edge_quality-&gt;ligeramente redondeados</li>
+    <li>edge_quality-&gt;suaves y precisos</li>
+    <li>edge_quality-&gt;afilados y finamente cónicos</li>
+    <li>edge_quality-&gt;redondeados pero con ángulos precisos</li>
+    <li>edge_quality-&gt;suavemente curvos y fluidos</li>
+    <li>edge_quality-&gt;fuertemente reforzados con bordes gruesos</li>
+    <li>edge_quality-&gt;esculpidos en una forma dinámica y audaz</li>
+    <li>edge_quality-&gt;geométricamente perfectos, con intersecciones nítidas</li>
+    <li>edge_quality-&gt;equilibrados y simétricos, casi arquitectónicos</li>
+    <li>edge_quality-&gt;un híbrido de curvas suaves y líneas duras</li>
+    <li>form_quality-&gt;elegante y aerodinámica</li>
+    <li>form_quality-&gt;geométrica y angular</li>
+    <li>form_quality-&gt;compacta y equilibrada</li>
+    <li>finish_quality-&gt;brillante y reflectante</li>
+    <li>finish_quality-&gt;cepillado y sutil</li>
+    <li>finish_quality-&gt;desgastado y opaco</li>
+    <li>finish_quality-&gt;prístino e impecable</li>
+    <li>finish_quality-&gt;brillantemente pulido, captando cada destello de luz</li>
+    <li>finish_quality-&gt;apagado y mate, dándole un encanto misterioso</li>
+    <li>finish_quality-&gt;brillando suavemente con un lustre sutil</li>
+    <li>finish_quality-&gt;desgastado hasta un lustre suave con el tiempo</li>
+    <li>finish_quality-&gt;brillando con un tono metálico radiante</li>
+    <li>finish_quality-&gt;esmerilado con un acabado cepillado</li>
+    <li>finish_quality-&gt;oscurecido con una pátina ahumada</li>
+    <li>finish_quality-&gt;vibrante con una calidez de latón pulido</li>
+    <li>visual_tone-&gt;un brillo metálico</li>
+    <li>visual_tone-&gt;un resplandor apagado</li>
+    <li>visual_tone-&gt;un lustre llamativo</li>
+    <li>visual_tone-&gt;una pátina sutil</li>
+    <li>imperfections-&gt;pequeñas muescas</li>
+    <li>imperfections-&gt;abolladuras diminutas</li>
+    <li>imperfections-&gt;ligeras decoloraciones</li>
+    <li>imperfections-&gt;rasguños finos</li>
+    <li>imperfections-&gt;pequeños rasguños que cuentan una historia de juego</li>
+    <li>imperfections-&gt;abolladuras diminutas que sugieren una historia de caídas</li>
+    <li>imperfections-&gt;abrasiones leves a lo largo de su superficie, dándole carácter</li>
+    <li>imperfections-&gt;manchas de oxidación que insinúan edad</li>
+    <li>imperfections-&gt;un tambaleo apenas perceptible en su forma</li>
+    <li>imperfections-&gt;ligeramente deformado, como si se hubiera ablandado por el calor hace mucho tiempo</li>
+    <li>imperfections-&gt;bordes suaves por el manejo repetido</li>
+    <li>imperfections-&gt;coloración desigual que añade profundidad e intriga</li>
+    <li>emotive_descriptor-&gt;encantador</li>
+    <li>emotive_descriptor-&gt;nostálgico</li>
+    <li>emotive_descriptor-&gt;robusto</li>
+    <li>emotive_descriptor-&gt;atemporal</li>
+    <li>balance_descriptor-&gt;ponderado con precisión</li>
+    <li>balance_descriptor-&gt;ligeramente descentrado</li>
+    <li>balance_descriptor-&gt;inesperadamente estable</li>
+    <li>action_descriptor-&gt;manejo cuidadoso</li>
+    <li>action_descriptor-&gt;rodar juguetón</li>
+    <li>action_descriptor-&gt;examen curioso</li>
+    <li>sound_effect-&gt;un leve tintineo</li>
+    <li>sound_effect-&gt;un ping metálico</li>
+    <li>sound_effect-&gt;un suave traqueteo</li>
+    <li>design_quality-&gt;minimalista</li>
+    <li>design_quality-&gt;industrial</li>
+    <li>design_quality-&gt;intrincado</li>
+    <li>emotional_tone-&gt;juguetón</li>
+    <li>emotional_tone-&gt;imaginativo</li>
+    <li>emotional_tone-&gt;futurista</li>
+    <li>use_quality-&gt;desgaste suave</li>
+    <li>use_quality-&gt;juego frecuente</li>
+    <li>use_quality-&gt;preservación cuidadosa</li>
+    <li>time_effect-&gt;décadas de disfrute</li>
+    <li>time_effect-&gt;años de uso</li>
+    <li>time_effect-&gt;innumerables aventuras</li>
+    <li>vague_inspiration-&gt;sueños de vuelo</li>
+    <li>vague_inspiration-&gt;precisión mecánica</li>
+    <li>vague_inspiration-&gt;futuros lejanos</li>
+    <li>color_descriptor-&gt;plateado</li>
+    <li>color_descriptor-&gt;dorado</li>
+    <li>color_descriptor-&gt;bronce</li>
+    <li>color_descriptor-&gt;gris acero</li>
+    <li>abstract_concept-&gt;imaginación</li>
+    <li>abstract_concept-&gt;exploración</li>
+    <li>abstract_concept-&gt;ingenio</li>
+    <li>abstract_concept-&gt;progreso</li>
+    <li>implied_history-&gt;viajes aventureros</li>
+    <li>implied_history-&gt;horas tranquilas de juego</li>
+    <li>implied_history-&gt;sueños olvidados</li>
+    <li>implied_history-&gt;manos cuidadosas de un artesano</li>
+    <li>play_description_group-&gt;[metaltoy_play_clause].</li>
+    <li>play_description_group-&gt;[metaltoy_play_clause] [play_conjunction] [metaltoy_play_extra_clause].</li>
+    <li>play_description_group-&gt;[metaltoy_play_clause] [play_conjunction].</li>
+    <li>play_description_group-&gt;[metaltoy_play_extra_clause].</li>
+    <li>play_description_group-&gt;</li>
+    <li>metaltoy_play_clause-&gt;se puede rodar a lo largo de su [surface_feature], creando [motion_effect]</li>
+    <li>metaltoy_play_clause-&gt;equilibrarlo se siente [balance_descriptor] y [action_tone]</li>
+    <li>metaltoy_play_clause-&gt;las partes móviles encajan con [sound_effect]</li>
+    <li>metaltoy_play_clause-&gt;invita a [action_type], fomentando [play_style]</li>
+    <li>metaltoy_play_clause-&gt;su diseño compacto es ideal para [imaginative_theme]</li>
+    <li>metaltoy_play_clause-&gt;hace [sound_effect] cuando se gira, añadiendo [play_quality]</li>
+    <li>metaltoy_play_extra_clause-&gt;su durabilidad permite [unexpected_use]</li>
+    <li>metaltoy_play_extra_clause-&gt;el juguete puede soportar [action_setting], mejorando el juego</li>
+    <li>metaltoy_play_extra_clause-&gt;su construcción precisa se siente [tactile_quality]</li>
+    <li>metaltoy_play_extra_clause-&gt;la forma en que se mueve insinúa [vague_inspiration]</li>
+    <li>metaltoy_play_extra_clause-&gt;fomenta [skill_testing], recompensando la creatividad</li>
+    <li>metaltoy_play_extra_clause-&gt;el sonido que hace durante el juego es [sound_quality]</li>
+  </VCE_ToyDescriptionRoot_Metal.rulePack.rulesStrings>
+  <VCE_ToyDescriptionRoot_Plushie.rulePack.rulesStrings>
+    <li>desc-&gt;[plushie_description_group]</li>
+    <li>plushie_description_group-&gt;[plushie_clause]. [play_description_group]</li>
+    <li>plushie_description_group-&gt;[plushie_clause] [toy_conjunction]. [plushie_extra_clause].</li>
+    <li>plushie_description_group-&gt;[plushie_clause] [toy_conjunction].</li>
+    <li>plushie_description_group-&gt;[plushie_extra_clause]. [play_description_group]</li>
+    <li>toy_conjunction(p=6)-&gt;</li>
+    <li>toy_conjunction-&gt;trayendo una sensación de confort</li>
+    <li>toy_conjunction-&gt;con un encanto irresistible</li>
+    <li>toy_conjunction-&gt;invitando a abrazos interminables</li>
+    <li>toy_conjunction-&gt;con una suavidad que calma</li>
+    <li>toy_conjunction-&gt;trayendo recuerdos de la infancia</li>
+    <li>toy_conjunction-&gt;llevando un toque de fantasía</li>
+    <li>toy_conjunction-&gt;con una calidez juguetona</li>
+    <li>toy_conjunction-&gt;despertando un sentido de imaginación</li>
+    <li>plushie_clause-&gt;la superficie del juguete es [plush_texture] y [plush_markings]</li>
+    <li>plushie_clause-&gt;las costuras de este juguete están [seam_quality], manteniendo unido [stuffing_quality]</li>
+    <li>plushie_clause-&gt;la tela de este juguete se siente [fabric_quality], dándole [visual_tone]</li>
+    <li>plushie_clause-&gt;pequeñas [imperfections] añaden a su carácter [emotive_descriptor]</li>
+    <li>plushie_clause-&gt;este juguete tiene el peso justo para sentirse [balance_descriptor]</li>
+    <li>plushie_clause-&gt;[scent_descriptor] perdura, realzando su encanto</li>
+    <li>plushie_clause-&gt;el diseño de este juguete es tanto [design_quality] como [emotional_tone]</li>
+    <li>plushie_extra_clause-&gt;sutiles [use_quality] marcan su tela</li>
+    <li>plushie_extra_clause-&gt;los bordes están ligeramente desgastados por [time_effect]</li>
+    <li>plushie_extra_clause-&gt;la forma insinúa [vague_inspiration]</li>
+    <li>plushie_extra_clause-&gt;un tenue tono [color_descriptor] suaviza su apariencia</li>
+    <li>plushie_extra_clause-&gt;irradia una sensación de [abstract_concept]</li>
+    <li>plushie_extra_clause-&gt;pequeñas puntadas cuentan una historia de [implied_history]</li>
+    <li>plushie_extra_clause-&gt;la suavidad conlleva una energía de [emotive_descriptor]</li>
+    <li>plush_texture-&gt;suave como el terciopelo</li>
+    <li>plush_texture-&gt;ligeramente desgastada</li>
+    <li>plush_texture-&gt;suave y esponjosa</li>
+    <li>plush_texture-&gt;irregular y desigual</li>
+    <li>plush_markings-&gt;estampada con rayas suaves</li>
+    <li>plush_markings-&gt;salpicada con manchas juguetonas</li>
+    <li>plush_markings-&gt;desteñida en lugares por abrazos</li>
+    <li>plush_markings-&gt;con leves marcas de juego</li>
+    <li>plush_texture-&gt;suave como la seda, con un brillo suave</li>
+    <li>plush_texture-&gt;delicadamente vellosa, como una nube cálida</li>
+    <li>plush_texture-&gt;con parches, con signos de amor y cuidado</li>
+    <li>plush_texture-&gt;suave como algodón recién hilado</li>
+    <li>plush_texture-&gt;ligeramente enmarañada por innumerables abrazos</li>
+    <li>plush_markings-&gt;moteada con patrones tenues</li>
+    <li>plush_markings-&gt;marcada por pequeños deshilachados a lo largo de los bordes</li>
+    <li>plush_markings-&gt;adornada con bordados desteñidos</li>
+    <li>plush_markings-&gt;mostrando pequeñas manchas irregulares de desgaste</li>
+    <li>plush_markings-&gt;decorada con costuras caprichosas</li>
+    <li>seam_quality-&gt;cuidadosamente cosidas</li>
+    <li>seam_quality-&gt;ligeramente deshilachadas</li>
+    <li>seam_quality-&gt;reforzadas para durabilidad</li>
+    <li>seam_quality-&gt;delicadamente cosidas a mano</li>
+    <li>stuffing_quality-&gt;ligero y aireado</li>
+    <li>stuffing_quality-&gt;firme pero suave</li>
+    <li>stuffing_quality-&gt;ligeramente desigual</li>
+    <li>stuffing_quality-&gt;afelpado y denso</li>
+    <li>seam_quality-&gt;cosidas con hilo juguetón y colorido</li>
+    <li>seam_quality-&gt;ocultas cuidadosamente dentro de la tela</li>
+    <li>seam_quality-&gt;reforzadas con capas superpuestas</li>
+    <li>seam_quality-&gt;alineadas flojamente, pero robustas</li>
+    <li>stuffing_quality-&gt;ligero y elástico, perfecto para abrazar</li>
+    <li>stuffing_quality-&gt;afelpado y ligeramente blando</li>
+    <li>stuffing_quality-&gt;denso y firmemente empaquetado</li>
+    <li>stuffing_quality-&gt;suave con un ligero resorte</li>
+    <li>stuffing_quality-&gt;desigual pero entrañable</li>
+    <li>fabric_quality-&gt;suave y reconfortante</li>
+    <li>fabric_quality-&gt;suave con un brillo gentil</li>
+    <li>fabric_quality-&gt;delicada y acogedora</li>
+    <li>fabric_quality-&gt;ligeramente áspera pero entrañable</li>
+    <li>visual_tone-&gt;un brillo cálido y pastel</li>
+    <li>visual_tone-&gt;un estallido vibrante de color</li>
+    <li>visual_tone-&gt;un tono apagado y acogedor</li>
+    <li>visual_tone-&gt;un patrón alegre</li>
+    <li>fabric_quality-&gt;cálida y vellosa al tacto</li>
+    <li>fabric_quality-&gt;ligeramente áspera pero acogedora</li>
+    <li>fabric_quality-&gt;suave con crestas juguetonas</li>
+    <li>fabric_quality-&gt;delicada, con una textura suave</li>
+    <li>visual_tone-&gt;un brillo pastel calmante</li>
+    <li>visual_tone-&gt;una paleta juguetona y vibrante</li>
+    <li>visual_tone-&gt;un tono suave y terroso</li>
+    <li>visual_tone-&gt;una mezcla de colores alegres y relajantes</li>
+    <li>visual_tone-&gt;un mosaico de tonos brillantes y contrastantes</li>
+    <li>imperfections-&gt;pequeños hilos sueltos</li>
+    <li>imperfections-&gt;parches desteñidos</li>
+    <li>imperfections-&gt;costuras menores desiguales</li>
+    <li>imperfections-&gt;forma ligeramente desigual</li>
+    <li>emotive_descriptor-&gt;adorable</li>
+    <li>emotive_descriptor-&gt;abrazable</li>
+    <li>emotive_descriptor-&gt;juguetón</li>
+    <li>emotive_descriptor-&gt;nostálgico</li>
+    <li>imperfections-&gt;hilos sueltos arrastrándose a lo largo de las costuras</li>
+    <li>imperfections-&gt;secciones ligeramente aplanadas por el uso frecuente</li>
+    <li>imperfections-&gt;pequeños parches desgastados revelando el relleno</li>
+    <li>imperfections-&gt;costuras desiguales que añaden personalidad</li>
+    <li>imperfections-&gt;costura torcida que le da carácter</li>
+    <li>emotive_descriptor-&gt;conmovedor</li>
+    <li>emotive_descriptor-&gt;entrañable</li>
+    <li>emotive_descriptor-&gt;acurrucable</li>
+    <li>emotive_descriptor-&gt;inocente</li>
+    <li>emotive_descriptor-&gt;encantador</li>
+    <li>scent_descriptor-&gt;fragancia de lavanda</li>
+    <li>scent_descriptor-&gt;olor a algodón</li>
+    <li>scent_descriptor-&gt;olor a suavizante de telas</li>
+    <li>scent_descriptor-&gt;aroma suave y dulce</li>
+    <li>balance_descriptor-&gt;perfectamente reconfortante</li>
+    <li>balance_descriptor-&gt;suavemente ponderado</li>
+    <li>balance_descriptor-&gt;ligero pero estable</li>
+    <li>balance_descriptor-&gt;delicadamente equilibrado</li>
+    <li>scent_descriptor-&gt;olor a manzanilla</li>
+    <li>scent_descriptor-&gt;rastro de talco para bebés</li>
+    <li>scent_descriptor-&gt;a lino recién limpiado</li>
+    <li>scent_descriptor-&gt;cálido aroma a vainilla</li>
+    <li>balance_descriptor-&gt;lo suficientemente ligero para llevar a todas partes</li>
+    <li>balance_descriptor-&gt;ponderado ligeramente en el centro</li>
+    <li>balance_descriptor-&gt;perfectamente equilibrado para abrazar</li>
+    <li>balance_descriptor-&gt;lo suficientemente pesado para quedarse en su lugar</li>
+    <li>design_quality-&gt;simple y acogedor</li>
+    <li>design_quality-&gt;encantador e intrincado</li>
+    <li>design_quality-&gt;caprichoso y creativo</li>
+    <li>design_quality-&gt;infantil y puro</li>
+    <li>use_quality-&gt;desgaste suave de innumerables abrazos</li>
+    <li>use_quality-&gt;marcas tenues de pequeñas aventuras</li>
+    <li>use_quality-&gt;signos de amor y cuidado</li>
+    <li>use_quality-&gt;rastros sutiles de larga propiedad</li>
+    <li>design_quality-&gt;elaborado con detalles intrincados</li>
+    <li>design_quality-&gt;diseñado para ser simple pero atractivo</li>
+    <li>design_quality-&gt;juguetonamente asimétrico, añadiendo encanto</li>
+    <li>design_quality-&gt;cosido con cuidado reflexivo</li>
+    <li>use_quality-&gt;suavizado por años de abrazos suaves</li>
+    <li>use_quality-&gt;marcado con rastros tenues de pequeñas aventuras</li>
+    <li>use_quality-&gt;levemente desgastado de innumerables apretones juguetones</li>
+    <li>use_quality-&gt;mostrando signos de ser un compañero constante</li>
+    <li>time_effect-&gt;años de juego apreciado</li>
+    <li>time_effect-&gt;generaciones de amor</li>
+    <li>time_effect-&gt;innumerables momentos tranquilos</li>
+    <li>vague_inspiration-&gt;sueños inocentes</li>
+    <li>vague_inspiration-&gt;imaginación juguetona</li>
+    <li>vague_inspiration-&gt;confort en las pequeñas cosas</li>
+    <li>color_descriptor-&gt;un color rosa rosado</li>
+    <li>color_descriptor-&gt;un color crema suave</li>
+    <li>color_descriptor-&gt;un color azul pastel claro</li>
+    <li>color_descriptor-&gt;un color lavanda suave</li>
+    <li>abstract_concept-&gt;confort</li>
+    <li>abstract_concept-&gt;seguridad</li>
+    <li>abstract_concept-&gt;alegría</li>
+    <li>abstract_concept-&gt;amor</li>
+    <li>time_effect-&gt;días pasados como una presencia reconfortante</li>
+    <li>time_effect-&gt;años de compañía atesorada</li>
+    <li>time_effect-&gt;recuerdos guardados en cada hilo</li>
+    <li>time_effect-&gt;noches interminables de sueño pacífico</li>
+    <li>vague_inspiration-&gt;cuidado suave y seguridad</li>
+    <li>vague_inspiration-&gt;sueños de aventuras en un mundo mágico</li>
+    <li>vague_inspiration-&gt;cuentos imaginativos contados por manos pequeñas</li>
+    <li>color_descriptor-&gt;un beige dorado cálido</li>
+    <li>color_descriptor-&gt;un verde menta juguetón</li>
+    <li>color_descriptor-&gt;un amarillo sol vibrante</li>
+    <li>color_descriptor-&gt;un tinte lila suave</li>
+    <li>abstract_concept-&gt;compañía</li>
+    <li>abstract_concept-&gt;inocencia</li>
+    <li>abstract_concept-&gt;alegría</li>
+    <li>abstract_concept-&gt;calidez</li>
+    <li>implied_history-&gt;el amigo atesorado de un niño</li>
+    <li>implied_history-&gt;interminables cuentos antes de dormir</li>
+    <li>implied_history-&gt;manos pequeñas que lo agarraron con fuerza</li>
+    <li>implied_history-&gt;siestas tranquilas por la tarde</li>
+    <li>implied_history-&gt;una fuente de confort en días lluviosos</li>
+    <li>implied_history-&gt;un testigo silencioso de innumerables cuentos antes de dormir</li>
+    <li>implied_history-&gt;un amigo firme durante momentos solitarios</li>
+    <li>implied_history-&gt;un compañero constante en muchas aventuras</li>
+    <li>play_description_group-&gt;[plushie_play_clause].</li>
+    <li>play_description_group-&gt;[plushie_play_clause] [play_conjunction] [plushie_play_extra_clause].</li>
+    <li>play_description_group-&gt;[plushie_play_clause] [play_conjunction].</li>
+    <li>play_description_group-&gt;[plushie_play_extra_clause].</li>
+    <li>play_description_group-&gt;</li>
+    <li>plushie_play_clause-&gt;invita a abrazos interminables, sintiéndose [tactile_quality]</li>
+    <li>plushie_play_clause-&gt;su peso suave es perfecto para [pretend_play]</li>
+    <li>plushie_play_clause-&gt;abrazarlo se siente [hug_quality]</li>
+    <li>plushie_play_clause-&gt;sus extremidades flexibles inspiran [imaginative_theme]</li>
+    <li>plushie_play_clause-&gt;su forma es ideal para [interactive_action]</li>
+    <li>plushie_play_clause-&gt;su tela responde al tacto con [fabric_reaction]</li>
+    <li>plushie_play_clause-&gt;sus brazos flexibles son perfectos para gestos dramáticos</li>
+    <li>plushie_play_clause-&gt;su peso suave lo hace ideal para fiestas de té</li>
+    <li>plushie_play_clause-&gt;apretarlo proporciona una sensación deliciosa y blanda</li>
+    <li>plushie_play_clause-&gt;su forma inspira cuentos salvajes y escenarios juguetones</li>
+    <li>plushie_play_clause-&gt;tiene el tamaño perfecto para llevar a todas partes</li>
+    <li>plushie_play_clause-&gt;su textura invita a una exploración táctil interminable</li>
+    <li>plushie_play_extra_clause-&gt;su presencia reconfortante fomenta [collaborative_play]</li>
+    <li>plushie_play_extra_clause-&gt;su suavidad recompensa [skill_testing]</li>
+    <li>plushie_play_extra_clause-&gt;se siente cálido y acogedor cuando [play_interaction]</li>
+    <li>plushie_play_extra_clause-&gt;su diseño despierta [creative_play]</li>
+    <li>plushie_play_extra_clause-&gt;fomenta un sentido de [playful_emotion]</li>
+    <li>plushie_play_extra_clause-&gt;sus costuras insinúan [implied_story]</li>
+    <li>plushie_play_extra_clause-&gt;brilla durante las sesiones de narración en grupo</li>
+    <li>plushie_play_extra_clause-&gt;se convierte en un héroe en misiones de rescate simuladas</li>
+    <li>plushie_play_extra_clause-&gt;su presencia inspira el juego creativo con amigos</li>
+    <li>plushie_play_extra_clause-&gt;su naturaleza muy querida lo convierte en una figura central en los juegos</li>
+    <li>plushie_play_extra_clause-&gt;su suavidad ayuda a calmar y tranquilizar durante el tiempo de juego</li>
+    <li>plushie_play_extra_clause-&gt;su diseño sugiere usos imaginativos interminables</li>
+  </VCE_ToyDescriptionRoot_Plushie.rulePack.rulesStrings>
+  <VCE_ToyDescriptionRoot_Wooden.rulePack.rulesStrings>
+    <li>desc-&gt;[toy_description_group]</li>
+    <li>toy_description_group-&gt;[woodtoy_clause]. [play_description_group]</li>
+    <li>toy_description_group-&gt;[woodtoy_clause] [toy_conjunction]. [woodtoy_extra_clause].</li>
+    <li>toy_description_group-&gt;[woodtoy_clause] [toy_conjunction].</li>
+    <li>toy_description_group-&gt;[woodtoy_extra_clause]. [play_description_group]</li>
+    <li>toy_conjunction(p=6)-&gt;</li>
+    <li>toy_conjunction-&gt;añadiendo un toque de nostalgia</li>
+    <li>toy_conjunction-&gt;destacando la artesanía</li>
+    <li>toy_conjunction-&gt;con un sentido de simplicidad</li>
+    <li>toy_conjunction-&gt;dándole un encanto rústico</li>
+    <li>toy_conjunction-&gt;revelando una historia no contada</li>
+    <li>toy_conjunction-&gt;insinuando el paso del tiempo</li>
+    <li>toy_conjunction-&gt;mientras despierta la imaginación</li>
+    <li>toy_conjunction-&gt;con un aire de atemporalidad</li>
+    <li>toy_conjunction-&gt;evocando una sensación de asombro</li>
+    <li>woodtoy_clause-&gt;la superficie de este juguete es [surface_texture] y [surface_markings]</li>
+    <li>woodtoy_clause-&gt;sus bordes son [edge_quality], mezclándose en [form_quality]</li>
+    <li>woodtoy_clause-&gt;la veta de la madera corre [grain_quality], dando a este juguete [visual_tone]</li>
+    <li>woodtoy_clause-&gt;pequeñas [imperfections] en la madera hacen que este juguete se sienta [emotive_descriptor]</li>
+    <li>woodtoy_clause-&gt;el equilibrio del juguete se siente [balance_descriptor], invitando a [action_descriptor]</li>
+    <li>woodtoy_clause-&gt;[smell_descriptor] perdura en la madera, añadiendo a su encanto</li>
+    <li>woodtoy_clause-&gt;el diseño de este juguete es tanto [design_quality] como [emotional_tone]</li>
+    <li>woodtoy_extra_clause-&gt;rastros sutiles de [use_quality] marcan su superficie</li>
+    <li>woodtoy_extra_clause-&gt;los bordes están suavizados por [time_effect]</li>
+    <li>woodtoy_extra_clause-&gt;la forma insinúa [vague_inspiration]</li>
+    <li>woodtoy_extra_clause-&gt;un tenue tono [color_descriptor] se puede ver en la veta</li>
+    <li>woodtoy_extra_clause-&gt;la simplicidad de la forma conlleva un sentido de [abstract_concept]</li>
+    <li>woodtoy_extra_clause-&gt;el juguete irradia energía [emotive_descriptor]</li>
+    <li>woodtoy_extra_clause-&gt;las marcas tenues cuentan una historia de [implied_history]</li>
+    <li>surface_texture-&gt;suave</li>
+    <li>surface_texture-&gt;áspera</li>
+    <li>surface_texture-&gt;pulida</li>
+    <li>surface_texture-&gt;ligeramente desigual</li>
+    <li>surface_markings-&gt;cubierta de rasguños tenues</li>
+    <li>surface_markings-&gt;grabada con líneas sutiles</li>
+    <li>surface_markings-&gt;mostrando un desgaste suave</li>
+    <li>surface_markings-&gt;rayada con pequeñas imperfecciones</li>
+    <li>edge_quality-&gt;suaves y redondeados</li>
+    <li>edge_quality-&gt;ligeramente desiguales</li>
+    <li>edge_quality-&gt;cuidadosamente definidos</li>
+    <li>form_quality-&gt;orgánica y fluida</li>
+    <li>form_quality-&gt;precisa y angular</li>
+    <li>form_quality-&gt;simple pero elegante</li>
+    <li>grain_quality-&gt;recta y uniforme</li>
+    <li>grain_quality-&gt;retorcida e intrincada</li>
+    <li>grain_quality-&gt;sutil y tenue</li>
+    <li>grain_quality-&gt;audaz y pronunciada</li>
+    <li>visual_tone-&gt;un brillo cálido</li>
+    <li>visual_tone-&gt;un matiz frío</li>
+    <li>visual_tone-&gt;una sensación de profundidad</li>
+    <li>visual_tone-&gt;una simplicidad natural</li>
+    <li>imperfections-&gt;nudos</li>
+    <li>imperfections-&gt;grietas</li>
+    <li>imperfections-&gt;abolladuras</li>
+    <li>emotive_descriptor-&gt;encantador</li>
+    <li>emotive_descriptor-&gt;humilde</li>
+    <li>emotive_descriptor-&gt;vivido</li>
+    <li>emotive_descriptor-&gt;auténtico</li>
+    <li>balance_descriptor-&gt;perfectamente uniforme</li>
+    <li>balance_descriptor-&gt;ligeramente descentrado</li>
+    <li>balance_descriptor-&gt;inesperadamente estable</li>
+    <li>action_descriptor-&gt;juego suave</li>
+    <li>action_descriptor-&gt;exploración curiosa</li>
+    <li>action_descriptor-&gt;manejo cuidadoso</li>
+    <li>smell_descriptor-&gt;un aroma a madera</li>
+    <li>smell_descriptor-&gt;un aroma terroso</li>
+    <li>smell_descriptor-&gt;un olor ligeramente dulce</li>
+    <li>design_quality-&gt;minimalista</li>
+    <li>design_quality-&gt;intuitivo</li>
+    <li>design_quality-&gt;equilibrado</li>
+    <li>emotional_tone-&gt;juguetón</li>
+    <li>emotional_tone-&gt;nostálgico</li>
+    <li>emotional_tone-&gt;reflexivo</li>
+    <li>use_quality-&gt;manejo suave</li>
+    <li>use_quality-&gt;juego frecuente</li>
+    <li>use_quality-&gt;cuidado amoroso</li>
+    <li>time_effect-&gt;manos desgastadas por el tiempo</li>
+    <li>time_effect-&gt;años de disfrute</li>
+    <li>time_effect-&gt;innumerables recuerdos</li>
+    <li>vague_inspiration-&gt;sueños de la infancia</li>
+    <li>vague_inspiration-&gt;simplicidad de la naturaleza</li>
+    <li>vague_inspiration-&gt;alcance de la imaginación</li>
+    <li>color_descriptor-&gt;dorado</li>
+    <li>color_descriptor-&gt;como miel</li>
+    <li>color_descriptor-&gt;rojizo</li>
+    <li>color_descriptor-&gt;gris ceniza</li>
+    <li>abstract_concept-&gt;alegría</li>
+    <li>abstract_concept-&gt;inocencia</li>
+    <li>abstract_concept-&gt;asombro</li>
+    <li>abstract_concept-&gt;confort</li>
+    <li>implied_history-&gt;generaciones pasadas</li>
+    <li>implied_history-&gt;tardes tranquilas</li>
+    <li>implied_history-&gt;días olvidados hace mucho tiempo</li>
+    <li>implied_history-&gt;aventuras juguetonas</li>
+    <li>play_description_group-&gt;[woodtoy_play_clause].</li>
+    <li>play_description_group-&gt;[woodtoy_play_clause] [play_conjunction] [woodtoy_play_extra_clause].</li>
+    <li>play_description_group-&gt;[woodtoy_play_clause] [play_conjunction].</li>
+    <li>play_description_group-&gt;[woodtoy_play_extra_clause].</li>
+    <li>play_description_group-&gt;</li>
+    <li>play_conjunction(p=6)-&gt;</li>
+    <li>play_conjunction-&gt;despertando una nueva idea,</li>
+    <li>play_conjunction-&gt;con infinitas posibilidades,</li>
+    <li>play_conjunction-&gt;llevando a un juego más imaginativo,</li>
+    <li>play_conjunction-&gt;revelando usos ocultos,</li>
+    <li>play_conjunction-&gt;con sorprendente simplicidad,</li>
+    <li>play_conjunction-&gt;añadiendo un sentido de descubrimiento,</li>
+    <li>play_conjunction-&gt;haciendo cada momento especial,</li>
+    <li>play_conjunction-&gt;trayendo alegría de maneras inesperadas,</li>
+    <li>play_conjunction-&gt;deleitándose en pequeñas victorias,</li>
+    <li>woodtoy_play_clause-&gt;se puede girar sobre su [surface_feature], creando [spin_effect]</li>
+    <li>woodtoy_play_clause-&gt;apilar sus partes se siente [stacking_descriptor] y [action_tone]</li>
+    <li>woodtoy_play_clause-&gt;rodarlo por el suelo crea [rolling_effect]</li>
+    <li>woodtoy_play_clause-&gt;invita a [action_type], fomentando [play_style]</li>
+    <li>woodtoy_play_clause-&gt;se puede equilibrar [balance_location], mostrando [skill_descriptor]</li>
+    <li>woodtoy_play_clause-&gt;las piezas se entrelazan de una manera que se siente [connection_quality]</li>
+    <li>woodtoy_play_clause-&gt;sus partes móviles permiten [movement_style]</li>
+    <li>woodtoy_play_clause-&gt;es perfecto para [pretend_play], inspirando [imaginative_theme]</li>
+    <li>woodtoy_play_clause-&gt;hace un satisfactorio [sound_effect] cuando [sound_trigger]</li>
+    <li>woodtoy_play_clause-&gt;su diseño simple fomenta [creative_use]</li>
+    <li>woodtoy_play_extra_clause-&gt;su flexibilidad permite [unexpected_use]</li>
+    <li>woodtoy_play_extra_clause-&gt;el juguete funciona perfectamente como [alternative_use]</li>
+    <li>woodtoy_play_extra_clause-&gt;es divertido [interactive_action] con él, especialmente [action_setting]</li>
+    <li>woodtoy_play_extra_clause-&gt;la sensación táctil de [material_quality] se suma al juego</li>
+    <li>woodtoy_play_extra_clause-&gt;la forma en que responde a [play_interaction] es infinitamente fascinante</li>
+    <li>woodtoy_play_extra_clause-&gt;invita a [collaborative_play], fortaleciendo lazos</li>
+    <li>woodtoy_play_extra_clause-&gt;cada pieza se siente como si estuviera hecha para [specific_action]</li>
+    <li>woodtoy_play_extra_clause-&gt;el juguete recompensa [skill_testing], creando una sensación de logro</li>
+  </VCE_ToyDescriptionRoot_Wooden.rulePack.rulesStrings>
+</LanguageData>

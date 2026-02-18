@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <ADJLabel>Animal rescatado no se une</ADJLabel>
+  <ADJLetter>El animal que rescataste no se está uniendo a la colonia</ADJLetter>
+  <AJLabel>Animal rescatado se une</AJLabel>
+  <AJLetter>El animal que rescataste se está uniendo a la colonia</AJLetter>
+  <AnimalPodCrash>Una jaula con un(a) {PAWN_kind} llamado(a) {PAWN_nameDef} se está estrellando en una cápsula de transporte cerca. Si sobrevive al impacto estará gravemente herido(a).\n\nSi es rescatado(a), puede unirse libremente a la colonia o volver a vivir en estado salvaje.</AnimalPodCrash>
+  <BAWI>Un grupo de {0}, abandonados o perdidos, deambula por la zona.\n\nParecen acostumbrados al contacto humano y se están uniendo a la colonia.</BAWI>
+  <BAWILabel>Animales de batalla deambulan</BAWILabel>
+  <CAWI>Un grupo de {PAWN_kind}, abandonados o perdidos, deambula por la zona.\n\nParecen haber pertenecido a alguna caravana, ya que aún llevan mochilas con objetos valiosos. Puedes recolectar estos objetos si los domas o los matas. De lo contrario, dejarán el área en un par de días.</CAWI>
+  <CAWILabel>Animales de caravana deambulan</CAWILabel>
+  <CPA>Has detectado un grupo de cápsulas de carga estrellándose cerca.\n\nQuizás encuentres algo útil en los restos.</CPA>
+  <CPALabel>Cápsulas de carga (vestimenta)</CPALabel>
+  <CPW>Has detectado un grupo de cápsulas de carga estrellándose cerca.\n\nQuizás encuentres algo útil en los restos.</CPW>
+  <CPWLabel>Cápsulas de carga (armas)</CPWLabel>
+  <CS1>Un gran campo de </CS1>
+  <CS2> ha brotado cerca. Si esperas a que crezca, ¡podrás cosechar mucha comida! Si no se cosecha, se pudrirá lentamente y desaparecerá.</CS2>
+  <CSLabel>Brote de cultivo</CSLabel>
+  <Earthquake>Cambios en la corteza del planeta causaron un pequeño terremoto localizado. Algunas estructuras pueden dañarse y los techos pueden colapsar.</Earthquake>
+  <EarthquakeLabel>Terremoto</EarthquakeLabel>
+  <HP>Un grupo de cazadores de {0} está pasando por el área. Cazarán aquí durante unas horas y luego seguirán su camino.</HP>
+  <HPLabel>Grupo de caza</HPLabel>
+  <LetterLabelAnimalPodCrash>Cápsula de transporte animal estrellada</LetterLabelAnimalPodCrash>
+  <ShuttleCrash>Un transbordador con destino al planeta se está estrellando cerca. Si la tripulación sobrevive al impacto, estarán gravemente heridos. La nave estrellada puede ser desmantelada para obtener recursos útiles.\n\nLa tripulación no está afiliada a ninguna facción, lo que significa que pueden ser rescatados y unirse a ti libremente, o capturados para propósitos de reclutamiento o esclavitud.</ShuttleCrash>
+  <ShuttleCrashLabel>Accidente de transbordador</ShuttleCrashLabel>
+  <SpaceBattle>Varias naves espaciales masivas han entablado combate en la órbita del planeta. Los disparos fallidos y los escombros pueden impactar el suelo en el área. Esto puede provocar incendios masivos.</SpaceBattle>
+  <SpaceBattleLabel>Batalla espacial</SpaceBattleLabel>
+  <Traitor>Un(a) colono(a) llamado(a) {PAWN_nameDef}, que has aceptado en tus filas, resulta ser un(a) agente enemigo(a) de {PAWN_factionName}.\n\nPuedes capturar{PAWN_objective} para propósitos de reclutamiento o esclavitud.</Traitor>
+  <TraitorLabel>¡Traidor!</TraitorLabel>
+  <VEE_Decay>Descomponiéndose debido a la sequía.</VEE_Decay>
+  <VEE_DroughtGui>Ajuste de la reproducción debido a la sequía: {0}</VEE_DroughtGui>
+  <WMWI>Una pequeña tribu preneolítica de hombres salvajes deambula por la zona. Puedes intentar domesticarlos.</WMWI>
+  <WMWILabel>Hombres salvajes deambulan</WMWILabel>
+</LanguageData>

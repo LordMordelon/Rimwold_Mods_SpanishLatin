@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <AM_Execution_Blunt.rulePack.rulesStrings>
+    <li>r_logentry-&gt;Realizando una ejecución [exec_desc], [INITIATOR_definite] [beat] a [RECIPIENT_definite] hasta la muerte!</li>
+    <li>r_logentry-&gt;Realizando una ejecución [exec_desc], [INITIATOR_definite] [beat] a [RECIPIENT_definite] usando su [TOOL_label].</li>
+  </AM_Execution_Blunt.rulePack.rulesStrings>
+  <AM_Execution_Generic.rulePack.rulesStrings>
+    <li>r_logentry-&gt;[RECIPIENT_definite] fue asesinado por [INITIATOR_definite] en una ejecución [exec_desc].</li>
+  </AM_Execution_Generic.rulePack.rulesStrings>
+  <AM_Execution_Gilgamesh.rulePack.rulesStrings>
+    <li>r_logentry-&gt;En una impresionante hazaña de maestría psíquica, [INITIATOR_definite] invocó docenas de armas para empalar a [RECIPIENT_definite].</li>
+  </AM_Execution_Gilgamesh.rulePack.rulesStrings>
+  <AM_Execution_Includes.rulePack.rulesStrings>
+    <li>exec_desc-&gt;hábil</li>
+    <li>exec_desc-&gt;veloz</li>
+    <li>exec_desc-&gt;misericordiosa</li>
+    <li>exec_desc-&gt;brutal</li>
+    <li>exec_desc-&gt;vengativa</li>
+    <li>exec_desc-&gt;cruda</li>
+    <li>exec_desc-&gt;eficiente</li>
+    <li>exec_desc-&gt;limpia</li>
+    <li>exec_desc-&gt;impactante</li>
+    <li>exec_desc-&gt;espectacular</li>
+    <li>impaled-&gt;empaló</li>
+    <li>impaled-&gt;ensartó</li>
+    <li>stabbed-&gt;apuñaló</li>
+    <li>stabbed-&gt;ensartó</li>
+    <li>slashed-&gt;cortó</li>
+    <li>slashed-&gt;laceró</li>
+    <li>slashed-&gt;tajó</li>
+    <li>slashed-&gt;abrió</li>
+    <li>beat-&gt;golpeó</li>
+    <li>beat-&gt;apaleó</li>
+    <li>beat-&gt;aporreó</li>
+    <li>skillfully-&gt;hábilmente</li>
+    <li>skillfully-&gt;magistralmente</li>
+    <li>skillfully-&gt;ágilmente</li>
+    <li>weeb_legend-&gt;el Espíritu Demoníaco</li>
+    <li>weeb_legend(p=6)-&gt;[INITIATOR_definite], Asesino de [RECIPIENT_labelPlural]</li>
+    <li>weeb_legend-&gt;[INITIATOR_definite] el Inmortal</li>
+    <li>weeb_legend-&gt;[INITIATOR_definite], Conquistador de las Estrellas</li>
+    <li>weeb_legend-&gt;[INITIATOR_definite] el No Muerto</li>
+    <li>weeb_legend-&gt;[INITIATOR_definite] el Edgy</li>
+    <li>weeb_legend-&gt;[INITIATOR_definite], Señor del Borde Supremo</li>
+    <li>weeb_legend-&gt;[INITIATOR_definite], Coleccionista de Fotos de Pies</li>
+    <li>weeb_legend-&gt;[INITIATOR_definite] el Penetrador</li>
+  </AM_Execution_Includes.rulePack.rulesStrings>
+  <AM_Execution_Passover.rulePack.rulesStrings>
+    <li>r_logentry-&gt;Realizando una ejecución [exec_desc], [INITIATOR_definite] [impaled] a [RECIPIENT_definite] en su [TOOL_label], ¡luego lanzó a [RECIPIENT_definite] sobre su espalda! ¡Brutal!</li>
+  </AM_Execution_Passover.rulePack.rulesStrings>
+  <AM_Execution_Slashed.rulePack.rulesStrings>
+    <li>r_logentry-&gt;Realizando una ejecución [exec_desc], [INITIATOR_definite] [slashed] a [RECIPIENT_definite] en [recipient_part0_label].</li>
+    <li>r_logentry-&gt;Realizando una ejecución [exec_desc], [INITIATOR_definite] [slashed] a [RECIPIENT_definite] con su [TOOL_label].</li>
+  </AM_Execution_Slashed.rulePack.rulesStrings>
+  <AM_Execution_Stab.rulePack.rulesStrings>
+    <li>r_logentry-&gt;Realizando una ejecución [exec_desc], [INITIATOR_definite] [stabbed] a [RECIPIENT_definite] en [recipient_part0_label].</li>
+    <li>r_logentry-&gt;Realizando una ejecución [exec_desc], [INITIATOR_definite] [impaled] a [RECIPIENT_definite] con su [TOOL_label].</li>
+  </AM_Execution_Stab.rulePack.rulesStrings>
+  <AM_Execution_Weebstick.rulePack.rulesStrings>
+    <li>r_logentry-&gt;Blandiendo su [TOOL_label], un arma que se dice que mató a Dios, [INITIATOR_definite] confrontó a [RECIPIENT_definite]. Demasiado rápido para que el ojo lo siga, [INITIATOR_pronoun] [slashed] a [RECIPIENT_definite].\nTodos aplaudieron.</li>
+    <li>r_logentry(p=5)-&gt;Blandiendo su [TOOL_label], un arma que se dice que mató a Dios, [INITIATOR_definite] confrontó a [RECIPIENT_definite]. Demasiado rápido para que el ojo lo siga, [INITIATOR_pronoun] [slashed] a [RECIPIENT_definite].\nAsí nació la leyenda de [weeb_legend].</li>
+    <li>r_logentry-&gt;Blandiendo su [TOOL_label], un arma que se dice que mató a Dios, [INITIATOR_definite] confrontó a [RECIPIENT_definite]. Demasiado rápido para que el ojo lo siga, [INITIATOR_pronoun] [slashed] a [RECIPIENT_definite].\nNadie puede estar seguro de si la hoja asestó el golpe mortal, o si [INITIATOR_definite] es simplemente tan "edgy" que su poderosa aura agotó completamente la voluntad de vivir de [RECIPIENT_definite].</li>
+  </AM_Execution_Weebstick.rulePack.rulesStrings>
+</LanguageData>

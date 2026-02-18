@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <VPE_AnimalAllies.description>Infunde una gran área con fuerza vital armónica que influye en el comportamiento animal, causando que ataquen a aquellos hostiles al lanzador durante una duración que escala con su sensibilidad psíquica.</VPE_AnimalAllies.description>
+  <VPE_AnimalAllies.jobReportString>Usando habilidad: {0}</VPE_AnimalAllies.jobReportString>
+  <VPE_AnimalAllies.label>aliados animales</VPE_AnimalAllies.label>
+  <VPE_AnimalAllies.verbProperties.label>aliados animales</VPE_AnimalAllies.verbProperties.label>
+  <VPE_BrambleMaze.description>Infunde un área fértil con energía vital caótica, causando que broten tallos de zarzas que se marchitan después de 12 horas.</VPE_BrambleMaze.description>
+  <VPE_BrambleMaze.jobReportString>Usando habilidad: {0}</VPE_BrambleMaze.jobReportString>
+  <VPE_BrambleMaze.label>laberinto de zarzas</VPE_BrambleMaze.label>
+  <VPE_BrambleMaze.verbProperties.label>laberinto de zarzas</VPE_BrambleMaze.verbProperties.label>
+  <VPE_CropBurst.description>Infunde un área fértil con energía vital, causando que broten cultivos plantables que terminan su crecimiento en relación con la sensibilidad psíquica del lanzador.</VPE_CropBurst.description>
+  <VPE_CropBurst.jobReportString>Usando habilidad: {0}</VPE_CropBurst.jobReportString>
+  <VPE_CropBurst.label>estallido de cultivo</VPE_CropBurst.label>
+  <VPE_CropBurst.verbProperties.label>estallido de cultivo</VPE_CropBurst.verbProperties.label>
+  <VPE_EssenceTransfer.description>Infunde la fuerza vital de otra persona cercana en un animal de la colonia, vinculándolos y poniendo al lanzador en coma. Si la persona vinculada muere, el animal vinculado irá a su lado y le transferirá su propia esencia vital armonizada, muriendo al finalizar. Si el animal vinculado muere primero, el efecto se pierde, y solo puede haber un vínculo a la vez.</VPE_EssenceTransfer.description>
+  <VPE_EssenceTransfer.jobReportString>Usando habilidad: {0}</VPE_EssenceTransfer.jobReportString>
+  <VPE_EssenceTransfer.label>transferencia de esencia</VPE_EssenceTransfer.label>
+  <VPE_EssenceTransfer.verbProperties.label>transferencia de esencia</VPE_EssenceTransfer.verbProperties.label>
+  <VPE_ManhunterPulse.description>Lleva a los animales en un área grande a una furia cazadora de hombres usando un pulso psíquico, que dura un minuto. Considerada una declaración de guerra si afecta a los animales en una caravana.</VPE_ManhunterPulse.description>
+  <VPE_ManhunterPulse.jobReportString>Usando habilidad: {0}</VPE_ManhunterPulse.jobReportString>
+  <VPE_ManhunterPulse.label>pulso cazador de hombres</VPE_ManhunterPulse.label>
+  <VPE_ManhunterPulse.verbProperties.label>pulso cazador de hombres</VPE_ManhunterPulse.verbProperties.label>
+  <VPE_ShieldAnimals.description>Genera portales de salto esféricos en todos los animales de la colonia dentro del alcance que envían todos los proyectiles entrantes y salientes a nivel del suelo a algún lugar distante. Las personas y los objetos no se ven afectados y la duración escala con la sensibilidad psíquica del lanzador.</VPE_ShieldAnimals.description>
+  <VPE_ShieldAnimals.jobReportString>Usando habilidad: {0}</VPE_ShieldAnimals.jobReportString>
+  <VPE_ShieldAnimals.label>escudar animales</VPE_ShieldAnimals.label>
+  <VPE_ShieldAnimals.verbProperties.label>escudar animales</VPE_ShieldAnimals.verbProperties.label>
+  <VPE_Shrineshield.description>Genera un portal de salto esférico en un santuario natural que envía cualquier proyectil entrante y saliente, incluidos los proyectiles de mortero, a algún lugar distante. Las personas y los objetos no se ven afectados y el tamaño de la esfera depende del tamaño del santuario, mientras que la duración escala con la sensibilidad psíquica del lanzador.</VPE_Shrineshield.description>
+  <VPE_Shrineshield.jobReportString>Usando habilidad: {0}</VPE_Shrineshield.jobReportString>
+  <VPE_Shrineshield.label>escudo de santuario</VPE_Shrineshield.label>
+  <VPE_Shrineshield.verbProperties.label>escudo de santuario</VPE_Shrineshield.verbProperties.label>
+  <VPE_SummonPack.description>Envía un pulso de fuerza vital a la región, induciendo agresión territorial de caza de hombres en numerosos animales que aparecerán para defender la colonia. Una vez que todos los invasores sean derrotados, los animales regresarán a sus hogares. La fuerza relativa de las criaturas invocadas está influenciada por la sensibilidad psíquica del lanzador.</VPE_SummonPack.description>
+  <VPE_SummonPack.jobReportString>Usando habilidad: {0}</VPE_SummonPack.jobReportString>
+  <VPE_SummonPack.label>invocar manada</VPE_SummonPack.label>
+  <VPE_SummonPack.verbProperties.label>invocar manada</VPE_SummonPack.verbProperties.label>
+  <VPE_TreeSprout.description>Infunde un área fértil con potente energía vital, causando que broten árboles nativos completamente desarrollados. El radio efectivo escala con la sensibilidad psíquica, hasta un máximo de 8 casillas.</VPE_TreeSprout.description>
+  <VPE_TreeSprout.jobReportString>Usando habilidad: {0}</VPE_TreeSprout.jobReportString>
+  <VPE_TreeSprout.label>brote de árbol</VPE_TreeSprout.label>
+  <VPE_TreeSprout.verbProperties.label>brote de árbol</VPE_TreeSprout.verbProperties.label>
+  <VPE_WordofAnimals.description>Calma a un animal usando sugestión psíquica, ya sea calmando a un animal cazador de hombres o domesticándolo. Dependiendo de la sensibilidad psíquica del lanzador y el tamaño corporal de un animal, la psicoemisión puede ser contraproducente y convertir al animal en cazador de hombres.</VPE_WordofAnimals.description>
+  <VPE_WordofAnimals.jobReportString>Usando habilidad: {0}</VPE_WordofAnimals.jobReportString>
+  <VPE_WordofAnimals.label>palabra de animales</VPE_WordofAnimals.label>
+  <VPE_WordofAnimals.verbProperties.label>palabra de animales</VPE_WordofAnimals.verbProperties.label>
+</LanguageData>

@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <VFEE_Parade.questContentRules.rulesStrings>
+    <li>lastOrNot(nobleCount==1)-&gt;</li>
+    <li>lastOrNot(nobleCount&gt;=2)-&gt;último</li>
+    <li>lodgersLabelSingularOrPlural(nobleCount==1)-&gt;[lodgersLabel]</li>
+    <li>lodgersLabelSingularOrPlural(nobleCount&gt;=2)-&gt;[lodgersLabelPlural]</li>
+    <li>decidedToLeave-&gt;¡Se van inmediatamente y no recordarán este evento con cariño!</li>
+    <li>oneOfThe-&gt;uno de los nobles que visitan para el desfile</li>
+    <li>questOver-&gt;La misión '[resolvedQuestName]' ha terminado.</li>
+    <li>CeremonyFailedLetterLabel-&gt;Desfile fallido</li>
+    <li>CeremonyFailedLetterText-&gt;[asker_nameFull] está decepcionado por tu fracaso en hacer un desfile agradable. [asker_pronoun] se va con sus invitados</li>
+    <li>CeremonyTimeoutLetterLabel-&gt;Desfile fallido</li>
+    <li>CeremonyTimeoutLetterText-&gt;[asker_nameFull] se ha cansado de esperar a que comiences el desfile. [asker_pronoun] se va con sus invitados.</li>
+    <li>letterIntroArrested-&gt;Arrestaste a {SUBJECT_definite}, [oneOfThe].</li>
+    <li>lodgerArrestedLeaveMapLetterLabel-&gt;[lodgersLabel] arrestado</li>
+    <li>lodgerArrestedLeaveMapLetterText-&gt;[letterIntroArrested]\n\n[decidedToLeave]</li>
+    <li>letterIntroDeath-&gt;{SUBJECT_definite}, [oneOfThe] ha muerto.</li>
+    <li>lodgerDiedLeaveMapLetterLabel-&gt;[lodgersLabel] murió: Partida</li>
+    <li>lodgerDiedLeaveMapLetterText-&gt;[letterIntroDeath]\n\n[decidedToLeave]</li>
+    <li>letterIntroViolated-&gt;{SUBJECT_definite}, [oneOfThe], fue violado por cirugía.</li>
+    <li>lodgerSurgeryVioLeaveMapLetterLabel-&gt;[lodgersLabel] Cirugía: Partida</li>
+    <li>lodgerSurgeryVioLeaveMapLetterText-&gt;[letterIntroViolated]\n\n[decidedToLeave]</li>
+    <li>letterIntroKidnapped-&gt;{SUBJECT_definite}, [oneOfThe], fue secuestrado.</li>
+    <li>lodgerKidnappedLeaveMapLetterLabel-&gt;[lodgersLabel] Secuestrado: Partida</li>
+    <li>lodgerKidnappedLeaveMapLetterText-&gt;[letterIntroKidnapped]\n\n[decidedToLeave]</li>
+    <li>letterIntroBanished-&gt;{SUBJECT_definite}, [oneOfThe], fue desterrado.</li>
+    <li>lodgerBanishedLeaveMapLetterLabel-&gt;[lodgersLabel] Desterrado: Partida</li>
+    <li>lodgerBanishedLeaveMapLetterText-&gt;[letterIntroBanished]\n\n[decidedToLeave]</li>
+    <li>letterIntroPsychicRitualTarget-&gt;{SUBJECT_definite}, [oneOfThe], fue el objetivo de un ritual psíquico.</li>
+    <li>lodgerPsychicRitualTargetLabel-&gt;[lodgersLabel] Ritual psíquico: Partida</li>
+    <li>lodgerPsychicRitualTargetText-&gt;[letterIntroPsychicRitualTarget]\n\n[decidedToLeave]</li>
+    <li>ShuttleDestroyedIntro-&gt;{SUBJECT_definite}, ha sido destruido</li>
+    <li>ShuttleDestroyedLabel-&gt;Transbordador destruido: Desfile fallido</li>
+    <li>ShuttleDestroyedText-&gt;[ShuttleDestroyedIntro]\n\n[decidedToLeave]</li>
+    <li>raidArrivedLetterLabel-&gt;Intento de asesinato de desertores</li>
+    <li>raidArrivedLetterText-&gt;Un grupo de desertores ha llegado para intentar interrumpir el desfile y asesinar al [stellarch_nameFull]\n\n¡El desfile no debe ser interrumpido por ninguna razón!</li>
+    <li>ParadeSuccessLetterLetterLabel-&gt;Éxito del desfile</li>
+    <li>ParadeSuccessLetterText-&gt;El transbordador está listo para partir con todos aquellos que ascienden con el [stellarch_nameFull]. ¡Partirá a tu orden!</li>
+  </VFEE_Parade.questContentRules.rulesStrings>
+  <VFEE_Parade.questDescriptionAndNameRules.rulesStrings>
+    <li>lodgersLabel-&gt;noble</li>
+    <li>lodgersLabelPlural-&gt;nobles</li>
+    <li>lodgersDef(nobleCount==1)-&gt;[lodgers0_nameDef]</li>
+    <li>lodgersDef(nobleCount&gt;=2)-&gt;los [lodgersLabelPlural]</li>
+    <li>theirHisHer(nobleCount==1)-&gt;[lodgers0_possessive]</li>
+    <li>theirHisHer(nobleCount&gt;=2)-&gt;su</li>
+    <li>lodgersPronoun(nobleCount==1)-&gt;[lodgers0_pronoun]</li>
+    <li>lodgersPronoun(nobleCount&gt;=2)-&gt;ellos</li>
+    <li>lodgersWasWere(nobleCount==1)-&gt;fue</li>
+    <li>lodgersWasWere(nobleCount&gt;=2)-&gt;fueron</li>
+    <li>appreciateAppreciates(nobleCount==1)-&gt;aprecia</li>
+    <li>appreciateAppreciates(nobleCount&gt;=2)-&gt;aprecian</li>
+    <li>questDescription-&gt;[stellarch_nameFull] ha alcanzado la cima de lo que puede lograr desde la superficie de un mundo borde. Para progresar más en la gran jerarquía y convertirse en la mano derecha del Emperador [emperor_nameFull], [stellarch_nameFull] necesita participar en un desfile de ascensión tradicional, después del cual partirá en un transbordador y se unirá al Emperador.\nUn desfile de esta magnitud seguramente atraerá la atención de los desertores.\nUna vez que aceptes esta misión, tendrás 5 días para prepararte para el desfile. Considera mejorar tus defensas y elaborar planes de contingencia, ya que es difícil decir en qué dirección se moverá el desfile. En todo momento tendrás que mantener el desfile a salvo de daños.\nVigila a cualquier rival o enemigo de [stellarch_nameFull], ya que podrían decidir que es un buen momento para hacer un movimiento y reclamar el poder para ellos mismos.\nEl transbordador llegará trayendo a la nobleza de más alto rango al desfile. Serás responsable de proporcionar la seguridad para el evento. Después de que comience el desfile, se moverá lentamente por el mapa durante 12 horas, después de lo cual todos, incluido [stellarch_nameFull], abordarán el transbordador y partirán.\n\n\n\n</li>
+  </VFEE_Parade.questDescriptionAndNameRules.rulesStrings>
+  <VFEE_Parade.questNameRules.rulesStrings>
+    <li>questName-&gt;Ascensión del Alto Estelarca</li>
+  </VFEE_Parade.questNameRules.rulesStrings>
+</LanguageData>

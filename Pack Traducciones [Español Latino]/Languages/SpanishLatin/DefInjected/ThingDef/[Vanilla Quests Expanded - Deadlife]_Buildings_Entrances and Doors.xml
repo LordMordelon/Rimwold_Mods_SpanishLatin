@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <VQED_AncientSiloDoor.description>Una puerta fuertemente reforzada. Es lenta de abrir pero muy resistente. La puerta requiere paredes a ambos lados para funcionar.</VQED_AncientSiloDoor.description>
+  <VQED_AncientSiloDoor.label>puerta de silo antigua</VQED_AncientSiloDoor.label>
+  <VQED_LockedSiloHatch.comps.CompJammedAirlock.activateDescString>Elige a alguien para forzar la puerta, permitiendo el acceso al silo subterráneo.</VQED_LockedSiloHatch.comps.CompJammedAirlock.activateDescString>
+  <VQED_LockedSiloHatch.comps.CompJammedAirlock.activateLabelString>Forzar puerta del silo</VQED_LockedSiloHatch.comps.CompJammedAirlock.activateLabelString>
+  <VQED_LockedSiloHatch.comps.CompJammedAirlock.activatingString>forzando puerta: {1}s</VQED_LockedSiloHatch.comps.CompJammedAirlock.activatingString>
+  <VQED_LockedSiloHatch.comps.CompJammedAirlock.activatingStringPending>forzando puerta</VQED_LockedSiloHatch.comps.CompJammedAirlock.activatingStringPending>
+  <VQED_LockedSiloHatch.comps.CompJammedAirlock.guiLabelString>Elige quién debe hacer esto</VQED_LockedSiloHatch.comps.CompJammedAirlock.guiLabelString>
+  <VQED_LockedSiloHatch.comps.CompJammedAirlock.jobString>Forzar esta puerta</VQED_LockedSiloHatch.comps.CompJammedAirlock.jobString>
+  <VQED_LockedSiloHatch.comps.CompJammedAirlock.messageCompletedString>{PAWN_nameDef} ha logrado forzar la puerta.</VQED_LockedSiloHatch.comps.CompJammedAirlock.messageCompletedString>
+  <VQED_LockedSiloHatch.description>Una entrada sellada a la instalación más profunda. Sigue siendo estructuralmente sólida, pero está fuertemente presurizada. Puede forzarse para permitir el acceso.</VQED_LockedSiloHatch.description>
+  <VQED_LockedSiloHatch.label>escotilla de silo bloqueada</VQED_LockedSiloHatch.label>
+  <VQED_SiloExitStaircase.description>Una ruta de retorno vertical a la superficie. Rara vez utilizada, pero aún transitable.</VQED_SiloExitStaircase.description>
+  <VQED_SiloExitStaircase.label>escalera de salida del silo</VQED_SiloExitStaircase.label>
+  <VQED_SiloStaircase.description>Un acceso reforzado a los niveles inferiores. Cubierto de polvo y aire viciado.</VQED_SiloStaircase.description>
+  <VQED_SiloStaircase.label>escalera del silo</VQED_SiloStaircase.label>
+  <VQED_StuckAncientSiloDoor.comps.CompJammedAirlock.activateDescString>Elige a alguien para forzar esta puerta de silo antigua.</VQED_StuckAncientSiloDoor.comps.CompJammedAirlock.activateDescString>
+  <VQED_StuckAncientSiloDoor.comps.CompJammedAirlock.activateLabelString>Forzar apertura...</VQED_StuckAncientSiloDoor.comps.CompJammedAirlock.activateLabelString>
+  <VQED_StuckAncientSiloDoor.comps.CompJammedAirlock.activatingString>forzando puerta de silo antigua: {1}s</VQED_StuckAncientSiloDoor.comps.CompJammedAirlock.activatingString>
+  <VQED_StuckAncientSiloDoor.comps.CompJammedAirlock.activatingStringPending>forzando puerta de silo antigua</VQED_StuckAncientSiloDoor.comps.CompJammedAirlock.activatingStringPending>
+  <VQED_StuckAncientSiloDoor.comps.CompJammedAirlock.guiLabelString>Elige quién debe hacer esto</VQED_StuckAncientSiloDoor.comps.CompJammedAirlock.guiLabelString>
+  <VQED_StuckAncientSiloDoor.comps.CompJammedAirlock.jobString>Forzar apertura de esta puerta de silo antigua</VQED_StuckAncientSiloDoor.comps.CompJammedAirlock.jobString>
+  <VQED_StuckAncientSiloDoor.comps.CompJammedAirlock.messageCompletedString>{PAWN_nameDef} ha logrado forzar la puerta de silo antigua.</VQED_StuckAncientSiloDoor.comps.CompJammedAirlock.messageCompletedString>
+  <VQED_StuckAncientSiloDoor.description>Una puerta fuertemente reforzada. Debido a un mal funcionamiento o daños, debe ser forzada. Es lenta de abrir pero muy resistente. La puerta requiere paredes a ambos lados para funcionar.</VQED_StuckAncientSiloDoor.description>
+  <VQED_StuckAncientSiloDoor.label>puerta de silo antigua atascada</VQED_StuckAncientSiloDoor.label>
+</LanguageData>

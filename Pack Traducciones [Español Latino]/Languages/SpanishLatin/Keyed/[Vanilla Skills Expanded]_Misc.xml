@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <VSE>Vanilla Skills Expanded</VSE>
+  <VSE.AllowExpertiseOverlap>Permitir superposición de especialidades</VSE.AllowExpertiseOverlap>
+  <VSE.AllowExpertiseOverlap.Desc>Si es falso, solo se puede elegir 1 especialidad por habilidad, independientemente de la configuración de especialidad máxima.</VSE.AllowExpertiseOverlap.Desc>
+  <VSE.AllowMultiCritical>Permitir múltiples pasiones críticas</VSE.AllowMultiCritical>
+  <VSE.AllowMultiCritical.Desc>Si es falso, asegurará que solo se genere una pasión Crítica por peón, para evitar que se superpongan y ambas sean inútiles.</VSE.AllowMultiCritical.Desc>
+  <VSE.AtMaxExpertise>Lim. alcanzado</VSE.AtMaxExpertise>
+  <VSE.Bad>Malo:</VSE.Bad>
+  <VSE.Commonalities>Editar frecuencia de pasiones, los grupos están separados</VSE.Commonalities>
+  <VSE.CriticalEffectPassions>Crítico afecta pasiones</VSE.CriticalEffectPassions>
+  <VSE.CriticalEffectPassions.Desc>Si es falso, el factor de tasa de aprendizaje negativo en otras habilidades debido a Crítico no afectará a otras habilidades por las que el peón sienta pasión.</VSE.CriticalEffectPassions.Desc>
+  <VSE.Effects>Efectos:</VSE.Effects>
+  <VSE.Effects.PerLevel>Efectos (por nivel):</VSE.Effects.PerLevel>
+  <VSE.EnableAlert>Activar alerta de "Especialidad disponible"</VSE.EnableAlert>
+  <VSE.EnableSkillLoss>Reactivar pérdida de habilidad</VSE.EnableSkillLoss>
+  <VSE.EnableSkillsLoss.Desc>Por defecto, Ducks' Insane Skills desactiva toda pérdida de habilidad. Al seleccionar esta opción, este mod anulará a Ducks y la activará de nuevo. Usa esto si aún quieres aprovechar los cambios en la velocidad de olvido de las nuevas pasiones.</VSE.EnableSkillsLoss.Desc>
+  <VSE.Expertise>Especialidad</VSE.Expertise>
+  <VSE.Expertise0>Interesado en ello</VSE.Expertise0>
+  <VSE.Expertise1>Aficionado</VSE.Expertise1>
+  <VSE.Expertise10>Profesional muy cualificado</VSE.Expertise10>
+  <VSE.Expertise11>Casi experto</VSE.Expertise11>
+  <VSE.Expertise12>Experto autoproclamado</VSE.Expertise12>
+  <VSE.Expertise13>Experto</VSE.Expertise13>
+  <VSE.Expertise14>Experto fuerte</VSE.Expertise14>
+  <VSE.Expertise15>Experto muy fuerte</VSE.Expertise15>
+  <VSE.Expertise16>Experto conocido en la colonia</VSE.Expertise16>
+  <VSE.Expertise17>Experto conocido en la región</VSE.Expertise17>
+  <VSE.Expertise18>Experto líder en la región</VSE.Expertise18>
+  <VSE.Expertise19>Experto conocido en el planeta</VSE.Expertise19>
+  <VSE.Expertise2>Aspirante a aprendiz</VSE.Expertise2>
+  <VSE.Expertise20>Experto legendario</VSE.Expertise20>
+  <VSE.Expertise3>Aprendiz</VSE.Expertise3>
+  <VSE.Expertise4>Aprendiz excelente</VSE.Expertise4>
+  <VSE.Expertise5>Profesional débil</VSE.Expertise5>
+  <VSE.Expertise6>Profesional</VSE.Expertise6>
+  <VSE.Expertise7>Profesional empleable</VSE.Expertise7>
+  <VSE.Expertise8>Profesional sólido</VSE.Expertise8>
+  <VSE.Expertise9>Profesional cualificado</VSE.Expertise9>
+  <VSE.ExpertiseAvailable>Colono puede ganar especialidad</VSE.ExpertiseAvailable>
+  <VSE.ExpertiseAvailableDesc>Tu colono ha alcanzado un nivel lo suficientemente alto en una habilidad que le apasiona como para ganar una especialidad.\n\nConsidera elegir una especialidad para que obtenga nuevas bonificaciones en el tipo de trabajo en el que es bueno.\n\nColonos que pueden obtener especialidad:\n\n</VSE.ExpertiseAvailableDesc>
+  <VSE.ExpertiseAvailableMultiple>Colonos pueden ganar especialidad</VSE.ExpertiseAvailableMultiple>
+  <VSE.ExpertiseDesc>Seleccionar una especialidad desbloqueará una habilidad que tu peón subirá de nivel, otorgándole bonificaciones poderosas y específicas.\nSolo puedes seleccionar {0} especialidad, y solo en habilidades por las que tus peones sientan pasión.</VSE.ExpertiseDesc>
+  <VSE.ExpertiseOverlap>Superposición de especialidad</VSE.ExpertiseOverlap>
+  <VSE.ForgetSpeed>Velocidad de olvido</VSE.ForgetSpeed>
+  <VSE.Good>Bueno:</VSE.Good>
+  <VSE.GrowthMomentRandomPassions>Probabilidad de pasión aleatoria en momentos de crecimiento</VSE.GrowthMomentRandomPassions>
+  <VSE.GrowthMomentRandomPassionsDesc>Por defecto, el 5% de las veces un momento de crecimiento seleccionará una de las habilidades que no tienen pasiones y asignará una pasión Natural o Apatía.</VSE.GrowthMomentRandomPassionsDesc>
+  <VSE.LearnOther>\n   - Aprende otros {0}</VSE.LearnOther>
+  <VSE.LearnsForgets>\n   - Aprende {0}\n   - Olvida {1}</VSE.LearnsForgets>
+  <VSE.MaxExpertise>Cantidad máxima de especialidades por colono:</VSE.MaxExpertise>
+  <VSE.MinSkillForExpertise>Habilidad mínima para obtener una especialidad</VSE.MinSkillForExpertise>
+  <VSE.MinSkillForExpertiseDesc>El colono necesitará alcanzar este nivel de habilidad antes de que se le ofrezca una especialidad.</VSE.MinSkillForExpertiseDesc>
+  <VSE.NoPassion>Sin pasión</VSE.NoPassion>
+  <VSE.Reset>Restablecer a predeterminado</VSE.Reset>
+  <VSE.SelectExpertise>Tomar especialidad</VSE.SelectExpertise>
+  <VSE.SkillTooLow>Hab. insuficiente</VSE.SkillTooLow>
+  <VSE.StatMultiplier>Multiplicador de factor / compensación de estadísticas de especialidad</VSE.StatMultiplier>
+  <VSE.StatMultiplierDesc>¿Es nuestro equilibrio demasiado fácil? ¿Demasiado difícil? ¡Ve a quejarte a Reddit! Errrr... quiero decir, ¡cámbialo con este control deslizante! Los efectos que la especialidad tiene en las estadísticas se multiplicarán por este número, por lo que 0.1 hará que la especialidad sea súper débil, mientras que 5 la hará increíblemente poderosa.</VSE.StatMultiplierDesc>
+  <VSE_Passion>Pasión: {0}</VSE_Passion>
+</LanguageData>

@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <VFEE_ArtExhibit.questContentRules.rulesStrings>
+    <li>decidedToLeave-&gt;¡Se van inmediatamente y no recordarán este evento con cariño!</li>
+    <li>oneOfThe-&gt;uno de los nobles que invitaste a la exhibición de arte</li>
+    <li>questOver-&gt;La misión '[resolvedQuestName]' ha terminado.</li>
+    <li>CeremonyFailedLetterLabel-&gt;Exhibición de arte fallida</li>
+    <li>CeremonyFailedLetterText-&gt;[asker_nameFull] está decepcionado por tu fracaso en hacer una exhibición agradable. [asker_pronoun] se va con sus invitados</li>
+    <li>CeremonyTimeoutLetterLabel-&gt;Exhibición de arte fallida</li>
+    <li>CeremonyTimeoutLetterText-&gt;[asker_nameFull] se ha cansado de esperar a que comiences la exhibición. [asker_pronoun] se va con sus invitados.</li>
+    <li>letterIntroArrested-&gt;Arrestaste a {SUBJECT_definite}, [oneOfThe].</li>
+    <li>lodgerArrestedLeaveMapLetterLabel-&gt;[lodgersLabel] arrestado</li>
+    <li>lodgerArrestedLeaveMapLetterText-&gt;[letterIntroArrested]\n\n[decidedToLeave]</li>
+    <li>letterIntroDeath-&gt;{SUBJECT_definite}, [oneOfThe] ha muerto.</li>
+    <li>lodgerDiedLeaveMapLetterLabel-&gt;[lodgersLabel] murió: Partida</li>
+    <li>lodgerDiedLeaveMapLetterText-&gt;[letterIntroDeath]\n\n[decidedToLeave]</li>
+    <li>letterIntroViolated-&gt;{SUBJECT_definite}, [oneOfThe], fue violado por cirugía.</li>
+    <li>lodgerSurgeryVioLeaveMapLetterLabel-&gt;[lodgersLabel] Cirugía: Partida</li>
+    <li>lodgerSurgeryVioLeaveMapLetterText-&gt;[letterIntroViolated]\n\n[decidedToLeave]</li>
+    <li>letterIntroKidnapped-&gt;{SUBJECT_definite}, [oneOfThe], fue secuestrado.</li>
+    <li>lodgerKidnappedLeaveMapLetterLabel-&gt;[lodgersLabel] Secuestrado: Partida</li>
+    <li>lodgerKidnappedLeaveMapLetterText-&gt;[letterIntroKidnapped]\n\n[decidedToLeave]</li>
+    <li>letterIntroBanished-&gt;{SUBJECT_definite}, [oneOfThe], fue desterrado.</li>
+    <li>lodgerBanishedLeaveMapLetterLabel-&gt;[lodgersLabel] Desterrado: Partida</li>
+    <li>lodgerBanishedLeaveMapLetterText-&gt;[letterIntroBanished]\n\n[decidedToLeave]</li>
+    <li>letterIntroPsychicRitualTarget-&gt;{SUBJECT_definite}, [oneOfThe], fue el objetivo de un ritual psíquico.</li>
+    <li>lodgerPsychicRitualTargetLabel-&gt;[lodgersLabel] Ritual psíquico: Partida</li>
+    <li>lodgerPsychicRitualTargetText-&gt;[letterIntroPsychicRitualTarget]\n\n[decidedToLeave]</li>
+    <li>ShuttleDestroyedIntro-&gt;{SUBJECT_definite}, ha sido destruido</li>
+    <li>ShuttleDestroyedLabel-&gt;Transbordador destruido: Exhibición de arte cancelada</li>
+    <li>ShuttleDestroyedText-&gt;[ShuttleDestroyedIntro]\n\n[decidedToLeave]</li>
+    <li>raidArrivedLetterLabel-&gt;Intento de asesinato de desertores</li>
+    <li>raidArrivedLetterText-&gt;Un grupo de desertores ha llegado para intentar interrumpir la exhibición de arte y asesinar a la realeza\n\n¡A [asker_nameFull] no le importa la amenaza y exige que la exhibición continúe! [asker_pronoun] quiere que los mantengas a salvo y te ocupes de los "campesinos".</li>
+    <li>ArtExhibitSuccessLetterLabel-&gt;Éxito de la exhibición</li>
+    <li>ArtExhibitSuccessLetterText-&gt;El transbordador ha partido con [asker_nameFull] y sus invitados. En general, el evento fue un éxito y todos regresaron a salvo.</li>
+  </VFEE_ArtExhibit.questContentRules.rulesStrings>
+  <VFEE_ArtExhibit.questDescriptionAndNameRules.rulesStrings>
+    <li>lodgersLabel-&gt;noble</li>
+    <li>lodgersLabelPlural-&gt;nobles</li>
+    <li>lodgersDef(nobleCount==1)-&gt;[lodgers0_nameDef]</li>
+    <li>lodgersDef(nobleCount&gt;=2)-&gt;los [lodgersLabelPlural]</li>
+    <li>joinerEnding-&gt;Podrás dirigir a [lodgersDef] de la misma manera que diriges a tus propios colonos.[specialNeedsExplanation]</li>
+    <li>theirHisHer(nobleCount==1)-&gt;[lodgers0_possessive]</li>
+    <li>theirHisHer(nobleCount&gt;=2)-&gt;su</li>
+    <li>lodgersPronoun(nobleCount==1)-&gt;[lodgers0_pronoun]</li>
+    <li>lodgersPronoun(nobleCount&gt;=2)-&gt;ellos</li>
+    <li>lodgersWasWere(nobleCount==1)-&gt;fue</li>
+    <li>lodgersWasWere(nobleCount&gt;=2)-&gt;fueron</li>
+    <li>appreciateAppreciates(nobleCount==1)-&gt;aprecia</li>
+    <li>appreciateAppreciates(nobleCount&gt;=2)-&gt;aprecian</li>
+    <li>questDescription-&gt;[asker_nameFull], un [asker_royalTitleInCurrentFaction] de [asker_faction_name], quisiera venir con algunos otros nobles y contemplar las obras de arte en tu galería. [asker_pronoun] solicita que [colonyHost_nameFull] sea el anfitrión de la ocasión. Esta es una gran oportunidad para el chisme noble y para construir relaciones con otros miembros de la nobleza imperial.\nSe requiere que tengas una galería presente en tu colonia. Si en algún momento la galería es destruida, la exhibición de arte será cancelada.\n[asker_nameFull] te ha enviado una lista de la nobleza que fue invitada a la exhibición y llegará en el transbordador:\n[noblesDetailList]\n\nNecesitarás asegurarte de que los invitados estén seguros y cómodos durante la exhibición. Si algo le sucede a alguno de los invitados, la exhibición de arte será cancelada.\nLos desertores podrían usar esta oportunidad para lanzar un intento de asesinato.\n\n\n</li>
+  </VFEE_ArtExhibit.questDescriptionAndNameRules.rulesStrings>
+  <VFEE_ArtExhibit.questNameRules.rulesStrings>
+    <li>questName-&gt;[lodgerIndef] desea una exhibición de arte</li>
+    <li>lodgerIndef-&gt;un miembro de la realeza</li>
+    <li>lodgerIndef-&gt;un noble</li>
+  </VFEE_ArtExhibit.questNameRules.rulesStrings>
+</LanguageData>

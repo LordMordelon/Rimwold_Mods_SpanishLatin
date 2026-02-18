@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <VFEM.CaravanMachineRanOutPower>{MACHINE_nameDef} se quedó sin energía y fue dejado atrás.</VFEM.CaravanMachineRanOutPower>
+  <VFEM.DroneGainsName>El nombre del dron es ahora {0}.</VFEM.DroneGainsName>
+  <VFEMRideableMachineTip>Este droide es montable. Las personas en una caravana montarán los animales/droides más rápidos disponibles, mejorando la velocidad de la caravana en su conjunto.</VFEMRideableMachineTip>
+  <VFEMechAttachTurret>Acoplar torreta</VFEMechAttachTurret>
+  <VFEMechAttachTurretDesc>Construye una torreta sobre esta plataforma móvil. Esto requerirá que un colono entregue recursos equivalentes al coste de construcción normal de esa torreta.</VFEMechAttachTurretDesc>
+  <VFEMechForceRecharge>Recarga forzada</VFEMechForceRecharge>
+  <VFEMechForceRechargeDesc>Ordena a la máquina asociada que regrese a esta plataforma para cargarse, independientemente de su nivel de batería actual.</VFEMechForceRechargeDesc>
+  <VFEMechLowerRange>Reducir alcance</VFEMechLowerRange>
+  <VFEMechLowerRangeDesc>Reduce el número de casillas que viajará esta máquina.</VFEMechLowerRangeDesc>
+  <VFEMechMachineDied>Máquina destruida</VFEMechMachineDied>
+  <VFEMechMachineDiedDesc>¡Una de tus máquinas ha sido destruida! Puedes desmantelar sus restos en una mesa de mecanizado. Para construir un reemplazo, uno de tus colonos deberá entregar las siguientes piezas a su plataforma:\n\n{0}</VFEMechMachineDiedDesc>
+  <VFEMechMachineHitObstacle>¡La máquina se ha topado con un obstáculo!</VFEMechMachineHitObstacle>
+  <VFEMechNoResources>No hay suficientes recursos</VFEMechNoResources>
+  <VFEMechNoTurret>No hay torreta móvil activa</VFEMechNoTurret>
+  <VFEMechRaiseRange>Aumentar alcance</VFEMechRaiseRange>
+  <VFEMechRaiseRangeDesc>Aumenta el número de casillas que viajará esta máquina.</VFEMechRaiseRangeDesc>
+  <VFEMechReconstruct>Necesario para reconstruir la máquina:</VFEMechReconstruct>
+  <VFEMechSetArea>Establecer área</VFEMechSetArea>
+  <VFEMechSetAreaDesc>Establece el área permitida para todas las máquinas asociadas a esta plataforma.</VFEMechSetAreaDesc>
+  <VFEMechStartMachine>Iniciar máquina</VFEMechStartMachine>
+  <VFEMechStartMachineDesc>Inicia esta máquina.</VFEMechStartMachineDesc>
+  <VFEMechStopMachine>Detener máquina</VFEMechStopMachine>
+  <VFEMechStopMachineDesc>Detiene el progreso de esta máquina y la obliga a regresar a la base.</VFEMechStopMachineDesc>
+  <VFEMechTurretResources>Necesario para construir la torreta:</VFEMechTurretResources>
+</LanguageData>

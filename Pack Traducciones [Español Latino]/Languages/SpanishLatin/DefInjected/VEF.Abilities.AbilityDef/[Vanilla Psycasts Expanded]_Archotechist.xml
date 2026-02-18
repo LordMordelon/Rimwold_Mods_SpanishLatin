@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <VPE_AggressiveHeatDump.description>Descarga instantáneamente todo tu calor neural en un objetivo, causando que explote con un área de efecto relativa al calor perdido. Una buena declaración de guerra.</VPE_AggressiveHeatDump.description>
+  <VPE_AggressiveHeatDump.jobReportString>Usando habilidad: {0}</VPE_AggressiveHeatDump.jobReportString>
+  <VPE_AggressiveHeatDump.label>descarga de calor agresiva</VPE_AggressiveHeatDump.label>
+  <VPE_AggressiveHeatDump.verbProperties.label>descarga de calor agresiva</VPE_AggressiveHeatDump.verbProperties.label>
+  <VPE_Berserk.description>Induce una psicosis de furia en la mente del objetivo, causando que ataque a cualquiera que esté cerca. Recuperan la racionalidad después de 15 segundos, dependiendo de su sensibilidad psíquica.</VPE_Berserk.description>
+  <VPE_Berserk.jobReportString>Usando habilidad: {0}</VPE_Berserk.jobReportString>
+  <VPE_Berserk.label>furia</VPE_Berserk.label>
+  <VPE_Berserk.verbProperties.label>furia</VPE_Berserk.verbProperties.label>
+  <VPE_BerserkPulse.description>Genera una oleada abrumadora de rabia no dirigida en todos los que están cerca del punto objetivo. Considerado un acto abierto de agresión y dura varios segundos.</VPE_BerserkPulse.description>
+  <VPE_BerserkPulse.jobReportString>Usando habilidad: {0}</VPE_BerserkPulse.jobReportString>
+  <VPE_BerserkPulse.label>pulso de furia</VPE_BerserkPulse.label>
+  <VPE_BerserkPulse.verbProperties.label>pulso de furia</VPE_BerserkPulse.verbProperties.label>
+  <VPE_Burden.description>Ralentiza al objetivo por un corto tiempo suprimiendo la actividad motora en el cerebro. Considerada una acción hostil y afectada por la sensibilidad psíquica del objetivo.</VPE_Burden.description>
+  <VPE_Burden.jobReportString>Usando habilidad: {0}</VPE_Burden.jobReportString>
+  <VPE_Burden.label>carga</VPE_Burden.label>
+  <VPE_Burden.verbProperties.label>carga</VPE_Burden.verbProperties.label>
+  <VPE_NeuralHeatDetonation.description>Descarga eficiente pero indiscriminadamente todo el calor neural del lanzador en una explosión lejos de sí mismos, siendo el tamaño relativo al calor perdido.</VPE_NeuralHeatDetonation.description>
+  <VPE_NeuralHeatDetonation.jobReportString>Usando habilidad: {0}</VPE_NeuralHeatDetonation.jobReportString>
+  <VPE_NeuralHeatDetonation.label>detonación de calor neural</VPE_NeuralHeatDetonation.label>
+  <VPE_NeuralHeatDetonation.verbProperties.label>detonación de calor neural</VPE_NeuralHeatDetonation.verbProperties.label>
+  <VPE_NeuralHeatDump.description>Descarga instantáneamente todo tu calor neural en un aliado consciente. Como efecto secundario, el objetivo caerá en un coma debilitante e inofensivo durante aproximadamente un día. El objetivo debe aceptar activamente la invasión psíquica, por lo que solo se puede apuntar a aliados conscientes.</VPE_NeuralHeatDump.description>
+  <VPE_NeuralHeatDump.jobReportString>Usando habilidad: {0}</VPE_NeuralHeatDump.jobReportString>
+  <VPE_NeuralHeatDump.label>descarga de calor neural</VPE_NeuralHeatDump.label>
+  <VPE_NeuralHeatDump.verbProperties.label>descarga de calor neural</VPE_NeuralHeatDump.verbProperties.label>
+  <VPE_Neuroquake.description>Encuentra una discontinuidad en el campo psíquico y la despliega, liberando una cantidad masiva de energía psíquica. Cada criatura dentro del alcance pero fuera del círculo interior seguro se volverá violentamente loca. Lanzar esto toma 12 segundos de meditación, y después, el lanzador entrará en un coma psíquico. Los perturbadores ecos del neuroterremoto infligirán dolor a todos por muchos kilómetros a la redonda, causando consecuencias diplomáticas con todas las facciones.</VPE_Neuroquake.description>
+  <VPE_Neuroquake.jobReportString>Usando habilidad: {0}</VPE_Neuroquake.jobReportString>
+  <VPE_Neuroquake.label>neuroterremoto</VPE_Neuroquake.label>
+  <VPE_Neuroquake.modExtensions.0.message>Si usas neuroterremoto, todos en esta región sentirán el eco del neuroterremoto, perderás buena voluntad con cada facción no hostil.\n\nNeuroterremoto toma 12 segundos para lanzarse y no puede ser interrumpido. Cuando se complete, el lanzador caerá en un coma psíquico por hasta 5 días.\n\nTodos dentro del alcance excepto aquellos en un pequeño círculo alrededor del lanzador se verán afectados.\n\n¿Realmente quieres lanzar neuroterremoto?</VPE_Neuroquake.modExtensions.0.message>
+  <VPE_Neuroquake.verbProperties.label>neuroterremoto</VPE_Neuroquake.verbProperties.label>
+  <VPE_PsychicDrone.description>Crea un aura masiva de zumbido psíquico alrededor del lanzador sintonizada con los hostiles, volviéndolos locos con frecuencia hasta que superan el quiebre. La duración escala con la sensibilidad psíquica del lanzador.</VPE_PsychicDrone.description>
+  <VPE_PsychicDrone.jobReportString>Usando habilidad: {0}</VPE_PsychicDrone.jobReportString>
+  <VPE_PsychicDrone.label>zumbido psíquico</VPE_PsychicDrone.label>
+  <VPE_PsychicDrone.verbProperties.label>zumbido psíquico</VPE_PsychicDrone.verbProperties.label>
+  <VPE_PsychicShock.description>Golpea psíquicamente la mente del objetivo con imágenes caóticas, bloqueando la percepción coherente y dejándolos caer en un estado de choque psíquico. Existe el riesgo de daño cerebral y es abiertamente hostil.</VPE_PsychicShock.description>
+  <VPE_PsychicShock.jobReportString>Usando habilidad: {0}</VPE_PsychicShock.jobReportString>
+  <VPE_PsychicShock.label>choque psíquico</VPE_PsychicShock.label>
+  <VPE_PsychicShock.verbProperties.label>choque psíquico</VPE_PsychicShock.verbProperties.label>
+  <VPE_Stun.description>Interrumpe momentáneamente la función motora en el cerebro del objetivo, impidiendo cualquier movimiento. Esto dura unos segundos y se considera una acción hostil.</VPE_Stun.description>
+  <VPE_Stun.jobReportString>Usando habilidad: {0}</VPE_Stun.jobReportString>
+  <VPE_Stun.label>aturdir</VPE_Stun.label>
+  <VPE_Stun.verbProperties.label>aturdir</VPE_Stun.verbProperties.label>
+</LanguageData>

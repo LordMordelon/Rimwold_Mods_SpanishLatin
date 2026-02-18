@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <VFED_Gun_Kontarion.description>Un cañón de balas de uranio de carga automática diseñado para acoplarse a una torreta.</VFED_Gun_Kontarion.description>
+  <VFED_Gun_Kontarion.label>cañón kontarion</VFED_Gun_Kontarion.label>
+  <VFED_Gun_Kontarion.verbs.Verb_Shoot.label>cañón kontarion</VFED_Gun_Kontarion.verbs.Verb_Shoot.label>
+  <VFED_Gun_Onager.description>Un lanzacohetes de carga automática diseñado para acoplarse a una torreta.</VFED_Gun_Onager.description>
+  <VFED_Gun_Onager.label>cañón onager</VFED_Gun_Onager.label>
+  <VFED_Gun_Onager.verbs.Verb_Shoot.label>cañón onager</VFED_Gun_Onager.verbs.Verb_Shoot.label>
+  <VFED_Gun_Palintone.description>Un cañón de carga automática diseñado para acoplarse a una torreta.</VFED_Gun_Palintone.description>
+  <VFED_Gun_Palintone.label>cañón palintone</VFED_Gun_Palintone.label>
+  <VFED_Gun_Palintone.verbs.Verb_Shoot.label>cañón palintone</VFED_Gun_Palintone.verbs.Verb_Shoot.label>
+  <VFED_Turret_Kontarion.comps.CompRefuelable.fuelGizmoLabel>Balas de uranio</VFED_Turret_Kontarion.comps.CompRefuelable.fuelGizmoLabel>
+  <VFED_Turret_Kontarion.comps.CompRefuelable.fuelLabel>Disparos hasta rearmar</VFED_Turret_Kontarion.comps.CompRefuelable.fuelLabel>
+  <VFED_Turret_Kontarion.comps.CompRefuelable.outOfFuelMessage>Sin balas</VFED_Turret_Kontarion.comps.CompRefuelable.outOfFuelMessage>
+  <VFED_Turret_Kontarion.description>Un arma poderosa de largo alcance utilizada por el Imperio para eliminar objetivos enemigos desde lejos. La torreta kontarion dispara balas de uranio ultradensas a velocidades increíbles, penetrando incluso la armadura más pesada. Con sus capacidades de disparo rápido, tremenda precisión y alcance infinito, es una fuerza a tener en cuenta. Es más precisa a distancias más largas y no puede disparar de cerca. Puede explotar si se daña.\n\nConsume mucha munición y requiere una caja adyacente de munición de balas de uranio para recargarse automáticamente. No se puede recargar a mano.</VFED_Turret_Kontarion.description>
+  <VFED_Turret_Kontarion.label>kontarion</VFED_Turret_Kontarion.label>
+  <VFED_Turret_Onager.comps.CompRefuelable.fuelGizmoLabel>Misiles Onager</VFED_Turret_Onager.comps.CompRefuelable.fuelGizmoLabel>
+  <VFED_Turret_Onager.comps.CompRefuelable.fuelLabel>Disparos hasta rearmar</VFED_Turret_Onager.comps.CompRefuelable.fuelLabel>
+  <VFED_Turret_Onager.comps.CompRefuelable.outOfFuelMessage>Sin misiles</VFED_Turret_Onager.comps.CompRefuelable.outOfFuelMessage>
+  <VFED_Turret_Onager.description>Un arma poderosa anti-blindaje utilizada por el Imperio para destruir objetivos fuertemente blindados con facilidad. Capaz de lanzar misiles en ráfagas de 6, el onager puede causar daños devastadores a las fuerzas enemigas en poco tiempo. La torreta Onager es más efectiva a corto alcance, donde sus misiles pueden apuntar con precisión a las posiciones enemigas. Sin embargo, no puede disparar a enemigos que estén demasiado cerca, ya que los misiles requieren cierta distancia para armarse y rastrear sus objetivos. Además, debido a la gran cantidad de misiles que dispara, el Onager no es tan preciso como otras torretas y, a veces, puede fallar sus objetivos. Puede explotar si se daña.\n\nConsume mucha munición y requiere una caja adyacente de munición de misiles para recargarse automáticamente. No se puede recargar a mano.</VFED_Turret_Onager.description>
+  <VFED_Turret_Onager.label>onager</VFED_Turret_Onager.label>
+  <VFED_Turret_Palintone.comps.CompRefuelable.fuelGizmoLabel>Munición de cañón automático</VFED_Turret_Palintone.comps.CompRefuelable.fuelGizmoLabel>
+  <VFED_Turret_Palintone.comps.CompRefuelable.fuelLabel>Disparos hasta rearmar</VFED_Turret_Palintone.comps.CompRefuelable.fuelLabel>
+  <VFED_Turret_Palintone.comps.CompRefuelable.outOfFuelMessage>Sin munición</VFED_Turret_Palintone.comps.CompRefuelable.outOfFuelMessage>
+  <VFED_Turret_Palintone.description>Un arma poderosa anti-infantería utilizada por el Imperio para defender puestos avanzados inseguros. La torreta palintone dispara proyectiles de gran calibre a velocidades increíbles, causando graves daños a distancias significativas. Dispara enormes descargas de rondas que pueden proporcionar fuego de supresión y destrozar rápidamente objetivos con armadura ligera. Con su devastadora potencia de fuego, la torreta Palintone es capaz de mantener a raya incluso a las fuerzas enemigas más grandes. Puede explotar si se daña.\n\nConsume mucha munición y requiere una caja adyacente de munición de cañón automático para recargarse automáticamente. No se puede recargar a mano.</VFED_Turret_Palintone.description>
+  <VFED_Turret_Palintone.label>palintone</VFED_Turret_Palintone.label>
+  <VFED_Turret_StrikerTurret.description>Una torreta estacionaria y poderosa. Se autodestruirá si se daña lo suficiente.</VFED_Turret_StrikerTurret.description>
+  <VFED_Turret_StrikerTurret.label>torreta striker</VFED_Turret_StrikerTurret.label>
+  <VFFED_Bullet_Onager.label>onager</VFFED_Bullet_Onager.label>
+</LanguageData>

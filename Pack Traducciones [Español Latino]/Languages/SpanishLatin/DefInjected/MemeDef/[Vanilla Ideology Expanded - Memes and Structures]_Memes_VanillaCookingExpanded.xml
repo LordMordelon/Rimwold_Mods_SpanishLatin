@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <VME_SweetTeeth.description>Cada comida debe incluir un postre, es importante darse un capricho.\n\n&lt;color=#E5E54C&gt;Efecto en el juego:&lt;/color&gt;\n - Desbloquea una "Necesidad de Postres" que hará más felices a los colonos si consumen postres y chocolate regularmente (necesita que la expectativa sea moderada o superior)\n - Desbloquea la siembra del arbusto de cacao, una planta productora de cacao que es más eficiente que el árbol y se puede cultivar en interiores y en hidroponía\n - La colonia recibe 15 de Chocolate para empezar</VME_SweetTeeth.description>
+  <VME_SweetTeeth.descriptionMaker.rules.rulesStrings>
+    <li>creation(tag=meme_SweetTeeth)        -&gt;[deity0_name] habló a todos [deity0_possessive] seguidores y dijo: "Quien coma este pastel que es mi carne permanece en mí, y yo en ellos".</li>
+    <li>episode(uses=1,tag=meme_SweetTeeth)  -&gt;[deity0_name] dijo a todos los [memberNamePlural]: "Mirad el mundo como si fuera un pastel de cumpleaños gigante. Tomad un trozo, pero no toméis demasiado".</li>
+    <li>intro(tag=meme_SweetTeeth)           -&gt;[memberNamePlural] construyeron un gran [altarName] en [place_summary] [place_name], y lo llenaron de dulces azucarados para servir a cualquier peregrino visitante.</li>
+    <li>conflict(tag=meme_SweetTeeth)        -&gt;Un severo [foeLeader], buscando negar la voluntad de [deity0_name], dijo a [foeLeader_possessive] [foeSoldiers] que se deshicieran de todos los deliciosos postres, porque [foeLeader_pronoun] estaba en una dieta estricta.</li>
+    <li>founderJoin(tag=meme_SweetTeeth)     -&gt;[deity0_name] bendijo a un [place_job] llamado [founderName] con un apetito y creatividad interminables, y [founder_pronoun] creó las mejores creaciones de confitería que jamás se hayan visto.</li>
+    <li>victory(tag=meme_SweetTeeth)         -&gt;[founderName] sirvió [founderName_possessive] creaciones a los [foeSoldiers] y quedaron encantados. Incluso el [foeLeader] quedó convencido de su calidad sublime, y [foeLeader_pronoun] proclamó la sabiduría de la voluntad de [deity0_name].</li>
+    <li>setup(tag=meme_SweetTeeth)           -&gt;Nuestro fundador [founderName] era un pastelero, creador de las mejores creaciones de confitería que jamás se hayan visto.</li>
+    <li>story(uses=1,tag=meme_SweetTeeth)    -&gt;[founderName] creía que [founderName_possessive] arte no era simplemente una herramienta para alimentar a la gente, sino algo más profundo que podía unir y reconciliar incluso a los mayores enemigos.</li>
+    <li>lessonIntro(tag=meme_SweetTeeth)         -&gt;He estado trabajando como pastelero durante muchos, muchos años, y he aprendido que</li>
+    <li>lesson(tag=meme_SweetTeeth)              -&gt;nada en este mundo es mejor que el pastel, excepto más pastel</li>
+    <li>lessonReinforcement(tag=meme_SweetTeeth) -&gt;Obsesivo ni siquiera comienza a describir mi amor por el pastel. Incluso pelearé con niños pequeños si tengo que hacerlo.</li>
+    <li>archistBasis(tag=meme_SweetTeeth)    -&gt;Los arqueotécnicos nos bendijeron con apetitos exquisitos para que podamos disfrutar de los sabores más dulces de la vida.</li>
+    <li>archistFact(tag=meme_SweetTeeth)     -&gt;Los arqueotécnicos no quieren que pasemos nuestras vidas sin disfrutar y tratar nuestros paladares.</li>
+    <li>archistProphecy(tag=meme_SweetTeeth) -&gt;[inTheEnd], los arqueotécnicos nos mostrarán que la trascendencia sin disfrutar de algunos de los placeres más simples es solo una meta vacía.</li>
+    <li>animistFact(tag=meme_SweetTeeth)     -&gt;Los espíritus quieren que exploremos nuestros sentidos y disfrutemos de los sabores más dulces de la vida. No quieren que pasemos nuestras vidas sin disfrutar y tratar nuestros paladares.</li>
+    <li>serketistProphecy(tag=meme_SweetTeeth)-&gt;[itIsSaid] aprenderemos a incorporar su sabiduría en nuestras propias recetas culinarias. La jalea de insecto es una ambrosía que proporciona uno de los sabores más dulces de la naturaleza.</li>
+    <li>chthonianProphecy(tag=meme_SweetTeeth)-&gt;No hay escape, no hay liberación. Bien podríamos atiborrarnos de deliciosos pasteles y disfrutar de nuestras breves y sórdidas vidas.</li>
+    <li>esotericismProphecy(tag=meme_SweetTeeth)-&gt;Quizás escondida entre todos los arcanos se encuentre una receta maravillosa para un manjar de confitería alucinante. Se puede soñar.</li>
+    <li>eschatologismFact(tag=meme_SweetTeeth)-&gt;Cubriremos todo en un mar de sangre y... pastel. Sí, pastel.</li>
+    <li>introMemo(tag=meme_SweetTeeth)-&gt;Como sabéis, existe una política en toda la empresa para celebrar los cumpleaños de vuestros compañeros de trabajo trayendo un mínimo de 4 pasteles por asistente. Tuvimos que regular esto porque ALGUIEN estaba abusando de ello y comiendo más de lo que le correspondía. Sabes quién eres y deberías avergonzarte de ti mismo.</li>
+  </VME_SweetTeeth.descriptionMaker.rules.rulesStrings>
+  <VME_SweetTeeth.generalRules.rulesStrings>
+    <li>memeAdjective-&gt;dulce</li>
+    <li>memeAdjective-&gt;azucarado</li>
+    <li>memeAdjective-&gt;sacarino</li>
+    <li>memeAdjective-&gt;confitado</li>
+    <li>memeAdjective-&gt;goloso</li>
+    <li>memeHyphenPrefix-&gt;dulce</li>
+    <li>memeConcept-&gt;postres</li>
+    <li>memeLeaderNoun-&gt;pastelero</li>
+  </VME_SweetTeeth.generalRules.rulesStrings>
+  <VME_SweetTeeth.label>golosos</VME_SweetTeeth.label>
+  <VME_SweetTeeth.symbolPacks.0.adjective>goloso</VME_SweetTeeth.symbolPacks.0.adjective>
+  <VME_SweetTeeth.symbolPacks.0.ideoName>Golosos</VME_SweetTeeth.symbolPacks.0.ideoName>
+  <VME_SweetTeeth.symbolPacks.0.member>entusiasta de los postres</VME_SweetTeeth.symbolPacks.0.member>
+  <VME_SweetTeeth.symbolPacks.0.theme>postres</VME_SweetTeeth.symbolPacks.0.theme>
+</LanguageData>

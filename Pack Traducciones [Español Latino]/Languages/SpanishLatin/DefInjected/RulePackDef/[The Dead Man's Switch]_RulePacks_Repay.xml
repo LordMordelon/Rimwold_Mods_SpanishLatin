@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <DMS_Outgoing_Attack.rulePack.rulesStrings>
+    <li>_story-&gt;[KnownForm], [MecaAdj][MecaTipo][MecaVerbo].\n\n[Result]</li>
+    <li>KnownForm&gt;Un registro de comunicación interceptado indica</li>
+    <li>KnownForm&gt;Según los rumores de los transeúntes</li>
+    <li>KnownForm&gt;Según la comunicación de [Faction]</li>
+    <li>KnownForm&gt;Un mensaje mencionado en la transmisión llamó tu atención</li>
+    <li>KnownForm&gt;Según un mensaje de un remitente anónimo</li>
+    <li>MechAdj&gt;un [MecaTipo] de origen desconocido</li>
+    <li>MechAdj&gt;un [MecaTipo] en ruinas</li>
+    <li>MechAdj&gt;un [MecaTipo] con comportamiento anormal</li>
+    <li>MechAdj&gt;un [MecaTipo] elusivo</li>
+    <li>MechAdj&gt;un [MecaTipo] que se hace llamar [Meca]</li>
+    <li>MechVerb&gt;destruyó la base de [Faction] en [Settlement]</li>
+    <li>MechVerb&gt;lideró un ataque a [Settlement] y lo destruyó por completo antes de que llegaran los refuerzos de [Faction]</li>
+    <li>MechVerb&gt;atacó la base hostil de [Faction] en [Settlement]</li>
+    <li>MechVerb&gt;destruyó la base de [Faction] en [Settlement] por sí solo</li>
+    <li>MechVerb&gt;atacó [Settlement] durante la noche y se retiró antes de que [Faction] pudiera reaccionar</li>
+    <li>Result&gt;[Faction] está reuniendo fuerzas armadas para rodear y destruir a ese [MecaTipo]</li>
+    <li>Result&gt;Según los rumores, [Settlement] ahora solo son ruinas</li>
+    <li>Result&gt;Evidentemente, [Settlement] ya no existe</li>
+    <li>Result&gt;Evidentemente, después de este ataque, [Faction] abandonó la base de [Settlement]</li>
+    <li>Result&gt;[Faction] abandonó la base de [Settlement] después de evaluar los daños</li>
+    <li>Result&gt;[Settlement] no pudo enviar muchas señales de socorro antes de caer en el silencio</li>
+  </DMS_Outgoing_Attack.rulePack.rulesStrings>
+  <DMS_Outgoing_Loot.rulePack.rulesStrings>
+    <li>_story-&gt;[SendForm], [SendAdj].\n\n[Result]</li>
+    <li>SendForm&gt;Un paquete encargado fue entregado a tu colonia</li>
+    <li>SendForm&gt;Un lanzamiento aéreo anónimo fue enviado a tu colonia</li>
+    <li>SendForm&gt;Un paquete encargado fue enviado a tu colonia</li>
+    <li>SendForm&gt;Un lanzamiento aéreo sin previo aviso fue entregado a la colonia</li>
+    <li>SendAdj&gt;La carcasa estaba llena de marcas de disparos, pero el contenido parecía intacto</li>
+    <li>SendAdj&gt;Según la firma, podría haber sido enviado por personal anterior de tu colonia</li>
+    <li>SendAdj&gt;Nadie sabe quién envió este paquete, pero el contenido es muy valioso</li>
+    <li>SendAdj&gt;Los colonos están seguros de que no había un programa de logística reciente, pero el paquete utilizó el código de identificación IFF interno de la colonia para ser lanzado con precisión en tu colonia</li>
+    <li>Result&gt;Sea cual sea la historia detrás de este paquete, el contenido ha sido entregado a la colonia</li>
+    <li>Result&gt;Según los rumores, esto podría haber sido obra de un [MecaTipo] mencionado repetidamente en las comunicaciones de radio recientes</li>
+    <li>Result&gt;Tus colonos recordaron a [Meca], porque la colonia permitió que este cuerpo mecánico de comportamiento anormal se fuera</li>
+    <li>Result&gt;Según el mensaje dentro del paquete, esto es de hecho una recompensa de [Meca], y ahora [Story]</li>
+    <li>Result&gt;Según las comunicaciones de radio interceptadas, esto podría ser una recompensa de [Meca], y la comunicación menciona que ahora [Story]</li>
+    <li>Story&gt;se ha convertido en un mecanoide errante, actuando para hacer cumplir su propia justicia</li>
+    <li>Story&gt;se ha convertido en un mecanoide errante libre, viajando en busca del significado de la vida</li>
+    <li>Story&gt;se ha unido a la flota colonial y se prepara para continuar su viaje con la flota dentro de diez años</li>
+    <li>Story&gt;se ha detenido brevemente en un asentamiento iluminado y se lleva bien con los lugareños</li>
+    <li>Story&gt;está recorriendo este continente, buscando máquinas conscientes como él</li>
+    <li>Story&gt;está vagando por este continente, desenterrando secretos enterrados bajo este planeta</li>
+  </DMS_Outgoing_Loot.rulePack.rulesStrings>
+</LanguageData>

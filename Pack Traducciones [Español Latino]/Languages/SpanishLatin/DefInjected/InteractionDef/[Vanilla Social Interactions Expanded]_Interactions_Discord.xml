@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <VSIE_Discord.label>discordia</VSIE_Discord.label>
+  <VSIE_Discord.logRulesInitiator.rulesStrings>
+    <li>r_logentry(p=3)-&gt;[INITIATOR_nameDef] [insulted] la [PersonalCharacteristic] de [target].</li>
+    <li>r_logentry-&gt;[INITIATOR_nameDef] comparó a [target] con un [insultcomparison].</li>
+    <li>r_logentry-&gt;[INITIATOR_nameDef] llamó [insultcomparison] a [target].</li>
+    <li>target(p=4)-&gt;[RECIPIENT_nameDef]</li>
+    <li>target-&gt;[PersonFamily] de [RECIPIENT_nameDef]</li>
+    <li>insulted(p=3)-&gt;insultó</li>
+    <li>insulted-&gt;insultó abiertamente</li>
+    <li>insulted-&gt;insultó en voz alta</li>
+    <li>insulted-&gt;insultó flagrantemente</li>
+    <li>insulted-&gt;insultó directamente</li>
+    <li>insulted-&gt;insultó viciosamente</li>
+    <li>insulted-&gt;faltó al respeto flagrantemente a</li>
+    <li>insulted-&gt;calumnió</li>
+    <li>insulted-&gt;lanzó invectivas sobre</li>
+    <li>insulted-&gt;ridiculizó</li>
+    <li>insultcomparison(p=2)-&gt;[Animal]</li>
+    <li>insultcomparison-&gt;[Enemy]</li>
+  </VSIE_Discord.logRulesInitiator.rulesStrings>
+</LanguageData>
