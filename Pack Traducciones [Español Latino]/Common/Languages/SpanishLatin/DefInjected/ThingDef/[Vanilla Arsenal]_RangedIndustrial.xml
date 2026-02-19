@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <DV_Bullet_BurstPistol.label>bala de pistola de ráfaga</DV_Bullet_BurstPistol.label>
+  <DV_Bullet_Chaingun.label>bala de chaingun</DV_Bullet_Chaingun.label>
+  <DV_Bullet_DMR.label>bala de DMR</DV_Bullet_DMR.label>
+  <DV_Bullet_LightCarbine.label>bala de carabina ligera</DV_Bullet_LightCarbine.label>
+  <DV_Bullet_Thermorifle.label>bala termobárica</DV_Bullet_Thermorifle.label>
+  <DV_Gun_BurstPistol.description>Una pistola automática compacta. De corto alcance y ligera, puede disparar ráfagas cortas con buena precisión y poco retroceso.</DV_Gun_BurstPistol.description>
+  <DV_Gun_BurstPistol.label>pistola de ráfaga</DV_Gun_BurstPistol.label>
+  <DV_Gun_BurstPistol.tools.barrel.label>cañón</DV_Gun_BurstPistol.tools.barrel.label>
+  <DV_Gun_BurstPistol.tools.grip.label>agarre</DV_Gun_BurstPistol.tools.grip.label>
+  <DV_Gun_BurstPistol.verbs.Verb_Shoot.label>pistola de ráfaga</DV_Gun_BurstPistol.verbs.Verb_Shoot.label>
+  <DV_Gun_Chaingun.description>Una ametralladora de servicio pesado con tres cañones. Puede lanzar un torrente de balas imprecisas que desgastan la armadura y las defensas. Los cañones más largos refrigerados por aire y el cargador grande que la minigun le permiten disparar durante más tiempo.</DV_Gun_Chaingun.description>
+  <DV_Gun_Chaingun.label>chaingun</DV_Gun_Chaingun.label>
+  <DV_Gun_Chaingun.tools.barrels.label>cañones</DV_Gun_Chaingun.tools.barrels.label>
+  <DV_Gun_Chaingun.verbs.Verb_Shoot.label>chaingun</DV_Gun_Chaingun.verbs.Verb_Shoot.label>
+  <DV_Gun_CombatShotgun.description>Una escopeta automática regulada por gas, que se puede disparar rápidamente gracias a una serie de cargadores giratorios. Un buen alcance y una mayor cadencia de tiro la hacen muy mortífera.</DV_Gun_CombatShotgun.description>
+  <DV_Gun_CombatShotgun.label>escopeta de combate</DV_Gun_CombatShotgun.label>
+  <DV_Gun_CombatShotgun.tools.barrel.label>cañón</DV_Gun_CombatShotgun.tools.barrel.label>
+  <DV_Gun_CombatShotgun.tools.stock.label>culata</DV_Gun_CombatShotgun.tools.stock.label>
+  <DV_Gun_CombatShotgun.verbs.Verb_Shoot.label>escopeta de combate</DV_Gun_CombatShotgun.verbs.Verb_Shoot.label>
+  <DV_Gun_DMR.description>Un rifle de tirador semiautomático comúnmente utilizado para la caza o la protección de campos. Tiene una mira que permite un mayor alcance y buena precisión, pero debe dispararse más lento para no perder precisión.</DV_Gun_DMR.description>
+  <DV_Gun_DMR.label>DMR</DV_Gun_DMR.label>
+  <DV_Gun_DMR.tools.barrel.label>cañón</DV_Gun_DMR.tools.barrel.label>
+  <DV_Gun_DMR.tools.stock.label>culata</DV_Gun_DMR.tools.stock.label>
+  <DV_Gun_DMR.verbs.Verb_Shoot.label>DMR</DV_Gun_DMR.verbs.Verb_Shoot.label>
+  <DV_Gun_GrenadeLauncher.description>Un antiguo modelo de lanzagranadas de acción de apertura de un solo disparo. Dispara pequeñas granadas que explotan al impactar.</DV_Gun_GrenadeLauncher.description>
+  <DV_Gun_GrenadeLauncher.label>lanzagranadas</DV_Gun_GrenadeLauncher.label>
+  <DV_Gun_GrenadeLauncher.tools.barrel.label>cañón</DV_Gun_GrenadeLauncher.tools.barrel.label>
+  <DV_Gun_GrenadeLauncher.tools.stock.label>culata</DV_Gun_GrenadeLauncher.tools.stock.label>
+  <DV_Gun_GrenadeLauncher.verbs.Verb_Shoot.label>lanzagranadas</DV_Gun_GrenadeLauncher.verbs.Verb_Shoot.label>
+  <DV_Gun_LeverShotgun.description>Un diseño aún más antiguo de escopeta que puede disparar rápidamente dos ráfagas de perdigones. Mayor alcance pero tarda más en recargar.</DV_Gun_LeverShotgun.description>
+  <DV_Gun_LeverShotgun.label>escopeta de palanca</DV_Gun_LeverShotgun.label>
+  <DV_Gun_LeverShotgun.tools.barrel.label>cañón</DV_Gun_LeverShotgun.tools.barrel.label>
+  <DV_Gun_LeverShotgun.tools.stock.label>culata</DV_Gun_LeverShotgun.tools.stock.label>
+  <DV_Gun_LeverShotgun.verbs.Verb_Shoot.label>escopeta de palanca</DV_Gun_LeverShotgun.verbs.Verb_Shoot.label>
+  <DV_Gun_LightCarbine.description>Una carabina sin culata operada por gas. Tiene mal alcance, pero es ligera y rápida de usar, y su alta cadencia de tiro lo compensa con creces.</DV_Gun_LightCarbine.description>
+  <DV_Gun_LightCarbine.label>carabina ligera</DV_Gun_LightCarbine.label>
+  <DV_Gun_LightCarbine.tools.barrel.label>cañón</DV_Gun_LightCarbine.tools.barrel.label>
+  <DV_Gun_LightCarbine.tools.stock.label>culata</DV_Gun_LightCarbine.tools.stock.label>
+  <DV_Gun_LightCarbine.verbs.Verb_Shoot.label>carabina ligera</DV_Gun_LightCarbine.verbs.Verb_Shoot.label>
+  <DV_Gun_ThermoRifle.description>Un fusil de francotirador de servicio pesado cargado con munición termobárica. Una gran mira motorizada se enfoca en posibles objetivos, lo que permite una mejor precisión. Los cartuchos de alto calibre dispersan gas aerosolizado inflamable al impactar, que explota causando intensas ondas de presión y, posteriormente, rarefacción. Las armas termobáricas se consideran la mejor opción contra los mecanoides y se emplearon ampliamente durante las guerras de mecanoides.</DV_Gun_ThermoRifle.description>
+  <DV_Gun_ThermoRifle.label>termofusil</DV_Gun_ThermoRifle.label>
+  <DV_Gun_ThermoRifle.tools.barrel.label>cañón</DV_Gun_ThermoRifle.tools.barrel.label>
+  <DV_Gun_ThermoRifle.tools.stock.label>culata</DV_Gun_ThermoRifle.tools.stock.label>
+  <DV_Gun_ThermoRifle.verbs.Verb_Shoot.label>termofusil</DV_Gun_ThermoRifle.verbs.Verb_Shoot.label>
+  <DV_Proj_GrenadeStun.label>granada de aturdimiento</DV_Proj_GrenadeStun.label>
+  <DV_Proj_LauncherFrag.label>granada de fragmentación</DV_Proj_LauncherFrag.label>
+  <DV_Weapon_StunGrenades.description>Dispositivos explosivos no letales para aturdir. Después de ser lanzados, detonan, produciendo un ruido fuerte y ensordecedor y una luz cegadora extremadamente brillante que aturde a los objetivos.</DV_Weapon_StunGrenades.description>
+  <DV_Weapon_StunGrenades.label>granadas de aturdimiento</DV_Weapon_StunGrenades.label>
+  <DV_Weapon_StunGrenades.verbs.throw_stun_grenade.label>lanzar granada de aturdimiento</DV_Weapon_StunGrenades.verbs.throw_stun_grenade.label>
+</LanguageData>
