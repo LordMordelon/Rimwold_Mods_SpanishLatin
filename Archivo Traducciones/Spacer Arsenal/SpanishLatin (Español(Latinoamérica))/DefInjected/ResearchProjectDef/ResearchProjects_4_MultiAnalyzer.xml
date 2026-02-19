@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: ensign armor -->
+  <DV_EnsignArmor.label>armadura de alférez</DV_EnsignArmor.label>
+  <!-- EN: Build ensign armor, a specialized fully-sealed powered armor suit used by space-faring soldiers. Note that these also require advanced components. -->
+  <DV_EnsignArmor.description>Construir armadura de alférez, un traje de servoarmadura especializado y completamente sellado utilizado por soldados espaciales. Ten en cuenta que estos también requieren componentes avanzados.</DV_EnsignArmor.description>
+  <!-- EN:
+    <li>subject->ensign armor</li>
+    <li>subject_story->survived stranded upon a frigid snow planet, with only their armor</li>
+    <li>subject_story->fought off a horde of deadly insectoids alone wearing their armor</li>
+    <li>subject_story->boarded a pirate's vessel and breached through door after door before finally killing the pirate captain, taking over the vessel</li>
+    <li>subject_gerund->constructing space-soldier armor</li>
+    <li>subject_gerund->constructing ensign armor</li>
+    <li>subject_gerund->constructing specialized enviromentally-sealed armor</li>
+  -->
+  <DV_EnsignArmor.generalRules.rulesStrings>
+    <li>subject->armadura de alférez</li>
+    <li>subject_story->sobrevivió varado en un planeta de nieve frígida, solo con su armadura</li>
+    <li>subject_story->luchó contra una horda de insectoides mortales solo usando su armadura</li>
+    <li>subject_story->abordó la nave de un pirata y atravesó puerta tras puerta antes de matar finalmente al capitán pirata, tomando el control de la nave</li>
+    <li>subject_gerund->construyendo armadura de soldado espacial</li>
+    <li>subject_gerund->construyendo armadura de alférez</li>
+    <li>subject_gerund->construyendo armadura especializada sellada ambientalmente</li>
+  </DV_EnsignArmor.generalRules.rulesStrings>
+  
+</LanguageData>

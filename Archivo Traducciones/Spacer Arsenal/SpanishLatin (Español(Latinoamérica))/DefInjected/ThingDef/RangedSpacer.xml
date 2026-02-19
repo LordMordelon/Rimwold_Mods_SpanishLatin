@@ -1,0 +1,140 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: brute slug -->
+  <DV_BruteProjectile.label>bala bruta</DV_BruteProjectile.label>
+  
+  <!-- EN: clash hmg bullet -->
+  <DV_Bullet_ClashHMG.label>bala de choque HMG</DV_Bullet_ClashHMG.label>
+  
+  <!-- EN: laser bolt -->
+  <DV_Bullet_Laserpulse.label>rayo láser</DV_Bullet_Laserpulse.label>
+  
+  <!-- EN: neutron shot -->
+  <DV_Bullet_NeutronParticle.label>disparo de neutrones</DV_Bullet_NeutronParticle.label>
+  
+  <!-- EN: photon blast -->
+  <DV_Bullet_PhotonBlast.label>ráfaga de fotones</DV_Bullet_PhotonBlast.label>
+  
+  <!-- EN: plasma shot -->
+  <DV_Bullet_PlasmaBolt.label>disparo de plasma</DV_Bullet_PlasmaBolt.label>
+  
+  <!-- EN: ultrasonic wave -->
+  <DV_Bullet_SonicStunner.label>onda ultrasónica</DV_Bullet_SonicStunner.label>
+  
+  <!-- EN: coil sabot -->
+  <DV_CoilgunProjectile.label>sabot de bobina</DV_CoilgunProjectile.label>
+  
+  <!-- EN: brute rifle -->
+  <DV_Gun_BruteRifle.label>fusil bruto</DV_Gun_BruteRifle.label>
+  <!-- EN: A super-heavy assault weapon loaded with high-caliber ammunition. It exchanges speed with power, firing powerful tungsten carbide slugs that penetrate targets and destroy organs with ease.  Its weight slows down the wielder. -->
+  <DV_Gun_BruteRifle.description>Un arma de asalto superpesada cargada con munición de alto calibre. Intercambia velocidad por potencia, disparando poderosas balas de carburo de tungsteno que penetran objetivos y destruyen órganos con facilidad. Su peso ralentiza al portador.</DV_Gun_BruteRifle.description>
+  <!-- EN: stock -->
+  <DV_Gun_BruteRifle.tools.stock.label>culata</DV_Gun_BruteRifle.tools.stock.label>
+  <!-- EN: barrel -->
+  <DV_Gun_BruteRifle.tools.barrel.label>cañón</DV_Gun_BruteRifle.tools.barrel.label>
+  <!-- EN: brute rifle -->
+  <DV_Gun_BruteRifle.verbs.Verb_Shoot.label>fusil bruto</DV_Gun_BruteRifle.verbs.Verb_Shoot.label>
+  
+  <!-- EN: clash HMG -->
+  <DV_Gun_ClashHMG.label>HMG de choque</DV_Gun_ClashHMG.label>
+  <!-- EN: A portable heavy machine gun loaded with high-velocity ammunition. A deadly mix of accuracy and penetration, it fires fast bullets capable of piercing and shredding armor, but that do little damage by themselves. -->
+  <DV_Gun_ClashHMG.description>Una ametralladora pesada portátil o por sus siglas en inglés HMG (Heavy machine gun) es un arma de fuego accionada por gas, cargada con munición de alta velocidad. Una mezcla mortal de precisión y penetración, dispara balas rápidas capaces de perforar y triturar armaduras, pero que hacen poco daño por sí mismas.</DV_Gun_ClashHMG.description>
+  <!-- EN: barrel -->
+  <DV_Gun_ClashHMG.tools.barrel.label>cañón</DV_Gun_ClashHMG.tools.barrel.label>
+  <!-- EN: clash HMG -->
+  <DV_Gun_ClashHMG.verbs.Verb_Shoot.label>HMG de choque</DV_Gun_ClashHMG.verbs.Verb_Shoot.label>
+  
+  <!-- EN: clash rifle -->
+  <DV_Gun_ClashRifle.label>fusil de choque</DV_Gun_ClashRifle.label>
+  <!-- EN: A bullpup assault rifle loaded with high-velocity ammunition. High range and short bursts make it an incredibly capable weapon, the bullets can pierce tough armor with blinding speed, but do little damage by themselves. -->
+  <DV_Gun_ClashRifle.description>Un fusil de asalto compacto cargado con munición de alta velocidad. El alto alcance y las ráfagas cortas lo convierten en un arma increíblemente capaz, las balas pueden perforar armaduras resistentes con una velocidad cegadora, pero hacen poco daño por sí mismas.</DV_Gun_ClashRifle.description>
+  <!-- EN: barrel -->
+  <DV_Gun_ClashRifle.tools.barrel.label>cañón</DV_Gun_ClashRifle.tools.barrel.label>
+  <!-- EN: clash rifle -->
+  <DV_Gun_ClashRifle.verbs.Verb_Shoot.label>fusil de choque</DV_Gun_ClashRifle.verbs.Verb_Shoot.label>
+  
+  <!-- EN: coil lance -->
+  <DV_Gun_CoilgunLance.label>lanza de bobina</DV_Gun_CoilgunLance.label>
+  <!-- EN: A powerful single-shot coilgun. Magnetically charged coils accelerate a metallic sabot to high speeds, turning it into a deadly and accurate long-range projectile that pierces through armor and flesh. -->
+  <DV_Gun_CoilgunLance.description>Un potente cañón de bobina de un solo disparo. Bobinas cargadas magnéticamente aceleran un sabot metálico a altas velocidades, convirtiéndolo en un proyectil mortal y preciso de largo alcance que atraviesa armaduras y carne.</DV_Gun_CoilgunLance.description>
+  <!-- EN: stock -->
+  <DV_Gun_CoilgunLance.tools.stock.label>culata</DV_Gun_CoilgunLance.tools.stock.label>
+  <!-- EN: barrel -->
+  <DV_Gun_CoilgunLance.tools.barrel.label>cañón</DV_Gun_CoilgunLance.tools.barrel.label>
+  <!-- EN: coil lance -->
+  <DV_Gun_CoilgunLance.verbs.Verb_Shoot.label>lanza de bobina</DV_Gun_CoilgunLance.verbs.Verb_Shoot.label>
+  
+  <!-- EN: neutron streamer -->
+  <DV_Gun_NeutronStreamer.label>emisor de neutrones</DV_Gun_NeutronStreamer.label>
+  <!-- EN: A guided neutron particle generating engine. A scrapped prototype for an experimental neutron ship thruster turned into a deadly handheld weapon, it generates high-velocity neutron particles, directing them towards a general direction thanks to the barrel. These particles irradiate flesh they come in contact with causing cells to stop functioning and die. -->
+  <DV_Gun_NeutronStreamer.description>Un motor generador de partículas de neutrones guiadas. Un prototipo desguazado de un propulsor experimental de neutrones para naves convertido en un arma de mano mortal, genera partículas de neutrones de alta velocidad, dirigiéndolas hacia una dirección general gracias al cañón. Estas partículas irradian la carne con la que entran en contacto haciendo que las células dejen de funcionar y mueran.</DV_Gun_NeutronStreamer.description>
+  <!-- EN: barrel -->
+  <DV_Gun_NeutronStreamer.tools.barrel.label>cañón</DV_Gun_NeutronStreamer.tools.barrel.label>
+  <!-- EN: neutron streamer -->
+  <DV_Gun_NeutronStreamer.verbs.Verb_Shoot.label>emisor de neutrones</DV_Gun_NeutronStreamer.verbs.Verb_Shoot.label>
+  
+  <!-- EN: photon SMG -->
+  <DV_Gun_PhotonSMG.label>SMG de fotones</DV_Gun_PhotonSMG.label>
+  <!-- EN: A compact photon-slingshot submachine gun. Using complex sets of micro-lenses, mirrors and magnets, it compresses photon particles into blindingly fast projectiles which sear and melt flesh, but that have a hard time getting through any kind of armor. The photon blasts dissipate quickly, lowering the range of the weapon. -->
+  <DV_Gun_PhotonSMG.description>Un subfusil compacto de honda de fotones. Usando complejos conjuntos de microlentes, espejos e imanes, comprime partículas de fotones en proyectiles cegadoramente rápidos que cauterizan y funden la carne, pero que tienen dificultades para atravesar cualquier tipo de armadura. Las ráfagas de fotones se disipan rápidamente, reduciendo el alcance del arma.</DV_Gun_PhotonSMG.description>
+  <!-- EN: stock -->
+  <DV_Gun_PhotonSMG.tools.stock.label>culata</DV_Gun_PhotonSMG.tools.stock.label>
+  <!-- EN: barrel -->
+  <DV_Gun_PhotonSMG.tools.barrel.label>cañón</DV_Gun_PhotonSMG.tools.barrel.label>
+  <!-- EN: photon SMG -->
+  <DV_Gun_PhotonSMG.verbs.Verb_Shoot.label>SMG de fotones</DV_Gun_PhotonSMG.verbs.Verb_Shoot.label>
+  
+  <!-- EN: plasma blaster -->
+  <DV_Gun_PlasmaBlaster.label>bláster de plasma</DV_Gun_PlasmaBlaster.label>
+  <!-- EN: A high-energy power pulse projector assault weapon. Its magnetized rails contain and accelerate plasma bolts, which can set targets aflame and deal high damage. However, each blazing shot slightly warps the rifle's barrel, reducing the blaster's precision. -->
+  <DV_Gun_PlasmaBlaster.description>Un arma de asalto proyectora de pulsos de energía de alta potencia. Sus rieles magnetizados contienen y aceleran rayos de plasma, que pueden incendiar objetivos e infligir gran daño. Sin embargo, cada disparo ardiente deforma ligeramente el cañón del fusil, reduciendo la precisión del bláster.</DV_Gun_PlasmaBlaster.description>
+  <!-- EN: stock -->
+  <DV_Gun_PlasmaBlaster.tools.stock.label>culata</DV_Gun_PlasmaBlaster.tools.stock.label>
+  <!-- EN: barrel -->
+  <DV_Gun_PlasmaBlaster.tools.barrel.label>cañón</DV_Gun_PlasmaBlaster.tools.barrel.label>
+  <!-- EN: plasma blaster -->
+  <DV_Gun_PlasmaBlaster.verbs.Verb_Shoot.label>bláster de plasma</DV_Gun_PlasmaBlaster.verbs.Verb_Shoot.label>
+  
+  <!-- EN: sonic stunner -->
+  <DV_Gun_SonicStunner.label>aturdidor sónico</DV_Gun_SonicStunner.label>
+  <!-- EN: An ultra-sonic wave personal defense device. Utilizing an advanced high-power projector dish it creates an intense pulse of sound that disorients and stuns targets, rendering them unable to move for a short while. The sound pulses are ineffective against anything except humans, animals and mechanoids. -->
+  <DV_Gun_SonicStunner.description>Un dispositivo de defensa personal de ondas ultrasónicas. Utilizando un avanzado plato proyector de alta potencia, crea un intenso pulso de sonido que desorienta y aturde a los objetivos, dejándolos incapaces de moverse por un corto tiempo. Los pulsos de sonido son ineficaces contra cualquier cosa excepto humanos, animales y mecanoides.</DV_Gun_SonicStunner.description>
+  <!-- EN: stock -->
+  <DV_Gun_SonicStunner.tools.stock.label>culata</DV_Gun_SonicStunner.tools.stock.label>
+  <!-- EN: barrel -->
+  <DV_Gun_SonicStunner.tools.barrel.label>cañón</DV_Gun_SonicStunner.tools.barrel.label>
+  <!-- EN: sonic stunner -->
+  <DV_Gun_SonicStunner.verbs.Verb_Shoot.label>aturdidor sónico</DV_Gun_SonicStunner.verbs.Verb_Shoot.label>
+  
+  <!-- EN: plasma grenade -->
+  <DV_Proj_GrenadePlasma.label>granada de plasma</DV_Proj_GrenadePlasma.label>
+  
+  <!-- EN: contact grenade -->
+  <DV_Proj_GrenadeShatter.label>granada de contacto</DV_Proj_GrenadeShatter.label>
+  
+  <!-- EN: thump grenade -->
+  <DV_Proj_GrenadeThump.label>granada de golpe</DV_Proj_GrenadeThump.label>
+  
+  <!-- EN: contact grenades -->
+  <DV_Weapon_GrenadeContact.label>granadas de contacto</DV_Weapon_GrenadeContact.label>
+  <!-- EN: Impact-exploding fragmentation grenades. Small rounded bombs covered in triggers which make the payload ignite as soon as collision happens, if the pin is pulled. -->
+  <DV_Weapon_GrenadeContact.description>Granadas de fragmentación de explosión por impacto. Pequeñas bombas redondeadas cubiertas de disparadores que hacen que la carga se encienda tan pronto como ocurre la colisión, si se ha quitado el pasador.</DV_Weapon_GrenadeContact.description>
+  <!-- EN: throw contact grenade -->
+  <DV_Weapon_GrenadeContact.verbs.throw_contact_grenade.label>lanzar granada de contacto</DV_Weapon_GrenadeContact.verbs.throw_contact_grenade.label>
+  
+  <!-- EN: plasma grenades -->
+  <DV_Weapon_GrenadePlasma.label>granadas de plasma</DV_Weapon_GrenadePlasma.label>
+  <!-- EN: Plasma-fusion ignition grenades. Long fragile bombs that trigger an internal fusion reaction upon the pin being pulled, once thrown the vessel implodes and a scalding plasma ball sears and vaporizes organic material. -->
+  <DV_Weapon_GrenadePlasma.description>Granadas de ignición por fusión de plasma. Bombas largas y frágiles que activan una reacción de fusión interna al tirar del pasador; una vez lanzadas, el recipiente implosiona y una bola de plasma hirviendo cauteriza y vaporiza el material orgánico.</DV_Weapon_GrenadePlasma.description>
+  <!-- EN: throw contact grenade -->
+  <DV_Weapon_GrenadePlasma.verbs.throw_contact_grenade.label>lanzar granada de plasma</DV_Weapon_GrenadePlasma.verbs.throw_contact_grenade.label>
+  
+  <!-- EN: thump grenades -->
+  <DV_Weapon_GrenadeThump.label>granadas de golpe</DV_Weapon_GrenadeThump.label>
+  <!-- EN: Breaching explosive grenades. Powerful concussion bombs that are extremely effective against walls and structures, but do much less damage to small targets. -->
+  <DV_Weapon_GrenadeThump.description>Granadas explosivas de brecha. Poderosas bombas de conmoción que son extremadamente efectivas contra muros y estructuras, pero hacen mucho menos daño a objetivos pequeños.</DV_Weapon_GrenadeThump.description>
+  <!-- EN: throw thump grenade -->
+  <DV_Weapon_GrenadeThump.verbs.throw_thump_grenade.label>lanzar granada de golpe</DV_Weapon_GrenadeThump.verbs.throw_thump_grenade.label>
+  
+</LanguageData>

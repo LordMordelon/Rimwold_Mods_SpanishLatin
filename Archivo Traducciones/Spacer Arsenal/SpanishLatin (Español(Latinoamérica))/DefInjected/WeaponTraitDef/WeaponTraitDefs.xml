@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: compressed bolts -->
+  <DV_CompressedBolts.label>rayos comprimidos</DV_CompressedBolts.label>
+  <!-- EN: This weapon fires more compressed energy bolts that can melt through armor. -->
+  <DV_CompressedBolts.description>Esta arma dispara rayos de energía más comprimidos que pueden fundir la armadura.</DV_CompressedBolts.description>
+  <!-- EN: piercing -->
+  <DV_CompressedBolts.traitAdjectives.0>perforante</DV_CompressedBolts.traitAdjectives.0>
+  <!-- EN: compressed -->
+  <DV_CompressedBolts.traitAdjectives.1>comprimido</DV_CompressedBolts.traitAdjectives.1>
+  <!-- EN: hardlight -->
+  <DV_CompressedBolts.traitAdjectives.2>luz sólida</DV_CompressedBolts.traitAdjectives.2>
+  <!-- EN: penetrating -->
+  <DV_CompressedBolts.traitAdjectives.3>penetrante</DV_CompressedBolts.traitAdjectives.3>
+  
+  <!-- EN: quick heatsink -->
+  <DV_EfficientHeatsink.label>disipador eficiente</DV_EfficientHeatsink.label>
+  <!-- EN: This weapon has an advanced and efficient heatsink that allows it to cool down faster. -->
+  <DV_EfficientHeatsink.description>Esta arma tiene un disipador de calor avanzado y eficiente que le permite enfriarse más rápido.</DV_EfficientHeatsink.description>
+  <!-- EN: quick -->
+  <DV_EfficientHeatsink.traitAdjectives.0>rápido</DV_EfficientHeatsink.traitAdjectives.0>
+  <!-- EN: nimble -->
+  <DV_EfficientHeatsink.traitAdjectives.1>ágil</DV_EfficientHeatsink.traitAdjectives.1>
+  <!-- EN: hotshot -->
+  <DV_EfficientHeatsink.traitAdjectives.2>tiro rápido</DV_EfficientHeatsink.traitAdjectives.2>
+  <!-- EN: cooler -->
+  <DV_EfficientHeatsink.traitAdjectives.3>más frío</DV_EfficientHeatsink.traitAdjectives.3>
+  
+  <!-- EN: EMP bolts -->
+  <DV_EMPBolts.label>rayos PEM</DV_EMPBolts.label>
+  <!-- EN: This weapon charges bolts with electromagnetic energy, which will temporarily disable electronics and mechanoids. -->
+  <DV_EMPBolts.description>Esta arma carga rayos con energía electromagnética, lo que desactivará temporalmente la electrónica y los mecanoides.</DV_EMPBolts.description>
+  <!-- EN: EMP -->
+  <DV_EMPBolts.traitAdjectives.0>PEM</DV_EMPBolts.traitAdjectives.0>
+  <!-- EN: electric -->
+  <DV_EMPBolts.traitAdjectives.1>eléctrico</DV_EMPBolts.traitAdjectives.1>
+  <!-- EN: shocking -->
+  <DV_EMPBolts.traitAdjectives.2>impactante</DV_EMPBolts.traitAdjectives.2>
+  <!-- EN: sparky -->
+  <DV_EMPBolts.traitAdjectives.3>chispeante</DV_EMPBolts.traitAdjectives.3>
+  <!-- EN: zapping -->
+  <DV_EMPBolts.traitAdjectives.4>zapeante</DV_EMPBolts.traitAdjectives.4>
+  
+  <!-- EN: EMP pulser -->
+  <DV_EMPPulser.label>pulsador PEM</DV_EMPPulser.label>
+  <!-- EN: This weapon can emit a burst of energy centered on the user. The burst will stun nearby electronic targets like mechanoids or turrets. Once used, the pulser takes some time to recharge. -->
+  <DV_EMPPulser.description>Esta arma puede emitir una ráfaga de energía centrada en el usuario. La ráfaga aturdirá a los objetivos electrónicos cercanos como mecanoides o torretas. Una vez usado, el pulsador tarda un tiempo en recargarse.</DV_EMPPulser.description>
+  <!-- EN: charge -->
+  <DV_EMPPulser.abilityProps.chargeNoun>carga</DV_EMPPulser.abilityProps.chargeNoun>
+  <!-- EN: on cooldown -->
+  <DV_EMPPulser.abilityProps.cooldownGerund>en enfriamiento</DV_EMPPulser.abilityProps.cooldownGerund>
+  <!-- EN: pulse -->
+  <DV_EMPPulser.traitAdjectives.0>pulso</DV_EMPPulser.traitAdjectives.0>
+  <!-- EN: EMP -->
+  <DV_EMPPulser.traitAdjectives.1>PEM</DV_EMPPulser.traitAdjectives.1>
+  
+  <!-- EN: explosive bolts -->
+  <DV_ExplosiveBolts.label>rayos explosivos</DV_ExplosiveBolts.label>
+  <!-- EN: This weapon fires bolts that quickly explode on collision, dealing more damage than normal. -->
+  <DV_ExplosiveBolts.description>Esta arma dispara rayos que explotan rápidamente al colisionar, infligiendo más daño de lo normal.</DV_ExplosiveBolts.description>
+  <!-- EN: shredding -->
+  <DV_ExplosiveBolts.traitAdjectives.0>triturador</DV_ExplosiveBolts.traitAdjectives.0>
+  <!-- EN: explosive -->
+  <DV_ExplosiveBolts.traitAdjectives.1>explosivo</DV_ExplosiveBolts.traitAdjectives.1>
+  <!-- EN: boltblast -->
+  <DV_ExplosiveBolts.traitAdjectives.2>estallido</DV_ExplosiveBolts.traitAdjectives.2>
+  <!-- EN: heater -->
+  <DV_ExplosiveBolts.traitAdjectives.3>calentador</DV_ExplosiveBolts.traitAdjectives.3>
+  <!-- EN: boomer -->
+  <DV_ExplosiveBolts.traitAdjectives.4>detonador</DV_ExplosiveBolts.traitAdjectives.4>
+  
+  <!-- EN: extended cell -->
+  <DV_ExtendedCell.label>célula extendida</DV_ExtendedCell.label>
+  <!-- EN: This weapon fires 50% more shots in a single burst than normal. -->
+  <DV_ExtendedCell.description>Esta arma dispara un 50% más de tiros en una sola ráfaga de lo normal.</DV_ExtendedCell.description>
+  <!-- EN: high-capacity -->
+  <DV_ExtendedCell.traitAdjectives.0>alta capacidad</DV_ExtendedCell.traitAdjectives.0>
+  <!-- EN: extendo-cell -->
+  <DV_ExtendedCell.traitAdjectives.1>célula extendida</DV_ExtendedCell.traitAdjectives.1>
+  
+  <!-- EN: frequency amplifier -->
+  <DV_FrequencyAmplifier.label>amplificador de frecuencia</DV_FrequencyAmplifier.label>
+  <!-- EN: This weapon passes photon bolts through a crystal amplifier, dramatically increasing the weapon's damage and range. The weapon needs to cool down between uses. -->
+  <DV_FrequencyAmplifier.description>Esta arma pasa rayos de fotones a través de un amplificador de cristal, aumentando dramáticamente el daño y el alcance del arma. El arma necesita enfriarse entre usos.</DV_FrequencyAmplifier.description>
+  <!-- EN: amplified -->
+  <DV_FrequencyAmplifier.traitAdjectives.0>amplificado</DV_FrequencyAmplifier.traitAdjectives.0>
+  
+  <!-- EN: overcharged photons -->
+  <DV_OverchargedBolts.label>fotones sobrecargados</DV_OverchargedBolts.label>
+  <!-- EN: Special mechanisms allow this weapon to overcharge photon bolts to make them more powerful. The recoil makes it less accurate. -->
+  <DV_OverchargedBolts.description>Mecanismos especiales permiten a esta arma sobrecargar los rayos de fotones para hacerlos más potentes. El retroceso la hace menos precisa.</DV_OverchargedBolts.description>
+  <!-- EN: overcharger -->
+  <DV_OverchargedBolts.traitAdjectives.0>sobrecargador</DV_OverchargedBolts.traitAdjectives.0>
+  <!-- EN: hi-power -->
+  <DV_OverchargedBolts.traitAdjectives.1>alta potencia</DV_OverchargedBolts.traitAdjectives.1>
+  <!-- EN: heavy-bolt -->
+  <DV_OverchargedBolts.traitAdjectives.2>rayo pesado</DV_OverchargedBolts.traitAdjectives.2>
+  <!-- EN: hardhitter -->
+  <DV_OverchargedBolts.traitAdjectives.3>golpe duro</DV_OverchargedBolts.traitAdjectives.3>
+  <!-- EN: heavy-hit -->
+  <DV_OverchargedBolts.traitAdjectives.4>golpe pesado</DV_OverchargedBolts.traitAdjectives.4>
+  
+</LanguageData>

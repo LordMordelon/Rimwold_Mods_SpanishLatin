@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- tab -->
+  <!-- EN: Add -->
+  <DM.Tab.AddCustomDay>Añadir</DM.Tab.AddCustomDay>
+  <!-- EN: Untitled memorial day -->
+  <DM.Tab.CustomDayDefaultName>Día conmemorativo sin título</DM.Tab.CustomDayDefaultName>
+  <!-- EN: Ctrl + Left Click to rename -->
+  <DM.Tab.RenameCustomDay>Ctrl + Clic Izquierdo para renombrar</DM.Tab.RenameCustomDay>
+  <!-- EN: Name -->
+  <DM.Tab.TableHeader.Name>Nombre</DM.Tab.TableHeader.Name>
+  <!-- EN: Quadrum -->
+  <DM.Tab.TableHeader.Quadrum>Cuadrun</DM.Tab.TableHeader.Quadrum>
+  <!-- EN: Day -->
+  <DM.Tab.TableHeader.Day>Día</DM.Tab.TableHeader.Day>
+  <!-- EN: Celebration -->
+  <DM.Tab.TableHeader.Celebration>Celebración</DM.Tab.TableHeader.Celebration>
+  <!-- EN: Settlement on the planet -->
+  <DM.Tab.BuiltIn.Settlement>Asentamiento en el planeta</DM.Tab.BuiltIn.Settlement>
+  <!-- EN: Chronological birthdays -->
+  <DM.Tab.BuiltIn.ChronologicalBirthday>Cumpleaños cronológicos</DM.Tab.BuiltIn.ChronologicalBirthday>
+  <!-- EN: Relationship anniversaries -->
+  <DM.Tab.BuiltIn.RelationshipAnniversary>Aniversarios de relación</DM.Tab.BuiltIn.RelationshipAnniversary>
+  <!-- EN: Marriage anniversaries -->
+  <DM.Tab.BuiltIn.MarriageAnniversary>Aniversarios de boda</DM.Tab.BuiltIn.MarriageAnniversary>
+  <!-- EN: Show all -->
+  <DM.Tab.Misc.ShowAll>Mostrar todo</DM.Tab.Misc.ShowAll>
+
+  <!-- tab duration list -->
+  <!-- EN: None -->
+  <DM.Tab.Duration.None>Ninguna</DM.Tab.Duration.None>
+  <!-- EN: All Day -->
+  <DM.Tab.Duration.AllDay>Todo el día</DM.Tab.Duration.AllDay>
+  <!-- EN: Morning -->
+  <DM.Tab.Duration.Morning>Mañana</DM.Tab.Duration.Morning>
+  <!-- EN: Noon -->
+  <DM.Tab.Duration.Noon>Mediodía</DM.Tab.Duration.Noon>
+  <!-- EN: Afternoon -->
+  <DM.Tab.Duration.Afternoon>Tarde</DM.Tab.Duration.Afternoon>
+  <!-- EN: Evening -->
+  <DM.Tab.Duration.Evening>Atardecer</DM.Tab.Duration.Evening>
+  <!-- EN: Night -->
+  <DM.Tab.Duration.Night>Noche</DM.Tab.Duration.Night>
+
+  <!-- error -->
+  <!-- EN: Party canceled: no one wants to start the party -->
+  <DM.Error.NoStarter>Fiesta cancelada: nadie quiere iniciar la fiesta</DM.Error.NoStarter>
+  <!-- EN: Party canceled: no party spot -->
+  <DM.Error.NoSpot>Fiesta cancelada: no hay lugar de fiesta</DM.Error.NoSpot>
+
+  <!-- notification -->
+  <!-- EN: It's {0}'s {1}-year-old birthday today! -->
+  <DM.Message.TodayBirthday>¡Hoy es el cumpleaños número {1} de {0}!</DM.Message.TodayBirthday>
+  <!-- EN: Today is {0}! -->
+  <DM.Message.TodayCustomDay>¡Hoy es {0}!</DM.Message.TodayCustomDay>
+  <!-- EN: Today is {0} Day! -->
+  <DM.Message.TodaySettlement>¡Hoy es el Día de {0}!</DM.Message.TodaySettlement>
+  <!-- EN: {0} and {1}'s marriage anniversary is happening today! -->
+  <DM.Message.TodayMarriageAnniversary>¡El aniversario de bodas de {0} y {1} es hoy!</DM.Message.TodayMarriageAnniversary>
+  <!-- EN: {0} and {1}'s relationship anniversary is happening today! -->
+  <DM.Message.TodayRelationshipAnniversary>¡El aniversario de relación de {0} y {1} es hoy!</DM.Message.TodayRelationshipAnniversary>
+
+  <!-- letter -->
+  <!-- EN: Party -->
+  <DM.Letter.PartyTitle>Fiesta</DM.Letter.PartyTitle>
+  <!-- EN: {0} is being held right now! -->
+  <DM.Letter.Party>¡{0} se está celebrando ahora mismo!</DM.Letter.Party>
+  <!-- EN: {0}'s birthday party -->
+  <DM.Letter.BirthdayParty>Fiesta de cumpleaños de {0}</DM.Letter.BirthdayParty>
+  <!-- EN: The day of {0} -->
+  <DM.Letter.SettlementParty>El día de {0}</DM.Letter.SettlementParty>
+  <!-- EN: {0} and {1}'s relationship party -->
+  <DM.Letter.RelationshipAnniversaryParty>Fiesta de relación de {0} y {1}</DM.Letter.RelationshipAnniversaryParty>
+  <!-- EN: {0} and {1}'s marriage party -->
+  <DM.Letter.MarriageAnniversaryParty>Fiesta de matrimonio de {0} y {1}</DM.Letter.MarriageAnniversaryParty>
+  <!-- EN: A party for {0} -->
+  <DM.Letter.CustomDayParty>Una fiesta para {0}</DM.Letter.CustomDayParty>
+
+  <!--<MessagePartyCalledOff>Party was called off</MessagePartyCalledOff>
+  <MessagePartyFinished>Party was finished</MessagePartyFinished>-->
+  
+  <!-- exp message -->
+  <!-- EN: Lovers party canceled: {0} and {1} are far away from each other -->
+  <DM.Message.LoversAway>Fiesta de amantes cancelada: {0} y {1} están lejos el uno del otro</DM.Message.LoversAway>
+  <!-- EN: Lovers party canceled: {0} is attending another party -->
+  <DM.Message.LoversBusy>Fiesta de amantes cancelada: {0} está asistiendo a otra fiesta</DM.Message.LoversBusy>
+  <!-- EN: Spouses party canceled: {0} and {1} are far away from each other -->
+  <DM.Message.SpousesAway>Fiesta de esposos cancelada: {0} y {1} están lejos el uno del otro</DM.Message.SpousesAway>
+  <!-- EN: Spouses party canceled: {0} is attending another party -->
+  <DM.Message.SpousesBusy>Fiesta de esposos cancelada: {0} está asistiendo a otra fiesta</DM.Message.SpousesBusy>
+  
+  <!-- settings -->
+  <!-- EN: The world of two -->
+  <PrivateAnniversaries>El mundo de dos</PrivateAnniversaries>
+  <!-- EN: Unrelated people will not attend anniversary parties. -->
+  <PrivateAnniversaries_Desc>Personas no relacionadas no asistirán a fiestas de aniversario.</PrivateAnniversaries_Desc>
+</LanguageData>
