@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: grit-clogged -->
+  <VWE_GritClogged.label>obstruida por suciedad</VWE_GritClogged.label>
+  <!-- EN: The internal mechanism is filled with sand, dirt, or dried grease. It cycles sluggishly, significantly increasing the time between shots. -->
+  <VWE_GritClogged.description>El mecanismo interno está lleno de arena, suciedad o grasa seca. Cicla con lentitud, aumentando significativamente el tiempo entre disparos.</VWE_GritClogged.description>
+  <!-- EN: dirty -->
+  <VWE_GritClogged.traitAdjectives.0>sucia</VWE_GritClogged.traitAdjectives.0>
+  <!-- EN: gritty -->
+  <VWE_GritClogged.traitAdjectives.1>arenosa</VWE_GritClogged.traitAdjectives.1>
+  <!-- EN: jammed -->
+  <VWE_GritClogged.traitAdjectives.2>atascada</VWE_GritClogged.traitAdjectives.2>
+  <!-- EN: sandy -->
+  <VWE_GritClogged.traitAdjectives.3>arenosa</VWE_GritClogged.traitAdjectives.3>
+  <!-- EN: sticky -->
+  <VWE_GritClogged.traitAdjectives.4>pegajosa</VWE_GritClogged.traitAdjectives.4>
+  
+  <!-- EN: heavy scrap -->
+  <VWE_HeavyScrap.label>chatarra pesada</VWE_HeavyScrap.label>
+  <!-- EN: This weapon has been repaired using heavy, improper scrap metal components. It is cumbersome to carry and takes much longer to aim. -->
+  <VWE_HeavyScrap.description>Esta arma ha sido reparada utilizando componentes de chatarra pesados e inadecuados. Es engorrosa de llevar y tarda mucho más en apuntar.</VWE_HeavyScrap.description>
+  <!-- EN: heavy -->
+  <VWE_HeavyScrap.traitAdjectives.0>pesada</VWE_HeavyScrap.traitAdjectives.0>
+  <!-- EN: scrap -->
+  <VWE_HeavyScrap.traitAdjectives.1>chatarra</VWE_HeavyScrap.traitAdjectives.1>
+  <!-- EN: leaden -->
+  <VWE_HeavyScrap.traitAdjectives.2>plomiza</VWE_HeavyScrap.traitAdjectives.2>
+  <!-- EN: bulky -->
+  <VWE_HeavyScrap.traitAdjectives.3>voluminosa</VWE_HeavyScrap.traitAdjectives.3>
+  <!-- EN: patched -->
+  <VWE_HeavyScrap.traitAdjectives.4>parcheada</VWE_HeavyScrap.traitAdjectives.4>
+  
+  <!-- EN: janky -->
+  <VWE_Janky.label>destartalada</VWE_Janky.label>
+  <!-- EN: This weapon's internal mechanisms are loose and poorly fitted. It suffers from inconsistent cycling issues, meaning the cooldown duration is completely randomized after every single burst. -->
+  <VWE_Janky.description>Los mecanismos internos de esta arma están sueltos y mal ajustados. Sufre de problemas de ciclo inconsistentes, lo que significa que la duración del enfriamiento es completamente aleatoria después de cada ráfaga.</VWE_Janky.description>
+  <!-- EN: janky -->
+  <VWE_Janky.traitAdjectives.0>destartalada</VWE_Janky.traitAdjectives.0>
+  <!-- EN: stuttering -->
+  <VWE_Janky.traitAdjectives.1>tartamudeante</VWE_Janky.traitAdjectives.1>
+  <!-- EN: loose -->
+  <VWE_Janky.traitAdjectives.2>suelta</VWE_Janky.traitAdjectives.2>
+  <!-- EN: rattle -->
+  <VWE_Janky.traitAdjectives.3>traqueteo</VWE_Janky.traitAdjectives.3>
+  <!-- EN: unreliable -->
+  <VWE_Janky.traitAdjectives.4>poco fiable</VWE_Janky.traitAdjectives.4>
+  <!-- EN: jamming -->
+  <VWE_Janky.traitAdjectives.5>atascamiento</VWE_Janky.traitAdjectives.5>
+  
+  <!-- EN: training conversion -->
+  <VWE_TrainingConversion.label>conversión de entrenamiento</VWE_TrainingConversion.label>
+  <!-- EN: This weapon has been permanently modified to fire non-lethal blunt pellets for target practice. While it causes pain and bruising, it lacks the stopping power and penetration to be useful in a real firefight. -->
+  <VWE_TrainingConversion.description>Esta arma ha sido modificada permanentemente para disparar perdigones romos no letales para prácticas de tiro. Si bien causa dolor y hematomas, carece del poder de parada y penetración para ser útil en un tiroteo real.</VWE_TrainingConversion.description>
+  <!-- EN: practice -->
+  <VWE_TrainingConversion.traitAdjectives.0>práctica</VWE_TrainingConversion.traitAdjectives.0>
+  <!-- EN: training -->
+  <VWE_TrainingConversion.traitAdjectives.1>entrenamiento</VWE_TrainingConversion.traitAdjectives.1>
+  <!-- EN: rubber -->
+  <VWE_TrainingConversion.traitAdjectives.2>goma</VWE_TrainingConversion.traitAdjectives.2>
+  <!-- EN: blunt -->
+  <VWE_TrainingConversion.traitAdjectives.3>roma</VWE_TrainingConversion.traitAdjectives.3>
+  <!-- EN: harmless -->
+  <VWE_TrainingConversion.traitAdjectives.4>inofensiva</VWE_TrainingConversion.traitAdjectives.4>
+  
+  <!-- EN: worn rifling -->
+  <VWE_WornRifling.label>estriado desgastado</VWE_WornRifling.label>
+  <!-- EN: The spiral grooves inside this weapon's barrel have been worn smooth by overuse. It is significantly less accurate at all ranges. -->
+  <VWE_WornRifling.description>Las ranuras en espiral dentro del cañón de esta arma se han desgastado por el uso excesivo. Es significativamente menos precisa en todos los rangos.</VWE_WornRifling.description>
+  <!-- EN: worn -->
+  <VWE_WornRifling.traitAdjectives.0>desgastada</VWE_WornRifling.traitAdjectives.0>
+  <!-- EN: smooth-bore -->
+  <VWE_WornRifling.traitAdjectives.1>ánima lisa</VWE_WornRifling.traitAdjectives.1>
+  <!-- EN: balding -->
+  <VWE_WornRifling.traitAdjectives.2>pelada</VWE_WornRifling.traitAdjectives.2>
+  <!-- EN: used -->
+  <VWE_WornRifling.traitAdjectives.3>usada</VWE_WornRifling.traitAdjectives.3>
+  <!-- EN: old -->
+  <VWE_WornRifling.traitAdjectives.4>vieja</VWE_WornRifling.traitAdjectives.4>
+  
+</LanguageData>

@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: akimbo -->
+  <VWE_Akimbo.label>a dos manos</VWE_Akimbo.label>
+  <!-- EN: This weapon is paired with a matching duplicate, allowing the colonist to dual-wield. It doubles the number of rounds fired in a burst and doubles the fire rate, but aiming two weapons simultaneously significantly reduces accuracy. -->
+  <VWE_Akimbo.description>Esta arma está emparejada con un duplicado a juego, lo que permite al colono empuñar dos armas. Duplica el número de rondas disparadas en una ráfaga y duplica la cadencia de fuego, pero apuntar dos armas simultáneamente reduce significativamente la precisión.</VWE_Akimbo.description>
+  <!-- EN: dual -->
+  <VWE_Akimbo.traitAdjectives.0>dual</VWE_Akimbo.traitAdjectives.0>
+  <!-- EN: twin -->
+  <VWE_Akimbo.traitAdjectives.1>gemela</VWE_Akimbo.traitAdjectives.1>
+  <!-- EN: akimbo -->
+  <VWE_Akimbo.traitAdjectives.2>a dos manos</VWE_Akimbo.traitAdjectives.2>
+  <!-- EN: double -->
+  <VWE_Akimbo.traitAdjectives.3>doble</VWE_Akimbo.traitAdjectives.3>
+  <!-- EN: paired -->
+  <VWE_Akimbo.traitAdjectives.4>emparejada</VWE_Akimbo.traitAdjectives.4>
+  
+  <!-- EN: fire selector -->
+  <VWE_FireSelector.label>selector de fuego</VWE_FireSelector.label>
+  <!-- EN: This weapon has been modified to fire controlled, semi-automatic shots rather than fully automatic sprays. It fires fewer shots per burst, but gains a massive accuracy boost at medium and long ranges. -->
+  <VWE_FireSelector.description>Esta arma ha sido modificada para disparar tiros controlados y semiautomáticos en lugar de ráfagas completamente automáticas. Dispara menos tiros por ráfaga, pero obtiene un aumento masivo de precisión a distancias medias y largas.</VWE_FireSelector.description>
+  <!-- EN: select-fire -->
+  <VWE_FireSelector.traitAdjectives.0>fuego selectivo</VWE_FireSelector.traitAdjectives.0>
+  <!-- EN: disciplined -->
+  <VWE_FireSelector.traitAdjectives.1>disciplinada</VWE_FireSelector.traitAdjectives.1>
+  <!-- EN: marksman -->
+  <VWE_FireSelector.traitAdjectives.2>tirador</VWE_FireSelector.traitAdjectives.2>
+  <!-- EN: controlled -->
+  <VWE_FireSelector.traitAdjectives.3>controlada</VWE_FireSelector.traitAdjectives.3>
+  
+  <!-- EN: illuminated sights -->
+  <VWE_IlluminatedSights.label>miras iluminadas</VWE_IlluminatedSights.label>
+  <!-- EN: This weapon is fitted with self-illuminating sights. It provides a consistent accuracy increase across all ranges, particularly useful in poor lighting conditions. -->
+  <VWE_IlluminatedSights.description>Esta arma está equipada con miras autoiluminadas. Proporciona un aumento de precisión constante en todos los rangos, particularmente útil en condiciones de poca luz.</VWE_IlluminatedSights.description>
+  <!-- EN: glowing -->
+  <VWE_IlluminatedSights.traitAdjectives.0>brillante</VWE_IlluminatedSights.traitAdjectives.0>
+  <!-- EN: illuminated -->
+  <VWE_IlluminatedSights.traitAdjectives.1>iluminada</VWE_IlluminatedSights.traitAdjectives.1>
+  <!-- EN: night-sight -->
+  <VWE_IlluminatedSights.traitAdjectives.2>mira nocturna</VWE_IlluminatedSights.traitAdjectives.2>
+  <!-- EN: tritium -->
+  <VWE_IlluminatedSights.traitAdjectives.3>tritio</VWE_IlluminatedSights.traitAdjectives.3>
+  
+  <!-- EN: match trigger -->
+  <VWE_MatchTrigger.label>gatillo de competición</VWE_MatchTrigger.label>
+  <!-- EN: This weapon features a finely tuned, sensitive trigger mechanism. It improves accuracy at medium and long ranges, but requires a deliberate, gentle squeeze, which slightly increases aiming time. -->
+  <VWE_MatchTrigger.description>Esta arma cuenta con un mecanismo de gatillo sensible y finamente ajustado. Mejora la precisión a distancias medias y largas, pero requiere un apretón deliberado y suave, lo que aumenta ligeramente el tiempo de apuntado.</VWE_MatchTrigger.description>
+  <!-- EN: match-grade -->
+  <VWE_MatchTrigger.traitAdjectives.0>grado de competición</VWE_MatchTrigger.traitAdjectives.0>
+  <!-- EN: hair-trigger -->
+  <VWE_MatchTrigger.traitAdjectives.1>gatillo sensible</VWE_MatchTrigger.traitAdjectives.1>
+  <!-- EN: tuned -->
+  <VWE_MatchTrigger.traitAdjectives.2>ajustada</VWE_MatchTrigger.traitAdjectives.2>
+  <!-- EN: custom-trigger -->
+  <VWE_MatchTrigger.traitAdjectives.3>gatillo personalizado</VWE_MatchTrigger.traitAdjectives.3>
+  
+  <!-- EN: ported barrel -->
+  <VWE_PortedBarrel.label>cañón con ventilación</VWE_PortedBarrel.label>
+  <!-- EN: This weapon has gas vents drilled near the muzzle to counteract recoil. It reduces the cooldown time between shots, allowing for faster sustained fire, but slightly reduces maximum range. -->
+  <VWE_PortedBarrel.description>Esta arma tiene respiraderos de gas perforados cerca de la boca para contrarrestar el retroceso. Reduce el tiempo de enfriamiento entre disparos, permitiendo un fuego sostenido más rápido, pero reduce ligeramente el alcance máximo.</VWE_PortedBarrel.description>
+  <!-- EN: ported -->
+  <VWE_PortedBarrel.traitAdjectives.0>ventilada</VWE_PortedBarrel.traitAdjectives.0>
+  <!-- EN: vented -->
+  <VWE_PortedBarrel.traitAdjectives.1>respiradero</VWE_PortedBarrel.traitAdjectives.1>
+  <!-- EN: compensated -->
+  <VWE_PortedBarrel.traitAdjectives.2>compensada</VWE_PortedBarrel.traitAdjectives.2>
+  <!-- EN: gas-cooled -->
+  <VWE_PortedBarrel.traitAdjectives.3>enfriada por gas</VWE_PortedBarrel.traitAdjectives.3>
+  
+  <!-- EN: skeletonized frame -->
+  <VWE_SkeletonizedFrame.label>marco esqueletizado</VWE_SkeletonizedFrame.label>
+  <!-- EN: This weapon has had non-essential metal drilled out to drastically reduce weight. It increases the user's movement speed, but the structural integrity is compromised, lowering the weapon's maximum durability. -->
+  <VWE_SkeletonizedFrame.description>A esta arma se le ha perforado el metal no esencial para reducir drásticamente el peso. Aumenta la velocidad de movimiento del usuario, pero la integridad estructural se ve comprometida, reduciendo la durabilidad máxima del arma.</VWE_SkeletonizedFrame.description>
+  <!-- EN: skeletonized -->
+  <VWE_SkeletonizedFrame.traitAdjectives.0>esqueletizada</VWE_SkeletonizedFrame.traitAdjectives.0>
+  <!-- EN: lightened -->
+  <VWE_SkeletonizedFrame.traitAdjectives.1>aligerada</VWE_SkeletonizedFrame.traitAdjectives.1>
+  <!-- EN: drilled -->
+  <VWE_SkeletonizedFrame.traitAdjectives.2>perforada</VWE_SkeletonizedFrame.traitAdjectives.2>
+  <!-- EN: hollow -->
+  <VWE_SkeletonizedFrame.traitAdjectives.3>hueca</VWE_SkeletonizedFrame.traitAdjectives.3>
+  <!-- EN: racing -->
+  <VWE_SkeletonizedFrame.traitAdjectives.4>de carreras</VWE_SkeletonizedFrame.traitAdjectives.4>
+  
+  <!-- EN: weighted stock -->
+  <VWE_WeightedStock.label>culata contrapesada</VWE_WeightedStock.label>
+  <!-- EN: This weapon features a reinforced, heavy stock designed for bludgeoning. It significantly increases melee damage and stun chance, but the added weight increases aiming time. -->
+  <VWE_WeightedStock.description>Esta arma cuenta con una culata reforzada y pesada diseñada para golpear. Aumenta significativamente el daño cuerpo a cuerpo y la probabilidad de aturdimiento, pero el peso añadido aumenta el tiempo de apuntado.</VWE_WeightedStock.description>
+  <!-- EN: heavy -->
+  <VWE_WeightedStock.traitAdjectives.0>pesada</VWE_WeightedStock.traitAdjectives.0>
+  <!-- EN: bashing -->
+  <VWE_WeightedStock.traitAdjectives.1>golpeadora</VWE_WeightedStock.traitAdjectives.1>
+  <!-- EN: reinforced -->
+  <VWE_WeightedStock.traitAdjectives.2>reforzada</VWE_WeightedStock.traitAdjectives.2>
+  <!-- EN: club-stock -->
+  <VWE_WeightedStock.traitAdjectives.3>culata-garrote</VWE_WeightedStock.traitAdjectives.3>
+  <!-- EN: weighted -->
+  <VWE_WeightedStock.traitAdjectives.4>contrapesada</VWE_WeightedStock.traitAdjectives.4>
+  
+</LanguageData>

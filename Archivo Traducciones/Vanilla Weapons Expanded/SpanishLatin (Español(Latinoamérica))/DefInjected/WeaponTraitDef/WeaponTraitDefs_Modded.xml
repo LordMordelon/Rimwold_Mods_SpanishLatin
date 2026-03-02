@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: acid-injector flechettes -->
+  <VWE_AcidInjectorFlechettes.label>flechettes inyectoras de ácido</VWE_AcidInjectorFlechettes.label>
+  <!-- EN: This weapon has been re-barreled to fire fin-stabilized acid-injector flechettes. These rounds cause horrific internal dissolution in organic targets but are useless against mechanoids. -->
+  <VWE_AcidInjectorFlechettes.description>Esta arma ha sido recañoneada para disparar flechettes inyectoras de ácido estabilizadas por aletas. Estas rondas causan una disolución interna horrible en objetivos orgánicos pero son inútiles contra mecanoides.</VWE_AcidInjectorFlechettes.description>
+  <!-- EN: fletcher -->
+  <VWE_AcidInjectorFlechettes.traitAdjectives.0>flechador</VWE_AcidInjectorFlechettes.traitAdjectives.0>
+  <!-- EN: acid-needle -->
+  <VWE_AcidInjectorFlechettes.traitAdjectives.1>aguja ácida</VWE_AcidInjectorFlechettes.traitAdjectives.1>
+  <!-- EN: injecting -->
+  <VWE_AcidInjectorFlechettes.traitAdjectives.2>inyectora</VWE_AcidInjectorFlechettes.traitAdjectives.2>
+  <!-- EN: dissolving -->
+  <VWE_AcidInjectorFlechettes.traitAdjectives.3>disolvente</VWE_AcidInjectorFlechettes.traitAdjectives.3>
+  
+  <!-- EN: ancient -->
+  <VWE_AncientTrait.label>antigua</VWE_AncientTrait.label>
+  <!-- EN: This weapon is a relic from a bygone era, its internal stress fractures held together by mere luck. It functions normally for a limited time, but after a set number of shots, the mechanism will shatter completely and the weapon will be destroyed. -->
+  <VWE_AncientTrait.description>Esta arma es una reliquia de una era pasada, sus fracturas por estrés internas se mantienen unidas por pura suerte. Funciona normalmente durante un tiempo limitado, pero después de un número determinado de disparos, el mecanismo se romperá por completo y el arma será destruida.</VWE_AncientTrait.description>
+  <!-- EN: ancient -->
+  <VWE_AncientTrait.traitAdjectives.0>antigua</VWE_AncientTrait.traitAdjectives.0>
+  <!-- EN: relic -->
+  <VWE_AncientTrait.traitAdjectives.1>reliquia</VWE_AncientTrait.traitAdjectives.1>
+  <!-- EN: fragile -->
+  <VWE_AncientTrait.traitAdjectives.2>frágil</VWE_AncientTrait.traitAdjectives.2>
+  <!-- EN: crumbling -->
+  <VWE_AncientTrait.traitAdjectives.3>desmoronándose</VWE_AncientTrait.traitAdjectives.3>
+  <!-- EN: finite -->
+  <VWE_AncientTrait.traitAdjectives.4>finita</VWE_AncientTrait.traitAdjectives.4>
+  
+  <!-- EN: crypto rounds -->
+  <VWE_CryptoRounds.label>rondas cripto</VWE_CryptoRounds.label>
+  <!-- EN: This weapon fires rounds coated in active cryptoparticles that induce a rapid stasis-freeze effect on impact. -->
+  <VWE_CryptoRounds.description>Esta arma dispara rondas recubiertas de criptopartículas activas que inducen un efecto de congelación por estasis rápido al impactar.</VWE_CryptoRounds.description>
+  <!-- EN: crypto -->
+  <VWE_CryptoRounds.traitAdjectives.0>cripto</VWE_CryptoRounds.traitAdjectives.0>
+  <!-- EN: stasis -->
+  <VWE_CryptoRounds.traitAdjectives.1>estasis</VWE_CryptoRounds.traitAdjectives.1>
+  <!-- EN: freezing -->
+  <VWE_CryptoRounds.traitAdjectives.2>congelación</VWE_CryptoRounds.traitAdjectives.2>
+  <!-- EN: preserving -->
+  <VWE_CryptoRounds.traitAdjectives.3>preservación</VWE_CryptoRounds.traitAdjectives.3>
+  <!-- EN: absolute -->
+  <VWE_CryptoRounds.traitAdjectives.4>absoluta</VWE_CryptoRounds.traitAdjectives.4>
+  
+  <!-- EN: deserter markings -->
+  <VWE_DeserterMarkings.label>marcas de desertor</VWE_DeserterMarkings.label>
+  <!-- EN: This weapon bears defaced Imperial crests; equipping it in the presence of Imperial caravans or visitors will be recognized as treason, causing an immediate and severe drop in relations. -->
+  <VWE_DeserterMarkings.description>Esta arma lleva crestas imperiales desfiguradas; equiparla en presencia de caravanas o visitantes imperiales será reconocido como traición, causando una caída inmediata y severa en las relaciones.</VWE_DeserterMarkings.description>
+  <!-- EN: traitor -->
+  <VWE_DeserterMarkings.traitAdjectives.0>traidor</VWE_DeserterMarkings.traitAdjectives.0>
+  <!-- EN: deserter -->
+  <VWE_DeserterMarkings.traitAdjectives.1>desertor</VWE_DeserterMarkings.traitAdjectives.1>
+  <!-- EN: stolen -->
+  <VWE_DeserterMarkings.traitAdjectives.2>robada</VWE_DeserterMarkings.traitAdjectives.2>
+  <!-- EN: defaced -->
+  <VWE_DeserterMarkings.traitAdjectives.3>desfigurada</VWE_DeserterMarkings.traitAdjectives.3>
+  <!-- EN: illicit -->
+  <VWE_DeserterMarkings.traitAdjectives.4>ilícita</VWE_DeserterMarkings.traitAdjectives.4>
+  
+  <!-- EN: makeshift -->
+  <VWE_MakeshiftTrait.label>improvisada</VWE_MakeshiftTrait.label>
+  <!-- EN: This weapon is cobbled together from mismatched parts with a faulty sear mechanism. It is wildly unpredictable; sometimes it fails to fire entirely, while other times it accidentally discharges a double-length burst. -->
+  <VWE_MakeshiftTrait.description>Esta arma está improvisada a partir de piezas que no coinciden con un mecanismo de fiador defectuoso. Es tremendamente impredecible; a veces no dispara en absoluto, mientras que otras veces descarga accidentalmente una ráfaga de doble longitud.</VWE_MakeshiftTrait.description>
+  <!-- EN: makeshift -->
+  <VWE_MakeshiftTrait.traitAdjectives.0>improvisada</VWE_MakeshiftTrait.traitAdjectives.0>
+  <!-- EN: cobbled -->
+  <VWE_MakeshiftTrait.traitAdjectives.1>adoquinada</VWE_MakeshiftTrait.traitAdjectives.1>
+  <!-- EN: jury-rigged -->
+  <VWE_MakeshiftTrait.traitAdjectives.2>aparejada</VWE_MakeshiftTrait.traitAdjectives.2>
+  <!-- EN: scrap -->
+  <VWE_MakeshiftTrait.traitAdjectives.3>chatarra</VWE_MakeshiftTrait.traitAdjectives.3>
+  <!-- EN: unpredictable -->
+  <VWE_MakeshiftTrait.traitAdjectives.4>impredecible</VWE_MakeshiftTrait.traitAdjectives.4>
+  
+  <!-- EN: thump retrofit -->
+  <VWE_ThumpRetrofit.label>modificación de golpe</VWE_ThumpRetrofit.label>
+  <!-- EN: This weapon incorporates reverse-engineered mechanoid technology to fire heavy, blunt-force energy slugs that devastate structures and armor at the cost of range. -->
+  <VWE_ThumpRetrofit.description>Esta arma incorpora tecnología mecanoide de ingeniería inversa para disparar balas de energía de fuerza contundente pesada que devastan estructuras y armaduras a costa del alcance.</VWE_ThumpRetrofit.description>
+  <!-- EN: thumping -->
+  <VWE_ThumpRetrofit.traitAdjectives.0>golpeadora</VWE_ThumpRetrofit.traitAdjectives.0>
+  <!-- EN: siege -->
+  <VWE_ThumpRetrofit.traitAdjectives.1>asedio</VWE_ThumpRetrofit.traitAdjectives.1>
+  <!-- EN: kinetic -->
+  <VWE_ThumpRetrofit.traitAdjectives.2>cinética</VWE_ThumpRetrofit.traitAdjectives.2>
+  <!-- EN: heavy -->
+  <VWE_ThumpRetrofit.traitAdjectives.3>pesada</VWE_ThumpRetrofit.traitAdjectives.3>
+  <!-- EN: crushing -->
+  <VWE_ThumpRetrofit.traitAdjectives.4>aplastante</VWE_ThumpRetrofit.traitAdjectives.4>
+  
+  <!-- EN: void inscriptions -->
+  <VWE_VoidInscriptions.label>inscripciones del vacío</VWE_VoidInscriptions.label>
+  <!-- EN: This weapon is etched with shifting, non-euclidean glyphs that whisper to the wielder, continually draining their mental stability while equipped. -->
+  <VWE_VoidInscriptions.description>Esta arma está grabada con glifos no euclidianos cambiantes que susurran al portador, drenando continuamente su estabilidad mental mientras está equipada.</VWE_VoidInscriptions.description>
+  <!-- EN: void -->
+  <VWE_VoidInscriptions.traitAdjectives.0>vacío</VWE_VoidInscriptions.traitAdjectives.0>
+  <!-- EN: accursed -->
+  <VWE_VoidInscriptions.traitAdjectives.1>maldita</VWE_VoidInscriptions.traitAdjectives.1>
+  <!-- EN: whispering -->
+  <VWE_VoidInscriptions.traitAdjectives.2>susurrante</VWE_VoidInscriptions.traitAdjectives.2>
+  <!-- EN: maddening -->
+  <VWE_VoidInscriptions.traitAdjectives.3>enloquecedora</VWE_VoidInscriptions.traitAdjectives.3>
+  <!-- EN: eldritch -->
+  <VWE_VoidInscriptions.traitAdjectives.4>sobrenatural</VWE_VoidInscriptions.traitAdjectives.4>
+  
+</LanguageData>
