@@ -10,7 +10,7 @@
   <ABooks_DisableQuests_Description>Desactiva la activación de misiones de Biblioteca en Ruinas. Ten en cuenta que estas misiones son independientes de cualquier otra misión o evento del cuentacuentos (asaltos, cazadores de hombres, etc).</ABooks_DisableQuests_Description>
   <ABooks_DisableReadRuinedBooks>Desactivar auto-lectura de libros arruinados por colonos</ABooks_DisableReadRuinedBooks>
   <ABooks_DisableReadRuinedBooksTooltip>Por defecto, los colonos leerán automáticamente los libros arruinados, destruyéndolos. Al habilitar esto, permitirás que estos libros se almacenen indefinidamente, por ejemplo, para su bonificación de investigación.</ABooks_DisableReadRuinedBooksTooltip>
-  <ABooks_DurathreadTechniques>Estudiar este tratado desbloquea el durahilo como material, permitiendo su fabricación y uso en proyectos de construcción y fabricación. Cualquier cosa creada de tela por el lector a partir de ahora se hará con durahilo en su lugar, que tiene mejores cualidades.</ABooks_DurathreadTechniques>
+  <ABooks_DurathreadTechniques>Estudiar este tratado desbloquea la tela duradera como material, permitiendo su fabricación y uso en proyectos de construcción y fabricación. Cualquier cosa creada de tela por el lector a partir de ahora se hará con tela duradera en su lugar, que tiene mejores cualidades.</ABooks_DurathreadTechniques>
   <ABooks_ExtraMood>El lector recibirá una bonificación de humor de {0} por {1}.</ABooks_ExtraMood>
   <ABooks_ForADay>por un día</ABooks_ForADay>
   <ABooks_ForXDays>por {0} días</ABooks_ForXDays>
@@ -36,6 +36,6 @@
   <ABooks_UnlockPsycast>Leer este libro desbloqueará el psicausto {0} (nivel {1}) para el lector.</ABooks_UnlockPsycast>
   <ABooks_UsefulBookMultiplier>Multiplicador del número de libros "útiles" en bibliotecas en ruinas (menos significa más escasos)</ABooks_UsefulBookMultiplier>
   <ABooks_UsefulBookMultiplierTooltip>La cantidad de libros que no están arruinados o quemados que se pueden encontrar en las misiones de biblioteca se multiplicará por este número. 0.1 significa que los libros serán diez veces más escasos, mientras que 10 significa que no habrá libros arruinados en absoluto.</ABooks_UsefulBookMultiplierTooltip>
-  <Abooks_ReadDurathreadTechniques>{0} ha dominado las técnicas de durahilo y usará este material en lugar de tela.</Abooks_ReadDurathreadTechniques>
+  <Abooks_ReadDurathreadTechniques>{0} ha dominado las técnicas de tela duradera y usará este material en lugar de tela.</Abooks_ReadDurathreadTechniques>
   <Abooks_ReadStainlessSteel>{0} ha dominado el acero inoxidable y usará este material en lugar de acero.</Abooks_ReadStainlessSteel>
 </LanguageData>
