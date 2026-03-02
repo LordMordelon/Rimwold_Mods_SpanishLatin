@@ -1,0 +1,11 @@
+# Solo mostrar cambios en las carpetas de archivos de traducciones en los releases
+# Las demás carpetas se colapsan en GitHub por defecto
+
+# Pack compilado (código generado)
+Pack?Traducciones?[Español?Latino]/** linguist-generated=true
+
+# Documentación
+Documentacion/** linguist-documentation=true
+
+# Programas/scripts
+Programas/** linguist-vendored=true
