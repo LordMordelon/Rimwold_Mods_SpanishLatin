@@ -5,9 +5,9 @@ import shutil
 import json
 import re
 from datetime import datetime
+from collections import defaultdict
 import xml.etree.ElementTree as ET
 from xml.etree.ElementTree import ParseError
-from concurrent.futures import ThreadPoolExecutor, as_completed
 from threading import Lock
 from PySide6.QtWidgets import (
     QApplication, QMainWindow, QWidget, QFileDialog, QVBoxLayout, QHBoxLayout, QFormLayout, QComboBox,
@@ -17,6 +17,14 @@ from PySide6.QtCore import Qt, QThread, Signal
 from PySide6.QtGui import QFont, QAction
 
 CONFIG_FILE = "compilador_config.json"
+MODS_A_IGNORAR = {
+    "estructura ejemplo",
+    "[estructura ejemplo]",
+}
+
+
+def es_mod_ignorado(nombre: str) -> bool:
+    return nombre.strip().lower() in MODS_A_IGNORAR
 
 def normalizar_nombre_idioma(nombre: str) -> str:
     """
@@ -43,6 +51,13 @@ def normalizar_nombre_idioma(nombre: str) -> str:
         else:
             break
     return s.strip()
+
+
+def normalizar_nombre_carpeta(nombre: str) -> str:
+    """Convierte nombre de carpeta reemplazando espacios por underscores para Mods/."""
+    if not isinstance(nombre, str):
+        return ""
+    return nombre.strip().replace(" ", "_")
 
 def indent_xml(elem, level=0, space="  "):
     """
@@ -71,77 +86,93 @@ class CopiadorThread(QThread):
     mods_count = Signal(int, int)  # mods_procesados, total_mods
     archivos_count = Signal(int)  # archivos_copiados
 
-    def __init__(self, origen, destino, nombre_subcarpeta, limpiar_destino=False, eliminar_comentarios=False, parent=None):
+    def __init__(
+        self,
+        origen,
+        destino,
+        nombre_subcarpeta,
+        limpiar_destino=False,
+        eliminar_comentarios=False,
+        fusionar_xml_por_carpeta=False,
+        parent=None,
+    ):
         super().__init__(parent)
         self.origen = origen
         self.destino = destino
         self.limpiar_destino = limpiar_destino
         self.eliminar_comentarios = eliminar_comentarios
+        self.fusionar_xml_por_carpeta = fusionar_xml_por_carpeta
         self.nombre_subcarpeta = nombre_subcarpeta
-        # Ajuste de carpeta de salida: quitar paréntesis y contenido
-        # Ejemplo: 
-        # "Spanish (Español(Castellano))" -> "Spanish"
-        # "Russian (Русский)" -> "Russian"
         self.nombre_destino = normalizar_nombre_idioma(nombre_subcarpeta)
+        self.origen_vanilla = os.path.join(os.path.dirname(origen), "Archivo Traducciones Vanilla")
         self.archivos_copiados = 0
         self.mods_procesados = []
-        # Lock para sincronizar acceso a variables compartidas en threads
+        self.mods_vanilla_info = []
         self._lock = Lock()
         self._mods_procesados_count = 0
+        self._total_mods = 0
 
     def run(self):
         try:
-            # Limpiar carpeta de destino si se solicita
-            ruta_destino_subcarpeta = os.path.join(self.destino, self.nombre_destino)
-            if self.limpiar_destino and os.path.isdir(ruta_destino_subcarpeta):
-                try:
-                    self.log.emit(f"Limpiando carpeta de destino: {ruta_destino_subcarpeta}...")
-                    shutil.rmtree(ruta_destino_subcarpeta)
-                    self.log.emit("Carpeta de destino limpiada exitosamente.")
-                except Exception as e:
-                    msg = f"Error al limpiar la carpeta de destino: {str(e)}"
-                    self.log.emit(msg)
-                    self.error_log.emit(msg)
-                    self.terminado.emit(0) # Abortar si la limpieza falla
-                    return
+            if self.limpiar_destino:
+                self._limpiar_destino_completo()
 
             self.log.emit("Iniciando proceso de copia...")
             if self.eliminar_comentarios:
                 self.log.emit("Opción 'Eliminar comentarios XML' está activada.")
+            if self.fusionar_xml_por_carpeta:
+                self.log.emit("Opción 'Fusionar XML por carpeta/mod' está activada.")
 
-            # Obtener lista de mods a procesar
-            mods_a_procesar = [d for d in os.listdir(self.origen) if os.path.isdir(os.path.join(self.origen, d, self.nombre_subcarpeta))]
-            self.mods_procesados = mods_a_procesar
+            mods_normales = [
+                d for d in os.listdir(self.origen)
+                if not es_mod_ignorado(d)
+                and os.path.isdir(os.path.join(self.origen, d, self.nombre_subcarpeta))
+            ]
 
-            if not mods_a_procesar:
+            mods_vanilla = []
+            if os.path.isdir(self.origen_vanilla):
+                mods_vanilla = [
+                    d for d in os.listdir(self.origen_vanilla)
+                    if not es_mod_ignorado(d)
+                    and os.path.isdir(os.path.join(self.origen_vanilla, d, self.nombre_subcarpeta))
+                ]
+
+            self.mods_procesados = mods_normales
+            self._total_mods = len(mods_normales) + len(mods_vanilla)
+            self._mods_procesados_count = 0
+
+            if self._total_mods == 0:
                 self.log.emit("No se encontraron mods con traducciones para procesar.")
                 self.terminado.emit(0)
                 return
 
-            total_mods = len(mods_a_procesar)
-            self.log.emit(f"Se encontraron {total_mods} mods para procesar.")
-            self.log.emit(f"Procesamiento paralelo: usando hasta 4 threads simultáneos para mayor velocidad.")
-            self._mods_procesados_count = 0
+            self.log.emit(f"Se encontraron {len(mods_normales)} mods normales y {len(mods_vanilla)} mods vanilla.")
 
-            # Procesar mods en paralelo usando ThreadPoolExecutor
-            with ThreadPoolExecutor(max_workers=4) as executor:
-                # Enviar todos los mods para procesamiento paralelo
-                futures = {executor.submit(self._procesar_mod, mod, total_mods): mod 
-                          for mod in mods_a_procesar}
-                
-                # Ir obteniendo resultados conforme terminan
-                for future in as_completed(futures):
-                    mod_name = futures[future]
-                    try:
-                        future.result()  # Esto lanzará excepción si el mod falló
-                    except Exception as e:
-                        # Log de error ya fue emitido en _procesar_mod, solo continuar
-                        pass
+            self.log.emit("[1/4] Procesando traducciones normales...")
+            for mod in mods_normales:
+                self._procesar_mod_normal(mod)
+
+            self.log.emit("[2/4] Procesando parches vanilla...")
+            if mods_vanilla:
+                for mod in mods_vanilla:
+                    self._procesar_mod_vanilla(mod)
+            else:
+                self.log.emit("No se encontró carpeta 'Archivo Traducciones Vanilla' o no hay mods vanilla para el idioma.")
+
+            self.log.emit("[3/4] Reorganizando estructura a Common/Languages...")
+            self._reorganizar_a_common()
+
+            self.log.emit("[4/4] Generando LoadFolders.xml...")
+            if self.mods_vanilla_info:
+                self._generar_loadfolders_xml()
+            else:
+                self.log.emit("No hay mods vanilla con packageId, se omite LoadFolders.xml.")
+
+            self.progreso.emit(100)
 
             self.log.emit(f"Proceso completado. Total de archivos copiados: {self.archivos_copiados}")
             self.terminado.emit(self.archivos_copiados)
         except Exception as e:
-            # Capturar un error inesperado y registrar más detalles para depuración.
             import traceback
             tb_str = traceback.format_exc()
             msg = f"Ocurrió un error inesperado: {str(e)}"
@@ -149,122 +180,264 @@ class CopiadorThread(QThread):
             self.error_log.emit(f"{msg}\nDetalles:\n{tb_str}")
             self.terminado.emit(self.archivos_copiados)
 
-    def _procesar_mod(self, mod, total_mods):
-        """Procesa un mod individual. Este método se ejecuta en paralelo por ThreadPoolExecutor."""
+    def _incrementar_contadores_mod(self):
+        with self._lock:
+            self._mods_procesados_count += 1
+            procesados = self._mods_procesados_count
+            total = self._total_mods if self._total_mods else 1
+            progreso_general = int((procesados / total) * 100)
+        self.mods_count.emit(procesados, self._total_mods)
+        self.progreso.emit(progreso_general)
+
+    def _incrementar_archivos(self):
+        with self._lock:
+            self.archivos_copiados += 1
+            archivos_actual = self.archivos_copiados
+        self.archivos_count.emit(archivos_actual)
+
+    def _limpiar_destino_completo(self):
+        carpetas_a_eliminar = ["Languages", "Common", "Mods"]
+        archivos_a_eliminar = ["LoadFolders.xml"]
+
+        for carpeta in carpetas_a_eliminar:
+            ruta = os.path.join(self.destino, carpeta)
+            if os.path.isdir(ruta):
+                self.log.emit(f"Limpiando carpeta: {ruta}...")
+                shutil.rmtree(ruta)
+
+        for archivo in archivos_a_eliminar:
+            ruta = os.path.join(self.destino, archivo)
+            if os.path.isfile(ruta):
+                self.log.emit(f"Eliminando archivo: {ruta}...")
+                os.remove(ruta)
+
+    def _procesar_xml(self, ruta_origen, ruta_destino_archivo):
+        if self.eliminar_comentarios:
+            try:
+                parser = ET.XMLParser(target=ET.TreeBuilder(insert_comments=False))
+                with open(ruta_origen, "rb") as f:
+                    raw_data = f.read()
+
+                try:
+                    content = raw_data.decode("utf-8-sig")
+                except UnicodeDecodeError:
+                    content = raw_data.decode("utf-16")
+
+                content = content.strip()
+                if content.startswith("<?xml"):
+                    content = content.split("?>", 1)[-1].strip()
+
+                content = re.sub(r"<(/?(?:color|size|b|i)(?:\s+[^>]*?)?)>", r"&lt;\1&gt;", content, flags=re.IGNORECASE)
+
+                root = ET.fromstring(content, parser=parser)
+                tree = ET.ElementTree(root)
+                root[:] = sorted(root, key=lambda child: child.tag)
+                indent_xml(root)
+                tree.write(ruta_destino_archivo, encoding="utf-8", xml_declaration=True)
+            except ParseError as e_parse:
+                msg = f"Error de formato XML en '{ruta_origen}', se copia tal cual. Error: {e_parse}"
+                self.log.emit(msg)
+                self.error_log.emit(msg)
+                shutil.copy2(ruta_origen, ruta_destino_archivo)
+            except Exception as e_process:
+                msg = f"Error procesando '{ruta_origen}', se copia tal cual. Error: {e_process}"
+                self.log.emit(msg)
+                self.error_log.emit(msg)
+                shutil.copy2(ruta_origen, ruta_destino_archivo)
+        else:
+            shutil.copy2(ruta_origen, ruta_destino_archivo)
+
+    def _parsear_xml_desde_archivo(self, ruta_origen):
+        parser = ET.XMLParser(target=ET.TreeBuilder(insert_comments=False))
+        with open(ruta_origen, "rb") as f:
+            raw_data = f.read()
+
+        try:
+            content = raw_data.decode("utf-8-sig")
+        except UnicodeDecodeError:
+            content = raw_data.decode("utf-16")
+
+        content = content.strip()
+        if content.startswith("<?xml"):
+            content = content.split("?>", 1)[-1].strip()
+
+        content = re.sub(r"<(/?(?:color|size|b|i)(?:\s+[^>]*?)?)>", r"&lt;\1&gt;", content, flags=re.IGNORECASE)
+        return ET.fromstring(content, parser=parser)
+
+    def _fusionar_xmls_de_mod(self, mod, ruta_idioma, ruta_destino_base, prefijar_nombre):
+        archivos_por_carpeta = defaultdict(list)
+
+        for carpeta_raiz, _, archivos in os.walk(ruta_idioma):
+            for archivo in archivos:
+                if archivo.endswith(".xml"):
+                    ruta_relativa = os.path.relpath(carpeta_raiz, ruta_idioma)
+                    archivos_por_carpeta[ruta_relativa].append(os.path.join(carpeta_raiz, archivo))
+
+        for ruta_relativa, rutas_archivos in archivos_por_carpeta.items():
+            ruta_destino_carpeta = os.path.join(ruta_destino_base, ruta_relativa)
+            os.makedirs(ruta_destino_carpeta, exist_ok=True)
+
+            nombre_fusionado = f"[{mod}]_merged.xml" if prefijar_nombre else "merged.xml"
+            ruta_destino_fusionado = os.path.join(ruta_destino_carpeta, nombre_fusionado)
+
+            root_fusionado = ET.Element("LanguageData")
+            archivos_parseados = 0
+
+            for ruta_origen in sorted(rutas_archivos):
+                try:
+                    root_src = self._parsear_xml_desde_archivo(ruta_origen)
+                    for child in list(root_src):
+                        root_fusionado.append(child)
+                    archivos_parseados += 1
+                except Exception as e:
+                    msg = f"No se pudo fusionar '{ruta_origen}'. Se copiará como respaldo. Error: {e}"
+                    self.log.emit(msg)
+                    self.error_log.emit(msg)
+
+                    nombre_original = os.path.basename(ruta_origen)
+                    if prefijar_nombre:
+                        nombre_respaldo = f"[{mod}]_{os.path.splitext(nombre_original)[0]}_fallback.xml"
+                    else:
+                        nombre_respaldo = f"{os.path.splitext(nombre_original)[0]}_fallback.xml"
+                    ruta_respaldo = os.path.join(ruta_destino_carpeta, nombre_respaldo)
+                    shutil.copy2(ruta_origen, ruta_respaldo)
+                    self._incrementar_archivos()
+
+            if archivos_parseados > 0:
+                if self.eliminar_comentarios:
+                    root_fusionado[:] = sorted(root_fusionado, key=lambda child: child.tag)
+                indent_xml(root_fusionado)
+                ET.ElementTree(root_fusionado).write(ruta_destino_fusionado, encoding="utf-8", xml_declaration=True)
+                self._incrementar_archivos()
+
+    def _procesar_mod_normal(self, mod):
         try:
             ruta_mod = os.path.join(self.origen, mod)
             ruta_idioma = os.path.join(ruta_mod, self.nombre_subcarpeta)
+            ruta_destino_base = os.path.join(self.destino, "Languages", self.nombre_destino)
 
-            # Contar archivos para el mod actual
-            archivos_del_mod = []
-            for carpeta_raiz, _, archivos in os.walk(ruta_idioma):
-                for archivo in archivos:
-                    if archivo.endswith(".xml"):
-                        archivos_del_mod.append((carpeta_raiz, archivo))
-            
-            total_archivos_mod = len(archivos_del_mod)
-            if total_archivos_mod == 0:
-                self.log.emit(f"Sin archivos XML en {mod}, saltando.")
-                with self._lock:
-                    self._mods_procesados_count += 1
-                    progreso_general = int((self._mods_procesados_count / total_mods) * 100)
-                self.progreso.emit(progreso_general)
+            if self.fusionar_xml_por_carpeta:
+                self._fusionar_xmls_de_mod(mod, ruta_idioma, ruta_destino_base, prefijar_nombre=True)
+                self.log.emit(f"--- Mod normal procesado '{mod}' (fusionado) ---")
                 return
 
-            archivos_procesados_local = 0
+            for carpeta_raiz, _, archivos in os.walk(ruta_idioma):
+                for archivo in archivos:
+                    if not archivo.endswith(".xml"):
+                        continue
 
-            for carpeta_raiz, archivo in archivos_del_mod:
-                ruta_origen = os.path.join(carpeta_raiz, archivo)
-                ruta_relativa = os.path.relpath(carpeta_raiz, ruta_idioma)
-                ruta_destino_base = os.path.join(self.destino, self.nombre_destino)
-                ruta_destino_carpeta = os.path.join(ruta_destino_base, ruta_relativa)
-                os.makedirs(ruta_destino_carpeta, exist_ok=True)
-                nuevo_nombre = f"[{mod}]_{os.path.splitext(archivo)[0]}.xml"
-                ruta_destino_archivo = os.path.join(ruta_destino_carpeta, nuevo_nombre)
-                
-                if self.eliminar_comentarios:
-                    try:
-                        # Usar un parser que ignora comentarios
-                        parser = ET.XMLParser(target=ET.TreeBuilder(insert_comments=False))
+                    ruta_origen = os.path.join(carpeta_raiz, archivo)
+                    ruta_relativa = os.path.relpath(carpeta_raiz, ruta_idioma)
+                    ruta_destino_base = os.path.join(self.destino, "Languages", self.nombre_destino)
+                    ruta_destino_carpeta = os.path.join(ruta_destino_base, ruta_relativa)
+                    os.makedirs(ruta_destino_carpeta, exist_ok=True)
+                    nuevo_nombre = f"[{mod}]_{os.path.splitext(archivo)[0]}.xml"
+                    ruta_destino_archivo = os.path.join(ruta_destino_carpeta, nuevo_nombre)
 
-                        # Leemos el contenido completo para limpiar caracteres invisibles
-                        with open(ruta_origen, 'rb') as f:
-                            raw_data = f.read()
+                    self._procesar_xml(ruta_origen, ruta_destino_archivo)
+                    self._incrementar_archivos()
 
-                        # Intentamos decodificar (utf-8-sig maneja el BOM de VS Code automáticamente)
-                        try:
-                            content = raw_data.decode('utf-8-sig')
-                        except UnicodeDecodeError:
-                            # Fallback para archivos que realmente estén en UTF-16
-                            content = raw_data.decode('utf-16')
-
-                        # Limpieza crítica: eliminamos espacios, saltos de línea o nulos al inicio/final
-                        content = content.strip()
-
-                        # Si el XML tiene una declaración de encoding (ej: encoding="utf-16"), 
-                        # al procesarlo como string de Python puede dar error. La removemos.
-                        if content.startswith("<?xml"):
-                            # Buscamos el final de la etiqueta de declaración ?>
-                            content = content.split("?>", 1)[-1].strip()
-
-                        # Escapar etiquetas de formato de RimWorld (color, size, b, i) para evitar errores
-                        # Esto convierte <color...> en &lt;color...&gt; para que sea XML válido
-                        # Usamos un patrón más robusto que maneja atributos con espacios y comillas
-                        content = re.sub(r'<(/?(?:color|size|b|i)(?:\s+[^>]*?)?)>', r'&lt;\1&gt;', content, flags=re.IGNORECASE)
-
-                        # Parseamos desde el string limpio
-                        root = ET.fromstring(content, parser=parser)
-                        
-                        tree = ET.ElementTree(root)
-                        
-                        # Ordenar los elementos hijos de la raíz (LanguageData) alfabéticamente por su tag
-                        root[:] = sorted(root, key=lambda child: child.tag)
-                        # Re-indentar el árbol para un formato limpio y legible
-                        indent_xml(root)
-                        # Escribir el XML procesado en el archivo de destino
-                        tree.write(ruta_destino_archivo, encoding='utf-8', xml_declaration=True)
-                    except ParseError as e_parse:
-                        msg = f"Error de formato XML en '{ruta_origen}', no se pudo procesar. Copiando tal cual. Error: {e_parse}"
-                        self.log.emit(msg)
-                        self.error_log.emit(msg)
-                        # Si falla el parseo, es más seguro copiar el archivo original
-                        shutil.copy2(ruta_origen, ruta_destino_archivo)
-                    except Exception as e_process:
-                        msg = f"Error procesando '{ruta_origen}': {e_process}"
-                        self.log.emit(msg)
-                        self.error_log.emit(msg)
-                else:
-                    shutil.copy2(ruta_origen, ruta_destino_archivo)
-                
-                # Incrementar contadores de forma thread-safe
-                with self._lock:
-                    self.archivos_copiados += 1
-                    archivos_actual = self.archivos_copiados
-                archivos_procesados_local += 1
-                # Emitir señal para actualizar contador en UI
-                self.archivos_count.emit(archivos_actual)
-
-            # Actualizar progreso de forma thread-safe
-            with self._lock:
-                self._mods_procesados_count += 1
-                progreso_general = int((self._mods_procesados_count / total_mods) * 100)
-                count_actual = self._mods_procesados_count
-            
-            self.log.emit(f"--- Mod procesado '{mod}' ---")
-            self.progreso.emit(progreso_general)
-            self.mods_count.emit(count_actual, total_mods)
-            
+            self.log.emit(f"--- Mod normal procesado '{mod}' ---")
         except Exception as e:
-            # Error específico del mod, registrar pero no detener otros threads
-            import traceback
-            msg = f"Error procesando mod '{mod}': {str(e)}"
-            self.log.emit(msg)
-            self.error_log.emit(f"{msg}\n{traceback.format_exc()}")
-            # Actualizar contador incluso si falló
-            with self._lock:
-                self._mods_procesados_count += 1
-                progreso_general = int((self._mods_procesados_count / total_mods) * 100)
-            self.progreso.emit(progreso_general)
+            self.error_log.emit(f"Error procesando mod normal '{mod}': {e}")
+        finally:
+            self._incrementar_contadores_mod()
+
+    def _procesar_mod_vanilla(self, mod):
+        try:
+            ruta_mod = os.path.join(self.origen_vanilla, mod)
+            ruta_idioma = os.path.join(ruta_mod, self.nombre_subcarpeta)
+            package_id = self.obtener_package_id(ruta_mod)
+
+            nombre_normalizado = normalizar_nombre_carpeta(mod)
+            ruta_destino_mod = os.path.join(self.destino, "Mods", nombre_normalizado, "Languages", self.nombre_destino)
+
+            if self.fusionar_xml_por_carpeta:
+                self._fusionar_xmls_de_mod(mod, ruta_idioma, ruta_destino_mod, prefijar_nombre=False)
+            else:
+                for carpeta_raiz, _, archivos in os.walk(ruta_idioma):
+                    for archivo in archivos:
+                        if not archivo.endswith(".xml"):
+                            continue
+
+                        ruta_origen = os.path.join(carpeta_raiz, archivo)
+                        ruta_relativa = os.path.relpath(carpeta_raiz, ruta_idioma)
+                        ruta_destino_carpeta = os.path.join(ruta_destino_mod, ruta_relativa)
+                        os.makedirs(ruta_destino_carpeta, exist_ok=True)
+                        ruta_destino_archivo = os.path.join(ruta_destino_carpeta, archivo)
+
+                        self._procesar_xml(ruta_origen, ruta_destino_archivo)
+                        self._incrementar_archivos()
+
+            if package_id:
+                self.mods_vanilla_info.append((nombre_normalizado, package_id))
+                self.mods_procesados.append(nombre_normalizado)
+            else:
+                self.log.emit(f"ADVERTENCIA: No se encontró packageId en mod vanilla '{mod}', se omitirá en LoadFolders.xml")
+
+            sufijo = " (fusionado)" if self.fusionar_xml_por_carpeta else ""
+            self.log.emit(f"--- Mod vanilla procesado '{mod}'{sufijo} ---")
+        except Exception as e:
+            self.error_log.emit(f"Error procesando mod vanilla '{mod}': {e}")
+        finally:
+            self._incrementar_contadores_mod()
+
+    def _reorganizar_a_common(self):
+        ruta_languages_actual = os.path.join(self.destino, "Languages")
+        ruta_common = os.path.join(self.destino, "Common")
+        ruta_languages_nueva = os.path.join(ruta_common, "Languages")
+
+        if not os.path.isdir(ruta_languages_actual):
+            self.log.emit("No se encontró Languages/, se omite reorganización a Common/.")
+            return
+
+        if os.path.exists(ruta_common):
+            shutil.rmtree(ruta_common)
+
+        os.makedirs(ruta_common, exist_ok=True)
+        shutil.move(ruta_languages_actual, ruta_languages_nueva)
+        self.log.emit("Contenido movido a Common/Languages.")
+
+    def _generar_loadfolders_xml(self):
+        ruta_loadfolders = os.path.join(self.destino, "LoadFolders.xml")
+        root = ET.Element("loadFolders")
+        version_node = ET.SubElement(root, "v1.6")
+
+        common_li = ET.SubElement(version_node, "li")
+        common_li.text = "Common"
+
+        for nombre_carpeta, package_id in sorted(self.mods_vanilla_info, key=lambda x: x[0]):
+            mod_li = ET.SubElement(version_node, "li")
+            mod_li.set("IfModActive", package_id)
+            mod_li.text = f"Mods/{nombre_carpeta}"
+
+        indent_xml(root)
+        tree = ET.ElementTree(root)
+        tree.write(ruta_loadfolders, encoding="utf-8", xml_declaration=True)
+        self.log.emit(f"LoadFolders.xml generado con {len(self.mods_vanilla_info)} entradas condicionales.")
+
+    def obtener_package_id(self, ruta_mod):
+        about_dir = os.path.join(ruta_mod, "About")
+        if not os.path.isdir(about_dir):
+            return None
+
+        candidatos = [
+            f for f in os.listdir(about_dir)
+            if f.lower().startswith("about") and f.lower().endswith(".xml")
+        ]
+        candidatos.sort(key=len)
+
+        for nombre in candidatos:
+            ruta = os.path.join(ruta_mod, "About", nombre)
+            try:
+                tree = ET.parse(ruta)
+                root = tree.getroot()
+                pid = root.find("packageId")
+                if pid is not None and pid.text:
+                    return pid.text.strip().lower()
+            except Exception:
+                continue
+        return None
 
 class CompresorThread(QThread):
     log = Signal(str)
@@ -501,6 +674,11 @@ class VentanaPrincipal(QMainWindow):
             "Si se marca, procesará los archivos XML para quitar comentarios y ordenará las etiquetas\n"
             "alfabéticamente. Puede ayudar a reducir el tamaño del archivo y mejorar la legibilidad."
         )
+        self.chk_fusionar_xml = QCheckBox("Fusionar XML por carpeta y mod (menos archivos, más rápido)")
+        self.chk_fusionar_xml.setToolTip(
+            "Si se marca, combina todos los XML de cada carpeta del mismo mod en un solo archivo.\n"
+            "Reduce drásticamente la cantidad de archivos y acelera las copias."
+        )
         self.chk_comprimir = QCheckBox("Comprimir resultado en un archivo .tar al finalizar")
         self.chk_comprimir.setToolTip(
             "Si se marca, después de copiar todos los archivos, creará un archivo .tar con la\n"
@@ -513,6 +691,7 @@ class VentanaPrincipal(QMainWindow):
         )
         opciones_layout.addWidget(self.chk_limpiar_destino)
         opciones_layout.addWidget(self.chk_eliminar_comentarios)
+        opciones_layout.addWidget(self.chk_fusionar_xml)
         opciones_layout.addWidget(self.chk_comprimir)
         opciones_layout.addWidget(self.chk_update_about)
         main_layout.addLayout(opciones_layout)
@@ -623,7 +802,7 @@ class VentanaPrincipal(QMainWindow):
 
     def guardar_estado_opciones(self):
         reply = QMessageBox.question(self, 'Guardar Opciones',
-                                     "¿Desea guardar el estado actual de las casillas de verificación (Limpiar, Eliminar comentarios, Comprimir) como predeterminado para futuros usos?",
+                                     "¿Desea guardar el estado actual de las casillas de verificación (Limpiar, Eliminar comentarios, Fusionar XML, Comprimir) como predeterminado para futuros usos?",
                                      QMessageBox.StandardButton.Yes | QMessageBox.StandardButton.No, QMessageBox.StandardButton.No)
         if reply == QMessageBox.StandardButton.Yes:
             if not hasattr(self, 'opciones_default'):
@@ -631,6 +810,7 @@ class VentanaPrincipal(QMainWindow):
 
             self.opciones_default['limpiar_destino'] = self.chk_limpiar_destino.isChecked()
             self.opciones_default['eliminar_comentarios'] = self.chk_eliminar_comentarios.isChecked()
+            self.opciones_default['fusionar_xml'] = self.chk_fusionar_xml.isChecked()
             self.opciones_default['comprimir'] = self.chk_comprimir.isChecked()
             self.opciones_default['update_about'] = self.chk_update_about.isChecked()
 
@@ -712,6 +892,7 @@ class VentanaPrincipal(QMainWindow):
         default_opciones = {
             "limpiar_destino": False,
             "eliminar_comentarios": False,
+            "fusionar_xml": False,
             "comprimir": False
         }
         try:
@@ -789,32 +970,37 @@ class VentanaPrincipal(QMainWindow):
             QMessageBox.warning(self, "Advertencia", "Por favor, detecta y selecciona un idioma a procesar.")
             return
 
-        # Ajuste: Usar subcarpeta Languages dentro de la raíz seleccionada
-        destino_languages = os.path.join(destino, "Languages")
-        if not os.path.exists(destino_languages):
+        if not os.path.exists(destino):
             try:
-                os.makedirs(destino_languages)
+                os.makedirs(destino)
             except OSError as e:
-                QMessageBox.critical(self, "Error", f"No se pudo crear la carpeta Languages:\n{e}")
+                QMessageBox.critical(self, "Error", f"No se pudo crear la carpeta de destino:\n{e}")
                 return
 
-        # Validar que tenemos permisos de escritura en el destino (Languages)
-        if not os.access(destino_languages, os.W_OK):
+        # Validar permisos sobre la raíz del pack
+        if not os.access(destino, os.W_OK):
             QMessageBox.critical(self, "Error de Permisos", 
-                f"No tienes permisos de escritura en la carpeta de destino:\n{destino_languages}\n\nPor favor, verifica los permisos o selecciona otra carpeta.")
+                f"No tienes permisos de escritura en la carpeta de destino:\n{destino}\n\nPor favor, verifica los permisos o selecciona otra carpeta.")
             return
 
         limpiar = self.chk_limpiar_destino.isChecked()
         eliminar_comentarios = self.chk_eliminar_comentarios.isChecked()
+        fusionar_xml = self.chk_fusionar_xml.isChecked()
         
         # Determinar nombre de destino para la advertencia de limpieza (normalizado)
         nombre_destino = normalizar_nombre_idioma(nombre_subcarpeta)
 
         if limpiar:
-            ruta_a_borrar = os.path.join(destino_languages, nombre_destino)
-            if os.path.isdir(ruta_a_borrar):
+            rutas_a_borrar = [
+                os.path.join(destino, "Languages"),
+                os.path.join(destino, "Common"),
+                os.path.join(destino, "Mods"),
+                os.path.join(destino, "LoadFolders.xml"),
+            ]
+            if any(os.path.exists(r) for r in rutas_a_borrar):
                 reply = QMessageBox.question(self, 'Confirmar Limpieza',
-                                             f"¿Está seguro de que desea eliminar permanentemente la carpeta y todo su contenido?\n\n{ruta_a_borrar}",
+                                             "¿Está seguro de que desea limpiar la compilación actual?\n\n"
+                                             "Se eliminarán: Languages/, Common/, Mods/ y LoadFolders.xml",
                                              QMessageBox.StandardButton.Yes | QMessageBox.StandardButton.No, QMessageBox.StandardButton.No)
                 if reply == QMessageBox.StandardButton.No:
                     self.logear("Proceso cancelado por el usuario.")
@@ -829,7 +1015,14 @@ class VentanaPrincipal(QMainWindow):
         self.lbl_contador.setText("Archivos copiados: 0")
         self.progress.setValue(0)
         self.btn_procesar.setEnabled(False)
-        self.hilo = CopiadorThread(origen, destino_languages, nombre_subcarpeta, limpiar_destino=limpiar, eliminar_comentarios=eliminar_comentarios)
+        self.hilo = CopiadorThread(
+            origen,
+            destino,
+            nombre_subcarpeta,
+            limpiar_destino=limpiar,
+            eliminar_comentarios=eliminar_comentarios,
+            fusionar_xml_por_carpeta=fusionar_xml,
+        )
         self.hilo.progreso.connect(self.progress.setValue)
         self.hilo.log.connect(self.logear)
         self.hilo.error_log.connect(self.logear_error)
@@ -891,7 +1084,7 @@ class VentanaPrincipal(QMainWindow):
     def iniciar_compresion(self):
         self.logear("Iniciando proceso de compresión...")
         destino_root = self.txt_destino.text()
-        destino_languages = os.path.join(destino_root, "Languages")
+        destino_languages = os.path.join(destino_root, "Common", "Languages")
         # Usar el nombre de destino procesado por el hilo de copia
         if self.hilo is not None:
             nombre_subcarpeta = self.hilo.nombre_destino
@@ -994,7 +1187,10 @@ class VentanaPrincipal(QMainWindow):
         carpetas_a_ignorar = {'about', 'defs', 'assemblies', 'patches', 'textures', 'sounds', 'common', 'ideasshared', 'licenses', 'source', 'src', 'docs', 'examples', '.git', '.vs', '1.0', '1.1', '1.2', '1.3', '1.4', '1.5'}
 
         try:
-            mod_folders = [d for d in os.listdir(origen) if os.path.isdir(os.path.join(origen, d))]
+            mod_folders = [
+                d for d in os.listdir(origen)
+                if not es_mod_ignorado(d) and os.path.isdir(os.path.join(origen, d))
+            ]
             if not mod_folders:
                 self.logear("No se encontraron carpetas de mods en el origen.")
                 return
@@ -1029,6 +1225,7 @@ class VentanaPrincipal(QMainWindow):
         if hasattr(self, 'opciones_default'):
             self.chk_limpiar_destino.setChecked(self.opciones_default.get('limpiar_destino', False))
             self.chk_eliminar_comentarios.setChecked(self.opciones_default.get('eliminar_comentarios', False))
+            self.chk_fusionar_xml.setChecked(self.opciones_default.get('fusionar_xml', False))
             self.chk_comprimir.setChecked(self.opciones_default.get('comprimir', False))
             self.chk_update_about.setChecked(self.opciones_default.get('update_about', False))
 
@@ -1081,6 +1278,8 @@ class VentanaPrincipal(QMainWindow):
             
             for mod_name in self.mods_procesados_en_ultimo_run:
                 ruta_mod = os.path.join(origen, mod_name)
+                if not os.path.isdir(ruta_mod):
+                    continue
                 pid = self.obtener_package_id(ruta_mod)
                 
                 # Verificar si existe PublishedFileId.txt
