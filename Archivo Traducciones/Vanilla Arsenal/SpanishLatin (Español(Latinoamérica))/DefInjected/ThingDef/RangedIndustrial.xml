@@ -5,7 +5,7 @@
   <DV_Bullet_BurstPistol.label>bala de pistola de ráfaga</DV_Bullet_BurstPistol.label>
   
   <!-- EN: chaingun bullet -->
-  <DV_Bullet_Chaingun.label>bala de chaingun</DV_Bullet_Chaingun.label>
+  <DV_Bullet_Chaingun.label>bala de minigun pesada</DV_Bullet_Chaingun.label>
   
   <!-- EN: DMR bullet -->
   <DV_Bullet_DMR.label>bala de DMR</DV_Bullet_DMR.label>
@@ -28,13 +28,13 @@
   <DV_Gun_BurstPistol.verbs.Verb_Shoot.label>pistola de ráfaga</DV_Gun_BurstPistol.verbs.Verb_Shoot.label>
   
   <!-- EN: chaingun -->
-  <DV_Gun_Chaingun.label>chaingun</DV_Gun_Chaingun.label>
+  <DV_Gun_Chaingun.label>minigun pesada</DV_Gun_Chaingun.label>
   <!-- EN: A heavy duty tri-barreled machine gun. It can throw down a torrent of inaccurate bullets which whittle down armor and defenses. The longer air-cooled barrels and large magazine allow it to fire for longer. -->
   <DV_Gun_Chaingun.description>Una ametralladora de servicio pesado con tres cañones. Puede lanzar un torrente de balas imprecisas que desgastan la armadura y las defensas. Los cañones más largos refrigerados por aire y el cargador grande que la minigun le permiten disparar durante más tiempo.</DV_Gun_Chaingun.description>
   <!-- EN: barrels -->
   <DV_Gun_Chaingun.tools.barrels.label>cañones</DV_Gun_Chaingun.tools.barrels.label>
   <!-- EN: chaingun -->
-  <DV_Gun_Chaingun.verbs.Verb_Shoot.label>chaingun</DV_Gun_Chaingun.verbs.Verb_Shoot.label>
+  <DV_Gun_Chaingun.verbs.Verb_Shoot.label>minigun pesada</DV_Gun_Chaingun.verbs.Verb_Shoot.label>
   
   <!-- EN: combat shotgun -->
   <DV_Gun_CombatShotgun.label>escopeta de combate</DV_Gun_CombatShotgun.label>
@@ -50,7 +50,7 @@
   <!-- EN: DMR -->
   <DV_Gun_DMR.label>DMR</DV_Gun_DMR.label>
   <!-- EN: A semi-automatic marksman rifle commonly used for hunting or protecting fields. It has a scope which enables a longer range and good precision, but it must be fired slower to not lose accuracy. -->
-  <DV_Gun_DMR.description>Un rifle de tirador semiautomático comúnmente utilizado para la caza o la protección de campos. Tiene una mira que permite un mayor alcance y buena precisión, pero debe dispararse más lento para no perder precisión.</DV_Gun_DMR.description>
+  <DV_Gun_DMR.description>Un rifle de tirador o por sus siglas en inglés DMR (designated marksman rifle) semiautomático, comúnmente utilizado para la caza o la protección de campos. Tiene una mira que permite un mayor alcance y buena precisión, pero debe dispararse más lento para no perder precisión.</DV_Gun_DMR.description>
   <!-- EN: stock -->
   <DV_Gun_DMR.tools.stock.label>culata</DV_Gun_DMR.tools.stock.label>
   <!-- EN: barrel -->

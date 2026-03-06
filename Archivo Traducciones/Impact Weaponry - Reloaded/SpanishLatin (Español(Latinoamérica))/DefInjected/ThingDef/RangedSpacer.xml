@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: impact shell -->
+  <DV_Bullet_ImpactCannon.label>proyectil de impacto</DV_Bullet_ImpactCannon.label>
+  
+  <!-- EN: impact flak -->
+  <DV_Bullet_ImpactFlak.label>flak de impacto</DV_Bullet_ImpactFlak.label>
+  
+  <!-- EN: impact bullet -->
+  <DV_Bullet_ImpactRifle.label>bala de impacto</DV_Bullet_ImpactRifle.label>
+  
+  <!-- EN: heavy impact shell -->
+  <DV_Bullet_ImpactSlinger.label>proyectil de impacto pesado</DV_Bullet_ImpactSlinger.label>
+  
+  <!-- EN: chainsword -->
+  <DV_Chainsword.label>espada sierra</DV_Chainsword.label>
+  <!-- EN: An ancient sword design, fitted with an engine and tempered cutting teeth in place of a regular blade. One single swing can shred through armor, flesh and bone.\n\nUsed long before monoswords and zeushammers, the chainsword is still a staple of many pirate groups and imperial squads. -->
+  <DV_Chainsword.description>Un antiguo diseño de espada, equipado con un motor y dientes de corte templados en lugar de una hoja regular. Un solo golpe puede triturar armadura, carne y hueso.\n\nUsada mucho antes que las monoespadas y los martillos Zeus, la espada sierra sigue siendo un elemento básico de muchos grupos piratas y escuadrones imperiales.</DV_Chainsword.description>
+  <!-- EN: handle -->
+  <DV_Chainsword.tools.handle.label>mango</DV_Chainsword.tools.handle.label>
+  <!-- EN: teeth -->
+  <DV_Chainsword.tools.teeth.label>dientes</DV_Chainsword.tools.teeth.label>
+  <!-- EN: chain -->
+  <DV_Chainsword.tools.chain.label>cadena</DV_Chainsword.tools.chain.label>
+  
+  <!-- EN: impact cannon -->
+  <DV_Gun_ImpactCannon.label>cañón de impacto</DV_Gun_ImpactCannon.label>
+  <!-- EN: A terrifying handheld cannon specially loaded with impact-tip shells. Each shell creates a large explosion on hit, pulverizing people and fortifications.\n\nThe cannon has a long range, making it perfect for demolishing defenses from far away. -->
+  <DV_Gun_ImpactCannon.description>Un aterrador cañón de mano cargado especialmente con proyectiles de punta de impacto. Cada proyectil crea una gran explosión al impactar, pulverizando personas y fortificaciones.\n\nEl cañón tiene un largo alcance, lo que lo hace perfecto para demoler defensas desde lejos.</DV_Gun_ImpactCannon.description>
+  <!-- EN: barrel -->
+  <DV_Gun_ImpactCannon.tools.barrel.label>cañón</DV_Gun_ImpactCannon.tools.barrel.label>
+  <!-- EN: bar -->
+  <DV_Gun_ImpactCannon.tools.bar.label>barra</DV_Gun_ImpactCannon.tools.bar.label>
+  <!-- EN: impact cannon -->
+  <DV_Gun_ImpactCannon.verbs.Verb_Shoot.label>cañón de impacto</DV_Gun_ImpactCannon.verbs.Verb_Shoot.label>
+  
+  <!-- EN: impact rifle -->
+  <DV_Gun_ImpactRifle.label>fusil de impacto</DV_Gun_ImpactRifle.label>
+  <!-- EN: A heavy automatic rifle specially loaded with impact-tip ammo. Each bullet violently explodes once it reaches its target, turning unarmored foes and enemy structures alike into mist.\n\nThe scope and extendable stock make the weapon more accurate. -->
+  <DV_Gun_ImpactRifle.description>Un fusil automático pesado cargado especialmente con munición de punta de impacto. Cada bala explota violentamente una vez que alcanza su objetivo, convirtiendo en niebla tanto a enemigos sin armadura como a estructuras enemigas.\n\nLa mira y la culata extensible hacen que el arma sea más precisa.</DV_Gun_ImpactRifle.description>
+  <!-- EN: handle -->
+  <DV_Gun_ImpactRifle.tools.handle.label>mango</DV_Gun_ImpactRifle.tools.handle.label>
+  <!-- EN: barrel -->
+  <DV_Gun_ImpactRifle.tools.barrel.label>cañón</DV_Gun_ImpactRifle.tools.barrel.label>
+  <!-- EN: impact rifle -->
+  <DV_Gun_ImpactRifle.verbs.Verb_Shoot.label>fusil de impacto</DV_Gun_ImpactRifle.verbs.Verb_Shoot.label>
+  
+  <!-- EN: impact slugger -->
+  <DV_Gun_ImpactSlugger.label>escopeta automatica de impacto</DV_Gun_ImpactSlugger.label>
+  <!-- EN: A solid semi-automatic shotgun specially loaded with impact-tip flak ammo. Each flak pellet violently explodes once it reaches its target, turning unarmored foes and enemy structures alike into mist.\n\nThe built-in chainsword bayonet and tight pellet spread make it deadly in close quarters. -->
+  <DV_Gun_ImpactSlugger.description>Una sólida escopeta semiautomática cargada especialmente con munición flak de punta de impacto. Cada perdigón flak explota violentamente una vez que alcanza su objetivo, convirtiendo en niebla tanto a enemigos sin armadura como a estructuras enemigas.\n\nLa bayoneta de espada sierra integrada y la dispersión cerrada de perdigones la hacen mortal en espacios cerrados.</DV_Gun_ImpactSlugger.description>
+  <!-- EN: handle -->
+  <DV_Gun_ImpactSlugger.tools.handle.label>mango</DV_Gun_ImpactSlugger.tools.handle.label>
+  <!-- EN: bayonet -->
+  <DV_Gun_ImpactSlugger.tools.bayonet.label>bayoneta</DV_Gun_ImpactSlugger.tools.bayonet.label>
+  <!-- EN: impact slugger -->
+  <DV_Gun_ImpactSlugger.verbs.Verb_Shoot.label>escopeta de impacto</DV_Gun_ImpactSlugger.verbs.Verb_Shoot.label>
+  
+  <!-- EN: impact smg -->
+  <DV_Gun_ImpactSMG.label>SMG de impacto</DV_Gun_ImpactSMG.label>
+  <!-- EN: A robust burst-fire SMG specially loaded with impact-tip ammo. Each bullet violently explodes once it reaches its target, turning unarmored foes and enemy structures alike into mist.\n\nThe weapon of choice for aspiring imperial marines, and spaceborn zealots. -->
+  <DV_Gun_ImpactSMG.description>Un robusto subfusil o por sus siglas en inglés SMG (submachine gun) de ráfaga cargado especialmente con munición de punta de impacto. Cada bala explota violentamente una vez que alcanza su objetivo, convirtiendo en niebla tanto a enemigos sin armadura como a estructuras enemigas.\n\nEl arma elegida por los aspirantes a marines imperiales y los fanáticos nacidos en el espacio.</DV_Gun_ImpactSMG.description>
+  <!-- EN: handle -->
+  <DV_Gun_ImpactSMG.tools.handle.label>mango</DV_Gun_ImpactSMG.tools.handle.label>
+  <!-- EN: barrel -->
+  <DV_Gun_ImpactSMG.tools.barrel.label>cañón</DV_Gun_ImpactSMG.tools.barrel.label>
+  <!-- EN: impact smg -->
+  <DV_Gun_ImpactSMG.verbs.Verb_Shoot.label>SMG de impacto</DV_Gun_ImpactSMG.verbs.Verb_Shoot.label>
+  
+  <!-- EN: impact stubber -->
+  <DV_Gun_ImpactStubber.label>pistola de impacto</DV_Gun_ImpactStubber.label>
+  <!-- EN: A compact pistol specially loaded with impact-tip ammo. Each bullet violently explodes once it reaches its target, turning unarmored foes and enemy structures alike into mist.\n\nSmall and portable, it's ideal as a sidearm. -->
+  <DV_Gun_ImpactStubber.description>Una pistola compacta cargada especialmente con munición de punta de impacto. Cada bala explota violentamente una vez que alcanza su objetivo, convirtiendo en niebla tanto a enemigos sin armadura como a estructuras enemigas.\n\nPequeña y portátil, es ideal como arma secundaria.</DV_Gun_ImpactStubber.description>
+  <!-- EN: handle -->
+  <DV_Gun_ImpactStubber.tools.handle.label>mango</DV_Gun_ImpactStubber.tools.handle.label>
+  <!-- EN: front -->
+  <DV_Gun_ImpactStubber.tools.front.label>frente</DV_Gun_ImpactStubber.tools.front.label>
+  <!-- EN: impact stubber -->
+  <DV_Gun_ImpactStubber.verbs.Verb_Shoot.label>pistola de impacto</DV_Gun_ImpactStubber.verbs.Verb_Shoot.label>
+  
+</LanguageData>
