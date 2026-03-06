@@ -352,22 +352,20 @@ class CopiadorThread(QThread):
             nombre_normalizado = normalizar_nombre_carpeta(mod)
             ruta_destino_mod = os.path.join(self.destino, "Mods", nombre_normalizado, "Languages", self.nombre_destino)
 
-            if self.fusionar_xml_por_carpeta:
-                self._fusionar_xmls_de_mod(mod, ruta_idioma, ruta_destino_mod, prefijar_nombre=False)
-            else:
-                for carpeta_raiz, _, archivos in os.walk(ruta_idioma):
-                    for archivo in archivos:
-                        if not archivo.endswith(".xml"):
-                            continue
+            # Mods vanilla nunca se fusionan porque no funcionan correctamente en RimWorld
+            for carpeta_raiz, _, archivos in os.walk(ruta_idioma):
+                for archivo in archivos:
+                    if not archivo.endswith(".xml"):
+                        continue
 
-                        ruta_origen = os.path.join(carpeta_raiz, archivo)
-                        ruta_relativa = os.path.relpath(carpeta_raiz, ruta_idioma)
-                        ruta_destino_carpeta = os.path.join(ruta_destino_mod, ruta_relativa)
-                        os.makedirs(ruta_destino_carpeta, exist_ok=True)
-                        ruta_destino_archivo = os.path.join(ruta_destino_carpeta, archivo)
+                    ruta_origen = os.path.join(carpeta_raiz, archivo)
+                    ruta_relativa = os.path.relpath(carpeta_raiz, ruta_idioma)
+                    ruta_destino_carpeta = os.path.join(ruta_destino_mod, ruta_relativa)
+                    os.makedirs(ruta_destino_carpeta, exist_ok=True)
+                    ruta_destino_archivo = os.path.join(ruta_destino_carpeta, archivo)
 
-                        self._procesar_xml(ruta_origen, ruta_destino_archivo)
-                        self._incrementar_archivos()
+                    self._procesar_xml(ruta_origen, ruta_destino_archivo)
+                    self._incrementar_archivos()
 
             if package_id:
                 self.mods_vanilla_info.append((nombre_normalizado, package_id))
@@ -375,8 +373,7 @@ class CopiadorThread(QThread):
             else:
                 self.log.emit(f"ADVERTENCIA: No se encontró packageId en mod vanilla '{mod}', se omitirá en LoadFolders.xml")
 
-            sufijo = " (fusionado)" if self.fusionar_xml_por_carpeta else ""
-            self.log.emit(f"--- Mod vanilla procesado '{mod}'{sufijo} ---")
+            self.log.emit(f"--- Mod vanilla procesado '{mod}' ---")
         except Exception as e:
             self.error_log.emit(f"Error procesando mod vanilla '{mod}': {e}")
         finally:
@@ -677,7 +674,8 @@ class VentanaPrincipal(QMainWindow):
         self.chk_fusionar_xml = QCheckBox("Fusionar XML por carpeta y mod (menos archivos, más rápido)")
         self.chk_fusionar_xml.setToolTip(
             "Si se marca, combina todos los XML de cada carpeta del mismo mod en un solo archivo.\n"
-            "Reduce drásticamente la cantidad de archivos y acelera las copias."
+            "Reduce drásticamente la cantidad de archivos y acelera las copias.\n"
+            "NOTA: Solo se aplica a mods normales. Los mods vanilla se copian sin fusionar."
         )
         self.chk_comprimir = QCheckBox("Comprimir resultado en un archivo .tar al finalizar")
         self.chk_comprimir.setToolTip(
