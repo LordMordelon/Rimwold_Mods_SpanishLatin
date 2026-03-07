@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: flame turret gun -->
+  <VFES_Gun_FlameTurretPopup.label>lanzallamas de torreta oculta</VFES_Gun_FlameTurretPopup.label>
+  <!-- EN: A flamethrower made to be mounted on a turret. -->
+  <VFES_Gun_FlameTurretPopup.description>Un lanzallamas hecho para ser montado en una torreta.</VFES_Gun_FlameTurretPopup.description>
+  <!-- EN: flame turret gun -->
+  <VFES_Gun_FlameTurretPopup.verbs.Verb_Shoot.label>cañón de torreta lanzallamas</VFES_Gun_FlameTurretPopup.verbs.Verb_Shoot.label>
+  
+  <!-- EN: concealed flamer turret -->
+  <VFES_Turret_FloorTurretPopup.label>torreta lanzallamas oculta</VFES_Turret_FloorTurretPopup.label>
+  <!-- EN: A compact automatic flamethrower turret equipped with retractable armor plating and a submersion mechanism. It only takes half as much damage when submerged. Requires chemfuel to attack. May explode when damaged. -->
+  <VFES_Turret_FloorTurretPopup.description>Una torreta lanzallamas automática compacta equipada con blindaje retráctil y un mecanismo de inmersión. Solo recibe la mitad de daño cuando está sumergida. Requiere quimbustible para atacar. Puede explotar si sufre daños.</VFES_Turret_FloorTurretPopup.description>
+  <!-- EN: Remaining fuel -->
+  <VFES_Turret_FloorTurretPopup.comps.CompRefuelable.fuelGizmoLabel>Combustible restante</VFES_Turret_FloorTurretPopup.comps.CompRefuelable.fuelGizmoLabel>
+  <!-- EN: Remaining fuel -->
+  <VFES_Turret_FloorTurretPopup.comps.CompRefuelable.fuelLabel>Combustible restante</VFES_Turret_FloorTurretPopup.comps.CompRefuelable.fuelLabel>
+  <!-- EN: Needs chemfuel -->
+  <VFES_Turret_FloorTurretPopup.comps.CompRefuelable.outOfFuelMessage>Necesita quimbustible</VFES_Turret_FloorTurretPopup.comps.CompRefuelable.outOfFuelMessage>
+  
+</LanguageData>

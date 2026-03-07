@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: charged turret gun -->
+  <VFES_Gun_ChargeTurretPopup.label>pisola de cargas de torreta oculta</VFES_Gun_ChargeTurretPopup.label>
+  <!-- EN: A charge rifle made to be mounted on a turret. -->
+  <VFES_Gun_ChargeTurretPopup.description>Un fusil de carga hecho para ser montado en una torreta.</VFES_Gun_ChargeTurretPopup.description>
+  <!-- EN: charged turret gun -->
+  <VFES_Gun_ChargeTurretPopup.verbs.Verb_Shoot.label>pisola de cargas de torreta oculta</VFES_Gun_ChargeTurretPopup.verbs.Verb_Shoot.label>
+  
+  <!-- EN: concealed charge turret -->
+  <VFES_Turret_FloorTurretCharge.label>torreta de cargas oculta</VFES_Turret_FloorTurretCharge.label>
+  <!-- EN: A compact automatic charge turret equipped with retractable armor plating and a submersion mechanism. It only takes half as much damage when submerged. Requires plasteel to refurbish its barrels after heavy use. May explode when damaged. -->
+  <VFES_Turret_FloorTurretCharge.description>Una torreta de cargas automática compacta equipada con blindaje retráctil y un mecanismo de inmersión. Solo recibe la mitad de daño cuando está sumergida. Requiere plastiacero para reacondicionar sus cañones tras un uso intensivo. Puede explotar si sufre daños.</VFES_Turret_FloorTurretCharge.description>
+  <!-- EN: Barrel durability -->
+  <VFES_Turret_FloorTurretCharge.comps.CompRefuelable.fuelGizmoLabel>Durabilidad del cañón</VFES_Turret_FloorTurretCharge.comps.CompRefuelable.fuelGizmoLabel>
+  <!-- EN: Shots until barrel change -->
+  <VFES_Turret_FloorTurretCharge.comps.CompRefuelable.fuelLabel>Disparos hasta cambio de cañón</VFES_Turret_FloorTurretCharge.comps.CompRefuelable.fuelLabel>
+  <!-- EN: Needs new barrel -->
+  <VFES_Turret_FloorTurretCharge.comps.CompRefuelable.outOfFuelMessage>Necesita cañón nuevo</VFES_Turret_FloorTurretCharge.comps.CompRefuelable.outOfFuelMessage>
+  
+</LanguageData>

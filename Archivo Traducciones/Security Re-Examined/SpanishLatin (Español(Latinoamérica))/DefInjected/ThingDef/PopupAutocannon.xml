@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: autocannon -->
+  <Gun_AutocannonTurretPopup.label>cañón automático</Gun_AutocannonTurretPopup.label>
+  <!-- EN: A self-loading large-bore cannon designed to attach to a turret. -->
+  <Gun_AutocannonTurretPopup.description>Un cañón de gran calibre de carga automática diseñado para acoplarse a una torreta.</Gun_AutocannonTurretPopup.description>
+  <!-- EN: autocannon -->
+  <Gun_AutocannonTurretPopup.verbs.Verb_Shoot.label>cañón automático</Gun_AutocannonTurretPopup.verbs.Verb_Shoot.label>
+  
+  <!-- EN: concealed autocannon turret -->
+  <VFES_Turret_FloorTurretAutoCannon.label>torreta de cañón automática oculta</VFES_Turret_FloorTurretAutoCannon.label>
+  <!-- EN: A compact automatic autocannon turret equipped with retractable armor plating and a submersion mechanism. It only takes half as much damage when submerged. Requires steel to refurbish its barrels after heavy use. May explode when damaged. -->
+  <VFES_Turret_FloorTurretAutoCannon.description>Una pesada torreta automática compacta equipada con blindaje retráctil y un mecanismo de inmersión. Solo recibe la mitad de daño cuando está sumergida. Requiere acero para reacondicionar sus cañones tras un uso intensivo. Puede explotar si sufre daños.</VFES_Turret_FloorTurretAutoCannon.description>
+  <!-- EN: Barrel durability -->
+  <VFES_Turret_FloorTurretAutoCannon.comps.CompRefuelable.fuelGizmoLabel>Durabilidad del cañón</VFES_Turret_FloorTurretAutoCannon.comps.CompRefuelable.fuelGizmoLabel>
+  <!-- EN: Shots until barrel change -->
+  <VFES_Turret_FloorTurretAutoCannon.comps.CompRefuelable.fuelLabel>Disparos hasta cambio de cañón</VFES_Turret_FloorTurretAutoCannon.comps.CompRefuelable.fuelLabel>
+  <!-- EN: Needs new barrel -->
+  <VFES_Turret_FloorTurretAutoCannon.comps.CompRefuelable.outOfFuelMessage>Necesita cañón nuevo</VFES_Turret_FloorTurretAutoCannon.comps.CompRefuelable.outOfFuelMessage>
+  
+</LanguageData>

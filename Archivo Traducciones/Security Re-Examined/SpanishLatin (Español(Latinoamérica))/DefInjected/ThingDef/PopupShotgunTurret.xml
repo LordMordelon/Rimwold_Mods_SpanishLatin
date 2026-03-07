@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: shotgun turret gun -->
+  <VFES_Gun_ShotgunTurretPopup.label>escopeta de torreta oculta</VFES_Gun_ShotgunTurretPopup.label>
+  <!-- EN: An automatic shotgun made to be mounted on a turret. -->
+  <VFES_Gun_ShotgunTurretPopup.description>Una escopeta automática hecha para ser montada en una torreta.</VFES_Gun_ShotgunTurretPopup.description>
+  <!-- EN: shotgun turret gun -->
+  <VFES_Gun_ShotgunTurretPopup.verbs.Verb_Shoot.label>escopeta de torreta oculta</VFES_Gun_ShotgunTurretPopup.verbs.Verb_Shoot.label>
+  
+  <!-- EN: concealed shotgun turret -->
+  <VFES_Turret_FloorTurretShotgun.label>torreta de escopeta oculta</VFES_Turret_FloorTurretShotgun.label>
+  <!-- EN: A compact automatic shotgun turret equipped with retractable armor plating and a submersion mechanism. Requires steel to refurbish its barrel after heavy use. May explode when damaged. Its dumb AI brain can't be directly controlled, so beware of friendly fire. -->
+  <VFES_Turret_FloorTurretShotgun.description>Una torreta de escopeta automática compacta equipada con blindaje retráctil y un mecanismo de inmersión. Requiere acero para reacondicionar su cañón tras un uso intensivo. Puede explotar si sufre daños. Su IA básica no puede ser controlada directamente, así que cuidado con el fuego amigo.</VFES_Turret_FloorTurretShotgun.description>
+  <!-- EN: Barrel durability -->
+  <VFES_Turret_FloorTurretShotgun.comps.CompRefuelable.fuelGizmoLabel>Durabilidad del cañón</VFES_Turret_FloorTurretShotgun.comps.CompRefuelable.fuelGizmoLabel>
+  <!-- EN: Shots until barrel change -->
+  <VFES_Turret_FloorTurretShotgun.comps.CompRefuelable.fuelLabel>Disparos hasta cambio de cañón</VFES_Turret_FloorTurretShotgun.comps.CompRefuelable.fuelLabel>
+  <!-- EN: Needs new barrel -->
+  <VFES_Turret_FloorTurretShotgun.comps.CompRefuelable.outOfFuelMessage>Necesita cañón nuevo</VFES_Turret_FloorTurretShotgun.comps.CompRefuelable.outOfFuelMessage>
+  
+</LanguageData>
