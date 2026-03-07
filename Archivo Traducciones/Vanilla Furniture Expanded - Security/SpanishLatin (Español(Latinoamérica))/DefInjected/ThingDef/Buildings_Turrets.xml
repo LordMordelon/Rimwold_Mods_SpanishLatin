@@ -25,22 +25,22 @@
   <VFES_Bullet_Catapult.label>roca masiva</VFES_Bullet_Catapult.label>
   
   <!-- EN: charge shot -->
-  <VFES_Bullet_ChargeComplex.label>disparo de carga</VFES_Bullet_ChargeComplex.label>
+  <VFES_Bullet_ChargeComplex.label>disparo de cargas</VFES_Bullet_ChargeComplex.label>
   
   <!-- EN: charge railgun shot -->
-  <VFES_Bullet_ChargeRailgunShot.label>disparo de cañón de riel de carga</VFES_Bullet_ChargeRailgunShot.label>
+  <VFES_Bullet_ChargeRailgunShot.label>disparo de cañón riel de cargas</VFES_Bullet_ChargeRailgunShot.label>
   
   <!-- EN: charge shot -->
-  <VFES_Bullet_ChargeTurretShot.label>disparo de carga</VFES_Bullet_ChargeTurretShot.label>
+  <VFES_Bullet_ChargeTurretShot.label>disparo de cargas</VFES_Bullet_ChargeTurretShot.label>
   
   <!-- EN: flamer shot -->
   <VFES_Bullet_FlameTurret.label>disparo de lanzallamas</VFES_Bullet_FlameTurret.label>
   
   <!-- EN: HMG bullet -->
-  <VFES_Bullet_HMG.label>bala de ametralladora pesada</VFES_Bullet_HMG.label>
+  <VFES_Bullet_HMG.label>bala de HMG</VFES_Bullet_HMG.label>
   
   <!-- EN: charge complex -->
-  <VFES_Complex_Charge.label>complejo de carga</VFES_Complex_Charge.label>
+  <VFES_Complex_Charge.label>complejo de blaster de cargas</VFES_Complex_Charge.label>
   <!-- EN: A heavy, pulse-charged rapid-fire blaster mounted on a barricade to grant cover. Needs to be manned in order to fire. Requires plasteel to refurbish its barrel after heavy use. -->
   <VFES_Complex_Charge.description>Un bláster pesado de fuego rápido y carga de pulso montado en una barricada para otorgar cobertura. Necesita ser operado para disparar. Requiere plastiacero para reacondicionar su cañón después de un uso intenso.</VFES_Complex_Charge.description>
   <!-- EN: Barrel durability -->
@@ -80,11 +80,11 @@
   <VFES_ComplexCharge_Top.verbs.Verb_Shoot.label>minigun</VFES_ComplexCharge_Top.verbs.Verb_Shoot.label>
   
   <!-- EN: HMG -->
-  <VFES_ComplexHmg_Top.label>ametralladora pesada</VFES_ComplexHmg_Top.label>
+  <VFES_ComplexHmg_Top.label>HMG</VFES_ComplexHmg_Top.label>
   <!-- EN: A self-loading HMG designed to be attached to a turret. -->
   <VFES_ComplexHmg_Top.description>Una ametralladora pesada de carga automática diseñada para ser acoplada a una torreta.</VFES_ComplexHmg_Top.description>
   <!-- EN: HMG -->
-  <VFES_ComplexHmg_Top.verbs.Verb_Shoot.label>ametralladora pesada</VFES_ComplexHmg_Top.verbs.Verb_Shoot.label>
+  <VFES_ComplexHmg_Top.verbs.Verb_Shoot.label>HMG</VFES_ComplexHmg_Top.verbs.Verb_Shoot.label>
   
   <!-- EN: minigun -->
   <VFES_ComplexMinigun_Top.label>minigun</VFES_ComplexMinigun_Top.label>
@@ -94,11 +94,11 @@
   <VFES_ComplexMinigun_Top.verbs.Verb_Shoot.label>minigun</VFES_ComplexMinigun_Top.verbs.Verb_Shoot.label>
   
   <!-- EN: military turret gun -->
-  <VFES_Gun_ArmoredTurret.label>arma de torreta militar</VFES_Gun_ArmoredTurret.label>
+  <VFES_Gun_ArmoredTurret.label>pistola de torreta militar</VFES_Gun_ArmoredTurret.label>
   <!-- EN: A refined automatic gun made to be mounted on a turret. -->
   <VFES_Gun_ArmoredTurret.description>Un arma automática refinada hecha para ser montada en una torreta.</VFES_Gun_ArmoredTurret.description>
   <!-- EN: military turret gun -->
-  <VFES_Gun_ArmoredTurret.verbs.Verb_Shoot.label>arma de torreta militar</VFES_Gun_ArmoredTurret.verbs.Verb_Shoot.label>
+  <VFES_Gun_ArmoredTurret.verbs.Verb_Shoot.label>pistola de torreta militar</VFES_Gun_ArmoredTurret.verbs.Verb_Shoot.label>
   
   <!-- EN: ballista -->
   <VFES_Gun_BallistaTurret.label>balista</VFES_Gun_BallistaTurret.label>
@@ -108,11 +108,11 @@
   <VFES_Gun_BallistaTurret.verbs.Verb_Shoot.label>balista</VFES_Gun_BallistaTurret.verbs.Verb_Shoot.label>
   
   <!-- EN: charged turret gun -->
-  <VFES_Gun_ChargeTurret.label>arma de torreta de carga</VFES_Gun_ChargeTurret.label>
+  <VFES_Gun_ChargeTurret.label>pistola de torreta de cargas</VFES_Gun_ChargeTurret.label>
   <!-- EN: A charge rifle made to be mounted on a turret. -->
   <VFES_Gun_ChargeTurret.description>Un rifle de carga hecho para ser montado en una torreta.</VFES_Gun_ChargeTurret.description>
   <!-- EN: charged turret gun -->
-  <VFES_Gun_ChargeTurret.verbs.Verb_Shoot.label>arma de torreta de carga</VFES_Gun_ChargeTurret.verbs.Verb_Shoot.label>
+  <VFES_Gun_ChargeTurret.verbs.Verb_Shoot.label>pistola de torreta de cargas</VFES_Gun_ChargeTurret.verbs.Verb_Shoot.label>
   
   <!-- EN: flame turret gun -->
   <VFES_Gun_FlameTurret.label>arma de torreta de llamas</VFES_Gun_FlameTurret.label>
@@ -129,11 +129,11 @@
   <VFES_Gun_MilitaryTurret.verbs.Verb_Shoot.label>arma de torreta militar</VFES_Gun_MilitaryTurret.verbs.Verb_Shoot.label>
   
   <!-- EN: charged turret gun -->
-  <VFES_Gun_RailgunTurret.label>arma de torreta de carga</VFES_Gun_RailgunTurret.label>
+  <VFES_Gun_RailgunTurret.label>cañon riel de cargas</VFES_Gun_RailgunTurret.label>
   <!-- EN: An advanced railgun designed to launch electromagnetically accelerated projectiles. -->
   <VFES_Gun_RailgunTurret.description>Un cañón de riel avanzado diseñado para lanzar proyectiles acelerados electromagnéticamente.</VFES_Gun_RailgunTurret.description>
   <!-- EN: charged turret gun -->
-  <VFES_Gun_RailgunTurret.verbs.Verb_Shoot.label>arma de torreta de carga</VFES_Gun_RailgunTurret.verbs.Verb_Shoot.label>
+  <VFES_Gun_RailgunTurret.verbs.Verb_Shoot.label>cañon riel de cargas</VFES_Gun_RailgunTurret.verbs.Verb_Shoot.label>
   
   <!-- EN: searchlight -->
   <VFES_Gun_Searchlight.label>reflector</VFES_Gun_Searchlight.label>
@@ -159,8 +159,6 @@
   <VFES_Turret_ArmoredTurret.comps.CompRefuelable.fuelLabel>Disparos hasta cambio de cañón</VFES_Turret_ArmoredTurret.comps.CompRefuelable.fuelLabel>
   <!-- EN: Needs new barrel -->
   <VFES_Turret_ArmoredTurret.comps.CompRefuelable.outOfFuelMessage>Necesita cañón nuevo</VFES_Turret_ArmoredTurret.comps.CompRefuelable.outOfFuelMessage>
-  <!-- EN: Hackear para reconfigurar. -->
-  <VFES_Turret_ArmoredTurret.comps.CompTurretHackable.notHackedInspectString>Hackear para reconfigurar.</VFES_Turret_ArmoredTurret.comps.CompTurretHackable.notHackedInspectString>
   
   <!-- EN: double autocannon turret -->
   <VFES_Turret_AutocannonDouble.label>torreta de cañón automático doble</VFES_Turret_AutocannonDouble.label>
@@ -172,8 +170,6 @@
   <VFES_Turret_AutocannonDouble.comps.CompRefuelable.fuelLabel>Disparos hasta cambio de cañón</VFES_Turret_AutocannonDouble.comps.CompRefuelable.fuelLabel>
   <!-- EN: Needs new barrel -->
   <VFES_Turret_AutocannonDouble.comps.CompRefuelable.outOfFuelMessage>Necesita cañón nuevo</VFES_Turret_AutocannonDouble.comps.CompRefuelable.outOfFuelMessage>
-  <!-- EN: Hackear para reconfigurar. -->
-  <VFES_Turret_AutocannonDouble.comps.CompTurretHackable.notHackedInspectString>Hackear para reconfigurar.</VFES_Turret_AutocannonDouble.comps.CompTurretHackable.notHackedInspectString>
   
   <!-- EN: ballista -->
   <VFES_Turret_Ballista.label>balista</VFES_Turret_Ballista.label>
@@ -201,8 +197,6 @@
   <VFES_Turret_ChargeRailgun.comps.CompRefuelable.fuelLabel>Disparos hasta cambio de cañón</VFES_Turret_ChargeRailgun.comps.CompRefuelable.fuelLabel>
   <!-- EN: Needs new barrel -->
   <VFES_Turret_ChargeRailgun.comps.CompRefuelable.outOfFuelMessage>Necesita cañón nuevo</VFES_Turret_ChargeRailgun.comps.CompRefuelable.outOfFuelMessage>
-  <!-- EN: Hackear para reconfigurar. -->
-  <VFES_Turret_ChargeRailgun.comps.CompTurretHackable.notHackedInspectString>Hackear para reconfigurar.</VFES_Turret_ChargeRailgun.comps.CompTurretHackable.notHackedInspectString>
   
   <!-- EN: charge turret -->
   <VFES_Turret_ChargeTurret.label>torreta de carga</VFES_Turret_ChargeTurret.label>
@@ -214,8 +208,6 @@
   <VFES_Turret_ChargeTurret.comps.CompRefuelable.fuelLabel>Disparos hasta cambio de cañón</VFES_Turret_ChargeTurret.comps.CompRefuelable.fuelLabel>
   <!-- EN: Needs new barrel -->
   <VFES_Turret_ChargeTurret.comps.CompRefuelable.outOfFuelMessage>Necesita cañón nuevo</VFES_Turret_ChargeTurret.comps.CompRefuelable.outOfFuelMessage>
-  <!-- EN: Hackear para reconfigurar. -->
-  <VFES_Turret_ChargeTurret.comps.CompTurretHackable.notHackedInspectString>Hackear para reconfigurar.</VFES_Turret_ChargeTurret.comps.CompTurretHackable.notHackedInspectString>
   
   <!-- EN: flamer turret -->
   <VFES_Turret_Flame.label>torreta lanzallamas</VFES_Turret_Flame.label>
@@ -227,8 +219,6 @@
   <VFES_Turret_Flame.comps.CompRefuelable.fuelLabel>Combustible restante</VFES_Turret_Flame.comps.CompRefuelable.fuelLabel>
   <!-- EN: Needs chemfuel -->
   <VFES_Turret_Flame.comps.CompRefuelable.outOfFuelMessage>Necesita quimbustible</VFES_Turret_Flame.comps.CompRefuelable.outOfFuelMessage>
-  <!-- EN: Hackear para reconfigurar. -->
-  <VFES_Turret_Flame.comps.CompTurretHackable.notHackedInspectString>Hackear para reconfigurar.</VFES_Turret_Flame.comps.CompTurretHackable.notHackedInspectString>
   
   <!-- EN: military turret -->
   <VFES_Turret_MilitaryTurret.label>torreta militar</VFES_Turret_MilitaryTurret.label>
@@ -240,8 +230,6 @@
   <VFES_Turret_MilitaryTurret.comps.CompRefuelable.fuelLabel>Disparos hasta cambio de cañón</VFES_Turret_MilitaryTurret.comps.CompRefuelable.fuelLabel>
   <!-- EN: Needs new barrel -->
   <VFES_Turret_MilitaryTurret.comps.CompRefuelable.outOfFuelMessage>Necesita cañón nuevo</VFES_Turret_MilitaryTurret.comps.CompRefuelable.outOfFuelMessage>
-  <!-- EN: Hackear para reconfigurar. -->
-  <VFES_Turret_MilitaryTurret.comps.CompTurretHackable.notHackedInspectString>Hackear para reconfigurar.</VFES_Turret_MilitaryTurret.comps.CompTurretHackable.notHackedInspectString>
   
   <!-- EN: minigun turret -->
   <VFES_Turret_Minigun.label>torreta minigun</VFES_Turret_Minigun.label>
@@ -253,15 +241,11 @@
   <VFES_Turret_Minigun.comps.CompRefuelable.fuelLabel>Disparos hasta cambio de cañón</VFES_Turret_Minigun.comps.CompRefuelable.fuelLabel>
   <!-- EN: Needs new barrel -->
   <VFES_Turret_Minigun.comps.CompRefuelable.outOfFuelMessage>Necesita cañón nuevo</VFES_Turret_Minigun.comps.CompRefuelable.outOfFuelMessage>
-  <!-- EN: Hackear para reconfigurar. -->
-  <VFES_Turret_Minigun.comps.CompTurretHackable.notHackedInspectString>Hackear para reconfigurar.</VFES_Turret_Minigun.comps.CompTurretHackable.notHackedInspectString>
   
   <!-- EN: searchlight -->
   <VFES_Turret_Searchlight.label>reflector</VFES_Turret_Searchlight.label>
   <!-- EN: An apparatus combining an extremely luminous lamp and a mirrored parabolic reflector, useful for lighting up and dazzling targets. -->
   <VFES_Turret_Searchlight.description>Un aparato que combina una lámpara extremadamente luminosa y un reflector parabólico espejado, útil para iluminar y deslumbrar objetivos.</VFES_Turret_Searchlight.description>
-  <!-- EN: Hackear para reconfigurar. -->
-  <VFES_Turret_Searchlight.comps.CompTurretHackable.notHackedInspectString>Hackear para reconfigurar.</VFES_Turret_Searchlight.comps.CompTurretHackable.notHackedInspectString>
   
   <!-- EN: shotgun turret -->
   <VFES_Turret_ShotgunTurret.label>torreta de escopeta</VFES_Turret_ShotgunTurret.label>
@@ -273,15 +257,11 @@
   <VFES_Turret_ShotgunTurret.comps.CompRefuelable.fuelLabel>Disparos hasta cambio de cañón</VFES_Turret_ShotgunTurret.comps.CompRefuelable.fuelLabel>
   <!-- EN: Needs new barrel -->
   <VFES_Turret_ShotgunTurret.comps.CompRefuelable.outOfFuelMessage>Necesita cañón nuevo</VFES_Turret_ShotgunTurret.comps.CompRefuelable.outOfFuelMessage>
-  <!-- EN: Hackear para reconfigurar. -->
-  <VFES_Turret_ShotgunTurret.comps.CompTurretHackable.notHackedInspectString>Hackear para reconfigurar.</VFES_Turret_ShotgunTurret.comps.CompTurretHackable.notHackedInspectString>
   
   <!-- EN: tesla blaster -->
   <VFES_Turret_TeslaBlaster.label>bláster tesla</VFES_Turret_TeslaBlaster.label>
   <!-- EN: A cutting-edge utility turret designed to counter the mechanoid advances. Four capacitors are charged to release a bolt of electricity. Upon impact, the power surge stuns affected mechanoid, before seeking to jump to another. Will only target mechanoids. -->
   <VFES_Turret_TeslaBlaster.description>Una torreta de utilidad de vanguardia diseñada para contrarrestar los avances mecanoides. Cuatro condensadores se cargan para liberar un rayo de electricidad. Al impactar, la sobrecarga de energía aturde al mecanoide afectado, antes de buscar saltar a otro. Solo apuntará a mecanoides.</VFES_Turret_TeslaBlaster.description>
-  <!-- EN: Hackear para reconfigurar. -->
-  <VFES_Turret_TeslaBlaster.comps.CompTurretHackable.notHackedInspectString>Hackear para reconfigurar.</VFES_Turret_TeslaBlaster.comps.CompTurretHackable.notHackedInspectString>
   
   <!-- EN: double autocannon -->
   <VFES_TurretDoubleAutocannon_Top.label>cañón automático doble</VFES_TurretDoubleAutocannon_Top.label>

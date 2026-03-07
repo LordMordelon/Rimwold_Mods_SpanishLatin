@@ -10,11 +10,11 @@
   <VFES_ConcealedBarrier.description>Una barrera retráctil a la altura de la cintura para usar como cobertura contra disparos entrantes. Proporciona una cobertura fuerte mientras está desplegada y es casi invisible cuando está sumergida. Las barricadas bloquearán ciertos tipos de animales de la misma manera que lo hacen las cercas. Requiere energía.</VFES_ConcealedBarrier.description>
   
   <!-- EN: concealed turret gun -->
-  <VFES_Gun_ConcealedTurret.label>arma de torreta oculta</VFES_Gun_ConcealedTurret.label>
+  <VFES_Gun_ConcealedTurret.label>pistola de torreta oculta</VFES_Gun_ConcealedTurret.label>
   <!-- EN: A simple automatic gun made to be mounted on a turret. -->
   <VFES_Gun_ConcealedTurret.description>Un arma automática simple hecha para ser montada en una torreta.</VFES_Gun_ConcealedTurret.description>
   <!-- EN: concealed turret gun -->
-  <VFES_Gun_ConcealedTurret.verbs.Verb_Shoot.label>arma de torreta oculta</VFES_Gun_ConcealedTurret.verbs.Verb_Shoot.label>
+  <VFES_Gun_ConcealedTurret.verbs.Verb_Shoot.label>pistola de torreta oculta</VFES_Gun_ConcealedTurret.verbs.Verb_Shoot.label>
   
   <!-- EN: concealed turret -->
   <VFES_Turret_Concealed.label>torreta oculta</VFES_Turret_Concealed.label>
@@ -26,7 +26,5 @@
   <VFES_Turret_Concealed.comps.CompRefuelable.fuelLabel>Disparos hasta cambio de cañón</VFES_Turret_Concealed.comps.CompRefuelable.fuelLabel>
   <!-- EN: Needs new barrel -->
   <VFES_Turret_Concealed.comps.CompRefuelable.outOfFuelMessage>Necesita cañón nuevo</VFES_Turret_Concealed.comps.CompRefuelable.outOfFuelMessage>
-  <!-- EN: Hackear para reconfigurar. -->
-  <VFES_Turret_Concealed.comps.CompTurretHackable.notHackedInspectString>Hackear para reconfigurar.</VFES_Turret_Concealed.comps.CompTurretHackable.notHackedInspectString>
   
 </LanguageData>
