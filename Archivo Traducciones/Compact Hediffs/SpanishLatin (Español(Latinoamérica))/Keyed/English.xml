@@ -1,0 +1,143 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+	<!-- EN: Compact Hediffs -->
+  <CompactHediffs_ModTitle>Compact Hediffs</CompactHediffs_ModTitle>
+	
+	<!-- EN: Select a pawn in game to see a preview. -->
+  <settings_selectExamplePawnIngame>Selecciona un colono en el juego para ver una vista previa.</settings_selectExamplePawnIngame>
+	
+	<!-- EN: Enabled -->
+  <settings_IsEnabled>Habilitado</settings_IsEnabled>
+	<!-- EN: Enabled -->
+  <settings_IsEnabled_tooltip>Habilitado</settings_IsEnabled_tooltip>
+	
+	<!-- EN: Inline augments -->
+  <settings_replacingPartInBodypart>Aumentos en línea</settings_replacingPartInBodypart>
+	<!-- EN: Augments that replace a body part will be listed as part of their label -->
+  <settings_replacingPartInBodypart_tooltip>Los aumentos que reemplacen una parte del cuerpo se listarán como parte de su etiqueta</settings_replacingPartInBodypart_tooltip>
+	
+	<!-- EN: Italicize missing body parts -->
+  <settings_italicizeMissing>Cursiva para partes del cuerpo faltantes</settings_italicizeMissing>
+	<!-- EN: Italicize missing body parts -->
+  <settings_italicizeMissing_tooltip>Poner en cursiva las partes del cuerpo faltantes</settings_italicizeMissing_tooltip>
+	
+	<!-- EN: Row highlighting -->
+  <settings_evenOddHighlights>Resaltar filas</settings_evenOddHighlights>
+	<!-- EN: Highlight even rows (as in vanilla) -->
+  <settings_evenOddHighlights_tooltip>Resaltar filas pares (como en el juego base)</settings_evenOddHighlights_tooltip>
+	
+	<!-- EN: Separator (vertical) -->
+  <settings_verticalSeparator>Separador (vertical)</settings_verticalSeparator>
+	<!-- EN: Draw a vertical separator between body part labels and their related conditions -->
+  <settings_verticalSeparator_tooltip>Dibujar un separador vertical entre las etiquetas de partes del cuerpo y sus condiciones relacionadas</settings_verticalSeparator_tooltip>
+	
+	<!-- EN: Separator (horizontal) -->
+  <settings_horizontalSeparator>Separador (horizontal)</settings_horizontalSeparator>
+	<!-- EN: Draw a horizontal separator between body part entries -->
+  <settings_horizontalSeparator_tooltip>Dibujar un separador horizontal entre las entradas de partes del cuerpo</settings_horizontalSeparator_tooltip>
+	
+	<!-- EN: Separator (internal) -->
+  <settings_internalSeparator>Separador (interno)</settings_internalSeparator>
+	<!-- EN: Draw a horizontal separator between individual conditions -->
+  <settings_internalSeparator_tooltip>Dibujar un separador horizontal entre condiciones individuales</settings_internalSeparator_tooltip>
+	
+	<!-- EN: Separator night mode -->
+  <settings_separatorNightMode>Modo noche para separadores</settings_separatorNightMode>
+	<!-- EN: Separators are black instead of grey -->
+  <settings_separatorNightMode_tooltip>Los separadores son negros en lugar de grises</settings_separatorNightMode_tooltip>
+	
+	<!-- EN: Health bars -->
+  <settings_bodypartHealthbars>Barras de salud</settings_bodypartHealthbars>
+	<!-- EN: Draw health bars for body parts -->
+  <settings_bodypartHealthbars_tooltip>Dibujar barras de salud para las partes del cuerpo</settings_bodypartHealthbars_tooltip>
+	<!-- EN: Health bar position -->
+  <settings_healthBarPosition>Posición de barra de salud</settings_healthBarPosition>
+	<!-- EN: Positioning of health bars -->
+  <settings_healthBarPosition_tooltip>Posicionamiento de las barras de salud</settings_healthBarPosition_tooltip>
+	
+	<!-- EN: Sort by tend priority -->
+  <settings_tendPrioritySort>Ordenar por prioridad de atención</settings_tendPrioritySort>
+	<!-- EN: Locally sort conditions of a body part by tend priority -->
+  <settings_tendPrioritySort_tooltip>Ordenar localmente las condiciones de una parte del cuerpo por prioridad de atención</settings_tendPrioritySort_tooltip>
+	
+	<!-- EN: Custom bleeding icons -->
+  <settings_bleedingIcons>Iconos de sangrado personalizados</settings_bleedingIcons>
+	<!-- EN: Customized bleeding icons depending on bleed severity replace the vanilla one -->
+  <settings_bleedingIcons_tooltip>Iconos de sangrado personalizados según la severidad del sangrado reemplazan el del juego base</settings_bleedingIcons_tooltip>
+	
+	<!-- EN: Custom tend quality icons -->
+  <settings_tendingIcons>Iconos de calidad de atención personalizados</settings_tendingIcons>
+	<!-- EN: Customized icons depending on threatment quality replace the vanilla one -->
+  <settings_tendingIcons_tooltip>Iconos personalizados según la calidad del tratamiento reemplazan el del juego base</settings_tendingIcons_tooltip>
+	
+	<!-- EN: Custom bloodloss handling -->
+  <settings_bloodlossSpecialHandling>Manejo personalizado de pérdida de sangre</settings_bloodlossSpecialHandling>
+	<!-- EN: Special-case handling of bloodloss (color changing depending on severity, blink speed depending on speed) -->
+  <settings_bloodlossSpecialHandling_tooltip>Manejo especial de pérdida de sangre (cambio de color según severidad, velocidad de parpadeo según rapidez)</settings_bloodlossSpecialHandling_tooltip>
+	
+	<!-- EN: Increase health tab width by -->
+  <settings_extraTabWidth>Aumentar ancho de pestaña de salud en</settings_extraTabWidth>
+	<!-- EN: Increase health tab height by -->
+  <settings_extraTabHeight>Aumentar altura de pestaña de salud en</settings_extraTabHeight>
+	
+	<!-- EN: Severity/Immunity bars -->
+  <settings_severityBars>Barras de severidad/inmunidad</settings_severityBars>
+	<!-- EN: Draw a progress bar for condition severity/immunity progress -->
+  <settings_severityBars_tooltip>Dibujar una barra de progreso para el progreso de severidad/inmunidad de la condición</settings_severityBars_tooltip>
+	
+	<!-- EN: Off -->
+  <SeverityBarMode_Off>Desactivado</SeverityBarMode_Off>
+	<!-- EN: Left to right -->
+  <SeverityBarMode_LeftToRight>Izquierda a derecha</SeverityBarMode_LeftToRight>
+	<!-- EN: Edge to middle -->
+  <SeverityBarMode_EdgeToMiddle>Borde al centro</SeverityBarMode_EdgeToMiddle>
+	<!-- EN: Middle to edge -->
+  <SeverityBarMode_MiddleToEdge>Centro al borde</SeverityBarMode_MiddleToEdge>
+	<!-- EN: Disabled -->
+  <SeverityBarMode_Off_tooltip>Deshabilitado</SeverityBarMode_Off_tooltip>
+	<!-- EN: Single bar that progresses from left to right -->
+  <SeverityBarMode_LeftToRight_tooltip>Barra única que progresa de izquierda a derecha</SeverityBarMode_LeftToRight_tooltip>
+	<!-- EN: Separate bars starting at the edges that reach the midpoint at full progress -->
+  <SeverityBarMode_EdgeToMiddle_tooltip>Barras separadas que comienzan en los bordes y alcanzan el punto medio al completarse</SeverityBarMode_EdgeToMiddle_tooltip>
+	<!-- EN: Separate bars starting in the middle that reach the edge at full progress -->
+  <SeverityBarMode_MiddleToEdge_tooltip>Barras separadas que comienzan en el medio y alcanzan el borde al completarse</SeverityBarMode_MiddleToEdge_tooltip>
+
+	<!-- EN: Severity bar position -->
+  <settings_severityBarPosition>Posición de barra de severidad</settings_severityBarPosition>
+	<!-- EN: Positioning of severity bars -->
+  <settings_severityBarPosition_tooltip>Posicionamiento de las barras de severidad</settings_severityBarPosition_tooltip>
+	
+	<!-- EN: Bar textures -->
+  <settings_severityBarTextured>Texturas de barra</settings_severityBarTextured>
+	<!-- EN: Select bars use a texture. -->
+  <settings_severityBarTextured_tooltip>Las barras seleccionadas usan una textura.</settings_severityBarTextured_tooltip>
+	
+	<!-- EN: Severity bars high contrast -->
+  <settings_severityBarHighContrast>Barras de severidad alto contraste</settings_severityBarHighContrast>
+	<!-- EN: Severity/Immunity bar uses a high contrast color scheme (green is good, red is bad) -->
+  <settings_severityBarHighContrast_tooltip>La barra de severidad/inmunidad usa un esquema de colores de alto contraste (verde es bueno, rojo es malo)</settings_severityBarHighContrast_tooltip>
+	
+	<!-- EN: Show cumulative threatment bars -->
+  <settings_showCumulativeThreatment>Mostrar barras de tratamiento acumulativo</settings_showCumulativeThreatment>
+	<!-- EN: Show progress bars for conditions that require a set amount of threatment quality to cure -->
+  <settings_showCumulativeThreatment_tooltip>Mostrar barras de progreso para condiciones que requieren una cantidad establecida de calidad de tratamiento para curarse</settings_showCumulativeThreatment_tooltip>
+	
+	<!-- EN: Show hidden progress condition bars -->
+  <settings_showHiddenProgressConditions>Mostrar barras de progreso de condiciones ocultas</settings_showHiddenProgressConditions>
+	<!-- EN: Show progress bars for conditions with progress hidden in vanilla Rimworld -->
+  <settings_showHiddenProgressConditions_tooltip>Mostrar barras de progreso para condiciones con progreso oculto en el Rimworld base</settings_showHiddenProgressConditions_tooltip>
+	
+
+	<!-- EN: Above -->
+  <BarPosition_Above>Arriba</BarPosition_Above>
+	<!-- EN: Behind -->
+  <BarPosition_Behind>Detrás</BarPosition_Behind>
+	<!-- EN: Below -->
+  <BarPosition_Below>Abajo</BarPosition_Below>
+	<!-- EN: Bar will be above the text -->
+  <BarPosition_Above_tooltip>La barra estará arriba del texto</BarPosition_Above_tooltip>
+	<!-- EN: Bar will be behind the text -->
+  <BarPosition_Behind_tooltip>La barra estará detrás del texto</BarPosition_Behind_tooltip>
+	<!-- EN: Bar will be below the text -->
+  <BarPosition_Below_tooltip>La barra estará debajo del texto</BarPosition_Below_tooltip>
+</LanguageData>
