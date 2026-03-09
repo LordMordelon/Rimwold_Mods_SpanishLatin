@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <BarPosition_Above>Arriba</BarPosition_Above>
+  <BarPosition_Above_tooltip>La barra estará arriba del texto</BarPosition_Above_tooltip>
+  <BarPosition_Behind>Detrás</BarPosition_Behind>
+  <BarPosition_Behind_tooltip>La barra estará detrás del texto</BarPosition_Behind_tooltip>
+  <BarPosition_Below>Abajo</BarPosition_Below>
+  <BarPosition_Below_tooltip>La barra estará debajo del texto</BarPosition_Below_tooltip>
+  <CompactHediffs_ModTitle>Compact Hediffs</CompactHediffs_ModTitle>
+  <SeverityBarMode_EdgeToMiddle>Borde al centro</SeverityBarMode_EdgeToMiddle>
+  <SeverityBarMode_EdgeToMiddle_tooltip>Barras separadas que comienzan en los bordes y alcanzan el punto medio al completarse</SeverityBarMode_EdgeToMiddle_tooltip>
+  <SeverityBarMode_LeftToRight>Izquierda a derecha</SeverityBarMode_LeftToRight>
+  <SeverityBarMode_LeftToRight_tooltip>Barra única que progresa de izquierda a derecha</SeverityBarMode_LeftToRight_tooltip>
+  <SeverityBarMode_MiddleToEdge>Centro al borde</SeverityBarMode_MiddleToEdge>
+  <SeverityBarMode_MiddleToEdge_tooltip>Barras separadas que comienzan en el medio y alcanzan el borde al completarse</SeverityBarMode_MiddleToEdge_tooltip>
+  <SeverityBarMode_Off>Desactivado</SeverityBarMode_Off>
+  <SeverityBarMode_Off_tooltip>Deshabilitado</SeverityBarMode_Off_tooltip>
+  <settings_IsEnabled>Habilitado</settings_IsEnabled>
+  <settings_IsEnabled_tooltip>Habilitado</settings_IsEnabled_tooltip>
+  <settings_bleedingIcons>Iconos de sangrado personalizados</settings_bleedingIcons>
+  <settings_bleedingIcons_tooltip>Iconos de sangrado personalizados según la severidad del sangrado reemplazan el del juego base</settings_bleedingIcons_tooltip>
+  <settings_bloodlossSpecialHandling>Manejo personalizado de pérdida de sangre</settings_bloodlossSpecialHandling>
+  <settings_bloodlossSpecialHandling_tooltip>Manejo especial de pérdida de sangre (cambio de color según severidad, velocidad de parpadeo según rapidez)</settings_bloodlossSpecialHandling_tooltip>
+  <settings_bodypartHealthbars>Barras de salud</settings_bodypartHealthbars>
+  <settings_bodypartHealthbars_tooltip>Dibujar barras de salud para las partes del cuerpo</settings_bodypartHealthbars_tooltip>
+  <settings_evenOddHighlights>Resaltar filas</settings_evenOddHighlights>
+  <settings_evenOddHighlights_tooltip>Resaltar filas pares (como en el juego base)</settings_evenOddHighlights_tooltip>
+  <settings_extraTabHeight>Aumentar altura de pestaña de salud en</settings_extraTabHeight>
+  <settings_extraTabWidth>Aumentar ancho de pestaña de salud en</settings_extraTabWidth>
+  <settings_healthBarPosition>Posición de barra de salud</settings_healthBarPosition>
+  <settings_healthBarPosition_tooltip>Posicionamiento de las barras de salud</settings_healthBarPosition_tooltip>
+  <settings_horizontalSeparator>Separador (horizontal)</settings_horizontalSeparator>
+  <settings_horizontalSeparator_tooltip>Dibujar un separador horizontal entre las entradas de partes del cuerpo</settings_horizontalSeparator_tooltip>
+  <settings_internalSeparator>Separador (interno)</settings_internalSeparator>
+  <settings_internalSeparator_tooltip>Dibujar un separador horizontal entre condiciones individuales</settings_internalSeparator_tooltip>
+  <settings_italicizeMissing>Cursiva para partes del cuerpo faltantes</settings_italicizeMissing>
+  <settings_italicizeMissing_tooltip>Poner en cursiva las partes del cuerpo faltantes</settings_italicizeMissing_tooltip>
+  <settings_replacingPartInBodypart>Aumentos en línea</settings_replacingPartInBodypart>
+  <settings_replacingPartInBodypart_tooltip>Los aumentos que reemplacen una parte del cuerpo se listarán como parte de su etiqueta</settings_replacingPartInBodypart_tooltip>
+  <settings_selectExamplePawnIngame>Selecciona un colono en el juego para ver una vista previa.</settings_selectExamplePawnIngame>
+  <settings_separatorNightMode>Modo noche para separadores</settings_separatorNightMode>
+  <settings_separatorNightMode_tooltip>Los separadores son negros en lugar de grises</settings_separatorNightMode_tooltip>
+  <settings_severityBarHighContrast>Barras de severidad alto contraste</settings_severityBarHighContrast>
+  <settings_severityBarHighContrast_tooltip>La barra de severidad/inmunidad usa un esquema de colores de alto contraste (verde es bueno, rojo es malo)</settings_severityBarHighContrast_tooltip>
+  <settings_severityBarPosition>Posición de barra de severidad</settings_severityBarPosition>
+  <settings_severityBarPosition_tooltip>Posicionamiento de las barras de severidad</settings_severityBarPosition_tooltip>
+  <settings_severityBarTextured>Texturas de barra</settings_severityBarTextured>
+  <settings_severityBarTextured_tooltip>Las barras seleccionadas usan una textura.</settings_severityBarTextured_tooltip>
+  <settings_severityBars>Barras de severidad/inmunidad</settings_severityBars>
+  <settings_severityBars_tooltip>Dibujar una barra de progreso para el progreso de severidad/inmunidad de la condición</settings_severityBars_tooltip>
+  <settings_showCumulativeThreatment>Mostrar barras de tratamiento acumulativo</settings_showCumulativeThreatment>
+  <settings_showCumulativeThreatment_tooltip>Mostrar barras de progreso para condiciones que requieren una cantidad establecida de calidad de tratamiento para curarse</settings_showCumulativeThreatment_tooltip>
+  <settings_showHiddenProgressConditions>Mostrar barras de progreso de condiciones ocultas</settings_showHiddenProgressConditions>
+  <settings_showHiddenProgressConditions_tooltip>Mostrar barras de progreso para condiciones con progreso oculto en el Rimworld base</settings_showHiddenProgressConditions_tooltip>
+  <settings_tendPrioritySort>Ordenar por prioridad de atención</settings_tendPrioritySort>
+  <settings_tendPrioritySort_tooltip>Ordenar localmente las condiciones de una parte del cuerpo por prioridad de atención</settings_tendPrioritySort_tooltip>
+  <settings_tendingIcons>Iconos de calidad de atención personalizados</settings_tendingIcons>
+  <settings_tendingIcons_tooltip>Iconos personalizados según la calidad del tratamiento reemplazan el del juego base</settings_tendingIcons_tooltip>
+  <settings_verticalSeparator>Separador (vertical)</settings_verticalSeparator>
+  <settings_verticalSeparator_tooltip>Dibujar un separador vertical entre las etiquetas de partes del cuerpo y sus condiciones relacionadas</settings_verticalSeparator_tooltip>
+</LanguageData>
