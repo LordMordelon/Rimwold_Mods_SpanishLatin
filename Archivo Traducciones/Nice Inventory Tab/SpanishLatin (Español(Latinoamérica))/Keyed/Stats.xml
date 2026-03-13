@@ -23,6 +23,12 @@
   <NIT_OneShotDamage>Daño por disparo</NIT_OneShotDamage>
   <!-- EN: Damage -->
   <NIT_Damage>Daño</NIT_Damage>
+  <!-- EN: Damage (DPS) -->
+  <NIT_DPS>Daño (DPS)</NIT_DPS>
+  <!-- EN: Fire rate -->
+  <NIT_FireRate>Cadencia de fuego</NIT_FireRate>
+  <!-- EN: Atk speed -->
+  <NIT_AtkSpeed>Velocidad de ataque</NIT_AtkSpeed>
 
   <!-- EN: Melee -->
   <NIT_Melee>Cuerpo a cuerpo</NIT_Melee>
@@ -98,6 +104,8 @@
 
   <!-- EN: Biocoded -->
   <NIT_Biocoded>Biocodificado</NIT_Biocoded>
+  <!-- EN: Clothes from corpse -->
+  <NIT_CorpseApparel>Ropa de cadáveres</NIT_CorpseApparel>
 
   <!-- EN: Open optimization master -->
   <OpenOptimizationMaster>Abrir gestor de optimización</OpenOptimizationMaster>
@@ -147,4 +155,9 @@
   <NIT_ShootingWork>Disparo</NIT_ShootingWork>
   <!-- EN: Melee -->
   <NIT_MeleeWork>Cuerpo a cuerpo</NIT_MeleeWork>
+  
+  <!-- EN: Ins. Cold -->
+  <NIT_InsulationCold>Ais. frío</NIT_InsulationCold>
+  <!-- EN: Ins. Warm -->
+  <NIT_InsulationHeat>Ais. calor</NIT_InsulationHeat>
 </LanguageData>
