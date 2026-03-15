@@ -1,5 +1,10 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
+  <!-- EN: Weather Rebalance -->
+  <WeatherRebalance>Reequilibrio del clima</WeatherRebalance>
+  <!-- EN: Changes Weather and Game Incidents to be more realistic (durations, when they can occur, etc)\nTemperature changes controlled separately through "Realistic Daily Temperatures" Setting -->
+  <WeatherRebalance_Tooltip>Cambia el clima y los incidentes del juego para que sean más realistas (duraciones, cuándo pueden ocurrir, etc.)\nLos cambios de temperatura se controlan por separado con la opción "Temperaturas diarias realistas"</WeatherRebalance_Tooltip>
+  
 	<!-- EN: This mod's Realistic Plant Balance Changes -->
   <RealisticPlantChanges>Cambios de equilibrio de plantas realistas de este mod</RealisticPlantChanges>
 
@@ -9,7 +14,7 @@
 	<!-- EN: Disable Plant and Sunlamp Rest -->
   <DisablePlantRest>Desactivar descanso de plantas y lámparas solares</DisablePlantRest>
   <!-- EN: Sunlamp schedule change requires Rimworld restart to take effect -->
-  <DisablePlantRest_Warning>El cambio de horario de la lámpara solar requiere reiniciar Rimworld para surtir efecto</DisablePlantRest_Warning>
+  <DisablePlantRest_Warning>El cambio de horario de la lámpara solar requiere reiniciar Rimworld</DisablePlantRest_Warning>
   <!-- EN: Plants can grow anytime of day they have enough light and are warm enough.\nSunlamps don't automatically turn on and off. -->
   <DisablePlantRest_Tooltip>Las plantas pueden crecer en cualquier momento del día si tienen suficiente luz y temperatura.\nLas lámparas solares no se encienden y apagan automáticamente.</DisablePlantRest_Tooltip>
   
@@ -17,11 +22,16 @@
   <EnablePlantGrowthChanges>Habilitar cambios experimentales de crecimiento de plantas</EnablePlantGrowthChanges>
   <!-- EN: Any plant not explicitly supported is automatically modified to have generally realisitc growth needs. -->
   <EnablePlantGrowthChanges_Tooltip>Cualquier planta no compatible explícitamente se modifica automáticamente para tener necesidades de crecimiento generalmente realistas (incluye plantas de mods)</EnablePlantGrowthChanges_Tooltip>
-
+  
 	<!-- EN: Enable Supported PlantGrowth Changes -->
   <EnableVanillaGrowthChanges>Habilitar cambios de crecimiento de plantas compatibles</EnableVanillaGrowthChanges>
   <!-- EN: Vanilla and supported mods' plants are hand-modified modified to have same stats are their earth-like counterparts -->
   <EnableVanillaGrowthChanges_Tooltip>Las plantas vanilla y de mods compatibles se modifican manualmente para tener las mismas estadísticas que sus contrapartes terrestres (no afecta a plantas de mods)</EnableVanillaGrowthChanges_Tooltip>
+
+  <!-- EN: Tree Growth Time Multiplier {0}x -->
+  <TreeGrowthMultiplier>Multiplicador del tiempo de crecimiento de árboles: {0}x</TreeGrowthMultiplier>
+  <!-- EN: If drastically reduced on an existing map, trees may experince death waves. In that case, it is recommended to reduce by 0.2 or less each playsession. -->
+  <TreeGrowthMultiplier_Tooltip>Si se reduce drásticamente en un mapa ya existente, los árboles pueden experimentar oleadas de muerte. En ese caso, se recomienda reducirlo en 0.2 o menos por cada sesión de juego.</TreeGrowthMultiplier_Tooltip>
 
   <!-- EN: Enable Material Realism [Requires Stack Size Rebalance] -->
   <EnableMaterialRealism>Activar realismo de materiales [Requiere reequilibrio de tamaño de pila]</EnableMaterialRealism>
