@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: body size multiplier -->
+  <VEF_BodySize_Multiplier.label>multiplicador de tamaño corporal</VEF_BodySize_Multiplier.label>
+  <!-- EN: Increases the size of the pawn by a multiple of their current size -->
+  <VEF_BodySize_Multiplier.description>Aumenta el tamaño del peón por un múltiplo de su tamaño actual.</VEF_BodySize_Multiplier.description>
+  
+  <!-- EN: body size offset -->
+  <VEF_BodySize_Offset.label>desplazamiento de tamaño corporal</VEF_BodySize_Offset.label>
+  <!-- EN: Increases the size of the pawn relative to their current size -->
+  <VEF_BodySize_Offset.description>Aumenta el tamaño del peón en relación con su tamaño actual.</VEF_BodySize_Offset.description>
+  
+  <!-- EN: cosmetic body size multiplier -->
+  <VEF_CosmeticBodySize_Multiplier.label>multiplicador de tamaño corporal cosmético</VEF_CosmeticBodySize_Multiplier.label>
+  <!-- EN: Increases the size of the pawn by a multiple of their current size -->
+  <VEF_CosmeticBodySize_Multiplier.description>Aumenta el tamaño del peón por un múltiplo de su tamaño actual.</VEF_CosmeticBodySize_Multiplier.description>
+  
+  <!-- EN: cosmetic body size offset -->
+  <VEF_CosmeticBodySize_Offset.label>desplazamiento de tamaño corporal cosmético</VEF_CosmeticBodySize_Offset.label>
+  <!-- EN: Increases the size of the pawn relative to their current size -->
+  <VEF_CosmeticBodySize_Offset.description>Aumenta el tamaño del peón en relación con su tamaño actual.</VEF_CosmeticBodySize_Offset.description>
+  
+  <!-- EN: body food capacity multiplier -->
+  <VEF_FoodCapacityMultiplier.label>multiplicador de capacidad de comida corporal</VEF_FoodCapacityMultiplier.label>
+  <!-- EN: Increases the size of the pawn's hunger bar. This does not affect hunger -->
+  <VEF_FoodCapacityMultiplier.description>Aumenta el tamaño de la barra de hambre del peón. Esto no afecta al hambre.</VEF_FoodCapacityMultiplier.description>
+  
+  <!-- EN: growth point multiplier -->
+  <VEF_GrowthPointMultiplier.label>multiplicador de puntos de crecimiento</VEF_GrowthPointMultiplier.label>
+  <!-- EN: Increases the amount of growth points accumulated by children when learning -->
+  <VEF_GrowthPointMultiplier.description>Aumenta la cantidad de puntos de crecimiento acumulados por los niños al aprender.</VEF_GrowthPointMultiplier.description>
+  
+  <!-- EN: head size multiplier -->
+  <VEF_HeadSize_Cosmetic.label>multiplicador de tamaño de cabeza</VEF_HeadSize_Cosmetic.label>
+  
+  <!-- EN: pawn render offset -->
+  <VEF_PawnRenderPosOffset.label>desplazamiento de renderizado del peón</VEF_PawnRenderPosOffset.label>
+  <!-- EN: Modifies the pawn's rendered position in y-axis. -->
+  <VEF_PawnRenderPosOffset.description>Modifica la posición de renderizado del peón en el eje Y.</VEF_PawnRenderPosOffset.description>
+  
+</LanguageData>

@@ -2,31 +2,6 @@
 <ModMetaData>
 	<name>Erin's Auronya</name>
 	<author>Erin</author>
-	<url></url>
-	<supportedVersions>
-		<li>1.4</li>
-		<li>1.5</li>
-		<li>1.6</li>
-	</supportedVersions>
 	<packageId>Erin.AuronyaBiotech</packageId>
-	<modDependencies>
-		<li>
-			<packageId>Ludeon.RimWorld.Biotech</packageId>
-			<displayName>RimWorld - Biotech</displayName>
-			<steamWorkshopUrl>https://store.steampowered.com/app/1826140/RimWorld__Biotech/</steamWorkshopUrl>
-		</li>
-		<li>
-			<packageId>OskarPotocki.VanillaFactionsExpanded.Core</packageId>
-			<displayName>Vanilla Expanded Framework</displayName>
-			<steamWorkshopUrl>https://steamcommunity.com/workshop/filedetails/?id=2023507013</steamWorkshopUrl>
-			<downloadUrl>https://github.com/AndroidQuazar/VanillaExpandedFramework</downloadUrl>
-		</li>
-	</modDependencies>
-	<description>This mod adds a new xenotype - Auronya.</description>
-	<loadAfter>
-		<li>Ludeon.RimWorld.Core</li>
-		<li>Ludeon.RimWorld.Biotech</li>
-		<li>OskarPotocki.VanillaFactionsExpanded.Core</li>
-		<li>vanillaracesexpanded.highmate</li>
-	</loadAfter>
+	<!-- PublishedFileId: 2908837535 -->
 </ModMetaData>
