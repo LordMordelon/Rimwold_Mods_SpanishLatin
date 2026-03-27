@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Plants -->
+  <NPM_Plants>Plantas</NPM_Plants>
+  <!-- EN: Description -->
+  <NPM_Description>Descripción</NPM_Description>
+  <!-- EN: Plants will likely not mature before seasons end -->
+  <NPM_PlantsNotMature>Es probable que las plantas no maduren antes de que termine la temporada</NPM_PlantsNotMature>
+  <!-- EN: Requires {0} skill in Growing to sow -->
+  <NPM_SkillNotSatisfied>Requiere nivel {0} de Cultivo para sembrar</NPM_SkillNotSatisfied>
+  <!-- EN: Expected harvest date -->
+  <NPM_ExpectedDateHarvest>Fecha estimada de cosecha</NPM_ExpectedDateHarvest>
+  <!-- EN: {0}\n{1} days -->
+  <NPM_FormatDays>{0}\n{1} días</NPM_FormatDays>
+  <!-- EN: Growth temperature -->
+  <NPM_GrowthTemperature>Temperatura de crecimiento</NPM_GrowthTemperature>
+  <!-- EN: Food for -->
+  <NPM_FoodFor>Alimento para</NPM_FoodFor>
+  <!-- EN: humans -->
+  <NPM_Human>humanos</NPM_Human>
+  <!-- EN: animals -->
+  <NPM_Animal>animales</NPM_Animal>
+  <!-- EN: Insufficient soil fertility ({0}) -->
+  <NPM_RequiresFertility>Fertilidad del suelo insuficiente ({0})</NPM_RequiresFertility>
+  <!-- EN: Can grow -->
+  <NPM_CanGrowIn>Puede crecer en</NPM_CanGrowIn>
+  <!-- EN: indoors -->
+  <NPM_Indoors>interiores</NPM_Indoors>
+  <!-- EN: caves -->
+  <NPM_Caves>cuevas</NPM_Caves>
+  <!-- EN: Amount -->
+  <NPM_Amount>Cantidad</NPM_Amount>
+  <!-- EN: {0} cells -->
+  <NPM_Cells>{0} celdas</NPM_Cells>
+  <!-- EN: Enough to feed -->
+  <NPM_EnoughToFeed>Suficiente para alimentar a</NPM_EnoughToFeed>
+  <!-- EN: {0} colonists -->
+  <NPM_HumanCount>{0} colonos</NPM_HumanCount>
+  <!-- EN: Colony pets -->
+  <NPM_AllColonyPets>Todas las mascotas de la colonia</NPM_AllColonyPets>
+  <!-- EN: Animals in pen -->
+  <NPM_AnimalsInPen>Animales en el corral</NPM_AnimalsInPen>
+  <!-- EN: Need more ({0}) cells -->
+  <NPM_MoreCells>Se necesitan {0} celdas más</NPM_MoreCells>
+  <!-- EN: Dies in light -->
+  <NPM_DiesInLight>Muere con la luz</NPM_DiesInLight>
+  <!-- EN: Related recipes -->
+  <NPM_RelatedRecipes>Recetas relacionadas</NPM_RelatedRecipes>
+  <!-- EN: Product -->
+  <NPM_Product>Producto</NPM_Product>
+  <!-- EN: {0}/year -->
+  <NPM_PerYear>{0}/año</NPM_PerYear>
+  <!-- EN: Pollution -->
+  <NPM_Pollution>Contaminación</NPM_Pollution>
+  <!-- EN: Required -->
+  <NPM_Required>Requerido</NPM_Required>
+  <!-- EN: May grow -->
+  <NPM_May>Puede crecer</NPM_May>
+  <!-- EN: There are no suitable cells for this plant -->
+  <NPM_NoCells>No hay celdas adecuadas para esta planta</NPM_NoCells>
+  <!-- EN: Not all cells are protected from sunlight -->
+  <NPM_ShouldBeRoofed>No todas las celdas están protegidas de la luz solar</NPM_ShouldBeRoofed>
+  <!-- EN: Market value -->
+  <NPM_MarketValueShort>Valor de mercado</NPM_MarketValueShort>
+  <!-- EN: Optimal -->
+  <NPM_OptimalTemperature>Óptima</NPM_OptimalTemperature>
+  <!-- EN: Total nutrition -->
+  <NPM_TotalNutrition>Nutrición total</NPM_TotalNutrition>
+
+  <!-- EN: If all harvest is processed, this field will feed -->
+  <NPM_FeedHumanTip>Si se procesa toda la cosecha, este campo alimentará a</NPM_FeedHumanTip>
+  <!-- EN: Calculated for animals: -->
+  <NPM_CalculatedForAnimals>Calculado para animales:</NPM_CalculatedForAnimals>
+  <!-- EN: Expected {0} days to grow\n\nAverage soil {1}\nDaylight {2} -->
+  <NPM_DateCalcTip>Se esperan {0} días para crecer\n\nPromedio de suelo {1}\nLuz diurna {2}</NPM_DateCalcTip>
+  <!-- EN: sun -->
+  <NPM_DateCalcTip_Sun>sol</NPM_DateCalcTip_Sun>
+  <!-- EN: lamp -->
+  <NPM_DateCalcTip_Lamp>lámpara</NPM_DateCalcTip_Lamp>
+  <!-- EN: darkness -->
+  <NPM_DateCalcTip_Darkness>oscuridad</NPM_DateCalcTip_Darkness>
+
+  <!-- EN: Food -->
+  <NPM_Filter_Category_Food>Comida</NPM_Filter_Category_Food>
+  <!-- EN: Animals -->
+  <NPM_Filter_Category_Animals>Animales</NPM_Filter_Category_Animals>
+  <!-- EN: Medicine -->
+  <NPM_Filter_Category_Medicine>Medicina</NPM_Filter_Category_Medicine>
+  <!-- EN: Drugs -->
+  <NPM_Filter_Category_Drug>Drogas</NPM_Filter_Category_Drug>
+  <!-- EN: Other -->
+  <NPM_Filter_Category_Misc>Otros</NPM_Filter_Category_Misc>
+  <!-- EN: Trees -->
+  <NPM_Filter_Category_Tree>Árboles</NPM_Filter_Category_Tree>
+  <!-- EN: Pollution -->
+  <NPM_Filter_Category_Pollution>Contaminación</NPM_Filter_Category_Pollution>
+  <!-- EN: Caves -->
+  <NPM_Filter_Category_Cave>Cuevas</NPM_Filter_Category_Cave>
+  <!-- EN: Indoors -->
+  <NPM_Filter_Category_Houseplant>Interiores</NPM_Filter_Category_Houseplant>
+  <!-- EN: From mods -->
+  <NPM_Filter_Mod_Any>De mods</NPM_Filter_Mod_Any>
+
+  <!-- EN: Count plants in row -->
+  <NPM_Settings_CountInRow>Contar plantas por fila</NPM_Settings_CountInRow>
+  <!-- EN: Split plants by categories -->
+  <NPM_Settings_SplitByCategories>Separar plantas por categorías</NPM_Settings_SplitByCategories>
+  <!-- EN: Show category icons -->
+  <NPM_Settings_ShowCategoryIcons>Mostrar íconos de categoría</NPM_Settings_ShowCategoryIcons>
+  <!-- EN: Always show light requirement -->
+  <NPM_Settings_AlwaysShowLightRequirement>Mostrar siempre el requisito de luz</NPM_Settings_AlwaysShowLightRequirement>
+  <!-- EN: Allow resizing window -->
+  <NPM_Settings_AllowResizeWindow>Permitir redimensionar la ventana</NPM_Settings_AllowResizeWindow>
+  <!-- EN: Reopen window for changes -->
+  <NPM_Settings_ReopenWindow>Reabre la ventana para aplicar cambios</NPM_Settings_ReopenWindow>
+</LanguageData>
