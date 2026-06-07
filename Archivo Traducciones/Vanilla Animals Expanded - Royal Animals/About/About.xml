@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>Vanilla Animals Expanded — Royal Animals</name>
+	<author>Oskar Potocki, Sarg Bjornson, Erin</author>
+	<supportedVersions>
+		
+		<li>1.4</li>
+		<li>1.5</li>
+		<li>1.6</li>
+	</supportedVersions>
+	<modIconPath IgnoreIfNoMatchingField="True">UI/VELogo</modIconPath>
+	<modDependencies>
+		<li>
+			<packageId>brrainz.harmony</packageId>
+			<displayName>Harmony</displayName>
+			<steamWorkshopUrl>steam://url/CommunityFilePage/2009463077</steamWorkshopUrl>
+			<downloadUrl>https://github.com/pardeike/HarmonyRimWorld/releases/latest</downloadUrl>
+		</li>
+		<li>
+			<packageId>OskarPotocki.VanillaFactionsExpanded.Core</packageId>
+			<displayName>Vanilla Expanded Framework</displayName>
+			<steamWorkshopUrl>https://steamcommunity.com/workshop/filedetails/?id=2023507013</steamWorkshopUrl>
+			<downloadUrl>https://github.com/Vanilla-Expanded/VanillaExpandedFramework</downloadUrl>
+		</li>
+		<li>
+			<packageId>Ludeon.RimWorld.Royalty</packageId>
+			<displayName>Royalty</displayName>
+		</li>
+	</modDependencies>
+	<loadAfter>
+		<li>OskarPotocki.VanillaFactionsExpanded.Core</li>
+		
+	</loadAfter>
+	<packageId>VanillaExpanded.VAERoy</packageId>
+	<description>Royal animals is something we have promised a long time ago, and never quite found the time to deliver. From the very initial notions, what we wanted to do is to introduce some special animals with unique gimmicks that could go alongside the pampered nobles in the Royalty DLC.
+
+This is a great opportunity for us to create something super unique and not entirely realistic - whilst also making the Royalty DLC more attractive by utilising mechanics and code added in it. I hope this selection of animals will make you want to collect them all, as each of them comes with a unique function that’s bound to come in handy.
+	</description>
+</ModMetaData>
