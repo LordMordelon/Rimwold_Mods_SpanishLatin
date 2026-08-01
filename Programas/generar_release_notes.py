@@ -128,6 +128,9 @@ def main():
         elif status.startswith("M") or status.startswith("R") or status.startswith("C"):
             modified.add(mod_name)
 
+    # Si un mod aparece en correcciones (deleted), no mostrarlo también en actualizaciones
+    modified -= deleted
+
     sections = []
 
     def add_section(title_singular, title_plural, names):
