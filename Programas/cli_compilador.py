@@ -222,6 +222,41 @@ def obtener_package_id(ruta_mod: str):
     return None
 
 
+def obtener_published_file_id(ruta_mod: str):
+    """Obtiene el PublishedFileId (Steam Workshop ID) del mod.
+    Busca primero en el nombre del archivo About_<id>.xml,
+    luego en el comentario <!-- PublishedFileId: <id> --> dentro del XML.
+    Retorna el ID como string o None si no se encuentra.
+    """
+    about_dir = os.path.join(ruta_mod, "About")
+    if not os.path.isdir(about_dir):
+        return None
+
+    # 1. Buscar por nombre de archivo: About_<digitos>.xml
+    for f in os.listdir(about_dir):
+        m = re.match(r"About_(\d+)\.xml", f, re.IGNORECASE)
+        if m:
+            return m.group(1)
+
+    # 2. Fallback: buscar comentario PublishedFileId dentro del XML
+    candidatos = [
+        f for f in os.listdir(about_dir)
+        if f.lower().startswith("about") and f.lower().endswith(".xml")
+    ]
+    for nombre in candidatos:
+        ruta = os.path.join(about_dir, nombre)
+        try:
+            with open(ruta, "r", encoding="utf-8-sig", errors="replace") as fh:
+                contenido = fh.read()
+            m = re.search(r"PublishedFileId:\s*(\d+)", contenido)
+            if m:
+                return m.group(1)
+        except Exception:
+            continue
+
+    return None
+
+
 def copiar_traducciones(origen, destino_root, nombre_subcarpeta, limpiar_destino, eliminar_comentarios):
     destino_languages = os.path.join(destino_root, "Languages")
     os.makedirs(destino_languages, exist_ok=True)
@@ -247,6 +282,10 @@ def copiar_traducciones(origen, destino_root, nombre_subcarpeta, limpiar_destino
         ruta_mod = os.path.join(origen, mod)
         ruta_idioma = os.path.join(ruta_mod, nombre_subcarpeta)
 
+        # Usar PublishedFileId (Steam ID) como prefijo; fallback al nombre de carpeta
+        published_id = obtener_published_file_id(ruta_mod)
+        prefijo_mod = published_id if published_id else mod
+
         archivos_del_mod = []
         for carpeta_raiz, _, archivos in os.walk(ruta_idioma):
             for archivo in archivos:
@@ -259,7 +298,7 @@ def copiar_traducciones(origen, destino_root, nombre_subcarpeta, limpiar_destino
             ruta_destino_base = os.path.join(destino_languages, nombre_destino)
             ruta_destino_carpeta = os.path.join(ruta_destino_base, ruta_relativa)
             os.makedirs(ruta_destino_carpeta, exist_ok=True)
-            nuevo_nombre = f"[{mod}]_{os.path.splitext(archivo)[0]}.xml"
+            nuevo_nombre = f"{prefijo_mod}_{os.path.splitext(archivo)[0]}.xml"
             ruta_destino_archivo = os.path.join(ruta_destino_carpeta, nuevo_nombre)
 
             if eliminar_comentarios:

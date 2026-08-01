@@ -94,6 +94,7 @@ class CopiadorThread(QThread):
         limpiar_destino=False,
         eliminar_comentarios=False,
         fusionar_xml_por_carpeta=False,
+        usar_steam_id=True,
         parent=None,
     ):
         super().__init__(parent)
@@ -102,6 +103,7 @@ class CopiadorThread(QThread):
         self.limpiar_destino = limpiar_destino
         self.eliminar_comentarios = eliminar_comentarios
         self.fusionar_xml_por_carpeta = fusionar_xml_por_carpeta
+        self.usar_steam_id = usar_steam_id
         self.nombre_subcarpeta = nombre_subcarpeta
         self.nombre_destino = normalizar_nombre_idioma(nombre_subcarpeta)
         self.origen_vanilla = os.path.join(os.path.dirname(origen), "Archivo Traducciones Vanilla")
@@ -316,6 +318,13 @@ class CopiadorThread(QThread):
             ruta_idioma = os.path.join(ruta_mod, self.nombre_subcarpeta)
             ruta_destino_base = os.path.join(self.destino, "Languages", self.nombre_destino)
 
+            # Elegir prefijo según la opción seleccionada
+            if self.usar_steam_id:
+                published_id = self.obtener_published_file_id(ruta_mod)
+                prefijo_mod = published_id if published_id else mod
+            else:
+                prefijo_mod = mod
+
             if self.fusionar_xml_por_carpeta:
                 self._fusionar_xmls_de_mod(mod, ruta_idioma, ruta_destino_base, prefijar_nombre=True)
                 self.log.emit(f"--- Mod normal procesado '{mod}' (fusionado) ---")
@@ -331,7 +340,7 @@ class CopiadorThread(QThread):
                     ruta_destino_base = os.path.join(self.destino, "Languages", self.nombre_destino)
                     ruta_destino_carpeta = os.path.join(ruta_destino_base, ruta_relativa)
                     os.makedirs(ruta_destino_carpeta, exist_ok=True)
-                    nuevo_nombre = f"[{mod}]_{os.path.splitext(archivo)[0]}.xml"
+                    nuevo_nombre = f"{prefijo_mod}_{os.path.splitext(archivo)[0]}.xml"
                     ruta_destino_archivo = os.path.join(ruta_destino_carpeta, nuevo_nombre)
 
                     self._procesar_xml(ruta_origen, ruta_destino_archivo)
@@ -434,6 +443,40 @@ class CopiadorThread(QThread):
                     return pid.text.strip().lower()
             except Exception:
                 continue
+        return None
+
+    def obtener_published_file_id(self, ruta_mod):
+        """Obtiene el PublishedFileId (Steam Workshop ID) del mod.
+        Busca primero en el nombre del archivo About_<id>.xml,
+        luego en el comentario <!-- PublishedFileId: <id> --> dentro del XML.
+        Retorna el ID como string o None si no se encuentra.
+        """
+        about_dir = os.path.join(ruta_mod, "About")
+        if not os.path.isdir(about_dir):
+            return None
+
+        # 1. Buscar por nombre de archivo: About_<digitos>.xml
+        for f in os.listdir(about_dir):
+            m = re.match(r"About_(\d+)\.xml", f, re.IGNORECASE)
+            if m:
+                return m.group(1)
+
+        # 2. Fallback: buscar comentario PublishedFileId dentro del XML
+        candidatos = [
+            f for f in os.listdir(about_dir)
+            if f.lower().startswith("about") and f.lower().endswith(".xml")
+        ]
+        for nombre in candidatos:
+            ruta = os.path.join(about_dir, nombre)
+            try:
+                with open(ruta, "r", encoding="utf-8-sig", errors="replace") as fh:
+                    contenido = fh.read()
+                m = re.search(r"PublishedFileId:\s*(\d+)", contenido)
+                if m:
+                    return m.group(1)
+            except Exception:
+                continue
+
         return None
 
 class CompresorThread(QThread):
@@ -687,11 +730,19 @@ class VentanaPrincipal(QMainWindow):
             "Si se marca, buscará ../About/about.xml relativo al destino y actualizará\n"
             "la lista <forceLoadAfter> con los IDs de los mods procesados."
         )
+        self.chk_usar_steam_id = QCheckBox("Usar Steam ID como prefijo de archivo (en vez del nombre del mod)")
+        self.chk_usar_steam_id.setToolTip(
+            "Si se marca, los archivos compilados usarán el PublishedFileId de Steam como prefijo.\n"
+            "Ejemplo CON Steam ID:  3033901359_Abilities_Base.xml\n"
+            "Ejemplo SIN Steam ID:  [Adaptive Storage Framework]_Abilities_Base.xml\n"
+            "Si un mod no tiene PublishedFileId, se usará el nombre de carpeta como fallback."
+        )
         opciones_layout.addWidget(self.chk_limpiar_destino)
         opciones_layout.addWidget(self.chk_eliminar_comentarios)
         opciones_layout.addWidget(self.chk_fusionar_xml)
         opciones_layout.addWidget(self.chk_comprimir)
         opciones_layout.addWidget(self.chk_update_about)
+        opciones_layout.addWidget(self.chk_usar_steam_id)
         main_layout.addLayout(opciones_layout)
         h_accion = QHBoxLayout()
         self.lbl_contador_mods = QLabel("Mods procesados: 0")
@@ -732,6 +783,15 @@ class VentanaPrincipal(QMainWindow):
         self.crear_menu()
 
     def post_init_setup(self):
+        # Restaurar estado de los checkboxes desde la configuración guardada
+        opts = self.opciones_default
+        self.chk_limpiar_destino.setChecked(opts.get('limpiar_destino', False))
+        self.chk_eliminar_comentarios.setChecked(opts.get('eliminar_comentarios', False))
+        self.chk_fusionar_xml.setChecked(opts.get('fusionar_xml', False))
+        self.chk_comprimir.setChecked(opts.get('comprimir', False))
+        self.chk_update_about.setChecked(opts.get('update_about', False))
+        self.chk_usar_steam_id.setChecked(opts.get('usar_steam_id', True))
+
         if self.origen and os.path.isdir(self.origen):
             self.detectar_idiomas()
 
@@ -811,6 +871,7 @@ class VentanaPrincipal(QMainWindow):
             self.opciones_default['fusionar_xml'] = self.chk_fusionar_xml.isChecked()
             self.opciones_default['comprimir'] = self.chk_comprimir.isChecked()
             self.opciones_default['update_about'] = self.chk_update_about.isChecked()
+            self.opciones_default['usar_steam_id'] = self.chk_usar_steam_id.isChecked()
 
             self.guardar_configuracion()
             self.logear("Estado de las opciones guardado como predeterminado.")
@@ -984,6 +1045,7 @@ class VentanaPrincipal(QMainWindow):
         limpiar = self.chk_limpiar_destino.isChecked()
         eliminar_comentarios = self.chk_eliminar_comentarios.isChecked()
         fusionar_xml = self.chk_fusionar_xml.isChecked()
+        usar_steam_id = self.chk_usar_steam_id.isChecked()
         
         # Determinar nombre de destino para la advertencia de limpieza (normalizado)
         nombre_destino = normalizar_nombre_idioma(nombre_subcarpeta)
@@ -1020,6 +1082,7 @@ class VentanaPrincipal(QMainWindow):
             limpiar_destino=limpiar,
             eliminar_comentarios=eliminar_comentarios,
             fusionar_xml_por_carpeta=fusionar_xml,
+            usar_steam_id=usar_steam_id,
         )
         self.hilo.progreso.connect(self.progress.setValue)
         self.hilo.log.connect(self.logear)
