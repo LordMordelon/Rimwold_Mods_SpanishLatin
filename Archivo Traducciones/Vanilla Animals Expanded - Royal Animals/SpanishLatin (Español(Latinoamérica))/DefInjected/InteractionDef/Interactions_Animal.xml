@@ -1,0 +1,132 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: tutoring -->
+  <VAERoy_OrangutanInteraction.label>tutoría</VAERoy_OrangutanInteraction.label>
+  <!-- EN:
+    <li>r_logentry->[INITIATOR_nameDef] and [RECIPIENT_nameDef] [talkedabout] [animalthings].</li>
+    <li>r_logentry->[INITIATOR_nameDef] [talkedabout] [animalthings] with [RECIPIENT_nameDef].</li>
+    <li>r_logentry(p=0.8)->[INITIATOR_nameDef] [commentedabout] [animalthings] to [RECIPIENT_nameDef].</li>
+    <li>talkedabout(p=4)->chatted about</li>
+    <li>talkedabout->shared a word about</li>
+    <li>talkedabout->spoke about</li>
+    <li>talkedabout->gabbed about</li>
+    <li>talkedabout->talked about</li>
+    <li>talkedabout->mumbled about</li>
+    <li>talkedabout->quipped about</li>
+    <li>commentedabout->said something about</li>
+    <li>commentedabout->made a comment about</li>
+    <li>commentedabout->commented about</li>
+    <li>commentedabout->mused about</li>
+    <li>animalthings->the comparison of paternalistic societies with other social aspects and matters</li>
+    <li>animalthings->the origin of or linguistic analysis of the term paragliding</li>
+    <li>animalthings->how other cultures or nations view hard work</li>
+    <li>animalthings->the personal and professional analysis and impact of mathematics</li>
+    <li>animalthings->poetry related to prepackaged snacks</li>
+    <li>animalthings->outdated opinions about ethnic violence</li>
+    <li>animalthings->a journalistic WHERE analysis of self-deportation immigration policy: where it happened - places, countries, or regions involved or affected</li>
+    <li>animalthings->countries with highest consumption of cauliflower</li>
+    <li>animalthings->expert opinions about sexual orientation</li>
+    <li>animalthings->what is unique about bread</li>
+    <li>animalthings->the ethics of laser eye surgery</li>
+    <li>animalthings->the religious, theological, spiritual, and moral analysis of decision making</li>
+    <li>animalthings->why phone tapping matters</li>
+    <li>animalthings->an embarrassing experience involving positive attitude</li>
+    <li>animalthings->a comparison of different types of cocktails</li>
+    <li>animalthings->the comparison of wearing your heart on your sleeve with other habits</li>
+    <li>animalthings->the best experts' opinions on inner city poverty in the world</li>
+    <li>animalthings->excerpts from books or articles related to glass etching</li>
+    <li>animalthings->the negative effects of preferential treatment</li>
+  -->
+  <VAERoy_OrangutanInteraction.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef] y [RECIPIENT_nameDef] [talkedabout] [animalthings].</li>
+    <li>r_logentry->[INITIATOR_nameDef] [talkedabout] [animalthings] con [RECIPIENT_nameDef].</li>
+    <li>r_logentry(p=0.8)->[INITIATOR_nameDef] [commentedabout] [animalthings] a [RECIPIENT_nameDef].</li>
+    <li>talkedabout(p=4)->charlaron sobre</li>
+    <li>talkedabout->compartieron unas palabras sobre</li>
+    <li>talkedabout->hablaron sobre</li>
+    <li>talkedabout->parlotearon sobre</li>
+    <li>talkedabout->platicaron sobre</li>
+    <li>talkedabout->balbucearon sobre</li>
+    <li>talkedabout->bromearon sobre</li>
+    <li>commentedabout->dijeron algo sobre</li>
+    <li>commentedabout->hicieron un comentario sobre</li>
+    <li>commentedabout->comentaron sobre</li>
+    <li>commentedabout->reflexionaron sobre</li>
+    <li>animalthings->la comparación de las sociedades paternalistas con otros aspectos y asuntos sociales</li>
+    <li>animalthings->el origen o el análisis lingüístico del término parapente</li>
+    <li>animalthings->cómo otras culturas o naciones ven el trabajo duro</li>
+    <li>animalthings->el análisis y el impacto personal y profesional de las matemáticas</li>
+    <li>animalthings->poesía relacionada con snacks empaquetados</li>
+    <li>animalthings->opiniones obsoletas sobre la violencia étnica</li>
+    <li>animalthings->un análisis periodístico sobre la política de inmigración de autodeportación: dónde ocurrió, países o regiones afectados</li>
+    <li>animalthings->los países con el mayor consumo de coliflor</li>
+    <li>animalthings->opiniones expertas sobre la orientación sexual</li>
+    <li>animalthings->lo que hace que el pan sea único</li>
+    <li>animalthings->la ética de la cirugía ocular con láser</li>
+    <li>animalthings->el análisis religioso, teológico, espiritual y moral de la toma de decisiones</li>
+    <li>animalthings->por qué las intervenciones telefónicas son importantes</li>
+    <li>animalthings->una experiencia vergonzosa que involucra una actitud positiva</li>
+    <li>animalthings->una comparación de diferentes tipos de cócteles</li>
+    <li>animalthings->la comparación de ser una persona abierta y sincera con otros hábitos</li>
+    <li>animalthings->las opiniones de los mejores expertos sobre la pobreza en los centros urbanos del mundo</li>
+    <li>animalthings->fragmentos de libros o artículos relacionados con el grabado en vidrio</li>
+    <li>animalthings->los efectos negativos del trato preferencial</li>
+  </VAERoy_OrangutanInteraction.logRulesInitiator.rulesStrings>
+  
+  <!-- EN: psychic nuzzle -->
+  <VAERoy_PeacockInteraction.label>mimo psíquico</VAERoy_PeacockInteraction.label>
+  <!-- EN:
+    <li>r_logentry(p=2)->[INITIATOR_nameDef] [nuzzleadverb] [nuzzled] [RECIPIENT_nameDef].</li>
+    <li>r_logentry->[INITIATOR_nameDef] [nuzzleadverb] rubbed [INITIATOR_possessive] nose against [RECIPIENT_nameDef]'s [rubbedpart].</li>
+    <li>nuzzled(p=2)->psychically nuzzled</li>
+    <li>nuzzled->psychically snuggled up to</li>
+    <li>nuzzleadverb(p=4)-></li>
+    <li>nuzzleadverb->gently</li>
+    <li>nuzzleadverb->encouragingly</li>
+    <li>nuzzleadverb->happily</li>
+    <li>nuzzleadverb->softly</li>
+    <li>nuzzleadverb->supportively</li>
+    <li>nuzzleadverb->lightly</li>
+    <li>nuzzleadverb->warmly</li>
+    <li>nuzzleadverb->plaintively</li>
+    <li>nuzzleadverb->lovingly</li>
+    <li>nuzzleadverb->affectionately</li>
+    <li>rubbedpart->leg</li>
+    <li>rubbedpart->knee</li>
+    <li>rubbedpart->foot</li>
+    <li>rubbedpart->elbow</li>
+    <li>rubbedpart->hip</li>
+    <li>rubbedpart->shoulder</li>
+    <li>rubbedpart->hand</li>
+    <li>rubbedpart->side</li>
+    <li>rubbedpart->arm</li>
+  -->
+  <VAERoy_PeacockInteraction.logRulesInitiator.rulesStrings>
+    <li>r_logentry(p=2)->[INITIATOR_nameDef] [nuzzleadverb] [nuzzled] a [RECIPIENT_nameDef].</li>
+    <li>r_logentry->[INITIATOR_nameDef] [nuzzleadverb] frotó su nariz contra el [rubbedpart] de [RECIPIENT_nameDef].</li>
+    <li>nuzzled(p=2)->le hizo un mimo psíquico</li>
+    <li>nuzzled->se acurrucó psíquicamente con</li>
+    <li>nuzzleadverb(p=4)-></li>
+    <li>nuzzleadverb->suavemente</li>
+    <li>nuzzleadverb->alentadoramente</li>
+    <li>nuzzleadverb->alegremente</li>
+    <li>nuzzleadverb->tenuemente</li>
+    <li>nuzzleadverb->solidariamente</li>
+    <li>nuzzleadverb->ligeramente</li>
+    <li>nuzzleadverb->cálidamente</li>
+    <li>nuzzleadverb->quejumbrosamente</li>
+    <li>nuzzleadverb->amorosamente</li>
+    <li>nuzzleadverb->afectuosamente</li>
+    <li>rubbedpart->pierna</li>
+    <li>rubbedpart->rodilla</li>
+    <li>rubbedpart->pie</li>
+    <li>rubbedpart->codo</li>
+    <li>rubbedpart->cadera</li>
+    <li>rubbedpart->hombro</li>
+    <li>rubbedpart->mano</li>
+    <li>rubbedpart->costado</li>
+    <li>rubbedpart->brazo</li>
+  </VAERoy_PeacockInteraction.logRulesInitiator.rulesStrings>
+  
+</LanguageData>
