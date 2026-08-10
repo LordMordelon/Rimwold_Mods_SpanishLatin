@@ -1,4 +1,4 @@
-Reporte de Mods Procesados - 2026-08-01 06:49:53
+Reporte de Mods Procesados - 2026-08-10 07:30:01
 ==================================================
 
 Total de mods encontrados: 224
@@ -236,7 +236,7 @@ Errores de compilacion:
    Motivo: XML invalido: not well-formed (invalid token): line 6, column 363
    Trace:
 Traceback (most recent call last):
-  File "/home/runner/work/Rimwold_Mods_SpanishLatin/Rimwold_Mods_SpanishLatin/Programas/cli_compilador.py", line 287, in copiar_traducciones
+  File "/home/runner/work/Rimwold_Mods_SpanishLatin/Rimwold_Mods_SpanishLatin/Programas/cli_compilador.py", line 206, in copiar_traducciones
     root = ET.fromstring(content, parser=parser)
            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
   File "/opt/hostedtoolcache/Python/3.11.15/x64/lib/python3.11/xml/etree/ElementTree.py", line 1350, in XML
@@ -247,7 +247,7 @@ xml.etree.ElementTree.ParseError: not well-formed (invalid token): line 6, colum
    Motivo: XML invalido: not well-formed (invalid token): line 17, column 79
    Trace:
 Traceback (most recent call last):
-  File "/home/runner/work/Rimwold_Mods_SpanishLatin/Rimwold_Mods_SpanishLatin/Programas/cli_compilador.py", line 287, in copiar_traducciones
+  File "/home/runner/work/Rimwold_Mods_SpanishLatin/Rimwold_Mods_SpanishLatin/Programas/cli_compilador.py", line 206, in copiar_traducciones
     root = ET.fromstring(content, parser=parser)
            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
   File "/opt/hostedtoolcache/Python/3.11.15/x64/lib/python3.11/xml/etree/ElementTree.py", line 1350, in XML
@@ -258,7 +258,7 @@ xml.etree.ElementTree.ParseError: not well-formed (invalid token): line 17, colu
    Motivo: XML invalido: not well-formed (invalid token): line 6, column 442
    Trace:
 Traceback (most recent call last):
-  File "/home/runner/work/Rimwold_Mods_SpanishLatin/Rimwold_Mods_SpanishLatin/Programas/cli_compilador.py", line 287, in copiar_traducciones
+  File "/home/runner/work/Rimwold_Mods_SpanishLatin/Rimwold_Mods_SpanishLatin/Programas/cli_compilador.py", line 206, in copiar_traducciones
     root = ET.fromstring(content, parser=parser)
            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
   File "/opt/hostedtoolcache/Python/3.11.15/x64/lib/python3.11/xml/etree/ElementTree.py", line 1350, in XML
@@ -269,7 +269,7 @@ xml.etree.ElementTree.ParseError: not well-formed (invalid token): line 6, colum
    Motivo: XML invalido: not well-formed (invalid token): line 6, column 313
    Trace:
 Traceback (most recent call last):
-  File "/home/runner/work/Rimwold_Mods_SpanishLatin/Rimwold_Mods_SpanishLatin/Programas/cli_compilador.py", line 287, in copiar_traducciones
+  File "/home/runner/work/Rimwold_Mods_SpanishLatin/Rimwold_Mods_SpanishLatin/Programas/cli_compilador.py", line 206, in copiar_traducciones
     root = ET.fromstring(content, parser=parser)
            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
   File "/opt/hostedtoolcache/Python/3.11.15/x64/lib/python3.11/xml/etree/ElementTree.py", line 1350, in XML
@@ -280,7 +280,7 @@ xml.etree.ElementTree.ParseError: not well-formed (invalid token): line 6, colum
    Motivo: XML invalido: not well-formed (invalid token): line 6, column 268
    Trace:
 Traceback (most recent call last):
-  File "/home/runner/work/Rimwold_Mods_SpanishLatin/Rimwold_Mods_SpanishLatin/Programas/cli_compilador.py", line 287, in copiar_traducciones
+  File "/home/runner/work/Rimwold_Mods_SpanishLatin/Rimwold_Mods_SpanishLatin/Programas/cli_compilador.py", line 206, in copiar_traducciones
     root = ET.fromstring(content, parser=parser)
            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
   File "/opt/hostedtoolcache/Python/3.11.15/x64/lib/python3.11/xml/etree/ElementTree.py", line 1350, in XML
@@ -291,7 +291,7 @@ xml.etree.ElementTree.ParseError: not well-formed (invalid token): line 6, colum
    Motivo: XML invalido: not well-formed (invalid token): line 6, column 262
    Trace:
 Traceback (most recent call last):
-  File "/home/runner/work/Rimwold_Mods_SpanishLatin/Rimwold_Mods_SpanishLatin/Programas/cli_compilador.py", line 287, in copiar_traducciones
+  File "/home/runner/work/Rimwold_Mods_SpanishLatin/Rimwold_Mods_SpanishLatin/Programas/cli_compilador.py", line 206, in copiar_traducciones
     root = ET.fromstring(content, parser=parser)
            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
   File "/opt/hostedtoolcache/Python/3.11.15/x64/lib/python3.11/xml/etree/ElementTree.py", line 1350, in XML
@@ -302,7 +302,7 @@ xml.etree.ElementTree.ParseError: not well-formed (invalid token): line 6, colum
    Motivo: XML invalido: not well-formed (invalid token): line 6, column 330
    Trace:
 Traceback (most recent call last):
-  File "/home/runner/work/Rimwold_Mods_SpanishLatin/Rimwold_Mods_SpanishLatin/Programas/cli_compilador.py", line 287, in copiar_traducciones
+  File "/home/runner/work/Rimwold_Mods_SpanishLatin/Rimwold_Mods_SpanishLatin/Programas/cli_compilador.py", line 206, in copiar_traducciones
     root = ET.fromstring(content, parser=parser)
            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
   File "/opt/hostedtoolcache/Python/3.11.15/x64/lib/python3.11/xml/etree/ElementTree.py", line 1350, in XML
