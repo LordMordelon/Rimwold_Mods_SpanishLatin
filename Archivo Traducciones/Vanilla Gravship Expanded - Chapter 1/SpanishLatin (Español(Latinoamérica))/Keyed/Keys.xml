@@ -191,10 +191,14 @@ Please note that keeping several maps open may affect your performance. -->
 
     <!-- Mod options -->
 
-    <!-- EN: Orbital objects multiplier -->
+     <!-- EN: Orbital objects multiplier -->
   <VGE_OrbitObjectsMultiplier>Multiplicador de objetos orbitales</VGE_OrbitObjectsMultiplier>
     <!-- EN: By default the game will try to keep 3,8,12 or 20 locations in orbit (depending on globe coverage of the planet). With this slider you can apply a multiplier to this number, making your planet orbits super sparse or very cluttered! -->
   <VGE_OrbitObjectsMultiplierDesc>Por defecto, el juego intentará mantener 3, 8, 12 o 20 ubicaciones en órbita (dependiendo de la cobertura global del planeta). ¡Con este deslizador puedes aplicar un multiplicador a este número, haciendo que las órbitas de tu planeta estén súper dispersas o muy saturadas!</VGE_OrbitObjectsMultiplierDesc>
+	<!-- EN: Maintenance loss multiplier (higher is faster maintennace loss) -->
+  <VGE_MaintenanceMultiplier>TODO</VGE_MaintenanceMultiplier>
+	<!-- EN: The amount of maintenance lost both over time and when travelling with the gravship will be multiplied by this number. So 2 means you'll lose maintenance twice as fast. Added due to Sam Streamer being an insufferable crybaby. -->
+  <VGE_MaintenanceMultiplierDesc>TODO</VGE_MaintenanceMultiplierDesc>
     <!-- EN: Reset -->
   <VGE_Reset>Restablecer</VGE_Reset>
     <!-- EN: More -->
@@ -299,6 +303,32 @@ Please note that keeping several maps open may affect your performance. -->
   <VGE_ColorPickerValueTooltip>Elige un color ajustando el brillo del color.\n\nEl brillo se refiere al "valor" del modelo de color HSV: tono, saturación y valor/brillo.</VGE_ColorPickerValueTooltip>
     <!-- EN: Must be placed in range of a grav engine or grav field amplifier. -->
   <VGE_MustBePlacedInRangeOfGravSource>Debe colocarse dentro del alcance de un motor gravitacional o un amplificador de campo gravitacional.</VGE_MustBePlacedInRangeOfGravSource>
+    <!-- Vac barrier roof -->
+    <!-- EN: Build vac barrier roof area -->
+  <VGE_DesignatorAreaBuildVacBarrierRoofExpand>TODO</VGE_DesignatorAreaBuildVacBarrierRoofExpand>
+    <!-- EN: Colonists will build vac barrier roofs in this area. -->
+  <VGE_DesignatorAreaBuildVacBarrierRoofExpandDesc>TODO</VGE_DesignatorAreaBuildVacBarrierRoofExpandDesc>
+    <!-- EN: Remove vac barrier roof area -->
+  <VGE_DesignatorAreaNoVacBarrierRoofExpand>TODO</VGE_DesignatorAreaNoVacBarrierRoofExpand>
+    <!-- EN: Colonists will remove vac barrier roofs in this area. -->
+  <VGE_DesignatorAreaNoVacBarrierRoofExpandDesc>TODO</VGE_DesignatorAreaNoVacBarrierRoofExpandDesc>
+    <!-- Vac barrier roof recoloring designator -->
+    <!-- EN: Recolor vac barrier roofs... -->
+  <VGE_DesignatorRecolorVacBarrierRoof>TODO</VGE_DesignatorRecolorVacBarrierRoof>
+    <!-- EN: Immediately recolor any vac barrier roofs. -->
+  <VGE_DesignatorRecolorVacBarrierRoofDesc>TODO</VGE_DesignatorRecolorVacBarrierRoofDesc>
+    <!-- EN: Select any color using a color picker menu. -->
+  <VGE_ColorPickerMenu>TODO</VGE_ColorPickerMenu>
+    <!-- EN: Grab a color from an existing vac barrier roof, building, or a floor. -->
+  <VGE_DesignatorEyeDropperDesc_Universal>TODO</VGE_DesignatorEyeDropperDesc_Universal>
+    <!-- EN: Grab vac barrier roof color -->
+  <VGE_GrabVacBarrierRoofColor>TODO</VGE_GrabVacBarrierRoofColor>
+    <!-- EN: Grab {BUILDING_labelNoParenthesis} color: {COLOR} -->
+  <VGE_GrabBuildingColor>TODO</VGE_GrabBuildingColor>
+    <!-- EN: Grab floor color: {COLOR} -->
+  <VGE_GrabFloorColor>TODO</VGE_GrabFloorColor>
+    <!-- EN: Select specific color from tile -->
+  <VGE_SelectColorFromTile>TODO</VGE_SelectColorFromTile>
 
     <!-- Grav engine inspection replacement text (overwrites Odyssey's) -->
 
@@ -345,4 +375,21 @@ Please note that keeping several maps open may affect your performance. -->
     <!-- EN: gravhulk -->
   <VGE_Gravhulk>gravicoloso</VGE_Gravhulk>
 
+    <!-- Scanner cluster -->
+    <!-- EN: Nothing -->
+  <VGE_ScannerCluster_TunedToNothing>TODO</VGE_ScannerCluster_TunedToNothing>
+    <!-- EN: Random deep resource -->
+  <VGE_ScannerCluster_RandomResource>TODO</VGE_ScannerCluster_RandomResource>
+    <!-- EN: Passive orbital scanning -->
+  <VGE_ScannerCluster_TunedToOrbitalScanning>TODO</VGE_ScannerCluster_TunedToOrbitalScanning>
+    <!-- EN: Deep {RESOURCE} -->
+  <VGE_ScannerCluster_UndergroundResource>TODO</VGE_ScannerCluster_UndergroundResource>
+    <!-- EN: Long-range {RESOURCE} -->
+  <VGE_ScannerCluster_LongRangeResource>TODO</VGE_ScannerCluster_LongRangeResource>
+    <!-- EN: Missing {RESEARCH_label} research -->
+  <VGE_ScannerCluster_MissingResearchPrerequisite>TODO</VGE_ScannerCluster_MissingResearchPrerequisite>
+    <!-- EN: Protecting from space solar flare -->
+  <VGE_ProtectingFromSpaceSolarFlare>TODO</VGE_ProtectingFromSpaceSolarFlare>
+    <!-- EN: gravcore tax -->
+  <VGE_GravcoreTax>TODO</VGE_GravcoreTax>
 </LanguageData>

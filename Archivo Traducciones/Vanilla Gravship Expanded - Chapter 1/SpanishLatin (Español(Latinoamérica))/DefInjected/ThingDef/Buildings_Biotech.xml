@@ -1,7 +1,22 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
-  <!-- EN: operator sub-IA core -->
+  <!-- EN: compact gene bank -->
+  <VGE_CompactGeneBank.label>TODO</VGE_CompactGeneBank.label>
+  <!-- EN: A miniaturized version of the gene bank, designed to fit within the confined spaces of a gravship. It stores genepacks and makes them usable for creating new xenogerms when placed near a gene assembler. It draws power directly from the grav engine and prevents genepacks from deteriorating while slowly repairing deterioration. -->
+  <VGE_CompactGeneBank.description>TODO</VGE_CompactGeneBank.description>
+  
+  <!-- EN: compact mech recharger -->
+  <VGE_GravshipBasicRecharger.label>TODO</VGE_GravshipBasicRecharger.label>
+  <!-- EN: A miniaturized version of the mech recharger, designed to fit within the confined spaces of a gravship. Lightweight mechanoids can recharge here. During recharge, this recharger produces toxic wastepacks and stores them internally. Haulers must remove the wastepacks from time to time. It draws most of the power directly from the grav engine. -->
+  <VGE_GravshipBasicRecharger.description>TODO</VGE_GravshipBasicRecharger.description>
+  
+  <!-- EN: compact large mech recharger -->
+  <VGE_GravshipStandardRecharger.label>TODO</VGE_GravshipStandardRecharger.label>
+  <!-- EN: A miniaturized version of the large mech recharger, designed to fit within the confined spaces of a gravship. Medium, heavy, and ultraheavy mechanoids can recharge here. During recharge, this recharger produces toxic wastepacks and stores them internally. Haulers must remove the wastepacks from time to time. It draws most of the power directly from the grav engine. -->
+  <VGE_GravshipStandardRecharger.description>TODO</VGE_GravshipStandardRecharger.description>
+  
+  <!-- EN: operator subpersona core -->
   <VGE_OperatorSubpersonaCore.label>núcleo sub-IA de operador</VGE_OperatorSubpersonaCore.label>
   <!-- EN: A high-grade subcore specialized in gravship combat. It can link with a single gravship artillery piece and control it the same way a crewmember manning a targeting terminal can. It’s combat capabilities are subpar, but it allows for autonomous artillery batteries without the need for human operators. -->
   <VGE_OperatorSubpersonaCore.description>Un subnúcleo avanzado especializado en el combate de gravinaves. Puede vincularse con una sola pieza de artillería de gravinave y controlarla de la misma manera que un miembro de la tripulación que opera una terminal de puntería. Sus capacidades de combate son mediocres, pero permite baterías de artillería autónomas sin necesidad de operadores humanos.</VGE_OperatorSubpersonaCore.description>
