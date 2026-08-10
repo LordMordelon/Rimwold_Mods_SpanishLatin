@@ -1,6 +1,9 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
+  <!-- EN: shoulder turret laser -->
+  <LTS_Bullet_ShoulderBeamTurret.label>TODO</LTS_Bullet_ShoulderBeamTurret.label>
+  
   <!-- EN: shoulder turret charge shot -->
   <LTS_Bullet_ShoulderChargeTurret.label>disparo de carga de torreta de hombro</LTS_Bullet_ShoulderChargeTurret.label>
   
@@ -13,6 +16,11 @@
   <!-- EN: rocket -->
   <LTS_Projectile_ShoulderRocket.label>cohete</LTS_Projectile_ShoulderRocket.label>
   
+  <!-- EN: shoulder beam turret -->
+  <LTS_ShoulderBeamTurret.label>TODO</LTS_ShoulderBeamTurret.label>
+  <!-- EN: A miniature, retractable beam turret implanted on the shoulder. It's AI allows it to autonomously fire, even on the move, though it's size limits it's effectiveness. -->
+  <LTS_ShoulderBeamTurret.description>TODO</LTS_ShoulderBeamTurret.description>
+  
   <!-- EN: shoulder charge turret -->
   <LTS_ShoulderChargeTurret.label>torreta de cargas de hombro</LTS_ShoulderChargeTurret.label>
   <!-- EN: A miniature, retractable charge turret implanted on the shoulder. It's AI allows it to autonomously fire, even on the move, though it's size limits it's effectiveness. -->
@@ -20,13 +28,13 @@
   
   <!-- EN: shoulder mortar -->
   <LTS_ShoulderMortar.label>mortero de hombro</LTS_ShoulderMortar.label>
-  <!-- EN: A miniature mortar implanted on the shoulder. It can only hold a limited amount of ammo and must be reloaded after use. -->
-  <LTS_ShoulderMortar.description>Un mortero miniatura implantado en el hombro. Solo puede contener una cantidad limitada de munición y debe recargarse después de su uso.</LTS_ShoulderMortar.description>
+  <!-- EN: A miniature mortar implanted on the shoulder. It can only hold a limited amount of ammo and must be reloaded with 30 steel after use. -->
+  <LTS_ShoulderMortar.description>Un mortero miniatura implantado en el hombro. Solo puede contener una cantidad limitada de munición y debe recargarse con 30 de acero después de su uso.</LTS_ShoulderMortar.description>
   
   <!-- EN: shoulder rocket pod -->
   <LTS_ShoulderRocketPod.label>lanzacohetes de hombro</LTS_ShoulderRocketPod.label>
-  <!-- EN: A miniature rocket pod implanted on the shoulder. It can only hold a limited amount of ammo and must be reloaded after use. -->
-  <LTS_ShoulderRocketPod.description>Un contenedor de cohetes miniatura implantado en el hombro. Solo puede contener una cantidad limitada de munición y debe recargarse después de su uso.</LTS_ShoulderRocketPod.description>
+  <!-- EN: A miniature rocket pod implanted on the shoulder. It can only hold a limited amount of ammo and must be reloaded with 25 chemfuel per rocket after use. -->
+  <LTS_ShoulderRocketPod.description>Un contenedor de cohetes miniatura implantado en el hombro. Solo puede contener una cantidad limitada de munición y debe recargarse con 25 de quimbustible por cohete después de su uso.</LTS_ShoulderRocketPod.description>
   
   <!-- EN: shoulder turret -->
   <LTS_ShoulderTurret.label>torreta de hombro</LTS_ShoulderTurret.label>

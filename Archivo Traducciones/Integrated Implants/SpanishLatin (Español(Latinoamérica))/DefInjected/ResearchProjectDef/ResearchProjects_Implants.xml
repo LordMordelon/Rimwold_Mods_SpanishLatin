@@ -244,12 +244,12 @@
   <!-- EN:
     <li>subject->telecommunication implants</li>
     <li>subject_story->aspired to become a global technocrat, despite their techical illiteracy</li>
-    <li>subject_gerund->crafting implants</li>
+    <li>subject_gerund->crafting implants for communication</li>
   -->
   <I_TelecommunicationImplants.generalRules.rulesStrings>
     <li>subject->implantes de telecomunicaciones</li>
     <li>subject_story->aspiraba a convertirse en un tecnócrata global, a pesar de su analfabetismo técnico</li>
-    <li>subject_gerund->fabricando implantes</li>
+    <li>subject_gerund->fabricando implantes para comunicación</li>
   </I_TelecommunicationImplants.generalRules.rulesStrings>
   
   <!-- EN: bionic faceplates -->
@@ -277,5 +277,18 @@
     <li>subject->implantes de emergencia</li>
     <li>subject_gerund->fabricando implantes para situaciones de emergencia</li>
   </LTS_EmergencyImplants.generalRules.rulesStrings>
+  
+  <!-- EN: field manipulation implants -->
+  <LTS_FieldManipulationImplants.label>TODO</LTS_FieldManipulationImplants.label>
+  <!-- EN: Craft implants able to change a manipulate electromagnetic fields around a person. -->
+  <LTS_FieldManipulationImplants.description>TODO</LTS_FieldManipulationImplants.description>
+  <!-- EN:
+    <li>subject->field manipulation</li>
+    <li>subject_story->had a crippling fear of being shot in the street</li>
+    <li>subject_story->wished that they could just disappear</li>
+    <li>subject_story->was tasked with enhancing the survivability of their nation's troops</li>
+    <li>subject_gerund->crafting implants</li>
+  -->
+  <LTS_FieldManipulationImplants.generalRules.rulesStrings>TODO</LTS_FieldManipulationImplants.generalRules.rulesStrings>
   
 </LanguageData>

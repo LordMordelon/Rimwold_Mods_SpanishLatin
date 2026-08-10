@@ -1,6 +1,26 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
+  <!-- EN: shoulder beam turret -->
+  <LTS_ShoulderBeamTurret.label>TODO</LTS_ShoulderBeamTurret.label>
+  <!-- EN: An installed, shoulder mounted beam turret. -->
+  <LTS_ShoulderBeamTurret.description>TODO</LTS_ShoulderBeamTurret.description>
+  <!-- EN: a shoulder mounted beam turret -->
+  <LTS_ShoulderBeamTurret.labelNoun>TODO</LTS_ShoulderBeamTurret.labelNoun>
+  
+  <!-- EN: extended shoulder beam turret -->
+  <LTS_ShoulderBeamTurretActive.label>TODO</LTS_ShoulderBeamTurretActive.label>
+  <!-- EN: Invisible hediff with shoulderturret. -->
+  <LTS_ShoulderBeamTurretActive.description>TODO</LTS_ShoulderBeamTurretActive.description>
+  <!-- EN: shoulder turret beam gun -->
+  <LTS_ShoulderBeamTurretActive.comps.HediffComp_ExtendedVerbGiver.verbProps.0.label>TODO</LTS_ShoulderBeamTurretActive.comps.HediffComp_ExtendedVerbGiver.verbProps.0.label>
+  <!-- EN: A low power autonomous beam gun made to be mounted on a shoulder. -->
+  <LTS_ShoulderBeamTurretActive.comps.HediffComp_ExtendedVerbGiver.verbProps.0.description>TODO</LTS_ShoulderBeamTurretActive.comps.HediffComp_ExtendedVerbGiver.verbProps.0.description>
+  <!-- EN: shoulder turret beam gun -->
+  <LTS_ShoulderBeamTurretActive.comps.HediffComp_ExtendedVerbGiver.verbProps.0.visualLabel>TODO</LTS_ShoulderBeamTurretActive.comps.HediffComp_ExtendedVerbGiver.verbProps.0.visualLabel>
+  <!-- EN: shoulder turret beam gun -->
+  <LTS_ShoulderBeamTurretActive.comps.HediffComp_ExtendedVerbGiver.verbs.shoulder_turret_beam_gun.label>TODO</LTS_ShoulderBeamTurretActive.comps.HediffComp_ExtendedVerbGiver.verbs.shoulder_turret_beam_gun.label>
+  
   <!-- EN: shoulder charge turret -->
   <LTS_ShoulderChargeTurret.label>torreta de cargas de hombro</LTS_ShoulderChargeTurret.label>
   <!-- EN: An installed, shoulder mounted charge turret. -->
@@ -8,7 +28,7 @@
   <!-- EN: a shoulder mounted charge turret -->
   <LTS_ShoulderChargeTurret.labelNoun>una torreta de cargas montada en el hombro</LTS_ShoulderChargeTurret.labelNoun>
   
-  <!-- EN: extended charge shoulder turret -->
+  <!-- EN: extended shoulder charge turret -->
   <LTS_ShoulderChargeTurretActive.label>torreta de cargas de hombro extendida</LTS_ShoulderChargeTurretActive.label>
   <!-- EN: Invisible hediff with shoulderturret. -->
   <LTS_ShoulderChargeTurretActive.description>Hediff invisible con torreta de hombro.</LTS_ShoulderChargeTurretActive.description>

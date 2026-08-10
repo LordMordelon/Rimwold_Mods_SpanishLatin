@@ -1,6 +1,19 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
+  <!-- EN: analgesial lobotomy -->
+  <AnalgesialLobotomy.label>TODO</AnalgesialLobotomy.label>
+  <!-- EN: Perform a surgery that lobotomizes a person, rendering them unable to feel pain -->
+  <AnalgesialLobotomy.description>TODO</AnalgesialLobotomy.description>
+  <!-- EN:
+    <li>subject->lobotomy</li>
+    <li>subject_story->felt unbearable pain from the moment of their birth</li>
+    <li>subject_story->sought to save their community from suffering</li>
+    <li>subject_gerund->performing lobotomies</li>
+    <li>subject_gerund->excising brain tissue</li>
+  -->
+  <AnalgesialLobotomy.generalRules.rulesStrings>TODO</AnalgesialLobotomy.generalRules.rulesStrings>
+  
   <!-- EN: blacksight device -->
   <BlacksightDevice.label>dispositivo de visión oscura</BlacksightDevice.label>
   <!-- EN: Modify noctolith sensors so that they can be implanted in a human, allowing them to partially enter the void. -->
@@ -32,8 +45,7 @@
     <li>subject_story->uncovered what they thought to be the secret to immortality inscribed upon a strange monolith on a deadworld</li>
     <li>subject_story->desired an arky that would continue to fight for them, even after death</li>
     <li>subject_story->discovered a collection of archotech made organs that did not match any known xenotype in a deep urbworld black market</li>
-    <li>subject_gerund->implanting gorehulk archo-DNA</li>
-    <li>subject_gerund->implanting gorehulk archo-DNA into a human</li>
+    <li>subject_gerund->prepairing humans for becoming shamblers</li>
   -->
   <DeadlifeCoil.generalRules.rulesStrings>
     <li>subject->retribución</li>
@@ -41,8 +53,7 @@
     <li>subject_story->descubrió lo que creía que era el secreto de la inmortalidad inscrito en un extraño monolito en un mundo muerto</li>
     <li>subject_story->deseaba un arky que siguiera luchando por ellos, incluso después de la muerte</li>
     <li>subject_story->descubrió una colección de órganos hechos con arqueotecnología que no coincidían con ningún xenotipo conocido en un profundo mercado negro de un mundo urbano</li>
-    <li>subject_gerund->implantando archo-ADN de goretesco</li>
-    <li>subject_gerund->implantando archo-ADN de goretesco en un humano</li>
+    <li>subject_gerund->preparando humanos para convertirse en caminantes</li>
   </DeadlifeCoil.generalRules.rulesStrings>
   
   <!-- EN: retributive impaler -->
@@ -55,8 +66,8 @@
     <li>subject_story->loved their pet hedge-hog, and wondered if humans could reach such levels of perfection</li>
     <li>subject_story->found the residents of their home villiage replaced with strange not-quite-humans</li>
     <li>subject_story->wanted to never be hurt again</li>
-    <li>subject_gerund->implanting gorehulk nervous systems</li>
-    <li>subject_gerund->implanting gorehulk nervous systems into a human</li>
+    <li>subject_gerund->implanting gorehulk spines</li>
+    <li>subject_gerund->implanting gorehulk spines into a human</li>
   -->
   <DefensiveImpaler.generalRules.rulesStrings>
     <li>subject->retribución</li>
@@ -64,8 +75,8 @@
     <li>subject_story->amaba a su erizo mascota y se preguntaba si los humanos podrían alcanzar tales niveles de perfección</li>
     <li>subject_story->encontró a los residentes de su aldea natal reemplazados por extraños casi-humanos</li>
     <li>subject_story->quería no volver a ser herido nunca más</li>
-    <li>subject_gerund->implantando sistemas nerviosos de goretesco</li>
-    <li>subject_gerund->implantando sistemas nerviosos de goretesco en un humano</li>
+    <li>subject_gerund->implantando púas de goretesco</li>
+    <li>subject_gerund->implantando púas de goretesco en un humano</li>
   </DefensiveImpaler.generalRules.rulesStrings>
   
   <!-- EN: dreadheart regeneration -->
@@ -93,8 +104,8 @@
   
   <!-- EN: sangfroidian lobotomy -->
   <DroneLobotomy.label>lobotomía sangfroidiana</DroneLobotomy.label>
-  <!-- EN: Perform a surgery that lobotomizes a person, rendering them unable to feel the full range of human emotion, while crippling their will to learn. -->
-  <DroneLobotomy.description>Realiza una cirugía que lobotomiza a una persona, haciéndola incapaz de sentir la gama completa de emociones humanas y debilitando su voluntad de aprender.</DroneLobotomy.description>
+  <!-- EN: Perform a surgery that lobotomizes a person, rendering them unable to feel the full range of human emotion. -->
+  <DroneLobotomy.description>Realiza una cirugía que lobotomiza a una persona, haciéndola incapaz de sentir la gama completa de emociones humanas.</DroneLobotomy.description>
   <!-- EN:
     <li>subject->lobotomy</li>
     <li>subject_story->made a fortune lobotomizing the work force of an urbworld megacorporation</li>
@@ -225,17 +236,15 @@
   <NullificationLobotomy.description>Realiza una cirugía que lobotomiza a una persona, dejándola insensible a los fenómenos psíquicos.</NullificationLobotomy.description>
   <!-- EN:
     <li>subject->lobotomy</li>
-    <li>subject_story->deformed their body by injecting all manner of strange concoctions and materials while attempting to become their world's top athlete</li>
-    <li>subject_story->witnessed an inhumanly large but deformed soldier heroically carry their injured comrades to safety</li>
-    <li>subject_story->wondered what actually seperated humans and gorehulks</li>
+    <li>subject_story->couldn't take the voices anymore and stabbed their brain until they were silenced</li>
+    <li>subject_story->lost their medical licence after performing illegal brain surgeries</li>
     <li>subject_gerund->performing lobotomies</li>
     <li>subject_gerund->excising brain tissue</li>
   -->
   <NullificationLobotomy.generalRules.rulesStrings>
     <li>subject->lobotomía</li>
-    <li>subject_story->deformó su cuerpo inyectándose todo tipo de extraños brebajes y materiales mientras intentaba convertirse en el mejor atleta de su mundo</li>
-    <li>subject_story->presenció a un soldado inhumanamente grande pero deforme llevando heroicamente a sus camaradas heridos a un lugar seguro</li>
-    <li>subject_story->se preguntó qué separaba realmente a los humanos de los goretescos</li>
+    <li>subject_story->no podía soportar las voces y se apuñaló el cerebro hasta silenciarlas</li>
+    <li>subject_story->perdió su licencia médica después de realizar cirugías cerebrales ilegales</li>
     <li>subject_gerund->realizando lobotomías</li>
     <li>subject_gerund->extirpando tejido cerebral</li>
   </NullificationLobotomy.generalRules.rulesStrings>
@@ -292,7 +301,7 @@
     <li>subject->meditation</li>
     <li>subject_story->discovered the ruins of an ancient cult deep within a jungle world, inhabited only by statues knelt in prayer</li>
     <li>subject_story->descended into madness while researching psychic fields</li>
-    <li>subject_story->was captured by a gruesom blood cult who's members never ate or slept</li>
+    <li>subject_story->was captured by a gruesom blood cult whos members never ate or slept</li>
     <li>subject_gerund->implanting dark archotechnology</li>
     <li>subject_gerund->implanting dark archotechnology into a human</li>
   -->

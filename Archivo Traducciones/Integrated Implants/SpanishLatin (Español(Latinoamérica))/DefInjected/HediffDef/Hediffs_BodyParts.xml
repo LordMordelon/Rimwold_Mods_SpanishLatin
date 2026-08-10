@@ -1,13 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
-  <!-- EN: gourmand tongue -->
-  <GourmandTongue.label>lengua gourmet</GourmandTongue.label>
-  <!-- EN: An installed gourmand tongue. -->
-  <GourmandTongue.description>Una lengua gourmet implantada.</GourmandTongue.description>
-  <!-- EN: a gourmand tongue -->
-  <GourmandTongue.labelNoun>lengua gourmet</GourmandTongue.labelNoun>
-  
   <!-- EN: archotech ear -->
   <LTS_ArchotechEar.label>oído arqueotéc</LTS_ArchotechEar.label>
   <!-- EN: An installed archotech ear. It perceives infrasound and ultrasound frequencies and is sensitive enough to make out a whispered conversation across a construction site. Its internal workings are a mystery to human minds. -->
@@ -17,25 +10,88 @@
   
   <!-- EN: archotech heart -->
   <LTS_ArchotechHeart.label>corazón arqueotéc</LTS_ArchotechHeart.label>
-  <!-- EN: An installed archotech heart. It looks and feels like natural flesh, but can somehow pump far more blood throughout the body without puttin additional strain on the cardiovascular system. Its internal workings are a mystery to human minds. -->
+  <!-- EN: An installed archotech heart. It looks and feels like natural flesh, but can somehow pump far more blood throughout the body without putting additional strain on the cardiovascular system. Its internal workings are a mystery to human minds. -->
   <LTS_ArchotechHeart.description>Un corazón arqueotéc implantado. Se ve y se siente como carne natural, pero puede bombear mucho más sangre por todo el cuerpo sin generar una presión adicional sobre el sistema cardiovascular. Su funcionamiento interno es un misterio para todas las mentes humanas.</LTS_ArchotechHeart.description>
   <!-- EN: an archotech heart -->
   <LTS_ArchotechHeart.labelNoun>corazón arqueotéc</LTS_ArchotechHeart.labelNoun>
   
   <!-- EN: archotech jaw -->
   <LTS_ArchotechJaw.label>mandíbula arqueotéc</LTS_ArchotechJaw.label>
-  <!-- EN: An installed archotech jaw. It looks and feels like natural flesh, but it's harder to damage than plasteel and is strong enough to crush steel. Its internal workings are a mystery to human minds. -->
+  <!-- EN: An installed archotech jaw. It looks and feels like natural flesh, but it's harder to damage than plasteel and is strong enough to bite through power armor. Its internal workings are a mystery to human minds. -->
   <LTS_ArchotechJaw.description>Una mandíbula arqueotéc implantada. Se ve y se siente como carne natural, pero es más difícil de dañar que el plastiacero y es lo suficientemente fuerte como para triturar acero. Su funcionamiento interno es un misterio para todas las mentes humanas.</LTS_ArchotechJaw.description>
   <!-- EN: teeth -->
   <LTS_ArchotechJaw.comps.HediffComp_VerbGiver.tools.teeth.label>dientes</LTS_ArchotechJaw.comps.HediffComp_VerbGiver.tools.teeth.label>
   <!-- EN: an archotech jaw -->
   <LTS_ArchotechJaw.labelNoun>mandíbula arqueotéc</LTS_ArchotechJaw.labelNoun>
   
+  <!-- EN: archotech kidney -->
+  <LTS_ArchotechKidney.label>riñón arqueotéc</LTS_ArchotechKidney.label>
+  <!-- EN: An installed archotech kidney. It looks and feels like natural flesh, but it's harder to damage than plasteel. Even if it is harmed, it repairs itself over time . Its internal workings are a mystery to human minds. -->
+  <LTS_ArchotechKidney.description>TODO</LTS_ArchotechKidney.description>
+  <!-- EN: an archotech kidney -->
+  <LTS_ArchotechKidney.labelNoun>riñón arqueotéc</LTS_ArchotechKidney.labelNoun>
+  
+  <!-- EN: archotech liver -->
+  <LTS_ArchotechLiver.label>hígado arqueotéc</LTS_ArchotechLiver.label>
+  <!-- EN: An installed archotech liver. It looks and feels like natural flesh, but is immune to chemical damage and liver diseases and is capable of efficiently breaking down toxins and contaminants in the users bloodstream. Its internal workings are a mystery to human minds. -->
+  <LTS_ArchotechLiver.description>TODO</LTS_ArchotechLiver.description>
+  <!-- EN: an archotech liver -->
+  <LTS_ArchotechLiver.labelNoun>hígado arqueotéc</LTS_ArchotechLiver.labelNoun>
+  
+  <!-- EN: archotech lung -->
+  <LTS_ArchotechLung.label>pulmón arqueotéc</LTS_ArchotechLung.label>
+  <!-- EN: An installed archotech lung. It looks and feels like natural flesh, but can hold, pump and absorb far more oxygen than a natural lung. Its internal workings are a mystery to human minds. -->
+  <LTS_ArchotechLung.description>TODO</LTS_ArchotechLung.description>
+  <!-- EN: an archotech lung -->
+  <LTS_ArchotechLung.labelNoun>pulmón arqueotéc</LTS_ArchotechLung.labelNoun>
+  
+  <!-- EN: archotech nose -->
+  <LTS_ArchotechNose.label>nariz arqueotéc</LTS_ArchotechNose.label>
+  <!-- EN: An installed archotech nose. It looks and feels like natural flesh, but is sensitive enough to detect traces of chemicals as diffuse as one part per trillion and is harder to damage than plasteel. Even if it is harmed, it repairs itself over time. Its internal workings are a mystery to human minds. -->
+  <LTS_ArchotechNose.description>TODO</LTS_ArchotechNose.description>
+  <!-- EN: an archotech nose -->
+  <LTS_ArchotechNose.labelNoun>nariz arqueotéc</LTS_ArchotechNose.labelNoun>
+  
   <!-- EN: archotech spine -->
   <LTS_ArchotechSpine.label>columna arqueotéc</LTS_ArchotechSpine.label>
-  <!-- EN: An installed archotech spine. It looks and feels like natural bone, but can hold the weight of most cars, and it's harder to damage than plasteel. Its internal workings are a mystery to human minds. -->
+  <!-- EN: An installed archotech spine. It looks and feels like natural bone, but can bear the weight of most cars, and it's harder to damage than plasteel. Its internal workings are a mystery to human minds. -->
   <LTS_ArchotechSpine.description>Una columna arqueotéc implantada. Se ve y se siente como hueso natural, pero puede soportar el peso de la mayoría de los automóviles y es más difícil de dañar que el plastiacero. Su funcionamiento interno es un misterio para todas las mentes humanas.</LTS_ArchotechSpine.description>
   <!-- EN: an archotech spine -->
   <LTS_ArchotechSpine.labelNoun>columna arqueotéc</LTS_ArchotechSpine.labelNoun>
+  
+  <!-- EN: archotech stomach -->
+  <LTS_ArchotechStomach.label>estómago arqueotéc</LTS_ArchotechStomach.label>
+  <!-- EN: An installed archotech stomach. It looks and feels like natural flesh, but is immune to food poisoning and stomach diseases and is capable of efficiently breaking down practically any material. Its internal workings are a mystery to human minds. -->
+  <LTS_ArchotechStomach.description>TODO</LTS_ArchotechStomach.description>
+  <!-- EN: an archotech stomach -->
+  <LTS_ArchotechStomach.labelNoun>estómago arqueotéc</LTS_ArchotechStomach.labelNoun>
+  
+  <!-- EN: bionic kidney -->
+  <LTS_BionicKidney.label>riñón biónico</LTS_BionicKidney.label>
+  <!-- EN: An installed bionic kidney. With its self-cleaning filters, synthetic glands and lattice-dust healing system, it is better than a biological kidney in almost every way. -->
+  <LTS_BionicKidney.description>TODO</LTS_BionicKidney.description>
+  <!-- EN: a bionic kidney -->
+  <LTS_BionicKidney.labelNoun>riñón biónico</LTS_BionicKidney.labelNoun>
+  
+  <!-- EN: bionic liver -->
+  <LTS_BionicLiver.label>hígado biónico</LTS_BionicLiver.label>
+  <!-- EN: An installed bionic liver. With its self-cleaning filters and lattice-dust healing system capable of repairing chemical damage, it is better than a biological liver in almost every way. -->
+  <LTS_BionicLiver.description>TODO</LTS_BionicLiver.description>
+  <!-- EN: a bionic liver -->
+  <LTS_BionicLiver.labelNoun>hígado biónico</LTS_BionicLiver.labelNoun>
+  
+  <!-- EN: bionic lung -->
+  <LTS_BionicLung.label>pulmón biónico</LTS_BionicLung.label>
+  <!-- EN: An installed bionic lung. It has synthetic muscle fibers for a realistic breathing, plus fractal diffusion chambers for higher oxygen absorbtion. It is better than a biological lung in almost every way. -->
+  <LTS_BionicLung.description>TODO</LTS_BionicLung.description>
+  <!-- EN: a bionic lung -->
+  <LTS_BionicLung.labelNoun>pulmón biónico</LTS_BionicLung.labelNoun>
+  
+  <!-- EN: bionic nose -->
+  <LTS_BionicNose.label>nariz biónica</LTS_BionicNose.label>
+  <!-- EN: An installed bionic nose. With its biogel nerve-link, ultradense chemical receptors and lattice-dust healing system, it is better than a biological nose in almost every way. -->
+  <LTS_BionicNose.description>TODO</LTS_BionicNose.description>
+  <!-- EN: a bionic nose -->
+  <LTS_BionicNose.labelNoun>nariz biónica</LTS_BionicNose.labelNoun>
   
 </LanguageData>

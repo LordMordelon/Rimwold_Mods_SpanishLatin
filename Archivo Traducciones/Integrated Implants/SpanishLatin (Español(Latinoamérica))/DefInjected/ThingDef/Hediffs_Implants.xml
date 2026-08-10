@@ -46,6 +46,11 @@
   <!-- EN: A package of hormonal influences that allow the user to cause secretory activation or wean at will, causing lactation begin or end. -->
   <LactoStimulator.description>Un paquete de influencias hormonales que permiten al usuario activar la secreción o destetar a voluntad, iniciando o deteniendo la lactancia.</LactoStimulator.description>
   
+  <!-- EN: archotech memorizer -->
+  <LTS_ArchotechBlackbox.label>TODO</LTS_ArchotechBlackbox.label>
+  <!-- EN: This brain implant remotely interfaces with the user's synapses to effectively grant a photographic memory. It is theorised that implants such as these were created to function as black boxes for the human agents of archotechs. Its internal workings are a mystery to all human minds. -->
+  <LTS_ArchotechBlackbox.description>TODO</LTS_ArchotechBlackbox.description>
+  
   <!-- EN: cellular adaptor -->
   <LTS_CellularAdapter.label>adaptador celular</LTS_CellularAdapter.label>
   <!-- EN: A collection of advanced mechanites able to strategically fortify and reinforce the users body in response to the types of damage it commonly sustains. -->
@@ -58,8 +63,8 @@
   
   <!-- EN: fire suppression system -->
   <LTS_FireSupressionSystem.label>sistema espuma cortafuego</LTS_FireSupressionSystem.label>
-  <!-- EN: An implanted fire suppression system, designed to cover the user in firefoam when necessary. The device can be activated while the pawn is down, though it can only hold a limited number of charges and will need refueling with chemfuel between uses. -->
-  <LTS_FireSupressionSystem.description>Un sistema implantado de supresión de incendios, diseñado para cubrir al usuario con espuma ignífuga cuando sea necesario. El dispositivo puede activarse mientras el peón está caído, aunque solo puede contener un número limitado de cargas y necesitará recargarse con quimbustible entre usos.</LTS_FireSupressionSystem.description>
+  <!-- EN: An implanted fire suppression system, designed to cover the user in firefoam when necessary. The device automatically activates if the user catches fire. -->
+  <LTS_FireSupressionSystem.description>Un sistema implantado de supresión de incendios, diseñado para cubrir al usuario con espuma ignífuga cuando sea necesario. El dispositivo se activa automáticamente si el usuario se prende fuego.</LTS_FireSupressionSystem.description>
   
   <!-- EN: memory databank -->
   <LTS_MemoryDatabank.label>neuroarchivo</LTS_MemoryDatabank.label>
@@ -105,5 +110,10 @@
   <Synthwomb.label>útero biónico</Synthwomb.label>
   <!-- EN: An advanced artificial womb. It can monitor and optimise nutrient level and apply growth stimulators to improve gestation speed, it's articulated construction allows for safer labor and it has a mechanite based sperm sorting system to enhance fertility. It is better than a biological womb in almost every way. -->
   <Synthwomb.description>Un avanzado útero artificial. Puede monitorear y optimizar el nivel de nutrientes y aplicar estimuladores de crecimiento para mejorar la velocidad de la gestación, su construcción articulada permite un parto más seguro y cuenta con un sistema de clasificación de esperma basado en mecanitas para mejorar la fertilidad. Es superior a un útero biológico en casi todos los aspectos.</Synthwomb.description>
+  
+  <!-- EN: wired reflexes -->
+  <WiredReflex.label>TODO</WiredReflex.label>
+  <!-- EN: A non-intelligent microcomputer connected to various muscles around the body by an array of synthetic fibre-optic nerves. It allows the body to autonomously dodge danger before the user can even process it. -->
+  <WiredReflex.description>TODO</WiredReflex.description>
   
 </LanguageData>
