@@ -1,11 +1,11 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: gravship scanner cluster -->
-  <VGE_GravshipScannerCluster.label>TODO</VGE_GravshipScannerCluster.label>
+  <VGE_GravshipScannerCluster.label>clúster de escáneres de gravinave</VGE_GravshipScannerCluster.label>
   <!-- EN: An advanced multi-frequency sensor cluster used by researchers to detect resources underground, across the planet, or in orbit. The scanner can be tuned to target specific minerals underground, or over long range, or set to scan for orbital objects. Detection rates depend on the operator's research ability. Buried resources will require deep drills to extract, while distant mineral deposits and orbital objects must be visited to be collected. Building multiple units does not increase the frequency of orbital detections. It draws power directly from the grav engine. -->
-  <VGE_GravshipScannerCluster.description>TODO</VGE_GravshipScannerCluster.description>
+  <VGE_GravshipScannerCluster.description>Un avanzado clúster de sensores multifrecuencia utilizado por investigadores para detectar recursos subterráneos, en todo el planeta o en órbita. El escáner puede ajustarse para apuntar a minerales específicos bajo tierra, a larga distancia, o configurarse para escanear objetos orbitales. Las tasas de detección dependen de la habilidad de investigación del operador. Los recursos enterrados requerirán taladros profundos para extraerlos, mientras que los depósitos minerales distantes y los objetos orbitales deben visitarse para recogerlos. Construir múltiples unidades no aumenta la frecuencia de las detecciones orbitales. Extrae energía directamente del motor gravitacional.</VGE_GravshipScannerCluster.description>
   <!-- EN: Orbital scanner only supports passive scanning -->
-  <VGE_GravshipScannerCluster.comps.CompScannerCluster_OrbitalScannerModule.noActiveScanningMessage>TODO</VGE_GravshipScannerCluster.comps.CompScannerCluster_OrbitalScannerModule.noActiveScanningMessage>
+  <VGE_GravshipScannerCluster.comps.CompScannerCluster_OrbitalScannerModule.noActiveScanningMessage>El escáner orbital solo admite escaneo pasivo</VGE_GravshipScannerCluster.comps.CompScannerCluster_OrbitalScannerModule.noActiveScanningMessage>
   
 </LanguageData>

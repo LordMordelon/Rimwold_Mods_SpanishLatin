@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
     <!-- EN: Targeting terminal can only link with gravship artillery. -->
@@ -196,9 +196,9 @@ Please note that keeping several maps open may affect your performance. -->
     <!-- EN: By default the game will try to keep 3,8,12 or 20 locations in orbit (depending on globe coverage of the planet). With this slider you can apply a multiplier to this number, making your planet orbits super sparse or very cluttered! -->
   <VGE_OrbitObjectsMultiplierDesc>Por defecto, el juego intentará mantener 3, 8, 12 o 20 ubicaciones en órbita (dependiendo de la cobertura global del planeta). ¡Con este deslizador puedes aplicar un multiplicador a este número, haciendo que las órbitas de tu planeta estén súper dispersas o muy saturadas!</VGE_OrbitObjectsMultiplierDesc>
 	<!-- EN: Maintenance loss multiplier (higher is faster maintennace loss) -->
-  <VGE_MaintenanceMultiplier>TODO</VGE_MaintenanceMultiplier>
+  <VGE_MaintenanceMultiplier>Multiplicador de pérdida de mantenimiento (mayor = más rápido)</VGE_MaintenanceMultiplier>
 	<!-- EN: The amount of maintenance lost both over time and when travelling with the gravship will be multiplied by this number. So 2 means you'll lose maintenance twice as fast. Added due to Sam Streamer being an insufferable crybaby. -->
-  <VGE_MaintenanceMultiplierDesc>TODO</VGE_MaintenanceMultiplierDesc>
+  <VGE_MaintenanceMultiplierDesc>La cantidad de mantenimiento perdida con el tiempo y al viajar con la gravinave se multiplicará por este número. Así, 2 significa que perderás mantenimiento el doble de rápido.</VGE_MaintenanceMultiplierDesc>
     <!-- EN: Reset -->
   <VGE_Reset>Restablecer</VGE_Reset>
     <!-- EN: More -->
@@ -305,30 +305,30 @@ Please note that keeping several maps open may affect your performance. -->
   <VGE_MustBePlacedInRangeOfGravSource>Debe colocarse dentro del alcance de un motor gravitacional o un amplificador de campo gravitacional.</VGE_MustBePlacedInRangeOfGravSource>
     <!-- Vac barrier roof -->
     <!-- EN: Build vac barrier roof area -->
-  <VGE_DesignatorAreaBuildVacBarrierRoofExpand>TODO</VGE_DesignatorAreaBuildVacBarrierRoofExpand>
+  <VGE_DesignatorAreaBuildVacBarrierRoofExpand>Construir área de techo barrera de vacío</VGE_DesignatorAreaBuildVacBarrierRoofExpand>
     <!-- EN: Colonists will build vac barrier roofs in this area. -->
-  <VGE_DesignatorAreaBuildVacBarrierRoofExpandDesc>TODO</VGE_DesignatorAreaBuildVacBarrierRoofExpandDesc>
+  <VGE_DesignatorAreaBuildVacBarrierRoofExpandDesc>Los colonos construirán techos barrera de vacío en esta área.</VGE_DesignatorAreaBuildVacBarrierRoofExpandDesc>
     <!-- EN: Remove vac barrier roof area -->
-  <VGE_DesignatorAreaNoVacBarrierRoofExpand>TODO</VGE_DesignatorAreaNoVacBarrierRoofExpand>
+  <VGE_DesignatorAreaNoVacBarrierRoofExpand>Eliminar área de techo barrera de vacío</VGE_DesignatorAreaNoVacBarrierRoofExpand>
     <!-- EN: Colonists will remove vac barrier roofs in this area. -->
-  <VGE_DesignatorAreaNoVacBarrierRoofExpandDesc>TODO</VGE_DesignatorAreaNoVacBarrierRoofExpandDesc>
+  <VGE_DesignatorAreaNoVacBarrierRoofExpandDesc>Los colonos eliminarán los techos barrera de vacío en esta área.</VGE_DesignatorAreaNoVacBarrierRoofExpandDesc>
     <!-- Vac barrier roof recoloring designator -->
     <!-- EN: Recolor vac barrier roofs... -->
-  <VGE_DesignatorRecolorVacBarrierRoof>TODO</VGE_DesignatorRecolorVacBarrierRoof>
+  <VGE_DesignatorRecolorVacBarrierRoof>Recolorear techos barrera de vacío...</VGE_DesignatorRecolorVacBarrierRoof>
     <!-- EN: Immediately recolor any vac barrier roofs. -->
-  <VGE_DesignatorRecolorVacBarrierRoofDesc>TODO</VGE_DesignatorRecolorVacBarrierRoofDesc>
+  <VGE_DesignatorRecolorVacBarrierRoofDesc>Recolorea inmediatamente los techos barrera de vacío.</VGE_DesignatorRecolorVacBarrierRoofDesc>
     <!-- EN: Select any color using a color picker menu. -->
-  <VGE_ColorPickerMenu>TODO</VGE_ColorPickerMenu>
+  <VGE_ColorPickerMenu>Selecciona cualquier color usando el menú de selección de color.</VGE_ColorPickerMenu>
     <!-- EN: Grab a color from an existing vac barrier roof, building, or a floor. -->
-  <VGE_DesignatorEyeDropperDesc_Universal>TODO</VGE_DesignatorEyeDropperDesc_Universal>
+  <VGE_DesignatorEyeDropperDesc_Universal>Toma un color de un techo barrera de vacío, edificio o suelo existente.</VGE_DesignatorEyeDropperDesc_Universal>
     <!-- EN: Grab vac barrier roof color -->
-  <VGE_GrabVacBarrierRoofColor>TODO</VGE_GrabVacBarrierRoofColor>
+  <VGE_GrabVacBarrierRoofColor>Tomar color del techo barrera de vacío</VGE_GrabVacBarrierRoofColor>
     <!-- EN: Grab {BUILDING_labelNoParenthesis} color: {COLOR} -->
-  <VGE_GrabBuildingColor>TODO</VGE_GrabBuildingColor>
+  <VGE_GrabBuildingColor>Tomar color de {BUILDING_labelNoParenthesis}: {COLOR}</VGE_GrabBuildingColor>
     <!-- EN: Grab floor color: {COLOR} -->
-  <VGE_GrabFloorColor>TODO</VGE_GrabFloorColor>
+  <VGE_GrabFloorColor>Tomar color del suelo: {COLOR}</VGE_GrabFloorColor>
     <!-- EN: Select specific color from tile -->
-  <VGE_SelectColorFromTile>TODO</VGE_SelectColorFromTile>
+  <VGE_SelectColorFromTile>Seleccionar color específico de casilla</VGE_SelectColorFromTile>
 
     <!-- Grav engine inspection replacement text (overwrites Odyssey's) -->
 
@@ -377,19 +377,19 @@ Please note that keeping several maps open may affect your performance. -->
 
     <!-- Scanner cluster -->
     <!-- EN: Nothing -->
-  <VGE_ScannerCluster_TunedToNothing>TODO</VGE_ScannerCluster_TunedToNothing>
+  <VGE_ScannerCluster_TunedToNothing>Nada</VGE_ScannerCluster_TunedToNothing>
     <!-- EN: Random deep resource -->
-  <VGE_ScannerCluster_RandomResource>TODO</VGE_ScannerCluster_RandomResource>
+  <VGE_ScannerCluster_RandomResource>Recurso profundo aleatorio</VGE_ScannerCluster_RandomResource>
     <!-- EN: Passive orbital scanning -->
-  <VGE_ScannerCluster_TunedToOrbitalScanning>TODO</VGE_ScannerCluster_TunedToOrbitalScanning>
+  <VGE_ScannerCluster_TunedToOrbitalScanning>Escaneo orbital pasivo</VGE_ScannerCluster_TunedToOrbitalScanning>
     <!-- EN: Deep {RESOURCE} -->
-  <VGE_ScannerCluster_UndergroundResource>TODO</VGE_ScannerCluster_UndergroundResource>
+  <VGE_ScannerCluster_UndergroundResource>{RESOURCE} profundo</VGE_ScannerCluster_UndergroundResource>
     <!-- EN: Long-range {RESOURCE} -->
-  <VGE_ScannerCluster_LongRangeResource>TODO</VGE_ScannerCluster_LongRangeResource>
+  <VGE_ScannerCluster_LongRangeResource>{RESOURCE} de largo alcance</VGE_ScannerCluster_LongRangeResource>
     <!-- EN: Missing {RESEARCH_label} research -->
-  <VGE_ScannerCluster_MissingResearchPrerequisite>TODO</VGE_ScannerCluster_MissingResearchPrerequisite>
+  <VGE_ScannerCluster_MissingResearchPrerequisite>Falta investigación de {RESEARCH_label}</VGE_ScannerCluster_MissingResearchPrerequisite>
     <!-- EN: Protecting from space solar flare -->
-  <VGE_ProtectingFromSpaceSolarFlare>TODO</VGE_ProtectingFromSpaceSolarFlare>
+  <VGE_ProtectingFromSpaceSolarFlare>Protegiendo de la llamarada solar espacial</VGE_ProtectingFromSpaceSolarFlare>
     <!-- EN: gravcore tax -->
-  <VGE_GravcoreTax>TODO</VGE_GravcoreTax>
+  <VGE_GravcoreTax>impuesto del núcleo gravitacional</VGE_GravcoreTax>
 </LanguageData>
