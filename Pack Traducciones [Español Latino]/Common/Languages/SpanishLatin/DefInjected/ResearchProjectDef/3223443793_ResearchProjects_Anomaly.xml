@@ -1,8 +1,14 @@
 <?xml version='1.0' encoding='utf-8'?>
 <LanguageData>
-  <AnalgesialLobotomy.description>TODO</AnalgesialLobotomy.description>
-  <AnalgesialLobotomy.generalRules.rulesStrings>TODO</AnalgesialLobotomy.generalRules.rulesStrings>
-  <AnalgesialLobotomy.label>TODO</AnalgesialLobotomy.label>
+  <AnalgesialLobotomy.description>Realizar una cirugía que lobotomiza a una persona, impidiéndole sentir dolor.</AnalgesialLobotomy.description>
+  <AnalgesialLobotomy.generalRules.rulesStrings>
+    <li>subject-&gt;lobotomia</li>
+    <li>subject_story-&gt;sintió un dolor insoportable desde el momento de su nacimiento</li>
+    <li>subject_story-&gt;buscó salvar a su comunidad del sufrimiento</li>
+    <li>subject_gerund-&gt;realizando lobotomías</li>
+    <li>subject_gerund-&gt;extirpando tejido cerebral</li>
+  </AnalgesialLobotomy.generalRules.rulesStrings>
+  <AnalgesialLobotomy.label>lobotomía analgésica</AnalgesialLobotomy.label>
   <BlacksightDevice.description>Modifica los sensores de noctolito para que puedan implantarse en un humano, permitiéndole entrar parcialmente en el vacío.</BlacksightDevice.description>
   <BlacksightDevice.generalRules.rulesStrings>
     <li>subject-&gt;visión oscura</li>
