@@ -19,6 +19,7 @@
   <VGE_CannotLandIndestructibleObstacles>No se puede aterrizar aquí debido a obstáculos indestructibles presentes. Elige otra ubicación de aterrizaje.</VGE_CannotLandIndestructibleObstacles>
   <VGE_CannotLaunchGravAnomaly>No se puede lanzar la gravinave debido a una anomalía gravitacional</VGE_CannotLaunchGravAnomaly>
   <VGE_CantLaunchAlreadyInOrbit>No se puede usar: ya está en órbita.</VGE_CantLaunchAlreadyInOrbit>
+  <VGE_ColorPickerMenu>Selecciona cualquier color usando el menú de selección de color.</VGE_ColorPickerMenu>
   <VGE_ColorPickerValue>brillo</VGE_ColorPickerValue>
   <VGE_ColorPickerValueTooltip>Elige un color ajustando el brillo del color.\n\nEl brillo se refiere al "valor" del modelo de color HSV: tono, saturación y valor/brillo.</VGE_ColorPickerValueTooltip>
   <VGE_ConfirmCrashLanding>Aterrizar en esta ubicación se considerará un choque. Cualquier estructura resaltada debajo de la gravinave dañará las estructuras de la gravinave en las ubicaciones correspondientes.\n\nLa subestructura también puede resultar dañada y necesitará ser reemplazada antes del próximo lanzamiento.\n\nAlgunos objetos indestructibles debajo pueden destruir completamente la subestructura y cualquier objeto sobre ella.\n\nConsidera elegir una zona de aterrizaje diferente.</VGE_ConfirmCrashLanding>
@@ -27,6 +28,13 @@
   <VGE_ConvertedGravdataToResearch>Se convirtieron {0} gravidatos en puntos de investigación para {1}.</VGE_ConvertedGravdataToResearch>
   <VGE_CooldownRemaining>Enfriamiento restante: {0}</VGE_CooldownRemaining>
   <VGE_CrashLandingWarning>Aterrizar en esta ubicación se considerará un choque y dañará la gravinave.</VGE_CrashLandingWarning>
+  <VGE_DesignatorAreaBuildVacBarrierRoofExpand>Construir área de techo barrera de vacío</VGE_DesignatorAreaBuildVacBarrierRoofExpand>
+  <VGE_DesignatorAreaBuildVacBarrierRoofExpandDesc>Los colonos construirán techos barrera de vacío en esta área.</VGE_DesignatorAreaBuildVacBarrierRoofExpandDesc>
+  <VGE_DesignatorAreaNoVacBarrierRoofExpand>Eliminar área de techo barrera de vacío</VGE_DesignatorAreaNoVacBarrierRoofExpand>
+  <VGE_DesignatorAreaNoVacBarrierRoofExpandDesc>Los colonos eliminarán los techos barrera de vacío en esta área.</VGE_DesignatorAreaNoVacBarrierRoofExpandDesc>
+  <VGE_DesignatorEyeDropperDesc_Universal>Toma un color de un techo barrera de vacío, edificio o suelo existente.</VGE_DesignatorEyeDropperDesc_Universal>
+  <VGE_DesignatorRecolorVacBarrierRoof>Recolorear techos barrera de vacío...</VGE_DesignatorRecolorVacBarrierRoof>
+  <VGE_DesignatorRecolorVacBarrierRoofDesc>Recolorea inmediatamente los techos barrera de vacío.</VGE_DesignatorRecolorVacBarrierRoofDesc>
   <VGE_DesignatorRemoveSubstructure>Eliminar subestructura</VGE_DesignatorRemoveSubstructure>
   <VGE_DesignatorRemoveSubstructureDesc>Elimina la subestructura de la gravinave.</VGE_DesignatorRemoveSubstructureDesc>
   <VGE_DiscardMap>Descartar el mapa</VGE_DiscardMap>
@@ -35,7 +43,11 @@
   <VGE_EquippingOnOtherIneffectiveOxygenPack>{PAWN} está equipando una mochila de oxígeno en {TARGET} sin usar equipo resistente al vacío. {APPAREL_labelNoParenthesis} no funcionará.</VGE_EquippingOnOtherIneffectiveOxygenPack>
   <VGE_EscapePodCrash>Choque de cápsula de escape</VGE_EscapePodCrash>
   <VGE_EscapePodCrashDesc>Una cápsula de escape dañada se ha estrellado en el mapa. Se puede hackear para revelar lo que hay dentro.</VGE_EscapePodCrashDesc>
+  <VGE_GrabBuildingColor>Tomar color de {BUILDING_labelNoParenthesis}: {COLOR}</VGE_GrabBuildingColor>
+  <VGE_GrabFloorColor>Tomar color del suelo: {COLOR}</VGE_GrabFloorColor>
+  <VGE_GrabVacBarrierRoofColor>Tomar color del techo barrera de vacío</VGE_GrabVacBarrierRoofColor>
   <VGE_GravEngineDisabled>Motor gravitacional desactivado:</VGE_GravEngineDisabled>
+  <VGE_GravcoreTax>impuesto del núcleo gravitacional</VGE_GravcoreTax>
   <VGE_GravdataStored>Gravidatos almacenados: {0}</VGE_GravdataStored>
   <VGE_GravdataStoredInfo>Los gravidatos almacenados se aplicarán automáticamente al proyecto de investigación de gravitecnología seleccionado en el próximo aterrizaje.</VGE_GravdataStoredInfo>
   <VGE_GravdataYieldInfo>Rendimiento estimado de gravidatos: {0}</VGE_GravdataYieldInfo>
@@ -75,6 +87,8 @@
   <VGE_LinkWithTurretDesc>Selecciona una torreta para vincular. Esta terminal de puntería se usará para operar esa torreta.</VGE_LinkWithTurretDesc>
   <VGE_Maintain>Mantener pieza</VGE_Maintain>
   <VGE_Maintenance>Mantenimiento de piezas: {0}</VGE_Maintenance>
+  <VGE_MaintenanceMultiplier>Multiplicador de pérdida de mantenimiento (mayor = más rápido)</VGE_MaintenanceMultiplier>
+  <VGE_MaintenanceMultiplierDesc>La cantidad de mantenimiento perdida con el tiempo y al viajar con la gravinave se multiplicará por este número. Así, 2 significa que perderás mantenimiento el doble de rápido.</VGE_MaintenanceMultiplierDesc>
   <VGE_MapDecisionSettleText>Tu gravinave ha despegado. Ahora puedes decidir si quieres colonizar el mapa anterior.\n\nSi lo colonizas, seguirá presente como un mapa de colonia hasta que lo abandones.\n\nSi decides no colonizarlo, el mapa se conservará hasta que se descarte automáticamente. Actualmente se conserva debido a que tienes colonos allí, una lanzadera o cápsulas de escape viajando hacia allí, o algún edificio especial presente en el mapa.\nTen en cuenta que mantener varios mapas abiertos puede afectar el rendimiento.</VGE_MapDecisionSettleText>
   <VGE_MapDecisionText>Tu gravinave ha despegado. Ahora puedes decidir si quieres conservar el mapa anterior o si quieres descartarlo.\n\nSi lo conservas, seguirá presente como un mapa de colonia hasta que lo abandones.\n\nSi lo descartas, puede ser reemplazado por un asentamiento abandonado, devuelto a su dueño original, convertido de nuevo en una ubicación especial/de misión o destruido.\nTen en cuenta que mantener varios mapas abiertos puede afectar el rendimiento.</VGE_MapDecisionText>
   <VGE_MechanoidPodGestation>La gestación de la cápsula de {0} se completa en: {1}.</VGE_MechanoidPodGestation>
@@ -101,6 +115,7 @@
   <VGE_OxygenUnits>oxígeno u³</VGE_OxygenUnits>
   <VGE_PilotGravhulk>Lanzar gravicoloso</VGE_PilotGravhulk>
   <VGE_PilotGravjumper>Lanzar gravisaltador</VGE_PilotGravjumper>
+  <VGE_ProtectingFromSpaceSolarFlare>Protegiendo de la llamarada solar espacial</VGE_ProtectingFromSpaceSolarFlare>
   <VGE_RapidlyDeterioratingInSpace>Deteriorándose rápidamente debido al vacío del espacio.</VGE_RapidlyDeterioratingInSpace>
   <VGE_Refill>Recargar {GEAR_labelShort} con {AMMO_label}</VGE_Refill>
   <VGE_RefillCannotCarryEnough>No se puede llevar suficiente {AMMO_label} para recargar 1 carga.</VGE_RefillCannotCarryEnough>
@@ -111,6 +126,13 @@
   <VGE_Reset>Restablecer</VGE_Reset>
   <VGE_ResistantToVacuumExposure>resistente a la exposición al vacío</VGE_ResistantToVacuumExposure>
   <VGE_ResourceProcessorInfo>La producción de {0} {1} se completa en: {2}\nProcesos de producción restantes por completar: {3}</VGE_ResourceProcessorInfo>
+  <VGE_ScannerCluster_LongRangeResource>{RESOURCE} de largo alcance</VGE_ScannerCluster_LongRangeResource>
+  <VGE_ScannerCluster_MissingResearchPrerequisite>Falta investigación de {RESEARCH_label}</VGE_ScannerCluster_MissingResearchPrerequisite>
+  <VGE_ScannerCluster_RandomResource>Recurso profundo aleatorio</VGE_ScannerCluster_RandomResource>
+  <VGE_ScannerCluster_TunedToNothing>Nada</VGE_ScannerCluster_TunedToNothing>
+  <VGE_ScannerCluster_TunedToOrbitalScanning>Escaneo orbital pasivo</VGE_ScannerCluster_TunedToOrbitalScanning>
+  <VGE_ScannerCluster_UndergroundResource>{RESOURCE} profundo</VGE_ScannerCluster_UndergroundResource>
+  <VGE_SelectColorFromTile>Seleccionar color específico de casilla</VGE_SelectColorFromTile>
   <VGE_SelectLinkedTerminal>Seleccionar terminal vinculada</VGE_SelectLinkedTerminal>
   <VGE_SelectLinkedTerminalDesc>Muestra la terminal de puntería vinculada.</VGE_SelectLinkedTerminalDesc>
   <VGE_SelectLinkedTurret>Seleccionar torreta vinculada</VGE_SelectLinkedTurret>
