@@ -10,41 +10,18 @@ from pathlib import Path
 import xml.etree.ElementTree as ET
 from xml.etree.ElementTree import ParseError
 
-
-MODS_A_IGNORAR = {
-    "estructura ejemplo",
-    "[estructura ejemplo]",
-}
-
-
-def es_mod_ignorado(nombre: str) -> bool:
-    return nombre.strip().lower() in MODS_A_IGNORAR
-
-
-def normalizar_nombre_idioma(nombre: str) -> str:
-    if not isinstance(nombre, str):
-        return ""
-    nombre = nombre.strip()
-    corte = nombre.find(" (")
-    if corte != -1:
-        return nombre[:corte].strip()
-    s = nombre
-    while True:
-        open_idx = s.rfind("(")
-        close_idx = s.rfind(")")
-        if open_idx != -1 and close_idx != -1 and close_idx > open_idx:
-            s = s[:open_idx].rstrip()
-        else:
-            break
-    return s.strip()
-
-
-def normalizar_nombre_carpeta(nombre: str) -> str:
-    """Convierte nombre de carpeta reemplazando espacios por underscores para Mods/"""
-    if not isinstance(nombre, str):
-        return ""
-    # Reemplazar espacios por underscores
-    return nombre.strip().replace(" ", "_")
+# Utilidades compartidas con compilador.py (GUI)
+from compilador_utils import (
+    MODS_A_IGNORAR,
+    es_mod_ignorado,
+    normalizar_nombre_idioma,
+    normalizar_nombre_carpeta,
+    indent_xml,
+    obtener_package_id,
+    obtener_published_file_id,
+    procesar_xml_a_destino,
+    detectar_idiomas,
+)
 
 
 def run_git(args, cwd=None, text=True):
@@ -156,105 +133,8 @@ def git_commit_and_tag(repo_root, tag):
     return True, f"Commit y tag creados: {tag}"
 
 
-def indent_xml(elem, level=0, space="  "):
-    i = "\n" + level * space
-    if len(elem):
-        if not elem.text or not elem.text.strip():
-            elem.text = i + space
-        if not elem.tail or not elem.tail.strip():
-            elem.tail = i
-        for subelem in elem:
-            indent_xml(subelem, level + 1, space)
-        if not subelem.tail or not subelem.tail.strip():
-            subelem.tail = i
-    else:
-        if level and (not elem.tail or not elem.tail.strip()):
-            elem.tail = i
-
-
-def detectar_idiomas(origen: str):
-    idiomas_encontrados = set()
-    carpetas_a_ignorar = {
-        "about", "defs", "assemblies", "patches", "textures", "sounds", "common",
-        "ideasshared", "licenses", "source", "src", "docs", "examples", ".git",
-        ".vs", "1.0", "1.1", "1.2", "1.3", "1.4", "1.5"
-    }
-
-    for mod_folder in os.listdir(origen):
-        if es_mod_ignorado(mod_folder):
-            continue
-        ruta_mod = os.path.join(origen, mod_folder)
-        if not os.path.isdir(ruta_mod):
-            continue
-        try:
-            for subfolder in os.listdir(ruta_mod):
-                ruta_subfolder = os.path.join(ruta_mod, subfolder)
-                if os.path.isdir(ruta_subfolder) and subfolder.lower() not in carpetas_a_ignorar:
-                    idiomas_encontrados.add(subfolder)
-        except OSError:
-            continue
-
-    return sorted(idiomas_encontrados)
-
-
-def obtener_package_id(ruta_mod: str):
-    about_dir = os.path.join(ruta_mod, "About")
-    if not os.path.isdir(about_dir):
-        return None
-
-    candidatos = [
-        f for f in os.listdir(about_dir)
-        if f.lower().startswith("about") and f.lower().endswith(".xml")
-    ]
-    candidatos.sort(key=len)
-
-    for nombre in candidatos:
-        ruta = os.path.join(about_dir, nombre)
-        try:
-            tree = ET.parse(ruta)
-            root = tree.getroot()
-            pid = root.find("packageId")
-            if pid is not None and pid.text:
-                return pid.text.strip().lower()
-        except Exception:
-            continue
-
-    return None
-
-
-def obtener_published_file_id(ruta_mod: str):
-    """Obtiene el PublishedFileId (Steam Workshop ID) del mod.
-    Busca primero en el nombre del archivo About_<id>.xml,
-    luego en el comentario <!-- PublishedFileId: <id> --> dentro del XML.
-    Retorna el ID como string o None si no se encuentra.
-    """
-    about_dir = os.path.join(ruta_mod, "About")
-    if not os.path.isdir(about_dir):
-        return None
-
-    # 1. Buscar por nombre de archivo: About_<digitos>.xml
-    for f in os.listdir(about_dir):
-        m = re.match(r"About_(\d+)\.xml", f, re.IGNORECASE)
-        if m:
-            return m.group(1)
-
-    # 2. Fallback: buscar comentario PublishedFileId dentro del XML
-    candidatos = [
-        f for f in os.listdir(about_dir)
-        if f.lower().startswith("about") and f.lower().endswith(".xml")
-    ]
-    for nombre in candidatos:
-        ruta = os.path.join(about_dir, nombre)
-        try:
-            with open(ruta, "r", encoding="utf-8-sig", errors="replace") as fh:
-                contenido = fh.read()
-            m = re.search(r"PublishedFileId:\s*(\d+)", contenido)
-            if m:
-                return m.group(1)
-        except Exception:
-            continue
-
-    return None
+# indent_xml, detectar_idiomas, obtener_package_id, obtener_published_file_id
+# estan en compilador_utils (importadas al inicio del archivo)
 
 
 def copiar_traducciones(origen, destino_root, nombre_subcarpeta, limpiar_destino, eliminar_comentarios):

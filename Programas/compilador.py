@@ -9,6 +9,7 @@ from collections import defaultdict
 import xml.etree.ElementTree as ET
 from xml.etree.ElementTree import ParseError
 from threading import Lock
+from concurrent.futures import ThreadPoolExecutor, as_completed
 from PySide6.QtWidgets import (
     QApplication, QMainWindow, QWidget, QFileDialog, QVBoxLayout, QHBoxLayout, QFormLayout, QComboBox,
     QLabel, QPushButton, QLineEdit, QProgressBar, QTextEdit, QMenuBar, QMenu, QMessageBox, QCheckBox, QDialog, QDialogButtonBox
@@ -16,67 +17,21 @@ from PySide6.QtWidgets import (
 from PySide6.QtCore import Qt, QThread, Signal
 from PySide6.QtGui import QFont, QAction
 
+# Utilidades compartidas con cli_compilador.py
+from compilador_utils import (
+    MODS_A_IGNORAR,
+    es_mod_ignorado,
+    normalizar_nombre_idioma,
+    normalizar_nombre_carpeta,
+    indent_xml,
+    obtener_package_id,
+    obtener_published_file_id,
+    procesar_xml_a_destino,
+    detectar_idiomas,
+)
+
 CONFIG_FILE = "compilador_config.json"
-MODS_A_IGNORAR = {
-    "estructura ejemplo",
-    "[estructura ejemplo]",
-}
 
-
-def es_mod_ignorado(nombre: str) -> bool:
-    return nombre.strip().lower() in MODS_A_IGNORAR
-
-def normalizar_nombre_idioma(nombre: str) -> str:
-    """
-    Normaliza el nombre de la carpeta de idioma para usarlo como carpeta de salida.
-    - Si el nombre contiene una parte entre paréntesis (normalmente al final), se elimina todo
-      desde la primera ocurrencia de " (" en adelante. Ej: "Spanish (Español(Castellano))" -> "Spanish".
-    - Si no existe el patrón " (", se intenta eliminar cualquier segmento final entre paréntesis,
-      incluso con anidación, recortando desde el último "(" hasta el final mientras haya pares ().
-    """
-    if not isinstance(nombre, str):
-        return ""
-    nombre = nombre.strip()
-    # Caso típico: idioma seguido de paréntesis con nombre nativo
-    corte = nombre.find(" (")
-    if corte != -1:
-        return nombre[:corte].strip()
-    # Fallback: eliminar segmentos entre paréntesis al final (maneja anidación simple)
-    s = nombre
-    while True:
-        open_idx = s.rfind("(")
-        close_idx = s.rfind(")")
-        if open_idx != -1 and close_idx != -1 and close_idx > open_idx:
-            s = s[:open_idx].rstrip()
-        else:
-            break
-    return s.strip()
-
-
-def normalizar_nombre_carpeta(nombre: str) -> str:
-    """Convierte nombre de carpeta reemplazando espacios por underscores para Mods/."""
-    if not isinstance(nombre, str):
-        return ""
-    return nombre.strip().replace(" ", "_")
-
-def indent_xml(elem, level=0, space="  "):
-    """
-    Función para indentar un árbol de ElementTree para una mejor legibilidad (pretty-printing).
-    Modifica el árbol XML en su lugar.
-    """
-    i = "\n" + level * space
-    if len(elem):
-        if not elem.text or not elem.text.strip():
-            elem.text = i + space
-        if not elem.tail or not elem.tail.strip():
-            elem.tail = i
-        for subelem in elem:
-            indent_xml(subelem, level + 1, space)
-        if not subelem.tail or not subelem.tail.strip():
-            subelem.tail = i
-    else:
-        if level and (not elem.tail or not elem.tail.strip()):
-            elem.tail = i
 
 class CopiadorThread(QThread):
     progreso = Signal(int)
@@ -113,6 +68,7 @@ class CopiadorThread(QThread):
         self._lock = Lock()
         self._mods_procesados_count = 0
         self._total_mods = 0
+        self._avisos_metadatos = []
 
     def run(self):
         try:
@@ -150,14 +106,27 @@ class CopiadorThread(QThread):
 
             self.log.emit(f"Se encontraron {len(mods_normales)} mods normales y {len(mods_vanilla)} mods vanilla.")
 
+            num_workers = os.cpu_count() or 4
+            self.log.emit(f"Usando {num_workers} hilos en paralelo.")
+
             self.log.emit("[1/4] Procesando traducciones normales...")
-            for mod in mods_normales:
-                self._procesar_mod_normal(mod)
+            with ThreadPoolExecutor(max_workers=num_workers) as executor:
+                futures = {executor.submit(self._procesar_mod_normal, mod): mod for mod in mods_normales}
+                for future in as_completed(futures):
+                    exc = future.exception()
+                    if exc:
+                        mod = futures[future]
+                        self.error_log.emit(f"Error inesperado procesando '{mod}': {exc}")
 
             self.log.emit("[2/4] Procesando parches vanilla...")
             if mods_vanilla:
-                for mod in mods_vanilla:
-                    self._procesar_mod_vanilla(mod)
+                with ThreadPoolExecutor(max_workers=num_workers) as executor:
+                    futures = {executor.submit(self._procesar_mod_vanilla, mod): mod for mod in mods_vanilla}
+                    for future in as_completed(futures):
+                        exc = future.exception()
+                        if exc:
+                            mod = futures[future]
+                            self.error_log.emit(f"Error inesperado procesando vanilla '{mod}': {exc}")
             else:
                 self.log.emit("No se encontró carpeta 'Archivo Traducciones Vanilla' o no hay mods vanilla para el idioma.")
 
@@ -171,6 +140,13 @@ class CopiadorThread(QThread):
                 self.log.emit("No hay mods vanilla con packageId, se omite LoadFolders.xml.")
 
             self.progreso.emit(100)
+
+            if self._avisos_metadatos:
+                self.log.emit(f"")
+                self.log.emit(f"--- ⚠ RESUMEN DE METADATOS FALTANTES ({len(self._avisos_metadatos)}) ---")
+                for aviso in self._avisos_metadatos:
+                    self.log.emit(aviso)
+                self.log.emit(f"--- Fin del resumen ---")
 
             self.log.emit(f"Proceso completado. Total de archivos copiados: {self.archivos_copiados}")
             self.terminado.emit(self.archivos_copiados)
@@ -214,40 +190,8 @@ class CopiadorThread(QThread):
                 os.remove(ruta)
 
     def _procesar_xml(self, ruta_origen, ruta_destino_archivo):
-        if self.eliminar_comentarios:
-            try:
-                parser = ET.XMLParser(target=ET.TreeBuilder(insert_comments=False))
-                with open(ruta_origen, "rb") as f:
-                    raw_data = f.read()
-
-                try:
-                    content = raw_data.decode("utf-8-sig")
-                except UnicodeDecodeError:
-                    content = raw_data.decode("utf-16")
-
-                content = content.strip()
-                if content.startswith("<?xml"):
-                    content = content.split("?>", 1)[-1].strip()
-
-                content = re.sub(r"<(/?(?:color|size|b|i)(?:\s+[^>]*?)?)>", r"&lt;\1&gt;", content, flags=re.IGNORECASE)
-
-                root = ET.fromstring(content, parser=parser)
-                tree = ET.ElementTree(root)
-                root[:] = sorted(root, key=lambda child: child.tag)
-                indent_xml(root)
-                tree.write(ruta_destino_archivo, encoding="utf-8", xml_declaration=True)
-            except ParseError as e_parse:
-                msg = f"Error de formato XML en '{ruta_origen}', se copia tal cual. Error: {e_parse}"
-                self.log.emit(msg)
-                self.error_log.emit(msg)
-                shutil.copy2(ruta_origen, ruta_destino_archivo)
-            except Exception as e_process:
-                msg = f"Error procesando '{ruta_origen}', se copia tal cual. Error: {e_process}"
-                self.log.emit(msg)
-                self.error_log.emit(msg)
-                shutil.copy2(ruta_origen, ruta_destino_archivo)
-        else:
-            shutil.copy2(ruta_origen, ruta_destino_archivo)
+        """Delega en la funcion compartida de compilador_utils."""
+        procesar_xml_a_destino(ruta_origen, ruta_destino_archivo, self.eliminar_comentarios)
 
     def _parsear_xml_desde_archivo(self, ruta_origen):
         parser = ET.XMLParser(target=ET.TreeBuilder(insert_comments=False))
@@ -318,12 +262,24 @@ class CopiadorThread(QThread):
             ruta_idioma = os.path.join(ruta_mod, self.nombre_subcarpeta)
             ruta_destino_base = os.path.join(self.destino, "Languages", self.nombre_destino)
 
-            # Elegir prefijo según la opción seleccionada
+            # Detectar metadatos faltantes (se acumulan para mostrar al final)
+            ruta_about = os.path.join(ruta_mod, "About")
+            avisos = []
+            if not os.path.isdir(ruta_about):
+                avisos.append(f"⚠ '{mod}' no tiene carpeta About/")
+
+            # Elegir prefijo segun la opcion seleccionada
             if self.usar_steam_id:
-                published_id = self.obtener_published_file_id(ruta_mod)
+                published_id = obtener_published_file_id(ruta_mod)
+                if not published_id:
+                    avisos.append(f"⚠ '{mod}' no tiene About_<SteamID>.xml ni comentario PublishedFileId")
                 prefijo_mod = published_id if published_id else mod
             else:
                 prefijo_mod = mod
+
+            if avisos:
+                with self._lock:
+                    self._avisos_metadatos.extend(avisos)
 
             if self.fusionar_xml_por_carpeta:
                 self._fusionar_xmls_de_mod(mod, ruta_idioma, ruta_destino_base, prefijar_nombre=True)
@@ -356,7 +312,7 @@ class CopiadorThread(QThread):
         try:
             ruta_mod = os.path.join(self.origen_vanilla, mod)
             ruta_idioma = os.path.join(ruta_mod, self.nombre_subcarpeta)
-            package_id = self.obtener_package_id(ruta_mod)
+            package_id = obtener_package_id(ruta_mod)
 
             nombre_normalizado = normalizar_nombre_carpeta(mod)
             ruta_destino_mod = os.path.join(self.destino, "Mods", nombre_normalizado, "Languages", self.nombre_destino)
@@ -377,10 +333,12 @@ class CopiadorThread(QThread):
                     self._incrementar_archivos()
 
             if package_id:
-                self.mods_vanilla_info.append((nombre_normalizado, package_id))
-                self.mods_procesados.append(nombre_normalizado)
+                with self._lock:
+                    self.mods_vanilla_info.append((nombre_normalizado, package_id))
+                    self.mods_procesados.append(nombre_normalizado)
             else:
-                self.log.emit(f"ADVERTENCIA: No se encontró packageId en mod vanilla '{mod}', se omitirá en LoadFolders.xml")
+                with self._lock:
+                    self._avisos_metadatos.append(f"⚠ '{mod}' (vanilla) no tiene packageId en About.xml → se omitirá en LoadFolders.xml")
 
             self.log.emit(f"--- Mod vanilla procesado '{mod}' ---")
         except Exception as e:
@@ -422,62 +380,7 @@ class CopiadorThread(QThread):
         tree.write(ruta_loadfolders, encoding="utf-8", xml_declaration=True)
         self.log.emit(f"LoadFolders.xml generado con {len(self.mods_vanilla_info)} entradas condicionales.")
 
-    def obtener_package_id(self, ruta_mod):
-        about_dir = os.path.join(ruta_mod, "About")
-        if not os.path.isdir(about_dir):
-            return None
-
-        candidatos = [
-            f for f in os.listdir(about_dir)
-            if f.lower().startswith("about") and f.lower().endswith(".xml")
-        ]
-        candidatos.sort(key=len)
-
-        for nombre in candidatos:
-            ruta = os.path.join(ruta_mod, "About", nombre)
-            try:
-                tree = ET.parse(ruta)
-                root = tree.getroot()
-                pid = root.find("packageId")
-                if pid is not None and pid.text:
-                    return pid.text.strip().lower()
-            except Exception:
-                continue
-        return None
-
-    def obtener_published_file_id(self, ruta_mod):
-        """Obtiene el PublishedFileId (Steam Workshop ID) del mod.
-        Busca primero en el nombre del archivo About_<id>.xml,
-        luego en el comentario <!-- PublishedFileId: <id> --> dentro del XML.
-        Retorna el ID como string o None si no se encuentra.
-        """
-        about_dir = os.path.join(ruta_mod, "About")
-        if not os.path.isdir(about_dir):
-            return None
-
-        # 1. Buscar por nombre de archivo: About_<digitos>.xml
-        for f in os.listdir(about_dir):
-            m = re.match(r"About_(\d+)\.xml", f, re.IGNORECASE)
-            if m:
-                return m.group(1)
-
-        # 2. Fallback: buscar comentario PublishedFileId dentro del XML
-        candidatos = [
-            f for f in os.listdir(about_dir)
-            if f.lower().startswith("about") and f.lower().endswith(".xml")
-        ]
-        for nombre in candidatos:
-            ruta = os.path.join(about_dir, nombre)
-            try:
-                with open(ruta, "r", encoding="utf-8-sig", errors="replace") as fh:
-                    contenido = fh.read()
-                m = re.search(r"PublishedFileId:\s*(\d+)", contenido)
-                if m:
-                    return m.group(1)
-            except Exception:
-                continue
-
-        return None
+        # obtener_package_id y obtener_published_file_id estan en compilador_utils
 
 class CompresorThread(QThread):
     log = Signal(str)
@@ -1341,7 +1244,7 @@ class VentanaPrincipal(QMainWindow):
                 ruta_mod = os.path.join(origen, mod_name)
                 if not os.path.isdir(ruta_mod):
                     continue
-                pid = self.obtener_package_id(ruta_mod)
+                pid = obtener_package_id(ruta_mod)
                 
                 # Verificar si existe PublishedFileId.txt
                 has_published_id = False
@@ -1372,28 +1275,7 @@ class VentanaPrincipal(QMainWindow):
         except Exception as e:
             self.logear_error(f"Error al actualizar about.xml: {e}")
 
-    def obtener_package_id(self, ruta_mod):
-        about_dir = os.path.join(ruta_mod, "About")
-        if not os.path.isdir(about_dir):
-            return None
-            
-        # Buscar cualquier archivo XML que empiece por About (ej: About.xml, About_12345.xml)
-        candidatos = [f for f in os.listdir(about_dir) if f.lower().startswith("about") and f.lower().endswith(".xml")]
-        
-        # Ordenar para preferir 'About.xml' (más corto) si existe, o el primero que encuentre
-        candidatos.sort(key=len)
-        
-        for nombre in candidatos:
-            ruta = os.path.join(ruta_mod, "About", nombre)
-            try:
-                tree = ET.parse(ruta)
-                root = tree.getroot()
-                pid = root.find("packageId")
-                if pid is not None and pid.text:
-                    return pid.text.strip().lower()
-            except:
-                continue
-        return None
+    # obtener_package_id viene de compilador_utils (importada al inicio)
 
 if __name__ == "__main__":
     app = QApplication(sys.argv)
