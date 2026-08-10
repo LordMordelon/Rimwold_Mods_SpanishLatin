@@ -1,16 +1,16 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: cerebrex node -->
-  <LTS_CerebrexNodeImplant.label>TODO</LTS_CerebrexNodeImplant.label>
+  <LTS_CerebrexNodeImplant.label>nodo cerebrex</LTS_CerebrexNodeImplant.label>
   <!-- EN: An installed interlink node scavenged from the cerebrex core of a mechhive. It can be used to summon mechanoids or mechanoid transport pods from the planet-wide mechanoid satellite network.\n\nThis implant is self-installable but since it interlaces deep within the brain tissue, it can only be removed after death. -->
-  <LTS_CerebrexNodeImplant.description>TODO</LTS_CerebrexNodeImplant.description>
+  <LTS_CerebrexNodeImplant.description>Un nodo de interconexión implantado, recuperado del núcleo cerebrex de una mechacolmena. Puede usarse para invocar mecánoides o cápsulas de transporte mecánico desde la red de satélites mecánoides que cubre el planeta.\n\nEste implante puede instalarse por uno mismo, pero dado que se entrelaza profundamente con el tejido cerebral, solo puede extraerse tras la muerte.</LTS_CerebrexNodeImplant.description>
   <!-- EN: Reusable {HEDIFF_label} available -->
-  <LTS_CerebrexNodeImplant.comps.HediffComp_LetterOnDeath.letterLabel>TODO</LTS_CerebrexNodeImplant.comps.HediffComp_LetterOnDeath.letterLabel>
+  <LTS_CerebrexNodeImplant.comps.HediffComp_LetterOnDeath.letterLabel>{HEDIFF_label} reutilizable disponible</LTS_CerebrexNodeImplant.comps.HediffComp_LetterOnDeath.letterLabel>
   <!-- EN: {PAWN} has died with a {HEDIFF_label} installed. This can be removed and installed by someone else. -->
-  <LTS_CerebrexNodeImplant.comps.HediffComp_LetterOnDeath.letterText>TODO</LTS_CerebrexNodeImplant.comps.HediffComp_LetterOnDeath.letterText>
+  <LTS_CerebrexNodeImplant.comps.HediffComp_LetterOnDeath.letterText>{PAWN} ha muerto con un {HEDIFF_label} instalado. Este puede ser extraído e implantado en otra persona.</LTS_CerebrexNodeImplant.comps.HediffComp_LetterOnDeath.letterText>
   <!-- EN: An installed cerebrex node. Can only be removed after death. -->
-  <LTS_CerebrexNodeImplant.descriptionShort>TODO</LTS_CerebrexNodeImplant.descriptionShort>
+  <LTS_CerebrexNodeImplant.descriptionShort>Un nodo cerebrex implantado. Solo puede extraerse tras la muerte.</LTS_CerebrexNodeImplant.descriptionShort>
   
   <!-- EN: emergency vac barrier -->
   <LTS_EmergencyVacseal.label>barrera de vacío de emergencia</LTS_EmergencyVacseal.label>
@@ -32,10 +32,10 @@
   <LTS_Gravlifter.labelNoun>un gravimotor personal</LTS_Gravlifter.labelNoun>
   
   <!-- EN: gunnery assistant -->
-  <LTS_GunneryAssistant.label>TODO</LTS_GunneryAssistant.label>
+  <LTS_GunneryAssistant.label>asistente de artillería</LTS_GunneryAssistant.label>
   <!-- EN: An installed gunnery assistant. This neural interface connects a gunner's brain directly to a weapon system, enhancing the gunner's control and accuracy. -->
-  <LTS_GunneryAssistant.description>TODO</LTS_GunneryAssistant.description>
+  <LTS_GunneryAssistant.description>Un asistente de artillería implantado. Esta interfaz neuronal conecta directamente el cerebro del artillero con un sistema de armas, mejorando el control y la precisión del artillero.</LTS_GunneryAssistant.description>
   <!-- EN: a gunnery assistant -->
-  <LTS_GunneryAssistant.labelNoun>TODO</LTS_GunneryAssistant.labelNoun>
+  <LTS_GunneryAssistant.labelNoun>asistente de artillería</LTS_GunneryAssistant.labelNoun>
   
 </LanguageData>

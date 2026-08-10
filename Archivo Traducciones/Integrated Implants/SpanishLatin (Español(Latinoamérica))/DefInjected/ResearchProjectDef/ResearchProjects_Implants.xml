@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: hormonal implants -->
@@ -279,9 +279,9 @@
   </LTS_EmergencyImplants.generalRules.rulesStrings>
   
   <!-- EN: field manipulation implants -->
-  <LTS_FieldManipulationImplants.label>TODO</LTS_FieldManipulationImplants.label>
+  <LTS_FieldManipulationImplants.label>implantes de manipulación de campo</LTS_FieldManipulationImplants.label>
   <!-- EN: Craft implants able to change a manipulate electromagnetic fields around a person. -->
-  <LTS_FieldManipulationImplants.description>TODO</LTS_FieldManipulationImplants.description>
+  <LTS_FieldManipulationImplants.description>Fabrica implantes capaces de cambiar y manipular los campos electromagnéticos alrededor de una persona.</LTS_FieldManipulationImplants.description>
   <!-- EN:
     <li>subject->field manipulation</li>
     <li>subject_story->had a crippling fear of being shot in the street</li>
@@ -289,6 +289,12 @@
     <li>subject_story->was tasked with enhancing the survivability of their nation's troops</li>
     <li>subject_gerund->crafting implants</li>
   -->
-  <LTS_FieldManipulationImplants.generalRules.rulesStrings>TODO</LTS_FieldManipulationImplants.generalRules.rulesStrings>
+  <LTS_FieldManipulationImplants.generalRules.rulesStrings>
+    <li>subject->manipulación de campo</li>
+    <li>subject_story->tenía un miedo paralizante de que le dispararan en la calle</li>
+    <li>subject_story->deseaba poder desaparecer</li>
+    <li>subject_story->fue encargado de mejorar la supervivencia de las tropas de su nación</li>
+    <li>subject_gerund->fabricando implantes</li>
+  </LTS_FieldManipulationImplants.generalRules.rulesStrings>
   
 </LanguageData>
