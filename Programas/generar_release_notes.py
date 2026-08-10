@@ -130,6 +130,8 @@ def main():
 
     # Si un mod aparece en correcciones (deleted), no mostrarlo también en actualizaciones
     modified -= deleted
+    # Si un mod fue añadido Y modificado, solo mostrarlo en actualizaciones
+    added -= modified
 
     sections = []
 
@@ -140,9 +142,9 @@ def main():
         items = [f"- {load_mod_display_name(name, repo_root, name_cache)}" for name in sorted(names)]
         sections.append("\n".join([title] + items))
 
-    add_section("Añadido:", "Añadidos:", added)
-    add_section("Actualizado:", "Actualizaciones:", modified)
-    add_section("Correccion:", "Correcciones:", deleted)
+    add_section("Contenido añadido en:", "Contenido añadido en:", added)
+    add_section("Contenido actualizado en:", "Contenido actualizado en:", modified)
+    add_section("Contenido corregido en:", "Contenido corregido en:", deleted)
 
     if not sections:
         lines = ["Sin cambios registrados"]
