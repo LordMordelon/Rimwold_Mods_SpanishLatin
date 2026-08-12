@@ -1,105 +1,105 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 	<!-- EN: {0} mode -->
-  <VQE_BroadcasterMode>TODO</VQE_BroadcasterMode>
+  <VQE_BroadcasterMode>modo {0}</VQE_BroadcasterMode>
 	<!-- EN: Autobroadcaster plays energetic music that makes everyone work a little bit harder. -->
-  <VQE_BroadcasterModeDesc_Work>TODO</VQE_BroadcasterModeDesc_Work>
+  <VQE_BroadcasterModeDesc_Work>El radiodron automático reproduce música energética que hace que todos trabajen un poco más duro.</VQE_BroadcasterModeDesc_Work>
 	<!-- EN: Autobroadcaster plays soothing music that makes everyone a little bit more relaxed. -->
-  <VQE_BroadcasterModeDesc_Relax>TODO</VQE_BroadcasterModeDesc_Relax>
+  <VQE_BroadcasterModeDesc_Relax>El radiodron automático reproduce música relajante que hace que todos estén un poco más tranquilos.</VQE_BroadcasterModeDesc_Relax>
 	<!-- EN: Autobroadcaster plays propaganda messages aimed at prisoners with the purpose of lowering their resistance. -->
-  <VQE_BroadcasterModeDesc_Recruitment>TODO</VQE_BroadcasterModeDesc_Recruitment>
+  <VQE_BroadcasterModeDesc_Recruitment>El radiodron automático emite mensajes de propaganda dirigidos a los prisioneros con el propósito de reducir su resistencia.</VQE_BroadcasterModeDesc_Recruitment>
 	<!-- EN: Autobroadcaster plays ideological rhetoric aimed at prisoners with the purpose of lowering their certainty. -->
-  <VQE_BroadcasterModeDesc_Conversion>TODO</VQE_BroadcasterModeDesc_Conversion>
+  <VQE_BroadcasterModeDesc_Conversion>El radiodron automático emite retórica ideológica dirigida a los prisioneros con el propósito de reducir su certeza.</VQE_BroadcasterModeDesc_Conversion>
 	<!-- EN: Shut down -->
-  <VQE_Shutdown>TODO</VQE_Shutdown>
+  <VQE_Shutdown>Apagar</VQE_Shutdown>
 	<!-- EN: Shut down the drone permanently. -->
-  <VQE_ShutdownDesc>TODO</VQE_ShutdownDesc>
+  <VQE_ShutdownDesc>Apaga el dron de forma permanente.</VQE_ShutdownDesc>
 	<!-- EN: Reactivate -->
-  <VQE_Reactivate>TODO</VQE_Reactivate>
+  <VQE_Reactivate>Reactivar</VQE_Reactivate>
 	<!-- EN: Reactivate the drone. A colonist will need to approach the drone and flick it back on. -->
-  <VQE_ReactivateDesc>TODO</VQE_ReactivateDesc>
+  <VQE_ReactivateDesc>Reactiva el dron. Un colono deberá acercarse al dron y volver a encenderlo.</VQE_ReactivateDesc>
 	<!-- EN: Standby -->
-  <VQE_Standby>TODO</VQE_Standby>
+  <VQE_Standby>En espera</VQE_Standby>
 	<!-- EN: Stand-by -->
-  <VQE_EnterStandby>TODO</VQE_EnterStandby>
+  <VQE_EnterStandby>Modo en espera</VQE_EnterStandby>
 	<!-- EN: Initiate the stand-by mode. The drone will turn off, reducing the lifespan loss by 90%. It will not respond to any tasks or damage, and will need to be reactivated before it can engage again. -->
-  <VQE_EnterStandbyDesc>TODO</VQE_EnterStandbyDesc>
+  <VQE_EnterStandbyDesc>Inicia el modo en espera. El dron se apagará, reduciendo la pérdida de vida útil en un 90%. No responderá a ninguna tarea o daño, y deberá ser reactivado antes de poder actuar de nuevo.</VQE_EnterStandbyDesc>
 	<!-- EN: Cannot use while connection timed out -->
-  <VQE_CannotUseConnectionTimedOut>TODO</VQE_CannotUseConnectionTimedOut>
+  <VQE_CannotUseConnectionTimedOut>No se puede usar mientras el tiempo de conexión se ha agotado</VQE_CannotUseConnectionTimedOut>
 	<!-- EN: Cannot use while overclocked -->
-  <VQE_CannotUseOverclocked>TODO</VQE_CannotUseOverclocked>
+  <VQE_CannotUseOverclocked>No se puede usar mientras está en sobrevelocidad</VQE_CannotUseOverclocked>
 	<!-- EN: Cannot use while desynchronised -->
-  <VQE_CannotUseDesynchronised>TODO</VQE_CannotUseDesynchronised>
+  <VQE_CannotUseDesynchronised>No se puede usar mientras está desincronizado</VQE_CannotUseDesynchronised>
 	<!-- EN: Cannot use while rebooting -->
-  <VQE_CannotUseRebooting>TODO</VQE_CannotUseRebooting>
+  <VQE_CannotUseRebooting>No se puede usar mientras está reiniciando</VQE_CannotUseRebooting>
 	<!-- EN: Cannot use during hardware failure -->
-  <VQE_CannotUseHardwareFailure>TODO</VQE_CannotUseHardwareFailure>
+  <VQE_CannotUseHardwareFailure>No se puede usar durante un fallo de hardware</VQE_CannotUseHardwareFailure>
 	<!-- EN: Cannot use while indexing -->
-  <VQE_CannotUseIndexing>TODO</VQE_CannotUseIndexing>
+  <VQE_CannotUseIndexing>No se puede usar mientras está indexando</VQE_CannotUseIndexing>
 	<!-- EN: Cannot use while in standby -->
-  <VQE_CannotUseInStandby>TODO</VQE_CannotUseInStandby>
+  <VQE_CannotUseInStandby>No se puede usar mientras está en modo en espera</VQE_CannotUseInStandby>
 	<!-- EN: Outside transmitter range -->
-  <VQE_OutsideTransmitterRange>TODO</VQE_OutsideTransmitterRange>
+  <VQE_OutsideTransmitterRange>Fuera del rango del transmisor</VQE_OutsideTransmitterRange>
 	<!-- EN: {DRONE} is undergoing {1} malfunction -->
-  <VQE_DroneMalfunction>TODO</VQE_DroneMalfunction>
+  <VQE_DroneMalfunction>{DRONE} está experimentando un fallo de {1}</VQE_DroneMalfunction>
 	<!-- EN: Hardcrash: {DRONE} -->
-  <VQE_HardcrashLetter>TODO</VQE_HardcrashLetter>
+  <VQE_HardcrashLetter>Choque fatal: {DRONE}</VQE_HardcrashLetter>
 	<!-- EN: {DRONE} is undergoing the hardcrash malfunction.\n\nIt will try to clear sensor obstruction by repeatedly crashing into buildings and furniture, potentially destroying them in the process.\n\nThis has occurred because {DRONE} is reaching the end of its lifespan. -->
-  <VQE_HardcrashLetterDesc>TODO</VQE_HardcrashLetterDesc>
+  <VQE_HardcrashLetterDesc>{DRONE} está experimentando el fallo de choque fatal.\n\nIntentará limpiar la obstrucción del sensor chocando repetidamente contra edificios y mobiliario, potencialmente destruyéndolos en el proceso.\n\nEsto ha ocurrido porque {DRONE} está llegando al final de su vida útil.</VQE_HardcrashLetterDesc>
 	<!-- EN: Killswitch: {DRONE} -->
-  <VQE_KillswitchLetter>TODO</VQE_KillswitchLetter>
+  <VQE_KillswitchLetter>Interruptor de emergencia: {DRONE}</VQE_KillswitchLetter>
 	<!-- EN: {DRONE} is undergoing the killswitch malfunction.\n\nIt will attack anyone that gets close to it.\n\nThis has occurred because {DRONE} is reaching the end of its lifespan. -->
-  <VQE_KillswitchLetterDesc>TODO</VQE_KillswitchLetterDesc>
+  <VQE_KillswitchLetterDesc>{DRONE} está experimentando el fallo del interruptor de emergencia.\n\nAtacará a cualquiera que se acerque a él.\n\nEsto ha ocurrido porque {DRONE} está llegando al final de su vida útil.</VQE_KillswitchLetterDesc>
 	<!-- EN: Self-decommission: {DRONE} -->
-  <VQE_SelfDecommissionLetter>TODO</VQE_SelfDecommissionLetter>
+  <VQE_SelfDecommissionLetter>Autodecomisión: {DRONE}</VQE_SelfDecommissionLetter>
 	<!-- EN: {DRONE} is undergoing the self-decommission malfunction.\n\nIt has determined that its service life has ended and will ignore all commands as it leaves the local area to shut down somewhere in the wild.\n\nThis has occurred because {DRONE} is reaching the end of its lifespan. -->
-  <VQE_SelfDecommissionLetterDesc>TODO</VQE_SelfDecommissionLetterDesc>
+  <VQE_SelfDecommissionLetterDesc>{DRONE} está experimentando el fallo de autodecomisión.\n\nHa determinado que su vida de servicio ha terminado e ignorará todos los comandos mientras abandona el área local para apagarse en algún lugar en la naturaleza.\n\nEsto ha ocurrido porque {DRONE} está llegando al final de su vida útil.</VQE_SelfDecommissionLetterDesc>
 	<!-- EN: , after which it will cease to work. -->
-  <VQE_DroneMalfunction_Death>TODO</VQE_DroneMalfunction_Death>
+  <VQE_DroneMalfunction_Death>, tras lo cual dejará de funcionar.</VQE_DroneMalfunction_Death>
 	<!-- EN: Indexing: {DRONE} -->
-  <VQE_IndexingLetter>TODO</VQE_IndexingLetter>
+  <VQE_IndexingLetter>Indexación: {DRONE}</VQE_IndexingLetter>
 	<!-- EN: {DRONE} is undergoing the indexing malfunction.\n\nIt will study another drone, or another colonist if drones are not present, and will code a special schematic onto a drone core. After the malfunction passes, a drone core will be produced. It can be decoded to permanently unlock a new drone type.\n\nThis has occurred because {DRONE} is programmed to undergo indexing malfunctions from time to time. -->
-  <VQE_IndexingLetterDesc>TODO</VQE_IndexingLetterDesc>
+  <VQE_IndexingLetterDesc>{DRONE} está experimentando el fallo de indexación.\n\nEstudiará otro dron, o a otro colono si no hay drones presentes, y codificará un esquema especial en un núcleo de dron. Después de que pase el fallo, se producirá un núcleo de dron. Puede ser decodificado para desbloquear permanentemente un nuevo tipo de dron.\n\nEsto ha ocurrido porque {DRONE} está programado para experimentar fallos de indexación de vez en cuando.</VQE_IndexingLetterDesc>
 	<!-- EN: Extreme malfunction risk -->
-  <VQE_ExtremeMalfunctionRisk>TODO</VQE_ExtremeMalfunctionRisk>
+  <VQE_ExtremeMalfunctionRisk>Riesgo extremo de fallo</VQE_ExtremeMalfunctionRisk>
 	<!-- EN: Some drones in your colony are close to the end of their lifespan. Consider shutting them down permanently, as they are at risk of extreme malfunctions.\n\nDrones at risk of extreme malfunction:\n\n{0} -->
-  <VQE_ExtremeMalfunctionRiskDesc>TODO</VQE_ExtremeMalfunctionRiskDesc>
+  <VQE_ExtremeMalfunctionRiskDesc>Algunos drones en tu colonia están cerca del final de su vida útil. Considera apagarlos permanentemente, ya que están en riesgo de fallos extremos.\n\nDrones en riesgo de fallo extremo:\n\n{0}</VQE_ExtremeMalfunctionRiskDesc>
 	<!-- EN: Malfunction -->
-  <VQE_Malfunction>TODO</VQE_Malfunction>
+  <VQE_Malfunction>Fallo</VQE_Malfunction>
 	<!-- EN: Decrypt {0} to unlock a new drone recipe -->
-  <VQE_DecryptCore>TODO</VQE_DecryptCore>
+  <VQE_DecryptCore>Descifrar {0} para desbloquear una nueva receta de dron</VQE_DecryptCore>
 	<!-- EN: Drone unlocked: {0} -->
-  <VQE_CoreDecryptedLetter>TODO</VQE_CoreDecryptedLetter>
+  <VQE_CoreDecryptedLetter>Dron desbloqueado: {0}</VQE_CoreDecryptedLetter>
 	<!-- EN: Decoding the drone core unlocked a new drone schematic. From now on, you can craft the following drone type: {0}.\n\n{1}. -->
-  <VQE_CoreDecryptedDesc>TODO</VQE_CoreDecryptedDesc>
+  <VQE_CoreDecryptedDesc>Decodificar el núcleo del dron desbloqueó un nuevo esquema de dron. De ahora en adelante, puedes fabricar el siguiente tipo de dron: {0}.\n\n{1}.</VQE_CoreDecryptedDesc>
 	<!-- EN: There are no more drone recipes left to decrypt! -->
-  <VQE_NoUnlockableRecipes>TODO</VQE_NoUnlockableRecipes>
+  <VQE_NoUnlockableRecipes>¡No quedan más recetas de drones por descifrar!</VQE_NoUnlockableRecipes>
 	<!-- EN: {0} construction completes in {1}. -->
-  <VQE_DroneSpawningIn>TODO</VQE_DroneSpawningIn>
+  <VQE_DroneSpawningIn>La construcción de {0} se completará en {1}.</VQE_DroneSpawningIn>
 	<!-- EN: Carry {0} to nearest transmitter -->
-  <VQE_CarryDroneToTransmitter>TODO</VQE_CarryDroneToTransmitter>
+  <VQE_CarryDroneToTransmitter>Llevar {0} al transmisor más cercano</VQE_CarryDroneToTransmitter>
 	<!-- EN: Transmitter radius -->
-  <VQE_TransmitterRadius>TODO</VQE_TransmitterRadius>
+  <VQE_TransmitterRadius>Radio del transmisor</VQE_TransmitterRadius>
 	<!-- EN: The radius around a transmitter in which drones that need it will be able to operate. 15 tiles by default (actually 14.9 due to the way the game works). -->
-  <VQE_TransmitterRadiusDesc>TODO</VQE_TransmitterRadiusDesc>
+  <VQE_TransmitterRadiusDesc>El radio alrededor de un transmisor en el que los drones que lo necesitan podrán operar. 15 casillas por defecto (en realidad 14.9 debido a cómo funciona el juego).</VQE_TransmitterRadiusDesc>
 	<!-- EN: Reset -->
-  <VQED_Reset>TODO</VQED_Reset>
+  <VQED_Reset>Restablecer</VQED_Reset>
 	<!-- EN: Drone lifespan multiplier -->
-  <VQE_LifespanMultiplier>TODO</VQE_LifespanMultiplier>
+  <VQE_LifespanMultiplier>Multiplicador de vida útil de drones</VQE_LifespanMultiplier>
 	<!-- EN: Drone lifespan multiplier in mod settings: {0} -->
-  <VQE_LifespanMultiplierModOptions>TODO</VQE_LifespanMultiplierModOptions>
+  <VQE_LifespanMultiplierModOptions>Multiplicador de vida útil de drones en opciones del mod: {0}</VQE_LifespanMultiplierModOptions>
 	<!-- EN: A multiplier on the lifespan of drones. For example, a value of x2 will double the lifespan of all drones. Bear in mind this will not change the current lifespan of already built drones. -->
-  <VQE_LifespanMultiplierDesc>TODO</VQE_LifespanMultiplierDesc>
+  <VQE_LifespanMultiplierDesc>Un multiplicador sobre la vida útil de los drones. Por ejemplo, un valor de x2 duplicará la vida útil de todos los drones. Ten en cuenta que esto no cambiará la vida útil actual de los drones ya construidos.</VQE_LifespanMultiplierDesc>
 	<!-- EN: Consume lifespan when repairing drones -->
-  <VQE_ConsumeLifespanOnRepair>TODO</VQE_ConsumeLifespanOnRepair>
+  <VQE_ConsumeLifespanOnRepair>Consumir vida útil al reparar drones</VQE_ConsumeLifespanOnRepair>
 	<!-- EN: When enabled, repairing drones will consume their lifespan. Disable to prevent lifespan drain during repairs. -->
-  <VQE_ConsumeLifespanOnRepairDesc>TODO</VQE_ConsumeLifespanOnRepairDesc>
+  <VQE_ConsumeLifespanOnRepairDesc>Cuando está activado, reparar drones consumirá su vida útil. Desactívalo para evitar el desgaste de vida útil durante las reparaciones.</VQE_ConsumeLifespanOnRepairDesc>
 	<!-- EN: Raid: Ancient drones -->
-  <VQE_DroneStockpileRaid>TODO</VQE_DroneStockpileRaid>
+  <VQE_DroneStockpileRaid>Ataque: Drones antiguos</VQE_DroneStockpileRaid>
 	<!-- EN: Combat drones from the nearby drone stockpile have arrived nearby.\n\nThey are attacking immediately.\n\nDestroy the drone stockpile to stop the drones from attacking you. -->
-  <VQE_DroneStockpileRaidDesc>TODO</VQE_DroneStockpileRaidDesc>
+  <VQE_DroneStockpileRaidDesc>Drones de combate del almacén de drones cercano han llegado a la zona.\n\nEstán atacando de inmediato.\n\nDestruye el almacén de drones para detener los ataques de los drones.</VQE_DroneStockpileRaidDesc>
 	<!-- EN: Click to jump to the drone transmitter -->
-  <VQE_JumpToDroneTransmitter>TODO</VQE_JumpToDroneTransmitter>
+  <VQE_JumpToDroneTransmitter>Haz clic para ir al transmisor de drones</VQE_JumpToDroneTransmitter>
 	<!-- EN: Drone work speed offset -->
-  <VQE_DroneWorkspeedStatOffset>TODO</VQE_DroneWorkspeedStatOffset>
+  <VQE_DroneWorkspeedStatOffset>Modificador de velocidad de trabajo de drones</VQE_DroneWorkspeedStatOffset>
 </LanguageData>

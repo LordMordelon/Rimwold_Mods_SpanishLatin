@@ -1,10 +1,10 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: dronetech -->
-  <VQE_Dronetech.label>TODO</VQE_Dronetech.label>
+  <VQE_Dronetech.label>tecnología de drones</VQE_Dronetech.label>
   <!-- EN: Unlocks the ability to construct specialized work drones and the necessary infrastructure to keep them operational. -->
-  <VQE_Dronetech.description>TODO</VQE_Dronetech.description>
+  <VQE_Dronetech.description>Desbloquea la capacidad de construir drones de trabajo especializados y la infraestructura necesaria para mantenerlos operativos.</VQE_Dronetech.description>
   <!-- EN:
     <li>subject->autonomous drone networks</li>
     <li>subject_story->pioneered the first fully synchronized drones</li>
@@ -12,6 +12,12 @@
     <li>subject_story->saw beyond isolated units to the elegance of coordinated autonomy</li>
     <li>subject_gerund->orchestrating fleets into seamless operational harmony</li>
   -->
-  <VQE_Dronetech.generalRules.rulesStrings>TODO</VQE_Dronetech.generalRules.rulesStrings>
+  <VQE_Dronetech.generalRules.rulesStrings>
+    <li>subject->redes autónomas de drones</li>
+    <li>subject_story->fue pionero en los primeros drones completamente sincronizados</li>
+    <li>subject_story->transformó máquinas dispersas en una red automatizada unificada</li>
+    <li>subject_story->vio más allá de las unidades aisladas hacia la elegancia de la autonomía coordinada</li>
+    <li>subject_gerund->orquestando flotas en perfecta armonía operativa</li>
+  </VQE_Dronetech.generalRules.rulesStrings>
   
 </LanguageData>

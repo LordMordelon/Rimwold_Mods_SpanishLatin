@@ -1,13 +1,17 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN:
     <li>questDescription->[asker_nameDef], [asker_faction_leaderTitle] of [asker_faction_name], has tracked down the source of the drone resurgences. A dedicated group of pirates have been using the stray drones as a play for a novelty market, and have appropriated an ancient factory as their headquarters.\n\nThe site is manufacturing large amounts of drones, and is selling them to other pirate factions at premium prices. Until this site is taken out, pirate raiding parties might purchase these drones and use them in their attacks.\n\n[asker_nameDef] suggests they have a genius in captivity supplying them with their blueprints, known only as The Tinkerer.\n\nYou can free their captive mastermind from his captivity, or kill him to prevent his ancient knowledge from being exploited further. The pirates won't go out without a fight, and will likely continue to produce drones during the approach and defend alongside them.\n\nDefenders:\n[ListOfEnemies]</li>
   -->
-  <VQE_DroneFactory.questDescriptionRules.rulesStrings>TODO</VQE_DroneFactory.questDescriptionRules.rulesStrings>
+  <VQE_DroneFactory.questDescriptionRules.rulesStrings>
+    <li>questDescription->[asker_nameDef], [asker_faction_leaderTitle] de [asker_faction_name], ha rastreado el origen del resurgimiento de los drones. Un grupo dedicado de piratas ha estado usando los drones errantes como negocio en un mercado novedoso, y se han apropiado de una fábrica antigua como sede.\n\nEl lugar está fabricando grandes cantidades de drones y los vende a otras facciones piratas a precios elevados. Hasta que este lugar sea eliminado, las partidas de asalto pirata podrían comprar estos drones y usarlos en sus ataques.\n\n[asker_nameDef] sugiere que tienen a un genio en cautiverio que les suministra los planos, conocido solo como El Reparador.\n\nPuedes liberar a su mente maestra cautiva, o matarlo para evitar que su conocimiento ancestral siga siendo explotado. Los piratas no se rendirán sin luchar, y probablemente continuarán produciendo drones durante el asedio y defenderán junto a ellos.\n\nDefensores:\n[ListOfEnemies]</li>
+  </VQE_DroneFactory.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName->The Drone Factory</li>
   -->
-  <VQE_DroneFactory.questNameRules.rulesStrings>TODO</VQE_DroneFactory.questNameRules.rulesStrings>
+  <VQE_DroneFactory.questNameRules.rulesStrings>
+    <li>questName->La Fábrica de Drones</li>
+  </VQE_DroneFactory.questNameRules.rulesStrings>
   
 </LanguageData>
