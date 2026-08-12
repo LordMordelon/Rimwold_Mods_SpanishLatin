@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <VQE_AutomatedDroneAssembler.description>Una línea de producción masiva y fuertemente blindada dedicada al ensamblaje automatizado y continuo de drones. Complejos brazos mecánicos trabajan en un ciclo continuo, alimentando componentes, soldando costuras y realizando verificaciones de diagnóstico. Continuará produciendo unidades de drones hostiles hasta ser destruido.</VQE_AutomatedDroneAssembler.description>
+  <VQE_AutomatedDroneAssembler.label>ensamblador de drones automatizado</VQE_AutomatedDroneAssembler.label>
+  <VQE_DroneStorageTerminal.comps.CompHackable.notHackedInspectString>Hackear para deshabilitar permanentemente los drones durmientes cercanos.</VQE_DroneStorageTerminal.comps.CompHackable.notHackedInspectString>
+  <VQE_DroneStorageTerminal.description>Una terminal de computadora de almacenamiento de drones. Puede ser hackeada para deshabilitar permanentemente los drones durmientes cercanos.</VQE_DroneStorageTerminal.description>
+  <VQE_DroneStorageTerminal.label>terminal de almacenamiento de drones</VQE_DroneStorageTerminal.label>
+  <VQE_LongRangeDroneTransmitter.comps.CompHackable.hackedInspectString>Deshabilitado</VQE_LongRangeDroneTransmitter.comps.CompHackable.hackedInspectString>
+  <VQE_LongRangeDroneTransmitter.comps.CompHackable.hackedMessage>{HACKER_labelShort} ha terminado de hackear el transmisor de drones de largo alcance.</VQE_LongRangeDroneTransmitter.comps.CompHackable.hackedMessage>
+  <VQE_LongRangeDroneTransmitter.comps.CompHackable.notHackedInspectString>Hackear para deshabilitar el transmisor de drones.</VQE_LongRangeDroneTransmitter.comps.CompHackable.notHackedInspectString>
+  <VQE_LongRangeDroneTransmitter.description>Una voluminosa matriz de antenas multibanda diseñada para transmitir una señal de control de drones a un alcance excepcional. La unidad está actualmente en funcionamiento, proporcionando ancho de banda operativo a todos los drones cercanos. Puede ser hackeada temporalmente para sobrecargar sus protecciones internas, dejándola inerte y permitiendo acceso a su valioso núcleo.</VQE_LongRangeDroneTransmitter.description>
+  <VQE_LongRangeDroneTransmitter.label>transmisor de drones de largo alcance</VQE_LongRangeDroneTransmitter.label>
+  <VQE_SalvageableDroneWreck.description>Una sección masiva y deteriorada de un dron militar con daños de combate extremos. Aunque el cableado expuesto es visible, el valioso núcleo de dron permanece sellado en su interior, probablemente intacto y recuperable. Si pudieras extraer el núcleo del dron, podrías descifrarlo para desbloquear un nuevo esquema de dron. El alijo de munición incendiaria del dron está intacto pero inestable, y probablemente detonará después de infligirle algún daño.</VQE_SalvageableDroneWreck.description>
+  <VQE_SalvageableDroneWreck.label>restos de dron recuperables</VQE_SalvageableDroneWreck.label>
+  <VQE_TinkererHoldingPlatform.comps.CompHackable.hackedInspectString>Liberado</VQE_TinkererHoldingPlatform.comps.CompHackable.hackedInspectString>
+  <VQE_TinkererHoldingPlatform.comps.CompHackable.hackedMessage>{HACKER_labelShort} ha terminado de hackear y liberado al reparador.</VQE_TinkererHoldingPlatform.comps.CompHackable.hackedMessage>
+  <VQE_TinkererHoldingPlatform.comps.CompHackable.notHackedInspectString>Hackear para liberar al reparador.</VQE_TinkererHoldingPlatform.comps.CompHackable.notHackedInspectString>
+  <VQE_TinkererHoldingPlatform.description>Una plataforma especializada de acoplamiento y recarga usada para drones de alto valor y no combativos como el Reparador. Su construcción duradera está diseñada para asegurar y proteger al dron. La plataforma puede ser destruida para recuperar sus recursos, o puede ser hackeada para anular sus protocolos de seguridad y liberar al Reparador, quien será reprogramado para unirse inmediatamente a tu colonia.</VQE_TinkererHoldingPlatform.description>
+  <VQE_TinkererHoldingPlatform.label>plataforma de retención del Reparador</VQE_TinkererHoldingPlatform.label>
+</LanguageData>
