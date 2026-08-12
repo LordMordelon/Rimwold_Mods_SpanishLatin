@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: heavy dropship -->
+  <SOA_HeavyDropship.label>lanzadera pesada</SOA_HeavyDropship.label>
+  <!-- EN: An astrofuel-powered shuttle designed for long-distance travel with heavy cargo loads. With a full fuel tank, it is capable of flying to its maximum range and returning. Any further distance will necessitate refueling. It is adviced to carry extra fuel with you, as refined astrofuel is much harder to come across than normal chemfuel. -->
+  <SOA_HeavyDropship.description>Una lanzadera propulsada por astrobustible diseñada para viajes de larga distancia con cargas pesadas. Con el tanque lleno, es capaz de volar hasta su alcance máximo y regresar. Cualquier distancia adicional requerirá reabastecimiento de combustible. Se aconseja llevar astrobustible extra, ya que el astrobustible refinado es mucho más difícil de encontrar que el quimbustible normal.</SOA_HeavyDropship.description>
+  <!-- EN: {0} is ready to launch again. -->
+  <SOA_HeavyDropship.comps.CompLaunchable.cooldownEndedMessage>{0} está lista para lanzarse de nuevo.</SOA_HeavyDropship.comps.CompLaunchable.cooldownEndedMessage>
+  <!-- EN: Astrofuel -->
+  <SOA_HeavyDropship.comps.CompRefuelable.fuelGizmoLabel>Astrobustible</SOA_HeavyDropship.comps.CompRefuelable.fuelGizmoLabel>
+  <!-- EN: Astrofuel -->
+  <SOA_HeavyDropship.comps.CompRefuelable.fuelLabel>Astrobustible</SOA_HeavyDropship.comps.CompRefuelable.fuelLabel>
+  
+  <!-- EN: heavy dropship (incoming) -->
+  <SOA_HeavyDropshipIncoming.label>lanzadera pesada (entrante)</SOA_HeavyDropshipIncoming.label>
+  
+  <!-- EN: heavy dropship (leaving) -->
+  <SOA_HeavyDropshipLeaving.label>lanzadera pesada (saliente)</SOA_HeavyDropshipLeaving.label>
+
+</LanguageData>
