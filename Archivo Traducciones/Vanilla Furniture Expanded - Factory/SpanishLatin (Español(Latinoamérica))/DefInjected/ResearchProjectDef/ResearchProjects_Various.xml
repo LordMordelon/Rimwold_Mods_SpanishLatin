@@ -1,10 +1,10 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: basic factories -->
-  <VFE_BasicFactories.label>TODO</VFE_BasicFactories.label>
+  <VFE_BasicFactories.label>fábricas básicas</VFE_BasicFactories.label>
   <!-- EN: Construct basic factories, conveyor belts with splitters, mergers, filters and underground conveyors, as well as factory hoppers to automate certain tasks around the colony. -->
-  <VFE_BasicFactories.description>TODO</VFE_BasicFactories.description>
+  <VFE_BasicFactories.description>Construye fábricas básicas, cintas transportadoras con divisores, fusionadoras, filtros y cintas subterráneas, así como tolvas de fábrica para automatizar ciertas tareas en la colonia.</VFE_BasicFactories.description>
   <!-- EN:
     <li>subject->industrial efficiency</li>
     <li>subject_story->pioneered the first integrated production lines</li>
@@ -12,12 +12,16 @@
     <li>subject_story->saw beyond the chaos of factory floors to the beauty of synchronized machinery</li>
     <li>subject_gerund->laying the groundwork for modern manufacturing</li>
   -->
-  <VFE_BasicFactories.generalRules.rulesStrings>TODO</VFE_BasicFactories.generalRules.rulesStrings>
+  <VFE_BasicFactories.generalRules.rulesStrings>subject->eficiencia industrial
+subject_story->fue pionero en las primeras líneas de producción integradas
+subject_story->transformó un pequeño taller en una piedra angular de la revolución industrial
+subject_story->vio más allá del caos de los pisos de fábrica la belleza de la maquinaria sincronizada
+subject_gerund->sentando las bases de la manufactura moderna</VFE_BasicFactories.generalRules.rulesStrings>
   
   <!-- EN: complex factories -->
-  <VFE_ComplexFactories.label>TODO</VFE_ComplexFactories.label>
+  <VFE_ComplexFactories.label>fábricas complejas</VFE_ComplexFactories.label>
   <!-- EN: Construct complex, specific factories capable of manufacturing components, creating plasteel alloy and much more. -->
-  <VFE_ComplexFactories.description>TODO</VFE_ComplexFactories.description>
+  <VFE_ComplexFactories.description>Construye fábricas complejas y especializadas capaces de fabricar componentes, crear aleaciones de plasteel y mucho más.</VFE_ComplexFactories.description>
   <!-- EN:
     <li>subject->automated fabrication</li>
     <li>subject_story->unveiled the potential of autonomous machines in electronics production</li>
@@ -25,6 +29,10 @@
     <li>subject_story->revolutionized the production of high-tech components and alloys, making them accessible to all</li>
     <li>subject_gerund->streamlining the creation of electronics and alloys</li>
   -->
-  <VFE_ComplexFactories.generalRules.rulesStrings>TODO</VFE_ComplexFactories.generalRules.rulesStrings>
+  <VFE_ComplexFactories.generalRules.rulesStrings>subject->fabricación automatizada
+subject_story->reveló el potencial de las máquinas autónomas en la producción de electrónica
+subject_story->tendió un puente entre las materias primas y la tecnología avanzada
+subject_story->revolucionó la producción de componentes y aleaciones de alta tecnología, haciéndolos accesibles para todos
+subject_gerund->optimizando la creación de electrónica y aleaciones</VFE_ComplexFactories.generalRules.rulesStrings>
   
 </LanguageData>
