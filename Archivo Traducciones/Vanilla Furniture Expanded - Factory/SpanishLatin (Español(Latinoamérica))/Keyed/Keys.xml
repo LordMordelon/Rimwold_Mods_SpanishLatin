@@ -1,0 +1,139 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+	<!-- EN: This factory is not working at the moment. -->
+  <VFEFactory_FactoryNotWorking>TODO</VFEFactory_FactoryNotWorking>
+	<!-- EN: Overclock: {0} -->
+  <VFEFactory_Overclock>TODO</VFEFactory_Overclock>
+	<!-- EN: Overclock production -->
+  <VFEFactory_OverclockWindowLabel>TODO</VFEFactory_OverclockWindowLabel>
+	<!-- EN: Increase energy usage to operate at a faster rate. {0} -->
+  <VFEFactory_OverclockDesc>TODO</VFEFactory_OverclockDesc>
+	<!-- EN: Variable output -->
+  <VFEFactory_VariableOutput>TODO</VFEFactory_VariableOutput>
+	<!-- EN: 10 steel per body size -->
+  <VFEFactory_SteelPerBodySize>TODO</VFEFactory_SteelPerBodySize>
+	<!-- EN: 1 chemfuel per 0.1 nutrition -->
+  <VFEFactory_ChemfuelPerNutrition>TODO</VFEFactory_ChemfuelPerNutrition>
+	<!-- EN: 20 blocks of the same stone as the chunk used -->
+  <VFEFactory_MasonryBlocks>TODO</VFEFactory_MasonryBlocks>
+	<!-- EN: Meat of the corpse in the form of processed mince -->
+  <VFEFactory_Butchery>TODO</VFEFactory_Butchery>
+	<!-- EN: Meat of the corpse in the form of human meat -->
+  <VFEFactory_ButcheryHuman>TODO</VFEFactory_ButcheryHuman>
+	<!-- EN: Meat of the corpse in the form of insect meat -->
+  <VFEFactory_ButcheryInsect>TODO</VFEFactory_ButcheryInsect>
+	<!-- EN: Meat of the corpse in the form of twisted meat -->
+  <VFEFactory_ButcheryEntity>TODO</VFEFactory_ButcheryEntity>
+	<!-- EN: 24 kibble per 1 nutrition -->
+  <VFEFactory_KibbleOutput>TODO</VFEFactory_KibbleOutput>
+	<!-- EN: 32 pemmican per 1 nutrition -->
+  <VFEFactory_PemmicanOutput>TODO</VFEFactory_PemmicanOutput>
+	<!-- EN: 20 cans per 1 nutrition -->
+  <VFEFactory_Cans>TODO</VFEFactory_Cans>
+	<!-- EN: 4 meals per 2.4 nutrition -->
+  <VFEFactory_SurvivalMealOutput>TODO</VFEFactory_SurvivalMealOutput>
+	<!-- EN: 4 meals per 2 nutrition -->
+  <VFEFactory_MassProducedMealOutput>TODO</VFEFactory_MassProducedMealOutput>
+	<!-- EN: 10 baby food per 0.25 nutrition -->
+  <VFEFactory_BabyFoodOutput>TODO</VFEFactory_BabyFoodOutput>
+	<!-- EN: 1 to 3 fish -->
+  <VFEFactory_RandomFishAmount>TODO</VFEFactory_RandomFishAmount>
+	<!-- EN: Random metals -->
+  <VFEFactory_Metals>TODO</VFEFactory_Metals>
+	<!-- EN: Change direction -->
+  <VFEFactory_ChangeDirection>TODO</VFEFactory_ChangeDirection>
+	<!-- EN: Change the direction of this conveyor belt. -->
+  <VFEFactory_ChangeDirectionDesc>TODO</VFEFactory_ChangeDirectionDesc>
+	<!-- EN: North -->
+  <VFEFactory_DirectionNorth>TODO</VFEFactory_DirectionNorth>
+	<!-- EN: East -->
+  <VFEFactory_DirectionEast>TODO</VFEFactory_DirectionEast>
+	<!-- EN: South -->
+  <VFEFactory_DirectionSouth>TODO</VFEFactory_DirectionSouth>
+	<!-- EN: West -->
+  <VFEFactory_DirectionWest>TODO</VFEFactory_DirectionWest>
+	<!-- EN: Filter -->
+  <VFEFactory_TabSplitterFilter>TODO</VFEFactory_TabSplitterFilter>
+	<!-- EN: Create link -->
+  <VFEFactory_CommandCreateLink>TODO</VFEFactory_CommandCreateLink>
+	<!-- EN: Link an underground conveyor entrance and exit together to allow items to pass. -->
+  <VFEFactory_CommandCreateLinkDesc>TODO</VFEFactory_CommandCreateLinkDesc>
+	<!-- EN: Break link -->
+  <VFEFactory_CommandBreakLink>TODO</VFEFactory_CommandBreakLink>
+	<!-- EN: Unlink an underground conveyor entrance and exit, allowing for new links to be established. -->
+  <VFEFactory_CommandBreakLinkDesc>TODO</VFEFactory_CommandBreakLinkDesc>
+	<!-- EN: Select linked -->
+  <VFEFactory_CommandSelectLinked>TODO</VFEFactory_CommandSelectLinked>
+	<!-- EN: Show and select the linked structure. -->
+  <VFEFactory_CommandSelectLinkedDesc>TODO</VFEFactory_CommandSelectLinkedDesc>
+	<!-- EN: Doesn't work due to missing link to an underground conveyor exit. -->
+  <VFEFactory_ConnectionMissing>TODO</VFEFactory_ConnectionMissing>
+	<!-- EN: Can't link: Already linked. -->
+  <VFEFactory_AlreadyLinked>TODO</VFEFactory_AlreadyLinked>
+	<!-- EN: Can't link: Cannot link to self. -->
+  <VFEFactory_CantLinkSelf>TODO</VFEFactory_CantLinkSelf>
+	<!-- EN: Can't link: {0} is not a valid link target. -->
+  <VFEFactory_NotValidTarget>TODO</VFEFactory_NotValidTarget>
+	<!-- EN: Items underground: {0} -->
+  <VFEFactory_ItemsUnderground>TODO</VFEFactory_ItemsUnderground>
+	<!-- EN: Increase zone -->
+  <VFEFactory_IncreaseZone>TODO</VFEFactory_IncreaseZone>
+	<!-- EN: Extend the zone in which autofarmer will harvest and sow crops. -->
+  <VFEFactory_IncreaseZoneDesc>TODO</VFEFactory_IncreaseZoneDesc>
+	<!-- EN: Decrease zone -->
+  <VFEFactory_DecreaseZone>TODO</VFEFactory_DecreaseZone>
+	<!-- EN: Contract the zone in which autofarmer will harvest and sow crops. -->
+  <VFEFactory_DecreaseZoneDesc>TODO</VFEFactory_DecreaseZoneDesc>
+	<!-- EN: Start -->
+  <VFEFactory_StartAutofarmer>TODO</VFEFactory_StartAutofarmer>
+	<!-- EN: Initiate the autofarmer now. It will move through the designated zone, harvesting and sowing crops. It will return back to the autofarmer platform when done. -->
+  <VFEFactory_StartAutofarmerDesc>TODO</VFEFactory_StartAutofarmerDesc>
+	<!-- EN: Cancel -->
+  <VFEFactory_CancelAutofarmer>TODO</VFEFactory_CancelAutofarmer>
+	<!-- EN: Cancel the process and have the autofarmer return to the platform. -->
+  <VFEFactory_CancelAutofarmerDesc>TODO</VFEFactory_CancelAutofarmerDesc>
+	<!-- EN: Autoharvesting -->
+  <VFEFactory_Autoharvesting>TODO</VFEFactory_Autoharvesting>
+	<!-- EN: Enable or disable automatic harvesting and plant cutting in the designated zone. -->
+  <VFEFactory_AutoharvestingDesc>TODO</VFEFactory_AutoharvestingDesc>
+	<!-- EN: Autosowing -->
+  <VFEFactory_Autosowing>TODO</VFEFactory_Autosowing>
+	<!-- EN: Enable or disable automatic sowing of the selected crop. -->
+  <VFEFactory_AutosowingDesc>TODO</VFEFactory_AutosowingDesc>
+	<!-- EN: Autocycle when grown -->
+  <VFEFactory_AutocycleWhenGrown>TODO</VFEFactory_AutocycleWhenGrown>
+	<!-- EN: Enable or disable an automatic harvesting/sowing cycle when crops in the zone reach 100% maturity. -->
+  <VFEFactory_AutocycleWhenGrownDesc>TODO</VFEFactory_AutocycleWhenGrownDesc>
+	<!-- EN: Autofarmer cannot initiate due to a large object obstructing its path. -->
+  <VFEFactory_AutofarmerObstructed>TODO</VFEFactory_AutofarmerObstructed>
+	<!-- EN: Haul from conveyor -->
+  <VFEFactory_HaulFromConveyor>TODO</VFEFactory_HaulFromConveyor>
+	<!-- EN: Cannot haul from conveyor -->
+  <VFEFactory_CannotHaulFromConveyor>TODO</VFEFactory_CannotHaulFromConveyor>
+	<!-- EN: Needs to be built on water -->
+  <VFEFactory_NeedsWater>TODO</VFEFactory_NeedsWater>
+	<!-- EN: Needs to be built on water that supports fish -->
+  <VFEFactory_NeedsFish>TODO</VFEFactory_NeedsFish>
+	<!-- EN: Fish farm output needs to be on land -->
+  <VFEFactory_OutputOnLand>TODO</VFEFactory_OutputOnLand>
+	<!-- EN: Allow taking -->
+  <VFEFactory_AllowTaking>TODO</VFEFactory_AllowTaking>
+	<!-- EN: Allow colonists to take items from this factory hopper. -->
+  <VFEFactory_AllowTakingDesc>TODO</VFEFactory_AllowTakingDesc>
+	<!-- EN: Allow inserting -->
+  <VFEFactory_AllowInserting>TODO</VFEFactory_AllowInserting>
+	<!-- EN: Allow colonists to manually insert items into this factory hopper. -->
+  <VFEFactory_AllowInsertingDesc>TODO</VFEFactory_AllowInsertingDesc>
+	<!-- EN: Force haul -->
+  <VFEFactory_ForceHaul>TODO</VFEFactory_ForceHaul>
+	<!-- EN: Invalid conveyor configuration: A conveyor cannot have 2 or more inputs and 2 or more outputs. -->
+  <VFEFactory_InvalidConveyorConfiguration>TODO</VFEFactory_InvalidConveyorConfiguration>
+	<!-- EN: filter belt -->
+  <VFEFactory_FilterBelt>TODO</VFEFactory_FilterBelt>
+	<!-- EN: splitter belt -->
+  <VFEFactory_SplitterBelt>TODO</VFEFactory_SplitterBelt>
+	<!-- EN: merger belt -->
+  <VFEFactory_MergerBelt>TODO</VFEFactory_MergerBelt>
+	<!-- EN: refueling port -->
+  <VFEFactory_RefuelingPort>TODO</VFEFactory_RefuelingPort>
+</LanguageData>
