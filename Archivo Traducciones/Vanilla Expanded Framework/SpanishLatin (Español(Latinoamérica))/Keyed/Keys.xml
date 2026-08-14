@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 	<!-- Shield -->
 	<!-- EN: Equip {0} as shield -->
@@ -113,91 +113,91 @@
 	<!-- Lootboxes -->
 	
 	<!-- EN: Market value range (base) -->
-  <VEF.TotalMarketValueRange>TODO</VEF.TotalMarketValueRange>
+  <VEF.TotalMarketValueRange>Rango de valor de mercado (base)</VEF.TotalMarketValueRange>
 	<!-- EN: Total market value range (minimum and maximum) of the objects that can be found by opening this loot box. -->
-  <VEF.TotalMarketValueRange_Desc>TODO</VEF.TotalMarketValueRange_Desc>
+  <VEF.TotalMarketValueRange_Desc>Rango de valor de mercado total (mínimo y máximo) de los objetos que se pueden encontrar al abrir esta caja de botín.</VEF.TotalMarketValueRange_Desc>
 	<!-- EN: Market value range (by quality) -->
-  <VEF.TotalMarketValueRange_Quality>TODO</VEF.TotalMarketValueRange_Quality>
+  <VEF.TotalMarketValueRange_Quality>Rango de valor de mercado (por calidad)</VEF.TotalMarketValueRange_Quality>
 	<!-- EN: Total market value range (minimum and maximum) of the objects that can be found by opening this loot box. Box quality has modified the base value by a factor of {0} -->
-  <VEF.TotalMarketValueRange_Quality_Desc>TODO</VEF.TotalMarketValueRange_Quality_Desc>
+  <VEF.TotalMarketValueRange_Quality_Desc>Rango de valor de mercado total (mínimo y máximo) de los objetos que se pueden encontrar al abrir esta caja de botín. La calidad de la caja ha modificado el valor base por un factor de {0}</VEF.TotalMarketValueRange_Quality_Desc>
 	
 	<!-- Extractable plants -->
 	<!-- EN: Extracted flower will die in {time} unless replanted. -->
-  <VPE_MinifiedFlowerWillDieIn>TODO</VPE_MinifiedFlowerWillDieIn>
+  <VPE_MinifiedFlowerWillDieIn>La flor extraída morirá en {time} a menos que sea replantada.</VPE_MinifiedFlowerWillDieIn>
 	<!-- EN: Extract flower -->
-  <VPE_ExtractFlower>TODO</VPE_ExtractFlower>
+  <VPE_ExtractFlower>Extraer flor</VPE_ExtractFlower>
 	<!-- EN: Extract this flower while keeping it alive, so that it can be replanted elsewhere. -->
-  <VPE_ExtractFlower_Desc>TODO</VPE_ExtractFlower_Desc>
+  <VPE_ExtractFlower_Desc>Extrae esta flor manteniéndola con vida para que pueda ser replantada en otro lugar.</VPE_ExtractFlower_Desc>
 	<!-- EN: Cancel extraction -->
-  <VPE_CancelExtractFlower>TODO</VPE_CancelExtractFlower>
+  <VPE_CancelExtractFlower>Cancelar extracción</VPE_CancelExtractFlower>
 	<!-- EN: Cancel extracting this flower. -->
-  <VPE_CancelExtractFlower_Desc>TODO</VPE_CancelExtractFlower_Desc>
+  <VPE_CancelExtractFlower_Desc>Cancela la extracción de esta flor.</VPE_CancelExtractFlower_Desc>
 	<!-- EN: Replant -->
-  <VPE_ReplantFlower>TODO</VPE_ReplantFlower>
+  <VPE_ReplantFlower>Replantar</VPE_ReplantFlower>
 	<!-- EN: The flower is currently packaged up for storage and transport. Use this command to replant it in the new location. -->
-  <VPE_ReplantFlower_Desc>TODO</VPE_ReplantFlower_Desc>
+  <VPE_ReplantFlower_Desc>La flor está actualmente empaquetada para almacenamiento y transporte. Usa este comando para replantarla en la nueva ubicación.</VPE_ReplantFlower_Desc>
 	
 	<!-- Blooming plants -->
 	<!-- EN: Age: {0} -->
-  <VPE_RealAge>TODO</VPE_RealAge>
+  <VPE_RealAge>Edad: {0}</VPE_RealAge>
 	<!-- EN: Flower is blooming -->
-  <VPE_FlowerIsBlooming>TODO</VPE_FlowerIsBlooming>
+  <VPE_FlowerIsBlooming>La flor está floreciendo</VPE_FlowerIsBlooming>
 	<!-- EN: Beauty by age: +{0} -->
-  <VPE_BeautyByAge>TODO</VPE_BeautyByAge>
+  <VPE_BeautyByAge>Belleza por edad: +{0}</VPE_BeautyByAge>
 	<!-- EN: Beauty by blooming: x{0} -->
-  <VPE_BeautyByBloming>TODO</VPE_BeautyByBloming>
+  <VPE_BeautyByBloming>Belleza por floración: x{0}</VPE_BeautyByBloming>
 	<!-- EN: Beauty because of weeds: {0} -->
-  <VPE_BeautyByWeeds>TODO</VPE_BeautyByWeeds>
+  <VPE_BeautyByWeeds>Belleza por malezas: {0}</VPE_BeautyByWeeds>
 	<!-- EN: Leafless beauty: {0} -->
-  <VPE_BeautyByLeafless>TODO</VPE_BeautyByLeafless>
+  <VPE_BeautyByLeafless>Belleza sin hojas: {0}</VPE_BeautyByLeafless>
 	<!-- EN: Leafless beauty -->
-  <VPE_LeaflessBeauty>TODO</VPE_LeaflessBeauty>
+  <VPE_LeaflessBeauty>Belleza sin hojas</VPE_LeaflessBeauty>
 	<!-- EN: Blooming flowers are pretty ugly when leafless due to cold. They won't die just for being leafless, but their beauty will be greatly affected. -->
-  <VPE_LeaflessBeauty_Desc>TODO</VPE_LeaflessBeauty_Desc>
+  <VPE_LeaflessBeauty_Desc>Las flores en floración son bastante feas cuando pierden las hojas debido al frío. No morirán solo por perder las hojas, pero su belleza se verá muy afectada.</VPE_LeaflessBeauty_Desc>
 	<!-- EN: Plant must be fully grown before you can add age to it -->
-  <VPE_MustBeGrown>TODO</VPE_MustBeGrown>
+  <VPE_MustBeGrown>La planta debe haber crecido por completo antes de poder añadirle edad</VPE_MustBeGrown>
 	<!-- EN: Age beauty modifier -->
-  <VPE_AgeBeautyModifier>TODO</VPE_AgeBeautyModifier>
+  <VPE_AgeBeautyModifier>Modificador de belleza por edad</VPE_AgeBeautyModifier>
 	<!-- EN: The beauty of this plant will increase by this amount for every year it is kept alive, up to a maximum of +{0}. -->
-  <VPE_AgeBeautyModifier_Desc>TODO</VPE_AgeBeautyModifier_Desc>
+  <VPE_AgeBeautyModifier_Desc>La belleza de esta planta aumentará en esta cantidad por cada año que se mantenga viva, hasta un máximo de +{0}.</VPE_AgeBeautyModifier_Desc>
 	<!-- EN: Bloom beauty modifier -->
-  <VPE_BloomBeautyModifier>TODO</VPE_BloomBeautyModifier>
+  <VPE_BloomBeautyModifier>Modificador de belleza por floración</VPE_BloomBeautyModifier>
 	<!-- EN: The beauty of this plant will be multiplied by this amount when in its blooming stage. -->
-  <VPE_BloomBeautyModifier_Desc>TODO</VPE_BloomBeautyModifier_Desc>
+  <VPE_BloomBeautyModifier_Desc>La belleza de esta planta se multiplicará por esta cantidad cuando esté en su etapa de floración.</VPE_BloomBeautyModifier_Desc>
 	<!-- EN: Blooming period -->
-  <VPE_BloomingPeriod>TODO</VPE_BloomingPeriod>
+  <VPE_BloomingPeriod>Período de floración</VPE_BloomingPeriod>
 	<!-- EN: This flower will enter a blooming stage in this period, or the equivalent in days of the year in permanent summer / winter. -->
-  <VPE_BloomingPeriod_Desc>TODO</VPE_BloomingPeriod_Desc>
+  <VPE_BloomingPeriod_Desc>Esta flor entrará en una etapa de floración en este período, o su equivalente en días del año en verano o invierno permanente.</VPE_BloomingPeriod_Desc>
 	<!-- EN: Minimum bloom temperature -->
-  <VPE_BloomTemperatureMin>TODO</VPE_BloomTemperatureMin>
+  <VPE_BloomTemperatureMin>Temperatura mínima de floración</VPE_BloomTemperatureMin>
 	<!-- EN: The minimum temperature the plant will need to enter a blooming stage.\n\n{0} -->
-  <VPE_BloomTemperatureMin_Desc>TODO</VPE_BloomTemperatureMin_Desc>
+  <VPE_BloomTemperatureMin_Desc>La temperatura mínima que la planta necesitará para entrar en etapa de floración.\n\n{0}</VPE_BloomTemperatureMin_Desc>
 	<!-- EN: Maximum bloom temperature -->
-  <VPE_BloomTemperatureMax>TODO</VPE_BloomTemperatureMax>
+  <VPE_BloomTemperatureMax>Temperatura máxima de floración</VPE_BloomTemperatureMax>
 	<!-- EN: The maximum temperature the plant will need to be below to enter a blooming stage.\n\n{0} -->
-  <VPE_BloomTemperatureMax_Desc>TODO</VPE_BloomTemperatureMax_Desc>
+  <VPE_BloomTemperatureMax_Desc>La temperatura máxima por debajo de la cual debe estar la planta para entrar en etapa de floración.\n\n{0}</VPE_BloomTemperatureMax_Desc>
 	<!-- EN: If the blooming stops due to low temperature, this flower can enter a blooming stage again if the conditions improve. -->
-  <VPE_CanBloom>TODO</VPE_CanBloom>
+  <VPE_CanBloom>Si la floración se detiene debido a las bajas temperaturas, esta flor puede volver a entrar en etapa de floración si las condiciones mejoran.</VPE_CanBloom>
 	<!-- EN: If the blooming stops due to low temperature, this flower won't be able to bloom again until next year! -->
-  <VPE_CantBloom>TODO</VPE_CantBloom>
+  <VPE_CantBloom>¡Si la floración se detiene debido a las bajas temperaturas, esta flor no podrá volver a florecer hasta el próximo año!</VPE_CantBloom>
 	<!-- EN: Deadly cold temperature -->
-  <VPE_DeadlyColdTemperature>TODO</VPE_DeadlyColdTemperature>
+  <VPE_DeadlyColdTemperature>Temperatura de frío mortal</VPE_DeadlyColdTemperature>
 	<!-- EN: Below this temperature, the plant will start dying. -->
-  <VPE_DeadlyColdTemperature_Desc>TODO</VPE_DeadlyColdTemperature_Desc>
+  <VPE_DeadlyColdTemperature_Desc>Por debajo de esta temperatura, la planta comenzará a morir.</VPE_DeadlyColdTemperature_Desc>
 	<!-- EN: Temperature too low for blooming -->
-  <VPE_TempTooLowForBlooming>TODO</VPE_TempTooLowForBlooming>
+  <VPE_TempTooLowForBlooming>Temperatura demasiado baja para florecer</VPE_TempTooLowForBlooming>
 	<!-- EN: Temperature too high for blooming -->
-  <VPE_TempTooHighForBlooming>TODO</VPE_TempTooHighForBlooming>
+  <VPE_TempTooHighForBlooming>Temperatura demasiado alta para florecer</VPE_TempTooHighForBlooming>
 	<!-- EN: Remove weeds -->
-  <VPE_RemoveWeeds>TODO</VPE_RemoveWeeds>
+  <VPE_RemoveWeeds>Eliminar malezas</VPE_RemoveWeeds>
 	<!-- EN: Remove the weeds that are negatively impacting this flower's beauty. -->
-  <VPE_RemoveWeeds_Desc>TODO</VPE_RemoveWeeds_Desc>
+  <VPE_RemoveWeeds_Desc>Elimina las malezas que están afectando negativamente la belleza de esta flor.</VPE_RemoveWeeds_Desc>
 	<!-- EN: Cancel weed removal -->
-  <VPE_CancelWeedRemoval>TODO</VPE_CancelWeedRemoval>
+  <VPE_CancelWeedRemoval>Cancelar eliminación de malezas</VPE_CancelWeedRemoval>
 	<!-- EN: Cancel removing the weeds from this flower. -->
-  <VPE_CancelWeedRemoval_Desc>TODO</VPE_CancelWeedRemoval_Desc>
+  <VPE_CancelWeedRemoval_Desc>Cancela la eliminación de malezas de esta flor.</VPE_CancelWeedRemoval_Desc>
 	<!-- EN: Weeds: {PLANTDEF_labelPlural} -->
-  <VEF_LetterLabelWeeds>TODO</VEF_LetterLabelWeeds>
+  <VEF_LetterLabelWeeds>Malezas: {PLANTDEF_labelPlural}</VEF_LetterLabelWeeds>
     <!-- EN: Weeds have spread across your {PLANTDEF_labelPlural}, as well as other nearby blooming flowers, greatly affecting their beauty.\n\nYou can order your colonists to remove the weeds, though it is a time consuming process. -->
-  <VEF_LetterWeeds>TODO</VEF_LetterWeeds>
+  <VEF_LetterWeeds>Las malezas se han extendido por tus {PLANTDEF_labelPlural}, así como por otras flores en floración cercanas, afectando en gran medida su belleza.\n\nPuedes ordenar a tus colonos que eliminen las malezas, aunque es un proceso que lleva tiempo.</VEF_LetterWeeds>
 </LanguageData>

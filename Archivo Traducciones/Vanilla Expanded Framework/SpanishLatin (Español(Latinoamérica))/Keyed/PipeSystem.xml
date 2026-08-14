@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   <!-- EN: {0} consumption -->
   <PipeSystem_Consumption>Consumo de {0}</PipeSystem_Consumption>
@@ -161,16 +161,16 @@
   <PipeSystem_ExtractingAtCurrent>Extrayendo producto con la calidad actual</PipeSystem_ExtractingAtCurrent>
    
    <!-- EN: Output factory hopper absent or not accepting item due to storage configuration. -->
-  <PipeSystem_OutputFactoryHopperIncorrect>TODO</PipeSystem_OutputFactoryHopperIncorrect>
+  <PipeSystem_OutputFactoryHopperIncorrect>La tolva de salida de la fábrica está ausente o no acepta el objeto debido a la configuración de almacenamiento.</PipeSystem_OutputFactoryHopperIncorrect>
    <!-- EN: Output factory hopper too full (max {0} units) -->
-  <PipeSystem_OutputFactoryHopperFull>TODO</PipeSystem_OutputFactoryHopperFull>
+  <PipeSystem_OutputFactoryHopperFull>La tolva de salida de la fábrica está demasiado llena (máx. {0} unidades)</PipeSystem_OutputFactoryHopperFull>
    
    <!-- EN: This processor is not situated in a room that counts as a {0}, and will receive a {1} penalty to its work speed. This will be recalculated once a process has started. -->
-  <PipeSystem_NotInRoomExplanation>TODO</PipeSystem_NotInRoomExplanation>
+  <PipeSystem_NotInRoomExplanation>Este procesador no está situado en una habitación que cuente como {0}, y recibirá una penalización de {1} a su velocidad de trabajo. Esto se recalculará una vez que haya comenzado un proceso.</PipeSystem_NotInRoomExplanation>
    <!-- EN: work speed -->
-  <PipeSystem_WorkSpeed>TODO</PipeSystem_WorkSpeed>
+  <PipeSystem_WorkSpeed>velocidad de trabajo</PipeSystem_WorkSpeed>
 
    <!-- EN: Can’t breed fish due to gill rot -->
-  <PipeSystem_InterruptedByGillRot>TODO</PipeSystem_InterruptedByGillRot>
+  <PipeSystem_InterruptedByGillRot>No se pueden criar peces debido a la podredumbre de las agallas</PipeSystem_InterruptedByGillRot>
   
 </LanguageData>
