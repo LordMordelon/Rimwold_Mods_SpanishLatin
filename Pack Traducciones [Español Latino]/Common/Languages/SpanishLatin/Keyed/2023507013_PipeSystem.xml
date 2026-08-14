@@ -31,6 +31,7 @@
   <PipeSystem_ExtractingAtCurrent>Extrayendo producto con la calidad actual</PipeSystem_ExtractingAtCurrent>
   <PipeSystem_IdleConsumption>Consumo de {0} en reposo</PipeSystem_IdleConsumption>
   <PipeSystem_IdleConsumptionExplained>La cantidad de {0} que este edificio extraerá de la red de {1} cuando esté inactivo.</PipeSystem_IdleConsumptionExplained>
+  <PipeSystem_InterruptedByGillRot>No se pueden criar peces debido a la podredumbre de las agallas</PipeSystem_InterruptedByGillRot>
   <PipeSystem_MakeProcess>Fabricar {0}</PipeSystem_MakeProcess>
   <PipeSystem_MarkedToTransferContent>Transfiriendo contenido a otros almacenes disponibles...</PipeSystem_MarkedToTransferContent>
   <PipeSystem_MissingInputIngredients>Faltan entradas: {0}</PipeSystem_MissingInputIngredients>
@@ -39,9 +40,12 @@
   <PipeSystem_NoStorageInNet>No hay almacén conectado</PipeSystem_NoStorageInNet>
   <PipeSystem_NoStorageInNetDesc>Las siguientes redes no están conectadas a ningún edificio de almacenamiento, pero necesitan uno:</PipeSystem_NoStorageInNetDesc>
   <PipeSystem_NotConnected>No conectado a {0}.</PipeSystem_NotConnected>
+  <PipeSystem_NotInRoomExplanation>Este procesador no está situado en una habitación que cuente como {0}, y recibirá una penalización de {1} a su velocidad de trabajo. Esto se recalculará una vez que haya comenzado un proceso.</PipeSystem_NotInRoomExplanation>
   <PipeSystem_NothingToPickUp>Nada que recoger</PipeSystem_NothingToPickUp>
   <PipeSystem_NothingToRefill>Nada para rellenar {0}</PipeSystem_NothingToRefill>
   <PipeSystem_OrNet>o red de {0}</PipeSystem_OrNet>
+  <PipeSystem_OutputFactoryHopperFull>La tolva de salida de la fábrica está demasiado llena (máx. {0} unidades)</PipeSystem_OutputFactoryHopperFull>
+  <PipeSystem_OutputFactoryHopperIncorrect>La tolva de salida de la fábrica está ausente o no acepta el objeto debido a la configuración de almacenamiento.</PipeSystem_OutputFactoryHopperIncorrect>
   <PipeSystem_OutputOnGround>Puede soltar en el suelo</PipeSystem_OutputOnGround>
   <PipeSystem_OutputToNet>{0} a la red</PipeSystem_OutputToNet>
   <PipeSystem_PasteAllRecipes>Pegar todos los procesos</PipeSystem_PasteAllRecipes>
@@ -68,5 +72,6 @@
   <PipeSystem_TransferContentDesc>Transfiere el contenido del almacén a otros almacenes disponibles.</PipeSystem_TransferContentDesc>
   <PipeSystem_ValveClosed>Válvula cerrada.</PipeSystem_ValveClosed>
   <PipeSystem_ValveOpened>Válvula abierta.</PipeSystem_ValveOpened>
+  <PipeSystem_WorkSpeed>velocidad de trabajo</PipeSystem_WorkSpeed>
   <PipeSystem_XFromNet>{0} de la red</PipeSystem_XFromNet>
 </LanguageData>
