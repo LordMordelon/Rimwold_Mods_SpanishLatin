@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: body size multiplier -->
+  <VEF_BodySize_Multiplier.label>multiplicador de tamaño corporal</VEF_BodySize_Multiplier.label>
+  <!-- EN: Increases the size of the pawn by a multiple of their current size -->
+  <VEF_BodySize_Multiplier.description>Aumenta el tamaño del peón por un múltiplo de su tamaño actual.</VEF_BodySize_Multiplier.description>
+  
+  <!-- EN: body size offset -->
+  <VEF_BodySize_Offset.label>desplazamiento de tamaño corporal</VEF_BodySize_Offset.label>
+  <!-- EN: Increases the size of the pawn relative to their current size -->
+  <VEF_BodySize_Offset.description>Aumenta el tamaño del peón en relación con su tamaño actual.</VEF_BodySize_Offset.description>
+  
+  <!-- EN: cosmetic body size multiplier -->
+  <VEF_CosmeticBodySize_Multiplier.label>multiplicador de tamaño corporal cosmético</VEF_CosmeticBodySize_Multiplier.label>
+  <!-- EN: Increases the size of the pawn by a multiple of their current size -->
+  <VEF_CosmeticBodySize_Multiplier.description>Aumenta el tamaño del peón por un múltiplo de su tamaño actual.</VEF_CosmeticBodySize_Multiplier.description>
+  
+  <!-- EN: cosmetic body size offset -->
+  <VEF_CosmeticBodySize_Offset.label>desplazamiento de tamaño corporal cosmético</VEF_CosmeticBodySize_Offset.label>
+  <!-- EN: Increases the size of the pawn relative to their current size -->
+  <VEF_CosmeticBodySize_Offset.description>Aumenta el tamaño del peón en relación con su tamaño actual.</VEF_CosmeticBodySize_Offset.description>
+  
+  <!-- EN: Shield max energy factor -->
+  <VEF_EnergyShieldEnergyMaxFactor.label>factor de energía máxima del escudo</VEF_EnergyShieldEnergyMaxFactor.label>
+  <!-- EN: Factor of the maximum shield energy that the user can boost through various means. -->
+  <VEF_EnergyShieldEnergyMaxFactor.description>Factor de la energía máxima del escudo que el usuario puede potenciar a través de varios medios.</VEF_EnergyShieldEnergyMaxFactor.description>
+  
+  <!-- EN: Shield max energy offset -->
+  <VEF_EnergyShieldEnergyMaxOffset.label>desplazamiento de energía máxima del escudo</VEF_EnergyShieldEnergyMaxOffset.label>
+  <!-- EN: Offset of the maximum shield energy that the user can boost through various means. -->
+  <VEF_EnergyShieldEnergyMaxOffset.description>Desplazamiento de la energía máxima del escudo que el usuario puede potenciar a través de varios medios.</VEF_EnergyShieldEnergyMaxOffset.description>
+  
+  <!-- EN: body food capacity multiplier -->
+  <VEF_FoodCapacityMultiplier.label>multiplicador de capacidad de comida corporal</VEF_FoodCapacityMultiplier.label>
+  <!-- EN: Increases the size of the pawn's hunger bar. This does not affect hunger -->
+  <VEF_FoodCapacityMultiplier.description>Aumenta el tamaño de la barra de hambre del peón. Esto no afecta al hambre.</VEF_FoodCapacityMultiplier.description>
+  
+  <!-- EN: growth point multiplier -->
+  <VEF_GrowthPointMultiplier.label>multiplicador de puntos de crecimiento</VEF_GrowthPointMultiplier.label>
+  <!-- EN: Increases the amount of growth points accumulated by children when learning -->
+  <VEF_GrowthPointMultiplier.description>Aumenta la cantidad de puntos de crecimiento acumulados por los niños al aprender.</VEF_GrowthPointMultiplier.description>
+  
+  <!-- EN: head size multiplier -->
+  <VEF_HeadSize_Cosmetic.label>multiplicador de tamaño de cabeza</VEF_HeadSize_Cosmetic.label>
+  
+  <!-- EN: Heatstroke buildup multiplier -->
+  <VEF_HeatstrokeBuildupMultiplier.label>TODO</VEF_HeatstrokeBuildupMultiplier.label>
+  <!-- EN: A factor on how fast heatstroke will be gained. -->
+  <VEF_HeatstrokeBuildupMultiplier.description>TODO</VEF_HeatstrokeBuildupMultiplier.description>
+  
+  <!-- EN: Mass carry capacity -->
+  <VEF_MassCarryCapacity.label>capacidad de carga de masa</VEF_MassCarryCapacity.label>
+  <!-- EN: Total mass carrying capacity of the pawn in caravans. -->
+  <VEF_MassCarryCapacity.description>Capacidad total de carga de masa del peón en caravanas.</VEF_MassCarryCapacity.description>
+  <!-- EN: {0} kg -->
+  <VEF_MassCarryCapacity.formatString>{0} kg</VEF_MassCarryCapacity.formatString>
+  <!-- EN: {0} kg -->
+  <VEF_MassCarryCapacity.formatStringUnfinalized>{0} kg</VEF_MassCarryCapacity.formatStringUnfinalized>
+  
+  <!-- EN: melee attack damage factor -->
+  <VEF_MeleeAttackDamageFactor.label>factor de daño de ataque cuerpo a cuerpo</VEF_MeleeAttackDamageFactor.label>
+  <!-- EN: A multiplier on melee attack damage. -->
+  <VEF_MeleeAttackDamageFactor.description>Un multiplicador del daño de ataque cuerpo a cuerpo.</VEF_MeleeAttackDamageFactor.description>
+  
+  <!-- EN: MTB Lovin Factor -->
+  <VEF_MTBLovinFactor.label>factor de tiempo medio entre amoríos</VEF_MTBLovinFactor.label>
+  <!-- EN: A factor of the mean time between (MTB) this person looking for some lovin'. -->
+  <VEF_MTBLovinFactor.description>Un factor del tiempo medio entre (MTB) que esta persona busca algo de amor.</VEF_MTBLovinFactor.description>
+  
+  <!-- EN: thought duration factor - negative -->
+  <VEF_NegativeThoughtDurationFactor.label>factor de duración del pensamiento - negativo</VEF_NegativeThoughtDurationFactor.label>
+  <!-- EN: The duration of negative thoughts is multiplied by this value. -->
+  <VEF_NegativeThoughtDurationFactor.description>La duración de los pensamientos negativos se multiplica por este valor.</VEF_NegativeThoughtDurationFactor.description>
+  
+  <!-- EN: thought duration factor - neutral -->
+  <VEF_NeutralThoughtDurationFactor.label>factor de duración del pensamiento - neutral</VEF_NeutralThoughtDurationFactor.label>
+  <!-- EN: The duration of neutral thoughts is multiplied by this value. -->
+  <VEF_NeutralThoughtDurationFactor.description>La duración de los pensamientos neutrales se multiplica por este valor.</VEF_NeutralThoughtDurationFactor.description>
+  
+  <!-- EN: pawn render offset -->
+  <VEF_PawnRenderPosOffset.label>desplazamiento de renderizado del peón</VEF_PawnRenderPosOffset.label>
+  <!-- EN: Modifies the pawn's rendered position in y-axis. -->
+  <VEF_PawnRenderPosOffset.description>Modifica la posición de renderizado del peón en el eje Y.</VEF_PawnRenderPosOffset.description>
+  
+  <!-- EN: thought duration factor - positive -->
+  <VEF_PositiveThoughtDurationFactor.label>factor de duración del pensamiento - positivo</VEF_PositiveThoughtDurationFactor.label>
+  <!-- EN: The duration of positive thoughts is multiplied by this value. -->
+  <VEF_PositiveThoughtDurationFactor.description>La duración de los pensamientos positivos se multiplica por este valor.</VEF_PositiveThoughtDurationFactor.description>
+  
+  <!-- EN: range attack damage factor -->
+  <VEF_RangeAttackDamageFactor.label>factor de daño de ataque a distancia</VEF_RangeAttackDamageFactor.label>
+  <!-- EN: A multiplier on range attack damage. -->
+  <VEF_RangeAttackDamageFactor.description>Un multiplicador del daño de ataque a distancia.</VEF_RangeAttackDamageFactor.description>
+  
+  <!-- EN: ranged dodge chance -->
+  <VEF_RangedDodgeChance.label>probabilidad de esquivar a distancia</VEF_RangedDodgeChance.label>
+  <!-- EN: Chance to dodge a ranged attack that would've otherwise hit, or (if negative) get hit by a ranged attack that was meant for a different target. -->
+  <VEF_RangedDodgeChance.description>Probabilidad de esquivar un ataque a distancia que de otro modo habría impactado.</VEF_RangedDodgeChance.description>
+  
+  <!-- EN: weapon range factor -->
+  <VEF_VerbRangeFactor.label>factor de alcance del arma</VEF_VerbRangeFactor.label>
+  <!-- EN: The range on weapons is multiplied by this value. -->
+  <VEF_VerbRangeFactor.description>El alcance de las armas se multiplica por este valor.</VEF_VerbRangeFactor.description>
+  <!-- EN: weapon range factor (people) -->
+  <VEF_VerbRangeFactor.labelForFullStatList>factor de alcance del arma (personas)</VEF_VerbRangeFactor.labelForFullStatList>
+  
+</LanguageData>

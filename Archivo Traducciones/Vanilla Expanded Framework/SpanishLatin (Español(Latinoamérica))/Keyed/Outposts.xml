@@ -12,9 +12,9 @@
   <Outposts.Settings.RaidFrequency>Rango de frecuencia de asaltos</Outposts.Settings.RaidFrequency>
     <!-- EN: Create -->
   <Outposts.Dialog.Create>Crear</Outposts.Dialog.Create>
-    <!-- EN: Create Outpost -->
+    <!-- EN: Create outpost -->
   <Outposts.Commands.Create.Label>Crear puesto de avanzada</Outposts.Commands.Create.Label>
-    <!-- EN: Create a new outpost using this caravan -->
+    <!-- EN: Create a new outpost using this caravan. -->
   <Outposts.Commands.Create.Desc>Crea un nuevo puesto de avanzada usando esta caravana</Outposts.Commands.Create.Desc>
     <!-- EN: Take items -->
   <Outposts.Commands.TakeItems.Label>Tomar objetos</Outposts.Commands.TakeItems.Label>
@@ -24,11 +24,11 @@
   <Outposts.Commands.GiveItems.Label>Dar objetos</Outposts.Commands.GiveItems.Label>
     <!-- EN: Take items from {0} and add them to the outpost -->
   <Outposts.Commands.GiveItems.Desc>Toma objetos de {0} y los añade al puesto de avanzada</Outposts.Commands.GiveItems.Desc>
-    <!-- EN: Outpost Lost -->
+    <!-- EN: Outpost lost -->
   <Outposts.Letters.Lost.Label>Puesto de avanzada perdido</Outposts.Letters.Lost.Label>
     <!-- EN: Regretfully, due to the deaths of all inhabitants, the outpost of {0} has been lost to us. -->
   <Outposts.Letters.Lost.Text>Lamentablemente, debido a la muerte de todos sus habitantes, hemos perdido el puesto de avanzada de {0}.</Outposts.Letters.Lost.Text>
-    <!-- EN: Outpost Battle Won -->
+    <!-- EN: Outpost battle won -->
   <Outposts.Letters.BattleWon.Label>Batalla ganada en el puesto de avanzada</Outposts.Letters.BattleWon.Label>
     <!-- EN: We have successfully won the battle for {0}.{1} -->
   <Outposts.Letters.BattleWon.Text>Hemos ganado con éxito la batalla por {0}.{1}</Outposts.Letters.BattleWon.Text>
@@ -42,11 +42,11 @@
   <Outposts.Letters.Items.Label>Objetos de {0}</Outposts.Letters.Items.Label>
     <!-- EN: You have received the follow items from the outpost {0}: -->
   <Outposts.Letters.Items.Text>Has recibido los siguientes objetos del puesto de avanzada {0}:</Outposts.Letters.Items.Text>
-    <!-- EN: Add Pawn -->
+    <!-- EN: Add pawn -->
   <Outposts.Commands.AddPawn.Label>Añadir peón</Outposts.Commands.AddPawn.Label>
     <!-- EN: Transfer a pawn from this caravan to the outpost -->
   <Outposts.Commands.AddPawn.Desc>Transfiere un peón de esta caravana al puesto de avanzada</Outposts.Commands.AddPawn.Desc>
-	<!-- EN: Delivery Destination -->
+	<!-- EN: Delivery destination -->
   <Outposts.Commands.DeliveryColony.Label>Destino de entrega</Outposts.Commands.DeliveryColony.Label>
     <!-- EN: Select which colony will recieve the goods. Currently: {0} -->
   <Outposts.Commands.DeliveryColony.Desc>Selecciona qué colonia recibirá los bienes. Actualmente: {0}</Outposts.Commands.DeliveryColony.Desc>
@@ -58,7 +58,7 @@
   <Outposts.Commands.StopPack.Label>Detener empaque</Outposts.Commands.StopPack.Label>
     <!-- EN: Cancel packing this outpost into a caravan -->
   <Outposts.Commands.StopPack.Desc>Cancela el empaque de este puesto de avanzada en una caravana</Outposts.Commands.StopPack.Desc>
-    <!-- EN: Remove Pawn -->
+    <!-- EN: Remove pawn -->
   <Outposts.Commands.Remove.Label>Retirar peón</Outposts.Commands.Remove.Label>
     <!-- EN: Remove a pawn from this outpost into a new caravan -->
   <Outposts.Commands.Remove.Desc>Retira un peón de este puesto de avanzada a una nueva caravana</Outposts.Commands.Remove.Desc>
@@ -86,7 +86,7 @@
   <Outposts.NotEnoughPawns>No hay suficientes peones en la caravana, se necesitan al menos {0}</Outposts.NotEnoughPawns>
     <!-- EN: Cumulative {0} skill: {1} -->
   <Outposts.TotalSkill>Habilidad de {0} acumulada: {1}</Outposts.TotalSkill>
-    <!-- EN: Too close to settlement or other outpost, must have at least 1 tile between them -->
+    <!-- EN: Too close to settlement or other outpost, must have at least 1 tile between them. -->
   <Outposts.TooClose>Demasiado cerca de un asentamiento u otro puesto de avanzada, debe haber al menos 1 casilla entre ellos</Outposts.TooClose>
     <!-- EN: Your transport pods have arrived. {0} has been added to {1}. -->
   <Outposts.AddedFromTransportPods>Tus cápsulas de transporte han llegado. {0} ha sido añadido a {1}.</Outposts.AddedFromTransportPods>
@@ -96,7 +96,7 @@
   <Outposts.SendNonPawns>¿Confirmas el envío de objetos al puesto de avanzada? Se perderán permanentemente.</Outposts.SendNonPawns>
     <!-- EN: Already packing -->
   <Outposts.AlreadyPacking>Ya se está empacando</Outposts.AlreadyPacking>
-    <!-- EN: Delivery Method -->
+    <!-- EN: Delivery method -->
   <Outposts.Settings.DeliveryMethod>Método de entrega</Outposts.Settings.DeliveryMethod>
     <!-- EN: Teleport items to colony -->
   <Outposts.Settings.DeliveryMethod.Teleport>Teletransportar objetos a la colonia</Outposts.Settings.DeliveryMethod.Teleport>
@@ -108,7 +108,7 @@
   <Outposts.Settings.DeliveryMethod.ForcePods>Enviar siempre cápsulas de carga</Outposts.Settings.DeliveryMethod.ForcePods>
     <!-- EN: Pods if available, otherwise pack animal -->
   <Outposts.Settings.DeliveryMethod.PackOrPods>Cápsulas si están disponibles, de lo contrario animal de carga</Outposts.Settings.DeliveryMethod.PackOrPods>
-    <!-- EN: Outpost Abandoned -->
+    <!-- EN: Outpost abandoned -->
   <Outposts.Abandoned>Puesto de avanzada abandonado</Outposts.Abandoned>
     <!-- EN: {0} has been abonded due to having no one inside to run it. It will very quickly be looted and taken over by nature, leaving no trace it was ever there. -->
   <Outposts.Abandoned.Desc>{0} ha sido abandonado por no tener a nadie dentro para dirigirlo. Será saqueado muy rápidamente y reclamado por la naturaleza, sin dejar rastro de que alguna vez estuvo allí.</Outposts.Abandoned.Desc>

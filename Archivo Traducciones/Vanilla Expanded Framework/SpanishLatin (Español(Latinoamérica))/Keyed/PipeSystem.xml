@@ -160,5 +160,17 @@
    <!-- EN: Extracting product at current quality -->
   <PipeSystem_ExtractingAtCurrent>Extrayendo producto con la calidad actual</PipeSystem_ExtractingAtCurrent>
    
+   <!-- EN: Output factory hopper absent or not accepting item due to storage configuration. -->
+  <PipeSystem_OutputFactoryHopperIncorrect>TODO</PipeSystem_OutputFactoryHopperIncorrect>
+   <!-- EN: Output factory hopper too full (max {0} units) -->
+  <PipeSystem_OutputFactoryHopperFull>TODO</PipeSystem_OutputFactoryHopperFull>
+   
+   <!-- EN: This processor is not situated in a room that counts as a {0}, and will receive a {1} penalty to its work speed. This will be recalculated once a process has started. -->
+  <PipeSystem_NotInRoomExplanation>TODO</PipeSystem_NotInRoomExplanation>
+   <!-- EN: work speed -->
+  <PipeSystem_WorkSpeed>TODO</PipeSystem_WorkSpeed>
+
+   <!-- EN: Can’t breed fish due to gill rot -->
+  <PipeSystem_InterruptedByGillRot>TODO</PipeSystem_InterruptedByGillRot>
   
 </LanguageData>

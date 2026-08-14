@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: breakdown factor -->
+  <VEF_BuildingBreakdownFactor.label>TODO</VEF_BuildingBreakdownFactor.label>
+  <!-- EN: A multiplier on how often this building breaks down. -->
+  <VEF_BuildingBreakdownFactor.description>TODO</VEF_BuildingBreakdownFactor.description>
+  
+  <!-- EN: learning rate -->
+  <VEF_BuildingLearningRateOffset.label>tasa de aprendizaje</VEF_BuildingLearningRateOffset.label>
+  <!-- EN: A multiplier on how quickly children learn during lessons which are assisted by this. -->
+  <VEF_BuildingLearningRateOffset.description>Un multiplicador de la rapidez con la que los niños aprenden durante las lecciones asistidas por esto.</VEF_BuildingLearningRateOffset.description>
+  
+  <!-- EN: maximum overclock factor -->
+  <VEF_BuildingMaxOverclockFactor.label>TODO</VEF_BuildingMaxOverclockFactor.label>
+  <!-- EN: A multiplier on the maximum possible overclock of a factory. -->
+  <VEF_BuildingMaxOverclockFactor.description>TODO</VEF_BuildingMaxOverclockFactor.description>
+  
+  <!-- EN: shield max energy -->
+  <VEF_EnergyShieldEnergyMaxBuilding.label>energía máxima del escudo</VEF_EnergyShieldEnergyMaxBuilding.label>
+  <!-- EN: The maximum energy the shield can have. More energy allows the shield to absorb more damage. -->
+  <VEF_EnergyShieldEnergyMaxBuilding.description>La energía máxima que puede tener el escudo. Más energía permite que el escudo absorba más daño.</VEF_EnergyShieldEnergyMaxBuilding.description>
+  <!-- EN: {0}00 -->
+  <VEF_EnergyShieldEnergyMaxBuilding.formatString>{0}00</VEF_EnergyShieldEnergyMaxBuilding.formatString>
+  
+  <!-- EN: shield radius -->
+  <VEF_EnergyShieldRadiusBuilding.label>radio del escudo</VEF_EnergyShieldRadiusBuilding.label>
+  <!-- EN: The radius of the energy shield protection. -->
+  <VEF_EnergyShieldRadiusBuilding.description>El radio de protección del escudo de energía.</VEF_EnergyShieldRadiusBuilding.description>
+  <!-- EN: {0} c -->
+  <VEF_EnergyShieldRadiusBuilding.formatString>{0} c</VEF_EnergyShieldRadiusBuilding.formatString>
+  
+  <!-- EN: shield recharge rate -->
+  <VEF_EnergyShieldRechargeRateBuilding.label>tasa de recarga del escudo</VEF_EnergyShieldRechargeRateBuilding.label>
+  <!-- EN: The rate at which the shield recharges energy per second, as long as it is not broken. -->
+  <VEF_EnergyShieldRechargeRateBuilding.description>La velocidad a la que el escudo recarga energía por segundo, siempre que no esté roto.</VEF_EnergyShieldRechargeRateBuilding.description>
+  <!-- EN: {0}/s -->
+  <VEF_EnergyShieldRechargeRateBuilding.formatString>{0}/s</VEF_EnergyShieldRechargeRateBuilding.formatString>
+  
+  <!-- EN: heat per second factor -->
+  <VEF_FactoryHeatPerSecondFactor.label>TODO</VEF_FactoryHeatPerSecondFactor.label>
+  <!-- EN: A multiplier on the heat per second produced by a factory. -->
+  <VEF_FactoryHeatPerSecondFactor.description>TODO</VEF_FactoryHeatPerSecondFactor.description>
+  
+</LanguageData>

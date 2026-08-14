@@ -1,50 +1,50 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <!-- EN: General -->
+    <!-- EN: General -->
   <VEF_GeneralTitle>General</VEF_GeneralTitle>
-  <!-- CSG -->
-  <!-- EN: Custom structure generation: -->
+    <!-- CSG -->
+    <!-- EN: Custom structure generation: -->
   <CSGTitle>Generación de estructuras personalizada:</CSGTitle>
-  <!-- EN: Enable structure generation debugging log:  -->
+    <!-- EN: Enable structure generation debugging log:  -->
   <CSGLog>Activar registro de depuración de generación de estructuras:</CSGLog>
 
-  <!-- Toggleable patches -->
-  <!-- EN: Toggleable patches -->
+    <!-- Toggleable patches -->
+    <!-- EN: Toggleable patches -->
   <VEF_TPTitle>Parches activables</VEF_TPTitle>
-  <!-- EN: All settings need a restart to be applied -->
+    <!-- EN: All settings need a restart to be applied -->
   <NeedRestart>Todos los ajustes necesitan un reinicio para aplicarse</NeedRestart>
-  <!-- EN: {0} patches found -->
+    <!-- EN: {0} patches found -->
   <XPatchFound>se encontraron {0} parches</XPatchFound>
 
-  <!-- Weather damages -->
-  <!-- EN: Weather damages -->
+    <!-- Weather damages -->
+    <!-- EN: Weather damages -->
   <VEF.WeatherDamages>Daños climáticos</VEF.WeatherDamages>
-  <!-- EN: {0} -->
+    <!-- EN: {0} -->
   <VEF.EnableWeatherDamage>{0}</VEF.EnableWeatherDamage>
-  <!-- Faction Discovery -->
-  <!-- EN: Faction Discovery -->
+    <!-- Faction Discovery -->
+    <!-- EN: Faction Discovery -->
   <FDTitle>Descubrimiento de facciones</FDTitle>
-  <!-- EN: You first need to load a save -->
+    <!-- EN: You first need to load a save -->
   <NeedToBeInGame>Primero debes cargar una partida</NeedToBeInGame>
-  <!-- EN: Add faction(s) -->
+    <!-- EN: Add faction(s) -->
   <AskForPopUp>Añadir facción(es)</AskForPopUp>
-  <!-- EN: Click this to be asked for each faction if you want it to be added to your game -->
+    <!-- EN: Click this to be asked for each faction if you want it to be added to your game -->
   <AskForPopUpExplained>Haz clic aquí para que se te pregunte por cada facción si quieres que se añada a tu partida</AskForPopUpExplained>
-  <!-- EN: {0} faction(s) can be added to your current save -->
+    <!-- EN: {0} faction(s) can be added to your current save -->
   <CanAddXFaction>Se pueden añadir {0} facción(es) a tu partida actual</CanAddXFaction>
 
-  <!-- EN: Disable mod source reports -->
+    <!-- EN: Disable mod source reports -->
   <VEF.DisableModSourceReport>Desactivar informes de origen de mods</VEF.DisableModSourceReport>
 
-  <!-- EN: Search:  -->
+    <!-- EN: Search:  -->
   <VEF.Shields.Search>Buscar:</VEF.Shields.Search>
-  <!-- EN: Reset mod settings to default -->
+    <!-- EN: Reset mod settings to default -->
   <VEF.Shields.ResetModSettingsToDefault>Restablecer ajustes del mod por defecto</VEF.Shields.ResetModSettingsToDefault>
-  <!-- EN: Set weapons to be usable or not usable with shields. -->
+    <!-- EN: Set weapons to be usable or not usable with shields. -->
   <VEF.Shields.ExplanationTitle>Establece si las armas son utilizables o no con escudos.</VEF.Shields.ExplanationTitle>
-  <!-- EN: Show melee weapons -->
+    <!-- EN: Show melee weapons -->
   <VEF.Shields.ShowMeleeWeapons>Mostrar armas cuerpo a cuerpo</VEF.Shields.ShowMeleeWeapons>
-  <!-- EN: Show range weapons -->
+    <!-- EN: Show range weapons -->
   <VEF.Shields.ShowRangeWeapons>Mostrar armas a distancia</VEF.Shields.ShowRangeWeapons>
 	
 	<!-- EN: Disable Texture Caching -->
