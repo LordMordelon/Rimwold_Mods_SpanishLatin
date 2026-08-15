@@ -1,7 +1,41 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
-  <!-- EN: firearm proficient -->
+  <!-- EN: aerial -->
+  <PE_AerialPilotingProficiency.label>pilotaje aéreo</PE_AerialPilotingProficiency.label>
+  <!-- EN: This person is proficient with aerial piloting. -->
+  <PE_AerialPilotingProficiency.description>Esta persona es competente en el pilotaje aéreo.</PE_AerialPilotingProficiency.description>
+  <!-- EN: aerial piloting -->
+  <PE_AerialPilotingProficiency.degreeDatas.aerial_piloting.label>pilotaje aéreo</PE_AerialPilotingProficiency.degreeDatas.aerial_piloting.label>
+  <!-- EN: This person is proficient with aerial piloting. -->
+  <PE_AerialPilotingProficiency.degreeDatas.aerial_piloting.description>Esta persona es competente en el pilotaje aéreo.</PE_AerialPilotingProficiency.degreeDatas.aerial_piloting.description>
+  
+  <!-- EN: animal -->
+  <PE_AnimalRidingProficiency.label>montura animal</PE_AnimalRidingProficiency.label>
+  <!-- EN: This person is proficient with animal riding. -->
+  <PE_AnimalRidingProficiency.description>Esta persona es competente en el montaje de animales.</PE_AnimalRidingProficiency.description>
+  <!-- EN: animal riding -->
+  <PE_AnimalRidingProficiency.degreeDatas.animal_riding.label>montura animal</PE_AnimalRidingProficiency.degreeDatas.animal_riding.label>
+  <!-- EN: This person is proficient with animal riding. -->
+  <PE_AnimalRidingProficiency.degreeDatas.animal_riding.description>Esta persona es competente en el montaje de animales.</PE_AnimalRidingProficiency.degreeDatas.animal_riding.description>
+  
+  <!-- EN: automobile -->
+  <PE_AutomobileDrivingProficiency.label>conducción de automóvil</PE_AutomobileDrivingProficiency.label>
+  <!-- EN: This person is proficient with automobile driving. -->
+  <PE_AutomobileDrivingProficiency.description>Esta persona es competente en la conducción de automóviles.</PE_AutomobileDrivingProficiency.description>
+  <!-- EN: automobile driving -->
+  <PE_AutomobileDrivingProficiency.degreeDatas.automobile_driving.label>conducción de automóvil</PE_AutomobileDrivingProficiency.degreeDatas.automobile_driving.label>
+  <!-- EN: This person is proficient with automobile driving. -->
+  <PE_AutomobileDrivingProficiency.degreeDatas.automobile_driving.description>Esta persona es competente en la conducción de automóviles.</PE_AutomobileDrivingProficiency.degreeDatas.automobile_driving.description>
+  
+  <!-- EN: basic speech -->
+  <PE_BasicSpeechProficiency.label>habla básica</PE_BasicSpeechProficiency.label>
+  <!-- EN: basic speech -->
+  <PE_BasicSpeechProficiency.degreeDatas.basic_speech.label>habla básica</PE_BasicSpeechProficiency.degreeDatas.basic_speech.label>
+  <!-- EN: This person has a basic understanding of language and can speak it with half effectiveness. -->
+  <PE_BasicSpeechProficiency.degreeDatas.basic_speech.description>Esta persona tiene un entendimiento básico del lenguaje y puede hablarlo con la mitad de efectividad.</PE_BasicSpeechProficiency.degreeDatas.basic_speech.description>
+  
+  <!-- EN: firearm -->
   <PE_FirearmProficiency.label>experto armado</PE_FirearmProficiency.label>
   <!-- EN: This person is proficient with firearm equipment. -->
   <PE_FirearmProficiency.description>Esta persona es competente con el equipo de armas de fuego.</PE_FirearmProficiency.description>
@@ -10,7 +44,14 @@
   <!-- EN: This person is proficient with firearm equipment. -->
   <PE_FirearmProficiency.degreeDatas.firearm_proficient.description>Esta persona es competente con el equipo de armas de fuego.</PE_FirearmProficiency.degreeDatas.firearm_proficient.description>
   
-  <!-- EN: high-tech proficient -->
+  <!-- EN: fluent speech -->
+  <PE_FluentSpeechProficiency.label>habla fluida</PE_FluentSpeechProficiency.label>
+  <!-- EN: fluent speech -->
+  <PE_FluentSpeechProficiency.degreeDatas.fluent_speech.label>habla fluida</PE_FluentSpeechProficiency.degreeDatas.fluent_speech.label>
+  <!-- EN: This person has a complete understanding of language and can speak it with full effectiveness. -->
+  <PE_FluentSpeechProficiency.degreeDatas.fluent_speech.description>Esta persona tiene un entendimiento completo del lenguaje y puede hablarlo con total efectividad.</PE_FluentSpeechProficiency.degreeDatas.fluent_speech.description>
+  
+  <!-- EN: high-tech -->
   <PE_HighTechProficiency.label>experto tecnológico</PE_HighTechProficiency.label>
   <!-- EN: This person is proficient with high-tech equipment. -->
   <PE_HighTechProficiency.description>Esta persona es competente con equipos de alta tecnología.</PE_HighTechProficiency.description>
@@ -19,7 +60,7 @@
   <!-- EN: This person is proficient with high-tech equipment. -->
   <PE_HighTechProficiency.degreeDatas.hightech_proficient.description>Esta persona es competente con equipos de alta tecnología.</PE_HighTechProficiency.degreeDatas.hightech_proficient.description>
   
-  <!-- EN: low-tech proficient -->
+  <!-- EN: low-tech -->
   <PE_LowTechProficiency.label>experto rústico</PE_LowTechProficiency.label>
   <!-- EN: This person is proficient with low-tech equipment. -->
   <PE_LowTechProficiency.description>Esta persona es competente con equipos de baja tecnología.</PE_LowTechProficiency.description>
@@ -27,5 +68,21 @@
   <PE_LowTechProficiency.degreeDatas.lowtech_proficient.label>experto rústico</PE_LowTechProficiency.degreeDatas.lowtech_proficient.label>
   <!-- EN: This person is proficient with low-tech equipment. -->
   <PE_LowTechProficiency.degreeDatas.lowtech_proficient.description>Esta persona es competente con equipos de baja tecnología.</PE_LowTechProficiency.degreeDatas.lowtech_proficient.description>
+  
+  <!-- EN: mute -->
+  <PE_MuteProficiency.label>mudo</PE_MuteProficiency.label>
+  <!-- EN: mute -->
+  <PE_MuteProficiency.degreeDatas.mute.label>mudo</PE_MuteProficiency.degreeDatas.mute.label>
+  <!-- EN: This person has no understanding of language. -->
+  <PE_MuteProficiency.degreeDatas.mute.description>Esta persona no tiene ningún entendimiento del lenguaje.</PE_MuteProficiency.degreeDatas.mute.description>
+  
+  <!-- EN: orbital -->
+  <PE_OrbitalPilotingProficiency.label>pilotaje orbital</PE_OrbitalPilotingProficiency.label>
+  <!-- EN: This person is proficient with orbital piloting. -->
+  <PE_OrbitalPilotingProficiency.description>Esta persona es competente en el pilotaje orbital.</PE_OrbitalPilotingProficiency.description>
+  <!-- EN: orbital piloting -->
+  <PE_OrbitalPilotingProficiency.degreeDatas.orbital_piloting.label>pilotaje orbital</PE_OrbitalPilotingProficiency.degreeDatas.orbital_piloting.label>
+  <!-- EN: This person is proficient with orbital piloting. -->
+  <PE_OrbitalPilotingProficiency.degreeDatas.orbital_piloting.description>Esta persona es competente en el pilotaje orbital.</PE_OrbitalPilotingProficiency.degreeDatas.orbital_piloting.description>
   
 </LanguageData>
