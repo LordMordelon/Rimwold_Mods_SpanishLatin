@@ -1,103 +1,137 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
     <!-- Animal transport pod crash -->
-    <!-- EN: Animal transport pod crash -->
-  <LetterLabelAnimalPodCrash>Cápsula de transporte animal estrellada</LetterLabelAnimalPodCrash>
-    <!-- EN: A crate with a {PAWN_kind} called {PAWN_nameDef} is crashing in a transport pod nearby. If it survives the crash it will be badly wounded.
-
-If rescued, it can freely join the colony, or go back to living in the wild. -->
-  <AnimalPodCrash>Una jaula con un(a) {PAWN_kind} llamado(a) {PAWN_nameDef} se está estrellando en una cápsula de transporte cerca. Si sobrevive al impacto estará gravemente herido(a).\n\nSi es rescatado(a), puede unirse libremente a la colonia o volver a vivir en estado salvaje.</AnimalPodCrash>
-
-    <!-- EN: Rescued animal join -->
-  <AJLabel>Animal rescatado se une</AJLabel>
-    <!-- EN: The animal you rescued is joining the colony -->
-  <AJLetter>El animal que rescataste se está uniendo a la colonia</AJLetter>
-    <!-- EN: Rescued animal don't join -->
-  <ADJLabel>Animal rescatado no se une</ADJLabel>
-    <!-- EN: The animal you rescued isn't joining the colony -->
-  <ADJLetter>El animal que rescataste no se está uniendo a la colonia</ADJLetter>
+    <!-- EN: Animal pod crash -->
+  <VEE_AnimalPodCrashLabel>TODO</VEE_AnimalPodCrashLabel>
+    <!-- EN: A transport pod carrying a {PAWN_kind} called {PAWN_nameDef} is crashing nearby. If it survives the crash, it will be badly wounded.\n\nIf you tend to its wounds, it may decide to stick around. -->
+  <VEE_AnimalPodCrashDesc>TODO</VEE_AnimalPodCrashDesc>
+    <!-- EN: Rescued animal joined -->
+  <VEE_AnimalPodCrashLabel_AceptedJoining>TODO</VEE_AnimalPodCrashLabel_AceptedJoining>
+    <!-- EN: The animal you rescued is joining the colony. -->
+  <VEE_AnimalPodCrashDesc_AceptedJoining>TODO</VEE_AnimalPodCrashDesc_AceptedJoining>
+    <!-- EN: Rescued animal didn't join -->
+  <VEE_AnimalPodCrashLabel_RefusedJoining>TODO</VEE_AnimalPodCrashLabel_RefusedJoining>
+    <!-- EN: The animal you rescued isn't joining the colony. -->
+  <VEE_AnimalPodCrashDesc_RefusedJoining>TODO</VEE_AnimalPodCrashDesc_RefusedJoining>
+	
     <!-- Traitor -->
-    <!-- EN: Traitor! -->
-  <TraitorLabel>¡Traidor!</TraitorLabel>
-    <!-- EN: A colonist named {PAWN_nameDef}, which you have accepted into your ranks, turns out to be an enemy agent from {PAWN_factionName}.
+    <!-- EN: Traitor: {PAWN_nameDef} -->
+  <VEE_TraitorLabel>TODO</VEE_TraitorLabel>
+    <!-- EN: {PAWN_nameDef} has revealed {PAWN_possessive} true colors!\n\n{PAWN_pronoun} was an agent of {Hostile_FactionName} sent to infiltrate your colony. {PAWN_pronoun} has violently turned against you and is now attacking your settlement from the inside. You can subdue or kill {PAWN_objective}! -->
+  <VEE_TraitorDesc>TODO</VEE_TraitorDesc>
+	<!-- EN: Raid (Visitors) -->
+  <VEE_TraitorGroupLabel>TODO</VEE_TraitorGroupLabel>
+	<!-- EN: The visitors turned out to be a deceptive raid from {0}. They are attacking immediately. -->
+  <VEE_TraitorGroupDesc>TODO</VEE_TraitorGroupDesc>
 
-You can capture {PAWN_objective} for recruitment or slavery purposes. -->
-  <Traitor>Un(a) colono(a) llamado(a) {PAWN_nameDef}, que has aceptado en tus filas, resulta ser un(a) agente enemigo(a) de {PAWN_factionName}.\n\nPuedes capturar{PAWN_objective} para propósitos de reclutamiento o esclavitud.</Traitor>
-
-    <!-- Space Battle -->
-    <!-- EN: Space battle -->
-  <SpaceBattleLabel>Batalla espacial</SpaceBattleLabel>
-    <!-- EN: Several massive spaceships have engaged in combat in the planet's orbit. Missed shots and debris can impact the ground in the area. This can lead to massive fires. -->
-  <SpaceBattle>Varias naves espaciales masivas han entablado combate en la órbita del planeta. Los disparos fallidos y los escombros pueden impactar el suelo en el área. Esto puede provocar incendios masivos.</SpaceBattle>
-
+    <!-- Orbital ship crash -->
+    <!-- EN: Orbital ship crash -->
+  <VEE_OrbitalCrashLabel>TODO</VEE_OrbitalCrashLabel>
+    <!-- EN: A massive orbital ship from {0} has suffered a catastrophic structural failure in orbit directly above your region!\n\nFor the next several hours, massive chunks of hull, volatile engine components, cargo bays, and escape pods will rain down across the area.\n\nKeep your colonists under roofs or carefully dodge the falling debris. Once the shower ends, there will be a lot of resources to salvage, and likely survivors to rescue from the wreckage. -->
+  <VEE_OrbitalCrashDesc>TODO</VEE_OrbitalCrashDesc>
+	
     <!-- Shuttle Crash -->
-    <!-- EN: Shuttle Crash -->
-  <ShuttleCrashLabel>Accidente de transbordador</ShuttleCrashLabel>
-    <!-- EN: A planet-bound shuttle is crashing nearby. If the crew survives the impact, they will be badly wounded. The crashed ship can be deconstructed for useful resources.
-
-The crew is not affiliated with any faction, which means they can be rescued and may join you freely, or captured for recruitment or slavery purposes. -->
-  <ShuttleCrash>Un transbordador con destino al planeta se está estrellando cerca. Si la tripulación sobrevive al impacto, estarán gravemente heridos. La nave estrellada puede ser desmantelada para obtener recursos útiles.\n\nLa tripulación no está afiliada a ninguna facción, lo que significa que pueden ser rescatados y unirse a ti libremente, o capturados para propósitos de reclutamiento o esclavitud.</ShuttleCrash>
+    <!-- EN: Shuttle crash -->
+  <VEE_ShuttleCrashLabel>TODO</VEE_ShuttleCrashLabel>
+    <!-- EN: A heavily damaged shuttle is plummeting from the sky and will violently crash nearby.\n\nThe impact will scatter chemfuel and ignite a dangerous fire.\n\nCargo and passengers will be found among the wreckage.\n\nYou must act quickly if you want to rescue the survivors, salvage the cargo, and stop the fire from spreading out of control. -->
+  <VEE_ShuttleCrashDesc>TODO</VEE_ShuttleCrashDesc>
 
     <!-- Earthquake -->
-    <!-- EN: Earthquake -->
-  <EarthquakeLabel>Terremoto</EarthquakeLabel>
-    <!-- EN: Changes in the planet's crust caused a small scale localised earthquake. Some structures can become damaged and roofs can collapse. -->
-  <Earthquake>Cambios en la corteza del planeta causaron un pequeño terremoto localizado. Algunas estructuras pueden dañarse y los techos pueden colapsar.</Earthquake>
+    <!-- EN: Earthquake (magnitude {0}) -->
+  <VEE_EarthquakeLabel>TODO</VEE_EarthquakeLabel>
+    <!-- EN: A magnitude {0} earthquake has struck the region!\n\nThe violent shaking has ruptured the ground and caused severe structural damage near the epicenter. Repairs may be required. -->
+  <VEE_EarthquakeDesc>TODO</VEE_EarthquakeDesc>
 
     <!-- Cargo pods (weapons) -->
-    <!-- EN: Cargo pods (weapons) -->
-  <CPWLabel>Cápsulas de carga (armas)</CPWLabel>
-    <!-- EN: You have detected a cluster of cargo pods crashing nearby.
-
-Perhaps you'll find something useful in the wreckage. -->
-  <CPW>Has detectado un grupo de cápsulas de carga estrellándose cerca.\n\nQuizás encuentres algo útil en los restos.</CPW>
+    <!-- EN: Cargo pods (weapon) -->
+  <VEE_WeaponCargoPodLabel>TODO</VEE_WeaponCargoPodLabel>
+    <!-- EN: You have detected a cargo pod landing nearby!\n\nIt seems to have carried some weapon, which you can retrieve from the wreckage. -->
+  <VEE_WeaponCargoPodDesc>TODO</VEE_WeaponCargoPodDesc>
 
     <!-- Cargo pods (apparel) -->
     <!-- EN: Cargo pods (apparel) -->
-  <CPALabel>Cápsulas de carga (vestimenta)</CPALabel>
-    <!-- EN: You have detected a cluster of cargo pods crashing nearby.
-
-Perhaps you'll find something useful in the wreckage. -->
-  <CPA>Has detectado un grupo de cápsulas de carga estrellándose cerca.\n\nQuizás encuentres algo útil en los restos.</CPA>
+  <VEE_ApparelCargoPodLabel>TODO</VEE_ApparelCargoPodLabel>
+    <!-- EN: You have detected a cluster of cargo pods landing nearby!\n\nThey seem to contain random apparel, which you can retrieve from the wreckage. -->
+  <VEE_ApparelCargoPodDesc>TODO</VEE_ApparelCargoPodDesc>
 
     <!-- Caravan animals wander in -->
     <!-- EN: Caravan animals wander in -->
-  <CAWILabel>Animales de caravana deambulan</CAWILabel>
-    <!-- EN: A group of {PAWN_kind}, abandoned or lost, wanders in.
-
-They seem to have belonged to some caravan, as they still carry packs with valuable items. You can collect these items if you tame them or kill them. Otherwise, they will leave the area in a couple of days. -->
-  <CAWI>Un grupo de {PAWN_kind}, abandonados o perdidos, deambula por la zona.\n\nParecen haber pertenecido a alguna caravana, ya que aún llevan mochilas con objetos valiosos. Puedes recolectar estos objetos si los domas o los matas. De lo contrario, dejarán el área en un par de días.</CAWI>
+  <VEE_CaravanAnimalsWanderLabel>TODO</VEE_CaravanAnimalsWanderLabel>
+    <!-- EN: A small group of {0} has wandered into the area from the wilderness.\n\nThey appear to be the remnants of a lost or destroyed merchant caravan, as they are burdened with packs full of trading goods.\n\nYou can attempt to tame the animals to claim them and their cargo safely, or you can hunt them down to forcibly take the supplies. -->
+  <VEE_CaravanAnimalsWanderDesc>TODO</VEE_CaravanAnimalsWanderDesc>
 
     <!-- Crop sprout -->
-    <!-- EN: Crop sprout -->
-  <CSLabel>Brote de cultivo</CSLabel>
-    <!-- EN: A large field of -->
-  <CS1>Un gran campo de </CS1>
-    <!-- EN: has sprouted nearby. If you wait for it to grow, you will be able to harvest plenty of food! If left unharvested, it will slowly rot and disappear. -->
-  <CS2> ha brotado cerca. Si esperas a que crezca, ¡podrás cosechar mucha comida! Si no se cosecha, se pudrirá lentamente y desaparecerá.</CS2>
-
+    <!-- EN: Wild {0} sprout -->
+  <VEE_CropSproutLabel>TODO</VEE_CropSproutLabel>
+    <!-- EN: A grove of wild {0} has sprouted nearby!\n\nIf you wait for the plants to grow, you'll be able to harvest them. -->
+  <VEE_CropSproutDesc>TODO</VEE_CropSproutDesc>
+   
     <!-- Battle animals wander in -->
     <!-- EN: Battle animals wander in -->
-  <BAWILabel>Animales de batalla deambulan</BAWILabel>
-    <!-- EN: A group of {0}, abandoned or lost, wanders in.
-
-They seem accustomed to human contact and are joining the colony. -->
-  <BAWI>Un grupo de {0}, abandonados o perdidos, deambula por la zona.\n\nParecen acostumbrados al contacto humano y se están uniendo a la colonia.</BAWI>
+  <VEE_BattleAnimalsWanderLabel>TODO</VEE_BattleAnimalsWanderLabel>
+    <!-- EN: A small pack of {0} has wandered into the area from the wilderness.\n\nThey appear to be accustomed to human presence, and have immediately bonded with the colony. \n\nGiven their natural combat capabilities, they will make excellent defensive pets if you assign a handler to train them. Alternatively, if you cannot afford to feed them, they can be slaughtered for food. -->
+  <VEE_BattleAnimalsWanderDesc>TODO</VEE_BattleAnimalsWanderDesc>
 
     <!-- wild men wander in -->
     <!-- EN: Wild men wander in -->
-  <WMWILabel>Hombres salvajes deambulan</WMWILabel>
-    <!-- EN: A small, pre-neolithic tribe of wild men wanders in. You can attempt to tame them. -->
-  <WMWI>Una pequeña tribu preneolítica de hombres salvajes deambula por la zona. Puedes intentar domesticarlos.</WMWI>
+  <VEE_WildMenWanderLabel>TODO</VEE_WildMenWanderLabel>
+    <!-- EN: A small tribe of humans living among wild animals has wandered into the area.\n\nThey are primitive and hungry, and will actively forage for food, which includes eating your crops or raiding unsecured food stockpiles.\n\nYou can attempt to tame them one by one to add them to your colony, arrest them, or deal with them by force if they become too much of a nuisance. -->
+  <VEE_WildMenWanderDesc>TODO</VEE_WildMenWanderDesc>
 
     <!-- Hunting party -->
     <!-- EN: Hunting party -->
-  <HPLabel>Grupo de caza</HPLabel>
-    <!-- EN: A group of hunters from {0} are passing through the area. They will hunt here for a few hours and then move on. -->
-  <HP>Un grupo de cazadores de {0} está pasando por el área. Cazarán aquí durante unas horas y luego seguirán su camino.</HP>
+  <VEE_HuntingPartyLabel>TODO</VEE_HuntingPartyLabel>
+    <!-- EN: A small hunting party from {0} has entered the area.\n\nThey have come to hunt the local wildlife for meat and leather. They are peaceful and will not attack your colonists, but they may deplete the local game. Once each hunter bags an animal, they will pack up their kills and leave. -->
+  <VEE_HuntingPartyDesc>TODO</VEE_HuntingPartyDesc>
 
     <!-- EN: Decaying due to drought. -->
   <VEE_Decay>Descomponiéndose debido a la sequía.</VEE_Decay>
     <!-- EN: Adjusted fertility due to drought: {0} -->
   <VEE_DroughtGui>Ajuste de la reproducción debido a la sequía: {0}</VEE_DroughtGui>
+	
+	<!--Single manhunter-->
+	<!-- EN: Manhunter: {0} -->
+  <VEE_ManhunterSingleArrivalLabel>TODO</VEE_ManhunterSingleArrivalLabel>
+	<!-- EN: A lone, scaria-infected {0} has entered the area from the wilderness.\n\nIt is entirely rabid and will aggressively attack any human it sees. Keep your colonists inside or draft them to deal with the threat.\n\nBecause of the disease, it will likely die on its own in a few days. -->
+  <VEE_ManhunterSingleArrivalDesc>TODO</VEE_ManhunterSingleArrivalDesc>
+	
+	<!--Crashlanded-->
+	<!-- EN: Crashlanded -->
+  <VEE_CrashlandedLabel>TODO</VEE_CrashlandedLabel>
+	<!-- EN:  Three escape pods have slammed into the ground nearby. \n\nThree survivors have emerged from the wreckage, looking dazed and lost. They appear to have barely escaped a ship being torn apart in orbit. They will likely rest here to recover from cryptosleep sickness before moving on. -->
+  <VEE_CrashlandedDesc>TODO</VEE_CrashlandedDesc>
+    <!-- EN: Survivors offer to join -->
+  <VEE_CrashlandedChoiceLabel>TODO</VEE_CrashlandedChoiceLabel>
+    <!-- EN: The crashlanded survivors have noticed your colony's struggling numbers. Realizing that survival on the rim is nearly impossible alone, they have offered to join your settlement, bringing their pet and supplies with them.\n\nDo you accept their offer? -->
+  <VEE_CrashlandedChoiceText>TODO</VEE_CrashlandedChoiceText>
+	<!-- EN: Crashlanding survivors are packing their things and leaving. -->
+  <VEE_CrashlandedLeaving>TODO</VEE_CrashlandedLeaving>
+
+    <!-- Whiteout Refugees -->
+    <!-- EN: Desperate refugees -->
+  <VEE_WhiteoutRefugees>TODO</VEE_WhiteoutRefugees>
+    <!-- EN: A small group of {0} freezing survivors has appeared at the edge of your settlement.\n\nThey are severely hypothermic and starving due to the ongoing whiteout. They are begging you to open your doors and share your warmth and food.\n\nBe warned: they have the wild look of desperate people. If you turn them away to freeze in the snow, they will likely try to take your shelter by force.\n\nWill you accept them? -->
+  <VEE_WhiteoutRefugeesText>TODO</VEE_WhiteoutRefugeesText>
+    <!-- EN: The refugees are grateful for your mercy and have joined the colony to recover from their ordeal. -->
+  <VEE_WhiteoutRefugees_Accepted>TODO</VEE_WhiteoutRefugees_Accepted>
+    <!-- EN: The refugees have turned on you! Betrayed and desperate, they have sworn to take your shelter by force.\n\nThey are attacking immediately. -->
+  <VEE_WhiteoutRefugees_Rejected>TODO</VEE_WhiteoutRefugees_Rejected>
+	
+	<!-- Psychic stimulation -->
+	
+	<!-- EN: Young -->
+  <VEE_Young>TODO</VEE_Young>
+	<!-- EN: Elder -->
+  <VEE_Elder>TODO</VEE_Elder>
+	
+	<!-- Psychic overdrive -->
+	
+	<!-- EN: Male -->
+  <VEE_Male>TODO</VEE_Male>
+	<!-- EN: Female -->
+  <VEE_Female>TODO</VEE_Female>
+	
+	<!-- All stage incidents -->
+	<!-- EN: Current stage: {0}. Stage has been active for {1} -->
+  <VEE_CurrentStage>TODO</VEE_CurrentStage>
 </LanguageData>
