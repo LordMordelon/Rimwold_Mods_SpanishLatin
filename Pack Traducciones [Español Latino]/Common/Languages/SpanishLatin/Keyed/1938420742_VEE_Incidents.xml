@@ -1,34 +1,51 @@
 <?xml version='1.0' encoding='utf-8'?>
 <LanguageData>
-  <ADJLabel>Animal rescatado no se une</ADJLabel>
-  <ADJLetter>El animal que rescataste no se está uniendo a la colonia</ADJLetter>
-  <AJLabel>Animal rescatado se une</AJLabel>
-  <AJLetter>El animal que rescataste se está uniendo a la colonia</AJLetter>
-  <AnimalPodCrash>Una jaula con un(a) {PAWN_kind} llamado(a) {PAWN_nameDef} se está estrellando en una cápsula de transporte cerca. Si sobrevive al impacto estará gravemente herido(a).\n\nSi es rescatado(a), puede unirse libremente a la colonia o volver a vivir en estado salvaje.</AnimalPodCrash>
-  <BAWI>Un grupo de {0}, abandonados o perdidos, deambula por la zona.\n\nParecen acostumbrados al contacto humano y se están uniendo a la colonia.</BAWI>
-  <BAWILabel>Animales de batalla deambulan</BAWILabel>
-  <CAWI>Un grupo de {PAWN_kind}, abandonados o perdidos, deambula por la zona.\n\nParecen haber pertenecido a alguna caravana, ya que aún llevan mochilas con objetos valiosos. Puedes recolectar estos objetos si los domas o los matas. De lo contrario, dejarán el área en un par de días.</CAWI>
-  <CAWILabel>Animales de caravana deambulan</CAWILabel>
-  <CPA>Has detectado un grupo de cápsulas de carga estrellándose cerca.\n\nQuizás encuentres algo útil en los restos.</CPA>
-  <CPALabel>Cápsulas de carga (vestimenta)</CPALabel>
-  <CPW>Has detectado un grupo de cápsulas de carga estrellándose cerca.\n\nQuizás encuentres algo útil en los restos.</CPW>
-  <CPWLabel>Cápsulas de carga (armas)</CPWLabel>
-  <CS1>Un gran campo de </CS1>
-  <CS2> ha brotado cerca. Si esperas a que crezca, ¡podrás cosechar mucha comida! Si no se cosecha, se pudrirá lentamente y desaparecerá.</CS2>
-  <CSLabel>Brote de cultivo</CSLabel>
-  <Earthquake>Cambios en la corteza del planeta causaron un pequeño terremoto localizado. Algunas estructuras pueden dañarse y los techos pueden colapsar.</Earthquake>
-  <EarthquakeLabel>Terremoto</EarthquakeLabel>
-  <HP>Un grupo de cazadores de {0} está pasando por el área. Cazarán aquí durante unas horas y luego seguirán su camino.</HP>
-  <HPLabel>Grupo de caza</HPLabel>
-  <LetterLabelAnimalPodCrash>Cápsula de transporte animal estrellada</LetterLabelAnimalPodCrash>
-  <ShuttleCrash>Un transbordador con destino al planeta se está estrellando cerca. Si la tripulación sobrevive al impacto, estarán gravemente heridos. La nave estrellada puede ser desmantelada para obtener recursos útiles.\n\nLa tripulación no está afiliada a ninguna facción, lo que significa que pueden ser rescatados y unirse a ti libremente, o capturados para propósitos de reclutamiento o esclavitud.</ShuttleCrash>
-  <ShuttleCrashLabel>Accidente de transbordador</ShuttleCrashLabel>
-  <SpaceBattle>Varias naves espaciales masivas han entablado combate en la órbita del planeta. Los disparos fallidos y los escombros pueden impactar el suelo en el área. Esto puede provocar incendios masivos.</SpaceBattle>
-  <SpaceBattleLabel>Batalla espacial</SpaceBattleLabel>
-  <Traitor>Un(a) colono(a) llamado(a) {PAWN_nameDef}, que has aceptado en tus filas, resulta ser un(a) agente enemigo(a) de {PAWN_factionName}.\n\nPuedes capturar{PAWN_objective} para propósitos de reclutamiento o esclavitud.</Traitor>
-  <TraitorLabel>¡Traidor!</TraitorLabel>
+  <VEE_AnimalPodCrashDesc>Una cápsula de transporte que transporta a un {PAWN_kind} llamado {PAWN_nameDef} se está estrellando cerca. Si sobrevive al impacto, quedará gravemente herido.\n\nSi atiendes sus heridas, tal vez decida quedarse.</VEE_AnimalPodCrashDesc>
+  <VEE_AnimalPodCrashDesc_AceptedJoining>El animal que rescataste se ha unido a la colonia.</VEE_AnimalPodCrashDesc_AceptedJoining>
+  <VEE_AnimalPodCrashDesc_RefusedJoining>El animal que rescataste no se unirá a la colonia.</VEE_AnimalPodCrashDesc_RefusedJoining>
+  <VEE_AnimalPodCrashLabel>Cápsula de transporte animal estrellada</VEE_AnimalPodCrashLabel>
+  <VEE_AnimalPodCrashLabel_AceptedJoining>Animal rescatado se unió</VEE_AnimalPodCrashLabel_AceptedJoining>
+  <VEE_AnimalPodCrashLabel_RefusedJoining>Animal rescatado no se unió</VEE_AnimalPodCrashLabel_RefusedJoining>
+  <VEE_ApparelCargoPodDesc>¡Has detectado un grupo de cápsulas de carga aterrizando cerca!\n\nParecen contener prendas de ropa aleatorias, las cuales puedes recuperar de entre los restos.</VEE_ApparelCargoPodDesc>
+  <VEE_ApparelCargoPodLabel>Cápsulas de carga (ropa)</VEE_ApparelCargoPodLabel>
+  <VEE_BattleAnimalsWanderDesc>Una pequeña manada de {0} ha entrado en la zona desde la naturaleza.\n\nParecen estar acostumbrados a la presencia humana y se han encariñado de inmediato con la colonia.\n\nDadas sus capacidades de combate naturales, serán excelentes mascotas defensivas si asignas a un cuidador para entrenarlos. Alternativamente, si no puedes permitirte alimentarlos, pueden ser sacrificados para obtener comida.</VEE_BattleAnimalsWanderDesc>
+  <VEE_BattleAnimalsWanderLabel>Animales de batalla deambulan</VEE_BattleAnimalsWanderLabel>
+  <VEE_CaravanAnimalsWanderDesc>Un pequeño grupo de {0} ha entrado en la zona desde la naturaleza.\n\nParecen ser los restos de una caravana mercante perdida o destruida, ya que están cargados con paquetes llenos de mercancías comerciales.\n\nPuedes intentar domesticar a los animales para quedarte con ellos y su carga de forma segura, o puedes cazarlos para tomar los suministros por la fuerza.</VEE_CaravanAnimalsWanderDesc>
+  <VEE_CaravanAnimalsWanderLabel>Animales de caravana deambulan</VEE_CaravanAnimalsWanderLabel>
+  <VEE_CrashlandedChoiceLabel>Los supervivientes ofrecen unirse</VEE_CrashlandedChoiceLabel>
+  <VEE_CrashlandedChoiceText>Los supervivientes del accidente han notado el reducido número de miembros de tu colonia. Al darse cuenta de que sobrevivir en el borde exterior es casi imposible en solitario, han ofrecido unirse a tu asentamiento, trayendo a su mascota y suministros consigo.\n\n¿Aceptas su oferta?</VEE_CrashlandedChoiceText>
+  <VEE_CrashlandedDesc>Tres cápsulas de escape se han estrellado contra el suelo en las cercanías.\n\nTres supervivientes han emergido de los restos, aturdidos y desorientados. Parecen haber escapado por poco de una nave despedazada en órbita. Probablemente descansarán aquí para recuperarse del mareo por criptosueño antes de continuar su camino.</VEE_CrashlandedDesc>
+  <VEE_CrashlandedLabel>Supervivientes de accidente</VEE_CrashlandedLabel>
+  <VEE_CrashlandedLeaving>Los supervivientes del accidente están empacando sus cosas y se marchan.</VEE_CrashlandedLeaving>
+  <VEE_CropSproutDesc>¡Una arboleda de {0} silvestres ha brotado cerca!\n\nSi esperas a que las plantas crezcan, podrás cosecharlas.</VEE_CropSproutDesc>
+  <VEE_CropSproutLabel>Brote de {0} silvestre</VEE_CropSproutLabel>
+  <VEE_CurrentStage>Fase actual: {0}. La fase ha estado activa durante {1}</VEE_CurrentStage>
   <VEE_Decay>Descomponiéndose debido a la sequía.</VEE_Decay>
-  <VEE_DroughtGui>Ajuste de la reproducción debido a la sequía: {0}</VEE_DroughtGui>
-  <WMWI>Una pequeña tribu preneolítica de hombres salvajes deambula por la zona. Puedes intentar domesticarlos.</WMWI>
-  <WMWILabel>Hombres salvajes deambulan</WMWILabel>
+  <VEE_DroughtGui>Ajuste de fertilidad debido a la sequía: {0}</VEE_DroughtGui>
+  <VEE_EarthquakeDesc>¡Un terremoto de magnitud {0} ha sacudido la región!\n\nLas violentas sacudidas han agrietado el suelo y causado graves daños estructurales cerca del epicentro. Es posible que se requieran reparaciones.</VEE_EarthquakeDesc>
+  <VEE_EarthquakeLabel>Terremoto (magnitud {0})</VEE_EarthquakeLabel>
+  <VEE_Elder>Ancianos</VEE_Elder>
+  <VEE_Female>Mujeres</VEE_Female>
+  <VEE_HuntingPartyDesc>Un pequeño grupo de caza de {0} ha entrado en el área.\n\nHan venido a cazar la fauna silvestre local para obtener carne y cuero. Son pacíficos y no atacarán a tus colonos, pero podrían agotar la fauna local. Una vez que cada cazador consiga una presa, empacarán sus presas y se marcharán.</VEE_HuntingPartyDesc>
+  <VEE_HuntingPartyLabel>Grupo de caza</VEE_HuntingPartyLabel>
+  <VEE_Male>Hombres</VEE_Male>
+  <VEE_ManhunterSingleArrivalDesc>Un(a) {0} solitario(a) e infectado(a) de escaria ha entrado en el área desde la naturaleza.\n\nEstá completamente rabioso(a) y atacará agresivamente a cualquier humano que vea. Mantén a tus colonos adentro o reclútalos para hacer frente a la amenaza.\n\nDebido a la enfermedad, es probable que muera por su cuenta en unos pocos días.</VEE_ManhunterSingleArrivalDesc>
+  <VEE_ManhunterSingleArrivalLabel>Cazahombres: {0}</VEE_ManhunterSingleArrivalLabel>
+  <VEE_OrbitalCrashDesc>¡Una enorme nave orbital de {0} ha sufrido una falla estructural catastrófica en órbita directamente sobre tu región!\n\nDurante las próximas horas, enormes fragmentos del casco, componentes volátiles de motor, bahías de carga y cápsulas de escape lloverán sobre el área.\n\nMantén a tus colonos bajo techo o esquiva con cuidado los escombros que caen. Una vez que termine la lluvia, habrá muchos recursos para rescatar y probablemente supervivientes para salvar de entre los restos.</VEE_OrbitalCrashDesc>
+  <VEE_OrbitalCrashLabel>Fragmento de nave orbital estrellado</VEE_OrbitalCrashLabel>
+  <VEE_ShuttleCrashDesc>Un transbordador gravemente dañado cae en picada desde el cielo y se estrellará violentamente en las cercanías.\n\nEl impacto esparcirá quimicombustible y desatará un peligroso incendio.\n\nSe encontrarán carga y pasajeros entre los restos.\n\nDebes actuar rápido si deseas rescatar a los supervivientes, recuperar la carga y evitar que el fuego se salga de control.</VEE_ShuttleCrashDesc>
+  <VEE_ShuttleCrashLabel>Accidente de transbordador</VEE_ShuttleCrashLabel>
+  <VEE_TraitorDesc>¡{PAWN_nameDef} ha revelado sus verdaderas intenciones!\n\nEra un agente de {Hostile_FactionName} enviado a infiltrarse en tu colonia. ¡Se ha vuelto violentamente en tu contra y ahora está atacando tu asentamiento desde adentro! ¡Puedes someter o matar a {PAWN_objective}!</VEE_TraitorDesc>
+  <VEE_TraitorGroupDesc>Los visitantes resultaron ser una incursión engañosa de {0}. Están atacando inmediatamente.</VEE_TraitorGroupDesc>
+  <VEE_TraitorGroupLabel>Asalto (visitantes)</VEE_TraitorGroupLabel>
+  <VEE_TraitorLabel>Traidor: {PAWN_nameDef}</VEE_TraitorLabel>
+  <VEE_WeaponCargoPodDesc>¡Has detectado una cápsula de carga aterrizando cerca!\n\nParece haber transportado algún arma, la cual puedes recuperar de entre los restos.</VEE_WeaponCargoPodDesc>
+  <VEE_WeaponCargoPodLabel>Cápsulas de carga (armas)</VEE_WeaponCargoPodLabel>
+  <VEE_WhiteoutRefugees>Refugiados desesperados</VEE_WhiteoutRefugees>
+  <VEE_WhiteoutRefugeesText>Un pequeño grupo de {0} supervivientes congelados ha aparecido en el borde de tu asentamiento.\n\nEstán gravemente hipotérmicos y hambrientos debido a la ventisca total en curso. Te ruegan que abras tus puertas y compartas tu calor y comida.\n\nTen cuidado: tienen la mirada desquiciada de la gente desesperada. Si los rechazas y los dejas morir de frío en la nieve, es probable que intenten tomar tu refugio por la fuerza.\n\n¿Los aceptarás?</VEE_WhiteoutRefugeesText>
+  <VEE_WhiteoutRefugees_Accepted>Los refugiados agradecen tu misericordia y se han unido a la colonia para recuperarse de su calvario.</VEE_WhiteoutRefugees_Accepted>
+  <VEE_WhiteoutRefugees_Rejected>¡Los refugiados se han vuelto contra ti! Traicionados y desesperados, han jurado tomar tu refugio por la fuerza.\n\nEstán atacando de inmediato.</VEE_WhiteoutRefugees_Rejected>
+  <VEE_WildMenWanderDesc>Una pequeña tribu de humanos que viven entre animales salvajes ha entrado en la zona.\n\nSon primitivos y están hambrientos, por lo que buscarán comida activamente, lo que incluye comerse tus cultivos o asaltar reservas de comida desprotegidas.\n\nPuedes intentar domesticarlos uno por uno para incorporarlos a tu colonia, arrestarlos o lidiar con ellos por la fuerza si se convierten en una molestia.</VEE_WildMenWanderDesc>
+  <VEE_WildMenWanderLabel>Humanos salvajes deambulan</VEE_WildMenWanderLabel>
+  <VEE_Young>Jóvenes</VEE_Young>
 </LanguageData>
