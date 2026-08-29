@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   <!-- EN: Plants -->
   <NPM_Plants>Plantas</NPM_Plants>
@@ -66,6 +66,12 @@
   <NPM_OptimalTemperature>Óptima</NPM_OptimalTemperature>
   <!-- EN: Total nutrition -->
   <NPM_TotalNutrition>Nutrición total</NPM_TotalNutrition>
+  <!-- EN: None -->
+  <NPM_None>Ninguno</NPM_None>
+  <!-- EN: Soil sensitivity -->
+  <NPM_Sensitivity>Sensibilidad al suelo</NPM_Sensitivity>
+  <!-- EN: Skill requirements -->
+  <NPM_SkillRequirements>Requisitos de habilidad</NPM_SkillRequirements>
 
   <!-- EN: If all harvest is processed, this field will feed -->
   <NPM_FeedHumanTip>Si se procesa toda la cosecha, este campo alimentará a</NPM_FeedHumanTip>
@@ -73,6 +79,8 @@
   <NPM_CalculatedForAnimals>Calculado para animales:</NPM_CalculatedForAnimals>
   <!-- EN: Expected {0} days to grow\n\nAverage soil {1}\nDaylight {2} -->
   <NPM_DateCalcTip>Se esperan {0} días para crecer\n\nPromedio de suelo {1}\nLuz diurna {2}</NPM_DateCalcTip>
+  <!-- EN: Growth time calculated at ideal temperature -->
+  <NPM_DateCalcTipWarning>Tiempo de crecimiento calculado a temperatura ideal</NPM_DateCalcTipWarning>
   <!-- EN: sun -->
   <NPM_DateCalcTip_Sun>sol</NPM_DateCalcTip_Sun>
   <!-- EN: lamp -->
@@ -107,8 +115,8 @@
   <NPM_Settings_SplitByCategories>Separar plantas por categorías</NPM_Settings_SplitByCategories>
   <!-- EN: Show category icons -->
   <NPM_Settings_ShowCategoryIcons>Mostrar íconos de categoría</NPM_Settings_ShowCategoryIcons>
-  <!-- EN: Always show light requirement -->
-  <NPM_Settings_AlwaysShowLightRequirement>Mostrar siempre el requisito de luz</NPM_Settings_AlwaysShowLightRequirement>
+  <!-- EN: Always show all info -->
+  <NPM_Settings_AlwaysShowAllInfo>Mostrar siempre toda la información</NPM_Settings_AlwaysShowAllInfo>
   <!-- EN: Allow resizing window -->
   <NPM_Settings_AllowResizeWindow>Permitir redimensionar la ventana</NPM_Settings_AllowResizeWindow>
   <!-- EN: Reopen window for changes -->
