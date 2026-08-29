@@ -25,8 +25,10 @@
   <RPC_Cooperation_Tooltip>Describe la preferencia de un colono por las interacciones pacíficas y su disposición a confiar. Los colonos complacientes evitan las discusiones, valoran el compromiso y no les gusta la tensión; los colonos testarudos pueden resistirse al compromiso y prefieren aferrarse a sus propias opiniones.</RPC_Cooperation_Tooltip>
   <RPC_Curiosity>Curiosidad</RPC_Curiosity>
   <RPC_Curiosity_Tooltip>Describe un impulso por la novedad, la diversidad y la exploración. Los colonos exploradores buscan nuevas experiencias y desafían las normas; los colonos convencionales prefieren la rutina y los entornos familiares.</RPC_Curiosity_Tooltip>
+  <RPC_DescriptorBlame>De personalidades:</RPC_DescriptorBlame>
   <RPC_Detached>Desapegado</RPC_Detached>
   <RPC_Disorganized>Desorganizado</RPC_Disorganized>
+  <RPC_Disposition>Disposición</RPC_Disposition>
   <RPC_Enthusiasm>Entusiasmo</RPC_Enthusiasm>
   <RPC_Enthusiasm_Tooltip>Captura el deseo de un colono por la estimulación, la positividad y la actividad. Los colonos alegres son enérgicos, se emocionan fácilmente y a menudo están en movimiento; los colonos estoicos tienden a ser más reservados en su comportamiento y menos impulsados externamente por la emoción.</RPC_Enthusiasm_Tooltip>
   <RPC_Explorative>Explorador</RPC_Explorative>
@@ -50,6 +52,7 @@
   <RPC_Intellect>Intelecto</RPC_Intellect>
   <RPC_Intellect_Tooltip>Captura el interés por el pensamiento abstracto y las ideas complejas. Los colonos filosóficos disfrutan de conversaciones profundas y cuestiones filosóficas; los colonos prácticos prefieren el pensamiento concreto y directo.</RPC_Intellect_Tooltip>
   <RPC_Interest>Intereses</RPC_Interest>
+  <RPC_NoBehavior>Sin disposiciones notables</RPC_NoBehavior>
   <RPC_Optimistic>Optimista</RPC_Optimistic>
   <RPC_Orderliness>Orden</RPC_Orderliness>
   <RPC_Orderliness_Tooltip>Describe una preferencia por la estructura, el orden y la planificación cuidadosa. Los colonos organizados gestionan sus entornos y tareas con previsión, valorando el orden y detestando el caos; los colonos desorganizados tienden a ser menos estructurados y pueden tener dificultades para seguir el rastro de las tareas.</RPC_Orderliness_Tooltip>
@@ -73,29 +76,64 @@
   <RPC_Volatile>Volátil</RPC_Volatile>
   <RPC_Volatility>Volatilidad</RPC_Volatility>
   <RPC_Volatility_Tooltip>Refleja la tendencia de un colono a experimentar emociones intensas y que cambian rápidamente. Los colonos volátiles luchan con la regulación emocional y pueden exhibir un comportamiento errático bajo estrés; los colonos estables mantienen un estado emocional más constante y tranquilo.</RPC_Volatility_Tooltip>
+  <RP_Desc_Conversation>Efectos de conversación</RP_Desc_Conversation>
+  <RP_Desc_Gameplay>Jugabilidad</RP_Desc_Gameplay>
+  <RP_Desc_Romance>Romance</RP_Desc_Romance>
+  <RP_Desc_ThoughtTag>Etiquetas de pensamientos</RP_Desc_ThoughtTag>
+  <RP_PsycheEffects>Efectos</RP_PsycheEffects>
+  <RP_ShiftForFull>[Shift] Descripción completa.</RP_ShiftForFull>
   <ResetPsycheTooltip>Restablecer personalidad</ResetPsycheTooltip>
   <RimPsycheIntensityExtremely>Extremadamente {0}</RimPsycheIntensityExtremely>
-  <RimPsycheIntensityMarginally>Ligeramente {0}</RimPsycheIntensityMarginally>
+  <RimPsycheIntensityKeyExtremely>Extremadamente</RimPsycheIntensityKeyExtremely>
+  <RimPsycheIntensityKeyMarginally>Ligeramente</RimPsycheIntensityKeyMarginally>
+  <RimPsycheIntensityKeyNeutral>No</RimPsycheIntensityKeyNeutral>
+  <RimPsycheIntensityKeySomewhat>Algo</RimPsycheIntensityKeySomewhat>
+  <RimPsycheIntensityKeyVery>Muy</RimPsycheIntensityKeyVery>
+  <RimPsycheIntensityMarginally>Ligeramente</RimPsycheIntensityMarginally>
   <RimPsycheIntensityNeutral>{0} neutral</RimPsycheIntensityNeutral>
   <RimPsycheIntensitySomewhat>Algo {0}</RimPsycheIntensitySomewhat>
   <RimPsycheIntensityVery>Muy {0}</RimPsycheIntensityVery>
   <RimpsycheAllowFacetEdit>Habilitar edición de facetas</RimpsycheAllowFacetEdit>
+  <RimpsycheAllowFacetEditDisabledTooltip>Desactivado porque las facetas no están visibles en la interfaz.</RimpsycheAllowFacetEditDisabledTooltip>
   <RimpsycheAllowFacetEditTooltip>Habilita la edición directa de las facetas.</RimpsycheAllowFacetEditTooltip>
   <RimpsycheConfirmLoadSave>Confirmar antes de cargar/guardar Psique</RimpsycheConfirmLoadSave>
   <RimpsycheConfirmLoadSaveTooltip>Muestra una ventana emergente de confirmación antes de sobrescribir o cargar la psique del colono.</RimpsycheConfirmLoadSaveTooltip>
+  <RimpsycheDefaultSetting>Predeterminado</RimpsycheDefaultSetting>
+  <RimpsycheDescriptionEffectToggle>Efectos a mostrar en descripciones</RimpsycheDescriptionEffectToggle>
   <RimpsycheEdit>Editar</RimpsycheEdit>
   <RimpsycheFacetInfo>Las facetas son los componentes básicos que dan forma a los pensamientos, sentimientos y comportamiento de un colono. Cada una representa un aspecto específico de cómo ven el mundo y reaccionan ante él.</RimpsycheFacetInfo>
   <RimpsycheGeneralSetting>Ajustes generales de RimPsyche</RimpsycheGeneralSetting>
+  <RimpsycheHideSummaryInBio>Ocultar resumen en biografía</RimpsycheHideSummaryInBio>
+  <RimpsycheHideSummaryInBioDisabledTooltip>Desactivado porque la pestaña de psique no está habilitada.</RimpsycheHideSummaryInBioDisabledTooltip>
+  <RimpsycheHideSummaryInBioTooltip>Oculta el resumen de personalidad en la pestaña de biografía.</RimpsycheHideSummaryInBioTooltip>
+  <RimpsycheMiscSetting>Configuración miscelánea</RimpsycheMiscSetting>
+  <RimpsychePersonalityAsBars>Mostrar valores de personalidad como barras</RimpsychePersonalityAsBars>
+  <RimpsychePersonalityAsBarsTooltip>Muestra los valores de personalidad usando barras en lugar de etiquetas de texto descriptivas.</RimpsychePersonalityAsBarsTooltip>
   <RimpsychePersonalityInfo>La personalidad de un colono es el resultado de la unión de sus facetas individuales. Influye en su comportamiento, relaciones y decisiones.</RimpsychePersonalityInfo>
+  <RimpsychePersonalityViewSetting>Configuración de vista de personalidad</RimpsychePersonalityViewSetting>
+  <RimpsychePsycheUISetting>Configuración de interfaz de psique</RimpsychePsycheUISetting>
   <RimpsycheSettingCategory>RimPsyche - Personalidad</RimpsycheSettingCategory>
-  <RimpsycheShowBar>Mostrar como barras</RimpsycheShowBar>
+  <RimpsycheShowDisposition>Mostrar disposición</RimpsycheShowDisposition>
+  <RimpsycheShowDispositionInUI>Mostrar disposición en la interfaz</RimpsycheShowDispositionInUI>
+  <RimpsycheShowDispositionInUITooltip>Muestra la sección de disposición en la interfaz de psique.</RimpsycheShowDispositionInUITooltip>
+  <RimpsycheShowEffectInDescription>Mostrar efectos de juego en la personalidad</RimpsycheShowEffectInDescription>
+  <RimpsycheShowEffectInDescriptionTooltip>Muestra los efectos de juego asociados dentro de la descripción de cada nodo de personalidad.\n\nADVERTENCIA: Los efectos de personalidad están simplificados para facilitar la lectura y no reflejan todas las mecánicas de juego activas.</RimpsycheShowEffectInDescriptionTooltip>
   <RimpsycheShowFacet>Mostrar facetas</RimpsycheShowFacet>
   <RimpsycheShowFacetGraph>Mostrar gráfico de facetas en la interfaz</RimpsycheShowFacetGraph>
   <RimpsycheShowFacetGraphTooltip>Muestra el gráfico de radar de facetas en la pestaña Psique.</RimpsycheShowFacetGraphTooltip>
-  <RimpsycheShowFacetInMenu>Mostrar facetas en la interfaz</RimpsycheShowFacetInMenu>
-  <RimpsycheShowFacetInMenuTooltip>Habilita la opción para ver las facetas en la pestaña Psique.</RimpsycheShowFacetInMenuTooltip>
-  <RimpsycheShowList>Mostrar como lista</RimpsycheShowList>
+  <RimpsycheShowFacetInUI>Mostrar facetas en la interfaz</RimpsycheShowFacetInUI>
+  <RimpsycheShowFacetInUITooltip>Muestra la sección de facetas en la interfaz de psique.</RimpsycheShowFacetInUITooltip>
+  <RimpsycheShowPersonality>Mostrar personalidad</RimpsycheShowPersonality>
+  <RimpsycheShowSexuality>Mostrar sexualidad</RimpsycheShowSexuality>
+  <RimpsycheShowSideInfoInSummary>Mostrar información lateral en el resumen</RimpsycheShowSideInfoInSummary>
+  <RimpsycheShowSideInfoInSummaryTooltip>Muestra información adicional en el panel lateral del resumen de personalidad.</RimpsycheShowSideInfoInSummaryTooltip>
+  <RimpsycheSortAlphabet>Ordenar por nombre</RimpsycheSortAlphabet>
+  <RimpsycheSortDef>Ordenar por orden de Def</RimpsycheSortDef>
+  <RimpsycheSortValue>Ordenar por valor</RimpsycheSortValue>
+  <RimpsycheTabSetting>Configuración de pestaña</RimpsycheTabSetting>
   <RimpsycheTopicHeader>Temas</RimpsycheTopicHeader>
+  <RimpsycheUsePsycheTab>Usar pestaña de psique</RimpsycheUsePsycheTab>
+  <RimpsycheUsePsycheTabTooltip>Muestra la información de personalidad en una pestaña separada de psique.</RimpsycheUsePsycheTabTooltip>
   <SavePsycheTooltip>Guardar/Cargar Psique</SavePsycheTooltip>
   <SaveToSlot>Guardar</SaveToSlot>
   <TabPsyche>Psique</TabPsyche>
