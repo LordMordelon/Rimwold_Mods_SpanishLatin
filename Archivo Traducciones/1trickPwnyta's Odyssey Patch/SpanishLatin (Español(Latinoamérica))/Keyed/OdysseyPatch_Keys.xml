@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+	<!-- EN: Space Travel -->
+  <OdysseyPatch_SpaceTravel>Viaje espacial</OdysseyPatch_SpaceTravel>
+	<!-- EN: Fishing -->
+  <OdysseyPatch_Fishing>Pesca</OdysseyPatch_Fishing>
+	<!-- EN: Outfit Stands and Statues -->
+  <OdysseyPatch_OutfitStands>Soportes de atuendos y estatuas</OdysseyPatch_OutfitStands>
+	<!-- EN: Miscellaneous -->
+  <OdysseyPatch_Misc>Misceláneo</OdysseyPatch_Misc>
+	<!-- EN: Allow looking in or hauling to groups of outfit stands in bills -->
+  <OdysseyPatch_OutfitStandGroupsInBills>Permitir buscar en o transportar a grupos de soportes de atuendos en tareas</OdysseyPatch_OutfitStandGroupsInBills>
+	<!-- EN: Outfit stand body type is configurable -->
+  <OdysseyPatch_OutfitStandBodyType>El tipo de cuerpo del soporte de atuendos es configurable</OdysseyPatch_OutfitStandBodyType>
+	<!-- EN: Fishing zone settings can be copy/pasted -->
+  <OdysseyPatch_FishingZoneCopy>La configuración de la zona de pesca se puede copiar/pegar</OdysseyPatch_FishingZoneCopy>
+	<!-- EN: Allow removing items from outfit stands by default -->
+  <OdysseyPatch_AllowRemovingItemsFromOutfitStand>Permitir quitar objetos de los soportes de atuendos por defecto</OdysseyPatch_AllowRemovingItemsFromOutfitStand>
+	<!-- EN: Allow full world search which searches all world tiles -->
+  <OdysseyPatch_WorldSearchEmptyTiles>Permitir búsqueda mundial completa que busca en todas las casillas del mundo</OdysseyPatch_WorldSearchEmptyTiles>
+	<!-- EN: Allow always showing substructure overlay -->
+  <OdysseyPatch_SubstructureOverlayOptions>Permitir mostrar siempre la superposición de subestructura</OdysseyPatch_SubstructureOverlayOptions>
+	<!-- EN: Floors can erroneously be built under gravship hulls -->
+  <OdysseyPatch_FloorsBlockedByHulls>Los suelos pueden construirse erróneamente bajo los cascos de las naves gravitacionales</OdysseyPatch_FloorsBlockedByHulls>
+	<!-- EN: Prevent pawns from fishing to starvation/exhaustion -->
+  <OdysseyPatch_FishingInterruptions>Evitar que los colonos pesquen hasta la inanición/agotamiento</OdysseyPatch_FishingInterruptions>
+	<!-- EN: Pawn dot highlights are erroneously visible during gravship cutscenes -->
+  <OdysseyPatch_SilhouettesHiddenByGravshipLanding>Los puntos de resalto de los colonos son visibles erróneamente durante las cinemáticas de la nave gravitacional</OdysseyPatch_SilhouettesHiddenByGravshipLanding>
+	<!-- EN: Don't disable allowing removing items from outfit stands when ordering a pawn to equip the outfit -->
+  <OdysseyPatch_AllowRemovingItemsFromOutfitStandAfterEquipping>No deshabilitar el permiso para quitar objetos de los soportes de atuendos al ordenar a un colono equiparse el atuendo</OdysseyPatch_AllowRemovingItemsFromOutfitStandAfterEquipping>
+	<!-- EN: Pawns can grab food, medicine, and drugs from their parked shuttle just like they can from their pack animals -->
+  <OdysseyPatch_ShuttleFood>Los colonos pueden tomar comida, medicina y drogas de su lanzadera estacionada al igual que de sus animales de carga</OdysseyPatch_ShuttleFood>
+	<!-- EN: Allow pressing Enter to skip gravship cutscenes -->
+  <OdysseyPatch_GravshipCutsceneOptions>Permitir presionar Enter para saltar las cinemáticas de la nave gravitacional</OdysseyPatch_GravshipCutsceneOptions>
+	<!-- EN: After landing a gravship, electrical buildings previously designated for flicking the power enter an erroneous state -->
+  <OdysseyPatch_FlickSwitchesAfterLanding>Tras aterrizar una nave gravitacional, las estructuras eléctricas designadas previamente para conmutar la energía entran en un estado erróneo</OdysseyPatch_FlickSwitchesAfterLanding>
+	<!-- EN: After landing a gravship, deathresting pawns are erroneously popped out of bed -->
+  <OdysseyPatch_DeathrestingPawnsTuckedInAfterLanding>Tras aterrizar una nave gravitacional, los colonos en letargo mortal son expulsados erróneamente de la cama</OdysseyPatch_DeathrestingPawnsTuckedInAfterLanding>
+	<!-- EN: Disable warnings when settling in orbit or in "dangerous" biomes -->
+  <OdysseyPatch_BiomeDangerWarningSuppressed>Desactivar advertencias al asentarse en órbita o en biomas "peligrosos"</OdysseyPatch_BiomeDangerWarningSuppressed>
+	<!-- EN: Ignore ugliness of things stored on outfit stands (positive beauty still counts) -->
+  <OdysseyPatch_OutfitStandsIgnoreStoredThingsBeauty>Ignorar la fealdad de los objetos almacenados en los soportes de atuendos (la belleza positiva aún cuenta)</OdysseyPatch_OutfitStandsIgnoreStoredThingsBeauty>
+	<!-- EN: Negative fishing outcome notifications are less intrusive -->
+  <OdysseyPatch_FishingMishapsLessIntrusive>Las notificaciones de resultados negativos de pesca son menos intrusivas</OdysseyPatch_FishingMishapsLessIntrusive>
+	<!-- EN: Saving with a shuttle that hasn't been used yet causes an error -->
+  <OdysseyPatch_ShuttleSavingError>Guardar con una lanzadera que aún no se ha usado causa un error</OdysseyPatch_ShuttleSavingError>
+	<!-- EN: You can park a shuttle anywhere you could also place a blueprint for a new shuttle -->
+  <OdysseyPatch_ShuttleBlockedByLess>Puedes estacionar una lanzadera en cualquier lugar donde también podrías colocar un plano para una nueva lanzadera</OdysseyPatch_ShuttleBlockedByLess>
+	<!-- EN: Allow hiding statue headgear -->
+  <OdysseyPatch_StatuesDontHaveHeadgear>Permitir ocultar los cubrecabezas de las estatuas</OdysseyPatch_StatuesDontHaveHeadgear>
+	<!-- EN: Statues can erroneously reload with different dominant genes -->
+  <OdysseyPatch_StatueConsistency>Las estatuas pueden recargarse erróneamente con diferentes genes dominantes</OdysseyPatch_StatueConsistency>
+	<!-- EN: Substructure filth multiplier erroneously overrides filth multiplier of floor on top -->
+  <OdysseyPatch_FilthMultiplierFixForSubstructure>El multiplicador de suciedad de la subestructura anula erróneamente el multiplicador de suciedad del suelo superior</OdysseyPatch_FilthMultiplierFixForSubstructure>
+	<!-- EN: Show remaining substructure capacity in inspect pane for grav engine -->
+  <OdysseyPatch_ShowRemainingSubstructureCapacity>Mostrar la capacidad restante de subestructura en el panel de inspección del motor gravitacional</OdysseyPatch_ShowRemainingSubstructureCapacity>
+	<!-- EN: Show gravship shield generator radius when placing even in invalid positions -->
+  <OdysseyPatch_GravshipShieldGeneratorRadiusDisplay>Mostrar el radio del generador de escudos de la nave gravitacional al colocarlo, incluso en posiciones inválidas</OdysseyPatch_GravshipShieldGeneratorRadiusDisplay>
+	<!-- EN: Show vacuum intensity in room stat display -->
+  <OdysseyPatch_VacuumIntensityRoomStat>Mostrar la intensidad del vacío en la visualización de estadísticas de la habitación</OdysseyPatch_VacuumIntensityRoomStat>
+	<!-- EN: Highlight build radius of selected gravship component -->
+  <OdysseyPatch_GravshipBuildRadiusSeparate>Resaltar el radio de construcción del componente de nave gravitacional seleccionado</OdysseyPatch_GravshipBuildRadiusSeparate>
+	<!-- EN: Bug fix -->
+  <OdysseyPatch_BugFix>Corrección de errores</OdysseyPatch_BugFix>
+	<!-- EN: (requires restart) -->
+  <OdysseyPatch_RestartRequired>(requiere reiniciar)</OdysseyPatch_RestartRequired>
+	<!-- EN: Body type: {0} -->
+  <OdysseyPatch_BodyType>Tipo de cuerpo: {0}</OdysseyPatch_BodyType>
+	<!-- EN: Click to change this outfit stand's model to a different body type. -->
+  <OdysseyPatch_BodyTypeDesc>Haz clic para cambiar el modelo de este soporte de atuendos a un tipo de cuerpo diferente.</OdysseyPatch_BodyTypeDesc>
+	<!-- EN: Copy this fishing zone's settings to the clipboard so you can paste them onto another fishing zone. -->
+  <OdysseyPatch_FishingZoneCopyDesc>Copia la configuración de esta zona de pesca al portapapeles para que puedas pegarla en otra zona de pesca.</OdysseyPatch_FishingZoneCopyDesc>
+	<!-- EN: Overwrite this fishing zone's settings with those previously copied to the clipboard. -->
+  <OdysseyPatch_FishingZonePasteDesc>Sobrescribe la configuración de esta zona de pesca con la copiada previamente al portapapeles.</OdysseyPatch_FishingZonePasteDesc>
+	<!-- EN: Full search -->
+  <OdysseyPatch_FullSearch>Búsqueda completa</OdysseyPatch_FullSearch>
+	<!-- EN: Initializing search set -->
+  <OdysseyPatch_InitializingSearchSet>Inicializando conjunto de búsqueda</OdysseyPatch_InitializingSearchSet>
+	<!-- EN: Always -->
+  <OdysseyPatch_Always>Siempre</OdysseyPatch_Always>
+	<!-- EN: When selected -->
+  <OdysseyPatch_WhenSelected>Al seleccionar</OdysseyPatch_WhenSelected>
+	<!-- EN: Never -->
+  <OdysseyPatch_Never>Nunca</OdysseyPatch_Never>
+	<!-- EN: Allow grabbing supplies -->
+  <OdysseyPatch_AllowGrabbingSupplies>Permitir tomar suministros</OdysseyPatch_AllowGrabbingSupplies>
+	<!-- EN: When enabled, pawns can freely grab food, medicine, and drugs from this shuttle as needed. -->
+  <OdysseyPatch_AllowGrabbingSuppliesDesc>Cuando está activado, los colonos pueden tomar libremente comida, medicinas y drogas de esta lanzadera según sea necesario.</OdysseyPatch_AllowGrabbingSuppliesDesc>
+	<!-- EN: Show headgear -->
+  <OdysseyPatch_ShowHeadgear>Mostrar cubrecabezas</OdysseyPatch_ShowHeadgear>
+	<!-- EN: remaining -->
+  <OdysseyPatch_Remaining>restante</OdysseyPatch_Remaining>
+</LanguageData>
