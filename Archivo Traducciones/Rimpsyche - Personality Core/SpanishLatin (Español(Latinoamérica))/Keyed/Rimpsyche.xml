@@ -8,42 +8,114 @@
   <!-- Settings -->
   <!-- EN: RimPsyche General Settings -->
   <RimpsycheGeneralSetting>Ajustes generales de RimPsyche</RimpsycheGeneralSetting>
-  <!-- EN: Enable Facet Edit -->
+  <!-- EN: RimPsyche Tab Settings -->
+  <RimpsycheTabSetting>Configuración de pestaña</RimpsycheTabSetting>
+  <!-- EN: Psyche Info UI Settings -->
+  <RimpsychePsycheUISetting>Configuración de interfaz de psique</RimpsychePsycheUISetting>
+  <!-- EN: Personality Presentation Settings -->
+  <RimpsychePersonalityViewSetting>Configuración de vista de personalidad</RimpsychePersonalityViewSetting>
+  <!-- EN: Misc Settings -->
+  <RimpsycheMiscSetting>Configuración miscelánea</RimpsycheMiscSetting>
+
+  <!-- Tab Settings -->
+  <!-- EN: Show Psyche tab -->
+  <RimpsycheUsePsycheTab>Usar pestaña de psique</RimpsycheUsePsycheTab>
+  <!-- EN: Displays a dedicated Psyche tab on pawns. Full psyche info can still be accessed via a Bio tab when turned off. -->
+  <RimpsycheUsePsycheTabTooltip>Muestra la información de personalidad en una pestaña separada de psique.</RimpsycheUsePsycheTabTooltip>
+  <!-- EN: Hide summary on Bio tab -->
+  <RimpsycheHideSummaryInBio>Ocultar resumen en biografía</RimpsycheHideSummaryInBio>
+  <!-- EN: Removes the personality summary from the bottom of the Bio tab. -->
+  <RimpsycheHideSummaryInBioTooltip>Oculta el resumen de personalidad en la pestaña de biografía.</RimpsycheHideSummaryInBioTooltip>
+  <!-- EN: Removes the personality summary from the bottom of the Bio tab.\n\nRequires "Show Psyche tab" to be enabled. -->
+  <RimpsycheHideSummaryInBioDisabledTooltip>Desactivado porque la pestaña de psique no está habilitada.</RimpsycheHideSummaryInBioDisabledTooltip>
+  <!-- EN: Show side info in Bio tab summary -->
+  <RimpsycheShowSideInfoInSummary>Mostrar información lateral en el resumen</RimpsycheShowSideInfoInSummary>
+  <!-- EN: Displays an extra info panel alongside the Bio tab summary for active RimPsyche modules. -->
+  <RimpsycheShowSideInfoInSummaryTooltip>Muestra información adicional en el panel lateral del resumen de personalidad.</RimpsycheShowSideInfoInSummaryTooltip>
+  
+  <!-- Psyche Info UI Settings -->
+  <!-- EN: [Dev] Show dispositions in Psyche Info UI -->
+  <RimpsycheShowDispositionInUI>Mostrar disposición en la interfaz</RimpsycheShowDispositionInUI>
+  <!-- EN: Displays the full list of dispositions in the Psyche Info UI.\n\nWARNING: Dispositions are simplified for quick summaries. This list does not reflect all active gameplay mechanics and effects. -->
+  <RimpsycheShowDispositionInUITooltip>Muestra la sección de disposición en la interfaz de psique.</RimpsycheShowDispositionInUITooltip>
+  <!-- EN: [Dev] Show facets in Psyche Info UI -->
+  <RimpsycheShowFacetInUI>Mostrar facetas en la interfaz</RimpsycheShowFacetInUI>
+  <!-- EN: Displays underlying facets in the Psyche Info UI.\n\nWARNING: Facets represent a pawn's base personality before being modified by traits and other factors. They do not represent expressed personality and should not be taken as such. -->
+  <RimpsycheShowFacetInUITooltip>Muestra la sección de facetas en la interfaz de psique.</RimpsycheShowFacetInUITooltip>
+  <!-- EN: [Dev] Enable facet editing -->
   <RimpsycheAllowFacetEdit>Habilitar edición de facetas</RimpsycheAllowFacetEdit>
-  <!-- EN: Enable directly editing facets. -->
+  <!-- EN: Allows facets to be edited directly.\n\nWARNING: Facets represent a pawn's base personality before being modified by traits and other factors. They do not represent expressed personality and should not be taken as such. -->
   <RimpsycheAllowFacetEditTooltip>Habilita la edición directa de las facetas.</RimpsycheAllowFacetEditTooltip>
-  <!-- EN: Show Facets in UI -->
-  <RimpsycheShowFacetInMenu>Mostrar facetas en la interfaz</RimpsycheShowFacetInMenu>
-  <!-- EN: Enable view facets option in Psyche tab. -->
-  <RimpsycheShowFacetInMenuTooltip>Habilita la opción para ver las facetas en la pestaña Psique.</RimpsycheShowFacetInMenuTooltip>
-  <!-- EN: Show Facets radar chart in UI -->
+  <!-- EN: Allows facets to be edited directly.\n\nWARNING: Facets represent a pawn's base personality before being modified by traits and other factors. They do not represent expressed personality and should not be taken as such.\n\nRequires "[Dev] Show facets in Psyche Info UI" to be enabled. -->
+  <RimpsycheAllowFacetEditDisabledTooltip>Desactivado porque las facetas no están visibles en la interfaz.</RimpsycheAllowFacetEditDisabledTooltip>
+  <!-- EN: [Dev] Show facet radar chart in Psyche Info UI -->
   <RimpsycheShowFacetGraph>Mostrar gráfico de facetas en la interfaz</RimpsycheShowFacetGraph>
-  <!-- EN: Show facet radar chart in Psyche tab. -->
+  <!-- EN: Displays a radar chart of personality facets in the Psyche Info UI.\n\nWARNING: Facets represent a pawn's base personality before being modified by traits and other factors. They do not represent expressed personality and should not be taken as such. -->
   <RimpsycheShowFacetGraphTooltip>Muestra el gráfico de radar de facetas en la pestaña Psique.</RimpsycheShowFacetGraphTooltip>
-  <!-- EN: Confirm before load/saving Psyche -->
+
+  <!-- Personality Description -->
+  <!-- EN: Show personality values as bars -->
+  <RimpsychePersonalityAsBars>Mostrar valores de personalidad como barras</RimpsychePersonalityAsBars>
+  <!-- EN: Displays personality values using bars instead of descriptive text labels. -->
+  <RimpsychePersonalityAsBarsTooltip>Muestra los valores de personalidad usando barras en lugar de etiquetas de texto descriptivas.</RimpsychePersonalityAsBarsTooltip>
+  <!-- EN: Show gameplay effects in personality -->
+  <RimpsycheShowEffectInDescription>Mostrar efectos de juego en la personalidad</RimpsycheShowEffectInDescription>
+  <!-- EN: Displays associated gameplay effects inside each personality node's description.\n\nWARNING: Personality effects are simplified for readability and do not reflect all active gameplay mechanics. -->
+  <RimpsycheShowEffectInDescriptionTooltip>Muestra los efectos de juego asociados dentro de la descripción de cada nodo de personalidad.\n\nADVERTENCIA: Los efectos de personalidad están simplificados para facilitar la lectura y no reflejan todas las mecánicas de juego activas.</RimpsycheShowEffectInDescriptionTooltip>
+  <!-- EN: Effects to display in descriptions -->
+  <RimpsycheDescriptionEffectToggle>TODO</RimpsycheDescriptionEffectToggle>
+
+  <!-- Misc -->
+  <!-- EN: Confirm before loading/saving Psyche -->
   <RimpsycheConfirmLoadSave>Confirmar antes de cargar/guardar Psique</RimpsycheConfirmLoadSave>
-  <!-- EN: Show confirmation pop-up before overwriting or loading pawn Psyche. -->
+  <!-- EN: Displays a confirmation pop-up before overwriting or loading a pawn's Psyche. -->
   <RimpsycheConfirmLoadSaveTooltip>Muestra una ventana emergente de confirmación antes de sobrescribir o cargar la psique del colono.</RimpsycheConfirmLoadSaveTooltip>
 
+  <!-- EN: Default -->
+  <RimpsycheDefaultSetting>TODO</RimpsycheDefaultSetting>
+
+  <!-- Descriptors -->
+  <!-- EN: Conversation Effects -->
+  <RP_Desc_Conversation>TODO</RP_Desc_Conversation>
+  <!-- EN: Thought Tags -->
+  <RP_Desc_ThoughtTag>TODO</RP_Desc_ThoughtTag>
+  <!-- EN: Gameplay -->
+  <RP_Desc_Gameplay>TODO</RP_Desc_Gameplay>
+  <!-- EN: Romance -->
+  <RP_Desc_Romance>TODO</RP_Desc_Romance>
 
   <!-- Title -->
   <!-- EN: Personality -->
   <RPC_Personality>Personalidad</RPC_Personality>
-  <!-- EN: Interest -->
+  <!-- EN: Disposition -->
+  <RPC_Disposition>TODO</RPC_Disposition>
+  <!-- EN: Facets -->
+  <RPC_Facets>Facetas</RPC_Facets>
+  <!-- EN: Interests -->
   <RPC_Interest>Intereses</RPC_Interest>
   <!-- EN: Sexuality -->
   <RPC_Sexuality>Sexualidad</RPC_Sexuality>
 
-  <!-- Tab -->
+  <!-- UI -->
   <!-- EN: Psyche -->
   <TabPsyche>Psique</TabPsyche>
 
-  <!-- EN: Show as List -->
-  <RimpsycheShowList>Mostrar como lista</RimpsycheShowList>
-  <!-- EN: Show as Bars -->
-  <RimpsycheShowBar>Mostrar como barras</RimpsycheShowBar>
+  <!-- EN: Show Personality -->
+  <RimpsycheShowPersonality>TODO</RimpsycheShowPersonality>
+  <!-- EN: Show Disposition -->
+  <RimpsycheShowDisposition>TODO</RimpsycheShowDisposition>
+  <!-- EN: Show Sexuality -->
+  <RimpsycheShowSexuality>TODO</RimpsycheShowSexuality>
   <!-- EN: Show Facets -->
   <RimpsycheShowFacet>Mostrar facetas</RimpsycheShowFacet>
+
+  <!-- EN: Sort by Value -->
+  <RimpsycheSortValue>TODO</RimpsycheSortValue>
+  <!-- EN: Sort by Label -->
+  <RimpsycheSortAlphabet>TODO</RimpsycheSortAlphabet>
+  <!-- EN: Sort by Def Order -->
+  <RimpsycheSortDef>TODO</RimpsycheSortDef>
+
   <!-- EN: Edit -->
   <RimpsycheEdit>Editar</RimpsycheEdit>
   <!-- EN: Topics -->
@@ -53,9 +125,19 @@
   <TraitAffected>Afectado por rasgo(s):</TraitAffected>
   <!-- EN: Affected by gene(s): -->
   <GeneAffected>Afectado por gen(es):</GeneAffected>
+  <!-- EN: [Shift] Full description. -->
+  <RP_ShiftForFull>TODO</RP_ShiftForFull>
+  <!-- EN: Effects -->
+  <RP_PsycheEffects>TODO</RP_PsycheEffects>
 
   <!-- EN: Psyche Disabled -->
   <PsycheDisabled>Psique desactivada</PsycheDisabled>
+
+  <!-- Behavior -->
+  <!-- EN: From personalities: -->
+  <RPC_DescriptorBlame>TODO</RPC_DescriptorBlame>
+  <!-- EN: No notable dispositions -->
+  <RPC_NoBehavior>TODO</RPC_NoBehavior>
 
   <!-- Interaction -->
   <!-- EN: Conversation about {0} -->
@@ -71,9 +153,18 @@
   <!-- EN: Marginally {0} -->
   <RimPsycheIntensityMarginally>Ligeramente {0}</RimPsycheIntensityMarginally>
 
+  <!-- EN: Not -->
+  <RimPsycheIntensityKeyNeutral>TODO</RimPsycheIntensityKeyNeutral>
+  <!-- EN: Extremely -->
+  <RimPsycheIntensityKeyExtremely>TODO</RimPsycheIntensityKeyExtremely>
+  <!-- EN: Very -->
+  <RimPsycheIntensityKeyVery>TODO</RimPsycheIntensityKeyVery>
+  <!-- EN: Somewhat -->
+  <RimPsycheIntensityKeySomewhat>TODO</RimPsycheIntensityKeySomewhat>
+  <!-- EN: Marginally -->
+  <RimPsycheIntensityKeyMarginally>TODO</RimPsycheIntensityKeyMarginally>
+
   <!-- Edit Mode -->
-  <!-- EN: Facets -->
-  <RPC_Facets>Facetas</RPC_Facets>
   <!-- EN: Reset Personality -->
   <ResetPsycheTooltip>Restablecer personalidad</ResetPsycheTooltip>
   <!-- EN: Facets are the core building blocks that shape a pawn's thoughts, feelings, and behavior. Each one represents a specific aspect of how they see the world and react to it. -->
@@ -191,7 +282,7 @@
   <RPC_Insecure>Inseguro</RPC_Insecure>
   <!-- EN: Reflects a vivid inner world and emotional sensitivity to art and beauty. Imaginative pawns are drawn to things like daydreams, music and art; Realistic pawns are more grounded and practical. -->
   <RPC_Imagination_Tooltip>Refleja un mundo interior vívido y una sensibilidad emocional hacia el arte y la belleza. Los colonos imaginativos se sienten atraídos por cosas como soñar despiertos, la música y el arte; los colonos realistas son más pragmáticos y tienen los pies en la tierra.</RPC_Imagination_Tooltip>
-  <!-- EN: Captures interest in abstract thinking and complex ideas. Philosophical pawns enjoy deep conversations and philosophical questions; Practical pawns prefer concrete, straightforward thinking -->
+  <!-- EN: Captures interest in abstract thinking and complex ideas. Philosophical pawns enjoy deep conversations and philosophical questions; Practical pawns prefer concrete, straightforward thinking. -->
   <RPC_Intellect_Tooltip>Captura el interés por el pensamiento abstracto y las ideas complejas. Los colonos filosóficos disfrutan de conversaciones profundas y cuestiones filosóficas; los colonos prácticos prefieren el pensamiento concreto y directo.</RPC_Intellect_Tooltip>
   <!-- EN: Describes a drive for novelty, diversity, and exploration. Explorative pawns seek new experiences and challenge norms; Conventional pawns favor routine and familiar settings. -->
   <RPC_Curiosity_Tooltip>Describe un impulso por la novedad, la diversidad y la exploración. Los colonos exploradores buscan nuevas experiencias y desafían las normas; los colonos convencionales prefieren la rutina y los entornos familiares.</RPC_Curiosity_Tooltip>
