@@ -1,157 +1,157 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 	<!-- EN: Global config -->
-  <RR_setting_tab_GLOBAL_CONFIG>TODO</RR_setting_tab_GLOBAL_CONFIG>
+  <RR_setting_tab_GLOBAL_CONFIG>Configuración global</RR_setting_tab_GLOBAL_CONFIG>
 	<!-- EN: Category presets -->
-  <RR_setting_tab_CATEGORY_PRESETS>TODO</RR_setting_tab_CATEGORY_PRESETS>
+  <RR_setting_tab_CATEGORY_PRESETS>Presets de categoría</RR_setting_tab_CATEGORY_PRESETS>
 	<!-- EN: Category config -->
-  <RR_setting_tab_CATEGORY_CONFIG>TODO</RR_setting_tab_CATEGORY_CONFIG>
+  <RR_setting_tab_CATEGORY_CONFIG>Configuración de categoría</RR_setting_tab_CATEGORY_CONFIG>
 	<!-- EN: Mod integrations -->
-  <RR_setting_tab_MOD_INTEGRATIONS>TODO</RR_setting_tab_MOD_INTEGRATIONS>
+  <RR_setting_tab_MOD_INTEGRATIONS>Integraciones de mods</RR_setting_tab_MOD_INTEGRATIONS>
 	
 	<!-- EN: Configure global Research Reinvented settings. -->
-  <RR_setting_tab_GLOBAL_CONFIG_tooltip>TODO</RR_setting_tab_GLOBAL_CONFIG_tooltip>
+  <RR_setting_tab_GLOBAL_CONFIG_tooltip>Configurar los ajustes globales de Research Reinvented.</RR_setting_tab_GLOBAL_CONFIG_tooltip>
 	<!-- EN: Select a preset of research point distribution between opportunity categories. -->
-  <RR_setting_tab_CATEGORY_PRESETS_tooltip>TODO</RR_setting_tab_CATEGORY_PRESETS_tooltip>
+  <RR_setting_tab_CATEGORY_PRESETS_tooltip>Seleccionar un preset de distribución de puntos de investigación entre categorías de oportunidad.</RR_setting_tab_CATEGORY_PRESETS_tooltip>
 	<!-- EN: Configure individual research opportunity categories. -->
-  <RR_setting_tab_CATEGORY_CONFIG_tooltip>TODO</RR_setting_tab_CATEGORY_CONFIG_tooltip>
+  <RR_setting_tab_CATEGORY_CONFIG_tooltip>Configurar categorías individuales de oportunidades de investigación.</RR_setting_tab_CATEGORY_CONFIG_tooltip>
 	<!-- EN: Display and configure optional integrations with other mods. -->
-  <RR_setting_tab_MOD_INTEGRATIONS_tooltip>TODO</RR_setting_tab_MOD_INTEGRATIONS_tooltip>
+  <RR_setting_tab_MOD_INTEGRATIONS_tooltip>Mostrar y configurar integraciones opcionales con otros mods.</RR_setting_tab_MOD_INTEGRATIONS_tooltip>
 
 	<!-- EN: Changes in settings. Regenerate? -->
-  <RR_setting_fixupButton>TODO</RR_setting_fixupButton>
+  <RR_setting_fixupButton>Cambios en la configuración. ¿Regenerar?</RR_setting_fixupButton>
 	<!-- EN: Clear all currently generated opportunities? This will NOT reset research progress! -->
-  <RR_setting_fixupConfirm>TODO</RR_setting_fixupConfirm>
+  <RR_setting_fixupConfirm>¿Eliminar todas las oportunidades generadas actualmente? ¡Esto NO reiniciará el progreso de investigación!</RR_setting_fixupConfirm>
 	<!-- EN: Changes made here will not correctly apply to research projects already started (including progress gained from reading schematics).\nIf you are currently in game you will be prompted for applying a fix after closing this window, otherwise a fix button will be available in the in-game menu after loading a save with older settings.\n(The fix is not applied automatically in case you want to avoid accidentally double-dipping). -->
-  <RR_setting_changeWarning>TODO</RR_setting_changeWarning>
+  <RR_setting_changeWarning>Los cambios realizados aquí no se aplicarán correctamente a proyectos de investigación ya iniciados (incluyendo el progreso obtenido al leer esquemas).\nSi estás actualmente en el juego, se te pedirá aplicar una corrección al cerrar esta ventana; de lo contrario, un botón de corrección estará disponible en el menú del juego después de cargar una partida con configuraciones anteriores.\n(La corrección no se aplica automáticamente para evitar duplicar el progreso accidentalmente).</RR_setting_changeWarning>
 
 	<!-- EN: Show progress motes -->
-  <RR_setting_showProgressMotes>TODO</RR_setting_showProgressMotes>
+  <RR_setting_showProgressMotes>Mostrar partículas de progreso</RR_setting_showProgressMotes>
 	<!-- EN: When enabled, motes (floating messages) will briefly appear above pawns that have made significant research progress. -->
-  <RR_setting_defaultCompactMode_showProgressMotes_tooltip>TODO</RR_setting_defaultCompactMode_showProgressMotes_tooltip>
+  <RR_setting_defaultCompactMode_showProgressMotes_tooltip>Cuando está activado, las partículas (mensajes flotantes) aparecerán brevemente sobre los peones que hayan hecho un progreso significativo en la investigación.</RR_setting_defaultCompactMode_showProgressMotes_tooltip>
 	
 	<!-- EN: Research window defaults to compact mode -->
-  <RR_setting_defaultCompactMode>TODO</RR_setting_defaultCompactMode>
+  <RR_setting_defaultCompactMode>La ventana de investigación usa modo compacto por defecto</RR_setting_defaultCompactMode>
 	<!-- EN: When enabled, the research opportunities list window will default to compact mode. -->
-  <RR_setting_defaultCompactMode_tooltip>TODO</RR_setting_defaultCompactMode_tooltip>
+  <RR_setting_defaultCompactMode_tooltip>Cuando está activado, la ventana de lista de oportunidades de investigación usará el modo compacto por defecto.</RR_setting_defaultCompactMode_tooltip>
 	
 	
 	<!-- EN: Allow field research without research kit -->
-  <RR_setting_kitlessResearch>TODO</RR_setting_kitlessResearch>
+  <RR_setting_kitlessResearch>Permitir investigación de campo sin kit de investigación</RR_setting_kitlessResearch>
 	<!-- EN: When enabled, field research can be performed without any research kit for research projects that only require a simple research table/kit. -->
-  <RR_setting_kitlessResearch_tooltip>TODO</RR_setting_kitlessResearch_tooltip>
+  <RR_setting_kitlessResearch_tooltip>Cuando está activado, la investigación de campo se puede realizar sin ningún kit de investigación para proyectos que solo requieren una mesa/kit de investigación simple.</RR_setting_kitlessResearch_tooltip>
 	
 	<!-- EN: Allow field research without kit for neolithic technologies -->
-  <RR_setting_kitlessNeolithicResearch>TODO</RR_setting_kitlessNeolithicResearch>
+  <RR_setting_kitlessNeolithicResearch>Permitir investigación de campo sin kit para tecnologías neolíticas</RR_setting_kitlessNeolithicResearch>
 	<!-- EN: When enabled, field research can be performed without any research kit for research projects that are of neolithic tech level. -->
-  <RR_setting_kitlessNeolithicResearch_tooltip>TODO</RR_setting_kitlessNeolithicResearch_tooltip>
+  <RR_setting_kitlessNeolithicResearch_tooltip>Cuando está activado, la investigación de campo se puede realizar sin ningún kit de investigación para proyectos de nivel tecnológico neolítico.</RR_setting_kitlessNeolithicResearch_tooltip>
 	
 	
 	<!-- EN: Disable prototype bill cancellation -->
-  <RR_setting_disablePrototypeBillCancellation>TODO</RR_setting_disablePrototypeBillCancellation>
+  <RR_setting_disablePrototypeBillCancellation>Desactivar cancelación de órdenes de prototipo</RR_setting_disablePrototypeBillCancellation>
 	<!-- EN: Some people experience issues where switching or finishing research results in cancelled construction or bills. Toggle this setting on to disable the function responsible - note that you will be able to exploit prototype bills/constructions by switching research! -->
-  <RR_setting_disablePrototypeBillCancellation_tooltip>TODO</RR_setting_disablePrototypeBillCancellation_tooltip>
+  <RR_setting_disablePrototypeBillCancellation_tooltip>Algunas personas experimentan problemas donde cambiar o terminar una investigación resulta en la cancelación de construcciones u órdenes. Activa esta opción para desactivar la función responsable - ¡ten en cuenta que podrás explotar las órdenes/construcciones de prototipos al cambiar de investigación!</RR_setting_disablePrototypeBillCancellation_tooltip>
 	
 	<!-- EN: Enable prisoner knowledge extraction by default -->
-  <RR_setting_enableScienceInterrogationByDefault>TODO</RR_setting_enableScienceInterrogationByDefault>
+  <RR_setting_enableScienceInterrogationByDefault>Activar extracción de conocimiento de prisioneros por defecto</RR_setting_enableScienceInterrogationByDefault>
 	<!-- EN: If enabled, all new prisoners have knowledge extraction automatically enabled. -->
-  <RR_setting_enableScienceInterrogationByDefault_tooltip>TODO</RR_setting_enableScienceInterrogationByDefault_tooltip>
+  <RR_setting_enableScienceInterrogationByDefault_tooltip>Si está activado, todos los nuevos prisioneros tendrán la extracción de conocimiento activada automáticamente.</RR_setting_enableScienceInterrogationByDefault_tooltip>
 	
 	<!-- EN: Select category -->
-  <RR_setting_category_selector>TODO</RR_setting_category_selector>
+  <RR_setting_category_selector>Seleccionar categoría</RR_setting_category_selector>
 	
 	<!-- EN: Category enabled -->
-  <RR_setting_category_enabled>TODO</RR_setting_category_enabled>
+  <RR_setting_category_enabled>Categoría activada</RR_setting_category_enabled>
 	<!-- EN: Toggle this to disable this category of research opportunities entirely. -->
-  <RR_setting_category_enabled_tooltip>TODO</RR_setting_category_enabled_tooltip>
+  <RR_setting_category_enabled_tooltip>Activa o desactiva esto para deshabilitar esta categoría de oportunidades de investigación por completo.</RR_setting_category_enabled_tooltip>
 	
 	<!-- EN: Available at overall progress -->
-  <RR_setting_category_availableAtOverallProgress>TODO</RR_setting_category_availableAtOverallProgress>
+  <RR_setting_category_availableAtOverallProgress>Disponible en progreso general</RR_setting_category_availableAtOverallProgress>
 	<!-- EN: Controls during which phase of research is this category available. -->
-  <RR_setting_category_availableAtOverallProgress_tooltip>TODO</RR_setting_category_availableAtOverallProgress_tooltip>
+  <RR_setting_category_availableAtOverallProgress_tooltip>Controla durante qué fase de la investigación está disponible esta categoría.</RR_setting_category_availableAtOverallProgress_tooltip>
 	
 	<!-- EN: Static project cost fraction -->
-  <RR_setting_category_importanceStatic>TODO</RR_setting_category_importanceStatic>
+  <RR_setting_category_importanceStatic>Fracción estática del costo del proyecto</RR_setting_category_importanceStatic>
 	<!-- EN: How many research points this category will give, based only on the cost of the project itself.\nThese points are in addition to any given from the distributed points system.\n\nA value of 100% means projects can be completed entirely by doing only this category. -->
-  <RR_setting_category_importanceStatic_tooltip>TODO</RR_setting_category_importanceStatic_tooltip>
+  <RR_setting_category_importanceStatic_tooltip>Cuántos puntos de investigación dará esta categoría, basado solo en el costo del proyecto.\nEstos puntos son adicionales a los dados por el sistema de puntos distribuidos.\n\nUn valor de 100% significa que los proyectos pueden completarse enteramente haciendo solo esta categoría.</RR_setting_category_importanceStatic_tooltip>
 	
 	<!-- EN: Distributed project cost weight -->
-  <RR_setting_category_importanceMultiplier>TODO</RR_setting_category_importanceMultiplier>
+  <RR_setting_category_importanceMultiplier>Peso del costo distribuido del proyecto</RR_setting_category_importanceMultiplier>
 	<!-- EN: When distributing the project research points, this value determines how many points it will give relative to other categories.\n\nHigher value means more points. -->
-  <RR_setting_category_importanceMultiplier_tooltip>TODO</RR_setting_category_importanceMultiplier_tooltip>
+  <RR_setting_category_importanceMultiplier_tooltip>Al distribuir los puntos de investigación del proyecto, este valor determina cuántos puntos dará en relación con otras categorías.\n\nUn valor más alto significa más puntos.</RR_setting_category_importanceMultiplier_tooltip>
 	
 	<!-- EN: Weight counted for other categories -->
-  <RR_setting_category_importanceMultiplierCounted>TODO</RR_setting_category_importanceMultiplierCounted>
+  <RR_setting_category_importanceMultiplierCounted>Peso contabilizado para otras categorías</RR_setting_category_importanceMultiplierCounted>
 	<!-- EN: Used when calculating the research points distributed to other categories.\nMust be smaller or equal to the actual importance multiplier.\n\nLower value here means fewer points from this category are required to complete the project, and setting it to 0% makes it entirely optional. -->
-  <RR_setting_category_importanceMultiplierCounted_tooltip>TODO</RR_setting_category_importanceMultiplierCounted_tooltip>
+  <RR_setting_category_importanceMultiplierCounted_tooltip>Usado al calcular los puntos de investigación distribuidos a otras categorías.\nDebe ser menor o igual al multiplicador de importancia real.\n\nUn valor más bajo aquí significa que se necesitan menos puntos de esta categoría para completar el proyecto, y establecerlo en 0% lo hace completamente opcional.</RR_setting_category_importanceMultiplierCounted_tooltip>
 	
 	<!-- EN: Required completions -->
-  <RR_setting_category_targetIterations>TODO</RR_setting_category_targetIterations>
+  <RR_setting_category_targetIterations>Completaciones requeridas</RR_setting_category_targetIterations>
 	<!-- EN: The maximum individual opportunities required to fully complete this category.\nAutomatically reduced for projects with fewer generated opportunities. -->
-  <RR_setting_category_targetIterations_tooltip>TODO</RR_setting_category_targetIterations_tooltip>
+  <RR_setting_category_targetIterations_tooltip>El máximo de oportunidades individuales requeridas para completar totalmente esta categoría.\nSe reduce automáticamente para proyectos con menos oportunidades generadas.</RR_setting_category_targetIterations_tooltip>
 	
 	<!-- EN: Infinite overflow -->
-  <RR_setting_category_infiniteOverflow>TODO</RR_setting_category_infiniteOverflow>
+  <RR_setting_category_infiniteOverflow>Desbordamiento infinito</RR_setting_category_infiniteOverflow>
 	<!-- EN: Allow research in this category to continue as long as there are more opportunities of this type available, even after the points maximum is reached. -->
-  <RR_setting_category_infiniteOverflow_tooltip>TODO</RR_setting_category_infiniteOverflow_tooltip>
+  <RR_setting_category_infiniteOverflow_tooltip>Permitir que la investigación en esta categoría continúe mientras haya más oportunidades de este tipo disponibles, incluso después de alcanzar el máximo de puntos.</RR_setting_category_infiniteOverflow_tooltip>
 	
 	<!-- EN: Research speed multiplier -->
-  <RR_setting_category_researchSpeedMultiplier>TODO</RR_setting_category_researchSpeedMultiplier>
+  <RR_setting_category_researchSpeedMultiplier>Multiplicador de velocidad de investigación</RR_setting_category_researchSpeedMultiplier>
 	<!-- EN: Opportunities of this category will have their research speed multiplied by the set percentage.\n\nFor most categories, this is a multiplier applied to the pawn's normal research speed stat. -->
-  <RR_setting_category_researchSpeedMultiplier_tooltip>TODO</RR_setting_category_researchSpeedMultiplier_tooltip>
+  <RR_setting_category_researchSpeedMultiplier_tooltip>Las oportunidades de esta categoría tendrán su velocidad de investigación multiplicada por el porcentaje establecido.\n\nPara la mayoría de las categorías, este es un multiplicador aplicado a la estadística de velocidad de investigación normal del peón.</RR_setting_category_researchSpeedMultiplier_tooltip>
 	
 	<!-- EN: Distributed weight multiplier -->
-  <RR_setting_category_fractionAxis>TODO</RR_setting_category_fractionAxis>
+  <RR_setting_category_fractionAxis>Multiplicador de peso distribuido</RR_setting_category_fractionAxis>
 	<!-- EN: Research speed -->
-  <RR_setting_category_researchSpeedAxis>TODO</RR_setting_category_researchSpeedAxis>
+  <RR_setting_category_researchSpeedAxis>Velocidad de investigación</RR_setting_category_researchSpeedAxis>
 	
 	<!-- EN: Reset to preset default -->
-  <RR_setting_category_resetToDefault>TODO</RR_setting_category_resetToDefault>
+  <RR_setting_category_resetToDefault>Restablecer al preset predeterminado</RR_setting_category_resetToDefault>
 	
 	
 	<!--- Mod compat -->
 	
 	<!-- EN: {0} patch active. -->
-  <RR_setting_modCompat_active>TODO</RR_setting_modCompat_active>
+  <RR_setting_modCompat_active>Parche de {0} activo.</RR_setting_modCompat_active>
 	<!-- EN: {0} patch failed. -->
-  <RR_setting_modCompat_fail>TODO</RR_setting_modCompat_fail>
+  <RR_setting_modCompat_fail>Parche de {0} falló.</RR_setting_modCompat_fail>
 	<!-- EN: {0} not detected. -->
-  <RR_setting_modCompat_notDetected>TODO</RR_setting_modCompat_notDetected>
+  <RR_setting_modCompat_notDetected>{0} no detectado.</RR_setting_modCompat_notDetected>
 	
 	<!-- EN: Combat Extended -->
-  <RR_setting_modCompat_combatExtended>TODO</RR_setting_modCompat_combatExtended>
+  <RR_setting_modCompat_combatExtended>Combat Extended</RR_setting_modCompat_combatExtended>
 	<!-- EN: Dubs Mint Menus -->
-  <RR_setting_modCompat_dubsMintMenus>TODO</RR_setting_modCompat_dubsMintMenus>
+  <RR_setting_modCompat_dubsMintMenus>Dubs Mint Menus</RR_setting_modCompat_dubsMintMenus>
 	<!-- EN: Humanoid Alien Races -->
-  <RR_setting_modCompat_humanoidAlienRaces>TODO</RR_setting_modCompat_humanoidAlienRaces>
+  <RR_setting_modCompat_humanoidAlienRaces>Humanoid Alien Races</RR_setting_modCompat_humanoidAlienRaces>
 	<!-- EN: Research Data -->
-  <RR_setting_modCompat_researchData>TODO</RR_setting_modCompat_researchData>
+  <RR_setting_modCompat_researchData>Research Data</RR_setting_modCompat_researchData>
 	
 	<!-- EN: Compatibility mode -->
-  <RR_setting_modCompat_researchData_mode>TODO</RR_setting_modCompat_researchData_mode>
+  <RR_setting_modCompat_researchData_mode>Modo de compatibilidad</RR_setting_modCompat_researchData_mode>
 	<!-- EN: Theory only -->
-  <RR_modCompat_researchData_mode_TheoryOnly>TODO</RR_modCompat_researchData_mode_TheoryOnly>
+  <RR_modCompat_researchData_mode_TheoryOnly>Solo teoría</RR_modCompat_researchData_mode_TheoryOnly>
 	<!-- EN: Research Data "fuel" will only be needed and consumed by theory research. -->
-  <RR_modCompat_researchData_mode_TheoryOnly_tooltip>TODO</RR_modCompat_researchData_mode_TheoryOnly_tooltip>
+  <RR_modCompat_researchData_mode_TheoryOnly_tooltip>El "combustible" de Research Data solo será necesario y consumido por la investigación teórica.</RR_modCompat_researchData_mode_TheoryOnly_tooltip>
 	<!-- EN: All research -->
-  <RR_modCompat_researchData_mode_AllBenchResearch>TODO</RR_modCompat_researchData_mode_AllBenchResearch>
+  <RR_modCompat_researchData_mode_AllBenchResearch>Toda la investigación</RR_modCompat_researchData_mode_AllBenchResearch>
 	<!-- EN: Research Data "fuel" will be needed and consumed by any research done at a research bench. -->
-  <RR_modCompat_researchData_mode_AllBenchResearch_tooltip>TODO</RR_modCompat_researchData_mode_AllBenchResearch_tooltip>
+  <RR_modCompat_researchData_mode_AllBenchResearch_tooltip>El "combustible" de Research Data será necesario y consumido por cualquier investigación realizada en una mesa de investigación.</RR_modCompat_researchData_mode_AllBenchResearch_tooltip>
 	
 	<!--- Obsolete -->
 	<!-- EN: Enable debug mode -->
-  <RR_setting_debugPrintouts>TODO</RR_setting_debugPrintouts>
+  <RR_setting_debugPrintouts>Activar modo de depuración</RR_setting_debugPrintouts>
 	<!-- EN: When enabled, various developer printouts and visuals will be active. -->
-  <RR_setting_debugPrintouts_tooltip>TODO</RR_setting_debugPrintouts_tooltip>
+  <RR_setting_debugPrintouts_tooltip>Cuando está activado, varios mensajes de desarrollador y elementos visuales estarán activos.</RR_setting_debugPrintouts_tooltip>
 	
 	<!-- EN: Target fraction multiplier -->
-  <RR_setting_category_targetFractionMultiplier>TODO</RR_setting_category_targetFractionMultiplier>
+  <RR_setting_category_targetFractionMultiplier>Multiplicador de fracción objetivo</RR_setting_category_targetFractionMultiplier>
 	<!-- EN: The generated opportunities try to split the research cost of the project according to the relative fraction sizes of categories, depending on this value. -->
-  <RR_setting_category_targetFractionMultiplier_tooltip>TODO</RR_setting_category_targetFractionMultiplier_tooltip>
+  <RR_setting_category_targetFractionMultiplier_tooltip>Las oportunidades generadas intentan dividir el costo de investigación del proyecto según los tamaños de fracción relativos de las categorías, dependiendo de este valor.</RR_setting_category_targetFractionMultiplier_tooltip>
 	
 	<!-- EN: Extra fraction multiplier -->
-  <RR_setting_category_extraFractionMultiplier>TODO</RR_setting_category_extraFractionMultiplier>
+  <RR_setting_category_extraFractionMultiplier>Multiplicador de fracción extra</RR_setting_category_extraFractionMultiplier>
 	<!-- EN: Additional research allowed for this category that is not included in the initial fraction assigned to it. -->
-  <RR_setting_category_extraFractionMultiplier_tooltip>TODO</RR_setting_category_extraFractionMultiplier_tooltip>
+  <RR_setting_category_extraFractionMultiplier_tooltip>Investigación adicional permitida para esta categoría que no está incluida en la fracción inicial asignada.</RR_setting_category_extraFractionMultiplier_tooltip>
 	
 </LanguageData>

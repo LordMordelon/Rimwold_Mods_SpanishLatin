@@ -1,23 +1,23 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: iterate on recipe -->
-  <AnalyseFood.header_Ancestor>TODO</AnalyseFood.header_Ancestor>
+  <AnalyseFood.header_Ancestor>iterar sobre la receta</AnalyseFood.header_Ancestor>
   <!-- EN: reproduce recipe -->
-  <AnalyseFood.header_Direct>TODO</AnalyseFood.header_Direct>
+  <AnalyseFood.header_Direct>reproducir receta</AnalyseFood.header_Direct>
   <!-- EN: Gather subjective opinions on the quality of the recipe used to create {0}.\n\nAffected by (when consuming):\nConsumer's research speed stat -->
-  <AnalyseFood.shortDesc_Ancestor>TODO</AnalyseFood.shortDesc_Ancestor>
+  <AnalyseFood.shortDesc_Ancestor>Recopilar opiniones subjetivas sobre la calidad de la receta usada para crear {0}.\n\nAfectado por (al consumir):\nEstadística de velocidad de investigación del consumidor</AnalyseFood.shortDesc_Ancestor>
   <!-- EN: Attempt to determine the recipe used to create {0}.\n\nAffected by (when consuming):\nConsumer's research speed stat -->
-  <AnalyseFood.shortDesc_Direct>TODO</AnalyseFood.shortDesc_Direct>
+  <AnalyseFood.shortDesc_Direct>Intentar determinar la receta usada para crear {0}.\n\nAfectado por (al consumir):\nEstadística de velocidad de investigación del consumidor</AnalyseFood.shortDesc_Direct>
   
   <!-- EN: nutrient content analysis -->
-  <AnalyseFuelFood.header_Direct>TODO</AnalyseFuelFood.header_Direct>
+  <AnalyseFuelFood.header_Direct>análisis de contenido nutricional</AnalyseFuelFood.header_Direct>
   <!-- EN: Determine the nutrient content of {0}, either by scientific analysis at research benches or by subsisting on {0} directly.\n\nAffected by (at bench):\nBench research speed stat\nResearcher research speed stat\n\nAffected by (when consuming):\nConsumer research speed stat -->
-  <AnalyseFuelFood.shortDesc_Direct>TODO</AnalyseFuelFood.shortDesc_Direct>
+  <AnalyseFuelFood.shortDesc_Direct>Determinar el contenido nutricional de {0}, ya sea mediante análisis científico en mesas de investigación o subsistiendo directamente con {0}.\n\nAfectado por (en la mesa):\nEstadística de velocidad de investigación de la mesa\nEstadística de velocidad de investigación del investigador\n\nAfectado por (al consumir):\nEstadística de velocidad de investigación del consumidor</AnalyseFuelFood.shortDesc_Direct>
   
   <!-- EN: determine flavor profile -->
-  <AnalyseRawFood.header_Direct>TODO</AnalyseRawFood.header_Direct>
+  <AnalyseRawFood.header_Direct>determinar perfil de sabor</AnalyseRawFood.header_Direct>
   <!-- EN: Determine the flavor profile of {0}, either by scientific analysis at research benches or by directly tasting {0}.\n\nAffected by (at bench):\nBench research speed stat\nResearcher research speed stat\n\nAffected by (when consuming):\nConsumer research speed stat -->
-  <AnalyseRawFood.shortDesc_Direct>TODO</AnalyseRawFood.shortDesc_Direct>
+  <AnalyseRawFood.shortDesc_Direct>Determinar el perfil de sabor de {0}, ya sea mediante análisis científico en mesas de investigación o probando directamente {0}.\n\nAfectado por (en la mesa):\nEstadística de velocidad de investigación de la mesa\nEstadística de velocidad de investigación del investigador\n\nAfectado por (al consumir):\nEstadística de velocidad de investigación del consumidor</AnalyseRawFood.shortDesc_Direct>
   
 </LanguageData>

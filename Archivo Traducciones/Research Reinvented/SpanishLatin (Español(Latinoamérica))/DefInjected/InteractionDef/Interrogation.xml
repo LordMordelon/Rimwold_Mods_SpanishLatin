@@ -1,8 +1,8 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: extract knowledge -->
-  <RR_ScienceInterrogation_Demand.label>TODO</RR_ScienceInterrogation_Demand.label>
+  <RR_ScienceInterrogation_Demand.label>extraer conocimiento</RR_ScienceInterrogation_Demand.label>
   <!-- EN:
     <li>r_logentry->[INITIATOR_nameDef] spoke to [RECIPIENT_nameDef] about [subject].</li>
     <li>r_logentry->[INITIATOR_nameDef] described [subject] to [RECIPIENT_nameDef].</li>
@@ -24,10 +24,30 @@
     <li>knowledge_requested->[RECIPIENT_possessive] experience</li>
     <li>knowledge_requested->[RECIPIENT_possessive] knowledge</li>
   -->
-  <RR_ScienceInterrogation_Demand.logRulesInitiator.rulesStrings>TODO</RR_ScienceInterrogation_Demand.logRulesInitiator.rulesStrings>
+  <RR_ScienceInterrogation_Demand.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef] habló con [RECIPIENT_nameDef] sobre [subject].</li>
+    <li>r_logentry->[INITIATOR_nameDef] describió [subject] a [RECIPIENT_nameDef].</li>
+    <li>r_logentry->[INITIATOR_nameDef] [encouraged] a [RECIPIENT_nameDef] a [talkabout] [knowledge_requested].</li>
+    <li>encouraged->animó</li>
+    <li>encouraged->ofreció la oportunidad a</li>
+    <li>encouraged->exigió</li>
+    <li>encouraged->sugirió</li>
+    <li>talkabout->hablar sobre</li>
+    <li>talkabout->discutir</li>
+    <li>talkabout->tener una discusión sobre</li>
+    <li>talkabout->pensar sobre</li>
+    <li>subject->ciencia</li>
+    <li>subject->experimentos previos</li>
+    <li>subject->el método científico</li>
+    <li>knowledge_requested->datos científicos</li>
+    <li>knowledge_requested->experimentación</li>
+    <li>knowledge_requested->puntos de datos</li>
+    <li>knowledge_requested->la experiencia de [RECIPIENT_possessive]</li>
+    <li>knowledge_requested->los conocimientos de [RECIPIENT_possessive]</li>
+  </RR_ScienceInterrogation_Demand.logRulesInitiator.rulesStrings>
   
   <!-- EN: share knowledge -->
-  <RR_ScienceInterrogation_Reply_Cooperative.label>TODO</RR_ScienceInterrogation_Reply_Cooperative.label>
+  <RR_ScienceInterrogation_Reply_Cooperative.label>compartir conocimiento</RR_ScienceInterrogation_Reply_Cooperative.label>
   <!-- EN:
     <li>r_logentry->[RECIPIENT_nameDef] [willingly] [revealed] [knowledge] to [INITIATOR_nameDef].</li>
     <li>willingly->willingly</li>
@@ -44,10 +64,25 @@
     <li>knowledge->scientific data</li>
     <li>knowledge->data points</li>
   -->
-  <RR_ScienceInterrogation_Reply_Cooperative.logRulesInitiator.rulesStrings>TODO</RR_ScienceInterrogation_Reply_Cooperative.logRulesInitiator.rulesStrings>
+  <RR_ScienceInterrogation_Reply_Cooperative.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[RECIPIENT_nameDef] [willingly] [revealed] [knowledge] a [INITIATOR_nameDef].</li>
+    <li>willingly->voluntariamente</li>
+    <li>willingly->de buena gana</li>
+    <li>willingly->sin dudar</li>
+    <li>willingly->libremente</li>
+    <li>revealed->reveló</li>
+    <li>revealed->entregó</li>
+    <li>revealed->cedió</li>
+    <li>revealed->concedió</li>
+    <li>knowledge->los conocimientos de [RECIPIENT_possessive]</li>
+    <li>knowledge->la experiencia de [RECIPIENT_possessive]</li>
+    <li>knowledge->información</li>
+    <li>knowledge->datos científicos</li>
+    <li>knowledge->puntos de datos</li>
+  </RR_ScienceInterrogation_Reply_Cooperative.logRulesInitiator.rulesStrings>
   
   <!-- EN: share knowledge -->
-  <RR_ScienceInterrogation_Reply_Reluctant.label>TODO</RR_ScienceInterrogation_Reply_Reluctant.label>
+  <RR_ScienceInterrogation_Reply_Reluctant.label>compartir conocimiento</RR_ScienceInterrogation_Reply_Reluctant.label>
   <!-- EN:
     <li>r_logentry->[RECIPIENT_nameDef] [reluctantly] [revealed] [knowledge] to [INITIATOR_nameDef].</li>
     <li>reluctantly->reluctantly</li>
@@ -62,10 +97,23 @@
     <li>knowledge->scientific data</li>
     <li>knowledge->data points</li>
   -->
-  <RR_ScienceInterrogation_Reply_Reluctant.logRulesInitiator.rulesStrings>TODO</RR_ScienceInterrogation_Reply_Reluctant.logRulesInitiator.rulesStrings>
+  <RR_ScienceInterrogation_Reply_Reluctant.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[RECIPIENT_nameDef] [reluctantly] [revealed] [knowledge] a [INITIATOR_nameDef].</li>
+    <li>reluctantly->a regañadientes</li>
+    <li>reluctantly->de mala gana</li>
+    <li>revealed->reveló</li>
+    <li>revealed->entregó</li>
+    <li>revealed->cedió</li>
+    <li>revealed->concedió</li>
+    <li>knowledge->los conocimientos de [RECIPIENT_possessive]</li>
+    <li>knowledge->la experiencia de [RECIPIENT_possessive]</li>
+    <li>knowledge->información</li>
+    <li>knowledge->datos científicos</li>
+    <li>knowledge->puntos de datos</li>
+  </RR_ScienceInterrogation_Reply_Reluctant.logRulesInitiator.rulesStrings>
   
   <!-- EN: share knowledge -->
-  <RR_ScienceInterrogation_Reply_Resistant.label>TODO</RR_ScienceInterrogation_Reply_Resistant.label>
+  <RR_ScienceInterrogation_Reply_Resistant.label>compartir conocimiento</RR_ScienceInterrogation_Reply_Resistant.label>
   <!-- EN:
     <li>r_logentry->[RECIPIENT_nameDef] refused to [reveal] [anything] to [INITIATOR_nameDef].</li>
     <li>r_logentry->[RECIPIENT_nameDef] [revealed] [false_pair] [knowledge] to [INITIATOR_nameDef].</li>
@@ -95,10 +143,38 @@
     <li>knowledge->scientific data</li>
     <li>knowledge->data points</li>
   -->
-  <RR_ScienceInterrogation_Reply_Resistant.logRulesInitiator.rulesStrings>TODO</RR_ScienceInterrogation_Reply_Resistant.logRulesInitiator.rulesStrings>
+  <RR_ScienceInterrogation_Reply_Resistant.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[RECIPIENT_nameDef] se negó a [reveal] [anything] a [INITIATOR_nameDef].</li>
+    <li>r_logentry->[RECIPIENT_nameDef] [revealed] [false_pair] [knowledge] a [INITIATOR_nameDef].</li>
+    <li>reveal->entregar</li>
+    <li>reveal->ceder</li>
+    <li>reveal->conceder</li>
+    <li>reveal->revelar</li>
+    <li>revealed->reveló</li>
+    <li>revealed->entregó</li>
+    <li>revealed->cedió</li>
+    <li>revealed->concedió</li>
+    <li>anything->los conocimientos de [RECIPIENT_possessive]</li>
+    <li>anything->nada</li>
+    <li>anything->ninguna información</li>
+    <li>false_pair->[false]</li>
+    <li>false_pair->[false_adjective] [false]</li>
+    <li>false_adjective->descaradamente</li>
+    <li>false_adjective->claramente</li>
+    <li>false_adjective->completamente</li>
+    <li>false->falsa</li>
+    <li>false->incorrecta</li>
+    <li>false->falsa</li>
+    <li>false->poco confiable</li>
+    <li>false->no verificable</li>
+    <li>false->inservible</li>
+    <li>knowledge->información</li>
+    <li>knowledge->datos científicos</li>
+    <li>knowledge->puntos de datos</li>
+  </RR_ScienceInterrogation_Reply_Resistant.logRulesInitiator.rulesStrings>
   
   <!-- EN: note knowledge -->
-  <RR_ScienceInterrogationFinalize.label>TODO</RR_ScienceInterrogationFinalize.label>
+  <RR_ScienceInterrogationFinalize.label>anotar conocimiento</RR_ScienceInterrogationFinalize.label>
   <!-- EN:
     <li>r_logentry->[INITIATOR_nameDef] [noted] [knowledge] [given] by [RECIPIENT_nameDef] [about] [subject].</li>
     <li>noted->noted down</li>
@@ -124,6 +200,30 @@
     <li>knowledge->scientific data</li>
     <li>knowledge->data points</li>
   -->
-  <RR_ScienceInterrogationFinalize.logRulesInitiator.rulesStrings>TODO</RR_ScienceInterrogationFinalize.logRulesInitiator.rulesStrings>
+  <RR_ScienceInterrogationFinalize.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef] [noted] [knowledge] [given] por [RECIPIENT_nameDef] [about] [subject].</li>
+    <li>noted->anotó</li>
+    <li>noted->registró</li>
+    <li>noted->documentó</li>
+    <li>noted->memorizó</li>
+    <li>noted->obtuvo</li>
+    <li>given->proporcionados</li>
+    <li>given->compartidos</li>
+    <li>given->facilitados</li>
+    <li>given->distribuidos</li>
+    <li>given->entregados</li>
+    <li>given->dispensados</li>
+    <li>about->sobre</li>
+    <li>about->acerca de</li>
+    <li>about->respecto a</li>
+    <li>subject->ciencia</li>
+    <li>subject->experimentos previos</li>
+    <li>subject->prototipos</li>
+    <li>subject->investigación</li>
+    <li>knowledge->conocimientos</li>
+    <li>knowledge->información</li>
+    <li>knowledge->datos científicos</li>
+    <li>knowledge->puntos de datos</li>
+  </RR_ScienceInterrogationFinalize.logRulesInitiator.rulesStrings>
   
 </LanguageData>
