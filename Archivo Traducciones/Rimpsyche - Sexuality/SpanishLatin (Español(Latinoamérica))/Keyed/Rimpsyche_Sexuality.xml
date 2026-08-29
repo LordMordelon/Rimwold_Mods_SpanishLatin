@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
   <!-- General -->
@@ -78,6 +78,12 @@
   <!-- EN: {0} has lost their sexuality. Can you find it for them? -->
   <RPC_SexualityUndefinedDescription>{0} ha perdido su sexualidad. ¿Puedes encontrarla por ellos?</RPC_SexualityUndefinedDescription>
 
+  <!-- Edit -->
+  <!-- EN: Move the slider left or right to adjust how strongly the pawn is attracted to each gender.\nThe middle represents equal attraction to both genders, while either end represents attraction only to males or only to females. -->
+  <RPS_KinseySliderTooltip>Mueve el deslizador a la izquierda o derecha para ajustar qué tan fuertemente se siente atraído el colono por cada género.\nEl centro representa la misma atracción hacia ambos géneros, mientras que cada extremo representa atracción solo hacia hombres o solo hacia mujeres.</RPS_KinseySliderTooltip>
+  <!-- EN: Max Attraction represents the level of sexual attraction the pawn feels toward their preferred gender.\nAttraction toward the less preferred gender is scaled proportionally according to the Kinsey rating.\n\nIf Max Attraction is sufficiently low, the pawn will be considered asexual -->
+  <RPS_AttractionTooltip>La atracción máxima representa el nivel de atracción sexual que siente el colono hacia su género preferido.\nLa atracción hacia el género menos preferido se escala proporcionalmente según la escala de Kinsey.\n\nSi la atracción máxima es lo suficientemente baja, el colono será considerado asexual.</RPS_AttractionTooltip>
+
   <!-- Preference -->
   <!-- EN: No Preference available -->
   <RPS_NoPreference>No hay preferencias disponibles</RPS_NoPreference>
@@ -85,6 +91,10 @@
   <RPS_AttractionReport>Personalidades preferidas:</RPS_AttractionReport>
   <!-- EN: Importance -->
   <RPS_Importance>Importancia</RPS_Importance>
+  <!-- EN: Likes -->
+  <RPS_Likes>Le gusta</RPS_Likes>
+  <!-- EN: Dislikes -->
+  <RPS_Dislikes>Le disgusta</RPS_Dislikes>
 
   <!-- Stats -->
   <!-- EN: Libido -->
