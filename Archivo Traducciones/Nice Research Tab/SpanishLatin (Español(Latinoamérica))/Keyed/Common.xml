@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Mod enabled -->
+  <NiceResearchTabEnabled>Mod activado</NiceResearchTabEnabled>
+
+  <!-- EN: Research -->
+  <NRT_Research>Investigar</NRT_Research>
+  <!-- EN: Stop research -->
+  <NRT_StopResearch>Detener investigación</NRT_StopResearch>
+  <!-- EN: add to queue -->
+  <NRT_AddToQueue>añadir a la cola</NRT_AddToQueue>
+
+  <!-- EN: Research finished -->
+  <NRT_ResearchFinishedLetterLabel>Investigación terminada</NRT_ResearchFinishedLetterLabel>
+  <!-- EN: Research "{0}" is complete. Click to open the message. -->
+  <NRT_ResearchFinishedLetterText>La investigación "{0}" se ha completado. Haz clic para abrir el mensaje.</NRT_ResearchFinishedLetterText>
+  <!-- EN: Vanilla research-finish window -->
+  <NRT_VanillaResearchFinishMessage>Ventana de investigación terminada vanilla</NRT_VanillaResearchFinishMessage>
+
+  <!-- EN: Research queue -->
+  <ResearchQueue>Cola de investigación</ResearchQueue>
+
+  <!-- EN: Hi-tech research bench -->
+  <NRT_HiTechBenchShort>Mesa de investigación avanzada</NRT_HiTechBenchShort>
+  <!-- EN: Advanced knowledge -->
+  <NRT_AnomalyAdvancedKnowledge>Conocimiento avanzado</NRT_AnomalyAdvancedKnowledge>
+  <!-- EN: Requires gravtech -->
+  <RequiresGravtech>Requiere tecnología gravitatoria</RequiresGravtech>
+  <!-- EN: Requires gravdata -->
+  <NRT_RequiresGravdata>Requiere datos gravitatorios</NRT_RequiresGravdata>
+
+  <!-- EN: Packer -->
+  <NRT_Packer>Empaquetador</NRT_Packer>
+  <!-- EN: Single thread -->
+  <NRT_SingleThread>Un solo hilo</NRT_SingleThread>
+  <!-- EN: Rebuild -->
+  <NRT_Rebuild>Reconstruir</NRT_Rebuild>
+  <!-- EN: Preview is only available in-game -->
+  <NRT_YouMustBeInGameToPreview>La vista previa solo está disponible en el juego</NRT_YouMustBeInGameToPreview>
+  <!-- EN: Fullscreen -->
+  <NRT_Fullscreen>Pantalla completa</NRT_Fullscreen>
+
+  <!-- EN: Common -->
+  <NRT_SettingsCommonTab>General</NRT_SettingsCommonTab>
+  <!-- EN: Packer -->
+  <NRT_SettingsPackerTab>Empaquetador</NRT_SettingsPackerTab>
+  <!-- EN: Performance -->
+  <NRT_SettingsPerformanceTab>Rendimiento</NRT_SettingsPerformanceTab>
+
+  <!-- EN: Width -->
+  <NRT_Width>Ancho</NRT_Width>
+  <!-- EN: Height -->
+  <NRT_Height>Alto</NRT_Height>
+
+  <!-- EN: Show connection links -->
+  <NRT_ShowConnectionLinks>Mostrar líneas de conexión</NRT_ShowConnectionLinks>
+  <!-- EN: Show tech level background -->
+  <NRT_ShowTechLevelBackground>Mostrar fondo de nivel tecnológico</NRT_ShowTechLevelBackground>
+  <!-- EN: Show edging -->
+  <NRT_ShowEdging>Mostrar bordes</NRT_ShowEdging>
+  <!-- EN: Show required facility icon -->
+  <NRT_ShowRequiredFacilityIcon>Mostrar ícono de instalación requerida</NRT_ShowRequiredFacilityIcon>
+  <!-- EN: Show required techprints icon -->
+  <NRT_ShowRequiredTechprintsIcon>Mostrar ícono de esquemas requeridos</NRT_ShowRequiredTechprintsIcon>
+  <!-- EN: Delayed node culling -->
+  <NRT_DelayedNodeCulling>Descarte diferido de nodos</NRT_DelayedNodeCulling>
+  <!-- EN: Show fancy animated background -->
+  <NRT_ShowFancyBackground>Mostrar fondo animado detallado</NRT_ShowFancyBackground>
+
+  <!-- EN: Project unlocks count per row -->
+  <NRT_ProjectUnlocksCountPerRow>Cantidad de desbloqueos del proyecto por fila</NRT_ProjectUnlocksCountPerRow>
+  <!-- EN: All researches in one space -->
+  <NRT_AllNodesInOneSpace>Todas las investigaciones en un solo espacio</NRT_AllNodesInOneSpace>
+  <!-- EN: Grouping by mod -->
+  <NRT_ModGrouping>Agrupar por mod</NRT_ModGrouping>
+  <!-- EN: Some mods can be integrated into other tabs -->
+  <NRT_AllNodesInOneSpaceTip>Algunos mods se pueden integrar en otras pestañas</NRT_AllNodesInOneSpaceTip>
+  <!-- EN: Connection lines can cross projects -->
+  <NRT_LinksCanCrossNodes>Las líneas de conexión pueden cruzar proyectos</NRT_LinksCanCrossNodes>
+
+  <!-- EN: Filter by name. You can also filter by mod or DLC by typing # before the word (without a space) -->
+  <NRT_FilterTip>Filtrar por nombre. También puedes filtrar por mod o DLC escribiendo # antes de la palabra (sin espacio)</NRT_FilterTip>
+
+  <!-- EN: Recipe -->
+  <NRT_Recipe>Receta</NRT_Recipe>
+  <!-- EN: Building -->
+  <NRT_Building>Estructura</NRT_Building>
+  <!-- EN: Merge Anomaly queues into one -->
+  <NRT_CombineAnomalyQueues>Combinar colas de Anomaly en una sola</NRT_CombineAnomalyQueues>
+  <!-- EN: WASD pan speed -->
+  <NRT_WASDPanSpeed>Velocidad de desplazamiento con WASD</NRT_WASDPanSpeed>
+</LanguageData>
