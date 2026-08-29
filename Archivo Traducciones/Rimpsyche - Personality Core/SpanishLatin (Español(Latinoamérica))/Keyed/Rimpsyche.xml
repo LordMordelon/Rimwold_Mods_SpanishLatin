@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
   <!-- General -->
@@ -63,7 +63,7 @@
   <!-- EN: Displays associated gameplay effects inside each personality node's description.\n\nWARNING: Personality effects are simplified for readability and do not reflect all active gameplay mechanics. -->
   <RimpsycheShowEffectInDescriptionTooltip>Muestra los efectos de juego asociados dentro de la descripción de cada nodo de personalidad.\n\nADVERTENCIA: Los efectos de personalidad están simplificados para facilitar la lectura y no reflejan todas las mecánicas de juego activas.</RimpsycheShowEffectInDescriptionTooltip>
   <!-- EN: Effects to display in descriptions -->
-  <RimpsycheDescriptionEffectToggle>TODO</RimpsycheDescriptionEffectToggle>
+  <RimpsycheDescriptionEffectToggle>Efectos a mostrar en descripciones</RimpsycheDescriptionEffectToggle>
 
   <!-- Misc -->
   <!-- EN: Confirm before loading/saving Psyche -->
@@ -72,23 +72,23 @@
   <RimpsycheConfirmLoadSaveTooltip>Muestra una ventana emergente de confirmación antes de sobrescribir o cargar la psique del colono.</RimpsycheConfirmLoadSaveTooltip>
 
   <!-- EN: Default -->
-  <RimpsycheDefaultSetting>TODO</RimpsycheDefaultSetting>
+  <RimpsycheDefaultSetting>Predeterminado</RimpsycheDefaultSetting>
 
   <!-- Descriptors -->
   <!-- EN: Conversation Effects -->
-  <RP_Desc_Conversation>TODO</RP_Desc_Conversation>
+  <RP_Desc_Conversation>Efectos de conversación</RP_Desc_Conversation>
   <!-- EN: Thought Tags -->
-  <RP_Desc_ThoughtTag>TODO</RP_Desc_ThoughtTag>
+  <RP_Desc_ThoughtTag>Etiquetas de pensamientos</RP_Desc_ThoughtTag>
   <!-- EN: Gameplay -->
-  <RP_Desc_Gameplay>TODO</RP_Desc_Gameplay>
+  <RP_Desc_Gameplay>Jugabilidad</RP_Desc_Gameplay>
   <!-- EN: Romance -->
-  <RP_Desc_Romance>TODO</RP_Desc_Romance>
+  <RP_Desc_Romance>Romance</RP_Desc_Romance>
 
   <!-- Title -->
   <!-- EN: Personality -->
   <RPC_Personality>Personalidad</RPC_Personality>
   <!-- EN: Disposition -->
-  <RPC_Disposition>TODO</RPC_Disposition>
+  <RPC_Disposition>Disposición</RPC_Disposition>
   <!-- EN: Facets -->
   <RPC_Facets>Facetas</RPC_Facets>
   <!-- EN: Interests -->
@@ -101,20 +101,20 @@
   <TabPsyche>Psique</TabPsyche>
 
   <!-- EN: Show Personality -->
-  <RimpsycheShowPersonality>TODO</RimpsycheShowPersonality>
+  <RimpsycheShowPersonality>Mostrar personalidad</RimpsycheShowPersonality>
   <!-- EN: Show Disposition -->
-  <RimpsycheShowDisposition>TODO</RimpsycheShowDisposition>
+  <RimpsycheShowDisposition>Mostrar disposición</RimpsycheShowDisposition>
   <!-- EN: Show Sexuality -->
-  <RimpsycheShowSexuality>TODO</RimpsycheShowSexuality>
+  <RimpsycheShowSexuality>Mostrar sexualidad</RimpsycheShowSexuality>
   <!-- EN: Show Facets -->
   <RimpsycheShowFacet>Mostrar facetas</RimpsycheShowFacet>
 
   <!-- EN: Sort by Value -->
-  <RimpsycheSortValue>TODO</RimpsycheSortValue>
+  <RimpsycheSortValue>Ordenar por valor</RimpsycheSortValue>
   <!-- EN: Sort by Label -->
-  <RimpsycheSortAlphabet>TODO</RimpsycheSortAlphabet>
+  <RimpsycheSortAlphabet>Ordenar por nombre</RimpsycheSortAlphabet>
   <!-- EN: Sort by Def Order -->
-  <RimpsycheSortDef>TODO</RimpsycheSortDef>
+  <RimpsycheSortDef>Ordenar por orden de Def</RimpsycheSortDef>
 
   <!-- EN: Edit -->
   <RimpsycheEdit>Editar</RimpsycheEdit>
@@ -126,18 +126,18 @@
   <!-- EN: Affected by gene(s): -->
   <GeneAffected>Afectado por gen(es):</GeneAffected>
   <!-- EN: [Shift] Full description. -->
-  <RP_ShiftForFull>TODO</RP_ShiftForFull>
+  <RP_ShiftForFull>[Shift] Descripción completa.</RP_ShiftForFull>
   <!-- EN: Effects -->
-  <RP_PsycheEffects>TODO</RP_PsycheEffects>
+  <RP_PsycheEffects>Efectos</RP_PsycheEffects>
 
   <!-- EN: Psyche Disabled -->
   <PsycheDisabled>Psique desactivada</PsycheDisabled>
 
   <!-- Behavior -->
   <!-- EN: From personalities: -->
-  <RPC_DescriptorBlame>TODO</RPC_DescriptorBlame>
+  <RPC_DescriptorBlame>De personalidades:</RPC_DescriptorBlame>
   <!-- EN: No notable dispositions -->
-  <RPC_NoBehavior>TODO</RPC_NoBehavior>
+  <RPC_NoBehavior>Sin disposiciones notables</RPC_NoBehavior>
 
   <!-- Interaction -->
   <!-- EN: Conversation about {0} -->
@@ -150,19 +150,19 @@
   <RimPsycheIntensityVery>Muy {0}</RimPsycheIntensityVery>
   <!-- EN: Somewhat {0} -->
   <RimPsycheIntensitySomewhat>Algo {0}</RimPsycheIntensitySomewhat>
-  <!-- EN: Marginally {0} -->
-  <RimPsycheIntensityMarginally>Ligeramente {0}</RimPsycheIntensityMarginally>
+  <!-- EN: Marginally -->
+  <RimPsycheIntensityMarginally>Ligeramente</RimPsycheIntensityMarginally>
 
   <!-- EN: Not -->
-  <RimPsycheIntensityKeyNeutral>TODO</RimPsycheIntensityKeyNeutral>
+  <RimPsycheIntensityKeyNeutral>No</RimPsycheIntensityKeyNeutral>
   <!-- EN: Extremely -->
-  <RimPsycheIntensityKeyExtremely>TODO</RimPsycheIntensityKeyExtremely>
+  <RimPsycheIntensityKeyExtremely>Extremadamente</RimPsycheIntensityKeyExtremely>
   <!-- EN: Very -->
-  <RimPsycheIntensityKeyVery>TODO</RimPsycheIntensityKeyVery>
+  <RimPsycheIntensityKeyVery>Muy</RimPsycheIntensityKeyVery>
   <!-- EN: Somewhat -->
-  <RimPsycheIntensityKeySomewhat>TODO</RimPsycheIntensityKeySomewhat>
+  <RimPsycheIntensityKeySomewhat>Algo</RimPsycheIntensityKeySomewhat>
   <!-- EN: Marginally -->
-  <RimPsycheIntensityKeyMarginally>TODO</RimPsycheIntensityKeyMarginally>
+  <RimPsycheIntensityKeyMarginally>Ligeramente</RimPsycheIntensityKeyMarginally>
 
   <!-- Edit Mode -->
   <!-- EN: Reset Personality -->
