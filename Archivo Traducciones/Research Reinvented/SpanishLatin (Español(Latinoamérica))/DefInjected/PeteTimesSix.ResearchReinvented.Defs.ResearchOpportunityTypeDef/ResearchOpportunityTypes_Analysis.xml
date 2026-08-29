@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: gather manufacturing experience -->
+  <Analyse.header_Ancestor>TODO</Analyse.header_Ancestor>
+  <!-- EN: reverse engineer -->
+  <Analyse.header_Direct>TODO</Analyse.header_Direct>
+  <!-- EN: Inspect production methodology used in creation of {0}.\n\nAffected by (at bench):\nBench research speed stat\nResearcher research speed stat\n\nAffected by (in the field):\nResearch kit research speed stat\nResearcher research speed stat -->
+  <Analyse.shortDesc_Ancestor>TODO</Analyse.shortDesc_Ancestor>
+  <!-- EN: Nondestructively reverse engineer {0}.\n\nAffected by (at bench):\nBench research speed stat\nResearcher research speed stat\n\nAffected by (in the field):\nResearch kit research speed stat\nResearcher research speed stat -->
+  <Analyse.shortDesc_Direct>TODO</Analyse.shortDesc_Direct>
+  
+  <!-- EN: Dissect a {0}.\n\nAffected by (at bench):\nBench research speed stat\nResearcher research speed stat -->
+  <AnalyseDissect.shortDesc_Ancestor>TODO</AnalyseDissect.shortDesc_Ancestor>
+  <!-- EN: Dissect a {0}.\n\nAffected by (at bench):\nBench research speed stat\nResearcher research speed stat -->
+  <AnalyseDissect.shortDesc_Direct>TODO</AnalyseDissect.shortDesc_Direct>
+  
+  <!-- EN: examine internals -->
+  <AnalyseDissectNonFlesh.header_Ancestor>TODO</AnalyseDissectNonFlesh.header_Ancestor>
+  <!-- EN: examine internals -->
+  <AnalyseDissectNonFlesh.header_Direct>TODO</AnalyseDissectNonFlesh.header_Direct>
+  <!-- EN: Examine the internal workings of a {0}.\n\nAffected by (at bench):\nBench research speed stat\nResearcher research speed stat -->
+  <AnalyseDissectNonFlesh.shortDesc_Ancestor>TODO</AnalyseDissectNonFlesh.shortDesc_Ancestor>
+  <!-- EN: Examine the internal workings of a {0}.\n\nAffected by (at bench):\nBench research speed stat\nResearcher research speed stat -->
+  <AnalyseDissectNonFlesh.shortDesc_Direct>TODO</AnalyseDissectNonFlesh.shortDesc_Direct>
+  
+  <!-- EN: chemical compound analysis -->
+  <AnalyseDrug.header_Direct>TODO</AnalyseDrug.header_Direct>
+  <!-- EN: Analyse chemical properties of {0}.\n\nAffected by (at bench):\nBench research speed stat\nResearcher research speed stat -->
+  <AnalyseDrug.shortDesc_Direct>TODO</AnalyseDrug.shortDesc_Direct>
+  
+  <!-- EN: resupply material analysis -->
+  <AnalyseFuel.header_Direct>TODO</AnalyseFuel.header_Direct>
+  <!-- EN: Determine an efficient method of resupply of {0}.\n\nAffected by (at bench):\nBench research speed stat\nResearcher research speed stat -->
+  <AnalyseFuel.shortDesc_Direct>TODO</AnalyseFuel.shortDesc_Direct>
+  
+  <!-- EN: active ingredient analysis -->
+  <AnalyseFuelDrug.header_Direct>TODO</AnalyseFuelDrug.header_Direct>
+  <!-- EN: Determine active components of {0}.\n\nAffected by (at bench):\nBench research speed stat\nResearcher research speed stat -->
+  <AnalyseFuelDrug.shortDesc_Direct>TODO</AnalyseFuelDrug.shortDesc_Direct>
+  
+  <!-- EN: fuel efficiency analysis -->
+  <AnalyseFuelFlammable.header_Direct>TODO</AnalyseFuelFlammable.header_Direct>
+  <!-- EN: Measure energy density of {0}.\n\nAffected by (at bench):\nBench research speed stat\nResearcher research speed stat -->
+  <AnalyseFuelFlammable.shortDesc_Direct>TODO</AnalyseFuelFlammable.shortDesc_Direct>
+  
+  <!-- EN: examine harvest products -->
+  <AnalyseHarvestProduct.header_Direct>TODO</AnalyseHarvestProduct.header_Direct>
+  <!-- EN: Examine harvest production of {0}.\n\nAffected by (at bench):\nBench research speed stat\nResearcher research speed stat -->
+  <AnalyseHarvestProduct.shortDesc_Direct>TODO</AnalyseHarvestProduct.shortDesc_Direct>
+  
+  <!-- EN: material analysis -->
+  <AnalyseIngredients.header_Direct>TODO</AnalyseIngredients.header_Direct>
+  <!-- EN: Determine material properties of {0}.\n\nAffected by (at bench):\nBench research speed stat\nResearcher research speed stat -->
+  <AnalyseIngredients.shortDesc_Direct>TODO</AnalyseIngredients.shortDesc_Direct>
+  
+  <!-- EN: ingredient analysis -->
+  <AnalyseIngredientsFood.header_Direct>TODO</AnalyseIngredientsFood.header_Direct>
+  <!-- EN: Analyze nutritional and gastronomical properties of {0}.\n\nAffected by (at bench):\nBench research speed stat\nResearcher research speed stat -->
+  <AnalyseIngredientsFood.shortDesc_Direct>TODO</AnalyseIngredientsFood.shortDesc_Direct>
+  
+  <!-- EN: ingredient analysis -->
+  <AnalyseIngredientsRawFood.header_Direct>TODO</AnalyseIngredientsRawFood.header_Direct>
+  <!-- EN: Analyze nutritional and gastronomical properties of {0}.\n\nAffected by (at bench):\nBench research speed stat\nResearcher research speed stat -->
+  <AnalyseIngredientsRawFood.shortDesc_Direct>TODO</AnalyseIngredientsRawFood.shortDesc_Direct>
+  
+  <!-- EN: Observe a {0} in motion.\n\nAffected by (in the field):\nResearch kit research speed stat\nResearcher research speed stat -->
+  <AnalysePawn.shortDesc_Ancestor>TODO</AnalysePawn.shortDesc_Ancestor>
+  <!-- EN: Observe a {0} in motion.\n\nAffected by (in the field):\nResearch kit research speed stat\nResearcher research speed stat -->
+  <AnalysePawn.shortDesc_Direct>TODO</AnalysePawn.shortDesc_Direct>
+  
+  <!-- EN: Observe a {0} in motion.\n\nAffected by (in the field):\nResearch kit research speed stat\nResearcher research speed stat -->
+  <AnalysePawnNonFlesh.shortDesc_Ancestor>TODO</AnalysePawnNonFlesh.shortDesc_Ancestor>
+  <!-- EN: Observe a {0} in motion.\n\nAffected by (in the field):\nResearch kit research speed stat\nResearcher research speed stat -->
+  <AnalysePawnNonFlesh.shortDesc_Direct>TODO</AnalysePawnNonFlesh.shortDesc_Direct>
+  
+  <!-- EN: observe plant growth (at location) -->
+  <AnalysePlant.header_Direct>TODO</AnalysePlant.header_Direct>
+  <!-- EN: Observe {0} growth in a suitable habitat.\n\nAffected by (in the field):\nResearch kit research speed stat\nResearcher research speed stat -->
+  <AnalysePlant.shortDesc_Direct>TODO</AnalysePlant.shortDesc_Direct>
+  
+</LanguageData>
