@@ -1,7 +1,7 @@
-Reporte de Mods Procesados - 2026-08-16 16:39:59
+Reporte de Mods Procesados - 2026-08-29 23:27:32
 ==================================================
 
-Total de mods encontrados: 227
+Total de mods encontrados: 229
 
 Lista de mods:
 - 1trickPwnyta's Anomaly Patch
@@ -92,6 +92,7 @@ Lista de mods:
 - Nice Inventory Tab
 - Nice Inventory Tab CE Integration
 - Nice Plants Menu
+- Nice Research Tab
 - No Conduit On Gravship
 - Non-Lethal Re-Examined
 - Noobert Nebulous - Vidtuber (Continued)
@@ -112,6 +113,7 @@ Lista de mods:
 - ReGrowth 2
 - RenameColony
 - Research Papers
+- Research Reinvented
 - RimServers
 - Rimpsyche - Disposition
 - Rimpsyche - Personality Core
@@ -242,7 +244,7 @@ Traceback (most recent call last):
   File "/home/runner/work/Rimwold_Mods_SpanishLatin/Rimwold_Mods_SpanishLatin/Programas/cli_compilador.py", line 206, in copiar_traducciones
     root = ET.fromstring(content, parser=parser)
            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/opt/hostedtoolcache/Python/3.11.15/x64/lib/python3.11/xml/etree/ElementTree.py", line 1350, in XML
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/xml/etree/ElementTree.py", line 1350, in XML
     parser.feed(text)
 xml.etree.ElementTree.ParseError: not well-formed (invalid token): line 6, column 363
 
@@ -253,7 +255,7 @@ Traceback (most recent call last):
   File "/home/runner/work/Rimwold_Mods_SpanishLatin/Rimwold_Mods_SpanishLatin/Programas/cli_compilador.py", line 206, in copiar_traducciones
     root = ET.fromstring(content, parser=parser)
            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/opt/hostedtoolcache/Python/3.11.15/x64/lib/python3.11/xml/etree/ElementTree.py", line 1350, in XML
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/xml/etree/ElementTree.py", line 1350, in XML
     parser.feed(text)
 xml.etree.ElementTree.ParseError: not well-formed (invalid token): line 17, column 79
 
@@ -264,7 +266,7 @@ Traceback (most recent call last):
   File "/home/runner/work/Rimwold_Mods_SpanishLatin/Rimwold_Mods_SpanishLatin/Programas/cli_compilador.py", line 206, in copiar_traducciones
     root = ET.fromstring(content, parser=parser)
            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/opt/hostedtoolcache/Python/3.11.15/x64/lib/python3.11/xml/etree/ElementTree.py", line 1350, in XML
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/xml/etree/ElementTree.py", line 1350, in XML
     parser.feed(text)
 xml.etree.ElementTree.ParseError: not well-formed (invalid token): line 6, column 262
 
@@ -275,7 +277,7 @@ Traceback (most recent call last):
   File "/home/runner/work/Rimwold_Mods_SpanishLatin/Rimwold_Mods_SpanishLatin/Programas/cli_compilador.py", line 206, in copiar_traducciones
     root = ET.fromstring(content, parser=parser)
            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/opt/hostedtoolcache/Python/3.11.15/x64/lib/python3.11/xml/etree/ElementTree.py", line 1350, in XML
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/xml/etree/ElementTree.py", line 1350, in XML
     parser.feed(text)
 xml.etree.ElementTree.ParseError: not well-formed (invalid token): line 6, column 268
 
@@ -286,7 +288,7 @@ Traceback (most recent call last):
   File "/home/runner/work/Rimwold_Mods_SpanishLatin/Rimwold_Mods_SpanishLatin/Programas/cli_compilador.py", line 206, in copiar_traducciones
     root = ET.fromstring(content, parser=parser)
            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/opt/hostedtoolcache/Python/3.11.15/x64/lib/python3.11/xml/etree/ElementTree.py", line 1350, in XML
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/xml/etree/ElementTree.py", line 1350, in XML
     parser.feed(text)
 xml.etree.ElementTree.ParseError: not well-formed (invalid token): line 6, column 330
 
@@ -297,7 +299,7 @@ Traceback (most recent call last):
   File "/home/runner/work/Rimwold_Mods_SpanishLatin/Rimwold_Mods_SpanishLatin/Programas/cli_compilador.py", line 206, in copiar_traducciones
     root = ET.fromstring(content, parser=parser)
            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/opt/hostedtoolcache/Python/3.11.15/x64/lib/python3.11/xml/etree/ElementTree.py", line 1350, in XML
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/xml/etree/ElementTree.py", line 1350, in XML
     parser.feed(text)
 xml.etree.ElementTree.ParseError: not well-formed (invalid token): line 6, column 442
 
@@ -308,7 +310,7 @@ Traceback (most recent call last):
   File "/home/runner/work/Rimwold_Mods_SpanishLatin/Rimwold_Mods_SpanishLatin/Programas/cli_compilador.py", line 206, in copiar_traducciones
     root = ET.fromstring(content, parser=parser)
            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/opt/hostedtoolcache/Python/3.11.15/x64/lib/python3.11/xml/etree/ElementTree.py", line 1350, in XML
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/xml/etree/ElementTree.py", line 1350, in XML
     parser.feed(text)
 xml.etree.ElementTree.ParseError: not well-formed (invalid token): line 6, column 313
 

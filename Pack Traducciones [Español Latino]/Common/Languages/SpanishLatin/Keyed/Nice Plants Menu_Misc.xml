@@ -9,6 +9,7 @@
   <NPM_Caves>cuevas</NPM_Caves>
   <NPM_Cells>{0} celdas</NPM_Cells>
   <NPM_DateCalcTip>Se esperan {0} días para crecer\n\nPromedio de suelo {1}\nLuz diurna {2}</NPM_DateCalcTip>
+  <NPM_DateCalcTipWarning>Tiempo de crecimiento calculado a temperatura ideal</NPM_DateCalcTipWarning>
   <NPM_DateCalcTip_Darkness>oscuridad</NPM_DateCalcTip_Darkness>
   <NPM_DateCalcTip_Lamp>lámpara</NPM_DateCalcTip_Lamp>
   <NPM_DateCalcTip_Sun>sol</NPM_DateCalcTip_Sun>
@@ -37,6 +38,7 @@
   <NPM_May>Puede crecer</NPM_May>
   <NPM_MoreCells>Se necesitan {0} celdas más</NPM_MoreCells>
   <NPM_NoCells>No hay celdas adecuadas para esta planta</NPM_NoCells>
+  <NPM_None>Ninguno</NPM_None>
   <NPM_OptimalTemperature>Óptima</NPM_OptimalTemperature>
   <NPM_PerYear>{0}/año</NPM_PerYear>
   <NPM_Plants>Plantas</NPM_Plants>
@@ -46,13 +48,15 @@
   <NPM_RelatedRecipes>Recetas relacionadas</NPM_RelatedRecipes>
   <NPM_Required>Requerido</NPM_Required>
   <NPM_RequiresFertility>Fertilidad del suelo insuficiente ({0})</NPM_RequiresFertility>
+  <NPM_Sensitivity>Sensibilidad al suelo</NPM_Sensitivity>
   <NPM_Settings_AllowResizeWindow>Permitir redimensionar la ventana</NPM_Settings_AllowResizeWindow>
-  <NPM_Settings_AlwaysShowLightRequirement>Mostrar siempre el requisito de luz</NPM_Settings_AlwaysShowLightRequirement>
+  <NPM_Settings_AlwaysShowAllInfo>Mostrar siempre toda la información</NPM_Settings_AlwaysShowAllInfo>
   <NPM_Settings_CountInRow>Contar plantas por fila</NPM_Settings_CountInRow>
   <NPM_Settings_ReopenWindow>Reabre la ventana para aplicar cambios</NPM_Settings_ReopenWindow>
   <NPM_Settings_ShowCategoryIcons>Mostrar íconos de categoría</NPM_Settings_ShowCategoryIcons>
   <NPM_Settings_SplitByCategories>Separar plantas por categorías</NPM_Settings_SplitByCategories>
   <NPM_ShouldBeRoofed>No todas las celdas están protegidas de la luz solar</NPM_ShouldBeRoofed>
   <NPM_SkillNotSatisfied>Requiere nivel {0} de Cultivo para sembrar</NPM_SkillNotSatisfied>
+  <NPM_SkillRequirements>Requisitos de habilidad</NPM_SkillRequirements>
   <NPM_TotalNutrition>Nutrición total</NPM_TotalNutrition>
 </LanguageData>
