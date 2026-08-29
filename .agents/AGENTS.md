@@ -178,3 +178,11 @@ Carpetas de salida:
 4. Mods Vanilla requieren packageId en About.xml para aparecer en LoadFolders.xml.
 5. La carpeta de origen siempre es "Archivo Traducciones/", nunca el Pack de salida.
 6. Tests: verificar con python -c "from compilador_utils import *; print('OK')" despues de cambios.
+7. Ver sección "Preferencia de Edición y Traducción de Archivos XML" (más abajo).
+
+## Preferencia de Edición y Traducción de Archivos XML
+
+- **Edición directa, sin excepción:** Toda modificación o traducción de archivos XML de RimWorld se realiza directamente sobre los archivos con las herramientas nativas de edición (`replace_file_content` / `multi_replace_file_content`). No se ejecutan scripts intermedios ni comandos de PowerShell/consola para editar contenido, sin importar el tamaño del archivo.
+- **Búsqueda (única excepción):** Se permite el uso de herramientas de búsqueda (`grep_search`) exclusivamente para localizar etiquetas `TODO` o verificar términos pendientes en el proyecto. `grep_search` es solo lectura — nunca modifica archivos.
+- **Preservación de estructura:** Mantén intacta la estructura XML, las etiquetas, los comentarios originales en inglés (`<!-- EN: ... -->`) y la codificación `UTF-8`.
+- **Reemplazo exacto:** Sustituye únicamente los placeholders (`TODO`) por la traducción correspondiente en Español Latino, cuidando la coherencia terminológica del juego.

@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 	<!-- EN: Set defaults -->
   <Defaults_SetDefaults>Establecer predeterminados</Defaults_SetDefaults>
@@ -220,7 +220,7 @@
   <Defaults_EnableCategoryToViewSettings>Necesitas habilitar {0} y luego reiniciar el juego para ver esta configuración.</Defaults_EnableCategoryToViewSettings>
 	<!-- EN: Limit workbench bills to 15 max -->
   <Defaults_LimitBillsTo15>Limitar tareas de la mesa de trabajo a un máximo de 15</Defaults_LimitBillsTo15>
-	<!-- EN: Only the first 15 bills will apply to workbenches built in the game. To remove this limit, change the global bill settings. -->
+	<!-- EN: Only the first 15 bills will apply to workbenches built in the game. -->
   <Defaults_BillsLimitedto15>Solo las primeras 15 tareas se aplicarán a las mesas de trabajo construidas en el juego. Para eliminar este límite, cambia la configuración global de tareas.</Defaults_BillsLimitedto15>
 	<!-- EN: No Pause Challenge settings enabled. -->
   <Defaults_NoPauseOptionsTitle>Configuración del No Pause Challenge.</Defaults_NoPauseOptionsTitle>
@@ -268,6 +268,93 @@
   <Defaults_WorkPriorityRulesSpecific>Reglas de {0}</Defaults_WorkPriorityRulesSpecific>
 	<!-- EN: Additional settings -->
   <Defaults_AdditionalSettings>Configuración adicional</Defaults_AdditionalSettings>
+	<!-- EN: Configure... -->
+  <Defaults_Configure>Configurar...</Defaults_Configure>
+	<!-- EN: Settings backup -->
+  <Defaults_SettingsBackupOptionsTitle>Copia de seguridad de configuración</Defaults_SettingsBackupOptionsTitle>
+	<!-- EN: Backup path -->
+  <Defaults_SettingsBackupPath>Ruta de copia de seguridad</Defaults_SettingsBackupPath>
+	<!-- EN: The path {0} does not exist and couldn't be created. -->
+  <Defaults_InvalidFolder>La ruta {0} no existe y no se pudo crear.</Defaults_InvalidFolder>
+	<!-- EN: Back up default settings now -->
+  <Defaults_BackupNow>Hacer copia de seguridad de la configuración ahora</Defaults_BackupNow>
+	<!-- EN: Invalid input. -->
+  <Defaults_InputIsInvalid>Entrada no válida.</Defaults_InputIsInvalid>
+	<!-- EN: settings_{0} -->
+  <Defaults_BackupName>configuracion_{0}</Defaults_BackupName>
+	<!-- EN: The file name is invalid. -->
+  <Defaults_InvalidFilename>El nombre del archivo no es válido.</Defaults_InvalidFilename>
+	<!-- EN: The file already exists. -->
+  <Defaults_FileExists>El archivo ya existe.</Defaults_FileExists>
+	<!-- EN: The file name is too long. -->
+  <Defaults_PathTooLong>El nombre del archivo es demasiado largo.</Defaults_PathTooLong>
+	<!-- EN: Couldn't open the folder. -->
+  <Defaults_CantOpenFolder>No se pudo abrir la carpeta.</Defaults_CantOpenFolder>
+	<!-- EN: Defaults settings backup successfully created as {0}. -->
+  <Defaults_SettingsBackupComplete>Copia de seguridad de la configuración predeterminada creada exitosamente como {0}.</Defaults_SettingsBackupComplete>
+	<!-- EN: Enter a file name for the backup. -->
+  <Defaults_EnterBackupName>Introduce un nombre de archivo para la copia de seguridad.</Defaults_EnterBackupName>
+	<!-- EN: Restore default settings from backup -->
+  <Defaults_RestoreFromBackup>Restaurar configuración predeterminada desde copia de seguridad</Defaults_RestoreFromBackup>
+	<!-- EN: Select a backup file to restore from. This action cannot be undone. -->
+  <Defaults_SelectBackupFile>Selecciona un archivo de copia de seguridad para restaurar. Esta acción no se puede deshacer.</Defaults_SelectBackupFile>
+	<!-- EN: Failed to restore default settings from backup: {0} -->
+  <Defaults_SettingsRestoreFailed>Error al restaurar la configuración predeterminada desde la copia de seguridad: {0}</Defaults_SettingsRestoreFailed>
+	<!-- EN: Default settings successfully restored from {0}. It is recommended that you restart the game to avoid potential errors. Do you want to restart now? -->
+  <Defaults_SettingsRestoreComplete>Configuración predeterminada restaurada exitosamente desde {0}. Se recomienda reiniciar el juego para evitar posibles errores. ¿Quieres reiniciar ahora?</Defaults_SettingsRestoreComplete>
+	<!-- EN: All settings have been successfully reset to their vanilla values. -->
+  <Defaults_ResetAllSettingsComplete>Toda la configuración se ha restablecido exitosamente a sus valores originales.</Defaults_ResetAllSettingsComplete>
+	<!-- EN: Backup schedule -->
+  <Defaults_SettingsBackupSchedule>Programación de copias de seguridad</Defaults_SettingsBackupSchedule>
+	<!-- EN: When to back up: -->
+  <Defaults_SettingsBackupFrequency>Cuándo hacer la copia de seguridad:</Defaults_SettingsBackupFrequency>
+	<!-- EN: Never -->
+  <Defaults_SettingsBackupFrequency_Never>Nunca</Defaults_SettingsBackupFrequency_Never>
+	<!-- EN: At game startup -->
+  <Defaults_SettingsBackupFrequency_Startup>Al iniciar el juego</Defaults_SettingsBackupFrequency_Startup>
+	<!-- EN: When settings are saved -->
+  <Defaults_SettingsBackupFrequency_OnChange>Cuando se guarde la configuración</Defaults_SettingsBackupFrequency_OnChange>
+	<!-- EN: How long to keep backups: -->
+  <Defaults_SettingsBackupDuration>Cuánto tiempo conservar las copias de seguridad:</Defaults_SettingsBackupDuration>
+	<!-- EN: Forever -->
+  <Defaults_SettingsBackupDuration_Forever>Para siempre</Defaults_SettingsBackupDuration_Forever>
+	<!-- EN: Keep X backup files... -->
+  <Defaults_SettingsBackupDuration_Count>Conservar X archivos de copia de seguridad...</Defaults_SettingsBackupDuration_Count>
+	<!-- EN: Keep backup files for X days... -->
+  <Defaults_SettingsBackupDuration_TimeInterval>Conservar archivos de copia de seguridad durante X días...</Defaults_SettingsBackupDuration_TimeInterval>
+	<!-- EN: X:  -->
+  <Defaults_X>X: </Defaults_X>
+	<!-- EN: This mod's settings can be backed up regularly so that if anything goes awry, you don't need to lose all the work you put into crafting your perfect defaults. -->
+  <Defaults_SettingsBackupOptionsDesc>La configuración de este mod se puede respaldar periódicamente para que, si algo sale mal, no pierdas todo el trabajo realizado al definir tus valores predeterminados.</Defaults_SettingsBackupOptionsDesc>
+	<!-- EN: Pinned backups are exempt from being routinely purged. -->
+  <Defaults_PinBackup>Las copias de seguridad fijadas están exentas de ser purgadas rutinariamente.</Defaults_PinBackup>
+	<!-- EN: Permanently delete this backup file. -->
+  <Defaults_DeleteBackup>Eliminar permanentemente este archivo de copia de seguridad.</Defaults_DeleteBackup>
+	<!-- EN: Failed to delete backup file {0}. -->
+  <Defaults_DeleteBackupFailed>Error al eliminar el archivo de copia de seguridad {0}.</Defaults_DeleteBackupFailed>
+	<!-- EN: {0} already exists and will be overwritten. -->
+  <Defaults_ConfirmOverwriteBackup>{0} ya existe y se sobrescribirá.</Defaults_ConfirmOverwriteBackup>
+	<!-- EN: Failed to get settings backup files from {0}: {1} -->
+  <Defaults_GetBackupFilesFailed>Error al obtener los archivos de copia de seguridad de la configuración desde {0}: {1}</Defaults_GetBackupFilesFailed>
+	<!-- EN: No default settings backup files found in {0}. -->
+  <Defaults_NoBackupsToRestore>No se encontraron archivos de copia de seguridad de la configuración predeterminada en {0}.</Defaults_NoBackupsToRestore>
+	<!-- EN: Reset to default -->
+  <Defaults_ResetToDefault>Restablecer por defecto</Defaults_ResetToDefault>
+	<!-- EN: Reset all fishing zone settings to default settings. -->
+  <Defaults_ResetFishingZoneDesc>Restablece todos los ajustes de la zona de pesca a la configuración predeterminada.</Defaults_ResetFishingZoneDesc>
+	<!-- EN: Save this fishing zone's settings as the default for all new fishing zones going forward. -->
+  <Defaults_SetDefaultFishingZoneDesc>Guarda la configuración de esta zona de pesca como predeterminada para todas las zonas de pesca nuevas a partir de ahora.</Defaults_SetDefaultFishingZoneDesc>
+	<!-- EN: Open 1trickPwnyta's Defaults mod settings -->
+  <Defaults_OpenMainSettings>Abrir la configuración del mod 1trickPwnyta's Defaults</Defaults_OpenMainSettings>
+	<!-- EN: Pawn type -->
+  <Defaults_PawnType>Tipo de peón</Defaults_PawnType>
+	<!-- EN: Default policy assignments -->
+  <Defaults_DefaultPolicyAssignments>Asignaciones de políticas por defecto</Defaults_DefaultPolicyAssignments>
+	<!-- EN: Assign each pawn type to a default policy of each type, or leave them as (default) to use whatever policy is set as the default. Colonists will be assigned policies accordingly. -->
+  <Defaults_DefaultPolicyAssignmentsDesc>Asigna cada tipo de peón a una política por defecto de cada tipo, o déjalos como (predeterminado) para usar la política que esté establecida por defecto. A los colonos se les asignarán las políticas en consecuencia.</Defaults_DefaultPolicyAssignmentsDesc>
+	<Defaults_EmptyString></Defaults_EmptyString>
+	<!-- EN: Remove limit -->
+  <Defaults_RemoveLimit>Eliminar límite</Defaults_RemoveLimit>
 	
 	<!-- EN: Reset the target temperature to default temperature. -->
   <CommandResetTempDesc>Reinicia la temperatura objetivo a la temperatura ambiente.</CommandResetTempDesc>

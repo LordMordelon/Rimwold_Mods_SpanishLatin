@@ -1,7 +1,7 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 	<!-- EN: Anomaly incidents -->
-  <AnomalyPatch_Incidents>Incidentes de anomalía</AnomalyPatch_Incidents>
+  <AnomalyPatch_Incidents>Incidentes de Anomaly</AnomalyPatch_Incidents>
 	<!-- EN: Psychic rituals -->
   <AnomalyPatch_Rituals>Rituales psíquicos</AnomalyPatch_Rituals>
 	<!-- EN: Study, suppression, and containment -->
@@ -12,8 +12,10 @@
   <AnomalyPatch_Misc>Misceláneo</AnomalyPatch_Misc>
 	<!-- EN: (requires restart) -->
   <AnomalyPatch_RestartRequired>(requiere reiniciar)</AnomalyPatch_RestartRequired>
+	<!-- EN: Bug fix -->
+  <AnomalyPatch_BugFix>Corrección de errores</AnomalyPatch_BugFix>
 	<!-- EN: No Anomaly research project active -->
-  <AnomalyPatch_NoResearchSelected>Ningún proyecto de investigación de anomalía activo</AnomalyPatch_NoResearchSelected>
+  <AnomalyPatch_NoResearchSelected>Ningún proyecto de investigación de Anomaly activo</AnomalyPatch_NoResearchSelected>
 	<!-- EN: Disable "Need warm clothes" alert with atmospheric heater -->
   <AnomalyPatch_AtmosphericHeaterFactor>Desactivar la alerta "Necesita ropa de abrigo" con el calentador atmosférico</AnomalyPatch_AtmosphericHeaterFactor>
 	<!-- EN: Show total bioferrite contained with multiple harvesters selected -->
@@ -24,10 +26,10 @@
   <AnomalyPatch_DangerousActivityLevels>Mostrar el nivel de actividad más alto del obelisco en la alerta múltiple</AnomalyPatch_DangerousActivityLevels>
 	<!-- EN: Death pall resurrection messages are silent -->
   <AnomalyPatch_DeathPallResurrectionSound>Los mensajes de resurrección del sudario de la muerte son silenciosos</AnomalyPatch_DeathPallResurrectionSound>
-	<!-- EN: Fix void provocation bug with devourer water assault -->
+	<!-- EN: Void provocation can silently fail on devourer water assault -->
   <AnomalyPatch_DevourerWaterAssaultFix>Corregir el error de provocación del vacío con el asalto acuático del devorador</AnomalyPatch_DevourerWaterAssaultFix>
-	<!-- EN: Don't perform work in a containment or prison cell doorway -->
-  <AnomalyPatch_DontBlockDoors>No realizar trabajos en la entrada de una celda de contención o prisión</AnomalyPatch_DontBlockDoors>
+	<!-- EN: Don't perform work in a containment cell doorway -->
+  <AnomalyPatch_DontBlockDoors>No realizar trabajos en la entrada de una celda de contención</AnomalyPatch_DontBlockDoors>
 	<!-- EN: Prioritize twisted meat for caravaning ghouls and animals -->
   <AnomalyPatch_FoodPriority>Priorizar la carne retorcida para los guls y animales en caravana</AnomalyPatch_FoodPriority>
 	<!-- EN: Allow ghouls to hunt prey on their own -->
@@ -35,7 +37,7 @@
 	<!-- EN: Pit gates don't cause horror/combat music to play unless you're in them -->
   <AnomalyPatch_HorrorMusic>Las puertas del foso no activan la música de horror/combate a menos que estés en ellas</AnomalyPatch_HorrorMusic>
 	<!-- EN: Forbid items from the labyrinth outside the home area -->
-  <AnomalyPatch_LabyrinthClosing>Prohibir los objetos del laberinto fuera del área de la base</AnomalyPatch_LabyrinthClosing>
+  <AnomalyPatch_LabyrinthClosing>Prohibir los objetos del laberinto fuera del área del hogar</AnomalyPatch_LabyrinthClosing>
 	<!-- EN: Don't do dark study without an anomaly research project active -->
   <AnomalyPatch_NoProjectNoStudy>No realizar estudios oscuros sin un proyecto de investigación de anomalía activo</AnomalyPatch_NoProjectNoStudy>
 	<!-- EN: Adhere to zone restrictions while preparing for psychic rituals -->
@@ -54,8 +56,8 @@
   <AnomalyPatch_HoldingPlatformAlert>Desactivar la alerta de necesidad de plataformas de contención</AnomalyPatch_HoldingPlatformAlert>
 	<!-- EN: Allow creepjoiners to romance non-creepjoiners and vice versa -->
   <AnomalyPatch_CreepJoinerLove>Permitir que los retorcidos tengan romances con no retorcidos y viceversa</AnomalyPatch_CreepJoinerLove>
-	<!-- EN: Fix void provocation bug with unnatural darkness -->
-  <AnomalyPatch_UnnaturalDarknessMapFix>Corregir el error de provocación del vacío con la oscuridad antinatural</AnomalyPatch_UnnaturalDarknessMapFix>
+	<!-- EN: Certain Anomaly incidents can generate using threat points from one map but spawn on another -->
+  <AnomalyPatch_UnnaturalDarknessMapFix>Ciertos incidentes de Anomaly pueden generarse usando puntos de amenaza de un mapa pero aparecer en otro</AnomalyPatch_UnnaturalDarknessMapFix>
 	<!-- EN: Show ghouls in colonist bar even while dead or in a caravan -->
   <AnomalyPatch_DeadGhoulsInColonistBar>Mostrar guls en la barra de colonos incluso si están muertos o en una caravana</AnomalyPatch_DeadGhoulsInColonistBar>
 	<!-- EN: Disable disturbing vision letter -->
@@ -66,8 +68,12 @@
   <AnomalyPatch_RitualTargetsDontNeedRescue>Suprimir la alerta "Colono necesita rescate" para los objetivos del ritual psíquico</AnomalyPatch_RitualTargetsDontNeedRescue>
 	<!-- EN: Pawns avoid dread leather apparel if they don't like it -->
   <AnomalyPatch_AvoidDreadLeather>Los peones evitan la ropa de cuero pavoroso si no les gusta</AnomalyPatch_AvoidDreadLeather>
-	<!-- EN: Fix bug with female creepjoiners having male body type -->
+	<!-- EN: Female creepjoiners erroneously have male body type -->
   <AnomalyPatch_CreepjoinerBodyTypeFix>Corregir el error de las retorcidas femeninas que tienen un tipo de cuerpo masculino</AnomalyPatch_CreepjoinerBodyTypeFix>
+	<!-- EN: Also don't perform work in a prison doorway -->
+  <AnomalyPatch_DontBlockPrisonDoors>Tampoco realizar trabajos en la entrada de una celda de prisión</AnomalyPatch_DontBlockPrisonDoors>
+	<!-- EN: Enable manual bioferrite extraction on entities by default when no bioferrite extractor exists -->
+  <AnomalyPatch_ExtractBioferriteByDefault>Habilitar la extracción manual de bioferrita en entidades por defecto cuando no exista un extractor de bioferrita</AnomalyPatch_ExtractBioferriteByDefault>
 	<!-- EN: Sort by: -->
   <AnomalyPatch_SortBy>Ordenar por:</AnomalyPatch_SortBy>
 	<!-- EN: Reverse -->
