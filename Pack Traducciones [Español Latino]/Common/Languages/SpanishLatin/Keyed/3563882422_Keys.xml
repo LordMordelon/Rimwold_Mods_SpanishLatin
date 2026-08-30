@@ -1,12 +1,22 @@
 <?xml version='1.0' encoding='utf-8'?>
 <LanguageData>
+  <BA.AddBuildable>Añadir construible</BA.AddBuildable>
+  <BA.AddBuildableTitle>Añadir elemento construible</BA.AddBuildableTitle>
+  <BA.AddSpecialDesignator>Añadir designador especial</BA.AddSpecialDesignator>
+  <BA.AddSpecialDesignatorTitle>Añadir designador especial</BA.AddSpecialDesignatorTitle>
   <BA.BackgroundAlpha>Transparencia del fondo</BA.BackgroundAlpha>
   <BA.Beauty>Belleza</BA.Beauty>
+  <BA.CategoryOptionFormat>{0} ({1})</BA.CategoryOptionFormat>
   <BA.Cleanliness>Limpieza</BA.Cleanliness>
+  <BA.ClickToReveal>Haz clic para revelar</BA.ClickToReveal>
+  <BA.Close>Cerrar</BA.Close>
   <BA.Comfort>Comodidad</BA.Comfort>
   <BA.CoverEffectiveness>Eficacia de cobertura</BA.CoverEffectiveness>
+  <BA.DebugShowUiOrder>Depuración: mostrar orden de IU</BA.DebugShowUiOrder>
+  <BA.DebugShowUiOrderTooltip>Muestra el orden de interfaz (uiOrder) de cada designador en su icono dentro del menú del arquitecto. Para depurar el orden de designadores y crear parches de uiOrder.</BA.DebugShowUiOrderTooltip>
   <BA.Default>Predeterminado</BA.Default>
   <BA.DoorOpeningSpeed>Velocidad de apertura de puerta</BA.DoorOpeningSpeed>
+  <BA.EditModeToggleTooltip>Alternar modo de edición</BA.EditModeToggleTooltip>
   <BA.Flammability>Inflamabilidad</BA.Flammability>
   <BA.Free>Libre</BA.Free>
   <BA.GroupByTechLevel>Agrupar por nivel tecnológico</BA.GroupByTechLevel>
@@ -14,16 +24,34 @@
   <BA.HideOnSelection>Ocultar al seleccionar edificio</BA.HideOnSelection>
   <BA.HideOnSelectionTooltip>Cuando se selecciona un edificio, oculta completamente el menú.</BA.HideOnSelectionTooltip>
   <BA.Label>Etiqueta</BA.Label>
+  <BA.LoadingLabel>Cargando Better Architect...</BA.LoadingLabel>
   <BA.MaxPowerOutput>Salida de energía máx.</BA.MaxPowerOutput>
   <BA.MenuHeight>Altura del menú</BA.MenuHeight>
   <BA.More>Otro</BA.More>
   <BA.MoveSpeed>Velocidad de movimiento</BA.MoveSpeed>
+  <BA.MysteryUnlocks>Desbloqueos misteriosos</BA.MysteryUnlocks>
+  <BA.MysteryUnlocksTooltip>Las estructuras desbloqueadas por investigación aparecen envueltas para regalo en el menú del arquitecto. Haz clic en una para revelarla.</BA.MysteryUnlocksTooltip>
+  <BA.NewUnlockBadge>NUEVO</BA.NewUnlockBadge>
+  <BA.NoCategoriesAvailable>No hay categorías disponibles</BA.NoCategoriesAvailable>
   <BA.NothingAvailableToBuild>Aún no hay nada disponible para construir.</BA.NothingAvailableToBuild>
+  <BA.OpenParentVisibility>Editar visibilidad de categorías principales</BA.OpenParentVisibility>
   <BA.PowerConsumption>Consumo de energía</BA.PowerConsumption>
   <BA.RecreationPower>Poder de recreación</BA.RecreationPower>
   <BA.RememberSubcategory>Recordar subcategoría</BA.RememberSubcategory>
   <BA.RememberSubcategoryTooltip>Cuando está habilitado, el mod recordará la última subcategoría seleccionada para cada categoría principal. Cuando está deshabilitado, siempre se establecerá por defecto en la primera subcategoría.</BA.RememberSubcategoryTooltip>
+  <BA.ResetAll>Restablecer todas las modificaciones del modo de edición</BA.ResetAll>
+  <BA.ResetAllComplete>Se han restablecido todos los ajustes del modo de edición.</BA.ResetAllComplete>
+  <BA.SearchShowing>Mostrando {0} / {1}</BA.SearchShowing>
+  <BA.SettingsIntro>Herramientas opcionales del modo de edición para personalizar categorías principales/secundarias y la disposición de designadores.</BA.SettingsIntro>
   <BA.SkillRequired>Habilidad requerida</BA.SkillRequired>
+  <BA.SkipParentCategoriesDesc>Las categorías principales marcadas están visibles. Desmárcalas para ocultarlas de las pestañas del Arquitecto.</BA.SkipParentCategoriesDesc>
+  <BA.SkipParentCategoriesTitle>Renderizado de categorías principales</BA.SkipParentCategoriesTitle>
+  <BA.TooltipAddBuildableOrSpecialDesignator>Añadir elemento construible o designador especial</BA.TooltipAddBuildableOrSpecialDesignator>
+  <BA.TooltipAddCategoryToParent>Añadir categoría a esta categoría principal</BA.TooltipAddCategoryToParent>
+  <BA.TooltipRemoveDesignator>Eliminar designador</BA.TooltipRemoveDesignator>
+  <BA.TooltipRemoveSelectedChildCategory>Eliminar categoría secundaria seleccionada</BA.TooltipRemoveSelectedChildCategory>
+  <BA.TooltipResetCategoriesForParent>Restablecer categorías para esta categoría principal</BA.TooltipResetCategoriesForParent>
+  <BA.TooltipResetDesignatorsForSelectedCategory>Restablecer modificaciones de designadores para la categoría seleccionada</BA.TooltipResetDesignatorsForSelectedCategory>
   <BA.TotalStorageCapacity>Capacidad total de almacenamiento</BA.TotalStorageCapacity>
   <BA.UseSpecialFloorsTab>Usar menú de suelos personalizado</BA.UseSpecialFloorsTab>
   <BA.UseSpecialFloorsTabTooltip>Si el menú debe usar subcategorías para cada material o estar ordenado de forma más general. (WIP)</BA.UseSpecialFloorsTabTooltip>

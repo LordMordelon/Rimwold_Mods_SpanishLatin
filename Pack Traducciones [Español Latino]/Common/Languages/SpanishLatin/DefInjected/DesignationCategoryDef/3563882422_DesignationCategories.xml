@@ -34,6 +34,8 @@
   <Ferny_CombatEquipment.label>Equipo</Ferny_CombatEquipment.label>
   <Ferny_CombatInfrastructure.description>Construir infraestructura para tus enemigos.</Ferny_CombatInfrastructure.description>
   <Ferny_CombatInfrastructure.label>Infraestructura</Ferny_CombatInfrastructure.label>
+  <Ferny_Concealed.description>Construir edificios ocultos para sorprender a tus enemigos.</Ferny_Concealed.description>
+  <Ferny_Concealed.label>Oculto</Ferny_Concealed.label>
   <Ferny_Control.description>Influir en el comportamiento de los colonos.</Ferny_Control.description>
   <Ferny_Control.label>Influencia</Ferny_Control.label>
   <Ferny_Cooling.description>Refrescar a tus colonos.</Ferny_Cooling.description>
@@ -42,6 +44,8 @@
   <Ferny_CreativeProduction.label>Creativo</Ferny_CreativeProduction.label>
   <Ferny_DecoArt.description>Gestionar decoraciones de arte y música.</Ferny_DecoArt.description>
   <Ferny_DecoArt.label>Arte</Ferny_DecoArt.label>
+  <Ferny_DecoFrames.description>Gestionar decoraciones de marcos.</Ferny_DecoFrames.description>
+  <Ferny_DecoFrames.label>Marcos</Ferny_DecoFrames.label>
   <Ferny_DecoHanging.description>Gestionar decoraciones colgantes como carteles, estandartes y cortinas.</Ferny_DecoHanging.description>
   <Ferny_DecoHanging.label>Colgantes</Ferny_DecoHanging.label>
   <Ferny_DecoOutdoor.description>Gestionar decoraciones exteriores.</Ferny_DecoOutdoor.description>
@@ -54,6 +58,8 @@
   <Ferny_Decorations.label>Decorar</Ferny_Decorations.label>
   <Ferny_Doors.description>Construir puertas estructurales.</Ferny_Doors.description>
   <Ferny_Doors.label>Puertas</Ferny_Doors.label>
+  <Ferny_Elevation.description>Construir escaleras, escaleras de mano y ascensores entre niveles.</Ferny_Elevation.description>
+  <Ferny_Elevation.label>Elevación</Ferny_Elevation.label>
   <Ferny_Enhancement.description>Mejorar a tus colonos.</Ferny_Enhancement.description>
   <Ferny_Enhancement.label>Mejora</Ferny_Enhancement.label>
   <Ferny_Explosives.description>Construir explosivos para tus enemigos.</Ferny_Explosives.description>
@@ -64,6 +70,8 @@
   <Ferny_Filth.label>Suciedad</Ferny_Filth.label>
   <Ferny_Firefoam.description>Gestionar incendios y espuma contraincendios.</Ferny_Firefoam.description>
   <Ferny_Firefoam.label>Bomberos</Ferny_Firefoam.label>
+  <Ferny_Fixtures.description>Accesorios útiles para el hogar y la habitación.</Ferny_Fixtures.description>
+  <Ferny_Fixtures.label>Accesorios</Ferny_Fixtures.label>
   <Ferny_FloorsCarpet.description>Suelos alfombrados.</Ferny_FloorsCarpet.description>
   <Ferny_FloorsCarpet.label>Alfombra</Ferny_FloorsCarpet.label>
   <Ferny_FloorsClean.description>Suelos limpios.</Ferny_FloorsClean.description>
@@ -80,6 +88,8 @@
   <Ferny_FoodStorage.label>Comida</Ferny_FoodStorage.label>
   <Ferny_Foundations.description>Construir puentes estructurales.</Ferny_Foundations.description>
   <Ferny_Foundations.label>Cimientos</Ferny_Foundations.label>
+  <Ferny_Framing.description>Gestionar marcos de puertas, paneles de puertas y estructuras arquitectónicas.</Ferny_Framing.description>
+  <Ferny_Framing.label>Enmarcado</Ferny_Framing.label>
   <Ferny_GearStorage.description>Construir almacenamiento de equipo.</Ferny_GearStorage.description>
   <Ferny_GearStorage.label>Equipo</Ferny_GearStorage.label>
   <Ferny_GeneralStorage.description>Construir almacenamiento general.</Ferny_GeneralStorage.description>
@@ -117,12 +127,16 @@
   <Ferny_NeutroamineNetwork.label>Neutroamina</Ferny_NeutroamineNetwork.label>
   <Ferny_Outreach.description>Cosas que se extienden hacia el mundo.</Ferny_Outreach.description>
   <Ferny_Outreach.label>Alcance</Ferny_Outreach.label>
+  <Ferny_PlatformTransport.description>Construir transporte en plataformas.</Ferny_PlatformTransport.description>
+  <Ferny_PlatformTransport.label>Plataforma</Ferny_PlatformTransport.label>
   <Ferny_PowerGeneration.description>Cosas que te ayudan a generar energía.</Ferny_PowerGeneration.description>
   <Ferny_PowerGeneration.label>Generación</Ferny_PowerGeneration.label>
   <Ferny_PowerManagement.description>Cosas que te ayudan a gestionar tu energía.</Ferny_PowerManagement.description>
   <Ferny_PowerManagement.label>Infraestructura</Ferny_PowerManagement.label>
   <Ferny_PowerStorage.description>Cosas que te ayudan a almacenar energía.</Ferny_PowerStorage.description>
   <Ferny_PowerStorage.label>Almacenamiento</Ferny_PowerStorage.label>
+  <Ferny_Prisoners.description>Construir instalaciones de contención y sujeción de prisioneros.</Ferny_Prisoners.description>
+  <Ferny_Prisoners.label>Prisioneros</Ferny_Prisoners.label>
   <Ferny_ProcessingProduction.description>Métodos de producción de procesamiento.</Ferny_ProcessingProduction.description>
   <Ferny_ProcessingProduction.label>Refinar</Ferny_ProcessingProduction.label>
   <Ferny_Production.description>Hacer cosas.</Ferny_Production.description>
@@ -179,5 +193,4 @@
   <Ferny_Windows.label>Ventanas</Ferny_Windows.label>
   <Ferny_World.description>Gestionar el mundo.</Ferny_World.description>
   <Ferny_World.label>Mundo</Ferny_World.label>
-  <VCHE_PipeNetworks.label>Recursos</VCHE_PipeNetworks.label>
 </LanguageData>
