@@ -1,16 +1,45 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-	<GeneFab.Recipe.label>Fabricar paquete de genes: {0}</GeneFab.Recipe.label>
-	<GeneFab.Recipe.jobString>Fabricando paquete de genes: {0}</GeneFab.Recipe.jobString>
-	<GeneFab.Recipe.description>Fabricar un paquete de genes del gen {0}</GeneFab.Recipe.description>
+	<!-- EN: Fabricate genepack: {0} -->
+	<GeneFab.Recipe.label>Fabricar gen: {0}</GeneFab.Recipe.label>
+	<!-- EN: Fabricating genepack: {0} -->
+	<GeneFab.Recipe.jobString>Fabricando gen: {0}</GeneFab.Recipe.jobString>
+	<!-- EN: Fabricate a genepack of the {0} gene -->
+	<GeneFab.Recipe.description>Fabrica un gen {0}.</GeneFab.Recipe.description>
+	<!-- EN: Choose a gene to craft: -->
 	<GeneFab_GeneUITitle>Elige un gen para fabricar:</GeneFab_GeneUITitle>
-	<GeneFab_CreateGenepack>Crear un paquete de genes</GeneFab_CreateGenepack>
+	<!-- EN: Create a genepack -->
+	<GeneFab_CreateGenepack>Fabricar gen</GeneFab_CreateGenepack>
+	<!-- EN: Requires research -->
 	<GeneFab_ResearchThis>Requiere investigación</GeneFab_ResearchThis>
-	<GeneFab_CreateGenepackDesc>Crear un paquete de genes</GeneFab_CreateGenepackDesc>
-	<GeneFab_Blacklisted>Este gen está en la lista negra y no aparecerá en el juego</GeneFab_Blacklisted>
+	<!-- EN: Create a genepack -->
+	<GeneFab_CreateGenepackDesc>Fabrica un gen.</GeneFab_CreateGenepackDesc>
+	<!-- EN: This gene is blacklisted and won't show up in game -->
+	<GeneFab_Blacklisted>Este gen está en la lista negra y no aparecerá en el juego.</GeneFab_Blacklisted>
+	<!-- EN: Blacklist -->
 	<GeneFab_BlackListSimple>Lista negra</GeneFab_BlackListSimple>
-	<GeneFab_BlacklistedButton>Te permite poner genes en lista negra para que no se puedan fabricar</GeneFab_BlacklistedButton>
+	<!-- EN: Allows you to blacklist genes from crafting -->
+	<GeneFab_BlacklistedButton>Te permite añadir genes a la lista negra para evitar su fabricación.</GeneFab_BlacklistedButton>
+	<!-- EN: Neutroamine cost multiplier -->
 	<GeneFab_NeutroamineMultiplier>Multiplicador de costo de neutroamina</GeneFab_NeutroamineMultiplier>
+	<!-- EN: Archite capsules cost multiplier -->
 	<GeneFab_ArchiteMultiplier>Multiplicador de costo de cápsulas de arquita</GeneFab_ArchiteMultiplier>
+	<!-- EN: Work amount multiplier -->
 	<GeneFed_WorkMultiplier>Multiplicador de cantidad de trabajo</GeneFed_WorkMultiplier>
+	
+	<!-- 1.6+ -->
+	<!-- EN: Open Blacklist -->
+	<GeneFab_OpenBlacklistMenu>Abrir lista negra</GeneFab_OpenBlacklistMenu>
+	<!-- EN: Blacklist -->
+	<GeneFab_Blacklist>Lista negra</GeneFab_Blacklist>
+	<!-- EN: UnBlacklist -->
+	<GeneFab_Unblacklist>Quitar de lista negra</GeneFab_Unblacklist>
+	<!-- EN: Legacy UI -->
+	<GeneFab_LegacyUI>Interfaz clásica</GeneFab_LegacyUI>
+	<!-- EN: Choose a gene to blacklist: -->
+	<GeneFab_GeneUITitleBlacklist>Elige un gen para la lista negra:</GeneFab_GeneUITitleBlacklist>
+	<!-- EN: Toggles the use of the legacy 1.5 UI.
+		
+Do not report bugs about this UI, it is no longer maintained -->
+	<GeneFab_LegacyUI_Tooltip>Alterna el uso de la interfaz clásica de la versión 1.5.\n\nNo reportes errores sobre esta interfaz, ya no cuenta con soporte activo.</GeneFab_LegacyUI_Tooltip>
 </LanguageData>
