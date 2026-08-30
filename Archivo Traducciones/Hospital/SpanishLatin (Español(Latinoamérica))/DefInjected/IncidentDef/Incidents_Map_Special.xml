@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: mass casualty event -->
+  <MassCasualtyEvent.label>evento con múltiples víctimas</MassCasualtyEvent.label>
+  <!-- EN: Mass casualty event -->
+  <MassCasualtyEvent.letterLabel>Evento con múltiples víctimas</MassCasualtyEvent.letterLabel>
+  <!-- EN: {0} happened nearby. {1} patients are on their way to your hospital. -->
+  <MassCasualtyEvent.letterText>{0} ocurrió cerca. {1} pacientes van camino a tu hospital.</MassCasualtyEvent.letterText>
+  
+  <!-- EN: patient arrives -->
+  <PatientArrives.label>llegada de paciente</PatientArrives.label>
+  <!-- EN: New patient arrived -->
+  <PatientArrives.letterLabel>Llegó un nuevo paciente</PatientArrives.letterLabel>
+  <!-- EN: {PAWN_possessive} name is {0}. Diagnosis: {1} -->
+  <PatientArrives.letterText>{PAWN_possessive} nombre es {0}. Diagnóstico: {1}</PatientArrives.letterText>
+  
+</LanguageData>

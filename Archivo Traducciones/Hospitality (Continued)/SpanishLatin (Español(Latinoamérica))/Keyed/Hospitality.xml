@@ -1,0 +1,329 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- Recruiting -->
+  <!-- EN: {0} upset {1} {2}x in a row. -->
+  <RecruitAngerMultiple>TODO</RecruitAngerMultiple>
+  <!-- EN: {0} of {1} is upset with you for recruiting {2} ({3}). -->
+  <RecruitFactionAnger>TODO</RecruitFactionAnger>
+  <!-- EN: The members of {0} never heard back of their delegation ({2}). -->
+  <RecruitFactionAngerLeaderless>TODO</RecruitFactionAngerLeaderless>
+  <!-- EN: {0} of {1} never heard back of this delegation ({2}). -->
+  <LostGroupFactionAnger>TODO</LostGroupFactionAnger>
+  <!-- EN: The members of {0} are upset with you for recruiting ({1}). -->
+  <LostGroupFactionAngerLeaderless>TODO</LostGroupFactionAngerLeaderless>
+  <!-- EN: {0} of {1} is glad that you took {2} off his hands ({3}). -->
+  <RecruitFactionPlease>TODO</RecruitFactionPlease>
+  <!-- EN: The members of {0} are glad that you took {1} off their hands ({2}). -->
+  <RecruitFactionPleaseLeaderless>TODO</RecruitFactionPleaseLeaderless>
+  <!-- EN: {0} happily decided to join your colony! -->
+  <MessageGuestRecruitSuccess>TODO</MessageGuestRecruitSuccess>
+  <!-- EN: {0} has been forced to join your colony! -->
+  <MessageGuestForcedRecruit>TODO</MessageGuestForcedRecruit>
+  <!-- EN: Chief angered -->
+  <LetterLabelRecruitFactionChiefAnger>TODO</LetterLabelRecruitFactionChiefAnger>
+  <!-- EN: Faction angered -->
+  <LetterLabelRecruitFactionAnger>TODO</LetterLabelRecruitFactionAnger>
+  <!-- EN: Chief pleased -->
+  <LetterLabelRecruitFactionChiefPlease>TODO</LetterLabelRecruitFactionChiefPlease>
+  <!-- EN: Faction pleased -->
+  <LetterLabelRecruitFactionPlease>TODO</LetterLabelRecruitFactionPlease>
+  
+  <!-- EN: {PAWN_labelShort} has enough friends now to be recruited. -->
+  <GuestCanBeRecruitedNow>TODO</GuestCanBeRecruitedNow>
+  
+  <!-- EN: Offended -->
+  <TextMote_CharmFail>TODO</TextMote_CharmFail>
+  <!-- EN: Charmed -->
+  <TextMote_CharmSuccess>TODO</TextMote_CharmSuccess>
+  
+  <!-- Incident Results -->
+  <!-- EN: They are absolutely amazed by your hospitality! (Score: {1}) -->
+  <VisitorsLeavingGreat>TODO</VisitorsLeavingGreat>
+  <!-- EN: They really enjoyed their stay! (Score: {1}) -->
+  <VisitorsLeavingGood>TODO</VisitorsLeavingGood>
+  <!-- EN: Their stay was okay. (Score: {1}) -->
+  <VisitorsLeavingNormal>TODO</VisitorsLeavingNormal>
+  <!-- EN: They expected more from you. (Score: {1}) -->
+  <VisitorsLeavingBad>TODO</VisitorsLeavingBad>
+  <!-- EN: They were awfully disappointed by their stay. (Score: {1}) -->
+  <VisitorsLeavingAwful>TODO</VisitorsLeavingAwful>
+  <!-- EN: The visitors from {0} are leaving again because it is too cold. -->
+  <MessageVisitorsLeavingCold>TODO</MessageVisitorsLeavingCold>
+  <!-- EN: You have sent them away. -->
+  <VisitorsSentAway>TODO</VisitorsSentAway>
+  
+  <!-- EN: They will visit again in a few days. -->
+  <VisitorsReturnSoon>TODO</VisitorsReturnSoon>
+  <!-- EN: They will visit again in a while. -->
+  <VisitorsReturnWhile>TODO</VisitorsReturnWhile>
+  <!-- EN: They won't come back any time soon. -->
+  <VisitorsReturnNotSoon>TODO</VisitorsReturnNotSoon>
+  <!-- EN: They've had enough of you. -->
+  <VisitorsReturnNot>TODO</VisitorsReturnNot>
+
+  <!-- EN: Visitors from {FACTION_name} have arrived at {WORLDOBJECT_label} (from {1}) -->
+  <VisitorsArrivedTitle>TODO</VisitorsArrivedTitle>
+  <!-- EN: They are afraid to enter your territory for the following reasons:\n{1}\n\nIf you send them away they might stay in the area and come back later. -->
+  <VisitorsArrivedDesc>TODO</VisitorsArrivedDesc>
+  <!-- EN: Assure safety -->
+  <VisitorsArrivedAccept>TODO</VisitorsArrivedAccept>
+  <!-- EN: Send away -->
+  <VisitorsArrivedRefuse>TODO</VisitorsArrivedRefuse>
+  <!-- EN: Refuse visitors until I have guest beds -->
+  <VisitorsArrivedRefuseUntilBeds>TODO</VisitorsArrivedRefuseUntilBeds>
+  <!-- EN: No guest beds -->
+  <VisitorsArrivedReasonNoBeds>TODO</VisitorsArrivedReasonNoBeds>
+  <!-- EN: Always let them come (don't ask this again) -->
+  <VisitorsArrivedDontAskAgain>TODO</VisitorsArrivedDontAskAgain>
+  
+  <!-- EN: {PAWN_labelShort} became a guest -->
+  <LetterLabelPawnBecameGuest>TODO</LetterLabelPawnBecameGuest>
+  <!-- EN: {PAWN_labelShort} joined guests -->
+  <LetterLabelPawnJoinedGroup>TODO</LetterLabelPawnJoinedGroup>
+  <!-- EN: {PAWN_nameDef}, who you rescued, is now a guest and {PAWN_pronoun} will stay for a few more hours. You can wait, send {PAWN_objective} home or recruit {PAWN_objective}.\n\nWhen {PAWN_labelShort} leaves the map safely, {PAWN_possessive} faction will be grateful. -->
+  <RescuedPawnBecameGuest>TODO</RescuedPawnBecameGuest>
+  <!-- EN: {PAWN_nameDef}, who you rescued, has joined a visiting group of {PAWN_possessive} faction. When {PAWN_pronoun} leaves the map with them safely, they will be grateful. -->
+  <RescuedPawnJoinedGroup>TODO</RescuedPawnJoinedGroup>
+  <!-- EN: {PAWN_nameDef} is now a guest and {PAWN_pronoun} will stay for a few more hours. You can wait, send {PAWN_objective} home or recruit {PAWN_objective}. -->
+  <DownedPawnBecameGuest>TODO</DownedPawnBecameGuest>
+  <!-- EN: {PAWN_nameDef} has joined a visiting group of {PAWN_possessive} faction. -->
+  <DownedPawnJoinedGroup>TODO</DownedPawnJoinedGroup>
+  
+  <!-- EN: {PAWN_labelShort} wants to stay -->
+  <LetterLabelHappyGuestJoins>TODO</LetterLabelHappyGuestJoins>
+  <!-- EN: {PAWN_labelShort} of {0} made a deal with {PAWN_possessive} faction to let them join you as an ambassador. It will not worsen the relationship with {PAWN_possessive} faction.\n\nYou have time to decide until they leave. -->
+  <HappyGuestJoins>TODO</HappyGuestJoins>
+  
+  <!-- EN: A member of {FACTION_name} has bought {ITEM_label} for {1} silver. -->
+  <GuestBoughtItem>TODO</GuestBoughtItem>
+  <!-- EN: A member of {FACTION_name} has taken {ITEM_label} for free. -->
+  <GuestTookFreeItem>TODO</GuestTookFreeItem>
+
+  <!-- Communication -->
+  <!-- EN: Invite for a visit -->
+  <InviteGuests>TODO</InviteGuests>
+  <!-- EN: can't be hostile -->
+  <GuestsCantBeHostile>TODO</GuestsCantBeHostile>
+  <!-- EN: currently not interested in visiting you -->
+  <GuestsDontWantToCome>TODO</GuestsDontWantToCome>
+  <!-- EN: are already on their way and will arrive in {0} -->
+  <GuestsAlreadyComing>TODO</GuestsAlreadyComing>
+  <!-- EN: They are sending a delegation. Expect them to arrive in {0}. -->
+  <GuestsOnTheirWay>TODO</GuestsOnTheirWay>
+  
+  <!-- Pawn Tab -->
+  <!-- EN: Allowed area -->
+  <AreaToStay>TODO</AreaToStay>
+  <!-- EN: Shopping area -->
+  <AreaToBuy>TODO</AreaToBuy>
+  <!-- EN: No shopping -->
+  <AreaNoShopping>TODO</AreaNoShopping>
+  <!-- EN: This is where guests may sleep and hang out. -->
+  <AreaToStayTooltip>TODO</AreaToStayTooltip>
+  <!-- EN: Guests may buy items in this zone. Has to be inside the area of accommodation. -->
+  <AreaToBuyTooltip>TODO</AreaToBuyTooltip>
+  <!-- EN: Enough friends to recruit: {0}/{1} -->
+  <FriendsRequirement>TODO</FriendsRequirement>
+  <!-- EN: Enough royal friend ranks to recruit: {0}/{1} -->
+  <SeniorityRequirement>TODO</SeniorityRequirement>
+  <!-- EN: Relationship damage when recruited: {0} ({1} forced) -->
+  <RecruitmentPenalty>TODO</RecruitmentPenalty>
+  <!-- EN: Try to entertain -->
+  <ImproveRelationship>TODO</ImproveRelationship>
+  <!-- EN: Try to create friendships -->
+  <MakeFriends>TODO</MakeFriends>
+  <!-- EN: Leave alone -->
+  <LeaveAlone>TODO</LeaveAlone>
+  <!-- EN: Faction goodwill -->
+  <FactionGoodwill>TODO</FactionGoodwill>
+  <!-- EN: Hospitality -->
+  <Hospitality>TODO</Hospitality>
+  <!-- EN: Make Default -->
+  <MakeDefault>TODO</MakeDefault>
+  <!-- EN: Send away... -->
+  <SendAway>TODO</SendAway>
+  <!-- EN: Are you sure you want to send the visitors from {FACTION_name} away?\nIf you send them away immediately after appearing, this will have no effect on relations. -->
+  <SendAwayQuestion>TODO</SendAwayQuestion>
+  <!-- EN: Recruit... -->
+  <Recruit>TODO</Recruit>
+  <!-- EN: This guest can not be recruited (right now). -->
+  <CantRecruit>TODO</CantRecruit>
+  <!-- EN: This guest can not be recruited by force. -->
+  <CantForceRecruit>TODO</CantForceRecruit>
+  <!-- EN: You can recruit {PAWN_nameDef} now.\n\nBecause {PAWN_pronoun} has enough friends, this only costs you {0} points of relationship with {PAWN_possessive} faction.{1}\n\n\nAre you sure you want to recruit {PAWN_objective}? -->
+  <RecruitQuestion>TODO</RecruitQuestion>
+  <!-- EN: Force recruit... -->
+  <ForceRecruit>TODO</ForceRecruit>
+  <!-- EN: You can recruit {PAWN_nameDef} immediately.\n\nBecause {PAWN_pronoun} doesn't have enough friends yet to join you on {PAWN_possessive} own accord, this costs you {0} points of relationship with {PAWN_possessive} faction. This will be less if {PAWN_pronoun} has more friends. {1}{2}\n\n\nAre you sure? -->
+  <ForceRecruitQuestion>TODO</ForceRecruitQuestion>
+  <!-- EN: \n\nThis will cause them to become hostile immediately. -->
+  <ForceRecruitWarning>TODO</ForceRecruitWarning>
+  <!-- EN: \n\nThey will trigger {PAWN_possessive} death acidifier. -->
+  <ForceAcidifierWarning>TODO</ForceAcidifierWarning>
+  <!-- EN: [PAWN_nameDef] does not like enough of your colonists (opinion > {0}). -->
+  <NotEnoughFriends>TODO</NotEnoughFriends>
+  <!-- EN: [PAWN_nameDef] can now be recruited. -->
+  <CanNowBeRecruited>TODO</CanNowBeRecruited>
+  <!-- EN: [PAWN_nameDef] will only join by force. -->
+  <OnlyJoinsByForce>TODO</OnlyJoinsByForce>
+  <!-- EN: [PAWN_nameDef] can not be recruited. -->
+  <CanNeverRecruit>TODO</CanNeverRecruit>
+  <!-- EN: [PAWN_nameDef] is part of a trading caravan and not a guest. -->
+  <IsATrader>TODO</IsATrader>
+  <!-- EN: Your diplomats will try to temporarily improve the guest's mood. Good diplomats are more effective at this. Bad diplomats can anger the guest. -->
+  <ImproveTooltip>TODO</ImproveTooltip>
+  <!-- EN: Your diplomats will try to befriend the guest with your other colonists. Good diplomats are more effective at this. Bad diplomats can anger the guest. When the guest has enough friends, he will join your colony. -->
+  <TryRecruitTooltip>TODO</TryRecruitTooltip>
+  <!-- EN: Your guest has enough friendships in the colony and can be recruited now. Recruiting causes damage to your relationship with this faction, though. -->
+  <RecruitTooltip>TODO</RecruitTooltip>
+  <!-- EN: Applies the areas and the entertain settings to all current and future visitors. -->
+  <MakeDefaultTooltip>TODO</MakeDefaultTooltip>
+  <!-- EN: Instead of waiting for your diplomats to convince this guest, you can also force them to stay. The relationship damage with this faction will be much higher, though. -->
+  <ForceRecruitTooltip>TODO</ForceRecruitTooltip>
+  <!-- EN: Ask the group of this guest to go home again. -->
+  <SendAwayTooltip>TODO</SendAwayTooltip>
+
+  <!-- Main Tab -->
+  <!-- EN: Beds in use: {0}/{1} -->
+  <BedsFilled>Camas ocupadas:</BedsFilled>
+  <!-- EN: Map settings... -->
+  <MapSettings>TODO</MapSettings>
+  <!-- EN: Allow new guests -->
+  <GuestsWelcome>TODO</GuestsWelcome>
+  <!-- EN: If you turn this off, no new guest groups will arrive at this colony. -->
+  <GuestsWelcomeTooltip>TODO</GuestsWelcomeTooltip>
+  <!-- EN: Refuse guests until guest beds are built -->
+  <RefuseGuestsUntilBeds>TODO</RefuseGuestsUntilBeds>
+  <!-- EN: If you turn this on, no new guest groups will arrive, until you've built guest beds. -->
+  <RefuseGuestsUntilBedsTooltip>TODO</RefuseGuestsUntilBedsTooltip>
+  <!-- EN: Guests may take food for free -->
+  <GuestsCanTakeFoodForFree>TODO</GuestsCanTakeFoodForFree>
+  <!-- EN: If you turn this on, guests may take and eat food from your stockpile for free. -->
+  <GuestsCanTakeFoodForFreeTooltip>TODO</GuestsCanTakeFoodForFreeTooltip>
+  <!-- EN: Guests ask if it is safe to come -->
+  <GuestsAskForSafety>TODO</GuestsAskForSafety>
+  <!-- EN: If you turn this off, guests will not ask if they may come if there is danger present. -->
+  <GuestsAskForSafetyTooltip>TODO</GuestsAskForSafetyTooltip>
+  
+  <!-- Infos -->
+  <!-- EN: Missing friends -->
+  <StatsReport_MissingFriends>TODO</StatsReport_MissingFriends>
+  
+  <!-- Vending Machine -->
+  <!-- EN: Vending machine -->
+  <Hospitality_VendingMachine>TODO</Hospitality_VendingMachine>
+  <!-- EN: Price: -->
+  <Hospitality_VendingMachinePrice>TODO</Hospitality_VendingMachinePrice>
+  <!-- EN: Contains: -->
+  <Hospitality_VendingMachineContains>TODO</Hospitality_VendingMachineContains>
+  <!-- EN: Allow guests to use this facility. -->
+  <Hospitality_VendingMachineToggleDesc>TODO</Hospitality_VendingMachineToggleDesc>
+  <!-- EN: Empty at: -->
+  <Hospitality_VendingMachineThreshold>TODO</Hospitality_VendingMachineThreshold>
+  <!-- EN: Content -->
+  <Hospitality_VendingMachineContent>TODO</Hospitality_VendingMachineContent>
+  
+  <!-- Bed -->
+  <!-- EN: guest {0} -->
+  <GuestBedFormat>TODO</GuestBedFormat>
+  <!-- EN: For guests -->
+  <CommandBedSetAsGuestLabel>TODO</CommandBedSetAsGuestLabel>
+  <!-- EN: Whether this bed is for guests. -->
+  <CommandBedSetAsGuestDesc>TODO</CommandBedSetAsGuestDesc>
+  <!-- EN: Attractiveness: -->
+  <BedGizmoAttractiveness>TODO</BedGizmoAttractiveness>
+  <!-- EN: These royal titles will accept this bed: -->
+  <BedSatisfiedTitles>TODO</BedSatisfiedTitles>
+  <!-- EN: Only one bed -->
+  <BedroomMustBeSingle>TODO</BedroomMustBeSingle>
+  <!-- EN: Requirements for the next title:\n- {0} -->
+  <NextTitleRequirements>TODO</NextTitleRequirements>
+  
+  <!-- Alerts -->
+  <!-- EN: Guest can't claim bed -->
+  <AlertCantClaimBed>TODO</AlertCantClaimBed>
+  <!-- EN: These guests can't afford to claim a bed:\n\n{0}\nProvide cheaper or free beds or gift the guests some silver.\nFactions with a better relationship will bring more silver. -->
+  <AlertCantClaimBedDesc>TODO</AlertCantClaimBedDesc>
+  <!-- EN: Not enough guest beds -->
+  <AlertNotEnoughBeds>TODO</AlertNotEnoughBeds>
+  <!-- EN: There are not enough beds for the following pawns:\n\n{0}\nYou should provide more beds for guests. -->
+  <AlertNotEnoughBedsDesc>TODO</AlertNotEnoughBedsDesc>
+  <!-- EN: Guest has nothing to eat -->
+  <AlertHasNoFood>TODO</AlertHasNoFood>
+  <!-- EN: These guests have nothing to eat:\n\n{0}\nPut some food on sale, set up a nutrient dispenser as a vending machine or gift the guests some silver or rations. You can also allow guests to take food for free.\nFactions with a better relationship will bring more silver. -->
+  <AlertHasNoFoodDesc>TODO</AlertHasNoFoodDesc>
+
+  <!-- Settings -->
+  <!-- EN: Disable option limits -->
+  <DisableLimits>TODO</DisableLimits>
+  <!-- EN: When this option is turned on, you can tweak the settings further than recommended for a fair game. -->
+  <DisableLimitsDesc>TODO</DisableLimitsDesc>
+  <!-- EN: Disable visitors -->
+  <DisableVisitors>TODO</DisableVisitors>
+  <!-- EN: You actually hate visitors and wonder why you even have this mod. -->
+  <DisableVisitorsDesc>TODO</DisableVisitorsDesc>
+  <!-- EN: Disable guests helping -->
+  <DisableGuestsHelping>TODO</DisableGuestsHelping>
+  <!-- EN: When checked, guests will not perform any work in your colony. -->
+  <DisableGuestsHelpingDesc>TODO</DisableGuestsHelpingDesc>
+  <!-- EN: Disable guests helping with art and crafting -->
+  <DisableArtAndCraft>TODO</DisableArtAndCraft>
+  <!-- EN: When checked, guests will not perform any artistic or crafting tasks. -->
+  <DisableArtAndCraftDesc>TODO</DisableArtAndCraftDesc>
+  <!-- EN: Disable guests helping with operations -->
+  <DisableOperations>TODO</DisableOperations>
+  <!-- EN: When checked, guests will not perform any medical operations. -->
+  <DisableOperationsDesc>TODO</DisableOperationsDesc>
+  <!-- EN: Disable guests healing pawns -->
+  <DisableMedical>TODO</DisableMedical>
+  <!-- EN: When checked, guests will not perform any tending work. -->
+  <DisableMedicalDesc>TODO</DisableMedicalDesc>
+  <!-- EN: Disable guests leaving gifts -->
+  <DisableGifts>TODO</DisableGifts>
+  <!-- EN: When checked, guests will never leave items behind when satisfied. -->
+  <DisableGiftsDesc>TODO</DisableGiftsDesc>
+  <!-- EN: Minimum skill for work -->
+  <MinGuestWorkSkill>TODO</MinGuestWorkSkill>
+  <!-- EN: The minimum skill a guest needs to have to perform a task when helping out. (recommended: 7) -->
+  <MinGuestWorkSkillDesc>TODO</MinGuestWorkSkillDesc>
+  <!-- EN: Guest group size -->
+  <GuestGroupSize>TODO</GuestGroupSize>
+  <!-- EN: The size a group of guests can be. (recommended: 1-16) -->
+  <GuestGroupSizeDesc>TODO</GuestGroupSizeDesc>
+  <!-- EN: Maximum groups within 3 days -->
+  <MaxIncidentsPer3Days>TODO</MaxIncidentsPer3Days>
+  <!-- EN: The maximum amount of guest groups that can come within 3 days. (recommended: 5) -->
+  <MaxIncidentsPer3DaysDesc>TODO</MaxIncidentsPer3DaysDesc>
+  <!-- EN: Silver multiplier -->
+  <SilverMultiplier>Multiplicador de plata</SilverMultiplier>
+  <!-- EN: Scales up how much silver guests bring. Higher faction relationship still means more silver. (recommended: 1) -->
+  <SilverMultiplierDesc>TODO</SilverMultiplierDesc>
+  <!-- EN: Disable guests tab -->
+  <DisableGuestsTab>TODO</DisableGuestsTab>
+  <!-- EN: Hide the guests tab from the main tab bar. -->
+  <DisableGuestsTabDesc>TODO</DisableGuestsTabDesc>
+  <!-- EN: Enable purchase notification -->
+  <EnableBuyNotification>TODO</EnableBuyNotification>
+  <!-- EN: Receive a message when a guest buys something. Can be reviewed in the message history. -->
+  <EnableBuyNotificationDesc>TODO</EnableBuyNotificationDesc>
+  <!-- EN: Enable enough friends notification -->
+  <EnableRecruitNotification>TODO</EnableRecruitNotification>
+  <!-- EN: Receive a message when a guest has enough friends to be recruited. -->
+  <EnableRecruitNotificationDesc>TODO</EnableRecruitNotificationDesc>
+  <!-- EN: No friendly inventory spill -->
+  <DisableFriendlyGearDrops>TODO</DisableFriendlyGearDrops>
+  <!-- EN: When a friendly pawn is downed, they will no longer drop their inventory. -->
+  <DisableFriendlyGearDropsDesc>TODO</DisableFriendlyGearDropsDesc>
+  <!-- EN: Show guest tab icon -->
+  <UseIcon>TODO</UseIcon>
+  <!-- EN: Show an icon on the guests tab instead of text -->
+  <UseIconDesc>TODO</UseIconDesc>
+  <!-- EN: It is recommended to leave this setting on. -->
+  <Hospitality_RecommendedOn>TODO</Hospitality_RecommendedOn>
+  <!-- EN: It is recommended to leave this setting off. -->
+  <Hospitality_RecommendedOff>TODO</Hospitality_RecommendedOff>
+  <!-- EN: It is recommended to leave this setting between {0} and {1}. -->
+  <Hospitality_RecommendedRange>TODO</Hospitality_RecommendedRange>
+  
+</LanguageData>

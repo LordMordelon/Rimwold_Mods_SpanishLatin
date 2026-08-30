@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: bill -->
+  <PatientBill.label>factura</PatientBill.label>
+  <!-- EN: How much the patient will have to pay -->
+  <PatientBill.headerTip>Cuánto tendrá que pagar el paciente.</PatientBill.headerTip>
+  
+  <!-- EN: treatment -->
+  <PatientCure.label>tratamiento</PatientCure.label>
+  <!-- EN: How will we help the patient? -->
+  <PatientCure.headerTip>¿Cómo ayudaremos al paciente?</PatientCure.headerTip>
+  
+  <!-- EN: diagnosis -->
+  <PatientDiagnosis.label>diagnóstico</PatientDiagnosis.label>
+  <!-- EN: What's wrong with this patient?. -->
+  <PatientDiagnosis.headerTip>¿Qué le ocurre a este paciente?</PatientDiagnosis.headerTip>
+  
+  <!-- EN: rating -->
+  <PatientRating.label>calificación</PatientRating.label>
+  <!-- EN: How happy the patient is. Get above 70 for more goodwill. -->
+  <PatientRating.headerTip>Qué tan contento está el paciente. Supera los 70 para obtener más buena voluntad.</PatientRating.headerTip>
+  
+  <!-- EN: time spent -->
+  <PatientTimeSpent.label>tiempo transcurrido</PatientTimeSpent.label>
+  <!-- EN: How many hours the patient spent in your hospital. -->
+  <PatientTimeSpent.headerTip>Cuántas horas ha pasado el paciente en tu hospital.</PatientTimeSpent.headerTip>
+  
+</LanguageData>

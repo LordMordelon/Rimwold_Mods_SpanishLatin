@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+    <!-- EN: Patients -->
+  <PatientsTab>Pacientes</PatientsTab>
+    <!-- EN: Beds in use: {0}/{1} -->
+  <BedsFilled>Camas ocupadas: {0}/{1}</BedsFilled>
+    <!-- EN: wounds -->
+  <DiagnosisWounds>heridas</DiagnosisWounds>
+    <!-- EN: tend to wounds -->
+  <CureWounds>atender heridas</CureWounds>
+    <!-- EN: apply medicine -->
+  <CureDisease>aplicar medicina</CureDisease>
+    <!-- EN: problem with {0} -->
+  <DiagnosisSurgeryOnPart>problema con {0}</DiagnosisSurgeryOnPart>
+    <!-- EN: needs an operation -->
+  <DiagnosisSurgeryNoPart>necesita una operación</DiagnosisSurgeryNoPart>
+    <!-- EN: wants a {0} -->
+  <DiagnosisArtificialBodyPart>desea un(a) {0}</DiagnosisArtificialBodyPart>
+    <!-- EN: Dismiss -->
+  <Dismiss>Despedir</Dismiss>
+    <!-- EN: Refuse operation -->
+  <Disallow>Rechazar operación</Disallow>
+    <!-- EN: Refused operations: -->
+  <RefusedOperations>Operaciones rechazadas:</RefusedOperations>
+    <!-- blacklists -->
+    <!-- EN: Blacklists -->
+  <Blacklists>Lista negra</Blacklists>
+    <!-- EN: Checked entries are blacklisted and will not appear. -->
+  <BlacklistHint>Las entradas marcadas están en la lista negra y no aparecerán.</BlacklistHint>
+    <!-- EN: Blacklisted surgeries ({0})... -->
+  <BlacklistSurgeries>Cirugías en lista negra ({0})...</BlacklistSurgeries>
+    <!-- EN: Blacklisted diseases ({0})... -->
+  <BlacklistDiseases>Enfermedades en lista negra ({0})...</BlacklistDiseases>
+    <!-- EN: Blacklisted factions ({0})... -->
+  <BlacklistFactions>Facciones en lista negra ({0})...</BlacklistFactions>
+    <!-- EN: Blacklisted surgeries -->
+  <BlacklistSurgeriesTitle>Cirugías en lista negra</BlacklistSurgeriesTitle>
+    <!-- EN: Blacklisted diseases -->
+  <BlacklistDiseasesTitle>Enfermedades en lista negra</BlacklistDiseasesTitle>
+    <!-- EN: Blacklisted factions -->
+  <BlacklistFactionsTitle>Facciones en lista negra</BlacklistFactionsTitle>
+    <!-- settings -->
+    <!-- EN: Hospital Policies... -->
+  <HospitalMapSettings>Políticas del hospital...</HospitalMapSettings>
+    <!-- EN: Hospital Policies -->
+  <HospitalSettings>Políticas del hospital</HospitalSettings>
+    <!-- EN: Accept patients -->
+  <AcceptPatients>Aceptar pacientes</AcceptPatients>
+    <!-- EN: uncheck this if you want to stop patients from visiting -->
+  <AcceptPatientsTooltip>desmarca esto si deseas evitar que los pacientes te visiten</AcceptPatientsTooltip>
+    <!-- EN: Accept surgery -->
+  <AcceptSurgery>Aceptar cirugías</AcceptSurgery>
+    <!-- EN: uncheck this if you do not want to get surgery events -->
+  <AcceptSurgeryTooltip>desmarca esto si no deseas recibir eventos de cirugía</AcceptSurgeryTooltip>
+    <!-- EN: Allow patients during danger -->
+  <AcceptDanger>Permitir pacientes durante situaciones de peligro</AcceptDanger>
+    <!-- EN: check this if you want to override the check if the map if safe for patients to arrive -->
+  <AcceptDangerTooltip>Marca esto si deseas omitir la comprobación de que el mapa sea seguro para la llegada de pacientes.</AcceptDangerTooltip>
+    <!-- EN: Silver multiplier -->
+  <SilverMultiplier>Multiplicador de plata</SilverMultiplier>
+    <!-- EN: Changes the patients bill by this percentage. (recommended: 100%) -->
+  <SilverMultiplierTooltip>Modifica la factura de los pacientes según este porcentaje. (recomendado: 100%)</SilverMultiplierTooltip>
+    <!-- difficulty -->
+    <!-- EN: Difficulty -->
+  <DifficultySettings>Dificultad</DifficultySettings>
+    <!-- EN: Goodwill gain multiplier -->
+  <GoodwillGainMultiplier>Multiplicador de ganancia de buena voluntad</GoodwillGainMultiplier>
+    <!-- EN: Scales the goodwill earned from happy patients leaving. (default: 100%) -->
+  <GoodwillGainMultiplierTooltip>Escala la buena voluntad obtenida cuando los pacientes satisfechos se van. (predeterminado: 100%)</GoodwillGainMultiplierTooltip>
+    <!-- EN: Goodwill loss on patient death -->
+  <DeathGoodwillPenalty>Pérdida de buena voluntad por muerte de paciente</DeathGoodwillPenalty>
+    <!-- EN: Goodwill lost with a faction when one of their patients dies. (default: 10) -->
+  <DeathGoodwillPenaltyTooltip>Buena voluntad perdida con una facción cuando uno de sus pacientes muere. (predeterminado: 10)</DeathGoodwillPenaltyTooltip>
+    <!-- EN: Goodwill loss on surgery failure -->
+  <SurgeryFailGoodwillPenalty>Pérdida de buena voluntad por fallo quirúrgico</SurgeryFailGoodwillPenalty>
+    <!-- EN: Goodwill lost with a faction when a surgery on their patient fails. (default: 1) -->
+  <SurgeryFailGoodwillPenaltyTooltip>Buena voluntad perdida con una facción cuando falla una cirugía en su paciente. (predeterminado: 1)</SurgeryFailGoodwillPenaltyTooltip>
+    <!-- EN: Disease severity multiplier -->
+  <DiseaseSeverityMultiplier>Multiplicador de gravedad de enfermedades</DiseaseSeverityMultiplier>
+    <!-- EN: Scales how severe arriving patients' diseases are. Higher is harder. (default: 100%) -->
+  <DiseaseSeverityMultiplierTooltip>Escala qué tan graves son las enfermedades de los pacientes que llegan. Mayor es más difícil. (predeterminado: 100%)</DiseaseSeverityMultiplierTooltip>
+    <!-- EN: Wound severity multiplier -->
+  <WoundSeverityMultiplier>Multiplicador de gravedad de heridas</WoundSeverityMultiplier>
+    <!-- EN: Scales how badly wounded arriving patients are. Higher is harder. (default: 100%) -->
+  <WoundSeverityMultiplierTooltip>Escala qué tan gravemente heridos llegan los pacientes. Mayor es más difícil. (predeterminado: 100%)</WoundSeverityMultiplierTooltip>
+    <!-- EN: Reset to defaults -->
+  <ResetToDefaults>Restablecer valores predeterminados</ResetToDefaults>
+    <!-- EN: Beds reserved for colonists -->
+  <BedsReserved>Camas reservadas para colonos</BedsReserved>
+    <!-- EN: To make sure your beds are not all filled up with patients -->
+  <BedsReservedTooltip>Para asegurarte de que tus camas no se llenen por completo de pacientes.</BedsReservedTooltip>
+    <!-- EN: Show message instead of letter -->
+  <ShowMessageAtArrival>Mostrar mensaje en lugar de carta</ShowMessageAtArrival>
+    <!-- EN: Shows as a message instead of a letter when a new patient arrives. -->
+  <ShowMessageAtArrivalTooltip>Muestra un mensaje en lugar de una carta cuando llega un nuevo paciente.</ShowMessageAtArrivalTooltip>
+    <!-- EN: Prevent incapacitated arrivals -->
+  <PreventIncapacitatedArrivals>Evitar llegadas de pacientes incapacitados</PreventIncapacitatedArrivals>
+    <!-- EN: Patients stop being wounded just before they would collapse, so they arrive hurt but still able to walk. Disable for tougher mass casualty events with downed patients you must rescue. -->
+  <PreventIncapacitatedArrivalsTooltip>Los pacientes dejan de recibir heridas justo antes de colapsar, por lo que llegan heridos pero aún capaces de caminar. Desactívalo para eventos con múltiples víctimas más difíciles con pacientes incapacitados que deberás rescatar.</PreventIncapacitatedArrivalsTooltip>
+    <!-- EN: Enable mass casualty events -->
+  <MassCasualties>Activar eventos con múltiples víctimas</MassCasualties>
+    <!-- EN: A MCE will sporadically overwhelm your hospital with patients. -->
+  <MassCasualtiesTooltip>Un evento con múltiples víctimas abrumará esporádicamente tu hospital con pacientes.</MassCasualtiesTooltip>
+    <!-- button -->
+    <!-- EN: Hospital Bed -->
+  <CommandBedSetAsHospitalLabel>Cama de hospital</CommandBedSetAsHospitalLabel>
+    <!-- EN: Whether this bed is for patients. -->
+  <CommandBedSetAsHospitalDesc>Define si esta cama es para pacientes.</CommandBedSetAsHospitalDesc>
+    <!-- EN: Surgery Bed -->
+  <CommandBedSetAsSurgeryLabel>Cama quirúrgica</CommandBedSetAsSurgeryLabel>
+    <!-- EN: Whether this bed is for surgery patients. -->
+  <CommandBedSetAsSurgeryDesc>Define si esta cama es para pacientes de cirugía.</CommandBedSetAsSurgeryDesc>
+    
+    <!-- EN: A pandemic -->
+  <MCE_Pandemic>Una pandemia</MCE_Pandemic>
+    <!-- EN: A big raid -->
+  <MCE_Raid>Una gran incursión</MCE_Raid>
+    <!-- EN: A large plane crash -->
+  <MCE_Crash>Un gran accidente aéreo</MCE_Crash>
+    <!-- EN: A large building fire -->
+  <MCE_Fire>Un gran incendio de edificio</MCE_Fire>
+</LanguageData>
