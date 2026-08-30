@@ -1,16 +1,22 @@
 <?xml version='1.0' encoding='utf-8'?>
 <LanguageData>
-  <GeneFab.Recipe.description>Fabricar un paquete de genes del gen {0}</GeneFab.Recipe.description>
-  <GeneFab.Recipe.jobString>Fabricando paquete de genes: {0}</GeneFab.Recipe.jobString>
-  <GeneFab.Recipe.label>Fabricar paquete de genes: {0}</GeneFab.Recipe.label>
+  <GeneFab.Recipe.description>Fabrica un gen {0}.</GeneFab.Recipe.description>
+  <GeneFab.Recipe.jobString>Fabricando gen: {0}</GeneFab.Recipe.jobString>
+  <GeneFab.Recipe.label>Fabricar gen: {0}</GeneFab.Recipe.label>
   <GeneFab_ArchiteMultiplier>Multiplicador de costo de cápsulas de arquita</GeneFab_ArchiteMultiplier>
   <GeneFab_BlackListSimple>Lista negra</GeneFab_BlackListSimple>
-  <GeneFab_Blacklisted>Este gen está en la lista negra y no aparecerá en el juego</GeneFab_Blacklisted>
-  <GeneFab_BlacklistedButton>Te permite poner genes en lista negra para que no se puedan fabricar</GeneFab_BlacklistedButton>
-  <GeneFab_CreateGenepack>Crear un paquete de genes</GeneFab_CreateGenepack>
-  <GeneFab_CreateGenepackDesc>Crear un paquete de genes</GeneFab_CreateGenepackDesc>
+  <GeneFab_Blacklist>Lista negra</GeneFab_Blacklist>
+  <GeneFab_Blacklisted>Este gen está en la lista negra y no aparecerá en el juego.</GeneFab_Blacklisted>
+  <GeneFab_BlacklistedButton>Te permite añadir genes a la lista negra para evitar su fabricación.</GeneFab_BlacklistedButton>
+  <GeneFab_CreateGenepack>Fabricar gen</GeneFab_CreateGenepack>
+  <GeneFab_CreateGenepackDesc>Fabrica un gen.</GeneFab_CreateGenepackDesc>
   <GeneFab_GeneUITitle>Elige un gen para fabricar:</GeneFab_GeneUITitle>
+  <GeneFab_GeneUITitleBlacklist>Elige un gen para la lista negra:</GeneFab_GeneUITitleBlacklist>
+  <GeneFab_LegacyUI>Interfaz clásica</GeneFab_LegacyUI>
+  <GeneFab_LegacyUI_Tooltip>Alterna el uso de la interfaz clásica de la versión 1.5.\n\nNo reportes errores sobre esta interfaz, ya no cuenta con soporte activo.</GeneFab_LegacyUI_Tooltip>
   <GeneFab_NeutroamineMultiplier>Multiplicador de costo de neutroamina</GeneFab_NeutroamineMultiplier>
+  <GeneFab_OpenBlacklistMenu>Abrir lista negra</GeneFab_OpenBlacklistMenu>
   <GeneFab_ResearchThis>Requiere investigación</GeneFab_ResearchThis>
+  <GeneFab_Unblacklist>Quitar de lista negra</GeneFab_Unblacklist>
   <GeneFed_WorkMultiplier>Multiplicador de cantidad de trabajo</GeneFed_WorkMultiplier>
 </LanguageData>
