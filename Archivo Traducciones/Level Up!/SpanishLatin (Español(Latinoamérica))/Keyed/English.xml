@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<!-- UI -->
+	<!-- EN: Level up actions -->
+  <LevelUp.LevelUpActionsLabel>Acciones al subir de nivel</LevelUp.LevelUpActionsLabel>
+	<!-- EN: Level down actions -->
+  <LevelUp.LevelDownActionsLabel>Acciones al bajar de nivel</LevelUp.LevelDownActionsLabel>
+	
+	<!-- EN: List of actions that, if active, are executed when a colonist levels up a skill. -->
+  <LevelUp.LevelUpActionHeaderDescription>Lista de acciones que, si están activas, se ejecutan cuando un colono sube de nivel en una habilidad.</LevelUp.LevelUpActionHeaderDescription>
+	<!-- EN: List of actions that, if active, are executed when a colonist levels down a skill. -->
+  <LevelUp.LevelDownActionHeaderDescription>Lista de acciones que, si están activas, se ejecutan cuando un colono baja de nivel en una habilidad.</LevelUp.LevelDownActionHeaderDescription>
+	
+	<!-- EN: Historical -->
+  <LevelUp.HistoricalLabel>Historial</LevelUp.HistoricalLabel>
+	<!-- EN: Whether or not the message should be saved in history. -->
+  <LevelUp.HistoricalDescription>Si el mensaje se guarda o no en el historial.</LevelUp.HistoricalDescription>
+	
+	<!-- EN: Injectable values -->
+  <LevelUp.InjectableValuesLabel>Valores inyectables</LevelUp.InjectableValuesLabel>
+	<!-- EN: Formatting -->
+  <LevelUp.FormattingLabel>Formato</LevelUp.FormattingLabel>
+	<!-- EN: Bold -->
+  <LevelUp.FormattingBoldLabel>Negrita</LevelUp.FormattingBoldLabel>
+	<!-- EN: Italic -->
+  <LevelUp.FormattingItalicLabel>Cursiva</LevelUp.FormattingItalicLabel>
+	<!-- EN: Color -->
+  <LevelUp.FormattingColorLabel>Color</LevelUp.FormattingColorLabel>
+	
+	<!-- Default message texts -->
+	<!-- EN: <color=orange>{PAWN}</color> reached level {LEVEL} in {SKILL}! -->
+  <LevelUp.DefaultLevelUpMessage>&lt;color=orange&gt;{PAWN}&lt;/color&gt; alcanzó el nivel {LEVEL} en {SKILL}!</LevelUp.DefaultLevelUpMessage>
+	<!-- EN: <color=orange>{PAWN}</color> reached level {LEVEL} in {SKILL}. -->
+  <LevelUp.DefaultLevelDownMessage>&lt;color=orange&gt;{PAWN}&lt;/color&gt; bajó al nivel {LEVEL} en {SKILL}.</LevelUp.DefaultLevelDownMessage>
+	<!-- EN: {SKILL}\nlevel {LEVEL} -->
+  <LevelUp.DefaultLevelUpOverheadMessage>{SKILL}\nnivel {LEVEL}</LevelUp.DefaultLevelUpOverheadMessage>
+	<!-- EN: {SKILL}\nlevel {LEVEL} -->
+  <LevelUp.DefaultLevelDownOverheadMessage>{SKILL}\nnivel {LEVEL}</LevelUp.DefaultLevelDownOverheadMessage>
+    
+</LanguageData>
