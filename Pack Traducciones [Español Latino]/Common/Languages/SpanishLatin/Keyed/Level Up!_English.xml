@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LevelUp.DefaultLevelDownMessage>&lt;color=orange&gt;{PAWN}&lt;/color&gt; bajó al nivel {LEVEL} en {SKILL}.</LevelUp.DefaultLevelDownMessage>
+  <LevelUp.DefaultLevelDownOverheadMessage>{SKILL}\nnivel {LEVEL}</LevelUp.DefaultLevelDownOverheadMessage>
+  <LevelUp.DefaultLevelUpMessage>&lt;color=orange&gt;{PAWN}&lt;/color&gt; alcanzó el nivel {LEVEL} en {SKILL}!</LevelUp.DefaultLevelUpMessage>
+  <LevelUp.DefaultLevelUpOverheadMessage>{SKILL}\nnivel {LEVEL}</LevelUp.DefaultLevelUpOverheadMessage>
+  <LevelUp.FormattingBoldLabel>Negrita</LevelUp.FormattingBoldLabel>
+  <LevelUp.FormattingColorLabel>Color</LevelUp.FormattingColorLabel>
+  <LevelUp.FormattingItalicLabel>Cursiva</LevelUp.FormattingItalicLabel>
+  <LevelUp.FormattingLabel>Formato</LevelUp.FormattingLabel>
+  <LevelUp.HistoricalDescription>Si el mensaje se guarda o no en el historial.</LevelUp.HistoricalDescription>
+  <LevelUp.HistoricalLabel>Historial</LevelUp.HistoricalLabel>
+  <LevelUp.InjectableValuesLabel>Valores inyectables</LevelUp.InjectableValuesLabel>
+  <LevelUp.LevelDownActionHeaderDescription>Lista de acciones que, si están activas, se ejecutan cuando un colono baja de nivel en una habilidad.</LevelUp.LevelDownActionHeaderDescription>
+  <LevelUp.LevelDownActionsLabel>Acciones al bajar de nivel</LevelUp.LevelDownActionsLabel>
+  <LevelUp.LevelUpActionHeaderDescription>Lista de acciones que, si están activas, se ejecutan cuando un colono sube de nivel en una habilidad.</LevelUp.LevelUpActionHeaderDescription>
+  <LevelUp.LevelUpActionsLabel>Acciones al subir de nivel</LevelUp.LevelUpActionsLabel>
+</LanguageData>
