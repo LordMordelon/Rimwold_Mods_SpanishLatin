@@ -36,7 +36,13 @@
   <PE_ClassPartiallyFunctioningWarning>La clase {0} funcionará con eficiencia reducida porque no todos los participantes están presentes.</PE_ClassPartiallyFunctioningWarning>
   <PE_ClassScheduling>Ver horario</PE_ClassScheduling>
   <PE_ClassSpeed>Velocidad de clase</PE_ClassSpeed>
+  <PE_ClassSuspended>Clase suspendida</PE_ClassSuspended>
+  <PE_ClassSuspendedDesc>Una o más clases están suspendidas. Los estudiantes no asistirán hasta que la clase sea reanudada desde la pestaña de Educación.\n\nHaz clic en esta alerta para abrir la pestaña de Educación.\n\nSuspendidas:</PE_ClassSuspendedDesc>
+  <PE_ClassSuspendedLine>{0} (profesor: {1})</PE_ClassSuspendedLine>
+  <PE_ClassSuspendedNamed>Clase {0} suspendida</PE_ClassSuspendedNamed>
+  <PE_ClassSuspendedNoTeacher>ninguno</PE_ClassSuspendedNoTeacher>
   <PE_Classes>Clases activas</PE_Classes>
+  <PE_ClassesSuspended>{0} clases suspendidas</PE_ClassesSuspended>
   <PE_Classroom>Aula</PE_Classroom>
   <PE_ClassroomSettings>Configuración del aula</PE_ClassroomSettings>
   <PE_Classrooms>Aulas</PE_Classrooms>
@@ -118,6 +124,7 @@
   <PE_SelectTrait>Seleccionar rasgo de competencia</PE_SelectTrait>
   <PE_SemesterGoal>Objetivo del semestre</PE_SemesterGoal>
   <PE_SemesterProgress>Progreso del semestre</PE_SemesterProgress>
+  <PE_ShowClassSuspendedAlert>Mostrar alerta de clase suspendida</PE_ShowClassSuspendedAlert>
   <PE_SkillClassesLearningSpeed>Velocidad de aprendizaje de clases de habilidad</PE_SkillClassesLearningSpeed>
   <PE_SkillFocus>Enfoque de habilidad</PE_SkillFocus>
   <PE_SkillFocusMissing>Falta el enfoque de habilidad</PE_SkillFocusMissing>
