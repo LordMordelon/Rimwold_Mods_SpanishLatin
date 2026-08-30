@@ -280,6 +280,18 @@
   <PE_CannotAttendClass>La clase {0} fue suspendida porque el profesor no está disponible.</PE_CannotAttendClass>
   <!-- EN: Cannot unsuspend class: Teacher unavailable to teach -->
   <PE_CannotUnsuspendNoTeacher>No se puede reanudar la clase: Profesor no disponible para enseñar</PE_CannotUnsuspendNoTeacher>
+  <!-- EN: Class suspended -->
+  <PE_ClassSuspended>Clase suspendida</PE_ClassSuspended>
+  <!-- EN: Class {0} suspended -->
+  <PE_ClassSuspendedNamed>Clase {0} suspendida</PE_ClassSuspendedNamed>
+  <!-- EN: {0} classes suspended -->
+  <PE_ClassesSuspended>{0} clases suspendidas</PE_ClassesSuspended>
+  <!-- EN: One or more classes are suspended. Students will not attend until the class is resumed from the Education tab.\n\nClick this alert to open the Education tab.\n\nSuspended: -->
+  <PE_ClassSuspendedDesc>Una o más clases están suspendidas. Los estudiantes no asistirán hasta que la clase sea reanudada desde la pestaña de Educación.\n\nHaz clic en esta alerta para abrir la pestaña de Educación.\n\nSuspendidas:</PE_ClassSuspendedDesc>
+  <!-- EN: {0} (teacher: {1}) -->
+  <PE_ClassSuspendedLine>{0} (profesor: {1})</PE_ClassSuspendedLine>
+  <!-- EN: none -->
+  <PE_ClassSuspendedNoTeacher>ninguno</PE_ClassSuspendedNoTeacher>
   <!-- EN: Bestow new proficiency -->
   <PE_BestowProficiency>Otorgar nueva competencia</PE_BestowProficiency>
   <!-- EN: Select a colonist to receive the researched proficiency. They must be capable of Intellectual work. -->
@@ -302,6 +314,8 @@
   <PE_EnableVehicleProficiency>Habilitar competencia de vehículos</PE_EnableVehicleProficiency>
   <!-- EN: Enable speech proficiency -->
   <PE_EnableSpeechProficiency>Habilitar competencia de oratoria</PE_EnableSpeechProficiency>
+  <!-- EN: Show class suspended alert -->
+  <PE_ShowClassSuspendedAlert>Mostrar alerta de clase suspendida</PE_ShowClassSuspendedAlert>
   <!-- EN: Colonist must be taught animal riding proficiency. -->
   <PE_GiddyUpNeedRiding>El colono debe aprender la competencia de montura animal.</PE_GiddyUpNeedRiding>
   <!-- EN: Requires {0} proficiency -->
