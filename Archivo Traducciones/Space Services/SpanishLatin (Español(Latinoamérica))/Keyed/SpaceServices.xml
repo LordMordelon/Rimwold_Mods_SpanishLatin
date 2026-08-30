@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: General -->
+  <JDB_SpaceServices_Settings_SectionGeneral>General</JDB_SpaceServices_Settings_SectionGeneral>
+  <!-- EN: Logging -->
+  <JDB_SpaceServices_Settings_SectionVerbose>Registro</JDB_SpaceServices_Settings_SectionVerbose>
+  <!-- EN: Hospitality -->
+  <JDB_SpaceServices_Settings_SectionHospitality>Hospitalidad</JDB_SpaceServices_Settings_SectionHospitality>
+  <!-- EN: Traffic rates -->
+  <JDB_SpaceServices_Settings_SectionTraffic>Tasas de tráfico</JDB_SpaceServices_Settings_SectionTraffic>
+  <!-- EN: Compatibility -->
+  <JDB_SpaceServices_Settings_SectionCompatibility>Compatibilidad</JDB_SpaceServices_Settings_SectionCompatibility>
+  <!-- EN: Experimental -->
+  <JDB_SpaceServices_Settings_SectionExperimental>Experimental</JDB_SpaceServices_Settings_SectionExperimental>
+
+  <!-- EN: Debug logging -->
+  <JDB_SpaceServices_Settings_DebugLogging>Registro de depuración</JDB_SpaceServices_Settings_DebugLogging>
+  <!-- EN: Write normal Space Services diagnostics to the RimWorld log. Warnings and errors are always logged. -->
+  <JDB_SpaceServices_Settings_DebugLoggingDesc>Escribe diagnósticos normales de Servicios Espaciales en el registro de RimWorld. Las advertencias y errores siempre se registran.</JDB_SpaceServices_Settings_DebugLoggingDesc>
+  <!-- EN: Core lifecycle verbose logging -->
+  <JDB_SpaceServices_Settings_VerboseCoreLogging>Registro detallado del ciclo de vida del núcleo</JDB_SpaceServices_Settings_VerboseCoreLogging>
+  <!-- EN: Write extra shared lifecycle, shuttle, cleanup, and service pawn diagnostics. Does not enable Hospital or Hospitality logs. -->
+  <JDB_SpaceServices_Settings_VerboseCoreLoggingDesc>Escribe diagnósticos adicionales del ciclo de vida compartido, lanzaderas, limpieza y peones de servicio. No habilita los registros de Hospital ni de Hospitality.</JDB_SpaceServices_Settings_VerboseCoreLoggingDesc>
+  <!-- EN: Hospital verbose logging -->
+  <JDB_SpaceServices_Settings_VerboseHospitalLogging>Registro detallado de Hospital</JDB_SpaceServices_Settings_VerboseHospitalLogging>
+  <!-- EN: Write extra Hospital patient arrival, departure, and cleanup diagnostics. -->
+  <JDB_SpaceServices_Settings_VerboseHospitalLoggingDesc>Escribe diagnósticos adicionales sobre llegadas, salidas y limpieza de pacientes de Hospital.</JDB_SpaceServices_Settings_VerboseHospitalLoggingDesc>
+  <!-- EN: Hospitality verbose logging -->
+  <JDB_SpaceServices_Settings_VerboseHospitalityLogging>Registro detallado de Hospitality</JDB_SpaceServices_Settings_VerboseHospitalityLogging>
+  <!-- EN: Write extra Hospitality guest arrival, bed, lord, and departure diagnostics. -->
+  <JDB_SpaceServices_Settings_VerboseHospitalityLoggingDesc>Escribe diagnósticos adicionales sobre llegadas de huéspedes, camas, lord y salidas de Hospitality.</JDB_SpaceServices_Settings_VerboseHospitalityLoggingDesc>
+  <!-- EN: Auto-extract fallback -->
+  <JDB_SpaceServices_Settings_AutoExtract>Extracción automática de respaldo</JDB_SpaceServices_Settings_AutoExtract>
+  <!-- EN: Let Space Services recover service visitors that are ready to leave but get stuck outside the normal departure path. -->
+  <JDB_SpaceServices_Settings_AutoExtractDesc>Permite a Servicios Espaciales recuperar a los visitantes de servicio que estén listos para marcharse pero se hayan quedado atascados fuera de la ruta normal de salida.</JDB_SpaceServices_Settings_AutoExtractDesc>
+  <!-- EN: Hospital support -->
+  <JDB_SpaceServices_Settings_Hospital>Compatibilidad con Hospital</JDB_SpaceServices_Settings_Hospital>
+  <!-- EN: Enable space-map handling for Hospital patient arrivals and departures. Disabling passes native Hospital behavior through immediately; enabling after startup may require a restart. -->
+  <JDB_SpaceServices_Settings_HospitalDesc>Habilita la gestión de mapas espaciales para las llegadas y salidas de pacientes de Hospital. Al desactivarlo, se utiliza el comportamiento nativo de Hospital de inmediato; activarlo tras iniciar el juego puede requerir reiniciar.</JDB_SpaceServices_Settings_HospitalDesc>
+  <!-- EN: Restrict Hospital patients to care -->
+  <JDB_SpaceServices_Settings_HospitalCareMode>Restringir pacientes de Hospital a cuidados</JDB_SpaceServices_Settings_HospitalCareMode>
+  <!-- EN: Default on. Keeps active Hospital patients on bed rest, tending, and feeding while Space Services is delaying departure for whitelisted diseases or blood loss. Turning this off can let long-term patients wander, recreate, or trigger discharge edge cases. -->
+  <JDB_SpaceServices_Settings_HospitalCareModeDesc>Activado por defecto. Mantiene a los pacientes activos de Hospital en reposo en cama, recibiendo tratamiento y alimentación mientras Servicios Espaciales retrasa la salida por enfermedades en la lista permitida o pérdida de sangre. Desactivar esto puede permitir que los pacientes de larga estancia deambulen, se diviertan o provoquen casos extremos en el alta.</JDB_SpaceServices_Settings_HospitalCareModeDesc>
+  <!-- EN: Hospitality support -->
+  <JDB_SpaceServices_Settings_Hospitality>Compatibilidad con Hospitality</JDB_SpaceServices_Settings_Hospitality>
+  <!-- EN: Enable space-map handling for Hospitality guest arrivals and departures. Disabling passes native Hospitality behavior through immediately; enabling after startup may require a restart. -->
+  <JDB_SpaceServices_Settings_HospitalityDesc>Habilita la gestión de mapas espaciales para las llegadas y salidas de huéspedes de Hospitality. Al desactivarlo, se utiliza el comportamiento nativo de Hospitality de inmediato; activarlo tras iniciar el juego puede requerir reiniciar.</JDB_SpaceServices_Settings_HospitalityDesc>
+  <!-- EN: Show Space Services tab -->
+  <JDB_SpaceServices_Settings_ShowSpaceServicesTab>Mostrar pestaña de Servicios Espaciales</JDB_SpaceServices_Settings_ShowSpaceServicesTab>
+  <!-- EN: Show the Space Services bottom tab while replacing the native Hospital/Hospitality tabs. Disabling only hides the tab button; pads, arrivals, departures, alerts, and integration behavior continue to run. -->
+  <JDB_SpaceServices_Settings_ShowSpaceServicesTabDesc>Muestra la pestaña inferior de Servicios Espaciales al reemplazar las pestañas nativas de Hospital/Hospitality. Al desactivarlo solo se oculta el botón de la pestaña; las plataformas, llegadas, salidas, alertas y el comportamiento de integración seguirán funcionando.</JDB_SpaceServices_Settings_ShowSpaceServicesTabDesc>
+  <!-- EN: Replace Hospital/Hospitality tabs -->
+  <JDB_SpaceServices_Settings_ReplaceExternalTabs>Reemplazar pestañas de Hospital/Hospitality</JDB_SpaceServices_Settings_ReplaceExternalTabs>
+  <!-- EN: Hide the native Hospital and Hospitality bottom tabs and use the Space Services tab as the combined entry point. Disable this to show native tabs instead. -->
+  <JDB_SpaceServices_Settings_ReplaceExternalTabsDesc>Oculta las pestañas inferiores nativas de Hospital y Hospitality y utiliza la pestaña de Servicios Espaciales como punto de acceso unificado. Desactiva esto para mostrar las pestañas nativas en su lugar.</JDB_SpaceServices_Settings_ReplaceExternalTabsDesc>
+  <!-- EN: Show medical pad overlay without Hospitality -->
+  <JDB_SpaceServices_Settings_ShowHospitalFallbackPadOverlay>Mostrar superposición médica en plataforma sin Hospitality</JDB_SpaceServices_Settings_ShowHospitalFallbackPadOverlay>
+  <!-- EN: Draw the medical cross on service pads that fall back to Hospital-only mode because Hospitality is unavailable. -->
+  <JDB_SpaceServices_Settings_ShowHospitalFallbackPadOverlayDesc>Dibuja la cruz médica en las plataformas de servicio que pasan al modo exclusivo de Hospital debido a que Hospitality no está disponible.</JDB_SpaceServices_Settings_ShowHospitalFallbackPadOverlayDesc>
+  <!-- EN: Show Hospitality pad overlay without Hospital -->
+  <JDB_SpaceServices_Settings_ShowHospitalityFallbackPadOverlay>Mostrar superposición de Hospitality en plataforma sin Hospital</JDB_SpaceServices_Settings_ShowHospitalityFallbackPadOverlay>
+  <!-- EN: Draw the guest overlay on service pads that fall back to Hospitality-only mode because Hospital is unavailable. Default off. -->
+  <JDB_SpaceServices_Settings_ShowHospitalityFallbackPadOverlayDesc>Dibuja la superposición de huéspedes en las plataformas de servicio que pasan al modo exclusivo de Hospitality debido a que Hospital no está disponible. Desactivado por defecto.</JDB_SpaceServices_Settings_ShowHospitalityFallbackPadOverlayDesc>
+  <!-- EN: Require free guest beds for Hospitality arrivals -->
+  <JDB_SpaceServices_Settings_HospitalityRequireBeds>Requerir camas de huéspedes libres para llegadas de Hospitality</JDB_SpaceServices_Settings_HospitalityRequireBeds>
+  <!-- EN: Block new Hospitality guest groups unless enough free guest beds are available. -->
+  <JDB_SpaceServices_Settings_HospitalityRequireBedsDesc>Bloquea nuevos grupos de huéspedes de Hospitality a menos que haya suficientes camas de huéspedes libres disponibles.</JDB_SpaceServices_Settings_HospitalityRequireBedsDesc>
+  <!-- EN: Auto-depart Hospitality guests without beds -->
+  <JDB_SpaceServices_Settings_HospitalityAutoDepartBedless>Salida automática de huéspedes de Hospitality sin cama</JDB_SpaceServices_Settings_HospitalityAutoDepartBedless>
+  <!-- EN: After a grace period, send away Hospitality guests who cannot find usable guest beds. -->
+  <JDB_SpaceServices_Settings_HospitalityAutoDepartBedlessDesc>Tras un periodo de gracia, despide a los huéspedes de Hospitality que no puedan encontrar camas de huéspedes utilizables.</JDB_SpaceServices_Settings_HospitalityAutoDepartBedlessDesc>
+  <!-- EN: Hospitality vacuum guard (fallback, tick-based) -->
+  <JDB_SpaceServices_Settings_HospitalityVacuumGuard>Protección de vacío para Hospitality (respaldo, por ticks)</JDB_SpaceServices_Settings_HospitalityVacuumGuard>
+  <!-- EN: Fallback safety net for interrupting Hospitality guests who try to walk through unsafe vacuum during their stay. Recommended off for normal play; use Hospitality guest areas to keep guests inside safe rooms instead. Arrival and departure transfers still get short Space Services safety handling when this is off. -->
+  <JDB_SpaceServices_Settings_HospitalityVacuumGuardDesc>Red de seguridad de respaldo para interrumpir a los huéspedes de Hospitality que intenten caminar por el vacío peligroso durante su estancia. Recomendado desactivar para partidas normales; en su lugar, usa las áreas de huéspedes de Hospitality para mantener a los huéspedes en habitaciones seguras. Los traslados de llegada y salida aún reciben una breve gestión de seguridad de Servicios Espaciales cuando esto está desactivado.</JDB_SpaceServices_Settings_HospitalityVacuumGuardDesc>
+  <!-- EN: Space Hospitality fallback visits (use if Hospitality is not spawning guests) -->
+  <JDB_SpaceServices_Settings_HospitalityFallbackScheduler>Visitas de respaldo de Space Hospitality (usar si Hospitality no genera huéspedes)</JDB_SpaceServices_Settings_HospitalityFallbackScheduler>
+  <!-- EN: Schedule Space Services visitor groups directly when Hospitality's normal space-map incident flow is not producing guests. -->
+  <JDB_SpaceServices_Settings_HospitalityFallbackSchedulerDesc>Programa grupos de visitantes de Servicios Espaciales directamente cuando el flujo normal de incidentes en mapas espaciales de Hospitality no genere huéspedes.</JDB_SpaceServices_Settings_HospitalityFallbackSchedulerDesc>
+  <!-- EN: Fallback visit interval: {0} days -->
+  <JDB_SpaceServices_Settings_HospitalityFallbackInterval>Intervalo de visitas de respaldo: {0} días</JDB_SpaceServices_Settings_HospitalityFallbackInterval>
+  <!-- EN: Base interval for fallback Hospitality visits when traffic-rate override is disabled. Snaps to 0.25 day steps. -->
+  <JDB_SpaceServices_Settings_HospitalityFallbackIntervalDesc>Intervalo base para las visitas de respaldo de Hospitality cuando la anulación de tasa de tráfico está desactivada. Se ajusta en pasos de 0.25 días.</JDB_SpaceServices_Settings_HospitalityFallbackIntervalDesc>
+  <!-- EN: Override service traffic rates -->
+  <JDB_SpaceServices_Settings_TrafficRateOverride>Anular tasas de tráfico del servicio</JDB_SpaceServices_Settings_TrafficRateOverride>
+  <!-- EN: Use deterministic service-rate limits instead of the raw incident cadence. For example, at 0.25x, every fourth eligible attempt is allowed. Hospital and Hospitality also share a one-hour arrival spacing. -->
+  <JDB_SpaceServices_Settings_TrafficRateOverrideDesc>Usa límites deterministas de tasas de servicio en lugar de la cadencia de incidentes sin procesar. Por ejemplo, a 0.25x, se permite cada cuatro intentos válidos. Hospital y Hospitality también comparten un intervalo de llegada de una hora.</JDB_SpaceServices_Settings_TrafficRateOverrideDesc>
+  <!-- EN: Hospital patient traffic: {0}x -->
+  <JDB_SpaceServices_Settings_HospitalPatientTrafficRate>Tráfico de pacientes de Hospital: {0}x</JDB_SpaceServices_Settings_HospitalPatientTrafficRate>
+  <!-- EN: Deterministic rate for normal Hospital patient arrivals. 0.00 blocks new arrivals; existing patients can still leave. -->
+  <JDB_SpaceServices_Settings_HospitalPatientTrafficRateDesc>Tasa determinista para llegadas normales de pacientes de Hospital. 0.00 bloquea nuevas llegadas; los pacientes existentes aún pueden salir.</JDB_SpaceServices_Settings_HospitalPatientTrafficRateDesc>
+  <!-- EN: Hospital mass casualty traffic: {0}x -->
+  <JDB_SpaceServices_Settings_HospitalMassCasualtyTrafficRate>Tráfico de bajas masivas de Hospital: {0}x</JDB_SpaceServices_Settings_HospitalMassCasualtyTrafficRate>
+  <!-- EN: Deterministic rate for Hospital mass casualty arrivals. 0.00 blocks new mass casualties. -->
+  <JDB_SpaceServices_Settings_HospitalMassCasualtyTrafficRateDesc>Tasa determinista para llegadas de bajas masivas de Hospital. 0.00 bloquea nuevas bajas masivas.</JDB_SpaceServices_Settings_HospitalMassCasualtyTrafficRateDesc>
+  <!-- EN: Hospitality visitor traffic: {0}x -->
+  <JDB_SpaceServices_Settings_HospitalityVisitorTrafficRate>Tráfico de visitantes de Hospitality: {0}x</JDB_SpaceServices_Settings_HospitalityVisitorTrafficRate>
+  <!-- EN: Deterministic rate for native Hospitality visitor incidents, and interval scaler for fallback visits. -->
+  <JDB_SpaceServices_Settings_HospitalityVisitorTrafficRateDesc>Tasa determinista para incidentes nativos de visitantes de Hospitality y multiplicador de intervalo para visitas de respaldo.</JDB_SpaceServices_Settings_HospitalityVisitorTrafficRateDesc>
+  <!-- EN: Hospitality fallback interval is scaled by visitor traffic rate while override is enabled. -->
+  <JDB_SpaceServices_Settings_HospitalityFallbackRateNote>El intervalo de respaldo de Hospitality se escala según la tasa de tráfico de visitantes mientras la anulación esté activada.</JDB_SpaceServices_Settings_HospitalityFallbackRateNote>
+  <!-- EN: Allow sealed non-vacsuit arrivals -->
+  <JDB_SpaceServices_Settings_SealedNoSuit>Permitir llegadas selladas sin traje de vacío</JDB_SpaceServices_Settings_SealedNoSuit>
+  <!-- EN: Allow arrivals without forced vacsuits when the selected service pad is in a safe sealed environment. Most sealed arrivals will have Space Services-added or plain Odyssey vacsuits removed; some suited traffic is still kept for variety. -->
+  <JDB_SpaceServices_Settings_SealedNoSuitDesc>Permite llegadas sin trajes de vacío obligatorios cuando la plataforma de servicio seleccionada esté en un entorno sellado y seguro. A la mayoría de las llegadas selladas se les retirarán los trajes de vacío añadidos por Servicios Espaciales o los trajes simples de Odyssey; se mantiene algo de tráfico con traje para mayor variedad.</JDB_SpaceServices_Settings_SealedNoSuitDesc>
+  <!-- EN: Allow modded shuttle visuals -->
+  <JDB_SpaceServices_Settings_ModdedShuttleVisuals>Permitir aspectos de lanzaderas con mods</JDB_SpaceServices_Settings_ModdedShuttleVisuals>
+  <!-- EN: Include shuttle visuals from optional non-Ludeon mods in the random service shuttle pool. Disable this to use only built-in vanilla/Odyssey-style visuals. -->
+  <JDB_SpaceServices_Settings_ModdedShuttleVisualsDesc>Incluye los aspectos de lanzaderas de mods opcionales no oficiales en el grupo aleatorio de lanzaderas de servicio. Desactiva esto para usar únicamente los aspectos integrados vainilla o de estilo Odyssey.</JDB_SpaceServices_Settings_ModdedShuttleVisualsDesc>
+  <!-- EN: Disable patients' gambling addictions -->
+  <JDB_SpaceServices_Settings_DisablePatientGamblingAddictions>Desactivar adicciones al juego de los pacientes</JDB_SpaceServices_Settings_DisablePatientGamblingAddictions>
+  <!-- EN: Stops patients from gambling while bedridden. This may reduce immersion for colonies with advanced libertarian healthcare. -->
+  <JDB_SpaceServices_Settings_DisablePatientGamblingAddictionsDesc>Evita que los pacientes jueguen por dinero mientras están postrados en cama. Esto puede reducir la inmersión en colonias con un sistema de salud libertario avanzado.</JDB_SpaceServices_Settings_DisablePatientGamblingAddictionsDesc>
+  <!-- EN: Block scaria on Hospital surgery patients -->
+  <JDB_SpaceServices_Settings_BlockHospitalSurgeryScaria>Bloquear escaria en pacientes de cirugía de Hospital</JDB_SpaceServices_Settings_BlockHospitalSurgeryScaria>
+  <!-- EN: Default on. Removes scaria from Space Services-routed Hospital surgery patients so Hospital does not create amputation cases that leave the patient berserk and difficult to treat. -->
+  <JDB_SpaceServices_Settings_BlockHospitalSurgeryScariaDesc>Activado por defecto. Elimina la escaria de los pacientes de cirugía de Hospital enrutados por Servicios Espaciales para que Hospital no cree casos de amputación que dejen al paciente en estado bersérker y sea difícil de tratar.</JDB_SpaceServices_Settings_BlockHospitalSurgeryScariaDesc>
+  <!-- EN: Hold failed surgery patients for aftercare -->
+  <JDB_SpaceServices_Settings_HoldFailedSurgeryAftercare>Retener pacientes de cirugía fallida para cuidados posteriores</JDB_SpaceServices_Settings_HoldFailedSurgeryAftercare>
+  <!-- EN: Default on. If Hospital drops a spawned Space Services surgery patient after a failed operation while they still need urgent care, keep them as a Hospital patient instead of immediately routing them to departure. -->
+  <JDB_SpaceServices_Settings_HoldFailedSurgeryAftercareDesc>Activado por defecto. Si Hospital descarta a un paciente de cirugía de Servicios Espaciales generado tras una operación fallida mientras aún necesita atención urgente, lo mantiene como paciente de Hospital en lugar de enviarlo de inmediato a la salida.</JDB_SpaceServices_Settings_HoldFailedSurgeryAftercareDesc>
+  <!-- EN: Block Casino visitors on space and sky islands -->
+  <JDB_SpaceServices_Settings_BlockCasinoVisitors>Bloquear visitantes de Casino en el espacio e islas celestes</JDB_SpaceServices_Settings_BlockCasinoVisitors>
+  <!-- EN: Default on. Prevents Hospitality: Casino's independent map-edge visitor group from spawning on space and atmospheric or sky-island maps. These visitors do not use Hospitality or Space Services shuttles. -->
+  <JDB_SpaceServices_Settings_BlockCasinoVisitorsDesc>Activado por defecto. Evita que el grupo independiente de visitantes del borde del mapa de Hospitality: Casino aparezca en mapas espaciales, atmosféricos o de islas celestes. Estos visitantes no utilizan las lanzaderas de Hospitality ni de Servicios Espaciales.</JDB_SpaceServices_Settings_BlockCasinoVisitorsDesc>
+  <!-- EN: Block VGE asteroid shower on service maps -->
+  <JDB_SpaceServices_Settings_BlockVGEAsteroidShower>Bloquear lluvia de asteroides de VGE en mapas de servicio</JDB_SpaceServices_Settings_BlockVGEAsteroidShower>
+  <!-- EN: Prevents Vanilla Gravship Expanded - Chapter 1's asteroid shower incident from firing on eligible stationary Space Services maps. El evento can destroy static bases and has no practical counter for that use case. -->
+  <JDB_SpaceServices_Settings_BlockVGEAsteroidShowerDesc>Evita que el incidente de lluvia de asteroides de Vanilla Gravship Expanded - Chapter 1 se active en mapas estacionarios aptos de Servicios Espaciales. El evento puede destruir bases estáticas y no tiene una contrapartida práctica para ese caso de uso.</JDB_SpaceServices_Settings_BlockVGEAsteroidShowerDesc>
+  <!-- EN: Groundside service pads -->
+  <JDB_SpaceServices_Settings_GroundsideServicePads>Plataformas de servicio terrestres</JDB_SpaceServices_Settings_GroundsideServicePads>
+  <!-- EN: Experimental. Allows normal planet maps with service landing pads to use the same pad pipeline for Hospital and Hospitality traffic. Does not make the map a space map, and does not enable vacuum gear, space hazards, or space-layer handling. Some modlists may still expect normal map-edge arrivals and departures, so use at your own risk. -->
+  <JDB_SpaceServices_Settings_GroundsideServicePadsDesc>Experimental. Permite que los mapas planetarios normales con plataformas de aterrizaje de servicio utilicen el mismo sistema de plataformas para el tráfico de Hospital y Hospitality. No convierte el mapa en un mapa espacial ni activa equipo de vacío, peligros espaciales o gestión de capas espaciales. Algunas listas de mods aún pueden esperar llegadas y salidas normales por el borde del mapa, así que úsalo bajo tu propio riesgo.</JDB_SpaceServices_Settings_GroundsideServicePadsDesc>
+  <!-- EN: Groundside Hospitality shuttle share: {0}% -->
+  <JDB_SpaceServices_Settings_GroundsideHospitalityShuttleShare>Proporción de lanzaderas terrestres de Hospitality: {0}%</JDB_SpaceServices_Settings_GroundsideHospitalityShuttleShare>
+  <!-- EN: Chance for a groundside Hospitality visitor group to use Space Services pad arrival and departure instead of normal Hospitality map-edge behavior. Native-selected visitors are not managed by Space Services. -->
+  <JDB_SpaceServices_Settings_GroundsideHospitalityShuttleShareDesc>Probabilidad de que un grupo de visitantes terrestres de Hospitality use la llegada y salida por plataforma de Servicios Espaciales en lugar del comportamiento normal del borde del mapa de Hospitality. Los visitantes seleccionados de forma nativa no son gestionados por Servicios Espaciales.</JDB_SpaceServices_Settings_GroundsideHospitalityShuttleShareDesc>
+  <!-- EN: MedPod service-pawn bridge -->
+  <JDB_SpaceServices_Settings_MedPodBridge>Puente de peones de servicio de MedPod</JDB_SpaceServices_Settings_MedPodBridge>
+  <!-- EN: Experimental and TPS-heavy. Lets MedPod accept active Hospital patients and Hospitality guests on service maps even when their hidden medical-care level is below MedPod's normal threshold. Occupied MedPods can heavily reduce TPS; this is not recommended for normal colony or service use unless you accept that cost. -->
+  <JDB_SpaceServices_Settings_MedPodBridgeDesc>Experimental y con gran impacto en los TPS. Permite que MedPod acepte pacientes activos de Hospital y huéspedes de Hospitality en mapas de servicio incluso cuando su nivel oculto de atención médica esté por debajo del umbral normal de MedPod. Los MedPods ocupados pueden reducir drásticamente los TPS; no se recomienda para colonias normales ni para uso habitual del servicio a menos que aceptes ese coste.</JDB_SpaceServices_Settings_MedPodBridgeDesc>
+  <!-- EN: Hospitality: Room Service integration -->
+  <JDB_SpaceServices_Settings_RoomServiceExperimentalSupport>Integración con Hospitality: Room Service</JDB_SpaceServices_Settings_RoomServiceExperimentalSupport>
+  <!-- EN: Initial experimental support, default on. For Space Services-tracked Hospitality guests only, suppresses Room Service's guest-to-Hospital conversion and special surgery offers because their patient lifecycle is not yet safe for service shuttles. Also stops new companionship solicitation once shuttle departure begins. Ordinary untracked Hospitality guests are unaffected. -->
+  <JDB_SpaceServices_Settings_RoomServiceExperimentalSupportDesc>Soporte experimental inicial, activado por defecto. Solo para huéspedes de Hospitality rastreados por Servicios Espaciales, suprime la conversión de huésped a Hospital y las ofertas especiales de cirugía de Room Service porque su ciclo de vida de paciente aún no es seguro para las lanzaderas de servicio. También detiene nuevas solicitudes de compañía una vez que comienza la salida de la lanzadera. Los huéspedes comunes de Hospitality no rastreados no se ven afectados.</JDB_SpaceServices_Settings_RoomServiceExperimentalSupportDesc>
+  <!-- EN: Guest is staging for service-shuttle departure. -->
+  <JDB_SpaceServices_RoomService_DepartingGuest>El huésped se está preparando para la salida de la lanzadera de servicio.</JDB_SpaceServices_RoomService_DepartingGuest>
+  <!-- EN: Suppress mass casualty pre-drop effects -->
+  <JDB_SpaceServices_Settings_SuppressMassCasualtyPreDropEffects>Suprimir efectos previos al aterrizaje de bajas masivas</JDB_SpaceServices_Settings_SuppressMassCasualtyPreDropEffects>
+  <!-- EN: Experimental. Hides Hospital's early wound filth and mote effects while mass-casualty pawns are being packed into drop pods, before the pods visibly land. Requires a restart to take effect. -->
+  <JDB_SpaceServices_Settings_SuppressMassCasualtyPreDropEffectsDesc>Experimental. Oculta los efectos de suciedad de heridas tempranas y motas de Hospital mientras los peones de bajas masivas son cargados en cápsulas de escape, antes de que las cápsulas aterricen visiblemente. Requiere reiniciar para surtir efecto.</JDB_SpaceServices_Settings_SuppressMassCasualtyPreDropEffectsDesc>
+
+  <!-- EN: Space Services: for Hospitality guests in space, set Hospitality's map settings accommodation/visitor area to a sealed, safe guest area near your service pad. -->
+  <JDB_SpaceServices_Message_HospitalityGuestAreaTip>Servicios Espaciales: para los huéspedes de Hospitality en el espacio, establece en la configuración del mapa de Hospitality el área de alojamiento/visitantes en un área de huéspedes sellada y segura cerca de tu plataforma de servicio.</JDB_SpaceServices_Message_HospitalityGuestAreaTip>
+  <!-- EN: Space Services pad destroyed -->
+  <JDB_SpaceServices_Letter_ServicePadDestroyed_Label>Plataforma de Servicios Espaciales destruida</JDB_SpaceServices_Letter_ServicePadDestroyed_Label>
+  <!-- EN: A service landing pad was destroyed. Service patients or guests may be unable to arrive or depart until another eligible pad is available. -->
+  <JDB_SpaceServices_Letter_ServicePadDestroyed_Text>Una plataforma de aterrizaje de servicio ha sido destruida. Es posible que los pacientes o huéspedes del servicio no puedan llegar ni marcharse hasta que haya otra plataforma apta disponible.</JDB_SpaceServices_Letter_ServicePadDestroyed_Text>
+
+  <!-- EN: Hospital only -->
+  <JDB_SpaceServices_Gizmo_ModeHospitalOnly>Solo Hospital</JDB_SpaceServices_Gizmo_ModeHospitalOnly>
+  <!-- EN: Use this pad only for Hospital patient arrivals and departures. -->
+  <JDB_SpaceServices_Gizmo_ModeHospitalOnlyDesc>Usa esta plataforma únicamente para llegadas y salidas de pacientes de Hospital.</JDB_SpaceServices_Gizmo_ModeHospitalOnlyDesc>
+  <!-- EN: Hospitality only -->
+  <JDB_SpaceServices_Gizmo_ModeHospitalityOnly>Solo Hospitality</JDB_SpaceServices_Gizmo_ModeHospitalityOnly>
+  <!-- EN: Use this pad only for Hospitality guest arrivals and departures. -->
+  <JDB_SpaceServices_Gizmo_ModeHospitalityOnlyDesc>Usa esta plataforma únicamente para llegadas y salidas de huéspedes de Hospitality.</JDB_SpaceServices_Gizmo_ModeHospitalityOnlyDesc>
+  <!-- EN: Shared -->
+  <JDB_SpaceServices_Gizmo_ModeShared>Compartida</JDB_SpaceServices_Gizmo_ModeShared>
+  <!-- EN: Use this pad for Hospital and Hospitality traffic without preferring either service. -->
+  <JDB_SpaceServices_Gizmo_ModeSharedDesc>Usa esta plataforma para el tráfico de Hospital y Hospitality sin dar preferencia a ningún servicio.</JDB_SpaceServices_Gizmo_ModeSharedDesc>
+  <!-- EN: Hospital priority -->
+  <JDB_SpaceServices_Gizmo_ModeHospitalPriority>Prioridad Hospital</JDB_SpaceServices_Gizmo_ModeHospitalPriority>
+  <!-- EN: Use this pad for Hospital and Hospitality traffic, preferring Hospital patients. -->
+  <JDB_SpaceServices_Gizmo_ModeHospitalPriorityDesc>Usa esta plataforma para el tráfico de Hospital y Hospitality, dando preferencia a los pacientes de Hospital.</JDB_SpaceServices_Gizmo_ModeHospitalPriorityDesc>
+  <!-- EN: Hospitality priority -->
+  <JDB_SpaceServices_Gizmo_ModeHospitalityPriority>Prioridad Hospitality</JDB_SpaceServices_Gizmo_ModeHospitalityPriority>
+  <!-- EN: Use this pad for Hospital and Hospitality traffic, preferring Hospitality guests. -->
+  <JDB_SpaceServices_Gizmo_ModeHospitalityPriorityDesc>Usa esta plataforma para el tráfico de Hospital y Hospitality, dando preferencia a los huéspedes de Hospitality.</JDB_SpaceServices_Gizmo_ModeHospitalityPriorityDesc>
+  <!-- EN: Departures only -->
+  <JDB_SpaceServices_Gizmo_ModeDeparturesOnly>Solo salidas</JDB_SpaceServices_Gizmo_ModeDeparturesOnly>
+  <!-- EN: Let existing Hospital patients and Hospitality guests leave through this pad, but block new arrivals from choosing it. -->
+  <JDB_SpaceServices_Gizmo_ModeDeparturesOnlyDesc>Permite que los pacientes de Hospital y huéspedes de Hospitality existentes salgan por esta plataforma, pero impide que las nuevas llegadas la elijan.</JDB_SpaceServices_Gizmo_ModeDeparturesOnlyDesc>
+  <!-- EN: Report service map status -->
+  <JDB_SpaceServices_Gizmo_ReportMap>Informar estado del mapa de servicio</JDB_SpaceServices_Gizmo_ReportMap>
+  <!-- EN: Write the current map's Space Services eligibility reasons to the log. -->
+  <JDB_SpaceServices_Gizmo_ReportMapDesc>Escribe en el registro los motivos de aptitud de Servicios Espaciales del mapa actual.</JDB_SpaceServices_Gizmo_ReportMapDesc>
+  <!-- EN: DEV: Clear pad reservation -->
+  <JDB_SpaceServices_Gizmo_ClearPadReservation>DES: Limpiar reserva de plataforma</JDB_SpaceServices_Gizmo_ClearPadReservation>
+  <!-- EN: Clear only this selected pad's current Space Services reservation. -->
+  <JDB_SpaceServices_Gizmo_ClearPadReservationDesc>Limpia únicamente la reserva actual de Servicios Espaciales de esta plataforma seleccionada.</JDB_SpaceServices_Gizmo_ClearPadReservationDesc>
+  <!-- EN: DEV: Force surgery failure -->
+  <JDB_SpaceServices_Gizmo_DebugForceSurgeryFailure>DES: Forzar fallo de cirugía</JDB_SpaceServices_Gizmo_DebugForceSurgeryFailure>
+  <!-- EN: Simulate Hospital dropping this tracked surgery patient after a failed operation, while leaving the pawn spawned for Space Services departure testing. -->
+  <JDB_SpaceServices_Gizmo_DebugForceSurgeryFailureDesc>Simula que Hospital descarta a este paciente de cirugía rastreado tras una operación fallida, dejando al peón generado para pruebas de salida de Servicios Espaciales.</JDB_SpaceServices_Gizmo_DebugForceSurgeryFailureDesc>
+
+  <!-- EN: Space Services -->
+  <JDB_SpaceServices_Panel_Title>Servicios Espaciales</JDB_SpaceServices_Panel_Title>
+  <!-- EN: No current map. -->
+  <JDB_SpaceServices_Panel_NoMap>No hay mapa actual.</JDB_SpaceServices_Panel_NoMap>
+  <!-- EN: Map: {0} -->
+  <JDB_SpaceServices_Panel_MapStatus>Mapa: {0}</JDB_SpaceServices_Panel_MapStatus>
+  <!-- EN: Service pads: {0} total, {1} accepting patients, {2} accepting guests -->
+  <JDB_SpaceServices_Panel_Pads>Plataformas de servicio: {0} en total, {1} aceptando pacientes, {2} aceptando huéspedes</JDB_SpaceServices_Panel_Pads>
+  <!-- EN: Hospital: {0} tracked groups, {1} tracked patients -->
+  <JDB_SpaceServices_Panel_HospitalSummary>Hospital: {0} grupos rastreados, {1} pacientes rastreados</JDB_SpaceServices_Panel_HospitalSummary>
+  <!-- EN: Hospitality: {0} tracked groups, {1} tracked guests -->
+  <JDB_SpaceServices_Panel_HospitalitySummary>Hospitality: {0} grupos rastreados, {1} huéspedes rastreados</JDB_SpaceServices_Panel_HospitalitySummary>
+  <!-- EN: Native panels -->
+  <JDB_SpaceServices_Panel_NativePanels>Paneles nativos</JDB_SpaceServices_Panel_NativePanels>
+  <!-- EN: Open Hospital -->
+  <JDB_SpaceServices_Panel_OpenHospital>Abrir Hospital</JDB_SpaceServices_Panel_OpenHospital>
+  <!-- EN: Open Hospitality -->
+  <JDB_SpaceServices_Panel_OpenHospitality>Abrir Hospitality</JDB_SpaceServices_Panel_OpenHospitality>
+  <!-- EN: Debug limits -->
+  <JDB_SpaceServices_Panel_DebugLimits>Límites de depuración</JDB_SpaceServices_Panel_DebugLimits>
+  <!-- EN: Hospital patient limit: {0} -->
+  <JDB_SpaceServices_Panel_HospitalPatientLimit>Límite de pacientes de Hospital: {0}</JDB_SpaceServices_Panel_HospitalPatientLimit>
+  <!-- EN: Debug-only cap for tracked Hospital patients. Minimum blocks new patients; maximum removes the cap. -->
+  <JDB_SpaceServices_Panel_HospitalPatientLimitDesc>Límite solo para depuración de pacientes de Hospital rastreados. El mínimo bloquea nuevos pacientes; el máximo elimina el límite.</JDB_SpaceServices_Panel_HospitalPatientLimitDesc>
+  <!-- EN: Hospitality group limit: {0} -->
+  <JDB_SpaceServices_Panel_HospitalityGroupLimit>Límite de grupos de Hospitality: {0}</JDB_SpaceServices_Panel_HospitalityGroupLimit>
+  <!-- EN: Debug-only cap for tracked Hospitality guest groups. Minimum blocks new groups; maximum removes the cap. -->
+  <JDB_SpaceServices_Panel_HospitalityGroupLimitDesc>Límite solo para depuración de grupos de huéspedes de Hospitality rastreados. El mínimo bloquea nuevos grupos; el máximo elimina el límite.</JDB_SpaceServices_Panel_HospitalityGroupLimitDesc>
+  <!-- EN: Hospitality guest limit: {0} -->
+  <JDB_SpaceServices_Panel_HospitalityPawnLimit>Límite de huéspedes de Hospitality: {0}</JDB_SpaceServices_Panel_HospitalityPawnLimit>
+  <!-- EN: Debug-only cap for tracked Hospitality guest pawns. Minimum blocks new guests; maximum removes the cap. -->
+  <JDB_SpaceServices_Panel_HospitalityPawnLimitDesc>Límite solo para depuración de peones huéspedes de Hospitality rastreados. El mínimo bloquea nuevos huéspedes; el máximo elimina el límite.</JDB_SpaceServices_Panel_HospitalityPawnLimitDesc>
+  <!-- EN: Debug recovery -->
+  <JDB_SpaceServices_Panel_DebugActions>Recuperación de depuración</JDB_SpaceServices_Panel_DebugActions>
+  <!-- EN: Report map status -->
+  <JDB_SpaceServices_Panel_ReportMap>Informar estado del mapa</JDB_SpaceServices_Panel_ReportMap>
+  <!-- EN: Clear reservations -->
+  <JDB_SpaceServices_Panel_ClearReservations>Limpiar reservas</JDB_SpaceServices_Panel_ClearReservations>
+  <!-- EN: Remove shuttles -->
+  <JDB_SpaceServices_Panel_RemoveShuttles>Eliminar lanzaderas</JDB_SpaceServices_Panel_RemoveShuttles>
+  <!-- EN: Reset service traffic -->
+  <JDB_SpaceServices_Panel_ResetTraffic>Restablecer tráfico de servicio</JDB_SpaceServices_Panel_ResetTraffic>
+</LanguageData>
