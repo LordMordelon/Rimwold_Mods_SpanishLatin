@@ -108,8 +108,8 @@
   
   <!-- EN: anonymity -->
   <VME_Anonymity.label>anonimato</VME_Anonymity.label>
-  <!-- EN: It is better not to know your own kind and remain distant.\n\n&lt;color=#E5E54C&gt;Gameplay effect:&lt;/color&gt;\n - Anonymity severely affects both prisoner and slave interactions: wardens with the anonymity meme will get angry when they have to interact with prisoners. Slaves with the anonymity meme can't be suppressed by wardens, as they will ignore the social interaction. Long story short, don't use an ideo with this meme if you are planning on having lots of prisoners or slaves! -->
-  <VME_Anonymity.description>Es mejor no conocer a los de tu propia especie y permanecer distante.\n\n&lt;color=#E5E54C&gt;Efecto en el juego:&lt;/color&gt;\n - El anonimato afecta gravemente tanto a las interacciones con prisioneros como con esclavos: los guardias con el meme de anonimato se enfadarán cuando tengan que interactuar con prisioneros. Los esclavos con el meme de anonimato no pueden ser reprimidos por los guardias, ya que ignorarán la interacción social. En resumen, ¡no uses una ideo con este meme si planeas tener muchos prisioneros o esclavos!</VME_Anonymity.description>
+  <!-- EN: It is better not to know your own kind and remain distant.\n\n<color=#E5E54C>Gameplay effect:</color>\n - Anonymity severely affects both prisoner and slave interactions: wardens with the anonymity meme will get angry when they have to interact with prisoners. Slaves with the anonymity meme can't be suppressed by wardens, as they will ignore the social interaction. Long story short, don't use an ideo with this meme if you are planning on having lots of prisoners or slaves! -->
+  <VME_Anonymity.description>Es mejor no conocer a los de tu propia especie y permanecer distante.\n\n&lt;color=#E5E54C>Efecto en el juego:&lt;/color>\n - El anonimato afecta gravemente tanto a las interacciones con prisioneros como con esclavos: los guardias con el meme de anonimato se enfadarán cuando tengan que interactuar con prisioneros. Los esclavos con el meme de anonimato no pueden ser reprimidos por los guardias, ya que ignorarán la interacción social. En resumen, ¡no uses una ideo con este meme si planeas tener muchos prisioneros o esclavos!</VME_Anonymity.description>
   <!-- EN:
     <li>creation(tag=meme_Anonymity)        ->[deity0_name] didn't speak to [deity0_possessive] followers, and instead just looked at them sternly. They understood the need for complete silence.</li>
     <li>episode(uses=1,tag=meme_Anonymity)  ->[deity0_name]'s utter silence was interpreted as a portent, and we have stayed silent since then.</li>
@@ -2013,6 +2013,7 @@
     <li>memeMoralist->propagandist</li>
     <li>memeMoralist->regime advocate</li>
     <li>memeMoralist->campaigner</li>
+    <li>memeConcept->nationalism</li>
   -->
   <VME_Nationalist.generalRules.rulesStrings>
     <li>memeAdjective->firme</li>

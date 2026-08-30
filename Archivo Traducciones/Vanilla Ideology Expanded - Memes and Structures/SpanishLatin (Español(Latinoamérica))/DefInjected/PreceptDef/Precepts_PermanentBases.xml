@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: desired -->
   <VME_PermanentBases_Desired.label>deseadas</VME_PermanentBases_Desired.label>
-  <!-- EN: Our home should have many rooms and facilities, and we should never abandon it.\n\n&lt;color=#E5E54C&gt;Gameplay effect:&lt;/color&gt;\n - Colonists gets mood penalties / bonuses depending on amount of buildings on the map. "Building" is a completely enclosed structure with at least 25 tiles size. -->
-  <VME_PermanentBases_Desired.description>Nuestro hogar debe tener muchas habitaciones e instalaciones, y nunca debemos abandonarlo.\n\n&lt;color=#E5E54C&gt;Efecto de juego:&lt;/color&gt;\n - Los colonos obtienen penalizaciones / bonificaciones de humor dependiendo de la cantidad de edificios en el mapa. "Edificio" es una estructura completamente cerrada con al menos 25 casillas de tamaño.</VME_PermanentBases_Desired.description>
+  <!-- EN: Our home should have many rooms and facilities, and we should never abandon it.\n\n<color=#E5E54C>Gameplay effect:</color>\n - Colonists gets mood penalties / bonuses depending on amount of buildings on the map. "Building" is a completely enclosed structure with at least 25 tiles size. -->
+  <VME_PermanentBases_Desired.description>Nuestro hogar debe tener muchas habitaciones e instalaciones, y nunca debemos abandonarlo.\n\n&lt;color=#E5E54C>Efecto de juego:&lt;/color>\n - Los colonos obtienen penalizaciones / bonificaciones de humor dependiendo de la cantidad de edificios en el mapa. "Edificio" es una estructura completamente cerrada con al menos 25 casillas de tamaño.</VME_PermanentBases_Desired.description>
   <!-- EN: Magnificent city (more than 20 buildings) -->
   <VME_PermanentBases_Desired.comps.0.thoughtStageDescriptions.0>Ciudad magnífica (más de 20 edificios)</VME_PermanentBases_Desired.comps.0.thoughtStageDescriptions.0>
   <!-- EN: Lots of beautiful buildings (less than 20 buildings) -->
@@ -18,8 +18,8 @@
   
   <!-- EN: despised -->
   <VME_PermanentBases_Despised.label>despreciadas</VME_PermanentBases_Despised.label>
-  <!-- EN: Our home is only temporary, it's important to keep moving.\n\n&lt;color=#E5E54C&gt;Stats:&lt;/color&gt;\n - Farming yield: -10%.\n - Gathering yield: +40%.\n\n&lt;color=#E5E54C&gt;Gameplay effect:&lt;/color&gt;\n - This precept will only work when using the vanilla game world system. Vehicles for example won't interact with it. Using other mods such as Caravan Adventure to leave the map won't work either. You need to use vanilla systems. -->
-  <VME_PermanentBases_Despised.description>Nuestro hogar es solo temporal, es importante seguir moviéndose.\n\n&lt;color=#E5E54C&gt;Estadísticas:&lt;/color&gt;\n - Rendimiento agrícola: -10%.\n - Rendimiento de recolección: +40%.\n\n&lt;color=#E5E54C&gt;Efecto de juego:&lt;/color&gt;\n - Este precepto solo funcionará cuando se use el sistema de mundo del juego vanilla. Los vehículos, por ejemplo, no interactuarán con él. Usar otros mods como Caravan Adventure para salir del mapa tampoco funcionará. Necesitas usar sistemas vanilla.</VME_PermanentBases_Despised.description>
+  <!-- EN: Our home is only temporary, it's important to keep moving.\n\n<color=#E5E54C>Stats:</color>\n - Farming yield: -10%.\n - Gathering yield: +40%.\n\n<color=#E5E54C>Gameplay effect:</color>\n - This precept will only work when using the vanilla game world system. Vehicles for example won't interact with it. Using other mods such as Caravan Adventure to leave the map won't work either. You need to use vanilla systems. -->
+  <VME_PermanentBases_Despised.description>Nuestro hogar es solo temporal, es importante seguir moviéndose.\n\n&lt;color=#E5E54C>Estadísticas:&lt;/color>\n - Rendimiento agrícola: -10%.\n - Rendimiento de recolección: +40%.\n\n&lt;color=#E5E54C>Efecto de juego:&lt;/color>\n - Este precepto solo funcionará cuando se use el sistema de mundo del juego vanilla. Los vehículos, por ejemplo, no interactuarán con él. Usar otros mods como Caravan Adventure para salir del mapa tampoco funcionará. Necesitas usar sistemas vanilla.</VME_PermanentBases_Despised.description>
   <!-- EN: Wanderlust (15 days) -->
   <VME_PermanentBases_Despised.comps.0.thoughtStageDescriptions.0>Pasión por viajar (15 días)</VME_PermanentBases_Despised.comps.0.thoughtStageDescriptions.0>
   <!-- EN: Wanderlust (16 days) -->
