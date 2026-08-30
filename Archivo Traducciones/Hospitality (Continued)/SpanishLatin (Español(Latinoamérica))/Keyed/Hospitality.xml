@@ -1,329 +1,329 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
   <!-- Recruiting -->
   <!-- EN: {0} upset {1} {2}x in a row. -->
-  <RecruitAngerMultiple>TODO</RecruitAngerMultiple>
+  <RecruitAngerMultiple>{0} molestó a {1} {2} veces seguidas.</RecruitAngerMultiple>
   <!-- EN: {0} of {1} is upset with you for recruiting {2} ({3}). -->
-  <RecruitFactionAnger>TODO</RecruitFactionAnger>
+  <RecruitFactionAnger>{0} de {1} se ha molestado contigo por reclutar a {2} ({3}).</RecruitFactionAnger>
   <!-- EN: The members of {0} never heard back of their delegation ({2}). -->
-  <RecruitFactionAngerLeaderless>TODO</RecruitFactionAngerLeaderless>
+  <RecruitFactionAngerLeaderless>Los miembros de {0} nunca volvieron a saber de su delegación ({2}).</RecruitFactionAngerLeaderless>
   <!-- EN: {0} of {1} never heard back of this delegation ({2}). -->
-  <LostGroupFactionAnger>TODO</LostGroupFactionAnger>
+  <LostGroupFactionAnger>{0} de {1} nunca volvió a saber de esta delegación ({2}).</LostGroupFactionAnger>
   <!-- EN: The members of {0} are upset with you for recruiting ({1}). -->
-  <LostGroupFactionAngerLeaderless>TODO</LostGroupFactionAngerLeaderless>
+  <LostGroupFactionAngerLeaderless>Los miembros de {0} se han molestado contigo por reclutar ({1}).</LostGroupFactionAngerLeaderless>
   <!-- EN: {0} of {1} is glad that you took {2} off his hands ({3}). -->
-  <RecruitFactionPlease>TODO</RecruitFactionPlease>
+  <RecruitFactionPlease>{0} de {1} se alegra de que le hayas quitado de encima a {2} ({3}).</RecruitFactionPlease>
   <!-- EN: The members of {0} are glad that you took {1} off their hands ({2}). -->
-  <RecruitFactionPleaseLeaderless>TODO</RecruitFactionPleaseLeaderless>
+  <RecruitFactionPleaseLeaderless>Los miembros de {0} se alegran de que les hayas quitado de encima a {1} ({2}).</RecruitFactionPleaseLeaderless>
   <!-- EN: {0} happily decided to join your colony! -->
-  <MessageGuestRecruitSuccess>TODO</MessageGuestRecruitSuccess>
+  <MessageGuestRecruitSuccess>¡{0} ha decidido con gusto unirse a tu colonia!</MessageGuestRecruitSuccess>
   <!-- EN: {0} has been forced to join your colony! -->
-  <MessageGuestForcedRecruit>TODO</MessageGuestForcedRecruit>
+  <MessageGuestForcedRecruit>¡{0} ha sido forzado a unirse a tu colonia!</MessageGuestForcedRecruit>
   <!-- EN: Chief angered -->
-  <LetterLabelRecruitFactionChiefAnger>TODO</LetterLabelRecruitFactionChiefAnger>
+  <LetterLabelRecruitFactionChiefAnger>Líder molesto</LetterLabelRecruitFactionChiefAnger>
   <!-- EN: Faction angered -->
-  <LetterLabelRecruitFactionAnger>TODO</LetterLabelRecruitFactionAnger>
+  <LetterLabelRecruitFactionAnger>Facción molesta</LetterLabelRecruitFactionAnger>
   <!-- EN: Chief pleased -->
-  <LetterLabelRecruitFactionChiefPlease>TODO</LetterLabelRecruitFactionChiefPlease>
+  <LetterLabelRecruitFactionChiefPlease>Líder complacido</LetterLabelRecruitFactionChiefPlease>
   <!-- EN: Faction pleased -->
-  <LetterLabelRecruitFactionPlease>TODO</LetterLabelRecruitFactionPlease>
+  <LetterLabelRecruitFactionPlease>Facción complacida</LetterLabelRecruitFactionPlease>
   
   <!-- EN: {PAWN_labelShort} has enough friends now to be recruited. -->
-  <GuestCanBeRecruitedNow>TODO</GuestCanBeRecruitedNow>
+  <GuestCanBeRecruitedNow>{PAWN_labelShort} ahora tiene suficientes amigos para ser reclutado.</GuestCanBeRecruitedNow>
   
   <!-- EN: Offended -->
-  <TextMote_CharmFail>TODO</TextMote_CharmFail>
+  <TextMote_CharmFail>Ofendido</TextMote_CharmFail>
   <!-- EN: Charmed -->
-  <TextMote_CharmSuccess>TODO</TextMote_CharmSuccess>
+  <TextMote_CharmSuccess>Encantado</TextMote_CharmSuccess>
   
   <!-- Incident Results -->
   <!-- EN: They are absolutely amazed by your hospitality! (Score: {1}) -->
-  <VisitorsLeavingGreat>TODO</VisitorsLeavingGreat>
+  <VisitorsLeavingGreat>¡Están absolutamente maravillados con tu hospitalidad! (Puntuación: {1})</VisitorsLeavingGreat>
   <!-- EN: They really enjoyed their stay! (Score: {1}) -->
-  <VisitorsLeavingGood>TODO</VisitorsLeavingGood>
+  <VisitorsLeavingGood>¡Realmente disfrutaron de su estancia! (Puntuación: {1})</VisitorsLeavingGood>
   <!-- EN: Their stay was okay. (Score: {1}) -->
-  <VisitorsLeavingNormal>TODO</VisitorsLeavingNormal>
+  <VisitorsLeavingNormal>Su estancia estuvo bien. (Puntuación: {1})</VisitorsLeavingNormal>
   <!-- EN: They expected more from you. (Score: {1}) -->
-  <VisitorsLeavingBad>TODO</VisitorsLeavingBad>
+  <VisitorsLeavingBad>Esperaban más de ti. (Puntuación: {1})</VisitorsLeavingBad>
   <!-- EN: They were awfully disappointed by their stay. (Score: {1}) -->
-  <VisitorsLeavingAwful>TODO</VisitorsLeavingAwful>
+  <VisitorsLeavingAwful>Quedaron terriblemente decepcionados por su estancia. (Puntuación: {1})</VisitorsLeavingAwful>
   <!-- EN: The visitors from {0} are leaving again because it is too cold. -->
-  <MessageVisitorsLeavingCold>TODO</MessageVisitorsLeavingCold>
+  <MessageVisitorsLeavingCold>Los visitantes de {0} se marchan nuevamente porque hace demasiado frío.</MessageVisitorsLeavingCold>
   <!-- EN: You have sent them away. -->
-  <VisitorsSentAway>TODO</VisitorsSentAway>
+  <VisitorsSentAway>Los has despedido.</VisitorsSentAway>
   
   <!-- EN: They will visit again in a few days. -->
-  <VisitorsReturnSoon>TODO</VisitorsReturnSoon>
+  <VisitorsReturnSoon>Volverán a visitar en pocos días.</VisitorsReturnSoon>
   <!-- EN: They will visit again in a while. -->
-  <VisitorsReturnWhile>TODO</VisitorsReturnWhile>
+  <VisitorsReturnWhile>Volverán a visitar dentro de un tiempo.</VisitorsReturnWhile>
   <!-- EN: They won't come back any time soon. -->
-  <VisitorsReturnNotSoon>TODO</VisitorsReturnNotSoon>
+  <VisitorsReturnNotSoon>No volverán pronto.</VisitorsReturnNotSoon>
   <!-- EN: They've had enough of you. -->
-  <VisitorsReturnNot>TODO</VisitorsReturnNot>
+  <VisitorsReturnNot>Han tenido suficiente de ti.</VisitorsReturnNot>
 
   <!-- EN: Visitors from {FACTION_name} have arrived at {WORLDOBJECT_label} (from {1}) -->
-  <VisitorsArrivedTitle>TODO</VisitorsArrivedTitle>
+  <VisitorsArrivedTitle>Visitantes de {FACTION_name} han llegado a {WORLDOBJECT_label} (de {1})</VisitorsArrivedTitle>
   <!-- EN: They are afraid to enter your territory for the following reasons:\n{1}\n\nIf you send them away they might stay in the area and come back later. -->
-  <VisitorsArrivedDesc>TODO</VisitorsArrivedDesc>
+  <VisitorsArrivedDesc>Tienen miedo de entrar a tu territorio por las siguientes razones:\n{1}\n\nSi los despides, podrían quedarse en la zona y volver más tarde.</VisitorsArrivedDesc>
   <!-- EN: Assure safety -->
-  <VisitorsArrivedAccept>TODO</VisitorsArrivedAccept>
+  <VisitorsArrivedAccept>Garantizar seguridad</VisitorsArrivedAccept>
   <!-- EN: Send away -->
-  <VisitorsArrivedRefuse>TODO</VisitorsArrivedRefuse>
+  <VisitorsArrivedRefuse>Despedir</VisitorsArrivedRefuse>
   <!-- EN: Refuse visitors until I have guest beds -->
-  <VisitorsArrivedRefuseUntilBeds>TODO</VisitorsArrivedRefuseUntilBeds>
+  <VisitorsArrivedRefuseUntilBeds>Rechazar visitantes hasta tener camas para huéspedes</VisitorsArrivedRefuseUntilBeds>
   <!-- EN: No guest beds -->
-  <VisitorsArrivedReasonNoBeds>TODO</VisitorsArrivedReasonNoBeds>
+  <VisitorsArrivedReasonNoBeds>Sin camas para huéspedes</VisitorsArrivedReasonNoBeds>
   <!-- EN: Always let them come (don't ask this again) -->
-  <VisitorsArrivedDontAskAgain>TODO</VisitorsArrivedDontAskAgain>
+  <VisitorsArrivedDontAskAgain>Permitirles venir siempre (no volver a preguntar)</VisitorsArrivedDontAskAgain>
   
   <!-- EN: {PAWN_labelShort} became a guest -->
-  <LetterLabelPawnBecameGuest>TODO</LetterLabelPawnBecameGuest>
+  <LetterLabelPawnBecameGuest>{PAWN_labelShort} se convirtió en huésped</LetterLabelPawnBecameGuest>
   <!-- EN: {PAWN_labelShort} joined guests -->
-  <LetterLabelPawnJoinedGroup>TODO</LetterLabelPawnJoinedGroup>
+  <LetterLabelPawnJoinedGroup>{PAWN_labelShort} se unió a los huéspedes</LetterLabelPawnJoinedGroup>
   <!-- EN: {PAWN_nameDef}, who you rescued, is now a guest and {PAWN_pronoun} will stay for a few more hours. You can wait, send {PAWN_objective} home or recruit {PAWN_objective}.\n\nWhen {PAWN_labelShort} leaves the map safely, {PAWN_possessive} faction will be grateful. -->
-  <RescuedPawnBecameGuest>TODO</RescuedPawnBecameGuest>
+  <RescuedPawnBecameGuest>{PAWN_nameDef}, a quien rescataste, ahora es un huésped y se quedará durante unas horas más. Puedes esperar, enviarle a casa o reclutarle.\n\nCuando {PAWN_labelShort} abandone el mapa a salvo, su facción estará agradecida.</RescuedPawnBecameGuest>
   <!-- EN: {PAWN_nameDef}, who you rescued, has joined a visiting group of {PAWN_possessive} faction. When {PAWN_pronoun} leaves the map with them safely, they will be grateful. -->
-  <RescuedPawnJoinedGroup>TODO</RescuedPawnJoinedGroup>
+  <RescuedPawnJoinedGroup>{PAWN_nameDef}, a quien rescataste, se ha unido a un grupo de visitantes de su facción. Cuando abandone el mapa con ellos a salvo, estarán agradecidos.</RescuedPawnJoinedGroup>
   <!-- EN: {PAWN_nameDef} is now a guest and {PAWN_pronoun} will stay for a few more hours. You can wait, send {PAWN_objective} home or recruit {PAWN_objective}. -->
-  <DownedPawnBecameGuest>TODO</DownedPawnBecameGuest>
+  <DownedPawnBecameGuest>{PAWN_nameDef} ahora es un huésped y se quedará durante unas horas más. Puedes esperar, enviarle a casa o reclutarle.</DownedPawnBecameGuest>
   <!-- EN: {PAWN_nameDef} has joined a visiting group of {PAWN_possessive} faction. -->
-  <DownedPawnJoinedGroup>TODO</DownedPawnJoinedGroup>
+  <DownedPawnJoinedGroup>{PAWN_nameDef} se ha unido a un grupo de visitantes de su facción.</DownedPawnJoinedGroup>
   
   <!-- EN: {PAWN_labelShort} wants to stay -->
-  <LetterLabelHappyGuestJoins>TODO</LetterLabelHappyGuestJoins>
+  <LetterLabelHappyGuestJoins>{PAWN_labelShort} quiere quedarse</LetterLabelHappyGuestJoins>
   <!-- EN: {PAWN_labelShort} of {0} made a deal with {PAWN_possessive} faction to let them join you as an ambassador. It will not worsen the relationship with {PAWN_possessive} faction.\n\nYou have time to decide until they leave. -->
-  <HappyGuestJoins>TODO</HappyGuestJoins>
+  <HappyGuestJoins>{PAWN_labelShort} de {0} llegó a un acuerdo con su facción para permitirle unirse a ti como embajador. Esto no empeorará la relación con su facción.\n\nTienes tiempo para decidir hasta que se marchen.</HappyGuestJoins>
   
   <!-- EN: A member of {FACTION_name} has bought {ITEM_label} for {1} silver. -->
-  <GuestBoughtItem>TODO</GuestBoughtItem>
+  <GuestBoughtItem>Un miembro de {FACTION_name} compró {ITEM_label} por {1} de plata.</GuestBoughtItem>
   <!-- EN: A member of {FACTION_name} has taken {ITEM_label} for free. -->
-  <GuestTookFreeItem>TODO</GuestTookFreeItem>
+  <GuestTookFreeItem>Un miembro de {FACTION_name} se llevó {ITEM_label} gratis.</GuestTookFreeItem>
 
   <!-- Communication -->
   <!-- EN: Invite for a visit -->
-  <InviteGuests>TODO</InviteGuests>
+  <InviteGuests>Invitar a una visita</InviteGuests>
   <!-- EN: can't be hostile -->
-  <GuestsCantBeHostile>TODO</GuestsCantBeHostile>
+  <GuestsCantBeHostile>no puede ser hostil</GuestsCantBeHostile>
   <!-- EN: currently not interested in visiting you -->
-  <GuestsDontWantToCome>TODO</GuestsDontWantToCome>
+  <GuestsDontWantToCome>actualmente no tiene interés en visitarte</GuestsDontWantToCome>
   <!-- EN: are already on their way and will arrive in {0} -->
-  <GuestsAlreadyComing>TODO</GuestsAlreadyComing>
+  <GuestsAlreadyComing>ya están en camino y llegarán en {0}</GuestsAlreadyComing>
   <!-- EN: They are sending a delegation. Expect them to arrive in {0}. -->
-  <GuestsOnTheirWay>TODO</GuestsOnTheirWay>
+  <GuestsOnTheirWay>Están enviando una delegación. Se espera que lleguen en {0}.</GuestsOnTheirWay>
   
   <!-- Pawn Tab -->
   <!-- EN: Allowed area -->
-  <AreaToStay>TODO</AreaToStay>
+  <AreaToStay>Área permitida</AreaToStay>
   <!-- EN: Shopping area -->
-  <AreaToBuy>TODO</AreaToBuy>
+  <AreaToBuy>Área de compras</AreaToBuy>
   <!-- EN: No shopping -->
-  <AreaNoShopping>TODO</AreaNoShopping>
+  <AreaNoShopping>Sin compras</AreaNoShopping>
   <!-- EN: This is where guests may sleep and hang out. -->
-  <AreaToStayTooltip>TODO</AreaToStayTooltip>
+  <AreaToStayTooltip>Aquí es donde los huéspedes pueden dormir y pasar el rato.</AreaToStayTooltip>
   <!-- EN: Guests may buy items in this zone. Has to be inside the area of accommodation. -->
-  <AreaToBuyTooltip>TODO</AreaToBuyTooltip>
+  <AreaToBuyTooltip>Los huéspedes pueden comprar objetos en esta zona. Debe estar dentro del área de alojamiento.</AreaToBuyTooltip>
   <!-- EN: Enough friends to recruit: {0}/{1} -->
-  <FriendsRequirement>TODO</FriendsRequirement>
+  <FriendsRequirement>Suficientes amigos para reclutar: {0}/{1}</FriendsRequirement>
   <!-- EN: Enough royal friend ranks to recruit: {0}/{1} -->
-  <SeniorityRequirement>TODO</SeniorityRequirement>
+  <SeniorityRequirement>Suficientes rangos de amigos reales para reclutar: {0}/{1}</SeniorityRequirement>
   <!-- EN: Relationship damage when recruited: {0} ({1} forced) -->
-  <RecruitmentPenalty>TODO</RecruitmentPenalty>
+  <RecruitmentPenalty>Daño a la relación al reclutar: {0} ({1} forzado)</RecruitmentPenalty>
   <!-- EN: Try to entertain -->
-  <ImproveRelationship>TODO</ImproveRelationship>
+  <ImproveRelationship>Intentar entretener</ImproveRelationship>
   <!-- EN: Try to create friendships -->
-  <MakeFriends>TODO</MakeFriends>
+  <MakeFriends>Intentar hacer amigos</MakeFriends>
   <!-- EN: Leave alone -->
-  <LeaveAlone>TODO</LeaveAlone>
+  <LeaveAlone>Dejar en paz</LeaveAlone>
   <!-- EN: Faction goodwill -->
-  <FactionGoodwill>TODO</FactionGoodwill>
+  <FactionGoodwill>Buena voluntad de facción</FactionGoodwill>
   <!-- EN: Hospitality -->
-  <Hospitality>TODO</Hospitality>
+  <Hospitality>Hospitalidad</Hospitality>
   <!-- EN: Make Default -->
-  <MakeDefault>TODO</MakeDefault>
+  <MakeDefault>Establecer por defecto</MakeDefault>
   <!-- EN: Send away... -->
-  <SendAway>TODO</SendAway>
+  <SendAway>Despedir...</SendAway>
   <!-- EN: Are you sure you want to send the visitors from {FACTION_name} away?\nIf you send them away immediately after appearing, this will have no effect on relations. -->
-  <SendAwayQuestion>TODO</SendAwayQuestion>
+  <SendAwayQuestion>¿Estás seguro de que quieres despedir a los visitantes de {FACTION_name}?\nSi los despides inmediatamente después de que aparezcan, esto no tendrá efecto en las relaciones.</SendAwayQuestion>
   <!-- EN: Recruit... -->
-  <Recruit>TODO</Recruit>
+  <Recruit>Reclutar...</Recruit>
   <!-- EN: This guest can not be recruited (right now). -->
-  <CantRecruit>TODO</CantRecruit>
+  <CantRecruit>Este huésped no puede ser reclutado (por ahora).</CantRecruit>
   <!-- EN: This guest can not be recruited by force. -->
-  <CantForceRecruit>TODO</CantForceRecruit>
+  <CantForceRecruit>Este huésped no puede ser reclutado por la fuerza.</CantForceRecruit>
   <!-- EN: You can recruit {PAWN_nameDef} now.\n\nBecause {PAWN_pronoun} has enough friends, this only costs you {0} points of relationship with {PAWN_possessive} faction.{1}\n\n\nAre you sure you want to recruit {PAWN_objective}? -->
-  <RecruitQuestion>TODO</RecruitQuestion>
+  <RecruitQuestion>Puedes reclutar a {PAWN_nameDef} ahora.\n\nDebido a que {PAWN_pronoun} tiene suficientes amigos, esto solo te costará {0} puntos de relación con su facción.{1}\n\n\n¿Estás seguro de que quieres reclutar a {PAWN_objective}?</RecruitQuestion>
   <!-- EN: Force recruit... -->
-  <ForceRecruit>TODO</ForceRecruit>
+  <ForceRecruit>Reclutar por la fuerza...</ForceRecruit>
   <!-- EN: You can recruit {PAWN_nameDef} immediately.\n\nBecause {PAWN_pronoun} doesn't have enough friends yet to join you on {PAWN_possessive} own accord, this costs you {0} points of relationship with {PAWN_possessive} faction. This will be less if {PAWN_pronoun} has more friends. {1}{2}\n\n\nAre you sure? -->
-  <ForceRecruitQuestion>TODO</ForceRecruitQuestion>
+  <ForceRecruitQuestion>Puedes reclutar a {PAWN_nameDef} de inmediato.\n\nDebido a que {PAWN_pronoun} aún no tiene suficientes amigos para unirse por voluntad propia, esto te costará {0} puntos de relación con su facción. Esto será menor si {PAWN_pronoun} tiene más amigos. {1}{2}\n\n\n¿Estás seguro?</ForceRecruitQuestion>
   <!-- EN: \n\nThis will cause them to become hostile immediately. -->
-  <ForceRecruitWarning>TODO</ForceRecruitWarning>
+  <ForceRecruitWarning>\n\nEsto hará que se vuelvan hostiles de inmediato.</ForceRecruitWarning>
   <!-- EN: \n\nThey will trigger {PAWN_possessive} death acidifier. -->
-  <ForceAcidifierWarning>TODO</ForceAcidifierWarning>
+  <ForceAcidifierWarning>\n\nActivará su acidificador de muerte.</ForceAcidifierWarning>
   <!-- EN: [PAWN_nameDef] does not like enough of your colonists (opinion > {0}). -->
-  <NotEnoughFriends>TODO</NotEnoughFriends>
+  <NotEnoughFriends>[PAWN_nameDef] no le agrada a suficientes de tus colonos (opinión > {0}).</NotEnoughFriends>
   <!-- EN: [PAWN_nameDef] can now be recruited. -->
-  <CanNowBeRecruited>TODO</CanNowBeRecruited>
+  <CanNowBeRecruited>[PAWN_nameDef] ahora puede ser reclutado.</CanNowBeRecruited>
   <!-- EN: [PAWN_nameDef] will only join by force. -->
-  <OnlyJoinsByForce>TODO</OnlyJoinsByForce>
+  <OnlyJoinsByForce>[PAWN_nameDef] solo se unirá por la fuerza.</OnlyJoinsByForce>
   <!-- EN: [PAWN_nameDef] can not be recruited. -->
-  <CanNeverRecruit>TODO</CanNeverRecruit>
+  <CanNeverRecruit>[PAWN_nameDef] no puede ser reclutado.</CanNeverRecruit>
   <!-- EN: [PAWN_nameDef] is part of a trading caravan and not a guest. -->
-  <IsATrader>TODO</IsATrader>
+  <IsATrader>[PAWN_nameDef] es parte de una caravana comercial y no un huésped.</IsATrader>
   <!-- EN: Your diplomats will try to temporarily improve the guest's mood. Good diplomats are more effective at this. Bad diplomats can anger the guest. -->
-  <ImproveTooltip>TODO</ImproveTooltip>
+  <ImproveTooltip>Tus diplomáticos intentarán mejorar temporalmente el humor del huésped. Los buenos diplomáticos son más eficaces en esto. Los malos diplomáticos pueden enfadar al huésped.</ImproveTooltip>
   <!-- EN: Your diplomats will try to befriend the guest with your other colonists. Good diplomats are more effective at this. Bad diplomats can anger the guest. When the guest has enough friends, he will join your colony. -->
-  <TryRecruitTooltip>TODO</TryRecruitTooltip>
+  <TryRecruitTooltip>Tus diplomáticos intentarán entablar amistad entre el huésped y tus otros colonos. Los buenos diplomáticos son más eficaces en esto. Los malos diplomáticos pueden enfadar al huésped. Cuando el huésped tenga suficientes amigos, se unirá a tu colonia.</TryRecruitTooltip>
   <!-- EN: Your guest has enough friendships in the colony and can be recruited now. Recruiting causes damage to your relationship with this faction, though. -->
-  <RecruitTooltip>TODO</RecruitTooltip>
+  <RecruitTooltip>Tu huésped tiene suficientes amistades en la colonia y ahora puede ser reclutado. Sin embargo, reclutarlo dañará tu relación con esta facción.</RecruitTooltip>
   <!-- EN: Applies the areas and the entertain settings to all current and future visitors. -->
-  <MakeDefaultTooltip>TODO</MakeDefaultTooltip>
+  <MakeDefaultTooltip>Aplica las zonas y los ajustes de entretenimiento a todos los visitantes actuales y futuros.</MakeDefaultTooltip>
   <!-- EN: Instead of waiting for your diplomats to convince this guest, you can also force them to stay. The relationship damage with this faction will be much higher, though. -->
-  <ForceRecruitTooltip>TODO</ForceRecruitTooltip>
+  <ForceRecruitTooltip>En lugar de esperar a que tus diplomáticos convenzan a este huésped, también puedes obligarlo a quedarse. Sin embargo, el daño a las relaciones con esta facción será mucho mayor.</ForceRecruitTooltip>
   <!-- EN: Ask the group of this guest to go home again. -->
-  <SendAwayTooltip>TODO</SendAwayTooltip>
+  <SendAwayTooltip>Pídele al grupo de este huésped que regrese a casa.</SendAwayTooltip>
 
   <!-- Main Tab -->
   <!-- EN: Beds in use: {0}/{1} -->
-  <BedsFilled>Camas ocupadas:</BedsFilled>
+  <BedsFilled>Camas ocupadas: {0}/{1}</BedsFilled>
   <!-- EN: Map settings... -->
-  <MapSettings>TODO</MapSettings>
+  <MapSettings>Ajustes del mapa...</MapSettings>
   <!-- EN: Allow new guests -->
-  <GuestsWelcome>TODO</GuestsWelcome>
+  <GuestsWelcome>Permitir nuevos huéspedes</GuestsWelcome>
   <!-- EN: If you turn this off, no new guest groups will arrive at this colony. -->
-  <GuestsWelcomeTooltip>TODO</GuestsWelcomeTooltip>
+  <GuestsWelcomeTooltip>Si desactivas esto, no llegarán nuevos grupos de huéspedes a esta colonia.</GuestsWelcomeTooltip>
   <!-- EN: Refuse guests until guest beds are built -->
-  <RefuseGuestsUntilBeds>TODO</RefuseGuestsUntilBeds>
+  <RefuseGuestsUntilBeds>Rechazar huéspedes hasta tener camas para huéspedes</RefuseGuestsUntilBeds>
   <!-- EN: If you turn this on, no new guest groups will arrive, until you've built guest beds. -->
-  <RefuseGuestsUntilBedsTooltip>TODO</RefuseGuestsUntilBedsTooltip>
+  <RefuseGuestsUntilBedsTooltip>Si activas esto, no llegarán nuevos grupos de huéspedes hasta que hayas construido camas para huéspedes.</RefuseGuestsUntilBedsTooltip>
   <!-- EN: Guests may take food for free -->
-  <GuestsCanTakeFoodForFree>TODO</GuestsCanTakeFoodForFree>
+  <GuestsCanTakeFoodForFree>Los huéspedes pueden tomar comida gratis</GuestsCanTakeFoodForFree>
   <!-- EN: If you turn this on, guests may take and eat food from your stockpile for free. -->
-  <GuestsCanTakeFoodForFreeTooltip>TODO</GuestsCanTakeFoodForFreeTooltip>
+  <GuestsCanTakeFoodForFreeTooltip>Si activas esto, los huéspedes podrán tomar y comer comida de tus almacenes de forma gratuita.</GuestsCanTakeFoodForFreeTooltip>
   <!-- EN: Guests ask if it is safe to come -->
-  <GuestsAskForSafety>TODO</GuestsAskForSafety>
+  <GuestsAskForSafety>Los huéspedes preguntan si es seguro venir</GuestsAskForSafety>
   <!-- EN: If you turn this off, guests will not ask if they may come if there is danger present. -->
-  <GuestsAskForSafetyTooltip>TODO</GuestsAskForSafetyTooltip>
+  <GuestsAskForSafetyTooltip>Si desactivas esto, los huéspedes no preguntarán si pueden venir en caso de haber peligro.</GuestsAskForSafetyTooltip>
   
   <!-- Infos -->
   <!-- EN: Missing friends -->
-  <StatsReport_MissingFriends>TODO</StatsReport_MissingFriends>
+  <StatsReport_MissingFriends>Amigos faltantes</StatsReport_MissingFriends>
   
   <!-- Vending Machine -->
   <!-- EN: Vending machine -->
-  <Hospitality_VendingMachine>TODO</Hospitality_VendingMachine>
+  <Hospitality_VendingMachine>Máquina expendedora</Hospitality_VendingMachine>
   <!-- EN: Price: -->
-  <Hospitality_VendingMachinePrice>TODO</Hospitality_VendingMachinePrice>
+  <Hospitality_VendingMachinePrice>Precio:</Hospitality_VendingMachinePrice>
   <!-- EN: Contains: -->
-  <Hospitality_VendingMachineContains>TODO</Hospitality_VendingMachineContains>
+  <Hospitality_VendingMachineContains>Contiene:</Hospitality_VendingMachineContains>
   <!-- EN: Allow guests to use this facility. -->
-  <Hospitality_VendingMachineToggleDesc>TODO</Hospitality_VendingMachineToggleDesc>
+  <Hospitality_VendingMachineToggleDesc>Permitir a los huéspedes usar esta instalación.</Hospitality_VendingMachineToggleDesc>
   <!-- EN: Empty at: -->
-  <Hospitality_VendingMachineThreshold>TODO</Hospitality_VendingMachineThreshold>
+  <Hospitality_VendingMachineThreshold>Vaciar al llegar a:</Hospitality_VendingMachineThreshold>
   <!-- EN: Content -->
-  <Hospitality_VendingMachineContent>TODO</Hospitality_VendingMachineContent>
+  <Hospitality_VendingMachineContent>Contenido</Hospitality_VendingMachineContent>
   
   <!-- Bed -->
   <!-- EN: guest {0} -->
-  <GuestBedFormat>TODO</GuestBedFormat>
+  <GuestBedFormat>{0} para huéspedes</GuestBedFormat>
   <!-- EN: For guests -->
-  <CommandBedSetAsGuestLabel>TODO</CommandBedSetAsGuestLabel>
+  <CommandBedSetAsGuestLabel>Para huéspedes</CommandBedSetAsGuestLabel>
   <!-- EN: Whether this bed is for guests. -->
-  <CommandBedSetAsGuestDesc>TODO</CommandBedSetAsGuestDesc>
+  <CommandBedSetAsGuestDesc>Si esta cama es para huéspedes.</CommandBedSetAsGuestDesc>
   <!-- EN: Attractiveness: -->
-  <BedGizmoAttractiveness>TODO</BedGizmoAttractiveness>
+  <BedGizmoAttractiveness>Atractivo:</BedGizmoAttractiveness>
   <!-- EN: These royal titles will accept this bed: -->
-  <BedSatisfiedTitles>TODO</BedSatisfiedTitles>
+  <BedSatisfiedTitles>Estos títulos reales aceptarán esta cama:</BedSatisfiedTitles>
   <!-- EN: Only one bed -->
-  <BedroomMustBeSingle>TODO</BedroomMustBeSingle>
+  <BedroomMustBeSingle>Solo una cama</BedroomMustBeSingle>
   <!-- EN: Requirements for the next title:\n- {0} -->
-  <NextTitleRequirements>TODO</NextTitleRequirements>
+  <NextTitleRequirements>Requisitos para el siguiente título:\n- {0}</NextTitleRequirements>
   
   <!-- Alerts -->
   <!-- EN: Guest can't claim bed -->
-  <AlertCantClaimBed>TODO</AlertCantClaimBed>
+  <AlertCantClaimBed>Huésped no puede reclamar cama</AlertCantClaimBed>
   <!-- EN: These guests can't afford to claim a bed:\n\n{0}\nProvide cheaper or free beds or gift the guests some silver.\nFactions with a better relationship will bring more silver. -->
-  <AlertCantClaimBedDesc>TODO</AlertCantClaimBedDesc>
+  <AlertCantClaimBedDesc>Estos huéspedes no pueden permitirse una cama:\n\n{0}\nProporciona camas más baratas o gratuitas, o regálales algo de plata a los huéspedes.\nLas facciones con mejor relación traerán más plata.</AlertCantClaimBedDesc>
   <!-- EN: Not enough guest beds -->
-  <AlertNotEnoughBeds>TODO</AlertNotEnoughBeds>
+  <AlertNotEnoughBeds>No hay suficientes camas para huéspedes</AlertNotEnoughBeds>
   <!-- EN: There are not enough beds for the following pawns:\n\n{0}\nYou should provide more beds for guests. -->
-  <AlertNotEnoughBedsDesc>TODO</AlertNotEnoughBedsDesc>
+  <AlertNotEnoughBedsDesc>No hay suficientes camas para los siguientes peones:\n\n{0}\nDeberías proporcionar más camas para huéspedes.</AlertNotEnoughBedsDesc>
   <!-- EN: Guest has nothing to eat -->
-  <AlertHasNoFood>TODO</AlertHasNoFood>
+  <AlertHasNoFood>El huésped no tiene nada para comer</AlertHasNoFood>
   <!-- EN: These guests have nothing to eat:\n\n{0}\nPut some food on sale, set up a nutrient dispenser as a vending machine or gift the guests some silver or rations. You can also allow guests to take food for free.\nFactions with a better relationship will bring more silver. -->
-  <AlertHasNoFoodDesc>TODO</AlertHasNoFoodDesc>
+  <AlertHasNoFoodDesc>Estos huéspedes no tienen nada para comer:\n\n{0}\nPon algo de comida a la venta, configura un dispensador de nutrientes como máquina expendedora o regálales algo de plata o raciones. También puedes permitir que tomen comida gratis.\nLas facciones con mejor relación traerán más plata.</AlertHasNoFoodDesc>
 
   <!-- Settings -->
   <!-- EN: Disable option limits -->
-  <DisableLimits>TODO</DisableLimits>
+  <DisableLimits>Desactivar límites de opciones</DisableLimits>
   <!-- EN: When this option is turned on, you can tweak the settings further than recommended for a fair game. -->
-  <DisableLimitsDesc>TODO</DisableLimitsDesc>
+  <DisableLimitsDesc>Cuando esta opción está activada, puedes ajustar la configuración más allá de lo recomendado para una partida equilibrada.</DisableLimitsDesc>
   <!-- EN: Disable visitors -->
-  <DisableVisitors>TODO</DisableVisitors>
+  <DisableVisitors>Desactivar visitantes</DisableVisitors>
   <!-- EN: You actually hate visitors and wonder why you even have this mod. -->
-  <DisableVisitorsDesc>TODO</DisableVisitorsDesc>
+  <DisableVisitorsDesc>Realmente odias a los visitantes y te preguntas por qué tienes este mod.</DisableVisitorsDesc>
   <!-- EN: Disable guests helping -->
-  <DisableGuestsHelping>TODO</DisableGuestsHelping>
+  <DisableGuestsHelping>Desactivar ayuda de huéspedes</DisableGuestsHelping>
   <!-- EN: When checked, guests will not perform any work in your colony. -->
-  <DisableGuestsHelpingDesc>TODO</DisableGuestsHelpingDesc>
+  <DisableGuestsHelpingDesc>Si está marcado, los huéspedes no realizarán ningún trabajo en tu colonia.</DisableGuestsHelpingDesc>
   <!-- EN: Disable guests helping with art and crafting -->
-  <DisableArtAndCraft>TODO</DisableArtAndCraft>
+  <DisableArtAndCraft>Desactivar ayuda de huéspedes en arte y artesanía</DisableArtAndCraft>
   <!-- EN: When checked, guests will not perform any artistic or crafting tasks. -->
-  <DisableArtAndCraftDesc>TODO</DisableArtAndCraftDesc>
+  <DisableArtAndCraftDesc>Si está marcado, los huéspedes no realizarán tareas artísticas ni de artesanía.</DisableArtAndCraftDesc>
   <!-- EN: Disable guests helping with operations -->
-  <DisableOperations>TODO</DisableOperations>
+  <DisableOperations>Desactivar ayuda de huéspedes en operaciones</DisableOperations>
   <!-- EN: When checked, guests will not perform any medical operations. -->
-  <DisableOperationsDesc>TODO</DisableOperationsDesc>
+  <DisableOperationsDesc>Si está marcado, los huéspedes no realizarán ninguna operación médica.</DisableOperationsDesc>
   <!-- EN: Disable guests healing pawns -->
-  <DisableMedical>TODO</DisableMedical>
+  <DisableMedical>Desactivar atención médica de huéspedes</DisableMedical>
   <!-- EN: When checked, guests will not perform any tending work. -->
-  <DisableMedicalDesc>TODO</DisableMedicalDesc>
+  <DisableMedicalDesc>Si está marcado, los huéspedes no realizarán tareas de tratamiento médico.</DisableMedicalDesc>
   <!-- EN: Disable guests leaving gifts -->
-  <DisableGifts>TODO</DisableGifts>
+  <DisableGifts>Desactivar regalos de huéspedes</DisableGifts>
   <!-- EN: When checked, guests will never leave items behind when satisfied. -->
-  <DisableGiftsDesc>TODO</DisableGiftsDesc>
+  <DisableGiftsDesc>Si está marcado, los huéspedes nunca dejarán objetos al marcharse satisfechos.</DisableGiftsDesc>
   <!-- EN: Minimum skill for work -->
-  <MinGuestWorkSkill>TODO</MinGuestWorkSkill>
+  <MinGuestWorkSkill>Habilidad mínima para trabajar</MinGuestWorkSkill>
   <!-- EN: The minimum skill a guest needs to have to perform a task when helping out. (recommended: 7) -->
-  <MinGuestWorkSkillDesc>TODO</MinGuestWorkSkillDesc>
+  <MinGuestWorkSkillDesc>La habilidad mínima que un huésped debe tener para realizar una tarea al colaborar. (recomendado: 7)</MinGuestWorkSkillDesc>
   <!-- EN: Guest group size -->
-  <GuestGroupSize>TODO</GuestGroupSize>
+  <GuestGroupSize>Tamaño del grupo de huéspedes</GuestGroupSize>
   <!-- EN: The size a group of guests can be. (recommended: 1-16) -->
-  <GuestGroupSizeDesc>TODO</GuestGroupSizeDesc>
+  <GuestGroupSizeDesc>El tamaño que puede tener un grupo de huéspedes. (recomendado: 1-16)</GuestGroupSizeDesc>
   <!-- EN: Maximum groups within 3 days -->
-  <MaxIncidentsPer3Days>TODO</MaxIncidentsPer3Days>
+  <MaxIncidentsPer3Days>Grupos máximos en 3 días</MaxIncidentsPer3Days>
   <!-- EN: The maximum amount of guest groups that can come within 3 days. (recommended: 5) -->
-  <MaxIncidentsPer3DaysDesc>TODO</MaxIncidentsPer3DaysDesc>
+  <MaxIncidentsPer3DaysDesc>La cantidad máxima de grupos de huéspedes que pueden llegar en 3 días. (recomendado: 5)</MaxIncidentsPer3DaysDesc>
   <!-- EN: Silver multiplier -->
   <SilverMultiplier>Multiplicador de plata</SilverMultiplier>
   <!-- EN: Scales up how much silver guests bring. Higher faction relationship still means more silver. (recommended: 1) -->
-  <SilverMultiplierDesc>TODO</SilverMultiplierDesc>
+  <SilverMultiplierDesc>Aumenta la cantidad de plata que traen los huéspedes. Una mejor relación con la facción seguirá significando más plata. (recomendado: 1)</SilverMultiplierDesc>
   <!-- EN: Disable guests tab -->
-  <DisableGuestsTab>TODO</DisableGuestsTab>
+  <DisableGuestsTab>Desactivar pestaña de huéspedes</DisableGuestsTab>
   <!-- EN: Hide the guests tab from the main tab bar. -->
-  <DisableGuestsTabDesc>TODO</DisableGuestsTabDesc>
+  <DisableGuestsTabDesc>Oculta la pestaña de huéspedes de la barra de pestañas principal.</DisableGuestsTabDesc>
   <!-- EN: Enable purchase notification -->
-  <EnableBuyNotification>TODO</EnableBuyNotification>
+  <EnableBuyNotification>Activar notificación de compra</EnableBuyNotification>
   <!-- EN: Receive a message when a guest buys something. Can be reviewed in the message history. -->
-  <EnableBuyNotificationDesc>TODO</EnableBuyNotificationDesc>
+  <EnableBuyNotificationDesc>Recibe un mensaje cuando un huésped compre algo. Se puede revisar en el historial de mensajes.</EnableBuyNotificationDesc>
   <!-- EN: Enable enough friends notification -->
-  <EnableRecruitNotification>TODO</EnableRecruitNotification>
+  <EnableRecruitNotification>Activar notificación de suficientes amigos</EnableRecruitNotification>
   <!-- EN: Receive a message when a guest has enough friends to be recruited. -->
-  <EnableRecruitNotificationDesc>TODO</EnableRecruitNotificationDesc>
+  <EnableRecruitNotificationDesc>Recibe un mensaje cuando un huésped tenga suficientes amigos para ser reclutado.</EnableRecruitNotificationDesc>
   <!-- EN: No friendly inventory spill -->
-  <DisableFriendlyGearDrops>TODO</DisableFriendlyGearDrops>
+  <DisableFriendlyGearDrops>Sin caída de inventario de aliados</DisableFriendlyGearDrops>
   <!-- EN: When a friendly pawn is downed, they will no longer drop their inventory. -->
-  <DisableFriendlyGearDropsDesc>TODO</DisableFriendlyGearDropsDesc>
+  <DisableFriendlyGearDropsDesc>Cuando un peón aliado sea derribado, ya no soltará su inventario.</DisableFriendlyGearDropsDesc>
   <!-- EN: Show guest tab icon -->
-  <UseIcon>TODO</UseIcon>
+  <UseIcon>Mostrar ícono de pestaña de huéspedes</UseIcon>
   <!-- EN: Show an icon on the guests tab instead of text -->
-  <UseIconDesc>TODO</UseIconDesc>
+  <UseIconDesc>Muestra un ícono en la pestaña de huéspedes en lugar de texto.</UseIconDesc>
   <!-- EN: It is recommended to leave this setting on. -->
-  <Hospitality_RecommendedOn>TODO</Hospitality_RecommendedOn>
+  <Hospitality_RecommendedOn>Se recomienda dejar este ajuste activado.</Hospitality_RecommendedOn>
   <!-- EN: It is recommended to leave this setting off. -->
-  <Hospitality_RecommendedOff>TODO</Hospitality_RecommendedOff>
+  <Hospitality_RecommendedOff>Se recomienda dejar este ajuste desactivado.</Hospitality_RecommendedOff>
   <!-- EN: It is recommended to leave this setting between {0} and {1}. -->
-  <Hospitality_RecommendedRange>TODO</Hospitality_RecommendedRange>
+  <Hospitality_RecommendedRange>Se recomienda dejar este ajuste entre {0} y {1}.</Hospitality_RecommendedRange>
   
 </LanguageData>

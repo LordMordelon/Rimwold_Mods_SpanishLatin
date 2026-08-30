@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN:
@@ -10,7 +10,15 @@
     <li>sent->[RECIPIENT_nameDef] looked flattered.</li>
     <li>sent->[RECIPIENT_nameDef] stared at [INITIATOR_nameDef] in amazement.</li>
   -->
-  <Sentence_CharmAttemptAccepted.rulePack.rulesStrings>TODO</Sentence_CharmAttemptAccepted.rulePack.rulesStrings>
+  <Sentence_CharmAttemptAccepted.rulePack.rulesStrings>
+    <li>sent->[RECIPIENT_nameDef] aplaudió con entusiasmo.</li>
+    <li>sent->[RECIPIENT_nameDef] sonrió.</li>
+    <li>sent->[RECIPIENT_nameDef] asintió con la cabeza.</li>
+    <li>sent->[RECIPIENT_nameDef] estaba ansioso por escuchar más.</li>
+    <li>sent->[RECIPIENT_nameDef] parecía entusiasmado.</li>
+    <li>sent->[RECIPIENT_nameDef] se sintió halagado.</li>
+    <li>sent->[RECIPIENT_nameDef] miró a [INITIATOR_nameDef] con asombro.</li>
+  </Sentence_CharmAttemptAccepted.rulePack.rulesStrings>
   
   <!-- EN:
     <li>sent->[RECIPIENT_nameDef] was getting annoyed.</li>
@@ -21,6 +29,14 @@
     <li>sent->[RECIPIENT_nameDef] mentioned leaving soon.</li>
     <li>sent->[RECIPIENT_nameDef] rolled [RECIPIENT_possessive] eyes.</li>
   -->
-  <Sentence_CharmAttemptRejected.rulePack.rulesStrings>TODO</Sentence_CharmAttemptRejected.rulePack.rulesStrings>
+  <Sentence_CharmAttemptRejected.rulePack.rulesStrings>
+    <li>sent->[RECIPIENT_nameDef] se estaba molestando.</li>
+    <li>sent->[RECIPIENT_nameDef] sacudió la cabeza con desaprobación.</li>
+    <li>sent->A [RECIPIENT_nameDef] no le pudo importar menos.</li>
+    <li>sent->[RECIPIENT_nameDef] ya estaba harto.</li>
+    <li>sent->[RECIPIENT_nameDef] miró alrededor de la habitación con aburrimiento.</li>
+    <li>sent->[RECIPIENT_nameDef] mencionó irse pronto.</li>
+    <li>sent->[RECIPIENT_nameDef] puso los ojos en blanco.</li>
+  </Sentence_CharmAttemptRejected.rulePack.rulesStrings>
   
 </LanguageData>

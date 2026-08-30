@@ -1,8 +1,8 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: charm attempt -->
-  <CharmGuestAttempt.label>TODO</CharmGuestAttempt.label>
+  <CharmGuestAttempt.label>intento de encantar</CharmGuestAttempt.label>
   <!-- EN:
     <li>r_logentry->[INITIATOR_nameDef] [saidwords] [RECIPIENT_nameDef].</li>
     <li>r_logentry->[INITIATOR_nameDef] told [RECIPIENT_nameDef] about all the [ConceptPositive] at [INITIATOR_factionName].</li>
@@ -17,10 +17,28 @@
     <li>adjwords->friendly</li>
     <li>adjwords->charming</li>
   -->
-  <CharmGuestAttempt.logRulesInitiator.rulesStrings>TODO</CharmGuestAttempt.logRulesInitiator.rulesStrings>
+  <CharmGuestAttempt.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef] [saidwords] [RECIPIENT_nameDef].</li>
+    <li>r_logentry->[INITIATOR_nameDef] le habló a [RECIPIENT_nameDef] sobre [ConceptPositive] en [INITIATOR_factionName].</li>
+    <li>r_logentry->[INITIATOR_nameDef] le dijo a [RECIPIENT_nameDef] cosas [adjwords_f] sobre otros colonos.</li>
+    <li>r_logentry->[INITIATOR_nameDef] le presentó a [RECIPIENT_nameDef] a otro colono.</li>
+    <li>saidwords->le dijo palabras [adjwords_f] a</li>
+    <li>saidwords->expresó [ConceptPositive] hacia</li>
+    <li>saidwords->hizo gestos [adjwords_m] hacia</li>
+    <li>adjwords_f->intrigantes</li>
+    <li>adjwords_f->amables</li>
+    <li>adjwords_f->acogedoras</li>
+    <li>adjwords_f->amistosas</li>
+    <li>adjwords_f->encantadoras</li>
+    <li>adjwords_m->intrigantes</li>
+    <li>adjwords_m->amables</li>
+    <li>adjwords_m->acogedores</li>
+    <li>adjwords_m->amistosos</li>
+    <li>adjwords_m->encantadores</li>
+  </CharmGuestAttempt.logRulesInitiator.rulesStrings>
   
   <!-- EN: improve relationship -->
-  <GuestDiplomacy.label>TODO</GuestDiplomacy.label>
+  <GuestDiplomacy.label>mejorar relaciones</GuestDiplomacy.label>
   <!-- EN:
     <li>r_logentry->[INITIATOR_nameDef] made diplomatic conversation with [RECIPIENT_nameDef] about [TalkTopicLight].</li>
     <li>r_logentry->[INITIATOR_nameDef] discussed the political relevance of [subject] with [RECIPIENT_nameDef].</li>
@@ -40,15 +58,37 @@
     <li>complimented->applauded</li>
     <li>complimented->celebrated</li>
   -->
-  <GuestDiplomacy.logRulesInitiator.rulesStrings>TODO</GuestDiplomacy.logRulesInitiator.rulesStrings>
+  <GuestDiplomacy.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef] mantuvo una conversación diplomática con [RECIPIENT_nameDef] sobre [TalkTopicLight].</li>
+    <li>r_logentry->[INITIATOR_nameDef] debatió la relevancia política de [subject] con [RECIPIENT_nameDef].</li>
+    <li>r_logentry->[INITIATOR_nameDef] [complimented] [PersonalCharacteristic] de [RECIPIENT_nameDef].</li>
+    <li>r_logentry->[INITIATOR_nameDef] [complimented] a la facción de [RECIPIENT_nameDef].</li>
+    <li>r_logentry->[INITIATOR_nameDef] [complimented] la relación con [RECIPIENT_factionName].</li>
+    <li>r_logentry->[INITIATOR_nameDef] envió saludos a [PersonFamily] de [RECIPIENT_nameDef].</li>
+    <li>r_logentry->[INITIATOR_nameDef] intentó conectar con [RECIPIENT_nameDef] sobre su [opinion] compartida.</li>
+    <li>opinion->apoyo a [ConceptPositive]</li>
+    <li>opinion->disgusto por [ConceptNegative]</li>
+    <li>opinion->miedo a [ConceptNegative]</li>
+    <li>opinion->opinión sobre [ConceptAny]</li>
+    <li>opinion->anhelo de [ConceptPositive]</li>
+    <li>complimented->elogió</li>
+    <li>complimented->alabó</li>
+    <li>complimented->enalteció</li>
+    <li>complimented->aplaudió</li>
+    <li>complimented->celebró</li>
+  </GuestDiplomacy.logRulesInitiator.rulesStrings>
   
   <!-- EN: scrounge food -->
-  <ScroungeFoodAttempt.label>TODO</ScroungeFoodAttempt.label>
+  <ScroungeFoodAttempt.label>gorronear comida</ScroungeFoodAttempt.label>
   <!-- EN:
     <li>r_logentry->[INITIATOR_nameDef] begged [RECIPIENT_nameDef] for some food.</li>
     <li>r_logentry->[INITIATOR_nameDef] asked [RECIPIENT_nameDef] for something to eat.</li>
     <li>r_logentry->[INITIATOR_nameDef] stared at [RECIPIENT_nameDef]'s food longingly.</li>
   -->
-  <ScroungeFoodAttempt.logRulesInitiator.rulesStrings>TODO</ScroungeFoodAttempt.logRulesInitiator.rulesStrings>
+  <ScroungeFoodAttempt.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef] le rogó a [RECIPIENT_nameDef] por algo de comida.</li>
+    <li>r_logentry->[INITIATOR_nameDef] le pidió a [RECIPIENT_nameDef] algo para comer.</li>
+    <li>r_logentry->[INITIATOR_nameDef] miró la comida de [RECIPIENT_nameDef] con anhelo.</li>
+  </ScroungeFoodAttempt.logRulesInitiator.rulesStrings>
   
 </LanguageData>
