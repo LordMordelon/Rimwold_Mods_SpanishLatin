@@ -1,9 +1,13 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 	<!-- EN: Extract 20 neutroamine -->
   <VREA_ExtractNeutroamine>Extraer 20 de neutroamina</VREA_ExtractNeutroamine>
 	<!-- EN: Extract 20 neutroamine from the tank. A pawn will come to extract it. -->
   <VREA_ExtractNeutroamineDesc>Extraer 20 de neutroamina del tanque. Un colono vendrá a extraerla.</VREA_ExtractNeutroamineDesc>
+	<!-- EN: Switches neutroamine flow on/off. -->
+  <VREA_NeutroValve>Activa o desactiva el flujo de neutroamina.</VREA_NeutroValve>
+  	<!-- EN: Switches neutroamine flow on/off. A pawn will come open/close the valve. -->
+  <VREA_NeutroValveDesc>Activa o desactiva el flujo de neutroamina. Un colono vendrá a abrir/cerrar la válvula.</VREA_NeutroValveDesc>
 	<!-- EN: Free memory space -->
   <VREA.FreeMemorySpace>Liberar espacio de memoria</VREA.FreeMemorySpace>
 	<!-- EN: Android stand is occupied -->
