@@ -12,11 +12,13 @@
     <li>subject_story->saw beyond the chaos of factory floors to the beauty of synchronized machinery</li>
     <li>subject_gerund->laying the groundwork for modern manufacturing</li>
   -->
-  <VFE_BasicFactories.generalRules.rulesStrings>subject->eficiencia industrial
-subject_story->fue pionero en las primeras líneas de producción integradas
-subject_story->transformó un pequeño taller en una piedra angular de la revolución industrial
-subject_story->vio más allá del caos de los pisos de fábrica la belleza de la maquinaria sincronizada
-subject_gerund->sentando las bases de la manufactura moderna</VFE_BasicFactories.generalRules.rulesStrings>
+  <VFE_BasicFactories.generalRules.rulesStrings>
+    <li>subject->eficiencia industrial</li>
+    <li>subject_story->fue pionero en las primeras líneas de producción integradas</li>
+    <li>subject_story->transformó un pequeño taller en una piedra angular de la revolución industrial</li>
+    <li>subject_story->vio más allá del caos de los pisos de fábrica la belleza de la maquinaria sincronizada</li>
+    <li>subject_gerund->sentando las bases de la manufactura moderna</li>
+  </VFE_BasicFactories.generalRules.rulesStrings>
   
   <!-- EN: complex factories -->
   <VFE_ComplexFactories.label>fábricas complejas</VFE_ComplexFactories.label>
@@ -29,10 +31,12 @@ subject_gerund->sentando las bases de la manufactura moderna</VFE_BasicFactories
     <li>subject_story->revolutionized the production of high-tech components and alloys, making them accessible to all</li>
     <li>subject_gerund->streamlining the creation of electronics and alloys</li>
   -->
-  <VFE_ComplexFactories.generalRules.rulesStrings>subject->fabricación automatizada
-subject_story->reveló el potencial de las máquinas autónomas en la producción de electrónica
-subject_story->tendió un puente entre las materias primas y la tecnología avanzada
-subject_story->revolucionó la producción de componentes y aleaciones de alta tecnología, haciéndolos accesibles para todos
-subject_gerund->optimizando la creación de electrónica y aleaciones</VFE_ComplexFactories.generalRules.rulesStrings>
+  <VFE_ComplexFactories.generalRules.rulesStrings>
+    <li>subject->fabricación automatizada</li>
+    <li>subject_story->reveló el potencial de las máquinas autónomas en la producción de electrónica</li>
+    <li>subject_story->tendió un puente entre las materias primas y la tecnología avanzada</li>
+    <li>subject_story->revolucionó la producción de componentes y aleaciones de alta tecnología, haciéndolos accesibles para todos</li>
+    <li>subject_gerund->optimizando la creación de electrónica y aleaciones</li>
+  </VFE_ComplexFactories.generalRules.rulesStrings>
   
 </LanguageData>
