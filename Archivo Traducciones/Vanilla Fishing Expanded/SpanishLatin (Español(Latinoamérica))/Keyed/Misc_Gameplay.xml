@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<!-- Various -->
+
+	<!-- EN: Fishing Zone -->
+  <VCEF_FishingGrowingZone>Zona de pesca</VCEF_FishingGrowingZone>
+	<!-- EN: Create a zone where your colonists will try to fish -->
+  <VCEF_FishingGrowingZoneDesc>Crea una zona donde tus colonos intentarán pescar</VCEF_FishingGrowingZoneDesc>
+
+	<!-- EN: Choose catch -->
+  <VCEF_ChooseFish>Elegir captura</VCEF_ChooseFish>
+	<!-- EN: Choose prefered fish size to catch from those inhabiting this biome. Smaller fish take less time but are less nutritive, while larger fish take longer and are more nutritive. Medium fish are balanced between the two extremes. There is always a chance to catch some different fish or special items -->
+  <VCEF_ChooseFishDesc>Elige el tamaño de pez preferido para capturar entre los que habitan este bioma. Los peces pequeños toman menos tiempo pero son menos nutritivos, mientras que los peces grandes toman más tiempo y son más nutritivos. Los peces medianos están equilibrados entre los dos extremos. Siempre hay una posibilidad de atrapar algún pez diferente u objetos especiales</VCEF_ChooseFishDesc>
+
+
+	<!-- EN: Catch Small Fish -->
+  <VCEF_ChooseFishSmallLabel>Atrapar peces pequeños</VCEF_ChooseFishSmallLabel>
+	<!-- EN: Catch Medium Fish -->
+  <VCEF_ChooseFishMediumLabel>Atrapar peces medianos</VCEF_ChooseFishMediumLabel>
+	<!-- EN: Catch Large Fish -->
+  <VCEF_ChooseFishLargeLabel>Atrapar peces grandes</VCEF_ChooseFishLargeLabel>
+
+	<!-- EN: Allow Fishing -->
+  <VCEF_CommandAllowFishing>Permitir pesca</VCEF_CommandAllowFishing>
+	<!-- EN: Allow fishing to take place in this fishing zone -->
+  <VCEF_CommandAllowFishingDesc>Permitir que se pesque en esta zona de pesca</VCEF_CommandAllowFishingDesc>
+
+	<!-- EN: This zone of size {0} is set to catch fish of size -->
+  <VCEF_ZoneSetTo>Esta zona de tamaño {0} está configurada para atrapar peces de tamaño</VCEF_ZoneSetTo>
+	<!-- EN: Fish in this zone:  -->
+  <VCEF_FishesInThisZone>Peces en esta zona: </VCEF_FishesInThisZone>
+	<!-- EN: Oceanic fishing zone:  -->
+  <VCEF_IsZoneOceanZone>Zona de pesca oceánica: </VCEF_IsZoneOceanZone>
+	<!-- EN: Yes -->
+  <VCEF_Yes>Sí</VCEF_Yes>
+	<!-- EN: No -->
+  <VCEF_No>No</VCEF_No>
+	<!-- EN: This zone is too small (size {0}). Fishing zones need to be at least {1} tiles to be valid (this calculation is made every few seconds: unpause to update). -->
+  <VCEF_ZoneTooSmall>Esta zona es muy pequeña (tamaño {0}). Las zonas de pesca necesitan ser de al menos {1} casillas para ser válidas (este cálculo se realiza cada pocos segundos: quita la pausa para actualizar).</VCEF_ZoneTooSmall>
+
+	<!-- EN: No fish to catch in this biome (this could happen with modded biomes, ask the owner to add support! Or perhaps you are in a lifeless biome) -->
+  <VCEF_NoFish>No hay peces para atrapar en este bioma (esto puede ocurrir con biomas de mods, ¡pide al autor que agregue soporte! O quizás estás en un bioma sin vida)</VCEF_NoFish>
+
+	<!-- EN: While fishing, {0} has caught something special: {1} -->
+  <VCEF_CaughtSpecial>Mientras pescaba, {0} atrapó algo especial: {1}</VCEF_CaughtSpecial>
+
+	<!-- Options -->
+	
+	<!-- EN: Minimum Fishing Zone size -->
+  <VCEF_minimumZoneSize>Tamaño mínimo de zona de pesca</VCEF_minimumZoneSize>
+	<!-- EN: Minimum Fishing Zone size, default is 25 tiles -->
+  <VCEF_minimumZoneSizeTooltip>Tamaño mínimo de zona de pesca, el valor predeterminado es 25 casillas</VCEF_minimumZoneSizeTooltip>
+	
+	<!-- EN: Base Fishing Duration in ticks -->
+  <VCEF_smallFishDurationFactor>Duración base de pesca en ticks</VCEF_smallFishDurationFactor>
+	<!-- EN: Base Fishing Duration in ticks. Default is 4500 for small fish. Medium fish take double this time, while large fish take three times as much. Decreasing this increases food yield per day, and viceversa. -->
+  <VCEF_smallFishDurationFactorTooltip>Duración base de pesca en ticks. El valor predeterminado es 4500 para peces pequeños. Los peces medianos toman el doble de este tiempo, mientras que los grandes toman el triple. Disminuir esto aumenta la producción de comida por día, y viceversa.</VCEF_smallFishDurationFactorTooltip>
+
+	<!-- EN: Chance to get an special item instead of fish -->
+  <VCEF_chanceForSpecials>Probabilidad de obtener un objeto especial en lugar de un pez</VCEF_chanceForSpecials>
+	<!-- EN: Chance to get an special item instead of fish. Default is 1% per fishing operation. -->
+  <VCEF_chanceForSpecialsTooltip>Probabilidad de obtener un objeto especial en lugar de un pez. El valor predeterminado es 1% por operación de pesca.</VCEF_chanceForSpecialsTooltip>
+	<!-- EN: Chance to get an special item instead of fish. Default is 1% per fishing operation. Bear in mind in Odyssey there is by default a 5 day timer between "rare" catches, that you can tweak via these options too. -->
+  <VCEF_chanceForSpecialsTooltip_Odyssey>Probabilidad de obtener un objeto especial en lugar de un pez. El valor predeterminado es 1% por operación de pesca. Ten en cuenta que en Odyssey hay por defecto un temporizador de 5 días entre capturas "raras", que también puedes ajustar mediante estas opciones.</VCEF_chanceForSpecialsTooltip_Odyssey>
+	
+	<!-- EN: Minimum days between rare catches -->
+  <VCEF_minDaysBetweenRareCatches>Días mínimos entre capturas raras</VCEF_minDaysBetweenRareCatches>
+	<!-- EN: By default in Odyssey "rare" catches can only happen when 5 days have passed since the last "rare" catch. You can change that minimum interval here. -->
+  <VCEF_minDaysBetweenRareCatchesTooltip>Por defecto en Odyssey, las capturas "raras" solo pueden ocurrir cuando han pasado 5 días desde la última captura "rara". Puedes cambiar ese intervalo mínimo aquí.</VCEF_minDaysBetweenRareCatchesTooltip>
+	
+	<!-- EN: Minimum map temperature for reduced fish yield -->
+  <VCEF_minMapTempForLowFish>Temperatura mínima del mapa para rendimiento reducido de peces</VCEF_minMapTempForLowFish>
+	<!-- EN: Minimum map temperature for reduced fish yield. Below this temperature fish yield will be greatly reduced. Default is 0ºC. -->
+  <VCEF_minMapTempForLowFishTooltip>Temperatura mínima del mapa para rendimiento reducido de peces. Por debajo de esta temperatura, el rendimiento de peces se reducirá enormemente. El valor predeterminado es 0ºC.</VCEF_minMapTempForLowFishTooltip>
+	
+	<!-- EN: Maximum map temperature for reduced fish yield -->
+  <VCEF_maxMapTempForLowFish>Temperatura máxima del mapa para rendimiento reducido de peces</VCEF_maxMapTempForLowFish>
+	<!-- EN: Maximum map temperature for reduced fish yield. Above this temperature fish yield will be greatly reduced. Default is 50ºC. -->
+  <VCEF_maxMapTempForLowFishTooltip>Temperatura máxima del mapa para rendimiento reducido de peces. Por encima de esta temperatura, el rendimiento de peces se reducirá enormemente. El valor predeterminado es 50ºC.</VCEF_maxMapTempForLowFishTooltip>
+	
+	<!-- EN: Fishing Yield multiplier -->
+  <VCEF_fishingYieldMultiplier>Multiplicador de rendimiento de pesca</VCEF_fishingYieldMultiplier>
+	<!-- EN: The amount of fish caught will be scaled by this multiplier. -->
+  <VCEF_fishingYieldMultiplierTooltip>La cantidad de peces capturados se escalará por este multiplicador.</VCEF_fishingYieldMultiplierTooltip>
+	
+	<!-- EN: Fishing Speed multiplier -->
+  <VCEF_fishingSpeedMultiplier>Multiplicador de velocidad de pesca</VCEF_fishingSpeedMultiplier>
+	<!-- EN: The speed to catch the fish will be scaled by this multiplier. -->
+  <VCEF_fishingSpeedMultiplierTooltip>La velocidad para atrapar peces se escalará por este multiplicador.</VCEF_fishingSpeedMultiplierTooltip>
+	
+	<!-- EN: Max fish population multiplier -->
+  <VCEF_maxFishPopulationMultiplier>Multiplicador de población máxima de peces</VCEF_maxFishPopulationMultiplier>
+	<!-- EN: In Odyssey, max fish population in a body of water is defined per biome. This multiplier will be applied to that limit. -->
+  <VCEF_maxFishPopulationMultiplierTooltip>En Odyssey, la población máxima de peces en un cuerpo de agua se define por bioma. Este multiplicador se aplicará a ese límite.</VCEF_maxFishPopulationMultiplierTooltip>
+	
+	<!-- EN: Fish amount (in fishing zone) multiplier -->
+  <VCEF_fishAmountMultiplier>Multiplicador de cantidad de peces (en zona de pesca)</VCEF_fishAmountMultiplier>
+	<!-- EN: Amount of fish that will be present on a fishing zone. This multiplier will be applied to that amount. -->
+  <VCEF_fishAmountMultiplierTooltip>Cantidad de peces que estarán presentes en una zona de pesca. Este multiplicador se aplicará a esa cantidad.</VCEF_fishAmountMultiplierTooltip>
+	
+	<!-- EN: Chance for negative outcomes -->
+  <VCEF_chanceForNegativeOutcome>Probabilidad de resultados negativos</VCEF_chanceForNegativeOutcome>
+	<!-- EN: By default there is a 2% chance that any fishing will result in a negative outcome. -->
+  <VCEF_chanceForNegativeOutcomeTooltip>Por defecto hay un 2% de probabilidad de que cualquier pesca resulte en un resultado negativo.</VCEF_chanceForNegativeOutcomeTooltip>
+	
+	<!-- EN: Fisher drops fish on the ground instead of hauling to stockpiles -->
+  <VCEF_dropFish>El pescador deja los peces en el suelo en lugar de llevarlos a los almacenes</VCEF_dropFish>
+	
+	<!-- EN: Reset all -->
+  <VCEF_Reset_Plain>Restablecer todo</VCEF_Reset_Plain>
+	
+	<!-- EN: Disable Gill Rot -->
+  <VCEF_DisableGillRot>Desactivar podredumbre branquial</VCEF_DisableGillRot>
+	<!-- EN: If checked, it will make Gill Rit impossible to happen under any circumstances. -->
+  <VCEF_DisableGillRotDesc>Si está activado, hará que la podredumbre branquial sea imposible de ocurrir bajo cualquier circunstancia.</VCEF_DisableGillRotDesc>
+	
+	<!-- EN: Move "Fish" work type to the lowest priority (requires game reload) -->
+  <VCEF_UseWorktype>Mover el tipo de trabajo "Pescar" a la prioridad más baja (requiere reiniciar el juego)</VCEF_UseWorktype>
+	<!-- EN: By default, Odyssey puts the Fish work type on the work priority order between Craft and Haul. With this option Fish will be at priority 90, after Research, which was the way this mod worked without Odyssey. -->
+  <VCEF_UseWorktypeDesc>Por defecto, Odyssey coloca el tipo de trabajo Pescar en el orden de prioridad entre Fabricar y Transportar. Con esta opción, Pescar estará en prioridad 90, después de Investigar, que era la forma en que funcionaba este mod sin Odyssey.</VCEF_UseWorktypeDesc>
+	
+	<!-- Biotech -->
+	
+	<!-- EN: This fishing zone is too polluted to fish -->
+  <VCEF_TooPolluted>Esta zona de pesca está demasiado contaminada para pescar</VCEF_TooPolluted>
+
+
+
+
+</LanguageData>
