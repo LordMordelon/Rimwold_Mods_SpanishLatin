@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+	<!-- ================================ Gene Centrifuge ====================== -->
+	<!-- EN: Separate gene -->
+  <RS.SeparateGene>Separar gen</RS.SeparateGene>
+	<!-- EN: Select a genepack from which to separate a gene from. -->
+  <RS.SeparateGeneDesc>Selecciona un paquete genético del cual separar un gen.</RS.SeparateGeneDesc>
+	<!-- EN: Separating Genes -->
+  <RS.SeparatingGenes>Separando genes</RS.SeparatingGenes>
+	<!-- EN: Select gene -->
+  <RS.SelectGene>Seleccionar gen</RS.SelectGene>
+	<!-- EN: The selected gene will be separated from the rest of the gene pack. -->
+  <RS.SelectGeneExplanation>El gen seleccionado se separará del resto del paquete genético.</RS.SelectGeneExplanation>
+	<!-- EN: After successful separation two genepacks will be spawned. One only with the selected gene, the other one with the rest. This process is not perfect and there is a small chance of one of the gene packs being destroyed. -->
+  <RS.SeparateGeneExplanation>Tras una separación exitosa, se generarán dos paquetes genéticos: uno solo con el gen seleccionado y el otro con el resto. Este proceso no es perfecto y existe una pequeña probabilidad de que uno de los paquetes genéticos sea destruido.</RS.SeparateGeneExplanation>
+	<!-- EN: Start gene separating -->
+  <RS.StartSeparating>Iniciar separación de genes</RS.StartSeparating>
+	<!-- EN: Gene centrifuge finished separating genepacks! -->
+  <RS.FinishedSeparatingMessage>¡La centrífuga genética ha terminado de separar los paquetes genéticos!</RS.FinishedSeparatingMessage>
+	<!-- EN: Gene centrifuge finished separating genepacks! {0} was destroyed during the process. -->
+  <RS.FinishedSeparatingDestroyedMessage>¡La centrífuga genética ha terminado de separar los paquetes genéticos! {0} fue destruido durante el proceso.</RS.FinishedSeparatingDestroyedMessage>
+	<!-- EN: Separating: {0} -->
+  <RS.SeparatingProgress>Separando: {0}</RS.SeparatingProgress>
+	<!-- EN: Gene centrifuge is working. -->
+  <RS.CentrigureWorking>La centrífuga genética está funcionando.</RS.CentrigureWorking>
+	<!-- EN: Cancel gene separating -->
+  <RS.CancelGeneSeparating>Cancelar separación de genes</RS.CancelGeneSeparating>
+	<!-- EN: Cancel separating genes. -->
+  <RS.CancelGeneSeparatingDesc>Cancela la separación de genes.</RS.CancelGeneSeparatingDesc>
+	<!-- EN: Contains: {0} -->
+  <RS.ContainsGenepack>Contiene: {0}</RS.ContainsGenepack>
+	<!-- EN: Select a gene to separate. -->
+  <RS.SelectAGeneToSeparate>Selecciona un gen para separar.</RS.SelectAGeneToSeparate>
+	<!-- ================================ Xenogerm duplicator ====================== -->
+	<!-- EN: Duplicate xenogerm -->
+  <RS.DuplicateXenogerm>Duplicar xenogermen</RS.DuplicateXenogerm>
+	<!-- EN: Select a xenogerm to duplicate. Xenogerms with archite genes require archite capsules to be loaded. -->
+  <RS.DuplicateXenogermDesc>Selecciona un xenogermen para duplicar. Los xenogérmenes con genes de arquitas requieren cargar cápsulas de arquitas.</RS.DuplicateXenogermDesc>
+	<!-- EN: Xenogerm duplicator is working -->
+  <RS.DuplicatorWorking>El duplicador de xenogérmenes está funcionando</RS.DuplicatorWorking>
+	<!-- EN: Cancel xenogerm duplication -->
+  <RS.CancelXenogermDuplication>Cancelar duplicación de xenogermen</RS.CancelXenogermDuplication>
+	<!-- EN: Cancel xenogerm duplication. -->
+  <RS.CancelXenogermDuplicationDesc>Cancela la duplicación del xenogermen.</RS.CancelXenogermDuplicationDesc>
+	<!-- EN: Duplicating: {0} -->
+  <RS.DuplicationProgress>Duplicando: {0}</RS.DuplicationProgress>
+	<!-- EN: Contains: {0} -->
+  <RS.ContainsXenogerm>Contiene: {0}</RS.ContainsXenogerm>
+	<!-- EN: Xenogerm duplicator finished duplicating xenogerm! -->
+  <RS.FinishedXenogermDuplicationMessage>¡El duplicador de xenogérmenes ha terminado de duplicar el xenogermen!</RS.FinishedXenogermDuplicationMessage>
+	<!-- EN: Do you really want to duplicate the xenogerm? Not enough archite capsules are loaded to duplicate all any archite genes inside the xenogerm. -->
+  <RS.NotEnoughArchiteCapsulesLoaded>¿Realmente deseas duplicar el xenogermen? No hay suficientes cápsulas de arquitas cargadas para duplicar los genes de arquitas presentes en el xenogermen.</RS.NotEnoughArchiteCapsulesLoaded>
+  <!-- EN: Eject archite capsules -->
+  <RS.EjectArchites>Expulsar cápsulas de arquitas</RS.EjectArchites>
+  <!-- EN: Eject all contained archite capsules onto the ground. -->
+  <RS.EjectArchitesDesc>Expulsa todas las cápsulas de arquitas contenidas al suelo.</RS.EjectArchitesDesc>
+  <!-- EN: Target archite capsule amount: {0} -->
+  <RS.TargetArchiteCapsuleLevel>Cantidad objetivo de cápsulas de arquitas: {0}</RS.TargetArchiteCapsuleLevel>
+  <!-- ================================ Void spike infusion ====================== -->
+	<!-- EN: Infuse voidspike -->
+  <RS.InfuseDarkArchite>Infundir espina del vacío</RS.InfuseDarkArchite>
+	<!-- EN: Infusing a voidspike will put {PAWN_nameDef} in a short coma as the spike's gene integrates itself. On average, this lasts for {COMADURATION}. -->
+  <RS.InfuseDarkArchiteWarningDesc>Infundir una espina del vacío pondrá a {PAWN_nameDef} en un coma breve mientras el gen de la espina se integra. En promedio, esto dura {COMADURATION}.</RS.InfuseDarkArchiteWarningDesc>
+	<!-- EN: After infusion, {PAWN_nameDef} will have a metabolism value of {MET} and a food consumption multiplier of {CONSUMPTION}. -->
+  <RS.InfuseDarkArchiteWarningNewMetabolism>Tras la infusión, {PAWN_nameDef} tendrá un valor de metabolismo de {MET} y un multiplicador de consumo de comida de {CONSUMPTION}.</RS.InfuseDarkArchiteWarningNewMetabolism>
+	<!-- EN: Voidspike infusion ordered -->
+  <RS.LetterLabelDarkArchiteOrderedInfused>Infusión de espina del vacío ordenada</RS.LetterLabelDarkArchiteOrderedInfused>
+	<!-- EN: You have ordered a voidspike to be infused into {PAWN_nameDef}. This procedure requires a medical bed.\n\nYou can cancel this procedure by going to {PAWN_nameDef}'s health -> operations tab. -->
+  <RS.LetterDarkArchiteOrderedInfused>Has ordenado infundir una espina del vacío en {PAWN_nameDef}. Este procedimiento requiere una cama médica.\n\nPuedes cancelar este procedimiento yendo a la pestaña Salud -> Operaciones de {PAWN_nameDef}.</RS.LetterDarkArchiteOrderedInfused>
+	<!-- EN: Order infusion into {PAWN_nameDef} -->
+  <RS.OrderInfusionIntoPawn>Ordenar infusión en {PAWN_nameDef}</RS.OrderInfusionIntoPawn>
+	<!-- EN: Infuse this into a person to introduce a dark archite gene into their genetic code.\n\nThis is a surgical operation, so it requires a doctor and medical bed. -->
+  <RS.InfuseDarkArchiteDesc>Infundir esto en una persona para introducir un gen de arquita oscura en su código genético.\n\nEsta es una operación quirúrgica, por lo que requiere un médico y una cama médica.</RS.InfuseDarkArchiteDesc>
+	<!-- EN: Cansel infusion -->
+  <RS.CancelInfusion>Cancelar infusión</RS.CancelInfusion>
+	<!-- EN: Cancel infusing this voidspike into {PAWN_nameDef}. -->
+  <RS.CancelInfusingDesc>Cancela la infusión de esta espina del vacío en {PAWN_nameDef}.</RS.CancelInfusingDesc>
+	<!-- EN: Cannot infuse in temporary faction members. -->
+  <RS.MessageCannotInfuseInTempFactionMembers>No se puede infundir en miembros temporales de la facción.</RS.MessageCannotInfuseInTempFactionMembers>
+	<!-- EN: Target must have at least one dark archite gene. -->
+  <RS.TargetMustHaveAtLeastOneDarkGene>El objetivo debe tener al menos un gen de arquitas oscuras.</RS.TargetMustHaveAtLeastOneDarkGene>
+	<!-- EN: Cannot infuse {1}, {PAWN_nameDef} already has the dark gene. -->
+  <RS.CannotInfuseAlreadyHasDarkGene>No se puede infundir {1}, {PAWN_nameDef} ya tiene el gen oscuro.</RS.CannotInfuseAlreadyHasDarkGene>
+</LanguageData>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: gene centrifuge -->
+  <RS_GeneCentrifuge.label>centrífuga genética</RS_GeneCentrifuge.label>
+  <!-- EN: A complex centrifugal system capable of separating desirable genetic elements by exploiting minute molecular differences. In effect, this building can separate a desired gene from the rest of a genepack. After the process, two gene packs will be spawned, with the selected gene in one and the remaining genes in the other. -->
+  <RS_GeneCentrifuge.description>Un complejo sistema centrífugo capaz de separar elementos genéticos deseables aprovechando diminutas diferencias moleculares. En efecto, esta estructura puede separar un gen deseado del resto de un paquete genético. Tras el proceso, se generarán dos paquetes genéticos: uno con el gen seleccionado y otro con los genes restantes.</RS_GeneCentrifuge.description>
+  
+  <!-- EN: gene repository -->
+  <RS_GeneRepository.label>repositorio genético</RS_GeneRepository.label>
+  <!-- EN: This building can store an huge amount of genepacks and make them usable to create new xenogerms, when placed near a gene assembler. Large gene libraries can be made more space efficient with gene registers.\n\nWhen powered, gene registers prevent genepacks from deteriorating and will slowly repair deterioration. -->
+  <RS_GeneRepository.description>Esta estructura puede almacenar una enorme cantidad de paquetes genéticos y permitir su uso para crear nuevos xenogérmenes cuando se coloca cerca de un ensamblador de genes. Las grandes bibliotecas de genes pueden ser más eficientes en espacio con los registros de genes.\n\nCuando tiene energía, los registros de genes evitan que los paquetes genéticos se deterioren y repararán lentamente el deterioro.</RS_GeneRepository.description>
+  
+  <!-- EN: gene vault -->
+  <RS_GeneVault.label>bóveda genética</RS_GeneVault.label>
+  <!-- EN: A combination gene processor combined with two advanced gene banks. This building, when placed near a gene assembler, increases the maximum genetic complexity of the xenogerms you can assemble, as well as access a plethora of stored genepacks during their creation.\n\nWhen powered, gene vaults prevent genepacks from deteriorating and will slow repair deterioration. -->
+  <RS_GeneVault.description>Una combinación de procesador genético junto con dos bancos de genes avanzados. Esta estructura, al colocarse cerca de un ensamblador de genes, aumenta la complejidad genética máxima de los xenogérmenes que puedes ensamblar, además de brindar acceso a una gran cantidad de paquetes genéticos almacenados durante su creación.\n\nCuando tiene energía, las bóvedas genéticas evitan que los paquetes genéticos se deterioren y repararán lentamente el deterioro.</RS_GeneVault.description>
+  
+  <!-- EN: xenogerm duplicator -->
+  <RS_XenoGermDuplicator.label>duplicador de xenogérmenes</RS_XenoGermDuplicator.label>
+  <!-- EN: A deceptively simple machine that synthesises genetic material in order to mass manufacture an exact copy of an existing xenogerms. This building can duplicate any existing xenogerm, including any present archite genes, as long as it is supplied with the required amount of archite capsules. -->
+  <RS_XenoGermDuplicator.description>Una máquina engañosamente simple que sintetiza material genético para fabricar en masa una copia exacta de un xenogermen existente. Esta estructura puede duplicar cualquier xenogermen existente, incluidos los genes de arquitas presentes, siempre que se le suministre la cantidad requerida de cápsulas de arquitas.</RS_XenoGermDuplicator.description>
+  <!-- EN: Archite capsules -->
+  <RS_XenoGermDuplicator.comps.CompArchiteRefuelable.fuelGizmoLabel>Cápsulas de arquitas</RS_XenoGermDuplicator.comps.CompArchiteRefuelable.fuelGizmoLabel>
+  <!-- EN: Archite capsules -->
+  <RS_XenoGermDuplicator.comps.CompArchiteRefuelable.fuelLabel>Cápsulas de arquitas</RS_XenoGermDuplicator.comps.CompArchiteRefuelable.fuelLabel>
+  
+</LanguageData>

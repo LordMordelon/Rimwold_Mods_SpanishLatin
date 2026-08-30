@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: dark archite harvesting -->
+  <RS_DarkArchiteHarvesting.label>cosecha de arquitas oscuras</RS_DarkArchiteHarvesting.label>
+  <!-- EN: Perform a psychic ritual that harvests a targets dark archite genes, ripping them from their body, killing them in the process. The harvested genes will be stored in a voidspike and can be reimplanted into another person afterwards. -->
+  <RS_DarkArchiteHarvesting.description>Realiza un ritual psíquico que cosecha los genes de arquitas oscuras de un objetivo, arrancándoselos del cuerpo y matándolo en el proceso. Los genes cosechados se almacenarán en una espina del vacío y se podrán reimplantar en otra persona después.</RS_DarkArchiteHarvesting.description>
+  <!-- EN:
+    <li>subject->dark archite hervesting</li>
+    <li>subject->ripping corrupted genes</li>
+    <li>subject_story->researched dark archite genes</li>
+    <li>subject_story->gathered tales of corrupted archite genes</li>
+    <li>subject_story->gathered stories of mad geneticists</li>
+    <li>subject_story->curated stories of void corruption</li>
+    <li>subject_story->aggregated legends of harvesting genes</li>
+    <li>subject_gerund->performing a ritual to harvest genes</li>
+    <li>subject_gerund->ripping genes out of a body</li>
+  -->
+  <RS_DarkArchiteHarvesting.generalRules.rulesStrings>
+    <li>subject->cosecha de arquitas oscuras</li>
+    <li>subject->arrancar genes corrompidos</li>
+    <li>subject_story->investigó genes de arquitas oscuras</li>
+    <li>subject_story->recopiló relatos sobre genes de arquitas corrompidos</li>
+    <li>subject_story->reunió historias de genetistas dementes</li>
+    <li>subject_story->organizó historias sobre la corrupción del vacío</li>
+    <li>subject_story->recopiló leyendas sobre la cosecha de genes</li>
+    <li>subject_gerund->realizar un ritual para cosechar genes</li>
+    <li>subject_gerund->arrancar genes de un cuerpo</li>
+  </RS_DarkArchiteHarvesting.generalRules.rulesStrings>
+  
+</LanguageData>
