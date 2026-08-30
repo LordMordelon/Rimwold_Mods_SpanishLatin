@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <AcceptDanger>Permitir pacientes durante situaciones de peligro</AcceptDanger>
+  <AcceptDangerTooltip>Marca esto si deseas omitir la comprobación de que el mapa sea seguro para la llegada de pacientes.</AcceptDangerTooltip>
+  <AcceptPatients>Aceptar pacientes</AcceptPatients>
+  <AcceptPatientsTooltip>desmarca esto si deseas evitar que los pacientes te visiten</AcceptPatientsTooltip>
+  <AcceptSurgery>Aceptar cirugías</AcceptSurgery>
+  <AcceptSurgeryTooltip>desmarca esto si no deseas recibir eventos de cirugía</AcceptSurgeryTooltip>
+  <BedsFilled>Camas ocupadas: {0}/{1}</BedsFilled>
+  <BedsReserved>Camas reservadas para colonos</BedsReserved>
+  <BedsReservedTooltip>Para asegurarte de que tus camas no se llenen por completo de pacientes.</BedsReservedTooltip>
+  <BlacklistDiseases>Enfermedades en lista negra ({0})...</BlacklistDiseases>
+  <BlacklistDiseasesTitle>Enfermedades en lista negra</BlacklistDiseasesTitle>
+  <BlacklistFactions>Facciones en lista negra ({0})...</BlacklistFactions>
+  <BlacklistFactionsTitle>Facciones en lista negra</BlacklistFactionsTitle>
+  <BlacklistHint>Las entradas marcadas están en la lista negra y no aparecerán.</BlacklistHint>
+  <BlacklistSurgeries>Cirugías en lista negra ({0})...</BlacklistSurgeries>
+  <BlacklistSurgeriesTitle>Cirugías en lista negra</BlacklistSurgeriesTitle>
+  <Blacklists>Lista negra</Blacklists>
+  <CommandBedSetAsHospitalDesc>Define si esta cama es para pacientes.</CommandBedSetAsHospitalDesc>
+  <CommandBedSetAsHospitalLabel>Cama de hospital</CommandBedSetAsHospitalLabel>
+  <CommandBedSetAsSurgeryDesc>Define si esta cama es para pacientes de cirugía.</CommandBedSetAsSurgeryDesc>
+  <CommandBedSetAsSurgeryLabel>Cama quirúrgica</CommandBedSetAsSurgeryLabel>
+  <CureDisease>aplicar medicina</CureDisease>
+  <CureWounds>atender heridas</CureWounds>
+  <DeathGoodwillPenalty>Pérdida de buena voluntad por muerte de paciente</DeathGoodwillPenalty>
+  <DeathGoodwillPenaltyTooltip>Buena voluntad perdida con una facción cuando uno de sus pacientes muere. (predeterminado: 10)</DeathGoodwillPenaltyTooltip>
+  <DiagnosisArtificialBodyPart>desea un(a) {0}</DiagnosisArtificialBodyPart>
+  <DiagnosisSurgeryNoPart>necesita una operación</DiagnosisSurgeryNoPart>
+  <DiagnosisSurgeryOnPart>problema con {0}</DiagnosisSurgeryOnPart>
+  <DiagnosisWounds>heridas</DiagnosisWounds>
+  <DifficultySettings>Dificultad</DifficultySettings>
+  <Disallow>Rechazar operación</Disallow>
+  <DiseaseSeverityMultiplier>Multiplicador de gravedad de enfermedades</DiseaseSeverityMultiplier>
+  <DiseaseSeverityMultiplierTooltip>Escala qué tan graves son las enfermedades de los pacientes que llegan. Mayor es más difícil. (predeterminado: 100%)</DiseaseSeverityMultiplierTooltip>
+  <Dismiss>Despedir</Dismiss>
+  <GoodwillGainMultiplier>Multiplicador de ganancia de buena voluntad</GoodwillGainMultiplier>
+  <GoodwillGainMultiplierTooltip>Escala la buena voluntad obtenida cuando los pacientes satisfechos se van. (predeterminado: 100%)</GoodwillGainMultiplierTooltip>
+  <HospitalMapSettings>Políticas del hospital...</HospitalMapSettings>
+  <HospitalSettings>Políticas del hospital</HospitalSettings>
+  <MCE_Crash>Un gran accidente aéreo</MCE_Crash>
+  <MCE_Fire>Un gran incendio de edificio</MCE_Fire>
+  <MCE_Pandemic>Una pandemia</MCE_Pandemic>
+  <MCE_Raid>Una gran incursión</MCE_Raid>
+  <MassCasualties>Activar eventos con múltiples víctimas</MassCasualties>
+  <MassCasualtiesTooltip>Un evento con múltiples víctimas abrumará esporádicamente tu hospital con pacientes.</MassCasualtiesTooltip>
+  <PatientsTab>Pacientes</PatientsTab>
+  <PreventIncapacitatedArrivals>Evitar llegadas de pacientes incapacitados</PreventIncapacitatedArrivals>
+  <PreventIncapacitatedArrivalsTooltip>Los pacientes dejan de recibir heridas justo antes de colapsar, por lo que llegan heridos pero aún capaces de caminar. Desactívalo para eventos con múltiples víctimas más difíciles con pacientes incapacitados que deberás rescatar.</PreventIncapacitatedArrivalsTooltip>
+  <RefusedOperations>Operaciones rechazadas:</RefusedOperations>
+  <ResetToDefaults>Restablecer valores predeterminados</ResetToDefaults>
+  <ShowMessageAtArrival>Mostrar mensaje en lugar de carta</ShowMessageAtArrival>
+  <ShowMessageAtArrivalTooltip>Muestra un mensaje en lugar de una carta cuando llega un nuevo paciente.</ShowMessageAtArrivalTooltip>
+  <SilverMultiplier>Multiplicador de plata</SilverMultiplier>
+  <SilverMultiplierTooltip>Modifica la factura de los pacientes según este porcentaje. (recomendado: 100%)</SilverMultiplierTooltip>
+  <SurgeryFailGoodwillPenalty>Pérdida de buena voluntad por fallo quirúrgico</SurgeryFailGoodwillPenalty>
+  <SurgeryFailGoodwillPenaltyTooltip>Buena voluntad perdida con una facción cuando falla una cirugía en su paciente. (predeterminado: 1)</SurgeryFailGoodwillPenaltyTooltip>
+  <WoundSeverityMultiplier>Multiplicador de gravedad de heridas</WoundSeverityMultiplier>
+  <WoundSeverityMultiplierTooltip>Escala qué tan gravemente heridos llegan los pacientes. Mayor es más difícil. (predeterminado: 100%)</WoundSeverityMultiplierTooltip>
+</LanguageData>
