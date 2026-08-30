@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: Aerial -->
@@ -36,7 +36,7 @@
   <!-- EN: Things that automate stuff. -->
   <Ferny_Automation.description>Cosas que automatizan tareas.</Ferny_Automation.description>
   
-  <!-- EN: Auxiliaries -->
+  <!-- EN: Linkables -->
   <Ferny_Auxiliaries.label>Auxiliares</Ferny_Auxiliaries.label>
   <!-- EN: Things that boost workspeed. -->
   <Ferny_Auxiliaries.description>Cosas que aumentan la velocidad de trabajo.</Ferny_Auxiliaries.description>
@@ -86,6 +86,11 @@
   <!-- EN: Build infrastructure for your enemies. -->
   <Ferny_CombatInfrastructure.description>Construir infraestructura para tus enemigos.</Ferny_CombatInfrastructure.description>
   
+  <!-- EN: Concealed -->
+  <Ferny_Concealed.label>Oculto</Ferny_Concealed.label>
+  <!-- EN: Build conealed buildings for surprising your enemies. -->
+  <Ferny_Concealed.description>Construir edificios ocultos para sorprender a tus enemigos.</Ferny_Concealed.description>
+  
   <!-- EN: Influence -->
   <Ferny_Control.label>Influencia</Ferny_Control.label>
   <!-- EN: Influence pawn behavior. -->
@@ -105,6 +110,11 @@
   <Ferny_DecoArt.label>Arte</Ferny_DecoArt.label>
   <!-- EN: Manage art and music decorations. -->
   <Ferny_DecoArt.description>Gestionar decoraciones de arte y música.</Ferny_DecoArt.description>
+  
+  <!-- EN: Frames -->
+  <Ferny_DecoFrames.label>Marcos</Ferny_DecoFrames.label>
+  <!-- EN: Manage frame decorations. -->
+  <Ferny_DecoFrames.description>Gestionar decoraciones de marcos.</Ferny_DecoFrames.description>
   
   <!-- EN: Hanging -->
   <Ferny_DecoHanging.label>Colgantes</Ferny_DecoHanging.label>
@@ -136,6 +146,11 @@
   <!-- EN: Build structural doors. -->
   <Ferny_Doors.description>Construir puertas estructurales.</Ferny_Doors.description>
   
+  <!-- EN: Elevation -->
+  <Ferny_Elevation.label>Elevación</Ferny_Elevation.label>
+  <!-- EN: Build stairs, ladders, and elevators between levels. -->
+  <Ferny_Elevation.description>Construir escaleras, escaleras de mano y ascensores entre niveles.</Ferny_Elevation.description>
+  
   <!-- EN: Enhancement -->
   <Ferny_Enhancement.label>Mejora</Ferny_Enhancement.label>
   <!-- EN: Enhance your colonists. -->
@@ -160,6 +175,11 @@
   <Ferny_Firefoam.label>Bomberos</Ferny_Firefoam.label>
   <!-- EN: Manage fires and firefoam. -->
   <Ferny_Firefoam.description>Gestionar incendios y espuma contraincendios.</Ferny_Firefoam.description>
+  
+  <!-- EN: Fixtures -->
+  <Ferny_Fixtures.label>Accesorios</Ferny_Fixtures.label>
+  <!-- EN: Useful household fixtures and room accessories. -->
+  <Ferny_Fixtures.description>Accesorios útiles para el hogar y la habitación.</Ferny_Fixtures.description>
   
   <!-- EN: Carpet -->
   <Ferny_FloorsCarpet.label>Alfombra</Ferny_FloorsCarpet.label>
@@ -200,6 +220,11 @@
   <Ferny_Foundations.label>Cimientos</Ferny_Foundations.label>
   <!-- EN: Build structural bridges. -->
   <Ferny_Foundations.description>Construir puentes estructurales.</Ferny_Foundations.description>
+  
+  <!-- EN: Frames -->
+  <Ferny_Framing.label>Enmarcado</Ferny_Framing.label>
+  <!-- EN: Manage door frames, door panels, and architectural framing. -->
+  <Ferny_Framing.description>Gestionar marcos de puertas, paneles de puertas y estructuras arquitectónicas.</Ferny_Framing.description>
   
   <!-- EN: Gear -->
   <Ferny_GearStorage.label>Equipo</Ferny_GearStorage.label>
@@ -295,6 +320,11 @@
   <!-- EN: Things that reach out into the world. -->
   <Ferny_Outreach.description>Cosas que se extienden hacia el mundo.</Ferny_Outreach.description>
   
+  <!-- EN: Platform -->
+  <Ferny_PlatformTransport.label>Plataforma</Ferny_PlatformTransport.label>
+  <!-- EN: Build platform transport. -->
+  <Ferny_PlatformTransport.description>Construir transporte en plataformas.</Ferny_PlatformTransport.description>
+  
   <!-- EN: Generation -->
   <Ferny_PowerGeneration.label>Generación</Ferny_PowerGeneration.label>
   <!-- EN: Things that help you generate your power. -->
@@ -309,6 +339,11 @@
   <Ferny_PowerStorage.label>Almacenamiento</Ferny_PowerStorage.label>
   <!-- EN: Things that help you store power. -->
   <Ferny_PowerStorage.description>Cosas que te ayudan a almacenar energía.</Ferny_PowerStorage.description>
+  
+  <!-- EN: Prisoners -->
+  <Ferny_Prisoners.label>Prisioneros</Ferny_Prisoners.label>
+  <!-- EN: Build prisoner containment and restraint facilities. -->
+  <Ferny_Prisoners.description>Construir instalaciones de contención y sujeción de prisioneros.</Ferny_Prisoners.description>
   
   <!-- EN: Refine -->
   <Ferny_ProcessingProduction.label>Refinar</Ferny_ProcessingProduction.label>
@@ -370,7 +405,7 @@
   <!-- EN: Build space power buildings. -->
   <Ferny_SpacePower.description>Construir edificios de energía espacial.</Ferny_SpacePower.description>
   
-  <!-- EN: Production -->
+  <!-- EN: Compact -->
   <Ferny_SpaceProduction.label>Producción</Ferny_SpaceProduction.label>
   <!-- EN: Build space production benches. -->
   <Ferny_SpaceProduction.description>Construir mesas de producción espacial.</Ferny_SpaceProduction.description>
@@ -449,8 +484,5 @@
   <Ferny_World.label>Mundo</Ferny_World.label>
   <!-- EN: Manage the world. -->
   <Ferny_World.description>Gestionar el mundo.</Ferny_World.description>
-  
-  <!-- EN: Resources -->
-  <VCHE_PipeNetworks.label>Recursos</VCHE_PipeNetworks.label>
   
 </LanguageData>
