@@ -1,4 +1,4 @@
-Reporte de Mods Procesados - 2026-08-31 20:23:47
+Reporte de Mods Procesados - 2026-08-31 20:52:01
 ==================================================
 
 Total de mods encontrados: 241
@@ -370,19 +370,7 @@ Traceback (most recent call last):
     parser.feed(text)
 xml.etree.ElementTree.ParseError: not well-formed (invalid token): line 6, column 520
 
-12. Archivo: Archivo Traducciones/Persona Mechanoid Pawns 2/SpanishLatin (Español(Latinoamérica))/DefInjected/ThingDef/Recipes_Misc.xml
-   Motivo: XML invalido: no element found: line 1, column 0
-   Trace:
-Traceback (most recent call last):
-  File "/home/runner/work/Rimwold_Mods_SpanishLatin/Rimwold_Mods_SpanishLatin/Programas/cli_compilador.py", line 206, in copiar_traducciones
-    root = ET.fromstring(content, parser=parser)
-           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/xml/etree/ElementTree.py", line 1351, in XML
-    return parser.close()
-           ^^^^^^^^^^^^^^
-xml.etree.ElementTree.ParseError: no element found: line 1, column 0
-
-13. Archivo: Archivo Traducciones/Persona Mechanoid Pawns 2/SpanishLatin (Español(Latinoamérica))/DefInjected/ThingDef/HediffsUpgradesMain.xml
+12. Archivo: Archivo Traducciones/Persona Mechanoid Pawns 2/SpanishLatin (Español(Latinoamérica))/DefInjected/ThingDef/HediffsUpgradesMain.xml
    Motivo: XML invalido: not well-formed (invalid token): line 93, column 767
    Trace:
 Traceback (most recent call last):
@@ -393,8 +381,8 @@ Traceback (most recent call last):
     parser.feed(text)
 xml.etree.ElementTree.ParseError: not well-formed (invalid token): line 93, column 767
 
-14. Archivo: Archivo Traducciones/Persona Mechanoid Pawns 2/SpanishLatin (Español(Latinoamérica))/DefInjected/ThingDef/Races_CivilMechhive_NormalMechs.xml
-   Motivo: XML invalido: not well-formed (invalid token): line 6, column 960
+13. Archivo: Archivo Traducciones/Persona Mechanoid Pawns 2/SpanishLatin (Español(Latinoamérica))/DefInjected/ThingDef/Races_CivilMechhive_NormalMechs.xml
+   Motivo: XML invalido: not well-formed (invalid token): line 6, column 962
    Trace:
 Traceback (most recent call last):
   File "/home/runner/work/Rimwold_Mods_SpanishLatin/Rimwold_Mods_SpanishLatin/Programas/cli_compilador.py", line 206, in copiar_traducciones
@@ -402,9 +390,9 @@ Traceback (most recent call last):
            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
   File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/xml/etree/ElementTree.py", line 1350, in XML
     parser.feed(text)
-xml.etree.ElementTree.ParseError: not well-formed (invalid token): line 6, column 960
+xml.etree.ElementTree.ParseError: not well-formed (invalid token): line 6, column 962
 
-15. Archivo: Archivo Traducciones/Persona Mechanoid Pawns 2/SpanishLatin (Español(Latinoamérica))/DefInjected/ThingDef/Buildings_Charging.xml
+14. Archivo: Archivo Traducciones/Persona Mechanoid Pawns 2/SpanishLatin (Español(Latinoamérica))/DefInjected/ThingDef/Buildings_Charging.xml
    Motivo: XML invalido: not well-formed (invalid token): line 11, column 253
    Trace:
 Traceback (most recent call last):
@@ -415,7 +403,7 @@ Traceback (most recent call last):
     parser.feed(text)
 xml.etree.ElementTree.ParseError: not well-formed (invalid token): line 11, column 253
 
-16. Archivo: Archivo Traducciones/Persona Mechanoid Pawns 2/SpanishLatin (Español(Latinoamérica))/DefInjected/ThingDef/PersonaMech_Items.xml
+15. Archivo: Archivo Traducciones/Persona Mechanoid Pawns 2/SpanishLatin (Español(Latinoamérica))/DefInjected/ThingDef/PersonaMech_Items.xml
    Motivo: XML invalido: not well-formed (invalid token): line 6, column 588
    Trace:
 Traceback (most recent call last):
@@ -426,7 +414,7 @@ Traceback (most recent call last):
     parser.feed(text)
 xml.etree.ElementTree.ParseError: not well-formed (invalid token): line 6, column 588
 
-17. Archivo: Archivo Traducciones/Persona Mechanoid Pawns 2/SpanishLatin (Español(Latinoamérica))/DefInjected/ThingDef/Buildings_Misc.xml
+16. Archivo: Archivo Traducciones/Persona Mechanoid Pawns 2/SpanishLatin (Español(Latinoamérica))/DefInjected/ThingDef/Buildings_Misc.xml
    Motivo: XML invalido: not well-formed (invalid token): line 6, column 514
    Trace:
 Traceback (most recent call last):
@@ -437,7 +425,7 @@ Traceback (most recent call last):
     parser.feed(text)
 xml.etree.ElementTree.ParseError: not well-formed (invalid token): line 6, column 514
 
-18. Archivo: Archivo Traducciones/Persona Mechanoid Pawns 2/SpanishLatin (Español(Latinoamérica))/DefInjected/IdeoPresetDef/Meme.xml
+17. Archivo: Archivo Traducciones/Persona Mechanoid Pawns 2/SpanishLatin (Español(Latinoamérica))/DefInjected/IdeoPresetDef/Meme.xml
    Motivo: XML invalido: not well-formed (invalid token): line 6, column 492
    Trace:
 Traceback (most recent call last):
@@ -448,7 +436,7 @@ Traceback (most recent call last):
     parser.feed(text)
 xml.etree.ElementTree.ParseError: not well-formed (invalid token): line 6, column 492
 
-19. Archivo: Archivo Traducciones/Persona Mechanoid Pawns 2/SpanishLatin (Español(Latinoamérica))/DefInjected/GeneDef/GeneDefs.xml
+18. Archivo: Archivo Traducciones/Persona Mechanoid Pawns 2/SpanishLatin (Español(Latinoamérica))/DefInjected/GeneDef/GeneDefs.xml
    Motivo: XML invalido: not well-formed (invalid token): line 71, column 158
    Trace:
 Traceback (most recent call last):
@@ -459,7 +447,7 @@ Traceback (most recent call last):
     parser.feed(text)
 xml.etree.ElementTree.ParseError: not well-formed (invalid token): line 71, column 158
 
-20. Archivo: Archivo Traducciones/Persona Mechanoid Pawns 2/SpanishLatin (Español(Latinoamérica))/DefInjected/ScenarioDef/Solo.xml
+19. Archivo: Archivo Traducciones/Persona Mechanoid Pawns 2/SpanishLatin (Español(Latinoamérica))/DefInjected/ScenarioDef/Solo.xml
    Motivo: XML invalido: not well-formed (invalid token): line 6, column 445
    Trace:
 Traceback (most recent call last):
@@ -470,8 +458,8 @@ Traceback (most recent call last):
     parser.feed(text)
 xml.etree.ElementTree.ParseError: not well-formed (invalid token): line 6, column 445
 
-21. Archivo: Archivo Traducciones/Persona Mechanoid Pawns 2/SpanishLatin (Español(Latinoamérica))/DefInjected/ScenarioDef/Group.xml
-   Motivo: XML invalido: not well-formed (invalid token): line 6, column 776
+20. Archivo: Archivo Traducciones/Persona Mechanoid Pawns 2/SpanishLatin (Español(Latinoamérica))/DefInjected/ScenarioDef/Group.xml
+   Motivo: XML invalido: not well-formed (invalid token): line 6, column 778
    Trace:
 Traceback (most recent call last):
   File "/home/runner/work/Rimwold_Mods_SpanishLatin/Rimwold_Mods_SpanishLatin/Programas/cli_compilador.py", line 206, in copiar_traducciones
@@ -479,9 +467,9 @@ Traceback (most recent call last):
            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
   File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/xml/etree/ElementTree.py", line 1350, in XML
     parser.feed(text)
-xml.etree.ElementTree.ParseError: not well-formed (invalid token): line 6, column 776
+xml.etree.ElementTree.ParseError: not well-formed (invalid token): line 6, column 778
 
-22. Archivo: Archivo Traducciones/Vanilla Psycasts Expanded/SpanishLatin (Español(Latinoamérica))/DefInjected/VEF.Abilities.AbilityDef/Skipmaster.xml
+21. Archivo: Archivo Traducciones/Vanilla Psycasts Expanded/SpanishLatin (Español(Latinoamérica))/DefInjected/VEF.Abilities.AbilityDef/Skipmaster.xml
    Motivo: XML invalido: not well-formed (invalid token): line 51, column 2
    Trace:
 Traceback (most recent call last):
