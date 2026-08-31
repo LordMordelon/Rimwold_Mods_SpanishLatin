@@ -27,9 +27,9 @@
   <PMP_PersonaOverview>Mecanoide persona, edad {PAWN_ageFull}</PMP_PersonaOverview>
   <PMP_PersonaOverviewHealForbidden>No puede forjar, autorreparación imposible</PMP_PersonaOverviewHealForbidden>
   <PMP_PersonaOverviewHealNoEnergy>Carga insuficiente para iniciar la autorreparación. Recarga o busca ayuda.</PMP_PersonaOverviewHealNoEnergy>
-  <PMP_PersonaOverviewHealUnset>No asignado a forja.</PMP_PersonaOverviewHealUnset>
+  <PMP_PersonaOverviewHealUnset>No asignado a Forjar.</PMP_PersonaOverviewHealUnset>
   <PMP_PersonaOverviewRepair>Autorreparación</PMP_PersonaOverviewRepair>
-  <PMP_PersonaOverviewRepairDesc>Los mecanoides persona con la autorreparación activada se repararán a sí mismos en el sitio en lugar de buscar una cama. Deben estar asignados a trabajo de forja y ser capaces de realizarlo.\n\nSi las reservas de energía están agotadas, no se pueden iniciar nuevas operaciones de autorreparación.\n\nLos mecanoides persona configurados para autorrepararse omiten además el requisito de ser un mecanitor o un mecanoide normal para realizar acciones de reparación.\n\nEl nivel de habilidad de fabricación afecta la eficiencia del uso de energía de forma no lineal. Muy agotador con habilidad baja.</PMP_PersonaOverviewRepairDesc>
+  <PMP_PersonaOverviewRepairDesc>Los mecanoides persona con la autorreparación activada se repararán a sí mismos en el sitio en lugar de buscar una cama. Deben estar asignados al trabajo de Forjar y ser capaces de realizarlo.\n\nSi las reservas de energía están agotadas, no se pueden iniciar nuevas operaciones de autorreparación.\n\nLos mecanoides persona configurados para autorrepararse omiten además el requisito de ser un mecanizador o un mecanoide normal para realizar acciones de reparación.\n\nEl nivel de habilidad de fabricación afecta la eficiencia del uso de energía de forma no lineal. Muy agotador con habilidad baja.</PMP_PersonaOverviewRepairDesc>
   <PMP_PersonaTargetForbidden>El objetivo es un mecanoide.</PMP_PersonaTargetForbidden>
   <PMP_PodBerserkMessage>Fallo de energía prolongado: Expulsión de emergencia realizada.\n\nPrecaución: ¡Frenesí del sujeto inducido por una desconexión indebida!</PMP_PodBerserkMessage>
   <PMP_PodNoPowerAlert>Expulsión por fallo de energía en: {0}</PMP_PodNoPowerAlert>
