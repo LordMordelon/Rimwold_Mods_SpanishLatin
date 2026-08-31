@@ -24,12 +24,12 @@
   <PMP_InstallDiabolusUpgrade.description>Instalar un sistema de armas de esfera infernal.</PMP_InstallDiabolusUpgrade.description>
   <PMP_InstallDiabolusUpgrade.jobString>Instalando sistema de armas de esfera infernal.</PMP_InstallDiabolusUpgrade.jobString>
   <PMP_InstallDiabolusUpgrade.label>instalar sistema de armas de esfera infernal</PMP_InstallDiabolusUpgrade.label>
-  <PMP_InstallElectroTuningCasing.description>Instalar una carcasa de electrosintonización.</PMP_InstallElectroTuningCasing.description>
-  <PMP_InstallElectroTuningCasing.jobString>Instalando carcasa de electrosintonización.</PMP_InstallElectroTuningCasing.jobString>
-  <PMP_InstallElectroTuningCasing.label>instalar carcasa de electrosintonización</PMP_InstallElectroTuningCasing.label>
-  <PMP_InstallEnhancedCasing.description>Instalar una carcasa mejorada.</PMP_InstallEnhancedCasing.description>
-  <PMP_InstallEnhancedCasing.jobString>Instalando carcasa mejorada.</PMP_InstallEnhancedCasing.jobString>
-  <PMP_InstallEnhancedCasing.label>instalar carcasa mejorada</PMP_InstallEnhancedCasing.label>
+  <PMP_InstallElectroTuningCasing.description>Instalar un chasis de electrosintonización.</PMP_InstallElectroTuningCasing.description>
+  <PMP_InstallElectroTuningCasing.jobString>Instalando chasis de electrosintonización.</PMP_InstallElectroTuningCasing.jobString>
+  <PMP_InstallElectroTuningCasing.label>instalar chasis de electrosintonización</PMP_InstallElectroTuningCasing.label>
+  <PMP_InstallEnhancedCasing.description>Instalar un chasis reforzado.</PMP_InstallEnhancedCasing.description>
+  <PMP_InstallEnhancedCasing.jobString>Instalando chasis reforzado.</PMP_InstallEnhancedCasing.jobString>
+  <PMP_InstallEnhancedCasing.label>instalar chasis reforzado</PMP_InstallEnhancedCasing.label>
   <PMP_InstallEnhancedMobilitySuite.description>Instalar un conjunto de movilidad mejorada.</PMP_InstallEnhancedMobilitySuite.description>
   <PMP_InstallEnhancedMobilitySuite.jobString>Instalando conjunto de movilidad mejorada.</PMP_InstallEnhancedMobilitySuite.jobString>
   <PMP_InstallEnhancedMobilitySuite.label>instalar conjunto de movilidad mejorada</PMP_InstallEnhancedMobilitySuite.label>
@@ -42,9 +42,9 @@
   <PMP_InstallFrameStabilizer.description>Instalar un estabilizador de estructura.</PMP_InstallFrameStabilizer.description>
   <PMP_InstallFrameStabilizer.jobString>Instalando estabilizador de estructura.</PMP_InstallFrameStabilizer.jobString>
   <PMP_InstallFrameStabilizer.label>instalar estabilizador de estructura</PMP_InstallFrameStabilizer.label>
-  <PMP_InstallGildedCasing.description>Instalar carcasa dorada.</PMP_InstallGildedCasing.description>
-  <PMP_InstallGildedCasing.jobString>Instalando carcasa dorada.</PMP_InstallGildedCasing.jobString>
-  <PMP_InstallGildedCasing.label>grabar carcasa dorada</PMP_InstallGildedCasing.label>
+  <PMP_InstallGildedCasing.description>Instalar chasis dorado.</PMP_InstallGildedCasing.description>
+  <PMP_InstallGildedCasing.jobString>Instalando chasis dorado.</PMP_InstallGildedCasing.jobString>
+  <PMP_InstallGildedCasing.label>grabar chasis dorado</PMP_InstallGildedCasing.label>
   <PMP_InstallIntegratedMiniFlameblaster.description>Instalar un minilanzallamas integrado.</PMP_InstallIntegratedMiniFlameblaster.description>
   <PMP_InstallIntegratedMiniFlameblaster.jobString>Instalando minilanzallamas integrado.</PMP_InstallIntegratedMiniFlameblaster.jobString>
   <PMP_InstallIntegratedMiniFlameblaster.label>instalar minilanzallamas integrado</PMP_InstallIntegratedMiniFlameblaster.label>
@@ -93,9 +93,9 @@
   <PMP_RemoveBodyPartMecha.description>Desacoplar una parte del cuerpo.</PMP_RemoveBodyPartMecha.description>
   <PMP_RemoveBodyPartMecha.jobString>desacoplando parte del cuerpo.</PMP_RemoveBodyPartMecha.jobString>
   <PMP_RemoveBodyPartMecha.label>desacoplar parte</PMP_RemoveBodyPartMecha.label>
-  <PMP_RemoveEnhancedCasing.description>Desacoplar carcasa mejorada.</PMP_RemoveEnhancedCasing.description>
-  <PMP_RemoveEnhancedCasing.jobString>Desacoplando carcasa mejorada.</PMP_RemoveEnhancedCasing.jobString>
-  <PMP_RemoveEnhancedCasing.label>desinstalar carcasa mejorada</PMP_RemoveEnhancedCasing.label>
+  <PMP_RemoveEnhancedCasing.description>Desacoplar chasis reforzado.</PMP_RemoveEnhancedCasing.description>
+  <PMP_RemoveEnhancedCasing.jobString>Desacoplando chasis reforzado.</PMP_RemoveEnhancedCasing.jobString>
+  <PMP_RemoveEnhancedCasing.label>desinstalar chasis reforzado</PMP_RemoveEnhancedCasing.label>
   <PMP_RemoveEnhancedMobilitySuite.description>Desacoplar conjunto de movilidad mejorada.</PMP_RemoveEnhancedMobilitySuite.description>
   <PMP_RemoveEnhancedMobilitySuite.jobString>Desacoplando conjunto de movilidad mejorada.</PMP_RemoveEnhancedMobilitySuite.jobString>
   <PMP_RemoveEnhancedMobilitySuite.label>desinstalar conjunto de movilidad mejorada</PMP_RemoveEnhancedMobilitySuite.label>
@@ -105,9 +105,9 @@
   <PMP_RemoveFrameStabilizer.description>Desacoplar estabilizador de estructura.</PMP_RemoveFrameStabilizer.description>
   <PMP_RemoveFrameStabilizer.jobString>Desacoplando estabilizador de estructura.</PMP_RemoveFrameStabilizer.jobString>
   <PMP_RemoveFrameStabilizer.label>desinstalar estabilizador de estructura</PMP_RemoveFrameStabilizer.label>
-  <PMP_RemoveGildedCasing.description>Quitar carcasa dorada.</PMP_RemoveGildedCasing.description>
-  <PMP_RemoveGildedCasing.jobString>Desacoplando carcasa dorada.</PMP_RemoveGildedCasing.jobString>
-  <PMP_RemoveGildedCasing.label>quitar carcasa dorada</PMP_RemoveGildedCasing.label>
+  <PMP_RemoveGildedCasing.description>Quitar chasis dorado.</PMP_RemoveGildedCasing.description>
+  <PMP_RemoveGildedCasing.jobString>Desacoplando chasis dorado.</PMP_RemoveGildedCasing.jobString>
+  <PMP_RemoveGildedCasing.label>quitar chasis dorado</PMP_RemoveGildedCasing.label>
   <PMP_RemoveJoylooper.description>Desacoplar bucle de placer.</PMP_RemoveJoylooper.description>
   <PMP_RemoveJoylooper.jobString>Desacoplando bucle de placer.</PMP_RemoveJoylooper.jobString>
   <PMP_RemoveJoylooper.label>desacoplar bucle de placer</PMP_RemoveJoylooper.label>
