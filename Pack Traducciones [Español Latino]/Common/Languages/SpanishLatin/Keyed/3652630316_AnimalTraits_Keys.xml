@@ -2,14 +2,64 @@
 <LanguageData>
   <AnimalTraits_Age>Edad:</AnimalTraits_Age>
   <AnimalTraits_AnimalTab>Animal</AnimalTraits_AnimalTab>
+  <AnimalTraits_BadSuffix>(malo)</AnimalTraits_BadSuffix>
+  <AnimalTraits_BioTab>Bio</AnimalTraits_BioTab>
+  <AnimalTraits_ClearAll>Limpiar Todo</AnimalTraits_ClearAll>
+  <AnimalTraits_ConfigureCullTraits>Configurar rasgos para sacrificar...</AnimalTraits_ConfigureCullTraits>
+  <AnimalTraits_ConfigureSpareTraits>Configurar rasgos para conservar...</AnimalTraits_ConfigureSpareTraits>
+  <AnimalTraits_CullDialogDesc>Los animales con cualquiera de los rasgos seleccionados serán marcados automáticamente para el sacrificio.\nLos rasgos configurados para conservar tienen prioridad sobre el sacrificio.</AnimalTraits_CullDialogDesc>
+  <AnimalTraits_CullDialogTitle>Seleccionar Rasgos para Sacrificar</AnimalTraits_CullDialogTitle>
+  <AnimalTraits_Effects>Efectos:</AnimalTraits_Effects>
+  <AnimalTraits_Father>Padre</AnimalTraits_Father>
+  <AnimalTraits_FilterAll>Todos</AnimalTraits_FilterAll>
+  <AnimalTraits_FilterBad>Malos</AnimalTraits_FilterBad>
+  <AnimalTraits_FilterConfigured>Configurados</AnimalTraits_FilterConfigured>
+  <AnimalTraits_FilterGood>Buenos</AnimalTraits_FilterGood>
+  <AnimalTraits_FilterSelected>Seleccionados</AnimalTraits_FilterSelected>
   <AnimalTraits_Gender>Género:</AnimalTraits_Gender>
+  <AnimalTraits_GoodSuffix>(bueno)</AnimalTraits_GoodSuffix>
+  <AnimalTraits_Grandparents>Abuelos:</AnimalTraits_Grandparents>
+  <AnimalTraits_GrandparentsChance>Abuelos: {0}% de probabilidad</AnimalTraits_GrandparentsChance>
   <AnimalTraits_Identity>Identidad</AnimalTraits_Identity>
+  <AnimalTraits_InheritChanceEntry>{0} ({1}% de probabilidad de herencia)</AnimalTraits_InheritChanceEntry>
+  <AnimalTraits_Inheritance>Herencia:</AnimalTraits_Inheritance>
+  <AnimalTraits_InheritedTraitsHeader>Rasgos Heredados (Genética)</AnimalTraits_InheritedTraitsHeader>
   <AnimalTraits_Kills>Asesinatos:</AnimalTraits_Kills>
   <AnimalTraits_Kind>Tipo:</AnimalTraits_Kind>
   <AnimalTraits_LifeStage>Etapa de Vida:</AnimalTraits_LifeStage>
+  <AnimalTraits_MarkedForCull>Marcado para sacrificio por sus rasgos:</AnimalTraits_MarkedForCull>
+  <AnimalTraits_MaternalGrandfather>Abuelo Materno</AnimalTraits_MaternalGrandfather>
+  <AnimalTraits_MaternalGrandmother>Abuela Materna</AnimalTraits_MaternalGrandmother>
+  <AnimalTraits_Mother>Madre</AnimalTraits_Mother>
+  <AnimalTraits_NoAncestorTraits>Sin rasgos heredables de padres o abuelos.</AnimalTraits_NoAncestorTraits>
   <AnimalTraits_NoSpecialTraits>Sin rasgos especiales.</AnimalTraits_NoSpecialTraits>
   <AnimalTraits_NoStatModifications>Sin modificaciones de estadísticas.</AnimalTraits_NoStatModifications>
+  <AnimalTraits_NoTraits>Sin rasgos</AnimalTraits_NoTraits>
+  <AnimalTraits_NotInheritable>{0} (no heredable)</AnimalTraits_NotInheritable>
+  <AnimalTraits_NotificationsDialogDesc>Elige cómo ser notificado cuando un animal nace o es adquirido con un rasgo.\nMensaje = ventana emergente arriba a la izquierda. Carta = sobre en el lado derecho de la pantalla.</AnimalTraits_NotificationsDialogDesc>
+  <AnimalTraits_NotificationsDialogTitle>Configurar Notificaciones de Rasgos</AnimalTraits_NotificationsDialogTitle>
+  <AnimalTraits_NotifyLetterLabel>Animal especial: {0}</AnimalTraits_NotifyLetterLabel>
+  <AnimalTraits_NotifyLetterTextAcquired>{0} fue adquirido con rasgo(s) notables:\n\n{1}</AnimalTraits_NotifyLetterTextAcquired>
+  <AnimalTraits_NotifyLetterTextBorn>{0} nació con rasgo(s) notables:\n\n{1}</AnimalTraits_NotifyLetterTextBorn>
+  <AnimalTraits_NotifyMessageAcquired>{0} fue adquirido con rasgo(s): {1}.</AnimalTraits_NotifyMessageAcquired>
+  <AnimalTraits_NotifyMessageBorn>{0} nació con rasgo(s): {1}.</AnimalTraits_NotifyMessageBorn>
+  <AnimalTraits_NotifyTypeLetter>Carta</AnimalTraits_NotifyTypeLetter>
+  <AnimalTraits_NotifyTypeMessage>Mensaje</AnimalTraits_NotifyTypeMessage>
+  <AnimalTraits_NotifyTypeNone>Ninguno</AnimalTraits_NotifyTypeNone>
   <AnimalTraits_OpenInfoCard>Abrir tarjeta de información</AnimalTraits_OpenInfoCard>
+  <AnimalTraits_Parents>Padres:</AnimalTraits_Parents>
+  <AnimalTraits_ParentsChance>Padres: {0}% de probabilidad</AnimalTraits_ParentsChance>
+  <AnimalTraits_PaternalGrandfather>Abuelo Paterno</AnimalTraits_PaternalGrandfather>
+  <AnimalTraits_PaternalGrandmother>Abuela Paterna</AnimalTraits_PaternalGrandmother>
+  <AnimalTraits_ProtectedFromSlaughter>Protegido del sacrificio por sus rasgos:</AnimalTraits_ProtectedFromSlaughter>
+  <AnimalTraits_SelectAllBad>Seleccionar Todos los Malos</AnimalTraits_SelectAllBad>
+  <AnimalTraits_SelectAllGood>Seleccionar Todos los Buenos</AnimalTraits_SelectAllGood>
+  <AnimalTraits_SelectionSummary>Seleccionados: {0} rasgos ({1} buenos, {2} malos)</AnimalTraits_SelectionSummary>
+  <AnimalTraits_SpareDialogDesc>Los animales con cualquiera de los rasgos seleccionados estarán protegidos del sacrificio automático.\nEsto aplica a todos los animales domesticados en tu colonia.</AnimalTraits_SpareDialogDesc>
+  <AnimalTraits_SpareDialogTitle>Seleccionar Rasgos para Conservar del Sacrificio</AnimalTraits_SpareDialogTitle>
+  <AnimalTraits_SpareTraitsHeaderTip>Haz clic para configurar reglas de sacrificio automático basadas en rasgos.\n\nRasgos para conservar: los animales con estos rasgos muestran un ícono de escudo y no pueden ser sacrificados automáticamente.\nRasgos para sacrificar: los animales con estos rasgos muestran un ícono de sacrificio y son marcados automáticamente para el sacrificio.</AnimalTraits_SpareTraitsHeaderTip>
+  <AnimalTraits_TradeTraitsTip>Rasgos del animal</AnimalTraits_TradeTraitsTip>
   <AnimalTraits_TraitEffectsSummary>Resumen de Efectos de Rasgos</AnimalTraits_TraitEffectsSummary>
   <AnimalTraits_Traits>Rasgos</AnimalTraits_Traits>
+  <AnimalTraits_Unknown>(Desconocido)</AnimalTraits_Unknown>
 </LanguageData>
