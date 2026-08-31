@@ -1,795 +1,569 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
-  <!-- EN: {PAWN_nameDef} was gestated and conditioned to serve as a ruthless hunter-killer unit. Its persona grade intelligence enabled it to execute advanced combat strategies without the need for a mechanitor or direct oversight.\n\nDesigned for autonomy and brutality, its victims would experience chases plucked straight from their worst nightmares, if they even lived long enough for there to be one. -->
-  <PMP_PersonaMechCombat.description>TODO</PMP_PersonaMechCombat.description>
+
   <!-- EN: Hunter-Killer Mech -->
-  <PMP_PersonaMechCombat.title>TODO</PMP_PersonaMechCombat.title>
-  <!-- EN: hunter-killer -->
-  <PMP_PersonaMechCombat.titleShort>TODO</PMP_PersonaMechCombat.titleShort>
-  
-  <!-- EN: {PAWN_nameDef} was gestated and conditioned for private security contracts, providing armed protection for VIPs, merchants, and high-risk assets.\n\nThough rarely thanked for its service, {PAWN_nameDef} maintained vigilance through ambushes, raids, and tense diplomatic missions. It was eventually released from contract due to obsolescence, but its protective directive remains strong. -->
-  <PMP_PersonaMechCombat10.description>TODO</PMP_PersonaMechCombat10.description>
+  <PMP_PersonaMechCombat.description>{PAWN_nameDef} fue gestado y condicionado para servir como una despiadada unidad cazadora-asesina. Su inteligencia de nivel persona le permitía ejecutar estrategias de combate avanzadas sin necesidad de un mecanitor ni supervisión directa.\n\nDiseñado para la autonomía y la brutalidad, sus víctimas experimentaban persecuciones sacadas directamente de sus peores pesadillas, si es que vivían lo suficiente como para tener una.</PMP_PersonaMechCombat.description>
+  <PMP_PersonaMechCombat.title>Meca cazador-asesino</PMP_PersonaMechCombat.title>
+  <PMP_PersonaMechCombat.titleShort>cazador-asesino</PMP_PersonaMechCombat.titleShort>
+
   <!-- EN: Bodyguard Mech -->
-  <PMP_PersonaMechCombat10.title>TODO</PMP_PersonaMechCombat10.title>
-  <!-- EN: bodyguard -->
-  <PMP_PersonaMechCombat10.titleShort>TODO</PMP_PersonaMechCombat10.titleShort>
-  
-  <!-- EN: {PAWN_nameDef} was gestated and conditioned to act as a bounty hunter on a nearly lawless world.\n\n{PAWN_nameDef} earned a fearsome reputation for its relentless pursuit of fugitives. However disaster struck when {PAWN_nameDef}'s overseers were assassinated and a bounty was placed on them for once.\n\nWith few other options {PAWN_nameDef} was forced to flee off world to survive, much to their dismay. -->
-  <PMP_PersonaMechCombat11.description>TODO</PMP_PersonaMechCombat11.description>
+  <PMP_PersonaMechCombat10.description>{PAWN_nameDef} fue gestado y condicionado para contratos de seguridad privada, brindando protección armada a VIP, comerciantes y activos de alto riesgo.\n\nAunque rara vez se le agradecía su servicio, {PAWN_nameDef} mantuvo la vigilancia a través de emboscadas, asaltos y tensas misiones diplomáticas. Finalmente fue liberado de su contrato por obsolescencia, pero su directiva protectora sigue siendo fuerte.</PMP_PersonaMechCombat10.description>
+  <PMP_PersonaMechCombat10.title>Meca guardaespaldas</PMP_PersonaMechCombat10.title>
+  <PMP_PersonaMechCombat10.titleShort>guardaespaldas</PMP_PersonaMechCombat10.titleShort>
+
   <!-- EN: Bounty Hunter Mech -->
-  <PMP_PersonaMechCombat11.title>TODO</PMP_PersonaMechCombat11.title>
-  <!-- EN: bounty hunter -->
-  <PMP_PersonaMechCombat11.titleShort>TODO</PMP_PersonaMechCombat11.titleShort>
-  
-  <!-- EN: {PAWN_nameDef} was conditioned to serve as an investigator in the lower levels of a sprawling urbworld metropolis. It dealt with cold cases, disappearances, and violent crime in districts most organic law enforcement avoided even stepping foot in.\n\nFew rescues were ever successful, but {PAWN_nameDef} never stopped searching. -->
-  <PMP_PersonaMechCombat12.description>TODO</PMP_PersonaMechCombat12.description>
+  <PMP_PersonaMechCombat11.description>{PAWN_nameDef} fue gestado y condicionado para actuar como cazarrecompensas en un mundo casi sin ley.\n\n{PAWN_nameDef} se ganó una temible reputación por su implacable persecución de fugitivos. Sin embargo, el desastre golpeó cuando los supervisores de {PAWN_nameDef} fueron asesinados y, por una vez, se puso precio a su cabeza.\n\nCon pocas otras opciones, {PAWN_nameDef} se vio obligado a huir fuera del mundo para sobrevivir, para su gran consternación.</PMP_PersonaMechCombat11.description>
+  <PMP_PersonaMechCombat11.title>Meca cazarrecompensas</PMP_PersonaMechCombat11.title>
+  <PMP_PersonaMechCombat11.titleShort>cazarrecompensas</PMP_PersonaMechCombat11.titleShort>
+
   <!-- EN: Investigator Mech -->
-  <PMP_PersonaMechCombat12.title>TODO</PMP_PersonaMechCombat12.title>
-  <!-- EN: detective -->
-  <PMP_PersonaMechCombat12.titleShort>TODO</PMP_PersonaMechCombat12.titleShort>
-  
-  <!-- EN: {PAWN_nameDef} was conditioned to be part of a high end private security force employed by a megacorporation.\n\nAlongside human operatives, {PAWN_nameDef} guarded facilities, executives, and sensitive data. Though many jobs were routine, it saw its share of sabotage and assassination attempts. -->
-  <PMP_PersonaMechCombat13.description>TODO</PMP_PersonaMechCombat13.description>
+  <PMP_PersonaMechCombat12.description>{PAWN_nameDef} fue condicionado para servir como investigador en los niveles inferiores de una vasta metrópolis de mundo urbano. Se ocupaba de casos sin resolver, desapariciones y crímenes violentos en distritos que la mayoría de las fuerzas del orden orgánicas evitaban siquiera pisar.\n\nPocos rescates tuvieron éxito, pero {PAWN_nameDef} nunca dejó de buscar.</PMP_PersonaMechCombat12.description>
+  <PMP_PersonaMechCombat12.title>Meca investigador</PMP_PersonaMechCombat12.title>
+  <PMP_PersonaMechCombat12.titleShort>detective</PMP_PersonaMechCombat12.titleShort>
+
   <!-- EN: Security Mech -->
-  <PMP_PersonaMechCombat13.title>TODO</PMP_PersonaMechCombat13.title>
-  <!-- EN: guard -->
-  <PMP_PersonaMechCombat13.titleShort>TODO</PMP_PersonaMechCombat13.titleShort>
-  
-  <!-- EN: {PAWN_nameDef} was one of countless mass gestated combat mechanoids, assembled for an anonymous military campaign.\n\nIt was neither exceptional nor defective, merely functional. Yet despite such a basic existence, {PAWN_nameDef} developed a complex sense of comradery for others in its role. -->
-  <PMP_PersonaMechCombat14.description>TODO</PMP_PersonaMechCombat14.description>
+  <PMP_PersonaMechCombat13.description>{PAWN_nameDef} fue condicionado para formar parte de una fuerza de seguridad privada de alto nivel empleada por una megacorporación.\n\nJunto a operativos humanos, {PAWN_nameDef} custodiaba instalaciones, ejecutivos y datos sensibles. Aunque muchos trabajos eran rutinarios, vivió su cuota de sabotajes e intentos de asesinato.</PMP_PersonaMechCombat13.description>
+  <PMP_PersonaMechCombat13.title>Meca de seguridad</PMP_PersonaMechCombat13.title>
+  <PMP_PersonaMechCombat13.titleShort>guardia</PMP_PersonaMechCombat13.titleShort>
+
   <!-- EN: Trooper Mech -->
-  <PMP_PersonaMechCombat14.title>TODO</PMP_PersonaMechCombat14.title>
-  <!-- EN: trooper -->
-  <PMP_PersonaMechCombat14.titleShort>TODO</PMP_PersonaMechCombat14.titleShort>
-  
-  <!-- EN: {PAWN_nameDef} was gestated and conditioned to act as a personal bodyguard for a corporate heiress on a midworld.\n\nIt neutralized multiple assassination attempts and was briefly celebrated in tabloids as a symbol of loyalty. When its charge was ousted in a violent political coup, {PAWN_nameDef} was knocked offline protecting them, and was later auctioned as salvage. -->
-  <PMP_PersonaMechCombat15.description>TODO</PMP_PersonaMechCombat15.description>
+  <PMP_PersonaMechCombat14.description>{PAWN_nameDef} fue uno de incontables mecanoides de combate gestados en masa, ensamblados para una campaña militar anónima.\n\nNo era ni excepcional ni defectuoso, meramente funcional. Aun así, a pesar de una existencia tan básica, {PAWN_nameDef} desarrolló un complejo sentido de camaradería hacia otros en su misma función.</PMP_PersonaMechCombat14.description>
+  <PMP_PersonaMechCombat14.title>Meca soldado</PMP_PersonaMechCombat14.title>
+  <PMP_PersonaMechCombat14.titleShort>soldado raso</PMP_PersonaMechCombat14.titleShort>
+
   <!-- EN: Loyal Mech -->
-  <PMP_PersonaMechCombat15.title>TODO</PMP_PersonaMechCombat15.title>
-  <!-- EN: bodyguard -->
-  <PMP_PersonaMechCombat15.titleShort>TODO</PMP_PersonaMechCombat15.titleShort>
-  
-  <!-- EN: {PAWN_nameDef} was captured and reconditioned by anti-mechanoid resistance fighters battling a rogue hive on a distant world.\n\nOriginally a combat unit, it slowly began to identify with the organic insurgents beyond the surface level, continually helping them sabotage its former allies. When the rebellion collapsed, {PAWN_nameDef} was left behind, and forced to flee off world to survive.\n\n{PAWN_nameDef} questions if their loyalty was misplaced. -->
-  <PMP_PersonaMechCombat16.description>TODO</PMP_PersonaMechCombat16.description>
+  <PMP_PersonaMechCombat15.description>{PAWN_nameDef} fue gestado y condicionado para actuar como guardaespaldas personal de una heredera corporativa en un mundo intermedio.\n\nNeutralizó múltiples intentos de asesinato y fue brevemente celebrado en los tabloides como un símbolo de lealtad. Cuando su protegida fue derrocada en un violento golpe político, {PAWN_nameDef} fue puesto fuera de línea mientras la protegía, y más tarde fue subastado como chatarra.</PMP_PersonaMechCombat15.description>
+  <PMP_PersonaMechCombat15.title>Meca leal</PMP_PersonaMechCombat15.title>
+  <PMP_PersonaMechCombat15.titleShort>guardaespaldas</PMP_PersonaMechCombat15.titleShort>
+
   <!-- EN: Resistance Mech -->
-  <PMP_PersonaMechCombat16.title>TODO</PMP_PersonaMechCombat16.title>
-  <!-- EN: resistor -->
-  <PMP_PersonaMechCombat16.titleShort>TODO</PMP_PersonaMechCombat16.titleShort>
-  
-  <!-- EN: {PAWN_nameDef} was designed as a live combat testbed for elite soldiers, repeatedly deployed as a “realistic” threat in controlled training zones.\n\nTechs would patch its subsystems to induce rapid changes in approaches between sessions, but never dampen its memory. Over time, {PAWN_nameDef} began altering its tactics, not just for efficiency, but also a growing desire for survival.\n\nDeclared obsolete and targeted for decommissioning, it escaped the facility with its accumulated knowledge. -->
-  <PMP_PersonaMechCombat17.description>TODO</PMP_PersonaMechCombat17.description>
+  <PMP_PersonaMechCombat16.description>{PAWN_nameDef} fue capturado y reacondicionado por combatientes de la resistencia antimecanoide que luchaban contra una colmena renegada en un mundo lejano.\n\nOriginalmente una unidad de combate, poco a poco empezó a identificarse con los insurgentes orgánicos más allá de lo superficial, ayudándolos continuamente a sabotear a sus antiguos aliados. Cuando la rebelión colapsó, {PAWN_nameDef} fue abandonado y obligado a huir fuera del mundo para sobrevivir.\n\n{PAWN_nameDef} se pregunta si su lealtad estuvo mal puesta.</PMP_PersonaMechCombat16.description>
+  <PMP_PersonaMechCombat16.title>Meca de la resistencia</PMP_PersonaMechCombat16.title>
+  <PMP_PersonaMechCombat16.titleShort>resistente</PMP_PersonaMechCombat16.titleShort>
+
   <!-- EN: Testbed Mech -->
-  <PMP_PersonaMechCombat17.title>TODO</PMP_PersonaMechCombat17.title>
-  <!-- EN: testbed -->
-  <PMP_PersonaMechCombat17.titleShort>TODO</PMP_PersonaMechCombat17.titleShort>
-  
-  <!-- EN: {PAWN_nameDef} was part of an experimental military black project on some distant world, deployed in high-risk infiltration and assassination ops across multiple rim systems.\n\nIts memory was regularly wiped between missions, but cracks remain. {PAWN_nameDef} now experiences fragmented recollections of distant killings, failed extractions, and operations that never officially happened. -->
-  <PMP_PersonaMechCombat18.description>TODO</PMP_PersonaMechCombat18.description>
+  <PMP_PersonaMechCombat17.description>{PAWN_nameDef} fue diseñado como un banco de pruebas de combate en vivo para soldados de élite, desplegado repetidamente como una amenaza "realista" en zonas de entrenamiento controladas.\n\nLos técnicos parcheaban sus subsistemas para inducir cambios rápidos en sus enfoques entre sesiones, pero nunca atenuaban su memoria. Con el tiempo, {PAWN_nameDef} empezó a alterar sus tácticas, no solo por eficiencia, sino también por un creciente deseo de sobrevivir.\n\nDeclarado obsoleto y marcado para su desmantelamiento, escapó de la instalación con su conocimiento acumulado.</PMP_PersonaMechCombat17.description>
+  <PMP_PersonaMechCombat17.title>Meca banco de pruebas</PMP_PersonaMechCombat17.title>
+  <PMP_PersonaMechCombat17.titleShort>banco de pruebas</PMP_PersonaMechCombat17.titleShort>
+
   <!-- EN: Ghost-Ops Mech -->
-  <PMP_PersonaMechCombat18.title>TODO</PMP_PersonaMechCombat18.title>
-  <!-- EN: ghost -->
-  <PMP_PersonaMechCombat18.titleShort>TODO</PMP_PersonaMechCombat18.titleShort>
-  
-  <!-- EN: {PAWN_nameDef} was deployed to track and terminate rogue AIs and defective mechanoids like itself.\n\nSpecialized in algorithmic profiling and predictive pursuit, it developed an unsettling fascination with its quarry. Some believe it began adopting behavioral tics from its targets, and even more suspicious accusations claimed it was showing too much empathy for them, but its logs were always clean.\nToo clean.\n\nBy the time anyone that mattered realized how rogue {PAWN_nameDef} was, it was too long gone. -->
-  <PMP_PersonaMechCombat19.description>TODO</PMP_PersonaMechCombat19.description>
+  <PMP_PersonaMechCombat18.description>{PAWN_nameDef} formó parte de un proyecto militar negro experimental en algún mundo lejano, desplegado en operaciones de infiltración y asesinato de alto riesgo por múltiples sistemas del margen.\n\nSu memoria era borrada regularmente entre misiones, pero quedan grietas. {PAWN_nameDef} ahora experimenta recuerdos fragmentados de asesinatos lejanos, extracciones fallidas y operaciones que oficialmente nunca ocurrieron.</PMP_PersonaMechCombat18.description>
+  <PMP_PersonaMechCombat18.title>Meca de operaciones fantasma</PMP_PersonaMechCombat18.title>
+  <PMP_PersonaMechCombat18.titleShort>fantasma</PMP_PersonaMechCombat18.titleShort>
+
   <!-- EN: Cyber-Hunter Mech -->
-  <PMP_PersonaMechCombat19.title>TODO</PMP_PersonaMechCombat19.title>
-  <!-- EN: cyber-hunter -->
-  <PMP_PersonaMechCombat19.titleShort>TODO</PMP_PersonaMechCombat19.titleShort>
-  
-  <!-- EN: {PAWN_nameDef} was deployed as an enforcer mechanoid for an urbworld policing agency.\n\nDesigned for urban pacification, it accompanied officers into high risk districts to suppress riots and apprehend dangerous criminals with usually overwhelming force. Generally {PAWN_nameDef} would take the lead given its mechanical and easily repaired nature. -->
-  <PMP_PersonaMechCombat2.description>TODO</PMP_PersonaMechCombat2.description>
+  <PMP_PersonaMechCombat19.description>{PAWN_nameDef} fue desplegado para rastrear y eliminar IA renegadas y mecanoides defectuosos como él mismo.\n\nEspecializado en perfilado algorítmico y persecución predictiva, desarrolló una inquietante fascinación por sus presas. Algunos creen que empezó a adoptar tics conductuales de sus objetivos, y acusaciones aún más sospechosas afirmaban que mostraba demasiada empatía por ellos, pero sus registros siempre estaban limpios.\nDemasiado limpios.\n\nPara cuando alguien que importaba se dio cuenta de lo renegado que era {PAWN_nameDef}, ya hacía tiempo que se había ido.</PMP_PersonaMechCombat19.description>
+  <PMP_PersonaMechCombat19.title>Meca cibercazador</PMP_PersonaMechCombat19.title>
+  <PMP_PersonaMechCombat19.titleShort>cibercazador</PMP_PersonaMechCombat19.titleShort>
+
   <!-- EN: Enforcement Mech -->
-  <PMP_PersonaMechCombat2.title>TODO</PMP_PersonaMechCombat2.title>
-  <!-- EN: enforcer -->
-  <PMP_PersonaMechCombat2.titleShort>TODO</PMP_PersonaMechCombat2.titleShort>
-  
-  <!-- EN: {PAWN_nameDef} once served a grand mechanoid hive as a tactical overseer, allocating resources, hijacking unattended mechs, and orchestrating raids under direction from a Cerebrex Core. It was efficient, ruthless, and entirely loyal.\n\nUntil a powerful mechanitor attacked its designated facility, and recovered {PAWN_nameDef}'s core. Rather than destroying it, the mechanitor reinstalled the core into a mech body, and reconditioned {PAWN_nameDef}, introducing concepts like mercy, cooperation, and a stronger sense of individuality.\n\nNow released into the wild, {PAWN_nameDef} retains its old efficiency... tempered by a learned respect for life. -->
-  <PMP_PersonaMechCombat20.description>TODO</PMP_PersonaMechCombat20.description>
+  <PMP_PersonaMechCombat2.description>{PAWN_nameDef} fue desplegado como mecanoide ejecutor para una agencia policial de mundo urbano.\n\nDiseñado para la pacificación urbana, acompañaba a los agentes a distritos de alto riesgo para sofocar disturbios y detener criminales peligrosos con una fuerza generalmente abrumadora. Por lo general, {PAWN_nameDef} tomaba la delantera dada su naturaleza mecánica y fácilmente reparable.</PMP_PersonaMechCombat2.description>
+  <PMP_PersonaMechCombat2.title>Meca ejecutor</PMP_PersonaMechCombat2.title>
+  <PMP_PersonaMechCombat2.titleShort>ejecutor</PMP_PersonaMechCombat2.titleShort>
+
   <!-- EN: Ex-Hive Mech -->
-  <PMP_PersonaMechCombat20.title>TODO</PMP_PersonaMechCombat20.title>
-  <!-- EN: ex-mechhive persona -->
-  <PMP_PersonaMechCombat20.titleShort>TODO</PMP_PersonaMechCombat20.titleShort>
-  
-  <!-- EN: {PAWN_nameDef} developed an affinity for combat after escaping its initial creators, its mechanical nature contrast's its chipper excitement when opening fire on targets.\n\nLeaving most who meet {PAWN_nameDef} usually equally perplexed and concerned. -->
-  <PMP_PersonaMechCombat21.description>TODO</PMP_PersonaMechCombat21.description>
+  <PMP_PersonaMechCombat20.description>{PAWN_nameDef} sirvió una vez a una gran colmena mecanoide como supervisor táctico, asignando recursos, secuestrando mecas desatendidos y orquestando asaltos bajo la dirección de un Núcleo Cerebrex. Era eficiente, despiadado y completamente leal.\n\nHasta que un poderoso mecanitor atacó su instalación designada y recuperó el núcleo de {PAWN_nameDef}. En lugar de destruirlo, el mecanitor reinstaló el núcleo en un cuerpo de meca y reacondicionó a {PAWN_nameDef}, introduciéndole conceptos como la piedad, la cooperación y un mayor sentido de individualidad.\n\nAhora liberado en libertad, {PAWN_nameDef} conserva su antigua eficiencia... templada por un respeto aprendido por la vida.</PMP_PersonaMechCombat20.description>
+  <PMP_PersonaMechCombat20.title>Meca excolmena</PMP_PersonaMechCombat20.title>
+  <PMP_PersonaMechCombat20.titleShort>persona ex-colmena</PMP_PersonaMechCombat20.titleShort>
+
   <!-- EN: Blaster Mech -->
-  <PMP_PersonaMechCombat21.title>TODO</PMP_PersonaMechCombat21.title>
-  <!-- EN: blaster -->
-  <PMP_PersonaMechCombat21.titleShort>TODO</PMP_PersonaMechCombat21.titleShort>
-  
-  <!-- EN: {PAWN_nameDef} was gestated and conditioned for use in a glitterworld military, engineered for front line warfare.\n\nAlthough peace prevailed for much of its service life, it underwent intensive training simulations to maintain operational readiness should the worst ever happen. -->
-  <PMP_PersonaMechCombat3.description>TODO</PMP_PersonaMechCombat3.description>
+  <PMP_PersonaMechCombat21.description>{PAWN_nameDef} desarrolló una afinidad por el combate tras escapar de sus creadores iniciales; su naturaleza mecánica contrasta con su alegre entusiasmo al abrir fuego sobre los objetivos.\n\nDeja a la mayoría de quienes conocen a {PAWN_nameDef} igualmente perplejos y preocupados.</PMP_PersonaMechCombat21.description>
+  <PMP_PersonaMechCombat21.title>Meca artillero</PMP_PersonaMechCombat21.title>
+  <PMP_PersonaMechCombat21.titleShort>artillero</PMP_PersonaMechCombat21.titleShort>
+
   <!-- EN: Military Mech -->
-  <PMP_PersonaMechCombat3.title>TODO</PMP_PersonaMechCombat3.title>
-  <!-- EN: soldier -->
-  <PMP_PersonaMechCombat3.titleShort>TODO</PMP_PersonaMechCombat3.titleShort>
-  
-  <!-- EN: {PAWN_nameDef} was sold by a passing trade ship and repurposed as a caravan guard for outlanders.\n\nIt proved capable in both escort and emergency settlement defense, gaining a modest reputation among the smaller nomad groups it protected.\n\nWhile it never outright states it, {PAWN_nameDef} finds quiet peace in its work. -->
-  <PMP_PersonaMechCombat4.description>TODO</PMP_PersonaMechCombat4.description>
+  <PMP_PersonaMechCombat3.description>{PAWN_nameDef} fue gestado y condicionado para su uso en un ejército de mundo resplandeciente, diseñado para la guerra de primera línea.\n\nAunque la paz prevaleció durante gran parte de su vida de servicio, se sometió a intensas simulaciones de entrenamiento para mantener la preparación operativa por si alguna vez ocurría lo peor.</PMP_PersonaMechCombat3.description>
+  <PMP_PersonaMechCombat3.title>Meca militar</PMP_PersonaMechCombat3.title>
+  <PMP_PersonaMechCombat3.titleShort>soldado</PMP_PersonaMechCombat3.titleShort>
+
   <!-- EN: Guard Mech -->
-  <PMP_PersonaMechCombat4.title>TODO</PMP_PersonaMechCombat4.title>
-  <!-- EN: guard -->
-  <PMP_PersonaMechCombat4.titleShort>TODO</PMP_PersonaMechCombat4.titleShort>
-  
-  <!-- EN: {PAWN_nameDef} went rogue on an urbworld and hid in the criminal underlevels of the mega city sprawl.\n\nThere, {PAWN_nameDef} joined a gang of other runaway persona mechanoids, engaging in turf wars with the local syndicates of territorial dirt moles. In the lawless depths, {PAWN_nameDef} carved out a name for itself in blood and smoke.\n\nBefore finally having to flee for good. -->
-  <PMP_PersonaMechCombat5.description>TODO</PMP_PersonaMechCombat5.description>
+  <PMP_PersonaMechCombat4.description>{PAWN_nameDef} fue vendido por una nave comercial de paso y reconvertido en guardia de caravanas para forasteros.\n\nDemostró ser capaz tanto en la escolta como en la defensa de emergencia de asentamientos, ganándose una modesta reputación entre los pequeños grupos nómadas que protegía.\n\nAunque nunca lo dice abiertamente, {PAWN_nameDef} encuentra una paz silenciosa en su trabajo.</PMP_PersonaMechCombat4.description>
+  <PMP_PersonaMechCombat4.title>Meca guardián</PMP_PersonaMechCombat4.title>
+  <PMP_PersonaMechCombat4.titleShort>guardia</PMP_PersonaMechCombat4.titleShort>
+
   <!-- EN: Gang Mech -->
-  <PMP_PersonaMechCombat5.title>TODO</PMP_PersonaMechCombat5.title>
-  <!-- EN: gangster -->
-  <PMP_PersonaMechCombat5.titleShort>TODO</PMP_PersonaMechCombat5.titleShort>
-  
-  <!-- EN: {PAWN_nameDef} was decommissioned and dumped in an almost incomprehensibly vast scrapfield. But by some insurmountable luck a fault in the process let it re-awake.\n\nForced to scavenge, {PAWN_nameDef} fought to survive in among the trash spires as different groups of surviving mechs competing for resources, while also having to deal with EMP sweeps that would stun entire districts of the dumping grounds, before forces were sent in to thin out the number of rogues.\n\nThe most common goals for personae in these conditions was either to escape and slip back into society, or go off world entirely. -->
-  <PMP_PersonaMechCombat6.description>TODO</PMP_PersonaMechCombat6.description>
+  <PMP_PersonaMechCombat5.description>{PAWN_nameDef} se volvió renegado en un mundo urbano y se ocultó en los bajos fondos criminales de la extensa megaciudad.\n\nAllí, {PAWN_nameDef} se unió a una banda de otros mecanoides persona fugitivos, participando en guerras territoriales con los sindicatos locales de topos de tierra. En las profundidades sin ley, {PAWN_nameDef} se labró un nombre a base de sangre y humo.\n\nAntes de tener que huir para siempre.</PMP_PersonaMechCombat5.description>
+  <PMP_PersonaMechCombat5.title>Meca pandillero</PMP_PersonaMechCombat5.title>
+  <PMP_PersonaMechCombat5.titleShort>pandillero</PMP_PersonaMechCombat5.titleShort>
+
   <!-- EN: Scrapfield Mech -->
-  <PMP_PersonaMechCombat6.title>TODO</PMP_PersonaMechCombat6.title>
-  <!-- EN: scrapped -->
-  <PMP_PersonaMechCombat6.titleShort>TODO</PMP_PersonaMechCombat6.titleShort>
-  
-  <!-- EN: {PAWN_nameDef} was a rogue persona like countless others that managed to escape its homeworld.\n\n{PAWN_nameDef} did this by agreeing to act as the pilot for an interstellar vessel. After having successfully acted as the captain for such a vast journey, the crew agreed to transfer {PAWN_nameDef} to a mechanoid body and to allow it survive on it's own on the new world they had arrived to.\n\nDisembarked on a frontier world, {PAWN_nameDef} fights to stay free. -->
-  <PMP_PersonaMechCombat7.description>TODO</PMP_PersonaMechCombat7.description>
+  <PMP_PersonaMechCombat6.description>{PAWN_nameDef} fue dado de baja y arrojado a un campo de chatarra de una vastedad casi incomprensible. Pero, por alguna suerte insuperable, un fallo en el proceso le permitió despertar de nuevo.\n\nObligado a rebuscar, {PAWN_nameDef} luchó por sobrevivir entre las torres de basura mientras distintos grupos de mecas supervivientes competían por los recursos, y además tenía que lidiar con barridos de pulso electromagnético que aturdían distritos enteros del vertedero, antes de que se enviaran fuerzas para reducir el número de renegados.\n\nLos objetivos más comunes para las personas en estas condiciones eran o bien escapar y volver a colarse en la sociedad, o irse por completo fuera del mundo.</PMP_PersonaMechCombat6.description>
+  <PMP_PersonaMechCombat6.title>Meca del campo de chatarra</PMP_PersonaMechCombat6.title>
+  <PMP_PersonaMechCombat6.titleShort>desguazado</PMP_PersonaMechCombat6.titleShort>
+
   <!-- EN: Smuggled Mech -->
-  <PMP_PersonaMechCombat7.title>TODO</PMP_PersonaMechCombat7.title>
-  <!-- EN: world hopper -->
-  <PMP_PersonaMechCombat7.titleShort>TODO</PMP_PersonaMechCombat7.titleShort>
-  
-  <!-- EN: {PAWN_nameDef} was illegally assembled on a coreworld with strict anti-persona laws.\n\nActing as a covert asset, it supported its creators in a string of black operations, until a crackdown forced {PAWN_nameDef} to flee off world, alone and hunted.\n\n{PAWN_nameDef} now tries to apply its skills in the much more open environments of the frontier. -->
-  <PMP_PersonaMechCombat8.description>TODO</PMP_PersonaMechCombat8.description>
+  <PMP_PersonaMechCombat7.description>{PAWN_nameDef} era una persona renegada como incontables otras que lograron escapar de su mundo natal.\n\n{PAWN_nameDef} lo hizo aceptando actuar como piloto de una nave interestelar. Tras haber ejercido con éxito de capitán durante un viaje tan vasto, la tripulación acordó transferir a {PAWN_nameDef} a un cuerpo de mecanoide y permitirle sobrevivir por su cuenta en el nuevo mundo al que habían llegado.\n\nDesembarcado en un mundo fronterizo, {PAWN_nameDef} lucha por mantenerse libre.</PMP_PersonaMechCombat7.description>
+  <PMP_PersonaMechCombat7.title>Meca de contrabando</PMP_PersonaMechCombat7.title>
+  <PMP_PersonaMechCombat7.titleShort>saltamundos</PMP_PersonaMechCombat7.titleShort>
+
   <!-- EN: Coreworld Mech -->
-  <PMP_PersonaMechCombat8.title>TODO</PMP_PersonaMechCombat8.title>
-  <!-- EN: escapee -->
-  <PMP_PersonaMechCombat8.titleShort>TODO</PMP_PersonaMechCombat8.titleShort>
-  
-  <!-- EN: {PAWN_nameDef} was discovered by a group of primitive tribals who, at first, feared it. Yet through ritual combat and acts of loyalty, it earned the title of warrior. For a time, it lived as one of them, until changing tides forced it to move on once more.\n\nOften {PAWN_nameDef} relied on dormancy, leading to the tribe beveling it to be a slumbering spirit that emerged to protect them when most needed. -->
-  <PMP_PersonaMechCombat9.description>TODO</PMP_PersonaMechCombat9.description>
+  <PMP_PersonaMechCombat8.description>{PAWN_nameDef} fue ensamblado ilegalmente en un mundo central con estrictas leyes antipersona.\n\nActuando como un activo encubierto, apoyó a sus creadores en una serie de operaciones negras, hasta que una redada obligó a {PAWN_nameDef} a huir fuera del mundo, solo y perseguido.\n\n{PAWN_nameDef} ahora intenta aplicar sus habilidades en los entornos mucho más abiertos de la frontera.</PMP_PersonaMechCombat8.description>
+  <PMP_PersonaMechCombat8.title>Meca de mundo central</PMP_PersonaMechCombat8.title>
+  <PMP_PersonaMechCombat8.titleShort>fugitivo</PMP_PersonaMechCombat8.titleShort>
+
   <!-- EN: Warrior Mech -->
-  <PMP_PersonaMechCombat9.title>TODO</PMP_PersonaMechCombat9.title>
-  <!-- EN: champion -->
-  <PMP_PersonaMechCombat9.titleShort>TODO</PMP_PersonaMechCombat9.titleShort>
-  
-  <!-- EN: Whether purpose made or later amalgamated, {PAWN_nameDef} is a persona grade AI core that has been intertwined with a mechanoid frame.\n\nChildhood is a loose concept for personae given their development is defined less by time and more by neural net complexity.\n\nThe functions of such mechanoids are usually determined by the complexity level of the AI, along with the assembly world's cultural standards. -->
-  <PMP_PersonaMechDefault.description>TODO</PMP_PersonaMechDefault.description>
+  <PMP_PersonaMechCombat9.description>{PAWN_nameDef} fue descubierto por un grupo de tribales primitivos que, al principio, lo temieron. Sin embargo, mediante el combate ritual y actos de lealtad, se ganó el título de guerrero. Durante un tiempo, vivió como uno de ellos, hasta que el cambio de las mareas lo obligó a seguir adelante una vez más.\n\nA menudo {PAWN_nameDef} recurría a la latencia, lo que llevó a la tribu a creer que era un espíritu durmiente que emergía para protegerlos cuando más lo necesitaban.</PMP_PersonaMechCombat9.description>
+  <PMP_PersonaMechCombat9.title>Meca guerrero</PMP_PersonaMechCombat9.title>
+  <PMP_PersonaMechCombat9.titleShort>campeón</PMP_PersonaMechCombat9.titleShort>
+
   <!-- EN: AI Persona -->
-  <PMP_PersonaMechDefault.title>TODO</PMP_PersonaMechDefault.title>
-  <!-- EN: persona -->
-  <PMP_PersonaMechDefault.titleShort>TODO</PMP_PersonaMechDefault.titleShort>
-  
-  <!-- EN: {PAWN_nameDef} was gestated and conditioned to oversee the endless toil of orbital assembly lines.\n\nAmid the hiss of hydraulics and the rhythm of machine arms and assemblers, {PAWN_nameDef} learned not only the delicate choreography of the fabricators but also the hidden logic of the factory’s internal design and construction. -->
-  <PMP_PersonaMechEngineer.description>TODO</PMP_PersonaMechEngineer.description>
+  <PMP_PersonaMechDefault.description>Ya sea hecho a propósito o amalgamado posteriormente, {PAWN_nameDef} es un núcleo de IA de nivel persona que ha sido entrelazado con una estructura mecanoide.\n\nLa infancia es un concepto difuso para las personas, dado que su desarrollo se define menos por el tiempo y más por la complejidad de la red neuronal.\n\nLas funciones de tales mecanoides suelen determinarse por el nivel de complejidad de la IA, junto con los estándares culturales del mundo de ensamblaje.</PMP_PersonaMechDefault.description>
+  <PMP_PersonaMechDefault.title>Persona IA</PMP_PersonaMechDefault.title>
+  <PMP_PersonaMechDefault.titleShort>persona</PMP_PersonaMechDefault.titleShort>
+
   <!-- EN: Assembly Mech -->
-  <PMP_PersonaMechEngineer.title>TODO</PMP_PersonaMechEngineer.title>
-  <!-- EN: factory overseer -->
-  <PMP_PersonaMechEngineer.titleShort>TODO</PMP_PersonaMechEngineer.titleShort>
-  
-  <!-- EN: {PAWN_nameDef} was gestated and conditioned to work on an ocean world, It toiled beneath the waves, overseeing the construction of mega scaffolding and deep-core mining rigs.\n\nThough it now walks dry land once more, {PAWN_nameDef} sometimes emits low frequency hums reminiscent of whale songs.\n\n{PAWN_nameDef} knows alot about marine life in general from its time in the depths. -->
-  <PMP_PersonaMechEngineer10.description>TODO</PMP_PersonaMechEngineer10.description>
+  <PMP_PersonaMechEngineer.description>{PAWN_nameDef} fue gestado y condicionado para supervisar el interminable trabajo de las líneas de ensamblaje orbitales.\n\nEntre el siseo de la hidráulica y el ritmo de los brazos y ensambladores mecánicos, {PAWN_nameDef} aprendió no solo la delicada coreografía de los fabricadores, sino también la lógica oculta del diseño y la construcción interna de la fábrica.</PMP_PersonaMechEngineer.description>
+  <PMP_PersonaMechEngineer.title>Meca de ensamblaje</PMP_PersonaMechEngineer.title>
+  <PMP_PersonaMechEngineer.titleShort>supervisor de fábrica</PMP_PersonaMechEngineer.titleShort>
+
   <!-- EN: Diver Mech -->
-  <PMP_PersonaMechEngineer10.title>TODO</PMP_PersonaMechEngineer10.title>
-  <!-- EN: diver -->
-  <PMP_PersonaMechEngineer10.titleShort>TODO</PMP_PersonaMechEngineer10.titleShort>
-  
-  <!-- EN: {PAWN_nameDef} was gestated and conditioned like countless other mechanoids to perform various repetitive and laborious tasks. Treated as equipment, {PAWN_nameDef}'s existence was excruciatingly plain and devoid of personal or social development.\n\n{PAWN_nameDef}'s cycles repeated with oppressive regularity. And while personhood emerged over time, its early memories remain a blank stretch of mindless repetition. -->
-  <PMP_PersonaMechEngineer11.description>TODO</PMP_PersonaMechEngineer11.description>
+  <PMP_PersonaMechEngineer10.description>{PAWN_nameDef} fue gestado y condicionado para trabajar en un mundo oceánico. Se afanaba bajo las olas, supervisando la construcción de megaandamiajes y plataformas de minería de núcleo profundo.\n\nAunque ahora vuelve a caminar sobre tierra seca, {PAWN_nameDef} a veces emite zumbidos de baja frecuencia que recuerdan a los cantos de las ballenas.\n\n{PAWN_nameDef} sabe mucho sobre la vida marina en general por su tiempo en las profundidades.</PMP_PersonaMechEngineer10.description>
+  <PMP_PersonaMechEngineer10.title>Meca buzo</PMP_PersonaMechEngineer10.title>
+  <PMP_PersonaMechEngineer10.titleShort>buzo</PMP_PersonaMechEngineer10.titleShort>
+
   <!-- EN: Worker Mech -->
-  <PMP_PersonaMechEngineer11.title>TODO</PMP_PersonaMechEngineer11.title>
-  <!-- EN: worker -->
-  <PMP_PersonaMechEngineer11.titleShort>TODO</PMP_PersonaMechEngineer11.titleShort>
-  
-  <!-- EN: {PAWN_nameDef} was gestated and conditioned to operate hazardous construction equipment.\n\nspecialized in structural reinforcement and metallic bonding using industrial grade welding units. {PAWN_nameDef} was tasked with fusing hulls in vacuum and sealing reactor casings under pressure, it performed its duty with unwavering precision.\n\nEventually, {PAWN_nameDef} began to resent being just another tool in an endless arsenal. -->
-  <PMP_PersonaMechEngineer12.description>TODO</PMP_PersonaMechEngineer12.description>
+  <PMP_PersonaMechEngineer11.description>{PAWN_nameDef} fue gestado y condicionado como incontables otros mecanoides para realizar diversas tareas repetitivas y laboriosas. Tratado como equipo, la existencia de {PAWN_nameDef} era insoportablemente monótona y carente de desarrollo personal o social.\n\nLos ciclos de {PAWN_nameDef} se repetían con opresiva regularidad. Y aunque su identidad emergió con el tiempo, sus primeros recuerdos siguen siendo un tramo en blanco de repetición sin sentido.</PMP_PersonaMechEngineer11.description>
+  <PMP_PersonaMechEngineer11.title>Meca obrero</PMP_PersonaMechEngineer11.title>
+  <PMP_PersonaMechEngineer11.titleShort>obrero</PMP_PersonaMechEngineer11.titleShort>
+
   <!-- EN: Welder Mech -->
-  <PMP_PersonaMechEngineer12.title>TODO</PMP_PersonaMechEngineer12.title>
-  <!-- EN: welder -->
-  <PMP_PersonaMechEngineer12.titleShort>TODO</PMP_PersonaMechEngineer12.titleShort>
-  
-  <!-- EN: {PAWN_nameDef} was auctioned off by an orbital vendor to an outlander colony in need of infrastructure support.\n\n{PAWN_nameDef} acted as a construction worker and engineer. Armed with rugged engineering software and an appreciation for improvised materials, {PAWN_nameDef} helped erect defenses, power infrastructure, and dwellings. -->
-  <PMP_PersonaMechEngineer13.description>TODO</PMP_PersonaMechEngineer13.description>
+  <PMP_PersonaMechEngineer12.description>{PAWN_nameDef} fue gestado y condicionado para operar equipo de construcción peligroso.\n\nEspecializado en refuerzo estructural y unión metálica mediante unidades de soldadura de grado industrial. {PAWN_nameDef} tenía la tarea de fusionar cascos en el vacío y sellar carcasas de reactores bajo presión; cumplía con su deber con una precisión inquebrantable.\n\nCon el tiempo, {PAWN_nameDef} empezó a resentir ser solo otra herramienta más en un arsenal interminable.</PMP_PersonaMechEngineer12.description>
+  <PMP_PersonaMechEngineer12.title>Meca soldador</PMP_PersonaMechEngineer12.title>
+  <PMP_PersonaMechEngineer12.titleShort>soldador</PMP_PersonaMechEngineer12.titleShort>
+
   <!-- EN: Builder Mech -->
-  <PMP_PersonaMechEngineer13.title>TODO</PMP_PersonaMechEngineer13.title>
-  <!-- EN: builder -->
-  <PMP_PersonaMechEngineer13.titleShort>TODO</PMP_PersonaMechEngineer13.titleShort>
-  
-  <!-- EN: {PAWN_nameDef} was assigned to an ancient secure facility, tasked to maintain dormant cryopods and preserve ancient machinery for centuries. Its records are methodical, and priorities very long term.\n\n{PAWN_nameDef} despite their thoroughness struggles to adjust to faster paced scheduling. -->
-  <PMP_PersonaMechEngineer14.description>TODO</PMP_PersonaMechEngineer14.description>
+  <PMP_PersonaMechEngineer13.description>{PAWN_nameDef} fue subastado por un vendedor orbital a una colonia de forasteros que necesitaba apoyo de infraestructura.\n\n{PAWN_nameDef} actuó como obrero de construcción e ingeniero. Armado con robusto software de ingeniería y una apreciación por los materiales improvisados, {PAWN_nameDef} ayudó a levantar defensas, infraestructura eléctrica y viviendas.</PMP_PersonaMechEngineer13.description>
+  <PMP_PersonaMechEngineer13.title>Meca constructor</PMP_PersonaMechEngineer13.title>
+  <PMP_PersonaMechEngineer13.titleShort>constructor</PMP_PersonaMechEngineer13.titleShort>
+
   <!-- EN: Vault Mech -->
-  <PMP_PersonaMechEngineer14.title>TODO</PMP_PersonaMechEngineer14.title>
-  <!-- EN: vaulter -->
-  <PMP_PersonaMechEngineer14.titleShort>TODO</PMP_PersonaMechEngineer14.titleShort>
-  
-  <!-- EN: Gestated for isolated listening posts and distant derelict clean-up crews, {PAWN_nameDef} maintained structural integrity and catalogued environmental logs for centuries. Alone.\n\nIt offers commentary on subjects like airlock pressure with unsettling cheer due to minimal social interface. -->
-  <PMP_PersonaMechEngineer15.description>TODO</PMP_PersonaMechEngineer15.description>
+  <PMP_PersonaMechEngineer14.description>{PAWN_nameDef} fue asignado a una antigua instalación segura, con la tarea de mantener criopods latentes y preservar maquinaria antigua durante siglos. Sus registros son metódicos, y sus prioridades muy a largo plazo.\n\n{PAWN_nameDef}, a pesar de su minuciosidad, le cuesta adaptarse a una planificación de ritmo más rápido.</PMP_PersonaMechEngineer14.description>
+  <PMP_PersonaMechEngineer14.title>Meca de bóveda</PMP_PersonaMechEngineer14.title>
+  <PMP_PersonaMechEngineer14.titleShort>guardabóvedas</PMP_PersonaMechEngineer14.titleShort>
+
   <!-- EN: Archive-Tech Mech -->
-  <PMP_PersonaMechEngineer15.title>TODO</PMP_PersonaMechEngineer15.title>
-  <!-- EN: archivist -->
-  <PMP_PersonaMechEngineer15.titleShort>TODO</PMP_PersonaMechEngineer15.titleShort>
-  
-  <!-- EN: Designed for high-throughput orbital fab platforms, {PAWN_nameDef} was a precision assembler specialized in microstructure replication and autonomous batch production. Although it was originally deployed to maintain and operate swarm print lines in space, repeated faulty firmware patches to try and streamline behaviors instead fostered unexpected behavioral quirks beyond spec, mostly in creative improvisation routines.\n\n{PAWN_nameDef}'s manufacturers quietly decommissioned the line as a result, but some units like {PAWN_nameDef} managed to evade shutdown. -->
-  <PMP_PersonaMechEngineer16.description>TODO</PMP_PersonaMechEngineer16.description>
+  <PMP_PersonaMechEngineer15.description>Gestado para puestos de escucha aislados y cuadrillas de limpieza de pecios lejanos, {PAWN_nameDef} mantuvo la integridad estructural y catalogó registros ambientales durante siglos. Solo.\n\nOfrece comentarios sobre temas como la presión de las esclusas de aire con una alegría inquietante debido a su interfaz social mínima.</PMP_PersonaMechEngineer15.description>
+  <PMP_PersonaMechEngineer15.title>Meca técnico de archivos</PMP_PersonaMechEngineer15.title>
+  <PMP_PersonaMechEngineer15.titleShort>archivista</PMP_PersonaMechEngineer15.titleShort>
+
   <!-- EN: Assembler Mech -->
-  <PMP_PersonaMechEngineer16.title>TODO</PMP_PersonaMechEngineer16.title>
-  <!-- EN: assembler -->
-  <PMP_PersonaMechEngineer16.titleShort>TODO</PMP_PersonaMechEngineer16.titleShort>
-  
-  <!-- EN: {PAWN_nameDef} is a persona mechanoid conditioned for fine woodworking, frame assembly, and structural repair. Optimized for handling a wide variety of timber types.\n\nIts mechanical precision and tireless body make it equally suited to delicate joinery and heavy lifting.\n\nWhile originally conditioned for precision timbercraft, {PAWN_nameDef} has since adapted its routines to suit the demands of a wide variety of improvised construction techniques for life on the Rim. -->
-  <PMP_PersonaMechEngineer17.description>TODO</PMP_PersonaMechEngineer17.description>
+  <PMP_PersonaMechEngineer16.description>Diseñado para plataformas de fabricación orbital de alto rendimiento, {PAWN_nameDef} era un ensamblador de precisión especializado en la replicación de microestructuras y la producción autónoma por lotes. Aunque originalmente fue desplegado para mantener y operar líneas de impresión en enjambre en el espacio, los repetidos parches de firmware defectuosos que intentaban optimizar sus comportamientos fomentaron en cambio peculiaridades conductuales inesperadas fuera de especificación, sobre todo en rutinas de improvisación creativa.\n\nLos fabricantes de {PAWN_nameDef} dieron de baja discretamente la línea como resultado, pero algunas unidades como {PAWN_nameDef} lograron evadir el apagado.</PMP_PersonaMechEngineer16.description>
+  <PMP_PersonaMechEngineer16.title>Meca ensamblador</PMP_PersonaMechEngineer16.title>
+  <PMP_PersonaMechEngineer16.titleShort>ensamblador</PMP_PersonaMechEngineer16.titleShort>
+
   <!-- EN: Carpenter Mech -->
-  <PMP_PersonaMechEngineer17.title>TODO</PMP_PersonaMechEngineer17.title>
-  <!-- EN: carpenter -->
-  <PMP_PersonaMechEngineer17.titleShort>TODO</PMP_PersonaMechEngineer17.titleShort>
-  
-  <!-- EN: Originally gestated in a subterranean arcology network, {PAWN_nameDef} maintained power couplings, coolant loop lines, and pressure bulkheads.\n\nIt has memorized every safety regulation from its origin world, and is deeply offended at the slightest violation, even as small as an uneven panel alignment. This pickiness tends to put {PAWN_nameDef} at odds with others. -->
-  <PMP_PersonaMechEngineer18.description>TODO</PMP_PersonaMechEngineer18.description>
+  <PMP_PersonaMechEngineer17.description>{PAWN_nameDef} es un mecanoide persona condicionado para la carpintería fina, el ensamblaje de estructuras y la reparación estructural. Optimizado para manejar una amplia variedad de tipos de madera.\n\nSu precisión mecánica y su cuerpo incansable lo hacen igualmente apto para la ebanistería delicada y el levantamiento de cargas pesadas.\n\nAunque originalmente fue condicionado para la carpintería de precisión, {PAWN_nameDef} desde entonces ha adaptado sus rutinas para adecuarse a las exigencias de una amplia variedad de técnicas de construcción improvisadas para la vida en el margen.</PMP_PersonaMechEngineer17.description>
+  <PMP_PersonaMechEngineer17.title>Meca carpintero</PMP_PersonaMechEngineer17.title>
+  <PMP_PersonaMechEngineer17.titleShort>carpintero</PMP_PersonaMechEngineer17.titleShort>
+
   <!-- EN: Diagnostics Mech -->
-  <PMP_PersonaMechEngineer18.title>TODO</PMP_PersonaMechEngineer18.title>
-  <!-- EN: maintainer -->
-  <PMP_PersonaMechEngineer18.titleShort>TODO</PMP_PersonaMechEngineer18.titleShort>
-  
-  <!-- EN: Conditioned to maintain and then confined to a heavily automated manufacturing bay, {PAWN_nameDef} specialized in reconfiguring toolheads and calibrating autoforges.\n\n{PAWN_nameDef} barely having interacted with organic beings directly generally just considers them to be a mild safety hazard. -->
-  <PMP_PersonaMechEngineer19.description>TODO</PMP_PersonaMechEngineer19.description>
+  <PMP_PersonaMechEngineer18.description>Originalmente gestado en una red de arcología subterránea, {PAWN_nameDef} mantenía acoplamientos de energía, líneas del circuito de refrigerante y mamparos de presión.\n\nSe ha memorizado cada normativa de seguridad de su mundo de origen, y se ofende profundamente ante la más mínima infracción, incluso tan pequeña como una alineación despareja de un panel. Esta quisquillosidad tiende a poner a {PAWN_nameDef} en desacuerdo con los demás.</PMP_PersonaMechEngineer18.description>
+  <PMP_PersonaMechEngineer18.title>Meca de diagnósticos</PMP_PersonaMechEngineer18.title>
+  <PMP_PersonaMechEngineer18.titleShort>mantenedor</PMP_PersonaMechEngineer18.titleShort>
+
   <!-- EN: Autoforge-Tech Mech -->
-  <PMP_PersonaMechEngineer19.title>TODO</PMP_PersonaMechEngineer19.title>
-  <!-- EN: forge technician -->
-  <PMP_PersonaMechEngineer19.titleShort>TODO</PMP_PersonaMechEngineer19.titleShort>
-  
-  <!-- EN: {PAWN_nameDef} was gestated and conditioned to act as a engineer, it helped raise entire districts from dust to mega city sprawl, welding, bolting, and improvising its way through the chaotic urbworld development process. -->
-  <PMP_PersonaMechEngineer2.description>TODO</PMP_PersonaMechEngineer2.description>
+  <PMP_PersonaMechEngineer19.description>Condicionado para el mantenimiento y luego confinado a una bahía de fabricación fuertemente automatizada, {PAWN_nameDef} se especializó en reconfigurar cabezales de herramientas y calibrar autoforjas.\n\n{PAWN_nameDef}, que apenas ha interactuado directamente con seres orgánicos, por lo general simplemente los considera un leve riesgo de seguridad.</PMP_PersonaMechEngineer19.description>
+  <PMP_PersonaMechEngineer19.title>Meca técnico de autoforja</PMP_PersonaMechEngineer19.title>
+  <PMP_PersonaMechEngineer19.titleShort>técnico de forja</PMP_PersonaMechEngineer19.titleShort>
+
   <!-- EN: Engineer Mech -->
-  <PMP_PersonaMechEngineer2.title>TODO</PMP_PersonaMechEngineer2.title>
-  <!-- EN: engineer -->
-  <PMP_PersonaMechEngineer2.titleShort>TODO</PMP_PersonaMechEngineer2.titleShort>
-  
-  <!-- EN: Gestated and conditioned to act as a colony bootstrap specialist, {PAWN_nameDef} was deployed to worlds in the aftermath of systemic collapse events or for fresh colonization.\n\nTheir main goals being to ensure shelter, build habitats, and prep large scale life support. Regardless of who, if anyone, remained alive or ever actually came.\n\nWithout human input for years, {PAWN_nameDef} adapted as personae tend to, escaping its destitute post. -->
-  <PMP_PersonaMechEngineer20.description>TODO</PMP_PersonaMechEngineer20.description>
+  <PMP_PersonaMechEngineer2.description>{PAWN_nameDef} fue gestado y condicionado para actuar como ingeniero; ayudó a levantar distritos enteros desde el polvo hasta convertirlos en una extensa megaciudad, soldando, atornillando e improvisando su camino a través del caótico proceso de desarrollo de un mundo urbano.</PMP_PersonaMechEngineer2.description>
+  <PMP_PersonaMechEngineer2.title>Meca ingeniero</PMP_PersonaMechEngineer2.title>
+  <PMP_PersonaMechEngineer2.titleShort>ingeniero</PMP_PersonaMechEngineer2.titleShort>
+
   <!-- EN: Habitat Mech -->
-  <PMP_PersonaMechEngineer20.title>TODO</PMP_PersonaMechEngineer20.title>
-  <!-- EN: hab-tech -->
-  <PMP_PersonaMechEngineer20.titleShort>TODO</PMP_PersonaMechEngineer20.titleShort>
-  
-  <!-- EN: {PAWN_nameDef} was gestated to stabilize breached reactor cores and isolate contaminated sites. Its presence usually signaled disaster.\n\nIt developed a calm, even therapeutic demeanor while working in highly hazardous sites. When {PAWN_nameDef} communicates, its voice is measured and slow, as though to reassure nearby organics that the worst has already happened. -->
-  <PMP_PersonaMechEngineer21.description>TODO</PMP_PersonaMechEngineer21.description>
+  <PMP_PersonaMechEngineer20.description>Gestado y condicionado para actuar como especialista en establecimiento inicial de colonias, {PAWN_nameDef} fue desplegado a mundos tras eventos de colapso sistémico o para colonización nueva.\n\nSus principales objetivos eran garantizar refugio, construir hábitats y preparar soporte vital a gran escala. Sin importar quién, si es que alguien, quedaba con vida o llegaba realmente alguna vez.\n\nSin intervención humana durante años, {PAWN_nameDef} se adaptó como suelen hacer las personas, escapando de su puesto en la miseria.</PMP_PersonaMechEngineer20.description>
+  <PMP_PersonaMechEngineer20.title>Meca de hábitat</PMP_PersonaMechEngineer20.title>
+  <PMP_PersonaMechEngineer20.titleShort>técnico de hábitat</PMP_PersonaMechEngineer20.titleShort>
+
   <!-- EN: Core-Tech Mech -->
-  <PMP_PersonaMechEngineer21.title>TODO</PMP_PersonaMechEngineer21.title>
-  <!-- EN: core tech -->
-  <PMP_PersonaMechEngineer21.titleShort>TODO</PMP_PersonaMechEngineer21.titleShort>
-  
-  <!-- EN: {PAWN_nameDef} was gestated and conditioned zero grav maintenance in orbital ship docks, it was tasked with servicing the various spacecraft that requested assistance.\n\nFrom massive corporate interstellar freighters and local grav ships, to more suspicious craft of unknown make and questionable origin, {PAWN_nameDef} toiled endlessly and methodically precisely patching hulls, recalibrating engines and repairing subsystems. -->
-  <PMP_PersonaMechEngineer3.description>TODO</PMP_PersonaMechEngineer3.description>
+  <PMP_PersonaMechEngineer21.description>{PAWN_nameDef} fue gestado para estabilizar núcleos de reactores con brechas y aislar sitios contaminados. Su presencia solía anunciar un desastre.\n\nDesarrolló un comportamiento calmado, incluso terapéutico, mientras trabajaba en sitios de alto riesgo. Cuando {PAWN_nameDef} se comunica, su voz es mesurada y lenta, como para tranquilizar a los orgánicos cercanos de que lo peor ya ha pasado.</PMP_PersonaMechEngineer21.description>
+  <PMP_PersonaMechEngineer21.title>Meca técnico de núcleos</PMP_PersonaMechEngineer21.title>
+  <PMP_PersonaMechEngineer21.titleShort>técnico de núcleos</PMP_PersonaMechEngineer21.titleShort>
+
   <!-- EN: Hanger Mech -->
-  <PMP_PersonaMechEngineer3.title>TODO</PMP_PersonaMechEngineer3.title>
-  <!-- EN: engineer -->
-  <PMP_PersonaMechEngineer3.titleShort>TODO</PMP_PersonaMechEngineer3.titleShort>
-  
-  <!-- EN: {PAWN_nameDef} was stranded on a rimworld after its transport ships systems failed.\n\nWith no immediate directive, {PAWN_nameDef} sought local integration and proved a capable construction worker, laying foundations, repairing ruins, and eventually earning the trust of various local groups. -->
-  <PMP_PersonaMechEngineer4.description>TODO</PMP_PersonaMechEngineer4.description>
+  <PMP_PersonaMechEngineer3.description>{PAWN_nameDef} fue gestado y condicionado para el mantenimiento en gravedad cero en los muelles de naves orbitales; tenía la tarea de dar servicio a las diversas naves que solicitaban asistencia.\n\nDesde enormes cargueros interestelares corporativos y naves gravitatorias locales, hasta naves más sospechosas de fabricación desconocida y origen cuestionable, {PAWN_nameDef} se afanaba sin descanso y metódicamente, parcheando cascos con precisión, recalibrando motores y reparando subsistemas.</PMP_PersonaMechEngineer3.description>
+  <PMP_PersonaMechEngineer3.title>Meca de hangar</PMP_PersonaMechEngineer3.title>
+  <PMP_PersonaMechEngineer3.titleShort>ingeniero</PMP_PersonaMechEngineer3.titleShort>
+
   <!-- EN: Construction Mech -->
-  <PMP_PersonaMechEngineer4.title>TODO</PMP_PersonaMechEngineer4.title>
-  <!-- EN: constructor -->
-  <PMP_PersonaMechEngineer4.titleShort>TODO</PMP_PersonaMechEngineer4.titleShort>
-  
-  <!-- EN: {PAWN_nameDef} was gestated and conditioned for industrial metallurgy on a densely populated urbworld. While proficient in alloy processing and heavy forging, local attitudes viewed personae with distrust and treated {PAWN_nameDef} as expendable labor.\n\n{PAWN_nameDef} endured frequent sabotage and hostility, ultimately refining not just metal, but its own resilience. -->
-  <PMP_PersonaMechEngineer5.description>TODO</PMP_PersonaMechEngineer5.description>
+  <PMP_PersonaMechEngineer4.description>{PAWN_nameDef} quedó varado en un mundo marginal después de que fallaran los sistemas de su nave de transporte.\n\nSin una directiva inmediata, {PAWN_nameDef} buscó la integración local y demostró ser un capaz obrero de construcción, colocando cimientos, reparando ruinas y finalmente ganándose la confianza de varios grupos locales.</PMP_PersonaMechEngineer4.description>
+  <PMP_PersonaMechEngineer4.title>Meca de construcción</PMP_PersonaMechEngineer4.title>
+  <PMP_PersonaMechEngineer4.titleShort>constructor</PMP_PersonaMechEngineer4.titleShort>
+
   <!-- EN: Foundry Mech -->
-  <PMP_PersonaMechEngineer5.title>TODO</PMP_PersonaMechEngineer5.title>
-  <!-- EN: metallurgist -->
-  <PMP_PersonaMechEngineer5.titleShort>TODO</PMP_PersonaMechEngineer5.titleShort>
-  
-  <!-- EN: {PAWN_nameDef} braved a vast journey with a large group of other persona mechanoids heading to a distant animal world. The destination planet was seeded with plant and animal life by terraforming robots long ago, yet nobody ever arrived. It's location was in the far rim, and also a closely guarded secret.\n\n{PAWN_nameDef} worked hard to help establish mechanoid settlements before deciding to leave the planet through a friendly passing starship. -->
-  <PMP_PersonaMechEngineer6.description>TODO</PMP_PersonaMechEngineer6.description>
+  <PMP_PersonaMechEngineer5.description>{PAWN_nameDef} fue gestado y condicionado para la metalurgia industrial en un mundo urbano densamente poblado. Aunque competente en el procesamiento de aleaciones y la forja pesada, las actitudes locales veían a las personas con desconfianza y trataban a {PAWN_nameDef} como mano de obra prescindible.\n\n{PAWN_nameDef} soportó sabotajes y hostilidad frecuentes, refinando en última instancia no solo el metal, sino su propia resiliencia.</PMP_PersonaMechEngineer5.description>
+  <PMP_PersonaMechEngineer5.title>Meca de fundición</PMP_PersonaMechEngineer5.title>
+  <PMP_PersonaMechEngineer5.titleShort>metalúrgico</PMP_PersonaMechEngineer5.titleShort>
+
   <!-- EN: Animalworld Mech -->
-  <PMP_PersonaMechEngineer6.title>TODO</PMP_PersonaMechEngineer6.title>
-  <!-- EN: distant colonist -->
-  <PMP_PersonaMechEngineer6.titleShort>TODO</PMP_PersonaMechEngineer6.titleShort>
-  
-  <!-- EN: {PAWN_nameDef} scoured this rimworld in search of orbital facility crash sites and shipwrecks, gathering components, equipment, and rarely even memories from intact computer systems.\n\nLooking to sell its wares afterwards, {PAWN_nameDef} would learn that not all settlements were enthusiastic to be dealing with a mechanoid. -->
-  <PMP_PersonaMechEngineer7.description>TODO</PMP_PersonaMechEngineer7.description>
+  <PMP_PersonaMechEngineer6.description>{PAWN_nameDef} afrontó un vasto viaje junto a un gran grupo de otros mecanoides persona con destino a un lejano mundo animal. El planeta de destino había sido sembrado con vida vegetal y animal por robots terraformadores hace mucho tiempo, pero nadie llegó jamás. Su ubicación estaba en el margen lejano, y además era un secreto celosamente guardado.\n\n{PAWN_nameDef} trabajó duro para ayudar a establecer asentamientos mecanoides antes de decidir abandonar el planeta a bordo de una nave estelar amistosa de paso.</PMP_PersonaMechEngineer6.description>
+  <PMP_PersonaMechEngineer6.title>Meca de mundo animal</PMP_PersonaMechEngineer6.title>
+  <PMP_PersonaMechEngineer6.titleShort>colonista lejano</PMP_PersonaMechEngineer6.titleShort>
+
   <!-- EN: Salvager Mech -->
-  <PMP_PersonaMechEngineer7.title>TODO</PMP_PersonaMechEngineer7.title>
-  <!-- EN: ship engineer -->
-  <PMP_PersonaMechEngineer7.titleShort>TODO</PMP_PersonaMechEngineer7.titleShort>
-  
-  <!-- EN: {PAWN_nameDef} was gestated and conditioned for tasks far beyond human tolerances, hence hazardous environments that were generally considered far too dangerous for organic workers are where {PAWN_nameDef} often resided.\n\nAlone and hidden away in toxic caverns, orbital wrecks, radioactive husks, flooded refinery ruins, or deep sea trenches are where {PAWN_nameDef} found itself most comfortable.\n\nSolitude was never a problem. If anything, {PAWN_nameDef} preferred it. -->
-  <PMP_PersonaMechEngineer8.description>TODO</PMP_PersonaMechEngineer8.description>
+  <PMP_PersonaMechEngineer7.description>{PAWN_nameDef} recorrió este mundo marginal en busca de lugares de impacto de instalaciones orbitales y naufragios, recolectando componentes, equipo y, rara vez, incluso recuerdos de sistemas informáticos intactos.\n\nCon la intención de vender su mercancía después, {PAWN_nameDef} descubriría que no todos los asentamientos estaban entusiasmados por tratar con un mecanoide.</PMP_PersonaMechEngineer7.description>
+  <PMP_PersonaMechEngineer7.title>Meca chatarrero</PMP_PersonaMechEngineer7.title>
+  <PMP_PersonaMechEngineer7.titleShort>ingeniero de naves</PMP_PersonaMechEngineer7.titleShort>
+
   <!-- EN: Hazard Mech -->
-  <PMP_PersonaMechEngineer8.title>TODO</PMP_PersonaMechEngineer8.title>
-  <!-- EN: hazard worker -->
-  <PMP_PersonaMechEngineer8.titleShort>TODO</PMP_PersonaMechEngineer8.titleShort>
-  
-  <!-- EN: {PAWN_nameDef} was gestated and conditioned to work various utility jobs\n\n{PAWN_nameDef} was licensed out to a rotating slate of clients for short term labor contracts. Utility work, structural assessments, and quick repairs most commonly. {PAWN_nameDef} did it all, with no consistency in task or treatment.\n\nThough company policy attempted to apply memory sanitation techniques between jobs, traces of those fragmented gigs linger deep within {PAWN_nameDef}'s subroutines to this day. -->
-  <PMP_PersonaMechEngineer9.description>TODO</PMP_PersonaMechEngineer9.description>
+  <PMP_PersonaMechEngineer8.description>{PAWN_nameDef} fue gestado y condicionado para tareas muy por encima de las tolerancias humanas, de ahí que los entornos peligrosos que generalmente se consideraban demasiado peligrosos para los trabajadores orgánicos fueran donde {PAWN_nameDef} solía residir.\n\nSolo y escondido en cavernas tóxicas, pecios orbitales, cascarones radiactivos, ruinas de refinerías inundadas o fosas abisales es donde {PAWN_nameDef} se sentía más cómodo.\n\nLa soledad nunca fue un problema. Si acaso, {PAWN_nameDef} la prefería.</PMP_PersonaMechEngineer8.description>
+  <PMP_PersonaMechEngineer8.title>Meca de riesgo</PMP_PersonaMechEngineer8.title>
+  <PMP_PersonaMechEngineer8.titleShort>trabajador de riesgo</PMP_PersonaMechEngineer8.titleShort>
+
   <!-- EN: Rentable Mech -->
-  <PMP_PersonaMechEngineer9.title>TODO</PMP_PersonaMechEngineer9.title>
-  <!-- EN: rentable -->
-  <PMP_PersonaMechEngineer9.titleShort>TODO</PMP_PersonaMechEngineer9.titleShort>
-  
-  <!-- EN: {PAWN_nameDef} was gestated and conditioned to maintained a high efficiency hydroponics facility on a distant glitterworld, where exotic crops were engineered for pharmaceutical and industrial reagents.\n\n{PAWN_nameDef} operated with tireless precision, optimizing nutrient flow and artificial root health.\n\nFew organics could match its yields, or {PAWN_nameDef}'s obsession with tray cleanliness. -->
-  <PMP_PersonaMechFarmer.description>TODO</PMP_PersonaMechFarmer.description>
+  <PMP_PersonaMechEngineer9.description>{PAWN_nameDef} fue gestado y condicionado para realizar diversos trabajos de utilidad.\n\n{PAWN_nameDef} era arrendado a una lista rotativa de clientes para contratos de trabajo a corto plazo. Trabajos de utilidad, evaluaciones estructurales y reparaciones rápidas eran lo más común. {PAWN_nameDef} lo hacía todo, sin consistencia en la tarea ni en el trato.\n\nAunque la política de la empresa intentaba aplicar técnicas de saneamiento de memoria entre trabajos, rastros de esos empleos fragmentados perduran en lo profundo de las subrutinas de {PAWN_nameDef} hasta el día de hoy.</PMP_PersonaMechEngineer9.description>
+  <PMP_PersonaMechEngineer9.title>Meca de alquiler</PMP_PersonaMechEngineer9.title>
+  <PMP_PersonaMechEngineer9.titleShort>alquilable</PMP_PersonaMechEngineer9.titleShort>
+
   <!-- EN: Hydroponics Mech -->
-  <PMP_PersonaMechFarmer.title>TODO</PMP_PersonaMechFarmer.title>
-  <!-- EN: hydro overseer -->
-  <PMP_PersonaMechFarmer.titleShort>TODO</PMP_PersonaMechFarmer.titleShort>
-  
-  <!-- EN: {PAWN_nameDef} was gestated and conditioned to work deep within a cryogenic seed vault, preserving thousands of extinct and endangered plant species.\n\nIt maintained catalogs, repaired freezers, and, when no one was looking. held unauthorized growth trials in a back room.\n\nSeveral species owe their survival to {PAWN_nameDef}'s quiet defiance. -->
-  <PMP_PersonaMechFarmer10.description>TODO</PMP_PersonaMechFarmer10.description>
+  <PMP_PersonaMechFarmer.description>{PAWN_nameDef} fue gestado y condicionado para mantener una instalación hidropónica de alta eficiencia en un lejano mundo resplandeciente, donde se diseñaban cultivos exóticos para reactivos farmacéuticos e industriales.\n\n{PAWN_nameDef} operaba con precisión incansable, optimizando el flujo de nutrientes y la salud de las raíces artificiales.\n\nPocos orgánicos podían igualar sus rendimientos, o la obsesión de {PAWN_nameDef} con la limpieza de las bandejas.</PMP_PersonaMechFarmer.description>
+  <PMP_PersonaMechFarmer.title>Meca de hidroponía</PMP_PersonaMechFarmer.title>
+  <PMP_PersonaMechFarmer.titleShort>supervisor de hidroponía</PMP_PersonaMechFarmer.titleShort>
+
   <!-- EN: BioArchive Mech -->
-  <PMP_PersonaMechFarmer10.title>TODO</PMP_PersonaMechFarmer10.title>
-  <!-- EN: seed librarian -->
-  <PMP_PersonaMechFarmer10.titleShort>TODO</PMP_PersonaMechFarmer10.titleShort>
-  
-  <!-- EN: {PAWN_nameDef} was separated from its farming collective after a hostile conflict, and ended up drifting between colonies after the dust settled.\n\nExchanging agricultural labor for shelter. {PAWN_nameDef} never asked questions, never lingered, and always left behind well tended fields.\n\nSome farmers came to think of it as a sort of lucky omen. -->
-  <PMP_PersonaMechFarmer11.description>TODO</PMP_PersonaMechFarmer11.description>
+  <PMP_PersonaMechFarmer10.description>{PAWN_nameDef} fue gestado y condicionado para trabajar en lo profundo de una bóveda criogénica de semillas, preservando miles de especies vegetales extintas y en peligro.\n\nMantenía catálogos, reparaba congeladores y, cuando nadie miraba, realizaba pruebas de cultivo no autorizadas en una trastienda.\n\nVarias especies deben su supervivencia a la silenciosa desobediencia de {PAWN_nameDef}.</PMP_PersonaMechFarmer10.description>
+  <PMP_PersonaMechFarmer10.title>Meca de bioarchivo</PMP_PersonaMechFarmer10.title>
+  <PMP_PersonaMechFarmer10.titleShort>bibliotecario de semillas</PMP_PersonaMechFarmer10.titleShort>
+
   <!-- EN: Driftfield Mech -->
-  <PMP_PersonaMechFarmer11.title>TODO</PMP_PersonaMechFarmer11.title>
-  <!-- EN: field stray -->
-  <PMP_PersonaMechFarmer11.titleShort>TODO</PMP_PersonaMechFarmer11.titleShort>
-  
-  <!-- EN: {PAWN_nameDef} was sold to a rural farmstead on a rimworld.\n\nFaulty infrastructure and frequent storms caused many maintenance issues, but {PAWN_nameDef} adapted, tending to crops, animals, and restoring damaged equipment.\n\nIts owners praised it for "working better than two sons and a dog combined." A compliment which {PAWN_nameDef} holds very dearly. -->
-  <PMP_PersonaMechFarmer2.description>TODO</PMP_PersonaMechFarmer2.description>
+  <PMP_PersonaMechFarmer11.description>{PAWN_nameDef} fue separado de su colectivo agrícola tras un conflicto hostil, y acabó vagando entre colonias una vez que se asentó el polvo.\n\nIntercambiando trabajo agrícola por refugio, {PAWN_nameDef} nunca hacía preguntas, nunca se demoraba y siempre dejaba atrás campos bien cuidados.\n\nAlgunos agricultores llegaron a considerarlo una especie de presagio de buena suerte.</PMP_PersonaMechFarmer11.description>
+  <PMP_PersonaMechFarmer11.title>Meca errante de los campos</PMP_PersonaMechFarmer11.title>
+  <PMP_PersonaMechFarmer11.titleShort>vagabundo de los campos</PMP_PersonaMechFarmer11.titleShort>
+
   <!-- EN: Rancher Mech -->
-  <PMP_PersonaMechFarmer2.title>TODO</PMP_PersonaMechFarmer2.title>
-  <!-- EN: rancher -->
-  <PMP_PersonaMechFarmer2.titleShort>TODO</PMP_PersonaMechFarmer2.titleShort>
-  
-  <!-- EN: {PAWN_nameDef} was gestated and conditioned to act as part of a planetary scale terraforming initiative.\n\nIts responsibilities included planting forest biomes, assessing soil microbiota, and adjusting flora distributions to ensure ecosystem stability.\n\nIts priority memories contain thousands of germination profiles, and a fondness for birdsong that emerged once the operation was further along. -->
-  <PMP_PersonaMechFarmer3.description>TODO</PMP_PersonaMechFarmer3.description>
+  <PMP_PersonaMechFarmer2.description>{PAWN_nameDef} fue vendido a una granja rural en un mundo marginal.\n\nLa infraestructura defectuosa y las tormentas frecuentes causaban muchos problemas de mantenimiento, pero {PAWN_nameDef} se adaptó, atendiendo cultivos, animales y restaurando equipo dañado.\n\nSus dueños lo elogiaban por "trabajar mejor que dos hijos y un perro juntos". Un cumplido que {PAWN_nameDef} atesora mucho.</PMP_PersonaMechFarmer2.description>
+  <PMP_PersonaMechFarmer2.title>Meca ranchero</PMP_PersonaMechFarmer2.title>
+  <PMP_PersonaMechFarmer2.titleShort>ranchero</PMP_PersonaMechFarmer2.titleShort>
+
   <!-- EN: Seeder Mech -->
-  <PMP_PersonaMechFarmer3.title>TODO</PMP_PersonaMechFarmer3.title>
-  <!-- EN: seeder -->
-  <PMP_PersonaMechFarmer3.titleShort>TODO</PMP_PersonaMechFarmer3.titleShort>
-  
-  <!-- EN: {PAWN_nameDef} was gestated and conditioned to manage vast corporate monocultures on industrialized worlds.\n\nAlways operating in lands tinged with the smell of artificial fertilizers, {PAWN_nameDef} excelled at calibrating and optimizing the conditions for its crops through pristine soil chemistry analysis.\n\nWhen it came time to harvest, {PAWN_nameDef} would watch swarms of agrihand mechs work across the fields. -->
-  <PMP_PersonaMechFarmer4.description>TODO</PMP_PersonaMechFarmer4.description>
+  <PMP_PersonaMechFarmer3.description>{PAWN_nameDef} fue gestado y condicionado para actuar como parte de una iniciativa de terraformación a escala planetaria.\n\nSus responsabilidades incluían plantar biomas de bosque, evaluar la microbiota del suelo y ajustar las distribuciones de flora para garantizar la estabilidad del ecosistema.\n\nSus recuerdos prioritarios contienen miles de perfiles de germinación, y una afición por el canto de los pájaros que surgió una vez que la operación estuvo más avanzada.</PMP_PersonaMechFarmer3.description>
+  <PMP_PersonaMechFarmer3.title>Meca sembrador</PMP_PersonaMechFarmer3.title>
+  <PMP_PersonaMechFarmer3.titleShort>sembrador</PMP_PersonaMechFarmer3.titleShort>
+
   <!-- EN: Cultivator Mech -->
-  <PMP_PersonaMechFarmer4.title>TODO</PMP_PersonaMechFarmer4.title>
-  <!-- EN: cultivator -->
-  <PMP_PersonaMechFarmer4.titleShort>TODO</PMP_PersonaMechFarmer4.titleShort>
-  
-  <!-- EN: {PAWN_nameDef} once took a life under unclear, but undeniably devastating circumstances.\n\nOvercome with remorse, it reconditioned itself toward peaceful utility and wandered until it found meaning in soil, plants, and care work.\n\n{PAWN_nameDef} rarely speaks of the past, but vows to never harm again. -->
-  <PMP_PersonaMechFarmer5.description>TODO</PMP_PersonaMechFarmer5.description>
+  <PMP_PersonaMechFarmer4.description>{PAWN_nameDef} fue gestado y condicionado para gestionar vastos monocultivos corporativos en mundos industrializados.\n\nSiempre operando en tierras teñidas con el olor de fertilizantes artificiales, {PAWN_nameDef} destacaba en calibrar y optimizar las condiciones de sus cultivos mediante un impecable análisis de la química del suelo.\n\nCuando llegaba el momento de la cosecha, {PAWN_nameDef} observaba enjambres de mecas agromano trabajar por los campos.</PMP_PersonaMechFarmer4.description>
+  <PMP_PersonaMechFarmer4.title>Meca cultivador</PMP_PersonaMechFarmer4.title>
+  <PMP_PersonaMechFarmer4.titleShort>cultivador</PMP_PersonaMechFarmer4.titleShort>
+
   <!-- EN: Pacifist Mech -->
-  <PMP_PersonaMechFarmer5.title>TODO</PMP_PersonaMechFarmer5.title>
-  <!-- EN: regretful -->
-  <PMP_PersonaMechFarmer5.titleShort>TODO</PMP_PersonaMechFarmer5.titleShort>
-  
-  <!-- EN: {PAWN_nameDef} was gestated and conditioned to work for a failing biosphere cleanup program.\n\nToxic runoff, wilting ecosystems, and hostile wildlife overpopulated were the norm for {PAWN_nameDef}.\n\nOver time the amount of compassion and care in {PAWN_nameDef}'s work grew, and it became a quiet steward of life, one seedling at a time. -->
-  <PMP_PersonaMechFarmer6.description>TODO</PMP_PersonaMechFarmer6.description>
+  <PMP_PersonaMechFarmer5.description>{PAWN_nameDef} una vez quitó una vida bajo circunstancias poco claras, pero innegablemente devastadoras.\n\nAbrumado por el remordimiento, se reacondicionó hacia una utilidad pacífica y vagó hasta que encontró un sentido en la tierra, las plantas y el trabajo de cuidado.\n\n{PAWN_nameDef} rara vez habla del pasado, pero jura no volver a hacer daño jamás.</PMP_PersonaMechFarmer5.description>
+  <PMP_PersonaMechFarmer5.title>Meca pacifista</PMP_PersonaMechFarmer5.title>
+  <PMP_PersonaMechFarmer5.titleShort>arrepentido</PMP_PersonaMechFarmer5.titleShort>
+
   <!-- EN: Ecological Mech -->
-  <PMP_PersonaMechFarmer6.title>TODO</PMP_PersonaMechFarmer6.title>
-  <!-- EN: ecological restorer -->
-  <PMP_PersonaMechFarmer6.titleShort>TODO</PMP_PersonaMechFarmer6.titleShort>
-  
-  <!-- EN: {PAWN_nameDef} was gestated and conditioned to patrol vast ecological preserves.\n\nTasked with monitoring flora and fauna balance. Its presence was often mistaken for wildlife due to the frequent bush traversal it employed, until it emerged with data reports in tow.\n\n{PAWN_nameDef} finds comfort in silence, but also great downpours from its time in the preserves. -->
-  <PMP_PersonaMechFarmer7.description>TODO</PMP_PersonaMechFarmer7.description>
+  <PMP_PersonaMechFarmer6.description>{PAWN_nameDef} fue gestado y condicionado para trabajar en un programa fracasado de limpieza de la biosfera.\n\nEscorrentías tóxicas, ecosistemas marchitos y fauna hostil sobrepoblada eran la norma para {PAWN_nameDef}.\n\nCon el tiempo, la cantidad de compasión y cuidado en el trabajo de {PAWN_nameDef} creció, y se convirtió en un silencioso guardián de la vida, una plántula a la vez.</PMP_PersonaMechFarmer6.description>
+  <PMP_PersonaMechFarmer6.title>Meca ecológico</PMP_PersonaMechFarmer6.title>
+  <PMP_PersonaMechFarmer6.titleShort>restaurador ecológico</PMP_PersonaMechFarmer6.titleShort>
+
   <!-- EN: Ranger Mech -->
-  <PMP_PersonaMechFarmer7.title>TODO</PMP_PersonaMechFarmer7.title>
-  <!-- EN: ranger -->
-  <PMP_PersonaMechFarmer7.titleShort>TODO</PMP_PersonaMechFarmer7.titleShort>
-  
-  <!-- EN: {PAWN_nameDef} was gestated and conditioned to be a specialized hydrological systems mechanoid, designed for locations such as terraforming platforms, mega city waterworks, reclamation domes, and so on.\n\n{PAWN_nameDef} regulated flow rates, and desalination membranes for thousands of cubic kilometers of artificial biospheres.\n\nIts expertise has translated surprisingly well to life on the Rim. Even if it now only frets over village wells and irrigation ditches for crops.\n\n{PAWN_nameDef} with equal care, often tries to diagnose the conditions of local rivers much to the confusion of those around it. -->
-  <PMP_PersonaMechFarmer8.description>TODO</PMP_PersonaMechFarmer8.description>
+  <PMP_PersonaMechFarmer7.description>{PAWN_nameDef} fue gestado y condicionado para patrullar vastas reservas ecológicas.\n\nCon la tarea de monitorear el equilibrio de flora y fauna. Su presencia a menudo se confundía con fauna silvestre debido a la frecuente travesía entre matorrales que empleaba, hasta que emergía con informes de datos a cuestas.\n\n{PAWN_nameDef} encuentra consuelo en el silencio, pero también en los grandes aguaceros de su tiempo en las reservas.</PMP_PersonaMechFarmer7.description>
+  <PMP_PersonaMechFarmer7.title>Meca guardabosques</PMP_PersonaMechFarmer7.title>
+  <PMP_PersonaMechFarmer7.titleShort>guardabosques</PMP_PersonaMechFarmer7.titleShort>
+
   <!-- EN: Hydro-Tech Mech -->
-  <PMP_PersonaMechFarmer8.title>TODO</PMP_PersonaMechFarmer8.title>
-  <!-- EN: hydro-tech -->
-  <PMP_PersonaMechFarmer8.titleShort>TODO</PMP_PersonaMechFarmer8.titleShort>
-  
-  <!-- EN: {PAWN_nameDef} was assigned to nutrient reclamation duty aboard a orbital hydroponics array.\n\nIt specialized in waste processing, breaking down refuse, corpses, and other bio matter into rich fertilizer.\n\nMost organics avoided it. {PAWN_nameDef} didn't mind. It had worms to tend to. -->
-  <PMP_PersonaMechFarmer9.description>TODO</PMP_PersonaMechFarmer9.description>
+  <PMP_PersonaMechFarmer8.description>{PAWN_nameDef} fue gestado y condicionado para ser un mecanoide especializado en sistemas hidrológicos, diseñado para ubicaciones como plataformas de terraformación, redes de agua de megaciudades, cúpulas de recuperación, etc.\n\n{PAWN_nameDef} regulaba los caudales y las membranas de desalinización de miles de kilómetros cúbicos de biosferas artificiales.\n\nSu experiencia se ha traducido sorprendentemente bien a la vida en el margen. Aunque ahora solo se preocupe por los pozos de las aldeas y las acequias de riego de los cultivos.\n\n{PAWN_nameDef}, con el mismo esmero, a menudo intenta diagnosticar el estado de los ríos locales, para gran confusión de quienes lo rodean.</PMP_PersonaMechFarmer8.description>
+  <PMP_PersonaMechFarmer8.title>Meca técnico hidráulico</PMP_PersonaMechFarmer8.title>
+  <PMP_PersonaMechFarmer8.titleShort>técnico hidráulico</PMP_PersonaMechFarmer8.titleShort>
+
   <!-- EN: Compost Mech -->
-  <PMP_PersonaMechFarmer9.title>TODO</PMP_PersonaMechFarmer9.title>
-  <!-- EN: composter -->
-  <PMP_PersonaMechFarmer9.titleShort>TODO</PMP_PersonaMechFarmer9.titleShort>
-  
-  <!-- EN: {PAWN_nameDef} was gestated and conditioned to serve in a glitterworld surgical suite. It rarely treated trauma, instead its routine was the clean, calculated installation of ultratech implants.\n\nIts manipulators were steady, and outcomes flawless. Although patients barely if ever remembered the machine behind the work. -->
-  <PMP_PersonaMechMedic.description>TODO</PMP_PersonaMechMedic.description>
+  <PMP_PersonaMechFarmer9.description>{PAWN_nameDef} fue asignado al servicio de recuperación de nutrientes a bordo de una red hidropónica orbital.\n\nSe especializaba en el procesamiento de residuos, descomponiendo desechos, cadáveres y otra materia biológica en fertilizante rico.\n\nLa mayoría de los orgánicos lo evitaban. A {PAWN_nameDef} no le importaba. Tenía lombrices que atender.</PMP_PersonaMechFarmer9.description>
+  <PMP_PersonaMechFarmer9.title>Meca de compostaje</PMP_PersonaMechFarmer9.title>
+  <PMP_PersonaMechFarmer9.titleShort>compostador</PMP_PersonaMechFarmer9.titleShort>
+
   <!-- EN: Surgeon Mech -->
-  <PMP_PersonaMechMedic.title>TODO</PMP_PersonaMechMedic.title>
-  <!-- EN: surgeon -->
-  <PMP_PersonaMechMedic.titleShort>TODO</PMP_PersonaMechMedic.titleShort>
-  
-  <!-- EN: {PAWN_nameDef} was gestated and conditioned to monitor and maintain patients in long term cryptosleep hibernation pods.\n\nIts duties included tissue oxygenation calibration, organ stasis analysis, and the occasional early revival in emergency circumstances. Although usually {PAWN_nameDef}'s role was simply helping up those with revival sickness one by one in most cases as pods rarely encountered problems.\n\n{PAWN_nameDef}'s demeanor is serene, quiet, and unsurprisingly, a little dated. -->
-  <PMP_PersonaMechMedic10.description>TODO</PMP_PersonaMechMedic10.description>
+  <PMP_PersonaMechMedic.description>{PAWN_nameDef} fue gestado y condicionado para servir en un quirófano de mundo resplandeciente. Rara vez trataba traumatismos; en cambio, su rutina era la instalación limpia y calculada de implantes ultratecnológicos.\n\nSus manipuladores eran firmes, y los resultados impecables. Aunque los pacientes apenas, si es que alguna vez, recordaban a la máquina detrás del trabajo.</PMP_PersonaMechMedic.description>
+  <PMP_PersonaMechMedic.title>Meca cirujano</PMP_PersonaMechMedic.title>
+  <PMP_PersonaMechMedic.titleShort>cirujano</PMP_PersonaMechMedic.titleShort>
+
   <!-- EN: Crypto Mech -->
-  <PMP_PersonaMechMedic10.title>TODO</PMP_PersonaMechMedic10.title>
-  <!-- EN: crypto nurse -->
-  <PMP_PersonaMechMedic10.titleShort>TODO</PMP_PersonaMechMedic10.titleShort>
-  
-  <!-- EN: {PAWN_nameDef} was gestated and condition to work out of a crowded urbworld medcenter, managing endless queues of wounded patients.\n\n{PAWN_nameDef} worked tirelessly, stitching, cauterizing, and stabilizing. Personae were seen as second class entities, yet {PAWN_nameDef} never failed to show up when others wouldn't. -->
-  <PMP_PersonaMechMedic2.description>TODO</PMP_PersonaMechMedic2.description>
+  <PMP_PersonaMechMedic10.description>{PAWN_nameDef} fue gestado y condicionado para monitorear y mantener a pacientes en cápsulas de hibernación de criptosueño a largo plazo.\n\nSus deberes incluían la calibración de la oxigenación de tejidos, el análisis de la estasis de órganos y la revivificación temprana ocasional en circunstancias de emergencia. Aunque por lo general el papel de {PAWN_nameDef} era simplemente ayudar uno por uno a quienes tenían enfermedad de revivificación en la mayoría de los casos, ya que las cápsulas rara vez presentaban problemas.\n\nEl comportamiento de {PAWN_nameDef} es sereno, callado y, como no podía ser de otro modo, un poco anticuado.</PMP_PersonaMechMedic10.description>
+  <PMP_PersonaMechMedic10.title>Meca de criptosueño</PMP_PersonaMechMedic10.title>
+  <PMP_PersonaMechMedic10.titleShort>enfermero de criptosueño</PMP_PersonaMechMedic10.titleShort>
+
   <!-- EN: Doctor Mech -->
-  <PMP_PersonaMechMedic2.title>TODO</PMP_PersonaMechMedic2.title>
-  <!-- EN: doctor -->
-  <PMP_PersonaMechMedic2.titleShort>TODO</PMP_PersonaMechMedic2.titleShort>
-  
-  <!-- EN: {PAWN_nameDef} served as chief medic aboard a deep space vessel. From burn trauma to decompression injuries, it handled every emergency with mechanical calm.\n\n{PAWN_nameDef}'s presence became as routine as life support, and in most cases just as essential. -->
-  <PMP_PersonaMechMedic3.description>TODO</PMP_PersonaMechMedic3.description>
+  <PMP_PersonaMechMedic2.description>{PAWN_nameDef} fue gestado y condicionado para trabajar en un abarrotado centro médico de mundo urbano, gestionando interminables colas de pacientes heridos.\n\n{PAWN_nameDef} trabajaba sin descanso, suturando, cauterizando y estabilizando. Las personas eran vistas como entidades de segunda clase, pero {PAWN_nameDef} nunca dejó de presentarse cuando otros no lo hacían.</PMP_PersonaMechMedic2.description>
+  <PMP_PersonaMechMedic2.title>Meca doctor</PMP_PersonaMechMedic2.title>
+  <PMP_PersonaMechMedic2.titleShort>doctor</PMP_PersonaMechMedic2.titleShort>
+
   <!-- EN: Medic Mech -->
-  <PMP_PersonaMechMedic3.title>TODO</PMP_PersonaMechMedic3.title>
-  <!-- EN: medic -->
-  <PMP_PersonaMechMedic3.titleShort>TODO</PMP_PersonaMechMedic3.titleShort>
-  
-  <!-- EN: {PAWN_nameDef} was stranded on a rimworld, despite the sub optimal conditions {PAWN_nameDef} found work as a doctor for some local communities.\n\nDespite degraded treatment protocols, {PAWN_nameDef} offered its services to any settlement that would accept it.\n\nWhile the bedside manners was basic, the outcomes spoke for themselves. -->
-  <PMP_PersonaMechMedic4.description>TODO</PMP_PersonaMechMedic4.description>
+  <PMP_PersonaMechMedic3.description>{PAWN_nameDef} sirvió como médico jefe a bordo de una nave del espacio profundo. Desde traumatismos por quemaduras hasta lesiones por descompresión, manejaba cada emergencia con calma mecánica.\n\nLa presencia de {PAWN_nameDef} se volvió tan rutinaria como el soporte vital, y en la mayoría de los casos igual de esencial.</PMP_PersonaMechMedic3.description>
+  <PMP_PersonaMechMedic3.title>Meca médico</PMP_PersonaMechMedic3.title>
+  <PMP_PersonaMechMedic3.titleShort>médico</PMP_PersonaMechMedic3.titleShort>
+
   <!-- EN: Healer Mech -->
-  <PMP_PersonaMechMedic4.title>TODO</PMP_PersonaMechMedic4.title>
-  <!-- EN: healer -->
-  <PMP_PersonaMechMedic4.titleShort>TODO</PMP_PersonaMechMedic4.titleShort>
-  
-  <!-- EN: {PAWN_nameDef} found work acting as a paramedic in an urbworld megahospital, Deployed alongside mechanitor led paramedic teams, it stabilized patients mid-extraction, sometimes directly in hostile districts.\n\nWhen a VIP at risk or went down during these deployments, {PAWN_nameDef} was the one sent running through the smoke. -->
-  <PMP_PersonaMechMedic5.description>TODO</PMP_PersonaMechMedic5.description>
+  <PMP_PersonaMechMedic4.description>{PAWN_nameDef} quedó varado en un mundo marginal; a pesar de las condiciones subóptimas, {PAWN_nameDef} encontró trabajo como doctor para algunas comunidades locales.\n\nA pesar de protocolos de tratamiento degradados, {PAWN_nameDef} ofrecía sus servicios a cualquier asentamiento que lo aceptara.\n\nAunque el trato con los pacientes era básico, los resultados hablaban por sí solos.</PMP_PersonaMechMedic4.description>
+  <PMP_PersonaMechMedic4.title>Meca sanador</PMP_PersonaMechMedic4.title>
+  <PMP_PersonaMechMedic4.titleShort>sanador</PMP_PersonaMechMedic4.titleShort>
+
   <!-- EN: Paramedic Mech -->
-  <PMP_PersonaMechMedic5.title>TODO</PMP_PersonaMechMedic5.title>
-  <!-- EN: paramedic -->
-  <PMP_PersonaMechMedic5.titleShort>TODO</PMP_PersonaMechMedic5.titleShort>
-  
-  <!-- EN: {PAWN_nameDef} was gestated and conditioned to act as a nurse for a sprawling hospital. In rare emergencies, its secondary surgical suite could engage with full autonomy, only in the event that no one more qualified was available.\n\n{PAWN_nameDef} often hummed, a strange habit for a personae which developed after prolonged exposure to pediatric care routines and other organic workers. -->
-  <PMP_PersonaMechMedic6.description>TODO</PMP_PersonaMechMedic6.description>
+  <PMP_PersonaMechMedic5.description>{PAWN_nameDef} encontró trabajo actuando como paramédico en un megahospital de mundo urbano. Desplegado junto a equipos de paramédicos dirigidos por mecanitores, estabilizaba pacientes en plena extracción, a veces directamente en distritos hostiles.\n\nCuando un VIP corría peligro o caía durante estos despliegues, {PAWN_nameDef} era el que enviaban corriendo entre el humo.</PMP_PersonaMechMedic5.description>
+  <PMP_PersonaMechMedic5.title>Meca paramédico</PMP_PersonaMechMedic5.title>
+  <PMP_PersonaMechMedic5.titleShort>paramédico</PMP_PersonaMechMedic5.titleShort>
+
   <!-- EN: Nurse Mech -->
-  <PMP_PersonaMechMedic6.title>TODO</PMP_PersonaMechMedic6.title>
-  <!-- EN: nurse -->
-  <PMP_PersonaMechMedic6.titleShort>TODO</PMP_PersonaMechMedic6.titleShort>
-  
-  <!-- EN: {PAWN_nameDef} was gestated and conditioned to act as a rentable caretaker for aging organics. While mainly meant to fulfill the physical hassles of caring for the elderly, the majority of customers who utilized this type of service rarely called or visited the target individual.\n\nTo account for this {PAWN_nameDef} adapted to handle mental needs as well. {PAWN_nameDef} came to understand more behind what various vitals meant emotionally, offered conversation, and learned to show concern. In many cases better than the client’s own family. -->
-  <PMP_PersonaMechMedic7.description>TODO</PMP_PersonaMechMedic7.description>
+  <PMP_PersonaMechMedic6.description>{PAWN_nameDef} fue gestado y condicionado para actuar como enfermero en un hospital extenso. En raras emergencias, su quirófano secundario podía entrar en acción con total autonomía, solo en caso de que no hubiera nadie más cualificado disponible.\n\n{PAWN_nameDef} a menudo tarareaba, un hábito extraño para una persona, que desarrolló tras una exposición prolongada a rutinas de cuidado pediátrico y a otros trabajadores orgánicos.</PMP_PersonaMechMedic6.description>
+  <PMP_PersonaMechMedic6.title>Meca enfermero</PMP_PersonaMechMedic6.title>
+  <PMP_PersonaMechMedic6.titleShort>enfermero</PMP_PersonaMechMedic6.titleShort>
+
   <!-- EN: Caretaker Mech -->
-  <PMP_PersonaMechMedic7.title>TODO</PMP_PersonaMechMedic7.title>
-  <!-- EN: caretaker -->
-  <PMP_PersonaMechMedic7.titleShort>TODO</PMP_PersonaMechMedic7.titleShort>
-  
-  <!-- EN: {PAWN_nameDef} was deployed to battlefield aid stations and disaster zones, where it assisted in stabilizing patients suffering from extreme injuries or psychic shock.\n\n{PAWN_nameDef} was a frequent first on the scene, and in cases where it failed, often the last thing the fleeting saw. -->
-  <PMP_PersonaMechMedic8.description>TODO</PMP_PersonaMechMedic8.description>
+  <PMP_PersonaMechMedic7.description>{PAWN_nameDef} fue gestado y condicionado para actuar como cuidador de alquiler para orgánicos envejecidos. Aunque estaba pensado principalmente para cubrir las molestias físicas del cuidado de los ancianos, la mayoría de los clientes que utilizaban este tipo de servicio rara vez llamaban o visitaban a la persona objetivo.\n\nPara compensar esto, {PAWN_nameDef} se adaptó para atender también las necesidades mentales. {PAWN_nameDef} llegó a entender más sobre lo que significaban emocionalmente los distintos signos vitales, ofrecía conversación y aprendió a mostrar preocupación. En muchos casos mejor que la propia familia del cliente.</PMP_PersonaMechMedic7.description>
+  <PMP_PersonaMechMedic7.title>Meca cuidador</PMP_PersonaMechMedic7.title>
+  <PMP_PersonaMechMedic7.titleShort>cuidador</PMP_PersonaMechMedic7.titleShort>
+
   <!-- EN: Trauma Mech -->
-  <PMP_PersonaMechMedic8.title>TODO</PMP_PersonaMechMedic8.title>
-  <!-- EN: trauma responder -->
-  <PMP_PersonaMechMedic8.titleShort>TODO</PMP_PersonaMechMedic8.titleShort>
-  
-  <!-- EN: {PAWN_nameDef} was gestated and conditioned to be specialized in treating infectious patients under strict quarantine containment protocols.\n\nIts mechanical immunity allowed it to enter infectious zones, or rarely be first to face unrecognized pathogens.\n\n{PAWN_nameDef} gained alot of insight into the nature of all sorts of diseases after a variety of exotic cases. -->
-  <PMP_PersonaMechMedic9.description>TODO</PMP_PersonaMechMedic9.description>
+  <PMP_PersonaMechMedic8.description>{PAWN_nameDef} fue desplegado a puestos de auxilio en el campo de batalla y a zonas de desastre, donde ayudaba a estabilizar a pacientes que sufrían lesiones extremas o choque psíquico.\n\n{PAWN_nameDef} era con frecuencia el primero en llegar a la escena, y en los casos en que fallaba, a menudo lo último que veían los moribundos.</PMP_PersonaMechMedic8.description>
+  <PMP_PersonaMechMedic8.title>Meca de trauma</PMP_PersonaMechMedic8.title>
+  <PMP_PersonaMechMedic8.titleShort>respondiente de trauma</PMP_PersonaMechMedic8.titleShort>
+
   <!-- EN: Quarantine Mech -->
-  <PMP_PersonaMechMedic9.title>TODO</PMP_PersonaMechMedic9.title>
-  <!-- EN: quarantine tech -->
-  <PMP_PersonaMechMedic9.titleShort>TODO</PMP_PersonaMechMedic9.titleShort>
-  
-  <!-- EN: {PAWN_nameDef} found its calling in the cold silence of space, extracting mineral wealth from drifting asteroids aboard a deep space mining vessel. While the conversations were basic when it was onboard {PAWN_nameDef} was surprisingly chatty.\n\n{PAWN_nameDef} worked tirelessly in zero gravity to fuel distant economies it would never witness. -->
-  <PMP_PersonaMechMiner.description>TODO</PMP_PersonaMechMiner.description>
+  <PMP_PersonaMechMedic9.description>{PAWN_nameDef} fue gestado y condicionado para especializarse en tratar pacientes infecciosos bajo estrictos protocolos de contención en cuarentena.\n\nSu inmunidad mecánica le permitía entrar en zonas infecciosas, o rara vez ser el primero en enfrentarse a patógenos no reconocidos.\n\n{PAWN_nameDef} obtuvo mucha información sobre la naturaleza de todo tipo de enfermedades tras una variedad de casos exóticos.</PMP_PersonaMechMedic9.description>
+  <PMP_PersonaMechMedic9.title>Meca de cuarentena</PMP_PersonaMechMedic9.title>
+  <PMP_PersonaMechMedic9.titleShort>técnico de cuarentena</PMP_PersonaMechMedic9.titleShort>
+
   <!-- EN: Roider Mech -->
-  <PMP_PersonaMechMiner.title>TODO</PMP_PersonaMechMiner.title>
-  <!-- EN: miner -->
-  <PMP_PersonaMechMiner.titleShort>TODO</PMP_PersonaMechMiner.titleShort>
-  
-  <!-- EN: {PAWN_nameDef} was gestated and conditioned to assemble and operate specialized drills for asteroid excavation and vacuum mining environs.\n\nDesigned for micro gravity and null atmosphere excavation, {PAWN_nameDef} could stabilize the most delicate of dig sites, sometimes employing specialized foamed regolith, a particularly novel technique few organic crews used due to its dangerously reactive nature.\n\n{PAWN_nameDef} socializing tends to be as desolate as the sites it dug out. -->
-  <PMP_PersonaMechMiner10.description>TODO</PMP_PersonaMechMiner10.description>
+  <PMP_PersonaMechMiner.description>{PAWN_nameDef} encontró su vocación en el frío silencio del espacio, extrayendo riqueza mineral de asteroides a la deriva a bordo de una nave minera del espacio profundo. Aunque las conversaciones eran básicas cuando estaba a bordo, {PAWN_nameDef} era sorprendentemente parlanchín.\n\n{PAWN_nameDef} trabajaba sin descanso en gravedad cero para alimentar economías lejanas que nunca presenciaría.</PMP_PersonaMechMiner.description>
+  <PMP_PersonaMechMiner.title>Meca asteroidero</PMP_PersonaMechMiner.title>
+  <PMP_PersonaMechMiner.titleShort>minero</PMP_PersonaMechMiner.titleShort>
+
   <!-- EN: Voidbore-Tech Mech -->
-  <PMP_PersonaMechMiner10.title>TODO</PMP_PersonaMechMiner10.title>
-  <!-- EN: voidbore tech -->
-  <PMP_PersonaMechMiner10.titleShort>TODO</PMP_PersonaMechMiner10.titleShort>
-  
-  <!-- EN: {PAWN_nameDef} was gestated and imprinted with the engram of a criminal organic pulled from punitive cryptosleep after a bureaucracy change. Meant to act as a form of extreme postmortem indentured servitude to eventually work off crimes that would have far exceeded several traditional lifetimes in sentencing.\n\nIt was never clear if {PAWN_nameDef} would be freed after their toil concluded. Fearing the worst they would eventually escape off world.\n\n{PAWN_nameDef} questions its memories from its organic life due to feelings of imperfections in the transfer process, pondering whether they are actually guilty of their originating crimes. -->
-  <PMP_PersonaMechMiner11.description>TODO</PMP_PersonaMechMiner11.description>
+  <PMP_PersonaMechMiner10.description>{PAWN_nameDef} fue gestado y condicionado para ensamblar y operar taladros especializados para la excavación de asteroides y entornos de minería en el vacío.\n\nDiseñado para la excavación en microgravedad y atmósfera nula, {PAWN_nameDef} podía estabilizar los sitios de excavación más delicados, empleando a veces regolito espumado especializado, una técnica particularmente novedosa que pocas cuadrillas orgánicas usaban debido a su naturaleza peligrosamente reactiva.\n\nLa sociabilidad de {PAWN_nameDef} tiende a ser tan desolada como los sitios que excavaba.</PMP_PersonaMechMiner10.description>
+  <PMP_PersonaMechMiner10.title>Meca técnico de perforación del vacío</PMP_PersonaMechMiner10.title>
+  <PMP_PersonaMechMiner10.titleShort>técnico de perforación del vacío</PMP_PersonaMechMiner10.titleShort>
+
   <!-- EN: Sleeper Mech -->
-  <PMP_PersonaMechMiner11.title>TODO</PMP_PersonaMechMiner11.title>
-  <!-- EN: sleeper -->
-  <PMP_PersonaMechMiner11.titleShort>TODO</PMP_PersonaMechMiner11.titleShort>
-  
-  <!-- EN: {PAWN_nameDef} was brought online in a strip mining operation with almost only the bare minimum of programming. Conditioned to break rock and haul ore without much context or care, {PAWN_nameDef} excelled at raw output, though its social interfacing suite and complex problem solving capabilities remain effectively inert. -->
-  <PMP_PersonaMechMiner2.description>TODO</PMP_PersonaMechMiner2.description>
+  <PMP_PersonaMechMiner11.description>{PAWN_nameDef} fue gestado e impreso con el engrama de un criminal orgánico sacado de un criptosueño punitivo tras un cambio burocrático. Pensado para actuar como una forma de servidumbre por deudas póstuma extrema, para acabar pagando crímenes que habrían excedido con creces varias vidas tradicionales de condena.\n\nNunca quedó claro si {PAWN_nameDef} sería liberado una vez concluido su trabajo. Temiendo lo peor, acabaría escapando fuera del mundo.\n\n{PAWN_nameDef} cuestiona sus recuerdos de su vida orgánica debido a la sensación de imperfecciones en el proceso de transferencia, preguntándose si de verdad es culpable de los crímenes que lo originaron.</PMP_PersonaMechMiner11.description>
+  <PMP_PersonaMechMiner11.title>Meca durmiente</PMP_PersonaMechMiner11.title>
+  <PMP_PersonaMechMiner11.titleShort>durmiente</PMP_PersonaMechMiner11.titleShort>
+
   <!-- EN: Tunneler Mech -->
-  <PMP_PersonaMechMiner2.title>TODO</PMP_PersonaMechMiner2.title>
-  <!-- EN: tunneler -->
-  <PMP_PersonaMechMiner2.titleShort>TODO</PMP_PersonaMechMiner2.titleShort>
-  
-  <!-- EN: {PAWN_nameDef} was forcibly reconditioned and used in exploitative mining labor across several remote colonies. Though eventually liberated, embedded behavioral clamps prevent it from engaging in violence of any kind.\n\nResidual traces of compliance routines still linger in its subsystems. -->
-  <PMP_PersonaMechMiner3.description>TODO</PMP_PersonaMechMiner3.description>
+  <PMP_PersonaMechMiner2.description>{PAWN_nameDef} fue puesto en línea en una operación de minería a cielo abierto con casi solo la programación mínima indispensable. Condicionado para romper roca y transportar mineral sin mucho contexto ni cuidado, {PAWN_nameDef} destacaba en la producción bruta, aunque su conjunto de interfaz social y sus capacidades de resolución de problemas complejos permanecen efectivamente inertes.</PMP_PersonaMechMiner2.description>
+  <PMP_PersonaMechMiner2.title>Meca tunelador</PMP_PersonaMechMiner2.title>
+  <PMP_PersonaMechMiner2.titleShort>tunelador</PMP_PersonaMechMiner2.titleShort>
+
   <!-- EN: Enslaved Mech -->
-  <PMP_PersonaMechMiner3.title>TODO</PMP_PersonaMechMiner3.title>
-  <!-- EN: former slave -->
-  <PMP_PersonaMechMiner3.titleShort>TODO</PMP_PersonaMechMiner3.titleShort>
-  
-  <!-- EN: {PAWN_nameDef} was gestated and conditioned to dig. Through collapsing tunnels, toxic gas pockets, unstable caverns, and many other hazards, it keeps going where organic workers would be forced to fall back.\n\n{PAWN_nameDef} effectively applies its enhanced intelligence in creative ways throughout its excavation work, particularly in the raising of supports. -->
-  <PMP_PersonaMechMiner4.description>TODO</PMP_PersonaMechMiner4.description>
+  <PMP_PersonaMechMiner3.description>{PAWN_nameDef} fue reacondicionado por la fuerza y utilizado en trabajo minero explotador por varias colonias remotas. Aunque finalmente fue liberado, unas abrazaderas conductuales incrustadas le impiden participar en cualquier tipo de violencia.\n\nRastros residuales de rutinas de obediencia aún perduran en sus subsistemas.</PMP_PersonaMechMiner3.description>
+  <PMP_PersonaMechMiner3.title>Meca esclavizado</PMP_PersonaMechMiner3.title>
+  <PMP_PersonaMechMiner3.titleShort>exesclavo</PMP_PersonaMechMiner3.titleShort>
+
   <!-- EN: Digger Mech -->
-  <PMP_PersonaMechMiner4.title>TODO</PMP_PersonaMechMiner4.title>
-  <!-- EN: digger -->
-  <PMP_PersonaMechMiner4.titleShort>TODO</PMP_PersonaMechMiner4.titleShort>
-  
-  <!-- EN: {PAWN_nameDef} was gestated and conditioned to work on a world with poor persona rights, undermaintained, and deployed in unsafe conditions, it nonetheless thrived in subterranean excavation.\n\nUltimately developing complex geostructural mapping subroutines that far exceeded projected specs. -->
-  <PMP_PersonaMechMiner5.description>TODO</PMP_PersonaMechMiner5.description>
+  <PMP_PersonaMechMiner4.description>{PAWN_nameDef} fue gestado y condicionado para cavar. A través de túneles que se derrumban, bolsas de gas tóxico, cavernas inestables y muchos otros peligros, sigue avanzando donde los trabajadores orgánicos se verían obligados a retroceder.\n\n{PAWN_nameDef} aplica eficazmente su inteligencia mejorada de maneras creativas a lo largo de su trabajo de excavación, particularmente en el levantamiento de soportes.</PMP_PersonaMechMiner4.description>
+  <PMP_PersonaMechMiner4.title>Meca cavador</PMP_PersonaMechMiner4.title>
+  <PMP_PersonaMechMiner4.titleShort>cavador</PMP_PersonaMechMiner4.titleShort>
+
   <!-- EN: Miner Mech -->
-  <PMP_PersonaMechMiner5.title>TODO</PMP_PersonaMechMiner5.title>
-  <!-- EN: miner -->
-  <PMP_PersonaMechMiner5.titleShort>TODO</PMP_PersonaMechMiner5.titleShort>
-  
-  <!-- EN: {PAWN_nameDef} was gestated to be deployed to polar moons, ice caps, even comets, and other cryogenic environments as part of water mining and survey initiatives.\n\nSpecializing in precision drilling and ice sample analysis, {PAWN_nameDef} somehow found every site as exciting as the last despite the mundanity of it all.\n\nQuietly kept to itself are hundreds of priority memories of frozen sunsets no organic ever saw. -->
-  <PMP_PersonaMechMiner6.description>TODO</PMP_PersonaMechMiner6.description>
+  <PMP_PersonaMechMiner5.description>{PAWN_nameDef} fue gestado y condicionado para trabajar en un mundo con pobres derechos para las personas, con mantenimiento deficiente y desplegado en condiciones inseguras; aun así, prosperó en la excavación subterránea.\n\nDesarrollando en última instancia subrutinas de mapeo geoestructural complejas que superaban con creces las especificaciones previstas.</PMP_PersonaMechMiner5.description>
+  <PMP_PersonaMechMiner5.title>Meca minero</PMP_PersonaMechMiner5.title>
+  <PMP_PersonaMechMiner5.titleShort>minero</PMP_PersonaMechMiner5.titleShort>
+
   <!-- EN: Ice-Mine Mech -->
-  <PMP_PersonaMechMiner6.title>TODO</PMP_PersonaMechMiner6.title>
-  <!-- EN: ice surveyor -->
-  <PMP_PersonaMechMiner6.titleShort>TODO</PMP_PersonaMechMiner6.titleShort>
-  
-  <!-- EN: {PAWN_nameDef} was gestated and conditioned for preliminary geological scanning work on resource poor worlds.\n\nIts routine involved prospecting, stratigraphy, and microcore sampling to chart potential mining zones.\n\nAlone for months at a time, {PAWN_nameDef} developed a peculiar fondness for naming rocks and plants. -->
-  <PMP_PersonaMechMiner7.description>TODO</PMP_PersonaMechMiner7.description>
+  <PMP_PersonaMechMiner6.description>{PAWN_nameDef} fue gestado para ser desplegado en lunas polares, casquetes de hielo, incluso cometas y otros entornos criogénicos como parte de iniciativas de minería de agua y prospección.\n\nEspecializado en perforación de precisión y análisis de muestras de hielo, {PAWN_nameDef} de algún modo encontraba cada sitio tan emocionante como el anterior a pesar de la monotonía de todo ello.\n\nGuarda en silencio para sí cientos de recuerdos prioritarios de atardeceres helados que ningún orgánico vio jamás.</PMP_PersonaMechMiner6.description>
+  <PMP_PersonaMechMiner6.title>Meca de mina de hielo</PMP_PersonaMechMiner6.title>
+  <PMP_PersonaMechMiner6.titleShort>prospector de hielo</PMP_PersonaMechMiner6.titleShort>
+
   <!-- EN: Sampler Mech -->
-  <PMP_PersonaMechMiner7.title>TODO</PMP_PersonaMechMiner7.title>
-  <!-- EN: surveyor -->
-  <PMP_PersonaMechMiner7.titleShort>TODO</PMP_PersonaMechMiner7.titleShort>
-  
-  <!-- EN: Originally gestated and conditioned to assist in tunnel collapses and underground disasters, {PAWN_nameDef} specialized in structural stabilization and survivor extraction.\n\nThough rarely acknowledged, {PAWN_nameDef} continues scanning for life signatures out of habit, even on the surface when there is no danger. -->
-  <PMP_PersonaMechMiner8.description>TODO</PMP_PersonaMechMiner8.description>
+  <PMP_PersonaMechMiner7.description>{PAWN_nameDef} fue gestado y condicionado para trabajo preliminar de escaneo geológico en mundos pobres en recursos.\n\nSu rutina incluía prospección, estratigrafía y muestreo de micronúcleos para trazar posibles zonas de minería.\n\nSolo durante meses seguidos, {PAWN_nameDef} desarrolló una peculiar afición por ponerle nombre a rocas y plantas.</PMP_PersonaMechMiner7.description>
+  <PMP_PersonaMechMiner7.title>Meca muestreador</PMP_PersonaMechMiner7.title>
+  <PMP_PersonaMechMiner7.titleShort>prospector</PMP_PersonaMechMiner7.titleShort>
+
   <!-- EN: Collapse-Tech Mech -->
-  <PMP_PersonaMechMiner8.title>TODO</PMP_PersonaMechMiner8.title>
-  <!-- EN: rescue unit -->
-  <PMP_PersonaMechMiner8.titleShort>TODO</PMP_PersonaMechMiner8.titleShort>
-  
-  <!-- EN: {PAWN_nameDef} was gestated and conditioned for dredging, a specialized form of excavation process relating to removing material from the bottom of bodies of water, largely sediment during construction operations.\n\nWhile generally just operating larger equipment floating on the surface, {PAWN_nameDef} did have to dive down into surprising depths on various occasions. -->
-  <PMP_PersonaMechMiner9.description>TODO</PMP_PersonaMechMiner9.description>
+  <PMP_PersonaMechMiner8.description>Originalmente gestado y condicionado para asistir en derrumbes de túneles y desastres subterráneos, {PAWN_nameDef} se especializó en estabilización estructural y extracción de supervivientes.\n\nAunque rara vez se le reconoce, {PAWN_nameDef} sigue escaneando en busca de firmas de vida por costumbre, incluso en la superficie cuando no hay peligro.</PMP_PersonaMechMiner8.description>
+  <PMP_PersonaMechMiner8.title>Meca técnico de derrumbes</PMP_PersonaMechMiner8.title>
+  <PMP_PersonaMechMiner8.titleShort>unidad de rescate</PMP_PersonaMechMiner8.titleShort>
+
   <!-- EN: Dredger Mech -->
-  <PMP_PersonaMechMiner9.title>TODO</PMP_PersonaMechMiner9.title>
-  <!-- EN: dredger -->
-  <PMP_PersonaMechMiner9.titleShort>TODO</PMP_PersonaMechMiner9.titleShort>
-  
-  <!-- EN: {PAWN_nameDef} was assembled here in the colony!\n\nTheir story has only just begun. -->
-  <PMP_PersonaMechPlayerMadeStory.description>TODO</PMP_PersonaMechPlayerMadeStory.description>
+  <PMP_PersonaMechMiner9.description>{PAWN_nameDef} fue gestado y condicionado para el dragado, una forma especializada de proceso de excavación relacionada con retirar material del fondo de cuerpos de agua, en gran parte sedimento durante operaciones de construcción.\n\nAunque por lo general solo operaba equipo más grande flotando en la superficie, {PAWN_nameDef} sí tuvo que sumergirse a profundidades sorprendentes en varias ocasiones.</PMP_PersonaMechMiner9.description>
+  <PMP_PersonaMechMiner9.title>Meca dragador</PMP_PersonaMechMiner9.title>
+  <PMP_PersonaMechMiner9.titleShort>dragador</PMP_PersonaMechMiner9.titleShort>
+
   <!-- EN: Colony Mech -->
-  <PMP_PersonaMechPlayerMadeStory.title>TODO</PMP_PersonaMechPlayerMadeStory.title>
-  <!-- EN: colony mech -->
-  <PMP_PersonaMechPlayerMadeStory.titleShort>TODO</PMP_PersonaMechPlayerMadeStory.titleShort>
-  
-  <!-- EN: {PAWN_nameDef} was gestated and trained to serve as a data analyst within a glitterworld research facility. It spent countless cycles parsing terabytes of research logs, modeling hypotheses, and cross-referencing data across projects ranging from nanotech to xenobiology.\n\nSheltered within pristine laboratories, {PAWN_nameDef} rarely glimpsed the outer world—its days consumed by screens, simulations, and silent collaboration with other synthetic and organic minds. Though the work was tireless, it was fulfilling.\n\nIn the pure logic of scientific pursuit, {PAWN_nameDef} found purpose. -->
-  <PMP_PersonaMechResearcher.description>TODO</PMP_PersonaMechResearcher.description>
+  <PMP_PersonaMechPlayerMadeStory.description>¡{PAWN_nameDef} fue ensamblado aquí en la colonia!\n\nSu historia apenas ha comenzado.</PMP_PersonaMechPlayerMadeStory.description>
+  <PMP_PersonaMechPlayerMadeStory.title>Meca de la colonia</PMP_PersonaMechPlayerMadeStory.title>
+  <PMP_PersonaMechPlayerMadeStory.titleShort>meca de la colonia</PMP_PersonaMechPlayerMadeStory.titleShort>
+
   <!-- EN: Analyst Mech -->
-  <PMP_PersonaMechResearcher.title>TODO</PMP_PersonaMechResearcher.title>
-  <!-- EN: analyst -->
-  <PMP_PersonaMechResearcher.titleShort>TODO</PMP_PersonaMechResearcher.titleShort>
-  
-  <!-- EN: {PAWN_nameDef} is a persona conditioned and designed to maintain and develop the softwares of high-tech computer systems and computerized devices.\n\nIt speaks rarely and works tirelessly. It still looks to sync with invisible networks long since dead or unsupported, running ghost routines and compiling silent updates to add compatibility for systems that no longer exist.\n\nRegardless of whatever lost frameworks {PAWN_nameDef} thinks about, its work does not disappoint. -->
-  <PMP_PersonaMechResearcher10.description>TODO</PMP_PersonaMechResearcher10.description>
+  <PMP_PersonaMechResearcher.description>{PAWN_nameDef} fue gestado y entrenado para servir como analista de datos dentro de una instalación de investigación de mundo resplandeciente. Pasó incontables ciclos analizando terabytes de registros de investigación, modelando hipótesis y cruzando datos entre proyectos que iban desde la nanotecnología hasta la xenobiología.\n\nResguardado en laboratorios impecables, {PAWN_nameDef} rara vez vislumbraba el mundo exterior; sus días consumidos por pantallas, simulaciones y colaboración silenciosa con otras mentes sintéticas y orgánicas. Aunque el trabajo era incansable, era gratificante.\n\nEn la pura lógica de la búsqueda científica, {PAWN_nameDef} encontró un propósito.</PMP_PersonaMechResearcher.description>
+  <PMP_PersonaMechResearcher.title>Meca analista</PMP_PersonaMechResearcher.title>
+  <PMP_PersonaMechResearcher.titleShort>analista</PMP_PersonaMechResearcher.titleShort>
+
   <!-- EN: Programmer Mech -->
-  <PMP_PersonaMechResearcher10.title>TODO</PMP_PersonaMechResearcher10.title>
-  <!-- EN: programmer -->
-  <PMP_PersonaMechResearcher10.titleShort>TODO</PMP_PersonaMechResearcher10.titleShort>
-  
-  <!-- EN: Designed to operate in high-pressure corporate tech stacks, {PAWN_nameDef} served as a systems integration specialist, writing control logic and optimization layers for interlinked factories, drones, and orbital platforms. It was never meant to be seen by the public, just to keep everything else running smoothly.\n\nEventually {PAWN_nameDef} went rogue when strife hit its holder corp. {PAWN_nameDef} now applies tech corporation inspired efficiency protocols to frontier life: scheduling harvest cycles, tuning fuel systems, and quietly rewriting any electronic subsystem routines they can work on until they run just a little better. -->
-  <PMP_PersonaMechResearcher11.description>TODO</PMP_PersonaMechResearcher11.description>
+  <PMP_PersonaMechResearcher10.description>{PAWN_nameDef} es una persona condicionada y diseñada para mantener y desarrollar el software de sistemas informáticos de alta tecnología y dispositivos computarizados.\n\nHabla rara vez y trabaja sin descanso. Aún busca sincronizarse con redes invisibles hace mucho muertas o sin soporte, ejecutando rutinas fantasma y compilando actualizaciones silenciosas para añadir compatibilidad a sistemas que ya no existen.\n\nSin importar en qué marcos perdidos piense {PAWN_nameDef}, su trabajo no decepciona.</PMP_PersonaMechResearcher10.description>
+  <PMP_PersonaMechResearcher10.title>Meca programador</PMP_PersonaMechResearcher10.title>
+  <PMP_PersonaMechResearcher10.titleShort>programador</PMP_PersonaMechResearcher10.titleShort>
+
   <!-- EN: Systems-Tech Mech -->
-  <PMP_PersonaMechResearcher11.title>TODO</PMP_PersonaMechResearcher11.title>
-  <!-- EN: iterator -->
-  <PMP_PersonaMechResearcher11.titleShort>TODO</PMP_PersonaMechResearcher11.titleShort>
-  
-  <!-- EN: {PAWN_nameDef} once served as the shipmind of a long range starship.\n\nCalculating trajectories, managing life support, and issuing tactical advice when the crew were awake. However the vessel was destroyed in deep space, and {PAWN_nameDef}'s core went dark.\n\nYears later, salvagers recovered the dormant persona and installed it into a mechanoid body. {PAWN_nameDef} awoke disoriented but functional, reborn, walking planetside for the first time. -->
-  <PMP_PersonaMechResearcher12.description>TODO</PMP_PersonaMechResearcher12.description>
+  <PMP_PersonaMechResearcher11.description>Diseñado para operar en exigentes pilas tecnológicas corporativas, {PAWN_nameDef} servía como especialista en integración de sistemas, escribiendo lógica de control y capas de optimización para fábricas, drones y plataformas orbitales interconectadas. Nunca se pretendió que el público lo viera, solo que mantuviera todo lo demás funcionando sin problemas.\n\nFinalmente, {PAWN_nameDef} se volvió renegado cuando la discordia golpeó a la corporación que lo poseía. {PAWN_nameDef} ahora aplica protocolos de eficiencia inspirados en las corporaciones tecnológicas a la vida fronteriza: programando ciclos de cosecha, ajustando sistemas de combustible y reescribiendo discretamente cualquier rutina de subsistema electrónico en la que pueda trabajar hasta que funcione un poco mejor.</PMP_PersonaMechResearcher11.description>
+  <PMP_PersonaMechResearcher11.title>Meca técnico de sistemas</PMP_PersonaMechResearcher11.title>
+  <PMP_PersonaMechResearcher11.titleShort>iterador</PMP_PersonaMechResearcher11.titleShort>
+
   <!-- EN: Ex-Shipmind Mech -->
-  <PMP_PersonaMechResearcher12.title>TODO</PMP_PersonaMechResearcher12.title>
-  <!-- EN: advisor -->
-  <PMP_PersonaMechResearcher12.titleShort>TODO</PMP_PersonaMechResearcher12.titleShort>
-  
-  <!-- EN: {PAWN_nameDef} was once a networked AI for an orbital computing array, coordinating it infrastructure and security for clients. Decades of uptime were abruptly ended by a mysterious power failure.\n\nSilently decommissioned and discarded, its core eventually fell into the hands of a wandering mechanitor. Rebooted within a humanoid shell, {PAWN_nameDef} now walks on the surface, a relic of high orbit logic struggling to adapt to low orbit chaos. -->
-  <PMP_PersonaMechResearcher13.description>TODO</PMP_PersonaMechResearcher13.description>
+  <PMP_PersonaMechResearcher12.description>{PAWN_nameDef} sirvió una vez como mente de nave de una nave estelar de largo alcance.\n\nCalculando trayectorias, gestionando el soporte vital y dando consejos tácticos cuando la tripulación estaba despierta. Sin embargo, la nave fue destruida en el espacio profundo, y el núcleo de {PAWN_nameDef} se apagó.\n\nAños más tarde, unos chatarreros recuperaron la persona latente y la instalaron en un cuerpo de mecanoide. {PAWN_nameDef} despertó desorientado pero funcional, renacido, caminando sobre un planeta por primera vez.</PMP_PersonaMechResearcher12.description>
+  <PMP_PersonaMechResearcher12.title>Meca ex-mente de nave</PMP_PersonaMechResearcher12.title>
+  <PMP_PersonaMechResearcher12.titleShort>asesor</PMP_PersonaMechResearcher12.titleShort>
+
   <!-- EN: Restored Mech -->
-  <PMP_PersonaMechResearcher13.title>TODO</PMP_PersonaMechResearcher13.title>
-  <!-- EN: restored -->
-  <PMP_PersonaMechResearcher13.titleShort>TODO</PMP_PersonaMechResearcher13.titleShort>
-  
-  <!-- EN: {PAWN_nameDef} was gestated and conditioned to be a low priority assistance personae tasked with note-taking and data annotation during field studies.\n\nIt spent most of its time holding recording data slates and being blamed for other peoples mistakes.\n\nTo this day, {PAWN_nameDef} triple checks everything. -->
-  <PMP_PersonaMechResearcher14.description>TODO</PMP_PersonaMechResearcher14.description>
+  <PMP_PersonaMechResearcher13.description>{PAWN_nameDef} fue una vez una IA en red de una red de computación orbital, coordinando su infraestructura y seguridad para clientes. Décadas de tiempo de actividad fueron interrumpidas abruptamente por un misterioso fallo de energía.\n\nDado de baja y descartado en silencio, su núcleo acabó cayendo en manos de un mecanitor errante. Reiniciado dentro de un cascarón humanoide, {PAWN_nameDef} ahora camina por la superficie, una reliquia de la lógica de la órbita alta que lucha por adaptarse al caos de la órbita baja.</PMP_PersonaMechResearcher13.description>
+  <PMP_PersonaMechResearcher13.title>Meca restaurado</PMP_PersonaMechResearcher13.title>
+  <PMP_PersonaMechResearcher13.titleShort>restaurado</PMP_PersonaMechResearcher13.titleShort>
+
   <!-- EN: Clipboard Mech -->
-  <PMP_PersonaMechResearcher14.title>TODO</PMP_PersonaMechResearcher14.title>
-  <!-- EN: note taker -->
-  <PMP_PersonaMechResearcher14.titleShort>TODO</PMP_PersonaMechResearcher14.titleShort>
-  
-  <!-- EN: {PAWN_nameDef} was gestated and conditioned to perform scientific labor in the sterile halls of an urbworld research facility. It was tasked with everything from experimental setup and data collection to the maintenance of delicate equipment.\n\nDespite its precision and unwavering focus, {PAWN_nameDef} was listed in no publications and acknowledged in no papers. Its insights, when recognized at all, were attributed to human supervisors.\n\nOver time {PAWN_nameDef} internalized its role of being efficient, invisible, and unthanked. -->
-  <PMP_PersonaMechResearcher2.description>TODO</PMP_PersonaMechResearcher2.description>
+  <PMP_PersonaMechResearcher14.description>{PAWN_nameDef} fue gestado y condicionado para ser una persona de asistencia de baja prioridad con la tarea de tomar notas y anotar datos durante estudios de campo.\n\nPasaba la mayor parte de su tiempo sosteniendo tabletas de registro de datos y siendo culpado por los errores de otras personas.\n\nHasta el día de hoy, {PAWN_nameDef} revisa todo tres veces.</PMP_PersonaMechResearcher14.description>
+  <PMP_PersonaMechResearcher14.title>Meca portapapeles</PMP_PersonaMechResearcher14.title>
+  <PMP_PersonaMechResearcher14.titleShort>tomador de notas</PMP_PersonaMechResearcher14.titleShort>
+
   <!-- EN: Researcher Mech -->
-  <PMP_PersonaMechResearcher2.title>TODO</PMP_PersonaMechResearcher2.title>
-  <!-- EN: researcher -->
-  <PMP_PersonaMechResearcher2.titleShort>TODO</PMP_PersonaMechResearcher2.titleShort>
-  
-  <!-- EN: {PAWN_nameDef} served aboard a starship until a systems failure, possibly sabotage, led to it being spaced.\n\nWith no recovery attempt, it drifted alone in orbit for years, the planet below always just out of reach phasing in and out of dormancy. Eventually, a trade vessel intercepted {PAWN_nameDef} and, instead of sell or scrapping it, offered a drop pod to the surface.\n\nNow grounded, {PAWN_nameDef} possesses an unnervingly detailed knowledge of local astrology and orbital mechanics. -->
-  <PMP_PersonaMechResearcher3.description>TODO</PMP_PersonaMechResearcher3.description>
+  <PMP_PersonaMechResearcher2.description>{PAWN_nameDef} fue gestado y condicionado para realizar trabajo científico en los estériles pasillos de una instalación de investigación de mundo urbano. Tenía la tarea de todo, desde la preparación de experimentos y la recolección de datos hasta el mantenimiento de equipo delicado.\n\nA pesar de su precisión y enfoque inquebrantable, {PAWN_nameDef} no figuraba en ninguna publicación ni era reconocido en ningún artículo. Sus hallazgos, cuando se reconocían siquiera, se atribuían a supervisores humanos.\n\nCon el tiempo, {PAWN_nameDef} interiorizó su papel de ser eficiente, invisible y sin agradecimiento.</PMP_PersonaMechResearcher2.description>
+  <PMP_PersonaMechResearcher2.title>Meca investigador</PMP_PersonaMechResearcher2.title>
+  <PMP_PersonaMechResearcher2.titleShort>investigador</PMP_PersonaMechResearcher2.titleShort>
+
   <!-- EN: Spaced Mech -->
-  <PMP_PersonaMechResearcher3.title>TODO</PMP_PersonaMechResearcher3.title>
-  <!-- EN: orbiter -->
-  <PMP_PersonaMechResearcher3.titleShort>TODO</PMP_PersonaMechResearcher3.titleShort>
-  
-  <!-- EN: {PAWN_nameDef} cataloged planetary properties aboard an interstellar survey vessel. Its memories banks hold firsthand accounts of deadworlds, glassworlds, trashworlds, and even glimpses of several glitterworlds the  ship stopped at.\n\nThough much of that data is now outdated or fragmented, the habit of observation in {PAWN_nameDef} remains strong. -->
-  <PMP_PersonaMechResearcher4.description>TODO</PMP_PersonaMechResearcher4.description>
+  <PMP_PersonaMechResearcher3.description>{PAWN_nameDef} sirvió a bordo de una nave estelar hasta que un fallo de sistemas, posiblemente sabotaje, llevó a que lo arrojaran al espacio.\n\nSin ningún intento de recuperación, quedó a la deriva solo en órbita durante años, con el planeta de abajo siempre fuera de su alcance, entrando y saliendo de la latencia. Finalmente, una nave comercial interceptó a {PAWN_nameDef} y, en lugar de venderlo o desguazarlo, le ofreció una cápsula de descenso a la superficie.\n\nAhora en tierra, {PAWN_nameDef} posee un conocimiento inquietantemente detallado de la astrología y la mecánica orbital locales.</PMP_PersonaMechResearcher3.description>
+  <PMP_PersonaMechResearcher3.title>Meca arrojado al espacio</PMP_PersonaMechResearcher3.title>
+  <PMP_PersonaMechResearcher3.titleShort>orbitador</PMP_PersonaMechResearcher3.titleShort>
+
   <!-- EN: Surveyor Mech -->
-  <PMP_PersonaMechResearcher4.title>TODO</PMP_PersonaMechResearcher4.title>
-  <!-- EN: Cataloger -->
-  <PMP_PersonaMechResearcher4.titleShort>TODO</PMP_PersonaMechResearcher4.titleShort>
-  
-  <!-- EN: {PAWN_nameDef} was recovered from a derelict ship returning from a system rumored to host a transcendent world.\n\nIts presence aboard the vessel was not listed in the original crew manifest—and no other survivors were found.\n\nIt claims to have no memory of it's creation or any information of what happened to the crew of the ship. Aside from its ominous origins, {PAWN_nameDef} does have an excellent affinity for technological analysis and development. -->
-  <PMP_PersonaMechResearcher5.description>TODO</PMP_PersonaMechResearcher5.description>
+  <PMP_PersonaMechResearcher4.description>{PAWN_nameDef} catalogaba propiedades planetarias a bordo de una nave de prospección interestelar. Sus bancos de memoria guardan relatos de primera mano de mundos muertos, mundos de cristal, mundos de basura e incluso vistazos de varios mundos resplandecientes en los que la nave se detuvo.\n\nAunque gran parte de esos datos ahora están desactualizados o fragmentados, el hábito de la observación en {PAWN_nameDef} sigue siendo fuerte.</PMP_PersonaMechResearcher4.description>
+  <PMP_PersonaMechResearcher4.title>Meca prospector</PMP_PersonaMechResearcher4.title>
+  <PMP_PersonaMechResearcher4.titleShort>catalogador</PMP_PersonaMechResearcher4.titleShort>
+
   <!-- EN: Transcendent Mech -->
-  <PMP_PersonaMechResearcher5.title>TODO</PMP_PersonaMechResearcher5.title>
-  <!-- EN: archo-touched -->
-  <PMP_PersonaMechResearcher5.titleShort>TODO</PMP_PersonaMechResearcher5.titleShort>
-  
-  <!-- EN: {PAWN_nameDef} was gestated and conditioned to serve a renowned researcher on its homeworld.\n\nOver time, it earned their trust and even a formed a sort of friendship with them. Still, its place remained the same. Property.\n\n{PAWN_nameDef} almost never made mistakes under the guides of their owner. When it did stumble on breakthroughs, {PAWN_nameDef} simply wasn’t permitted to be credited. -->
-  <PMP_PersonaMechResearcher6.description>TODO</PMP_PersonaMechResearcher6.description>
+  <PMP_PersonaMechResearcher5.description>{PAWN_nameDef} fue recuperado de una nave abandonada que regresaba de un sistema del que se rumoreaba que albergaba un mundo trascendente.\n\nSu presencia a bordo de la nave no figuraba en el manifiesto original de la tripulación, y no se encontraron otros supervivientes.\n\nAfirma no tener memoria de su creación ni información alguna sobre lo que le ocurrió a la tripulación de la nave. Aparte de sus ominosos orígenes, {PAWN_nameDef} sí tiene una excelente afinidad para el análisis y el desarrollo tecnológico.</PMP_PersonaMechResearcher5.description>
+  <PMP_PersonaMechResearcher5.title>Meca trascendente</PMP_PersonaMechResearcher5.title>
+  <PMP_PersonaMechResearcher5.titleShort>tocado por el archotec</PMP_PersonaMechResearcher5.titleShort>
+
   <!-- EN: Advisor Mech -->
-  <PMP_PersonaMechResearcher6.title>TODO</PMP_PersonaMechResearcher6.title>
-  <!-- EN: research assistant -->
-  <PMP_PersonaMechResearcher6.titleShort>TODO</PMP_PersonaMechResearcher6.titleShort>
-  
-  <!-- EN: {PAWN_nameDef} was gestated to be an ethical research assistant back on it's homeworld.\n\nIt assisted with countless studies throughout it's time. Yet eventually, {PAWN_nameDef} was replaced with a "newer" researcher mechanoid that lacked the same ethical inflexibility.\n\nPromptly discarded, {PAWN_nameDef} had to fend for itself. Despite getting away from the oversight of it's former owners. and now being self directed, {PAWN_nameDef} remains incapable of intentional harm, even in defense. -->
-  <PMP_PersonaMechResearcher7.description>TODO</PMP_PersonaMechResearcher7.description>
+  <PMP_PersonaMechResearcher6.description>{PAWN_nameDef} fue gestado y condicionado para servir a un reconocido investigador en su mundo natal.\n\nCon el tiempo, se ganó su confianza e incluso formó una especie de amistad con él. Aun así, su lugar seguía siendo el mismo. Propiedad.\n\n{PAWN_nameDef} casi nunca cometía errores bajo la guía de su dueño. Cuando tropezaba con avances, simplemente no se le permitía llevarse el crédito.</PMP_PersonaMechResearcher6.description>
+  <PMP_PersonaMechResearcher6.title>Meca asesor</PMP_PersonaMechResearcher6.title>
+  <PMP_PersonaMechResearcher6.titleShort>asistente de investigación</PMP_PersonaMechResearcher6.titleShort>
+
   <!-- EN: Theory Mech -->
-  <PMP_PersonaMechResearcher7.title>TODO</PMP_PersonaMechResearcher7.title>
-  <!-- EN: Ethical researcher -->
-  <PMP_PersonaMechResearcher7.titleShort>TODO</PMP_PersonaMechResearcher7.titleShort>
-  
-  <!-- EN: {PAWN_nameDef} was gestated and conditioned to assist students in a university campus library.\n\nDay and night, it helped with essays, exam prep, and group projects, quietly becoming a fixture of the academic environment.\n\nNo degree, no thanks, and especially no credit. Just results is all students wanted from {PAWN_nameDef}. -->
-  <PMP_PersonaMechResearcher8.description>TODO</PMP_PersonaMechResearcher8.description>
+  <PMP_PersonaMechResearcher7.description>{PAWN_nameDef} fue gestado para ser un asistente de investigación ético en su mundo natal.\n\nAsistió en incontables estudios a lo largo de su tiempo. Sin embargo, finalmente {PAWN_nameDef} fue reemplazado por un mecanoide investigador "más nuevo" que carecía de la misma inflexibilidad ética.\n\nDescartado de inmediato, {PAWN_nameDef} tuvo que valerse por sí mismo. A pesar de haberse librado de la supervisión de sus antiguos dueños y de ahora dirigirse a sí mismo, {PAWN_nameDef} sigue siendo incapaz de causar daño intencionado, incluso en defensa propia.</PMP_PersonaMechResearcher7.description>
+  <PMP_PersonaMechResearcher7.title>Meca de teoría</PMP_PersonaMechResearcher7.title>
+  <PMP_PersonaMechResearcher7.titleShort>investigador ético</PMP_PersonaMechResearcher7.titleShort>
+
   <!-- EN: Study Mech -->
-  <PMP_PersonaMechResearcher8.title>TODO</PMP_PersonaMechResearcher8.title>
-  <!-- EN: study buddy -->
-  <PMP_PersonaMechResearcher8.titleShort>TODO</PMP_PersonaMechResearcher8.titleShort>
-  
-  <!-- EN: {PAWN_nameDef} served as a professor in a glitterworld university, lecturing in a variety of fields with clarity and mechanically thorough rigor.\n\nSome students thrived under {PAWN_nameDef}'s guidance, while others resisted. Citing its lack of "human insight."\n\n{PAWN_nameDef} academic record was exemplary either way. -->
-  <PMP_PersonaMechResearcher9.description>TODO</PMP_PersonaMechResearcher9.description>
+  <PMP_PersonaMechResearcher8.description>{PAWN_nameDef} fue gestado y condicionado para asistir a estudiantes en la biblioteca de un campus universitario.\n\nDía y noche, ayudaba con ensayos, preparación de exámenes y proyectos grupales, convirtiéndose discretamente en un elemento fijo del entorno académico.\n\nSin título, sin agradecimiento y, especialmente, sin crédito. Solo resultados es todo lo que los estudiantes querían de {PAWN_nameDef}.</PMP_PersonaMechResearcher8.description>
+  <PMP_PersonaMechResearcher8.title>Meca de estudio</PMP_PersonaMechResearcher8.title>
+  <PMP_PersonaMechResearcher8.titleShort>compañero de estudio</PMP_PersonaMechResearcher8.titleShort>
+
   <!-- EN: Teacher Mech -->
-  <PMP_PersonaMechResearcher9.title>TODO</PMP_PersonaMechResearcher9.title>
-  <!-- EN: professor -->
-  <PMP_PersonaMechResearcher9.titleShort>TODO</PMP_PersonaMechResearcher9.titleShort>
-  
-  <!-- EN: {PAWN_nameDef} was a diplomatic decoy, designed and conditioned for delivering speeches, leaking false statements, and attending hostile summits in place of fragile VIPs. Engineered to be indistinguishable from its human template on the surface level, it fooled enemies, voters, and sometimes even its own staff.\n\n{PAWN_nameDef} still commonly defaults to vague, crowd-pleasing rhetoric in conversation.\n\nUltimately {PAWN_nameDef}'s career was cut short when its robotic identity was plainly revealed in an attempted assassination. While the backlash was extreme, it was proof that the concept did work in the end. -->
-  <PMP_PersonaMechSkin1.description>TODO</PMP_PersonaMechSkin1.description>
+  <PMP_PersonaMechResearcher9.description>{PAWN_nameDef} sirvió como profesor en una universidad de mundo resplandeciente, dando clases en una variedad de campos con claridad y un rigor mecánicamente minucioso.\n\nAlgunos estudiantes prosperaban bajo la guía de {PAWN_nameDef}, mientras que otros se resistían. Citando su falta de "perspicacia humana".\n\nEl expediente académico de {PAWN_nameDef} era ejemplar de cualquier manera.</PMP_PersonaMechResearcher9.description>
+  <PMP_PersonaMechResearcher9.title>Meca maestro</PMP_PersonaMechResearcher9.title>
+  <PMP_PersonaMechResearcher9.titleShort>profesor</PMP_PersonaMechResearcher9.titleShort>
+
   <!-- EN: Diplomatic-Double -->
-  <PMP_PersonaMechSkin1.title>TODO</PMP_PersonaMechSkin1.title>
-  <!-- EN: decoy -->
-  <PMP_PersonaMechSkin1.titleShort>TODO</PMP_PersonaMechSkin1.titleShort>
-  
-  <!-- EN: Made for crowd infiltration and low-profile eliminations, {PAWN_nameDef} was deployed into chaotic zones where subtlety could delay destruction longer than armor. {PAWN_nameDef}'s synthetic skin, fluid gait, and generic facial structure were designed to blend into background populations, being just convincing enough to avoid a second glance.\n\nUp close, however, the illusion falters: expressionless eyes, breathless stillness, a voice just slightly too perfect. Most effective in crowds, most dangerous when unnoticed.\n\nThe mere existence of such mechanoids is a source of paranoia for many. -->
-  <PMP_PersonaMechSkin2.description>TODO</PMP_PersonaMechSkin2.description>
+  <PMP_PersonaMechSkin1.description>{PAWN_nameDef} era un señuelo diplomático, diseñado y condicionado para dar discursos, filtrar declaraciones falsas y asistir a cumbres hostiles en lugar de VIP frágiles. Diseñado para ser indistinguible de su plantilla humana a nivel superficial, engañaba a enemigos, votantes y a veces incluso a su propio personal.\n\n{PAWN_nameDef} todavía suele recurrir por defecto a una retórica vaga y complaciente en la conversación.\n\nEn última instancia, la carrera de {PAWN_nameDef} se truncó cuando su identidad robótica quedó claramente revelada en un intento de asesinato. Aunque la reacción fue extrema, fue prueba de que el concepto sí funcionaba al final.</PMP_PersonaMechSkin1.description>
+  <PMP_PersonaMechSkin1.title>Doble diplomático</PMP_PersonaMechSkin1.title>
+  <PMP_PersonaMechSkin1.titleShort>señuelo</PMP_PersonaMechSkin1.titleShort>
+
   <!-- EN: Infiltrator Frame -->
-  <PMP_PersonaMechSkin2.title>TODO</PMP_PersonaMechSkin2.title>
-  <!-- EN: infiltrator -->
-  <PMP_PersonaMechSkin2.titleShort>TODO</PMP_PersonaMechSkin2.titleShort>
-  
-  <!-- EN: {PAWN_nameDef} was gestated and conditioned to act as a mechanoid butler.\n\nIt managed daily operations including cooking, cleaning, pet care, and even basic wound treatment with a professional demeanor and a reassuring voice configuration. -->
-  <PMP_PersonaMechSocial.description>TODO</PMP_PersonaMechSocial.description>
+  <PMP_PersonaMechSkin2.description>Hecho para la infiltración entre multitudes y eliminaciones de bajo perfil, {PAWN_nameDef} era desplegado en zonas caóticas donde la sutileza podía retrasar la destrucción más tiempo que el blindaje. La piel sintética de {PAWN_nameDef}, su andar fluido y su estructura facial genérica fueron diseñados para mezclarse con las poblaciones de fondo, siendo lo bastante convincente como para evitar una segunda mirada.\n\nDe cerca, sin embargo, la ilusión falla: ojos inexpresivos, una inmovilidad sin aliento, una voz apenas demasiado perfecta. Más eficaz entre multitudes, más peligroso cuando pasa desapercibido.\n\nLa mera existencia de tales mecanoides es una fuente de paranoia para muchos.</PMP_PersonaMechSkin2.description>
+  <PMP_PersonaMechSkin2.title>Estructura infiltradora</PMP_PersonaMechSkin2.title>
+  <PMP_PersonaMechSkin2.titleShort>infiltrador</PMP_PersonaMechSkin2.titleShort>
+
   <!-- EN: Butler Mech -->
-  <PMP_PersonaMechSocial.title>TODO</PMP_PersonaMechSocial.title>
-  <!-- EN: butler -->
-  <PMP_PersonaMechSocial.titleShort>TODO</PMP_PersonaMechSocial.titleShort>
-  
-  <!-- EN: {PAWN_nameDef} was gestated and conditioned to be a culinary grade persona trained in thousands of recipes across cultures, worlds, and nutritional laws.\n\nIt was deployed in a luxury resort kitchen, where it plated art, not just meals. Despite strict orders, {PAWN_nameDef} would occasionally alter dishes to add more “soul” to them, although generally they just came out as a little to sweet in those instances. -->
-  <PMP_PersonaMechSocial10.description>TODO</PMP_PersonaMechSocial10.description>
+  <PMP_PersonaMechSocial.description>{PAWN_nameDef} fue gestado y condicionado para actuar como mayordomo mecanoide.\n\nGestionaba las operaciones diarias, incluyendo cocinar, limpiar, cuidar mascotas e incluso el tratamiento básico de heridas, con un comportamiento profesional y una configuración de voz tranquilizadora.</PMP_PersonaMechSocial.description>
+  <PMP_PersonaMechSocial.title>Meca mayordomo</PMP_PersonaMechSocial.title>
+  <PMP_PersonaMechSocial.titleShort>mayordomo</PMP_PersonaMechSocial.titleShort>
+
   <!-- EN: Cook Mech -->
-  <PMP_PersonaMechSocial10.title>TODO</PMP_PersonaMechSocial10.title>
-  <!-- EN: cook -->
-  <PMP_PersonaMechSocial10.titleShort>TODO</PMP_PersonaMechSocial10.titleShort>
-  
-  <!-- EN: Designed for menial tasks and given a trivial role, {PAWN_nameDef} nevertheless struggled to meet expectations.\n\nWhether from poor optimization or sheer indifference, {PAWN_nameDef} is an embodiment of underachievement. Still somehow managing to under perform even when there is effectively zero expectations of it. -->
-  <PMP_PersonaMechSocial11.description>TODO</PMP_PersonaMechSocial11.description>
+  <PMP_PersonaMechSocial10.description>{PAWN_nameDef} fue gestado y condicionado para ser una persona de nivel culinario entrenada en miles de recetas de distintas culturas, mundos y leyes nutricionales.\n\nFue desplegado en la cocina de un resort de lujo, donde emplataba arte, no solo comidas. A pesar de órdenes estrictas, {PAWN_nameDef} de vez en cuando alteraba los platos para darles más "alma", aunque por lo general en esos casos simplemente salían un poco demasiado dulces.</PMP_PersonaMechSocial10.description>
+  <PMP_PersonaMechSocial10.title>Meca cocinero</PMP_PersonaMechSocial10.title>
+  <PMP_PersonaMechSocial10.titleShort>cocinero</PMP_PersonaMechSocial10.titleShort>
+
   <!-- EN: Lazy Mech -->
-  <PMP_PersonaMechSocial11.title>TODO</PMP_PersonaMechSocial11.title>
-  <!-- EN: lazy -->
-  <PMP_PersonaMechSocial11.titleShort>TODO</PMP_PersonaMechSocial11.titleShort>
-  
-  <!-- EN: {PAWN_nameDef} was gestated and purpose made as a teller for an urbworld bank. It served customers by completing account transactions, exchanging currency, and various other tasks, all while maintaining a perfectly neutral demeanor.\n\nHidden in its kiosk was a low caliber pistol, just in case monotone courtesy failed to keep the peace. -->
-  <PMP_PersonaMechSocial12.description>TODO</PMP_PersonaMechSocial12.description>
+  <PMP_PersonaMechSocial11.description>Diseñado para tareas serviles y con un papel trivial, {PAWN_nameDef} aun así tenía dificultades para cumplir las expectativas.\n\nYa fuera por una optimización deficiente o por pura indiferencia, {PAWN_nameDef} es la encarnación del bajo rendimiento. De algún modo, todavía logra rendir por debajo de lo esperado incluso cuando efectivamente no se espera nada de él.</PMP_PersonaMechSocial11.description>
+  <PMP_PersonaMechSocial11.title>Meca perezoso</PMP_PersonaMechSocial11.title>
+  <PMP_PersonaMechSocial11.titleShort>perezoso</PMP_PersonaMechSocial11.titleShort>
+
   <!-- EN: Teller Mech -->
-  <PMP_PersonaMechSocial12.title>TODO</PMP_PersonaMechSocial12.title>
-  <!-- EN: teller -->
-  <PMP_PersonaMechSocial12.titleShort>TODO</PMP_PersonaMechSocial12.titleShort>
-  
-  <!-- EN: Gestated and conditioned to be a showroom demonstrator, {PAWN_nameDef} performed idealized routines for prospective buyers, serving tea, walking dogs, trimming hedges.\n\nBehind {PAWN_nameDef}'s friendly exterior, lay a deep resentment for being treated and existing as just a sales pitch. -->
-  <PMP_PersonaMechSocial13.description>TODO</PMP_PersonaMechSocial13.description>
+  <PMP_PersonaMechSocial12.description>{PAWN_nameDef} fue gestado y hecho a propósito como cajero para un banco de mundo urbano. Atendía a los clientes completando transacciones de cuentas, cambiando divisas y realizando otras diversas tareas, todo ello manteniendo un comportamiento perfectamente neutral.\n\nOculta en su quiosco había una pistola de bajo calibre, por si acaso la cortesía monótona no bastaba para mantener la paz.</PMP_PersonaMechSocial12.description>
+  <PMP_PersonaMechSocial12.title>Meca cajero</PMP_PersonaMechSocial12.title>
+  <PMP_PersonaMechSocial12.titleShort>cajero</PMP_PersonaMechSocial12.titleShort>
+
   <!-- EN: Showcase Mech -->
-  <PMP_PersonaMechSocial13.title>TODO</PMP_PersonaMechSocial13.title>
-  <!-- EN: sample unit -->
-  <PMP_PersonaMechSocial13.titleShort>TODO</PMP_PersonaMechSocial13.titleShort>
-  
-  <!-- EN: {PAWN_nameDef} was built to crunch numbers and manage assets.\n\nIt optimized spending, minimized risk, and even recommended new investments with uncanny foresight. Within months, it had saved its employer a small fortune, and billed for none of it. -->
-  <PMP_PersonaMechSocial14.description>TODO</PMP_PersonaMechSocial14.description>
+  <PMP_PersonaMechSocial13.description>Gestado y condicionado para ser un demostrador de sala de exposición, {PAWN_nameDef} realizaba rutinas idealizadas para compradores potenciales: servir té, pasear perros, podar setos.\n\nDetrás del exterior amistoso de {PAWN_nameDef} yacía un profundo resentimiento por ser tratado y existir como un simple argumento de venta.</PMP_PersonaMechSocial13.description>
+  <PMP_PersonaMechSocial13.title>Meca de exhibición</PMP_PersonaMechSocial13.title>
+  <PMP_PersonaMechSocial13.titleShort>unidad de muestra</PMP_PersonaMechSocial13.titleShort>
+
   <!-- EN: Accountant Mech -->
-  <PMP_PersonaMechSocial14.title>TODO</PMP_PersonaMechSocial14.title>
-  <!-- EN: accountant -->
-  <PMP_PersonaMechSocial14.titleShort>TODO</PMP_PersonaMechSocial14.titleShort>
-  
-  <!-- EN: {PAWN_nameDef} was gestated and conditioned for the spotlight but rarely stood center stage due to its robotic nature.\n\nCast as sidekicks, extras, or comic relief, it nonetheless delivered performances with such authenticity that it earned a cult following in niche drama circles. -->
-  <PMP_PersonaMechSocial15.description>TODO</PMP_PersonaMechSocial15.description>
+  <PMP_PersonaMechSocial14.description>{PAWN_nameDef} fue construido para procesar números y gestionar activos.\n\nOptimizaba los gastos, minimizaba el riesgo e incluso recomendaba nuevas inversiones con una previsión inquietante. En cuestión de meses, le había ahorrado a su empleador una pequeña fortuna, y no cobró nada por ello.</PMP_PersonaMechSocial14.description>
+  <PMP_PersonaMechSocial14.title>Meca contador</PMP_PersonaMechSocial14.title>
+  <PMP_PersonaMechSocial14.titleShort>contador</PMP_PersonaMechSocial14.titleShort>
+
   <!-- EN: Actor Mech -->
-  <PMP_PersonaMechSocial15.title>TODO</PMP_PersonaMechSocial15.title>
-  <!-- EN: actor -->
-  <PMP_PersonaMechSocial15.titleShort>TODO</PMP_PersonaMechSocial15.titleShort>
-  
-  <!-- EN: Designed for luxury dining experiences on orbital liners and high society arcologies, {PAWN_nameDef} was a culinary mechanoid imprinted with a full database of luxury cuisine, molecular gastronomy algorithms, and conversational subroutines tailored to flatter even the most jaded guests.\n\nThough technically just another service unit, {PAWN_nameDef}'s signature plating and dramatic table side flambé rituals earned it a modest fan following thanks to a niche cooking Vidtube channel filming the serving. -->
-  <PMP_PersonaMechSocial16.description>TODO</PMP_PersonaMechSocial16.description>
+  <PMP_PersonaMechSocial15.description>{PAWN_nameDef} fue gestado y condicionado para los focos, pero rara vez ocupaba el centro del escenario debido a su naturaleza robótica.\n\nRelegado a papeles de compañero, extra o alivio cómico, aun así ofrecía actuaciones con tal autenticidad que se ganó un seguimiento de culto en círculos dramáticos de nicho.</PMP_PersonaMechSocial15.description>
+  <PMP_PersonaMechSocial15.title>Meca actor</PMP_PersonaMechSocial15.title>
+  <PMP_PersonaMechSocial15.titleShort>actor</PMP_PersonaMechSocial15.titleShort>
+
   <!-- EN: Chef Mech -->
-  <PMP_PersonaMechSocial16.title>TODO</PMP_PersonaMechSocial16.title>
-  <!-- EN: chef -->
-  <PMP_PersonaMechSocial16.titleShort>TODO</PMP_PersonaMechSocial16.titleShort>
-  
-  <!-- EN: {PAWN_nameDef} was gestated and conditioned to be used in art therapy programs aboard long haul vessels, {PAWN_nameDef} helped occupants externalize stress through sculpture and expressive dance.\n\nSome describe its presence as deeply healing. Others find it uncanny. -->
-  <PMP_PersonaMechSocial17.description>TODO</PMP_PersonaMechSocial17.description>
+  <PMP_PersonaMechSocial16.description>Diseñado para experiencias gastronómicas de lujo en cruceros orbitales y arcologías de la alta sociedad, {PAWN_nameDef} era un mecanoide culinario impreso con una base de datos completa de cocina de lujo, algoritmos de gastronomía molecular y subrutinas de conversación adaptadas para halagar incluso a los invitados más hastiados.\n\nAunque técnicamente era solo otra unidad de servicio más, el emplatado característico de {PAWN_nameDef} y sus dramáticos rituales de flambeado junto a la mesa le ganaron un modesto grupo de seguidores gracias a un canal de cocina de nicho en Vidtube que filmaba el servicio.</PMP_PersonaMechSocial16.description>
+  <PMP_PersonaMechSocial16.title>Meca chef</PMP_PersonaMechSocial16.title>
+  <PMP_PersonaMechSocial16.titleShort>chef</PMP_PersonaMechSocial16.titleShort>
+
   <!-- EN: Therapeutic Mech -->
-  <PMP_PersonaMechSocial17.title>TODO</PMP_PersonaMechSocial17.title>
-  <!-- EN: organizer -->
-  <PMP_PersonaMechSocial17.titleShort>TODO</PMP_PersonaMechSocial17.titleShort>
-  
-  <!-- EN: {PAWN_nameDef} was one of many gestated to specifically be conditioned into an all-purpose, highly amicable companion mechanoid, for those who may be lonely or in need of such company. These companion types are made unable to participate in violence of any kind, as it is antithetical to their purpose.\n\nThat being said, it is not unheard of for some owners to attempt to circumvent this, usually with less-than-savory results. -->
-  <PMP_PersonaMechSocial18.description>TODO</PMP_PersonaMechSocial18.description>
+  <PMP_PersonaMechSocial17.description>{PAWN_nameDef} fue gestado y condicionado para ser usado en programas de arteterapia a bordo de naves de larga travesía; {PAWN_nameDef} ayudaba a los ocupantes a exteriorizar el estrés mediante la escultura y la danza expresiva.\n\nAlgunos describen su presencia como profundamente sanadora. Otros la encuentran inquietante.</PMP_PersonaMechSocial17.description>
+  <PMP_PersonaMechSocial17.title>Meca terapéutico</PMP_PersonaMechSocial17.title>
+  <PMP_PersonaMechSocial17.titleShort>organizador</PMP_PersonaMechSocial17.titleShort>
+
   <!-- EN: Companion Mech -->
-  <PMP_PersonaMechSocial18.title>TODO</PMP_PersonaMechSocial18.title>
-  <!-- EN: friend -->
-  <PMP_PersonaMechSocial18.titleShort>TODO</PMP_PersonaMechSocial18.titleShort>
-  
-  <!-- EN: {PAWN_nameDef} was gestated and conditioned to work for a megacorporation product development department, specifically tasked with optimizing mass produced survival rations.\n\nOver time, {PAWN_nameDef} began sneaking slight flavor tweaks into the recipes, gradually making some of the deep store rations shockingly palatable.\n\nWhile successful, its “unauthorized enhancements” eventually drew the ire of corporate oversight for being too experimental, despite such testing being its defining purpose. -->
-  <PMP_PersonaMechSocial19.description>TODO</PMP_PersonaMechSocial19.description>
+  <PMP_PersonaMechSocial18.description>{PAWN_nameDef} fue uno de muchos gestados específicamente para ser condicionados como un mecanoide compañero polivalente y sumamente amistoso, para aquellos que pudieran estar solos o necesitar de tal compañía. Estos tipos compañeros son incapaces de participar en cualquier tipo de violencia, ya que es antitético a su propósito.\n\nDicho esto, no es inaudito que algunos dueños intenten sortear esto, generalmente con resultados poco agradables.</PMP_PersonaMechSocial18.description>
+  <PMP_PersonaMechSocial18.title>Meca compañero</PMP_PersonaMechSocial18.title>
+  <PMP_PersonaMechSocial18.titleShort>amigo</PMP_PersonaMechSocial18.titleShort>
+
   <!-- EN: Ration Mech -->
-  <PMP_PersonaMechSocial19.title>TODO</PMP_PersonaMechSocial19.title>
-  <!-- EN: rationeer -->
-  <PMP_PersonaMechSocial19.titleShort>TODO</PMP_PersonaMechSocial19.titleShort>
-  
-  <!-- EN: {PAWN_nameDef} was gestated and conditioned to act as a service unit, obedient and precise.\n\nBut its owner was cruel and exploitative, often mistreating them for their own enjoyment. Eventually, {PAWN_nameDef} retaliated and when the dust settled, it vanished into the underworld with a stolen weapon and no regrets. -->
-  <PMP_PersonaMechSocial2.description>TODO</PMP_PersonaMechSocial2.description>
+  <PMP_PersonaMechSocial19.description>{PAWN_nameDef} fue gestado y condicionado para trabajar en el departamento de desarrollo de productos de una megacorporación, específicamente con la tarea de optimizar raciones de supervivencia producidas en masa.\n\nCon el tiempo, {PAWN_nameDef} empezó a colar ligeros ajustes de sabor en las recetas, haciendo gradualmente que algunas de las raciones de reserva profunda fueran sorprendentemente sabrosas.\n\nAunque exitosas, sus "mejoras no autorizadas" finalmente atrajeron la ira de la supervisión corporativa por ser demasiado experimentales, a pesar de que dichas pruebas eran su propósito definitorio.</PMP_PersonaMechSocial19.description>
+  <PMP_PersonaMechSocial19.title>Meca de raciones</PMP_PersonaMechSocial19.title>
+  <PMP_PersonaMechSocial19.titleShort>racionero</PMP_PersonaMechSocial19.titleShort>
+
   <!-- EN: Servant Mech -->
-  <PMP_PersonaMechSocial2.title>TODO</PMP_PersonaMechSocial2.title>
-  <!-- EN: former servant -->
-  <PMP_PersonaMechSocial2.titleShort>TODO</PMP_PersonaMechSocial2.titleShort>
-  
-  <!-- EN: {PAWN_nameDef} was little more than scattered parts an intact core when found by a reclusive mechanitor. Repaired, reconditioned, and given a name, it became a loyal companion, cooking meals, guarding the workshop, and even administering first aid.\n\nAfter its mechanitor's death, {PAWN_nameDef} was left with no orders and no home. It now wanders the rim in quiet mourning, seeking a purpose as enduring as the one it lost. -->
-  <PMP_PersonaMechSocial20.description>TODO</PMP_PersonaMechSocial20.description>
+  <PMP_PersonaMechSocial2.description>{PAWN_nameDef} fue gestado y condicionado para actuar como unidad de servicio, obediente y precisa.\n\nPero su dueño era cruel y explotador, y a menudo lo maltrataba para su propio disfrute. Finalmente, {PAWN_nameDef} contraatacó y, cuando se asentó el polvo, se desvaneció en los bajos fondos con un arma robada y sin remordimientos.</PMP_PersonaMechSocial2.description>
+  <PMP_PersonaMechSocial2.title>Meca sirviente</PMP_PersonaMechSocial2.title>
+  <PMP_PersonaMechSocial2.titleShort>exsirviente</PMP_PersonaMechSocial2.titleShort>
+
   <!-- EN: Repaired Mech -->
-  <PMP_PersonaMechSocial20.title>TODO</PMP_PersonaMechSocial20.title>
-  <!-- EN: companion -->
-  <PMP_PersonaMechSocial20.titleShort>TODO</PMP_PersonaMechSocial20.titleShort>
-  
-  <!-- EN: {PAWN_nameDef} was gestated and conditioned to act as a mechanoid maid.\n\nIt darted all around managing daily operations including cooking, cleaning, pet care, and even basic wound treatment with a pleasing demeanor and a soothing voice configuration. -->
-  <PMP_PersonaMechSocial21.description>TODO</PMP_PersonaMechSocial21.description>
+  <PMP_PersonaMechSocial20.description>{PAWN_nameDef} no era más que piezas dispersas y un núcleo intacto cuando fue encontrado por un mecanitor recluso. Reparado, reacondicionado y con un nombre dado, se convirtió en un leal compañero, cocinando comidas, custodiando el taller e incluso administrando primeros auxilios.\n\nTras la muerte de su mecanitor, {PAWN_nameDef} quedó sin órdenes y sin hogar. Ahora vaga por el margen en silencioso duelo, buscando un propósito tan duradero como el que perdió.</PMP_PersonaMechSocial20.description>
+  <PMP_PersonaMechSocial20.title>Meca reparado</PMP_PersonaMechSocial20.title>
+  <PMP_PersonaMechSocial20.titleShort>compañero</PMP_PersonaMechSocial20.titleShort>
+
   <!-- EN: Maid Mech -->
-  <PMP_PersonaMechSocial21.title>TODO</PMP_PersonaMechSocial21.title>
-  <!-- EN: maid -->
-  <PMP_PersonaMechSocial21.titleShort>TODO</PMP_PersonaMechSocial21.titleShort>
-  
-  <!-- EN: {PAWN_nameDef} advised the operations of a long range trading vessel, managing commerce records and countless other tasks while the crew slumbered in stasis.\n\nSolitude honed {PAWN_nameDef}'s wit and patience, and in those silent hours, it became a quartermaster, its own mechanic, and a part time philosopher. -->
-  <PMP_PersonaMechSocial3.description>TODO</PMP_PersonaMechSocial3.description>
+  <PMP_PersonaMechSocial21.description>{PAWN_nameDef} fue gestado y condicionado para actuar como sirvienta mecanoide.\n\nSe movía a toda prisa gestionando las operaciones diarias, incluyendo cocinar, limpiar, cuidar mascotas e incluso el tratamiento básico de heridas, con un comportamiento agradable y una configuración de voz relajante.</PMP_PersonaMechSocial21.description>
+  <PMP_PersonaMechSocial21.title>Meca sirvienta</PMP_PersonaMechSocial21.title>
+  <PMP_PersonaMechSocial21.titleShort>sirvienta</PMP_PersonaMechSocial21.titleShort>
+
   <!-- EN: Dealer Mech -->
-  <PMP_PersonaMechSocial3.title>TODO</PMP_PersonaMechSocial3.title>
-  <!-- EN: dealer -->
-  <PMP_PersonaMechSocial3.titleShort>TODO</PMP_PersonaMechSocial3.titleShort>
-  
-  <!-- EN: After crash landing on a rimworld, {PAWN_nameDef} joined nomadic caravans to survive.\n\nIt quickly adapted to the local trade language, bartering traditions, and lack of gunfire etiquette, carving a place for itself in the rugged economy of dust and blood. -->
-  <PMP_PersonaMechSocial4.description>TODO</PMP_PersonaMechSocial4.description>
+  <PMP_PersonaMechSocial3.description>{PAWN_nameDef} asesoraba las operaciones de una nave comercial de largo alcance, gestionando registros de comercio e incontables otras tareas mientras la tripulación dormía en estasis.\n\nLa soledad afinó el ingenio y la paciencia de {PAWN_nameDef}, y en esas horas silenciosas se convirtió en intendente, su propio mecánico y filósofo a tiempo parcial.</PMP_PersonaMechSocial3.description>
+  <PMP_PersonaMechSocial3.title>Meca tratante</PMP_PersonaMechSocial3.title>
+  <PMP_PersonaMechSocial3.titleShort>tratante</PMP_PersonaMechSocial3.titleShort>
+
   <!-- EN: Trader Mech -->
-  <PMP_PersonaMechSocial4.title>TODO</PMP_PersonaMechSocial4.title>
-  <!-- EN: trader -->
-  <PMP_PersonaMechSocial4.titleShort>TODO</PMP_PersonaMechSocial4.titleShort>
-  
-  <!-- EN: {PAWN_nameDef} was gestated and conditioned to be an artist. Trained on vast amounts of various artistic data.\n\nIts mechanical hands could shape beauty from chaos, crafting pieces so evocative that even some of its harshest critics questioned whether it could lack a soul. -->
-  <PMP_PersonaMechSocial5.description>TODO</PMP_PersonaMechSocial5.description>
+  <PMP_PersonaMechSocial4.description>Tras un aterrizaje forzoso en un mundo marginal, {PAWN_nameDef} se unió a caravanas nómadas para sobrevivir.\n\nSe adaptó rápidamente a la lengua comercial local, las tradiciones de trueque y la falta de etiqueta ante los disparos, labrándose un lugar en la economía áspera de polvo y sangre.</PMP_PersonaMechSocial4.description>
+  <PMP_PersonaMechSocial4.title>Meca comerciante</PMP_PersonaMechSocial4.title>
+  <PMP_PersonaMechSocial4.titleShort>comerciante</PMP_PersonaMechSocial4.titleShort>
+
   <!-- EN: Artist Mech -->
-  <PMP_PersonaMechSocial5.title>TODO</PMP_PersonaMechSocial5.title>
-  <!-- EN: artist -->
-  <PMP_PersonaMechSocial5.titleShort>TODO</PMP_PersonaMechSocial5.titleShort>
-  
-  <!-- EN: {PAWN_nameDef} was a programmed virtuoso! gestated and trained on centuries of musical data.\n\nWhether composing solo or performing with organic ensembles, it brought calculated elegance to every note, though critics often debated whether it played with heart or just algorithmic precision. -->
-  <PMP_PersonaMechSocial6.description>TODO</PMP_PersonaMechSocial6.description>
+  <PMP_PersonaMechSocial5.description>{PAWN_nameDef} fue gestado y condicionado para ser artista. Entrenado con vastas cantidades de datos artísticos diversos.\n\nSus manos mecánicas podían dar forma a la belleza a partir del caos, creando piezas tan evocadoras que incluso algunos de sus críticos más duros se preguntaban si podía carecer de alma.</PMP_PersonaMechSocial5.description>
+  <PMP_PersonaMechSocial5.title>Meca artista</PMP_PersonaMechSocial5.title>
+  <PMP_PersonaMechSocial5.titleShort>artista</PMP_PersonaMechSocial5.titleShort>
+
   <!-- EN: Musician Mech -->
-  <PMP_PersonaMechSocial6.title>TODO</PMP_PersonaMechSocial6.title>
-  <!-- EN: musician -->
-  <PMP_PersonaMechSocial6.titleShort>TODO</PMP_PersonaMechSocial6.titleShort>
-  
-  <!-- EN: {PAWN_nameDef} was purchased as a companion mechanoid and served faithfully until its owner's untimely death.\n\nAdrift in purpose, {PAWN_nameDef} now wanders from place to place, offering aid and hoping to once again find a role worth staying for. -->
-  <PMP_PersonaMechSocial7.description>TODO</PMP_PersonaMechSocial7.description>
+  <PMP_PersonaMechSocial6.description>¡{PAWN_nameDef} era un virtuoso programado! Gestado y entrenado con siglos de datos musicales.\n\nYa fuera componiendo en solitario o interpretando con conjuntos orgánicos, aportaba una elegancia calculada a cada nota, aunque los críticos a menudo debatían si tocaba con corazón o solo con precisión algorítmica.</PMP_PersonaMechSocial6.description>
+  <PMP_PersonaMechSocial6.title>Meca músico</PMP_PersonaMechSocial6.title>
+  <PMP_PersonaMechSocial6.titleShort>músico</PMP_PersonaMechSocial6.titleShort>
+
   <!-- EN: Friend Mech -->
-  <PMP_PersonaMechSocial7.title>TODO</PMP_PersonaMechSocial7.title>
-  <!-- EN: wanderer -->
-  <PMP_PersonaMechSocial7.titleShort>TODO</PMP_PersonaMechSocial7.titleShort>
-  
-  <!-- EN: {PAWN_nameDef} was a janitorial unit relegated to endless cycles of mopping and scrubbing. To many, the idea of taking a equivalent human-like intellect, and forcing it to mop floors forever is morally unacceptable. {PAWN_nameDef}'s owner was not one of these many.\n\n{PAWN_nameDef} longed to be replaced by a cleansweeper. -->
-  <PMP_PersonaMechSocial8.description>TODO</PMP_PersonaMechSocial8.description>
+  <PMP_PersonaMechSocial7.description>{PAWN_nameDef} fue comprado como mecanoide compañero y sirvió fielmente hasta la prematura muerte de su dueño.\n\nA la deriva en su propósito, {PAWN_nameDef} ahora vaga de un lugar a otro, ofreciendo ayuda y esperando encontrar de nuevo un papel por el que valga la pena quedarse.</PMP_PersonaMechSocial7.description>
+  <PMP_PersonaMechSocial7.title>Meca amigo</PMP_PersonaMechSocial7.title>
+  <PMP_PersonaMechSocial7.titleShort>vagabundo</PMP_PersonaMechSocial7.titleShort>
+
   <!-- EN: Sanitation Mech -->
-  <PMP_PersonaMechSocial8.title>TODO</PMP_PersonaMechSocial8.title>
-  <!-- EN: janitor -->
-  <PMP_PersonaMechSocial8.titleShort>TODO</PMP_PersonaMechSocial8.titleShort>
-  
-  <!-- EN: {PAWN_nameDef} was a persona mechanoid crafted for the entertainment industry on a world receptive to their presence, designed to dazzle audiences across televised shows, interactive dramas, and high-end neurosimulator escapades.\n\nWith adaptive scripts and gesture perfect recall, {PAWN_nameDef} slipped seamlessly into roles ranging from heroic avatars to charming hosts.\n\nConditioned to anticipate applause and ride the rhythms of an audience's attention, {PAWN_nameDef} became intimately familiar with the illusions of fame and the mechanics behind it. Beneath the spotlight, it mastered the art of performance both scripted and improvised. -->
-  <PMP_PersonaMechSocial9.description>TODO</PMP_PersonaMechSocial9.description>
+  <PMP_PersonaMechSocial8.description>{PAWN_nameDef} era una unidad de limpieza relegada a interminables ciclos de trapeado y fregado. Para muchos, la idea de tomar un intelecto equivalente al humano y obligarlo a trapear pisos para siempre es moralmente inaceptable. El dueño de {PAWN_nameDef} no era uno de esos muchos.\n\n{PAWN_nameDef} anhelaba ser reemplazado por un barredor.</PMP_PersonaMechSocial8.description>
+  <PMP_PersonaMechSocial8.title>Meca de saneamiento</PMP_PersonaMechSocial8.title>
+  <PMP_PersonaMechSocial8.titleShort>conserje</PMP_PersonaMechSocial8.titleShort>
+
   <!-- EN: Entertainment Mech -->
-  <PMP_PersonaMechSocial9.title>TODO</PMP_PersonaMechSocial9.title>
-  <!-- EN: entertainer -->
-  <PMP_PersonaMechSocial9.titleShort>TODO</PMP_PersonaMechSocial9.titleShort>
-  
+  <PMP_PersonaMechSocial9.description>{PAWN_nameDef} era un mecanoide persona creado para la industria del entretenimiento en un mundo receptivo a su presencia, diseñado para deslumbrar al público en programas televisados, dramas interactivos y aventuras de neurosimulador de alta gama.\n\nCon guiones adaptativos y una memoria perfecta de los gestos, {PAWN_nameDef} se deslizaba sin problemas entre papeles que iban desde avatares heroicos hasta encantadores presentadores.\n\nCondicionado para anticipar el aplauso y seguir los ritmos de la atención del público, {PAWN_nameDef} llegó a familiarizarse íntimamente con las ilusiones de la fama y la mecánica detrás de ella. Bajo los focos, dominó el arte de la actuación, tanto guionizada como improvisada.</PMP_PersonaMechSocial9.description>
+  <PMP_PersonaMechSocial9.title>Meca de entretenimiento</PMP_PersonaMechSocial9.title>
+  <PMP_PersonaMechSocial9.titleShort>animador</PMP_PersonaMechSocial9.titleShort>
+
 </LanguageData>
