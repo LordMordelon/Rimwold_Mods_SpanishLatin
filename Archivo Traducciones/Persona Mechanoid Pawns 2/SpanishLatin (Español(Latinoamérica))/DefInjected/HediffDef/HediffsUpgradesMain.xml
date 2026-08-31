@@ -27,7 +27,7 @@
   <!-- EN: auxiliary manipulator arm -->
   <PMP_AuxiliaryManipulatorArm.label>brazo manipulador auxiliar</PMP_AuxiliaryManipulatorArm.label>
   <!-- EN: A hadware module manifesting as a cumbersome yet surprisingly dexterous manipulator arm... -->
-  <PMP_AuxiliaryManipulatorArm.description>Un módulo de hardware que se manifiesta como un brazo manipulador voluminoso pero sorprendentemente diestro, integrado directamente en el chasis de un mecanoide persona, diseñado para equilibrar la precisión motora fina con la fuerza requerida para el trabajo rutinario y el mantenimiento.\n\nSus puntas de manipulador sorprendentemente afiladas para corte utilitario rápido, combinadas con su fuerza de carga, le otorgan notables capacidades de combate cuerpo a cuerpo.</PMP_AuxiliaryManipulatorArm.description>
+  <PMP_AuxiliaryManipulatorArm.description>Un módulo de hardware que se manifiesta como un brazo manipulador voluminoso pero sorprendentemente diestro, integrado directamente en el chasis de un mecanoide IA, diseñado para equilibrar la precisión motora fina con la fuerza requerida para el trabajo rutinario y el mantenimiento.\n\nSus puntas de manipulador sorprendentemente afiladas para corte utilitario rápido, combinadas con su fuerza de carga, le otorgan notables capacidades de combate cuerpo a cuerpo.</PMP_AuxiliaryManipulatorArm.description>
   <!-- EN: should tool -->
   <PMP_AuxiliaryManipulatorArm.comps.HediffComp_VerbGiver.tools.should_tool.label>herramienta de hombro</PMP_AuxiliaryManipulatorArm.comps.HediffComp_VerbGiver.tools.should_tool.label>
   <!-- EN: an additional manipulator arm -->
@@ -71,7 +71,7 @@
   <!-- EN: concealed firefoam spewer -->
   <PMP_FirefoampopImplant.label>lanzador de espuma antiincendios oculto</PMP_FirefoampopImplant.label>
   <!-- EN: A firefoam spewer on a persona mechanoid's body... -->
-  <PMP_FirefoampopImplant.description>Un lanzador de espuma antiincendios en el cuerpo de un mecanoide persona, permite la dispersión rápida de espuma antiincendios. Después de disparar, toma aproximadamente 5 días para que el generador de espuma reconstruya pasivamente suficiente material para otro uso.</PMP_FirefoampopImplant.description>
+  <PMP_FirefoampopImplant.description>Un lanzador de espuma antiincendios en el cuerpo de un mecanoide IA, permite la dispersión rápida de espuma antiincendios. Después de disparar, toma aproximadamente 5 días para que el generador de espuma reconstruya pasivamente suficiente material para otro uso.</PMP_FirefoampopImplant.description>
   
   <!-- EN: frame stabilizer -->
   <PMP_FrameStabilizer.label>estabilizador de chasis</PMP_FrameStabilizer.label>
@@ -90,17 +90,17 @@
   <!-- EN: integrated mini-flameblaster -->
   <PMP_IntegratedMiniFlameblaster.label>mini lanzallamas integrado</PMP_IntegratedMiniFlameblaster.label>
   <!-- EN: A hardware module manifesting as concealed yet rapidly deployable mini-flameblaster armament... -->
-  <PMP_IntegratedMiniFlameblaster.description>Un módulo de hardware que se manifiesta como un armamento de mini lanzallamas oculto pero rápidamente desplegable, generalmente solo visto en mecas abrasadores.\n\nInstalado directamente en el chasis del mecanoide persona, puede alternarse utilizando la habilidad asociada, guardando instantáneamente cualquier otra arma integrada o soltando el armamento estándar actual al activarse.</PMP_IntegratedMiniFlameblaster.description>
+  <PMP_IntegratedMiniFlameblaster.description>Un módulo de hardware que se manifiesta como un armamento de mini lanzallamas oculto pero rápidamente desplegable, generalmente solo visto en mecas abrasadores.\n\nInstalado directamente en el chasis del mecanoide IA, puede alternarse utilizando la habilidad asociada, guardando instantáneamente cualquier otra arma integrada o soltando el armamento estándar actual al activarse.</PMP_IntegratedMiniFlameblaster.description>
   
   <!-- EN: integrated thump cannon -->
   <PMP_IntegratedThumpCannon.label>cañón de impacto integrado</PMP_IntegratedThumpCannon.label>
   <!-- EN: A hardware module manifesting as concealed yet rapidly deployable thump cannon armament... -->
-  <PMP_IntegratedThumpCannon.description>Un módulo de hardware que se manifiesta como un armamento de cañón de impacto oculto pero rápidamente desplegable, generalmente solo visto en mecas termita.\n\nInstalado directamente en el chasis del mecanoide persona, puede alternarse utilizando la habilidad asociada, guardando instantáneamente cualquier otra arma integrada o soltando el armamento estándar actual al activarse.</PMP_IntegratedThumpCannon.description>
+  <PMP_IntegratedThumpCannon.description>Un módulo de hardware que se manifiesta como un armamento de cañón de impacto oculto pero rápidamente desplegable, generalmente solo visto en mecas termita.\n\nInstalado directamente en el chasis del mecanoide IA, puede alternarse utilizando la habilidad asociada, guardando instantáneamente cualquier otra arma integrada o soltando el armamento estándar actual al activarse.</PMP_IntegratedThumpCannon.description>
   
   <!-- EN: integrated toxic needle gun -->
   <PMP_IntegratedToxicNeedle.label>arma de agujas tóxicas integrada</PMP_IntegratedToxicNeedle.label>
   <!-- EN: A hardware module manifesting as concealed yet rapidly deployable... -->
-  <PMP_IntegratedToxicNeedle.description>Un módulo de hardware que se manifiesta como un armamento de agujas tóxicas oculto pero rápidamente desplegable, generalmente solo visto en mecas apocritón.\n\nInstalado directamente en el chasis del mecanoide persona, puede alternarse utilizando la habilidad asociada, guardando instantáneamente cualquier otra arma integrada o soltando el armamento estándar actual al activarse.</PMP_IntegratedToxicNeedle.description>
+  <PMP_IntegratedToxicNeedle.description>Un módulo de hardware que se manifiesta como un armamento de agujas tóxicas oculto pero rápidamente desplegable, generalmente solo visto en mecas apocritón.\n\nInstalado directamente en el chasis del mecanoide IA, puede alternarse utilizando la habilidad asociada, guardando instantáneamente cualquier otra arma integrada o soltando el armamento estándar actual al activarse.</PMP_IntegratedToxicNeedle.description>
   
   <!-- EN: joy looper -->
   <PMP_Joylooper.label>bucle de gozo</PMP_Joylooper.label>
@@ -117,7 +117,7 @@
   <!-- EN: inline jump launcher -->
   <PMP_LongjumpMechImplant.label>lanzador de salto en línea</PMP_LongjumpMechImplant.label>
   <!-- EN: A hardware module manifesting as a miniaturized jump launcher... -->
-  <PMP_LongjumpMechImplant.description>Un módulo de hardware que se manifiesta como un lanzador de salto miniaturizado construido directamente en el tórax del mecanoide persona, capaz de lanzar al usuario brevemente a un destino deseado antes de necesitar recargarse.\n\n¡Usa 20% de energía por salto! ¡Fuerza instantáneamente la latencia después de saltar con niveles de energía críticos!</PMP_LongjumpMechImplant.description>
+  <PMP_LongjumpMechImplant.description>Un módulo de hardware que se manifiesta como un lanzador de salto miniaturizado construido directamente en el tórax del mecanoide IA, capaz de lanzar al usuario brevemente a un destino deseado antes de necesitar recargarse.\n\n¡Usa 20% de energía por salto! ¡Fuerza instantáneamente la latencia después de saltar con niveles de energía críticos!</PMP_LongjumpMechImplant.description>
   
   <!-- EN: concealed smokepop vents -->
   <PMP_SmokepopImplant.label>ventilaciones de humo ocultas</PMP_SmokepopImplant.label>
