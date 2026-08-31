@@ -1,8 +1,10 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
     <!-- ITab Labels -->
     <!-- EN: Animal -->
   <AnimalTraits_AnimalTab>Animal</AnimalTraits_AnimalTab>
+    <!-- EN: Bio -->
+  <AnimalTraits_BioTab>Bio</AnimalTraits_BioTab>
     
     <!-- Section Headers -->
     <!-- EN: Identity -->
@@ -31,4 +33,116 @@
   <AnimalTraits_NoStatModifications>Sin modificaciones de estadísticas.</AnimalTraits_NoStatModifications>
     <!-- EN: Open information card -->
   <AnimalTraits_OpenInfoCard>Abrir tarjeta de información</AnimalTraits_OpenInfoCard>
+
+    <!-- Trait Tooltip -->
+    <!-- EN: Inheritance: -->
+  <AnimalTraits_Inheritance>Herencia:</AnimalTraits_Inheritance>
+    <!-- EN: Parents: {0}% chance -->
+  <AnimalTraits_ParentsChance>Padres: {0}% de probabilidad</AnimalTraits_ParentsChance>
+    <!-- EN: Grandparents: {0}% chance -->
+  <AnimalTraits_GrandparentsChance>Abuelos: {0}% de probabilidad</AnimalTraits_GrandparentsChance>
+    <!-- EN: Effects: -->
+  <AnimalTraits_Effects>Efectos:</AnimalTraits_Effects>
+
+    <!-- Genetics Tooltip -->
+    <!-- EN: Inherited Traits (Genetics) -->
+  <AnimalTraits_InheritedTraitsHeader>Rasgos Heredados (Genética)</AnimalTraits_InheritedTraitsHeader>
+    <!-- EN: Parents: -->
+  <AnimalTraits_Parents>Padres:</AnimalTraits_Parents>
+    <!-- EN: Grandparents: -->
+  <AnimalTraits_Grandparents>Abuelos:</AnimalTraits_Grandparents>
+    <!-- EN: Mother -->
+  <AnimalTraits_Mother>Madre</AnimalTraits_Mother>
+    <!-- EN: Father -->
+  <AnimalTraits_Father>Padre</AnimalTraits_Father>
+    <!-- EN: Maternal Grandmother -->
+  <AnimalTraits_MaternalGrandmother>Abuela Materna</AnimalTraits_MaternalGrandmother>
+    <!-- EN: Maternal Grandfather -->
+  <AnimalTraits_MaternalGrandfather>Abuelo Materno</AnimalTraits_MaternalGrandfather>
+    <!-- EN: Paternal Grandmother -->
+  <AnimalTraits_PaternalGrandmother>Abuela Paterna</AnimalTraits_PaternalGrandmother>
+    <!-- EN: Paternal Grandfather -->
+  <AnimalTraits_PaternalGrandfather>Abuelo Paterno</AnimalTraits_PaternalGrandfather>
+    <!-- EN: (Unknown) -->
+  <AnimalTraits_Unknown>(Desconocido)</AnimalTraits_Unknown>
+    <!-- EN: No traits -->
+  <AnimalTraits_NoTraits>Sin rasgos</AnimalTraits_NoTraits>
+    <!-- EN: {0} ({1}% inherit chance) -->
+  <AnimalTraits_InheritChanceEntry>{0} ({1}% de probabilidad de herencia)</AnimalTraits_InheritChanceEntry>
+    <!-- EN: {0} (not inheritable) -->
+  <AnimalTraits_NotInheritable>{0} (no heredable)</AnimalTraits_NotInheritable>
+    <!-- EN: No inheritable traits from parents or grandparents. -->
+  <AnimalTraits_NoAncestorTraits>Sin rasgos heredables de padres o abuelos.</AnimalTraits_NoAncestorTraits>
+
+    <!-- Spare Traits Column -->
+    <!-- EN: Click to configure trait-based auto-slaughter rules.\n\nSpare traits: animals with them show a shield icon and cannot be auto-slaughtered.\nCull traits: animals with them show a slaughter icon and are automatically marked for slaughter. -->
+  <AnimalTraits_SpareTraitsHeaderTip>Haz clic para configurar reglas de sacrificio automático basadas en rasgos.\n\nRasgos para conservar: los animales con estos rasgos muestran un ícono de escudo y no pueden ser sacrificados automáticamente.\nRasgos para sacrificar: los animales con estos rasgos muestran un ícono de sacrificio y son marcados automáticamente para el sacrificio.</AnimalTraits_SpareTraitsHeaderTip>
+    <!-- EN: Protected from slaughter due to traits: -->
+  <AnimalTraits_ProtectedFromSlaughter>Protegido del sacrificio por sus rasgos:</AnimalTraits_ProtectedFromSlaughter>
+
+    <!-- Trait Notifications -->
+    <!-- EN: Special animal: {0} -->
+  <AnimalTraits_NotifyLetterLabel>Animal especial: {0}</AnimalTraits_NotifyLetterLabel>
+    <!-- EN: {0} was born with notable trait(s):\n\n{1} -->
+  <AnimalTraits_NotifyLetterTextBorn>{0} nació con rasgo(s) notables:\n\n{1}</AnimalTraits_NotifyLetterTextBorn>
+    <!-- EN: {0} was acquired with notable trait(s):\n\n{1} -->
+  <AnimalTraits_NotifyLetterTextAcquired>{0} fue adquirido con rasgo(s) notables:\n\n{1}</AnimalTraits_NotifyLetterTextAcquired>
+    <!-- EN: {0} was born with trait(s): {1}. -->
+  <AnimalTraits_NotifyMessageBorn>{0} nació con rasgo(s): {1}.</AnimalTraits_NotifyMessageBorn>
+    <!-- EN: {0} was acquired with trait(s): {1}. -->
+  <AnimalTraits_NotifyMessageAcquired>{0} fue adquirido con rasgo(s): {1}.</AnimalTraits_NotifyMessageAcquired>
+
+    <!-- Trade Window -->
+    <!-- EN: Animal traits -->
+  <AnimalTraits_TradeTraitsTip>Rasgos del animal</AnimalTraits_TradeTraitsTip>
+
+    <!-- Trait Selection Dialogs -->
+    <!-- EN: Select Traits to Spare from Slaughter -->
+  <AnimalTraits_SpareDialogTitle>Seleccionar Rasgos para Conservar del Sacrificio</AnimalTraits_SpareDialogTitle>
+    <!-- EN: Animals with any of the selected traits will be protected from auto-slaughter.\nThis applies to all tamed animals in your colony. -->
+  <AnimalTraits_SpareDialogDesc>Los animales con cualquiera de los rasgos seleccionados estarán protegidos del sacrificio automático.\nEsto aplica a todos los animales domesticados en tu colonia.</AnimalTraits_SpareDialogDesc>
+    <!-- EN: Select Traits to Cull -->
+  <AnimalTraits_CullDialogTitle>Seleccionar Rasgos para Sacrificar</AnimalTraits_CullDialogTitle>
+    <!-- EN: Animals with any of the selected traits will be automatically marked for slaughter.\nTraits configured to spare animals take precedence over culling. -->
+  <AnimalTraits_CullDialogDesc>Los animales con cualquiera de los rasgos seleccionados serán marcados automáticamente para el sacrificio.\nLos rasgos configurados para conservar tienen prioridad sobre el sacrificio.</AnimalTraits_CullDialogDesc>
+    <!-- EN: Configure spare traits... -->
+  <AnimalTraits_ConfigureSpareTraits>Configurar rasgos para conservar...</AnimalTraits_ConfigureSpareTraits>
+    <!-- EN: Configure cull traits... -->
+  <AnimalTraits_ConfigureCullTraits>Configurar rasgos para sacrificar...</AnimalTraits_ConfigureCullTraits>
+    <!-- EN: Marked for culling due to traits: -->
+  <AnimalTraits_MarkedForCull>Marcado para sacrificio por sus rasgos:</AnimalTraits_MarkedForCull>
+    <!-- EN: All -->
+  <AnimalTraits_FilterAll>Todos</AnimalTraits_FilterAll>
+    <!-- EN: Good -->
+  <AnimalTraits_FilterGood>Buenos</AnimalTraits_FilterGood>
+    <!-- EN: Bad -->
+  <AnimalTraits_FilterBad>Malos</AnimalTraits_FilterBad>
+    <!-- EN: Selected -->
+  <AnimalTraits_FilterSelected>Seleccionados</AnimalTraits_FilterSelected>
+    <!-- EN: Configured -->
+  <AnimalTraits_FilterConfigured>Configurados</AnimalTraits_FilterConfigured>
+    <!-- EN: Select All Good -->
+  <AnimalTraits_SelectAllGood>Seleccionar Todos los Buenos</AnimalTraits_SelectAllGood>
+    <!-- EN: Select All Bad -->
+  <AnimalTraits_SelectAllBad>Seleccionar Todos los Malos</AnimalTraits_SelectAllBad>
+    <!-- EN: Clear All -->
+  <AnimalTraits_ClearAll>Limpiar Todo</AnimalTraits_ClearAll>
+    <!-- EN: Selected: {0} traits ({1} good, {2} bad) -->
+  <AnimalTraits_SelectionSummary>Seleccionados: {0} rasgos ({1} buenos, {2} malos)</AnimalTraits_SelectionSummary>
+    <!-- EN: (good) -->
+  <AnimalTraits_GoodSuffix>(bueno)</AnimalTraits_GoodSuffix>
+    <!-- EN: (bad) -->
+  <AnimalTraits_BadSuffix>(malo)</AnimalTraits_BadSuffix>
+
+    <!-- Notifications Dialog -->
+    <!-- EN: Configure Trait Notifications -->
+  <AnimalTraits_NotificationsDialogTitle>Configurar Notificaciones de Rasgos</AnimalTraits_NotificationsDialogTitle>
+    <!-- EN: Choose how to be notified when an animal is born or acquired with a trait.\nMessage = top-left popup. Letter = envelope on the right side of the screen. -->
+  <AnimalTraits_NotificationsDialogDesc>Elige cómo ser notificado cuando un animal nace o es adquirido con un rasgo.\nMensaje = ventana emergente arriba a la izquierda. Carta = sobre en el lado derecho de la pantalla.</AnimalTraits_NotificationsDialogDesc>
+    <!-- EN: None -->
+  <AnimalTraits_NotifyTypeNone>Ninguno</AnimalTraits_NotifyTypeNone>
+    <!-- EN: Message -->
+  <AnimalTraits_NotifyTypeMessage>Mensaje</AnimalTraits_NotifyTypeMessage>
+    <!-- EN: Letter -->
+  <AnimalTraits_NotifyTypeLetter>Carta</AnimalTraits_NotifyTypeLetter>
 </LanguageData>
