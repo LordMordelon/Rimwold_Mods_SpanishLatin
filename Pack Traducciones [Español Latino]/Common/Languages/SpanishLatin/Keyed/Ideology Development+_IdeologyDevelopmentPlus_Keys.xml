@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <IDP_AddedMemes>Memes añadidos: {0}</IDP_AddedMemes>
+  <IDP_BaseCost>Costo base: {0}</IDP_BaseCost>
+  <IDP_BaseCostCapped>Costo base limitado a {0}</IDP_BaseCostCapped>
+  <IDP_BelieverCountCost>Costo por cantidad de creyentes: {0}</IDP_BelieverCountCost>
+  <IDP_Believers> creyentes)</IDP_Believers>
+  <IDP_ConfirmChanges>¿Deseas aplicar los cambios?</IDP_ConfirmChanges>
+  <IDP_CostAdded> añadido: {0}</IDP_CostAdded>
+  <IDP_CostRemoved> eliminado: {0}</IDP_CostRemoved>
+  <IDP_DebugMode>Modo de depuración</IDP_DebugMode>
+  <IDP_DebugMode_Tooltip>Registro detallado, necesario para reportar errores.</IDP_DebugMode_Tooltip>
+  <IDP_DevPointsMultiplier>Multiplicador de puntos de desarrollo: {0}</IDP_DevPointsMultiplier>
+  <IDP_DevPointsMultiplier_Tooltip>Los puntos de desarrollo adquiridos se multiplican por este valor (predeterminado: {0}).</IDP_DevPointsMultiplier_Tooltip>
+  <IDP_ErrorPatching>Error al parchear {0}.</IDP_ErrorPatching>
+  <IDP_Factions> facciones)</IDP_Factions>
+  <IDP_IdeologyRequired>¡El DLC Ideology es requerido para Ideology Development+!</IDP_IdeologyRequired>
+  <IDP_IssueChanged>{0} cambiado: {1}</IDP_IssueChanged>
+  <IDP_IssueCost>Costo de asunto: {0}</IDP_IssueCost>
+  <IDP_IssueCost_Tooltip>Cuántos puntos de desarrollo cuesta añadir o quitar un precepto, escalado con el impacto de juego del precepto (predeterminado: {0}).</IDP_IssueCost_Tooltip>
+  <IDP_LikemindedFactionsCost>Costo por facciones afines: {0}</IDP_LikemindedFactionsCost>
+  <IDP_MakeFluid>Hacer fluida</IDP_MakeFluid>
+  <IDP_MakeIdeoFluid>Hacer ideoligión fluida</IDP_MakeIdeoFluid>
+  <IDP_MemeCostPerImpact>Costo de meme por impacto: {0}</IDP_MemeCostPerImpact>
+  <IDP_MemeCostPerImpact_Tooltip>Cuántos puntos de desarrollo cuesta añadir o quitar un meme por nivel de impacto (predeterminado: {0}).</IDP_MemeCostPerImpact_Tooltip>
+  <IDP_MemeImpactFormat>{0} (impacto {1})</IDP_MemeImpactFormat>
+  <IDP_New> *nuevo*</IDP_New>
+  <IDP_OfferToMakeIdeoFluid>Ofrecer hacer la ideoligión fluida</IDP_OfferToMakeIdeoFluid>
+  <IDP_OfferToMakeIdeoFluid_Tooltip>Si la ideoligión actual del jugador no es fluida, muestra una ventana ofreciendo hacerla fluida. ID+ no tiene efecto en ideoligiones no fluidas.</IDP_OfferToMakeIdeoFluid_Tooltip>
+  <IDP_Points>Puntos: {0}</IDP_Points>
+  <IDP_PreceptChangeCost>Costo de cambio de preceptos: {0}</IDP_PreceptChangeCost>
+  <IDP_PreceptCost>Costo de precepto: {0}</IDP_PreceptCost>
+  <IDP_PreceptsAddedRemoved>{0} preceptos añadidos, {1} eliminados.</IDP_PreceptsAddedRemoved>
+  <IDP_PreviousReforms> reformas anteriores)</IDP_PreviousReforms>
+  <IDP_RandomizePrecepts>Modo de preceptos sorpresa</IDP_RandomizePrecepts>
+  <IDP_RandomizePrecepts_Tooltip>En el modo de preceptos sorpresa, tus preceptos se generan aleatoriamente en base a los memes elegidos. No puedes establecerlos ni previsualizarlos manualmente, pero no cuestan puntos de desarrollo. Si no estás conforme con los preceptos, tendrás que reformar otra vez. Puedes desactivar el modo de preceptos sorpresa en los ajustes de ID+.</IDP_RandomizePrecepts_Tooltip>
+  <IDP_ReformCostIncrement>Incremento del costo de reforma: {0}</IDP_ReformCostIncrement>
+  <IDP_ReformCostIncrement_Tooltip>El costo de una reforma se incrementa en esta cantidad después de cada reforma (predeterminado: {0}).</IDP_ReformCostIncrement_Tooltip>
+  <IDP_ReformCostMax>Costo base máximo de reforma: {0}</IDP_ReformCostMax>
+  <IDP_ReformCostMax_Tooltip>Costo base máximo de una reforma (predeterminado: {0}).</IDP_ReformCostMax_Tooltip>
+  <IDP_ReformCostPerBeliever>Incremento del costo base por colono creyente: {0}</IDP_ReformCostPerBeliever>
+  <IDP_ReformCostPerBeliever_Tooltip>El costo de una reforma se incrementa con la cantidad de creyentes entre tus colonos (predeterminado: {0}).</IDP_ReformCostPerBeliever_Tooltip>
+  <IDP_ReformCostPerFaction>Incremento del costo base por facción afín: {0}</IDP_ReformCostPerFaction>
+  <IDP_ReformCostPerFaction_Tooltip>El costo de una reforma se incrementa con la cantidad de facciones extranjeras que siguen esta ideoligión (predeterminado: {0}).</IDP_ReformCostPerFaction_Tooltip>
+  <IDP_ReformCostStart>Costo base de la primera reforma: {0}</IDP_ReformCostStart>
+  <IDP_ReformCostStart_Tooltip>Cuántos puntos de desarrollo se necesitan para la primera reforma (predeterminado: {0}).</IDP_ReformCostStart_Tooltip>
+  <IDP_ReformCountCost>Costo por cantidad de reformas: {0}</IDP_ReformCountCost>
+  <IDP_Removed> *eliminado*</IDP_Removed>
+  <IDP_RemovedMemes>Memes eliminados: {0}</IDP_RemovedMemes>
+  <IDP_TotalCost>Total de puntos de desarrollo requeridos para la reforma: {0}</IDP_TotalCost>
+</LanguageData>
