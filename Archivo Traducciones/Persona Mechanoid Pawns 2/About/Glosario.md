@@ -33,7 +33,8 @@ Ante un término nuevo del juego que no esté aquí, consultar antes de fijarlo.
 | archotech | **arqueotéc** | Femenino: "la arqueotéc", "las arqueotéc". Como adjetivo, invariable: "brazo arqueotéc". NO "archotec" ni "arcotecnológico" |
 | (toxic) waste pack | pack de residuos (tóxicos) | NO "paquete" |
 | hauler | transportista | NO "acarreador" |
-| pawn | colono | |
+| pawn / colonist | colono | NO "colonista" |
+| ship chunk | escombro de nave | |
 | ghoul | necrófago | NO "caminante" |
 | shambler | caminante | |
 | devilstrand | hilodiablo | |
