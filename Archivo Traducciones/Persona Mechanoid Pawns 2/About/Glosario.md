@@ -35,6 +35,8 @@ Ante un término nuevo del juego que no esté aquí, consultar antes de fijarlo.
 | hauler | transportista | NO "acarreador" |
 | pawn / colonist | colono | NO "colonista" |
 | ship chunk | escombro de nave | |
+| casing (carcasa exterior del meca) | **chasis** | Etiquetas cortas: "chasis blanco", "chasis dorado", "chasis reforzado"… |
+| frame (estructura del meca) | estructura | "frame stabilizer" → estabilizador de estructura |
 | ghoul | necrófago | NO "caminante" |
 | shambler | caminante | |
 | devilstrand | hilodiablo | |
