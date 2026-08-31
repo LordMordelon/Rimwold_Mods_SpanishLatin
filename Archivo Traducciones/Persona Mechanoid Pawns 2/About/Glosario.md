@@ -27,6 +27,8 @@ Ante un término nuevo del juego que no esté aquí, consultar antes de fijarlo.
 | war mech | meca de guerra | |
 | labor mech | meca de trabajo | |
 | mech gestator | gestador de mecas | |
+| (mech) recharger / charger | **cargador** (de mecas) | NO "recargador"; el proceso/verbo sí es "recarga"/"recargar" |
+| mech cluster | clúster mecanoide | |
 | persona mech gestator | gestador de mecas IA | (plural) |
 | psylink | **psicoenlace** | NO "psienlace" |
 | psylink neuroformer / psychic amplifier | neuroformador de psicoenlace | |
