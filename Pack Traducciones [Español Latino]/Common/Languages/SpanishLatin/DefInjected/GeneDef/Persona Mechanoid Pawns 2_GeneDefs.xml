@@ -1,84 +1,35 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <LanguageData>
-
-  <!-- EN: fat frame -->
-  <PMP_Body_Fat.label>estructura gruesa</PMP_Body_Fat.label>
-  <!-- EN: The frame of this mechanoid has a distinctive rotundness. -->
   <PMP_Body_Fat.description>La estructura de este mecanoide tiene una redondez distintiva.</PMP_Body_Fat.description>
-
-  <!-- EN: gynoid frame -->
-  <PMP_Body_Female.label>estructura ginoide</PMP_Body_Female.label>
-  <!-- EN: The frame of this mechanoid is of standard proportions, with a more feminine finish. -->
+  <PMP_Body_Fat.label>estructura gruesa</PMP_Body_Fat.label>
   <PMP_Body_Female.description>La estructura de este mecanoide tiene proporciones estándar, con un acabado más femenino.</PMP_Body_Female.description>
-
-  <!-- EN: hulk frame -->
-  <PMP_Body_Hulk.label>estructura mole</PMP_Body_Hulk.label>
-  <!-- EN: The frame of this mechanoid is distinctively bulky. -->
+  <PMP_Body_Female.label>estructura ginoide</PMP_Body_Female.label>
   <PMP_Body_Hulk.description>La estructura de este mecanoide es distintivamente corpulenta.</PMP_Body_Hulk.description>
-
-  <!-- EN: standard frame -->
-  <PMP_Body_Male.label>estructura estándar</PMP_Body_Male.label>
-  <!-- EN: The frame of this mechanoid is of standard proportions. -->
+  <PMP_Body_Hulk.label>estructura mole</PMP_Body_Hulk.label>
   <PMP_Body_Male.description>La estructura de este mecanoide tiene proporciones estándar.</PMP_Body_Male.description>
-
-  <!-- EN: thin frame -->
-  <PMP_Body_Thin.label>estructura delgada</PMP_Body_Thin.label>
-  <!-- EN: The frame of this mechanoid is distinctively thin -->
+  <PMP_Body_Male.label>estructura estándar</PMP_Body_Male.label>
   <PMP_Body_Thin.description>La estructura de este mecanoide es distintivamente delgada.</PMP_Body_Thin.description>
-
-  <!-- EN: aged casing -->
-  <PMP_ColorAged.label>carcasa envejecida</PMP_ColorAged.label>
-  <!-- EN: The outer shell of this mechanoid is aged and discolored.\n\nEither intentionally or due to age related misconfigurations the refurbishment mechanite subroutines keep it this color. -->
+  <PMP_Body_Thin.label>estructura delgada</PMP_Body_Thin.label>
   <PMP_ColorAged.description>El caparazón exterior de este mecanoide está envejecido y descolorido.\n\nYa sea de forma intencionada o debido a errores de configuración relacionados con la edad, las subrutinas de mecanitas de restauración lo mantienen de este color.</PMP_ColorAged.description>
-
-  <!-- EN: dark metal colored casing -->
-  <PMP_ColorDarkMetal.label>carcasa de color metal oscuro</PMP_ColorDarkMetal.label>
-  <!-- EN: The outer shell of this mechanoid has a metallic-like reflective quality to it and a dark gray coloration.\n\nRefurbishment mechanite subroutines keep it appropriately colored regardless of age. -->
+  <PMP_ColorAged.label>carcasa envejecida</PMP_ColorAged.label>
   <PMP_ColorDarkMetal.description>El caparazón exterior de este mecanoide tiene una cualidad reflectante similar al metal y una coloración gris oscuro.\n\nLas subrutinas de mecanitas de restauración lo mantienen del color adecuado sin importar su edad.</PMP_ColorDarkMetal.description>
-
-  <!-- EN: fresh white casing -->
-  <PMP_ColorFreshWhite.label>carcasa blanca reluciente</PMP_ColorFreshWhite.label>
-  <!-- EN: The outer shell of this mechanoid is a fresh white coloration.\n\nRefurbishment mechanite subroutines keep it pristine regardless of age. -->
+  <PMP_ColorDarkMetal.label>carcasa de color metal oscuro</PMP_ColorDarkMetal.label>
   <PMP_ColorFreshWhite.description>El caparazón exterior de este mecanoide tiene una coloración blanca reluciente.\n\nLas subrutinas de mecanitas de restauración lo mantienen impecable sin importar su edad.</PMP_ColorFreshWhite.description>
-
-  <!-- EN: Light casing -->
-  <PMP_ColorLight.label>carcasa clara</PMP_ColorLight.label>
-  <!-- EN: The outer shell of this mechanoid is a light white coloration.\n\nRefurbishment mechanite subroutines keep it appropriately colored regardless of age. -->
+  <PMP_ColorFreshWhite.label>carcasa blanca reluciente</PMP_ColorFreshWhite.label>
   <PMP_ColorLight.description>El caparazón exterior de este mecanoide tiene una coloración blanca clara.\n\nLas subrutinas de mecanitas de restauración lo mantienen del color adecuado sin importar su edad.</PMP_ColorLight.description>
-
-  <!-- EN: metal colored casing -->
-  <PMP_ColorMetal.label>carcasa de color metal</PMP_ColorMetal.label>
-  <!-- EN: The outer shell of this mechanoid has a metallic-like reflective quality to it and a gray coloration.\n\nRefurbishment mechanite subroutines keep it appropriately colored regardless of age. -->
+  <PMP_ColorLight.label>carcasa clara</PMP_ColorLight.label>
   <PMP_ColorMetal.description>El caparazón exterior de este mecanoide tiene una cualidad reflectante similar al metal y una coloración gris.\n\nLas subrutinas de mecanitas de restauración lo mantienen del color adecuado sin importar su edad.</PMP_ColorMetal.description>
-
-  <!-- EN: industiral casing -->
-  <PMP_ColorModdedMechBrown.label>carcasa industrial</PMP_ColorModdedMechBrown.label>
-  <!-- EN: The outer shell of this mechanoid is a brown casing coloration, visually hearkening back to simpler "drone" class robotics.\n\nRefurbishment mechanite subroutines keep it this color regardless of age. -->
+  <PMP_ColorMetal.label>carcasa de color metal</PMP_ColorMetal.label>
   <PMP_ColorModdedMechBrown.description>El caparazón exterior de este mecanoide tiene una coloración marrón, que visualmente evoca a la robótica más simple de clase "dron".\n\nLas subrutinas de mecanitas de restauración lo mantienen de este color sin importar su edad.</PMP_ColorModdedMechBrown.description>
-
-  <!-- EN: offset colored casing -->
-  <PMP_ColorOffset.label>carcasa de color contrastante</PMP_ColorOffset.label>
-  <!-- EN: The outer shell of this mechanoid is an offset casing coloration.\n\nRefurbishment mechanite subroutines keep it appropriately colored regardless of age. -->
+  <PMP_ColorModdedMechBrown.label>carcasa industrial</PMP_ColorModdedMechBrown.label>
   <PMP_ColorOffset.description>El caparazón exterior de este mecanoide tiene una coloración de carcasa contrastante.\n\nLas subrutinas de mecanitas de restauración lo mantienen del color adecuado sin importar su edad.</PMP_ColorOffset.description>
-
-  <!-- EN: white casing -->
-  <PMP_ColorWhite.label>carcasa blanca</PMP_ColorWhite.label>
-  <!-- EN: The outer shell of this mechanoid is a white coloration.\n\nRefurbishment mechanite subroutines keep it appropriately colored regardless of age. -->
+  <PMP_ColorOffset.label>carcasa de color contrastante</PMP_ColorOffset.label>
   <PMP_ColorWhite.description>El caparazón exterior de este mecanoide tiene una coloración blanca.\n\nLas subrutinas de mecanitas de restauración lo mantienen del color adecuado sin importar su edad.</PMP_ColorWhite.description>
-
-  <!-- EN: mechanoid appearance -->
+  <PMP_ColorWhite.label>carcasa blanca</PMP_ColorWhite.label>
+  <PMP_MechanoidAppearance.description>Este colono tiene una apariencia claramente mecanoide, y es muy evidente que es de naturaleza robótica.\n\nNota: &lt;color=#f1ce02&gt;Este gen asignará automáticamente otros durante la creación del colono.&lt;/color&gt;</PMP_MechanoidAppearance.description>
   <PMP_MechanoidAppearance.label>apariencia mecanoide</PMP_MechanoidAppearance.label>
-  <!-- EN: This pawn has a distinctly mechanoid appearance, and is very obviously of a robotic nature.\n\nNote: <color=#f1ce02>This gene will automatically assign others during pawn creation.</color> -->
-  <PMP_MechanoidAppearance.description>Este colono tiene una apariencia claramente mecanoide, y es muy evidente que es de naturaleza robótica.\n\nNota: <color=#f1ce02>Este gen asignará automáticamente otros durante la creación del colono.</color></PMP_MechanoidAppearance.description>
-
-  <!-- EN: casing accent -->
+  <PMP_PersonaAccent.description>Un marcador cosmético similar a los distintivos de lealtad de los mecanoides estándar; la mayoría de las personas tienden a mantener esta función desactivada, mientras que otras se distinguen con el color de su facción o su color favorito.\n\nNota: &lt;color=#f1ce02&gt;Este gen determinará automáticamente si aplica como acento el color favorito del colono, el color de su facción, o si se elimina a sí mismo al aplicarse.\n\nSin el DLC Ideology activo, los colores favoritos no estarán disponibles.&lt;/color&gt;</PMP_PersonaAccent.description>
   <PMP_PersonaAccent.label>acento de carcasa</PMP_PersonaAccent.label>
-  <!-- EN: A cosmetic marker alike to allegiance overlays in standard mechanoids, most personae tend to keep this functionality disabled while others brand themselves in their faction or favorite color.\n\nNote: <color=#f1ce02>This gene will automatically roll to either apply the favorite color of the pawn as the accent, their faction color, or delete itself on application.\n\nWithout the Ideology DLC active, favorite colors will not be available.</color> -->
-  <PMP_PersonaAccent.description>Un marcador cosmético similar a los distintivos de lealtad de los mecanoides estándar; la mayoría de las personas tienden a mantener esta función desactivada, mientras que otras se distinguen con el color de su facción o su color favorito.\n\nNota: <color=#f1ce02>Este gen determinará automáticamente si aplica como acento el color favorito del colono, el color de su facción, o si se elimina a sí mismo al aplicarse.\n\nSin el DLC Ideology activo, los colores favoritos no estarán disponibles.</color></PMP_PersonaAccent.description>
-
-  <!-- EN: AI-Persona mechanoid -->
+  <PMP_PersonaMechanoid.description>Este colono es un mecanoide persona.\n\nNota: &lt;color=#f1ce02&gt;Este gen asignará automáticamente otros durante la creación del colono.&lt;/color&gt;</PMP_PersonaMechanoid.description>
   <PMP_PersonaMechanoid.label>mecanoide IA-persona</PMP_PersonaMechanoid.label>
-  <!-- EN: This pawn is a persona mechanoid.\n\nNote: <color=#f1ce02>This gene will automatically assign others during pawn creation.</color> -->
-  <PMP_PersonaMechanoid.description>Este colono es un mecanoide persona.\n\nNota: <color=#f1ce02>Este gen asignará automáticamente otros durante la creación del colono.</color></PMP_PersonaMechanoid.description>
-
 </LanguageData>
