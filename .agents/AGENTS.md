@@ -186,3 +186,4 @@ Carpetas de salida:
 - **Búsqueda (única excepción):** Se permite el uso de herramientas de búsqueda (`grep_search`) exclusivamente para localizar etiquetas `TODO` o verificar términos pendientes en el proyecto. `grep_search` es solo lectura — nunca modifica archivos.
 - **Preservación de estructura:** Mantén intacta la estructura XML, las etiquetas, los comentarios originales en inglés (`<!-- EN: ... -->`) y la codificación `UTF-8`.
 - **Reemplazo exacto:** Sustituye únicamente los placeholders (`TODO`) por la traducción correspondiente en Español Latino, cuidando la coherencia terminológica del juego.
+- **Especificadores de color:** Al traducir texto que contiene especificadores de color de RimWorld, escribe las etiquetas con ambos símbolos escapados: `&lt;` en lugar de `<` y `&gt;` en lugar de `>`. Ejemplo: `&lt;color=#RRGGBB&gt;texto&lt;/color&gt;`. Traduce solo el texto interior; nunca alteres el valor del color ni la estructura de la etiqueta.
