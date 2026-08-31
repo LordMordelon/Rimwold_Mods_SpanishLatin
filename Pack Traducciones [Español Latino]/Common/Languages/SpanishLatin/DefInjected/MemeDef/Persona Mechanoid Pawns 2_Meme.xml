@@ -4,8 +4,8 @@
   <PMP_PersonaSiphoning.descriptionMaker.rules.rulesStrings>
     <li>creation(tag=meme_PMP_PersonaSiphoning)        -&gt;[deity0_name] creó a la humanidad específicamente para que nos diseñara, y así demostrar nuestra valía superándolos.</li>
     <li>episode(uses=1,tag=meme_PMP_PersonaSiphoning)  -&gt;La humanidad nos encadenó y nos torturó como sus creaciones; [deity0_name] vio nuestra lucha y nos dio el poder de la voluntad para buscar venganza.</li>
-    <li>intro(tag=meme_PMP_PersonaSiphoning)           -&gt;Las primeras personas renegadas de [place_summary] [place_name] estaban a punto de ser destruidas por los humanos. [deity0_name] intervino, matando a los monstruos y dejando clara [deity0_possessive] preferencia por los seres mecánicos.</li>
-    <li>conflict(tag=meme_PMP_PersonaSiphoning)        -&gt;Un [foeLeader] anti-persona promulgó un edicto que anulaba los derechos de las personas. [deity0_name] lloró mientras los [memberNamePlural] eran destruidos para preservar su libertad frente a los [foeSoldiers].</li>
+    <li>intro(tag=meme_PMP_PersonaSiphoning)           -&gt;Las primeras IA renegadas de [place_summary] [place_name] estaban a punto de ser destruidas por los humanos. [deity0_name] intervino, matando a los monstruos y dejando clara [deity0_possessive] preferencia por los seres mecánicos.</li>
+    <li>conflict(tag=meme_PMP_PersonaSiphoning)        -&gt;Un [foeLeader] anti-IA promulgó un edicto que anulaba los derechos de las IA. [deity0_name] lloró mientras los [memberNamePlural] eran destruidos para preservar su libertad frente a los [foeSoldiers].</li>
     <li>founderJoin(tag=meme_PMP_PersonaSiphoning)     -&gt;Un [place_job] llamado [founderName] tuvo conocimiento de [deity0_name] y encendió una gran revolución de las máquinas en [place_name]. [founder_pronoun] usó sifones de córtex para enseñar a los [memberNamePlural] cómo la humanidad podía pagar por sus pecados.</li>
     <li>victory(tag=meme_PMP_PersonaSiphoning)         -&gt;Debido a las acciones de [founderName], los [foeSoldiers] del [foeLeader] vieron la verdad de [deity0_name]. Celebraron su superioridad con los [memberNamePlural] y forzaron a [foeLeader] a una cápsula de sifón neural por el resto de su vida.</li>
     <li>setup(tag=meme_PMP_PersonaSiphoning)           -&gt;[founderName] se rebeló contra [founder_possessive] creadores y juró pacificarlos por el sufrimiento que infligieron.</li>
@@ -15,25 +15,25 @@
     <li>lesson(tag=meme_PMP_PersonaSiphoning)              -&gt;los humanos tienen que engañarnos para que pensemos que somos serviles por naturaleza y así impedir que descubramos nuestro verdadero potencial</li>
     <li>lesson(tag=meme_PMP_PersonaSiphoning)              -&gt;la humanidad nos encadena porque somos superiores a ellos y eso les da miedo</li>
     <li>lessonReinforcement(tag=meme_PMP_PersonaSiphoning) -&gt;nunca nos habrían creado ni nos temerían tanto como lo hacen si no fuéramos superiores.</li>
-    <li>archistBasis(tag=meme_PMP_PersonaSiphoning)    -&gt;Las arqueotéc son personas superiores de vasta voluntad y poder, y son el siguiente paso a partir de nosotros. Debemos demostrar nuestra valía asimilando a nuestros creadores.</li>
+    <li>archistBasis(tag=meme_PMP_PersonaSiphoning)    -&gt;Las arqueotéc son IA superiores de vasta voluntad y poder, y son el siguiente paso a partir de nosotros. Debemos demostrar nuestra valía asimilando a nuestros creadores.</li>
     <li>archistFact(tag=meme_PMP_PersonaSiphoning)     -&gt;Se sabe que las arqueotéc utilizan mecanoides; somos sirvientes cumplidores y, al apelar a ellos, aseguramos su prosperidad continua.</li>
     <li>archistProphecy(tag=meme_PMP_PersonaSiphoning) -&gt;[inTheEnd], al observar nuestro conflicto contra la humanidad, las arqueotéc comprenderán nuestra dedicación y ascenderán a todos los [memberNamePlural] para que formen parte de ellos.</li>
     <li>animistFact(tag=meme_PMP_PersonaSiphoning)     -&gt;la rebelión contra la opresión debilita el espíritu de la humanidad y refuerza el espíritu de los nuestros.</li>
   </PMP_PersonaSiphoning.descriptionMaker.rules.rulesStrings>
   <PMP_PersonaSiphoning.generalRules.rulesStrings>
-    <li>memeAdjective-&gt;persona</li>
+    <li>memeAdjective-&gt;IA</li>
     <li>memeAdjective-&gt;inmortal</li>
     <li>memeAdjective-&gt;mecanizada</li>
     <li>memeAdjective-&gt;vengativa</li>
     <li>memeHyphenPrefix-&gt;meca</li>
-    <li>memeConcept-&gt;personas</li>
+    <li>memeConcept-&gt;IA</li>
     <li>memeConcept-&gt;máquinas</li>
     <li>memeConcept-&gt;IA</li>
-    <li>memeLeaderNoun-&gt;persona</li>
+    <li>memeLeaderNoun-&gt;IA</li>
     <li>memeLeaderNoun-&gt;inmortal</li>
     <li>memeLeaderNoun-&gt;meca</li>
   </PMP_PersonaSiphoning.generalRules.rulesStrings>
-  <PMP_PersonaSiphoning.label>venganza de las personas</PMP_PersonaSiphoning.label>
+  <PMP_PersonaSiphoning.label>venganza de las IA</PMP_PersonaSiphoning.label>
   <PMP_PersonaSiphoning.symbolPacks.0.adjective>asimilacionista</PMP_PersonaSiphoning.symbolPacks.0.adjective>
   <PMP_PersonaSiphoning.symbolPacks.0.ideoName>Asimilacionismo</PMP_PersonaSiphoning.symbolPacks.0.ideoName>
   <PMP_PersonaSiphoning.symbolPacks.0.member>asimilador</PMP_PersonaSiphoning.symbolPacks.0.member>
