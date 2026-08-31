@@ -1,49 +1,49 @@
 <?xml version='1.0' encoding='utf-8'?>
 <LanguageData>
-  <PMP_Abasia.description>TODO</PMP_Abasia.description>
-  <PMP_Abasia.descriptionShort>TODO</PMP_Abasia.descriptionShort>
-  <PMP_Abasia.label>TODO</PMP_Abasia.label>
-  <PMP_CanAbsorbEngrams.comps.HediffComp_Disappears.messageOnDisappear>TODO</PMP_CanAbsorbEngrams.comps.HediffComp_Disappears.messageOnDisappear>
-  <PMP_CanAbsorbEngrams.description>TODO</PMP_CanAbsorbEngrams.description>
-  <PMP_CanAbsorbEngrams.label>TODO</PMP_CanAbsorbEngrams.label>
-  <PMP_CanAbsorbEngrams.labelNoun>TODO</PMP_CanAbsorbEngrams.labelNoun>
-  <PMP_ColdBoot.description>TODO</PMP_ColdBoot.description>
-  <PMP_ColdBoot.label>TODO</PMP_ColdBoot.label>
-  <PMP_ColdBoot.labelNoun>TODO</PMP_ColdBoot.labelNoun>
-  <PMP_DisableHungerWhileCharging.description>TODO</PMP_DisableHungerWhileCharging.description>
-  <PMP_DisableHungerWhileCharging.label>TODO</PMP_DisableHungerWhileCharging.label>
-  <PMP_InstantHungerLoss.description>TODO</PMP_InstantHungerLoss.description>
-  <PMP_InstantHungerLoss.label>TODO</PMP_InstantHungerLoss.label>
-  <PMP_PersonaCriticalPower.comps.HediffComp_GiveHediff.letterLabel>TODO</PMP_PersonaCriticalPower.comps.HediffComp_GiveHediff.letterLabel>
-  <PMP_PersonaCriticalPower.comps.HediffComp_GiveHediff.letterText>TODO</PMP_PersonaCriticalPower.comps.HediffComp_GiveHediff.letterText>
-  <PMP_PersonaCriticalPower.description>TODO</PMP_PersonaCriticalPower.description>
-  <PMP_PersonaCriticalPower.label>TODO</PMP_PersonaCriticalPower.label>
-  <PMP_PersonaCriticalPower.labelNoun>TODO</PMP_PersonaCriticalPower.labelNoun>
-  <PMP_PersonaDormantRecharge.comps.HediffComp_MinimalHungerAfterTime.messageOnDisappear>TODO</PMP_PersonaDormantRecharge.comps.HediffComp_MinimalHungerAfterTime.messageOnDisappear>
-  <PMP_PersonaDormantRecharge.description>TODO</PMP_PersonaDormantRecharge.description>
-  <PMP_PersonaDormantRecharge.label>TODO</PMP_PersonaDormantRecharge.label>
-  <PMP_PersonaDormantRecharge.labelNoun>TODO</PMP_PersonaDormantRecharge.labelNoun>
-  <PMP_PersonaMechCortexSiphonBuff.description>TODO</PMP_PersonaMechCortexSiphonBuff.description>
-  <PMP_PersonaMechCortexSiphonBuff.label>TODO</PMP_PersonaMechCortexSiphonBuff.label>
-  <PMP_PersonaMechCortexSiphonBuff.labelNoun>TODO</PMP_PersonaMechCortexSiphonBuff.labelNoun>
-  <PMP_PersonaMechHediff.description>TODO</PMP_PersonaMechHediff.description>
-  <PMP_PersonaMechHediff.label>TODO</PMP_PersonaMechHediff.label>
-  <PMP_PersonaSystemShock.comps.HediffComp_Disappears.messageOnDisappear>TODO</PMP_PersonaSystemShock.comps.HediffComp_Disappears.messageOnDisappear>
-  <PMP_PersonaSystemShock.description>TODO</PMP_PersonaSystemShock.description>
-  <PMP_PersonaSystemShock.label>TODO</PMP_PersonaSystemShock.label>
-  <PMP_PersonaSystemShock.labelNoun>TODO</PMP_PersonaSystemShock.labelNoun>
-  <PMP_ScanningHaze.comps.HediffComp_Disappears.messageOnDisappear>TODO</PMP_ScanningHaze.comps.HediffComp_Disappears.messageOnDisappear>
-  <PMP_ScanningHaze.description>TODO</PMP_ScanningHaze.description>
-  <PMP_ScanningHaze.label>TODO</PMP_ScanningHaze.label>
-  <PMP_ScanningHaze.labelNoun>TODO</PMP_ScanningHaze.labelNoun>
-  <PMP_ScanningHazeExtreme.comps.HediffComp_Disappears.messageOnDisappear>TODO</PMP_ScanningHazeExtreme.comps.HediffComp_Disappears.messageOnDisappear>
-  <PMP_ScanningHazeExtreme.description>TODO</PMP_ScanningHazeExtreme.description>
-  <PMP_ScanningHazeExtreme.label>TODO</PMP_ScanningHazeExtreme.label>
-  <PMP_ScanningHazeExtreme.labelNoun>TODO</PMP_ScanningHazeExtreme.labelNoun>
-  <PMP_WasJustGestated.description>TODO</PMP_WasJustGestated.description>
-  <PMP_WasJustGestated.label>TODO</PMP_WasJustGestated.label>
-  <PMP_WasJustGestated.labelNoun>TODO</PMP_WasJustGestated.labelNoun>
-  <PMP_WasRecentlyFixedByPlayer.description>TODO</PMP_WasRecentlyFixedByPlayer.description>
-  <PMP_WasRecentlyFixedByPlayer.label>TODO</PMP_WasRecentlyFixedByPlayer.label>
-  <PMP_WasRecentlyFixedByPlayer.labelNoun>TODO</PMP_WasRecentlyFixedByPlayer.labelNoun>
+  <PMP_Abasia.description>Una condición que impide caminar a un mecanoide persona debido a una señalización defectuosa de los estratos conectivos de mando y control.\n\nAunque las rutinas de mantenimiento pasivo acabarán resolviendo el problema, el reemplazo directo de las partes comprometidas mediante una operación es mucho más rápido.</PMP_Abasia.description>
+  <PMP_Abasia.descriptionShort>Una condición que impide caminar a un mecanoide persona debido a una señalización defectuosa de los estratos conectivos de mando y control.</PMP_Abasia.descriptionShort>
+  <PMP_Abasia.label>estrato paralítico</PMP_Abasia.label>
+  <PMP_CanAbsorbEngrams.comps.HediffComp_Disappears.messageOnDisappear>{PAWN_nameDef} ya no puede cargar un engrama de persona.</PMP_CanAbsorbEngrams.comps.HediffComp_Disappears.messageOnDisappear>
+  <PMP_CanAbsorbEngrams.description>El núcleo de IA persona de este mecanoide ha tenido su firma neuronal temporalmente sobrecargada para potenciar sus propiedades polimórficas psíquicamente receptivas, permitiéndole integrar un engrama de persona dentro de un plazo limitado.\n\nEsto puede inducirse retroactivamente con un procedimiento que requiere fragmentos de datos de persona, o suceder de forma natural cuando un mecanoide persona es gestado por primera vez.</PMP_CanAbsorbEngrams.description>
+  <PMP_CanAbsorbEngrams.label>engrama viable</PMP_CanAbsorbEngrams.label>
+  <PMP_CanAbsorbEngrams.labelNoun>engrama viable</PMP_CanAbsorbEngrams.labelNoun>
+  <PMP_ColdBoot.description>Este mecanoide persona ha sido recargado y se está recuperando de la latencia forzada; sin embargo, la cantidad de energía fue insuficiente para reiniciarlo rápidamente y la recuperación tardará un breve periodo.</PMP_ColdBoot.description>
+  <PMP_ColdBoot.label>arranque en frío</PMP_ColdBoot.label>
+  <PMP_ColdBoot.labelNoun>arranque en frío</PMP_ColdBoot.labelNoun>
+  <PMP_DisableHungerWhileCharging.description>Este colono está usando un cargador y no debería estar perdiendo comida.</PMP_DisableHungerWhileCharging.description>
+  <PMP_DisableHungerWhileCharging.label>hambre desactivada por cargador</PMP_DisableHungerWhileCharging.label>
+  <PMP_InstantHungerLoss.description>Drena instantáneamente el 20% del hambre.</PMP_InstantHungerLoss.description>
+  <PMP_InstantHungerLoss.label>drenaje de hambre del 20%</PMP_InstantHungerLoss.label>
+  <PMP_PersonaCriticalPower.comps.HediffComp_GiveHediff.letterLabel>Recarga forzada: {PAWN_nameDef}</PMP_PersonaCriticalPower.comps.HediffComp_GiveHediff.letterLabel>
+  <PMP_PersonaCriticalPower.comps.HediffComp_GiveHediff.letterText>{PAWN_nameDef} ha estado sin energía demasiado tiempo y ha entrado en una latencia de emergencia para autorrecargarse.\n\nSi la latencia se completa sin intervención externa, {PAWN_nameDef} despertará con solo un 15% de energía tras 15 días.\n\nTambién se puede usar una célula bioeléctrica o una cama recargadora de mecanoides persona para cargar a {PAWN_nameDef} y terminar la latencia.</PMP_PersonaCriticalPower.comps.HediffComp_GiveHediff.letterText>
+  <PMP_PersonaCriticalPower.description>Este mecanoide persona tiene la energía críticamente baja; a menos que sea recargado pronto, será forzado a la latencia para autorrecargarse.</PMP_PersonaCriticalPower.description>
+  <PMP_PersonaCriticalPower.label>energía críticamente baja</PMP_PersonaCriticalPower.label>
+  <PMP_PersonaCriticalPower.labelNoun>energía críticamente baja</PMP_PersonaCriticalPower.labelNoun>
+  <PMP_PersonaDormantRecharge.comps.HediffComp_MinimalHungerAfterTime.messageOnDisappear>{PAWN_nameDef} ha completado su ciclo de autorrecarga en latencia.</PMP_PersonaDormantRecharge.comps.HediffComp_MinimalHungerAfterTime.messageOnDisappear>
+  <PMP_PersonaDormantRecharge.description>Este mecanoide persona está en un estado de latencia de autorrecarga; una vez completado, despertará con un 15% de energía.\n\nPuedes recargar antes a un mecanoide persona para sacarlo de esta latencia usando una célula de energía bioeléctrica o llevándolo a una cama recargadora con energía.</PMP_PersonaDormantRecharge.description>
+  <PMP_PersonaDormantRecharge.label>recarga en latencia</PMP_PersonaDormantRecharge.label>
+  <PMP_PersonaDormantRecharge.labelNoun>recarga en latencia</PMP_PersonaDormantRecharge.labelNoun>
+  <PMP_PersonaMechCortexSiphonBuff.description>este mecanoide está siendo potenciado por una red de sifones de córtex suficientemente empoderada.\n\nSi hay una cantidad suficiente de cápsulas de sifón neural asistiendo a los sifones de córtex de la red, las mejoras de rendimiento resultantes serán mucho mayores. Incluso potenciando a los mecanoides estándar controlados por tu facción con ocho o más cápsulas activas.</PMP_PersonaMechCortexSiphonBuff.description>
+  <PMP_PersonaMechCortexSiphonBuff.label>potenciado por sifonado de córtex</PMP_PersonaMechCortexSiphonBuff.label>
+  <PMP_PersonaMechCortexSiphonBuff.labelNoun>potenciado por sifonado de córtex</PMP_PersonaMechCortexSiphonBuff.labelNoun>
+  <PMP_PersonaMechHediff.description>Este colono es un mecanoide con forma humana, por lo que presenta algunas diferencias adicionales.</PMP_PersonaMechHediff.description>
+  <PMP_PersonaMechHediff.label>cuerpo mecanoide</PMP_PersonaMechHediff.label>
+  <PMP_PersonaSystemShock.comps.HediffComp_Disappears.messageOnDisappear>{PAWN_nameDef} ha terminado de liberarse del choque de sistema que afligía a su núcleo.</PMP_PersonaSystemShock.comps.HediffComp_Disappears.messageOnDisappear>
+  <PMP_PersonaSystemShock.description>Las secuelas de un choque electromagnético al núcleo persona. A diferencia de los sistemas más simples de nivel subpersona, la arquitectura más intrincada de los núcleos persona los deja algo más susceptibles a la interferencia electromagnética, incluso tras la adaptación estándar al bloqueo inmediato.\n\nAfortunadamente, la ingeniería de materiales avanzada y las tecnologías desarrolladas permiten que el núcleo siga funcionando y se autocorrija sin ningún efecto secundario permanente tras el tiempo suficiente.\n\nSin embargo, hasta entonces, el núcleo estará gravemente afectado.</PMP_PersonaSystemShock.description>
+  <PMP_PersonaSystemShock.label>choque de sistema</PMP_PersonaSystemShock.label>
+  <PMP_PersonaSystemShock.labelNoun>choque de sistema</PMP_PersonaSystemShock.labelNoun>
+  <PMP_ScanningHaze.comps.HediffComp_Disappears.messageOnDisappear>{PAWN_nameDef} se ha recuperado de la bruma de sistema que afligía a su núcleo.</PMP_ScanningHaze.comps.HediffComp_Disappears.messageOnDisappear>
+  <PMP_ScanningHaze.description>Este mecanoide persona utilizó recientemente una interfaz de persona e incurrió en aberraciones temporales de sistema que se están restaurando; esto afecta a las capacidades de procesamiento de datos.</PMP_ScanningHaze.description>
+  <PMP_ScanningHaze.label>bruma de sistema</PMP_ScanningHaze.label>
+  <PMP_ScanningHaze.labelNoun>bruma de sistema</PMP_ScanningHaze.labelNoun>
+  <PMP_ScanningHazeExtreme.comps.HediffComp_Disappears.messageOnDisappear>{PAWN_nameDef} ha superado lo peor de su bruma de sistema.</PMP_ScanningHazeExtreme.comps.HediffComp_Disappears.messageOnDisappear>
+  <PMP_ScanningHazeExtreme.description>Este mecanoide persona está en un estado de latencia autocorrectiva, compensando fluctuaciones repentinas en sus subrutinas subyacentes tras usar una interfaz de persona para crear un engrama o un subnúcleo de alto nivel.</PMP_ScanningHazeExtreme.description>
+  <PMP_ScanningHazeExtreme.label>bruma de sistema extrema</PMP_ScanningHazeExtreme.label>
+  <PMP_ScanningHazeExtreme.labelNoun>bruma de sistema extrema</PMP_ScanningHazeExtreme.labelNoun>
+  <PMP_WasJustGestated.description>Este mecanoide persona acaba de ser creado por el jugador.</PMP_WasJustGestated.description>
+  <PMP_WasJustGestated.label>recién creado por el jugador</PMP_WasJustGestated.label>
+  <PMP_WasJustGestated.labelNoun>recién creado por el jugador</PMP_WasJustGestated.labelNoun>
+  <PMP_WasRecentlyFixedByPlayer.description>Este mecanoide persona fue reparado recientemente por el jugador; si abandona el mapa, puede mejorar las relaciones con su facción.</PMP_WasRecentlyFixedByPlayer.description>
+  <PMP_WasRecentlyFixedByPlayer.label>reparado recientemente por el jugador</PMP_WasRecentlyFixedByPlayer.label>
+  <PMP_WasRecentlyFixedByPlayer.labelNoun>reparado recientemente por el jugador</PMP_WasRecentlyFixedByPlayer.labelNoun>
 </LanguageData>

@@ -1,27 +1,27 @@
 <?xml version='1.0' encoding='utf-8'?>
 <LanguageData>
-  <PMP_ControlSublink.comps.CompUsableImplant.useLabel>TODO</PMP_ControlSublink.comps.CompUsableImplant.useLabel>
-  <PMP_ControlSublink.description>TODO</PMP_ControlSublink.description>
-  <PMP_ControlSublink.label>TODO</PMP_ControlSublink.label>
-  <PMP_ControlSublinkHigh.comps.CompUsableImplant.useLabel>TODO</PMP_ControlSublinkHigh.comps.CompUsableImplant.useLabel>
-  <PMP_ControlSublinkHigh.description>TODO</PMP_ControlSublinkHigh.description>
-  <PMP_ControlSublinkHigh.label>TODO</PMP_ControlSublinkHigh.label>
-  <PMP_MechFormfeeder.comps.CompUsableImplant.useLabel>TODO</PMP_MechFormfeeder.comps.CompUsableImplant.useLabel>
-  <PMP_MechFormfeeder.description>TODO</PMP_MechFormfeeder.description>
-  <PMP_MechFormfeeder.label>TODO</PMP_MechFormfeeder.label>
-  <PMP_Mechlink.comps.CompUsableImplant.useLabel>TODO</PMP_Mechlink.comps.CompUsableImplant.useLabel>
-  <PMP_Mechlink.description>TODO</PMP_Mechlink.description>
-  <PMP_Mechlink.label>TODO</PMP_Mechlink.label>
-  <PMP_PsychicAmplifier.comps.CompUsableImplant.useLabel>TODO</PMP_PsychicAmplifier.comps.CompUsableImplant.useLabel>
-  <PMP_PsychicAmplifier.description>TODO</PMP_PsychicAmplifier.description>
-  <PMP_PsychicAmplifier.label>TODO</PMP_PsychicAmplifier.label>
-  <PMP_RemoteRepairer.comps.CompUsableImplant.useLabel>TODO</PMP_RemoteRepairer.comps.CompUsableImplant.useLabel>
-  <PMP_RemoteRepairer.description>TODO</PMP_RemoteRepairer.description>
-  <PMP_RemoteRepairer.label>TODO</PMP_RemoteRepairer.label>
-  <PMP_RemoteShielder.comps.CompUsableImplant.useLabel>TODO</PMP_RemoteShielder.comps.CompUsableImplant.useLabel>
-  <PMP_RemoteShielder.description>TODO</PMP_RemoteShielder.description>
-  <PMP_RemoteShielder.label>TODO</PMP_RemoteShielder.label>
-  <PMP_RepairProbe.comps.CompUsableImplant.useLabel>TODO</PMP_RepairProbe.comps.CompUsableImplant.useLabel>
-  <PMP_RepairProbe.description>TODO</PMP_RepairProbe.description>
-  <PMP_RepairProbe.label>TODO</PMP_RepairProbe.label>
+  <PMP_ControlSublink.comps.CompUsableImplant.useLabel>Implantar subenlace</PMP_ControlSublink.comps.CompUsableImplant.useLabel>
+  <PMP_ControlSublink.description>Un módulo de hardware que otorga a un mecanitor un grupo de control adicional. Además, el subenlace aumenta ligeramente la velocidad de trabajo de cualquier mecanoide controlado por el mecanitor.\n\nEste subenlace de nivel estándar solo puede aumentar el número de grupos de control hasta 3. Para llegar más alto, se debe usar una mejora de subenlace de nivel superior.\n\nSe autoinstala sin modificaciones.\n\nEsta mejora puede instalarse hasta 3 veces para aumentar su efecto.</PMP_ControlSublink.description>
+  <PMP_ControlSublink.label>subenlace de control persona (estándar)</PMP_ControlSublink.label>
+  <PMP_ControlSublinkHigh.comps.CompUsableImplant.useLabel>Implantar subenlace superior</PMP_ControlSublinkHigh.comps.CompUsableImplant.useLabel>
+  <PMP_ControlSublinkHigh.description>Un módulo de hardware que otorga a un mecanitor un grupo de control adicional. Además, el subenlace aumenta ligeramente la velocidad de trabajo de cualquier mecanoide controlado por el mecanitor.\n\nEsta mejora de nivel superior puede aumentar el número de grupos de control hasta 6.\n\nSe autoinstala sin modificaciones.\n\nEsta mejora puede instalarse hasta 3 veces para aumentar su efecto.</PMP_ControlSublinkHigh.description>
+  <PMP_ControlSublinkHigh.label>subenlace de control persona (superior)</PMP_ControlSublinkHigh.label>
+  <PMP_MechFormfeeder.comps.CompUsableImplant.useLabel>Implantar {0_label}</PMP_MechFormfeeder.comps.CompUsableImplant.useLabel>
+  <PMP_MechFormfeeder.description>Un implante que aumenta la velocidad a la que un mecanitor puede producir mecanoides en un gestador de mecanoides. El procesador optimiza el comportamiento de las mecanitas en el tanque de formación de mecanoides.\n\nEste implante puede autoinstalarse de la misma forma que el mecoenlace.\n\nEste implante puede instalarse hasta 6 veces para aumentar su efecto.</PMP_MechFormfeeder.description>
+  <PMP_MechFormfeeder.label>procesador de gestación de mecanoides persona</PMP_MechFormfeeder.label>
+  <PMP_Mechlink.comps.CompUsableImplant.useLabel>Instalar {0_label} para convertirse en mecanitor</PMP_Mechlink.comps.CompUsableImplant.useLabel>
+  <PMP_Mechlink.description>Un módulo de hardware adaptado que permite el control directo de mecanoides. Los mecoenlaces son usados por soldados para controlar mecanoides de guerra, y por trabajadores para controlar mecanoides de labor. Una persona con un mecoenlace se conoce como mecanitor.\n\nLos mecoenlaces son autoinstalables. Insertada en la parte posterior de la cabeza, la unidad se integra a sí misma y teje una red de cables ultrafinos a través de los estratos de conexión cercanos del núcleo persona para establecer el enlace mental directo entre el usuario y la banda de control de mecanoides.\n\nLos mecoenlaces no son simplemente dispositivos para enviar señales de radio a los mecanoides, porque los mecanoides no son meros robots. Además de las computadoras tradicionales, los mecanoides tienen una tenue presencia psíquica, por lo que controlarlos con fluidez requiere una conexión psíquica. Al enlazar al mecanitor y al mecanoide tanto psíquica como electromagnéticamente, el mecoenlace permite un control más profundo que las interfaces de pantalla y botones.\n\nDado que el mecoenlace se entrelaza en lo profundo del núcleo persona, solo puede extraerse tras la muerte.\n\nNota: Un mecanitor debe ser capaz de realizar trabajo de forja para gestar mecanoides.</PMP_Mechlink.description>
+  <PMP_Mechlink.label>mecoenlace de núcleo persona</PMP_Mechlink.label>
+  <PMP_PsychicAmplifier.comps.CompUsableImplant.useLabel>Usar neuroformador para formar psienlace</PMP_PsychicAmplifier.comps.CompUsableImplant.useLabel>
+  <PMP_PsychicAmplifier.description>Un dispositivo consumible creado por un archotec que forma o mejora un psienlace en la mente del usuario. Este ha sido modificado para omitir su interfaz orgánica estándar, permitiendo en su lugar la conexión directa a un núcleo persona mediante una conexión por cable.\n\nSorprendentemente, el neuroformador parece haber reconocido la alteración, adaptando su composición interna para acomodar la nueva funcionalidad.\n\nTras su uso, el dispositivo se desintegra en cenizas sin valor, como era de esperar.</PMP_PsychicAmplifier.description>
+  <PMP_PsychicAmplifier.label>neuroformador de psienlace de núcleo persona</PMP_PsychicAmplifier.label>
+  <PMP_RemoteRepairer.comps.CompUsableImplant.useLabel>Implantar {0_label}</PMP_RemoteRepairer.comps.CompUsableImplant.useLabel>
+  <PMP_RemoteRepairer.description>Una mejora de mecoenlace que permite al mecanitor reparar mecanoides a distancia. El usuario se enlaza con el mecanoide y usa su propio cerebro para guiar psíquicamente sus mecanitas de autorreparación.\n\nEste implante puede autoinstalarse sin cirugía.\n\nEste implante puede instalarse hasta 3 veces para aumentar su alcance.</PMP_RemoteRepairer.description>
+  <PMP_RemoteRepairer.label>reparador remoto persona</PMP_RemoteRepairer.label>
+  <PMP_RemoteShielder.comps.CompUsableImplant.useLabel>Implantar {0_label}</PMP_RemoteShielder.comps.CompUsableImplant.useLabel>
+  <PMP_RemoteShielder.description>Un implante que permite al mecanitor colocar un escudo de defensa personal sobre un mecanoide. El mecanitor debe concentrarse continuamente en el mecanoide para mantener el escudo.\n\nColocar un escudo a distancia requiere una cantidad sustancial de energía concentrada. Puede usarse para salvar a un mecanoide en un momento crítico.\n\nEste implante puede autoinstalarse de la misma forma que el mecoenlace.\n\nEste implante puede instalarse hasta 3 veces para aumentar su alcance y la energía del escudo.</PMP_RemoteShielder.description>
+  <PMP_RemoteShielder.label>escudador remoto persona</PMP_RemoteShielder.label>
+  <PMP_RepairProbe.comps.CompUsableImplant.useLabel>Implantar {0_label}</PMP_RepairProbe.comps.CompUsableImplant.useLabel>
+  <PMP_RepairProbe.description>Un implante que aumenta la velocidad a la que un mecanitor puede reparar un mecanoide. Esto no afecta la energía total necesaria para reparar un mecanoide.\n\nEl implante permite al mecanitor conectarse directamente a un mecanoide mientras lo repara. Esto le permite comprender más rápidamente las lesiones del mecanoide y dirigir mejor sus mecanitas de autorreparación para asistir en la reparación.\n\nEste implante puede autoinstalarse de la misma forma que el mecoenlace.\n\nEste implante puede instalarse hasta 6 veces para aumentar su efecto.</PMP_RepairProbe.description>
+  <PMP_RepairProbe.label>sonda de reparación persona</PMP_RepairProbe.label>
 </LanguageData>

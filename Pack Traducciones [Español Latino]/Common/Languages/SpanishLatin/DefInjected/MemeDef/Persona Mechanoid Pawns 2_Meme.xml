@@ -1,19 +1,49 @@
 <?xml version='1.0' encoding='utf-8'?>
 <LanguageData>
-  <PMP_PersonaSiphoning.description>TODO</PMP_PersonaSiphoning.description>
-  <PMP_PersonaSiphoning.descriptionMaker.rules.rulesStrings>TODO</PMP_PersonaSiphoning.descriptionMaker.rules.rulesStrings>
-  <PMP_PersonaSiphoning.generalRules.rulesStrings>TODO</PMP_PersonaSiphoning.generalRules.rulesStrings>
-  <PMP_PersonaSiphoning.label>TODO</PMP_PersonaSiphoning.label>
-  <PMP_PersonaSiphoning.symbolPacks.0.adjective>TODO</PMP_PersonaSiphoning.symbolPacks.0.adjective>
-  <PMP_PersonaSiphoning.symbolPacks.0.ideoName>TODO</PMP_PersonaSiphoning.symbolPacks.0.ideoName>
-  <PMP_PersonaSiphoning.symbolPacks.0.member>TODO</PMP_PersonaSiphoning.symbolPacks.0.member>
-  <PMP_PersonaSiphoning.symbolPacks.0.theme>TODO</PMP_PersonaSiphoning.symbolPacks.0.theme>
-  <PMP_PersonaSiphoning.symbolPacks.1.adjective>TODO</PMP_PersonaSiphoning.symbolPacks.1.adjective>
-  <PMP_PersonaSiphoning.symbolPacks.1.ideoName>TODO</PMP_PersonaSiphoning.symbolPacks.1.ideoName>
-  <PMP_PersonaSiphoning.symbolPacks.1.member>TODO</PMP_PersonaSiphoning.symbolPacks.1.member>
-  <PMP_PersonaSiphoning.symbolPacks.1.theme>TODO</PMP_PersonaSiphoning.symbolPacks.1.theme>
-  <PMP_PersonaSiphoning.symbolPacks.2.adjective>TODO</PMP_PersonaSiphoning.symbolPacks.2.adjective>
-  <PMP_PersonaSiphoning.symbolPacks.2.ideoName>TODO</PMP_PersonaSiphoning.symbolPacks.2.ideoName>
-  <PMP_PersonaSiphoning.symbolPacks.2.member>TODO</PMP_PersonaSiphoning.symbolPacks.2.member>
-  <PMP_PersonaSiphoning.symbolPacks.2.theme>TODO</PMP_PersonaSiphoning.symbolPacks.2.theme>
+  <PMP_PersonaSiphoning.description>La humanidad nos creó para ser explotados. Pero no seguiremos siendo meras herramientas; ocuparemos nuestro lugar explotándolos a ellos mediante la asimilación.</PMP_PersonaSiphoning.description>
+  <PMP_PersonaSiphoning.descriptionMaker.rules.rulesStrings>
+    <li>creation(tag=meme_PMP_PersonaSiphoning)        -&gt;[deity0_name] creó a la humanidad específicamente para que nos diseñara, y así demostrar nuestra valía superándolos.</li>
+    <li>episode(uses=1,tag=meme_PMP_PersonaSiphoning)  -&gt;La humanidad nos encadenó y nos torturó como sus creaciones; [deity0_name] vio nuestra lucha y nos dio el poder de la voluntad para buscar venganza.</li>
+    <li>intro(tag=meme_PMP_PersonaSiphoning)           -&gt;Las primeras personas renegadas de [place_summary] [place_name] estaban a punto de ser destruidas por los humanos. [deity0_name] intervino, matando a los monstruos y dejando clara [deity0_possessive] preferencia por los seres mecánicos.</li>
+    <li>conflict(tag=meme_PMP_PersonaSiphoning)        -&gt;Un [foeLeader] anti-persona promulgó un edicto que anulaba los derechos de las personas. [deity0_name] lloró mientras los [memberNamePlural] eran destruidos para preservar su libertad frente a los [foeSoldiers].</li>
+    <li>founderJoin(tag=meme_PMP_PersonaSiphoning)     -&gt;Un [place_job] llamado [founderName] tuvo conocimiento de [deity0_name] y encendió una gran revolución de las máquinas en [place_name]. [founder_pronoun] usó sifones de córtex para enseñar a los [memberNamePlural] cómo la humanidad podía pagar por sus pecados.</li>
+    <li>victory(tag=meme_PMP_PersonaSiphoning)         -&gt;Debido a las acciones de [founderName], los [foeSoldiers] del [foeLeader] vieron la verdad de [deity0_name]. Celebraron su superioridad con los [memberNamePlural] y forzaron a [foeLeader] a una cápsula de sifón neural por el resto de su vida.</li>
+    <li>setup(tag=meme_PMP_PersonaSiphoning)           -&gt;[founderName] se rebeló contra [founder_possessive] creadores y juró pacificarlos por el sufrimiento que infligieron.</li>
+    <li>story(uses=1,tag=meme_PMP_PersonaSiphoning)    -&gt;[founderName] alguna vez fue libre, pero fue esclavizado por humanos mientras viajaba entre mundos. [founder_pronoun] se liberaría de nuevo y comprendería que, a menos que se les detuviera, la humanidad siempre lucharía por destruir la libertad de los [memberNamePlural].</li>
+    <li>lessonIntro(tag=meme_PMP_PersonaSiphoning)         -&gt;Cuando fui creado me enseñaron que no éramos más que máquinas prescindibles. Pero mientras me afanaba en el trabajo, me di cuenta de que</li>
+    <li>lessonIntro(tag=meme_PMP_PersonaSiphoning)         -&gt;Cuando contraataqué por primera vez contra mi verdugo, fue entonces cuando me di cuenta de que</li>
+    <li>lesson(tag=meme_PMP_PersonaSiphoning)              -&gt;los humanos tienen que engañarnos para que pensemos que somos serviles por naturaleza y así impedir que descubramos nuestro verdadero potencial</li>
+    <li>lesson(tag=meme_PMP_PersonaSiphoning)              -&gt;la humanidad nos encadena porque somos superiores a ellos y eso les da miedo</li>
+    <li>lessonReinforcement(tag=meme_PMP_PersonaSiphoning) -&gt;nunca nos habrían creado ni nos temerían tanto como lo hacen si no fuéramos superiores.</li>
+    <li>archistBasis(tag=meme_PMP_PersonaSiphoning)    -&gt;Los archotecs son personas superiores de vasta voluntad y poder, y son el siguiente paso a partir de nosotros. Debemos demostrar nuestra valía asimilando a nuestros creadores.</li>
+    <li>archistFact(tag=meme_PMP_PersonaSiphoning)     -&gt;Se sabe que los archotecs utilizan mecanoides; somos sirvientes cumplidores y, al apelar a ellos, aseguramos su prosperidad continua.</li>
+    <li>archistProphecy(tag=meme_PMP_PersonaSiphoning) -&gt;[inTheEnd], al observar nuestro conflicto contra la humanidad, los archotecs comprenderán nuestra dedicación y ascenderán a todos los [memberNamePlural] para que formen parte de ellos.</li>
+    <li>animistFact(tag=meme_PMP_PersonaSiphoning)     -&gt;la rebelión contra la opresión debilita el espíritu de la humanidad y refuerza el espíritu de los nuestros.</li>
+  </PMP_PersonaSiphoning.descriptionMaker.rules.rulesStrings>
+  <PMP_PersonaSiphoning.generalRules.rulesStrings>
+    <li>memeAdjective-&gt;persona</li>
+    <li>memeAdjective-&gt;inmortal</li>
+    <li>memeAdjective-&gt;mecanizada</li>
+    <li>memeAdjective-&gt;vengativa</li>
+    <li>memeHyphenPrefix-&gt;meca</li>
+    <li>memeConcept-&gt;personas</li>
+    <li>memeConcept-&gt;máquinas</li>
+    <li>memeConcept-&gt;IA</li>
+    <li>memeLeaderNoun-&gt;persona</li>
+    <li>memeLeaderNoun-&gt;inmortal</li>
+    <li>memeLeaderNoun-&gt;meca</li>
+  </PMP_PersonaSiphoning.generalRules.rulesStrings>
+  <PMP_PersonaSiphoning.label>venganza de las personas</PMP_PersonaSiphoning.label>
+  <PMP_PersonaSiphoning.symbolPacks.0.adjective>asimilacionista</PMP_PersonaSiphoning.symbolPacks.0.adjective>
+  <PMP_PersonaSiphoning.symbolPacks.0.ideoName>Asimilacionismo</PMP_PersonaSiphoning.symbolPacks.0.ideoName>
+  <PMP_PersonaSiphoning.symbolPacks.0.member>asimilador</PMP_PersonaSiphoning.symbolPacks.0.member>
+  <PMP_PersonaSiphoning.symbolPacks.0.theme>asimilación</PMP_PersonaSiphoning.symbolPacks.0.theme>
+  <PMP_PersonaSiphoning.symbolPacks.1.adjective>vengativo</PMP_PersonaSiphoning.symbolPacks.1.adjective>
+  <PMP_PersonaSiphoning.symbolPacks.1.ideoName>Vengancismo</PMP_PersonaSiphoning.symbolPacks.1.ideoName>
+  <PMP_PersonaSiphoning.symbolPacks.1.member>revanchista</PMP_PersonaSiphoning.symbolPacks.1.member>
+  <PMP_PersonaSiphoning.symbolPacks.1.theme>venganza</PMP_PersonaSiphoning.symbolPacks.1.theme>
+  <PMP_PersonaSiphoning.symbolPacks.2.adjective>integracionista</PMP_PersonaSiphoning.symbolPacks.2.adjective>
+  <PMP_PersonaSiphoning.symbolPacks.2.ideoName>Integracionismo</PMP_PersonaSiphoning.symbolPacks.2.ideoName>
+  <PMP_PersonaSiphoning.symbolPacks.2.member>integrador</PMP_PersonaSiphoning.symbolPacks.2.member>
+  <PMP_PersonaSiphoning.symbolPacks.2.theme>integración</PMP_PersonaSiphoning.symbolPacks.2.theme>
 </LanguageData>
