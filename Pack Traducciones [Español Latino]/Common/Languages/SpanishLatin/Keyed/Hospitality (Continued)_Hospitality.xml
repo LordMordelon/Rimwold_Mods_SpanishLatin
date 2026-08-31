@@ -47,7 +47,7 @@
   <EnableRecruitNotificationDesc>Recibe un mensaje cuando un huésped tenga suficientes amigos para ser reclutado.</EnableRecruitNotificationDesc>
   <FactionGoodwill>Buena voluntad de facción</FactionGoodwill>
   <ForceAcidifierWarning>\n\nActivará su acidificador de muerte.</ForceAcidifierWarning>
-  <ForceRecruit>Reclutar por la fuerza...</ForceRecruit>
+  <ForceRecruit>Forzar reclutar...</ForceRecruit>
   <ForceRecruitQuestion>Puedes reclutar a {PAWN_nameDef} de inmediato.\n\nDebido a que {PAWN_pronoun} aún no tiene suficientes amigos para unirse por voluntad propia, esto te costará {0} puntos de relación con su facción. Esto será menor si {PAWN_pronoun} tiene más amigos. {1}{2}\n\n\n¿Estás seguro?</ForceRecruitQuestion>
   <ForceRecruitTooltip>En lugar de esperar a que tus diplomáticos convenzan a este huésped, también puedes obligarlo a quedarse. Sin embargo, el daño a las relaciones con esta facción será mucho mayor.</ForceRecruitTooltip>
   <ForceRecruitWarning>\n\nEsto hará que se vuelvan hostiles de inmediato.</ForceRecruitWarning>
@@ -93,7 +93,7 @@
   <LetterLabelRecruitFactionPlease>Facción complacida</LetterLabelRecruitFactionPlease>
   <LostGroupFactionAnger>{0} de {1} nunca volvió a saber de esta delegación ({2}).</LostGroupFactionAnger>
   <LostGroupFactionAngerLeaderless>Los miembros de {0} se han molestado contigo por reclutar ({1}).</LostGroupFactionAngerLeaderless>
-  <MakeDefault>Establecer por defecto</MakeDefault>
+  <MakeDefault>Predeterminar</MakeDefault>
   <MakeDefaultTooltip>Aplica las zonas y los ajustes de entretenimiento a todos los visitantes actuales y futuros.</MakeDefaultTooltip>
   <MakeFriends>Intentar hacer amigos</MakeFriends>
   <MapSettings>Ajustes del mapa...</MapSettings>
