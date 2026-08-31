@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: cortex siphon -->
+  <PMP_CortexSiphon.label>TODO</PMP_CortexSiphon.label>
+  <!-- EN: A horrendous and almost universally outlawed implant that forces a connection between an implanted human and a self-propagating mechanoid boosting mesh-network.\n\nIt viciously partitions a notable portion of the users wetware to achieve its functionality. This results in a drastic decrease in mental capability, followed by persistent pain and discomfort.\n\nOrder a colonist to install a siphon into a target.\n\nFor the network to function a minimum of two cortex siphons must be active per persona mechanoid. <color=#f1ce02>If the network is unable to meet capacity it fails to function entirely until sufficient siphoning power is achieved once more.</color>\n\nOnly colonists, slaves, or prisoners that are presently owned by your faction can contribute, transmits over long distances regardless of world map or local map presence.\n\n<color=#f1ce02>If the Ideology DLC is active this implant will only be acquirable with the appropriate meme active at the persona mechanoid workstation.</color> -->
+  <PMP_CortexSiphon.description>TODO</PMP_CortexSiphon.description>
+  <!-- EN: Use {0_label} -->
+  <PMP_CortexSiphon.comps.CompUsable.useLabel>TODO</PMP_CortexSiphon.comps.CompUsable.useLabel>
+  
+  <!-- EN: bioelectric cell -->
+  <PMP_MealBioelectricCellMecha.label>TODO</PMP_MealBioelectricCellMecha.label>
+  <!-- EN: A portable super capacitor of bioelectrical energy, manufactured for recharging persona mechanoids. Rapidly replenishes 50% of energy on use.\n\nIt effectively never goes off, but can still deteriorate if left outside. Great for traveling or emergencies.\n\nCells used by colonist mechs will leave behind a depleted variant that can be recharged at a bioelectric cell charger.\n\nPersona mechanoids will generally prefer to use a persona mech recharger instead of a cell if available. This is useful given the poorer waste efficiency, and longer charging times of bioelectric cells. -->
+  <PMP_MealBioelectricCellMecha.description>TODO</PMP_MealBioelectricCellMecha.description>
+  <!-- EN: Recharge with {0} -->
+  <PMP_MealBioelectricCellMecha.ingestible.ingestCommandString>TODO</PMP_MealBioelectricCellMecha.ingestible.ingestCommandString>
+  <!-- EN: extracting charge from {0}. -->
+  <PMP_MealBioelectricCellMecha.ingestible.ingestReportString>TODO</PMP_MealBioelectricCellMecha.ingestible.ingestReportString>
+  
+  <!-- EN: bioelectric cell (Depleted) -->
+  <PMP_MealBioelectricCellMechaDepleted.label>TODO</PMP_MealBioelectricCellMechaDepleted.label>
+  <!-- EN: A portable super capacitor of bioelectrical energy, manufactured for recharging persona mechanoids. This one is empty.\n\nCells used by colonist mechs will leave behind a depleted variant that can be recharged at a bioelectric cell charger.\n\nPersona mechanoids will generally prefer to use a persona mech recharger instead of a cell if available. This is useful given the poorer waste efficiency, and longer charging times of bioelectric cells. -->
+  <PMP_MealBioelectricCellMechaDepleted.description>TODO</PMP_MealBioelectricCellMechaDepleted.description>
+  <!-- EN: Can be recharged at a bioelectric cell recharger. -->
+  <PMP_MealBioelectricCellMechaDepleted.comps.CompInspectString.inspectString>TODO</PMP_MealBioelectricCellMechaDepleted.comps.CompInspectString.inspectString>
+  
+  <!-- EN: persona mechanoid component -->
+  <PMP_MechaComponent.label>TODO</PMP_MechaComponent.label>
+  <!-- EN: A specialized component used in the construction and modification of persona driven mechanoids. \n\nThese are integral for persona mechanoid bodies and subsequent body parts, this is due to the self regulating mechanite cohesion interface these components provide. Created via distributed connection strata to the persona core which allow mechanites used by the mechs to be overseen by the persona itself, leading to no bandwith cost or mechanitor oversight being required for persona mechanoids.\n\nThese components also serve as critical aids in modification operations to alter and restore connective strata in targeted regions. -->
+  <PMP_MechaComponent.description>TODO</PMP_MechaComponent.description>
+    
+  <!-- EN: persona data -->
+  <PMP_PersonaData.label>TODO</PMP_PersonaData.label>
+  <!-- EN: A specialized psychodynamic substrate unit tailored to preserve fragments of high complexity neural mappings. While scattered and lacking full context, it still retains select portions of a sapient mind’s cognitive and emotional neuro signature, carefully captured while it was still firing.\n\nThough incoherent in isolation, the retained polymorphic, and psychically receptive properties, make this a vital resource to instance or reconstruct higher order neural systems such as those seen in AI persona cores.\n\nEven while partitioned the structure within exhibits residual sentience markers and memetic drift signatures indicative of a complex cognitive print, bearing a faintly noticeable psychic presence. -->
+  <PMP_PersonaData.description>TODO</PMP_PersonaData.description>
+  
+  <!-- EN: persona engram -->
+  <PMP_PersonaEngram.label>TODO</PMP_PersonaEngram.label>
+  <!-- EN: A specialized psychodynamic substrate unit tailored to preserve a relatively coherent snapshot of a sapient mind's highlight neural patterns and resulting neuro signature as it was still firing, while distinctly skipping key memory markers to allow reapplication and stable contextualization.\n\nThis allows for the preservation of core cognitive traits, skill hierarchies, and motivational passions, now organized into a stable format suitable for integration with a persona core that has been temporarily boosted to handle such a sudden reallocation of neural net composition.\n\nError correction and amalgamation subroutines are imperfect however, so extraneous and corrupted data tends to leak in, leading to variable imperfections in the application process. On top of this, there are hard line restrictions to the transfer of traits incompatible with artificial intelligence architectures, so some will never be applied even if captured.\n\nThis persona engram itself is not an active consciousness, but it is a close structural approximation of a psychically receptive cognitive print to recreate the key facets of the one it was made from. -->
+  <PMP_PersonaEngram.description>TODO</PMP_PersonaEngram.description>
+  <!-- EN: integrate persona engram -->
+  <PMP_PersonaEngram.comps.CompUsable.useLabel>TODO</PMP_PersonaEngram.comps.CompUsable.useLabel>
+  
+  <!-- EN: persona mech disguise kit -->
+  <PMP_PersonaMechDisguiseKit.label>TODO</PMP_PersonaMechDisguiseKit.label>
+  <!-- EN: A specialized mechanite configurator kit that induces a false skin layer over a persona mechanoid chassis. Generally manufactured for covert operations, diplomatic decoys, or infiltration. This kit conceals mechanical components beneath synthetic materials that mimic flesh, with programmable muscle arrays that create convincingly lifelike facial features.\n\nThe disguise is solid at a glance, enough to fool a camera, a crowd, or when viewing through a scope. But in close quarters over longer observation periods, the still present uncanny stillness and mirror polished voice, alongside other synthetic clues often reveal the truth.\n\nUsed primarily on persona mechs conditioned in diplomacy, espionage, or assassination roles. The existence of such disguises is a source of paranoia for many.\n\nThe application of such a kit is permanent, but features such as the synthetic hair can be customized at a styling station afterwards. -->
+  <PMP_PersonaMechDisguiseKit.description>TODO</PMP_PersonaMechDisguiseKit.description>
+  <!-- EN: apply human disguise -->
+  <PMP_PersonaMechDisguiseKit.comps.CompUsable.useLabel>TODO</PMP_PersonaMechDisguiseKit.comps.CompUsable.useLabel>
+  
+  <!-- EN: unfinished persona mechanoid component -->
+  <PMP_UnfinishedMechaComponent.label>TODO</PMP_UnfinishedMechaComponent.label>
+  <!-- EN: A partially completed persona mechanoid component. -->
+  <PMP_UnfinishedMechaComponent.description>TODO</PMP_UnfinishedMechaComponent.description>
+  
+  <!-- EN: unfinished persona core -->
+  <PMP_UnfinishedPersonaCore.label>TODO</PMP_UnfinishedPersonaCore.label>
+  <!-- EN: A partially completed persona core. -->
+  <PMP_UnfinishedPersonaCore.description>TODO</PMP_UnfinishedPersonaCore.description>
+  
+</LanguageData>

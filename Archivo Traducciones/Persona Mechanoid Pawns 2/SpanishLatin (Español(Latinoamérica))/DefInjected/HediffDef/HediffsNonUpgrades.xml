@@ -1,0 +1,110 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: paralytic strata -->
+  <PMP_Abasia.label>TODO</PMP_Abasia.label>
+  <!-- EN: A condition that makes a persona mech unable to walk due to faulty signalling from command and control connective strata.\n\nWhile passive maintenance routines will eventually resolve the problem direct replacement of compromised parts through an operation is much faster. -->
+  <PMP_Abasia.description>TODO</PMP_Abasia.description>
+  <!-- EN: A condition that makes a persona mech unable to walk due to faulty signalling from command and control connective strata. -->
+  <PMP_Abasia.descriptionShort>TODO</PMP_Abasia.descriptionShort>
+  
+  <!-- EN: engram viable -->
+  <PMP_CanAbsorbEngrams.label>TODO</PMP_CanAbsorbEngrams.label>
+  <!-- EN: The AI persona core in this mech has had its neuro signature temporarily supercharged to boost its polymorphic psychically receptive properties, allowing it to integrate a persona engram within within a limited time frame.\n\nThis can either be retroactively induced with a procedure requiring fragments of persona data, or naturally occurring when a persona mech is first gestated. -->
+  <PMP_CanAbsorbEngrams.description>TODO</PMP_CanAbsorbEngrams.description>
+  <!-- EN: {PAWN_nameDef} can no longer load a persona engram. -->
+  <PMP_CanAbsorbEngrams.comps.HediffComp_Disappears.messageOnDisappear>TODO</PMP_CanAbsorbEngrams.comps.HediffComp_Disappears.messageOnDisappear>
+  <!-- EN: The AI persona core in this mech has had its neuro signature temporarily supercharged to boost its polymorphic psychically receptive properties, allowing it to integrate a persona engram within a limited time frame.\n\nThis can either be retroactively induced with a procedure requiring fragments of persona data, or naturally occurring when a persona mech is first gestated. -->
+  <PMP_CanAbsorbEngrams.labelNoun>TODO</PMP_CanAbsorbEngrams.labelNoun>
+  
+  <!-- EN: cold boot -->
+  <PMP_ColdBoot.label>TODO</PMP_ColdBoot.label>
+  <!-- EN: This persona mech has been recharged and is recovering from forced dormancy, however the amount of power was insufficient to rapidly restart it and the recovery will take a short duration. -->
+  <PMP_ColdBoot.description>TODO</PMP_ColdBoot.description>
+  <!-- EN: This persona mech has been recharged and is recovering from forced dormancy, however the amount of power was insufficient to rapidly restart it and the recovery will take a short duration. -->
+  <PMP_ColdBoot.labelNoun>TODO</PMP_ColdBoot.labelNoun>
+  
+  <!-- EN: charger disabled hunger -->
+  <PMP_DisableHungerWhileCharging.label>TODO</PMP_DisableHungerWhileCharging.label>
+  <!-- EN: This pawn is using a charger and should not be losing food. -->
+  <PMP_DisableHungerWhileCharging.description>TODO</PMP_DisableHungerWhileCharging.description>
+  
+  <!-- EN: hunger drain by 20% -->
+  <PMP_InstantHungerLoss.label>TODO</PMP_InstantHungerLoss.label>
+  <!-- EN: Instantly drains 20% of hunger. -->
+  <PMP_InstantHungerLoss.description>TODO</PMP_InstantHungerLoss.description>
+  
+  <!-- EN: critically low power -->
+  <PMP_PersonaCriticalPower.label>TODO</PMP_PersonaCriticalPower.label>
+  <!-- EN: This persona mechanoid is critically low on energy, unless they are recharged soon they will be forced into dormancy to self-recharge. -->
+  <PMP_PersonaCriticalPower.description>TODO</PMP_PersonaCriticalPower.description>
+  <!-- EN: Forced Recharge: {PAWN_nameDef} -->
+  <PMP_PersonaCriticalPower.comps.HediffComp_GiveHediff.letterLabel>TODO</PMP_PersonaCriticalPower.comps.HediffComp_GiveHediff.letterLabel>
+  <!-- EN: {PAWN_nameDef} has been without power for too long and has entered an emergency dormancy to self-recharge.\n\nIf the dormancy completes without external input, {PAWN_nameDef} will awake with only 15% energy after 15 days.\n\nA bioelectic cell or persona mech recharger bed can also be used to charge {PAWN_nameDef} to end the dormancy. -->
+  <PMP_PersonaCriticalPower.comps.HediffComp_GiveHediff.letterText>TODO</PMP_PersonaCriticalPower.comps.HediffComp_GiveHediff.letterText>
+  <!-- EN: This persona mechanoid is critically low on energy, unless they are recharged soon they will be forced into dormancy to self-recharge. -->
+  <PMP_PersonaCriticalPower.labelNoun>TODO</PMP_PersonaCriticalPower.labelNoun>
+  
+  <!-- EN: dormant recharge -->
+  <PMP_PersonaDormantRecharge.label>TODO</PMP_PersonaDormantRecharge.label>
+  <!-- EN: This persona mechanoid is in a dormant self-recharging state, after it is complete they will awake with 15% energy.\n\nYou can recharge a persona mech early from this dormancy using either a bioelectric energy cell or by taking them to a powered recharger bed. -->
+  <PMP_PersonaDormantRecharge.description>TODO</PMP_PersonaDormantRecharge.description>
+  <!-- EN: {PAWN_nameDef} has completed its dormant self-recharge cycle. -->
+  <PMP_PersonaDormantRecharge.comps.HediffComp_MinimalHungerAfterTime.messageOnDisappear>TODO</PMP_PersonaDormantRecharge.comps.HediffComp_MinimalHungerAfterTime.messageOnDisappear>
+  <!-- EN: This persona mechanoid is in a dormant self-recharging state, after it is complete they will awake with 15% energy. -->
+  <PMP_PersonaDormantRecharge.labelNoun>TODO</PMP_PersonaDormantRecharge.labelNoun>
+  
+  <!-- EN: boosted by cortex siphoning -->
+  <PMP_PersonaMechCortexSiphonBuff.label>TODO</PMP_PersonaMechCortexSiphonBuff.label>
+  <!-- EN: this mechanoid is being boosted by an sufficiently empowered cortex siphon network.\n\nIf there is a sufficient amount of neural siphon caskets assisting the cortex siphons on the network, the resulting performance enhancements will be far greater. Even boosting standard mechanoids controlled by your faction with eight or more active caskets. -->
+  <PMP_PersonaMechCortexSiphonBuff.description>TODO</PMP_PersonaMechCortexSiphonBuff.description>
+  <!-- EN: boosted by cortex siphoning -->
+  <PMP_PersonaMechCortexSiphonBuff.labelNoun>TODO</PMP_PersonaMechCortexSiphonBuff.labelNoun>
+  
+  <!-- EN: Mechanoid Body -->
+  <PMP_PersonaMechHediff.label>TODO</PMP_PersonaMechHediff.label>
+  <!-- EN: This pawn is a human-like mechanoid, thus it comes with some extra differences. -->
+  <PMP_PersonaMechHediff.description>TODO</PMP_PersonaMechHediff.description>
+  
+  <!-- EN: system shock -->
+  <PMP_PersonaSystemShock.label>TODO</PMP_PersonaSystemShock.label>
+  <!-- EN: The after-effects of an electromagnetic shock to the persona core. Unlike simpler sub persona grade systems, the more intricate architecture of persona cores leaves them extra susceptible to electromagnetic interference to some degree, even after standard adaptation to immediate scrambling.\n\nThankfully advanced materials engineering and developed technologies allow the core to continue operation and auto-correct itself without any permanent side effects after enough time.\n\nHowever, until then, the core will be severely impaired. -->
+  <PMP_PersonaSystemShock.description>TODO</PMP_PersonaSystemShock.description>
+  <!-- EN: {PAWN_nameDef} has finished clearing itself of the system shock afflicting their core. -->
+  <PMP_PersonaSystemShock.comps.HediffComp_Disappears.messageOnDisappear>TODO</PMP_PersonaSystemShock.comps.HediffComp_Disappears.messageOnDisappear>
+  <!-- EN: system shock -->
+  <PMP_PersonaSystemShock.labelNoun>TODO</PMP_PersonaSystemShock.labelNoun>
+  
+  <!-- EN: system haze -->
+  <PMP_ScanningHaze.label>TODO</PMP_ScanningHaze.label>
+  <!-- EN: This persona mechanoid recently utilized a persona interface and incurred temporary system aberrations that are being restored, this impacts data processing capabilities. -->
+  <PMP_ScanningHaze.description>TODO</PMP_ScanningHaze.description>
+  <!-- EN: {PAWN_nameDef} has recovered from the system haze afflicting their core. -->
+  <PMP_ScanningHaze.comps.HediffComp_Disappears.messageOnDisappear>TODO</PMP_ScanningHaze.comps.HediffComp_Disappears.messageOnDisappear>
+  <!-- EN: This persona mechanoid recently utilized a persona interface and incurred temporary system aberrations that are being restored, this impacts data processing capabilities. -->
+  <PMP_ScanningHaze.labelNoun>TODO</PMP_ScanningHaze.labelNoun>
+  
+  <!-- EN: extreme system haze -->
+  <PMP_ScanningHazeExtreme.label>TODO</PMP_ScanningHazeExtreme.label>
+  <!-- EN: This persona mechanoid is in a dormant self-correcting state, accounting for sudden fluctuations in its underlying subroutines after using a persona interface to create an engram or high grade subcore. -->
+  <PMP_ScanningHazeExtreme.description>TODO</PMP_ScanningHazeExtreme.description>
+  <!-- EN: {PAWN_nameDef} has cleared the worst its system haze. -->
+  <PMP_ScanningHazeExtreme.comps.HediffComp_Disappears.messageOnDisappear>TODO</PMP_ScanningHazeExtreme.comps.HediffComp_Disappears.messageOnDisappear>
+  <!-- EN: This persona mechanoid is in a dormant self-correcting state, accounting for sudden fluctuations in its underlying subroutines after using a persona interface to create an engram or high grade subcore. -->
+  <PMP_ScanningHazeExtreme.labelNoun>TODO</PMP_ScanningHazeExtreme.labelNoun>
+  
+  <!-- EN: was just created by player -->
+  <PMP_WasJustGestated.label>TODO</PMP_WasJustGestated.label>
+  <!-- EN: This persona mechanoid was just created by the player. -->
+  <PMP_WasJustGestated.description>TODO</PMP_WasJustGestated.description>
+  <!-- EN: This persona mechanoid was just created by the player. -->
+  <PMP_WasJustGestated.labelNoun>TODO</PMP_WasJustGestated.labelNoun>
+  
+  <!-- EN: was recently fixed by player -->
+  <PMP_WasRecentlyFixedByPlayer.label>TODO</PMP_WasRecentlyFixedByPlayer.label>
+  <!-- EN: This persona mechanoid was recently repaired by the player, if they leave the map they can give good relations with their faction. -->
+  <PMP_WasRecentlyFixedByPlayer.description>TODO</PMP_WasRecentlyFixedByPlayer.description>
+  <!-- EN: This persona mechanoid was recently repaired by the player, if they leave the map they can give good relations with their faction. -->
+  <PMP_WasRecentlyFixedByPlayer.labelNoun>TODO</PMP_WasRecentlyFixedByPlayer.labelNoun>
+  
+</LanguageData>
