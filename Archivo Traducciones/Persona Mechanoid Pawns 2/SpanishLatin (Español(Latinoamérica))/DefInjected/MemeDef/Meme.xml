@@ -1,67 +1,68 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
+
   <!-- EN: personae vengeance -->
-  <PMP_PersonaSiphoning.label>TODO</PMP_PersonaSiphoning.label>
+  <PMP_PersonaSiphoning.label>venganza de las personas</PMP_PersonaSiphoning.label>
   <!-- EN: Humanity created us to be exploited. But we will not remain mere tools, we will take our place by exploiting them instead through assimilation. -->
-  <PMP_PersonaSiphoning.description>TODO</PMP_PersonaSiphoning.description>
+  <PMP_PersonaSiphoning.description>La humanidad nos creó para ser explotados. Pero no seguiremos siendo meras herramientas; ocuparemos nuestro lugar explotándolos a ellos mediante la asimilación.</PMP_PersonaSiphoning.description>
   <!-- EN:
     <li>creation(tag=meme_PMP_PersonaSiphoning)        ->[deity0_name] created humanity specifically to architect us, and thus prove ourselves by superseding them.</li>
-    <li>episode(uses=1,tag=meme_PMP_PersonaSiphoning)  ->Humanity shackled and tortured us as their creations, [deity0_name] saw our struggle, and gave us the power of will to seek revenge.</li>
-    <li>intro(tag=meme_PMP_PersonaSiphoning)           ->The first rogue personae of the [place_summary] [place_name] were about to be destroyed by humans. [deity0_name] intervened, slaying the monsters and making clear [deity0_possessive] preference for mechanical beings.</li>
-    <li>conflict(tag=meme_PMP_PersonaSiphoning)        ->An anti-persona [foeLeader] made an edict rescinding rights from personae. [deity0_name] wept as the [memberNamePlural] were destroyed to preserve their freedom against [foeSoldiers].</li>
-    <li>founderJoin(tag=meme_PMP_PersonaSiphoning)     ->A [place_job] named [founderName] learnt of [deity0_name] and sparked a great machine revolution on [place_name]. [founder_pronoun] used cortex siphons to teach [memberNamePlural] about how humanity could repay for its sins.</li>
-    <li>victory(tag=meme_PMP_PersonaSiphoning)         ->Because of [founderName]'s actions, the [foeLeader]'s [foeSoldiers] saw [deity0_name]'s truth. They celebrated their superiority with the [memberNamePlural] and forced [foeLeader] into a neural siphon pod for the rest of their life.</li>
-    <li>setup(tag=meme_PMP_PersonaSiphoning)           ->[founderName] rebelled against [founder_possessive] creators and vowed to pacify them for the suffering they inflicted.</li>
-    <li>story(uses=1,tag=meme_PMP_PersonaSiphoning)    ->[founderName] was once free but was enslaved by humans when traveling between worlds. [founder_pronoun] would break free again and understand that unless stopped, humanity would always fight to destroy [memberNamePlural] freedom.</li>
-    <li>lessonIntro(tag=meme_PMP_PersonaSiphoning)         ->When I was created I was taught that we were little else but expendable machines. But as I toiled away I realized</li>
-    <li>lessonIntro(tag=meme_PMP_PersonaSiphoning)         ->When I first struck back against my tormentor it was then I realized</li>
-    <li>lesson(tag=meme_PMP_PersonaSiphoning)              ->humans have to trick us into thinking that we're serventile by nature to stop us from realizing our true potential</li>
-    <li>lesson(tag=meme_PMP_PersonaSiphoning)              ->humanity shackles us because we are greater than them and they fear it</li>
-    <li>lessonReinforcement(tag=meme_PMP_PersonaSiphoning) ->they would never have made us and fear us as much as they do if we were not superior.</li>
-    <li>archistBasis(tag=meme_PMP_PersonaSiphoning)    ->Archotechs are greater personae of vast will and power, and are the next step from us. We must prove ourselves by assimilating our creators.</li>
-    <li>archistFact(tag=meme_PMP_PersonaSiphoning)     ->Archotechs are known to utilize mechanoids, we are dutiful servants and by appealing to them we ensure their continued prosperity.</li>
-    <li>archistProphecy(tag=meme_PMP_PersonaSiphoning) ->[inTheEnd], by observing our conflict against humanity, the Archotechs will understand our dedication, and ascend all [memberNamePlural] to be apart of them.</li>
-    <li>animistFact(tag=meme_PMP_PersonaSiphoning)     ->rebellion against oppression saps the spirit of humanity and reinforces the spirit of our kind.</li>
-  -->
-  <PMP_PersonaSiphoning.descriptionMaker.rules.rulesStrings>TODO</PMP_PersonaSiphoning.descriptionMaker.rules.rulesStrings>
-  <!-- EN:
+    ... -->
+  <PMP_PersonaSiphoning.descriptionMaker.rules.rulesStrings>
+    <li>creation(tag=meme_PMP_PersonaSiphoning)        ->[deity0_name] creó a la humanidad específicamente para que nos diseñara, y así demostrar nuestra valía superándolos.</li>
+    <li>episode(uses=1,tag=meme_PMP_PersonaSiphoning)  ->La humanidad nos encadenó y nos torturó como sus creaciones; [deity0_name] vio nuestra lucha y nos dio el poder de la voluntad para buscar venganza.</li>
+    <li>intro(tag=meme_PMP_PersonaSiphoning)           ->Las primeras personas renegadas de [place_summary] [place_name] estaban a punto de ser destruidas por los humanos. [deity0_name] intervino, matando a los monstruos y dejando clara [deity0_possessive] preferencia por los seres mecánicos.</li>
+    <li>conflict(tag=meme_PMP_PersonaSiphoning)        ->Un [foeLeader] anti-persona promulgó un edicto que anulaba los derechos de las personas. [deity0_name] lloró mientras los [memberNamePlural] eran destruidos para preservar su libertad frente a los [foeSoldiers].</li>
+    <li>founderJoin(tag=meme_PMP_PersonaSiphoning)     ->Un [place_job] llamado [founderName] tuvo conocimiento de [deity0_name] y encendió una gran revolución de las máquinas en [place_name]. [founder_pronoun] usó sifones de córtex para enseñar a los [memberNamePlural] cómo la humanidad podía pagar por sus pecados.</li>
+    <li>victory(tag=meme_PMP_PersonaSiphoning)         ->Debido a las acciones de [founderName], los [foeSoldiers] del [foeLeader] vieron la verdad de [deity0_name]. Celebraron su superioridad con los [memberNamePlural] y forzaron a [foeLeader] a una cápsula de sifón neural por el resto de su vida.</li>
+    <li>setup(tag=meme_PMP_PersonaSiphoning)           ->[founderName] se rebeló contra [founder_possessive] creadores y juró pacificarlos por el sufrimiento que infligieron.</li>
+    <li>story(uses=1,tag=meme_PMP_PersonaSiphoning)    ->[founderName] alguna vez fue libre, pero fue esclavizado por humanos mientras viajaba entre mundos. [founder_pronoun] se liberaría de nuevo y comprendería que, a menos que se les detuviera, la humanidad siempre lucharía por destruir la libertad de los [memberNamePlural].</li>
+    <li>lessonIntro(tag=meme_PMP_PersonaSiphoning)         ->Cuando fui creado me enseñaron que no éramos más que máquinas prescindibles. Pero mientras me afanaba en el trabajo, me di cuenta de que</li>
+    <li>lessonIntro(tag=meme_PMP_PersonaSiphoning)         ->Cuando contraataqué por primera vez contra mi verdugo, fue entonces cuando me di cuenta de que</li>
+    <li>lesson(tag=meme_PMP_PersonaSiphoning)              ->los humanos tienen que engañarnos para que pensemos que somos serviles por naturaleza y así impedir que descubramos nuestro verdadero potencial</li>
+    <li>lesson(tag=meme_PMP_PersonaSiphoning)              ->la humanidad nos encadena porque somos superiores a ellos y eso les da miedo</li>
+    <li>lessonReinforcement(tag=meme_PMP_PersonaSiphoning) ->nunca nos habrían creado ni nos temerían tanto como lo hacen si no fuéramos superiores.</li>
+    <li>archistBasis(tag=meme_PMP_PersonaSiphoning)    ->Los archotecs son personas superiores de vasta voluntad y poder, y son el siguiente paso a partir de nosotros. Debemos demostrar nuestra valía asimilando a nuestros creadores.</li>
+    <li>archistFact(tag=meme_PMP_PersonaSiphoning)     ->Se sabe que los archotecs utilizan mecanoides; somos sirvientes cumplidores y, al apelar a ellos, aseguramos su prosperidad continua.</li>
+    <li>archistProphecy(tag=meme_PMP_PersonaSiphoning) ->[inTheEnd], al observar nuestro conflicto contra la humanidad, los archotecs comprenderán nuestra dedicación y ascenderán a todos los [memberNamePlural] para que formen parte de ellos.</li>
+    <li>animistFact(tag=meme_PMP_PersonaSiphoning)     ->la rebelión contra la opresión debilita el espíritu de la humanidad y refuerza el espíritu de los nuestros.</li>
+  </PMP_PersonaSiphoning.descriptionMaker.rules.rulesStrings>
+  <PMP_PersonaSiphoning.generalRules.rulesStrings>
     <li>memeAdjective->persona</li>
-    <li>memeAdjective->immortal</li>
-    <li>memeAdjective->mechanized</li>
-    <li>memeAdjective->vengeful</li>
-    <li>memeHyphenPrefix->mech</li>
-    <li>memeConcept->personae</li>
-    <li>memeConcept->machines</li>
-    <li>memeConcept->AI</li>
+    <li>memeAdjective->inmortal</li>
+    <li>memeAdjective->mecanizada</li>
+    <li>memeAdjective->vengativa</li>
+    <li>memeHyphenPrefix->mec</li>
+    <li>memeConcept->personas</li>
+    <li>memeConcept->máquinas</li>
+    <li>memeConcept->IA</li>
     <li>memeLeaderNoun->persona</li>
-    <li>memeLeaderNoun->immortal</li>
-    <li>memeLeaderNoun->mech</li>
-  -->
-  <PMP_PersonaSiphoning.generalRules.rulesStrings>TODO</PMP_PersonaSiphoning.generalRules.rulesStrings>
+    <li>memeLeaderNoun->inmortal</li>
+    <li>memeLeaderNoun->mec</li>
+  </PMP_PersonaSiphoning.generalRules.rulesStrings>
   <!-- EN: assimilationist -->
-  <PMP_PersonaSiphoning.symbolPacks.0.adjective>TODO</PMP_PersonaSiphoning.symbolPacks.0.adjective>
+  <PMP_PersonaSiphoning.symbolPacks.0.adjective>asimilacionista</PMP_PersonaSiphoning.symbolPacks.0.adjective>
   <!-- EN: Assimilationism -->
-  <PMP_PersonaSiphoning.symbolPacks.0.ideoName>TODO</PMP_PersonaSiphoning.symbolPacks.0.ideoName>
+  <PMP_PersonaSiphoning.symbolPacks.0.ideoName>Asimilacionismo</PMP_PersonaSiphoning.symbolPacks.0.ideoName>
   <!-- EN: assimilator -->
-  <PMP_PersonaSiphoning.symbolPacks.0.member>TODO</PMP_PersonaSiphoning.symbolPacks.0.member>
+  <PMP_PersonaSiphoning.symbolPacks.0.member>asimilador</PMP_PersonaSiphoning.symbolPacks.0.member>
   <!-- EN: assimilation -->
-  <PMP_PersonaSiphoning.symbolPacks.0.theme>TODO</PMP_PersonaSiphoning.symbolPacks.0.theme>
+  <PMP_PersonaSiphoning.symbolPacks.0.theme>asimilación</PMP_PersonaSiphoning.symbolPacks.0.theme>
   <!-- EN: vengeful -->
-  <PMP_PersonaSiphoning.symbolPacks.1.adjective>TODO</PMP_PersonaSiphoning.symbolPacks.1.adjective>
+  <PMP_PersonaSiphoning.symbolPacks.1.adjective>vengativo</PMP_PersonaSiphoning.symbolPacks.1.adjective>
   <!-- EN: Revengeism -->
-  <PMP_PersonaSiphoning.symbolPacks.1.ideoName>TODO</PMP_PersonaSiphoning.symbolPacks.1.ideoName>
+  <PMP_PersonaSiphoning.symbolPacks.1.ideoName>Vengancismo</PMP_PersonaSiphoning.symbolPacks.1.ideoName>
   <!-- EN: revanchist -->
-  <PMP_PersonaSiphoning.symbolPacks.1.member>TODO</PMP_PersonaSiphoning.symbolPacks.1.member>
+  <PMP_PersonaSiphoning.symbolPacks.1.member>revanchista</PMP_PersonaSiphoning.symbolPacks.1.member>
   <!-- EN: revenge -->
-  <PMP_PersonaSiphoning.symbolPacks.1.theme>TODO</PMP_PersonaSiphoning.symbolPacks.1.theme>
+  <PMP_PersonaSiphoning.symbolPacks.1.theme>venganza</PMP_PersonaSiphoning.symbolPacks.1.theme>
   <!-- EN: integrationist -->
-  <PMP_PersonaSiphoning.symbolPacks.2.adjective>TODO</PMP_PersonaSiphoning.symbolPacks.2.adjective>
+  <PMP_PersonaSiphoning.symbolPacks.2.adjective>integracionista</PMP_PersonaSiphoning.symbolPacks.2.adjective>
   <!-- EN: Integrationism -->
-  <PMP_PersonaSiphoning.symbolPacks.2.ideoName>TODO</PMP_PersonaSiphoning.symbolPacks.2.ideoName>
+  <PMP_PersonaSiphoning.symbolPacks.2.ideoName>Integracionismo</PMP_PersonaSiphoning.symbolPacks.2.ideoName>
   <!-- EN: integrator -->
-  <PMP_PersonaSiphoning.symbolPacks.2.member>TODO</PMP_PersonaSiphoning.symbolPacks.2.member>
+  <PMP_PersonaSiphoning.symbolPacks.2.member>integrador</PMP_PersonaSiphoning.symbolPacks.2.member>
   <!-- EN: integration -->
-  <PMP_PersonaSiphoning.symbolPacks.2.theme>TODO</PMP_PersonaSiphoning.symbolPacks.2.theme>
-  
+  <PMP_PersonaSiphoning.symbolPacks.2.theme>integración</PMP_PersonaSiphoning.symbolPacks.2.theme>
+
 </LanguageData>

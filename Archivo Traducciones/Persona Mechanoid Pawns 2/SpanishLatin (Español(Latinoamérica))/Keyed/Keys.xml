@@ -1,79 +1,79 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 	<!-- EN: Not usable by mechanoids! -->
-  <PMP_PersonaForbiddenTooltip>TODO</PMP_PersonaForbiddenTooltip>
+  <PMP_PersonaForbiddenTooltip>¡No puede ser usado por mecanoides!</PMP_PersonaForbiddenTooltip>
 	<!-- EN: Not usable by mechanoids! Use a "Persona Interface" instead. -->
-  <PMP_PersonaForbiddenTooltipSubcoreScanners>TODO</PMP_PersonaForbiddenTooltipSubcoreScanners>
+  <PMP_PersonaForbiddenTooltipSubcoreScanners>¡No puede ser usado por mecanoides! Usa una "Interfaz de persona" en su lugar.</PMP_PersonaForbiddenTooltipSubcoreScanners>
 	<!-- EN: Persona mechanoid, age {PAWN_ageFull} -->
-  <PMP_PersonaOverview>TODO</PMP_PersonaOverview>
+  <PMP_PersonaOverview>Mecanoide persona, edad {PAWN_ageFull}</PMP_PersonaOverview>
 	<!-- EN: Repair-self -->
-  <PMP_PersonaOverviewRepair>TODO</PMP_PersonaOverviewRepair>
+  <PMP_PersonaOverviewRepair>Autorreparación</PMP_PersonaOverviewRepair>
 	<!-- EN: Persona mechs with repair-self enabled will repair themselves on the spot instead of seeking a bed. They must be assigned to and be capable of smithing work.\n\nIf energy reserves are depleted, new self repair operations can not be started.\n\nPersona mechs set to repair-self additionally bypass the requirements of being either a mechanitor or a normal mechanoid to perform repair actions.\n\nCrafting skill level impacts energy usage efficiency non-linearly. Very draining at low skill. -->
-  <PMP_PersonaOverviewRepairDesc>TODO</PMP_PersonaOverviewRepairDesc>
+  <PMP_PersonaOverviewRepairDesc>Los mecanoides persona con la autorreparación activada se repararán a sí mismos en el sitio en lugar de buscar una cama. Deben estar asignados a trabajo de forja y ser capaces de realizarlo.\n\nSi las reservas de energía están agotadas, no se pueden iniciar nuevas operaciones de autorreparación.\n\nLos mecanoides persona configurados para autorrepararse omiten además el requisito de ser un mecanitor o un mecanoide normal para realizar acciones de reparación.\n\nEl nivel de habilidad de fabricación afecta la eficiencia del uso de energía de forma no lineal. Muy agotador con habilidad baja.</PMP_PersonaOverviewRepairDesc>
 	<!-- EN: Can not smith, self-repair impossible -->
-  <PMP_PersonaOverviewHealForbidden>TODO</PMP_PersonaOverviewHealForbidden>
+  <PMP_PersonaOverviewHealForbidden>No puede forjar, autorreparación imposible</PMP_PersonaOverviewHealForbidden>
 	<!-- EN: Insufficient charge to start self-repairing. Recharge or seek assistance. -->
-  <PMP_PersonaOverviewHealNoEnergy>TODO</PMP_PersonaOverviewHealNoEnergy>
+  <PMP_PersonaOverviewHealNoEnergy>Carga insuficiente para iniciar la autorreparación. Recarga o busca ayuda.</PMP_PersonaOverviewHealNoEnergy>
 	<!-- EN: Not assigned to smith. -->
-  <PMP_PersonaOverviewHealUnset>TODO</PMP_PersonaOverviewHealUnset>
+  <PMP_PersonaOverviewHealUnset>No asignado a forja.</PMP_PersonaOverviewHealUnset>
 	<!-- EN: Energy -->
-  <PMP_PersonaBioelectricEnergy>TODO</PMP_PersonaBioelectricEnergy>
+  <PMP_PersonaBioelectricEnergy>Energía</PMP_PersonaBioelectricEnergy>
 	<!-- EN: A reserve of bioelectric energy needed for a mechanoid to function. Aside from passive drain, repairing also uses varying amounts of energy depending on crafting skill. Very draining at low skill.\n\nIt can be recharged via a persona mech recharger or a portable bioelectric cell.\n\nWhen reserves are under 50% the persona mech will seek a charger, under 30% they also start seeking a bioelectric cell. Without offsets, 10% of the energy reserve is used per day.\n\nIf it reaches zero, the persona mech will enter a critical power state for 24 hours, before being forced into a dormant recharge! -->
-  <PMP_PersonaBioelectricEnergyDesc>TODO</PMP_PersonaBioelectricEnergyDesc>
+  <PMP_PersonaBioelectricEnergyDesc>Una reserva de energía bioeléctrica necesaria para que un mecanoide funcione. Aparte del drenaje pasivo, reparar también consume cantidades variables de energía según la habilidad de fabricación. Muy agotador con habilidad baja.\n\nSe puede recargar mediante un recargador de mecanoides persona o una célula bioeléctrica portátil.\n\nCuando las reservas están por debajo del 50%, el mecanoide persona buscará un cargador; por debajo del 30%, también empieza a buscar una célula bioeléctrica. Sin modificadores, se usa el 10% de la reserva de energía por día.\n\n¡Si llega a cero, el mecanoide persona entrará en un estado de energía crítica durante 24 horas antes de ser forzado a una recarga en latencia!</PMP_PersonaBioelectricEnergyDesc>
 	<!-- EN: Target is a mechanoid. -->
-  <PMP_PersonaTargetForbidden>TODO</PMP_PersonaTargetForbidden>
+  <PMP_PersonaTargetForbidden>El objetivo es un mecanoide.</PMP_PersonaTargetForbidden>
 	<!-- EN: Recharging: {0} -->
-  <PMP_PersonaBioelectricCellRechargerProgress>TODO</PMP_PersonaBioelectricCellRechargerProgress>
+  <PMP_PersonaBioelectricCellRechargerProgress>Recargando: {0}</PMP_PersonaBioelectricCellRechargerProgress>
 	<!-- EN: Cell charged, ready for extraction. -->
-  <PMP_PersonaBioelectricCellRechargerDone>TODO</PMP_PersonaBioelectricCellRechargerDone>
+  <PMP_PersonaBioelectricCellRechargerDone>Célula cargada, lista para extracción.</PMP_PersonaBioelectricCellRechargerDone>
 	<!-- EN: Contains: {0} / {1} Depleted Cell. -->
-  <PMP_PersonaBioelectricCellRechargerDepletedContent>TODO</PMP_PersonaBioelectricCellRechargerDepletedContent>
+  <PMP_PersonaBioelectricCellRechargerDepletedContent>Contiene: {0} / {1} célula agotada.</PMP_PersonaBioelectricCellRechargerDepletedContent>
 	<!-- EN: Contains: {0} / {1} Charged Cell. -->
-  <PMP_PersonaBioelectricCellRechargerChargedContent>TODO</PMP_PersonaBioelectricCellRechargerChargedContent>
+  <PMP_PersonaBioelectricCellRechargerChargedContent>Contiene: {0} / {1} célula cargada.</PMP_PersonaBioelectricCellRechargerChargedContent>
 	<!-- EN: Recharge Now -->
-  <PMP_PersonaMechDirectRechargeNow>TODO</PMP_PersonaMechDirectRechargeNow>
+  <PMP_PersonaMechDirectRechargeNow>Recargar ahora</PMP_PersonaMechDirectRechargeNow>
 	<!-- EN: Must be a persona mechanoid. -->
-  <PMP_OnlyPersonaMechanoidsAllowed>TODO</PMP_OnlyPersonaMechanoidsAllowed>
+  <PMP_OnlyPersonaMechanoidsAllowed>Debe ser un mecanoide persona.</PMP_OnlyPersonaMechanoidsAllowed>
 	<!-- EN: Must wait for system haze to clear. -->
-  <PMP_PersonaHasSystemHaze>TODO</PMP_PersonaHasSystemHaze>
+  <PMP_PersonaHasSystemHaze>Debe esperar a que se disipe la bruma de sistema.</PMP_PersonaHasSystemHaze>
 	<!-- EN: Engram mode -->
-  <PMP_EngramModeTitle>TODO</PMP_EngramModeTitle>
+  <PMP_EngramModeTitle>Modo engrama</PMP_EngramModeTitle>
 	<!-- EN: Produce a persona engram instead of persona data fragments.\n\nWarning: Completing this operation will also incur extreme system haze.\n\nThis option will flick back off after completion. -->
-  <PMP_EngramModeDescInterface>TODO</PMP_EngramModeDescInterface>
+  <PMP_EngramModeDescInterface>Produce un engrama de persona en lugar de fragmentos de datos de persona.\n\nAdvertencia: Completar esta operación también provocará bruma de sistema extrema.\n\nEsta opción se desactivará automáticamente tras completarse.</PMP_EngramModeDescInterface>
 	<!-- EN: When enabled the scanner will focus on producing a persona engram, instead of persona data fragments.\n\nThis option will flick back off after completion. -->
-  <PMP_EngramModeDescScanner>TODO</PMP_EngramModeDescScanner>
+  <PMP_EngramModeDescScanner>Cuando está activado, el escáner se centrará en producir un engrama de persona en lugar de fragmentos de datos de persona.\n\nEsta opción se desactivará automáticamente tras completarse.</PMP_EngramModeDescScanner>
 	<!-- EN: Subcore mode -->
-  <PMP_SubcoreModeTitle>TODO</PMP_SubcoreModeTitle>
+  <PMP_SubcoreModeTitle>Modo subnúcleo</PMP_SubcoreModeTitle>
 	<!-- EN: Produce a standard subcore instead of persona data fragments.\n\nThis option will flick back off after completion. -->
-  <PMP_SubcoreModeDesc>TODO</PMP_SubcoreModeDesc>
+  <PMP_SubcoreModeDesc>Produce un subnúcleo estándar en lugar de fragmentos de datos de persona.\n\nEsta opción se desactivará automáticamente tras completarse.</PMP_SubcoreModeDesc>
 	<!-- EN: High subcore mode -->
-  <PMP_HighSubcoreModeTitle>TODO</PMP_HighSubcoreModeTitle>
+  <PMP_HighSubcoreModeTitle>Modo subnúcleo superior</PMP_HighSubcoreModeTitle>
 	<!-- EN: Produce a high subcore instead of persona data fragments.\n\nWarning: Completing this operation will also incur extreme system haze.\n\nThis option will flick back off after completion. -->
-  <PMP_HighSubcoreModeDesc>TODO</PMP_HighSubcoreModeDesc>
+  <PMP_HighSubcoreModeDesc>Produce un subnúcleo superior en lugar de fragmentos de datos de persona.\n\nAdvertencia: Completar esta operación también provocará bruma de sistema extrema.\n\nEsta opción se desactivará automáticamente tras completarse.</PMP_HighSubcoreModeDesc>
 	<!-- EN: Enable Charging -->
-  <PMP_RechargeBedModeTitle>TODO</PMP_RechargeBedModeTitle>
+  <PMP_RechargeBedModeTitle>Activar carga</PMP_RechargeBedModeTitle>
 	<!-- EN: Toggles whether this bed recharges occupants. -->
-  <PMP_RechargeBedModeDesc>TODO</PMP_RechargeBedModeDesc>
+  <PMP_RechargeBedModeDesc>Alterna si esta cama recarga a sus ocupantes.</PMP_RechargeBedModeDesc>
 	<!-- EN: Energy reserves too low. -->
-  <PMP_PersonaHasLowPower>TODO</PMP_PersonaHasLowPower>
+  <PMP_PersonaHasLowPower>Reservas de energía demasiado bajas.</PMP_PersonaHasLowPower>
 	<!-- EN: {0} has successfully integrated the persona engram of {1}. -->
-  <PMP_EngramApplySuccess>TODO</PMP_EngramApplySuccess>
+  <PMP_EngramApplySuccess>{0} ha integrado con éxito el engrama de persona de {1}.</PMP_EngramApplySuccess>
 	<!-- EN: Aberrant thoughtform activity detected!\n\nCause: Absorbed malignant intentions from persona engram. -->
-  <PMP_EngramBerserkMessage>TODO</PMP_EngramBerserkMessage>
+  <PMP_EngramBerserkMessage>¡Actividad aberrante de forma de pensamiento detectada!\n\nCausa: Absorción de intenciones malignas de un engrama de persona.</PMP_EngramBerserkMessage>
 	<!-- EN: Encoded: {0} -->
-  <PMP_EngramEncoded>TODO</PMP_EngramEncoded>
+  <PMP_EngramEncoded>Codificado: {0}</PMP_EngramEncoded>
 	<!-- EN: Traits: {0} -->
-  <PMP_EngramTraits>TODO</PMP_EngramTraits>
+  <PMP_EngramTraits>Rasgos: {0}</PMP_EngramTraits>
 	<!-- EN: Notable Skills (≥7): {0} -->
-  <PMP_EngramNotableSkills>TODO</PMP_EngramNotableSkills>
+  <PMP_EngramNotableSkills>Habilidades notables (≥7): {0}</PMP_EngramNotableSkills>
 	<!-- EN: Passions: {0} -->
-  <PMP_EngramPassions>TODO</PMP_EngramPassions>
+  <PMP_EngramPassions>Pasiones: {0}</PMP_EngramPassions>
 	<!-- EN: Manipulation compromised. -->
-  <PMP_ManipulationCompromised>TODO</PMP_ManipulationCompromised>
+  <PMP_ManipulationCompromised>Manipulación comprometida.</PMP_ManipulationCompromised>
 	<!-- EN: Power failure eject in: {0} -->
-  <PMP_PodNoPowerAlert>TODO</PMP_PodNoPowerAlert>
+  <PMP_PodNoPowerAlert>Expulsión por fallo de energía en: {0}</PMP_PodNoPowerAlert>
 	<!-- EN: Cannot use: Requires cortex siphon -->
-  <PMP_PodNoSiphon>TODO</PMP_PodNoSiphon>
+  <PMP_PodNoSiphon>No se puede usar: Requiere sifón de córtex</PMP_PodNoSiphon>
 	<!-- EN: Extended power failure: Emergency eject performed.\n\nCaution: Subject frenzy induced due to improper disconnect! -->
-  <PMP_PodBerserkMessage>TODO</PMP_PodBerserkMessage>
+  <PMP_PodBerserkMessage>Fallo de energía prolongado: Expulsión de emergencia realizada.\n\nPrecaución: ¡Frenesí del sujeto inducido por una desconexión indebida!</PMP_PodBerserkMessage>
 </LanguageData>
