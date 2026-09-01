@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>[UI-Overhaul] PrettyUI</name>
+  <author>Guezzy</author>
+  <supportedVersions>
+    <li>1.6</li>
+  </supportedVersions>
+  <modVersion>1.10.0</modVersion>
+  <packageId>guezzy.modernui</packageId>
+  <description>Gives RimWorld’s UI a cleaner, more modern, and understated look by adjusting window colors and overall interface tone—without changing gameplay. Compatible with DLCs (Royalty/Ideology/Biotech/Anomaly/Odyssey) and most other mods.
+  </description>
+  <modDependencies>
+	<li>
+		<packageId>brrainz.harmony</packageId>
+		<displayName>Harmony</displayName>
+		<steamWorkshopUrl>steam://url/CommunityFilePage/2009463077</steamWorkshopUrl>
+		<downloadUrl>https://github.com/pardeike/HarmonyRimWorld/releases/latest</downloadUrl>
+	</li>
+ </modDependencies>
+  <loadBefore>
+	<li>sk.dmbb</li>
+  </loadBefore>
+</ModMetaData>
