@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: agrihand harvester arm -->
@@ -26,7 +26,7 @@
   
   <!-- EN: auxiliary manipulator arm -->
   <PMP_AuxiliaryManipulatorArm.label>brazo manipulador auxiliar</PMP_AuxiliaryManipulatorArm.label>
-  <!-- EN: A hadware module manifesting as a cumbersome yet surprisingly dexterous manipulator arm... -->
+  <!-- EN: A hadware module manifesting as a cumbersome yet surprisingly dexterous manipulator arm integrated directly into the chassis of a persona mechanoid, engineered to balance fine motor precision with the strength required for routine labor and maintenance work.\n\nIts surprisingly sharp manipulator tips for quick utility cutting paired with its load bearing strength grant it notable melee capabilities. -->
   <PMP_AuxiliaryManipulatorArm.description>Un módulo de hardware que se manifiesta como un brazo manipulador voluminoso pero sorprendentemente diestro, integrado directamente en el chasis de un mecanoide IA, diseñado para equilibrar la precisión motora fina con la fuerza requerida para el trabajo rutinario y el mantenimiento.\n\nSus puntas de manipulador sorprendentemente afiladas para corte utilitario rápido, combinadas con su fuerza de carga, le otorgan notables capacidades de combate cuerpo a cuerpo.</PMP_AuxiliaryManipulatorArm.description>
   <!-- EN: should tool -->
   <PMP_AuxiliaryManipulatorArm.comps.HediffComp_VerbGiver.tools.should_tool.label>herramienta de hombro</PMP_AuxiliaryManipulatorArm.comps.HediffComp_VerbGiver.tools.should_tool.label>
@@ -70,7 +70,7 @@
   
   <!-- EN: concealed firefoam spewer -->
   <PMP_FirefoampopImplant.label>lanzador de espuma ignífuga</PMP_FirefoampopImplant.label>
-  <!-- EN: A firefoam spewer on a persona mechanoid's body... -->
+  <!-- EN: A firefoam spewer on a persona mechanoid's body, allows for rapid dispersal of firefoam. After firing it takes about 5 days for the foam generator to passively rebuild enough material for another use. -->
   <PMP_FirefoampopImplant.description>Un lanzador de espuma ignífuga oculto en el cuerpo de un mecanoide IA, permite la dispersión rápida de espuma ignífuga. Después de disparar, toma aproximadamente 5 días para que el generador de espuma reconstruya pasivamente suficiente material para otro uso.</PMP_FirefoampopImplant.description>
   
   <!-- EN: frame stabilizer -->
@@ -89,17 +89,17 @@
   
   <!-- EN: integrated mini-flameblaster -->
   <PMP_IntegratedMiniFlameblaster.label>mini lanzallamas integrado</PMP_IntegratedMiniFlameblaster.label>
-  <!-- EN: A hardware module manifesting as concealed yet rapidly deployable mini-flameblaster armament... -->
+  <!-- EN: A hardware module manifesting as concealed yet rapidly deployable mini-flameblaster armament, usually only seen in schorcher mechs.\n\nInstalled directly into the chassis of the persona mechanoid it can be toggled utilizing the associated ability, instantly stowing any other integrated weapon or dropping the current standard armament on activation. -->
   <PMP_IntegratedMiniFlameblaster.description>Un módulo de hardware que se manifiesta como un armamento de mini lanzallamas oculto pero rápidamente desplegable, generalmente solo visto en mecas abrasadores.\n\nInstalado directamente en el chasis del mecanoide IA, puede alternarse utilizando la habilidad asociada, guardando instantáneamente cualquier otra arma integrada o soltando el armamento estándar actual al activarse.</PMP_IntegratedMiniFlameblaster.description>
   
   <!-- EN: integrated thump cannon -->
   <PMP_IntegratedThumpCannon.label>cañón de impacto integrado</PMP_IntegratedThumpCannon.label>
-  <!-- EN: A hardware module manifesting as concealed yet rapidly deployable thump cannon armament... -->
+  <!-- EN: A hardware module manifesting as concealed yet rapidly deployable thump cannon armament, usually only seen in termite mechs.\n\nInstalled directly into the chassis of the persona mechanoid it can be toggled utilizing the associated ability, instantly stowing any other integrated weapon or dropping the current standard armament on activation. -->
   <PMP_IntegratedThumpCannon.description>Un módulo de hardware que se manifiesta como un armamento de cañón de impacto oculto pero rápidamente desplegable, generalmente solo visto en mecas termita.\n\nInstalado directamente en el chasis del mecanoide IA, puede alternarse utilizando la habilidad asociada, guardando instantáneamente cualquier otra arma integrada o soltando el armamento estándar actual al activarse.</PMP_IntegratedThumpCannon.description>
   
   <!-- EN: integrated toxic needle gun -->
   <PMP_IntegratedToxicNeedle.label>pistola de agujas tóxicas integrada</PMP_IntegratedToxicNeedle.label>
-  <!-- EN: A hardware module manifesting as concealed yet rapidly deployable... -->
+  <!-- EN: A hardware module manifesting as concealed yet rapidly deployable mini-flameblaster armament, usually only seen in schorcher mechs.\n\nInstalled directly into the chassis of the persona mechanoid it can be toggled utilizing the associated ability, instantly stowing any other integrated weapon or dropping the current standard armament on activation. -->
   <PMP_IntegratedToxicNeedle.description>Un módulo de hardware que se manifiesta como un armamento de pistola de agujas tóxicas oculto pero rápidamente desplegable, generalmente solo visto en mecas apocritón.\n\nInstalado directamente en el chasis del mecanoide IA, puede alternarse utilizando la habilidad asociada, guardando instantáneamente cualquier otra arma integrada o soltando el armamento estándar actual al activarse.</PMP_IntegratedToxicNeedle.description>
   
   <!-- EN: joy looper -->
@@ -111,17 +111,17 @@
   
   <!-- EN: integrated lesser mechlink -->
   <PMP_LesserMechlink.label>mecaenlace menor integrado</PMP_LesserMechlink.label>
-  <!-- EN: A lesser approximation of a mechlink... -->
+  <!-- EN: A lesser approximation of a mechlink only made possible due to the direct interface potential between the persona core and an adapted mechanoid control band interface, such a simple sublink is too delicate to execute with with organic minds without the ultrafine wiring webs normally found in mechlinks.\n\nWhile it will allow a user to control mechanoids and perform other work made possible by having a mechlink its suffers greatly in bandwidth scaling and other capacities due to its weakened signalling capabilities.\n\nCan be replaced with a fully integrated mechlink via an operation to negate penalties.\n\nNotice: <color=#e44e4e>Only allows for 5 max bandwidth and any further to be acquired only through band node tuning, all other bandwidth buffs from equipment or otherwise are negated.</color> -->
   <PMP_LesserMechlink.description>Una aproximación menor de un mecaenlace solo posible gracias al potencial de interfaz directa entre el núcleo de IA y una interfaz adaptada de banda de control mecanoide, un subenlace tan simple es demasiado delicado para ejecutarse con mentes orgánicas sin las redes de cableado ultrafino que normalmente se encuentran en los mecaenlaces.\n\nAunque permitirá al usuario controlar mecanoides y realizar otros trabajos posibles al tener un mecaenlace, sufre enormemente en escalado de ancho de banda y otras capacidades debido a sus capacidades de señalización debilitadas.\n\nPuede ser reemplazado con un mecaenlace completamente integrado mediante una operación para negar las penalizaciones.\n\nAviso: &lt;color=#e44e4e&gt;Solo permite un máximo de 5 de ancho de banda y cualquier adicional solo puede adquirirse a través del ajuste de nodo de banda, todos los demás beneficios de ancho de banda de equipamiento u otros se anulan.&lt;/color&gt;</PMP_LesserMechlink.description>
   
   <!-- EN: inline jump launcher -->
   <PMP_LongjumpMechImplant.label>lanzador de salto en línea</PMP_LongjumpMechImplant.label>
-  <!-- EN: A hardware module manifesting as a miniaturized jump launcher... -->
+  <!-- EN: A hardware module manifesting as a miniaturized jump launcher built directly into the thorax of the persona mechanoid, able to launch the user briefly to a desired destination before needing to recharge.\n\nUses 20% of energy per jump! Instantly forces dormancy after jumping at critical power levels! -->
   <PMP_LongjumpMechImplant.description>Un módulo de hardware que se manifiesta como un lanzador de salto miniaturizado construido directamente en el tórax del mecanoide IA, capaz de lanzar al usuario brevemente a un destino deseado antes de necesitar recargarse.\n\n¡Usa 20% de energía por salto! ¡Fuerza instantáneamente la latencia después de saltar con niveles de energía críticos!</PMP_LongjumpMechImplant.description>
   
   <!-- EN: concealed smokepop vents -->
   <PMP_SmokepopImplant.label>rejillas de humo</PMP_SmokepopImplant.label>
-  <!-- EN: Concealed vents throughout this mechanoid's body... -->
+  <!-- EN: Concealed vents throughout this mechanoid's body allow the projection of a temporary smoke screen. After firing it takes about 15 days for the smoke generator to passively rebuild enough material for another use. Smoke reduces the accuracy of any shot fired through it, and prevents turrets from locking on entirely. -->
   <PMP_SmokepopImplant.description>Rejillas ocultas a lo largo del cuerpo de este mecanoide permiten la proyección de una cortina de humo temporal. Después de disparar, toma aproximadamente 15 días para que el generador de humo reconstruya pasivamente suficiente material para otro uso. El humo reduce la precisión de cualquier disparo que pase a través de él, y evita que las torretas se fijen por completo.</PMP_SmokepopImplant.description>
   
   <!-- EN: subpersona assistant -->
@@ -133,7 +133,7 @@
   
   <!-- EN: concealed tox gas vents -->
   <PMP_ToxGasImplant.label>rejillas de gas tóxico</PMP_ToxGasImplant.label>
-  <!-- EN: Concealed vents throughout this mechanoid's body... -->
+  <!-- EN: Concealed vents throughout this mechanoid's body allow the formation of a cloud of tox gas around the user. After firing it takes about 5 days for the tox gas generator to passively rebuild enough material for another use.\n\nTox gas burns the lungs and eyes, causing a temporary shortness of breath and reduction in sight. Continued exposure to tox gas results in toxic buildup which can be lethal. -->
   <PMP_ToxGasImplant.description>Rejillas ocultas a lo largo del cuerpo de este mecanoide permiten la formación de una nube de gas tóxico alrededor del usuario. Después de disparar, toma aproximadamente 5 días para que el generador de gas tóxico reconstruya pasivamente suficiente material para otro uso.\n\nEl gas tóxico quema los pulmones y los ojos, causando una dificultad respiratoria temporal y reducción de la vista. La exposición continua al gas tóxico resulta en acumulación tóxica que puede ser letal.</PMP_ToxGasImplant.description>
   
   <!-- EN: tunneler claws -->

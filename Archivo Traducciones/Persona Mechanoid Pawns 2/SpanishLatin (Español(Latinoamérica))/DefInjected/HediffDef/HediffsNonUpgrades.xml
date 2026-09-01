@@ -1,13 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
+  
   <!-- EN: paralytic strata -->
   <PMP_Abasia.label>estrato paralítico</PMP_Abasia.label>
   <!-- EN: A condition that makes a persona mech unable to walk due to faulty signalling from command and control connective strata.\n\nWhile passive maintenance routines will eventually resolve the problem direct replacement of compromised parts through an operation is much faster. -->
   <PMP_Abasia.description>Una condición que impide caminar a un mecanoide IA debido a una señalización defectuosa de los estratos conectivos de mando y control.\n\nAunque las rutinas de mantenimiento pasivo acabarán resolviendo el problema, el reemplazo directo de las partes comprometidas mediante una operación es mucho más rápido.</PMP_Abasia.description>
   <!-- EN: A condition that makes a persona mech unable to walk due to faulty signalling from command and control connective strata. -->
   <PMP_Abasia.descriptionShort>Una condición que impide caminar a un mecanoide IA debido a una señalización defectuosa de los estratos conectivos de mando y control.</PMP_Abasia.descriptionShort>
-
+  
   <!-- EN: engram viable -->
   <PMP_CanAbsorbEngrams.label>engrama viable</PMP_CanAbsorbEngrams.label>
   <!-- EN: The AI persona core in this mech has had its neuro signature temporarily supercharged to boost its polymorphic psychically receptive properties, allowing it to integrate a persona engram within within a limited time frame.\n\nThis can either be retroactively induced with a procedure requiring fragments of persona data, or naturally occurring when a persona mech is first gestated. -->
@@ -16,24 +16,24 @@
   <PMP_CanAbsorbEngrams.comps.HediffComp_Disappears.messageOnDisappear>{PAWN_nameDef} ya no puede cargar un engrama de IA.</PMP_CanAbsorbEngrams.comps.HediffComp_Disappears.messageOnDisappear>
   <!-- EN: The AI persona core in this mech has had its neuro signature temporarily supercharged to boost its polymorphic psychically receptive properties, allowing it to integrate a persona engram within a limited time frame.\n\nThis can either be retroactively induced with a procedure requiring fragments of persona data, or naturally occurring when a persona mech is first gestated. -->
   <PMP_CanAbsorbEngrams.labelNoun>engrama viable</PMP_CanAbsorbEngrams.labelNoun>
-
+  
   <!-- EN: cold boot -->
   <PMP_ColdBoot.label>arranque en frío</PMP_ColdBoot.label>
   <!-- EN: This persona mech has been recharged and is recovering from forced dormancy, however the amount of power was insufficient to rapidly restart it and the recovery will take a short duration. -->
   <PMP_ColdBoot.description>Este mecanoide IA ha sido recargado y se está recuperando de la latencia forzada; sin embargo, la cantidad de energía fue insuficiente para reiniciarlo rápidamente y la recuperación tardará un breve periodo.</PMP_ColdBoot.description>
   <!-- EN: This persona mech has been recharged and is recovering from forced dormancy, however the amount of power was insufficient to rapidly restart it and the recovery will take a short duration. -->
   <PMP_ColdBoot.labelNoun>arranque en frío</PMP_ColdBoot.labelNoun>
-
+  
   <!-- EN: charger disabled hunger -->
   <PMP_DisableHungerWhileCharging.label>hambre desactivada por cargador</PMP_DisableHungerWhileCharging.label>
   <!-- EN: This pawn is using a charger and should not be losing food. -->
   <PMP_DisableHungerWhileCharging.description>Este colono está usando un cargador y no debería estar perdiendo comida.</PMP_DisableHungerWhileCharging.description>
-
+  
   <!-- EN: hunger drain by 20% -->
   <PMP_InstantHungerLoss.label>drenaje de hambre del 20%</PMP_InstantHungerLoss.label>
   <!-- EN: Instantly drains 20% of hunger. -->
   <PMP_InstantHungerLoss.description>Drena instantáneamente el 20% del hambre.</PMP_InstantHungerLoss.description>
-
+  
   <!-- EN: critically low power -->
   <PMP_PersonaCriticalPower.label>energía críticamente baja</PMP_PersonaCriticalPower.label>
   <!-- EN: This persona mechanoid is critically low on energy, unless they are recharged soon they will be forced into dormancy to self-recharge. -->
@@ -44,7 +44,7 @@
   <PMP_PersonaCriticalPower.comps.HediffComp_GiveHediff.letterText>{PAWN_nameDef} ha estado sin energía demasiado tiempo y ha entrado en una latencia de emergencia para autorrecargarse.\n\nSi la latencia se completa sin intervención externa, {PAWN_nameDef} despertará con solo un 15% de energía tras 15 días.\n\nTambién se puede usar una célula bioeléctrica o una cama de mantenimiento de mecas IA para cargar a {PAWN_nameDef} y terminar la latencia.</PMP_PersonaCriticalPower.comps.HediffComp_GiveHediff.letterText>
   <!-- EN: This persona mechanoid is critically low on energy, unless they are recharged soon they will be forced into dormancy to self-recharge. -->
   <PMP_PersonaCriticalPower.labelNoun>energía críticamente baja</PMP_PersonaCriticalPower.labelNoun>
-
+  
   <!-- EN: dormant recharge -->
   <PMP_PersonaDormantRecharge.label>recarga en latencia</PMP_PersonaDormantRecharge.label>
   <!-- EN: This persona mechanoid is in a dormant self-recharging state, after it is complete they will awake with 15% energy.\n\nYou can recharge a persona mech early from this dormancy using either a bioelectric energy cell or by taking them to a powered recharger bed. -->
@@ -53,19 +53,19 @@
   <PMP_PersonaDormantRecharge.comps.HediffComp_MinimalHungerAfterTime.messageOnDisappear>{PAWN_nameDef} ha completado su ciclo de autorrecarga en latencia.</PMP_PersonaDormantRecharge.comps.HediffComp_MinimalHungerAfterTime.messageOnDisappear>
   <!-- EN: This persona mechanoid is in a dormant self-recharging state, after it is complete they will awake with 15% energy. -->
   <PMP_PersonaDormantRecharge.labelNoun>recarga en latencia</PMP_PersonaDormantRecharge.labelNoun>
-
+  
   <!-- EN: boosted by cortex siphoning -->
   <PMP_PersonaMechCortexSiphonBuff.label>potenciado por sifonado de córtex</PMP_PersonaMechCortexSiphonBuff.label>
   <!-- EN: this mechanoid is being boosted by an sufficiently empowered cortex siphon network.\n\nIf there is a sufficient amount of neural siphon caskets assisting the cortex siphons on the network, the resulting performance enhancements will be far greater. Even boosting standard mechanoids controlled by your faction with eight or more active caskets. -->
   <PMP_PersonaMechCortexSiphonBuff.description>este mecanoide está siendo potenciado por una red de sifones de córtex suficientemente empoderada.\n\nSi hay una cantidad suficiente de cápsulas de sifón neural asistiendo a los sifones de córtex de la red, las mejoras de rendimiento resultantes serán mucho mayores. Incluso potenciando a los mecanoides estándar controlados por tu facción con ocho o más cápsulas activas.</PMP_PersonaMechCortexSiphonBuff.description>
   <!-- EN: boosted by cortex siphoning -->
   <PMP_PersonaMechCortexSiphonBuff.labelNoun>potenciado por sifonado de córtex</PMP_PersonaMechCortexSiphonBuff.labelNoun>
-
+  
   <!-- EN: Mechanoid Body -->
   <PMP_PersonaMechHediff.label>cuerpo mecanoide</PMP_PersonaMechHediff.label>
   <!-- EN: This pawn is a human-like mechanoid, thus it comes with some extra differences. -->
   <PMP_PersonaMechHediff.description>Este colono es un mecanoide con forma humana, por lo que presenta algunas diferencias adicionales.</PMP_PersonaMechHediff.description>
-
+  
   <!-- EN: system shock -->
   <PMP_PersonaSystemShock.label>choque de sistema</PMP_PersonaSystemShock.label>
   <!-- EN: The after-effects of an electromagnetic shock to the persona core. Unlike simpler sub persona grade systems, the more intricate architecture of persona cores leaves them extra susceptible to electromagnetic interference to some degree, even after standard adaptation to immediate scrambling.\n\nThankfully advanced materials engineering and developed technologies allow the core to continue operation and auto-correct itself without any permanent side effects after enough time.\n\nHowever, until then, the core will be severely impaired. -->
@@ -74,7 +74,7 @@
   <PMP_PersonaSystemShock.comps.HediffComp_Disappears.messageOnDisappear>{PAWN_nameDef} ha terminado de liberarse del choque de sistema que afligía a su núcleo.</PMP_PersonaSystemShock.comps.HediffComp_Disappears.messageOnDisappear>
   <!-- EN: system shock -->
   <PMP_PersonaSystemShock.labelNoun>choque de sistema</PMP_PersonaSystemShock.labelNoun>
-
+  
   <!-- EN: system haze -->
   <PMP_ScanningHaze.label>bruma de sistema</PMP_ScanningHaze.label>
   <!-- EN: This persona mechanoid recently utilized a persona interface and incurred temporary system aberrations that are being restored, this impacts data processing capabilities. -->
@@ -83,7 +83,7 @@
   <PMP_ScanningHaze.comps.HediffComp_Disappears.messageOnDisappear>{PAWN_nameDef} se ha recuperado de la bruma de sistema que afligía a su núcleo.</PMP_ScanningHaze.comps.HediffComp_Disappears.messageOnDisappear>
   <!-- EN: This persona mechanoid recently utilized a persona interface and incurred temporary system aberrations that are being restored, this impacts data processing capabilities. -->
   <PMP_ScanningHaze.labelNoun>bruma de sistema</PMP_ScanningHaze.labelNoun>
-
+  
   <!-- EN: extreme system haze -->
   <PMP_ScanningHazeExtreme.label>bruma de sistema extrema</PMP_ScanningHazeExtreme.label>
   <!-- EN: This persona mechanoid is in a dormant self-correcting state, accounting for sudden fluctuations in its underlying subroutines after using a persona interface to create an engram or high grade subcore. -->
@@ -92,19 +92,19 @@
   <PMP_ScanningHazeExtreme.comps.HediffComp_Disappears.messageOnDisappear>{PAWN_nameDef} ha superado lo peor de su bruma de sistema.</PMP_ScanningHazeExtreme.comps.HediffComp_Disappears.messageOnDisappear>
   <!-- EN: This persona mechanoid is in a dormant self-correcting state, accounting for sudden fluctuations in its underlying subroutines after using a persona interface to create an engram or high grade subcore. -->
   <PMP_ScanningHazeExtreme.labelNoun>bruma de sistema extrema</PMP_ScanningHazeExtreme.labelNoun>
-
+  
   <!-- EN: was just created by player -->
   <PMP_WasJustGestated.label>recién creado por el jugador</PMP_WasJustGestated.label>
   <!-- EN: This persona mechanoid was just created by the player. -->
   <PMP_WasJustGestated.description>Este mecanoide IA acaba de ser creado por el jugador.</PMP_WasJustGestated.description>
   <!-- EN: This persona mechanoid was just created by the player. -->
   <PMP_WasJustGestated.labelNoun>recién creado por el jugador</PMP_WasJustGestated.labelNoun>
-
+  
   <!-- EN: was recently fixed by player -->
   <PMP_WasRecentlyFixedByPlayer.label>reparado recientemente por el jugador</PMP_WasRecentlyFixedByPlayer.label>
   <!-- EN: This persona mechanoid was recently repaired by the player, if they leave the map they can give good relations with their faction. -->
   <PMP_WasRecentlyFixedByPlayer.description>Este mecanoide IA fue reparado recientemente por el jugador; si abandona el mapa, puede mejorar las relaciones con su facción.</PMP_WasRecentlyFixedByPlayer.description>
   <!-- EN: This persona mechanoid was recently repaired by the player, if they leave the map they can give good relations with their faction. -->
   <PMP_WasRecentlyFixedByPlayer.labelNoun>reparado recientemente por el jugador</PMP_WasRecentlyFixedByPlayer.labelNoun>
-
+  
 </LanguageData>
