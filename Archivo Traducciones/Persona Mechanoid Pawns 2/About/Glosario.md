@@ -19,7 +19,7 @@ Ante un término nuevo del juego que no esté aquí, consultar antes de fijarlo.
 | persona-grade / persona-level (intelligence) | IA avanzada / de nivel avanzado | Evitar "IA de nivel IA" |
 | anti-persona | anti-IA | |
 | subcore | subnúcleo | |
-| subpersona (assistant, tier) | **subpersona** | Se mantiene; NO "subIA" |
+| subpersona (assistant, tier) | **sub-IA** | "subpersona assistant" → asistente sub-IA; "sub persona grade" → de nivel sub-IA |
 | "persona" = humano real | persona | Se mantiene (p. ej. "esta persona", "la persona objetivo") |
 | hyper-advanced computer core | núcleo de computadora hiperavanzado | |
 | mechlink | **mecaenlace** | NO "mecoenlace" ni "mechlink" |
