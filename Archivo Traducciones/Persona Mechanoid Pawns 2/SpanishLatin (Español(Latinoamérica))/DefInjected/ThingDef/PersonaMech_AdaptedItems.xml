@@ -2,18 +2,18 @@
 <LanguageData>
 
   <!-- EN: persona control sublink (standard) -->
-  <PMP_ControlSublink.label>subenlace de control de IA (estándar)</PMP_ControlSublink.label>
+  <PMP_ControlSublink.label>subenlace de control de IA(estándar)</PMP_ControlSublink.label>
   <!-- EN: A hardware module which gives a mechanitor an additional control group. Additionally, the sublink slightly increases the work speed of any mechanoids controlled by the mechanitor.\n\nThis standard-tier sublink can only increase the control group count up to 3. To go higher, a higher-tier sublink upgrade must be used.\n\nIt is self-installed without modification.\n\nThis upgrade can be installed up to 3 times to increase its effect. -->
-  <PMP_ControlSublink.description>Un módulo de hardware que otorga a un mecanizador un grupo de control adicional. Además, el subenlace aumenta ligeramente la velocidad de trabajo de cualquier mecanoide controlado por el mecanizador.\n\nEste subenlace de nivel estándar solo puede aumentar el número de grupos de control hasta 3. Para llegar más alto, se debe usar una mejora de subenlace de nivel superior.\n\nSe autoinstala sin modificaciones.\n\nEsta mejora puede instalarse hasta 3 veces para aumentar su efecto.</PMP_ControlSublink.description>
+  <PMP_ControlSublink.description>Un implante neural que proporciona a un mecanizador un grupo de control adicional. Además, el subenlace aumenta ligeramente la velocidad de trabajo de cualquier mecanoide controlado por el mecanizador.\n\nEste subenlace de nivel estándar solo puede aumentar el número de grupos de control hasta 3. Para llegar a un nivel superior, se debe utilizar un implante de subenlace de nivel avanzado.\n\nEste dispositivo se puede implantar sin necesidad de cirugía.\n\nSe puede implantar hasta 3 veces para aumentar su efecto.</PMP_ControlSublink.description>
   <!-- EN: Implant sublink -->
   <PMP_ControlSublink.comps.CompUsableImplant.useLabel>Implantar subenlace</PMP_ControlSublink.comps.CompUsableImplant.useLabel>
 
   <!-- EN: persona control sublink (high) -->
-  <PMP_ControlSublinkHigh.label>subenlace de control de IA (superior)</PMP_ControlSublinkHigh.label>
+  <PMP_ControlSublinkHigh.label>subenlace de control de IA(avanzado)</PMP_ControlSublinkHigh.label>
   <!-- EN: A hardware module which gives a mechanitor an additional control group. Additionally, the sublink slightly increases the work speed of any mechanoids controlled by the mechanitor.\n\nThis high-tier upgrade can increase the control group count up to 6.\n\nIt is self-installed without modification.\n\nThis upgrade can be installed up to 3 times to increase its effect. -->
-  <PMP_ControlSublinkHigh.description>Un módulo de hardware que otorga a un mecanizador un grupo de control adicional. Además, el subenlace aumenta ligeramente la velocidad de trabajo de cualquier mecanoide controlado por el mecanizador.\n\nEsta mejora de nivel superior puede aumentar el número de grupos de control hasta 6.\n\nSe autoinstala sin modificaciones.\n\nEsta mejora puede instalarse hasta 3 veces para aumentar su efecto.</PMP_ControlSublinkHigh.description>
+  <PMP_ControlSublinkHigh.description>Un implante neural que proporciona a un mecanizador un grupo de control adicional. Además, el subenlace aumenta ligeramente la velocidad de trabajo de cualquier mecanoide controlado por el mecanizador.\n\nEste implante de alto nivel puede aumentar el número de grupos de control hasta 6.\n\nEste dispositivo se puede implantar sin necesidad de cirugía.\n\nSe puede implantar hasta 3 veces para aumentar su efecto.</PMP_ControlSublinkHigh.description>
   <!-- EN: Implant high sublink -->
-  <PMP_ControlSublinkHigh.comps.CompUsableImplant.useLabel>Implantar subenlace superior</PMP_ControlSublinkHigh.comps.CompUsableImplant.useLabel>
+  <PMP_ControlSublinkHigh.comps.CompUsableImplant.useLabel>Implantar subenlace avanzado</PMP_ControlSublinkHigh.comps.CompUsableImplant.useLabel>
 
   <!-- EN: persona mech gestation processor -->
   <PMP_MechFormfeeder.label>procesador de gestación de mecas IA</PMP_MechFormfeeder.label>
@@ -30,7 +30,7 @@
   <PMP_Mechlink.comps.CompUsableImplant.useLabel>Instalar {0_label} para convertirse en mecanizador</PMP_Mechlink.comps.CompUsableImplant.useLabel>
 
   <!-- EN: persona core psylink neuroformer -->
-  <PMP_PsychicAmplifier.label>neuroformador de psicoenlace de núcleo de IA</PMP_PsychicAmplifier.label>
+  <PMP_PsychicAmplifier.label>neuroformador de psicoenlace de IA</PMP_PsychicAmplifier.label>
   <!-- EN: A consumable archotech-created device that forms or upgrades a psylink in the user's mind. This one has been modified to bypass its standard organic interface, allowing direct hookup to a persona core via a wired connection instead.\n\nRemarkably, the neuroformer appears to have recognized the alteration, adapting its internal composition to accommodate the new functionality.\n\nAfter usage, the device disintegrates into worthless ash as expected. -->
   <PMP_PsychicAmplifier.description>Un dispositivo consumible creado por la arqueotéc que forma o actualiza un psicoenlace en la mente del usuario. Este ha sido modificado para omitir su interfaz orgánica estándar, permitiendo en su lugar la conexión directa a un núcleo de IA mediante una conexión por cable.\n\nSorprendentemente, el neuroformador parece haber reconocido la alteración, adaptando su composición interna para acomodar la nueva funcionalidad.\n\nTras su uso, el dispositivo se desintegra en cenizas sin valor, como era de esperar.</PMP_PsychicAmplifier.description>
   <!-- EN: Use neuroformer to form psylink -->
@@ -39,7 +39,7 @@
   <!-- EN: persona remote repairer -->
   <PMP_RemoteRepairer.label>reparador remoto de IA</PMP_RemoteRepairer.label>
   <!-- EN: A mechlink upgrade which allows the mechanitor to repair mechs from a distance. The user links with the mechanoid and uses their own brain to psychically guide its self-repair mechanites.\n\nThis implant can be self-installed without surgery.\n\nThis implant can be installed up to 3 times to increase its range. -->
-  <PMP_RemoteRepairer.description>Una mejora de mecaenlace que permite al mecanizador reparar mecanoides a distancia. El usuario se enlaza con el mecanoide y usa su propio cerebro para guiar psíquicamente sus mecanitas de autorreparación.\n\nEste implante puede autoinstalarse sin cirugía.\n\nEste implante puede instalarse hasta 3 veces para aumentar su alcance.</PMP_RemoteRepairer.description>
+  <PMP_RemoteRepairer.description>Una mejora de mecaenlace que permite al mecanizador reparar mecanoides a distancia. El usuario se vincula con el mecanoide y utiliza su propio cerebro para guiar psíquicamente sus mecanitas de autorreparación.\n\nEste dispositivo se puede autoimplantar sin necesidad de cirugía.\n\nEste dispositivo se puede implantar hasta 3 veces para aumentar su alcance.</PMP_RemoteRepairer.description>
   <!-- EN: Implant {0_label} -->
   <PMP_RemoteRepairer.comps.CompUsableImplant.useLabel>Implantar {0_label}</PMP_RemoteRepairer.comps.CompUsableImplant.useLabel>
 
