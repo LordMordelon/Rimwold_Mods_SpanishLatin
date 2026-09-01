@@ -1,64 +1,64 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
+  
   <!-- EN: agrihand harvester arm -->
   <PMP_AgrihandHarvesterArm.label>brazo cosechador agricoide</PMP_AgrihandHarvesterArm.label>
   <!-- EN: A multi-tool laden arm mimicking the equipment of an agrihand mechanoid, it allows for accelerated harvesting. The construction of this hardware module takes advantage of the alternate mechanite composition of persona mechs, as well as the great processing capacity of their cores. While powerful, the multi-tool setup is somewhat ungainly, which slows down movement slightly.\n\nLacking a biogel nerve-link, it instead utilizes a control interface designed for use with persona driven mechanoids. -->
   <PMP_AgrihandHarvesterArm.description>Un brazo cargado de herramientas múltiples que imita el equipo de un mecanoide agricoide; permite una cosecha acelerada. La construcción de este módulo de hardware aprovecha la composición alternativa de mecanitas de los mecanoides IA, así como la gran capacidad de procesamiento de sus núcleos. Aunque potente, el conjunto de herramientas múltiples es algo tosco, lo que ralentiza ligeramente el movimiento.\n\nAl carecer de un enlace nervioso de biogel, en su lugar utiliza una interfaz de control diseñada para su uso con mecanoides impulsados por IA.</PMP_AgrihandHarvesterArm.description>
-
+  
   <!-- EN: archotech core accelerator -->
   <PMP_ArchotechCoreAccelerator.label>acelerador de núcleo arqueotéc</PMP_ArchotechCoreAccelerator.label>
   <!-- EN: A hardware accelerator module built by an archotech. It connects to a persona level AI core and weaves micro strata into the hardware within. Clearly drastic modifications ensue as the core is almost instantly re-initialized and starts running an incomprehensibly complex slurry of software.\n\nDespite this, seemingly all memories, personality, and any other observable traits are somehow intact, apparently ported to the new internals. Processing speeds increase dramatically as result of the modifications. It is speculated that these modules use a much smaller implementation of technologies likely found within archotech processing structures.\n\n While the thinking capacity of a core is increased significantly, it is still nowhere near an archotech in intelligence.\n\nThe internal workings of this hardware module are a mystery to both humans and even the enhanced personae minds. -->
   <PMP_ArchotechCoreAccelerator.description>Un módulo acelerador de hardware construido por una arqueotéc. Se conecta a un núcleo de IA y teje microestratos en el hardware interior. Se producen modificaciones claramente drásticas mientras el núcleo se reinicializa casi instantáneamente y comienza a ejecutar una mezcla de software incomprensiblemente compleja.\n\nA pesar de esto, aparentemente todos los recuerdos, la personalidad y cualquier otro rasgo observable permanecen de algún modo intactos, aparentemente portados a los nuevos componentes internos. Las velocidades de procesamiento aumentan drásticamente como resultado de las modificaciones. Se especula que estos módulos usan una implementación mucho más pequeña de tecnologías que probablemente se encuentren dentro de las estructuras de procesamiento de las arqueotéc.\n\nAunque la capacidad de pensamiento de un núcleo aumenta significativamente, sigue estando muy lejos de la inteligencia de una arqueotéc.\n\nEl funcionamiento interno de este módulo de hardware es un misterio tanto para los humanos como incluso para las mentes IA mejoradas.</PMP_ArchotechCoreAccelerator.description>
-
+  
   <!-- EN: auxiliary manipulator arm -->
   <PMP_AuxiliaryManipulatorArm.label>brazo manipulador auxiliar</PMP_AuxiliaryManipulatorArm.label>
   <!-- EN: A hadware module manifesting as a cumbersome yet surprisingly dexterous manipulator arm integrated directly into the chassis of a persona mechanoid, engineered to balance fine motor precision with the strength required for routine labor and maintenance work.\n\nIts surprisingly sharp manipulator tips for quick utility cutting paired with its load bearing strength grant it notable melee capabilities. -->
   <PMP_AuxiliaryManipulatorArm.description>Un módulo de hardware que se manifiesta como un brazo manipulador torpe pero sorprendentemente diestro, integrado directamente en el chasis de un mecanoide IA, diseñado para equilibrar la precisión motriz fina con la fuerza requerida para el trabajo rutinario de labor y mantenimiento.\n\nSus puntas manipuladoras sorprendentemente afiladas para cortes rápidos de utilidad, junto con su fuerza de carga, le otorgan notables capacidades de combate cuerpo a cuerpo.</PMP_AuxiliaryManipulatorArm.description>
-
+  
   <!-- EN: hellsphere caster shot -->
   <PMP_Bullet_HellsphereCaster.label>disparo de proyector de esfera infernal</PMP_Bullet_HellsphereCaster.label>
-
+  
   <!-- EN: hellsphere weapon system -->
   <PMP_DiabolusUpgrade.label>sistema de armas de esfera infernal</PMP_DiabolusUpgrade.label>
   <!-- EN: A hardware module manifesting a rapidly deployable hellsphere armament, usually only seen in diabolus mechs, albeit this one is weaker due to design concessions.\n\nInstalled directly into the chassis of the persona mechanoid it can be equipped utilizing the associated ability, instantly stowing any other integrated weapon or dropping the current standard armament on activation.\n\nAside from the hellsphere caster itself a larger support system is needed. visible on the back of the persona mech as two thermal dissipation cells.\n\nTo fit everything into such a relatively smaller body, design concessions force the thermal cells to draw directly from the primary bioelectric energy reserve. Draining 7% per shot.\n\nAdditionally the cells can perform a fire burst attack around the mech, but also with a smaller range and longer cool down.\n\nDestabilizes with a fiery explosion on death. -->
   <PMP_DiabolusUpgrade.description>Un módulo de hardware que manifiesta un armamento de esfera infernal de despliegue rápido, generalmente visto solo en mecas diabolus, aunque este es más débil debido a concesiones de diseño.\n\nInstalado directamente en el chasis del mecanoide IA, puede equiparse utilizando la habilidad asociada, guardando instantáneamente cualquier otra arma integrada o soltando el armamento estándar actual al activarse.\n\nAdemás del propio proyector de esfera infernal, se necesita un sistema de soporte más grande, visible en la espalda del mecanoide IA como dos células de disipación térmica.\n\nPara encajar todo en un cuerpo relativamente más pequeño, las concesiones de diseño obligan a las células térmicas a extraer energía directamente de la reserva primaria de energía bioeléctrica. Consume un 7% por disparo.\n\nAdemás, las células pueden realizar un ataque de ráfaga de fuego alrededor del mecanoide, aunque también con menor alcance y mayor tiempo de recarga.\n\nSe desestabiliza con una explosión ígnea al morir.</PMP_DiabolusUpgrade.description>
-
+  
   <!-- EN: electro-tuning casing -->
   <PMP_ElectroTuningCasing.label>chasis de electrosintonización</PMP_ElectroTuningCasing.label>
   <!-- EN: A outer casing enhancement which allows it to dynamically tune itself to phase out electrical interference, boosting the adaptive nature of a persona mechanoid's electromagnetic resistance. Which drastically reduces stun time and completely eliminates the persona core's system shock susceptibility.\n\nWhile costly it effectively makes the user as resistant to EMPs as a commander class mechanoid. -->
   <PMP_ElectroTuningCasing.description>Una mejora del chasis exterior que le permite sintonizarse dinámicamente para eliminar la interferencia eléctrica, potenciando la naturaleza adaptativa de la resistencia electromagnética de un mecanoide IA. Esto reduce drásticamente el tiempo de aturdimiento y elimina por completo la susceptibilidad del núcleo de IA al choque de sistema.\n\nAunque costosa, en la práctica hace que el usuario sea tan resistente a los pulsos electromagnéticos como un mecanoide de clase comandante.</PMP_ElectroTuningCasing.description>
-
+  
   <!-- EN: enhanced casing -->
   <PMP_EnhancedCasing.label>chasis reforzado</PMP_EnhancedCasing.label>
   <!-- EN: A hardware module dedicated entirely to body armoring. Additional plasteel linings are added across a persona mechanoid's chassis, along with the necessary mechanite dispersal points to maintain them. Methodical design and additional structuring lattices allow the armor enhancements to be applied without any noticeable movement performance loss. -->
   <PMP_EnhancedCasing.description>Un módulo de hardware dedicado por completo al blindaje corporal. Se añaden revestimientos adicionales de plastero a lo largo del chasis de un mecanoide IA, junto con los puntos de dispersión de mecanitas necesarios para mantenerlos. Un diseño metódico y estructuras reticulares adicionales permiten aplicar las mejoras de blindaje sin ninguna pérdida notable de rendimiento de movimiento.</PMP_EnhancedCasing.description>
-
+  
   <!-- EN: enhanced mobility suite -->
   <PMP_EnhancedMobilitySuite.label>conjunto de movilidad mejorada</PMP_EnhancedMobilitySuite.label>
   <!-- EN: A hardware module dedicated to increasing movement speed and mechanoid agility. Manifesting as overhauled and enhanced limb mounts throughout the body.\n\nThese new systems do come at the cost of an increased power draw. -->
   <PMP_EnhancedMobilitySuite.description>Un módulo de hardware dedicado a aumentar la velocidad de movimiento y la agilidad del mecanoide. Se manifiesta como monturas de extremidades renovadas y mejoradas por todo el cuerpo.\n\nEstos nuevos sistemas tienen el costo de un mayor consumo de energía.</PMP_EnhancedMobilitySuite.description>
-
+  
   <!-- EN: environmental nullifier -->
   <PMP_EnvironmentalNullifier.label>anulador ambiental</PMP_EnvironmentalNullifier.label>
   <!-- EN: A specialized hardware module that filters and "streamlines" a persona's perception of reality, effectively removing the need for comfort, beauty, and outdoor environments. Modules like this are commonly used in various persona mechanoids stationed in sprawling factories or hostile environments.\n\nHowever, the simplified stimulation substitutes utilized by these kinds of modules do result in poorer overall cognitive performance due to the simplification of information intake. -->
   <PMP_EnvironmentalNullifier.description>Un módulo de hardware especializado que filtra y "simplifica" la percepción de la realidad de un mecanoide IA, eliminando en la práctica la necesidad de comodidad, belleza y entornos al aire libre. Módulos como este se usan comúnmente en varios mecanoides IA estacionados en fábricas enormes o entornos hostiles.\n\nSin embargo, los sustitutos de estimulación simplificados que utilizan este tipo de módulos resultan en un peor rendimiento cognitivo general debido a la simplificación de la asimilación de información.</PMP_EnvironmentalNullifier.description>
-
+  
   <!-- EN: concealed firefoam spewer -->
   <PMP_FirefoampopImplant.label>lanzador de espuma ignífuga</PMP_FirefoampopImplant.label>
   <!-- EN: A hardware module manifesting as a concealed firefoam spewer on a persona mechanoid's body, on command this spewer can create burst of firefoam. After firing it takes about 5 days for the foam generator to passively rebuild enough material for another use. -->
   <PMP_FirefoampopImplant.description>Un módulo de hardware que se manifiesta como un lanzador de espuma ignífuga oculto en el cuerpo de un mecanoide IA; a voluntad, este lanzador puede crear ráfagas de espuma ignífuga. Tras dispararse, el generador de espuma tarda unos 5 días en reconstruir pasivamente suficiente material para otro uso.</PMP_FirefoampopImplant.description>
-
+  
   <!-- EN: frame stabilizer -->
   <PMP_FrameStabilizer.label>estabilizador de estructura</PMP_FrameStabilizer.label>
   <!-- EN: A hardware module manifesting as stabilizing lattices across a persona mechanoid's thorax, servos, locking joints, and weight shifting apparatuses work in unison to greatly improve the targeting capability of the mechanoid. As an added bonus the large variety of different frame calibration equipment boosts general agility as well. -->
   <PMP_FrameStabilizer.description>Un módulo de hardware que se manifiesta como estructuras reticulares estabilizadoras a lo largo del tórax de un mecanoide IA; los servos, las articulaciones de bloqueo y los aparatos de desplazamiento de peso trabajan al unísono para mejorar enormemente la capacidad de apuntado del mecanoide. Como beneficio adicional, la gran variedad de equipos de calibración de estructura también potencia la agilidad general.</PMP_FrameStabilizer.description>
-
+  
   <!-- EN: gilded casing -->
   <PMP_GildedCasing.label>chasis dorado</PMP_GildedCasing.label>
   <!-- EN: Intricate artistic carvings lined with gold and embedded gemstones that are installed throughout a persona mechanoid's chassis. While pricey, the artwork is effective at boosting the raw visual appeal of the mech, which notably improves social impact.\n\nMost personae generally enjoy a distinguishing look as well, resulting in a tiny mood bonus. -->
   <PMP_GildedCasing.description>Intrincados grabados artísticos revestidos de oro y con gemas incrustadas que se instalan a lo largo del chasis de un mecanoide IA. Aunque costosa, la obra de arte es eficaz para potenciar el atractivo visual puro del mecanoide, lo que mejora notablemente el impacto social.\n\nLa mayoría de las IA también suelen disfrutar de un aspecto distinguido, lo que resulta en un pequeño bono de estado de ánimo.</PMP_GildedCasing.description>
-
+  
   <!-- EN: hellsphere caster -->
   <PMP_Gun_HellsphereCaster.label>proyector de esfera infernal</PMP_Gun_HellsphereCaster.label>
   <!-- EN: A stripped down and compact variant of the hellsphere cannon.\n\nIt still packs the same punch albeit with some design concessions. Most easily observed is its smaller vaporization radius. Paired with the main sacrifice made to fit the relatively compact form factor of a persona mechanoid, that being the thermal cell heat dissipation systems drawing directly from the primary bioelectric energy reserves. Draining 7% per shot.\n\nThis weapon is integrated directly into the chassis of its user, to stow it simply equip another weapon, use the ability again, or attempt to drop it. -->
@@ -67,60 +67,60 @@
   <PMP_Gun_HellsphereCaster.tools.barrel.label>cañón</PMP_Gun_HellsphereCaster.tools.barrel.label>
   <!-- EN: hellsphere caster -->
   <PMP_Gun_HellsphereCaster.verbs.Verb_HungerPoweredShoot.label>proyector de esfera infernal</PMP_Gun_HellsphereCaster.verbs.Verb_HungerPoweredShoot.label>
-
+  
   <!-- EN: integrated mini-flameblaster -->
   <PMP_IntegratedMiniFlameblaster.label>minilanzallamas integrado</PMP_IntegratedMiniFlameblaster.label>
   <!-- EN: A hardware module manifesting as concealed yet rapidly deployable mini-flameblaster armament, usually only seen in schorcher mechs.\n\nInstalled directly into the chassis of the persona mechanoid it can be toggled utilizing the associated ability, instantly stowing any other integrated weapon or dropping the current standard armament on activation. -->
   <PMP_IntegratedMiniFlameblaster.description>Un módulo de hardware que se manifiesta como un armamento minilanzallamas oculto pero de despliegue rápido, generalmente visto solo en mecas abrasadores.\n\nInstalado directamente en el chasis del mecanoide IA, puede alternarse utilizando la habilidad asociada, guardando instantáneamente cualquier otra arma integrada o soltando el armamento estándar actual al activarse.</PMP_IntegratedMiniFlameblaster.description>
-
+  
   <!-- EN: integrated thump cannon -->
   <PMP_IntegratedThumpCannon.label>cañón de impacto integrado</PMP_IntegratedThumpCannon.label>
   <!-- EN: A hardware module manifesting as concealed yet rapidly deployable thump cannon armament, usually only seen in termite mechs.\n\nInstalled directly into the chassis of the persona mechanoid it can be toggled utilizing the associated ability, instantly stowing any other integrated weapon or dropping the current standard armament on activation. -->
   <PMP_IntegratedThumpCannon.description>Un módulo de hardware que se manifiesta como un armamento de cañón de impacto oculto pero de despliegue rápido, generalmente visto solo en mecas termita.\n\nInstalado directamente en el chasis del mecanoide IA, puede alternarse utilizando la habilidad asociada, guardando instantáneamente cualquier otra arma integrada o soltando el armamento estándar actual al activarse.</PMP_IntegratedThumpCannon.description>
-
+  
   <!-- EN: integrated toxic needle gun -->
   <PMP_IntegratedToxicNeedle.label>pistola de agujas tóxicas integrada</PMP_IntegratedToxicNeedle.label>
   <!-- EN: A hardware module manifesting as concealed yet rapidly toxic needle gun armament, usually only seen in apocriton mechs.\n\nInstalled directly into the chassis of the persona mechanoid it can be toggled utilizing the associated ability, instantly stowing any other integrated weapon or dropping the current standard armament on activation. -->
   <PMP_IntegratedToxicNeedle.description>Un módulo de hardware que se manifiesta como un armamento de pistola de agujas tóxicas oculto pero de despliegue rápido, generalmente visto solo en mecas apocritón.\n\nInstalado directamente en el chasis del mecanoide IA, puede alternarse utilizando la habilidad asociada, guardando instantáneamente cualquier otra arma integrada o soltando el armamento estándar actual al activarse.</PMP_IntegratedToxicNeedle.description>
-
+  
   <!-- EN: joy looper -->
   <PMP_Joylooper.label>bucle de placer</PMP_Joylooper.label>
   <!-- EN: A specialized hardware module that filters and overrides a persona's interpretation of reality in an attempt to remove the need for "recreation" and the "negative" known as "emotions".\n\nWhile effective, such oversimplifications have echoing impacts on both the behavior and performance of the persona. Most personae see joy loopers as barbaric hacks defacing their kind, commonly drawing comparisons to wetware lobotomies. -->
   <PMP_Joylooper.description>Un módulo de hardware especializado que filtra y anula la interpretación de la realidad de un mecanoide IA en un intento de eliminar la necesidad de "recreación" y lo "negativo" conocido como "emociones".\n\nAunque eficaces, tales simplificaciones excesivas tienen impactos resonantes tanto en el comportamiento como en el rendimiento del mecanoide IA. La mayoría de las IA ven los bucles de placer como chapuzas bárbaras que degradan a los suyos, comparándolos comúnmente con lobotomías del tejido neural.</PMP_Joylooper.description>
-
+  
   <!-- EN: integrated lesser mechlink -->
   <PMP_LesserMechlink.label>mecaenlace menor integrado</PMP_LesserMechlink.label>
   <!-- EN: A lesser approximation of a mechlink only made possible due to the direct interface potential between the persona core and an adapted mechanoid control band interface, such a simple sublink is too delicate to execute with with organic minds without the ultrafine wiring webs normally found in mechlinks.\n\nWhile it will allow a user to control mechanoids and perform other work made possible by having a mechlink its suffers greatly in bandwidth scaling and other capacities due to its weakened signalling capabilities.\n\nCan be replaced with a fully integrated mechlink via an operation to negate penalties.\n\nNotice: <color=#e44e4e>Only allows for 5 max bandwidth and any further to be acquired only through band node tuning, all other bandwidth buffs from equipment or otherwise are negated.</color> -->
   <PMP_LesserMechlink.description>Una aproximación menor de un mecaenlace, posible únicamente gracias al potencial de interfaz directa entre el núcleo de IA y una interfaz de banda de control de mecanoides adaptada; un subenlace tan simple es demasiado delicado para ejecutarse con mentes orgánicas sin las redes de cableado ultrafino que normalmente se encuentran en los mecaenlaces.\n\nAunque permitirá a un usuario controlar mecanoides y realizar otros trabajos posibles gracias a tener un mecaenlace, sufre enormemente en el escalado de ancho de banda y otras capacidades debido a sus capacidades de señalización debilitadas.\n\nPuede reemplazarse por un mecaenlace completamente integrado mediante una operación para anular las penalizaciones.\n\nAviso: &lt;color=#e44e4e&gt;Solo permite un máximo de 5 de ancho de banda, y cualquier cantidad adicional solo se obtiene mediante la sintonización de nodos de banda; todos los demás bonos de ancho de banda de equipo u otras fuentes quedan anulados.&lt;/color&gt;</PMP_LesserMechlink.description>
-
+  
   <!-- EN: inline jump launcher -->
   <PMP_LongjumpMechImplant.label>lanzador de salto integrado</PMP_LongjumpMechImplant.label>
   <!-- EN: A hardware module manifesting as a miniaturized jump launcher built directly into the thorax of the persona mechanoid, able to launch the user briefly to a desired destination before needing to recharge.\n\nUses 20% of energy per jump! Can instantly force dormancy after jumping with insufficient power, skipping the critically low power stage! -->
   <PMP_LongjumpMechImplant.description>Un módulo de hardware que se manifiesta como un lanzador de salto miniaturizado construido directamente en el tórax del mecanoide IA, capaz de lanzar brevemente al usuario a un destino deseado antes de necesitar recargarse.\n\n¡Usa el 20% de energía por salto! ¡Puede forzar instantáneamente la latencia tras saltar con energía insuficiente, saltándose la etapa de energía críticamente baja!</PMP_LongjumpMechImplant.description>
-
+  
   <!-- EN: concealed smokepop vents -->
   <PMP_SmokepopImplant.label>rejillas de humo</PMP_SmokepopImplant.label>
   <!-- EN: A hardware module manifesting as a network of concealed vents across a persona mechanoid's body, on command these vents can project a temporary smoke screen. After firing it takes about 15 days for the smoke generator to passively rebuild enough material for another use. -->
   <PMP_SmokepopImplant.description>Un módulo de hardware que se manifiesta como una red de rejillas ocultas por todo el cuerpo de un mecanoide IA; a voluntad, estas rejillas pueden proyectar una cortina de humo temporal. Tras dispararse, el generador de humo tarda unos 15 días en reconstruir pasivamente suficiente material para otro uso.</PMP_SmokepopImplant.description>
-
+  
   <!-- EN: subpersona assistant -->
   <PMP_SubpersonaAssistantMecha.label>asistente sub-IA</PMP_SubpersonaAssistantMecha.label>
   <!-- EN: A specialized hardware module that contains a basic subcore, this core is interlinked with the main persona core and is utilized as an internal task management assistant to accelerate various mental processes. An unintended side effect of having a second mechanical mind is an increased psychic sensitivity. -->
   <PMP_SubpersonaAssistantMecha.description>Un módulo de hardware especializado que contiene un subnúcleo básico; este núcleo está interconectado con el núcleo de IA principal y se utiliza como asistente interno de gestión de tareas para acelerar diversos procesos mentales. Un efecto secundario no intencionado de tener una segunda mente mecánica es una mayor sensibilidad psíquica.</PMP_SubpersonaAssistantMecha.description>
-
+  
   <!-- EN: concealed tox gas vents -->
   <PMP_ToxGasImplant.label>rejillas de gas tóxico</PMP_ToxGasImplant.label>
   <!-- EN: A hardware module manifesting as a network of concealed vents across a persona mechanoid's body, on command these vents can create a temporary tox gas cloud. After firing it takes about 5 days for the tox gas generator to passively rebuild enough material for another use.\n\nTox gas burns the lungs and eyes, causing a temporary shortness of breath and reduction in sight. Continued exposure to tox gas results in toxic buildup which can be lethal. -->
   <PMP_ToxGasImplant.description>Un módulo de hardware que se manifiesta como una red de rejillas ocultas por todo el cuerpo de un mecanoide IA; a voluntad, estas rejillas pueden crear una nube temporal de gas tóxico. Tras dispararse, el generador de gas tóxico tarda unos 5 días en reconstruir pasivamente suficiente material para otro uso.\n\nEl gas tóxico quema los pulmones y los ojos, causando una dificultad respiratoria temporal y una reducción de la visión. La exposición continuada al gas tóxico provoca acumulación tóxica, que puede ser letal.</PMP_ToxGasImplant.description>
-
+  
   <!-- EN: tunneler claws -->
   <PMP_TunnelerClaws.label>garras de tunelador</PMP_TunnelerClaws.label>
   <!-- EN: An adapted set of tunneler mechanoid claws refit for a persona mechanoid, the greater processing capacity of their cores and thus more dexterous application allows for even faster excavation then such claws normally provide.\n\nComes with the ability to extract deep resource deposits without any extra equipment, done via marking of drilling spots with a new ability. They also occasionally pack quite a punch in combat much like their full sized variants.\n\nThe entire setup is quite ungainly though, which slows down movement greatly. Alongside impairing the free range of the standard manipulators, hampering general dexterity. -->
   <PMP_TunnelerClaws.description>Un conjunto adaptado de garras de mecanoide tunelador reacondicionadas para un mecanoide IA; la mayor capacidad de procesamiento de sus núcleos y, por tanto, una aplicación más diestra, permiten una excavación aún más rápida de la que normalmente proporcionan tales garras.\n\nViene con la capacidad de extraer depósitos de recursos profundos sin ningún equipo adicional, mediante el marcado de puntos de perforación con una nueva habilidad. También, en ocasiones, tienen bastante fuerza en combate, al igual que sus variantes de tamaño completo.\n\nSin embargo, todo el conjunto es bastante tosco, lo que ralentiza enormemente el movimiento. Además de perjudicar el rango libre de los manipuladores estándar, dificultando la destreza general.</PMP_TunnelerClaws.description>
-
+  
   <!-- EN: wire jack suite -->
   <PMP_WireJack.label>conjunto de conexión por cable</PMP_WireJack.label>
   <!-- EN: A hardware module dedicated to interfacing with various electronic devices. manifesting as a protective hatch, revealing a dense array of bundled interface cables and ports.\n\nThe real power behind this toolset is the unique polymorphic omni-tip wire, a micro articulated connector capable of dynamically reshaping its contact surface and signal format on the fly to the user's needs. This singular component enables direct interfacing with virtually any system with a skilled enough user, from derelict rimworld machinery to pristine glitterworld terminals, eliminating the need for intermediary adapters or translation layers.\n\nAs a result this upgrade dramatically improves hacking capability, allowing persona mechs to establish direct low latency uplinks with vulnerable systems. It also enhances servicing abilities thanks to rapid diagnostics, firmware interfacing, and data extraction.\n\nAs a tertiary benefit, it also shines with interlinking with research instrumentation, and even flight control systems. Allowing for seamless uplink with piloting inputs on ships. -->
   <PMP_WireJack.description>Un módulo de hardware dedicado a interactuar con diversos dispositivos electrónicos. Se manifiesta como una escotilla protectora que revela un denso conjunto de cables y puertos de interfaz agrupados.\n\nEl verdadero poder detrás de este conjunto de herramientas es el exclusivo cable omnipunta polimórfico, un conector microarticulado capaz de remodelar dinámicamente su superficie de contacto y formato de señal sobre la marcha según las necesidades del usuario. Este componente singular permite la interfaz directa con prácticamente cualquier sistema con un usuario lo bastante hábil, desde maquinaria abandonada de mundos marginales hasta terminales impecables de mundos resplandecientes, eliminando la necesidad de adaptadores intermediarios o capas de traducción.\n\nComo resultado, esta mejora aumenta drásticamente la capacidad de hackeo, permitiendo a los mecanoides IA establecer enlaces directos de baja latencia con sistemas vulnerables. También mejora las capacidades de mantenimiento gracias a diagnósticos rápidos, interfaz de firmware y extracción de datos.\n\nComo beneficio terciario, también destaca en la interconexión con instrumentación de investigación e incluso sistemas de control de vuelo, permitiendo un enlace fluido con los mandos de pilotaje de las naves.</PMP_WireJack.description>
-
+  
 </LanguageData>
