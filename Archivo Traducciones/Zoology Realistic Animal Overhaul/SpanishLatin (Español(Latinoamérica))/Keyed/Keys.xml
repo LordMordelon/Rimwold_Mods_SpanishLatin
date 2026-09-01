@@ -1,0 +1,516 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<!-- EN: Life stage factor -->
+  <Zoology_AdjustedOtherFactors>TODO</Zoology_AdjustedOtherFactors>
+	<!-- EN: You've marked {0} for slaughter—it may react with aggression! -->
+  <ZoologySlaughterDesignationAdded>TODO</ZoologySlaughterDesignationAdded>
+	<!-- EN: {0} senses killing intent and begins to attack viciously! -->
+  <ZoologySensesSlaughterIntent>TODO</ZoologySensesSlaughterIntent>
+	<!-- EN: {PREDATOR} is protecting its prey -->
+  <LetterLabelPredatorProtectingPrey>TODO</LetterLabelPredatorProtectingPrey>
+	<!-- EN: {PREDATOR} is protecting its prey and is attacking {PREY}. -->
+  <LetterPredatorProtectingPrey>TODO</LetterPredatorProtectingPrey>
+	<!-- EN: {0} are protecting their prey -->
+  <LetterLabelPredatorProtectingPreyPack>TODO</LetterLabelPredatorProtectingPreyPack>
+	<!-- EN: {0} are protecting their prey and are attacking {1}. -->
+  <LetterPredatorProtectingPreyPack>TODO</LetterPredatorProtectingPreyPack>
+	<!-- EN: {PARENT} is protecting its clutch -->
+  <LetterLabelAnimalProtectingEggs>TODO</LetterLabelAnimalProtectingEggs>
+	<!-- EN: {PARENT} is protecting its clutch and is attacking {PREY}. -->
+  <LetterAnimalProtectingEggs>TODO</LetterAnimalProtectingEggs>
+	<!-- EN: {0} are protecting a clutch -->
+  <LetterLabelAnimalProtectingEggsPack>TODO</LetterLabelAnimalProtectingEggsPack>
+	<!-- EN: {0} are protecting a clutch and are attacking {1}. -->
+  <LetterAnimalProtectingEggsPack>TODO</LetterAnimalProtectingEggsPack>
+	<!-- EN: {PARENT} is protecting its young -->
+  <LetterLabelMotherProtectingYoung>TODO</LetterLabelMotherProtectingYoung>
+	<!-- EN: {PARENT} is protecting its young and is attacking {ATTACKER}. -->
+  <LetterMotherProtectingYoung>TODO</LetterMotherProtectingYoung>
+	<!-- EN: {0} are protecting their young -->
+  <LetterLabelMotherProtectingYoungPack>TODO</LetterLabelMotherProtectingYoungPack>
+	<!-- EN: {0} are protecting their young and are attacking {1}. -->
+  <LetterMotherProtectingYoungPack>TODO</LetterMotherProtectingYoungPack>
+	<!-- EN: Animals cannot be drafted during rituals. -->
+  <ZoologyCannotDraftDuringRitual>TODO</ZoologyCannotDraftDuringRitual>
+	<!-- EN: Dormant animals cannot be drafted. -->
+  <ZoologyCannotDraftDormant>TODO</ZoologyCannotDraftDormant>
+	
+	<!-- EN: Zoology settings -->
+  <Zoology_SettingsWindowTitle>TODO</Zoology_SettingsWindowTitle>
+	<!-- EN: Predator / prey -->
+  <Zoology_TabPredatorPrey>TODO</Zoology_TabPredatorPrey>
+	<!-- EN: Physiology -->
+  <Zoology_TabPhysiology>TODO</Zoology_TabPhysiology>
+	<!-- EN: Combat -->
+  <Zoology_TabCombat>TODO</Zoology_TabCombat>
+	<!-- EN: Other behavior -->
+  <Zoology_TabOtherBehavior>TODO</Zoology_TabOtherBehavior>
+	<!-- EN: Dev -->
+  <Zoology_TabDev>TODO</Zoology_TabDev>
+
+	<!-- EN: Reset to defaults -->
+  <Zoology_ResetButtonLabel>TODO</Zoology_ResetButtonLabel>
+	<!-- EN: Settings have been reset to defaults. -->
+  <Zoology_ResetMessage>TODO</Zoology_ResetMessage>
+
+	<!-- EN: Enable prey fleeing -->
+  <Zoology_EnablePreyFleeing_Label>TODO</Zoology_EnablePreyFleeing_Label>
+	<!-- EN: Animals will try to flee from nearby predators. -->
+  <Zoology_EnablePreyFleeing_Desc>TODO</Zoology_EnablePreyFleeing_Desc>
+	<!-- EN: Predator search radius: {0} (min {1}, max {2}) -->
+  <Zoology_PredatorSearchRadius_Label>TODO</Zoology_PredatorSearchRadius_Label>
+	<!-- EN: Flee distance from target predator: {0} (min {1}, max {2}) -->
+  <Zoology_FleeDistanceTargetPredator_Label>TODO</Zoology_FleeDistanceTargetPredator_Label>
+	<!-- EN: Animals flee from non-hostile predators -->
+  <Zoology_AnimalsFlee_NonHostile_Label>TODO</Zoology_AnimalsFlee_NonHostile_Label>
+	<!-- EN: Animals will also flee from predators that are not currently hostile. -->
+  <Zoology_AnimalsFlee_NonHostile_Desc>TODO</Zoology_AnimalsFlee_NonHostile_Desc>
+	<!-- EN: Non-hostile predator search radius: {0} (min {1}, max {2}) -->
+  <Zoology_NonHostilePredatorSearchRadius_Label>TODO</Zoology_NonHostilePredatorSearchRadius_Label>
+	<!-- EN: Flee distance from predator: {0} (min {1}, max {2}) -->
+  <Zoology_FleeDistancePredator_Label>TODO</Zoology_FleeDistancePredator_Label>
+
+	<!-- EN: Enable pack hunting -->
+  <Zoology_EnablePackHunt_Label>TODO</Zoology_EnablePackHunt_Label>
+	<!-- EN: Predators may hunt in packs when appropriate. -->
+  <Zoology_EnablePackHunt_Desc>TODO</Zoology_EnablePackHunt_Desc>
+
+	<!-- EN: Enable advanced predation logic -->
+  <Zoology_EnableAdvancedPredation_Label>TODO</Zoology_EnableAdvancedPredation_Label>
+	<!-- EN: Use more advanced logic for predator behavior. -->
+  <Zoology_EnableAdvancedPredation_Desc>TODO</Zoology_EnableAdvancedPredation_Desc>
+
+	<!-- EN: Enable scavenging -->
+  <Zoology_EnableScavengering_Label>TODO</Zoology_EnableScavengering_Label>
+	<!-- EN: Animals with scavenging behavior may feed on corpses. -->
+  <Zoology_EnableScavengering_Desc>TODO</Zoology_EnableScavengering_Desc>
+	<!-- EN: Configure scavenger species -->
+  <Zoology_ConfigureScavenger_Button>TODO</Zoology_ConfigureScavenger_Button>
+
+	<!-- EN: Enable predators defending corpses -->
+  <Zoology_EnablePredatorDefendCorpse_Label>TODO</Zoology_EnablePredatorDefendCorpse_Label>
+	<!-- EN: Predators may defend corpses they are feeding on. -->
+  <Zoology_EnablePredatorDefendCorpse_Desc>TODO</Zoology_EnablePredatorDefendCorpse_Desc>
+	<!-- EN: Prey protection range: {0} (min {1}, max {2}) -->
+  <Zoology_PreyProtectionRange_Label>TODO</Zoology_PreyProtectionRange_Label>
+	<!-- EN: Unowned corpse size multiplier: {0} (min {1}, max {2}) -->
+  <Zoology_CorpseUnownedSizeMultiplier_Label>TODO</Zoology_CorpseUnownedSizeMultiplier_Label>
+	<!-- EN: Allow predators to defend prey from humans and mechanoids -->
+  <Zoology_EnablePredatorDefendFromHumans_Label>TODO</Zoology_EnablePredatorDefendFromHumans_Label>
+	<!-- EN: Predators may attack humans or mechanoids that threaten their prey. -->
+  <Zoology_EnablePredatorDefendFromHumans_Desc>TODO</Zoology_EnablePredatorDefendFromHumans_Desc>
+	<!-- EN: Minimum combat power to defend prey: {0} (min {1}, max {2}) -->
+  <Zoology_MinCombatPowerDefend_Label>TODO</Zoology_MinCombatPowerDefend_Label>
+
+	<!-- EN: Enable mammal lactation -->
+  <Zoology_EnableMammalLactation_Label>TODO</Zoology_EnableMammalLactation_Label>
+	<!-- EN: Enable lactation-related features for mammals. -->
+  <Zoology_EnableMammalLactation_Desc>TODO</Zoology_EnableMammalLactation_Desc>
+	<!-- EN: Lactation auto-slaughter -->
+  <Zoology_LactationAutoSlaughter_Label>TODO</Zoology_LactationAutoSlaughter_Label>
+	<!-- EN: Allow slaughtering lactating animals -->
+  <Zoology_AllowSlaughterLactating_Label>TODO</Zoology_AllowSlaughterLactating_Label>
+	<!-- EN: Allows animals that are currently lactating to be marked for slaughter. -->
+  <Zoology_AllowSlaughterLactating_Desc>TODO</Zoology_AllowSlaughterLactating_Desc>
+	<!-- EN: Lactation is disabled, so this option is unavailable. -->
+  <Zoology_LactationDisabled_Note>TODO</Zoology_LactationDisabled_Note>
+
+	<!-- EN: Enable animal childcare -->
+  <Zoology_EnableAnimalChildcare_Label>TODO</Zoology_EnableAnimalChildcare_Label>
+	<!-- EN: Enable animals protecting and caring for their young. -->
+  <Zoology_EnableAnimalChildcare_Desc>TODO</Zoology_EnableAnimalChildcare_Desc>
+	<!-- EN: Configure childcare species -->
+  <Zoology_ConfigureChildcare_Button>TODO</Zoology_ConfigureChildcare_Button>
+	<!-- EN: Young/clutch protection range: {0} (min {1}, max {2}) -->
+  <Zoology_ChildcareProtectionRange_Label>TODO</Zoology_ChildcareProtectionRange_Label>
+	<!-- EN: Minimum combat power to defend young and clutches from humans/mechanoids: {0} (min {1}, max {2}) -->
+  <Zoology_MinCombatPowerDefendYoung_Label>TODO</Zoology_MinCombatPowerDefendYoung_Label>
+	<!-- EN: Do not flee from humans while protecting young -->
+  <Zoology_PreventFleeFromHumansWhileProtectingYoung_Label>TODO</Zoology_PreventFleeFromHumansWhileProtectingYoung_Label>
+	<!-- EN: Animals strong enough to defend their young from humans and mechanoids will not flee while they have protectable young. -->
+  <Zoology_PreventFleeFromHumansWhileProtectingYoung_Desc>TODO</Zoology_PreventFleeFromHumansWhileProtectingYoung_Desc>
+	<!-- EN: Do not flee from humans while protecting clutches -->
+  <Zoology_PreventFleeFromHumansWhileProtectingEggClutches_Label>TODO</Zoology_PreventFleeFromHumansWhileProtectingEggClutches_Label>
+	<!-- EN: Animals strong enough to defend their clutch from humans and mechanoids will not flee while they have a protectable clutch. -->
+  <Zoology_PreventFleeFromHumansWhileProtectingEggClutches_Desc>TODO</Zoology_PreventFleeFromHumansWhileProtectingEggClutches_Desc>
+
+	<!-- EN: Enable egg protection -->
+  <Zoology_EnableAnimalEggProtection_Label>TODO</Zoology_EnableAnimalEggProtection_Label>
+	<!-- EN: Enable animals defending their eggs and clutch. -->
+  <Zoology_EnableAnimalEggProtection_Desc>TODO</Zoology_EnableAnimalEggProtection_Desc>
+	<!-- EN: {ANIMAL} calms down. -->
+  <Zoology_AnimalCalmsDown_Message>TODO</Zoology_AnimalCalmsDown_Message>
+	<!-- EN: Force hatch now -->
+  <Zoology_DevHatchNow_Label>TODO</Zoology_DevHatchNow_Label>
+	<!-- EN: Instantly completes the hatch timer for this egg. -->
+  <Zoology_DevHatchNow_Desc>TODO</Zoology_DevHatchNow_Desc>
+
+	<!-- EN: Enable wound licking -->
+  <Zoology_EnableAnimalWoundLicking_Label>TODO</Zoology_EnableAnimalWoundLicking_Label>
+	<!-- EN: Enable animals licking wounds to help with recovery. -->
+  <Zoology_EnableAnimalWoundLicking_Desc>TODO</Zoology_EnableAnimalWoundLicking_Desc>
+
+	<!-- EN: Enable ectothermic patch -->
+  <Zoology_EnableEctothermic_Label>TODO</Zoology_EnableEctothermic_Label>
+	<!-- EN: Apply special behavior adjustments for ectothermic animals. -->
+  <Zoology_EnableEctothermic_Desc>TODO</Zoology_EnableEctothermic_Desc>
+	<!-- EN: Configure ectothermic species -->
+  <Zoology_ConfigureEctothermic_Button>TODO</Zoology_ConfigureEctothermic_Button>
+
+	<!-- EN: Override Combat Extended penetration -->
+  <Zoology_OverrideCEPenetration_Label>TODO</Zoology_OverrideCEPenetration_Label>
+	<!-- EN: Override Combat Extended penetration settings for this mod. -->
+  <Zoology_OverrideCEPenetration_Desc>TODO</Zoology_OverrideCEPenetration_Desc>
+	<!-- EN: Combat Extended was not detected. -->
+  <Zoology_CENotDetected>TODO</Zoology_CENotDetected>
+	<!-- EN: Combat Extended features are not available in this setup. -->
+  <Zoology_CENotAvailable>TODO</Zoology_CENotAvailable>
+
+	<!-- EN: Enable animal draft control -->
+  <Zoology_EnableAnimalDraftControl_Label>TODO</Zoology_EnableAnimalDraftControl_Label>
+	<!-- EN: Allow animals to be drafted manually. -->
+  <Zoology_EnableAnimalDraftControl_Desc>TODO</Zoology_EnableAnimalDraftControl_Desc>
+
+	<!-- EN: Enable animal damage reduction -->
+  <Zoology_EnableAnimalDamageReduction_Label>TODO</Zoology_EnableAnimalDamageReduction_Label>
+	<!-- EN: Reduce damage taken by animals. -->
+  <Zoology_EnableAnimalDamageReduction_Desc>TODO</Zoology_EnableAnimalDamageReduction_Desc>
+
+	<!-- EN: Enable custom flee danger -->
+  <Zoology_EnableCustomFleeDanger_Label>TODO</Zoology_EnableCustomFleeDanger_Label>
+	<!-- EN: Use custom thresholds for fleeing behavior. -->
+  <Zoology_EnableCustomFleeDanger_Desc>TODO</Zoology_EnableCustomFleeDanger_Desc>
+	<!-- EN: Safe body size thresholds -->
+  <Zoology_SafeBodySizeThresholds_Label>TODO</Zoology_SafeBodySizeThresholds_Label>
+	<!-- EN: Safe predator body size threshold: {0} -->
+  <Zoology_SafePredatorBodySize_Label>TODO</Zoology_SafePredatorBodySize_Label>
+	<!-- EN: Safe non-predator body size threshold: {0} -->
+  <Zoology_SafeNonPredatorBodySize_Label>TODO</Zoology_SafeNonPredatorBodySize_Label>
+
+	<!-- EN: Ignore small pets by raiders -->
+  <Zoology_EnableIgnoreSmallPets_Label>TODO</Zoology_EnableIgnoreSmallPets_Label>
+	<!-- EN: Raider AI may ignore very small animals. -->
+  <Zoology_EnableIgnoreSmallPets_Desc>TODO</Zoology_EnableIgnoreSmallPets_Desc>
+	<!-- EN: Small pet body size threshold -->
+  <Zoology_SmallPetBodySize_Label>TODO</Zoology_SmallPetBodySize_Label>
+	<!-- EN: Small pet threshold: {0} -->
+  <Zoology_SmallPetBodySize_Value>TODO</Zoology_SmallPetBodySize_Value>
+	<!-- EN: Small pets do not retaliate in melee -->
+  <Zoology_EnableSmallPetNoMelee_Label>TODO</Zoology_EnableSmallPetNoMelee_Label>
+	<!-- EN: Very small pets will not use melee retaliation. -->
+  <Zoology_EnableSmallPetNoMelee_Desc>TODO</Zoology_EnableSmallPetNoMelee_Desc>
+
+	<!-- EN: Animals flee from humans -->
+  <Zoology_AnimalsFreeFromHumans_Label>TODO</Zoology_AnimalsFreeFromHumans_Label>
+	<!-- EN: Animals may flee from humans based on their settings. -->
+  <Zoology_AnimalsFreeFromHumans_Desc>TODO</Zoology_AnimalsFreeFromHumans_Desc>
+	<!-- EN: Human search radius: {0} (min {1}, max {2}) -->
+  <Zoology_HumanSearchRadius_Label>TODO</Zoology_HumanSearchRadius_Label>
+	<!-- EN: Flee distance from human: {0} (min {1}, max {2}) -->
+  <Zoology_FleeDistanceHuman_Label>TODO</Zoology_FleeDistanceHuman_Label>
+	<!-- EN: Configure animals fleeing humans -->
+  <Zoology_ConfigureAnimalsFleeHumans_Button>TODO</Zoology_ConfigureAnimalsFleeHumans_Button>
+
+	<!-- EN: Enable wild animal reproduction -->
+  <Zoology_EnableWildAnimalReproduction_Label>TODO</Zoology_EnableWildAnimalReproduction_Label>
+	<!-- EN: Wild animals may reproduce according to this mod's rules. -->
+  <Zoology_EnableWildAnimalReproduction_Desc>TODO</Zoology_EnableWildAnimalReproduction_Desc>
+	<!-- EN: Pause wild-to-wild mating when the ecosystem is overloaded -->
+  <Zoology_LimitWildAnimalReproductionByEcosystem_Label>TODO</Zoology_LimitWildAnimalReproductionByEcosystem_Label>
+	<!-- EN: Wild animals will not mate with other wild animals when the map's current ecosystem weight reaches the configured share of the biome limit. Mating with player or faction animals is not blocked. -->
+  <Zoology_LimitWildAnimalReproductionByEcosystem_Desc>TODO</Zoology_LimitWildAnimalReproductionByEcosystem_Desc>
+	<!-- EN: Force random wild animals to leave an overloaded ecosystem -->
+  <Zoology_ForceWildAnimalsToLeaveOnEcosystemOverload_Label>TODO</Zoology_ForceWildAnimalsToLeaveOnEcosystemOverload_Label>
+	<!-- EN: When wild reproduction leaves the map above the configured ecosystem weight limit, a random wild animal will occasionally be ordered to leave the map. Childcare families leave together; egg-laying mothers currently guarding clutches are excluded. -->
+  <Zoology_ForceWildAnimalsToLeaveOnEcosystemOverload_Desc>TODO</Zoology_ForceWildAnimalsToLeaveOnEcosystemOverload_Desc>
+	<!-- EN: Ecosystem weight limit: {0:0.##}x vanilla limit (range {1:0.#}-{2:0.#}) -->
+  <Zoology_WildAnimalReproductionEcosystemLimit_Label>TODO</Zoology_WildAnimalReproductionEcosystemLimit_Label>
+	<!-- EN: Configure animal roamers -->
+  <Zoology_ConfigureAnimalRoamers_Button>TODO</Zoology_ConfigureAnimalRoamers_Button>
+
+	<!-- EN: Enable human bionics on animals -->
+  <Zoology_EnableHumanBionicOnAnimal_Label>TODO</Zoology_EnableHumanBionicOnAnimal_Label>
+	<!-- EN: Allow human bionics to be installed on animals where supported. -->
+  <Zoology_EnableHumanBionicOnAnimal_Desc>TODO</Zoology_EnableHumanBionicOnAnimal_Desc>
+
+	<!-- EN: Enable aggression at slaughter -->
+  <Zoology_EnableAgroAtSlaughter_Label>TODO</Zoology_EnableAgroAtSlaughter_Label>
+	<!-- EN: Animals may become aggressive when marked for slaughter. -->
+  <Zoology_EnableAgroAtSlaughter_Desc>TODO</Zoology_EnableAgroAtSlaughter_Desc>
+	<!-- EN: Configure slaughter aggression species -->
+  <Zoology_ConfigureAgroAtSlaughter_Button>TODO</Zoology_ConfigureAgroAtSlaughter_Button>
+
+	<!-- EN: Configure mammal species -->
+  <Zoology_ConfigureMammal_Button>TODO</Zoology_ConfigureMammal_Button>
+
+	<!-- EN: Enable cannot-be-mutated protection -->
+  <Zoology_EnableCannotBeMutated_Label>TODO</Zoology_EnableCannotBeMutated_Label>
+	<!-- EN: Protect applicable animals from mutation effects. -->
+  <Zoology_EnableCannotBeMutated_Desc>TODO</Zoology_EnableCannotBeMutated_Desc>
+	<!-- EN: Configure mutation protection species -->
+  <Zoology_ConfigureCannotBeMutated_Button>TODO</Zoology_ConfigureCannotBeMutated_Button>
+
+	<!-- EN: Enable cannot-be-augmented protection -->
+  <Zoology_EnableCannotBeAugmented_Label>TODO</Zoology_EnableCannotBeAugmented_Label>
+	<!-- EN: Protect applicable animals from augmentation effects. -->
+  <Zoology_EnableCannotBeAugmented_Desc>TODO</Zoology_EnableCannotBeAugmented_Desc>
+	<!-- EN: Configure augmentation protection species -->
+  <Zoology_ConfigureCannotBeAugmented_Button>TODO</Zoology_ConfigureCannotBeAugmented_Button>
+
+	<!-- EN: Enable no-flee extension -->
+  <Zoology_EnableNoFlee_Label>TODO</Zoology_EnableNoFlee_Label>
+	<!-- EN: Apply the no-flee extension to applicable animals. -->
+  <Zoology_EnableNoFlee_Desc>TODO</Zoology_EnableNoFlee_Desc>
+	<!-- EN: Configure no-flee species -->
+  <Zoology_ConfigureNoFlee_Button>TODO</Zoology_ConfigureNoFlee_Button>
+
+	<!-- EN: Enable fleeing from carrier -->
+  <Zoology_EnableFleeFromCarrier_Label>TODO</Zoology_EnableFleeFromCarrier_Label>
+	<!-- EN: Animals may flee from the carrier of a threat. -->
+  <Zoology_EnableFleeFromCarrier_Desc>TODO</Zoology_EnableFleeFromCarrier_Desc>
+	<!-- EN: Configure flee-from-carrier species -->
+  <Zoology_ConfigureFleeFromCarrier_Button>TODO</Zoology_ConfigureFleeFromCarrier_Button>
+
+	<!-- EN: Enable flying flee start -->
+  <Zoology_EnableFlyingFleeStart_Label>TODO</Zoology_EnableFlyingFleeStart_Label>
+	<!-- EN: Flying animals may begin fleeing sooner. -->
+  <Zoology_EnableFlyingFleeStart_Desc>TODO</Zoology_EnableFlyingFleeStart_Desc>
+
+	<!-- EN: Enable gender-restricted attacks -->
+  <Zoology_EnableGenderRestrictedAttacks_Label>TODO</Zoology_EnableGenderRestrictedAttacks_Label>
+	<!-- EN: Some attacks may be limited by gender. -->
+  <Zoology_EnableGenderRestrictedAttacks_Desc>TODO</Zoology_EnableGenderRestrictedAttacks_Desc>
+
+	<!-- EN: Enable cannot-chew extension -->
+  <Zoology_EnableCannotChew_Label>TODO</Zoology_EnableCannotChew_Label>
+	<!-- EN: Apply the cannot-chew extension where supported. -->
+  <Zoology_EnableCannotChew_Desc>TODO</Zoology_EnableCannotChew_Desc>
+	<!-- EN: Configure cannot-chew species -->
+  <Zoology_ConfigureCannotChew_Button>TODO</Zoology_ConfigureCannotChew_Button>
+
+	<!-- EN: Enable ageless patch -->
+  <Zoology_EnableAgeless_Label>TODO</Zoology_EnableAgeless_Label>
+	<!-- EN: Apply the ageless component to applicable animals. -->
+  <Zoology_EnableAgeless_Desc>TODO</Zoology_EnableAgeless_Desc>
+	<!-- EN: Configure ageless species -->
+  <Zoology_ConfigureAgeless_Button>TODO</Zoology_ConfigureAgeless_Button>
+
+	<!-- EN: Enable drugs-immune patch -->
+  <Zoology_EnableDrugsImmune_Label>TODO</Zoology_EnableDrugsImmune_Label>
+	<!-- EN: Apply the drugs-immune component to applicable animals. -->
+  <Zoology_EnableDrugsImmune_Desc>TODO</Zoology_EnableDrugsImmune_Desc>
+	<!-- EN: Configure drugs-immune species -->
+  <Zoology_ConfigureDrugsImmune_Button>TODO</Zoology_ConfigureDrugsImmune_Button>
+
+	<!-- EN: Enable animal regeneration -->
+  <Zoology_EnableAnimalRegeneration_Label>TODO</Zoology_EnableAnimalRegeneration_Label>
+	<!-- EN: Enable regeneration behavior for animals. -->
+  <Zoology_EnableAnimalRegeneration_Desc>TODO</Zoology_EnableAnimalRegeneration_Desc>
+
+	<!-- EN: Enable animal clotting -->
+  <Zoology_EnableAnimalClotting_Label>TODO</Zoology_EnableAnimalClotting_Label>
+	<!-- EN: Enable clotting behavior for animals. -->
+  <Zoology_EnableAnimalClotting_Desc>TODO</Zoology_EnableAnimalClotting_Desc>
+	<!-- EN: Configure clotting species -->
+  <Zoology_ConfigureAnimalClotting_Button>TODO</Zoology_ConfigureAnimalClotting_Button>
+
+	<!-- EN: Enable no-porcupine-quill patch -->
+  <Zoology_EnableNoPorcupineQuill_Label>TODO</Zoology_EnableNoPorcupineQuill_Label>
+	<!-- EN: Prevent porcupine quills from being applied where supported. -->
+  <Zoology_EnableNoPorcupineQuill_Desc>TODO</Zoology_EnableNoPorcupineQuill_Desc>
+	<!-- EN: Configure no-porcupine-quill species -->
+  <Zoology_ConfigureNoPorcupineQuill_Button>TODO</Zoology_ConfigureNoPorcupineQuill_Button>
+
+	<!-- EN: Developer options. Use with care. -->
+  <Zoology_DevWarning>TODO</Zoology_DevWarning>
+	<!-- EN: These switches affect runtime patches and may require a reload. -->
+  <Zoology_MasterSwitchNote>TODO</Zoology_MasterSwitchNote>
+	<!-- EN: Enable all patches -->
+  <Zoology_EnableAllPatches_Button>TODO</Zoology_EnableAllPatches_Button>
+	<!-- EN: Disable all patches -->
+  <Zoology_DisableAllPatches_Button>TODO</Zoology_DisableAllPatches_Button>
+	<!-- EN: Patches are disabled. -->
+  <Zoology_PatchesDisabled>TODO</Zoology_PatchesDisabled>
+	<!-- EN: Patches are enabled. -->
+  <Zoology_PatchesEnabled>TODO</Zoology_PatchesEnabled>
+	<!-- EN: Some changes may require reloading the game. -->
+  <Zoology_ReloadWarning>TODO</Zoology_ReloadWarning>
+	<!-- EN: Insect cocoon compatibility safeguard -->
+  <Zoology_EnableInsectCocoonSpawnFix_Label>TODO</Zoology_EnableInsectCocoonSpawnFix_Label>
+	<!-- EN: Protect custom and subsequently modified insect cocoons when their configured PawnKindDef combat power exceeds the stored point budget. Vanilla cocoons are synchronized by XML patches. This safeguard runs only when a cocoon opens, not every tick. Disabling all runtime patches also disables it. -->
+  <Zoology_EnableInsectCocoonSpawnFix_Desc>TODO</Zoology_EnableInsectCocoonSpawnFix_Desc>
+
+	<!-- EN: Reset defaults -->
+  <Zoology_Dialog_ResetDefaults>TODO</Zoology_Dialog_ResetDefaults>
+	<!-- EN: Click an animal to move it to the opposite list. -->
+  <Zoology_Dialog_MoveAnimalToOppositeList>TODO</Zoology_Dialog_MoveAnimalToOppositeList>
+	<!-- EN: No animals matched the search. -->
+  <Zoology_Dialog_NoAnimalsMatchedSearch>TODO</Zoology_Dialog_NoAnimalsMatchedSearch>
+	<!-- EN: Unknown -->
+  <Zoology_Dialog_Unknown>TODO</Zoology_Dialog_Unknown>
+	<!-- EN: {0} ({1}) -->
+  <Zoology_Dialog_ColumnWithCount>TODO</Zoology_Dialog_ColumnWithCount>
+	<!-- EN: {0} species -->
+  <Zoology_Dialog_RuntimeFeature_Title>TODO</Zoology_Dialog_RuntimeFeature_Title>
+	<!-- EN: Animals: enabled {0}, disabled {1} -->
+  <Zoology_Dialog_RuntimeFeature_Footer>TODO</Zoology_Dialog_RuntimeFeature_Footer>
+	<!-- EN: Configure {0} species -->
+  <Zoology_Dialog_RuntimeFeature_Configure>TODO</Zoology_Dialog_RuntimeFeature_Configure>
+
+	<!-- EN: Animals fleeing from humans -->
+  <Zoology_Dialog_FleeHumans_Title>TODO</Zoology_Dialog_FleeHumans_Title>
+	<!-- EN: Click an animal to move it to the opposite list. By default, insectoids, photonozoa, thrumbo-like, no-flee, and carrier-flee animals stay on the right. -->
+  <Zoology_Dialog_FleeHumans_Instruction>TODO</Zoology_Dialog_FleeHumans_Instruction>
+	<!-- EN: Will flee -->
+  <Zoology_Dialog_FleeHumans_WillFlee>TODO</Zoology_Dialog_FleeHumans_WillFlee>
+	<!-- EN: Will not flee -->
+  <Zoology_Dialog_FleeHumans_WillNotFlee>TODO</Zoology_Dialog_FleeHumans_WillNotFlee>
+	<!-- EN: Animals: flee {0}, do not flee {1} -->
+  <Zoology_Dialog_FleeHumans_Footer>TODO</Zoology_Dialog_FleeHumans_Footer>
+
+	<!-- EN: Animal roamers and trainability -->
+  <Zoology_Dialog_Roamers_Title>TODO</Zoology_Dialog_Roamers_Title>
+	<!-- EN: Click an animal to move it to the opposite list. Roamers use RoamMtbDays and force Trainability=None. -->
+  <Zoology_Dialog_Roamers_Instruction>TODO</Zoology_Dialog_Roamers_Instruction>
+	<!-- EN: Non-roamers -->
+  <Zoology_Dialog_Roamers_NonRoamers>TODO</Zoology_Dialog_Roamers_NonRoamers>
+	<!-- EN: Roamers -->
+  <Zoology_Dialog_Roamers_Roamers>TODO</Zoology_Dialog_Roamers_Roamers>
+	<!-- EN: Animals: non-roamers {0}, roamers {1} -->
+  <Zoology_Dialog_Roamers_Footer>TODO</Zoology_Dialog_Roamers_Footer>
+	<!-- EN: Trainability: {0} -->
+  <Zoology_Dialog_Roamers_Trainability>TODO</Zoology_Dialog_Roamers_Trainability>
+	<!-- EN: RoamMtbDays: {0} -->
+  <Zoology_Dialog_Roamers_RoamMtbDays>TODO</Zoology_Dialog_Roamers_RoamMtbDays>
+
+	<!-- EN: Allow very rotten -->
+  <Zoology_RuntimeFeature_AllowVeryRotten>TODO</Zoology_RuntimeFeature_AllowVeryRotten>
+	<!-- EN: Radius -->
+  <Zoology_RuntimeFeature_Radius>TODO</Zoology_RuntimeFeature_Radius>
+	<!-- EN: Body size limit -->
+  <Zoology_RuntimeFeature_BodySizeLimit>TODO</Zoology_RuntimeFeature_BodySizeLimit>
+	<!-- EN: Distance -->
+  <Zoology_RuntimeFeature_Distance>TODO</Zoology_RuntimeFeature_Distance>
+	<!-- EN: Cleanup interval -->
+  <Zoology_RuntimeFeature_CleanupInterval>TODO</Zoology_RuntimeFeature_CleanupInterval>
+	<!-- EN: Check interval -->
+  <Zoology_RuntimeFeature_CheckInterval>TODO</Zoology_RuntimeFeature_CheckInterval>
+	<!-- EN: Tend min -->
+  <Zoology_RuntimeFeature_TendMin>TODO</Zoology_RuntimeFeature_TendMin>
+	<!-- EN: Tend max -->
+  <Zoology_RuntimeFeature_TendMax>TODO</Zoology_RuntimeFeature_TendMax>
+
+	<!-- EN: Childcare extension -->
+  <Zoology_RuntimeFeature_Childcare_Label>TODO</Zoology_RuntimeFeature_Childcare_Label>
+	<!-- EN: With childcare extension -->
+  <Zoology_RuntimeFeature_Childcare_Enabled>TODO</Zoology_RuntimeFeature_Childcare_Enabled>
+	<!-- EN: Without childcare extension -->
+  <Zoology_RuntimeFeature_Childcare_Disabled>TODO</Zoology_RuntimeFeature_Childcare_Disabled>
+	<!-- EN: Ectothermic extension -->
+  <Zoology_RuntimeFeature_Ectothermic_Label>TODO</Zoology_RuntimeFeature_Ectothermic_Label>
+	<!-- EN: With ectothermic extension -->
+  <Zoology_RuntimeFeature_Ectothermic_Enabled>TODO</Zoology_RuntimeFeature_Ectothermic_Enabled>
+	<!-- EN: Without ectothermic extension -->
+  <Zoology_RuntimeFeature_Ectothermic_Disabled>TODO</Zoology_RuntimeFeature_Ectothermic_Disabled>
+	<!-- EN: Mammal extension -->
+  <Zoology_RuntimeFeature_Mammal_Label>TODO</Zoology_RuntimeFeature_Mammal_Label>
+	<!-- EN: With mammal extension -->
+  <Zoology_RuntimeFeature_Mammal_Enabled>TODO</Zoology_RuntimeFeature_Mammal_Enabled>
+	<!-- EN: Without mammal extension -->
+  <Zoology_RuntimeFeature_Mammal_Disabled>TODO</Zoology_RuntimeFeature_Mammal_Disabled>
+	<!-- EN: Scavenger extension -->
+  <Zoology_RuntimeFeature_Scavenger_Label>TODO</Zoology_RuntimeFeature_Scavenger_Label>
+	<!-- EN: With scavenger extension -->
+  <Zoology_RuntimeFeature_Scavenger_Enabled>TODO</Zoology_RuntimeFeature_Scavenger_Enabled>
+	<!-- EN: Without scavenger extension -->
+  <Zoology_RuntimeFeature_Scavenger_Disabled>TODO</Zoology_RuntimeFeature_Scavenger_Disabled>
+	<!-- EN: Agro-at-slaughter extension -->
+  <Zoology_RuntimeFeature_AgroAtSlaughter_Label>TODO</Zoology_RuntimeFeature_AgroAtSlaughter_Label>
+	<!-- EN: With agro-at-slaughter extension -->
+  <Zoology_RuntimeFeature_AgroAtSlaughter_Enabled>TODO</Zoology_RuntimeFeature_AgroAtSlaughter_Enabled>
+	<!-- EN: Without agro-at-slaughter extension -->
+  <Zoology_RuntimeFeature_AgroAtSlaughter_Disabled>TODO</Zoology_RuntimeFeature_AgroAtSlaughter_Disabled>
+	<!-- EN: Cannot-be-mutated extension -->
+  <Zoology_RuntimeFeature_CannotBeMutated_Label>TODO</Zoology_RuntimeFeature_CannotBeMutated_Label>
+	<!-- EN: With cannot-be-mutated extension -->
+  <Zoology_RuntimeFeature_CannotBeMutated_Enabled>TODO</Zoology_RuntimeFeature_CannotBeMutated_Enabled>
+	<!-- EN: Without cannot-be-mutated extension -->
+  <Zoology_RuntimeFeature_CannotBeMutated_Disabled>TODO</Zoology_RuntimeFeature_CannotBeMutated_Disabled>
+	<!-- EN: Cannot-be-augmented extension -->
+  <Zoology_RuntimeFeature_CannotBeAugmented_Label>TODO</Zoology_RuntimeFeature_CannotBeAugmented_Label>
+	<!-- EN: With cannot-be-augmented extension -->
+  <Zoology_RuntimeFeature_CannotBeAugmented_Enabled>TODO</Zoology_RuntimeFeature_CannotBeAugmented_Enabled>
+	<!-- EN: Without cannot-be-augmented extension -->
+  <Zoology_RuntimeFeature_CannotBeAugmented_Disabled>TODO</Zoology_RuntimeFeature_CannotBeAugmented_Disabled>
+	<!-- EN: No-flee extension -->
+  <Zoology_RuntimeFeature_NoFlee_Label>TODO</Zoology_RuntimeFeature_NoFlee_Label>
+	<!-- EN: With no-flee extension -->
+  <Zoology_RuntimeFeature_NoFlee_Enabled>TODO</Zoology_RuntimeFeature_NoFlee_Enabled>
+	<!-- EN: Without no-flee extension -->
+  <Zoology_RuntimeFeature_NoFlee_Disabled>TODO</Zoology_RuntimeFeature_NoFlee_Disabled>
+	<!-- EN: Flee-from-carrier extension -->
+  <Zoology_RuntimeFeature_FleeFromCarrier_Label>TODO</Zoology_RuntimeFeature_FleeFromCarrier_Label>
+	<!-- EN: With flee-from-carrier extension -->
+  <Zoology_RuntimeFeature_FleeFromCarrier_Enabled>TODO</Zoology_RuntimeFeature_FleeFromCarrier_Enabled>
+	<!-- EN: Without flee-from-carrier extension -->
+  <Zoology_RuntimeFeature_FleeFromCarrier_Disabled>TODO</Zoology_RuntimeFeature_FleeFromCarrier_Disabled>
+	<!-- EN: No-porcupine-quill extension -->
+  <Zoology_RuntimeFeature_NoPorcupineQuill_Label>TODO</Zoology_RuntimeFeature_NoPorcupineQuill_Label>
+	<!-- EN: With no-porcupine-quill extension -->
+  <Zoology_RuntimeFeature_NoPorcupineQuill_Enabled>TODO</Zoology_RuntimeFeature_NoPorcupineQuill_Enabled>
+	<!-- EN: Without no-porcupine-quill extension -->
+  <Zoology_RuntimeFeature_NoPorcupineQuill_Disabled>TODO</Zoology_RuntimeFeature_NoPorcupineQuill_Disabled>
+	<!-- EN: Cannot-chew extension -->
+  <Zoology_RuntimeFeature_CannotChew_Label>TODO</Zoology_RuntimeFeature_CannotChew_Label>
+	<!-- EN: With cannot-chew extension -->
+  <Zoology_RuntimeFeature_CannotChew_Enabled>TODO</Zoology_RuntimeFeature_CannotChew_Enabled>
+	<!-- EN: Without cannot-chew extension -->
+  <Zoology_RuntimeFeature_CannotChew_Disabled>TODO</Zoology_RuntimeFeature_CannotChew_Disabled>
+	<!-- EN: Ageless comp -->
+  <Zoology_RuntimeFeature_Ageless_Label>TODO</Zoology_RuntimeFeature_Ageless_Label>
+	<!-- EN: With ageless comp -->
+  <Zoology_RuntimeFeature_Ageless_Enabled>TODO</Zoology_RuntimeFeature_Ageless_Enabled>
+	<!-- EN: Without ageless comp -->
+  <Zoology_RuntimeFeature_Ageless_Disabled>TODO</Zoology_RuntimeFeature_Ageless_Disabled>
+	<!-- EN: Drugs-immune comp -->
+  <Zoology_RuntimeFeature_DrugsImmune_Label>TODO</Zoology_RuntimeFeature_DrugsImmune_Label>
+	<!-- EN: With drugs-immune comp -->
+  <Zoology_RuntimeFeature_DrugsImmune_Enabled>TODO</Zoology_RuntimeFeature_DrugsImmune_Enabled>
+	<!-- EN: Without drugs-immune comp -->
+  <Zoology_RuntimeFeature_DrugsImmune_Disabled>TODO</Zoology_RuntimeFeature_DrugsImmune_Disabled>
+	<!-- EN: Animal clotting comp -->
+  <Zoology_RuntimeFeature_AnimalClotting_Label>TODO</Zoology_RuntimeFeature_AnimalClotting_Label>
+	<!-- EN: With animal clotting comp -->
+  <Zoology_RuntimeFeature_AnimalClotting_Enabled>TODO</Zoology_RuntimeFeature_AnimalClotting_Enabled>
+	<!-- EN: Without animal clotting comp -->
+  <Zoology_RuntimeFeature_AnimalClotting_Disabled>TODO</Zoology_RuntimeFeature_AnimalClotting_Disabled>
+
+	<!-- EN: Pet recreation -->
+  <Zoology_EnablePetPlay_Label>TODO</Zoology_EnablePetPlay_Label>
+	<!-- EN: Colonists can walk and play fetch with eligible dogs. Other eligible pets play locally with a moving toy, including indoors. Disabling all runtime patches also disables these activities. -->
+  <Zoology_EnablePetPlay_Desc>TODO</Zoology_EnablePetPlay_Desc>
+	<!-- EN: Vanilla animal bonding -->
+  <Zoology_ExpandedBondingNone_Label>TODO</Zoology_ExpandedBondingNone_Label>
+	<!-- EN: Do not change vanilla trainability requirements or add a bonding chance to nuzzling. -->
+  <Zoology_ExpandedBondingNone_Desc>TODO</Zoology_ExpandedBondingNone_Desc>
+	<!-- EN: Expanded pet bonding -->
+  <Zoology_EnablePetBonding_Label>TODO</Zoology_EnablePetBonding_Label>
+	<!-- EN: Eligible pets can form bonds with colonists regardless of trainability through vanilla bonding events and Zoology pet play. Nuzzling has a 0.2% base bond chance. All other vanilla restrictions and chance modifiers remain unchanged. Disabling all runtime patches also disables this feature. -->
+  <Zoology_EnablePetBonding_Desc>TODO</Zoology_EnablePetBonding_Desc>
+	<!-- EN: Expanded animal bonding -->
+  <Zoology_EnableAnimalBonding_Label>TODO</Zoology_EnableAnimalBonding_Label>
+	<!-- EN: All animals can form bonds with colonists regardless of trainability through vanilla bonding events and Zoology pet play. Nuzzling has a 0.2% base bond chance for every animal. All other vanilla restrictions and chance modifiers remain unchanged. Disabling all runtime patches also disables this feature. -->
+  <Zoology_EnableAnimalBonding_Desc>TODO</Zoology_EnableAnimalBonding_Desc>
+	<!-- EN: Maximum pet wildness: {0}% -->
+  <Zoology_PetPlayMaxWildness_Label>TODO</Zoology_PetPlayMaxWildness_Label>
+	<!-- EN: Animals in NPC groups -->
+  <Zoology_EnableRaidAnimals_Label>TODO</Zoology_EnableRaidAnimals_Label>
+	<!-- EN: Enable animal options added to human PawnGroupMakers by Zoology. Vanilla and third-party options are not removed. Applies immediately; the generic owner-safety system remains active for existing options. -->
+  <Zoology_EnableRaidAnimals_Desc>TODO</Zoology_EnableRaidAnimals_Desc>
+	<!-- EN: Orphaned NPC animals become wild -->
+  <Zoology_OrphanedRaidAnimalsBecomeWild_Label>TODO</Zoology_OrphanedRaidAnimalsBecomeWild_Label>
+	<!-- EN: When no eligible group member can replace a lost master, make the animal factionless and tamable instead of making it panic-flee from the map. -->
+  <Zoology_OrphanedRaidAnimalsBecomeWild_Desc>TODO</Zoology_OrphanedRaidAnimalsBecomeWild_Desc>
+	
+</LanguageData>
