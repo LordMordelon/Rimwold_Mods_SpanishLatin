@@ -45,7 +45,9 @@ Glosario y guía de estilo centralizada para el proyecto de traducción al Espa�
 | signal chip | **chip de señalización** | Oficial vanilla. Recompensa de Diabolus. NO "chip de señal" |
 | powerfocus chip | **chip de enfoque energético** | Oficial vanilla. Recompensa de Reina bélica. NO "chip de hiperconcentración" |
 | nano structuring chip | **chip nanoestructurador** | Oficial vanilla. Recompensa de Apocritón. NO "chip nanoestructurante" |
-| mechtech (research) | **mecatrónica** | "mechtech research" → investigación mecatrónica; "mechtech devices" → dispositivos mecatrónicos. NO "mecatecnología" |
+| mechtech (nombre de proyecto de investigación) | **Tecnomeca** | Oficial vanilla: Tecnomeca básica / estándar / avanzada / ultra. NO "Mecatecnología" ni "Mecatrónica". **Al traducir mods que añaden niveles nuevos, comprueba que el adjetivo no choque con esos cuatro** (p. ej. Apex Mechanoids usa Tecnomeca *suprema* y *ápice*) |
+| mechtech research (en prosa) | **investigación mecatrónica** | Así lo traduce el vanilla dentro de las descripciones de los chips |
+| mechtech devices | dispositivos mecatrónicos | |
 | Fórmula vanilla de los chips | — | "Un microórgano mecanoide de {X}. Es necesario para producir ciertos tipos avanzados de mecanoides y equipos.\\n\\nUn mecanizador puede estudiar este chip para ayudar a desbloquear niveles superiores de investigación mecatrónica." |
 | (toxic) waste pack | **pack de residuos (tóxicos)** | NO "paquete" ni "fardo" |
 | wastepack atomizer | atomizador de residuos | |
@@ -258,6 +260,18 @@ Bombero · Médico · Cuidar niños · Vigilante · Entretener · Cazar · Culti
 > La sub-IA dentro de este núcleo se aproxima a un humano vivo en su complejidad, aunque es de una naturaleza muy diferente. Como cualquier mente de este tipo, tiene una presencia psíquica notable.
 >
 > Este subnúcleo solo podría haber sido producido por una rica transferencia de patrones desde otra mente sofisticada. La única manera de hacerlo sin grandes instalaciones es arrancar el cerebro de una persona viva, matándola en el proceso.
+
+**Proyectos de investigación Tecnomeca — referencias oficiales vanilla:**
+> **Tecnomeca básica:** La tecnología necesaria para que tu mecanizador pueda crear y controlar mecanoides de nivel básico.
+>
+> **Tecnomeca estándar:** La tecnología necesaria para que tu mecanizador cree y controle mecanoides de nivel estándar.\n\nPuedes conseguir chips de señal utilizando un mecanizador para invocar la amenaza: diabolus.
+>
+> **Tecnomeca avanzada:** La tecnología necesaria para que tu mecanizador cree y controle mecanoides de alto nivel.\n\nPuedes obtener chips de superenfoque usando un mecanizador para invocar la amenaza: reina bélica.
+>
+> **Tecnomeca ultra:** La tecnología avanzada necesaria para que tu mecanizador cree y controle mecanoides de nivel ultra, incluidos los grandes mecas y los engranajes de mecanizador de nivel ultra.\n\nPuedes conseguir chips de nanoestructuración utilizando un mecanizador para invocar la amenaza: apocritón.
+
+Plantilla reutilizable: *"La tecnología necesaria para que tu mecanizador cree y controle mecanoides de nivel {X}."* + *"Puedes conseguir chips de {tipo} utilizando un mecanizador para invocar la amenaza: {jefe en minúscula}."*
+OJO: en estas descripciones el vanilla llama a los chips *chips de señal*, *chips de superenfoque* y *chips de nanoestructuración*, distinto de los nombres de los ítems (chip de señalización / de enfoque energético / nanoestructurador). Es una inconsistencia del propio vanilla: respeta cada forma en su contexto.
 
 **Chips de mecanoide — referencias oficiales vanilla:**
 > **Chip de señalización:** Un microórgano de sincronización de banda de mecanoides. Es necesario para producir ciertos tipos avanzados de mecanoides y equipos.\n\nUn mecanizador puede estudiar este chip para ayudar a desbloquear niveles superiores de investigación mecatrónica.
