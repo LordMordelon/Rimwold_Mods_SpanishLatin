@@ -394,7 +394,7 @@ def reorganizar_a_common(destino_root, nombre_subcarpeta):
     return True, f"Contenido movido a Common/Languages/"
 
 
-def actualizar_about_xml(destino_root, origen, mods_procesados):
+def _localizar_about_xml(destino_root):
     rutas_posibles = [
         os.path.join(destino_root, "About", "about.xml"),
         os.path.join(destino_root, "About", "About.xml"),
@@ -402,11 +402,15 @@ def actualizar_about_xml(destino_root, origen, mods_procesados):
         os.path.join(os.path.dirname(destino_root), "About", "About.xml"),
     ]
 
-    ruta_about = None
     for r in rutas_posibles:
         if os.path.isfile(r):
-            ruta_about = r
-            break
+            return r
+
+    return None
+
+
+def actualizar_about_xml(destino_root, origen, mods_procesados):
+    ruta_about = _localizar_about_xml(destino_root)
 
     if not ruta_about:
         return False, "No se encontro About/about.xml (o About/About.xml) para actualizar."
@@ -447,6 +451,56 @@ def actualizar_about_xml(destino_root, origen, mods_procesados):
     tree.write(ruta_about, encoding="utf-8", xml_declaration=True)
 
     return True, f"About.xml actualizado con {len(ids_mods)} entradas."
+
+
+def generar_readme(repo_root, destino_root, mods, fecha=None):
+    """
+    Genera/actualiza README.md en la raiz del repo con la lista total de mods
+    traducidos. Se regenera en cada compilacion para que GitHub siempre
+    muestre el listado actualizado.
+    """
+    if not mods:
+        return False, "No hay mods para generar README.md"
+
+    nombre_pack = "Traducciones RimWorld [Español Latino]"
+    descripcion = ""
+
+    ruta_about = _localizar_about_xml(destino_root)
+    if ruta_about:
+        try:
+            root = ET.parse(ruta_about).getroot()
+            name_node = root.find("name")
+            if name_node is not None and name_node.text:
+                nombre_pack = name_node.text.strip()
+            desc_node = root.find("description")
+            if desc_node is not None and desc_node.text:
+                descripcion = desc_node.text.strip()
+        except Exception:
+            pass
+
+    fecha = fecha or datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+    mods_ordenados = sorted(set(mods), key=str.casefold)
+
+    lineas = [f"# {nombre_pack}", ""]
+    if descripcion:
+        lineas.extend([descripcion, ""])
+    lineas.extend([
+        f"**Última compilación:** {fecha}  ",
+        f"**Total de mods traducidos:** {len(mods_ordenados)}",
+        "",
+        "## Lista de mods traducidos",
+        "",
+    ])
+    lineas.extend(f"- {mod}" for mod in mods_ordenados)
+    lineas.append("")
+    lineas.append("---")
+    lineas.append("*Este README se genera y actualiza automáticamente en cada compilación. No editar manualmente.*")
+
+    ruta_readme = os.path.join(repo_root, "README.md")
+    with open(ruta_readme, "w", encoding="utf-8") as f:
+        f.write("\n".join(lineas) + "\n")
+
+    return True, f"README.md actualizado con {len(mods_ordenados)} mods en {ruta_readme}"
 
 
 def comprimir_resultado(destino_root, nombre_subcarpeta):
@@ -536,6 +590,7 @@ def main():
     parser.add_argument("--reporte", action="store_true", help="Genera un reporte de mods compilados (default)")
     parser.add_argument("--sin-reporte", action="store_true", help="No generar reporte de mods compilados")
     parser.add_argument("--reporte-titulo", default="Reporte de Mods Procesados", help="Titulo del reporte")
+    parser.add_argument("--sin-readme", action="store_true", help="No actualizar README.md con la lista total de mods")
     parser.add_argument("--git", action="store_true", help="Genera release notes y hace commit+tag automaticamente")
 
     args = parser.parse_args()
@@ -656,9 +711,10 @@ def main():
         if not ok:
             return 1
 
+    # Combinar mods normales y vanilla para el reporte y el README
+    todos_los_mods = mods_procesados + [nombre for nombre, _ in mods_vanilla_info]
+
     if not args.sin_reporte:
-        # Combinar mods normales y vanilla para el reporte
-        todos_los_mods = mods_procesados + [nombre for nombre, _ in mods_vanilla_info]
         ok, mensaje = generar_reporte(destino, todos_los_mods, errores=errores, titulo=args.reporte_titulo)
         print(mensaje)
         if not ok:
@@ -673,6 +729,14 @@ def main():
             ruta_errores = os.path.join(destino, "Reportes", "errores_compilacion.txt")
             if os.path.isfile(ruta_errores):
                 os.remove(ruta_errores)
+
+    if not args.sin_readme:
+        repo_root_readme = get_repo_root(os.getcwd())
+        if repo_root_readme:
+            ok_readme, msg_readme = generar_readme(repo_root_readme, destino, todos_los_mods)
+            print(msg_readme)
+        else:
+            print("ADVERTENCIA: No se detecto repositorio git, omitiendo actualizacion de README.md")
 
     if args.git:
         repo_root = get_repo_root(os.getcwd())

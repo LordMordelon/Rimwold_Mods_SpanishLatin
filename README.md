@@ -1,0 +1,260 @@
+# Traducciones [Español Latino]
+
+Un conjunto de traducciones de mods que uso adaptados principalmente al español latino. Incluye términos y expresiones propias que considero que están en coherencia con el trasfondo de Rimworld.
+
+Si encuentras errores o tienes sugerencias, no dudes en mencionarlo.
+
+**Última compilación:** 2026-09-02 16:01:52  
+**Total de mods traducidos:** 246
+
+## Lista de mods traducidos
+
+- 1trickPwnyta's Anomaly Patch
+- 1trickPwnyta's Biotech Patch
+- 1trickPwnyta's Defaults
+- 1trickPwnyta's Ideology Patch
+- 1trickPwnyta's Odyssey Patch
+- [FSF] FrozenSnowFox Tweaks
+- [FSF]_Advanced_Bionics_Expansion
+- [HRK] Vanilla Expanded Extra Embrasures
+- [HRK]_Vanilla_Expanded_Extra_Embrasures
+- [RH2] Uncle Boris' - Brainwash Chair
+- [sbz] Bookcase
+- [sbz] Fridge
+- [sbz] Gravship Storage
+- [sbz] Neat Storage
+- A RimWorld of Magic
+- Achtung!
+- Adaptive Storage Framework
+- Advanced Moisture Pump (Continued)
+- Alpha Armoury
+- Alpha Books
+- Alpha Mechs
+- Alpha Random
+- Alpha Skills
+- Altered Carbon 2 ReSleeved
+- Amplified Mobility Platform
+- Ancient hydroponic farm facilities
+- Anima Bionics - Forked
+- Anima Gear - Continued
+- Animal Traits System
+- Animal Traits System - Nihilist Penguin
+- Animals Logic
+- Anomaly for Gravship
+- Anthrosonae
+- Appliances Expanded
+- Aquatic Repopulation
+- Asteroid_Grounds
+- Auto Ability
+- Automatic Hydroponics
+- Automatic Hydroponics Expanded
+- Better Architect Menu
+- Better autocasting for Vanilla Psycasts Expanded
+- Better Transhumanists
+- Bulk Load For Transporters
+- Butter++
+- Carryalls Intercontinental Transport (Continued)
+- Cat's Boots and Gloves
+- Common Sense
+- Compact Hediffs
+- Complementary Odyssey
+- Customize Weapon
+- Cybranian - Terraforming Asteroids
+- Days Matter (fork)
+- Dlc collaboration - Void universe
+- Dubs Mint Minimap
+- EdB Prepare Carefully
+- Elite Bionics Framework
+- Enhanced Vat Learning
+- Erin's Auraeyl
+- Erin's Auronya
+- EvolvedOrgansRedux
+- Exosuit Framework
+- Extinguish Refuelables
+- Extract Translation
+- Faction Territories and Vassalage
+- Floor-Mounted Aquarium
+- Fortified Features Framework
+- Gene Fabrication
+- Geological Landforms
+- Graphics Settings+
+- GratefulRefugees
+- Gravship Launch Info
+- GravTech
+- GravTech - Big cannons
+- Harvest Organs Post Mortem Continued
+- Hospital
+- Hospitality (Continued)
+- Hull Style NANAME Walls
+- Hussar Weapon Aptitude Remake
+- Hyper Roll
+- Ideology Development+
+- Impact Weaponry - Reloaded
+- Integrated Implants
+- Lactation Expansion
+- Laser Weapons Re-Examined
+- Level Up!
+- Loading Progress
+- Makeshift Re-Examined
+- Map Mode Framework
+- Map Preview
+- Mech Charger Booster
+- Mechanite Diseases
+- Mechanitor Orbital Platform
+- Mechanoid Upgrades
+- Mechanoid Upgrades - Anomaly
+- Mechanoid Upgrades - Archotech
+- Megafauna
+- Melee Animation
+- MendAndRecycle
+- Metalhorror Scanner
+- More Than Capable (1.6-b)
+- Move the Patient
+- Nice Bill Tab
+- Nice Inventory Tab
+- Nice Inventory Tab CE Integration
+- Nice Plants Menu
+- Nice Research Tab
+- No Conduit On Gravship
+- Non-Lethal Re-Examined
+- Noobert Nebulous - Vidtuber (Continued)
+- Odyssey Transport Shuttle
+- Orbital Station Start
+- Orbital_Platforms
+- Performance Optimizer
+- Permits Re-Examined
+- Persona Mechanoid Pawns 2
+- Pharmacist Represcribed
+- Power Re-Examined
+- Progression Education
+- Progression Gravship
+- P–5000 Powered Work Loader
+- Quality Bionics Remastered
+- Random Chance
+- ReBuild Doors and Corners
+- ReGrowth 2
+- RenameColony
+- Research Papers
+- Research Reinvented
+- ReSplice Core
+- Rimpsyche - Disposition
+- Rimpsyche - Personality Core
+- Rimpsyche - Sexuality
+- RimServers
+- Romance On The Rim
+- RPG Style Inventory Revamped
+- RT Fuse
+- RT Solar Flare Shield
+- Security Re-Examined
+- Sense Of Depth For Tall Buildings
+- Simple Additions Mech Clusters
+- Simple Additions Starfire Boss
+- Simple sidearms
+- Slim Recharger
+- Space Services
+- Spacer Arsenal
+- Standalone Hot Spring
+- The Dead Man's Switch
+- The Dead Man's Switch - AncientCorps
+- The Dead Man's Switch - Independent Trashbin
+- The Dead Man's Switch - MobileDragoon
+- The Dead Man's Switch - Synthetic
+- The Dead Man's Switch - Synthroid Enhanced Patch
+- Tilt the Planet! - Realism Overhaul
+- Trader ships
+- TSIND Power Armor QA
+- UI Not Included Customizable UI Overhaul
+- Ushankas Biological Warfare
+- Ushankas Glittertech Expansion
+- Ushankas Hacking Expansion
+- Ushankas Luciferium Expansion
+- Ushankas Necroa Archovirus
+- Vanilla Achievements Expanded
+- Vanilla Animals Expanded
+- Vanilla Animals Expanded - Enragered
+- Vanilla Animals Expanded - Royal Animals
+- Vanilla Animals Expanded - Waste Animals
+- Vanilla Anomaly Expanded - Insanity
+- Vanilla Apparel Expanded — Accessories
+- Vanilla Armour Expanded
+- Vanilla Arsenal
+- Vanilla Aspirations Expanded
+- Vanilla Backstories Expanded
+- Vanilla Chemfuel Expanded
+- Vanilla Christmas Expanded
+- Vanilla Combat Reloaded
+- Vanilla Cooking Expanded
+- Vanilla Events Expanded
+- Vanilla Expanded Framework
+- Vanilla Factions Expanded - Deserters
+- Vanilla Factions Expanded - Empire
+- Vanilla Factions Expanded - Insectoids 2
+- Vanilla Factions Expanded - Pirates
+- Vanilla Fishing Expanded
+- Vanilla Food Variety Expanded
+- Vanilla Furniture Expanded
+- Vanilla Furniture Expanded - Architect
+- Vanilla Furniture Expanded - Art
+- Vanilla Furniture Expanded - Factory
+- Vanilla Furniture Expanded - Farming
+- Vanilla Furniture Expanded - Medical Module
+- Vanilla Furniture Expanded - Power
+- Vanilla Furniture Expanded - Production
+- Vanilla Furniture Expanded - Props and Decor
+- Vanilla Furniture Expanded - Security
+- Vanilla Furniture Expanded - Spacer Module
+- Vanilla Gravship Expanded - Chapter 1
+- Vanilla Gravship Expanded - Expanded
+- Vanilla Helixien Gas Expanded
+- Vanilla Ideology Expanded - Dryads
+- Vanilla Ideology Expanded - Memes and Structures
+- Vanilla Landmarks Expanded
+- Vanilla Nutrient Paste Expanded
+- Vanilla Persona Weapons Expanded
+- Vanilla Psycasts Expanded
+- Vanilla Psycasts Expanded - Hemosage
+- Vanilla Psycasts Expanded - Puppeteer
+- Vanilla Quests Expanded - Ancients
+- Vanilla Quests Expanded - Cryptoforge
+- Vanilla Quests Expanded - Deadlife
+- Vanilla Quests Expanded - Drone Factory
+- Vanilla Quests Expanded - The Generator
+- Vanilla Races Expanded - Android
+- Vanilla Races Expanded - Archon
+- Vanilla Races Expanded - Fungoid
+- Vanilla Races Expanded - Genie
+- Vanilla Races Expanded - Highmate
+- Vanilla Races Expanded - Hussar
+- Vanilla Races Expanded - Insector
+- Vanilla Races Expanded - Lycanthrope
+- Vanilla Races Expanded - Phytokin
+- Vanilla Races Expanded - Pigskin
+- Vanilla Races Expanded - Sanguophage
+- Vanilla Races Expanded - Saurid
+- Vanilla Races Expanded - Starjack
+- Vanilla Races Expanded - Waster
+- Vanilla Recycling Expanded
+- Vanilla Skills Expanded
+- Vanilla Social Interactions Expanded
+- Vanilla Storytellers Expanded - Winston Waves
+- Vanilla Temperature Expanded
+- Vanilla Trading Expanded
+- Vanilla Traits Expanded
+- Vanilla Weapons Expanded
+- Vanilla Weapons Expanded - Bioferrite
+- Vanilla Weapons Expanded - Coilguns
+- Vanilla Weapons Expanded - Heavy Weapons
+- Vanilla Weapons Expanded - Laser
+- Vanilla Weapons Expanded - Makeshift
+- Vanilla Weapons Expanded - Non-Lethal
+- Vanilla Weapons Expanded - Quickdraw
+- Vanilla_Factions_Expanded_-_Insectoids_2
+- Vanilla_Gravship_Expanded_-_Chapter_1
+- VFE-Deserters Remote Deadlife IED
+- Volt Weaponry
+- WVC - Work Modes
+- XML Extensions
+- Zoology Realistic Animal Overhaul
+
+---
+*Este README se genera y actualiza automáticamente en cada compilación. No editar manualmente.*
