@@ -179,6 +179,7 @@ Carpetas de salida:
 5. La carpeta de origen siempre es "Archivo Traducciones/", nunca el Pack de salida.
 6. Tests: verificar con python -c "from compilador_utils import *; print('OK')" despues de cambios.
 7. Ver sección "Preferencia de Edición y Traducción de Archivos XML" (más abajo).
+8. Revisar C:\Users\amaro\Desktop\Proyecto\.agents\Glosario.md para convenciones de traducción.
 
 ## Preferencia de Edición y Traducción de Archivos XML
 
