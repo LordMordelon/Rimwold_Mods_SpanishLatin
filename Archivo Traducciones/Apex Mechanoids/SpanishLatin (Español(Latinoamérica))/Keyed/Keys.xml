@@ -1,0 +1,355 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- Dynamo & Frostivus / General -->
+  <!-- EN: Mobile Mode -->
+  <APM.Dynamo.Command.SwithcToMobileMode.Label>TODO</APM.Dynamo.Command.SwithcToMobileMode.Label>
+  <!-- EN: Switch to mobile mode -->
+  <APM.Dynamo.Command.SwithcToMobileMode.Desc>TODO</APM.Dynamo.Command.SwithcToMobileMode.Desc>
+
+  <!-- EN: Unload preserved food -->
+  <APM.FrostivusFoodPreservation.ManualUnload.Label>TODO</APM.FrostivusFoodPreservation.ManualUnload.Label>
+  <!-- EN: Choose a cell where Frostivus should unload all preserved food. Manually unloaded food will be forbidden. -->
+  <APM.FrostivusFoodPreservation.ManualUnload.Desc>TODO</APM.FrostivusFoodPreservation.ManualUnload.Desc>
+  <!-- EN: No preserved food carried. -->
+  <APM.FrostivusFoodPreservation.ManualUnload.NoFood>TODO</APM.FrostivusFoodPreservation.ManualUnload.NoFood>
+  <!-- EN: Frostivus cannot reach that cell. -->
+  <APM.FrostivusFoodPreservation.ManualUnload.NoPath>TODO</APM.FrostivusFoodPreservation.ManualUnload.NoPath>
+  <!-- EN: Frostivus cannot use preservation commands right now. -->
+  <APM.FrostivusFoodPreservation.CommandUnavailable>TODO</APM.FrostivusFoodPreservation.CommandUnavailable>
+
+  <!-- EN: Release from cryo-chamber -->
+  <APM.FrostivusFoodPreservation.ReleaseDevoured.Label>TODO</APM.FrostivusFoodPreservation.ReleaseDevoured.Label>
+  <!-- EN: Choose a cell where Frostivus should release devoured pawns or corpses. -->
+  <APM.FrostivusFoodPreservation.ReleaseDevoured.Desc>TODO</APM.FrostivusFoodPreservation.ReleaseDevoured.Desc>
+  <!-- EN: No devoured pawn or corpse inside. -->
+  <APM.FrostivusFoodPreservation.ReleaseDevoured.NoContents>TODO</APM.FrostivusFoodPreservation.ReleaseDevoured.NoContents>
+  <!-- EN: Frostivus cannot reach that cell. -->
+  <APM.FrostivusFoodPreservation.ReleaseDevoured.NoPath>TODO</APM.FrostivusFoodPreservation.ReleaseDevoured.NoPath>
+
+  <!-- EN: Frostivus can only swallow a spawned humanlike pawn or corpse on its map. -->
+  <APM.FrostivusFoodPreservation.CryptoSwallow.InvalidTarget>TODO</APM.FrostivusFoodPreservation.CryptoSwallow.InvalidTarget>
+  <!-- EN: Frostivus can swallow any humanlike corpse or downed pawn, but only colonists, prisoners, or slaves while alive. -->
+  <APM.FrostivusFoodPreservation.CryptoSwallow.InvalidPawn>TODO</APM.FrostivusFoodPreservation.CryptoSwallow.InvalidPawn>
+  <!-- EN: Frostivus cannot swallow itself. -->
+  <APM.FrostivusFoodPreservation.CryptoSwallow.Self>TODO</APM.FrostivusFoodPreservation.CryptoSwallow.Self>
+
+  <!-- Gazer -->
+  <!-- EN: Autocast laser -->
+  <APM_Gazer_AutoLaser_Label>TODO</APM_Gazer_AutoLaser_Label>
+  <!-- EN: Allow this gazer to automatically fire its laser weapon and Sun Ray ability while under player control. Manual attack orders still fire once at the selected target. -->
+  <APM_Gazer_AutoLaser_Desc>TODO</APM_Gazer_AutoLaser_Desc>
+  <!-- EN: Autocast laser: disabled. -->
+  <APM_Gazer_Inspect_AutoLaserDisabled>TODO</APM_Gazer_Inspect_AutoLaserDisabled>
+
+  <!-- Ingestor -->
+  <!-- EN: Enable stripping -->
+  <APM_Ingestor_StripMode_Enable_Label>TODO</APM_Ingestor_StripMode_Enable_Label>
+  <!-- EN: Click to strip apparel, equipment and inventory from corpses before recycling them. Current mode: recycle corpses intact; carried items are destroyed with the corpse. -->
+  <APM_Ingestor_StripMode_Enable_Desc>TODO</APM_Ingestor_StripMode_Enable_Desc>
+  <!-- EN: Disable stripping -->
+  <APM_Ingestor_StripMode_Disable_Label>TODO</APM_Ingestor_StripMode_Disable_Label>
+  <!-- EN: Click to recycle corpses intact and destroy apparel, equipment and inventory with the corpse. Current mode: strip carried items before recycling. -->
+  <APM_Ingestor_StripMode_Disable_Desc>TODO</APM_Ingestor_StripMode_Disable_Desc>
+  <!-- EN: Recycle all valid corpses -->
+  <APM_Ingestor_ProcessMode_All_Label>TODO</APM_Ingestor_ProcessMode_All_Label>
+  <!-- EN: Click to let the ingestor recycle any reachable fresh organic corpse. Current mode: only marked corpses are recycled. -->
+  <APM_Ingestor_ProcessMode_All_Desc>TODO</APM_Ingestor_ProcessMode_All_Desc>
+  <!-- EN: Use marked corpses only -->
+  <APM_Ingestor_ProcessMode_Marked_Label>TODO</APM_Ingestor_ProcessMode_Marked_Label>
+  <!-- EN: Click to make the ingestor recycle only corpses marked for biomass recycling. Current mode: all reachable fresh organic corpses are recycled. -->
+  <APM_Ingestor_ProcessMode_Marked_Desc>TODO</APM_Ingestor_ProcessMode_Marked_Desc>
+  <!-- EN: Mark for biomass recycling -->
+  <APM_Ingestor_MarkCorpses_Label>TODO</APM_Ingestor_MarkCorpses_Label>
+  <!-- EN: Mark fresh organic corpses for ingestor recycling. -->
+  <APM_Ingestor_MarkCorpses_Desc>TODO</APM_Ingestor_MarkCorpses_Desc>
+
+  <!-- EN: Must target a fresh organic corpse. -->
+  <APM_IngestorAbsorb_MustTargetCorpse>TODO</APM_IngestorAbsorb_MustTargetCorpse>
+  <!-- EN: Must target a fresh organic corpse or ingestible material. -->
+  <APM_IngestorAbsorb_InvalidTarget>TODO</APM_IngestorAbsorb_InvalidTarget>
+  <!-- EN: Invalid corpse. -->
+  <APM_IngestorAbsorb_InvalidCorpse>TODO</APM_IngestorAbsorb_InvalidCorpse>
+  <!-- EN: Target is not organic biomass. -->
+  <APM_IngestorAbsorb_NotOrganic>TODO</APM_IngestorAbsorb_NotOrganic>
+  <!-- EN: Cannot recycle a burning corpse. -->
+  <APM_IngestorAbsorb_Burning>TODO</APM_IngestorAbsorb_Burning>
+  <!-- EN: Cannot recycle a rotted or desiccated corpse. -->
+  <APM_IngestorAbsorb_NotFresh>TODO</APM_IngestorAbsorb_NotFresh>
+  <!-- EN: Already marked for biomass recycling. -->
+  <APM_IngestorAbsorb_AlreadyMarked>TODO</APM_IngestorAbsorb_AlreadyMarked>
+
+  <!-- EN: {0} {1} in {2} -->
+  <APM_IngestorBiomass_LabelSingle>TODO</APM_IngestorBiomass_LabelSingle>
+  <!-- EN: {0} batches, {1} {2}, next in {3} -->
+  <APM_IngestorBiomass_LabelMultiple>TODO</APM_IngestorBiomass_LabelMultiple>
+  <!-- EN: Pending output: -->
+  <APM_IngestorBiomass_TooltipHeader>TODO</APM_IngestorBiomass_TooltipHeader>
+  <!-- EN: {0} {1} in {2} -->
+  <APM_IngestorBiomass_TooltipBatch>TODO</APM_IngestorBiomass_TooltipBatch>
+  <!-- EN: ...and {0} more. -->
+  <APM_IngestorBiomass_TooltipMore>TODO</APM_IngestorBiomass_TooltipMore>
+  <!-- EN: unknown output -->
+  <APM_IngestorBiomass_UnknownOutput>TODO</APM_IngestorBiomass_UnknownOutput>
+
+  <!-- CompJavelinRocketRack -->
+  <!-- EN: Rocket: {0} -->
+  <APM.Javelin.SwitchRocket.Label>TODO</APM.Javelin.SwitchRocket.Label>
+  <!-- EN: Choose which warhead this javelin loads. Every rocket but the basic one is drawn from the mech's uranium as it fires, and the rack drops back to the basic rocket when that runs out. -->
+  <APM.Javelin.SwitchRocket.Desc>TODO</APM.Javelin.SwitchRocket.Desc>
+  <!-- EN: {0} (free) -->
+  <APM.Javelin.RocketFree>TODO</APM.Javelin.RocketFree>
+  <!-- EN: {0} ({1} uranium per shot) -->
+  <APM.Javelin.RocketCost>TODO</APM.Javelin.RocketCost>
+  <!-- EN: (not enough uranium) -->
+  <APM.Javelin.NoUranium>TODO</APM.Javelin.NoUranium>
+  <!-- EN: Rocket: {0} -->
+  <APM.Javelin.LoadedRocket>TODO</APM.Javelin.LoadedRocket>
+  <!-- EN: {0} has run out of uranium for its {1} and has fallen back to basic rockets. -->
+  <APM.Javelin.OutOfUranium>TODO</APM.Javelin.OutOfUranium>
+
+  <!-- Repair Station & Mechanics -->
+  <!-- EN: {0} has been fully repaired. -->
+  <APM_MechRepaired>TODO</APM_MechRepaired>
+  <!-- EN: Repairing {0} -->
+  <APM_Repairing>TODO</APM_Repairing>
+  <!-- EN: {0} was released after the repair station stopped working. -->
+  <APM_RepairStation_InactiveEjected>TODO</APM_RepairStation_InactiveEjected>
+  <!-- EN: Only mechanoids can be repaired here. -->
+  <APM_NotMechanoid>TODO</APM_NotMechanoid>
+  <!-- EN: Satellites cannot be repaired in repair stations. -->
+  <APM_RepairStation_CannotRepairSatellite>TODO</APM_RepairStation_CannotRepairSatellite>
+  <!-- EN: Only friendly mechanoids can be repaired. -->
+  <APM_NotPlayerFaction>TODO</APM_NotPlayerFaction>
+  <!-- EN: Mechanoid size must be {0} for this station. -->
+  <APM_WrongSize>TODO</APM_WrongSize>
+  <!-- EN: Repair station scanning found {0}. Repairs ordered. -->
+  <APM_AutoRepairOrdered>TODO</APM_AutoRepairOrdered>
+  <!-- EN: Auto-Repair -->
+  <APM_Gizmo_AutoRepair>TODO</APM_Gizmo_AutoRepair>
+  <!-- EN: Automatically scan for damaged mechs and assign them to the station. -->
+  <APM_Gizmo_AutoRepair_Desc>TODO</APM_Gizmo_AutoRepair_Desc>
+  <!-- EN: Interval: {0} -->
+  <APM_Gizmo_SetInterval>TODO</APM_Gizmo_SetInterval>
+  <!-- EN: Show repair station auto-repair messages -->
+  <APM_Settings_ShowRepairStationAutoRepairMessages_Label>TODO</APM_Settings_ShowRepairStationAutoRepairMessages_Label>
+  <!-- EN: Show a message when a repair station automatically calls a mechanoid for repairs. -->
+  <APM_Settings_ShowRepairStationAutoRepairMessages_Desc>TODO</APM_Settings_ShowRepairStationAutoRepairMessages_Desc>
+  <!-- EN: This mechanoid is already at full health. -->
+  <APM_FullHealth>TODO</APM_FullHealth>
+  <!-- EN: Cancel repair -->
+  <APM_CommandCancelRepair>TODO</APM_CommandCancelRepair>
+  <!-- EN: Stop repairing and eject the mechanoid. -->
+  <APM_CommandCancelRepairDesc>TODO</APM_CommandCancelRepairDesc>
+  <!-- EN: Insert mech -->
+  <APM_InsertMech>TODO</APM_InsertMech>
+  <!-- EN: No mechs available. -->
+  <APM_NoMechsAvailable>TODO</APM_NoMechsAvailable>
+
+  <!-- Repair Station Arm Editor -->
+  <!-- EN: Dev: arm live editor -->
+  <APM_RepairStation_ArmEditor_GizmoLabel>TODO</APM_RepairStation_ArmEditor_GizmoLabel>
+  <!-- EN: Open a live editor for repair station arm offsets. -->
+  <APM_RepairStation_ArmEditor_GizmoDesc>TODO</APM_RepairStation_ArmEditor_GizmoDesc>
+  <!-- EN: Repair station arm editor -->
+  <APM_RepairStation_ArmEditor_Title>TODO</APM_RepairStation_ArmEditor_Title>
+  <!-- EN: No repair station arms are available. -->
+  <APM_RepairStation_ArmEditor_NoStation>TODO</APM_RepairStation_ArmEditor_NoStation>
+  <!-- EN: Station rotation: {0} -->
+  <APM_RepairStation_ArmEditor_CurrentRotation>TODO</APM_RepairStation_ArmEditor_CurrentRotation>
+  <!-- EN: Live preview is active for this view. -->
+  <APM_RepairStation_ArmEditor_LivePreviewOn>TODO</APM_RepairStation_ArmEditor_LivePreviewOn>
+  <!-- EN: Editing {0}; live preview requires a station facing that way. -->
+  <APM_RepairStation_ArmEditor_LivePreviewOff>TODO</APM_RepairStation_ArmEditor_LivePreviewOff>
+  <!-- EN: Arm -->
+  <APM_RepairStation_ArmEditor_Arm>TODO</APM_RepairStation_ArmEditor_Arm>
+  <!-- EN: View -->
+  <APM_RepairStation_ArmEditor_View>TODO</APM_RepairStation_ArmEditor_View>
+  <!-- EN: Use current view -->
+  <APM_RepairStation_ArmEditor_UseCurrent>TODO</APM_RepairStation_ArmEditor_UseCurrent>
+  <!-- EN: Step -->
+  <APM_RepairStation_ArmEditor_Step>TODO</APM_RepairStation_ArmEditor_Step>
+  <!-- EN: {0} offset for arm {1} -->
+  <APM_RepairStation_ArmEditor_SelectedOffset>TODO</APM_RepairStation_ArmEditor_SelectedOffset>
+  <!-- EN: Reset view -->
+  <APM_RepairStation_ArmEditor_ResetView>TODO</APM_RepairStation_ArmEditor_ResetView>
+  <!-- EN: Copy arm XML -->
+  <APM_RepairStation_ArmEditor_CopyArmXml>TODO</APM_RepairStation_ArmEditor_CopyArmXml>
+  <!-- EN: Copy all arms XML -->
+  <APM_RepairStation_ArmEditor_CopyAllXml>TODO</APM_RepairStation_ArmEditor_CopyAllXml>
+  <!-- EN: Repair station arm XML copied. -->
+  <APM_RepairStation_ArmEditor_Copied>TODO</APM_RepairStation_ArmEditor_Copied>
+  <!-- EN: Changes are applied live to this station's current in-memory def. Copy XML when the offsets look right. -->
+  <APM_RepairStation_ArmEditor_Footer>TODO</APM_RepairStation_ArmEditor_Footer>
+
+  <!-- Misc Stats & Tooltips -->
+  <!-- EN: Shield integrity -->
+  <APM_ShieldIntegrity>TODO</APM_ShieldIntegrity>
+  <!-- EN: Vampiric charges: {0}/{1}  -->
+  <APM_VampiricCharges>TODO</APM_VampiricCharges>
+  <!-- EN: Current stats (with unity uplink): -->
+  <APM_UnityTooltip_Current>TODO</APM_UnityTooltip_Current>
+
+  <!-- Command Casket & Remote Links -->
+  <!-- EN: Remote control uplink is active for {PAWN} -->
+  <APM.CommandCasket.Inspection>TODO</APM.CommandCasket.Inspection>
+  <!-- EN: not mechanitor -->
+  <APM.CommandCasket.FailReason.NotMechanitor>TODO</APM.CommandCasket.FailReason.NotMechanitor>
+  <!-- EN: Eject mechanitor -->
+  <APM.CommandCasket.Gizmo.CancelLink.Label>TODO</APM.CommandCasket.Gizmo.CancelLink.Label>
+  <!-- EN: Cancel the remote link for the current occupant. The occupant will be ejected. -->
+  <APM.CommandCasket.Gizmo.CancelLink.Desc>TODO</APM.CommandCasket.Gizmo.CancelLink.Desc>
+  <!-- EN: remote shield -->
+  <APM.CommandCasket.Gizmo.Shield.Label>TODO</APM.CommandCasket.Gizmo.Shield.Label>
+  <!-- EN: shield a friendly mechanoid, can target the whole map.\nPower scales with the remote shielder implant. -->
+  <APM.CommandCasket.Gizmo.Shield.Desc>TODO</APM.CommandCasket.Gizmo.Shield.Desc>
+  <!-- EN: shield the selected mechanoid.\nPower scales with the remote shielder implant. -->
+  <APM.CommandCasket.Gizmo.ShieldSelf.Desc>TODO</APM.CommandCasket.Gizmo.ShieldSelf.Desc>
+  <!-- EN: remote repair -->
+  <APM.CommandCasket.Gizmo.Repair.Label>TODO</APM.CommandCasket.Gizmo.Repair.Label>
+  <!-- EN: repair a friendly mechanoid until it is fully repaired or has no energy remaining. Can target the whole map. -->
+  <APM.CommandCasket.Gizmo.Repair.Desc>TODO</APM.CommandCasket.Gizmo.Repair.Desc>
+  <!-- EN: repair the selected mechanoid until it is fully repaired or has no energy remaining. -->
+  <APM.CommandCasket.Gizmo.RepairSelf.Desc>TODO</APM.CommandCasket.Gizmo.RepairSelf.Desc>
+  <!-- EN: remote disconnect -->
+  <APM.CommandCasket.Gizmo.Disconnect.Label>TODO</APM.CommandCasket.Gizmo.Disconnect.Label>
+  <!-- EN: remotely disconnect from a controlled mech. Can target mechs on the same map. -->
+  <APM.CommandCasket.Gizmo.Disconnect.Desc>TODO</APM.CommandCasket.Gizmo.Disconnect.Desc>
+  <!-- EN: remote connect -->
+  <APM.CommandCasket.Gizmo.Connect.Label>TODO</APM.CommandCasket.Gizmo.Connect.Label>
+  <!-- EN: remotely connect to a friendly mech. Can target mechs on the same map. Time depends on the targeted mechanoid. -->
+  <APM.CommandCasket.Gizmo.Connect.Desc>TODO</APM.CommandCasket.Gizmo.Connect.Desc>
+  <!-- EN: bandwidth used: -->
+  <APM.CommandCasket.Inspection.Bandwidth>TODO</APM.CommandCasket.Inspection.Bandwidth>
+  <!-- EN: remote reconnect -->
+  <APM.CommandCasket.Mech.Gizmo.Reconnect.Label>TODO</APM.CommandCasket.Mech.Gizmo.Reconnect.Label>
+  <!-- EN: remotely connect this mech to a mechanitor inside a mech command casket. -->
+  <APM.CommandCasket.Mech.Gizmo.Reconnect.Desc>TODO</APM.CommandCasket.Mech.Gizmo.Reconnect.Desc>
+  <!-- EN: (missing bandwidth) -->
+  <APM.CommandCasket.Mech.Gizmo.Reconnect.Floatmenu>TODO</APM.CommandCasket.Mech.Gizmo.Reconnect.Floatmenu>
+  <!-- EN: Open remotely -->
+  <APM.CommandCasket.Gizmo.OpenStasisContainer.Label>TODO</APM.CommandCasket.Gizmo.OpenStasisContainer.Label>
+  <!-- EN: Hack remotely -->
+  <APM.CommandCasket.Gizmo.HackStasisContainer.Label>TODO</APM.CommandCasket.Gizmo.HackStasisContainer.Label>
+  <!-- EN: currently -->
+  <APM.CommandCasket.Inspect.CurrentAction>TODO</APM.CommandCasket.Inspect.CurrentAction>
+  <!-- EN: connecting -->
+  <APM.CommandCasket.Inspect.CurrentAction.Connect>TODO</APM.CommandCasket.Inspect.CurrentAction.Connect>
+  <!-- EN: disconnecting -->
+  <APM.CommandCasket.Inspect.CurrentAction.Disconnect>TODO</APM.CommandCasket.Inspect.CurrentAction.Disconnect>
+  <!-- EN: shielding -->
+  <APM.CommandCasket.Inspect.CurrentAction.Shield>TODO</APM.CommandCasket.Inspect.CurrentAction.Shield>
+  <!-- EN: repairing -->
+  <APM.CommandCasket.Inspect.CurrentAction.Repair>TODO</APM.CommandCasket.Inspect.CurrentAction.Repair>
+  <!-- EN: idle -->
+  <APM.CommandCasket.Inspect.CurrentAction.Idle>TODO</APM.CommandCasket.Inspect.CurrentAction.Idle>
+  <!-- EN: opening stasis container -->
+  <APM.CommandCasket.Inspect.CurrentAction.StasisContainer>TODO</APM.CommandCasket.Inspect.CurrentAction.StasisContainer>
+  <!-- EN: \nLeftclick = choose target\nShift = target self\nCtrl = que action\nRightclick = cancel -->
+  <APM.CommandCasket.Gizmo.ControlsInfo>TODO</APM.CommandCasket.Gizmo.ControlsInfo>
+
+  <!-- Mechamancer & Containers -->
+  <!-- EN: This pack is already maintaining {0} deployed satellites. -->
+  <APM.MechamancerPack.MaxSatellites>TODO</APM.MechamancerPack.MaxSatellites>
+  <!-- EN: No valid satellite deployment cell found. -->
+  <APM.MechamancerPack.NoValidSpawnCell>TODO</APM.MechamancerPack.NoValidSpawnCell>
+  <!-- EN: Select mechanoid... -->
+  <APM.MechanoidContainer.Gizmo.ChooseMech.MouseLabel>TODO</APM.MechanoidContainer.Gizmo.ChooseMech.MouseLabel>
+  <!-- EN: Contains an unidentified mechanoid. -->
+  <APM.MechanoidContainer.ContainsUnknown>TODO</APM.MechanoidContainer.ContainsUnknown>
+  <!-- EN: {0} forced {1} open without the bandwidth to hold what was inside. {2} is loose and answers to nobody until a mechanitor takes control of it. -->
+  <APM.MechanoidContainer.ForcedOpen>TODO</APM.MechanoidContainer.ForcedOpen>
+
+  <!-- Ravager & Artillery -->
+  <!-- EN: Auto artillery -->
+  <APM_Ravager_AutoArtillery_Label>TODO</APM_Ravager_AutoArtillery_Label>
+  <!-- EN: Allow this ravager to automatically choose hostile pawns as artillery targets while under player control. Manual attack orders always fire once at the selected cell. -->
+  <APM_Ravager_AutoArtillery_Desc>TODO</APM_Ravager_AutoArtillery_Desc>
+  <!-- EN: Auto artillery: disabled. -->
+  <APM_Ravager_Inspect_AutoArtilleryDisabled>TODO</APM_Ravager_Inspect_AutoArtilleryDisabled>
+  <!-- EN: Auto artillery: cannot fire from under a roof. -->
+  <APM_Ravager_Inspect_AutoArtilleryBlockedRoof>TODO</APM_Ravager_Inspect_AutoArtilleryBlockedRoof>
+  <!-- EN: Auto artillery: current target is under thick roof. -->
+  <APM_Ravager_Inspect_AutoArtilleryBlockedTargetRoof>TODO</APM_Ravager_Inspect_AutoArtilleryBlockedTargetRoof>
+  <!-- EN: Auto artillery: current target cannot be hit from this position. -->
+  <APM_Ravager_Inspect_AutoArtilleryCannotHit>TODO</APM_Ravager_Inspect_AutoArtilleryCannotHit>
+
+  <!-- Toxic Purifier -->
+  <!-- EN: Toxicity recovey per day -->
+  <APM_ToxicPurifier_RecoveryPerDay>TODO</APM_ToxicPurifier_RecoveryPerDay>
+  <!-- EN: Toxicity in the atmosphere in local area has reach the critical point of {0} that would affect the globe, relations with other faction will deteriorate. -->
+  <APM_ToxicPurifier_LevelToAffectRelation>TODO</APM_ToxicPurifier_LevelToAffectRelation>
+  <!-- EN: Toxicity in the atmosphere in local area has reach the critical point of {0} that would affect nearby tiles. -->
+  <APM_ToxicPurifier_LevelToStartSpreading>TODO</APM_ToxicPurifier_LevelToStartSpreading>
+  <!-- EN: Toxicity in the atmosphere in local area has reach the critical point of {0} which would affect nearby tiles and critical point of {1} which would affect faction relations. -->
+  <APM_ToxicPurifier_LevelToAffectRelationAndStartSpreading>TODO</APM_ToxicPurifier_LevelToAffectRelationAndStartSpreading>
+  <!-- EN: Mode -->
+  <APM_ToxicPurifier_ModeChangeLabel>TODO</APM_ToxicPurifier_ModeChangeLabel>
+  <!-- EN: Change purifier station mode. -->
+  <APM_ToxicPurifier_ModeChangeDesc>TODO</APM_ToxicPurifier_ModeChangeDesc>
+  <!-- EN: Ground only -->
+  <APM_ToxicPurifier_Mode_OnlyGround>TODO</APM_ToxicPurifier_Mode_OnlyGround>
+  <!-- EN: Wastepacks only -->
+  <APM_ToxicPurifier_Mode_OnlyWastepacks>TODO</APM_ToxicPurifier_Mode_OnlyWastepacks>
+  <!-- EN: Wastepacks over ground -->
+  <APM_ToxicPurifier_Mode_WastepacksOverGround>TODO</APM_ToxicPurifier_Mode_WastepacksOverGround>
+  <!-- EN: Ground over wastepacks -->
+  <APM_ToxicPurifier_Mode_GroundOverWastepacks>TODO</APM_ToxicPurifier_Mode_GroundOverWastepacks>
+
+  <!-- Tinker -->
+  <!-- EN: Repair {0} -->
+  <APM.Tinker.Order.Repair>TODO</APM.Tinker.Order.Repair>
+
+  <!-- Gazer emplacement -->
+  <!-- EN: Sun Ray -->
+  <APM.GazerEmplacement.SunRay.Label>TODO</APM.GazerEmplacement.SunRay.Label>
+  <!-- EN: Order the emplacement to project a Sun Ray inside its fixed frontal sector. -->
+  <APM.GazerEmplacement.SunRay.Desc>TODO</APM.GazerEmplacement.SunRay.Desc>
+  <!-- EN: Stop forced target -->
+  <APM.GazerEmplacement.StopForcedTarget.Label>TODO</APM.GazerEmplacement.StopForcedTarget.Label>
+  <!-- EN: Clear the current forced target. -->
+  <APM.GazerEmplacement.StopForcedTarget.Desc>TODO</APM.GazerEmplacement.StopForcedTarget.Desc>
+  <!-- EN: Status: Firing Sun Ray -->
+  <APM.GazerEmplacement.Status.Firing>TODO</APM.GazerEmplacement.Status.Firing>
+  <!-- EN: Status: Charging -->
+  <APM.GazerEmplacement.Status.Charging>TODO</APM.GazerEmplacement.Status.Charging>
+  <!-- EN: Status: Cooling down -->
+  <APM.GazerEmplacement.Status.CoolingDown>TODO</APM.GazerEmplacement.Status.CoolingDown>
+  <!-- EN: Status: Ready -->
+  <APM.GazerEmplacement.Status.Ready>TODO</APM.GazerEmplacement.Status.Ready>
+  <!-- EN: Forced target:  -->
+  <APM.GazerEmplacement.ForcedTarget>TODO</APM.GazerEmplacement.ForcedTarget>
+  <!-- EN: Auto target:  -->
+  <APM.GazerEmplacement.AutoTarget>TODO</APM.GazerEmplacement.AutoTarget>
+  <!-- EN: none -->
+  <APM.GazerEmplacement.Target.None>TODO</APM.GazerEmplacement.Target.None>
+  <!-- EN: Not spawned. -->
+  <APM.GazerEmplacement.Fail.NotSpawned>TODO</APM.GazerEmplacement.Fail.NotSpawned>
+  <!-- EN: Sun Ray definition is missing. -->
+  <APM.GazerEmplacement.Fail.MissingDefinition>TODO</APM.GazerEmplacement.Fail.MissingDefinition>
+  <!-- EN: Broken down. -->
+  <APM.GazerEmplacement.Fail.BrokenDown>TODO</APM.GazerEmplacement.Fail.BrokenDown>
+  <!-- EN: Turned off. -->
+  <APM.GazerEmplacement.Fail.TurnedOff>TODO</APM.GazerEmplacement.Fail.TurnedOff>
+  <!-- EN: No power. -->
+  <APM.GazerEmplacement.Fail.NoPower>TODO</APM.GazerEmplacement.Fail.NoPower>
+  <!-- EN: Needs an operator. -->
+  <APM.GazerEmplacement.Fail.NeedsOperator>TODO</APM.GazerEmplacement.Fail.NeedsOperator>
+  <!-- EN: Choose a target cell. -->
+  <APM.GazerEmplacement.Fail.NoTargetCell>TODO</APM.GazerEmplacement.Fail.NoTargetCell>
+  <!-- EN: Target is gone. -->
+  <APM.GazerEmplacement.Fail.TargetGone>TODO</APM.GazerEmplacement.Fail.TargetGone>
+  <!-- EN: Target is out of bounds. -->
+  <APM.GazerEmplacement.Fail.TargetOutOfBounds>TODO</APM.GazerEmplacement.Fail.TargetOutOfBounds>
+  <!-- EN: Target is too close. -->
+  <APM.GazerEmplacement.Fail.TargetTooClose>TODO</APM.GazerEmplacement.Fail.TargetTooClose>
+  <!-- EN: Target is out of range. -->
+  <APM.GazerEmplacement.Fail.TargetOutOfRange>TODO</APM.GazerEmplacement.Fail.TargetOutOfRange>
+  <!-- EN: Target is outside the firing sector. -->
+  <APM.GazerEmplacement.Fail.TargetOutsideArc>TODO</APM.GazerEmplacement.Fail.TargetOutsideArc>
+
+  <!-- EN: {STAT} from low health -->
+  <APM.StatFactorFromHealth.Label>TODO</APM.StatFactorFromHealth.Label>
+  <!-- EN: This mechanoid's {STAT} is affected by its health condition. -->
+  <APM.StatFactorFromHealth.Description>TODO</APM.StatFactorFromHealth.Description>
+</LanguageData>
