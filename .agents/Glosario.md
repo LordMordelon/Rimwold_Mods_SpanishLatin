@@ -32,17 +32,21 @@ Glosario y guía de estilo centralizada para el proyecto de traducción al Espa�
 | war mech | meca de guerra | |
 | labor mech | meca de trabajo | |
 | subcore | **subnúcleo** | |
-| basic subcore | subnúcleo básico | |
-| standard / regular subcore | subnúcleo regular | |
-| high subcore | subnúcleo superior | |
+| basic subcore | **subnúcleo básico** | |
+| standard subcore | **subnúcleo estándar** | Oficial vanilla. NO "subnúcleo regular" |
+| high subcore | **subnúcleo avanzado** | Oficial vanilla. NO "subnúcleo superior" |
+| sub-persona (dentro del subnúcleo) | **sub-IA** | "boring/thinking/sophisticated sub-persona" → sub-IA aburrida / pensante / sofisticada |
+| psychoid substrate | **sustrato psicodinámico** | |
 | subcore encoder | codificador de subnúcleos | |
 | subcore scanner / softscanner | escáner de subnúcleos | |
 | ripscanner | **escanecorte** / escáner de corte | Escáner de extracción destructivo |
 | band node | nodo de banda | |
 | band apparatus | aparato de banda | |
-| signal chip | chip de señal | Recompensa de Diabolus |
-| powerfocus chip | chip de hiperconcentración | Recompensa de Reina bélica |
-| nano structuring chip | chip nanoestructurante | Recompensa de Apocritón |
+| signal chip | **chip de señalización** | Oficial vanilla. Recompensa de Diabolus. NO "chip de señal" |
+| powerfocus chip | **chip de enfoque energético** | Oficial vanilla. Recompensa de Reina bélica. NO "chip de hiperconcentración" |
+| nano structuring chip | **chip nanoestructurador** | Oficial vanilla. Recompensa de Apocritón. NO "chip nanoestructurante" |
+| mechtech (research) | **mecatrónica** | "mechtech research" → investigación mecatrónica; "mechtech devices" → dispositivos mecatrónicos. NO "mecatecnología" |
+| Fórmula vanilla de los chips | — | "Un microórgano mecanoide de {X}. Es necesario para producir ciertos tipos avanzados de mecanoides y equipos.\\n\\nUn mecanizador puede estudiar este chip para ayudar a desbloquear niveles superiores de investigación mecatrónica." |
 | (toxic) waste pack | **pack de residuos (tóxicos)** | NO "paquete" ni "fardo" |
 | wastepack atomizer | atomizador de residuos | |
 | pollution / polluted | contaminación / contaminado | |
@@ -237,4 +241,28 @@ Bombero · Médico · Cuidar niños · Vigilante · Entretener · Cazar · Culti
 
 **Sarcófago de criptosueño (cryptosleep casket) — referencia oficial vanilla:**
 > Un sarcófago autoalimentado y diseñado para mantener a una persona con vida en un estado de animación suspendida durante muchos años.
+
+**Subnúcleo básico (basic subcore) — referencia oficial vanilla:**
+> El cerebro mecanoide más simple, es una pequeña unidad de sustrato psicodinámico que alberga una sub-IA aburrida. Al tratarse de un subnúcleo de nivel básico, solo puede accionar a los mecanoides más sencillos.
+>
+> Como todos los subnúcleos de los mecanoides, contiene una sub-IA con presencia psíquica, aunque muy tenue.
+
+**Subnúcleo estándar (standard subcore) — referencia oficial vanilla:**
+> El cerebro de un mecanoide de nivel estándar es una unidad de sustrato psicodinámico que soporta una sub-IA pensante. Este subnúcleo en particular es lo suficientemente fuerte como para manejar mecanoides de nivel estándar.
+>
+> Los mecanoides son más que robots y esto es más que un ordenador de silicio. Su sub-IA pensante y psíquicamente presente lo hace más adaptable que los sistemas de silicio. Sin embargo, esto también significa que solo puede ser producido por la transferencia de patrones analógicos de otra mente pensante.
+
+**Subnúcleo avanzado (high subcore) — referencia oficial vanilla:**
+> Un cerebro mecanoide de alto nivel, es una unidad de sustrato psicodinámico que soporta una sub-IA sofisticada. Este subnúcleo en particular es del nivel más fuerte y puede alimentar complejos mecanoides ultrapesados.
+>
+> La sub-IA dentro de este núcleo se aproxima a un humano vivo en su complejidad, aunque es de una naturaleza muy diferente. Como cualquier mente de este tipo, tiene una presencia psíquica notable.
+>
+> Este subnúcleo solo podría haber sido producido por una rica transferencia de patrones desde otra mente sofisticada. La única manera de hacerlo sin grandes instalaciones es arrancar el cerebro de una persona viva, matándola en el proceso.
+
+**Chips de mecanoide — referencias oficiales vanilla:**
+> **Chip de señalización:** Un microórgano de sincronización de banda de mecanoides. Es necesario para producir ciertos tipos avanzados de mecanoides y equipos.\n\nUn mecanizador puede estudiar este chip para ayudar a desbloquear niveles superiores de investigación mecatrónica.
+>
+> **Chip de enfoque energético:** Un microórgano mecanoide centrado en la energía. Es necesario para producir ciertos tipos avanzados de mecanoides y equipos.\n\nUn mecanizador puede estudiar este chip para ayudar a desbloquear niveles superiores de investigación mecatrónica.
+>
+> **Chip nanoestructurador:** Un microórgano mecanoide de reestructuración molecular. Es necesario para producir ciertos mecanoides y equipos avanzados.\n\nUn mecanizador puede estudiar este chip para ayudar a desbloquear niveles superiores de investigación mecatrónica.
 
