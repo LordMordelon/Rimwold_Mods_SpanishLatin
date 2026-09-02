@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <VQE_AbandonedARC.questContentRules.rulesStrings>
+    <li>allObjectsStudiedMessage-&gt;Todos los objetos han sido estudiados. Has recopilado la información y ahora puedes marcharte.</li>
+    <li>halfOfObjectsDestroyedMessage-&gt;Se ha perdido más de la mitad de los datos de investigación.</li>
+  </VQE_AbandonedARC.questContentRules.rulesStrings>
+  <VQE_AbandonedARC.questDescriptionRules.rulesStrings>
+    <li>questDescription-&gt;Según los datos extraídos en el antiguo sitio del prototipo, logramos encontrar la ubicación de un [adj] complejo industrial donde continuó la construcción del [arcName]. Esta extensa instalación estuvo una vez llena de ingenieros y científicos que desafiaban los límites de la tecnología, pero ahora permanece en silencio, superada por el paso del tiempo.\n\nEl sitio contiene [siteDetails], pero ahora es [siteThreat].\n\n[studyWarning] [questFailWarning]\n\nCompletar con éxito esta expedición [questOutcome].</li>
+    <li>questDescription-&gt;Los datos del sitio del prototipo revelaron las coordenadas de un [adj] patio industrial, donde el [arcName] fue desarrollado más a fondo por [inventor_nameFull] y su equipo. La instalación se extiende por una vasta extensión, sus marcos oxidados y paredes desmoronadas insinúan su antigua gloria.\n\nDentro del complejo hay [siteDetails], pero [siteThreat] debe ser abordado antes de que se pueda realizar cualquier investigación significativa.\n\n[studyWarning] [questFailWarning]\n\nResolver esta tarea [questOutcome].</li>
+    <li>questDescription-&gt;Al analizar los datos del prototipo, hemos localizado un [adj] patio de construcción que sirvió como el siguiente paso en el proyecto [arcName]. Este sitio, una vez un faro de ambición industrial, es ahora un cementerio de innovación, con su maquinaria dejada a la decadencia bajo el cielo abierto.\n\nEn el interior, encontrarás [siteDetails], pero es [siteThreat].\n\n[studyWarning] [questFailWarning]\n\nTus esfuerzos aquí [questOutcome].</li>
+    <li>questDescription-&gt;Los datos recuperados del antiguo prototipo nos han llevado a un [adj] complejo industrial que fue fundamental para avanzar en el proyecto [arcName]. Una vez un próspero centro de desarrollo tecnológico, la instalación ahora yace en ruinas, sus pasillos solo resuenan con el viento.\n\nEntre los restos hay [siteDetails], aunque el complejo se ha convertido en [siteThreat].\n\n[studyWarning] [questFailWarning]\n\nCompletar esta misión [questOutcome].</li>
+    <li>adj-&gt;olvidado</li>
+    <li>adj-&gt;antiguo</li>
+    <li>adj-&gt;derruido</li>
+    <li>adj-&gt;extenso</li>
+    <li>adj-&gt;deteriorado</li>
+    <li>adj-&gt;cubierto de vegetación</li>
+    <li>adj-&gt;en ruinas</li>
+    <li>adj-&gt;industrial</li>
+    <li>adj-&gt;abandonado</li>
+    <li>arcName-&gt;ARC</li>
+    <li>arcName-&gt;generador</li>
+    <li>arcName-&gt;máquina</li>
+    <li>arcName-&gt;núcleo</li>
+    <li>arcName-&gt;fuente de energía</li>
+    <li>arcName-&gt;dispositivo</li>
+    <li>arcName-&gt;artefacto</li>
+    <li>siteDetails-&gt;maquinaria antigua y componentes de generador inacabados</li>
+    <li>siteDetails-&gt;notas de investigación críticas y grandes componentes de generador</li>
+    <li>siteDetails-&gt;esquemas valiosos y equipo industrial</li>
+    <li>siteDetails-&gt;datos de investigación y maquinaria prototipo</li>
+    <li>siteDetails-&gt;equipo complejo y planos de generadores experimentales</li>
+    <li>siteDetails-&gt;máquinas industriales abandonadas y archivos de investigación</li>
+    <li>siteDetails-&gt;notas de investigación esenciales y piezas de generador únicas</li>
+    <li>siteThreat-&gt;el hogar de [Number] [AnimalPlural] cazahombres</li>
+    <li>siteThreat-&gt;invadido por [Number] [AnimalPlural] cazahombres</li>
+    <li>siteThreat-&gt;habitado por una manada de [AnimalPlural]</li>
+    <li>siteThreat-&gt;custodiado por [Number] [AnimalPlural] agresivos</li>
+    <li>siteThreat-&gt;ocupado por [Number] [AnimalPlural] hostiles</li>
+    <li>studyWarning-&gt;Se requiere un examen cuidadoso del área para descubrir información valiosa.</li>
+    <li>studyWarning-&gt;Debes estudiar cuidadosamente las máquinas antiguas y los componentes del generador.</li>
+    <li>studyWarning-&gt;Para obtener conocimientos, deberás investigar a fondo las notas de investigación y las piezas del generador.</li>
+    <li>studyWarning-&gt;La investigación exhaustiva es clave para recuperar datos útiles del sitio.</li>
+    <li>studyWarning-&gt;Los datos aquí podrían ser críticos, por lo que se debe hacer todo lo posible para estudiar el área a fondo.</li>
+    <li>questFailWarning-&gt;Si se destruyen más de la mitad de las máquinas y notas estudiables, la misión fallará.</li>
+    <li>questFailWarning-&gt;Demasiado daño al complejo resultará en el fracaso.</li>
+    <li>questFailWarning-&gt;Destruir demasiados materiales de investigación hará que la misión falle.</li>
+    <li>questFailWarning-&gt;No preservar suficientes componentes estudiables pondrá fin a la misión.</li>
+    <li>questFailWarning-&gt;Sé consciente de tus acciones; la misión depende de preservar la integridad del sitio.</li>
+    <li>questOutcome-&gt;podría llevarnos a la ubicación real del ARC.</li>
+    <li>questOutcome-&gt;puede descubrir el verdadero sitio del ARC.</li>
+    <li>questOutcome-&gt;podría señalarnos el proyecto final del ARC.</li>
+    <li>questOutcome-&gt;debería revelar los siguientes pasos para encontrar el antiguo ARC.</li>
+    <li>questOutcome-&gt;nos acercará a descubrir los secretos del ARC.</li>
+  </VQE_AbandonedARC.questDescriptionRules.rulesStrings>
+  <VQE_AbandonedARC.questNameRules.rulesStrings>
+    <li>questName-&gt;El [constructionName] [adj]</li>
+    <li>adj-&gt;extenso</li>
+    <li>adj-&gt;abandonado</li>
+    <li>adj-&gt;industrial</li>
+    <li>adj-&gt;derruido</li>
+    <li>adj-&gt;antiguo</li>
+    <li>adj-&gt;olvidado</li>
+    <li>adj-&gt;cubierto de vegetación</li>
+    <li>adj-&gt;incompleto</li>
+    <li>adj-&gt;vasto</li>
+    <li>adj-&gt;inacabado</li>
+    <li>adj-&gt;ruinoso</li>
+    <li>adj-&gt;remoto</li>
+    <li>adj-&gt;misterioso</li>
+    <li>adj-&gt;fallido</li>
+    <li>adj-&gt;una vez próspero</li>
+    <li>constructionName-&gt;patio de construcción</li>
+    <li>constructionName-&gt;sitio de desarrollo</li>
+    <li>constructionName-&gt;complejo industrial</li>
+    <li>constructionName-&gt;taller</li>
+    <li>constructionName-&gt;patio de energía</li>
+    <li>constructionName-&gt;sitio del generador</li>
+    <li>constructionName-&gt;área de ensamblaje</li>
+    <li>constructionName-&gt;instalación de prueba</li>
+    <li>constructionName-&gt;aldea de trabajo</li>
+    <li>constructionName-&gt;patio de prototipos</li>
+    <li>constructionName-&gt;centro de ingeniería</li>
+    <li>constructionName-&gt;instalación de construcción</li>
+    <li>constructionName-&gt;instalación ARC</li>
+    <li>constructionName-&gt;sitio del proyecto de energía</li>
+  </VQE_AbandonedARC.questNameRules.rulesStrings>
+</LanguageData>

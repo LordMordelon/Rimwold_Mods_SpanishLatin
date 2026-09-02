@@ -1,0 +1,249 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <ArtDescriptionRoot_Taleless.rulePack.rulesStrings>
+    <li>r_art_description-&gt;[physical_description_root]</li>
+    <li>desc_sentence_group-&gt;[style_group]</li>
+  </ArtDescriptionRoot_Taleless.rulePack.rulesStrings>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings>
+    <li>style_group-&gt;[artextra_clause]. [style_clause].</li>
+    <li>style_group-&gt;[style_clause]. [artconjunction] [artextra_clause].</li>
+    <li>style_group-&gt;[style_clause].</li>
+    <li>style_group-&gt;[artextra_clause].</li>
+    <li>style_group-&gt;</li>
+    <li>artconjunction(p=6)-&gt;</li>
+    <li>artconjunction-&gt;como un contraste interesante,</li>
+    <li>artconjunction-&gt;para completar la obra,</li>
+    <li>artconjunction-&gt;además,</li>
+    <li>artconjunction-&gt;además,</li>
+    <li>artconjunction-&gt;provocativamente,</li>
+    <li>artconjunction-&gt;inusualmente para este tipo de trabajo</li>
+    <li>artconjunction-&gt;inesperadamente,</li>
+    <li>artconjunction-&gt;sin embargo,</li>
+    <li>artextra_clause-&gt;la imagen está bordeada por [subimageplural]</li>
+    <li>artextra_clause-&gt;en el borde de la imagen hay [subimageplural]</li>
+    <li>artextra_clause-&gt;hay [subimagesingle] [side_position]</li>
+    <li>artextra_clause-&gt;los protagonistas están en frente de [subimageany]</li>
+    <li>artextra_clause-&gt;la parte baja de la imagen está dominada por [subimageany]</li>
+    <li>artextra_clause-&gt;la escena toma lugar en medio de [CommunityIndef]</li>
+    <li>artextra_clause-&gt;la escena toma lugar en las afueras de [CommunityIndef]</li>
+    <li>artextra_clause-&gt;la escena toma lugar dentro de [CommunityIndef] cerca de [TerrainFeatureIndef]</li>
+    <li>artextra_clause-&gt;[CharacterIndef] [idles] [side_position]</li>
+    <li>artextra_clause-&gt;[CharacterIndefMas] [pawn_adj] [idles] [side_position]</li>
+    <li>artextra_clause-&gt;[CharacterIndefFem] [pawn_adj_Fem] [idles] [side_position]</li>
+    <li>artextra_clause-&gt;[Quantity_adjphrase] [CharacterEnemyPlural] se ven [side_position]</li>
+    <li>artextra_clause-&gt;[Quantity_adjphrase] [CharacterEnemyPlural] [pawn_adj]s se ven [side_position]</li>
+    <li>artextra_clause-&gt;[AnimalIndef] [idles] [side_position]</li>
+    <li>artextra_clause-&gt;si entrecierras los ojos, puedes ver que la composición de la imagen revela la silueta de [subimageany]</li>
+    <li>artextra_clause-&gt;la cabeza de un [PersonJob] [emotional_expression] [pawn_adj] lo observa todo</li>
+    <li>artextra_clause-&gt;la cabeza de una [PersonJobF] [emotional_expression] [pawn_adj_Fem] lo observa todo</li>
+    <li>artextra_clause-&gt;un [PersonJob] [pawn_adj] lo observa todo [emotional_expression]</li>
+    <li>artextra_clause-&gt;un [PersonJob] [pawn_adj] lo mira todo desde las alturas</li>
+    <li>artextra_clause-&gt;una [PersonJobF] [pawn_adj_Fem] lo observa todo [emotional_expression]</li>
+    <li>artextra_clause-&gt;una [PersonJobF] [pawn_adj_Fem] lo mira todo desde las alturas</li>
+    <li>artextra_clause-&gt;la imagen completa está formada por el arreglo cuidadoso de [subimageplural]</li>
+    <li>subimageany-&gt;[subimagesingle]</li>
+    <li>subimageany-&gt;[subimageplural]</li>
+    <li>subimagesingle(p=4)-&gt;[CharacterIndef]</li>
+    <li>subimagesingle-&gt;[TerrainFeatureIndef]</li>
+    <li>subimagesingle-&gt;[CommunityIndef]</li>
+    <li>subimagesingle-&gt;[TreeTypeIndef]</li>
+    <li>subimagesingle-&gt;[VegetableIndef]</li>
+    <li>subimagesingle-&gt;[AnimalIndef]</li>
+    <li>subimageplural(p=3)-&gt;[Quantity_adjphrase] [Character_Plural]</li>
+    <li>subimageplural-&gt;[Quantity_adjphrase] [VegetableAny]s</li>
+    <li>subimageplural-&gt;[Quantity_adjphrase] [Shape_Plural]</li>
+    <li>pawn_adj-&gt;sonriente</li>
+    <li>pawn_adj-&gt;durmiente</li>
+    <li>pawn_adj-&gt;muerto</li>
+    <li>pawn_adj-&gt;loco</li>
+    <li>pawn_adj-&gt;joven</li>
+    <li>pawn_adj-&gt;viejo</li>
+    <li>pawn_adj-&gt;lunático</li>
+    <li>pawn_adj-&gt;enojado</li>
+    <li>pawn_adj-&gt;expectante</li>
+    <li>pawn_adj-&gt;cubierto de [GorePl]</li>
+    <li>pawn_adj-&gt;nervioso</li>
+    <li>pawn_adj-&gt;vistiendo [ApparelIndef]</li>
+    <li>pawn_adj-&gt;empuñando [WeaponIndef]</li>
+    <li>pawn_adj-&gt;comiéndose [VegetableIndef]</li>
+    <li>pawn_adjPl-&gt;sonrientes</li>
+    <li>pawn_adjPl-&gt;durmientes</li>
+    <li>pawn_adjPl-&gt;muertos</li>
+    <li>pawn_adjPl-&gt;locos</li>
+    <li>pawn_adjPl-&gt;jóvenes</li>
+    <li>pawn_adjPl-&gt;viejos</li>
+    <li>pawn_adjPl-&gt;lunáticos</li>
+    <li>pawn_adjPl-&gt;enojados</li>
+    <li>pawn_adjPl-&gt;expectantes</li>
+    <li>pawn_adjPl-&gt;cubiertos de [GorePl]</li>
+    <li>pawn_adjPl-&gt;nerviosos</li>
+    <li>pawn_adjPl-&gt;vistiendo [ApparelIndef]</li>
+    <li>pawn_adjPl-&gt;empuñando [WeaponIndef]</li>
+    <li>pawn_adjPl-&gt;comiéndose [VegetableIndef]</li>
+    <li>pawn_adj_Fem-&gt;sonriente</li>
+    <li>pawn_adj_Fem-&gt;durmiente</li>
+    <li>pawn_adj_Fem-&gt;muerta</li>
+    <li>pawn_adj_Fem-&gt;loca</li>
+    <li>pawn_adj_Fem-&gt;joven</li>
+    <li>pawn_adj_Fem-&gt;vieja</li>
+    <li>pawn_adj_Fem-&gt;lunática</li>
+    <li>pawn_adj_Fem-&gt;enojada</li>
+    <li>pawn_adj_Fem-&gt;expectante</li>
+    <li>pawn_adj_Fem-&gt;cubierta de [GorePl]</li>
+    <li>pawn_adj_Fem-&gt;nerviosa</li>
+    <li>pawn_adj_Fem-&gt;vistiendo [ApparelIndef]</li>
+    <li>pawn_adj_Fem-&gt;empuñando [WeaponIndef]</li>
+    <li>pawn_adj_Fem-&gt;comiéndose [VegetableIndef]</li>
+    <li>emotional_expression-&gt;sonriendo</li>
+    <li>emotional_expression-&gt;llorando</li>
+    <li>emotional_expression-&gt;gruñendo</li>
+    <li>emotional_expression-&gt;riendo</li>
+    <li>emotional_expression-&gt;bostezando</li>
+    <li>emotional_expression-&gt;gritando</li>
+    <li>emotional_expression-&gt;aullando</li>
+    <li>emotional_expression-&gt;haciendo saltos</li>
+    <li>idles-&gt;se sienta</li>
+    <li>idles-&gt;se pone de pie</li>
+    <li>idles-&gt;espera</li>
+    <li>idles-&gt;sonríe</li>
+    <li>idles-&gt;se recuesta</li>
+    <li>idles-&gt;posa</li>
+    <li>idles-&gt;aparece</li>
+    <li>idles-&gt;se muestra</li>
+    <li>idles-&gt;se yergue</li>
+    <li>idles-&gt;flota</li>
+    <li>side_position-&gt;en el fondo</li>
+    <li>side_position-&gt;a la distancia</li>
+    <li>side_position-&gt;en la parte baja de la imagen</li>
+    <li>side_position-&gt;en la parte superior de la imagen</li>
+    <li>side_position-&gt;a la izquierda de la escena principal</li>
+    <li>side_position-&gt;a la derecha de la escena principal</li>
+    <li>side_position-&gt;cerca del borde de la imagen</li>
+    <li>side_position-&gt;cerca del tema principal</li>
+    <li>side_position-&gt;lejos del tema principal</li>
+    <li>side_position-&gt;debajo del tema principal</li>
+    <li>side_position-&gt;debajo del punto focal</li>
+    <li>style_clause(p=4)-&gt;el trabajo [symbolizes] [ConceptAnyDef]</li>
+    <li>artextra_clause-&gt;[subimagesingle] [side_position] que [symbolizes] [ConceptAnyDef]</li>
+    <li>style_clause-&gt;el trabajo está empapado con la idea de [ConceptAnyDef] y está hecho en un estilo [artstyle_adj]</li>
+    <li>style_clause-&gt;el trabajo fue ejecutado en un estilo [artstyle_adj]</li>
+    <li>style_clause-&gt;el estilo [artstyle_adj] de la escena central contrasta con el estilo [artstyle_adj] del fondo</li>
+    <li>style_clause-&gt;el trabajo se siente [artstyle_adj] y tiene una estructura [composition]</li>
+    <li>style_clause-&gt;la composición general es [composition]</li>
+    <li>style_clause-&gt;el estilo es [artstyle_adj] con elementos [artstyle_adj]s</li>
+    <li>style_clause-&gt;la imagen, de alguna forma, expresa tanto [ConceptAnyFull] como [ConceptAnyFull]</li>
+    <li>style_clause-&gt;la imagen contrasta [ConceptAnyFull] con [ConceptAnyFull]</li>
+    <li>style_clause-&gt;la estructura [composition] de la imagen casi entra en conflicto con el estilo [artstyle_adj]</li>
+    <li>style_clause-&gt;el trabajo tiene tonalidades de [Color] y [Color]</li>
+    <li>style_clause-&gt;cada cada silueta parece ser [composition]</li>
+    <li>symbolizes-&gt;simboliza</li>
+    <li>symbolizes-&gt;parece simbolizar</li>
+    <li>symbolizes-&gt;representa</li>
+    <li>symbolizes-&gt;parece representar</li>
+    <li>symbolizes-&gt;parece expresar</li>
+    <li>symbolizes-&gt;recuerda al espectador</li>
+    <li>symbolizes-&gt;expresa</li>
+    <li>symbolizes-&gt;hace pensar sobre</li>
+    <li>symbolizes-&gt;representa la idea del artista de</li>
+    <li>symbolizes-&gt;sugiere el concepto de</li>
+    <li>depicts-&gt;muestra</li>
+    <li>depicts-&gt;ilustra</li>
+    <li>depicts-&gt;representa</li>
+    <li>depicts-&gt;aparenta</li>
+    <li>depicts-&gt;estampa</li>
+    <li>depicts-&gt;expone</li>
+    <li>depicts-&gt;revela</li>
+    <li>depiction-&gt;imagen</li>
+    <li>depiction-&gt;obra</li>
+    <li>depiction-&gt;representación</li>
+    <li>depiction-&gt;ilustración</li>
+    <li>depiction-&gt;estampa</li>
+    <li>depiction-&gt;figura</li>
+    <li>composition-&gt;triangular</li>
+    <li>composition-&gt;rectangular</li>
+    <li>composition-&gt;cuadrada</li>
+    <li>composition-&gt;desbalanceada</li>
+    <li>composition-&gt;balanceada</li>
+    <li>composition-&gt;dinámica</li>
+    <li>composition-&gt;estática</li>
+    <li>composition-&gt;vertical</li>
+    <li>composition-&gt;horizontal</li>
+    <li>composition-&gt;enfocada</li>
+    <li>artstyle_adj-&gt;poco original</li>
+    <li>artstyle_adj-&gt;simple</li>
+    <li>artstyle_adj-&gt;complejo y realista</li>
+    <li>artstyle_adj-&gt;surrealista</li>
+    <li>artstyle_adj-&gt;clásico</li>
+    <li>artstyle_adj-&gt;moderno</li>
+    <li>artstyle_adj-&gt;simbólico</li>
+    <li>artstyle_adj-&gt;amateur</li>
+    <li>artstyle_adj-&gt;detallado</li>
+    <li>artstyle_adj-&gt;anguloso</li>
+    <li>artstyle_adj-&gt;cubista</li>
+    <li>artstyle_adj-&gt;impresionista</li>
+    <li>artstyle_adj-&gt;expresionista</li>
+    <li>artstyle_adj-&gt;dramático</li>
+    <li>artstyle_adj-&gt;barroco</li>
+    <li>artstyle_adj-&gt;dadaista</li>
+    <li>artstyle_adj-&gt;claroscuro</li>
+    <li>artstyle_adj-&gt;pixelado</li>
+    <li>artstyle_adj-&gt;fabiano</li>
+    <li>artstyle_adj-&gt;tradicional</li>
+    <li>artstyle_adj-&gt;figurativo</li>
+    <li>artstyle_adj-&gt;sinuoso</li>
+    <li>artstyle_adj-&gt;geométrico</li>
+    <li>artstyle_adj-&gt;abstracto</li>
+    <li>artstyle_adj-&gt;hiperrealista</li>
+    <li>artstyle_adj-&gt;oscuro</li>
+    <li>artstyle_adj-&gt;minimalista</li>
+    <li>artstyle_adj-&gt;neoclásico</li>
+    <li>artstyle_adj-&gt;caricaturesco</li>
+    <li>artstyle_adj-&gt;posimpresionista</li>
+    <li>artstyle_adj-&gt;purista</li>
+    <li>artstyle_adj-&gt;rococó</li>
+    <li>artstyle_adj-&gt;romanesco</li>
+    <li>artstyle_adj-&gt;romántico</li>
+    <li>artstyle_adj-&gt;tipo graffiti</li>
+    <li>artstyle_adj-&gt;erótico</li>
+    <li>artstyle_adj-&gt;sensual</li>
+    <li>artstyle_adj-&gt;honesto</li>
+  </ArtDescriptionUtility_Global.rulePack.rulesStrings>
+  <NN_VideoNameRulePack.rulePack.rulesStrings>
+    <li>r_name-&gt;[RandomNoun], [RandomNoun] y [RandomNoun] [RandomAdjective]</li>
+    <li>RandomAdjective-&gt;[AdjectiveAny]</li>
+    <li>RandomNoun-&gt;[AnimalGroups]</li>
+    <li>RandomNoun-&gt;[Animals]</li>
+    <li>RandomNoun-&gt;[Animals_Badass]</li>
+    <li>RandomNoun-&gt;[Apparel]</li>
+    <li>RandomNoun-&gt;[Artworks]</li>
+    <li>RandomNoun-&gt;[Bodyparts]</li>
+    <li>RandomNoun-&gt;[BusinessTypes]</li>
+    <li>RandomNoun-&gt;[Colors]</li>
+    <li>RandomNoun-&gt;[Colors_Badass]</li>
+    <li>RandomNoun-&gt;[Communities]</li>
+    <li>RandomNoun-&gt;[Concepts_Angsty]</li>
+    <li>RandomNoun-&gt;[Concepts_Badass]</li>
+    <li>RandomNoun-&gt;[Concepts_Positive]</li>
+    <li>RandomNoun-&gt;[Enemies]</li>
+    <li>RandomNoun-&gt;[Games]</li>
+    <li>RandomNoun-&gt;[Gore]</li>
+    <li>RandomNoun-&gt;[GroupNames]</li>
+    <li>RandomNoun-&gt;[Mechanoid]</li>
+    <li>RandomNoun-&gt;[NaturalObject]</li>
+    <li>RandomNoun-&gt;[People_Allies]</li>
+    <li>RandomNoun-&gt;[People_Badass]</li>
+    <li>RandomNoun-&gt;[People_Family]</li>
+    <li>RandomNoun-&gt;[People_Jobs]</li>
+    <li>RandomNoun-&gt;[PersonalCharacteristics]</li>
+    <li>RandomNoun-&gt;[PoliticalUnions_Outlander]</li>
+    <li>RandomNoun-&gt;[PoliticalUnions_Tribal]</li>
+    <li>RandomNoun-&gt;[Quests]</li>
+    <li>RandomNoun-&gt;[Stories]</li>
+    <li>RandomNoun-&gt;[TalkTopics_Heavy]</li>
+    <li>RandomNoun-&gt;[TalkTopics_Light]</li>
+    <li>RandomNoun-&gt;[TerrainFeatures]</li>
+    <li>RandomNoun-&gt;[TreeTypes]</li>
+    <li>RandomNoun-&gt;[Vegetables]</li>
+    <li>RandomNoun-&gt;[Weapons]</li>
+  </NN_VideoNameRulePack.rulePack.rulesStrings>
+</LanguageData>

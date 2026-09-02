@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <FFF.AutoDeploy>Despliegue automático</FFF.AutoDeploy>
+  <FFF.AutoDeployDesc>Ordena a esta plataforma que despliegue y repliegue drones automáticamente a un intervalo estable.</FFF.AutoDeployDesc>
+  <FFF.AutoDeployEnabled>Habilitar despliegue automático</FFF.AutoDeployEnabled>
+  <FFF.DeployDrone>Desplegar {0}</FFF.DeployDrone>
+  <FFF.DeployDroneDesc>Consume {0} almacenado para desplegar hasta {1} drones {2}. Si la plataforma es destruida, todos los {3} controlados por ella se apagarán. {4} funciona con baterías internas y regresa automáticamente a la plataforma cuando la batería está baja.</FFF.DeployDroneDesc>
+  <FFF.Drone.AllowedArea>Área permitida</FFF.Drone.AllowedArea>
+  <FFF.Drone.AllowedAreaDesc>Establece el área permitida para los drones, los drones desplegados cumplirán con la configuración de área de la plataforma.</FFF.Drone.AllowedAreaDesc>
+  <FFF.Drone.ControllerNotDrafted>plataforma no reclutada</FFF.Drone.ControllerNotDrafted>
+  <FFF.Drone.ControllerNotInControl>plataforma no controlada</FFF.Drone.ControllerNotInControl>
+  <FFF.Drone.ControllerNotInMap>la plataforma no existe en el mapa</FFF.Drone.ControllerNotInMap>
+  <FFF.Drone.NoControlPlatform>plataforma de control no disponible</FFF.Drone.NoControlPlatform>
+  <FFF.Drone.NoController>Sin control</FFF.Drone.NoController>
+  <FFF.Drone.NoPlatform>La plataforma de despliegue para {0} no está disponible</FFF.Drone.NoPlatform>
+  <FFF.Drone.NoRestrict>Sin restricciones</FFF.Drone.NoRestrict>
+  <FFF.Drone.Return>Volver a la plataforma</FFF.Drone.Return>
+  <FFF.Drone.ReturnDesc>Ordena al dron que regrese a la plataforma de despliegue y se apague, lo que restaurará los recursos consumidos.</FFF.Drone.ReturnDesc>
+  <FFF.ExplosiveOnDead>Detonará las cargas explosivas después de la colisión</FFF.ExplosiveOnDead>
+  <FFF.FillMechPlatform>Priorizar el llenado de {0}x{1}</FFF.FillMechPlatform>
+  <FFF.RetractDrones>Retraer todos los {0}</FFF.RetractDrones>
+  <FFF.RetractDronesDesc>Ordena a todos los {0} controlados por esta plataforma que se retiren, lo que repondrá el consumo de {1}.</FFF.RetractDronesDesc>
+  <FFF.WillDeployAt>Intervalo de despliegue: {0}</FFF.WillDeployAt>
+</LanguageData>

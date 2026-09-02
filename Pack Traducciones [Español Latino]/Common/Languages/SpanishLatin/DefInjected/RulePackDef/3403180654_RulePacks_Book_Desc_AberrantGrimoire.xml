@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <ABooks_AberrantGrimoire_Description.rulePack.rulesStrings>
+    <li>desc-&gt;[intro] [conceptExploration]. [writingQualitySentence]. [ending]</li>
+    <li>desc-&gt;[intro] [conceptExploration]: [impactStatement]. [writingQualitySentence]. [ending]</li>
+    <li>desc-&gt;[introWithContext] [conceptExploration]. [writingQualitySentence]. [ending]</li>
+    <li>ending-&gt;\n\nEste grimorio desbloquea habilidades conocidas solo por los creepjoiners y sirvientes similares del Vacío, otorgando habilidades y conocimientos prohibidos al lector, pero solo se puede leer una vez.</li>
+    <li>intro-&gt;Este grimorio [writingQualityAdjective] emana una sensación de</li>
+    <li>intro-&gt;Un artefacto [writingQualityAdjective] envuelto en</li>
+    <li>intro-&gt;Un compendio [writingQualityAdjective] de</li>
+    <li>intro-&gt;Este tomo sobrenatural y [writingQualityAdjective] susurra</li>
+    <li>intro-&gt;Atado en sombras y misterio, este grimorio [writingQualityAdjective] revela</li>
+    <li>introWithContext-&gt;A través de una escritura vaga e incomprensible, este tomo [writingQualityAdjective] revela</li>
+    <li>introWithContext-&gt;Aprovechando el poder de otro mundo, este artefacto [writingQualityAdjective] detalla</li>
+    <li>introWithContext-&gt;Garabateado por una mano invisible, este grimorio [writingQualityAdjective] transmite</li>
+    <li>introWithContext-&gt;Imbuido de una mente propia, este tomo [writingQualityAdjective] dicta</li>
+    <li>conceptExploration-&gt;las artes oscuras abrazadas por los creepjoiners</li>
+    <li>conceptExploration-&gt;las prácticas siniestras de aquellos que sirven a lo desconocido</li>
+    <li>conceptExploration-&gt;ritos esotéricos susurrados solo a los más devotos de lo aberrante</li>
+    <li>conceptExploration-&gt;sabiduría antinatural destinada a inquietar la mente mortal</li>
+    <li>conceptExploration-&gt;el conocimiento profano de reinos que es mejor dejar intactos</li>
+    <li>impactStatement-&gt;Su influencia perdura, retorciendo el alma de cualquiera que se atreva a comprenderlo</li>
+    <li>impactStatement-&gt;Aquellos que lo leen rara vez escapan ilesos de sus revelaciones</li>
+    <li>impactStatement-&gt;Sus páginas prometen poder, aunque a un costo inescrutable</li>
+    <li>impactStatement-&gt;Desbloquea habilidades que pocos se atreverían a ejercer, y menos aún podrían sobrevivir</li>
+    <li>impactStatement-&gt;Su conocimiento es tanto un regalo como una maldición, atando al lector inextricablemente a sus secretos</li>
+    <li>writingQualityAdjective(quality==6)-&gt;inigualable y aterrador</li>
+    <li>writingQualityAdjective(quality==5)-&gt;inquietantemente profundo</li>
+    <li>writingQualityAdjective(quality==4)-&gt;inquietante pero coherente</li>
+    <li>writingQualityAdjective(quality==3)-&gt;críptico pero legible</li>
+    <li>writingQualityAdjective(quality==2)-&gt;inconexo y desconcertante</li>
+    <li>writingQualityAdjective(quality==1)-&gt;fracturado y caótico</li>
+    <li>writingQualityAdjective(quality==0)-&gt;revoltijo enloquecedor de un</li>
+    <li>writingQualitySentence(quality[greater_than]3)-&gt;Su calidad es [excellentDesc] [excellentExtra]</li>
+    <li>writingQualitySentence(quality[less_than]4,quality[greater_than]1)-&gt;Su calidad es [decentDesc] [decentExtra]</li>
+    <li>writingQualitySentence(quality[less_than]2)-&gt;Su calidad es [awfulDesc] [awfulExtra]</li>
+    <li>excellentDesc-&gt;sin igual en su entrega de conocimiento prohibido</li>
+    <li>excellentDesc-&gt;una obra maestra de instrucción arcana</li>
+    <li>excellentDesc-&gt;un testimonio de las profundidades de la sabiduría de otro mundo</li>
+    <li>excellentExtra-&gt;que deja una marca indeleble en su lector</li>
+    <li>excellentExtra-&gt;que trasciende la comprensión mortal</li>
+    <li>excellentExtra-&gt;que destila la esencia del poder de los creepjoiners</li>
+    <li>decentDesc-&gt;útil para detallar su sombrío propósito</li>
+    <li>decentDesc-&gt;adecuada pero carente de la gravedad total de su intención</li>
+    <li>decentDesc-&gt;suficiente para transmitir sus verdades arcanas</li>
+    <li>decentExtra-&gt;pero carece de la claridad necesaria para una comprensión completa</li>
+    <li>decentExtra-&gt;aunque no logra inspirar pavor como debería</li>
+    <li>decentExtra-&gt;aunque su estructura es menos que perfecta</li>
+    <li>awfulDesc-&gt;una cacofonía incoherente de símbolos sin sentido</li>
+    <li>awfulDesc-&gt;apenas comprensible, incluso para los locos</li>
+    <li>awfulDesc-&gt;más confusa que esclarecedora</li>
+    <li>awfulExtra-&gt;y totalmente inadecuada para la comprensión mortal</li>
+    <li>awfulExtra-&gt;y un peligro para la cordura sin ninguna recompensa</li>
+    <li>awfulExtra-&gt;sin cualidades redentoras más allá de su aura siniestra</li>
+  </ABooks_AberrantGrimoire_Description.rulePack.rulesStrings>
+</LanguageData>

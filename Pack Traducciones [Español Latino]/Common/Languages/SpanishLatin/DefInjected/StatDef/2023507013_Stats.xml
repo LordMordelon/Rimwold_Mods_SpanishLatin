@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <VEF_BodySize_Multiplier.description>Aumenta el tamaño del peón por un múltiplo de su tamaño actual.</VEF_BodySize_Multiplier.description>
+  <VEF_BodySize_Multiplier.label>multiplicador de tamaño corporal</VEF_BodySize_Multiplier.label>
+  <VEF_BodySize_Offset.description>Aumenta el tamaño del peón en relación con su tamaño actual.</VEF_BodySize_Offset.description>
+  <VEF_BodySize_Offset.label>desplazamiento de tamaño corporal</VEF_BodySize_Offset.label>
+  <VEF_BuildingLearningRateOffset.description>Un multiplicador de la rapidez con la que los niños aprenden durante las lecciones asistidas por esto.</VEF_BuildingLearningRateOffset.description>
+  <VEF_BuildingLearningRateOffset.label>tasa de aprendizaje</VEF_BuildingLearningRateOffset.label>
+  <VEF_CosmeticBodySize_Multiplier.description>Aumenta el tamaño del peón por un múltiplo de su tamaño actual.</VEF_CosmeticBodySize_Multiplier.description>
+  <VEF_CosmeticBodySize_Multiplier.label>multiplicador de tamaño corporal cosmético</VEF_CosmeticBodySize_Multiplier.label>
+  <VEF_CosmeticBodySize_Offset.description>Aumenta el tamaño del peón en relación con su tamaño actual.</VEF_CosmeticBodySize_Offset.description>
+  <VEF_CosmeticBodySize_Offset.label>desplazamiento de tamaño corporal cosmético</VEF_CosmeticBodySize_Offset.label>
+  <VEF_EnergyShieldEnergyMaxBuilding.description>La energía máxima que puede tener el escudo. Más energía permite que el escudo absorba más daño.</VEF_EnergyShieldEnergyMaxBuilding.description>
+  <VEF_EnergyShieldEnergyMaxBuilding.formatString>{0}00</VEF_EnergyShieldEnergyMaxBuilding.formatString>
+  <VEF_EnergyShieldEnergyMaxBuilding.label>energía máxima del escudo</VEF_EnergyShieldEnergyMaxBuilding.label>
+  <VEF_EnergyShieldEnergyMaxFactor.description>Factor de la energía máxima del escudo que el usuario puede potenciar a través de varios medios.</VEF_EnergyShieldEnergyMaxFactor.description>
+  <VEF_EnergyShieldEnergyMaxFactor.label>factor de energía máxima del escudo</VEF_EnergyShieldEnergyMaxFactor.label>
+  <VEF_EnergyShieldEnergyMaxOffset.description>Desplazamiento de la energía máxima del escudo que el usuario puede potenciar a través de varios medios.</VEF_EnergyShieldEnergyMaxOffset.description>
+  <VEF_EnergyShieldEnergyMaxOffset.label>desplazamiento de energía máxima del escudo</VEF_EnergyShieldEnergyMaxOffset.label>
+  <VEF_EnergyShieldRadiusApparel.description>El área cubierta cuando el escudo de energía está activo.</VEF_EnergyShieldRadiusApparel.description>
+  <VEF_EnergyShieldRadiusApparel.formatString>{0} c</VEF_EnergyShieldRadiusApparel.formatString>
+  <VEF_EnergyShieldRadiusApparel.label>radio del escudo</VEF_EnergyShieldRadiusApparel.label>
+  <VEF_EnergyShieldRadiusBuilding.description>El radio de protección del escudo de energía.</VEF_EnergyShieldRadiusBuilding.description>
+  <VEF_EnergyShieldRadiusBuilding.formatString>{0} c</VEF_EnergyShieldRadiusBuilding.formatString>
+  <VEF_EnergyShieldRadiusBuilding.label>radio del escudo</VEF_EnergyShieldRadiusBuilding.label>
+  <VEF_EnergyShieldRechargeRateBuilding.description>La velocidad a la que el escudo recarga energía por segundo, siempre que no esté roto.</VEF_EnergyShieldRechargeRateBuilding.description>
+  <VEF_EnergyShieldRechargeRateBuilding.formatString>{0}/s</VEF_EnergyShieldRechargeRateBuilding.formatString>
+  <VEF_EnergyShieldRechargeRateBuilding.label>tasa de recarga del escudo</VEF_EnergyShieldRechargeRateBuilding.label>
+  <VEF_FoodCapacityMultiplier.description>Aumenta el tamaño de la barra de hambre del peón. Esto no afecta al hambre.</VEF_FoodCapacityMultiplier.description>
+  <VEF_FoodCapacityMultiplier.label>multiplicador de capacidad de comida corporal</VEF_FoodCapacityMultiplier.label>
+  <VEF_GrowthPointMultiplier.description>Aumenta la cantidad de puntos de crecimiento acumulados por los niños al aprender.</VEF_GrowthPointMultiplier.description>
+  <VEF_GrowthPointMultiplier.label>multiplicador de puntos de crecimiento</VEF_GrowthPointMultiplier.label>
+  <VEF_HeadSize_Cosmetic.label>multiplicador de tamaño de cabeza</VEF_HeadSize_Cosmetic.label>
+  <VEF_MTBLovinFactor.description>Un factor del tiempo medio entre (MTB) que esta persona busca algo de amor.</VEF_MTBLovinFactor.description>
+  <VEF_MTBLovinFactor.label>factor de tiempo medio entre amoríos</VEF_MTBLovinFactor.label>
+  <VEF_MassCarryCapacity.description>Capacidad total de carga de masa del peón en caravanas.</VEF_MassCarryCapacity.description>
+  <VEF_MassCarryCapacity.formatString>{0} kg</VEF_MassCarryCapacity.formatString>
+  <VEF_MassCarryCapacity.formatStringUnfinalized>{0} kg</VEF_MassCarryCapacity.formatStringUnfinalized>
+  <VEF_MassCarryCapacity.label>capacidad de carga de masa</VEF_MassCarryCapacity.label>
+  <VEF_MeleeAttackDamageFactor.description>Un multiplicador del daño de ataque cuerpo a cuerpo.</VEF_MeleeAttackDamageFactor.description>
+  <VEF_MeleeAttackDamageFactor.label>factor de daño de ataque cuerpo a cuerpo</VEF_MeleeAttackDamageFactor.label>
+  <VEF_MeleeWeaponRange.description>El alcance de esta arma cuerpo a cuerpo.</VEF_MeleeWeaponRange.description>
+  <VEF_MeleeWeaponRange.label>alcance del arma cuerpo a cuerpo</VEF_MeleeWeaponRange.label>
+  <VEF_NegativeThoughtDurationFactor.description>La duración de los pensamientos negativos se multiplica por este valor.</VEF_NegativeThoughtDurationFactor.description>
+  <VEF_NegativeThoughtDurationFactor.label>factor de duración del pensamiento - negativo</VEF_NegativeThoughtDurationFactor.label>
+  <VEF_NeutralThoughtDurationFactor.description>La duración de los pensamientos neutrales se multiplica por este valor.</VEF_NeutralThoughtDurationFactor.description>
+  <VEF_NeutralThoughtDurationFactor.label>factor de duración del pensamiento - neutral</VEF_NeutralThoughtDurationFactor.label>
+  <VEF_PawnRenderPosOffset.description>Modifica la posición de renderizado del peón en el eje Y.</VEF_PawnRenderPosOffset.description>
+  <VEF_PawnRenderPosOffset.label>desplazamiento de renderizado del peón</VEF_PawnRenderPosOffset.label>
+  <VEF_PositiveThoughtDurationFactor.description>La duración de los pensamientos positivos se multiplica por este valor.</VEF_PositiveThoughtDurationFactor.description>
+  <VEF_PositiveThoughtDurationFactor.label>factor de duración del pensamiento - positivo</VEF_PositiveThoughtDurationFactor.label>
+  <VEF_RangeAttackDamageFactor.description>Un multiplicador del daño de ataque a distancia.</VEF_RangeAttackDamageFactor.description>
+  <VEF_RangeAttackDamageFactor.label>factor de daño de ataque a distancia</VEF_RangeAttackDamageFactor.label>
+  <VEF_RangedCooldownFactor.description>El enfriamiento de las armas a distancia del portador se multiplica por este valor.</VEF_RangedCooldownFactor.description>
+  <VEF_RangedCooldownFactor.label>factor de enfriamiento a distancia</VEF_RangedCooldownFactor.label>
+  <VEF_RangedDodgeChance.description>Probabilidad de esquivar un ataque a distancia que de otro modo habría impactado.</VEF_RangedDodgeChance.description>
+  <VEF_RangedDodgeChance.label>probabilidad de esquivar a distancia</VEF_RangedDodgeChance.label>
+  <VEF_VerbRangeFactor.description>El alcance de las armas se multiplica por este valor.</VEF_VerbRangeFactor.description>
+  <VEF_VerbRangeFactor.label>factor de alcance del arma</VEF_VerbRangeFactor.label>
+  <VEF_VerbRangeFactor.labelForFullStatList>factor de alcance del arma (personas)</VEF_VerbRangeFactor.labelForFullStatList>
+</LanguageData>

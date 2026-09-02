@@ -1,0 +1,163 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <APM.CommandCasket.FailReason.NotMechanitor>no es mecanizador</APM.CommandCasket.FailReason.NotMechanitor>
+  <APM.CommandCasket.Gizmo.CancelLink.Desc>Cancela el enlace remoto del ocupante actual. El ocupante será expulsado.</APM.CommandCasket.Gizmo.CancelLink.Desc>
+  <APM.CommandCasket.Gizmo.CancelLink.Label>Expulsar al mecanizador</APM.CommandCasket.Gizmo.CancelLink.Label>
+  <APM.CommandCasket.Gizmo.Connect.Desc>conéctate a distancia a un meca aliado. Puede apuntar a mecas del mismo mapa. El tiempo depende del mecanoide señalado.</APM.CommandCasket.Gizmo.Connect.Desc>
+  <APM.CommandCasket.Gizmo.Connect.Label>conexión remota</APM.CommandCasket.Gizmo.Connect.Label>
+  <APM.CommandCasket.Gizmo.ControlsInfo>\nClic izquierdo = elegir objetivo\nMayús = apuntarse a sí mismo\nCtrl = encolar acción\nClic derecho = cancelar</APM.CommandCasket.Gizmo.ControlsInfo>
+  <APM.CommandCasket.Gizmo.Disconnect.Desc>desconéctate a distancia de un meca controlado. Puede apuntar a mecas del mismo mapa.</APM.CommandCasket.Gizmo.Disconnect.Desc>
+  <APM.CommandCasket.Gizmo.Disconnect.Label>desconexión remota</APM.CommandCasket.Gizmo.Disconnect.Label>
+  <APM.CommandCasket.Gizmo.HackStasisContainer.Label>Hackear a distancia</APM.CommandCasket.Gizmo.HackStasisContainer.Label>
+  <APM.CommandCasket.Gizmo.OpenStasisContainer.Label>Abrir a distancia</APM.CommandCasket.Gizmo.OpenStasisContainer.Label>
+  <APM.CommandCasket.Gizmo.Repair.Desc>repara a un mecanoide aliado hasta dejarlo totalmente reparado o hasta quedarse sin energía. Puede apuntar a todo el mapa.</APM.CommandCasket.Gizmo.Repair.Desc>
+  <APM.CommandCasket.Gizmo.Repair.Label>reparación remota</APM.CommandCasket.Gizmo.Repair.Label>
+  <APM.CommandCasket.Gizmo.RepairSelf.Desc>repara al mecanoide seleccionado hasta dejarlo totalmente reparado o hasta quedarse sin energía.</APM.CommandCasket.Gizmo.RepairSelf.Desc>
+  <APM.CommandCasket.Gizmo.Shield.Desc>protege con un escudo a un mecanoide aliado; puede apuntar a todo el mapa.\nLa potencia depende del implante de escudo remoto.</APM.CommandCasket.Gizmo.Shield.Desc>
+  <APM.CommandCasket.Gizmo.Shield.Label>escudo remoto</APM.CommandCasket.Gizmo.Shield.Label>
+  <APM.CommandCasket.Gizmo.ShieldSelf.Desc>protege con un escudo al mecanoide seleccionado.\nLa potencia depende del implante de escudo remoto.</APM.CommandCasket.Gizmo.ShieldSelf.Desc>
+  <APM.CommandCasket.Inspect.CurrentAction>actualmente</APM.CommandCasket.Inspect.CurrentAction>
+  <APM.CommandCasket.Inspect.CurrentAction.Connect>conectando</APM.CommandCasket.Inspect.CurrentAction.Connect>
+  <APM.CommandCasket.Inspect.CurrentAction.Disconnect>desconectando</APM.CommandCasket.Inspect.CurrentAction.Disconnect>
+  <APM.CommandCasket.Inspect.CurrentAction.Idle>inactivo</APM.CommandCasket.Inspect.CurrentAction.Idle>
+  <APM.CommandCasket.Inspect.CurrentAction.Repair>reparando</APM.CommandCasket.Inspect.CurrentAction.Repair>
+  <APM.CommandCasket.Inspect.CurrentAction.Shield>escudando</APM.CommandCasket.Inspect.CurrentAction.Shield>
+  <APM.CommandCasket.Inspect.CurrentAction.StasisContainer>abriendo contenedor de estasis</APM.CommandCasket.Inspect.CurrentAction.StasisContainer>
+  <APM.CommandCasket.Inspection>El enlace de control remoto está activo para {PAWN}</APM.CommandCasket.Inspection>
+  <APM.CommandCasket.Inspection.Bandwidth>banda ancha usada:</APM.CommandCasket.Inspection.Bandwidth>
+  <APM.CommandCasket.Mech.Gizmo.Reconnect.Desc>conecta a distancia a este meca con un mecanizador que esté dentro de un sarcófago de mando de mecas.</APM.CommandCasket.Mech.Gizmo.Reconnect.Desc>
+  <APM.CommandCasket.Mech.Gizmo.Reconnect.Floatmenu>(falta banda ancha)</APM.CommandCasket.Mech.Gizmo.Reconnect.Floatmenu>
+  <APM.CommandCasket.Mech.Gizmo.Reconnect.Label>reconexión remota</APM.CommandCasket.Mech.Gizmo.Reconnect.Label>
+  <APM.Dynamo.Command.SwithcToMobileMode.Desc>Cambiar al modo móvil.</APM.Dynamo.Command.SwithcToMobileMode.Desc>
+  <APM.Dynamo.Command.SwithcToMobileMode.Label>Modo móvil</APM.Dynamo.Command.SwithcToMobileMode.Label>
+  <APM.FrostivusFoodPreservation.CommandUnavailable>El frostivus no puede usar los comandos de conservación en este momento.</APM.FrostivusFoodPreservation.CommandUnavailable>
+  <APM.FrostivusFoodPreservation.CryptoSwallow.InvalidPawn>El frostivus puede engullir cualquier cadáver humanoide o individuo derribado, pero con vida solo a colonos, prisioneros o esclavos.</APM.FrostivusFoodPreservation.CryptoSwallow.InvalidPawn>
+  <APM.FrostivusFoodPreservation.CryptoSwallow.InvalidTarget>El frostivus solo puede engullir a un individuo humanoide o a un cadáver presentes en su mapa.</APM.FrostivusFoodPreservation.CryptoSwallow.InvalidTarget>
+  <APM.FrostivusFoodPreservation.CryptoSwallow.Self>El frostivus no puede engullirse a sí mismo.</APM.FrostivusFoodPreservation.CryptoSwallow.Self>
+  <APM.FrostivusFoodPreservation.ManualUnload.Desc>Elige una casilla donde el frostivus deba descargar toda la comida conservada. La comida descargada manualmente quedará prohibida.</APM.FrostivusFoodPreservation.ManualUnload.Desc>
+  <APM.FrostivusFoodPreservation.ManualUnload.Label>Descargar comida conservada</APM.FrostivusFoodPreservation.ManualUnload.Label>
+  <APM.FrostivusFoodPreservation.ManualUnload.NoFood>No lleva comida conservada.</APM.FrostivusFoodPreservation.ManualUnload.NoFood>
+  <APM.FrostivusFoodPreservation.ManualUnload.NoPath>El frostivus no puede llegar a esa casilla.</APM.FrostivusFoodPreservation.ManualUnload.NoPath>
+  <APM.FrostivusFoodPreservation.ReleaseDevoured.Desc>Elige una casilla donde el frostivus deba liberar a los individuos devorados o sus cadáveres.</APM.FrostivusFoodPreservation.ReleaseDevoured.Desc>
+  <APM.FrostivusFoodPreservation.ReleaseDevoured.Label>Liberar de la cámara criogénica</APM.FrostivusFoodPreservation.ReleaseDevoured.Label>
+  <APM.FrostivusFoodPreservation.ReleaseDevoured.NoContents>No hay ningún individuo devorado ni cadáver en su interior.</APM.FrostivusFoodPreservation.ReleaseDevoured.NoContents>
+  <APM.FrostivusFoodPreservation.ReleaseDevoured.NoPath>El frostivus no puede llegar a esa casilla.</APM.FrostivusFoodPreservation.ReleaseDevoured.NoPath>
+  <APM.GazerEmplacement.AutoTarget>Objetivo automático: </APM.GazerEmplacement.AutoTarget>
+  <APM.GazerEmplacement.Fail.BrokenDown>Averiado.</APM.GazerEmplacement.Fail.BrokenDown>
+  <APM.GazerEmplacement.Fail.MissingDefinition>Falta la definición del rayo solar.</APM.GazerEmplacement.Fail.MissingDefinition>
+  <APM.GazerEmplacement.Fail.NeedsOperator>Necesita un operador.</APM.GazerEmplacement.Fail.NeedsOperator>
+  <APM.GazerEmplacement.Fail.NoPower>Sin energía.</APM.GazerEmplacement.Fail.NoPower>
+  <APM.GazerEmplacement.Fail.NoTargetCell>Elige una casilla objetivo.</APM.GazerEmplacement.Fail.NoTargetCell>
+  <APM.GazerEmplacement.Fail.NotSpawned>No está desplegado.</APM.GazerEmplacement.Fail.NotSpawned>
+  <APM.GazerEmplacement.Fail.TargetGone>El objetivo ya no está.</APM.GazerEmplacement.Fail.TargetGone>
+  <APM.GazerEmplacement.Fail.TargetOutOfBounds>El objetivo está fuera de los límites.</APM.GazerEmplacement.Fail.TargetOutOfBounds>
+  <APM.GazerEmplacement.Fail.TargetOutOfRange>El objetivo está fuera de alcance.</APM.GazerEmplacement.Fail.TargetOutOfRange>
+  <APM.GazerEmplacement.Fail.TargetOutsideArc>El objetivo está fuera del sector de tiro.</APM.GazerEmplacement.Fail.TargetOutsideArc>
+  <APM.GazerEmplacement.Fail.TargetTooClose>El objetivo está demasiado cerca.</APM.GazerEmplacement.Fail.TargetTooClose>
+  <APM.GazerEmplacement.Fail.TurnedOff>Apagado.</APM.GazerEmplacement.Fail.TurnedOff>
+  <APM.GazerEmplacement.ForcedTarget>Objetivo forzado: </APM.GazerEmplacement.ForcedTarget>
+  <APM.GazerEmplacement.Status.Charging>Estado: cargando</APM.GazerEmplacement.Status.Charging>
+  <APM.GazerEmplacement.Status.CoolingDown>Estado: enfriándose</APM.GazerEmplacement.Status.CoolingDown>
+  <APM.GazerEmplacement.Status.Firing>Estado: disparando rayo solar</APM.GazerEmplacement.Status.Firing>
+  <APM.GazerEmplacement.Status.Ready>Estado: listo</APM.GazerEmplacement.Status.Ready>
+  <APM.GazerEmplacement.StopForcedTarget.Desc>Borrar el objetivo forzado actual.</APM.GazerEmplacement.StopForcedTarget.Desc>
+  <APM.GazerEmplacement.StopForcedTarget.Label>Cancelar objetivo forzado</APM.GazerEmplacement.StopForcedTarget.Label>
+  <APM.GazerEmplacement.SunRay.Desc>Ordena al emplazamiento que proyecte un rayo solar dentro de su sector frontal fijo.</APM.GazerEmplacement.SunRay.Desc>
+  <APM.GazerEmplacement.SunRay.Label>Rayo solar</APM.GazerEmplacement.SunRay.Label>
+  <APM.GazerEmplacement.Target.None>ninguno</APM.GazerEmplacement.Target.None>
+  <APM.Javelin.LoadedRocket>Cohete: {0}</APM.Javelin.LoadedRocket>
+  <APM.Javelin.NoUranium>(uranio insuficiente)</APM.Javelin.NoUranium>
+  <APM.Javelin.OutOfUranium>{0} se quedó sin uranio para su {1} y volvió a los cohetes básicos.</APM.Javelin.OutOfUranium>
+  <APM.Javelin.RocketCost>{0} ({1} de uranio por disparo)</APM.Javelin.RocketCost>
+  <APM.Javelin.RocketFree>{0} (gratis)</APM.Javelin.RocketFree>
+  <APM.Javelin.SwitchRocket.Desc>Elige qué ojiva carga esta jabalina. Todos los cohetes salvo el básico consumen el uranio del meca al dispararse, y el bastidor vuelve al cohete básico cuando este se agota.</APM.Javelin.SwitchRocket.Desc>
+  <APM.Javelin.SwitchRocket.Label>Cohete: {0}</APM.Javelin.SwitchRocket.Label>
+  <APM.MechamancerPack.MaxSatellites>Esta mochila ya mantiene {0} satélites desplegados.</APM.MechamancerPack.MaxSatellites>
+  <APM.MechamancerPack.NoValidSpawnCell>No se encontró ninguna casilla válida para desplegar el satélite.</APM.MechamancerPack.NoValidSpawnCell>
+  <APM.MechanoidContainer.ContainsUnknown>Contiene un mecanoide sin identificar.</APM.MechanoidContainer.ContainsUnknown>
+  <APM.MechanoidContainer.ForcedOpen>{0} forzó {1} sin tener banda ancha para retener lo que había dentro. {2} anda suelto y no obedece a nadie hasta que un mecanizador tome su control.</APM.MechanoidContainer.ForcedOpen>
+  <APM.MechanoidContainer.Gizmo.ChooseMech.MouseLabel>Seleccionar mecanoide...</APM.MechanoidContainer.Gizmo.ChooseMech.MouseLabel>
+  <APM.StatFactorFromHealth.Description>El {STAT} de este mecanoide se ve afectado por su estado de salud.</APM.StatFactorFromHealth.Description>
+  <APM.StatFactorFromHealth.Label>{STAT} por salud baja</APM.StatFactorFromHealth.Label>
+  <APM.Tinker.Order.Repair>Reparar {0}</APM.Tinker.Order.Repair>
+  <APM_AutoRepairOrdered>El escaneo de la estación de reparación encontró a {0}. Reparaciones ordenadas.</APM_AutoRepairOrdered>
+  <APM_CommandCancelRepair>Cancelar reparación</APM_CommandCancelRepair>
+  <APM_CommandCancelRepairDesc>Detener la reparación y expulsar al mecanoide.</APM_CommandCancelRepairDesc>
+  <APM_FullHealth>Este mecanoide ya está a plena salud.</APM_FullHealth>
+  <APM_Gazer_AutoLaser_Desc>Permite que este oteador dispare automáticamente su arma láser y su habilidad de rayo solar mientras esté bajo el control del jugador. Las órdenes de ataque manuales siguen disparando una vez contra el objetivo seleccionado.</APM_Gazer_AutoLaser_Desc>
+  <APM_Gazer_AutoLaser_Label>Láser automático</APM_Gazer_AutoLaser_Label>
+  <APM_Gazer_Inspect_AutoLaserDisabled>Láser automático: desactivado.</APM_Gazer_Inspect_AutoLaserDisabled>
+  <APM_Gizmo_AutoRepair>Reparación automática</APM_Gizmo_AutoRepair>
+  <APM_Gizmo_AutoRepair_Desc>Buscar automáticamente mecas dañados y asignarlos a la estación.</APM_Gizmo_AutoRepair_Desc>
+  <APM_Gizmo_SetInterval>Intervalo: {0}</APM_Gizmo_SetInterval>
+  <APM_IngestorAbsorb_AlreadyMarked>Ya está marcado para reciclaje de biomasa.</APM_IngestorAbsorb_AlreadyMarked>
+  <APM_IngestorAbsorb_Burning>No se puede reciclar un cadáver en llamas.</APM_IngestorAbsorb_Burning>
+  <APM_IngestorAbsorb_InvalidCorpse>Cadáver no válido.</APM_IngestorAbsorb_InvalidCorpse>
+  <APM_IngestorAbsorb_InvalidTarget>Debe apuntar a un cadáver orgánico fresco o a material ingerible.</APM_IngestorAbsorb_InvalidTarget>
+  <APM_IngestorAbsorb_MustTargetCorpse>Debe apuntar a un cadáver orgánico fresco.</APM_IngestorAbsorb_MustTargetCorpse>
+  <APM_IngestorAbsorb_NotFresh>No se puede reciclar un cadáver podrido ni desecado.</APM_IngestorAbsorb_NotFresh>
+  <APM_IngestorAbsorb_NotOrganic>El objetivo no es biomasa orgánica.</APM_IngestorAbsorb_NotOrganic>
+  <APM_IngestorBiomass_LabelMultiple>{0} lotes, {1} {2}, el siguiente en {3}</APM_IngestorBiomass_LabelMultiple>
+  <APM_IngestorBiomass_LabelSingle>{0} {1} en {2}</APM_IngestorBiomass_LabelSingle>
+  <APM_IngestorBiomass_TooltipBatch>{0} {1} en {2}</APM_IngestorBiomass_TooltipBatch>
+  <APM_IngestorBiomass_TooltipHeader>Producción pendiente:</APM_IngestorBiomass_TooltipHeader>
+  <APM_IngestorBiomass_TooltipMore>...y {0} más.</APM_IngestorBiomass_TooltipMore>
+  <APM_IngestorBiomass_UnknownOutput>producción desconocida</APM_IngestorBiomass_UnknownOutput>
+  <APM_Ingestor_MarkCorpses_Desc>Marca cadáveres orgánicos frescos para que el ingestor los recicle.</APM_Ingestor_MarkCorpses_Desc>
+  <APM_Ingestor_MarkCorpses_Label>Marcar para reciclaje de biomasa</APM_Ingestor_MarkCorpses_Label>
+  <APM_Ingestor_ProcessMode_All_Desc>Haz clic para que el ingestor recicle cualquier cadáver orgánico fresco a su alcance. Modo actual: solo se reciclan los cadáveres marcados.</APM_Ingestor_ProcessMode_All_Desc>
+  <APM_Ingestor_ProcessMode_All_Label>Reciclar todos los cadáveres válidos</APM_Ingestor_ProcessMode_All_Label>
+  <APM_Ingestor_ProcessMode_Marked_Desc>Haz clic para que el ingestor recicle únicamente los cadáveres marcados para reciclaje de biomasa. Modo actual: se reciclan todos los cadáveres orgánicos frescos a su alcance.</APM_Ingestor_ProcessMode_Marked_Desc>
+  <APM_Ingestor_ProcessMode_Marked_Label>Usar solo cadáveres marcados</APM_Ingestor_ProcessMode_Marked_Label>
+  <APM_Ingestor_StripMode_Disable_Desc>Haz clic para reciclar los cadáveres intactos y destruir con ellos la ropa, el equipo y el inventario. Modo actual: retirar los objetos que lleven antes de reciclarlos.</APM_Ingestor_StripMode_Disable_Desc>
+  <APM_Ingestor_StripMode_Disable_Label>Desactivar desvalijado</APM_Ingestor_StripMode_Disable_Label>
+  <APM_Ingestor_StripMode_Enable_Desc>Haz clic para quitar la ropa, el equipo y el inventario de los cadáveres antes de reciclarlos. Modo actual: reciclar los cadáveres intactos; los objetos que lleven se destruyen con el cadáver.</APM_Ingestor_StripMode_Enable_Desc>
+  <APM_Ingestor_StripMode_Enable_Label>Activar desvalijado</APM_Ingestor_StripMode_Enable_Label>
+  <APM_InsertMech>Insertar meca</APM_InsertMech>
+  <APM_MechRepaired>{0} ha sido reparado por completo.</APM_MechRepaired>
+  <APM_NoMechsAvailable>No hay mecas disponibles.</APM_NoMechsAvailable>
+  <APM_NotMechanoid>Aquí solo se puede reparar mecanoides.</APM_NotMechanoid>
+  <APM_NotPlayerFaction>Solo se puede reparar mecanoides aliados.</APM_NotPlayerFaction>
+  <APM_Ravager_AutoArtillery_Desc>Permite que este devastador elija automáticamente objetivos hostiles para su artillería mientras esté bajo el control del jugador. Las órdenes de ataque manuales siempre disparan una vez contra la casilla seleccionada.</APM_Ravager_AutoArtillery_Desc>
+  <APM_Ravager_AutoArtillery_Label>Artillería automática</APM_Ravager_AutoArtillery_Label>
+  <APM_Ravager_Inspect_AutoArtilleryBlockedRoof>Artillería automática: no puede disparar bajo techo.</APM_Ravager_Inspect_AutoArtilleryBlockedRoof>
+  <APM_Ravager_Inspect_AutoArtilleryBlockedTargetRoof>Artillería automática: el objetivo actual está bajo un techo grueso.</APM_Ravager_Inspect_AutoArtilleryBlockedTargetRoof>
+  <APM_Ravager_Inspect_AutoArtilleryCannotHit>Artillería automática: no se puede alcanzar el objetivo actual desde esta posición.</APM_Ravager_Inspect_AutoArtilleryCannotHit>
+  <APM_Ravager_Inspect_AutoArtilleryDisabled>Artillería automática: desactivada.</APM_Ravager_Inspect_AutoArtilleryDisabled>
+  <APM_RepairStation_ArmEditor_Arm>Brazo</APM_RepairStation_ArmEditor_Arm>
+  <APM_RepairStation_ArmEditor_Copied>XML del brazo de la estación de reparación copiado.</APM_RepairStation_ArmEditor_Copied>
+  <APM_RepairStation_ArmEditor_CopyAllXml>Copiar XML de todos los brazos</APM_RepairStation_ArmEditor_CopyAllXml>
+  <APM_RepairStation_ArmEditor_CopyArmXml>Copiar XML del brazo</APM_RepairStation_ArmEditor_CopyArmXml>
+  <APM_RepairStation_ArmEditor_CurrentRotation>Rotación de la estación: {0}</APM_RepairStation_ArmEditor_CurrentRotation>
+  <APM_RepairStation_ArmEditor_Footer>Los cambios se aplican en vivo al def en memoria de esta estación. Copia el XML cuando los desplazamientos se vean bien.</APM_RepairStation_ArmEditor_Footer>
+  <APM_RepairStation_ArmEditor_GizmoDesc>Abrir un editor en vivo para los desplazamientos de los brazos de la estación de reparación.</APM_RepairStation_ArmEditor_GizmoDesc>
+  <APM_RepairStation_ArmEditor_GizmoLabel>Dev: editor en vivo de brazos</APM_RepairStation_ArmEditor_GizmoLabel>
+  <APM_RepairStation_ArmEditor_LivePreviewOff>Editando {0}; la vista previa en vivo requiere una estación orientada en esa dirección.</APM_RepairStation_ArmEditor_LivePreviewOff>
+  <APM_RepairStation_ArmEditor_LivePreviewOn>La vista previa en vivo está activa para esta vista.</APM_RepairStation_ArmEditor_LivePreviewOn>
+  <APM_RepairStation_ArmEditor_NoStation>No hay brazos de estación de reparación disponibles.</APM_RepairStation_ArmEditor_NoStation>
+  <APM_RepairStation_ArmEditor_ResetView>Restablecer vista</APM_RepairStation_ArmEditor_ResetView>
+  <APM_RepairStation_ArmEditor_SelectedOffset>Desplazamiento {0} para el brazo {1}</APM_RepairStation_ArmEditor_SelectedOffset>
+  <APM_RepairStation_ArmEditor_Step>Paso</APM_RepairStation_ArmEditor_Step>
+  <APM_RepairStation_ArmEditor_Title>Editor de brazos de la estación de reparación</APM_RepairStation_ArmEditor_Title>
+  <APM_RepairStation_ArmEditor_UseCurrent>Usar la vista actual</APM_RepairStation_ArmEditor_UseCurrent>
+  <APM_RepairStation_ArmEditor_View>Vista</APM_RepairStation_ArmEditor_View>
+  <APM_RepairStation_CannotRepairSatellite>Los satélites no se pueden reparar en estaciones de reparación.</APM_RepairStation_CannotRepairSatellite>
+  <APM_RepairStation_InactiveEjected>{0} fue liberado tras dejar de funcionar la estación de reparación.</APM_RepairStation_InactiveEjected>
+  <APM_Repairing>Reparando a {0}</APM_Repairing>
+  <APM_Settings_ShowRepairStationAutoRepairMessages_Desc>Mostrar un mensaje cuando una estación de reparación llame automáticamente a un mecanoide para repararlo.</APM_Settings_ShowRepairStationAutoRepairMessages_Desc>
+  <APM_Settings_ShowRepairStationAutoRepairMessages_Label>Mostrar mensajes de reparación automática de la estación</APM_Settings_ShowRepairStationAutoRepairMessages_Label>
+  <APM_ShieldIntegrity>Integridad del escudo</APM_ShieldIntegrity>
+  <APM_ToxicPurifier_LevelToAffectRelation>La toxicidad en la atmósfera de la zona ha alcanzado el punto crítico de {0} que afectaría a todo el planeta; las relaciones con otras facciones se deteriorarán.</APM_ToxicPurifier_LevelToAffectRelation>
+  <APM_ToxicPurifier_LevelToAffectRelationAndStartSpreading>La toxicidad en la atmósfera de la zona ha alcanzado el punto crítico de {0}, que afectaría a las casillas cercanas, y el punto crítico de {1}, que afectaría a las relaciones entre facciones.</APM_ToxicPurifier_LevelToAffectRelationAndStartSpreading>
+  <APM_ToxicPurifier_LevelToStartSpreading>La toxicidad en la atmósfera de la zona ha alcanzado el punto crítico de {0} que afectaría a las casillas cercanas.</APM_ToxicPurifier_LevelToStartSpreading>
+  <APM_ToxicPurifier_ModeChangeDesc>Cambiar el modo de la estación purificadora.</APM_ToxicPurifier_ModeChangeDesc>
+  <APM_ToxicPurifier_ModeChangeLabel>Modo</APM_ToxicPurifier_ModeChangeLabel>
+  <APM_ToxicPurifier_Mode_GroundOverWastepacks>El suelo antes que los packs de residuos</APM_ToxicPurifier_Mode_GroundOverWastepacks>
+  <APM_ToxicPurifier_Mode_OnlyGround>Solo el suelo</APM_ToxicPurifier_Mode_OnlyGround>
+  <APM_ToxicPurifier_Mode_OnlyWastepacks>Solo packs de residuos</APM_ToxicPurifier_Mode_OnlyWastepacks>
+  <APM_ToxicPurifier_Mode_WastepacksOverGround>Packs de residuos antes que el suelo</APM_ToxicPurifier_Mode_WastepacksOverGround>
+  <APM_ToxicPurifier_RecoveryPerDay>Recuperación de toxicidad por día</APM_ToxicPurifier_RecoveryPerDay>
+  <APM_UnityTooltip_Current>Atributos actuales (con enlace de unidad):</APM_UnityTooltip_Current>
+  <APM_VampiricCharges>Cargas vampíricas: {0}/{1}</APM_VampiricCharges>
+  <APM_WrongSize>El tamaño del mecanoide debe ser {0} para esta estación.</APM_WrongSize>
+</LanguageData>

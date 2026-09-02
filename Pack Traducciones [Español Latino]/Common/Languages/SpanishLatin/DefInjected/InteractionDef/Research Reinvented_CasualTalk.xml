@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RR_ScienceTalk.label>hablar sobre ciencia</RR_ScienceTalk.label>
+  <RR_ScienceTalk.logRulesInitiator.rulesStrings>
+    <li>r_logentry-&gt;[RECIPIENT_nameDef] [talkabout] [knowledge] relacionados con [subject] con [INITIATOR_nameDef].</li>
+    <li>talkabout-&gt;compartió</li>
+    <li>talkabout-&gt;habló sobre</li>
+    <li>talkabout-&gt;discutió</li>
+    <li>talkabout-&gt;tuvo una discusión sobre</li>
+    <li>subject-&gt;la investigación actual</li>
+    <li>subject-&gt;el proyecto actual</li>
+    <li>knowledge-&gt;conocimientos</li>
+    <li>knowledge-&gt;ciencia</li>
+    <li>knowledge-&gt;experimentos previos</li>
+    <li>knowledge-&gt;los conocimientos de [RECIPIENT_possessive]</li>
+  </RR_ScienceTalk.logRulesInitiator.rulesStrings>
+</LanguageData>

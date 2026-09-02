@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <AC_Intro_Researcher.questDescriptionRules.rulesStrings>
+    <li>questDescription-&gt;[asker_nameFull], [asker_titleIndef], está llamando desde cerca y explica brevemente que ha sido exiliado/a de su mundo natal por razones que no quiere revelar y que fue atacado/a justo después de estrellarse en este planeta. Consiguió escapar, pero ahora está gravemente herido/a y necesita atención médica.\n\n\n[asker_nameDef] promete que hará que valga la pena si le ofreces un lugar seguro donde quedarse y curarse en [map_definite].\n\n\nSe niega a responder más preguntas, reiterando que sus heridas necesitan tratamiento lo antes posible.</li>
+  </AC_Intro_Researcher.questDescriptionRules.rulesStrings>
+  <AC_Intro_Researcher.questNameRules.rulesStrings>
+    <li>questName-&gt;El/La investigador(a) [adjAny]</li>
+    <li>adjAny-&gt;debilitado/a</li>
+    <li>adjAny-&gt;fugitivo/a</li>
+    <li>adjAny-&gt;angustiado/a</li>
+    <li>adjAny-&gt;moribundo/a</li>
+  </AC_Intro_Researcher.questNameRules.rulesStrings>
+  <AC_Intro_Researcher.root.nodes.Delay.node.nodes.Util_Raid.parms.customLetterLabel.value.slateRef>{BASELABEL}: Asalto</AC_Intro_Researcher.root.nodes.Delay.node.nodes.Util_Raid.parms.customLetterLabel.value.slateRef>
+  <AC_Intro_Researcher.root.nodes.Delay.node.nodes.Util_Raid.parms.customLetterText.value.slateRef>{BASETEXT}\n\nEste es el escuadrón de asalto que estaba cazando a [../asker_nameFull]. Parece que han venido a terminar el trabajo.</AC_Intro_Researcher.root.nodes.Delay.node.nodes.Util_Raid.parms.customLetterText.value.slateRef>
+  <AC_Intro_Researcher.root.nodes.PawnsArrive.customLetterText.slateRef>{BASETEXT}\n\nComo has aceptado a [asker_nameDef], el asalto que le está dando caza llegará pronto.</AC_Intro_Researcher.root.nodes.PawnsArrive.customLetterText.slateRef>
+</LanguageData>

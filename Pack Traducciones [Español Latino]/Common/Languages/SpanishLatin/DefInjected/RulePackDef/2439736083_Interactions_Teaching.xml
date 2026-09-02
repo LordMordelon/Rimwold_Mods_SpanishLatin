@@ -1,0 +1,291 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <VSIE_Teaching_Animals.rulePack.rulesStrings>
+    <li>r_logentry-&gt;[INITIATOR_nameDef] y [RECIPIENT_nameDef] [talkedaboutPlural] [AnimalsTopic].</li>
+    <li>r_logentry-&gt;[INITIATOR_nameDef] [talkedaboutSingular] [AnimalsTopic] con [RECIPIENT_nameDef].</li>
+    <li>r_logentry(p=0.8)-&gt;[INITIATOR_nameDef] [commentedabout] [AnimalsTopic] a [RECIPIENT_nameDef].</li>
+    <li>talkedaboutPlural(p=4)-&gt;charlaron sobre</li>
+    <li>talkedaboutPlural-&gt;compartieron unas palabras sobre</li>
+    <li>talkedaboutPlural-&gt;hablaron sobre</li>
+    <li>talkedaboutPlural-&gt;parlotearon sobre</li>
+    <li>talkedaboutPlural-&gt;conversaron sobre</li>
+    <li>talkedaboutPlural-&gt;bromearon sobre</li>
+    <li>talkedaboutPlural-&gt;hicieron chistes sobre</li>
+    <li>talkedaboutSingular(p=4)-&gt;charló sobre</li>
+    <li>talkedaboutSingular-&gt;compartió unas palabras sobre</li>
+    <li>talkedaboutSingular-&gt;habló sobre</li>
+    <li>talkedaboutSingular-&gt;parloteó sobre</li>
+    <li>talkedaboutSingular-&gt;conversó sobre</li>
+    <li>talkedaboutSingular-&gt;bromeó sobre</li>
+    <li>talkedaboutSingular-&gt;hizo chistes sobre</li>
+    <li>commentedabout-&gt;dijo algo sobre</li>
+    <li>commentedabout-&gt;dijo una palabra sobre</li>
+    <li>commentedabout-&gt;hizo un comentario sobre</li>
+    <li>commentedabout-&gt;comentó sobre</li>
+    <li>commentedabout-&gt;contó un chiste sobre</li>
+  </VSIE_Teaching_Animals.rulePack.rulesStrings>
+  <VSIE_Teaching_Artistic.rulePack.rulesStrings>
+    <li>r_logentry-&gt;[INITIATOR_nameDef] y [RECIPIENT_nameDef] [talkedaboutPlural] [ArtTopic].</li>
+    <li>r_logentry-&gt;[INITIATOR_nameDef] [talkedaboutSingular] [ArtTopic] con [RECIPIENT_nameDef].</li>
+    <li>r_logentry(p=0.8)-&gt;[INITIATOR_nameDef] [commentedabout] [ArtTopic] a [RECIPIENT_nameDef].</li>
+    <li>talkedaboutPlural(p=4)-&gt;charlaron sobre</li>
+    <li>talkedaboutPlural-&gt;compartieron unas palabras sobre</li>
+    <li>talkedaboutPlural-&gt;hablaron sobre</li>
+    <li>talkedaboutPlural-&gt;parlotearon sobre</li>
+    <li>talkedaboutPlural-&gt;conversaron sobre</li>
+    <li>talkedaboutPlural-&gt;bromearon sobre</li>
+    <li>talkedaboutPlural-&gt;hicieron chistes sobre</li>
+    <li>talkedaboutSingular(p=4)-&gt;charló sobre</li>
+    <li>talkedaboutSingular-&gt;compartió unas palabras sobre</li>
+    <li>talkedaboutSingular-&gt;habló sobre</li>
+    <li>talkedaboutSingular-&gt;parloteó sobre</li>
+    <li>talkedaboutSingular-&gt;conversó sobre</li>
+    <li>talkedaboutSingular-&gt;bromeó sobre</li>
+    <li>talkedaboutSingular-&gt;hizo chistes sobre</li>
+    <li>commentedabout-&gt;dijo algo sobre</li>
+    <li>commentedabout-&gt;dijo una palabra sobre</li>
+    <li>commentedabout-&gt;hizo un comentario sobre</li>
+    <li>commentedabout-&gt;comentó sobre</li>
+    <li>commentedabout-&gt;contó un chiste sobre</li>
+  </VSIE_Teaching_Artistic.rulePack.rulesStrings>
+  <VSIE_Teaching_Construction.rulePack.rulesStrings>
+    <li>r_logentry-&gt;[INITIATOR_nameDef] y [RECIPIENT_nameDef] [talkedaboutPlural] [ConstructionTopic].</li>
+    <li>r_logentry-&gt;[INITIATOR_nameDef] [talkedaboutSingular] [ConstructionTopic] con [RECIPIENT_nameDef].</li>
+    <li>r_logentry(p=0.8)-&gt;[INITIATOR_nameDef] [commentedabout] [ConstructionTopic] a [RECIPIENT_nameDef].</li>
+    <li>talkedaboutPlural(p=4)-&gt;charlaron sobre</li>
+    <li>talkedaboutPlural-&gt;compartieron unas palabras sobre</li>
+    <li>talkedaboutPlural-&gt;hablaron sobre</li>
+    <li>talkedaboutPlural-&gt;parlotearon sobre</li>
+    <li>talkedaboutPlural-&gt;conversaron sobre</li>
+    <li>talkedaboutPlural-&gt;bromearon sobre</li>
+    <li>talkedaboutPlural-&gt;hicieron chistes sobre</li>
+    <li>talkedaboutSingular(p=4)-&gt;charló sobre</li>
+    <li>talkedaboutSingular-&gt;compartió unas palabras sobre</li>
+    <li>talkedaboutSingular-&gt;habló sobre</li>
+    <li>talkedaboutSingular-&gt;parloteó sobre</li>
+    <li>talkedaboutSingular-&gt;conversó sobre</li>
+    <li>talkedaboutSingular-&gt;bromeó sobre</li>
+    <li>talkedaboutSingular-&gt;hizo chistes sobre</li>
+    <li>commentedabout-&gt;dijo algo sobre</li>
+    <li>commentedabout-&gt;dijo una palabra sobre</li>
+    <li>commentedabout-&gt;hizo un comentario sobre</li>
+    <li>commentedabout-&gt;comentó sobre</li>
+    <li>commentedabout-&gt;contó un chiste sobre</li>
+  </VSIE_Teaching_Construction.rulePack.rulesStrings>
+  <VSIE_Teaching_Cooking.rulePack.rulesStrings>
+    <li>r_logentry-&gt;[INITIATOR_nameDef] y [RECIPIENT_nameDef] [talkedaboutPlural] [CookingTopic].</li>
+    <li>r_logentry-&gt;[INITIATOR_nameDef] [talkedaboutSingular] [CookingTopic] con [RECIPIENT_nameDef].</li>
+    <li>r_logentry(p=0.8)-&gt;[INITIATOR_nameDef] [commentedabout] [CookingTopic] a [RECIPIENT_nameDef].</li>
+    <li>talkedaboutPlural(p=4)-&gt;charlaron sobre</li>
+    <li>talkedaboutPlural-&gt;compartieron unas palabras sobre</li>
+    <li>talkedaboutPlural-&gt;hablaron sobre</li>
+    <li>talkedaboutPlural-&gt;parlotearon sobre</li>
+    <li>talkedaboutPlural-&gt;conversaron sobre</li>
+    <li>talkedaboutPlural-&gt;bromearon sobre</li>
+    <li>talkedaboutPlural-&gt;hicieron chistes sobre</li>
+    <li>talkedaboutSingular(p=4)-&gt;charló sobre</li>
+    <li>talkedaboutSingular-&gt;compartió unas palabras sobre</li>
+    <li>talkedaboutSingular-&gt;habló sobre</li>
+    <li>talkedaboutSingular-&gt;parloteó sobre</li>
+    <li>talkedaboutSingular-&gt;conversó sobre</li>
+    <li>talkedaboutSingular-&gt;bromeó sobre</li>
+    <li>talkedaboutSingular-&gt;hizo chistes sobre</li>
+    <li>commentedabout-&gt;dijo algo sobre</li>
+    <li>commentedabout-&gt;dijo una palabra sobre</li>
+    <li>commentedabout-&gt;hizo un comentario sobre</li>
+    <li>commentedabout-&gt;comentó sobre</li>
+    <li>commentedabout-&gt;contó un chiste sobre</li>
+  </VSIE_Teaching_Cooking.rulePack.rulesStrings>
+  <VSIE_Teaching_Crafting.rulePack.rulesStrings>
+    <li>r_logentry-&gt;[INITIATOR_nameDef] y [RECIPIENT_nameDef] [talkedaboutPlural] [CraftingTopic].</li>
+    <li>r_logentry-&gt;[INITIATOR_nameDef] [talkedaboutSingular] [CraftingTopic] con [RECIPIENT_nameDef].</li>
+    <li>r_logentry(p=0.8)-&gt;[INITIATOR_nameDef] [commentedabout] [CraftingTopic] a [RECIPIENT_nameDef].</li>
+    <li>talkedaboutPlural(p=4)-&gt;charlaron sobre</li>
+    <li>talkedaboutPlural-&gt;compartieron unas palabras sobre</li>
+    <li>talkedaboutPlural-&gt;hablaron sobre</li>
+    <li>talkedaboutPlural-&gt;parlotearon sobre</li>
+    <li>talkedaboutPlural-&gt;conversaron sobre</li>
+    <li>talkedaboutPlural-&gt;bromearon sobre</li>
+    <li>talkedaboutPlural-&gt;hicieron chistes sobre</li>
+    <li>talkedaboutSingular(p=4)-&gt;charló sobre</li>
+    <li>talkedaboutSingular-&gt;compartió unas palabras sobre</li>
+    <li>talkedaboutSingular-&gt;habló sobre</li>
+    <li>talkedaboutSingular-&gt;parloteó sobre</li>
+    <li>talkedaboutSingular-&gt;conversó sobre</li>
+    <li>talkedaboutSingular-&gt;bromeó sobre</li>
+    <li>talkedaboutSingular-&gt;hizo chistes sobre</li>
+    <li>commentedabout-&gt;dijo algo sobre</li>
+    <li>commentedabout-&gt;dijo una palabra sobre</li>
+    <li>commentedabout-&gt;hizo un comentario sobre</li>
+    <li>commentedabout-&gt;comentó sobre</li>
+    <li>commentedabout-&gt;contó un chiste sobre</li>
+  </VSIE_Teaching_Crafting.rulePack.rulesStrings>
+  <VSIE_Teaching_Intellectual.rulePack.rulesStrings>
+    <li>r_logentry-&gt;[INITIATOR_nameDef] y [RECIPIENT_nameDef] [talkedaboutPlural] [IntellectualTopic].</li>
+    <li>r_logentry-&gt;[INITIATOR_nameDef] [talkedaboutSingular] [IntellectualTopic] con [RECIPIENT_nameDef].</li>
+    <li>r_logentry(p=0.8)-&gt;[INITIATOR_nameDef] [commentedabout] [IntellectualTopic] a [RECIPIENT_nameDef].</li>
+    <li>talkedaboutPlural(p=4)-&gt;charlaron sobre</li>
+    <li>talkedaboutPlural-&gt;compartieron unas palabras sobre</li>
+    <li>talkedaboutPlural-&gt;hablaron sobre</li>
+    <li>talkedaboutPlural-&gt;parlotearon sobre</li>
+    <li>talkedaboutPlural-&gt;conversaron sobre</li>
+    <li>talkedaboutPlural-&gt;bromearon sobre</li>
+    <li>talkedaboutPlural-&gt;hicieron chistes sobre</li>
+    <li>talkedaboutSingular(p=4)-&gt;charló sobre</li>
+    <li>talkedaboutSingular-&gt;compartió unas palabras sobre</li>
+    <li>talkedaboutSingular-&gt;habló sobre</li>
+    <li>talkedaboutSingular-&gt;parloteó sobre</li>
+    <li>talkedaboutSingular-&gt;conversó sobre</li>
+    <li>talkedaboutSingular-&gt;bromeó sobre</li>
+    <li>talkedaboutSingular-&gt;hizo chistes sobre</li>
+    <li>commentedabout-&gt;dijo algo sobre</li>
+    <li>commentedabout-&gt;dijo una palabra sobre</li>
+    <li>commentedabout-&gt;hizo un comentario sobre</li>
+    <li>commentedabout-&gt;comentó sobre</li>
+    <li>commentedabout-&gt;contó un chiste sobre</li>
+  </VSIE_Teaching_Intellectual.rulePack.rulesStrings>
+  <VSIE_Teaching_Medicine.rulePack.rulesStrings>
+    <li>r_logentry-&gt;[INITIATOR_nameDef] y [RECIPIENT_nameDef] [talkedaboutPlural] [MedicalTopic].</li>
+    <li>r_logentry-&gt;[INITIATOR_nameDef] [talkedaboutSingular] [MedicalTopic] con [RECIPIENT_nameDef].</li>
+    <li>r_logentry(p=0.8)-&gt;[INITIATOR_nameDef] [commentedabout] [MedicalTopic] a [RECIPIENT_nameDef].</li>
+    <li>talkedaboutPlural(p=4)-&gt;charlaron sobre</li>
+    <li>talkedaboutPlural-&gt;compartieron unas palabras sobre</li>
+    <li>talkedaboutPlural-&gt;hablaron sobre</li>
+    <li>talkedaboutPlural-&gt;parlotearon sobre</li>
+    <li>talkedaboutPlural-&gt;conversaron sobre</li>
+    <li>talkedaboutPlural-&gt;bromearon sobre</li>
+    <li>talkedaboutPlural-&gt;hicieron chistes sobre</li>
+    <li>talkedaboutSingular(p=4)-&gt;charló sobre</li>
+    <li>talkedaboutSingular-&gt;compartió unas palabras sobre</li>
+    <li>talkedaboutSingular-&gt;habló sobre</li>
+    <li>talkedaboutSingular-&gt;parloteó sobre</li>
+    <li>talkedaboutSingular-&gt;conversó sobre</li>
+    <li>talkedaboutSingular-&gt;bromeó sobre</li>
+    <li>talkedaboutSingular-&gt;hizo chistes sobre</li>
+    <li>commentedabout-&gt;dijo algo sobre</li>
+    <li>commentedabout-&gt;dijo una palabra sobre</li>
+    <li>commentedabout-&gt;hizo un comentario sobre</li>
+    <li>commentedabout-&gt;comentó sobre</li>
+    <li>commentedabout-&gt;contó un chiste sobre</li>
+  </VSIE_Teaching_Medicine.rulePack.rulesStrings>
+  <VSIE_Teaching_Melee.rulePack.rulesStrings>
+    <li>r_logentry-&gt;[INITIATOR_nameDef] y [RECIPIENT_nameDef] [talkedaboutPlural] [MeleeTopic].</li>
+    <li>r_logentry-&gt;[INITIATOR_nameDef] [talkedaboutSingular] [MeleeTopic] con [RECIPIENT_nameDef].</li>
+    <li>r_logentry(p=0.8)-&gt;[INITIATOR_nameDef] [commentedabout] [MeleeTopic] a [RECIPIENT_nameDef].</li>
+    <li>talkedaboutPlural(p=4)-&gt;charlaron sobre</li>
+    <li>talkedaboutPlural-&gt;compartieron unas palabras sobre</li>
+    <li>talkedaboutPlural-&gt;hablaron sobre</li>
+    <li>talkedaboutPlural-&gt;parlotearon sobre</li>
+    <li>talkedaboutPlural-&gt;conversaron sobre</li>
+    <li>talkedaboutPlural-&gt;bromearon sobre</li>
+    <li>talkedaboutPlural-&gt;hicieron chistes sobre</li>
+    <li>talkedaboutSingular(p=4)-&gt;charló sobre</li>
+    <li>talkedaboutSingular-&gt;compartió unas palabras sobre</li>
+    <li>talkedaboutSingular-&gt;habló sobre</li>
+    <li>talkedaboutSingular-&gt;parloteó sobre</li>
+    <li>talkedaboutSingular-&gt;conversó sobre</li>
+    <li>talkedaboutSingular-&gt;bromeó sobre</li>
+    <li>talkedaboutSingular-&gt;hizo chistes sobre</li>
+    <li>commentedabout-&gt;dijo algo sobre</li>
+    <li>commentedabout-&gt;dijo una palabra sobre</li>
+    <li>commentedabout-&gt;hizo un comentario sobre</li>
+    <li>commentedabout-&gt;comentó sobre</li>
+    <li>commentedabout-&gt;contó un chiste sobre</li>
+  </VSIE_Teaching_Melee.rulePack.rulesStrings>
+  <VSIE_Teaching_Mining.rulePack.rulesStrings>
+    <li>r_logentry-&gt;[INITIATOR_nameDef] y [RECIPIENT_nameDef] [talkedaboutPlural] [MiningTopic].</li>
+    <li>r_logentry-&gt;[INITIATOR_nameDef] [talkedaboutSingular] [MiningTopic] con [RECIPIENT_nameDef].</li>
+    <li>r_logentry(p=0.8)-&gt;[INITIATOR_nameDef] [commentedabout] [MiningTopic] a [RECIPIENT_nameDef].</li>
+    <li>talkedaboutPlural(p=4)-&gt;charlaron sobre</li>
+    <li>talkedaboutPlural-&gt;compartieron unas palabras sobre</li>
+    <li>talkedaboutPlural-&gt;hablaron sobre</li>
+    <li>talkedaboutPlural-&gt;parlotearon sobre</li>
+    <li>talkedaboutPlural-&gt;conversaron sobre</li>
+    <li>talkedaboutPlural-&gt;bromearon sobre</li>
+    <li>talkedaboutPlural-&gt;hicieron chistes sobre</li>
+    <li>talkedaboutSingular(p=4)-&gt;charló sobre</li>
+    <li>talkedaboutSingular-&gt;compartió unas palabras sobre</li>
+    <li>talkedaboutSingular-&gt;habló sobre</li>
+    <li>talkedaboutSingular-&gt;parloteó sobre</li>
+    <li>talkedaboutSingular-&gt;conversó sobre</li>
+    <li>talkedaboutSingular-&gt;bromeó sobre</li>
+    <li>talkedaboutSingular-&gt;hizo chistes sobre</li>
+    <li>commentedabout-&gt;dijo algo sobre</li>
+    <li>commentedabout-&gt;dijo una palabra sobre</li>
+    <li>commentedabout-&gt;hizo un comentario sobre</li>
+    <li>commentedabout-&gt;comentó sobre</li>
+    <li>commentedabout-&gt;contó un chiste sobre</li>
+  </VSIE_Teaching_Mining.rulePack.rulesStrings>
+  <VSIE_Teaching_Plants.rulePack.rulesStrings>
+    <li>r_logentry-&gt;[INITIATOR_nameDef] y [RECIPIENT_nameDef] [talkedaboutPlural] [GrowingTopic].</li>
+    <li>r_logentry-&gt;[INITIATOR_nameDef] [talkedaboutSingular] [GrowingTopic] con [RECIPIENT_nameDef].</li>
+    <li>r_logentry(p=0.8)-&gt;[INITIATOR_nameDef] [commentedabout] [GrowingTopic] a [RECIPIENT_nameDef].</li>
+    <li>talkedaboutPlural(p=4)-&gt;charlaron sobre</li>
+    <li>talkedaboutPlural-&gt;compartieron unas palabras sobre</li>
+    <li>talkedaboutPlural-&gt;hablaron sobre</li>
+    <li>talkedaboutPlural-&gt;parlotearon sobre</li>
+    <li>talkedaboutPlural-&gt;conversaron sobre</li>
+    <li>talkedaboutPlural-&gt;bromearon sobre</li>
+    <li>talkedaboutPlural-&gt;hicieron chistes sobre</li>
+    <li>talkedaboutSingular(p=4)-&gt;charló sobre</li>
+    <li>talkedaboutSingular-&gt;compartió unas palabras sobre</li>
+    <li>talkedaboutSingular-&gt;habló sobre</li>
+    <li>talkedaboutSingular-&gt;parloteó sobre</li>
+    <li>talkedaboutSingular-&gt;conversó sobre</li>
+    <li>talkedaboutSingular-&gt;bromeó sobre</li>
+    <li>talkedaboutSingular-&gt;hizo chistes sobre</li>
+    <li>commentedabout-&gt;dijo algo sobre</li>
+    <li>commentedabout-&gt;dijo una palabra sobre</li>
+    <li>commentedabout-&gt;hizo un comentario sobre</li>
+    <li>commentedabout-&gt;comentó sobre</li>
+    <li>commentedabout-&gt;contó un chiste sobre</li>
+  </VSIE_Teaching_Plants.rulePack.rulesStrings>
+  <VSIE_Teaching_Shooting.rulePack.rulesStrings>
+    <li>r_logentry-&gt;[INITIATOR_nameDef] y [RECIPIENT_nameDef] [talkedaboutPlural] [ShootingTopic].</li>
+    <li>r_logentry-&gt;[INITIATOR_nameDef] [talkedaboutSingular] [ShootingTopic] con [RECIPIENT_nameDef].</li>
+    <li>r_logentry(p=0.8)-&gt;[INITIATOR_nameDef] [commentedabout] [ShootingTopic] a [RECIPIENT_nameDef].</li>
+    <li>talkedaboutPlural(p=4)-&gt;charlaron sobre</li>
+    <li>talkedaboutPlural-&gt;compartieron unas palabras sobre</li>
+    <li>talkedaboutPlural-&gt;hablaron sobre</li>
+    <li>talkedaboutPlural-&gt;parlotearon sobre</li>
+    <li>talkedaboutPlural-&gt;conversaron sobre</li>
+    <li>talkedaboutPlural-&gt;bromearon sobre</li>
+    <li>talkedaboutPlural-&gt;hicieron chistes sobre</li>
+    <li>talkedaboutSingular(p=4)-&gt;charló sobre</li>
+    <li>talkedaboutSingular-&gt;compartió unas palabras sobre</li>
+    <li>talkedaboutSingular-&gt;habló sobre</li>
+    <li>talkedaboutSingular-&gt;parloteó sobre</li>
+    <li>talkedaboutSingular-&gt;conversó sobre</li>
+    <li>talkedaboutSingular-&gt;bromeó sobre</li>
+    <li>talkedaboutSingular-&gt;hizo chistes sobre</li>
+    <li>commentedabout-&gt;dijo algo sobre</li>
+    <li>commentedabout-&gt;dijo una palabra sobre</li>
+    <li>commentedabout-&gt;hizo un comentario sobre</li>
+    <li>commentedabout-&gt;comentó sobre</li>
+    <li>commentedabout-&gt;contó un chiste sobre</li>
+  </VSIE_Teaching_Shooting.rulePack.rulesStrings>
+  <VSIE_Teaching_Social.rulePack.rulesStrings>
+    <li>r_logentry-&gt;[INITIATOR_nameDef] y [RECIPIENT_nameDef] [talkedaboutPlural] [SocialTopic].</li>
+    <li>r_logentry-&gt;[INITIATOR_nameDef] [talkedaboutSingular] [SocialTopic] con [RECIPIENT_nameDef].</li>
+    <li>r_logentry(p=0.8)-&gt;[INITIATOR_nameDef] [commentedabout] [SocialTopic] a [RECIPIENT_nameDef].</li>
+    <li>talkedaboutPlural(p=4)-&gt;charlaron sobre</li>
+    <li>talkedaboutPlural-&gt;compartieron unas palabras sobre</li>
+    <li>talkedaboutPlural-&gt;hablaron sobre</li>
+    <li>talkedaboutPlural-&gt;parlotearon sobre</li>
+    <li>talkedaboutPlural-&gt;conversaron sobre</li>
+    <li>talkedaboutPlural-&gt;bromearon sobre</li>
+    <li>talkedaboutPlural-&gt;hicieron chistes sobre</li>
+    <li>talkedaboutSingular(p=4)-&gt;charló sobre</li>
+    <li>talkedaboutSingular-&gt;compartió unas palabras sobre</li>
+    <li>talkedaboutSingular-&gt;habló sobre</li>
+    <li>talkedaboutSingular-&gt;parloteó sobre</li>
+    <li>talkedaboutSingular-&gt;conversó sobre</li>
+    <li>talkedaboutSingular-&gt;bromeó sobre</li>
+    <li>talkedaboutSingular-&gt;hizo chistes sobre</li>
+    <li>commentedabout-&gt;dijo algo sobre</li>
+    <li>commentedabout-&gt;dijo una palabra sobre</li>
+    <li>commentedabout-&gt;hizo un comentario sobre</li>
+    <li>commentedabout-&gt;comentó sobre</li>
+    <li>commentedabout-&gt;contó un chiste sobre</li>
+  </VSIE_Teaching_Social.rulePack.rulesStrings>
+</LanguageData>

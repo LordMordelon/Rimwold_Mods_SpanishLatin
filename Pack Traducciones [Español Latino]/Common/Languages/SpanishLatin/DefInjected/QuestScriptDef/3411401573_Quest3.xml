@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <VQE_AncientARC.questContentRules.rulesStrings>
+    <li>terminalStudiedMessage-&gt;Terminal estudiada. Has recopilado la información y ahora puedes marcharte.</li>
+  </VQE_AncientARC.questContentRules.rulesStrings>
+  <VQE_AncientARC.questDescriptionRules.rulesStrings>
+    <li>questDescription-&gt;Has [discoveryDesc] de una aldea [adj] donde se ha construido el que podría ser el prototipo final del [arcName] de [inventor_nameFull]. Los aldeanos [villagerBehavior], y el sitio [villageCondition].\n\n[arcDetails] Sin embargo, [villagerWarnings]. Si [trigger], los aldeanos [villagerReaction].\n\n[finalWarning]</li>
+    <li>discoveryDesc-&gt;tenido noticias</li>
+    <li>discoveryDesc-&gt;descubierto</li>
+    <li>discoveryDesc-&gt;encontrado la ubicación</li>
+    <li>adj-&gt;olvidada</li>
+    <li>adj-&gt;antigua</li>
+    <li>adj-&gt;oculta</li>
+    <li>adj-&gt;misteriosa</li>
+    <li>adj-&gt;deteriorada</li>
+    <li>adj-&gt;en ruinas</li>
+    <li>arcName-&gt;ARC</li>
+    <li>arcName-&gt;reliquia</li>
+    <li>arcName-&gt;artefacto</li>
+    <li>arcName-&gt;dispositivo</li>
+    <li>arcName-&gt;núcleo</li>
+    <li>villagerBehavior-&gt;veneran el [arcName]</li>
+    <li>villagerBehavior-&gt;adoran el [arcName]</li>
+    <li>villagerBehavior-&gt;protegen el [arcName]</li>
+    <li>villagerBehavior-&gt;reverencian el [arcName]</li>
+    <li>villagerBehavior-&gt;custodian el [arcName]</li>
+    <li>villageCondition-&gt;muestra signos de grandeza tecnológica pasada</li>
+    <li>villageCondition-&gt;está cubierto de vegetación y desmoronándose</li>
+    <li>villageCondition-&gt;ha decaído en una simplicidad primitiva</li>
+    <li>villageCondition-&gt;ha caído hace mucho tiempo de su apogeo</li>
+    <li>villageCondition-&gt;lleva las cicatrices del tiempo y el descuido</li>
+    <li>arcDetails-&gt;Se dice que el [arcName] contiene valiosos secretos para tu colonia.</li>
+    <li>arcDetails-&gt;Estudiar el [arcName] podría desbloquear conocimientos vitales.</li>
+    <li>arcDetails-&gt;Este antiguo [arcName] puede revelar los medios para construir uno tú mismo.</li>
+    <li>villagerWarnings-&gt;ten cuidado de no provocar a los aldeanos</li>
+    <li>villagerWarnings-&gt;los aldeanos no verán con buenos ojos a los intrusos</li>
+    <li>villagerWarnings-&gt;violar su santidad puede resultar en hostilidad</li>
+    <li>villagerWarnings-&gt;su paciencia puede ser escasa con los forasteros</li>
+    <li>trigger-&gt;dañas a alguien, interactúas con el [arcName] o te quedas más tiempo del debido</li>
+    <li>villagerReaction-&gt;se volverán hostiles y pedirán refuerzos</li>
+    <li>villagerReaction-&gt;atacarán con todas sus fuerzas</li>
+    <li>villagerReaction-&gt;defenderán su hogar a toda costa</li>
+    <li>villagerReaction-&gt;arremeterán en una violenta represalia</li>
+    <li>finalWarning-&gt;Si estallan las hostilidades, los refuerzos pueden llegar rápidamente.</li>
+    <li>finalWarning-&gt;Si surge un conflicto, espera una fuerte resistencia.</li>
+    <li>finalWarning-&gt;No actuar con rapidez podría significar el desastre.</li>
+    <li>finalWarning-&gt;Prepárate para una respuesta abrumadora si se les provoca.</li>
+  </VQE_AncientARC.questDescriptionRules.rulesStrings>
+  <VQE_AncientARC.questNameRules.rulesStrings>
+    <li>questName-&gt;El [arcName] [adj]</li>
+    <li>adj-&gt;olvidado</li>
+    <li>adj-&gt;antiguo</li>
+    <li>adj-&gt;misterioso</li>
+    <li>adj-&gt;sagrado</li>
+    <li>adj-&gt;oculto</li>
+    <li>adj-&gt;desamparado</li>
+    <li>adj-&gt;tribal</li>
+    <li>adj-&gt;perdido</li>
+    <li>adj-&gt;cubierto de vegetación</li>
+    <li>arcName(p=4)-&gt;ARC</li>
+    <li>arcName-&gt;estructura</li>
+    <li>arcName-&gt;máquina</li>
+    <li>arcName-&gt;reliquia</li>
+    <li>arcName-&gt;generador</li>
+    <li>arcName-&gt;núcleo</li>
+    <li>arcName-&gt;artefacto</li>
+    <li>arcName-&gt;dispositivo</li>
+    <li>arcName-&gt;fuente</li>
+  </VQE_AncientARC.questNameRules.rulesStrings>
+</LanguageData>

@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <VGE_NamerRoleEngineering.rulePack.rulesStrings>
+    <li>r_roleName(p=4)-&gt;[firstPart][secondPart]</li>
+    <li>r_roleName(p=1)-&gt;ingeniero jefe</li>
+    <li>r_roleName(p=1)-&gt;mecánico de sistemas</li>
+    <li>r_roleName(p=1)-&gt;técnico de gravinave</li>
+    <li>firstPart-&gt;tecno</li>
+    <li>firstPart-&gt;engrane</li>
+    <li>firstPart-&gt;gravi</li>
+    <li>firstPart-&gt;estruc</li>
+    <li>firstPart-&gt;meca</li>
+    <li>firstPart-&gt;servo</li>
+    <li>firstPart-&gt;chispa</li>
+    <li>firstPart-&gt;circuito</li>
+    <li>firstPart-&gt;forja</li>
+    <li>firstPart-&gt;motor</li>
+    <li>secondPart(p=4)-&gt;artífice</li>
+    <li>secondPart(p=3)-&gt;forjador</li>
+    <li>secondPart(p=3)-&gt;mano</li>
+    <li>secondPart(p=2)-&gt;reparador</li>
+    <li>secondPart(p=2)-&gt;remendón</li>
+    <li>secondPart(p=2)-&gt;constructor</li>
+    <li>secondPart(p=1)-&gt;maestro</li>
+    <li>secondPart(p=1)-&gt;guardián</li>
+  </VGE_NamerRoleEngineering.rulePack.rulesStrings>
+  <VGE_NamerRoleNavigator.rulePack.rulesStrings>
+    <li>r_roleName(p=4)-&gt;[firstPart][secondPart]</li>
+    <li>r_roleName(p=1)-&gt;navegante</li>
+    <li>r_roleName(p=1)-&gt;guía estelar</li>
+    <li>r_roleName(p=1)-&gt;vidente estelar</li>
+    <li>firstPart-&gt;astro</li>
+    <li>firstPart-&gt;estrella</li>
+    <li>firstPart-&gt;vacío</li>
+    <li>firstPart-&gt;gravi</li>
+    <li>firstPart-&gt;cosmo</li>
+    <li>firstPart-&gt;celes</li>
+    <li>firstPart-&gt;órbita</li>
+    <li>firstPart-&gt;cielo</li>
+    <li>firstPart-&gt;timón</li>
+    <li>secondPart(p=3)-&gt;lector</li>
+    <li>secondPart(p=3)-&gt;vidente</li>
+    <li>secondPart(p=3)-&gt;buscador</li>
+    <li>secondPart(p=2)-&gt;caminante</li>
+    <li>secondPart(p=2)-&gt;piloto</li>
+    <li>secondPart(p=2)-&gt;cartógrafo</li>
+    <li>secondPart(p=1)-&gt;navegante</li>
+    <li>secondPart(p=1)-&gt;observador</li>
+  </VGE_NamerRoleNavigator.rulePack.rulesStrings>
+  <VGE_NamerRolePiloting.rulePack.rulesStrings>
+    <li>r_roleName(p=4)-&gt;[firstPart][secondPart]</li>
+    <li>r_roleName(p=1)-&gt;piloto</li>
+    <li>r_roleName(p=1)-&gt;oficial de vuelo</li>
+    <li>r_roleName(p=1)-&gt;timonel</li>
+    <li>firstPart-&gt;vuelo</li>
+    <li>firstPart-&gt;cielo</li>
+    <li>firstPart-&gt;gravi</li>
+    <li>firstPart-&gt;orbe</li>
+    <li>firstPart-&gt;astro</li>
+    <li>firstPart-&gt;nave</li>
+    <li>firstPart-&gt;propulsor</li>
+    <li>firstPart-&gt;rumbo</li>
+    <li>firstPart-&gt;timón</li>
+    <li>firstPart-&gt;ala</li>
+    <li>secondPart(p=4)-&gt;maestro</li>
+    <li>secondPart(p=3)-&gt;jinete</li>
+    <li>secondPart(p=3)-&gt;piloto</li>
+    <li>secondPart(p=2)-&gt;conductor</li>
+    <li>secondPart(p=2)-&gt;corredor</li>
+    <li>secondPart(p=2)-&gt;capitán</li>
+    <li>secondPart(p=1)-&gt;guardián</li>
+  </VGE_NamerRolePiloting.rulePack.rulesStrings>
+</LanguageData>

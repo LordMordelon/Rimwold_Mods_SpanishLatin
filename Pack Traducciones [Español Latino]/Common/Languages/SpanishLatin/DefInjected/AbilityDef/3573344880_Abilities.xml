@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <USH_Disarm.description>Hackea el arma seleccionada para que quede temporalmente desactivada y sea soltada por el portador.</USH_Disarm.description>
+  <USH_Disarm.jobReportString>Usando habilidad: {0}</USH_Disarm.jobReportString>
+  <USH_Disarm.label>desarmar</USH_Disarm.label>
+  <USH_Disarm.verbProperties.label>desarmar</USH_Disarm.verbProperties.label>
+  <USH_Discharge.description>Fuerza al dispositivo seleccionado a descargar su suministro de energía interno, lo que resulta en una explosión de PEM.</USH_Discharge.description>
+  <USH_Discharge.jobReportString>Usando habilidad: {0}</USH_Discharge.jobReportString>
+  <USH_Discharge.label>descarga</USH_Discharge.label>
+  <USH_Discharge.verbProperties.label>descarga</USH_Discharge.verbProperties.label>
+  <USH_ForkBomb.description>Sobrecarga el software seleccionado con comandos simples que se multiplican recursivamente, consumiendo la mayor parte de su potencia de procesamiento.</USH_ForkBomb.description>
+  <USH_ForkBomb.jobReportString>Usando habilidad: {0}</USH_ForkBomb.jobReportString>
+  <USH_ForkBomb.label>bomba fork</USH_ForkBomb.label>
+  <USH_ForkBomb.verbProperties.label>bomba fork</USH_ForkBomb.verbProperties.label>
+  <USH_HijackSubcore.description>Reprograma el subnúcleo del mecanoide seleccionado para que reconozca al hacker como un aliado. El enfoque mental intenso y prolongado necesario para lanzar este exec daña físicamente el tejido que rodea el puerto neural, causando una necrosis que puede curarse más tarde.</USH_HijackSubcore.description>
+  <USH_HijackSubcore.jobReportString>Usando habilidad: {0}</USH_HijackSubcore.jobReportString>
+  <USH_HijackSubcore.label>secuestrar subnúcleo</USH_HijackSubcore.label>
+  <USH_HijackSubcore.verbProperties.label>secuestrar subnúcleo</USH_HijackSubcore.verbProperties.label>
+  <USH_ShortCircuit.description>Provoca un cortocircuito en los componentes internos del dispositivo, lo que resulta en una pequeña explosión incendiaria.</USH_ShortCircuit.description>
+  <USH_ShortCircuit.jobReportString>Usando habilidad: {0}</USH_ShortCircuit.jobReportString>
+  <USH_ShortCircuit.label>cortocircuito</USH_ShortCircuit.label>
+  <USH_ShortCircuit.verbProperties.label>cortocircuito</USH_ShortCircuit.verbProperties.label>
+  <USH_VirtualDataRipper.description>Esta habilidad está obsoleta. Utiliza el artilugio de extracción de datos en su lugar.</USH_VirtualDataRipper.description>
+  <USH_VirtualDataRipper.jobReportString>Usando habilidad: {0}</USH_VirtualDataRipper.jobReportString>
+  <USH_VirtualDataRipper.label>extractor de datos virtual</USH_VirtualDataRipper.label>
+  <USH_VirtualDataRipper.verbProperties.label>extractor de datos virtual</USH_VirtualDataRipper.verbProperties.label>
+  <USH_VirtualICEBreaker.description>Instala un rompehielos de ICE negro virtual en el dispositivo seleccionado, desactivando sus medidas de seguridad letales.</USH_VirtualICEBreaker.description>
+  <USH_VirtualICEBreaker.jobReportString>Usando habilidad: {0}</USH_VirtualICEBreaker.jobReportString>
+  <USH_VirtualICEBreaker.label>rompehielos de ICE negro virtual</USH_VirtualICEBreaker.label>
+  <USH_VirtualICEBreaker.verbProperties.label>rompehielos de ICE negro virtual</USH_VirtualICEBreaker.verbProperties.label>
+  <USH_Zapcode.description>Penetra las primeras capas de los sistemas de seguridad. Hackea automáticamente el 35% del dispositivo, pero solo si tiene menos del 25% de progreso de hackeo.</USH_Zapcode.description>
+  <USH_Zapcode.jobReportString>Usando habilidad: {0}</USH_Zapcode.jobReportString>
+  <USH_Zapcode.label>zapcode</USH_Zapcode.label>
+  <USH_Zapcode.verbProperties.label>zapcode</USH_Zapcode.verbProperties.label>
+</LanguageData>

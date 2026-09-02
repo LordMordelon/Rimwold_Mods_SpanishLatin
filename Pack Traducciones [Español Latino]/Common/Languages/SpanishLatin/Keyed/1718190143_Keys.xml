@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <VFE.CannotPlaceOnWall>No se puede colocar dentro de una pared.</VFE.CannotPlaceOnWall>
+  <VFE.ComputerNeedChairs>La computadora necesita una silla</VFE.ComputerNeedChairs>
+  <VFE.ComputerNeedChairsDesc>Una de tus computadoras no tiene ninguna silla adyacente.\n\nConstruye una silla o taburete adyacente para permitir que tus colonos usen la computadora.</VFE.ComputerNeedChairsDesc>
+  <VFE.FilthStored>Cantidad de suciedad almacenada: {0}\nContenedor lleno: {1}</VFE.FilthStored>
+  <VFE.FilthStoredBeauty>Contenedor lleno ({1}): {0}</VFE.FilthStoredBeauty>
+  <VFE.RouletteTableOnWall>La ruleta necesita espacio</VFE.RouletteTableOnWall>
+  <VFE.RouletteTableOnWallDesc>Una de tus mesas de ruleta está adyacente a una obstrucción que evitará que los colonos la usen.\n\nUna mesa de ruleta necesita espacio libre a su alrededor en todos los lados para ser utilizable.</VFE.RouletteTableOnWallDesc>
+  <VFE.SetTargetCleanup>Umbral de limpieza del contenedor: {0}</VFE.SetTargetCleanup>
+  <VFE.SunbathingNotPossible>No es posible tomar el sol:</VFE.SunbathingNotPossible>
+  <VFE.SunbathingNotPossible.BadWeather>mal tiempo</VFE.SunbathingNotPossible.BadWeather>
+  <VFE.SunbathingNotPossible.NotSunny>no hay suficiente sol</VFE.SunbathingNotPossible.NotSunny>
+  <VFE.SunbathingNotPossible.PawnComfortableTemperature>temperatura no cómoda para {PAWN_labelShort}</VFE.SunbathingNotPossible.PawnComfortableTemperature>
+  <VFE.SunbathingNotPossible.PawnOutdoors>{PAWN_labelShort} no disfruta del aire libre</VFE.SunbathingNotPossible.PawnOutdoors>
+  <VFE.SunbathingNotPossible.UnderRoof>bajo un techo</VFE.SunbathingNotPossible.UnderRoof>
+  <VFE.SunbathingPossibleForPawn>Tomar el sol posible para {PAWNLIST}</VFE.SunbathingPossibleForPawn>
+  <VFE.SunbathingPossibleGeneric>Es posible tomar el sol, asumiendo que la temperatura es cómoda y los colonos disfrutan de actividades al aire libre</VFE.SunbathingPossibleGeneric>
+</LanguageData>

@@ -4,7 +4,7 @@ Un conjunto de traducciones de mods que uso adaptados principalmente al español
 
 Si encuentras errores o tienes sugerencias, no dudes en mencionarlo.
 
-**Última compilación:** 2026-09-02 16:01:52  
+**Última compilación:** 2026-09-02 22:09:13  
 **Total de mods traducidos:** 246
 
 ## Lista de mods traducidos
@@ -42,6 +42,7 @@ Si encuentras errores o tienes sugerencias, no dudes en mencionarlo.
 - Animals Logic
 - Anomaly for Gravship
 - Anthrosonae
+- Apex Mechanoids
 - Appliances Expanded
 - Aquatic Repopulation
 - Asteroid_Grounds
@@ -88,7 +89,6 @@ Si encuentras errores o tienes sugerencias, no dudes en mencionarlo.
 - Hull Style NANAME Walls
 - Hussar Weapon Aptitude Remake
 - Hyper Roll
-- Ideology Development+
 - Impact Weaponry - Reloaded
 - Integrated Implants
 - Lactation Expansion

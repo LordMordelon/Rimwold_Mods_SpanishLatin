@@ -1,0 +1,113 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <VQE_Deadlife_AncientSilo.questDescriptionRules.rulesStrings>
+    <li>questDescription(asker_factionLeader==True)-&gt;[asker_nameDef], [asker_faction_leaderTitle] de [asker_faction_name], nos ha informado de la ubicación de una entrada sellada a uno de los [ancientSilos] dejados durante la Operación: Necrovita, una iniciativa a escala planetaria lanzada por un [longDeadGovernment] en preparación para una catástrofe global.\n\nEstos silos fueron diseñados para permanecer sellados durante generaciones, [intention]. En su interior, se cree que contienen [containedReward]. Se rumorea que las cámaras más profundas albergan equipos y suministros capaces de reiniciar la propia civilización.\n\n[threat]. [importantLight]. Sin la luz, navegarás a ciegas y serás vulnerable a los ataques.\n\n[commandMap]. Estudiar estos podría revelar las ubicaciones de otros silos y, lo que es más importante, acercarnos a descubrir el Cuartel General de Mando, el centro neurálgico de la Operación: Necrovita, donde la verdad detrás de este plan apocalíptico aún puede yacer enterrada.\n\n[questObjective].</li>
+    <li>questDescription(askerIsNull==True)-&gt;Los antiguos mapas de batalla nos han revelado la ubicación de una entrada sellada a uno de los [ancientSilos] dejados durante la Operación: Necrovita, una iniciativa a escala planetaria lanzada por un [longDeadGovernment] en preparación para una catástrofe global.\n\nEstos silos fueron diseñados para permanecer sellados durante generaciones, [intention]. En su interior, se cree que contienen [containedReward]. Se rumorea que las cámaras más profundas albergan equipos y suministros capaces de reiniciar la propia civilización.\n\n[threat]. [importantLight]. Sin la luz, navegarás a ciegas y serás vulnerable a los ataques.\n\n[commandMap]. Estudiar estos podría revelar las ubicaciones de otros silos y, lo que es más importante, acercarnos a descubrir el Cuartel General de Mando, el centro neurálgico de la Operación: Necrovita, donde la verdad detrás de este plan apocalíptico aún puede yacer enterrada.\n\n[questObjective].</li>
+    <li>ancientSilos-&gt;silos militares antiguos</li>
+    <li>ancientSilos-&gt;búnkeres sellados de la era de la guerra</li>
+    <li>ancientSilos-&gt;silos militares abandonados</li>
+    <li>ancientSilos-&gt;bóvedas de recursos anteriores al colapso</li>
+    <li>ancientSilos-&gt;complejos subterráneos olvidados</li>
+    <li>ancientSilos-&gt;sitios logísticos de almacenamiento profundo</li>
+    <li>ancientSilos-&gt;instalaciones de almacenamiento militar en decadencia</li>
+    <li>ancientSilos-&gt;sitios de infraestructura blindada</li>
+    <li>ancientSilos-&gt;silos de suministros de necrovita</li>
+    <li>longDeadGovernment-&gt;gobierno muerto hace mucho tiempo</li>
+    <li>longDeadGovernment-&gt;antigua alianza planetaria</li>
+    <li>longDeadGovernment-&gt;régimen tecnocrático colapsado</li>
+    <li>longDeadGovernment-&gt;gobierno militarizado extinto</li>
+    <li>longDeadGovernment-&gt;consejo de emergencia olvidado</li>
+    <li>longDeadGovernment-&gt;autoridad estatal de crisis desaparecida</li>
+    <li>longDeadGovernment-&gt;red de defensa desaparecida hace mucho tiempo</li>
+    <li>longDeadGovernment-&gt;comando de defensa civil caído</li>
+    <li>intention-&gt;destinado a abrirse solo cuando la humanidad se enfrentara al colapso</li>
+    <li>intention-&gt;construido para resistir siglos y reabrirse en la hora más oscura de la humanidad</li>
+    <li>intention-&gt;diseñado como nodos de suministro de seguridad para reconstruir la civilización</li>
+    <li>intention-&gt;destinado a activarse solo durante un evento de extinción planetaria</li>
+    <li>intention-&gt;configurado para desbloquearse una vez que se confirmaran los protocolos de colapso</li>
+    <li>intention-&gt;destinado a servir como alijos de último recurso para las facciones supervivientes</li>
+    <li>containedReward-&gt;vastas reservas de recursos: acero, plastiacero, medicinas, armamento e incluso reliquias culturales preservadas</li>
+    <li>containedReward-&gt;una gran cantidad de recursos: raciones endurecidas, componentes, suministros médicos y municiones</li>
+    <li>containedReward-&gt;materiales de supervivencia críticos: materiales de construcción, medicinas, armas y esquemas</li>
+    <li>containedReward-&gt;herramientas para reconstruir: combustible, herramientas, semillas, armas y planos encriptados</li>
+    <li>containedReward-&gt;equipo suficiente para mantener o reiniciar una nueva colonia</li>
+    <li>containedReward-&gt;un tesoro de equipo esencial, preservado a través del tiempo</li>
+    <li>threat-&gt;Sin embargo, los silos no están vacíos. Los pasillos interiores están completamente a oscuras, y se dice que algo hostil acecha en las sombras</li>
+    <li>threat-&gt;Pero el tiempo no los ha dejado intactos. El interior está en tinieblas, y algo se agita en las sombras</li>
+    <li>threat-&gt;Los exploradores informan de movimiento en el interior: ruidos tenues, pasos pesados, formas en la oscuridad</li>
+    <li>threat-&gt;Los supervivientes hablan de entidades hostiles que acechan en los pasillos, invisibles hasta que es demasiado tarde</li>
+    <li>threat-&gt;Lo que sea que quede dentro no está inactivo, algo vigila estos pasillos olvidados</li>
+    <li>threat-&gt;Los pasillos están en silencio, pero no vacíos. Algo espera dentro, envuelto en sombras</li>
+    <li>importantLight-&gt;Activar los sistemas de energía e iluminación en el interior es fundamental</li>
+    <li>importantLight-&gt;Restaurar la energía y activar las luces será vital para la supervivencia</li>
+    <li>importantLight-&gt;Sin iluminación, cualquier movimiento dentro del silo es un suicidio</li>
+    <li>importantLight-&gt;Los sistemas de luz deben activarse primero, o estarás indefenso en la oscuridad</li>
+    <li>importantLight-&gt;La vista es tu única defensa. Encuentra una manera de encender las luces rápidamente</li>
+    <li>importantLight-&gt;A menos que actives las luces, el silo será una trampa mortal</li>
+    <li>commandMap-&gt;También se sabe que cada silo contiene al menos un antiguo escritorio de mando o mesa de mapas utilizada para coordinar movimientos militares</li>
+    <li>commandMap-&gt;La mayoría de los silos albergan antiguos escritorios o mapas de batalla que alguna vez fueron utilizados por comandantes de campo</li>
+    <li>commandMap-&gt;Las mesas tácticas dispersas en el interior pueden contener mapas encriptados de otras instalaciones</li>
+    <li>commandMap-&gt;Enterrados entre los suministros hay escritorios de mando llenos de datos estratégicos</li>
+    <li>commandMap-&gt;Decodificar los mapas en el lugar podría revelar nuevas ubicaciones vinculadas a la Operación: Necrovita</li>
+    <li>commandMap-&gt;Terminales y mesas de guerra intactas podrían llevarnos al mando central</li>
+    <li>questObjective-&gt;La misión se completará una vez que saquées al menos una cuarta parte de los recursos del silo</li>
+    <li>questObjective-&gt;Saquea al menos el 25% del total de recursos almacenados en el silo para completar la misión</li>
+    <li>questObjective-&gt;La misión termina una vez que se haya asegurado una parte significativa de los bienes almacenados</li>
+    <li>questObjective-&gt;Extraer con éxito una cuarta parte del contenido del silo cumplirá el objetivo</li>
+    <li>questObjective-&gt;Necesitarás reclamar al menos una cuarta parte de los suministros del silo para marcar esta operación como completada</li>
+    <li>questObjective-&gt;Una vez que se hayan asegurado y transportado suficientes materiales, la misión se marcará como completada</li>
+  </VQE_Deadlife_AncientSilo.questDescriptionRules.rulesStrings>
+  <VQE_Deadlife_AncientSilo.questNameRules.rulesStrings>
+    <li>questName-&gt;[ancient] [silo] [letter][digit][digit]</li>
+    <li>questName-&gt;[ancient] Designación: [siloPrefix]-[letter][digit]</li>
+    <li>ancient-&gt;Antiguo</li>
+    <li>ancient-&gt;Olvidado</li>
+    <li>ancient-&gt;Viejo Mundo</li>
+    <li>ancient-&gt;Precursor</li>
+    <li>ancient-&gt;Legado</li>
+    <li>ancient-&gt;Obsoleto</li>
+    <li>ancient-&gt;Clasificado</li>
+    <li>ancient-&gt;Desmantelado</li>
+    <li>silo-&gt;Silo</li>
+    <li>silo-&gt;Bóveda</li>
+    <li>silo-&gt;Depósito</li>
+    <li>silo-&gt;Búnker</li>
+    <li>silo-&gt;Complejo</li>
+    <li>silo-&gt;Instalación</li>
+    <li>silo-&gt;Sector</li>
+    <li>silo-&gt;Unidad de Almacenamiento</li>
+    <li>letter-&gt;Alfa</li>
+    <li>letter-&gt;Eco</li>
+    <li>letter-&gt;Sigma</li>
+    <li>letter-&gt;Kilo</li>
+    <li>letter-&gt;Delta</li>
+    <li>letter-&gt;Theta</li>
+    <li>letter-&gt;Gamma</li>
+    <li>letter-&gt;Zeta</li>
+    <li>digit-&gt;1</li>
+    <li>digit-&gt;2</li>
+    <li>digit-&gt;3</li>
+    <li>digit-&gt;4</li>
+    <li>digit-&gt;5</li>
+    <li>digit-&gt;6</li>
+    <li>digit-&gt;7</li>
+    <li>digit-&gt;8</li>
+    <li>digit-&gt;9</li>
+    <li>digit-&gt;0</li>
+    <li>letter-&gt;A</li>
+    <li>letter-&gt;B</li>
+    <li>letter-&gt;D</li>
+    <li>letter-&gt;E</li>
+    <li>letter-&gt;K</li>
+    <li>letter-&gt;Z</li>
+    <li>letter-&gt;X</li>
+    <li>letter-&gt;R</li>
+    <li>siloPrefix-&gt;SILO</li>
+    <li>siloPrefix-&gt;NODO</li>
+    <li>siloPrefix-&gt;BÓVEDA</li>
+    <li>siloPrefix-&gt;UNIDAD</li>
+    <li>siloPrefix-&gt;SITIO</li>
+    <li>siloPrefix-&gt;BKR</li>
+    <li>siloPrefix-&gt;ARC</li>
+  </VQE_Deadlife_AncientSilo.questNameRules.rulesStrings>
+</LanguageData>

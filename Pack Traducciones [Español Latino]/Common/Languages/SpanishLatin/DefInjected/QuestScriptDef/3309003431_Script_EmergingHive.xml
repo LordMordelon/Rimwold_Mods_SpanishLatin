@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <VFEI2_OpportunitySite_InsectoidHive.questDescriptionRules.rulesStrings>
+    <li>questDescription-&gt;[asker_nameFull], [asker_faction_leaderTitle] de [asker_faction_name], nos ha enviado un mensaje. Una nueva colmena insectoide ha emergido en un área cercana. Si no se destruye, pronto formará una nueva colonia, propagando la infestación en la región. La colmena está controlada por [siteFaction_name].\n\n[asker_nameDef] nos pide que destruyamos la colmena, lo que significa eliminar todos los insectoides y nidos. [asker_label] dice que [sitePart0_description].</li>
+  </VFEI2_OpportunitySite_InsectoidHive.questDescriptionRules.rulesStrings>
+  <VFEI2_OpportunitySite_InsectoidHive.questNameRules.rulesStrings>
+    <li>questName-&gt;[hive_fem] [insectoid_fem]</li>
+    <li>questName-&gt;[hive_masc] [insectoid_masc]</li>
+    <li>questName-&gt;[asker_nameDef] y la [hive_fem]</li>
+    <li>questName-&gt;[asker_nameDef] y el [hive_masc]</li>
+    <li>hive_fem-&gt;Colmena</li>
+    <li>hive_fem-&gt;Colonia</li>
+    <li>hive_masc-&gt;Nido</li>
+    <li>hive_masc-&gt;Enjambre</li>
+    <li>insectoid_fem-&gt;Insectoide</li>
+    <li>insectoid_fem-&gt;Rastrera</li>
+    <li>insectoid_fem-&gt;Quitinosa</li>
+    <li>insectoid_fem-&gt;Feral</li>
+    <li>insectoid_fem-&gt;Voraz</li>
+    <li>insectoid_masc-&gt;Insectoide</li>
+    <li>insectoid_masc-&gt;Rastrero</li>
+    <li>insectoid_masc-&gt;Quitinoso</li>
+    <li>insectoid_masc-&gt;Feral</li>
+    <li>insectoid_masc-&gt;Voraz</li>
+  </VFEI2_OpportunitySite_InsectoidHive.questNameRules.rulesStrings>
+  <VFEI2_OpportunitySite_InsectoidHive.root.nodes.WorldObjectTimeout.node.nodes.Letter.label.slateRef>Misión expirada: [resolvedQuestName]</VFEI2_OpportunitySite_InsectoidHive.root.nodes.WorldObjectTimeout.node.nodes.Letter.label.slateRef>
+  <VFEI2_OpportunitySite_InsectoidHive.root.nodes.WorldObjectTimeout.node.nodes.Letter.text.slateRef>La colmena insectoide ha establecido una nueva colonia. La misión [resolvedQuestName] ha expirado.</VFEI2_OpportunitySite_InsectoidHive.root.nodes.WorldObjectTimeout.node.nodes.Letter.text.slateRef>
+  <VFEI2_OpportunitySite_InsectoidHive.root.nodes.siteAllHivesAreDestroyed.node.nodes.GiveRewards.customLetterLabel.slateRef>Pago recibido</VFEI2_OpportunitySite_InsectoidHive.root.nodes.siteAllHivesAreDestroyed.node.nodes.GiveRewards.customLetterLabel.slateRef>
+  <VFEI2_OpportunitySite_InsectoidHive.root.nodes.siteAllHivesAreDestroyed.node.nodes.GiveRewards.customLetterText.slateRef>¡Has destruido la colmena insectoide!\n\nEl pago de [asker_faction_name] ha llegado.</VFEI2_OpportunitySite_InsectoidHive.root.nodes.siteAllHivesAreDestroyed.node.nodes.GiveRewards.customLetterText.slateRef>
+  <VFEI2_OpportunitySite_InsectoidHive.root.nodes.siteAllHivesAreDestroyed.node.nodes.GiveRewards.nodeIfChosenPawnSignalUsed.label.slateRef>[asker_faction_royalFavorLabel]</VFEI2_OpportunitySite_InsectoidHive.root.nodes.siteAllHivesAreDestroyed.node.nodes.GiveRewards.nodeIfChosenPawnSignalUsed.label.slateRef>
+  <VFEI2_OpportunitySite_InsectoidHive.root.nodes.siteAllHivesAreDestroyed.node.nodes.GiveRewards.nodeIfChosenPawnSignalUsed.text.slateRef>Estos colonos participaron en la victoria de la misión [resolvedQuestName]. [asker_definite] quiere saber quién debe recibir [royalFavorReward_amount] [asker_faction_royalFavorLabel] por este servicio.</VFEI2_OpportunitySite_InsectoidHive.root.nodes.siteAllHivesAreDestroyed.node.nodes.GiveRewards.nodeIfChosenPawnSignalUsed.text.slateRef>
+  <VFEI2_Util_GenerateSite.root.singleSitePartRules.slateRef>
+    <li>root-&gt;hay (*Threat)[count] colmenas insectoides(/Threat)</li>
+  </VFEI2_Util_GenerateSite.root.singleSitePartRules.slateRef>
+</LanguageData>

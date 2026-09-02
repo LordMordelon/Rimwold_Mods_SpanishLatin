@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <VFED_DeadDrop.questDescriptionRules.rulesStrings>
+    <li>questDescription-&gt;Hemos recibido un mensaje de nuestro informante desertor de que nuestro pedido está listo para ser recogido no muy lejos de [map_definite]. Los artículos que encontraremos allí son:\n\n[itemStashContents]\n\nDebido al valor de los artículos y al hecho de que [empire_name] inevitablemente los buscará cuando se den cuenta de que han desaparecido, debemos dirigirnos al punto de entrega lo antes posible.\n\nDebemos asegurarnos de tener suficiente capacidad de carga para traer todos los artículos de regreso.</li>
+  </VFED_DeadDrop.questDescriptionRules.rulesStrings>
+  <VFED_DeadDrop.questNameRules.rulesStrings>
+    <li>questName-&gt;Punto de entrega de desertores</li>
+  </VFED_DeadDrop.questNameRules.rulesStrings>
+  <VFED_DeadDrop.root.nodes.HiddenDelay.node.nodes.WorldObjectTimeout.node.nodes.Letter.label.slateRef>Misión expirada: [resolvedQuestName]</VFED_DeadDrop.root.nodes.HiddenDelay.node.nodes.WorldObjectTimeout.node.nodes.Letter.label.slateRef>
+  <VFED_DeadDrop.root.nodes.HiddenDelay.node.nodes.WorldObjectTimeout.node.nodes.Letter.text.slateRef>Las comunicaciones interceptadas indican que el punto de entrega ha sido localizado por [empire_name]. La misión [resolvedQuestName] ha expirado.</VFED_DeadDrop.root.nodes.HiddenDelay.node.nodes.WorldObjectTimeout.node.nodes.Letter.text.slateRef>
+</LanguageData>

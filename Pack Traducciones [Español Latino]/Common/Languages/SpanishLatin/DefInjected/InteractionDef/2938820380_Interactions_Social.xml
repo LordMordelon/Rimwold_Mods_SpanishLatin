@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <VFEE_RoyalGossip.label>chisme real</VFEE_RoyalGossip.label>
+  <VFEE_RoyalGossip.logRulesInitiator.rulesStrings>
+    <li>r_logentry-&gt;[INITIATOR_nameDef] y [RECIPIENT_nameDef] [talkedabout] [THIRDPARTY_nameDef].</li>
+    <li>r_logentry-&gt;[INITIATOR_nameDef] [talkedabout] [THIRDPARTY_nameDef] con [RECIPIENT_nameDef].</li>
+    <li>talkedabout(p=4)-&gt;charlaron sobre</li>
+    <li>talkedabout-&gt;compartieron unas palabras sobre</li>
+    <li>talkedabout-&gt;hablaron sobre</li>
+    <li>talkedabout-&gt;parlotearon sobre</li>
+    <li>talkedabout-&gt;conversaron sobre</li>
+    <li>talkedabout-&gt;bromearon sobre</li>
+    <li>talkedabout-&gt;hicieron chistes sobre</li>
+  </VFEE_RoyalGossip.logRulesInitiator.rulesStrings>
+</LanguageData>

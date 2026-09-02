@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <VPE_EltexMeteor.questDescriptionRules.rulesStrings>
+    <li>questDescription-&gt;Un gran meteorito ha golpeado el suelo cerca. Ha dejado atrás un trozo de eltex. El eltex se puede usar para crear equipo que mejora el psicofoco, o venderse al Imperio para ganar honor.\nPuedes enviar un grupo de minería para recuperarlo, pero es probable que si esperas lo suficiente, alguien más lo reclame.</li>
+  </VPE_EltexMeteor.questDescriptionRules.rulesStrings>
+  <VPE_EltexMeteor.questNameRules.rulesStrings>
+    <li>questName-&gt;Meteoro de Eltex</li>
+  </VPE_EltexMeteor.questNameRules.rulesStrings>
+  <VPE_EltexMeteor.root.nodes.WorldObjectTimeout.node.nodes.Letter.label.slateRef>Misión expirada: [resolvedQuestName]</VPE_EltexMeteor.root.nodes.WorldObjectTimeout.node.nodes.Letter.label.slateRef>
+  <VPE_EltexMeteor.root.nodes.WorldObjectTimeout.node.nodes.Letter.text.slateRef>Otros han minado el meteoro de Eltex. La misión [resolvedQuestName] ha expirado.</VPE_EltexMeteor.root.nodes.WorldObjectTimeout.node.nodes.Letter.text.slateRef>
+</LanguageData>

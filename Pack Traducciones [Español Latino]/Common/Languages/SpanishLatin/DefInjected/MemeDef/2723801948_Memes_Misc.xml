@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <VFEP_PirateMeme.description>Los fuertes deben tomar de los débiles, porque ese es nuestro derecho, pero la camaradería y el código deben elevarse por encima de todo.</VFEP_PirateMeme.description>
+  <VFEP_PirateMeme.descriptionMaker.rules.rulesStrings>
+    <li>creation(tag=meme_Pirate)        -&gt;[deity0_name] nos mostró que los [memberNamePlural] deben permanecer unidos como una tripulación para imponer su voluntad sobre aquellos que son más débiles.</li>
+    <li>episode(uses=1,tag=meme_Pirate)  -&gt;[deity0_name] gritó a todos los [memberNamePlural]: "En un servicio honesto hay raciones escasas, salarios bajos y trabajo duro; en la piratería, abundancia y saciedad, placer y facilidad, libertad y poder. ¡Aprovechadlo!"</li>
+    <li>intro(tag=meme_Pirate)           -&gt;En el [place_summary] [place_name], los [memberNamePlural] habían creado un refugio seguro, donde su botín podía ser contado para la gloria de [deity0_name].</li>
+    <li>conflict(tag=meme_Pirate)           -&gt;Un cobarde [foeLeader] miró esto con desprecio, pues deseaba todas las riquezas para sí mismo.</li>
+    <li>founderJoin(tag=meme_Pirate)        -&gt;El seguidor más fiel de [deity0_name], el capitán [founderName], capturó al [foeLeader] en un asalto audaz.</li>
+    <li>victory(tag=meme_Pirate)            -&gt;Los compañeros de tripulación de [founderName] encarcelaron al [foeLeader], quien fue ejecutado unos días después para la gloria de [deity0_name].</li>
+    <li>setup(tag=meme_Pirate)           -&gt;[founderName] fue el capitán más grande, un verdadero líder. Miles de piratas se unieron bajo su aterrador estandarte.</li>
+    <li>story(uses=1,tag=meme_Pirate)    -&gt;[founderName] nos hizo entender que las dificultades, el sufrimiento y los sacrificios deben enfrentarse juntos, como una tripulación. Aprendimos a valorar el compañerismo y la camaradería, y a respetarnos mutuamente.</li>
+    <li>lessonIntro(tag=meme_Pirate)         -&gt;Hablé con el pirata más grande que jamás haya existido, una leyenda entre los hombres. Él me mostró que</li>
+    <li>lesson(tag=meme_Pirate)              -&gt;las dificultades, el sufrimiento y los sacrificios deben enfrentarse juntos, como una tripulación</li>
+    <li>lessonReinforcement(tag=meme_Pirate) -&gt;Me enseñó a valorar el compañerismo y la camaradería, y los méritos de respetarse mutuamente.</li>
+    <li>archistBasis(tag=meme_Pirate)    -&gt;Los Arcotecnólogos no respetan a aquellos que no pueden defenderse: enfrentaremos a aquellos más débiles que nosotros como una tripulación.</li>
+    <li>archistFact(tag=meme_Pirate)     -&gt;Demostraremos a los Arcotecnólogos que el compañerismo y la camaradería son los valores que nos mantienen fuertes.</li>
+    <li>archistProphecy(tag=meme_Pirate) -&gt;Solo permaneciendo orgullosos juntos podemos llegar a ser dignos de la trascendencia.</li>
+    <li>animistBasis(tag=meme_Pirate)    -&gt;Los espíritus no respetan a aquellos que no pueden defenderse: enfrentaremos a aquellos más débiles que nosotros como una tripulación.</li>
+    <li>animistFact(tag=meme_Pirate)     -&gt;Demostraremos a los espíritus que el compañerismo y la camaradería son los valores que nos mantienen fuertes.</li>
+    <li>animistProphecy(tag=meme_Pirate) -&gt;[itIsSaid] solo permaneciendo orgullosos juntos podemos hacer que los espíritus realmente nos escuchen.</li>
+    <li>serketistProphecy(tag=meme_Pirate)-&gt;[itIsSaid] demostraremos que el compañerismo y la camaradería son los valores que nos mantienen fuertes.</li>
+    <li>chthonianProphecy(tag=meme_Pirate)-&gt;Estas entidades eldritch buscarían destruirnos, pero nos mantendremos unidos contra ellas. Nuestra camaradería no puede ser sacudida por nada, ni siquiera por ellas.</li>
+    <li>esotericismProphecy(tag=meme_Pirate)-&gt;Tal conocimiento oculto requiere una voluntad unificada. Nos mantendremos unidos como una tripulación, nuestra camaradería permitiéndonos abrazar estos secretos arcanos con facilidad.</li>
+    <li>eschatologismFact(tag=meme_Pirate)-&gt;Saquearemos y pillaremos a aquellos más débiles que nosotros, porque el mundo que han creado debe ser destruido, y solo nuestra tripulación merece sus logros.</li>
+    <li>introMemo(tag=meme_Pirate)-&gt;Como miembro de nuestra Oficina de Reclamación y Reposesión, permítanos recordarle que cualquier recurso encontrado en este planeta es propiedad de la Compañía, y como tal, cualquier facción hostil que intente tomar posesión de nuestros activos debe ser terminada con EXTREMO prejuicio. No permitiremos que otros tomen lo que es legítimamente nuestro.</li>
+    <li>alienistProphecy(tag=meme_Pirate)-&gt;Estas criaturas descarriadas son nuestras para hacer lo que nos plazca.</li>
+  </VFEP_PirateMeme.descriptionMaker.rules.rulesStrings>
+  <VFEP_PirateMeme.generalRules.rulesStrings>
+    <li>memeAdjective-&gt;bucanero</li>
+    <li>memeAdjective-&gt;criminal</li>
+    <li>memeAdjective-&gt;saqueador</li>
+    <li>memeAdjective-&gt;pillaje</li>
+    <li>memeAdjective-&gt;amotinado</li>
+    <li>memeAdjective-&gt;pirata</li>
+    <li>memeLeaderNoun-&gt;patrón</li>
+    <li>memeLeaderNoun-&gt;comandante</li>
+    <li>memeLeaderNoun-&gt;jefe</li>
+    <li>memeLeaderAdjective-&gt;galante</li>
+    <li>memeLeaderAdjective-&gt;draconiano</li>
+    <li>memeLeaderAdjective-&gt;insensible</li>
+    <li>memeLeaderAdjective-&gt;valiente</li>
+    <li>memeLeaderAdjective-&gt;despiadado</li>
+    <li>memeLeaderAdjective-&gt;audaz</li>
+    <li>memeMoralist-&gt;capellán</li>
+    <li>memeMoralist-&gt;primer oficial</li>
+    <li>memeMoralist-&gt;primer oficial</li>
+  </VFEP_PirateMeme.generalRules.rulesStrings>
+  <VFEP_PirateMeme.label>pirata</VFEP_PirateMeme.label>
+  <VFEP_PirateMeme.symbolPacks.0.adjective>pirata</VFEP_PirateMeme.symbolPacks.0.adjective>
+  <VFEP_PirateMeme.symbolPacks.0.ideoName>Piratería</VFEP_PirateMeme.symbolPacks.0.ideoName>
+  <VFEP_PirateMeme.symbolPacks.0.member>miembro de la tripulación</VFEP_PirateMeme.symbolPacks.0.member>
+  <VFEP_PirateMeme.symbolPacks.0.theme>piratería</VFEP_PirateMeme.symbolPacks.0.theme>
+</LanguageData>

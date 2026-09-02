@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RR_modCompat_researchData_mode_AllBenchResearch>Toda la investigación</RR_modCompat_researchData_mode_AllBenchResearch>
+  <RR_modCompat_researchData_mode_AllBenchResearch_tooltip>El "combustible" de Research Data será necesario y consumido por cualquier investigación realizada en una mesa de investigación.</RR_modCompat_researchData_mode_AllBenchResearch_tooltip>
+  <RR_modCompat_researchData_mode_TheoryOnly>Solo teoría</RR_modCompat_researchData_mode_TheoryOnly>
+  <RR_modCompat_researchData_mode_TheoryOnly_tooltip>El "combustible" de Research Data solo será necesario y consumido por la investigación teórica.</RR_modCompat_researchData_mode_TheoryOnly_tooltip>
+  <RR_setting_category_availableAtOverallProgress>Disponible en progreso general</RR_setting_category_availableAtOverallProgress>
+  <RR_setting_category_availableAtOverallProgress_tooltip>Controla durante qué fase de la investigación está disponible esta categoría.</RR_setting_category_availableAtOverallProgress_tooltip>
+  <RR_setting_category_enabled>Categoría activada</RR_setting_category_enabled>
+  <RR_setting_category_enabled_tooltip>Activa o desactiva esto para deshabilitar esta categoría de oportunidades de investigación por completo.</RR_setting_category_enabled_tooltip>
+  <RR_setting_category_extraFractionMultiplier>Multiplicador de fracción extra</RR_setting_category_extraFractionMultiplier>
+  <RR_setting_category_extraFractionMultiplier_tooltip>Investigación adicional permitida para esta categoría que no está incluida en la fracción inicial asignada.</RR_setting_category_extraFractionMultiplier_tooltip>
+  <RR_setting_category_fractionAxis>Multiplicador de peso distribuido</RR_setting_category_fractionAxis>
+  <RR_setting_category_importanceMultiplier>Peso del costo distribuido del proyecto</RR_setting_category_importanceMultiplier>
+  <RR_setting_category_importanceMultiplierCounted>Peso contabilizado para otras categorías</RR_setting_category_importanceMultiplierCounted>
+  <RR_setting_category_importanceMultiplierCounted_tooltip>Usado al calcular los puntos de investigación distribuidos a otras categorías.\nDebe ser menor o igual al multiplicador de importancia real.\n\nUn valor más bajo aquí significa que se necesitan menos puntos de esta categoría para completar el proyecto, y establecerlo en 0% lo hace completamente opcional.</RR_setting_category_importanceMultiplierCounted_tooltip>
+  <RR_setting_category_importanceMultiplier_tooltip>Al distribuir los puntos de investigación del proyecto, este valor determina cuántos puntos dará en relación con otras categorías.\n\nUn valor más alto significa más puntos.</RR_setting_category_importanceMultiplier_tooltip>
+  <RR_setting_category_importanceStatic>Fracción estática del costo del proyecto</RR_setting_category_importanceStatic>
+  <RR_setting_category_importanceStatic_tooltip>Cuántos puntos de investigación dará esta categoría, basado solo en el costo del proyecto.\nEstos puntos son adicionales a los dados por el sistema de puntos distribuidos.\n\nUn valor de 100% significa que los proyectos pueden completarse enteramente haciendo solo esta categoría.</RR_setting_category_importanceStatic_tooltip>
+  <RR_setting_category_infiniteOverflow>Desbordamiento infinito</RR_setting_category_infiniteOverflow>
+  <RR_setting_category_infiniteOverflow_tooltip>Permitir que la investigación en esta categoría continúe mientras haya más oportunidades de este tipo disponibles, incluso después de alcanzar el máximo de puntos.</RR_setting_category_infiniteOverflow_tooltip>
+  <RR_setting_category_researchSpeedAxis>Velocidad de investigación</RR_setting_category_researchSpeedAxis>
+  <RR_setting_category_researchSpeedMultiplier>Multiplicador de velocidad de investigación</RR_setting_category_researchSpeedMultiplier>
+  <RR_setting_category_researchSpeedMultiplier_tooltip>Las oportunidades de esta categoría tendrán su velocidad de investigación multiplicada por el porcentaje establecido.\n\nPara la mayoría de las categorías, este es un multiplicador aplicado a la estadística de velocidad de investigación normal del peón.</RR_setting_category_researchSpeedMultiplier_tooltip>
+  <RR_setting_category_resetToDefault>Restablecer al preset predeterminado</RR_setting_category_resetToDefault>
+  <RR_setting_category_selector>Seleccionar categoría</RR_setting_category_selector>
+  <RR_setting_category_targetFractionMultiplier>Multiplicador de fracción objetivo</RR_setting_category_targetFractionMultiplier>
+  <RR_setting_category_targetFractionMultiplier_tooltip>Las oportunidades generadas intentan dividir el costo de investigación del proyecto según los tamaños de fracción relativos de las categorías, dependiendo de este valor.</RR_setting_category_targetFractionMultiplier_tooltip>
+  <RR_setting_category_targetIterations>Completaciones requeridas</RR_setting_category_targetIterations>
+  <RR_setting_category_targetIterations_tooltip>El máximo de oportunidades individuales requeridas para completar totalmente esta categoría.\nSe reduce automáticamente para proyectos con menos oportunidades generadas.</RR_setting_category_targetIterations_tooltip>
+  <RR_setting_changeWarning>Los cambios realizados aquí no se aplicarán correctamente a proyectos de investigación ya iniciados (incluyendo el progreso obtenido al leer esquemas).\nSi estás actualmente en el juego, se te pedirá aplicar una corrección al cerrar esta ventana; de lo contrario, un botón de corrección estará disponible en el menú del juego después de cargar una partida con configuraciones anteriores.\n(La corrección no se aplica automáticamente para evitar duplicar el progreso accidentalmente).</RR_setting_changeWarning>
+  <RR_setting_debugPrintouts>Activar modo de depuración</RR_setting_debugPrintouts>
+  <RR_setting_debugPrintouts_tooltip>Cuando está activado, varios mensajes de desarrollador y elementos visuales estarán activos.</RR_setting_debugPrintouts_tooltip>
+  <RR_setting_defaultCompactMode>La ventana de investigación usa modo compacto por defecto</RR_setting_defaultCompactMode>
+  <RR_setting_defaultCompactMode_showProgressMotes_tooltip>Cuando está activado, las partículas (mensajes flotantes) aparecerán brevemente sobre los peones que hayan hecho un progreso significativo en la investigación.</RR_setting_defaultCompactMode_showProgressMotes_tooltip>
+  <RR_setting_defaultCompactMode_tooltip>Cuando está activado, la ventana de lista de oportunidades de investigación usará el modo compacto por defecto.</RR_setting_defaultCompactMode_tooltip>
+  <RR_setting_disablePrototypeBillCancellation>Desactivar cancelación de órdenes de prototipo</RR_setting_disablePrototypeBillCancellation>
+  <RR_setting_disablePrototypeBillCancellation_tooltip>Algunas personas experimentan problemas donde cambiar o terminar una investigación resulta en la cancelación de construcciones u órdenes. Activa esta opción para desactivar la función responsable - ¡ten en cuenta que podrás explotar las órdenes/construcciones de prototipos al cambiar de investigación!</RR_setting_disablePrototypeBillCancellation_tooltip>
+  <RR_setting_enableScienceInterrogationByDefault>Activar extracción de conocimiento de prisioneros por defecto</RR_setting_enableScienceInterrogationByDefault>
+  <RR_setting_enableScienceInterrogationByDefault_tooltip>Si está activado, todos los nuevos prisioneros tendrán la extracción de conocimiento activada automáticamente.</RR_setting_enableScienceInterrogationByDefault_tooltip>
+  <RR_setting_fixupButton>Cambios en la configuración. ¿Regenerar?</RR_setting_fixupButton>
+  <RR_setting_fixupConfirm>¿Eliminar las oportunidades generadas actualmente? ¡Esto NO reiniciará el progreso!</RR_setting_fixupConfirm>
+  <RR_setting_kitlessNeolithicResearch>Permitir investigación de campo sin kit en neolítico</RR_setting_kitlessNeolithicResearch>
+  <RR_setting_kitlessNeolithicResearch_tooltip>Cuando está activado, la investigación de campo se puede realizar sin ningún kit de investigación para proyectos de nivel tecnológico neolítico.</RR_setting_kitlessNeolithicResearch_tooltip>
+  <RR_setting_kitlessResearch>Permitir investigación de campo sin kit</RR_setting_kitlessResearch>
+  <RR_setting_kitlessResearch_tooltip>Cuando está activado, la investigación de campo se puede realizar sin ningún kit de investigación para proyectos que solo requieren una mesa/kit de investigación simple.</RR_setting_kitlessResearch_tooltip>
+  <RR_setting_modCompat_active>Parche de {0} activo.</RR_setting_modCompat_active>
+  <RR_setting_modCompat_combatExtended>Combat Extended</RR_setting_modCompat_combatExtended>
+  <RR_setting_modCompat_dubsMintMenus>Dubs Mint Menus</RR_setting_modCompat_dubsMintMenus>
+  <RR_setting_modCompat_fail>Parche de {0} falló.</RR_setting_modCompat_fail>
+  <RR_setting_modCompat_humanoidAlienRaces>Humanoid Alien Races</RR_setting_modCompat_humanoidAlienRaces>
+  <RR_setting_modCompat_notDetected>{0} no detectado.</RR_setting_modCompat_notDetected>
+  <RR_setting_modCompat_researchData>Research Data</RR_setting_modCompat_researchData>
+  <RR_setting_modCompat_researchData_mode>Modo de compatibilidad</RR_setting_modCompat_researchData_mode>
+  <RR_setting_showProgressMotes>Mostrar partículas de progreso</RR_setting_showProgressMotes>
+  <RR_setting_tab_CATEGORY_CONFIG>Configuración de categoría</RR_setting_tab_CATEGORY_CONFIG>
+  <RR_setting_tab_CATEGORY_CONFIG_tooltip>Configurar categorías individuales de oportunidades de investigación.</RR_setting_tab_CATEGORY_CONFIG_tooltip>
+  <RR_setting_tab_CATEGORY_PRESETS>Presets de categoría</RR_setting_tab_CATEGORY_PRESETS>
+  <RR_setting_tab_CATEGORY_PRESETS_tooltip>Seleccionar un preset de distribución de puntos de investigación entre categorías de oportunidad.</RR_setting_tab_CATEGORY_PRESETS_tooltip>
+  <RR_setting_tab_GLOBAL_CONFIG>Configuración global</RR_setting_tab_GLOBAL_CONFIG>
+  <RR_setting_tab_GLOBAL_CONFIG_tooltip>Configurar los ajustes globales de Research Reinvented.</RR_setting_tab_GLOBAL_CONFIG_tooltip>
+  <RR_setting_tab_MOD_INTEGRATIONS>Integraciones de mods</RR_setting_tab_MOD_INTEGRATIONS>
+  <RR_setting_tab_MOD_INTEGRATIONS_tooltip>Mostrar y configurar integraciones opcionales con otros mods.</RR_setting_tab_MOD_INTEGRATIONS_tooltip>
+</LanguageData>

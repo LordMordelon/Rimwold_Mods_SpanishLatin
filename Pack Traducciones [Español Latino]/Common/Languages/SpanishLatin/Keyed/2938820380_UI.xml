@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <VFEE.ChangeCharacter>Cambiar personaje</VFEE.ChangeCharacter>
+  <VFEE.Created>{0} {1} creados cada día.</VFEE.Created>
+  <VFEE.CreatedSpecial>{0} {1} creados cada {2} días.</VFEE.CreatedSpecial>
+  <VFEE.CurrentHonor>Honor: {0}</VFEE.CurrentHonor>
+  <VFEE.CurrentTitle>Título actual: {0}</VFEE.CurrentTitle>
+  <VFEE.Deliver>Entregar</VFEE.Deliver>
+  <VFEE.Deliver.DaysSpecific>Cada {0} días</VFEE.Deliver.DaysSpecific>
+  <VFEE.Deliver.EveryQuadrum>Cada 15 días</VFEE.Deliver.EveryQuadrum>
+  <VFEE.Deliver.EveryWeek>Cada 7 días</VFEE.Deliver.EveryWeek>
+  <VFEE.Deliver.EveryYear>Una vez al año</VFEE.Deliver.EveryYear>
+  <VFEE.Deliver.Never>Nunca (pausa)</VFEE.Deliver.Never>
+  <VFEE.DevMode>Modo desarrollador</VFEE.DevMode>
+  <VFEE.ForcedFaction.Deserters.CannotDisable>{FACTION} no se puede deshabilitar ya que es requerido por Vanilla Factions Expanded - Deserters.</VFEE.ForcedFaction.Deserters.CannotDisable>
+  <VFEE.ForcedFaction.Empire.CannotDisable>{FACTION} no se puede deshabilitar ya que es requerido por Vanilla Factions Expanded - Empire.</VFEE.ForcedFaction.Empire.CannotDisable>
+  <VFEE.ForcedFaction.Empire.FactionDiscoveryMessage>{FACTION} debe agregarse al juego ya que es requerido por Vanilla Factions Expanded - Empire.</VFEE.ForcedFaction.Empire.FactionDiscoveryMessage>
+  <VFEE.Honor.Bestow>Otorgar Honor</VFEE.Honor.Bestow>
+  <VFEE.Honor.Bestow.Desc>Otorgar honores pendientes para este noble. Dará los siguientes honores:\n{0}</VFEE.Honor.Bestow.Desc>
+  <VFEE.Honor.Bestow.Success>A {0} se le han otorgado sus honores pendientes. Han ganado:\n{0}</VFEE.Honor.Bestow.Success>
+  <VFEE.Honor.BestowPlural>Otorgar Honores</VFEE.Honor.BestowPlural>
+  <VFEE.Honor.NoHonors>Debe tener honores pendientes para otorgar.</VFEE.Honor.NoHonors>
+  <VFEE.Honor.Pending>Esto debe ser otorgado en una ceremonia antes de que se active.</VFEE.Honor.Pending>
+  <VFEE.Honors>Honores</VFEE.Honors>
+  <VFEE.Honors.Active>Estos honores están activos en tu noble. Arrástralos a la derecha para eliminarlos de este personaje.</VFEE.Honors.Active>
+  <VFEE.Honors.Available>Estos honores están disponibles para ser equipados en tus nobles. Arrástralos a la izquierda para activarlos en el noble elegido.</VFEE.Honors.Available>
+  <VFEE.Honors.RemoveAll>Eliminar todos los honores</VFEE.Honors.RemoveAll>
+  <VFEE.Honors.Reward>ganarás el honor {0} para asignar a un colono</VFEE.Honors.Reward>
+  <VFEE.HonorsOf>Honores de {0}, {1}</VFEE.HonorsOf>
+  <VFEE.InStockpile>{0} en almacén: {1}</VFEE.InStockpile>
+  <VFEE.Invite>Invitar como visitante</VFEE.Invite>
+  <VFEE.InviteAs>Invitar como {0} (Costo: {1} honor)</VFEE.InviteAs>
+  <VFEE.MustBeLordOf>Debe ser señor de {0}</VFEE.MustBeLordOf>
+  <VFEE.MustHaveParent>Debe tener un padre</VFEE.MustHaveParent>
+  <VFEE.MustWield>Debe portar {0}</VFEE.MustWield>
+  <VFEE.NoVassalize>No se puede vasallizar: Demasiado lejos</VFEE.NoVassalize>
+  <VFEE.OfThe>{0} de {1}</VFEE.OfThe>
+  <VFEE.PermitPoints>Puntos de permiso no utilizados: {0}</VFEE.PermitPoints>
+  <VFEE.ReleaseAllVassals>Liberar a todos los vasallos</VFEE.ReleaseAllVassals>
+  <VFEE.ReleaseAllVassals.Confirm>Liberar vasallos causará la pérdida de los recursos almacenados. ¿Estás seguro?</VFEE.ReleaseAllVassals.Confirm>
+  <VFEE.RoomRequirementInstrumentSpace>espacio de baile para todos los instrumentos</VFEE.RoomRequirementInstrumentSpace>
+  <VFEE.SeeAlso>Ver también:</VFEE.SeeAlso>
+  <VFEE.Skip.Colonist.Next>Saltar al siguiente colono</VFEE.Skip.Colonist.Next>
+  <VFEE.Skip.Colonist.Previous>Saltar al colono anterior</VFEE.Skip.Colonist.Previous>
+  <VFEE.Skip.Title.Next>Saltar al siguiente título</VFEE.Skip.Title.Next>
+  <VFEE.Skip.Title.Previous>Saltar al título anterior</VFEE.Skip.Title.Previous>
+  <VFEE.Successful>Exitoso</VFEE.Successful>
+  <VFEE.TitheDesc>Los diezmos se entregarán a través de cápsulas de transporte una vez transcurrido el tiempo designado.</VFEE.TitheDesc>
+  <VFEE.VassalDesc>Solo puedes vasallizar bases que estén a menos de 100 casillas de ti o de tus vasallos\nVasalliza más ciudades para aumentar el alcance y desbloquear más posibles súbditos vasallos</VFEE.VassalDesc>
+  <VFEE.VassalPoints>Puntos de vasallaje no utilizados: {0}</VFEE.VassalPoints>
+  <VFEE.Vassalize>Vasallizar</VFEE.Vassalize>
+  <VFEE.VassalsOf>Vasallos de {0}, {1}</VFEE.VassalsOf>
+  <VFEEmpire.BestowTitle.Finished>La ceremonia de otorgamiento organizada por {ORGANIZER} ha terminado.</VFEEmpire.BestowTitle.Finished>
+  <VFEEmpire.RitualRoleTitled.NotColonist>Debe ser colono.</VFEEmpire.RitualRoleTitled.NotColonist>
+  <VFEEmpire.RitualRoleTitled.NotTitled>Debe ser titular de un título.</VFEEmpire.RitualRoleTitled.NotTitled>
+  <VFEEmpire.RoyalAddress.Finished>El discurso real organizado por {ORGANIZER} ha terminado.</VFEEmpire.RoyalAddress.Finished>
+  <VFEEmpire.RoyalAddress.OrganizerGained>{PAWN} ganó {COUNT} de honor.</VFEEmpire.RoyalAddress.OrganizerGained>
+  <VFEEmpire.RoyalAddress.OrganizerLost>{PAWN} perdió {COUNT} de honor.</VFEEmpire.RoyalAddress.OrganizerLost>
+  <VFEEmpire.RoyalAddress.TitledGained>{PAWN} ahora puede recibir el título de {TITLE} de {FACTION}.</VFEEmpire.RoyalAddress.TitledGained>
+</LanguageData>

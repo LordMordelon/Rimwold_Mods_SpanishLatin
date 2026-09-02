@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <DarkRooms>Habitaciones oscuras</DarkRooms>
+  <DarkRooms_Tooltip>Las habitaciones sin iluminación interior están completamente a oscuras</DarkRooms_Tooltip>
+  <DarkRooms_Warning>Puede requerir salir al menú principal</DarkRooms_Warning>
+  <MaxShadowLength>Longitud máxima de sombra: {0}</MaxShadowLength>
+  <MaxShadowLength_Tooltip>La longitud máxima que puede tener una sombra en casillas</MaxShadowLength_Tooltip>
+  <MaxShadowStrength>Fuerza máxima de sombra: {0}</MaxShadowStrength>
+  <MaxShadowStrength_Tooltip>Aclara las sombras (0: sin sombras, 0-1 sombras más claras, 1: sombras predeterminadas)</MaxShadowStrength_Tooltip>
+  <SetPrettyShadowDefaults>Valores predeterminados bonitos</SetPrettyShadowDefaults>
+  <SetRealShadowDefaults>Valores predeterminados de sombras reales</SetRealShadowDefaults>
+  <ShadowOverlayCorrection>Corrección de superposición de sombras</ShadowOverlayCorrection>
+  <ShadowOverlayCorrection_Warning>Desactiva esta configuración si notas tartamudeo en el juego</ShadowOverlayCorrection_Warning>
+  <ShadowOverlayCorrection_Warning_Tooltip>Corrige las malas superposiciones de sombras del juego base (puede causar un tartamudeo notable cada 6 a 12 horas en el juego)</ShadowOverlayCorrection_Warning_Tooltip>
+  <ShadowScaling>Escala de sombra: {0}</ShadowScaling>
+  <ShadowScaling_Tooltip>Qué tan larga es una sombra cuando el sol está a 45 grados de altura (la longitud de la sombra es igual a la altura del objeto)\nHará que los objetos parezcan más altos o más bajos</ShadowScaling_Tooltip>
+</LanguageData>

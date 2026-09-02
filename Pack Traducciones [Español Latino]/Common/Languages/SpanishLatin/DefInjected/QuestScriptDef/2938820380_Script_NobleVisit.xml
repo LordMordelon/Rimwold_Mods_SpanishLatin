@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <VFEE_NobleVisit.questContentRules.rulesStrings>
+    <li>lastOrNot(nobleCount==1)-&gt;</li>
+    <li>lastOrNot(nobleCount&gt;=2)-&gt;último</li>
+    <li>lodgersLabelSingularOrPlural(nobleCount==1)-&gt;[lodgersLabel]</li>
+    <li>lodgersLabelSingularOrPlural(nobleCount&gt;=2)-&gt;[lodgersLabelPlural]</li>
+    <li>decidedToLeave-&gt;[othersWillNotAccept], y {PAWNSALIVECOUNT_multiple ? han : ha } decidido irse.</li>
+    <li>othersWillNotAccept-&gt;{PAWNSALIVECOUNT_multiple ? Los otros no están dispuestos : El último [lodgersLabel] no está dispuesto} a aceptar esto</li>
+    <li>oneOfThe-&gt;uno de los nobles que invitaste a quedarse contigo</li>
+    <li>questOver-&gt;La misión '[resolvedQuestName]' ha terminado.</li>
+    <li>letterIntroArrested-&gt;Arrestaste a {SUBJECT_definite}, [oneOfThe].</li>
+    <li>lodgerArrestedLeaveMapLetterLabel-&gt;[lodgersLabel] arrestado: Partida</li>
+    <li>lodgerArrestedLeaveMapLetterText-&gt;[letterIntroArrested]\n\n[decidedToLeave]</li>
+    <li>letterIntroDeath-&gt;{SUBJECT_definite}, [oneOfThe] ha muerto.</li>
+    <li>lodgerDiedLeaveMapLetterLabel-&gt;[lodgersLabel] murió: Partida</li>
+    <li>lodgerDiedLeaveMapLetterText-&gt;[letterIntroDeath]\n\n[decidedToLeave]</li>
+    <li>letterIntroViolated-&gt;{SUBJECT_definite}, [oneOfThe], fue violado por cirugía.</li>
+    <li>lodgerSurgeryVioLeaveMapLetterLabel-&gt;[lodgersLabel] Cirugía: Partida</li>
+    <li>lodgerSurgeryVioLeaveMapLetterText-&gt;[letterIntroViolated]\n\n[decidedToLeave]</li>
+    <li>letterIntroKidnapped-&gt;{SUBJECT_definite}, [oneOfThe], fue secuestrado.</li>
+    <li>lodgerKidnappedLeaveMapLetterLabel-&gt;[lodgersLabel] Secuestrado: Partida</li>
+    <li>lodgerKidnappedLeaveMapLetterText-&gt;[letterIntroKidnapped]\n\n[decidedToLeave]</li>
+    <li>letterIntroBanished-&gt;{SUBJECT_definite}, [oneOfThe], fue desterrado.</li>
+    <li>lodgerBanishedLeaveMapLetterLabel-&gt;[lodgersLabel] Desterrado: Partida</li>
+    <li>lodgerBanishedLeaveMapLetterText-&gt;[letterIntroBanished]\n\n[decidedToLeave]</li>
+    <li>letterIntroPsychicRitualTarget-&gt;{SUBJECT_definite}, [oneOfThe], fue el objetivo de un ritual psíquico.</li>
+    <li>lodgerPsychicRitualTargetLabel-&gt;[lodgersLabel] Ritual psíquico: Partida</li>
+    <li>lodgerPsychicRitualTargetText-&gt;[letterIntroPsychicRitualTarget]\n\n[decidedToLeave]</li>
+    <li>ShuttleDestroyedIntro-&gt;{SUBJECT_definite}, ha sido destruido</li>
+    <li>ShuttleDestroyedLabel-&gt;[lodgersLabel] Transbordador destruido: Partida</li>
+    <li>ShuttleDestroyedText-&gt;[ShuttleDestroyedIntro]\n\n[decidedToLeave]</li>
+    <li>letterIntroBadMood-&gt;{SUBJECT_definite}, [oneOfThe], a quien se te encargó proteger y mantener feliz, ha estado por debajo del estado de ánimo mínimo de [lodgersMoodThreshold] demasiado tiempo.</li>
+    <li>nobleUnhappyLetterLabel-&gt;[lodgersLabel] infeliz</li>
+    <li>nobleUnhappyLetterText-&gt;[letterIntroBadMood]\n\n[decidedToLeave]</li>
+    <li>lodgerLeftNotAllHealthyLetterLabel-&gt;[lodgersLabel] : sin tratar</li>
+    <li>lodgerLeftNotAllHealthyLetterText-&gt;[lodgersLabel] dejó el mapa con heridas y no tendrá buenos recuerdos de su visita</li>
+    <li>LetterLabelShuttleArrived-&gt;Llegada del transbordador</li>
+    <li>LetterTextShuttleArrived-&gt;El transbordador ha llegado para recoger a [asker_nameFull] y su corte</li>
+    <li>lodgersLeavingLetterLabel-&gt;[lodgersLabelSingularOrPlural] partieron sanos</li>
+    <li>lodgersLeavingLetterText-&gt;[asker_nameFull] te agradece por invitarlos a quedarse en [map_definite] por estos [questDurationTicks_duration].</li>
+  </VFEE_NobleVisit.questContentRules.rulesStrings>
+  <VFEE_NobleVisit.questDescriptionAndNameRules.rulesStrings>
+    <li>lodgersLabel-&gt;noble</li>
+    <li>lodgersLabelPlural-&gt;nobles</li>
+    <li>lodgersDef(nobleCount==1)-&gt;[lodgers0_nameDef]</li>
+    <li>lodgersDef(nobleCount&gt;=2)-&gt;los [lodgersLabelPlural]</li>
+    <li>joinerEnding-&gt;Podrás dirigir a [lodgersDef] de la misma manera que diriges a tus propios colonos.[specialNeedsExplanation]</li>
+    <li>specialNeedsExplanation(asker_royalInCurrentFaction==True,priority=1)-&gt; Deberás satisfacer cualquier necesidad real especial que los [lodgersLabelPlural] puedan tener.</li>
+    <li>specialNeedsExplanation-&gt;</li>
+    <li>theirHisHer(nobleCount==1)-&gt;[lodgers0_possessive]</li>
+    <li>theirHisHer(nobleCount&gt;=2)-&gt;su</li>
+    <li>lodgersPronoun(nobleCount==1)-&gt;[lodgers0_pronoun]</li>
+    <li>lodgersPronoun(nobleCount&gt;=2)-&gt;ellos</li>
+    <li>lodgersWasWere(nobleCount==1)-&gt;fue</li>
+    <li>lodgersWasWere(nobleCount&gt;=2)-&gt;fueron</li>
+    <li>appreciateAppreciates(nobleCount==1)-&gt;aprecia</li>
+    <li>appreciateAppreciates(nobleCount&gt;=2)-&gt;aprecian</li>
+    <li>questDescription-&gt;[asker_nameFull], un [asker_royalTitleInCurrentFaction] de [asker_faction_name] quisiera realizar una visita habitual. Invita a [asker_possessive], satisface sus necesidades reales durante [shuttleDelayTicks_duration], y ganarás una gran cantidad de honor. Durante su visita, debes mantener su estado de ánimo por encima de [lodgersMoodThreshold_percent]. Esto significa proporcionar beneficios reales como un dormitorio lujoso.\nEl [asker_royalTitleInCurrentFaction] traerá dos de sus guardias personales y los pondrá bajo tu mando. Debes alojar a estos guardias, pero el [asker_royalTitleInCurrentFaction] no se quejará si mueren o son infelices.\nDebes mantener a los visitantes en [map_definite] y no enviarlos a ningún otro lugar. Si fallas esta misión o migras, tus relaciones con [asker_nameFull] se degradarán y perderás honor.</li>
+    <li>questDescription(nobleCount&gt;=2)-&gt;[asker_nameFull], un [asker_royalTitleInCurrentFaction] de [asker_faction_name] quisiera realizar una visita habitual. Invita a [asker_possessive], y a su corte real de [nobleCountLessOne] nobles y satisface sus necesidades reales durante [shuttleDelayTicks_duration], y ganarás una gran cantidad de honor. Durante su visita, debes mantener su estado de ánimo por encima de [lodgersMoodThreshold_percent]. Esto significa proporcionar beneficios reales como un dormitorio lujoso.\nEl [asker_nameFull] traerá dos de sus guardias personales y los pondrá bajo tu mando. Debes alojar a estos guardias, pero el [asker_royalTitleInCurrentFaction] no se quejará si mueren o son infelices.\nDebes mantener a los visitantes en [map_definite] y no enviarlos a ningún otro lugar. Si fallas esta misión o migras, tus relaciones con [asker_nameFull] se degradarán y perderás honor.</li>
+    <li>allyAllies(lodgersCountMinusOne==1)-&gt;aliado</li>
+    <li>allyAllies(lodgersCountMinusOne&gt;=2)-&gt;aliados</li>
+  </VFEE_NobleVisit.questDescriptionAndNameRules.rulesStrings>
+  <VFEE_NobleVisit.questNameRules.rulesStrings>
+    <li>questName(sameQuestsCount==0)-&gt;Visita de [asker_nameDef]</li>
+    <li>questName-&gt;alojando a [lodgerIndef]</li>
+    <li>questName-&gt;visita de [lodgerIndef]</li>
+    <li>lodgerIndef(nobleCount==1)-&gt;un miembro de la realeza</li>
+    <li>lodgerIndef(nobleCount==1)-&gt;un noble</li>
+    <li>lodgerIndef(nobleCount&gt;=2)-&gt;miembros de la realeza</li>
+    <li>lodgerIndef(nobleCount&gt;=2)-&gt;nobles</li>
+  </VFEE_NobleVisit.questNameRules.rulesStrings>
+</LanguageData>

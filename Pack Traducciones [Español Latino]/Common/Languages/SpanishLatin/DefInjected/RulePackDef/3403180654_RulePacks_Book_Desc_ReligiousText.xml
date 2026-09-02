@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <ABooks_ReligiousText_Description.rulePack.rulesStrings>
+    <li>desc-&gt;Este texto sagrado de la estructura [subject_primary] ofrece [guidance] [spiritualInsightAdjective] para [adherents]. [lessonSummary] [writingQualitySentence][ending]</li>
+    <li>desc-&gt;En esta escritura [spiritualInsightAdjective] de la estructura [subject_primary], el [prophetTitle] [reveals] [divineMessage]. [lessonSummary]. [maybe_date][ending]</li>
+    <li>ending-&gt;\n\nUna vez leído, este libro otorgará al lector habilidades y bonificaciones, y luego será destruido. Cualquier blasfemia resultante en la descripción no es intencional.</li>
+    <li>guidance-&gt;sabiduría profunda</li>
+    <li>guidance-&gt;guía espiritual</li>
+    <li>guidance-&gt;instrucción moral</li>
+    <li>guidance-&gt;mandamientos divinos</li>
+    <li>guidance-&gt;caminos sagrados hacia la iluminación</li>
+    <li>lessonSummary-&gt;Enseña a [adherents] a [virtueAction] y [aspireToVirtue].</li>
+    <li>lessonSummary-&gt;Enfatiza la importancia de [virtueNoun] y [spiritualPractice].</li>
+    <li>lessonSummary-&gt;Llama a [adherents] a [moralCallToAction] en sus vidas.</li>
+    <li>adherents-&gt;los seguidores de [subject_primary]</li>
+    <li>adherents-&gt;aquellos dedicados a la jerarquía de [subject_primary]</li>
+    <li>adherents-&gt;los creyentes de [subject_primary]</li>
+    <li>virtueAction-&gt;abrazar la humildad</li>
+    <li>virtueAction-&gt;buscar la sabiduría divina</li>
+    <li>virtueAction-&gt;vivir en armonía</li>
+    <li>virtueAction-&gt;servir a los necesitados</li>
+    <li>virtueAction-&gt;practicar el altruismo</li>
+    <li>aspireToVirtue-&gt;lograr la paz interior</li>
+    <li>aspireToVirtue-&gt;acercarse a lo divino</li>
+    <li>aspireToVirtue-&gt;vivir una vida virtuosa</li>
+    <li>aspireToVirtue-&gt;honrar las enseñanzas del cuerpo de [subject_primary]</li>
+    <li>virtueNoun-&gt;fe</li>
+    <li>virtueNoun-&gt;caridad</li>
+    <li>virtueNoun-&gt;compasión</li>
+    <li>virtueNoun-&gt;justicia</li>
+    <li>virtueNoun-&gt;paciencia</li>
+    <li>spiritualPractice-&gt;oración</li>
+    <li>spiritualPractice-&gt;meditación</li>
+    <li>spiritualPractice-&gt;adoración</li>
+    <li>spiritualPractice-&gt;ayuno</li>
+    <li>spiritualPractice-&gt;peregrinación</li>
+    <li>divineMessage-&gt;las verdades eternas del marco de [subject_primary]</li>
+    <li>divineMessage-&gt;el camino a la salvación</li>
+    <li>divineMessage-&gt;el pacto sagrado entre lo divino y la humanidad</li>
+    <li>divineMessage-&gt;los misterios de la creación</li>
+    <li>divineMessage-&gt;el llamado a una vida justa</li>
+    <li>prophetTitle-&gt;profeta</li>
+    <li>prophetTitle-&gt;sabio</li>
+    <li>prophetTitle-&gt;mensajero</li>
+    <li>prophetTitle-&gt;vidente</li>
+    <li>prophetTitle-&gt;escriba</li>
+    <li>moralCallToAction-&gt;practicar el perdón</li>
+    <li>moralCallToAction-&gt;buscar la redención</li>
+    <li>moralCallToAction-&gt;mostrar bondad a todos</li>
+    <li>moralCallToAction-&gt;proteger a los débiles</li>
+    <li>moralCallToAction-&gt;honrar a sus antepasados</li>
+    <li>spiritualInsightAdjective-&gt;profundo</li>
+    <li>spiritualInsightAdjective-&gt;esclarecedor</li>
+    <li>spiritualInsightAdjective-&gt;divinamente inspirado</li>
+    <li>spiritualInsightAdjective-&gt;conmovedor</li>
+    <li>spiritualInsightAdjective-&gt;sagrado</li>
+    <li>writingQualitySentence(quality[greater_than]4)-&gt;Es venerado como [sacredPraise].</li>
+    <li>writingQualitySentence(quality[less_than]5,quality[greater_than]2)-&gt;Ofrece [spiritualGuidance] de una [thoughtfulDesc].</li>
+    <li>writingQualitySentence(quality[less_than]3,quality[greater_than]0)-&gt;Es [spiritualStruggle] pero aún [sacredSignificance].</li>
+    <li>writingQualitySentence(quality[less_than]1)-&gt;Es [spiritualShit].</li>
+    <li>spiritualShit-&gt;escrito de una manera que lo hace simplemente basura ilegible</li>
+    <li>spiritualShit-&gt;tonterías religiosas, con pocos valores redentores</li>
+    <li>spiritualShit-&gt;, desafortunadamente, pura tontería</li>
+    <li>spiritualShit-&gt;ilegible, como si hubiera sido escrito por un niño pequeño, pero alguien, en algún lugar probablemente murió por ello</li>
+    <li>sacredPraise-&gt;una verdadera piedra angular atemporal de la fe</li>
+    <li>sacredPraise-&gt;una obra maestra de perspicacia espiritual</li>
+    <li>sacredPraise-&gt;una guía sublime para todos los que buscan lo divino</li>
+    <li>spiritualGuidance-&gt;un vistazo a las verdades sagradas</li>
+    <li>spiritualGuidance-&gt;lecciones morales a través de sus versos</li>
+    <li>spiritualGuidance-&gt;reflexiones profundas sobre la condición humana</li>
+    <li>thoughtfulDesc-&gt;manera estructurada y contemplativa</li>
+    <li>thoughtfulDesc-&gt;manera estratificada con significado</li>
+    <li>thoughtfulDesc-&gt;de una manera ricamente alegórica</li>
+    <li>thoughtfulDesc-&gt;de una manera simple y concisa</li>
+    <li>spiritualStruggle-&gt;muy difícil de interpretar y obtuso</li>
+    <li>spiritualStruggle-&gt;un texto innecesariamente complejo</li>
+    <li>spiritualStruggle-&gt;escrito en un estilo denso</li>
+    <li>sacredSignificance-&gt;sigue siendo algo central para la organización [subject_primary]</li>
+    <li>sacredSignificance-&gt;tiene algún significado para los creyentes</li>
+    <li>sacredSignificance-&gt;ofrece algo de sabiduría a pesar de sus dificultades</li>
+  </ABooks_ReligiousText_Description.rulePack.rulesStrings>
+</LanguageData>

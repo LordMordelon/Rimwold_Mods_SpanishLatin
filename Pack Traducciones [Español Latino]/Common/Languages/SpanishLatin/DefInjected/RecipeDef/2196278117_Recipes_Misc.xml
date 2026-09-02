@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <AC_ResetBiocodedThings.description>Restablece el equipo biocodificado a la configuración de fábrica, permitiendo su vinculación con una nueva persona.\n\nSi no tiene éxito, el objeto puede romperse.</AC_ResetBiocodedThings.description>
+  <AC_ResetBiocodedThings.jobString>Restableciendo objetos biocodificados.</AC_ResetBiocodedThings.jobString>
+  <AC_ResetBiocodedThings.label>restablecer biocodificación</AC_ResetBiocodedThings.label>
+  <AC_ShredNeuralStacks.description>Tritura una pila neural para intentar recuperar material útil.</AC_ShredNeuralStacks.description>
+  <AC_ShredNeuralStacks.ingredients.0.filter.customSummary>pila neural</AC_ShredNeuralStacks.ingredients.0.filter.customSummary>
+  <AC_ShredNeuralStacks.jobString>Triturando pila neural.</AC_ShredNeuralStacks.jobString>
+  <AC_ShredNeuralStacks.label>triturar pila neural</AC_ShredNeuralStacks.label>
+  <AC_SmashNeuralStacks.description>Destruye una pila neural con herramientas manuales simples para recuperar material útil.</AC_SmashNeuralStacks.description>
+  <AC_SmashNeuralStacks.ingredients.0.filter.customSummary>pila neural</AC_SmashNeuralStacks.ingredients.0.filter.customSummary>
+  <AC_SmashNeuralStacks.jobString>Destrozando pila neural.</AC_SmashNeuralStacks.jobString>
+  <AC_SmashNeuralStacks.label>Destruir pila neural</AC_SmashNeuralStacks.label>
+  <AC_UnboundPersona.description>Desvincula un arma personal de su usuario actual, permitiendo su vinculación con una nueva persona.\n\nSi no tiene éxito, el objeto puede romperse.</AC_UnboundPersona.description>
+  <AC_UnboundPersona.jobString>Desvinculando persona.</AC_UnboundPersona.jobString>
+  <AC_UnboundPersona.label>desvincular persona</AC_UnboundPersona.label>
+</LanguageData>

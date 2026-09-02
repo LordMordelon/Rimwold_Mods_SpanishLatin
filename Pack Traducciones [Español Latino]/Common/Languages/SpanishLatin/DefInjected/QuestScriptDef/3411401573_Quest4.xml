@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <VQE_InventorShelter.questDescriptionRules.rulesStrings>
+    <li>questDescription-&gt;[dataDiscovery] reveló la ubicación de un [adj] [structureType] subterráneo donde [inventor_nameFull] descansa en criptosueño. El viaje será agotador, ya que el sitio está afectado por un[coldSnapDesc], lo que trae temperaturas anormalmente bajas a la región. \n\nDentro del búnker, unas pocas [turretDefense] todavía custodian el interior, alimentadas por un antiguo [arcName]. El ARC no se puede estudiar, pero se puede desmantelar para obtener [arcComponents]. Tu tarea principal, sin embargo, es llegar al sarcófago y liberar al inventor. Prepárate cuidadosamente para el frío extremo o arriésgate a sufrir una grave [hypothermiaDanger].</li>
+    <li>questDescription-&gt;Los datos recuperados nos señalan un [adj] búnker enterrado profundamente bajo una región que sufre de un[coldSnapDesc]. Es aquí donde [inventor_nameFull], la mente legendaria detrás del proyecto ARC, yace sellado en criptosueño. \n\nLas temperaturas del área están cayendo a niveles peligrosamente bajos, creando un riesgo inmediato de [hypothermiaDanger] durante tu aproximación. En el interior, las [turretDefense] permanecen activas, alimentadas por un [arcName] cubierto de vegetación. El ARC puede ser desmantelado para obtener [arcComponents], pero el verdadero premio es liberar al inventor y traerlo de vuelta a tu colonia.</li>
+    <li>questDescription-&gt;Hemos identificado la ubicación de un [adj] [structureType] donde [inventor_nameFull] ha sido preservado en un sarcófago de criptosueño. El área que rodea el sitio está maldita con un[coldSnapDesc], desplomando las temperaturas a extremos mortales. \n\nEl búnker en sí alberga unas pocas [turretDefense], alimentadas por un [arcName] cubierto de vegetación. Si bien el ARC no se puede estudiar, se puede rescatar para obtener [arcComponents]. Prepárate para condiciones de congelación e hipotermia mientras intentas recuperar al legendario inventor.</li>
+    <li>dataDiscovery-&gt;Esquemas antiguos</li>
+    <li>dataDiscovery-&gt;Transmisiones descodificadas</li>
+    <li>dataDiscovery-&gt;Coordenadas recuperadas</li>
+    <li>dataDiscovery-&gt;Registros de datos archivados</li>
+    <li>adj-&gt;olvidado</li>
+    <li>adj-&gt;antiguo</li>
+    <li>adj-&gt;oculto</li>
+    <li>adj-&gt;sellado</li>
+    <li>adj-&gt;abandonado</li>
+    <li>adj-&gt;cubierto de vegetación</li>
+    <li>adj-&gt;misterioso</li>
+    <li>adj-&gt;remoto</li>
+    <li>structureType-&gt;búnker</li>
+    <li>structureType-&gt;bóveda</li>
+    <li>structureType-&gt;santuario</li>
+    <li>structureType-&gt;cámara</li>
+    <li>structureType-&gt;cripta</li>
+    <li>structureType-&gt;instalación</li>
+    <li>coldSnapDesc-&gt;a ola de frío antinatural</li>
+    <li>coldSnapDesc-&gt;a extraña anomalía de congelación</li>
+    <li>coldSnapDesc-&gt; frente frío inexplicable</li>
+    <li>coldSnapDesc-&gt;a misteriosa congelación profunda</li>
+    <li>coldSnapDesc-&gt;a caída repentina de temperatura extrema</li>
+    <li>coldSnapDesc-&gt;a anomalía de escarcha mortal</li>
+    <li>turretDefense-&gt;torretas inactivas que ocasionalmente cobran vida</li>
+    <li>turretDefense-&gt;un puñado de torretas de seguridad envejecidas</li>
+    <li>turretDefense-&gt;torretas automatizadas viejas pero aún letales</li>
+    <li>turretDefense-&gt;sistemas de defensa esporádicamente funcionales</li>
+    <li>turretDefense-&gt;unas pocas torretas desmoronadas pero operativas</li>
+    <li>arcComponents-&gt;componentes ARC raros</li>
+    <li>arcComponents-&gt;valioso botín tecnológico</li>
+    <li>arcComponents-&gt;piezas de salvamento ARC esenciales</li>
+    <li>arcComponents-&gt;fragmentos de generador avanzados</li>
+    <li>hypothermiaDanger-&gt;congelación e hipotermia</li>
+    <li>hypothermiaDanger-&gt;hipotermia de inicio rápido</li>
+    <li>hypothermiaDanger-&gt;exposición al frío que pone en peligro la vida</li>
+    <li>hypothermiaDanger-&gt;lesiones por congelación y agotamiento</li>
+    <li>hypothermiaDanger-&gt;congelación severa o muerte</li>
+    <li>arcName-&gt;generador ARC</li>
+  </VQE_InventorShelter.questDescriptionRules.rulesStrings>
+  <VQE_InventorShelter.questNameRules.rulesStrings>
+    <li>questName-&gt;[structureType] [adj] de [Inventor_LastName]</li>
+    <li>adj-&gt;olvidado</li>
+    <li>adj-&gt;antiguo</li>
+    <li>adj-&gt;oculto</li>
+    <li>adj-&gt;abandonado</li>
+    <li>adj-&gt;sellado</li>
+    <li>adj-&gt;misterioso</li>
+    <li>adj-&gt;remoto</li>
+    <li>adj-&gt;perdido</li>
+    <li>adj-&gt;secreto</li>
+    <li>adj-&gt;desamparado</li>
+    <li>structureType-&gt;búnker</li>
+    <li>structureType-&gt;bóveda</li>
+    <li>structureType-&gt;cripta</li>
+    <li>structureType-&gt;tumba</li>
+    <li>structureType-&gt;cámara</li>
+    <li>structureType-&gt;santuario</li>
+    <li>structureType-&gt;instalación</li>
+    <li>structureType-&gt;refugio</li>
+  </VQE_InventorShelter.questNameRules.rulesStrings>
+</LanguageData>

@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <BaseHemogenOffset.description>Una compensación en la capacidad de hemógeno.</BaseHemogenOffset.description>
+  <BaseHemogenOffset.label>compensación base de hemógeno</BaseHemogenOffset.label>
+  <BloodRegenerationFactor.description>Un multiplicador aplicado a la velocidad de regeneración sanguínea.</BloodRegenerationFactor.description>
+  <BloodRegenerationFactor.label>milt. de regeneración sanguínea</BloodRegenerationFactor.label>
+  <ChildBirthQualityOffset.description>Una compensación de calidad aplicada al nacimiento.</ChildBirthQualityOffset.description>
+  <ChildBirthQualityOffset.label>comp. de calidad de nacimiento</ChildBirthQualityOffset.label>
+  <DeathrestEffectivenessFactor.description>Un multiplicador que afecta qué tan rápido se completa el mortisueño.</DeathrestEffectivenessFactor.description>
+  <DeathrestEffectivenessFactor.label>mult. de efec. de mortisueño</DeathrestEffectivenessFactor.label>
+  <DeathrestIntervalFactor.description>Un multiplicador del tiempo entre necesidad de mortisueño.</DeathrestIntervalFactor.description>
+  <DeathrestIntervalFactor.label>mult. de intervalo mortisueño</DeathrestIntervalFactor.label>
+  <GestationSpeedFactorDummyStat.description>Un multiplicador aplicado a la velocidad de gestación humana.</GestationSpeedFactorDummyStat.description>
+  <GestationSpeedFactorDummyStat.label>factor de velocidad de gestación</GestationSpeedFactorDummyStat.label>
+  <I_BrainShockResistance.description>La probabilidad de que una persona resista un choque cerebral.</I_BrainShockResistance.description>
+  <I_BrainShockResistance.label>resistencia al EMP</I_BrainShockResistance.label>
+  <I_MoodFactor.description>Qué tan intensamente una persona experimenta las emociones.</I_MoodFactor.description>
+  <I_MoodFactor.label>Factor de comp. estado de ánimo</I_MoodFactor.label>
+  <LTS_AgeFertilityImpactFactor.description>Un multiplicador de los efectos de la edad en la fertilidad.</LTS_AgeFertilityImpactFactor.description>
+  <LTS_AgeFertilityImpactFactor.label>mult. impacto edad sobre fertilidad</LTS_AgeFertilityImpactFactor.label>
+  <LTS_DarkVision.description>Qué tan buena es la visión de una persona en la oscuridad.</LTS_DarkVision.description>
+  <LTS_DarkVision.label>visión nocturna</LTS_DarkVision.label>
+  <LTS_HediffAimOnTargetFactor.description>Un multiplicador de la precisión de los disparos contra esta criatura.</LTS_HediffAimOnTargetFactor.description>
+  <LTS_HediffAimOnTargetFactor.label>factor de precisión en el objetivo</LTS_HediffAimOnTargetFactor.label>
+  <LTS_HideGeneTailGraphic_Bool.description>Un atributo oculto utilizado para determinar si se debe ocultar el gráfico de cola generado por genes.</LTS_HideGeneTailGraphic_Bool.description>
+  <LTS_HideGeneTailGraphic_Bool.label>ocultar gráfico de cola genética</LTS_HideGeneTailGraphic_Bool.label>
+  <LTS_SkillDecayFactor.description>Un multiplicador de la velocidad con la que una persona olvida habilidades.</LTS_SkillDecayFactor.description>
+  <LTS_SkillDecayFactor.label>factor de deterioro de habilidades</LTS_SkillDecayFactor.label>
+  <LTS_TerrainDifficultyFactor.description>un multiplicador de cuánto afecta el terreno difícil al movimiento de una persona.</LTS_TerrainDifficultyFactor.description>
+  <LTS_TerrainDifficultyFactor.label>factor de dificultad del terreno</LTS_TerrainDifficultyFactor.label>
+  <LTS_WaterTerrainDifficultyFactor.description>un multiplicador de cuánto afecta el agua al movimiento de una persona.</LTS_WaterTerrainDifficultyFactor.description>
+  <LTS_WaterTerrainDifficultyFactor.label>factor de dificultad del terreno acuático</LTS_WaterTerrainDifficultyFactor.label>
+  <PsychicShieldMaxHealth.description>La salud base de un escudo psíquico.</PsychicShieldMaxHealth.description>
+  <PsychicShieldMaxHealth.label>salud base del escudo psíquico</PsychicShieldMaxHealth.label>
+  <PsyfocusPerKill.description>Cuánto psicofoco recupera esta persona al matar a un humanoide.</PsyfocusPerKill.description>
+  <PsyfocusPerKill.label>psicofoco al matar</PsyfocusPerKill.label>
+</LanguageData>

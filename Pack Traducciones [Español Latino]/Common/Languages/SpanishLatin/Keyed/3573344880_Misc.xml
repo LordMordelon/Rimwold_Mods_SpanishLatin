@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <USH_GE_EnableMechSetting>Habilitar mecanoides hackeables</USH_GE_EnableMechSetting>
+  <USH_GE_EnableMechSettingDesc>Si los mecanoides pueden ser hackeados o no. Cambiar este ajuste requiere reiniciar la partida para que funcione.</USH_GE_EnableMechSettingDesc>
+  <USH_GE_EnableTurretSetting>Habilitar torretas hackeables</USH_GE_EnableTurretSetting>
+  <USH_GE_EnableTurretSettingDesc>Si las torretas pueden ser hackeadas o no. Cambiar este ajuste requiere reiniciar la partida para que funcione.</USH_GE_EnableTurretSettingDesc>
+  <USH_HE_AbilityLearnedLetter>Después de un entrenamiento intensivo de ejecución de {0}, ahora puede ser usado por {PAWN}.</USH_HE_AbilityLearnedLetter>
+  <USH_HE_AbilityLearnedLetterLabel>{0} aprendido</USH_HE_AbilityLearnedLetterLabel>
+  <USH_HE_AlreadyBroken>Ya está roto</USH_HE_AlreadyBroken>
+  <USH_HE_AlreadyHacked>Ya hackeado</USH_HE_AlreadyHacked>
+  <USH_HE_BelongsToHacker>Pertenece al hacker</USH_HE_BelongsToHacker>
+  <USH_HE_BlackBoxLetter>Un satélite de vigilancia propiedad de {OWNER} se estrelló en una órbita cercana y su registrador de vuelo cayó cerca. Contiene datos sensibles sobre la facción {COMPROMISED}.\n\nPuedes hackearlo para ganar buena voluntad con {COMPROMISED}, pero esta acción podría causar que {OWNER} te asalte.</USH_HE_BlackBoxLetter>
+  <USH_HE_BlackBoxLetterLabel>Choque de satélite</USH_HE_BlackBoxLetterLabel>
+  <USH_HE_BlackICEWarning>El dispositivo protegido por Black ICE fue designado para la extracción de datos</USH_HE_BlackICEWarning>
+  <USH_HE_BreakerFailLetter>El sistema de seguridad respondió al rompehielos (ICE breaker) y se defendió instalando un protocolo de autodestrucción en el dispositivo. Esto resultó en una explosión.</USH_HE_BreakerFailLetter>
+  <USH_HE_BreakerFailLetterLabel>Respuesta de Black ICE</USH_HE_BreakerFailLetterLabel>
+  <USH_HE_CannotInstall>No se puede instalar</USH_HE_CannotInstall>
+  <USH_HE_CannotUseNotHacker>No se puede usar: Sin ciberenlace</USH_HE_CannotUseNotHacker>
+  <USH_HE_CommandCancelRipDesignation>Cancelar extracción de datos</USH_HE_CommandCancelRipDesignation>
+  <USH_HE_CommandCancelRipDesignationDesc>Cancela la designación de extracción de datos.</USH_HE_CommandCancelRipDesignationDesc>
+  <USH_HE_CommandChooseDataOutput>Elegir resultado de la extracción de datos</USH_HE_CommandChooseDataOutput>
+  <USH_HE_CommandChooseDataOutputDesc>Selecciona qué se debe producir como resultado de hackear este dispositivo.</USH_HE_CommandChooseDataOutputDesc>
+  <USH_HE_CommandChooseDataSource>Elegir fuente de datos hackeable</USH_HE_CommandChooseDataSource>
+  <USH_HE_CommandChooseToHack>Elegir objetivo para hackear</USH_HE_CommandChooseToHack>
+  <USH_HE_CommandIgnoreAutoHack>Alternar ignorar hackeo automático</USH_HE_CommandIgnoreAutoHack>
+  <USH_HE_CommandIgnoreAutoHackDesc>Si está activado, el hacker apuntará automáticamente a todos los dispositivos hackeables ignorando su interruptor de hackeo automático.</USH_HE_CommandIgnoreAutoHackDesc>
+  <USH_HE_CommandRipDesignation>Marcar para extracción de datos</USH_HE_CommandRipDesignation>
+  <USH_HE_CommandRipDesignationDesc>Marca el dispositivo para la extracción de ciberdatos. Una vez extraídos, los sistemas de seguridad internos del dispositivo se activarán. El proceso se inicia automáticamente durante el hackeo.</USH_HE_CommandRipDesignationDesc>
+  <USH_HE_CommandStartWaking>Empezar a despertar</USH_HE_CommandStartWaking>
+  <USH_HE_CommandStartWakingDesc>Desconecta de forma lenta y segura al hacker contenido del ciberespacio y lo expulsa automáticamente al terminar.</USH_HE_CommandStartWakingDesc>
+  <USH_HE_CommandStopWaking>Cancelar despertar</USH_HE_CommandStopWaking>
+  <USH_HE_CommandStopWakingDesc>Cancela el procedimiento de despertar.</USH_HE_CommandStopWakingDesc>
+  <USH_HE_ConfirmInstallCyberlinkIntellectual>Un hacker debe ser capaz de realizar tareas intelectuales para operar.\n\n¿Estás seguro de que quieres continuar?</USH_HE_ConfirmInstallCyberlinkIntellectual>
+  <USH_HE_CyberpodGuestsNotAllowed>No se permiten miembros temporales de la facción.</USH_HE_CyberpodGuestsNotAllowed>
+  <USH_HE_CyberspaceLetter>{PAWN} con un ciberenlace instalado ha comenzado a hackear {BUILDING}, que está protegido por {HACKSET}. Si el sistema está activo, el hacker es ahora vulnerable a nuevas ciberamenazas y puede activar respuestas de seguridad especiales con una probabilidad que depende del sigilo del hacker.\n\nLos colonos que no estén conectados al ciberespacio mediante un enlace no se verán afectados, por lo que siempre debes considerar quién está hackeando dispositivos con hacksets de seguridad más avanzados.\n\nSe activan al recibir daños físicos o al ser extraídos.\n\nY recuerda: no hay cuchara.</USH_HE_CyberspaceLetter>
+  <USH_HE_CyberspaceLetterLabel>Está empezando a creer...</USH_HE_CyberspaceLetterLabel>
+  <USH_HE_DataRippingProgress>Progreso de extracción de datos</USH_HE_DataRippingProgress>
+  <USH_HE_DisabledOutcomes>Desactivado</USH_HE_DisabledOutcomes>
+  <USH_HE_EnterCyberpod>Entrar al ciberpod</USH_HE_EnterCyberpod>
+  <USH_HE_HackActions>Acciones de hackeo</USH_HE_HackActions>
+  <USH_HE_HackActionsHacksetDesc>Qué acciones de hackeo contiene este tipo de hackset.</USH_HE_HackActionsHacksetDesc>
+  <USH_HE_HackActionsProbabilities>Acciones de hackeo con probabilidades</USH_HE_HackActionsProbabilities>
+  <USH_HE_HackPoints>Puntos de hackeo</USH_HE_HackPoints>
+  <USH_HE_HackToDisable>Hackear para desactivar.</USH_HE_HackToDisable>
+  <USH_HE_HackToReconfigure>Hackear para reconfigurar.</USH_HE_HackToReconfigure>
+  <USH_HE_Hacking>Hackeando {THING} ({PROGRESS})</USH_HE_Hacking>
+  <USH_HE_HacksetActive>activo</USH_HE_HacksetActive>
+  <USH_HE_HacksetDormant>latente</USH_HE_HacksetDormant>
+  <USH_HE_ICEBreakerInstalled>Black ICE roto</USH_HE_ICEBreakerInstalled>
+  <USH_HE_IncompatibleHediff>Ya tiene {HEDIFF}</USH_HE_IncompatibleHediff>
+  <USH_HE_InstallICEBreaker>Instalar rompehielos (ICE breaker)</USH_HE_InstallICEBreaker>
+  <USH_HE_MentalStateReason>Causado por hackear {0}.</USH_HE_MentalStateReason>
+  <USH_HE_MissingCyberlink>Falta ciberenlace</USH_HE_MissingCyberlink>
+  <USH_HE_MustHaveAnyHediff>Debe tener alguno de: {HEDIFFS}</USH_HE_MustHaveAnyHediff>
+  <USH_HE_NeedsBlackICE>Sin Black ICE</USH_HE_NeedsBlackICE>
+  <USH_HE_NoNewData>Ya se está extrayendo información</USH_HE_NoNewData>
+  <USH_HE_OrderHackTarget>Hackear objetivo</USH_HE_OrderHackTarget>
+  <USH_HE_OrderHackTargetDesc>Selecciona un objetivo para ser hackeado por este hacker.</USH_HE_OrderHackTargetDesc>
+  <USH_HE_OutcomeMessage>{HACKSET} ha causado {OUTCOME} en {PAWN}.</USH_HE_OutcomeMessage>
+  <USH_HE_RaidBlackBoxLetter>La facción {FACTION} detectó la reciente transferencia de datos de la caja negra de su satélite y ahora se dirigen a tu ubicación.\n\nLlegarán pronto.</USH_HE_RaidBlackBoxLetter>
+  <USH_HE_RaidLetter>Parece que el hacker que usó anteriormente el ciberdeck de alguna manera enfureció a {FACTION}, y ahora vienen a esta ubicación. Es posible que hayan estado tratando de localizar al hacker durante meses, o incluso más.\n\nLlegarán pronto.</USH_HE_RaidLetter>
+  <USH_HE_RaidLetterLabel>¡Asalto entrante!</USH_HE_RaidLetterLabel>
+  <USH_HE_Reconfigured>Reconfigurado</USH_HE_Reconfigured>
+  <USH_HE_RipperInstalled>Dispositivo extraído</USH_HE_RipperInstalled>
+  <USH_HE_RippingMessage>El dispositivo designado será extraído tan pronto como alguien comience a hackearlo. Este proceso permite la extracción de ciberdatos y activa los sistemas de seguridad internos del dispositivo. También pueden autoactivarse al detectar daños físicos en la electrónica.\n\nLas medidas de seguridad solo afectarán a los hackers con ciberenlaces instalados.</USH_HE_RippingMessage>
+  <USH_HE_SecurityHackset>Hackset de seguridad</USH_HE_SecurityHackset>
+  <USH_HE_SecurityHacksetDesc>Qué tipo de hackset protege este dispositivo durante la extracción de datos.</USH_HE_SecurityHacksetDesc>
+  <USH_HE_WakingUpProgress>Despertando: {TIME}</USH_HE_WakingUpProgress>
+  <USH_MessageNoResearchBench>No se puede utilizar: No hay una mesa de investigación accesible y sin reservar disponible.</USH_MessageNoResearchBench>
+  <USH_NoResearchProject>No hay un proyecto de investigación activo</USH_NoResearchProject>
+  <USH_UtilizeCyberdata>Utilizar {0}</USH_UtilizeCyberdata>
+  <USH_UtilizeCyberdataPoints>Utilizar {0} (por {1} puntos)</USH_UtilizeCyberdataPoints>
+</LanguageData>

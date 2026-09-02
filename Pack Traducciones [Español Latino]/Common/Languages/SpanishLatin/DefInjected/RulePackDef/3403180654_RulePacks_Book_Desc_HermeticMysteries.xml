@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <ABooks_HermeticMysteries_Description.rulePack.rulesStrings>
+    <li>desc-&gt;[intro] [conceptExploration]. [writingQualitySentence]. [maybe_date][ending]</li>
+    <li>desc-&gt;[conceptExploration]: [impactStatement]. [writingQualitySentence]. [maybe_date][ending]</li>
+    <li>desc-&gt;[intro] [conceptExploration] [contextStatement]. [writingQualitySentence]. [maybe_date][ending]</li>
+    <li>ending-&gt;\n\nQuienquiera que haya creado este tomo aparentemente confundía los dos significados de la palabra "hermético". Confusamente, parece haber funcionado... Parece que el libro se autodestruirá después de ser leído una vez.</li>
+    <li>intro-&gt;Este [bookType] [writingQualityAdjective] revela la enigmática interacción entre</li>
+    <li>intro-&gt;Una exploración [writingQualityAdjective] del vínculo críptico entre</li>
+    <li>intro-&gt;Un [bookType] atemporal que narra las conexiones ocultas de</li>
+    <li>intro-&gt;Un tratado [writingQualityAdjective] que descubre la naturaleza dual de</li>
+    <li>intro-&gt;Un [bookType] extraordinario que une los aspectos arcanos y mundanos de</li>
+    <li>intro-&gt;Una exploración inquietantemente vívida de los misterios que rodean</li>
+    <li>conceptExploration-&gt;la influencia divina de Hermes y el principio de los contenedores sellados</li>
+    <li>conceptExploration-&gt;la sabiduría oculta dentro de los sellos herméticos</li>
+    <li>conceptExploration-&gt;el delicado arte de abrir lo que estaba cerrado</li>
+    <li>conceptExploration-&gt;los antiguos secretos codificados en artefactos sellados</li>
+    <li>conceptExploration-&gt;cómo lo divino y lo mecánico se entrelazan en actos de desbloqueo</li>
+    <li>conceptExploration-&gt;el conocimiento críptico que gobierna los tesoros sellados</li>
+    <li>contextStatement-&gt;a través de parábolas de Hermes y diagramas técnicos</li>
+    <li>contextStatement-&gt;, mezclando mitología y ciencia</li>
+    <li>contextStatement-&gt;superponiendo alegorías divinas y conocimiento práctico</li>
+    <li>contextStatement-&gt;con susurros de verdad arcana y precisión mecánica</li>
+    <li>contextStatement-&gt;a través de instrucciones veladas y poesía críptica</li>
+    <li>impactStatement-&gt;Sus enseñanzas empoderarán a aquellos que buscan el dominio sobre lo sellado</li>
+    <li>impactStatement-&gt;Ofrece una visión inigualable para los practicantes de las artes herméticas</li>
+    <li>impactStatement-&gt;Sus lecciones preparan al lector para abordar cajas con precisión divina</li>
+    <li>impactStatement-&gt;Este libro es una clave para desbloquear lo que yace oculto tanto en la mente como en la materia</li>
+    <li>impactStatement-&gt;Equipa al lector con herramientas para dominar los enigmas de la contención</li>
+    <li>writingQualityAdjective(quality==6)-&gt;elaborado magistralmente</li>
+    <li>writingQualityAdjective(quality==5)-&gt;brillantemente perspicaz</li>
+    <li>writingQualityAdjective(quality==4)-&gt;estimulante y preciso</li>
+    <li>writingQualityAdjective(quality==3)-&gt;funcional pero poco inspirado</li>
+    <li>writingQualityAdjective(quality==2)-&gt;mediocre</li>
+    <li>writingQualityAdjective(quality==1)-&gt;apenas comprensible</li>
+    <li>writingQualityAdjective(quality==0)-&gt;revoltijo incoherente de un</li>
+    <li>writingQualitySentence(quality[greater_than]3)-&gt;Es [excellentDesc] [excellentExtra]</li>
+    <li>writingQualitySentence(quality[less_than]4,quality[greater_than]1)-&gt;Es [decentDesc] [decentExtra]</li>
+    <li>writingQualitySentence(quality[less_than]2)-&gt;Es [awfulDesc] [awfulExtra]</li>
+    <li>excellentDesc-&gt;una obra maestra de conocimiento arcano y práctico</li>
+    <li>excellentDesc-&gt;una guía invaluable de los misterios herméticos</li>
+    <li>excellentDesc-&gt;una mezcla elaborada por expertos de sabiduría divina y práctica</li>
+    <li>excellentDesc-&gt;un examen profundamente original del desbloqueo y la contención</li>
+    <li>excellentDesc-&gt;rico en conocimiento esotérico y consejos prácticos</li>
+    <li>excellentExtra-&gt;que une los reinos divino y mecánico</li>
+    <li>excellentExtra-&gt;que inspira dominio sobre lo críptico y lo sellado</li>
+    <li>excellentExtra-&gt;que ofrece una visión profunda del arte de abrir</li>
+    <li>decentDesc-&gt;una guía aceptable de la teoría hermética</li>
+    <li>decentDesc-&gt;interesante pero construido de manera desigual</li>
+    <li>decentDesc-&gt;útil en algunos aspectos pero demasiado críptico</li>
+    <li>decentDesc-&gt;centrado en interpretaciones estrechas del oficio hermético</li>
+    <li>decentDesc-&gt;ocasionalmente perspicaz pero a menudo inconsistente</li>
+    <li>decentExtra-&gt;y puede ayudar a aquellos con conocimientos previos</li>
+    <li>decentExtra-&gt;aunque sus aplicaciones a veces no están claras</li>
+    <li>decentExtra-&gt;pero sus enseñanzas carecen de estructura cohesiva</li>
+    <li>awfulDesc-&gt;una mezcla caótica de mitos e instrucciones sin sentido</li>
+    <li>awfulDesc-&gt;una guía sin sentido y sin valor práctico</li>
+    <li>awfulDesc-&gt;un revoltijo confuso de consejos contradictorios</li>
+    <li>awfulDesc-&gt;un desastre poco práctico de referencias crípticas</li>
+    <li>awfulDesc-&gt;un divagar incoherente sin sabiduría discernible</li>
+    <li>awfulExtra-&gt;y totalmente inútil para cualquiera que busque orientación práctica</li>
+    <li>awfulExtra-&gt;y activamente engañoso para aquellos que buscan claridad</li>
+    <li>maybe_date-&gt;</li>
+    <li>maybe_date-&gt;El tomo fue elaborado por primera vez [date_form].</li>
+    <li>maybe_date-&gt;Su origen está envuelto en misterio, al igual que su contenido.</li>
+    <li>date_form-&gt;en tiempos antiguos</li>
+    <li>date_form-&gt;en el [date]</li>
+    <li>date_form-&gt;durante [date_season]</li>
+    <li>bookType(p=4)-&gt;manual arcano</li>
+    <li>bookType(p=3)-&gt;guía críptica</li>
+    <li>bookType(p=2)-&gt;tratado sellado</li>
+    <li>bookType(p=1)-&gt;manuscrito esotérico</li>
+  </ABooks_HermeticMysteries_Description.rulePack.rulesStrings>
+</LanguageData>

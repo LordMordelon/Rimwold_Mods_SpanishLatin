@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <AncientCorps.DeactivatedMech_CannotHack>No se puede hackear</AncientCorps.DeactivatedMech_CannotHack>
+  <AncientCorps.DeactivatedMech_Disable>desactivar meca</AncientCorps.DeactivatedMech_Disable>
+  <AncientCorps.DeactivatedMech_TryHack>Intentar hackear {0}</AncientCorps.DeactivatedMech_TryHack>
+  <AncientCorps.Reason_NoEnoughBandwidth>ancho de banda necesario:{0}</AncientCorps.Reason_NoEnoughBandwidth>
+  <AncientCorps.Reason_NotMechanitor>no es un mecanizador</AncientCorps.Reason_NotMechanitor>
+  <AncientCorps.Reason_WorkTypeDisabled>tipo de trabajo deshabilitado</AncientCorps.Reason_WorkTypeDisabled>
+  <DMSAC_Company.Desc>Esta es una {1} afiliada a {0},</DMSAC_Company.Desc>
+  <DMSAC_Company.Label>{1}</DMSAC_Company.Label>
+  <DMSAC_Company.NoTarget>sus objetivos son desconocidos</DMSAC_Company.NoTarget>
+  <DMSAC_Company.Target>sus objetivos probablemente sean {0} dentro de su radio de combate</DMSAC_Company.Target>
+  <DMSAC_CompanyRaid>Ataque: {0}</DMSAC_CompanyRaid>
+  <DMSAC_CompanyRaid_Desc>Una compañía de automatroides perteneciente a {0} ha rodeado tu colonia. Son {1}. Estos automatroides comandados por relay-commanders lanzarán ataques contra colonias y desarmarán intencionalmente fuerzas ilegales para desalentar ataques a sus instalaciones militares.</DMSAC_CompanyRaid_Desc>
+  <DMSAC_CorpAlly>Comunicación</DMSAC_CorpAlly>
+  <DMSAC_CorpAllyDesc>"Código 5, personal registrado identificado."\n"Aquí {0}, si requiere recursos, por favor envíe formalmente un formulario de requisición de excedentes militares a la oficina de logística de {0}."\n\nPor confianza en {1}, el antiguo sistema de comando de automatroides hizo la vista gorda ante las acciones de los colonos pero emitió una advertencia según el protocolo.</DMSAC_CorpAllyDesc>
+  <DMSAC_CorpAllyDown>Comunicación</DMSAC_CorpAllyDown>
+  <DMSAC_CorpAllyDownDesc>"Código 5, personal registrado identificado."\n"Aquí {0}, rindiendo tributo al Asesino de Zalta y agradeciéndole por sus contribuciones al proyecto de colonización."\n\nEste antiguo sistema de comando de automatroides reconoció la identidad de {1}. Por respeto a {1}, ha autorizado a los colonos a operar libremente en esta área.</DMSAC_CorpAllyDownDesc>
+  <DMSAC_CorpHostile>Refuerzos</DMSAC_CorpHostile>
+  <DMSAC_CorpHostileDesc>Una patrulla de automatroides ha descubierto colonos intruyendo en una instalación militar. Después de un breve período de preparación, intentarán expulsar a tus colonos.\n\nBasado en fluctuaciones de frecuencia de comunicación interceptadas, patrullas de automatroides cercanas en esta área pueden estar en camino como refuerzo.</DMSAC_CorpHostileDesc>
+  <DMSAC_CorpNeutral>Comunicación</DMSAC_CorpNeutral>
+  <DMSAC_CorpNeutralDesc>"Código 5, personal registrado identificado."\n"Aquí {0}, códigos IFF sincronizados, alto el fuego."\n\nEste antiguo sistema de comando de automatroides reconoció la identidad de {1}. Por respeto a {1}, ha detenido temporalmente las hostilidades hacia tus colonos.</DMSAC_CorpNeutralDesc>
+  <DMSAC_HackFailed>Hackeo fallido</DMSAC_HackFailed>
+  <DMSAC_HackFailedDesc>Debido a los errores de {0}, el meca no pudo ser controlado como se esperaba.</DMSAC_HackFailedDesc>
+  <DMSAC_Level.0>Nivel O   {0} mantuvo un número mínimo de patrullas en las instalaciones y retiró los automatroides medianos de la unidad, devolviéndolos a sus bases para mantenimiento.</DMSAC_Level.0>
+  <DMSAC_Level.1>Nivel I   {0} desplegó patrullas todo terreno entre sus instalaciones terrestres para reducir los intervalos de refuerzo para las instalaciones atacadas, y desplegó automatroides medianos en los equipos de patrulla.</DMSAC_Level.1>
+  <DMSAC_Level.2>Nivel II  Basado en la situación actual, {0} reactivará algunos de sus automatroides grandes y los movilizará en cualquier momento, y organizará un pequeño número de pelotones blindados como fuerza de tarea para reforzar las instalaciones terrestres.</DMSAC_Level.2>
+  <DMSAC_Level.3>Nivel III Debido a la reciente situación tensa, los automatroides ultra-pesados han sido puestos en estado de combate y desplegados en varias áreas para proporcionar refuerzos en cualquier momento. {0} llevará a cabo la expulsión armada de sitios militares ilegales vecinos de acuerdo con las regulaciones de estado de alerta de la convención de la flota colonial.</DMSAC_Level.3>
+  <DMSAC_Level.4>Nivel IV  {0} confirmó que la Primera Convención de La Haya ya no era aplicable a la situación actual y emitió una declaración formal de guerra de acuerdo con la Tercera Convención de La Haya. \n\nAdemás, según el artículo 2 de la segunda convención de la Haya, los civiles en áreas no ocupadas que tomen las armas contra las fuerzas de {0} serán considerados combatientes según lo definido por las leyes de guerra.</DMSAC_Level.4>
+  <DMSAC_Level.5>Nivel V   De acuerdo con las regulaciones de alerta de la convención de la flota colonial, {0} ha determinado que se han cumplido las condiciones para justificar una ofensiva y la movilización de una brigada blindada pesada para llevar a cabo la operación.\n\n{0} ocupará y tomará el control de áreas identificadas bajo control hostil en cumplimiento del derecho internacional humanitario y el Estatuto de Roma, y contraatacará de manera proporcional a las fuerzas hostiles que ataquen las instalaciones.</DMSAC_Level.5>
+  <DMSAC_Level_Down>Defcon reducido</DMSAC_Level_Down>
+  <DMSAC_Level_Down_Desc>Basado en cambios recientes en la actividad observada, el Comando {0} ha reducido su nivel de alerta interno. Su nivel Defcon ahora es</DMSAC_Level_Down_Desc>
+  <DMSAC_Level_Rise>Defcon elevado</DMSAC_Level_Rise>
+  <DMSAC_Level_Rise_Desc>Debido a eventos recientes, el comando de {0} ha elevado el nivel de condición de defensa de sus unidades. Su nivel Defcon ahora es</DMSAC_Level_Rise_Desc>
+  <DMSAC_World_Declaration>Guerra declarada</DMSAC_World_Declaration>
+  <DMSAC_World_Declaration_Desc>Según las últimas noticias, {0} transmitió una declaración de guerra contra la facción local {1}, y mencionó que todas las operaciones militares en áreas controladas por {1} se llevarán a cabo en cumplimiento de las leyes de guerra.\n\nAún no sabemos qué impacto tendrá esto.</DMSAC_World_Declaration_Desc>
+  <DMSAC_World_Takeover>toma de control</DMSAC_World_Takeover>
+  <DMSAC_World_Takeover_Desc>Según las últimas noticias, una fuerza perteneciente a {0} tomó el control de {2}, que originalmente pertenecía a {1}, y ahora la base ha sido renombrada como {3}</DMSAC_World_Takeover_Desc>
+  <DMSAC_World_WarOver>Guerra terminada</DMSAC_World_WarOver>
+  <DMSAC_World_WarOver_Desc>Después de tomar la última base, {0} anunció que la operación militar contra {1} había sido completada con éxito. Como resultado de la operación, la influencia de {1} en el planeta fue completamente erradicada.\n\nSegún la inteligencia, este ejército ha vuelto a su modo de patrulla original después de completar su misión.\nLa guerra ha terminado...\n\nPor ahora.</DMSAC_World_WarOver_Desc>
+</LanguageData>

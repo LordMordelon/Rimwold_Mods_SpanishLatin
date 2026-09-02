@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RS.CancelGeneSeparating>Cancelar separación de genes</RS.CancelGeneSeparating>
+  <RS.CancelGeneSeparatingDesc>Cancela la separación de genes.</RS.CancelGeneSeparatingDesc>
+  <RS.CancelInfusingDesc>Cancela la infusión de esta espina del vacío en {PAWN_nameDef}.</RS.CancelInfusingDesc>
+  <RS.CancelInfusion>Cancelar infusión</RS.CancelInfusion>
+  <RS.CancelXenogermDuplication>Cancelar duplicación de xenogermen</RS.CancelXenogermDuplication>
+  <RS.CancelXenogermDuplicationDesc>Cancela la duplicación del xenogermen.</RS.CancelXenogermDuplicationDesc>
+  <RS.CannotInfuseAlreadyHasDarkGene>No se puede infundir {1}, {PAWN_nameDef} ya tiene el gen oscuro.</RS.CannotInfuseAlreadyHasDarkGene>
+  <RS.CentrigureWorking>La centrífuga genética está funcionando.</RS.CentrigureWorking>
+  <RS.ContainsGenepack>Contiene: {0}</RS.ContainsGenepack>
+  <RS.ContainsXenogerm>Contiene: {0}</RS.ContainsXenogerm>
+  <RS.DuplicateXenogerm>Duplicar xenogermen</RS.DuplicateXenogerm>
+  <RS.DuplicateXenogermDesc>Selecciona un xenogermen para duplicar. Los xenogérmenes con genes de arquitas requieren cargar cápsulas de arquitas.</RS.DuplicateXenogermDesc>
+  <RS.DuplicationProgress>Duplicando: {0}</RS.DuplicationProgress>
+  <RS.DuplicatorWorking>El duplicador de xenogérmenes está funcionando</RS.DuplicatorWorking>
+  <RS.EjectArchites>Expulsar cápsulas de arquitas</RS.EjectArchites>
+  <RS.EjectArchitesDesc>Expulsa todas las cápsulas de arquitas contenidas al suelo.</RS.EjectArchitesDesc>
+  <RS.FinishedSeparatingDestroyedMessage>¡La centrífuga genética ha terminado de separar los paquetes genéticos! {0} fue destruido durante el proceso.</RS.FinishedSeparatingDestroyedMessage>
+  <RS.FinishedSeparatingMessage>¡La centrífuga genética ha terminado de separar los paquetes genéticos!</RS.FinishedSeparatingMessage>
+  <RS.FinishedXenogermDuplicationMessage>¡El duplicador de xenogérmenes ha terminado de duplicar el xenogermen!</RS.FinishedXenogermDuplicationMessage>
+  <RS.InfuseDarkArchite>Infundir espina del vacío</RS.InfuseDarkArchite>
+  <RS.InfuseDarkArchiteDesc>Infundir esto en una persona para introducir un gen de arquita oscura en su código genético.\n\nEsta es una operación quirúrgica, por lo que requiere un médico y una cama médica.</RS.InfuseDarkArchiteDesc>
+  <RS.InfuseDarkArchiteWarningDesc>Infundir una espina del vacío pondrá a {PAWN_nameDef} en un coma breve mientras el gen de la espina se integra. En promedio, esto dura {COMADURATION}.</RS.InfuseDarkArchiteWarningDesc>
+  <RS.InfuseDarkArchiteWarningNewMetabolism>Tras la infusión, {PAWN_nameDef} tendrá un valor de metabolismo de {MET} y un multiplicador de consumo de comida de {CONSUMPTION}.</RS.InfuseDarkArchiteWarningNewMetabolism>
+  <RS.LetterDarkArchiteOrderedInfused>Has ordenado infundir una espina del vacío en {PAWN_nameDef}. Este procedimiento requiere una cama médica.\n\nPuedes cancelar este procedimiento yendo a la pestaña Salud -&gt; Operaciones de {PAWN_nameDef}.</RS.LetterDarkArchiteOrderedInfused>
+  <RS.LetterLabelDarkArchiteOrderedInfused>Infusión de espina del vacío ordenada</RS.LetterLabelDarkArchiteOrderedInfused>
+  <RS.MessageCannotInfuseInTempFactionMembers>No se puede infundir en miembros temporales de la facción.</RS.MessageCannotInfuseInTempFactionMembers>
+  <RS.NotEnoughArchiteCapsulesLoaded>¿Realmente deseas duplicar el xenogermen? No hay suficientes cápsulas de arquitas cargadas para duplicar los genes de arquitas presentes en el xenogermen.</RS.NotEnoughArchiteCapsulesLoaded>
+  <RS.OrderInfusionIntoPawn>Ordenar infusión en {PAWN_nameDef}</RS.OrderInfusionIntoPawn>
+  <RS.SelectAGeneToSeparate>Selecciona un gen para separar.</RS.SelectAGeneToSeparate>
+  <RS.SelectGene>Seleccionar gen</RS.SelectGene>
+  <RS.SelectGeneExplanation>El gen seleccionado se separará del resto del paquete genético.</RS.SelectGeneExplanation>
+  <RS.SeparateGene>Separar gen</RS.SeparateGene>
+  <RS.SeparateGeneDesc>Selecciona un paquete genético del cual separar un gen.</RS.SeparateGeneDesc>
+  <RS.SeparateGeneExplanation>Tras una separación exitosa, se generarán dos paquetes genéticos: uno solo con el gen seleccionado y el otro con el resto. Este proceso no es perfecto y existe una pequeña probabilidad de que uno de los paquetes genéticos sea destruido.</RS.SeparateGeneExplanation>
+  <RS.SeparatingGenes>Separando genes</RS.SeparatingGenes>
+  <RS.SeparatingProgress>Separando: {0}</RS.SeparatingProgress>
+  <RS.StartSeparating>Iniciar separación de genes</RS.StartSeparating>
+  <RS.TargetArchiteCapsuleLevel>Cantidad objetivo de cápsulas de arquitas: {0}</RS.TargetArchiteCapsuleLevel>
+  <RS.TargetMustHaveAtLeastOneDarkGene>El objetivo debe tener al menos un gen de arquitas oscuras.</RS.TargetMustHaveAtLeastOneDarkGene>
+</LanguageData>

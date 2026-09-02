@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <USH_SleepingSicknessAntiserum.description>Una mezcla altamente concentrada de anticuerpos mejorada con tecnología espacial que se propaga rápidamente a través del torrente sanguíneo del usuario. Se puede ingerir, otorgando inmunidad instantánea a la enfermedad del sueño. La poderosa medicina de mundobrillante lo hace altamente efectivo y capaz de matar incluso parásitos.</USH_SleepingSicknessAntiserum.description>
+  <USH_SleepingSicknessAntiserum.ingestible.ingestCommandString>Inyectar {0}</USH_SleepingSicknessAntiserum.ingestible.ingestCommandString>
+  <USH_SleepingSicknessAntiserum.ingestible.ingestReportString>Inyectando {0}.</USH_SleepingSicknessAntiserum.ingestible.ingestReportString>
+  <USH_SleepingSicknessAntiserum.label>antisuero de la enfermedad del sueño</USH_SleepingSicknessAntiserum.label>
+  <USH_SleepingSicknessBarrel.description>Un barril lleno de gas de la enfermedad del sueño. Se enciende al recibir un disparo, lo que resulta en una explosión masiva de gas que infecta a todos a su alrededor.</USH_SleepingSicknessBarrel.description>
+  <USH_SleepingSicknessBarrel.label>barril de gas de la enfermedad del sueño</USH_SleepingSicknessBarrel.label>
+  <USH_SleepingSicknessGas.description>Un gas patógeno de la enfermedad del sueño</USH_SleepingSicknessGas.description>
+  <USH_SleepingSicknessGas.label>gas de parásito de la enfermedad del sueño</USH_SleepingSicknessGas.label>
+  <USH_SleepingSicknessGrenadeBullet.description>Una granada de gas</USH_SleepingSicknessGrenadeBullet.description>
+  <USH_SleepingSicknessGrenadeBullet.label>granada de gas</USH_SleepingSicknessGrenadeBullet.label>
+  <USH_SleepingSicknessGrenadeLauncher.description>Un lanzagranadas de gas de la enfermedad del sueño de grado militar destinado al uso anti-infantería.</USH_SleepingSicknessGrenadeLauncher.description>
+  <USH_SleepingSicknessGrenadeLauncher.label>lanzagás de la enfermedad del sueño</USH_SleepingSicknessGrenadeLauncher.label>
+  <USH_SleepingSicknessGrenadeLauncher.tools.barrel.label>cañón</USH_SleepingSicknessGrenadeLauncher.tools.barrel.label>
+  <USH_SleepingSicknessGrenadeLauncher.tools.stock.label>culata</USH_SleepingSicknessGrenadeLauncher.tools.stock.label>
+  <USH_SleepingSicknessGrenadeLauncher.verbs.Verb_Shoot.label>lanzagás de la enfermedad del sueño</USH_SleepingSicknessGrenadeLauncher.verbs.Verb_Shoot.label>
+  <USH_SleepingSicknessMissileBullet.label>misil de gas</USH_SleepingSicknessMissileBullet.label>
+  <USH_SleepingSicknessMissileLauncher.comps.CompInteractableRocketswarmLauncher.jobString>activar</USH_SleepingSicknessMissileLauncher.comps.CompInteractableRocketswarmLauncher.jobString>
+  <USH_SleepingSicknessMissileLauncher.comps.CompInteractableRocketswarmLauncher.onCooldownString>enfriando</USH_SleepingSicknessMissileLauncher.comps.CompInteractableRocketswarmLauncher.onCooldownString>
+  <USH_SleepingSicknessMissileLauncher.comps.CompRefuelable.fuelGizmoLabel>Misiles</USH_SleepingSicknessMissileLauncher.comps.CompRefuelable.fuelGizmoLabel>
+  <USH_SleepingSicknessMissileLauncher.comps.CompRefuelable.fuelLabel>Misiles</USH_SleepingSicknessMissileLauncher.comps.CompRefuelable.fuelLabel>
+  <USH_SleepingSicknessMissileLauncher.comps.CompRefuelable.outOfFuelMessage>Faltan misiles</USH_SleepingSicknessMissileLauncher.comps.CompRefuelable.outOfFuelMessage>
+  <USH_SleepingSicknessMissileLauncher.description>Un lanzamisiles de gas de la enfermedad del sueño de grado militar que dispara una sola andanada de cohetes cubriendo un área grande con gas de la enfermedad del sueño. La torreta no dispara hasta que alguien la activa. Es muy eficaz contra asedios, pero menos eficaz contra objetivos en movimiento. Una sola ráfaga de misiles puede debilitar gravemente cualquier asedio, matando potencialmente a los asaltantes.\nUn sistema de puntería integrado lo hace efectivo a largas distancias.\n\nUna vez disparado, debe enfriarse durante horas y recargarse para disparar de nuevo. Se reposta con grandes cantidades de patógenos de parásitos de la enfermedad del sueño.</USH_SleepingSicknessMissileLauncher.description>
+  <USH_SleepingSicknessMissileLauncher.label>lanzamisiles de gas de la enfermedad del sueño</USH_SleepingSicknessMissileLauncher.label>
+  <USH_SleepingSicknessMissileLauncherTurret.description>Un tubo de misil del tipo que generalmente se monta en una torreta de lanzamisiles de gas {0}.</USH_SleepingSicknessMissileLauncherTurret.description>
+  <USH_SleepingSicknessMissileLauncherTurret.label>tubo de misil</USH_SleepingSicknessMissileLauncherTurret.label>
+  <USH_SleepingSicknessMissileLauncherTurret.verbs.Verb_Shoot.label>tubo de misil</USH_SleepingSicknessMissileLauncherTurret.verbs.Verb_Shoot.label>
+  <USH_SleepingSicknessPathogen.description>Un patógeno de parásito de la enfermedad del sueño que es un ingrediente crucial en la producción de armas biológicas. Debe mantenerse en interiores a temperaturas bajo cero para mantenerse fresco y utilizable.</USH_SleepingSicknessPathogen.description>
+  <USH_SleepingSicknessPathogen.label>patógeno de parásito de la enfermedad del sueño</USH_SleepingSicknessPathogen.label>
+  <USH_SleepingSicknessReproductionPills.description>Un medicamento que contiene embriones de parásitos de la enfermedad del sueño con capacidades de reproducción mejoradas. Quien lo consuma se convertirá en una máquina viviente de cría de patógenos. El cuerpo del huésped arrojará continuamente patógenos de la enfermedad del sueño y recibirá daño interno en el proceso. Si se deja desatendido, morirá y producirá menos patógenos.\n\nTenga en cuenta que las criaturas grandes y domesticadas en manadas son las más adecuadas para ser huéspedes.</USH_SleepingSicknessReproductionPills.description>
+  <USH_SleepingSicknessReproductionPills.ingestible.ingestCommandString>Tomar {0}</USH_SleepingSicknessReproductionPills.ingestible.ingestCommandString>
+  <USH_SleepingSicknessReproductionPills.ingestible.ingestReportString>Tomando {0}.</USH_SleepingSicknessReproductionPills.ingestible.ingestReportString>
+  <USH_SleepingSicknessReproductionPills.label>píldoras de reproducción de la enfermedad del sueño</USH_SleepingSicknessReproductionPills.label>
+  <USH_SleepingSicknessSample.description>Una muestra de parásito de la enfermedad del sueño. Se puede usar en la producción de píldoras de reproducción especiales que producirán patógenos de la enfermedad del sueño después del consumo.\n\nSe puede obtener usando un muestreador de enfermedades en una criatura viva infectada con la enfermedad del sueño o fabricarse a partir de patógenos de la enfermedad del sueño.</USH_SleepingSicknessSample.description>
+  <USH_SleepingSicknessSample.label>muestra de parásito de la enfermedad del sueño</USH_SleepingSicknessSample.label>
+  <USH_SleepingSicknessShell.description>Un proyectil lleno de gas de la enfermedad del sueño. Se puede disparar desde morteros. Explota cuando se daña infectando a todos los cercanos.</USH_SleepingSicknessShell.description>
+  <USH_SleepingSicknessShell.label>obús de gas de la enfermedad del sueño</USH_SleepingSicknessShell.label>
+  <USH_SleepingSicknessShellBullet.description>Un obús de gas de la enfermedad del sueño</USH_SleepingSicknessShellBullet.description>
+  <USH_SleepingSicknessShellBullet.label>obús de gas de la enfermedad del sueño</USH_SleepingSicknessShellBullet.label>
+  <USH_SleepingSicknessVaccine.description>Una jeringa que contiene una mezcla cuidadosamente preparada de antígenos. Previene enfermarse de la enfermedad del sueño durante 8 días y proporciona protección total contra el gas patógeno de la enfermedad del sueño.\n\nTenga en cuenta que no cura las infecciones existentes.</USH_SleepingSicknessVaccine.description>
+  <USH_SleepingSicknessVaccine.ingestible.ingestCommandString>Inyectar {0}</USH_SleepingSicknessVaccine.ingestible.ingestCommandString>
+  <USH_SleepingSicknessVaccine.ingestible.ingestReportString>Inyectando {0}.</USH_SleepingSicknessVaccine.ingestible.ingestReportString>
+  <USH_SleepingSicknessVaccine.label>vacuna de la enfermedad del sueño</USH_SleepingSicknessVaccine.label>
+  <USH_SleepingSicknessVent.comps.CompGasVent.jobString>activar</USH_SleepingSicknessVent.comps.CompGasVent.jobString>
+  <USH_SleepingSicknessVent.comps.CompGasVent.onCooldownString>enfriando</USH_SleepingSicknessVent.comps.CompGasVent.onCooldownString>
+  <USH_SleepingSicknessVent.description>Una ventilación montada en la pared capaz de liberar compuestos tóxicos de gas de la enfermedad del sueño en el área objetivo. Consume patógenos por cada liberación de gas y requiere activación por parte de un colono.</USH_SleepingSicknessVent.description>
+  <USH_SleepingSicknessVent.label>ventilación de gas de la enfermedad del sueño</USH_SleepingSicknessVent.label>
+</LanguageData>
