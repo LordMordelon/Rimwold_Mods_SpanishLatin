@@ -220,13 +220,13 @@
   <!-- EN: remotely connect to a friendly mech. Can target mechs on the same map. Time depends on the targeted mechanoid. -->
   <APM.CommandCasket.Gizmo.Connect.Desc>conéctate a distancia a un meca aliado. Puede apuntar a mecas del mismo mapa. El tiempo depende del mecanoide señalado.</APM.CommandCasket.Gizmo.Connect.Desc>
   <!-- EN: bandwidth used: -->
-  <APM.CommandCasket.Inspection.Bandwidth>ancho de banda usado:</APM.CommandCasket.Inspection.Bandwidth>
+  <APM.CommandCasket.Inspection.Bandwidth>banda ancha usada:</APM.CommandCasket.Inspection.Bandwidth>
   <!-- EN: remote reconnect -->
   <APM.CommandCasket.Mech.Gizmo.Reconnect.Label>reconexión remota</APM.CommandCasket.Mech.Gizmo.Reconnect.Label>
   <!-- EN: remotely connect this mech to a mechanitor inside a mech command casket. -->
-  <APM.CommandCasket.Mech.Gizmo.Reconnect.Desc>conecta a distancia a este meca con un mecanizador que esté dentro de un ataúd de mando de mecas.</APM.CommandCasket.Mech.Gizmo.Reconnect.Desc>
+  <APM.CommandCasket.Mech.Gizmo.Reconnect.Desc>conecta a distancia a este meca con un mecanizador que esté dentro de un sarcófago de mando de mecas.</APM.CommandCasket.Mech.Gizmo.Reconnect.Desc>
   <!-- EN: (missing bandwidth) -->
-  <APM.CommandCasket.Mech.Gizmo.Reconnect.Floatmenu>(falta ancho de banda)</APM.CommandCasket.Mech.Gizmo.Reconnect.Floatmenu>
+  <APM.CommandCasket.Mech.Gizmo.Reconnect.Floatmenu>(falta banda ancha)</APM.CommandCasket.Mech.Gizmo.Reconnect.Floatmenu>
   <!-- EN: Open remotely -->
   <APM.CommandCasket.Gizmo.OpenStasisContainer.Label>Abrir a distancia</APM.CommandCasket.Gizmo.OpenStasisContainer.Label>
   <!-- EN: Hack remotely -->
@@ -258,7 +258,7 @@
   <!-- EN: Contains an unidentified mechanoid. -->
   <APM.MechanoidContainer.ContainsUnknown>Contiene un mecanoide sin identificar.</APM.MechanoidContainer.ContainsUnknown>
   <!-- EN: {0} forced {1} open without the bandwidth to hold what was inside. {2} is loose and answers to nobody until a mechanitor takes control of it. -->
-  <APM.MechanoidContainer.ForcedOpen>{0} forzó {1} sin tener ancho de banda para retener lo que había dentro. {2} anda suelto y no obedece a nadie hasta que un mecanizador tome su control.</APM.MechanoidContainer.ForcedOpen>
+  <APM.MechanoidContainer.ForcedOpen>{0} forzó {1} sin tener banda ancha para retener lo que había dentro. {2} anda suelto y no obedece a nadie hasta que un mecanizador tome su control.</APM.MechanoidContainer.ForcedOpen>
 
   <!-- Ravager & Artillery -->
   <!-- EN: Auto artillery -->

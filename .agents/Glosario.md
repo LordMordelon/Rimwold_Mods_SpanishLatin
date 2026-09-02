@@ -18,7 +18,8 @@ Glosario y guía de estilo centralizada para el proyecto de traducción al Espa�
 | mech | **meca** (pl. mecas) | Forma abreviada de "mecanoide" |
 | mechanoid | mecanoide | |
 | mechlink | **mecaenlace** | NO "mecoenlace" ni "mechlink" |
-| bandwidth | **ancho de banda** | Capacidad de control de mecas del mecanizador |
+| bandwidth | **banda ancha** | Término oficial de RimWorld ES. Capacidad de control de mecas del mecanizador. NO "ancho de banda" |
+| (mech) command casket | **sarcófago de mando** | Coherente con el "Sarcófago de criptosueño" vanilla. NO "ataúd de mando" |
 | control group | **grupo de control** | |
 | command range | rango de mando / alcance de mando | |
 | mech gestator | **gestador de mecas** | |
@@ -222,6 +223,18 @@ Bombero · Médico · Cuidar niños · Vigilante · Entretener · Cazar · Culti
 **Neuroformador de psicoenlace (psylink neuroformer):**
 > Un dispositivo consumible creado por la arqueotéc que forma o actualiza un psicoenlace en la mente del usuario. El usuario presiona el dispositivo sobre los ojos, donde se conecta directamente al cerebro y reestructura parte de este. Después, el dispositivo se desintegra en cenizas sin valor.
 
-**Ancho de banda (bandwidth):**
-> La cantidad de ancho de banda neuronal y de control que un mecanizador dispone para mantener mecas bajo su mando directo. Cada mecanoide vinculado consume una cantidad específica de ancho de banda; si el mecanizador excede su límite, los mecas pueden desvincularse o quedar incontrolados.
+**Banda ancha (bandwidth):**
+> La cantidad de banda ancha neuronal y de control de la que un mecanizador dispone para mantener mecas bajo su mando directo. Cada mecanoide vinculado consume una cantidad específica de banda ancha; si el mecanizador excede su límite, los mecas pueden desvincularse o quedar incontrolados.
+
+**Casco de mecalord (mechlord helmet) — referencia oficial vanilla:**
+> Un casco pesado de tejido de plastiacero repleto de equipo de asistencia para mecanizadores. El casco de mecalord amplifica de forma espectacular la banda ancha de un mecanizador, pero es menos protector que una armadura pesada especializada.
+
+**Traje de mecalord (mechlord suit) — referencia oficial vanilla:**
+> Un traje de armadura asistida con equipo de asistencia a los mecanizadores. El traje de mecalord amplía enormemente la banda ancha de un mecanizador, pero es algo menos protector que una armadura pesada específica.
+
+**Casco de mecacomandante (mech commander helmet) — referencia oficial vanilla:**
+> Un casco de combate de tejido de plastiacero diseñado para los mecanizadores de batalla. Lleva incorporados ordenadores y potenciadores de señal que aumentan moderadamente la banda ancha máxima del portador. Esto permite al mecanizador controlar más mecas.
+
+**Sarcófago de criptosueño (cryptosleep casket) — referencia oficial vanilla:**
+> Un sarcófago autoalimentado y diseñado para mantener a una persona con vida en un estado de animación suspendida durante muchos años.
 
