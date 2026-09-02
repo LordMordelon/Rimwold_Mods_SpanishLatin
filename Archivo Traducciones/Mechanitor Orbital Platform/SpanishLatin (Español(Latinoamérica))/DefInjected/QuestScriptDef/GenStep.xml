@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>questDescription->[discoveryMethod] the location of an abandoned orbital mechanitor platform. You don't detect any signs of life. However electronic signals are detected.\n\nYou can break in to obtain the loot inside, but the platform has defense systems. Do not come unprepared the mechanoids will not let it go without a fight.\n\nYou can travel to orbital locations using gravships, shuttles, or transport pods.</li>
+  -->
+  <OpportunitySite_AbandonedMechanitorPlatform.questDescriptionRules.rulesStrings>
+    <li>questDescription->[discoveryMethod] la ubicación de una plataforma orbital de mecanizador abandonada. No detectas signos de vida. Sin embargo, se detectan señales electrónicas.\n\nPuedes irrumpir para obtener el botín en su interior, pero la plataforma cuenta con sistemas de defensa. No vayas desprevenido, los mecanoides no la entregarán sin luchar.\n\nPuedes viajar a ubicaciones orbitales utilizando naves gravitacionales, lanzaderas o cápsulas de transporte.</li>
+  </OpportunitySite_AbandonedMechanitorPlatform.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>questName(p=3)->[ancientPlatAdj] [mechAdj] [platform]</li>
+    <li>questName->[PlaceOutlander] [mechAdj] [platform]</li>
+    <li>questName->[mechAdj] [platform] [greekLetter]</li>
+    <li>questName->[platAdj] [mechAdj] [platform] [RomanNumeral]</li>
+    <li>mechAdj -> mechanitor</li>
+    <li>ancientPlatAdj->abandoned</li>
+    <li>ancientPlatAdj->ancient</li>
+    <li>ancientPlatAdj->[platAdj]</li>
+    <li>platAdj->starlight</li>
+    <li>platAdj->nebula</li>
+    <li>platAdj->horizon</li>
+    <li>platAdj->eclipse</li>
+    <li>platAdj->zenith</li>
+    <li>platAdj->aurora</li>
+    <li>platAdj->corona</li>
+    <li>platAdj->nova</li>
+    <li>platAdj->eon</li>
+    <li>platAdj->solace</li>
+    <li>platAdj->lumina</li>
+    <li>platAdj->ion</li>
+    <li>platAdj->astralis</li>
+    <li>platAdj->apollo</li>
+    <li>platAdj->ares</li>
+    <li>platAdj->hades</li>
+    <li>platAdj->ajax</li>
+    <li>platAdj->eos</li>
+    <li>platAdj->eros</li>
+    <li>platAdj->chronos</li>
+    <li>platAdj->zephyrus</li>
+    <li>platAdj->argos</li>
+    <li>platAdj->orion</li>
+    <li>platAdj->hermes</li>
+    <li>platAdj->atlas</li>
+    <li>platAdj->helios</li>
+    <li>platAdj->hephaestus</li>
+    <li>platAdj->talos</li>
+    <li>platAdj->vanguard</li>
+    <li>platAdj->aegis</li>
+    <li>platAdj->halcyon</li>
+    <li>platAdj->skyforge</li>
+    <li>platAdj->titan</li>
+    <li>platform(p=2)->station</li>
+    <li>platform->platform</li>
+    <li>platform->orbital platform</li>
+    <li>platform->orbital hub</li>
+    <li>platform(p=0.5)->skygate</li>
+    <li>platform(p=0.5)->spacedock</li>
+    <li>platform(p=0.5)->gateway</li>
+    <li>greekLetter->alpha</li>
+    <li>greekLetter->beta</li>
+    <li>greekLetter->theta</li>
+    <li>greekLetter->delta</li>
+    <li>greekLetter->zeta</li>
+    <li>greekLetter->sigma</li>
+    <li>greekLetter->omega</li>
+    <li>PlaceOutlander(p=3)->[SylE][place_end]</li>
+    <li>PlaceOutlander->[SylE][SylE][place_end]</li>
+  -->
+  <OpportunitySite_AbandonedMechanitorPlatform.questNameRules.rulesStrings>
+    <li>questName(p=3)->[platform] [mechAdj] [ancientPlatAdj]</li>
+    <li>questName->[platform] [mechAdj] de [PlaceOutlander]</li>
+    <li>questName->[platform] [mechAdj] [greekLetter]</li>
+    <li>questName->[platform] [mechAdj] [platAdj] [RomanNumeral]</li>
+    <li>mechAdj->de mecanizador</li>
+    <li>ancientPlatAdj->abandonada</li>
+    <li>ancientPlatAdj->antigua</li>
+    <li>ancientPlatAdj->[platAdj]</li>
+    <li>platAdj->Luz Estelar</li>
+    <li>platAdj->Nebulosa</li>
+    <li>platAdj->Horizonte</li>
+    <li>platAdj->Eclipse</li>
+    <li>platAdj->Cénit</li>
+    <li>platAdj->Aurora</li>
+    <li>platAdj->Corona</li>
+    <li>platAdj->Nova</li>
+    <li>platAdj->Eón</li>
+    <li>platAdj->Consuelo</li>
+    <li>platAdj->Lúmina</li>
+    <li>platAdj->Ion</li>
+    <li>platAdj->Astralis</li>
+    <li>platAdj->Apolo</li>
+    <li>platAdj->Ares</li>
+    <li>platAdj->Hades</li>
+    <li>platAdj->Áyax</li>
+    <li>platAdj->Eos</li>
+    <li>platAdj->Eros</li>
+    <li>platAdj->Cronos</li>
+    <li>platAdj->Céfiro</li>
+    <li>platAdj->Argos</li>
+    <li>platAdj->Orión</li>
+    <li>platAdj->Hermes</li>
+    <li>platAdj->Atlas</li>
+    <li>platAdj->Helios</li>
+    <li>platAdj->Hefesto</li>
+    <li>platAdj->Talos</li>
+    <li>platAdj->Vanguardia</li>
+    <li>platAdj->Égida</li>
+    <li>platAdj->Alción</li>
+    <li>platAdj->Forjacielos</li>
+    <li>platAdj->Titán</li>
+    <li>platform(p=2)->estación</li>
+    <li>platform->plataforma</li>
+    <li>platform->plataforma orbital</li>
+    <li>platform->terminal orbital</li>
+    <li>platform(p=0.5)->puerta celeste</li>
+    <li>platform(p=0.5)->dársena espacial</li>
+    <li>platform(p=0.5)->pasarela espacial</li>
+    <li>greekLetter->alfa</li>
+    <li>greekLetter->beta</li>
+    <li>greekLetter->theta</li>
+    <li>greekLetter->delta</li>
+    <li>greekLetter->zeta</li>
+    <li>greekLetter->sigma</li>
+    <li>greekLetter->omega</li>
+    <li>PlaceOutlander(p=3)->[SylE][place_end]</li>
+    <li>PlaceOutlander->[SylE][SylE][place_end]</li>
+  </OpportunitySite_AbandonedMechanitorPlatform.questNameRules.rulesStrings>
+  <!-- EN: You have discovered -->
+  <OpportunitySite_AbandonedMechanitorPlatform.root.nodes.IsSet.elseNode.nodes.Set.value.slateRef>Has descubierto</OpportunitySite_AbandonedMechanitorPlatform.root.nodes.IsSet.elseNode.nodes.Set.value.slateRef>
+  <!-- EN: Quest expired: [resolvedQuestName] -->
+  <OpportunitySite_AbandonedMechanitorPlatform.root.nodes.WorldObjectTimeout.node.nodes.Letter.label.slateRef>Misión expirada: [resolvedQuestName]</OpportunitySite_AbandonedMechanitorPlatform.root.nodes.WorldObjectTimeout.node.nodes.Letter.label.slateRef>
+  <!-- EN: Intercepted communications indicate the platform has been claimed by others. The quest [resolvedQuestName] has expired. -->
+  <OpportunitySite_AbandonedMechanitorPlatform.root.nodes.WorldObjectTimeout.node.nodes.Letter.text.slateRef>Las comunicaciones interceptadas indican que la plataforma ha sido reclamada por otros. La misión [resolvedQuestName] ha expirado.</OpportunitySite_AbandonedMechanitorPlatform.root.nodes.WorldObjectTimeout.node.nodes.Letter.text.slateRef>
+  
+</LanguageData>
