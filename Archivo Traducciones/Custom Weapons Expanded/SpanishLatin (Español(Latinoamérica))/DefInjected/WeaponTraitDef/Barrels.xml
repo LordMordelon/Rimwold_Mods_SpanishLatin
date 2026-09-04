@@ -2,47 +2,47 @@
 <LanguageData>
   
   <!-- EN: cryo-cooler shroud -->
-  <CWE_Trait_CryoCoolerShroud.label>TODO</CWE_Trait_CryoCoolerShroud.label>
+  <CWE_Trait_CryoCoolerShroud.label>cubierta criorrefrigerante</CWE_Trait_CryoCoolerShroud.label>
   <!-- EN: Aggressive thermal sinking cuts cooldown between bursts; adds a bit of weight. \nBarrel for Energy guns. -->
-  <CWE_Trait_CryoCoolerShroud.description>TODO</CWE_Trait_CryoCoolerShroud.description>
+  <CWE_Trait_CryoCoolerShroud.description>La disipación térmica agresiva reduce el enfriamiento entre ráfagas; añade algo de peso. \nCañón para armas de energía.</CWE_Trait_CryoCoolerShroud.description>
   
   <!-- EN: emission diffuser -->
-  <CWE_Trait_EmissionDiffuser.label>TODO</CWE_Trait_EmissionDiffuser.label>
+  <CWE_Trait_EmissionDiffuser.label>difusor de emisión</CWE_Trait_EmissionDiffuser.label>
   <!-- EN: Spreads and straightens the energy stream for greater effective reach, with a small penalty at point-blank alignment. \nBarrel for Energy guns. -->
-  <CWE_Trait_EmissionDiffuser.description>TODO</CWE_Trait_EmissionDiffuser.description>
+  <CWE_Trait_EmissionDiffuser.description>Dispersa y endereza el flujo de energía para lograr un mayor alcance efectivo, con una pequeña penalización a quemarropa. \nCañón para armas de energía.</CWE_Trait_EmissionDiffuser.description>
   
   <!-- EN: field alignment tuner -->
-  <CWE_Trait_FieldAlignmentTuner.label>TODO</CWE_Trait_FieldAlignmentTuner.label>
+  <CWE_Trait_FieldAlignmentTuner.label>ajustador de alineación de campo</CWE_Trait_FieldAlignmentTuner.label>
   <!-- EN: Actively aligns the emission field to reduce aberrations and drift, tightening groups across all ranges. \nBarrel for Energy guns. -->
-  <CWE_Trait_FieldAlignmentTuner.description>TODO</CWE_Trait_FieldAlignmentTuner.description>
+  <CWE_Trait_FieldAlignmentTuner.description>Alinea activamente el campo de emisión para reducir aberraciones y desviaciones, lo que cierra los agrupamientos a todas las distancias. \nCañón para armas de energía.</CWE_Trait_FieldAlignmentTuner.description>
   
   <!-- EN: induction harmonizer -->
-  <CWE_Trait_InductionHarmonizer.label>TODO</CWE_Trait_InductionHarmonizer.label>
+  <CWE_Trait_InductionHarmonizer.label>armonizador de inducción</CWE_Trait_InductionHarmonizer.label>
   <!-- EN: Harmonizes induction fields to reduce jitter for steadier shots, slightly slowing split times.\n            Barrel for Gauss/Rail guns -->
-  <CWE_Trait_InductionHarmonizer.description>TODO</CWE_Trait_InductionHarmonizer.description>
+  <CWE_Trait_InductionHarmonizer.description>Armoniza los campos de inducción para reducir las vibraciones y lograr disparos más estables, aunque ralentiza ligeramente la cadencia.\n            Cañón para armas gauss/de riel</CWE_Trait_InductionHarmonizer.description>
   
   <!-- EN: Overcharge Gauss Shoot Barrel -->
-  <CWE_Trait_Overcharge_GaussShoot.label>TODO</CWE_Trait_Overcharge_GaussShoot.label>
+  <CWE_Trait_Overcharge_GaussShoot.label>Cañón gauss de sobrecarga</CWE_Trait_Overcharge_GaussShoot.label>
   <!-- EN: Installs an overcharge circuit that unlocks the Overcharge ability. Activating it supercharges the gauss coils and, after a brief 3s charge-up, fires a single overcharged shot. The blast deals 55 Sharp damage, 50% armor penetration, and high stopping power, but the ability has a long cooldown save it for priority targets. -->
-  <CWE_Trait_Overcharge_GaussShoot.description>TODO</CWE_Trait_Overcharge_GaussShoot.description>
+  <CWE_Trait_Overcharge_GaussShoot.description>Instala un circuito de sobrecarga que desbloquea la habilidad Sobrecarga. Al activarla, sobrecarga las bobinas gauss y, tras una breve carga de 3 s, dispara un único proyectil sobrecargado. La descarga inflige 55 de daño punzante, un 50 % de penetración de blindaje y un gran poder de detención, pero la habilidad tiene un enfriamiento largo: resérvala para los objetivos prioritarios.</CWE_Trait_Overcharge_GaussShoot.description>
   <!-- EN: charge -->
-  <CWE_Trait_Overcharge_GaussShoot.abilityProps.chargeNoun>TODO</CWE_Trait_Overcharge_GaussShoot.abilityProps.chargeNoun>
+  <CWE_Trait_Overcharge_GaussShoot.abilityProps.chargeNoun>carga</CWE_Trait_Overcharge_GaussShoot.abilityProps.chargeNoun>
   <!-- EN: on cooldown -->
-  <CWE_Trait_Overcharge_GaussShoot.abilityProps.cooldownGerund>TODO</CWE_Trait_Overcharge_GaussShoot.abilityProps.cooldownGerund>
+  <CWE_Trait_Overcharge_GaussShoot.abilityProps.cooldownGerund>en enfriamiento</CWE_Trait_Overcharge_GaussShoot.abilityProps.cooldownGerund>
   
   <!-- EN: phase synchronizer array -->
-  <CWE_Trait_PhaseSynchronizerArray.label>TODO</CWE_Trait_PhaseSynchronizerArray.label>
+  <CWE_Trait_PhaseSynchronizerArray.label>matriz sincronizadora de fase</CWE_Trait_PhaseSynchronizerArray.label>
   <!-- EN: Synchronizes phase across emitters/coils to improve coherence and reach, at the cost of a slightly calmer split tempo. \nBarrel for Energy guns. -->
-  <CWE_Trait_PhaseSynchronizerArray.description>TODO</CWE_Trait_PhaseSynchronizerArray.description>
+  <CWE_Trait_PhaseSynchronizerArray.description>Sincroniza la fase entre emisores y bobinas para mejorar la coherencia y el alcance, a costa de un ritmo de disparo algo más pausado. \nCañón para armas de energía.</CWE_Trait_PhaseSynchronizerArray.description>
   
   <!-- EN: rail alignment kit -->
-  <CWE_Trait_RailAlignmentKit.label>TODO</CWE_Trait_RailAlignmentKit.label>
+  <CWE_Trait_RailAlignmentKit.label>kit de alineación de rieles</CWE_Trait_RailAlignmentKit.label>
   <!-- EN: Precision truing of the launch rails tightens groups; the tighter tolerances slightly slow cycling.\n            Barrel for Gauss/Rail guns -->
-  <CWE_Trait_RailAlignmentKit.description>TODO</CWE_Trait_RailAlignmentKit.description>
+  <CWE_Trait_RailAlignmentKit.description>El ajuste de precisión de los rieles de lanzamiento cierra los agrupamientos; las tolerancias más estrictas ralentizan un poco la cadencia.\n            Cañón para armas gauss/de riel</CWE_Trait_RailAlignmentKit.description>
   
   <!-- EN: thermal lance focus -->
-  <CWE_Trait_ThermalLanceFocus.label>TODO</CWE_Trait_ThermalLanceFocus.label>
+  <CWE_Trait_ThermalLanceFocus.label>enfoque de lanza térmica</CWE_Trait_ThermalLanceFocus.label>
   <!-- EN: Extreme focus for cutting shots: harder hits in short strings, reduced reach, and an ignition effect. \n            Barrel for Laser like guns -->
-  <CWE_Trait_ThermalLanceFocus.description>TODO</CWE_Trait_ThermalLanceFocus.description>
+  <CWE_Trait_ThermalLanceFocus.description>Enfoque extremo para disparos de corte: impactos más fuertes en ráfagas cortas, menor alcance y efecto de ignición. \n            Cañón para armas tipo láser</CWE_Trait_ThermalLanceFocus.description>
   
 </LanguageData>

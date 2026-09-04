@@ -2,48 +2,48 @@
 <LanguageData>
   
   <!-- EN: Coil Overdrive -->
-  <CWE_Module_CoilOverdrive.label>TODO</CWE_Module_CoilOverdrive.label>
+  <CWE_Module_CoilOverdrive.label>Sobreimpulso de bobinas</CWE_Module_CoilOverdrive.label>
   <!-- EN: Overdriven coil current produces very fast split times, at the expense of precision.\n            Receivers for Gauss/Rail guns -->
-  <CWE_Module_CoilOverdrive.description>TODO</CWE_Module_CoilOverdrive.description>
+  <CWE_Module_CoilOverdrive.description>La sobrecorriente en las bobinas produce cadencias muy rápidas, a costa de la precisión.\n            Mecanismos para armas gauss/de riel</CWE_Module_CoilOverdrive.description>
   
   <!-- EN: Feedback Isolator -->
-  <CWE_Module_FeedbackIsolator.label>TODO</CWE_Module_FeedbackIsolator.label>
+  <CWE_Module_FeedbackIsolator.label>Aislador de retroalimentación</CWE_Module_FeedbackIsolator.label>
   <!-- EN: Prevents harmful feedback into the power path, stabilizing the emitter and trimming warmup; improves close-range steadiness. \n            Receivers for Energy guns. -->
-  <CWE_Module_FeedbackIsolator.description>TODO</CWE_Module_FeedbackIsolator.description>
+  <CWE_Module_FeedbackIsolator.description>Evita la retroalimentación dañina hacia la vía de potencia, estabiliza el emisor y recorta la preparación; mejora la estabilidad a corta distancia. \n            Mecanismos para armas de energía.</CWE_Module_FeedbackIsolator.description>
   
   <!-- EN: Flux Compensator -->
-  <CWE_Module_FluxCompensator.label>TODO</CWE_Module_FluxCompensator.label>
+  <CWE_Module_FluxCompensator.label>Compensador de flujo</CWE_Module_FluxCompensator.label>
   <!-- EN: Counteracts parasitic forces in the launch rails, tightening groups at a modest cost to cycling speed.\n            Receivers for Gauss/Rail guns -->
-  <CWE_Module_FluxCompensator.description>TODO</CWE_Module_FluxCompensator.description>
+  <CWE_Module_FluxCompensator.description>Contrarresta las fuerzas parásitas en los rieles de lanzamiento y cierra los agrupamientos con un coste moderado en la velocidad de ciclo.\n            Mecanismos para armas gauss/de riel</CWE_Module_FluxCompensator.description>
   
   <!-- EN: Frequency Modulator -->
-  <CWE_Module_FrequencyModulator.label>TODO</CWE_Module_FrequencyModulator.label>
+  <CWE_Module_FrequencyModulator.label>Modulador de frecuencia</CWE_Module_FrequencyModulator.label>
   <!-- EN: Shifts the operating frequency for better coupling, yielding modest gains in range and damage with a slight warmup cost. \n            Receivers for Energy guns. -->
-  <CWE_Module_FrequencyModulator.description>TODO</CWE_Module_FrequencyModulator.description>
+  <CWE_Module_FrequencyModulator.description>Desplaza la frecuencia de trabajo para mejorar el acoplamiento, lo que aporta mejoras moderadas de alcance y daño con un ligero coste en la preparación. \n            Mecanismos para armas de energía.</CWE_Module_FrequencyModulator.description>
   
   <!-- EN: Heavy frame receiver -->
-  <CWE_Module_Heavy_Receiver.label>TODO</CWE_Module_Heavy_Receiver.label>
+  <CWE_Module_Heavy_Receiver.label>Mecanismos de armazón pesado</CWE_Module_Heavy_Receiver.label>
   <!-- EN: A heavy frame receiver improves the gun's accuracy at the expense of weight. -->
-  <CWE_Module_Heavy_Receiver.description>TODO</CWE_Module_Heavy_Receiver.description>
+  <CWE_Module_Heavy_Receiver.description>Unos mecanismos de armazón pesado mejoran la precisión del arma a costa del peso.</CWE_Module_Heavy_Receiver.description>
   
   <!-- EN: Light frame receiver -->
-  <CWE_Module_Light_Receiver.label>TODO</CWE_Module_Light_Receiver.label>
+  <CWE_Module_Light_Receiver.label>Mecanismos de armazón ligero</CWE_Module_Light_Receiver.label>
   <!-- EN: A light frame receiver reduces weapon weight at the cost of precision. -->
-  <CWE_Module_Light_Receiver.description>TODO</CWE_Module_Light_Receiver.description>
+  <CWE_Module_Light_Receiver.description>Unos mecanismos de armazón ligero reducen el peso del arma a costa de la precisión.</CWE_Module_Light_Receiver.description>
   
   <!-- EN: Pulse Compression Module -->
-  <CWE_Module_PulseCompressionModule.label>TODO</CWE_Module_PulseCompressionModule.label>
+  <CWE_Module_PulseCompressionModule.label>Módulo de compresión de pulsos</CWE_Module_PulseCompressionModule.label>
   <!-- EN: Temporarily stores energy and releases tightly compressed pulses, hitting harder while shortening bursts and slightly lengthening recovery. \n            Receivers for Energy guns -->
-  <CWE_Module_PulseCompressionModule.description>TODO</CWE_Module_PulseCompressionModule.description>
+  <CWE_Module_PulseCompressionModule.description>Almacena energía temporalmente y libera pulsos muy comprimidos: golpea más fuerte, acorta las ráfagas y alarga un poco la recuperación. \n            Mecanismos para armas de energía</CWE_Module_PulseCompressionModule.description>
   
   <!-- EN: Pulse Timing Controller -->
-  <CWE_Module_PulseTimingController.label>TODO</CWE_Module_PulseTimingController.label>
+  <CWE_Module_PulseTimingController.label>Controlador de sincronización de pulsos</CWE_Module_PulseTimingController.label>
   <!-- EN: Locks discharge into short, regular pulses for tidier strings and steadier long-range placement; mildly reduces split speed. \n            Receivers for Energy guns. -->
-  <CWE_Module_PulseTimingController.description>TODO</CWE_Module_PulseTimingController.description>
+  <CWE_Module_PulseTimingController.description>Bloquea la descarga en pulsos cortos y regulares para lograr ráfagas más ordenadas y una colocación más estable a larga distancia; reduce levemente la cadencia. \n            Mecanismos para armas de energía.</CWE_Module_PulseTimingController.description>
   
   <!-- EN: Superconducting Coils -->
-  <CWE_Module_SuperconductingCoils.label>TODO</CWE_Module_SuperconductingCoils.label>
+  <CWE_Module_SuperconductingCoils.label>Bobinas superconductoras</CWE_Module_SuperconductingCoils.label>
   <!-- EN: Low-resistance coils shorten spin-up for faster first shots, while adding bulk to the assembly.\n            Receivers for Gauss/Rail guns -->
-  <CWE_Module_SuperconductingCoils.description>TODO</CWE_Module_SuperconductingCoils.description>
+  <CWE_Module_SuperconductingCoils.description>Unas bobinas de baja resistencia acortan el arranque y permiten disparar antes, aunque añaden volumen al conjunto.\n            Mecanismos para armas gauss/de riel</CWE_Module_SuperconductingCoils.description>
   
 </LanguageData>
