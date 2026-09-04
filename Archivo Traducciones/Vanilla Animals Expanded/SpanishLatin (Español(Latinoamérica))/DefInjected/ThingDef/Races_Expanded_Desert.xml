@@ -1,28 +1,56 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
+  
+  <!-- EN: desert tortoise -->
   <AEXP_DesertTortoise.label>tortuga del desierto</AEXP_DesertTortoise.label>
+  <!-- EN: This heavily armored desert-dwelling reptile is known for its slow moving speed and extremely hard, flat domed shell, making it tough to kill. Desert tortoises, despite their small size, are great combat animals and are relatively easy to tame. -->
   <AEXP_DesertTortoise.description>Este reptil del desierto, fuertemente acorazado, es conocido por su lenta velocidad de movimiento y su caparazón aplanado extremadamente duro, lo que lo hace difícil de matar. Las tortugas del desierto, a pesar de su pequeño tamaño, son excelentes animales de combate y son relativamente fáciles de domesticar.</AEXP_DesertTortoise.description>
-  <AEXP_DesertTortoise.tools.beak.label>pico</AEXP_DesertTortoise.tools.beak.label>
+  <!-- EN: head -->
   <AEXP_DesertTortoise.tools.head.label>cabeza</AEXP_DesertTortoise.tools.head.label>
+  <!-- EN: beak -->
+  <AEXP_DesertTortoise.tools.beak.label>pico</AEXP_DesertTortoise.tools.beak.label>
   
+  <!-- EN: gila monster -->
   <AEXP_GilaMonster.label>monstruo de gila</AEXP_GilaMonster.label>
+  <!-- EN: A large, slow moving type of lizard found mostly in the desert, known for its highly venomous bite which inflicts a severe toxic build-up in its prey. Outlanders to this day believe in tales which state that this lizard is a spawn from hell, and that its foul breath is lethal. -->
   <AEXP_GilaMonster.description>Un tipo de lagarto grande y lento que se encuentra sobre todo en el desierto, conocido por su mordedura altamente venenosa que inflige una severa acumulación tóxica en sus presas. Los forasteros aún creen en leyendas que afirman que este lagarto es un engendro del infierno y que su fétido aliento es letal.</AEXP_GilaMonster.description>
-  <AEXP_GilaMonster.tools.left_claw.label>garra izquierda</AEXP_GilaMonster.tools.left_claw.label>
-  <AEXP_GilaMonster.tools.right_claw.label>garra derecha</AEXP_GilaMonster.tools.right_claw.label>
-  <AEXP_GilaMonster.tools.teeth.label>dientes</AEXP_GilaMonster.tools.teeth.label>
+  <!-- EN: head -->
   <AEXP_GilaMonster.tools.head.label>cabeza</AEXP_GilaMonster.tools.head.label>
+  <!-- EN: left claw -->
+  <AEXP_GilaMonster.tools.left_claw.label>garra izquierda</AEXP_GilaMonster.tools.left_claw.label>
+  <!-- EN: claw -->
+  <AEXP_GilaMonster.tools.left_claw.labelNoLocation>TODO</AEXP_GilaMonster.tools.left_claw.labelNoLocation>
+  <!-- EN: right claw -->
+  <AEXP_GilaMonster.tools.right_claw.label>garra derecha</AEXP_GilaMonster.tools.right_claw.label>
+  <!-- EN: claw -->
+  <AEXP_GilaMonster.tools.right_claw.labelNoLocation>TODO</AEXP_GilaMonster.tools.right_claw.labelNoLocation>
+  <!-- EN: teeth -->
+  <AEXP_GilaMonster.tools.teeth.label>dientes</AEXP_GilaMonster.tools.teeth.label>
   
+  <!-- EN: hyena -->
   <AEXP_Hyena.label>hiena</AEXP_Hyena.label>
+  <!-- EN: A large dog-like carnivore most often found in the shrublands and deserts. A common trope in tribal legends, the laughter produced by these animals can sow fear during the long desert nights. -->
   <AEXP_Hyena.description>Un gran carnívoro de aspecto canino que suele encontrarse en matorrales y desiertos. Un elemento común en las leyendas tribales es la "risa" producida por estos animales, capaz de sembrar el miedo durante las largas noches del desierto.</AEXP_Hyena.description>
-  <AEXP_Hyena.tools.left_claw.label>garra izquierda</AEXP_Hyena.tools.left_claw.label>
-  <AEXP_Hyena.tools.right_claw.label>garra derecha</AEXP_Hyena.tools.right_claw.label>
+  <!-- EN: head -->
   <AEXP_Hyena.tools.head.label>cabeza</AEXP_Hyena.tools.head.label>
+  <!-- EN: canines -->
+  <AEXP_Hyena.tools.canines.label>TODO</AEXP_Hyena.tools.canines.label>
   
+  <!-- EN: lion -->
   <AEXP_Lion.label>león</AEXP_Lion.label>
+  <!-- EN: A king of the animal kingdom, a lion is a muscular, deep-chested cat with a short head and a prominent mane. Being the biggest of the cat species, lions are excellent combat animals despite their Wildness. -->
   <AEXP_Lion.description>El rey del reino animal, el león es un felino musculoso, de pecho profundo, cabeza corta y una melena prominente. Al ser la más grande de las especies de felinos, los leones son excelentes animales de combate a pesar de su naturaleza salvaje.</AEXP_Lion.description>
-  <AEXP_Lion.tools.left_claw.label>garra izquierda</AEXP_Lion.tools.left_claw.label>
-  <AEXP_Lion.tools.right_claw.label>garra derecha</AEXP_Lion.tools.right_claw.label>
+  <!-- EN: head -->
   <AEXP_Lion.tools.head.label>cabeza</AEXP_Lion.tools.head.label>
+  <!-- EN: left claw -->
+  <AEXP_Lion.tools.left_claw.label>garra izquierda</AEXP_Lion.tools.left_claw.label>
+  <!-- EN: claw -->
+  <AEXP_Lion.tools.left_claw.labelNoLocation>TODO</AEXP_Lion.tools.left_claw.labelNoLocation>
+  <!-- EN: right claw -->
+  <AEXP_Lion.tools.right_claw.label>garra derecha</AEXP_Lion.tools.right_claw.label>
+  <!-- EN: claw -->
+  <AEXP_Lion.tools.right_claw.labelNoLocation>TODO</AEXP_Lion.tools.right_claw.labelNoLocation>
+  <!-- EN: canines -->
+  <AEXP_Lion.tools.canines.label>TODO</AEXP_Lion.tools.canines.label>
   
 </LanguageData>

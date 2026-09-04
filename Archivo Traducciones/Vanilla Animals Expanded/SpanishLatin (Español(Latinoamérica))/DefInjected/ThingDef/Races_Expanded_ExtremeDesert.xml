@@ -1,21 +1,49 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <AEXP_Camel.label>camello</AEXP_Camel.label>
-  <AEXP_Camel.description>Un gran mamífero terrestre adaptado a entornos áridos. Domesticado desde tiempos remotos, tanto su lana como su cuero son excepcionalmente buenos para aislar del calor del desierto, y su leche es bastante nutritiva. Puede utilizarse como animal de carga, pero sus dos jorobas lo hacen extremadamente incómodo de montar.\n\nAl almacenar agua en sus grandes jorobas y recuperar la humedad de su aliento al exhalar, puede pasar semanas sin beber.</AEXP_Camel.description>
-  <AEXP_Camel.tools.left_hoof.label>pezuña izquierda</AEXP_Camel.tools.left_hoof.label>
-  <AEXP_Camel.tools.right_hoof.label>pezuña derecha</AEXP_Camel.tools.right_hoof.label>
-  <AEXP_Camel.tools.head.label>cabeza</AEXP_Camel.tools.head.label>
   
-  <AEXP_Megascorpion.label>megaescorpión</AEXP_Megascorpion.label>
-  <AEXP_Megascorpion.description>Un escorpión gigante diseñado genéticamente. Creado en su día como la herramienta de asesinato perfecta, no es raro verlo de regreso en su hábitat natural: el desierto. Un veneno muy potente en su aguijón le ayuda a enfrentarse incluso a presas mucho más grandes. Al ser una criatura eusocial, no puede reproducirse individualmente.</AEXP_Megascorpion.description>
-  <AEXP_Megascorpion.tools.stinger.label>aguijón</AEXP_Megascorpion.tools.stinger.label>
-  <AEXP_Megascorpion.tools.mandibles.label>mandíbulas</AEXP_Megascorpion.tools.mandibles.label>
-  <AEXP_Megascorpion.tools.head.label>cabeza</AEXP_Megascorpion.tools.head.label>
+  <!-- EN: camel -->
+  <AEXP_Camel.label>TODO</AEXP_Camel.label>
+  <!-- EN: A large land mammal adapted to arid environments. Domesticated since ancient times, its wool and leather are both exceptionally good at insulating against the desert heat, and its milk is quite nourishing. It can be used as a pack animal, but two humps make it extremely uncomfortable to ride.\n\nBy storing water in its large humps and reclaiming moisture from its breath as it exhales, it can go weeks without drinking. -->
+  <AEXP_Camel.description>TODO</AEXP_Camel.description>
+  <!-- EN: head -->
+  <AEXP_Camel.tools.head.label>TODO</AEXP_Camel.tools.head.label>
+  <!-- EN: left hoof -->
+  <AEXP_Camel.tools.left_hoof.label>TODO</AEXP_Camel.tools.left_hoof.label>
+  <!-- EN: hoof -->
+  <AEXP_Camel.tools.left_hoof.labelNoLocation>TODO</AEXP_Camel.tools.left_hoof.labelNoLocation>
+  <!-- EN: right hoof -->
+  <AEXP_Camel.tools.right_hoof.label>TODO</AEXP_Camel.tools.right_hoof.label>
+  <!-- EN: hoof -->
+  <AEXP_Camel.tools.right_hoof.labelNoLocation>TODO</AEXP_Camel.tools.right_hoof.labelNoLocation>
+  <!-- EN: teeth -->
+  <AEXP_Camel.tools.teeth.label>TODO</AEXP_Camel.tools.teeth.label>
   
-  <AEXP_Rattlesnake.label>serpiente de cascabel</AEXP_Rattlesnake.label>
-  <AEXP_Rattlesnake.description>Una serpiente altamente venenosa que recibe su nombre del cascabel situado al final de su cola. El sonido generado sirve de advertencia para cualquier depredador; sin embargo, en caso de que esto no funcione, sus colmillos venenosos infligen una toxina extremadamente dolorosa.</AEXP_Rattlesnake.description>
-  <AEXP_Rattlesnake.tools.venomfangs.label>colmillos venenosos</AEXP_colmillos venenosos.label>
-  <AEXP_Rattlesnake.tools.head.label>cabeza</AEXP_Rattlesnake.tools.head.label>
+  <!-- EN: megascorpion -->
+  <AEXP_Megascorpion.label>TODO</AEXP_Megascorpion.label>
+  <!-- EN: A giant, genetically-engineered scorpion. Once created as a perfect assassination tool, it is not often seen returning to it's natural habitat - desert. A very potent poison in it's stinger helps it in tacking even much bigger prey. A eusocial creature, it cannot reproduce individually. -->
+  <AEXP_Megascorpion.description>TODO</AEXP_Megascorpion.description>
+  <!-- EN: head -->
+  <AEXP_Megascorpion.tools.head.label>TODO</AEXP_Megascorpion.tools.head.label>
+  <!-- EN: left pincer -->
+  <AEXP_Megascorpion.tools.left_pincer.label>TODO</AEXP_Megascorpion.tools.left_pincer.label>
+  <!-- EN: pincer -->
+  <AEXP_Megascorpion.tools.left_pincer.labelNoLocation>TODO</AEXP_Megascorpion.tools.left_pincer.labelNoLocation>
+  <!-- EN: right pincer -->
+  <AEXP_Megascorpion.tools.right_pincer.label>TODO</AEXP_Megascorpion.tools.right_pincer.label>
+  <!-- EN: pincer -->
+  <AEXP_Megascorpion.tools.right_pincer.labelNoLocation>TODO</AEXP_Megascorpion.tools.right_pincer.labelNoLocation>
+  <!-- EN: stinger -->
+  <AEXP_Megascorpion.tools.stinger.label>TODO</AEXP_Megascorpion.tools.stinger.label>
+  <!-- EN: chelicerae -->
+  <AEXP_Megascorpion.tools.chelicerae.label>TODO</AEXP_Megascorpion.tools.chelicerae.label>
+  
+  <!-- EN: rattlesnake -->
+  <AEXP_Rattlesnake.label>TODO</AEXP_Rattlesnake.label>
+  <!-- EN: A highly venomous snake, receiving its name from a rattle at the end of their tail. The sound generated sounds as a warning to any predators, however in case it doesn't work, rattlesnake's venom-fangs inflict extremely painful toxin. -->
+  <AEXP_Rattlesnake.description>TODO</AEXP_Rattlesnake.description>
+  <!-- EN: head -->
+  <AEXP_Rattlesnake.tools.head.label>TODO</AEXP_Rattlesnake.tools.head.label>
+  <!-- EN: fangs -->
+  <AEXP_Rattlesnake.tools.fangs.label>TODO</AEXP_Rattlesnake.tools.fangs.label>
   
 </LanguageData>

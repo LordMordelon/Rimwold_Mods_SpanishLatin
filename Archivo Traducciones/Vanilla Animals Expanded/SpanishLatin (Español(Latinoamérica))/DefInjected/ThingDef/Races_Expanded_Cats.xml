@@ -1,64 +1,174 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
+  <!-- EN: abyssinian cat -->
   <AEXP_CatAbyssinian.label>gato abisinio</AEXP_CatAbyssinian.label>
+  <!-- EN: A slender, fine-boned, medium sized shrubland cat. -->
   <AEXP_CatAbyssinian.description>Un gato de matorral de tamaño mediano, esbelto y de huesos finos.</AEXP_CatAbyssinian.description>
-  <AEXP_CatAbyssinian.tools.left_claw.label>garra izquierda</AEXP_CatAbyssinian.tools.left_claw.label>
-  <AEXP_CatAbyssinian.tools.right_claw.label>garra derecha</AEXP_CatAbyssinian.tools.right_claw.label>
+  <!-- EN: head -->
   <AEXP_CatAbyssinian.tools.head.label>cabeza</AEXP_CatAbyssinian.tools.head.label>
+  <!-- EN: left claw -->
+  <AEXP_CatAbyssinian.tools.left_claw.label>garra izquierda</AEXP_CatAbyssinian.tools.left_claw.label>
+  <!-- EN: claw -->
+  <AEXP_CatAbyssinian.tools.left_claw.labelNoLocation>TODO</AEXP_CatAbyssinian.tools.left_claw.labelNoLocation>
+  <!-- EN: right claw -->
+  <AEXP_CatAbyssinian.tools.right_claw.label>garra derecha</AEXP_CatAbyssinian.tools.right_claw.label>
+  <!-- EN: claw -->
+  <AEXP_CatAbyssinian.tools.right_claw.labelNoLocation>TODO</AEXP_CatAbyssinian.tools.right_claw.labelNoLocation>
+  <!-- EN: canines -->
+  <AEXP_CatAbyssinian.tools.canines.label>TODO</AEXP_CatAbyssinian.tools.canines.label>
   
+  <!-- EN: bengal cat -->
   <AEXP_CatBengal.label>gato bengalí</AEXP_CatBengal.label>
+  <!-- EN: A domesticated hybrid of a domestic cat and tropical leopard. -->
   <AEXP_CatBengal.description>Un híbrido domesticado entre un gato doméstico y un leopardo tropical.</AEXP_CatBengal.description>
-  <AEXP_CatBengal.tools.left_claw.label>garra izquierda</AEXP_CatBengal.tools.left_claw.label>
-  <AEXP_CatBengal.tools.right_claw.label>garra derecha</AEXP_CatBengal.tools.right_claw.label>
+  <!-- EN: head -->
   <AEXP_CatBengal.tools.head.label>cabeza</AEXP_CatBengal.tools.head.label>
+  <!-- EN: left claw -->
+  <AEXP_CatBengal.tools.left_claw.label>garra izquierda</AEXP_CatBengal.tools.left_claw.label>
+  <!-- EN: claw -->
+  <AEXP_CatBengal.tools.left_claw.labelNoLocation>TODO</AEXP_CatBengal.tools.left_claw.labelNoLocation>
+  <!-- EN: right claw -->
+  <AEXP_CatBengal.tools.right_claw.label>garra derecha</AEXP_CatBengal.tools.right_claw.label>
+  <!-- EN: claw -->
+  <AEXP_CatBengal.tools.right_claw.labelNoLocation>TODO</AEXP_CatBengal.tools.right_claw.labelNoLocation>
+  <!-- EN: canines -->
+  <AEXP_CatBengal.tools.canines.label>TODO</AEXP_CatBengal.tools.canines.label>
   
+  <!-- EN: british shorthair cat -->
   <AEXP_CatBritishShorthair.label>británico de pelo corto</AEXP_CatBritishShorthair.label>
+  <!-- EN: A pedigreed version of a regular british cat, with a distinctively chunky body, dense coat and a very broad face. While being relatively powerful-looking due to the large chest and massive paws, these cats are absolutely harmless. -->
   <AEXP_CatBritishShorthair.description>Una versión con pedigrí del gato británico común, con un cuerpo distintivamente robusto, pelaje denso y una cara muy ancha. Aunque tienen un aspecto relativamente imponente debido a su gran pecho y patas macizas, estos gatos son absolutamente inofensivos.</AEXP_CatBritishShorthair.description>
-  <AEXP_CatBritishShorthair.tools.left_claw.label>garra izquierda</AEXP_CatBritishShorthair.tools.left_claw.label>
-  <AEXP_CatBritishShorthair.tools.right_claw.label>garra derecha</AEXP_CatBritishShorthair.tools.right_claw.label>
+  <!-- EN: head -->
   <AEXP_CatBritishShorthair.tools.head.label>cabeza</AEXP_CatBritishShorthair.tools.head.label>
+  <!-- EN: left claw -->
+  <AEXP_CatBritishShorthair.tools.left_claw.label>garra izquierda</AEXP_CatBritishShorthair.tools.left_claw.label>
+  <!-- EN: claw -->
+  <AEXP_CatBritishShorthair.tools.left_claw.labelNoLocation>TODO</AEXP_CatBritishShorthair.tools.left_claw.labelNoLocation>
+  <!-- EN: right claw -->
+  <AEXP_CatBritishShorthair.tools.right_claw.label>garra derecha</AEXP_CatBritishShorthair.tools.right_claw.label>
+  <!-- EN: claw -->
+  <AEXP_CatBritishShorthair.tools.right_claw.labelNoLocation>TODO</AEXP_CatBritishShorthair.tools.right_claw.labelNoLocation>
+  <!-- EN: canines -->
+  <AEXP_CatBritishShorthair.tools.canines.label>TODO</AEXP_CatBritishShorthair.tools.canines.label>
   
+  <!-- EN: maine coon -->
   <AEXP_CatMaineCoon.label>maine coon</AEXP_CatMaineCoon.label>
+  <!-- EN: A largest domesticated cat, it has a distinctive physical appearance and valuable hunting skills. It's a large and sociable cat, hence it has been given a nickname "the gentle giant." -->
   <AEXP_CatMaineCoon.description>El más grande de los gatos domesticados; posee una apariencia física distintiva y valiosas habilidades de caza. Es un gato grande y sociable, por lo que se le ha dado el apodo de "el gigante gentil".</AEXP_CatMaineCoon.description>
-  <AEXP_CatMaineCoon.tools.left_claw.label>garra izquierda</AEXP_CatMaineCoon.tools.left_claw.label>
-  <AEXP_CatMaineCoon.tools.right_claw.label>garra derecha</AEXP_CatMaineCoon.tools.right_claw.label>
+  <!-- EN: head -->
   <AEXP_CatMaineCoon.tools.head.label>cabeza</AEXP_CatMaineCoon.tools.head.label>
+  <!-- EN: left claw -->
+  <AEXP_CatMaineCoon.tools.left_claw.label>garra izquierda</AEXP_CatMaineCoon.tools.left_claw.label>
+  <!-- EN: claw -->
+  <AEXP_CatMaineCoon.tools.left_claw.labelNoLocation>TODO</AEXP_CatMaineCoon.tools.left_claw.labelNoLocation>
+  <!-- EN: right claw -->
+  <AEXP_CatMaineCoon.tools.right_claw.label>garra derecha</AEXP_CatMaineCoon.tools.right_claw.label>
+  <!-- EN: claw -->
+  <AEXP_CatMaineCoon.tools.right_claw.labelNoLocation>TODO</AEXP_CatMaineCoon.tools.right_claw.labelNoLocation>
+  <!-- EN: canines -->
+  <AEXP_CatMaineCoon.tools.canines.label>TODO</AEXP_CatMaineCoon.tools.canines.label>
   
+  <!-- EN: munchkin cat -->
   <AEXP_CatMunchkin.label>gato munchkin</AEXP_CatMunchkin.label>
+  <!-- EN: Also known as a sausage cat, this new cat breed has distinctively short legs. Sweet natured, playful and people-oriented, these cats are perfect companions for people with lazy lifestyle. -->
   <AEXP_CatMunchkin.description>También conocido como "gato salchicha", esta raza tiene patas distintivamente cortas. De naturaleza dulce, juguetona y orientada a las personas, estos gatos son compañeros perfectos para colonos con un estilo de vida sedentario.</AEXP_CatMunchkin.description>
-  <AEXP_CatMunchkin.tools.left_claw.label>garra izquierda</AEXP_CatMunchkin.tools.left_claw.label>
-  <AEXP_CatMunchkin.tools.right_claw.label>garra derecha</AEXP_CatMunchkin.tools.right_claw.label>
+  <!-- EN: head -->
   <AEXP_CatMunchkin.tools.head.label>cabeza</AEXP_CatMunchkin.tools.head.label>
+  <!-- EN: left claw -->
+  <AEXP_CatMunchkin.tools.left_claw.label>garra izquierda</AEXP_CatMunchkin.tools.left_claw.label>
+  <!-- EN: claw -->
+  <AEXP_CatMunchkin.tools.left_claw.labelNoLocation>TODO</AEXP_CatMunchkin.tools.left_claw.labelNoLocation>
+  <!-- EN: right claw -->
+  <AEXP_CatMunchkin.tools.right_claw.label>garra derecha</AEXP_CatMunchkin.tools.right_claw.label>
+  <!-- EN: claw -->
+  <AEXP_CatMunchkin.tools.right_claw.labelNoLocation>TODO</AEXP_CatMunchkin.tools.right_claw.labelNoLocation>
+  <!-- EN: canines -->
+  <AEXP_CatMunchkin.tools.canines.label>TODO</AEXP_CatMunchkin.tools.canines.label>
   
+  <!-- EN: norwegian forest cat -->
   <AEXP_CatNorwegianForest.label>gato de Bosque de Noruega</AEXP_CatNorwegianForest.label>
+  <!-- EN: A cat adapted for very cold climates due to the top coat of glossy, water-shedding hair. -->
   <AEXP_CatNorwegianForest.description>Un gato adaptado a climas muy fríos gracias a su capa externa de pelo brillante y repelente al agua.</AEXP_CatNorwegianForest.description>
-  <AEXP_CatNorwegianForest.tools.left_claw.label>garra izquierda</AEXP_CatNorwegianForest.tools.left_claw.label>
-  <AEXP_CatNorwegianForest.tools.right_claw.label>garra derecha</AEXP_CatNorwegianForest.tools.right_claw.label>
+  <!-- EN: head -->
   <AEXP_CatNorwegianForest.tools.head.label>cabeza</AEXP_CatNorwegianForest.tools.head.label>
+  <!-- EN: left claw -->
+  <AEXP_CatNorwegianForest.tools.left_claw.label>garra izquierda</AEXP_CatNorwegianForest.tools.left_claw.label>
+  <!-- EN: claw -->
+  <AEXP_CatNorwegianForest.tools.left_claw.labelNoLocation>TODO</AEXP_CatNorwegianForest.tools.left_claw.labelNoLocation>
+  <!-- EN: right claw -->
+  <AEXP_CatNorwegianForest.tools.right_claw.label>garra derecha</AEXP_CatNorwegianForest.tools.right_claw.label>
+  <!-- EN: claw -->
+  <AEXP_CatNorwegianForest.tools.right_claw.labelNoLocation>TODO</AEXP_CatNorwegianForest.tools.right_claw.labelNoLocation>
+  <!-- EN: canines -->
+  <AEXP_CatNorwegianForest.tools.canines.label>TODO</AEXP_CatNorwegianForest.tools.canines.label>
   
+  <!-- EN: persian cat -->
   <AEXP_CatPersian.label>gato persa</AEXP_CatPersian.label>
+  <!-- EN: A long haired cat originating from desert wildcats, Persian cats are regal, intelligent and agile, which makes them excellent for hunting small rodents and birds. -->
   <AEXP_CatPersian.description>Un gato de pelo largo que desciende de los gatos monteses del desierto. Los gatos persas son majestuosos, inteligentes y ágiles, lo que los hace excelentes para cazar pequeños roedores y aves.</AEXP_CatPersian.description>
-  <AEXP_CatPersian.tools.left_claw.label>garra izquierda</AEXP_CatPersian.tools.left_claw.label>
-  <AEXP_CatPersian.tools.right_claw.label>garra derecha</AEXP_CatPersian.tools.right_claw.label>
+  <!-- EN: head -->
   <AEXP_CatPersian.tools.head.label>cabeza</AEXP_CatPersian.tools.head.label>
+  <!-- EN: left claw -->
+  <AEXP_CatPersian.tools.left_claw.label>garra izquierda</AEXP_CatPersian.tools.left_claw.label>
+  <!-- EN: claw -->
+  <AEXP_CatPersian.tools.left_claw.labelNoLocation>TODO</AEXP_CatPersian.tools.left_claw.labelNoLocation>
+  <!-- EN: right claw -->
+  <AEXP_CatPersian.tools.right_claw.label>garra derecha</AEXP_CatPersian.tools.right_claw.label>
+  <!-- EN: claw -->
+  <AEXP_CatPersian.tools.right_claw.labelNoLocation>TODO</AEXP_CatPersian.tools.right_claw.labelNoLocation>
+  <!-- EN: canines -->
+  <AEXP_CatPersian.tools.canines.label>TODO</AEXP_CatPersian.tools.canines.label>
   
+  <!-- EN: siamese cat -->
   <AEXP_CatSiamese.label>gato siamés</AEXP_CatSiamese.label>
+  <!-- EN: A cat with distinctively triangular head, blue eyes and long and muscular body, renowned for it's social nature. -->
   <AEXP_CatSiamese.description>Un gato con una cabeza distintivamente triangular, ojos azules y un cuerpo largo y musculoso, famoso por su naturaleza sociable.</AEXP_CatSiamese.description>
-  <AEXP_CatSiamese.tools.left_claw.label>garra izquierda</AEXP_CatSiamese.tools.left_claw.label>
-  <AEXP_CatSiamese.tools.right_claw.label>garra derecha</AEXP_CatSiamese.tools.right_claw.label>
+  <!-- EN: head -->
   <AEXP_CatSiamese.tools.head.label>cabeza</AEXP_CatSiamese.tools.head.label>
+  <!-- EN: left claw -->
+  <AEXP_CatSiamese.tools.left_claw.label>garra izquierda</AEXP_CatSiamese.tools.left_claw.label>
+  <!-- EN: claw -->
+  <AEXP_CatSiamese.tools.left_claw.labelNoLocation>TODO</AEXP_CatSiamese.tools.left_claw.labelNoLocation>
+  <!-- EN: right claw -->
+  <AEXP_CatSiamese.tools.right_claw.label>garra derecha</AEXP_CatSiamese.tools.right_claw.label>
+  <!-- EN: claw -->
+  <AEXP_CatSiamese.tools.right_claw.labelNoLocation>TODO</AEXP_CatSiamese.tools.right_claw.labelNoLocation>
+  <!-- EN: canines -->
+  <AEXP_CatSiamese.tools.canines.label>TODO</AEXP_CatSiamese.tools.canines.label>
   
+  <!-- EN: somali cat -->
   <AEXP_CatSomali.label>gato somalí</AEXP_CatSomali.label>
+  <!-- EN: A shrubland cat, sharing the same family as the Abyssinian cat. It has a bushy tail and almond shaped eyes. -->
   <AEXP_CatSomali.description>Un gato de matorral que comparte la misma familia que el gato abisinio. Tiene una cola tupida y ojos en forma de almendra.</AEXP_CatSomali.description>
-  <AEXP_CatSomali.tools.left_claw.label>garra izquierda</AEXP_CatSomali.tools.left_claw.label>
-  <AEXP_CatSomali.tools.right_claw.label>garra derecha</AEXP_CatSomali.tools.right_claw.label>
+  <!-- EN: head -->
   <AEXP_CatSomali.tools.head.label>cabeza</AEXP_CatSomali.tools.head.label>
+  <!-- EN: left claw -->
+  <AEXP_CatSomali.tools.left_claw.label>garra izquierda</AEXP_CatSomali.tools.left_claw.label>
+  <!-- EN: claw -->
+  <AEXP_CatSomali.tools.left_claw.labelNoLocation>TODO</AEXP_CatSomali.tools.left_claw.labelNoLocation>
+  <!-- EN: right claw -->
+  <AEXP_CatSomali.tools.right_claw.label>garra derecha</AEXP_CatSomali.tools.right_claw.label>
+  <!-- EN: claw -->
+  <AEXP_CatSomali.tools.right_claw.labelNoLocation>TODO</AEXP_CatSomali.tools.right_claw.labelNoLocation>
+  <!-- EN: canines -->
+  <AEXP_CatSomali.tools.canines.label>TODO</AEXP_CatSomali.tools.canines.label>
   
+  <!-- EN: sphynx cat -->
   <AEXP_CatSphynx.label>gato esfinge</AEXP_CatSphynx.label>
+  <!-- EN: A cat known for it's lack of fur, developed due to selective breeding. Being warm to the touch, they lose body temperature easily which makes it seek out heat sources. -->
   <AEXP_CatSphynx.description>Un gato conocido por su falta de pelaje, desarrollada mediante cría selectiva. Al ser cálidos al tacto, pierden temperatura corporal fácilmente, lo que les obliga a buscar fuentes de calor.</AEXP_CatSphynx.description>
-  <AEXP_CatSphynx.tools.left_claw.label>garra izquierda</AEXP_CatSphynx.tools.left_claw.label>
-  <AEXP_CatSphynx.tools.right_claw.label>garra derecha</AEXP_CatSphynx.tools.right_claw.label>
+  <!-- EN: head -->
   <AEXP_CatSphynx.tools.head.label>cabeza</AEXP_CatSphynx.tools.head.label>
+  <!-- EN: left claw -->
+  <AEXP_CatSphynx.tools.left_claw.label>garra izquierda</AEXP_CatSphynx.tools.left_claw.label>
+  <!-- EN: claw -->
+  <AEXP_CatSphynx.tools.left_claw.labelNoLocation>TODO</AEXP_CatSphynx.tools.left_claw.labelNoLocation>
+  <!-- EN: right claw -->
+  <AEXP_CatSphynx.tools.right_claw.label>garra derecha</AEXP_CatSphynx.tools.right_claw.label>
+  <!-- EN: claw -->
+  <AEXP_CatSphynx.tools.right_claw.labelNoLocation>TODO</AEXP_CatSphynx.tools.right_claw.labelNoLocation>
+  <!-- EN: canines -->
+  <AEXP_CatSphynx.tools.canines.label>TODO</AEXP_CatSphynx.tools.canines.label>
   
 </LanguageData>

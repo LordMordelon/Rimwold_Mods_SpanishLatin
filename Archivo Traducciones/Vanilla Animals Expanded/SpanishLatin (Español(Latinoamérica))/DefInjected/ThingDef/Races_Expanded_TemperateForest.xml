@@ -1,28 +1,50 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
+  <!-- EN: beaver -->
   <AEXP_Beaver.label>castor</AEXP_Beaver.label>
+  <!-- EN: A large semiaquatic rodent with a flat, paddle-shaped tail and webbed hind feet. Beavers are renowned for their innate construction skills, building their homes, or "lodges", out of sticks, twigs, rocks, and mud in lakes, streams, and tidal river deltas. Beavers are well known for building dams across streams and constructing their lodges in the artificial ponds which form. -->
   <AEXP_Beaver.description>Un gran roedor semiacuático con una cola plana en forma de paleta y patas traseras palmeadas. Los castores son famosos por sus habilidades de construcción innatas, fabricando sus hogares o "madrigueras" con palos, ramas, rocas y barro en lagos, arroyos y deltas de ríos. Son bien conocidos por construir presas a través de las corrientes y levantar sus refugios en los estanques artificiales que se forman.</AEXP_Beaver.description>
-  <AEXP_Beaver.tools.left_claw.label>garra izquierda</AEXP_Beaver.tools.left_claw.label>
-  <AEXP_Beaver.tools.right_claw.label>garra derecha</AEXP_Beaver.tools.right_claw.label>
+  <!-- EN: head -->
   <AEXP_Beaver.tools.head.label>cabeza</AEXP_Beaver.tools.head.label>
+  <!-- EN: Incisors -->
+  <AEXP_Beaver.tools.Incisors.label>TODO</AEXP_Beaver.tools.Incisors.label>
   
+  <!-- EN: hedgehog -->
   <AEXP_Hedgehog.label>erizo</AEXP_Hedgehog.label>
+  <!-- EN: Hedgehogs are diminutive mammals with cone-shaped faces, short legs and bodies that are covered with porcupine-like quills. When in danger, the hedgehog rolls into a ball so that the quills cover the entire area of their exposed body and protects the animal from predators. -->
   <AEXP_Hedgehog.description>Los erizos son mamíferos diminutos con caras en forma de cono, patas cortas y cuerpos cubiertos de púas similares a las del puercoespín. Cuando está en peligro, el erizo se enrolla en una bola para que las púas cubran toda la zona expuesta de su cuerpo, protegiéndose de los depredadores.</AEXP_Hedgehog.description>
-  <AEXP_Hedgehog.tools.left_claw.label>garra izquierda</AEXP_Hedgehog.tools.left_claw.label>
-  <AEXP_Hedgehog.tools.right_claw.label>garra derecha</AEXP_Hedgehog.tools.right_claw.label>
+  <!-- EN: Eating insects -->
+  <AEXP_Hedgehog.comps.CompAutoNutrition.consumingFoodReportString>TODO</AEXP_Hedgehog.comps.CompAutoNutrition.consumingFoodReportString>
+  <!-- EN: head -->
   <AEXP_Hedgehog.tools.head.label>cabeza</AEXP_Hedgehog.tools.head.label>
+  <!-- EN: teeth -->
+  <AEXP_Hedgehog.tools.teeth.label>TODO</AEXP_Hedgehog.tools.teeth.label>
   
+  <!-- EN: red panda -->
   <AEXP_RedPanda.label>panda rojo</AEXP_RedPanda.label>
+  <!-- EN: The red panda is a small mammal, slightly larger than a domestic cat, with a bear-like body and thick russet fur. The belly and limbs are black, and there are white markings on the side of the head and above its small eyes. Red pandas are very skillful and acrobatic animals that predominantly stay in trees. It is a solitary animal, mainly active from dusk to dawn, though they can be quite affectionate if properly tamed. -->
   <AEXP_RedPanda.description>El panda rojo es un mamífero pequeño, ligeramente más grande que un gato doméstico, con un cuerpo parecido al de un oso y un denso pelaje de color rojizo. El vientre y las extremidades son negros, y tiene marcas blancas en los lados de la cabeza y sobre sus pequeños ojos. Son animales muy hábiles y acrobáticos que pasan la mayor parte del tiempo en los árboles. Es un animal solitario, activo principalmente desde el anochecer hasta el amanecer, aunque pueden ser bastante afectuosos si se domestican correctamente.</AEXP_RedPanda.description>
-  <AEXP_RedPanda.tools.left_fist.label>garra izquierda</AEXP_RedPanda.tools.left_fist.label>
-  <AEXP_RedPanda.tools.right_fist.label>garra derecha</AEXP_RedPanda.tools.right_fist.label>
+  <!-- EN: head -->
   <AEXP_RedPanda.tools.head.label>cabeza</AEXP_RedPanda.tools.head.label>
+  <!-- EN: left claw -->
+  <AEXP_RedPanda.tools.left_claw.label>TODO</AEXP_RedPanda.tools.left_claw.label>
+  <!-- EN: claw -->
+  <AEXP_RedPanda.tools.left_claw.labelNoLocation>TODO</AEXP_RedPanda.tools.left_claw.labelNoLocation>
+  <!-- EN: right claw -->
+  <AEXP_RedPanda.tools.right_claw.label>TODO</AEXP_RedPanda.tools.right_claw.label>
+  <!-- EN: claw -->
+  <AEXP_RedPanda.tools.right_claw.labelNoLocation>TODO</AEXP_RedPanda.tools.right_claw.labelNoLocation>
+  <!-- EN: canines -->
+  <AEXP_RedPanda.tools.canines.label>TODO</AEXP_RedPanda.tools.canines.label>
   
+  <!-- EN: wild goose -->
   <AEXP_WildGoose.label>ganso silvestre</AEXP_WildGoose.label>
+  <!-- EN: A non-domesticated grey goose. Compared to their domesticated brethren, which have been selected over thousands of years for larger size, wild geese don't lay as many eggs, and they are renowned for their aggressive temperament. Peace was never an option. -->
   <AEXP_WildGoose.description>Un ganso gris no domesticado. En comparación con sus parientes domésticos, seleccionados durante milenios para ser más grandes, los gansos silvestres no ponen tantos huevos y son famosos por su temperamento agresivo. La paz nunca fue una opción.</AEXP_WildGoose.description>
-  <AEXP_WildGoose.tools.claws.label>garras</AEXP_WildGoose.tools.claws.label>
-  <AEXP_WildGoose.tools.beak.label>pico</AEXP_WildGoose.tools.beak.label>
+  <!-- EN: head -->
   <AEXP_WildGoose.tools.head.label>cabeza</AEXP_WildGoose.tools.head.label>
-
+  <!-- EN: beak -->
+  <AEXP_WildGoose.tools.beak.label>pico</AEXP_WildGoose.tools.beak.label>
+  
 </LanguageData>

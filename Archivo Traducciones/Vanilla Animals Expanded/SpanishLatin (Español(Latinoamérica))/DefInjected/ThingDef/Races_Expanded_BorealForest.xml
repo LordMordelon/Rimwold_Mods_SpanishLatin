@@ -1,18 +1,30 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <AEXP_ArcticCoyote.label>coyote ártico</AEXP_ArcticCoyote.label>
-  <AEXP_ArcticCoyote.description>Un pequeño canino nativo de la tundra y los bosques boreales. Es capaz de cazar presas mucho más grandes que él y suele encontrarse en manadas, de forma similar a los lobos.</AEXP_ArcticCoyote.description>
-  <AEXP_ArcticCoyote.tools.left_claw.label>garra izquierda</AEXP_ArcticCoyote.tools.left_claw.label>
-  <AEXP_ArcticCoyote.tools.right_claw.label>garra derecha</AEXP_ArcticCoyote.tools.right_claw.label>
-  <AEXP_ArcticCoyote.tools.head.label>cabeza</AEXP_ArcticCoyote.tools.head.label>
   
+  <!-- EN: arctic coyote -->
+  <AEXP_ArcticCoyote.label>coyote ártico</AEXP_ArcticCoyote.label>
+  <!-- EN: A small canine native to tundra and boreal forests. It's capable of hunting much bigger prey, and is often found in packs, similar to a wolf. -->
+  <AEXP_ArcticCoyote.description>Un pequeño canino nativo de la tundra y los bosques boreales. Es capaz de cazar presas mucho más grandes que él y suele encontrarse en manadas, de forma similar a los lobos.</AEXP_ArcticCoyote.description>
+  <!-- EN: head -->
+  <AEXP_ArcticCoyote.tools.head.label>cabeza</AEXP_ArcticCoyote.tools.head.label>
+  <!-- EN: canines -->
+  <AEXP_ArcticCoyote.tools.canines.label>TODO</AEXP_ArcticCoyote.tools.canines.label>
+  
+  <!-- EN: black bear -->
   <AEXP_BlackBear.label>oso negro</AEXP_BlackBear.label>
+  <!-- EN: A medium sized omnivorous mammal adapted for cold climates. Bears' thick blubber and fur keeps them warm in winter.\n\nWhile their usual diet consists of fish, berries, honey, and scavenged meat, the black bear is capable of using its massive strength and deadly claws to kill live prey. They are startlingly quick for such lumbering creatures. -->
   <AEXP_BlackBear.description>Un mamífero omnívoro de tamaño mediano adaptado a los climas fríos. La gruesa capa de grasa y el pelaje de los osos los mantienen calientes en invierno.\n\nAunque su dieta habitual consiste en pescado, bayas, miel y carne de carroña, el oso negro es capaz de usar su fuerza masiva y sus garras mortales para matar presas vivas. Son sorprendentemente rápidos para ser criaturas tan corpulentas.</AEXP_BlackBear.description>
-  <AEXP_BlackBear.tools.left_claw.label>garra izquierda</AEXP_BlackBear.tools.left_claw.label>
-  <AEXP_BlackBear.tools.left_claw.labelNoLocation>garra</AEXP_BlackBear.tools.left_claw.labelNoLocation>
-  <AEXP_BlackBear.tools.right_claw.label>garra derecha</AEXP_BlackBear.tools.right_claw.label>
-  <AEXP_BlackBear.tools.right_claw.labelNoLocation>garra</AEXP_BlackBear.tools.right_claw.labelNoLocation>
+  <!-- EN: head -->
   <AEXP_BlackBear.tools.head.label>cabeza</AEXP_BlackBear.tools.head.label>
+  <!-- EN: left claw -->
+  <AEXP_BlackBear.tools.left_claw.label>garra izquierda</AEXP_BlackBear.tools.left_claw.label>
+  <!-- EN: claw -->
+  <AEXP_BlackBear.tools.left_claw.labelNoLocation>garra</AEXP_BlackBear.tools.left_claw.labelNoLocation>
+  <!-- EN: right claw -->
+  <AEXP_BlackBear.tools.right_claw.label>garra derecha</AEXP_BlackBear.tools.right_claw.label>
+  <!-- EN: claw -->
+  <AEXP_BlackBear.tools.right_claw.labelNoLocation>garra</AEXP_BlackBear.tools.right_claw.labelNoLocation>
+  <!-- EN: canines -->
+  <AEXP_BlackBear.tools.canines.label>TODO</AEXP_BlackBear.tools.canines.label>
   
 </LanguageData>

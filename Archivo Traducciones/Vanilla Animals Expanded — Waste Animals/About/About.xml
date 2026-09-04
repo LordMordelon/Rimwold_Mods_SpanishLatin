@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>Vanilla Animals Expanded — Waste Animals</name>
+	<author>Oskar Potocki, Sarg Bjornson, Sir Van</author>
+	<supportedVersions>	
+		<li>1.4</li>
+		<li>1.5</li>
+		<li>1.6</li>
+	</supportedVersions>
+	<modIconPath IgnoreIfNoMatchingField="True">UI/VELogo</modIconPath>
+	<modDependencies>
+		<li>
+			<packageId>brrainz.harmony</packageId>
+			<displayName>Harmony</displayName>
+			<steamWorkshopUrl>steam://url/CommunityFilePage/2009463077</steamWorkshopUrl>
+			<downloadUrl>https://github.com/pardeike/HarmonyRimWorld/releases/latest</downloadUrl>
+		</li>
+		<li>
+			<packageId>OskarPotocki.VanillaFactionsExpanded.Core</packageId>
+			<displayName>Vanilla Expanded Framework</displayName>
+			<steamWorkshopUrl>https://steamcommunity.com/workshop/filedetails/?id=2023507013</steamWorkshopUrl>
+			<downloadUrl>https://github.com/Vanilla-Expanded/VanillaExpandedFramework</downloadUrl>
+		</li>
+		<li>
+			<packageId>Ludeon.RimWorld.Biotech</packageId>
+			<displayName>Biotech</displayName>
+		</li>
+	</modDependencies>
+	<loadAfter>
+		<li>OskarPotocki.VanillaFactionsExpanded.Core</li>
+		
+	</loadAfter>
+	<packageId>VanillaExpanded.VAEWaste</packageId>
+	<description>Embrace the toxic side of nature with the "Vanilla Animals Expanded - Waste Animals" mod! This unique mod expands the range of creatures found in highly polluted biomes, diversifying the environmental challenges and adding an extra layer of depth to your gameplay experience.
+Venture into the contaminated world and encounter new waste animals specific to their biomes. Meet the resilient Wastefallos in the frozen tundras, confront the fearsome Pestigators lurking in the murkiest swamps, and tread cautiously among packs of ravenous Toxlions that spread the dreaded Toxflu with each bite.
+
+Unlike the base game's Biotech DLC, which features only Toxalopes and Toxrats in every biome, this mod tailors the waste animals to their respective habitats, ensuring diverse and dynamic ecosystems teeming with life – even in the most inhospitable environments.
+
+But beware the consequences of your own pollution! Generate too many Wastepacks and risk triggering a new event that attracts hordes of waste animals to your map, threatening the stability of your local ecosystem and putting your colony in peril. Manage your waste production and strike a delicate balance between progress and preservation in this unpredictable, toxic world.
+
+Key Features:
+
+- A diverse range of biome-specific waste animals for a more immersive and challenging experience.
+- The introduction of many new waste animals, including Toxbears, Wastefallos, and even Megatardi – each with their own unique abilities and threats.
+- A new event that dynamically reacts to the player's pollution levels, attracting waste animals and endangering the local ecosystem.
+- Complements the base game and Biotech DLC, enhancing the overall gameplay experience.
+ 
+	</description>
+</ModMetaData>

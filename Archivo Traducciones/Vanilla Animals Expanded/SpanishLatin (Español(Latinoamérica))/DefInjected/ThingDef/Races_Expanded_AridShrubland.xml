@@ -1,40 +1,88 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
-  
+  <!-- EN: cheetah -->
   <AEXP_Cheetah.label>guepardo</AEXP_Cheetah.label>
+  <!-- EN: These cats are lean and lanky, allowing them to reach incredible speeds. They have tan-colored fur with solid black, round spots, very long legs, a long narrow tail for balance, and a deep chest that contains large lungs. -->
   <AEXP_Cheetah.description>Estos felinos son esbeltos y larguiruchos, lo que les permite alcanzar velocidades increíbles. Tienen un pelaje de color canela con manchas redondas de color negro sólido, patas muy largas, una cola larga y estrecha para mantener el equilibrio, y un pecho profundo que alberga unos pulmones de gran tamaño.</AEXP_Cheetah.description>
-  <AEXP_Cheetah.tools.left_claw.label>garra izquierda</AEXP_Cheetah.tools.left_claw.label>
-  <AEXP_Cheetah.tools.left_claw.labelNoLocation>garra</AEXP_Cheetah.tools.left_claw.labelNoLocation>
-  <AEXP_Cheetah.tools.right_claw.label>garra derecha</AEXP_Cheetah.tools.right_claw.label>
-  <AEXP_Cheetah.tools.right_claw.labelNoLocation>garra</AEXP_Cheetah.tools.right_claw.labelNoLocation>
+  <!-- EN: head -->
   <AEXP_Cheetah.tools.head.label>cabeza</AEXP_Cheetah.tools.head.label>
+  <!-- EN: left claw -->
+  <AEXP_Cheetah.tools.left_claw.label>garra izquierda</AEXP_Cheetah.tools.left_claw.label>
+  <!-- EN: claw -->
+  <AEXP_Cheetah.tools.left_claw.labelNoLocation>garra</AEXP_Cheetah.tools.left_claw.labelNoLocation>
+  <!-- EN: right claw -->
+  <AEXP_Cheetah.tools.right_claw.label>garra derecha</AEXP_Cheetah.tools.right_claw.label>
+  <!-- EN: claw -->
+  <AEXP_Cheetah.tools.right_claw.labelNoLocation>garra</AEXP_Cheetah.tools.right_claw.labelNoLocation>
+  <!-- EN: canines -->
+  <AEXP_Cheetah.tools.canines.label>TODO</AEXP_Cheetah.tools.canines.label>
   
+  <!-- EN: coyote -->
   <AEXP_Coyote.label>coyote</AEXP_Coyote.label>
+  <!-- EN: A praire wolf native to desert and shrubland areas. It's capable of hunting much bigger prey, and is often found in packs, similar to a wolf. -->
   <AEXP_Coyote.description>Un lobo de pradera nativo de zonas desérticas y de matorrales. Es capaz de cazar presas mucho más grandes que él y suele encontrarse en manadas, de forma similar a los lobos.</AEXP_Coyote.description>
-  <AEXP_Coyote.tools.left_claw.label>garra izquierda</AEXP_Coyote.tools.left_claw.label>
-  <AEXP_Coyote.tools.right_claw.label>garra derecha</AEXP_Coyote.tools.right_claw.label>
+  <!-- EN: head -->
   <AEXP_Coyote.tools.head.label>cabeza</AEXP_Coyote.tools.head.label>
+  <!-- EN: canines -->
+  <AEXP_Coyote.tools.canines.label>TODO</AEXP_Coyote.tools.canines.label>
   
+  <!-- EN: crocodile -->
   <AEXP_Crocodile.label>cocodrilo</AEXP_Crocodile.label>
+  <!-- EN: A large semi-aquatic reptile, most often found on the river banks. It's predatory insticts combined with an extremely strong jaw allow them to tackle much larger prey. Older crocodiles can grow to monstrous sizes. -->
   <AEXP_Crocodile.description>Un gran reptil semiacuático que suele encontrarse en las orillas de los ríos. Sus instintos depredadores, combinados con una mandíbula extremadamente fuerte, le permiten enfrentarse a presas mucho más grandes. Los ejemplares más viejos pueden alcanzar tamaños monstruosos.</AEXP_Crocodile.description>
+  <!-- EN: head -->
+  <AEXP_Crocodile.tools.head.label>TODO</AEXP_Crocodile.tools.head.label>
+  <!-- EN: teeth -->
+  <AEXP_Crocodile.tools.teeth.label>TODO</AEXP_Crocodile.tools.teeth.label>
   
+  <!-- EN: giraffe -->
   <AEXP_Giraffe.label>jirafa</AEXP_Giraffe.label>
+  <!-- EN: A giraffe is one of the tallest mammals in the galaxy, using it's long neck to reach leaves and branches unavailable for smaller herbivores. -->
   <AEXP_Giraffe.description>La jirafa es uno de los mamíferos más altos de la galaxia; utiliza su largo cuello para alcanzar hojas y ramas inaccesibles para los herbívoros más pequeños.</AEXP_Giraffe.description>
-  <AEXP_Giraffe.tools.left_hoof.label>pezuña izquierda</AEXP_Giraffe.tools.left_hoof.label>
-  <AEXP_Giraffe.tools.right_hoof.label>pezuña derecha</AEXP_Giraffe.tools.right_hoof.label>
+  <!-- EN: head -->
   <AEXP_Giraffe.tools.head.label>cabeza</AEXP_Giraffe.tools.head.label>
+  <!-- EN: left hoof -->
+  <AEXP_Giraffe.tools.left_hoof.label>pezuña izquierda</AEXP_Giraffe.tools.left_hoof.label>
+  <!-- EN: hoof -->
+  <AEXP_Giraffe.tools.left_hoof.labelNoLocation>TODO</AEXP_Giraffe.tools.left_hoof.labelNoLocation>
+  <!-- EN: right hoof -->
+  <AEXP_Giraffe.tools.right_hoof.label>pezuña derecha</AEXP_Giraffe.tools.right_hoof.label>
+  <!-- EN: hoof -->
+  <AEXP_Giraffe.tools.right_hoof.labelNoLocation>TODO</AEXP_Giraffe.tools.right_hoof.labelNoLocation>
   
+  <!-- EN: wildebeest -->
   <AEXP_Wildebeest.label>ñu</AEXP_Wildebeest.label>
+  <!-- EN: Also called Gnu, this wild cow earned it's name with it's menacing horns, pointed beard and large head. These animals are known from their migrations and the size of their herds.\n\nDue to its Wildness, it produces milk at much slower rate than a standard cow. -->
   <AEXP_Wildebeest.description>este bóvido salvaje se ganó su nombre por sus cuernos amenazantes, su barba puntiaguda y su gran cabeza. Estos animales son conocidos por sus migraciones y el tamaño de sus manadas.\n\nDebido a su naturaleza salvaje, produce leche a un ritmo mucho más lento que una vaca estándar.</AEXP_Wildebeest.description>
+  <!-- EN: head -->
   <AEXP_Wildebeest.tools.head.label>cabeza</AEXP_Wildebeest.tools.head.label>
+  <!-- EN: left hoof -->
   <AEXP_Wildebeest.tools.left_hoof.label>pezuña izquierda</AEXP_Wildebeest.tools.left_hoof.label>
+  <!-- EN: hoof -->
+  <AEXP_Wildebeest.tools.left_hoof.labelNoLocation>TODO</AEXP_Wildebeest.tools.left_hoof.labelNoLocation>
+  <!-- EN: right hoof -->
   <AEXP_Wildebeest.tools.right_hoof.label>pezuña derecha</AEXP_Wildebeest.tools.right_hoof.label>
+  <!-- EN: hoof -->
+  <AEXP_Wildebeest.tools.right_hoof.labelNoLocation>TODO</AEXP_Wildebeest.tools.right_hoof.labelNoLocation>
+  <!-- EN: horn -->
+  <AEXP_Wildebeest.tools.horn.label>TODO</AEXP_Wildebeest.tools.horn.label>
   
+  <!-- EN: zebra -->
   <AEXP_Zebra.label>cebra</AEXP_Zebra.label>
+  <!-- EN: A member of the horse family native to arid and desert areas. Whilst it doesn't share the same bodysize as a horse, due to years of evolution it's one of the fastest hooved animals. -->
   <AEXP_Zebra.description>Miembro de la familia de los caballos nativo de zonas áridas y desérticas. Aunque no posee el mismo tamaño corporal que un caballo, debido a años de evolución es uno de los animales de pezuña más rápidos que existen.</AEXP_Zebra.description>
+  <!-- EN: head -->
   <AEXP_Zebra.tools.head.label>cabeza</AEXP_Zebra.tools.head.label>
+  <!-- EN: left hoof -->
   <AEXP_Zebra.tools.left_hoof.label>pezuña izquierda</AEXP_Zebra.tools.left_hoof.label>
+  <!-- EN: hoof -->
+  <AEXP_Zebra.tools.left_hoof.labelNoLocation>TODO</AEXP_Zebra.tools.left_hoof.labelNoLocation>
+  <!-- EN: right hoof -->
   <AEXP_Zebra.tools.right_hoof.label>pezuña derecha</AEXP_Zebra.tools.right_hoof.label>
+  <!-- EN: hoof -->
+  <AEXP_Zebra.tools.right_hoof.labelNoLocation>TODO</AEXP_Zebra.tools.right_hoof.labelNoLocation>
+  <!-- EN: teeth -->
+  <AEXP_Zebra.tools.teeth.label>TODO</AEXP_Zebra.tools.teeth.label>
   
 </LanguageData>
