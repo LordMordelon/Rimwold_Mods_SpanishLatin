@@ -1,0 +1,99 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <NHT_ArmorNoCover>No está cubierta por la armadura equipada.</NHT_ArmorNoCover>
+  <NHT_AssignOperation>Asignar</NHT_AssignOperation>
+  <NHT_BodyPartFilterTip>Usa {0} para filtrar por una parte del cuerpo específica.</NHT_BodyPartFilterTip>
+  <NHT_CancelOperation>Cancelar</NHT_CancelOperation>
+  <NHT_DeathRow>Muerte</NHT_DeathRow>
+  <NHT_DeathRowTip>El colono morirá después de esta operación\nlas tareas restantes no se realizarán</NHT_DeathRowTip>
+  <NHT_DevAddHediff>Añadir afección</NHT_DevAddHediff>
+  <NHT_DevInstall>Instalar implante</NHT_DevInstall>
+  <NHT_DevRemove>Extirpar parte</NHT_DevRemove>
+  <NHT_DiseaseChanceDifficulty>Dificultad: {0}</NHT_DiseaseChanceDifficulty>
+  <NHT_DiseaseChanceEpidemicBiome>Bioma {0}: {1}</NHT_DiseaseChanceEpidemicBiome>
+  <NHT_DiseaseChanceGeneImmune>inmunidad</NHT_DiseaseChanceGeneImmune>
+  <NHT_DiseaseChanceGeneImmuneTip>El gen {0} hace que esta enfermedad sea imposible.</NHT_DiseaseChanceGeneImmuneTip>
+  <NHT_DiseaseChanceGroupAge>Enfermedades por la edad</NHT_DiseaseChanceGroupAge>
+  <NHT_DiseaseChanceGroupComp>Complicaciones</NHT_DiseaseChanceGroupComp>
+  <NHT_DiseaseChanceGroupEpidemic>Epidemias</NHT_DiseaseChanceGroupEpidemic>
+  <NHT_DiseaseChanceNextBirthday>Probabilidad de contraerla en el próximo cumpleaños: {0}</NHT_DiseaseChanceNextBirthday>
+  <NHT_DiseaseChanceNextYear>Probabilidad de contraerla dentro del próximo año: {0}</NHT_DiseaseChanceNextYear>
+  <NHT_DiseaseChanceSource>Complicación de "{0}"</NHT_DiseaseChanceSource>
+  <NHT_DiseaseChanceZero>Otras</NHT_DiseaseChanceZero>
+  <NHT_DiseasePrognosis>Desenlace probable:</NHT_DiseasePrognosis>
+  <NHT_DiseasePrognosisDepends>depende del tratamiento</NHT_DiseasePrognosisDepends>
+  <NHT_DiseasePrognosisDiseaseWins>vence la enfermedad</NHT_DiseasePrognosisDiseaseWins>
+  <NHT_DiseasePrognosisHasChances>hay probabilidades</NHT_DiseasePrognosisHasChances>
+  <NHT_DiseasePrognosisImmuneWins>vence la inmunidad</NHT_DiseasePrognosisImmuneWins>
+  <NHT_DiseasePrognosisImmunityGain>Velocidad de desarrollo de inmunidad: {0}</NHT_DiseasePrognosisImmunityGain>
+  <NHT_DiseasePrognosisMinQuality>se requiere una calidad de tratamiento ≥ {0}%</NHT_DiseasePrognosisMinQuality>
+  <NHT_DollFixAuto>Autocorrección</NHT_DollFixAuto>
+  <NHT_DollFixIgnore>Ignorar</NHT_DollFixIgnore>
+  <NHT_DollIndexWarningTip>El cuerpo "{0}" no coincide con la silueta: los índices de las partes están desfasados o mezclados, por lo que la silueta muestra partes incorrectas. "Autocorrección" reconstruirá la asignación por nombres de partes; si esto no ayuda, configúralo manualmente en la pestaña "Partes del cuerpo" en las opciones del mod.</NHT_DollIndexWarningTip>
+  <NHT_DollIndexWarningTitle>Cuerpo incompatible detectado</NHT_DollIndexWarningTitle>
+  <NHT_HitChanceBluntFinalTip>Probabilidad final de recibir daño: {0}</NHT_HitChanceBluntFinalTip>
+  <NHT_HitChanceBluntRange>daño {0}–{1}</NHT_HitChanceBluntRange>
+  <NHT_HitChanceBluntRangeTip>40% de probabilidad de que el daño contundente penetre hacia el interior
+Daño secundario: {0} del daño recibido</NHT_HitChanceBluntRangeTip>
+  <NHT_HitChanceCatArms>Brazos</NHT_HitChanceCatArms>
+  <NHT_HitChanceCatHead>Cabeza</NHT_HitChanceCatHead>
+  <NHT_HitChanceCatLegs>Piernas</NHT_HitChanceCatLegs>
+  <NHT_HitChanceCatOther>Otro</NHT_HitChanceCatOther>
+  <NHT_HitChanceCatTorso>Torso</NHT_HitChanceCatTorso>
+  <NHT_HitChanceDamage>Probabilidad de recibir daño ({0}) por parte del cuerpo</NHT_HitChanceDamage>
+  <NHT_HitChanceGroupArms>Brazos</NHT_HitChanceGroupArms>
+  <NHT_HitChanceGroupHead>Cabeza</NHT_HitChanceGroupHead>
+  <NHT_HitChanceGroupLegs>Piernas</NHT_HitChanceGroupLegs>
+  <NHT_HitChanceGroupTorso>Torso</NHT_HitChanceGroupTorso>
+  <NHT_HitChanceKindBlunt>Contundente</NHT_HitChanceKindBlunt>
+  <NHT_HitChanceKindSharp>Cortante</NHT_HitChanceKindSharp>
+  <NHT_HitChanceSharpChainTip>Esta parte del cuerpo tiene garantizado recibir daño asociado</NHT_HitChanceSharpChainTip>
+  <NHT_IncompatibleGroup>Incompatible</NHT_IncompatibleGroup>
+  <NHT_IncompatibleGroupTip>Estas operaciones son incompatibles con tareas ya asignadas o con una prótesis instalada: la parte ya está ocupada o será ocupada por una operación previa. Se vuelven viables tras eliminar las tareas en conflicto o la prótesis anterior.</NHT_IncompatibleGroupTip>
+  <NHT_IncompatibleWarning>Incompatible con tareas asignadas o prótesis instaladas</NHT_IncompatibleWarning>
+  <NHT_MedicineLabel>Medicina</NHT_MedicineLabel>
+  <NHT_ModFilterTip>Usa {0} para filtrar por mod o DLC.</NHT_ModFilterTip>
+  <NHT_NoAffectingEffects>Sin efectos que afecten a: {0}</NHT_NoAffectingEffects>
+  <NHT_OptionIncompatibleTip>Esta operación es incompatible con tareas ya asignadas o con una prótesis instalada: la parte ya está ocupada o será ocupada por una operación previa. Se vuelve viable tras eliminar las tareas en conflicto o la prótesis anterior.</NHT_OptionIncompatibleTip>
+  <NHT_PawnPriceChange>Valor del colono</NHT_PawnPriceChange>
+  <NHT_SurgeryChanceBase>Probabilidad base</NHT_SurgeryChanceBase>
+  <NHT_SurgeryChanceBed>Cama médica</NHT_SurgeryChanceBed>
+  <NHT_SurgeryChanceBedBonus>Bonificaciones</NHT_SurgeryChanceBedBonus>
+  <NHT_SurgeryChanceBedCleanliness>Limpieza</NHT_SurgeryChanceBedCleanliness>
+  <NHT_SurgeryChanceBedIndoors>En interiores</NHT_SurgeryChanceBedIndoors>
+  <NHT_SurgeryChanceBedLight>Iluminación</NHT_SurgeryChanceBedLight>
+  <NHT_SurgeryChanceBedOutdoors>Al aire libre</NHT_SurgeryChanceBedOutdoors>
+  <NHT_SurgeryChanceBedQuality>Calidad de la cama</NHT_SurgeryChanceBedQuality>
+  <NHT_SurgeryChanceInspiration>Inspiración ({0})</NHT_SurgeryChanceInspiration>
+  <NHT_SurgeryChanceLimit>Límite de éxito: no más de {0}</NHT_SurgeryChanceLimit>
+  <NHT_SurgeryChanceNoSurgeon>Ningún cirujano es capaz de realizar la operación</NHT_SurgeryChanceNoSurgeon>
+  <NHT_SurgeryChanceOtherSurgeons>Otros cirujanos:</NHT_SurgeryChanceOtherSurgeons>
+  <NHT_SurgeryChanceSurgeon>Mejor cirujano</NHT_SurgeryChanceSurgeon>
+  <NHT_SurgeryDeathOnFailChance>Probabilidad de muerte en caso de fallo</NHT_SurgeryDeathOnFailChance>
+  <NHT_SurgeryFinalChanceTitle>Probabilidad de éxito de la operación: </NHT_SurgeryFinalChanceTitle>
+  <NHT_SurgerySuccessChance>Probabilidad de éxito</NHT_SurgerySuccessChance>
+  <NHT_TaskAddedIncompatible>La operación "{0}" es incompatible con tareas ya asignadas. Arrástrala más arriba en la lista de tareas.</NHT_TaskAddedIncompatible>
+  <NHT_TaskIncompatibleTip>Esta operación es incompatible con una anterior: {0}. Arrastra la tarea por encima de la operación en conflicto.</NHT_TaskIncompatibleTip>
+  <NHT_TimeDays>d.</NHT_TimeDays>
+  <NHT_TimeNever>Nunca</NHT_TimeNever>
+  <NHT_TimingBleedTip>El sangrado se detendrá por sí solo en {0}, la herida sanará en {1}</NHT_TimingBleedTip>
+  <NHT_TimingInjuryLine>{0}: {1}</NHT_TimingInjuryLine>
+  <NHT_TimingPartWhole>Hasta recuperarse por completo: {0}</NHT_TimingPartWhole>
+  <NHT_TimingRecoveryNone>Recuperación total: no requerida</NHT_TimingRecoveryNone>
+  <NHT_TimingRecoveryRateBad>Mala</NHT_TimingRecoveryRateBad>
+  <NHT_TimingRecoveryRateBed>Cama: {0}/día</NHT_TimingRecoveryRateBed>
+  <NHT_TimingRecoveryRateFast>Rápida</NHT_TimingRecoveryRateFast>
+  <NHT_TimingRecoveryRateGenes>Genes: {0}/día</NHT_TimingRecoveryRateGenes>
+  <NHT_TimingRecoveryRateGood>Buena</NHT_TimingRecoveryRateGood>
+  <NHT_TimingRecoveryRateLabel>Velocidad de curación:</NHT_TimingRecoveryRateLabel>
+  <NHT_TimingRecoveryRateLying>En reposo: {0}/día</NHT_TimingRecoveryRateLying>
+  <NHT_TimingRecoveryRateNormal>Normal</NHT_TimingRecoveryRateNormal>
+  <NHT_TimingRecoveryRateRegen>Regeneración: {0}/día</NHT_TimingRecoveryRateRegen>
+  <NHT_TimingRecoveryRateTend>Atención médica: {0}/día</NHT_TimingRecoveryRateTend>
+  <NHT_TimingRecoveryRateTotal>Velocidad de curación: {0}/día</NHT_TimingRecoveryRateTotal>
+  <NHT_TimingRecoveryRegen>Velocidad de curación: {0}</NHT_TimingRecoveryRegen>
+  <NHT_TimingRecoveryTip>Tiempo hasta que el colono se recupere por completo y velocidad a la que sanan todas las heridas.</NHT_TimingRecoveryTip>
+  <NHT_TimingRecoveryTitle>Recuperación total: {0}</NHT_TimingRecoveryTitle>
+  <NHT_TimingSummary>Tiempo hasta curación total</NHT_TimingSummary>
+  <NHT_TimingSummaryTip>Tiempo estimado para que sanen todas las heridas del colono. En realidad, cada ciclo de curación sana una herida aleatoria, por lo que el tiempo es una estimación aproximada y no una duración exacta.</NHT_TimingSummaryTip>
+</LanguageData>

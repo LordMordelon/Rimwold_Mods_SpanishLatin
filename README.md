@@ -4,8 +4,8 @@ Un conjunto de traducciones de mods que uso adaptados principalmente al español
 
 Si encuentras errores o tienes sugerencias, no dudes en mencionarlo.
 
-**Última compilación:** 2026-09-04 03:47:21  
-**Total de mods traducidos:** 247
+**Última compilación:** 2026-09-04 04:22:58  
+**Total de mods traducidos:** 248
 
 ## Lista de mods traducidos
 
@@ -112,6 +112,7 @@ Si encuentras errores o tienes sugerencias, no dudes en mencionarlo.
 - More Than Capable (1.6-b)
 - Move the Patient
 - Nice Bill Tab
+- Nice Health Tab
 - Nice Inventory Tab
 - Nice Inventory Tab CE Integration
 - Nice Plants Menu
