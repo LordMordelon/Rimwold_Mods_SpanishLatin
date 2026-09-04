@@ -4,8 +4,8 @@ Un conjunto de traducciones de mods que uso adaptados principalmente al español
 
 Si encuentras errores o tienes sugerencias, no dudes en mencionarlo.
 
-**Última compilación:** 2026-09-04 05:06:11  
-**Total de mods traducidos:** 249
+**Última compilación:** 2026-09-04 05:45:11  
+**Total de mods traducidos:** 250
 
 ## Lista de mods traducidos
 
@@ -127,6 +127,7 @@ Si encuentras errores o tienes sugerencias, no dudes en mencionarlo.
 - Performance Optimizer
 - Permits Re-Examined
 - Persona Mechanoid Pawns 2
+- Persona Weapons Unbound
 - Pharmacist Represcribed
 - Power Re-Examined
 - Progression Education

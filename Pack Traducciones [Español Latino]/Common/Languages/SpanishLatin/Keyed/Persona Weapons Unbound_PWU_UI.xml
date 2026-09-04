@@ -1,0 +1,161 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <PWU_AddingTrait>Añadiendo {0} a {1}</PWU_AddingTrait>
+  <PWU_AdmiringWork>Admirando el trabajo</PWU_AdmiringWork>
+  <PWU_AllowDefConversion>Permitir la conversión de def del arma</PWU_AllowDefConversion>
+  <PWU_AllowDefConversionDesc>Permite que las armas se conviertan entre su def base y su def con IA durante la personalización. Cuando está desactivado, solo se pueden personalizar las armas que ya tienen IA, y quitar todos los rasgos deja el arma como un arma con IA sin rasgos en lugar de revertirla a su arma base.</PWU_AllowDefConversionDesc>
+  <PWU_AlreadyApplied>Ya aplicado</PWU_AlreadyApplied>
+  <PWU_AutoRegenName>Regenerar el nombre automáticamente al cambiar los rasgos</PWU_AutoRegenName>
+  <PWU_BailCarryStartFailed>Personalización de {0} interrumpida: no se pudo recoger el arma.</PWU_BailCarryStartFailed>
+  <PWU_BailDialogOpenFailed>Personalización de {0} interrumpida: no se pudo abrir el diálogo de personalización. Consulta el registro.</PWU_BailDialogOpenFailed>
+  <PWU_BailIngredientLost>Personalización de {0} interrumpida: se perdió un ingrediente durante el transporte.</PWU_BailIngredientLost>
+  <PWU_BailIngredientPlacementFailed>Personalización de {0} interrumpida: no hay espacio cerca del banco de trabajo para colocar un ingrediente.</PWU_BailIngredientPlacementFailed>
+  <PWU_BailIngredientUnreachable>Personalización de {0} interrumpida: un ingrediente necesario se volvió inalcanzable.</PWU_BailIngredientUnreachable>
+  <PWU_BailOpAddTraitFailed>Personalización de {0} interrumpida: ocurrió un error al añadir {1}.</PWU_BailOpAddTraitFailed>
+  <PWU_BailOpMemoryFailed>Personalización de {0} interrumpida: ocurrió un error al borrar la memoria de la IA.</PWU_BailOpMemoryFailed>
+  <PWU_BailOpRemoveTraitFailed>Personalización de {0} interrumpida: ocurrió un error al quitar {1}.</PWU_BailOpRemoveTraitFailed>
+  <PWU_BailOpRenameFailed>Personalización de {0} interrumpida: ocurrió un error al renombrar el arma.</PWU_BailOpRenameFailed>
+  <PWU_BailOpRestyleFailed>Personalización de {0} interrumpida: ocurrió un error al actualizar su apariencia.</PWU_BailOpRestyleFailed>
+  <PWU_BailUnexpected>La personalización de {0} falló inesperadamente.</PWU_BailUnexpected>
+  <PWU_BailWeaponInaccessible>Personalización de {0} interrumpida: el arma ya no es accesible.</PWU_BailWeaponInaccessible>
+  <PWU_BailWeaponLost>Personalización de {0} interrumpida: se perdió el arma.</PWU_BailWeaponLost>
+  <PWU_BailWorkbenchInactive>Personalización de {0} interrumpida: el banco de trabajo no tiene energía ni combustible.</PWU_BailWorkbenchInactive>
+  <PWU_BailWorkbenchUnavailable>Personalización de {0} interrumpida: el banco de trabajo ya no está disponible.</PWU_BailWorkbenchUnavailable>
+  <PWU_BailWorkbenchUnreachable>Personalización de {0} interrumpida: el banco de trabajo se volvió inalcanzable.</PWU_BailWorkbenchUnreachable>
+  <PWU_BondSeveredWarning>Revertir esta arma a su forma base romperá su vínculo con {0}. ¿Continuar?</PWU_BondSeveredWarning>
+  <PWU_BurstCount>Tiros por ráfaga</PWU_BurstCount>
+  <PWU_BurstSpeed>Velocidad de ráfaga</PWU_BurstSpeed>
+  <PWU_Cancel>Cancelar</PWU_Cancel>
+  <PWU_CannotBeOnlyTrait>No puede ser el único rasgo</PWU_CannotBeOnlyTrait>
+  <PWU_Confirm>Confirmar</PWU_Confirm>
+  <PWU_ConflictsWith>Entra en conflicto con {0}</PWU_ConflictsWith>
+  <PWU_CostFree>Gratis</PWU_CostFree>
+  <PWU_CostTableHeader>Componentes avanzados necesarios por cambio de rasgo, según la calidad del arma:</PWU_CostTableHeader>
+  <PWU_CostTableNotApplicable>-</PWU_CostTableNotApplicable>
+  <PWU_CostTableNotApplicableDesc>Las armas de esta calidad no se pueden personalizar: el requisito de calidad mínima del arma está fijado en {0}.</PWU_CostTableNotApplicableDesc>
+  <PWU_CouldNotStartInternalError>No se pudo personalizar {0}: error interno. Consulta el registro.</PWU_CouldNotStartInternalError>
+  <PWU_CouldNotStartPlanInfeasible>No se pudo personalizar {0}: no hay un plan de transporte viable.</PWU_CouldNotStartPlanInfeasible>
+  <PWU_CouldNotStartReservationConflict>No se pudo personalizar {0}: no se pudo reservar {1} x{2}.</PWU_CouldNotStartReservationConflict>
+  <PWU_CouldNotStartReservationConflictHeldBy>No se pudo personalizar {0}: no se pudo reservar {1} x{2} (en poder de {3}).</PWU_CouldNotStartReservationConflictHeldBy>
+  <PWU_CustomizeGizmoDesc>Selecciona a un colono para personalizar esta arma en un banco de trabajo cercano.</PWU_CustomizeGizmoDesc>
+  <PWU_CustomizeGizmoLabel>Personalizar IA</PWU_CustomizeGizmoLabel>
+  <PWU_CustomizeWeapon>Personalizar IA: {0}</PWU_CustomizeWeapon>
+  <PWU_CustomizingWeapon>Personalizando {0}</PWU_CustomizingWeapon>
+  <PWU_DamageType>Tipo de daño</PWU_DamageType>
+  <PWU_DefaultSuffix> (predeterminado)</PWU_DefaultSuffix>
+  <PWU_DevDefConversionDisabled>mejoras de la variante base desactivadas</PWU_DevDefConversionDisabled>
+  <PWU_DevNoPersonaVariant>sin variante con IA</PWU_DevNoPersonaVariant>
+  <PWU_DialogErrored>El diálogo de personalización de {0} dio error y se cerró. Consulta el registro.</PWU_DialogErrored>
+  <PWU_Effects>Efectos:</PWU_Effects>
+  <PWU_EnableGroundCustomization>Activar el menú contextual de las armas en el suelo</PWU_EnableGroundCustomization>
+  <PWU_EnableGroundCustomizationDesc>Muestra las opciones de "Personalizar" al hacer clic derecho sobre armas en el suelo. Desactívalo para reducir el desorden del menú contextual, sobre todo con mods de almacenamiento que apilan objetos en la misma celda. Las armas se pueden seguir personalizando al seleccionarlas y usar el botón de la interfaz.</PWU_EnableGroundCustomizationDesc>
+  <PWU_EnableMonoswordRecipe>Activar la receta de fabricación de la monoespada</PWU_EnableMonoswordRecipe>
+  <PWU_EnableMonoswordRecipeDesc>Muestra el proyecto "{0}" en el {1} (requiere la investigación {2}). Desactivarlo solo lo oculta del menú de añadir proyectos; los proyectos ya en cola siguen produciendo.</PWU_EnableMonoswordRecipeDesc>
+  <PWU_EnablePersonaCoreRecipe>Activar la receta de fabricación del núcleo de IA</PWU_EnablePersonaCoreRecipe>
+  <PWU_EnablePersonaCoreRecipeDesc>Muestra el proyecto "{0}" en el {1} (requiere la investigación {2}). Desactivado de forma predeterminada: en el juego base un núcleo de IA solo se puede encontrar o conseguir mediante comercio, y poder fabricarlos convierte las armas con IA en algo repetible en lugar de excepcional. Actívalo para tener una vía totalmente autosuficiente dentro de la colonia: fabrica un arma base, fabrica un núcleo e instálalo mediante la personalización. Desactivarlo solo lo oculta del menú de añadir proyectos; los proyectos ya en cola siguen produciendo.</PWU_EnablePersonaCoreRecipeDesc>
+  <PWU_EnablePlasmaswordRecipe>Activar la receta de fabricación de la espada de plasma</PWU_EnablePlasmaswordRecipe>
+  <PWU_EnablePlasmaswordRecipeDesc>Muestra el proyecto "{0}" en el {1} (requiere la investigación {2}). Desactivarlo solo lo oculta del menú de añadir proyectos; los proyectos ya en cola siguen produciendo.</PWU_EnablePlasmaswordRecipeDesc>
+  <PWU_EnableZeushammerRecipe>Activar la receta de fabricación del martillo Zeus</PWU_EnableZeushammerRecipe>
+  <PWU_EnableZeushammerRecipeDesc>Muestra el proyecto "{0}" en el {1} (requiere la investigación {2}). Desactivarlo solo lo oculta del menú de añadir proyectos; los proyectos ya en cola siguen produciendo.</PWU_EnableZeushammerRecipeDesc>
+  <PWU_EnforceMaxTraitLimit>Aplicar el límite de cantidad de rasgos</PWU_EnforceMaxTraitLimit>
+  <PWU_EnforceMaxTraitLimitDesc>Las armas con IA del juego base se generan con un máximo de dos rasgos. Activa esto para aplicar el mismo límite durante la personalización. Desactívalo para permitir cualquier cantidad de rasgos (las demás reglas, como las restricciones de exclusión, se siguen aplicando).</PWU_EnforceMaxTraitLimitDesc>
+  <PWU_EnforceSoleTrait>Aplicar las restricciones de rasgo único</PWU_EnforceSoleTrait>
+  <PWU_EnforceSoleTraitDesc>Algunos rasgos no pueden ser el único rasgo de un arma durante la generación del juego base. Activa esto para aplicar la misma restricción durante la personalización.</PWU_EnforceSoleTraitDesc>
+  <PWU_ExperimentalSuffix> (experimental)</PWU_ExperimentalSuffix>
+  <PWU_ExtraDamage>Daño extra</PWU_ExtraDamage>
+  <PWU_FirstTraitCostsPersonaCore>El primer rasgo cuesta un núcleo de IA</PWU_FirstTraitCostsPersonaCore>
+  <PWU_FirstTraitCostsPersonaCoreDesc>Cuando está activado (predeterminado), añadir el primer rasgo a un arma base instala un núcleo de IA, que se reembolsa al quitar el último rasgo y revertir el arma a su forma base. Cuando está desactivado, el primer rasgo añadido y el último rasgo quitado se cobran como cualquier otro cambio: componentes avanzados (ajustados según la calidad del arma conforme a la tabla de abajo), que nunca se reembolsan.</PWU_FirstTraitCostsPersonaCoreDesc>
+  <PWU_GatheringMaterials>Reuniendo materiales para {0}</PWU_GatheringMaterials>
+  <PWU_HaulPlannerSequential>Secuencial</PWU_HaulPlannerSequential>
+  <PWU_HaulPlannerSequentialDesc>Comportamiento del juego base. Los colonos llevan como máximo una pila de ingredientes a la vez, tomando siempre la más cercana primero. Simple y predecible, pero implica muchos viajes cortos en personalizaciones con muchos recursos.</PWU_HaulPlannerSequentialDesc>
+  <PWU_HaulPlannerSweep>Barrido</PWU_HaulPlannerSweep>
+  <PWU_HaulPlannerSweepDesc>Los colonos planifican con antelación y aprovechan el espacio libre de su inventario para llevar más cosas de una vez, además de trazar rutas más eficientes entre recogidas. Muchos menos viajes que Secuencial, con un costo de planificación insignificante.</PWU_HaulPlannerSweepDesc>
+  <PWU_HaulPlannerThorough>Exhaustivo</PWU_HaulPlannerThorough>
+  <PWU_HaulPlannerThoroughDesc>Como Barrido, pero además evalúa de qué pilas conviene tomar cuando el mapa tiene varias candidatas, en lugar de tomar siempre la más cercana. Planifica más lento, pero suele encontrar los recorridos más cortos cuando los ingredientes están dispersos o la capacidad de carga es ajustada. Recurre a Barrido en los transportes demasiado complejos para analizarlos por completo.</PWU_HaulPlannerThoroughDesc>
+  <PWU_HideNegativeTraits>Ocultar rasgos negativos</PWU_HideNegativeTraits>
+  <PWU_IgnoresAccuracyPenalties>Ignora las penalizaciones de precisión</PWU_IgnoresAccuracyPenalties>
+  <PWU_IngredientShortfall>Personalización de {0} interrumpida: se perdieron ingredientes antes de poder aplicar {1}.</PWU_IngredientShortfall>
+  <PWU_IntegrateVpweCustomization>Integrar la personalización de texturas de VEF</PWU_IntegrateVpweCustomization>
+  <PWU_IntegrateVpweCustomizationDesc>Añade una pestaña Textura al diálogo de personalización de PWU para editar la apariencia compuesta (empuñadura, hoja y partes similares) de cualquier arma con IA construida sobre el sistema de composición de texturas de Vanilla Expanded Framework: las armas de Vanilla Persona Weapons Expanded, la arqueohoja de Vanilla Races Expanded - Archons y cualquier otra que use el mismo sistema. También oculta la opción "Personalizar" propia de VEF en el menú contextual del suelo siempre que la opción de personalización de PWU esté disponible, dándote un único lugar unificado para editar un arma con IA en vez de dos entradas de menú que compiten. Activado de forma predeterminada; desactívalo para dejar intacto el flujo de trabajo independiente de VEF.</PWU_IntegrateVpweCustomizationDesc>
+  <PWU_LastTraitSourceWarning>Advertencia: esta es la única arma de tu reserva con este rasgo. Si lo quitas, el rasgo desaparecerá del conjunto de rasgos que puedes aplicar a otras armas.</PWU_LastTraitSourceWarning>
+  <PWU_MaxTraitsReached>Máximo de rasgos alcanzado</PWU_MaxTraitsReached>
+  <PWU_MemoryBondSeveredByTrait>El rasgo liberal ya rompe el vínculo</PWU_MemoryBondSeveredByTrait>
+  <PWU_MemoryKillWipedByTrait>Romper el vínculo también borra la memoria de muertes</PWU_MemoryKillWipedByTrait>
+  <PWU_MemoryLastKill>Última muerte: hace {0} días</PWU_MemoryLastKill>
+  <PWU_MemoryNoKillMemory>No recuerda ninguna muerte</PWU_MemoryNoKillMemory>
+  <PWU_MemoryNoWipe>Sin cambios</PWU_MemoryNoWipe>
+  <PWU_MemoryNotBonded>Sin vínculo</PWU_MemoryNotBonded>
+  <PWU_MemoryRequiresPersona>El arma debe albergar una IA antes de poder borrar su memoria.</PWU_MemoryRequiresPersona>
+  <PWU_MemoryWipeBonding>Borrar vínculo</PWU_MemoryWipeBonding>
+  <PWU_MemoryWipeBondingDesc>Borra el vínculo de la IA y, con él, su memoria de muertes. El arma volverá a vincularse con el próximo colono que la equipe.</PWU_MemoryWipeBondingDesc>
+  <PWU_MemoryWipeKillTracker>Borrar registro de muertes</PWU_MemoryWipeKillTracker>
+  <PWU_MemoryWipeKillTrackerDesc>Borra la memoria de la IA sobre sus muertes. El vínculo no se ve afectado.</PWU_MemoryWipeKillTrackerDesc>
+  <PWU_MemoryWipeLabel>borrado de memoria</PWU_MemoryWipeLabel>
+  <PWU_MinimumQuality>Calidad mínima del arma: {0}</PWU_MinimumQuality>
+  <PWU_MinimumQualityDesc>Restringe la personalización a armas de al menos esta calidad. Horrible no impone ninguna restricción. Las armas por debajo del mínimo seguirán mostrando la opción de personalización, pero estará desactivada con una explicación.</PWU_MinimumQualityDesc>
+  <PWU_MissingResources>Faltan recursos</PWU_MissingResources>
+  <PWU_NetCost>Costo neto: </PWU_NetCost>
+  <PWU_NetRefund>Reembolso neto: </PWU_NetRefund>
+  <PWU_NeverBondSeversBond>Añadir este rasgo vuelve el arma de uso libre y rompe su vínculo con {0}.</PWU_NeverBondSeversBond>
+  <PWU_NoSuitableWorkbench>no hay un banco de trabajo adecuado</PWU_NoSuitableWorkbench>
+  <PWU_NoTextureOptions>Esta arma no tiene opciones de personalización de textura.</PWU_NoTextureOptions>
+  <PWU_NoTraitsAfterHideNegative>Todos los rasgos disponibles para esta arma son negativos. Desactiva "Ocultar rasgos negativos" abajo para verlos.</PWU_NoTraitsAfterHideNegative>
+  <PWU_NoTraitsAvailable>Ningún rasgo es compatible con esta arma.</PWU_NoTraitsAvailable>
+  <PWU_NoTraitsDiscovered>Aún no hay rasgos disponibles.\n\nEncuentra armas con IA mediante comerciantes del Imperio, misiones, reliquias u hostiles\npara desbloquear sus rasgos y poder personalizarlos.</PWU_NoTraitsDiscovered>
+  <PWU_NoTraitsMatchSearch>Ningún rasgo coincide con tu búsqueda.</PWU_NoTraitsMatchSearch>
+  <PWU_NotEnoughMaterials>Los materiales necesarios son insuficientes, están prohibidos, reservados por otro colono o inalcanzables desde la posición de este colono.</PWU_NotEnoughMaterials>
+  <PWU_OnlyOnHostiles>Hay que desarmar a un hostil</PWU_OnlyOnHostiles>
+  <PWU_PersonaCoreRecipeComponentCost>Costo en componentes del núcleo de IA: {0}</PWU_PersonaCoreRecipeComponentCost>
+  <PWU_PersonaCoreRecipeComponentCostDesc>Componentes avanzados necesarios para fabricar un núcleo de IA. Se aplica de inmediato, sin necesidad de reiniciar; los proyectos en cola también se recalculan.</PWU_PersonaCoreRecipeComponentCostDesc>
+  <PWU_PersonaCoreRecipeMinSkill>Habilidad de fabricación requerida para el núcleo de IA: {0}</PWU_PersonaCoreRecipeMinSkill>
+  <PWU_PersonaCoreRecipeMinSkillDesc>Nivel mínimo de Fabricación que necesita un colono para trabajar en el proyecto del núcleo de IA. Si lo estableces en 0, se elimina por completo el requisito de habilidad. Se aplica de inmediato, sin necesidad de reiniciar.</PWU_PersonaCoreRecipeMinSkillDesc>
+  <PWU_PlacingWeapon>Colocando {0} en {1}</PWU_PlacingWeapon>
+  <PWU_Randomize>Aleatorio</PWU_Randomize>
+  <PWU_RecommendedSuffix> (recomendado)</PWU_RecommendedSuffix>
+  <PWU_RefundNone>Ninguno</PWU_RefundNone>
+  <PWU_RelicNameTooltip>Esta arma es una reliquia ideoligiosa. Su nombre solo puede cambiarse al formar o reformar una ideoligión.</PWU_RelicNameTooltip>
+  <PWU_RemovingTrait>Quitando {0} de {1}</PWU_RemovingTrait>
+  <PWU_RenamingWeapon>Renombrando {0}</PWU_RenamingWeapon>
+  <PWU_RequireCustomizationResearch>Requerir la investigación de personalización</PWU_RequireCustomizationResearch>
+  <PWU_RequireCustomizationResearchDesc>Exige completar el proyecto de investigación {0} antes de poder personalizar armas. Cuando está desactivado, el proyecto se oculta del árbol de investigación.</PWU_RequireCustomizationResearchDesc>
+  <PWU_RequiresMinimumQuality>requiere calidad {0} o superior</PWU_RequiresMinimumQuality>
+  <PWU_RequiresResearch>requiere {0}</PWU_RequiresResearch>
+  <PWU_RequiresWorkbench>requiere un {0}</PWU_RequiresWorkbench>
+  <PWU_Reset>Reiniciar</PWU_Reset>
+  <PWU_ResetTexture>Restablecer apariencia</PWU_ResetTexture>
+  <PWU_ResetToDefaults>Restablecer valores predeterminados</PWU_ResetToDefaults>
+  <PWU_RestrictTraitsToDiscovered>Limitar los rasgos disponibles a las armas descubiertas</PWU_RestrictTraitsToDiscovered>
+  <PWU_RestrictTraitsToDiscoveredDesc>Un sistema de progresión ligero: cuando está activado, el diálogo de personalización solo ofrece los rasgos presentes en armas con IA que la colonia haya visto: sin niebla y sin sellar en un mapa cargado, o transportadas en una caravana de tu facción. Las armas que llevan los hostiles también cuentan, pero sus rasgos permanecen desactivados hasta capturar el arma. No se añade ningún estado persistente a las partidas guardadas; al desactivarlo se restaura la lista completa de rasgos de inmediato.</PWU_RestrictTraitsToDiscoveredDesc>
+  <PWU_RestylingWeapon>Actualizando la apariencia de {0}</PWU_RestylingWeapon>
+  <PWU_SelectTraitFirst>Selecciona al menos un rasgo primero</PWU_SelectTraitFirst>
+  <PWU_SettingsCategory>Persona Weapons Unbound</PWU_SettingsCategory>
+  <PWU_SettingsCraftingRecipes>Recetas de fabricación</PWU_SettingsCraftingRecipes>
+  <PWU_SettingsHaulPlanner>Transporte de ingredientes</PWU_SettingsHaulPlanner>
+  <PWU_SettingsMemoryCosts>Costos de memoria</PWU_SettingsMemoryCosts>
+  <PWU_SettingsMiscellaneous>Misceláneo</PWU_SettingsMiscellaneous>
+  <PWU_SettingsPrerequisites>Requisitos previos</PWU_SettingsPrerequisites>
+  <PWU_SettingsProgression>Progresión</PWU_SettingsProgression>
+  <PWU_SettingsTraitCosts>Costos de rasgos</PWU_SettingsTraitCosts>
+  <PWU_SettingsVpweIntegration>Personalización de texturas de VEF</PWU_SettingsVpweIntegration>
+  <PWU_StoppingPower>Potencia de parada</PWU_StoppingPower>
+  <PWU_TabMemory>Memoria</PWU_TabMemory>
+  <PWU_TabTexture>Textura</PWU_TabTexture>
+  <PWU_TabTraits>Rasgos</PWU_TabTraits>
+  <PWU_TechprintCount>Tecnoplanos necesarios: {0}</PWU_TechprintCount>
+  <PWU_TechprintCountDesc>Cantidad de tecnoplanos de {0} necesarios para completar la investigación, además de su costo en puntos de investigación. Si lo estableces en 0, se elimina por completo el requisito de tecnoplanos y los comerciantes dejan de venderlos. Se aplica de inmediato, sin necesidad de reiniciar.</PWU_TechprintCountDesc>
+  <PWU_TextureRollingPlaceholder>Generando apariencia...</PWU_TextureRollingPlaceholder>
+  <PWU_TraitCannotBeOnlyTrait>{0} no puede ser el único rasgo</PWU_TraitCannotBeOnlyTrait>
+  <PWU_TraitChangeBaseComponentCost>Costo base de componentes por cambio de rasgo: {0}</PWU_TraitChangeBaseComponentCost>
+  <PWU_TraitChangeBaseComponentCostDesc>Componentes avanzados que se cobran por cada cambio de rasgo que no cruza el límite entre arma base y arma con IA (tanto añadir como quitar cuestan, y ninguno se reembolsa). Se cobran sin importar la calidad del arma. La instalación de un núcleo de IA con el primer rasgo, o su reembolso con el último, no se ve afectada por este ajuste.</PWU_TraitChangeBaseComponentCostDesc>
+  <PWU_TraitChangeQualitySurchargePerLevel>Recargo por nivel de calidad: {0}</PWU_TraitChangeQualitySurchargePerLevel>
+  <PWU_TraitChangeQualitySurchargePerLevelDesc>Componentes avanzados adicionales que se cobran por cada nivel de calidad por encima del umbral de recargo. Por ejemplo, con el umbral predeterminado (normal) y el valor por nivel (1), un arma magistral cuesta 3 componentes más por cambio de rasgo que la cantidad base.</PWU_TraitChangeQualitySurchargePerLevelDesc>
+  <PWU_TraitChangeQualitySurchargeThreshold>Umbral de recargo por calidad: {0}</PWU_TraitChangeQualitySurchargeThreshold>
+  <PWU_TraitChangeQualitySurchargeThresholdDesc>El nivel de calidad del arma a partir del cual empieza a aplicarse el recargo de componentes por nivel indicado abajo. Los cambios de rasgos en armas de esta calidad o inferior solo cuestan la cantidad base de componentes.</PWU_TraitChangeQualitySurchargeThresholdDesc>
+  <PWU_VanillaSuffix> (vanilla)</PWU_VanillaSuffix>
+  <PWU_WeaponFallback>arma</PWU_WeaponFallback>
+  <PWU_WipeBondingComponentCost>Costo en componentes del borrado de vínculo: {0}</PWU_WipeBondingComponentCost>
+  <PWU_WipeBondingComponentCostDesc>Componentes avanzados que se cobran por borrar el vínculo de un arma con IA, dejándola lista para vincularse la próxima vez que se equipe.</PWU_WipeBondingComponentCostDesc>
+  <PWU_WipeKillTrackerComponentCost>Costo en componentes del borrado del registro de muertes: {0}</PWU_WipeKillTrackerComponentCost>
+  <PWU_WipeKillTrackerComponentCostDesc>Componentes avanzados que se cobran por borrar la memoria de muertes de un arma con IA.</PWU_WipeKillTrackerComponentCostDesc>
+  <PWU_WipingMemory>Borrando la memoria de {0}</PWU_WipingMemory>
+</LanguageData>
