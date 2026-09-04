@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <CWF_Accuracy>Precisión</CWF_Accuracy>
+  <CWF_AdditionalStoppingPower>Bonificación de poder de detención</CWF_AdditionalStoppingPower>
+  <CWF_All>Todos</CWF_All>
+  <CWF_ApplyPreset>Aplicar configuración de montaje...</CWF_ApplyPreset>
+  <CWF_ArmorPenetration>Penetr. de blindaje</CWF_ArmorPenetration>
+  <CWF_BillAdded>Pedido añadido: {MODULE_label} ({BENCH_label})</CWF_BillAdded>
+  <CWF_BrowseCompatibleModules>Ver módulos compatibles</CWF_BrowseCompatibleModules>
+  <CWF_BurstShotCountMultiplier>Multiplicador de disparos por ráfaga</CWF_BurstShotCountMultiplier>
+  <CWF_BurstShotSpeedMultiplier>Multiplicador de cadencia de fuego</CWF_BurstShotSpeedMultiplier>
+  <CWF_CannotCraft>No se puede fabricar</CWF_CannotCraft>
+  <CWF_CannotFindModuleForModification>No se encuentra {MODULE_label} para esta modificación</CWF_CannotFindModuleForModification>
+  <CWF_ClearAllModules>Desinstalar todos los módulos</CWF_ClearAllModules>
+  <CWF_CompatibleModules>Módulos compatibles</CWF_CompatibleModules>
+  <CWF_ConfirmInstallBody>Instalar {MODULE} también quitará estos módulos:
+
+{CONFLICTS}
+
+¿Continuar?</CWF_ConfirmInstallBody>
+  <CWF_ConfirmInstallTitle>Confirmar instalación</CWF_ConfirmInstallTitle>
+  <CWF_ConfirmUninstallBody>Desinstalar {MODULE} también quitará estos módulos:
+
+{DEPENDENCIES}
+
+¿Continuar?</CWF_ConfirmUninstallBody>
+  <CWF_ConfirmUninstallTitle>Confirmar desinstalación</CWF_ConfirmUninstallTitle>
+  <CWF_Craft>Fabricar</CWF_Craft>
+  <CWF_Damage>Daño</CWF_Damage>
+  <CWF_DeletePreset>Eliminar configuración de montaje...</CWF_DeletePreset>
+  <CWF_DynamicTextures>Activar texturas dinámicas</CWF_DynamicTextures>
+  <CWF_DynamicTexturesDesc>Si se activa, las texturas del arma se componen dinámicamente a partir de los módulos instalados. Desactívalo para conservar el aspecto original del arma.</CWF_DynamicTexturesDesc>
+  <CWF_FromEquipped>De los módulos del arma</CWF_FromEquipped>
+  <CWF_InputTitle>Entrada</CWF_InputTitle>
+  <CWF_Long>Larga</CWF_Long>
+  <CWF_Medium>Media</CWF_Medium>
+  <CWF_ModificationComplete>{PAWN_label} terminó de modificar {WEAPON_label}</CWF_ModificationComplete>
+  <CWF_ModificationJobDispatched>{PAWN_label} modificará {WEAPON_label}</CWF_ModificationJobDispatched>
+  <CWF_ModuleEffects>Efectos del módulo</CWF_ModuleEffects>
+  <CWF_ModuleEffectsDesc>Instalar {MODULE_label} le otorga al arma los siguientes efectos</CWF_ModuleEffectsDesc>
+  <CWF_NoColonistToModifyWeapon>Ningún colono puede modificar esta arma</CWF_NoColonistToModifyWeapon>
+  <CWF_NoCompatibleModules>No hay módulos compatibles</CWF_NoCompatibleModules>
+  <CWF_NoCompatibleModulesInInventory>No hay módulos compatibles en el inventario</CWF_NoCompatibleModulesInInventory>
+  <CWF_NoCompatibleModulesOnMap>No hay módulos compatibles en el mapa</CWF_NoCompatibleModulesOnMap>
+  <CWF_NoWorkbenchToCraftModule>No hay una mesa de trabajo adecuada para fabricar {MODULE_label}</CWF_NoWorkbenchToCraftModule>
+  <CWF_NotRanged>Por ahora solo se admiten armas a distancia.</CWF_NotRanged>
+  <CWF_PartOf>Parte de</CWF_PartOf>
+  <CWF_Parts>Partes</CWF_Parts>
+  <CWF_PickUp>Recoger {MODULE_label}</CWF_PickUp>
+  <CWF_PresetApplied>Configuración aplicada: {NAME}</CWF_PresetApplied>
+  <CWF_PresetAppliedWithSkipped>Configuración aplicada: {NAME} (se omitieron {COUNT} módulos ausentes o incompatibles)</CWF_PresetAppliedWithSkipped>
+  <CWF_PresetDeleteFailed>No se pudo eliminar la configuración: {NAME}</CWF_PresetDeleteFailed>
+  <CWF_PresetDeleted>Configuración eliminada: {NAME}</CWF_PresetDeleted>
+  <CWF_PresetManagerUnavailable>El almacenamiento de configuraciones no está disponible en esta partida.</CWF_PresetManagerUnavailable>
+  <CWF_PresetNameEmpty>El nombre de la configuración no puede estar vacío.</CWF_PresetNameEmpty>
+  <CWF_PresetSaved>Configuración guardada: {NAME}</CWF_PresetSaved>
+  <CWF_Projectile>Proyectil</CWF_Projectile>
+  <CWF_RandomModuleGeneration>Generación aleatoria de módulos</CWF_RandomModuleGeneration>
+  <CWF_RandomModuleGenerationDesc>Si se activa, los personajes de otras facciones, como asaltantes, aliados y comerciantes, pueden aparecer con armas que tienen módulos aleatorios</CWF_RandomModuleGenerationDesc>
+  <CWF_Range>Alcance</CWF_Range>
+  <CWF_RangeBurstCount>Disparos por ráfaga</CWF_RangeBurstCount>
+  <CWF_RangeCooldown>Enfriamiento</CWF_RangeCooldown>
+  <CWF_RangeDPS>Daño por segundo</CWF_RangeDPS>
+  <CWF_RangeWarmupTime>Tiempo de puntería</CWF_RangeWarmupTime>
+  <CWF_Rarity>Rareza</CWF_Rarity>
+  <CWF_RarityDesc>La rareza de este módulo de arma.</CWF_RarityDesc>
+  <CWF_RarityWeight_Legendary>Legendario</CWF_RarityWeight_Legendary>
+  <CWF_RarityWeight_Rare>Raro</CWF_RarityWeight_Rare>
+  <CWF_RarityWeight_Standard>Estándar</CWF_RarityWeight_Standard>
+  <CWF_RarityWeights>Pesos de rareza</CWF_RarityWeights>
+  <CWF_RarityWeightsDesc>Determina con qué frecuencia se asigna cada rareza al generar módulos aleatorios. Un peso mayor significa que es más común.</CWF_RarityWeightsDesc>
+  <CWF_Rarity_Legendary>Legendario</CWF_Rarity_Legendary>
+  <CWF_Rarity_Rare>Raro</CWF_Rarity_Rare>
+  <CWF_Rarity_Standard>Estándar</CWF_Rarity_Standard>
+  <CWF_SaveCurrentPreset>Guardar configuración actual...</CWF_SaveCurrentPreset>
+  <CWF_SaveCurrentPresetTitle>Guardar la configuración de montaje actual</CWF_SaveCurrentPresetTitle>
+  <CWF_SettingsCategory>Customize Weapon</CWF_SettingsCategory>
+  <CWF_Short>Corta</CWF_Short>
+  <CWF_StoppingPower>Poder de detención</CWF_StoppingPower>
+  <CWF_Touch>A quemarropa</CWF_Touch>
+  <CWF_Uninstall>Desinstalar</CWF_Uninstall>
+  <CWF_WeaponModules>Módulos de arma</CWF_WeaponModules>
+  <CWF_WeaponModules_Desc>Módulos instalados en esta arma.</CWF_WeaponModules_Desc>
+  <CWF_WeaponPanel>Panel de arma</CWF_WeaponPanel>
+  <CWF_WeaponPanelDesc>Abrir el panel de arma</CWF_WeaponPanelDesc>
+</LanguageData>
