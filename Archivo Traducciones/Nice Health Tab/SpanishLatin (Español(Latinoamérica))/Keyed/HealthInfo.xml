@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: No effects affecting: {0} -->
+  <NHT_NoAffectingEffects>Sin efectos que afecten a: {0}</NHT_NoAffectingEffects>
+  <!-- EN: Damage chance ({0}) by body part -->
+  <NHT_HitChanceDamage>Probabilidad de recibir daño ({0}) por parte del cuerpo</NHT_HitChanceDamage>
+  <!-- EN: Head -->
+  <NHT_HitChanceGroupHead>Cabeza</NHT_HitChanceGroupHead>
+  <!-- EN: Torso -->
+  <NHT_HitChanceGroupTorso>Torso</NHT_HitChanceGroupTorso>
+  <!-- EN: Arms -->
+  <NHT_HitChanceGroupArms>Brazos</NHT_HitChanceGroupArms>
+  <!-- EN: Legs -->
+  <NHT_HitChanceGroupLegs>Piernas</NHT_HitChanceGroupLegs>
+  <!-- EN: Head -->
+  <NHT_HitChanceCatHead>Cabeza</NHT_HitChanceCatHead>
+  <!-- EN: Torso -->
+  <NHT_HitChanceCatTorso>Torso</NHT_HitChanceCatTorso>
+  <!-- EN: Arms -->
+  <NHT_HitChanceCatArms>Brazos</NHT_HitChanceCatArms>
+  <!-- EN: Legs -->
+  <NHT_HitChanceCatLegs>Piernas</NHT_HitChanceCatLegs>
+  <!-- EN: Other -->
+  <NHT_HitChanceCatOther>Otro</NHT_HitChanceCatOther>
+  <!-- EN: Sharp -->
+  <NHT_HitChanceKindSharp>Cortante</NHT_HitChanceKindSharp>
+  <!-- EN: Blunt -->
+  <NHT_HitChanceKindBlunt>Contundente</NHT_HitChanceKindBlunt>
+  <!-- EN: damage {0}–{1} -->
+  <NHT_HitChanceBluntRange>daño {0}–{1}</NHT_HitChanceBluntRange>
+  <!-- EN: 40% chance that blunt damage passes inward
+Secondary damage: {0} of the incoming damage -->
+  <NHT_HitChanceBluntRangeTip>40% de probabilidad de que el daño contundente penetre hacia el interior
+Daño secundario: {0} del daño recibido</NHT_HitChanceBluntRangeTip>
+  <!-- EN: This body part is guaranteed to take associated damage -->
+  <NHT_HitChanceSharpChainTip>Esta parte del cuerpo tiene garantizado recibir daño asociado</NHT_HitChanceSharpChainTip>
+  <!-- EN: Final chance of taking damage: {0} -->
+  <NHT_HitChanceBluntFinalTip>Probabilidad final de recibir daño: {0}</NHT_HitChanceBluntFinalTip>
+  <!-- EN: Age-related diseases -->
+  <NHT_DiseaseChanceGroupAge>Enfermedades por la edad</NHT_DiseaseChanceGroupAge>
+  <!-- EN: Complications -->
+  <NHT_DiseaseChanceGroupComp>Complicaciones</NHT_DiseaseChanceGroupComp>
+  <!-- EN: Epidemics -->
+  <NHT_DiseaseChanceGroupEpidemic>Epidemias</NHT_DiseaseChanceGroupEpidemic>
+  <!-- EN: Chance of getting it within the next year: {0} -->
+  <NHT_DiseaseChanceNextYear>Probabilidad de contraerla dentro del próximo año: {0}</NHT_DiseaseChanceNextYear>
+  <!-- EN: Chance of getting it on the next birthday: {0} -->
+  <NHT_DiseaseChanceNextBirthday>Probabilidad de contraerla en el próximo cumpleaños: {0}</NHT_DiseaseChanceNextBirthday>
+  <!-- EN: Complication of "{0}" -->
+  <NHT_DiseaseChanceSource>Complicación de "{0}"</NHT_DiseaseChanceSource>
+  <!-- EN: Others -->
+  <NHT_DiseaseChanceZero>Otras</NHT_DiseaseChanceZero>
+  <!-- EN: immunity -->
+  <NHT_DiseaseChanceGeneImmune>inmunidad</NHT_DiseaseChanceGeneImmune>
+  <!-- EN: The {0} gene makes this disease impossible. -->
+  <NHT_DiseaseChanceGeneImmuneTip>El gen {0} hace que esta enfermedad sea imposible.</NHT_DiseaseChanceGeneImmuneTip>
+  <!-- EN: Biome {0}: {1} -->
+  <NHT_DiseaseChanceEpidemicBiome>Bioma {0}: {1}</NHT_DiseaseChanceEpidemicBiome>
+  <!-- EN: Difficulty: {0} -->
+  <NHT_DiseaseChanceDifficulty>Dificultad: {0}</NHT_DiseaseChanceDifficulty>
+  <!-- EN: Not covered by worn armor. -->
+  <NHT_ArmorNoCover>No está cubierta por la armadura equipada.</NHT_ArmorNoCover>
+  <!-- EN: Never -->
+  <NHT_TimeNever>Nunca</NHT_TimeNever>
+  <!-- EN: d. -->
+  <NHT_TimeDays>d.</NHT_TimeDays>
+  <!-- EN: Time until fully healed -->
+  <NHT_TimingSummary>Tiempo hasta curación total</NHT_TimingSummary>
+  <!-- EN: Estimated time for all wounds of the pawn to heal. Each healing tick actually heals a random wound, so the time is an approximate expectation rather than an exact duration. -->
+  <NHT_TimingSummaryTip>Tiempo estimado para que sanen todas las heridas del colono. En realidad, cada ciclo de curación sana una herida aleatoria, por lo que el tiempo es una estimación aproximada y no una duración exacta.</NHT_TimingSummaryTip>
+  <!-- EN: Until fully restored: {0} -->
+  <NHT_TimingPartWhole>Hasta recuperarse por completo: {0}</NHT_TimingPartWhole>
+  <!-- EN: {0}: {1} -->
+  <NHT_TimingInjuryLine>{0}: {1}</NHT_TimingInjuryLine>
+  <!-- EN: Bleeding will stop on its own in {0}, the wound will heal in {1} -->
+  <NHT_TimingBleedTip>El sangrado se detendrá por sí solo en {0}, la herida sanará en {1}</NHT_TimingBleedTip>
+  <!-- EN: Full recovery: {0} -->
+  <NHT_TimingRecoveryTitle>Recuperación total: {0}</NHT_TimingRecoveryTitle>
+  <!-- EN: Full recovery: not required -->
+  <NHT_TimingRecoveryNone>Recuperación total: no requerida</NHT_TimingRecoveryNone>
+  <!-- EN: Healing speed: {0} -->
+  <NHT_TimingRecoveryRegen>Velocidad de curación: {0}</NHT_TimingRecoveryRegen>
+  <!-- EN: Time until the pawn fully recovers and the rate at which all wounds heal. -->
+  <NHT_TimingRecoveryTip>Tiempo hasta que el colono se recupere por completo y velocidad a la que sanan todas las heridas.</NHT_TimingRecoveryTip>
+  <!-- EN: Bad -->
+  <NHT_TimingRecoveryRateBad>Mala</NHT_TimingRecoveryRateBad>
+  <!-- EN: Normal -->
+  <NHT_TimingRecoveryRateNormal>Normal</NHT_TimingRecoveryRateNormal>
+  <!-- EN: Good -->
+  <NHT_TimingRecoveryRateGood>Buena</NHT_TimingRecoveryRateGood>
+  <!-- EN: Fast -->
+  <NHT_TimingRecoveryRateFast>Rápida</NHT_TimingRecoveryRateFast>
+  <!-- EN: Healing speed: {0}/day -->
+  <NHT_TimingRecoveryRateTotal>Velocidad de curación: {0}/día</NHT_TimingRecoveryRateTotal>
+  <!-- EN: Healing speed: -->
+  <NHT_TimingRecoveryRateLabel>Velocidad de curación:</NHT_TimingRecoveryRateLabel>
+  <!-- EN: Regeneration: {0}/day -->
+  <NHT_TimingRecoveryRateRegen>Regeneración: {0}/día</NHT_TimingRecoveryRateRegen>
+  <!-- EN: Lying: {0}/day -->
+  <NHT_TimingRecoveryRateLying>En reposo: {0}/día</NHT_TimingRecoveryRateLying>
+  <!-- EN: Bed: {0}/day -->
+  <NHT_TimingRecoveryRateBed>Cama: {0}/día</NHT_TimingRecoveryRateBed>
+  <!-- EN: Tending: {0}/day -->
+  <NHT_TimingRecoveryRateTend>Atención médica: {0}/día</NHT_TimingRecoveryRateTend>
+  <!-- EN: Genes: {0}/day -->
+  <NHT_TimingRecoveryRateGenes>Genes: {0}/día</NHT_TimingRecoveryRateGenes>
+  <!-- EN: Likely outcome: -->
+  <NHT_DiseasePrognosis>Desenlace probable:</NHT_DiseasePrognosis>
+  <!-- EN: immunity wins -->
+  <NHT_DiseasePrognosisImmuneWins>vence la inmunidad</NHT_DiseasePrognosisImmuneWins>
+  <!-- EN: disease wins -->
+  <NHT_DiseasePrognosisDiseaseWins>vence la enfermedad</NHT_DiseasePrognosisDiseaseWins>
+  <!-- EN: depends on treatment -->
+  <NHT_DiseasePrognosisDepends>depende del tratamiento</NHT_DiseasePrognosisDepends>
+  <!-- EN: there's a chance -->
+  <NHT_DiseasePrognosisHasChances>hay probabilidades</NHT_DiseasePrognosisHasChances>
+  <!-- EN: treatment quality of ≥ {0}% needed -->
+  <NHT_DiseasePrognosisMinQuality>se requiere una calidad de tratamiento ≥ {0}%</NHT_DiseasePrognosisMinQuality>
+  <!-- EN: Immunity gain speed: {0} -->
+  <NHT_DiseasePrognosisImmunityGain>Velocidad de desarrollo de inmunidad: {0}</NHT_DiseasePrognosisImmunityGain>
+  <!-- EN: Assign -->
+  <NHT_AssignOperation>Asignar</NHT_AssignOperation>
+  <!-- EN: Cancel -->
+  <NHT_CancelOperation>Cancelar</NHT_CancelOperation>
+  <!-- EN: Success chance -->
+  <NHT_SurgerySuccessChance>Probabilidad de éxito</NHT_SurgerySuccessChance>
+  <!-- EN: Death chance on failure -->
+  <NHT_SurgeryDeathOnFailChance>Probabilidad de muerte en caso de fallo</NHT_SurgeryDeathOnFailChance>
+  <!-- EN: Operation success chance:  -->
+  <NHT_SurgeryFinalChanceTitle>Probabilidad de éxito de la operación: </NHT_SurgeryFinalChanceTitle>
+  <!-- EN: Base chance -->
+  <NHT_SurgeryChanceBase>Probabilidad base</NHT_SurgeryChanceBase>
+  <!-- EN: Best surgeon -->
+  <NHT_SurgeryChanceSurgeon>Mejor cirujano</NHT_SurgeryChanceSurgeon>
+  <!-- EN: Medical bed -->
+  <NHT_SurgeryChanceBed>Cama médica</NHT_SurgeryChanceBed>
+  <!-- EN: Bed quality -->
+  <NHT_SurgeryChanceBedQuality>Calidad de la cama</NHT_SurgeryChanceBedQuality>
+  <!-- EN: Cleanliness -->
+  <NHT_SurgeryChanceBedCleanliness>Limpieza</NHT_SurgeryChanceBedCleanliness>
+  <!-- EN: Lighting -->
+  <NHT_SurgeryChanceBedLight>Iluminación</NHT_SurgeryChanceBedLight>
+  <!-- EN: Indoors -->
+  <NHT_SurgeryChanceBedIndoors>En interiores</NHT_SurgeryChanceBedIndoors>
+  <!-- EN: Outdoors -->
+  <NHT_SurgeryChanceBedOutdoors>Al aire libre</NHT_SurgeryChanceBedOutdoors>
+  <!-- EN: Bonuses -->
+  <NHT_SurgeryChanceBedBonus>Bonificaciones</NHT_SurgeryChanceBedBonus>
+  <!-- EN: Inspiration ({0}) -->
+  <NHT_SurgeryChanceInspiration>Inspiración ({0})</NHT_SurgeryChanceInspiration>
+  <!-- EN: Success limit: no more than {0} -->
+  <NHT_SurgeryChanceLimit>Límite de éxito: no más de {0}</NHT_SurgeryChanceLimit>
+  <!-- EN: Other surgeons: -->
+  <NHT_SurgeryChanceOtherSurgeons>Otros cirujanos:</NHT_SurgeryChanceOtherSurgeons>
+  <!-- EN: No surgeon capable of performing the operation -->
+  <NHT_SurgeryChanceNoSurgeon>Ningún cirujano es capaz de realizar la operación</NHT_SurgeryChanceNoSurgeon>
+  <!-- EN: Colonist price -->
+  <NHT_PawnPriceChange>Valor del colono</NHT_PawnPriceChange>
+  <!-- EN: Death -->
+  <NHT_DeathRow>Muerte</NHT_DeathRow>
+  <!-- EN: The colonist will die after this operation\nthe remaining tasks will not be performed -->
+  <NHT_DeathRowTip>El colono morirá después de esta operación\nlas tareas restantes no se realizarán</NHT_DeathRowTip>
+  <!-- EN: Incompatible -->
+  <NHT_IncompatibleGroup>Incompatible</NHT_IncompatibleGroup>
+  <!-- EN: Incompatible with assigned tasks or installed prosthetics -->
+  <NHT_IncompatibleWarning>Incompatible con tareas asignadas o prótesis instaladas</NHT_IncompatibleWarning>
+  <!-- EN: These operations are incompatible with already assigned tasks or an installed prosthetic: the part is already occupied or will be occupied by an earlier operation. They become doable after removing the conflicting tasks or the old prosthetic. -->
+  <NHT_IncompatibleGroupTip>Estas operaciones son incompatibles con tareas ya asignadas o con una prótesis instalada: la parte ya está ocupada o será ocupada por una operación previa. Se vuelven viables tras eliminar las tareas en conflicto o la prótesis anterior.</NHT_IncompatibleGroupTip>
+  <!-- EN: This operation is incompatible with an earlier one: {0}. drag the task above the conflicting operation. -->
+  <NHT_TaskIncompatibleTip>Esta operación es incompatible con una anterior: {0}. Arrastra la tarea por encima de la operación en conflicto.</NHT_TaskIncompatibleTip>
+  <!-- EN: This operation is incompatible with already assigned tasks or an installed prosthetic: the part is already occupied or will be occupied by an earlier operation. It becomes doable after removing the conflicting tasks or the old prosthetic. -->
+  <NHT_OptionIncompatibleTip>Esta operación es incompatible con tareas ya asignadas o con una prótesis instalada: la parte ya está ocupada o será ocupada por una operación previa. Se vuelve viable tras eliminar las tareas en conflicto o la prótesis anterior.</NHT_OptionIncompatibleTip>
+  <!-- EN: The operation "{0}" is incompatible with already assigned tasks. Drag it higher in the task list. -->
+  <NHT_TaskAddedIncompatible>La operación "{0}" es incompatible con tareas ya asignadas. Arrástrala más arriba en la lista de tareas.</NHT_TaskAddedIncompatible>
+  <!-- EN: Use {0} to filter by a specific body part. -->
+  <NHT_BodyPartFilterTip>Usa {0} para filtrar por una parte del cuerpo específica.</NHT_BodyPartFilterTip>
+  <!-- EN: Use {0} to filter by mod or DLC. -->
+  <NHT_ModFilterTip>Usa {0} para filtrar por mod o DLC.</NHT_ModFilterTip>
+  <!-- EN: Install implant -->
+  <NHT_DevInstall>Instalar implante</NHT_DevInstall>
+  <!-- EN: Remove part -->
+  <NHT_DevRemove>Extirpar parte</NHT_DevRemove>
+  <!-- EN: Add hediff -->
+  <NHT_DevAddHediff>Añadir afección</NHT_DevAddHediff>
+  <!-- EN: Incompatible body detected -->
+  <NHT_DollIndexWarningTitle>Cuerpo incompatible detectado</NHT_DollIndexWarningTitle>
+  <!-- EN: The body "{0}" doesn't match the doll: part indexes are shifted or mixed, so the doll shows wrong parts. "Autofix" will rebuild the mapping by part names; if that doesn't help, set it manually in the "Body parts" tab of the mod options. -->
+  <NHT_DollIndexWarningTip>El cuerpo "{0}" no coincide con la silueta: los índices de las partes están desfasados o mezclados, por lo que la silueta muestra partes incorrectas. "Autocorrección" reconstruirá la asignación por nombres de partes; si esto no ayuda, configúralo manualmente en la pestaña "Partes del cuerpo" en las opciones del mod.</NHT_DollIndexWarningTip>
+  <!-- EN: Ignore -->
+  <NHT_DollFixIgnore>Ignorar</NHT_DollFixIgnore>
+  <!-- EN: Autofix -->
+  <NHT_DollFixAuto>Autocorrección</NHT_DollFixAuto>
+  <!-- EN: Medicine -->
+  <NHT_MedicineLabel>Medicina</NHT_MedicineLabel>
+</LanguageData>

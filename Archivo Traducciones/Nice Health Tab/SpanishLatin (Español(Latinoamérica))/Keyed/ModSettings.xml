@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Nice Health Tab -->
+  <NHT_SettingsCategory>Nice Health Tab</NHT_SettingsCategory>
+  
+  <!-- EN: Use the legacy (old) version of the health tab interface -->
+  <UseLegacyTab>Usar la versión heredada (antigua) de la interfaz de la pestaña de salud</UseLegacyTab>
+  
+  <!-- EN: Enable additional layers (bones may visually overlap organs) -->
+  <ExtraOverlayEnabled>Habilitar capas adicionales (los huesos pueden superponerse visualmente a los órganos)</ExtraOverlayEnabled>
+  <!-- EN: Eyes from the vanilla game -->
+  <AlwaysVanillaEyes>Ojos del juego base</AlwaysVanillaEyes>
+  <!-- EN: Show the pawn's eyes on the doll -->
+  <NHT_ShowEyes>Mostrar los ojos del colono en la silueta</NHT_ShowEyes>
+  <!-- EN: Allow child doll variant -->
+  <AllowKidDollVariant>Permitir variante de silueta para niños</AllowKidDollVariant>
+  <!-- EN: Using vanilla body part colors in list -->
+  <UsingVanillaListRowColors>Usar los colores del juego base para las partes del cuerpo en la lista</UsingVanillaListRowColors>
+  <!-- EN: Alternative medicine selection row -->
+  <MedicineRowIcons>Fila alternativa de selección de medicinas</MedicineRowIcons>
+  <!-- EN: On: the medicine setting is five icon buttons (no care, no medicine, herbal, industrial, ultratech) and a gear for the defaults. Off: the classic text-and-dropdown button. -->
+  <MedicineRowIconsDesc>Activado: el ajuste de medicinas consta de cinco botones con iconos (sin atención médica, sin medicinas, herbal, industrial, ultratech) y un engranaje para los valores predeterminados. Desactivado: el botón clásico con texto y menú desplegable.</MedicineRowIconsDesc>
+  
+  <!-- EN: Common -->
+  <NHT_CommonTab>General</NHT_CommonTab>
+  <!-- EN: Body parts -->
+  <NHT_BodyPartsTab>Partes del cuerpo</NHT_BodyPartsTab>
+  
+  <!-- EN: Assign parts appropriate to another body type -->
+  <AssignDefaultBodyParts>Asignar partes apropiadas a otro tipo de cuerpo</AssignDefaultBodyParts>
+  <!-- EN: Default body parts: -->
+  <DefaultBodyParts>Partes del cuerpo predeterminadas:</DefaultBodyParts>
+  <!-- EN: body parts: -->
+  <BodyPartsSuff>partes del cuerpo:</BodyPartsSuff>
+  
+  <!-- EN: Reset all -->
+  <ResetAll>Reiniciar todo</ResetAll>
+  <!-- EN: Reset -->
+  <Reset>Reiniciar</Reset>
+  <!-- EN: Auto assign -->
+  <AutoAssign>Asignar automáticamente</AutoAssign>
+
+  <!-- EN: Complete a body part with prosthesis -->
+  <ProstheticNoMissingBodyPartsFill>Completar una parte del cuerpo con prótesis</ProstheticNoMissingBodyPartsFill>
+  <!-- EN: Show implanted organs -->
+  <ShowImplantedOrgans>Mostrar órganos implantados</ShowImplantedOrgans>
+  <!-- EN: Child age range ({0} - {1}) -->
+  <KidAgeRange>Rango de edad infantil ({0} - {1})</KidAgeRange>
+  <!-- EN: Always show all missing body parts -->
+  <ShowAllMissingParts>Mostrar siempre todas las partes faltantes del cuerpo</ShowAllMissingParts>
+  <!-- EN: Show unavailable operations -->
+  <ShowUnavailableOperations>Mostrar operaciones no disponibles</ShowUnavailableOperations>
+  <!-- EN: Add operations via dropdown -->
+  <NHT_UseOperationsDropdown>Añadir operaciones mediante menú desplegable</NHT_UseOperationsDropdown>
+</LanguageData>
