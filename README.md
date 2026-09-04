@@ -4,8 +4,8 @@ Un conjunto de traducciones de mods que uso adaptados principalmente al español
 
 Si encuentras errores o tienes sugerencias, no dudes en mencionarlo.
 
-**Última compilación:** 2026-09-04 04:49:59  
-**Total de mods traducidos:** 248
+**Última compilación:** 2026-09-04 05:05:29  
+**Total de mods traducidos:** 249
 
 ## Lista de mods traducidos
 
@@ -60,6 +60,7 @@ Si encuentras errores o tienes sugerencias, no dudes en mencionarlo.
 - Common Sense
 - Compact Hediffs
 - Complementary Odyssey
+- Custom Weapons Expanded
 - Customize Weapon
 - Cybranian - Terraforming Asteroids
 - Days Matter (fork)

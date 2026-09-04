@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <CWE_Trait_CoilOverdrive.description>La sobrecorriente en las bobinas produce cadencias muy rápidas, a costa de la precisión.\n            Mecanismos para armas gauss/de riel</CWE_Trait_CoilOverdrive.description>
+  <CWE_Trait_CoilOverdrive.label>sobreimpulso de bobinas</CWE_Trait_CoilOverdrive.label>
+  <CWE_Trait_FeedbackIsolator.description>Evita la retroalimentación dañina hacia la vía de potencia, estabiliza el emisor y recorta la preparación; mejora la estabilidad a corta distancia. \n            Mecanismos para armas de energía.</CWE_Trait_FeedbackIsolator.description>
+  <CWE_Trait_FeedbackIsolator.label>aislador de retroalimentación</CWE_Trait_FeedbackIsolator.label>
+  <CWE_Trait_FluxCompensator.description>Contrarresta las fuerzas parásitas en los rieles de lanzamiento y cierra los agrupamientos con un coste moderado en la velocidad de ciclo.\n            Mecanismos para armas gauss/de riel</CWE_Trait_FluxCompensator.description>
+  <CWE_Trait_FluxCompensator.label>compensador de flujo</CWE_Trait_FluxCompensator.label>
+  <CWE_Trait_FrequencyModulator.description>Desplaza la frecuencia de trabajo para mejorar el acoplamiento, lo que aporta mejoras moderadas de alcance y daño con un ligero coste en la preparación. \n            Mecanismos para armas de energía.</CWE_Trait_FrequencyModulator.description>
+  <CWE_Trait_FrequencyModulator.label>modulador de frecuencia</CWE_Trait_FrequencyModulator.label>
+  <CWE_Trait_PulseCompressionModule.description>Almacena energía temporalmente y libera pulsos muy comprimidos: golpea más fuerte, acorta las ráfagas y alarga un poco la recuperación. \n            Mecanismos para armas de energía</CWE_Trait_PulseCompressionModule.description>
+  <CWE_Trait_PulseCompressionModule.label>módulo de compresión de pulsos</CWE_Trait_PulseCompressionModule.label>
+  <CWE_Trait_PulseTimingController.description>Bloquea la descarga en pulsos cortos y regulares para lograr ráfagas más ordenadas y una colocación más estable a larga distancia; reduce levemente la cadencia. \n            Mecanismos para armas de energía.</CWE_Trait_PulseTimingController.description>
+  <CWE_Trait_PulseTimingController.label>controlador de sincronización de pulsos</CWE_Trait_PulseTimingController.label>
+  <CWE_Trait_Receiver_Heavy.description>Unos mecanismos de armazón pesado mejoran la precisión del arma a costa del peso.</CWE_Trait_Receiver_Heavy.description>
+  <CWE_Trait_Receiver_Heavy.label>Mecanismos de armazón pesado</CWE_Trait_Receiver_Heavy.label>
+  <CWE_Trait_Receiver_Light.description>Unos mecanismos de armazón ligero reducen el peso del arma a costa de la precisión.</CWE_Trait_Receiver_Light.description>
+  <CWE_Trait_Receiver_Light.label>Mecanismos de armazón ligero</CWE_Trait_Receiver_Light.label>
+  <CWE_Trait_SuperconductingCoils.description>Unas bobinas de baja resistencia acortan el arranque y permiten disparar antes, aunque añaden volumen al conjunto.\n            Mecanismos para armas gauss/de riel</CWE_Trait_SuperconductingCoils.description>
+  <CWE_Trait_SuperconductingCoils.label>bobinas superconductoras</CWE_Trait_SuperconductingCoils.label>
+</LanguageData>
