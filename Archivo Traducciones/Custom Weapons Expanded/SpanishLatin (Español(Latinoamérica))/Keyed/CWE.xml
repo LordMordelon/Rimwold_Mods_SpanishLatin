@@ -1,0 +1,182 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Custom Weapons Expanded -->
+  <CWE_UI_Category>Custom Weapons Expanded</CWE_UI_Category>
+
+  <!-- EN: Enable enemy weapon modules -->
+  <CWE_UI_Enable_Label>Activar módulos de arma para los enemigos</CWE_UI_Enable_Label>
+  <!-- EN: If disabled, enemies will not receive weapon modules dynamically. -->
+  <CWE_UI_Enable_Desc>Si se desactiva, los enemigos no recibirán módulos de arma de forma dinámica.</CWE_UI_Enable_Desc>
+
+  <!-- EN: Max mods per weapon: {0} -->
+  <CWE_UI_MaxMods_Label>Máx. de módulos por arma: {0}</CWE_UI_MaxMods_Label>
+  <!-- EN: Min Wealth to start: {0} -->
+  <CWE_UI_MinWealth_Label>Riqueza mínima para empezar: {0}</CWE_UI_MinWealth_Label>
+  <!-- EN: Default trait weight: {0} -->
+  <CWE_UI_DefaultWeight_Label>Peso predeterminado del rasgo: {0}</CWE_UI_DefaultWeight_Label>
+
+  <!-- EN: Ammo Capacity -->
+  <CWE_UI_AmmoCapacity_Label>Capacidad de munición</CWE_UI_AmmoCapacity_Label>
+  <!-- EN: Reloading Time -->
+  <CWE_UI_ReloadingTime_Label>Tiempo de recarga</CWE_UI_ReloadingTime_Label>
+  <!-- EN: Recoil -->
+  <CWE_UI_Recoil_Label>Retroceso</CWE_UI_Recoil_Label>
+  <!-- EN: Sights Efficiency -->
+  <CWE_UI_SightsEfficiency_Label>Eficiencia de la mira</CWE_UI_SightsEfficiency_Label>
+  <!-- EN: Aiming Accuracy -->
+  <CWE_UI_AimingAccuracy_Label>Precisión de puntería</CWE_UI_AimingAccuracy_Label>
+  <!-- EN: Spread -->
+  <CWE_UI_ShotSpread_Label>Dispersión</CWE_UI_ShotSpread_Label>
+  <!-- EN: Weapon Sway -->
+  <CWE_UI_WeaponSway_Label>Oscilación del arma</CWE_UI_WeaponSway_Label>
+  <!-- EN: Bulk -->
+  <CWE_UI_Bulk_Label>Volumen</CWE_UI_Bulk_Label>
+  <!-- EN: Damage type override -->
+  <CWE_UI_DamageDefOverride_Label>Tipo de daño alternativo</CWE_UI_DamageDefOverride_Label>
+  <!-- EN: Extra damage ({0}) -->
+  <CWE_UI_ExtraDamage_Label>Daño adicional ({0})</CWE_UI_ExtraDamage_Label>
+  <!-- EN: {0} chance -->
+  <CWE_UI_ChanceValue>{0} de probabilidad</CWE_UI_ChanceValue>
+  <!-- EN: Max charge -->
+  <CWE_UI_MaxCharge_Label>Carga máxima</CWE_UI_MaxCharge_Label>
+  <!-- EN: Charge interval -->
+  <CWE_UI_ChargeInterval_Label>Intervalo de carga</CWE_UI_ChargeInterval_Label>
+  <!-- EN: Reset time -->
+  <CWE_UI_ResetTime_Label>Tiempo de reinicio</CWE_UI_ResetTime_Label>
+  <!-- EN: Correction factor -->
+  <CWE_UI_CorrectionFactor_Label>Factor de corrección</CWE_UI_CorrectionFactor_Label>
+
+  <!-- EN: Cost to reload ({0} {1}) -->
+  <CWE_UI_CostReload_Label>Coste de recarga ({0} {1})</CWE_UI_CostReload_Label>
+  <!-- EN: Ability stats:  -->
+  <CWE_UI_Ability_Tip>Estadísticas de la habilidad: </CWE_UI_Ability_Tip>
+  <!-- EN: Underbarrel stats:  -->
+  <CWE_UI_Underbarrel_Tip>Estadísticas del módulo bajo el cañón: </CWE_UI_Underbarrel_Tip>
+  <!-- EN: Caliber from {0}:  -->
+  <CWE_UI_Caliber_Desc>Calibre de {0}: </CWE_UI_Caliber_Desc>
+
+  <!-- EN: Reset to defaults -->
+  <CWE_UI_Reset_Button>Restablecer los valores predeterminados</CWE_UI_Reset_Button>
+  
+  <!-- EN: Enable module planning window -->
+  <CWE_UI_AlternativeWindow_Label>Activar la ventana de planificación de módulos</CWE_UI_AlternativeWindow_Label>
+  <!-- EN: Shows compatible modules, research availability and direct crafting bill actions. If disabled, uses the Customize Weapon Framework browser. -->
+  <CWE_UI_AlternativeWindow_Desc>Muestra los módulos compatibles, la disponibilidad de la investigación y acciones directas de pedidos de fabricación. Si se desactiva, se usa el explorador de Customize Weapon Framework.</CWE_UI_AlternativeWindow_Desc>
+
+  <!-- EN: Disable ammo modules from all weapons -->
+  <CWE_UI_AmmoMod_Label>Desactivar los módulos de munición en todas las armas</CWE_UI_AmmoMod_Label>
+  <!-- EN: If enable, ammo modules and slots for all weapons will be removed. (Require restart) -->
+  <CWE_UI_AmmoMod_Desc>Si se activa, se eliminarán los módulos y las ranuras de munición de todas las armas. (Requiere reiniciar)</CWE_UI_AmmoMod_Desc>
+
+  <!-- EN: Disable weapon modules as quest rewards -->
+  <CWE_UI_DisableQuestRewards_Label>Desactivar los módulos de arma como recompensas de misión</CWE_UI_DisableQuestRewards_Label>
+  <!-- EN: If enabled, weapon modules will not appear in standard quest reward pools. Requires a restart. -->
+  <CWE_UI_DisableQuestRewards_Desc>Si se activa, los módulos de arma no aparecerán en los grupos estándar de recompensas de misión. Requiere reiniciar.</CWE_UI_DisableQuestRewards_Desc>
+
+  <!-- EN: Gate modules by faction TechLevel -->
+  <CWE_UI_TechGate_Label>Limitar los módulos según el nivel tecnológico de la facción</CWE_UI_TechGate_Label>
+  <!-- EN: If enabled, a faction only uses modules at or below its TechLevel (configurable tier delta). -->
+  <CWE_UI_TechGate_Desc>Si se activa, una facción solo usa módulos de su nivel tecnológico o inferior (diferencia de niveles configurable).</CWE_UI_TechGate_Desc>
+  <!-- EN: Max tech tiers above faction: {0} -->
+  <CWE_UI_TechDelta_Label>Máx. de niveles tecnológicos por encima de la facción: {0}</CWE_UI_TechDelta_Label>
+
+  <!-- EN: Compatible modules for {0} -->
+  <CWE_UI_Compat_Subtitle>Módulos compatibles con {0}</CWE_UI_Compat_Subtitle>
+  <!-- EN: Show all modules compatible with this weapon. -->
+  <CWE_UI_Compat_Tip>Muestra todos los módulos compatibles con esta arma.</CWE_UI_Compat_Tip>
+  <!-- EN: Search modules… -->
+  <CWE_UI_Search_Placeholder>Buscar módulos…</CWE_UI_Search_Placeholder>
+  <!-- EN: Search by:\n• Module name (for example: extended barrel)\n• Weapon part or slot (for example: barrel, grip or magazine)\n• Effect or stat name (for example: range, accuracy or recoil)\n• Stat value (for example: 15)\n\nPartial words are accepted. Enter multiple words to require every term to match, even when they occur in different fields. Capitalization, accents and punctuation are ignored. -->
+  <CWE_UI_Search_Tooltip>Busca por:\n• Nombre del módulo (por ejemplo: cañón extendido)\n• Parte o ranura del arma (por ejemplo: cañón, empuñadura o cargador)\n• Nombre del efecto o de la estadística (por ejemplo: alcance, precisión o retroceso)\n• Valor de una estadística (por ejemplo: 15)\n\nSe aceptan palabras parciales. Introduce varias palabras para exigir que coincidan todos los términos, aunque aparezcan en campos distintos. No se tienen en cuenta las mayúsculas, los acentos ni la puntuación.</CWE_UI_Search_Tooltip>
+  <!-- EN: No modules match your search. -->
+  <CWE_UI_Search_NoResults>Ningún módulo coincide con tu búsqueda.</CWE_UI_Search_NoResults>
+  <!-- EN: Expand this module category -->
+  <CWE_UI_Category_Expand>Expandir esta categoría de módulos</CWE_UI_Category_Expand>
+  <!-- EN: Collapse this module category -->
+  <CWE_UI_Category_Collapse>Contraer esta categoría de módulos</CWE_UI_Category_Collapse>
+  <!-- EN: Available now -->
+  <CWE_UI_Filter_Ready>Disponibles ahora</CWE_UI_Filter_Ready>
+  <!-- EN: Research locked -->
+  <CWE_UI_Filter_Locked>Bloqueados por investigación</CWE_UI_Filter_Locked>
+  <!-- EN: No recipe -->
+  <CWE_UI_Filter_NoRecipe>Sin receta</CWE_UI_Filter_NoRecipe>
+  <!-- EN: No crafting recipe -->
+  <CWE_UI_Status_NoRecipe>Sin receta de fabricación</CWE_UI_Status_NoRecipe>
+  <!-- EN: Cannot install -->
+  <CWE_UI_CannotInstall_Label>No se puede instalar</CWE_UI_CannotInstall_Label>
+  <!-- EN: Cannot install with the current weapon configuration. -->
+  <CWE_UI_CannotInstall_Generic>No se puede instalar con la configuración actual del arma.</CWE_UI_CannotInstall_Generic>
+  <!-- EN: Cannot install because the {0} slot is unavailable. -->
+  <CWE_UI_CannotInstall_Part>No se puede instalar porque la ranura {0} no está disponible.</CWE_UI_CannotInstall_Part>
+  <!-- EN: Cannot install. Required enabling module: {0}. -->
+  <CWE_UI_CannotInstall_RequiresModule>No se puede instalar. Módulo habilitador necesario: {0}.</CWE_UI_CannotInstall_RequiresModule>
+  <!-- EN: Cannot install with the currently selected modules. -->
+  <CWE_UI_CannotInstall_ConflictingModules>No se puede instalar con los módulos seleccionados actualmente.</CWE_UI_CannotInstall_ConflictingModules>
+  <!-- EN: Required research: {0} -->
+  <CWE_UI_ResearchRequired>Investigación necesaria: {0}</CWE_UI_ResearchRequired>
+  <!-- EN: Available workbenches: {0} -->
+  <CWE_UI_CompatibleBenches>Mesas de trabajo disponibles: {0}</CWE_UI_CompatibleBenches>
+  <!-- EN: none on this map -->
+  <CWE_UI_NoneOnMap>ninguna en este mapa</CWE_UI_NoneOnMap>
+  <!-- EN: {MODULE_label} is not available until its research is completed. -->
+  <CWE_UI_Message_ResearchLocked>{MODULE_label} no está disponible hasta que se complete su investigación.</CWE_UI_Message_ResearchLocked>
+  <!-- EN: Could not create a production bill for {MODULE_label}. -->
+  <CWE_UI_Message_CannotCreateBill>No se pudo crear un pedido de producción para {MODULE_label}.</CWE_UI_Message_CannotCreateBill>
+  <!-- EN: {BENCH_label} at {POSITION} -->
+  <CWE_UI_SelectWorkbench_Option>{BENCH_label} en {POSITION}</CWE_UI_SelectWorkbench_Option>
+  <!-- EN: Weapon preview -->
+  <CWE_UI_Preview_Title>Vista previa del arma</CWE_UI_Preview_Title>
+  <!-- EN: Click a module in the list to add or remove it from the preview. This does not modify the real weapon. -->
+  <CWE_UI_Preview_Instructions>Haz clic en un módulo de la lista para añadirlo a la vista previa o quitarlo de ella. Esto no modifica el arma real.</CWE_UI_Preview_Instructions>
+  <!-- EN: Save, apply or delete assembly presets -->
+  <CWE_UI_Preview_Presets>Guardar, aplicar o eliminar configuraciones de montaje</CWE_UI_Preview_Presets>
+  <!-- EN: Craft selected ({COUNT}) -->
+  <CWE_UI_CraftSelected>Fabricar los seleccionados ({COUNT})</CWE_UI_CraftSelected>
+  <!-- EN: Add one crafting bill for every module added to the preview. -->
+  <CWE_UI_CraftSelected_Tooltip>Añade un pedido de fabricación por cada módulo añadido a la vista previa.</CWE_UI_CraftSelected_Tooltip>
+  <!-- EN: Add modules to the preview before creating crafting bills. -->
+  <CWE_UI_CraftSelected_None>Añade módulos a la vista previa antes de crear pedidos de fabricación.</CWE_UI_CraftSelected_None>
+  <!-- EN: Missing research: {0} -->
+  <CWE_UI_CraftSelected_MissingResearch>Investigación pendiente: {0}</CWE_UI_CraftSelected_MissingResearch>
+  <!-- EN: No crafting recipe: {0} -->
+  <CWE_UI_CraftSelected_MissingRecipes>Sin receta de fabricación: {0}</CWE_UI_CraftSelected_MissingRecipes>
+  <!-- EN: No available workbench for: {0} -->
+  <CWE_UI_CraftSelected_MissingBenches>No hay mesa de trabajo disponible para: {0}</CWE_UI_CraftSelected_MissingBenches>
+  <!-- EN: Currently unavailable: {0} -->
+  <CWE_UI_CraftSelected_Unavailable>No disponibles actualmente: {0}</CWE_UI_CraftSelected_Unavailable>
+
+  <!-- EN: Applies the {0} style to compatible weapons. -->
+  <CWE_AutoStyleModuleDescription>Aplica el estilo {0} a las armas compatibles.</CWE_AutoStyleModuleDescription>
+  <!-- EN: {0} style -->
+  <CWE_AutoStyleModuleLabel>estilo {0}</CWE_AutoStyleModuleLabel>
+  <!-- EN: No colony ideology has this style. -->
+  <CWE_AutoStyleModuleUnavailable>Ninguna ideología de la colonia tiene este estilo.</CWE_AutoStyleModuleUnavailable>
+
+  <!-- EN: Lantern anchor check interval ({0}) -->
+  <CWE_UI_Lantern_interval>Intervalo de comprobación del anclaje de la linterna ({0})</CWE_UI_Lantern_interval>
+
+  <!-- EN: Module: {0} -->
+  <CWE_NiceBillTab_ModuleStatLabel>Módulo: {0}</CWE_NiceBillTab_ModuleStatLabel>
+  <!-- EN: Ability: {0} -->
+  <CWE_NiceBillTab_AbilityStatLabel>Habilidad: {0}</CWE_NiceBillTab_AbilityStatLabel>
+  <!-- EN: Underbarrel: {0} -->
+  <CWE_NiceBillTab_UnderbarrelStatLabel>Bajo el cañón: {0}</CWE_NiceBillTab_UnderbarrelStatLabel>
+  <!-- EN: {0} applies this modifier after it is installed on a weapon. Conditional effects may vary depending on the target weapon. -->
+  <CWE_NiceBillTab_ModuleStatsTooltip>{0} aplica este modificador una vez instalado en un arma. Los efectos condicionales pueden variar según el arma de destino.</CWE_NiceBillTab_ModuleStatsTooltip>
+  <!-- EN: {0} provides these underbarrel weapon stats after it is installed. -->
+  <CWE_NiceBillTab_UnderbarrelStatsTooltip>{0} otorga estas estadísticas de arma bajo el cañón una vez instalado.</CWE_NiceBillTab_UnderbarrelStatsTooltip>
+  <!-- EN: Cost to reload -->
+  <CWE_NiceBillTab_CostToReloadLabel>Coste de recarga</CWE_NiceBillTab_CostToReloadLabel>
+  <!-- EN: Compatible ammunition -->
+  <CWE_NiceBillTab_CompatibleAmmoLabel>Munición compatible</CWE_NiceBillTab_CompatibleAmmoLabel>
+  <!-- EN: Material ({0}, by {1}): effect strength {2} -->
+  <CWE_ModuleMaterialEffect>Material ({0}, por {1}): potencia del efecto {2}</CWE_ModuleMaterialEffect>
+  <!-- EN: Material: {0} -->
+  <CWE_ModuleMaterialSummary>Material: {0}</CWE_ModuleMaterialSummary>
+  <!-- EN: The displayed range depends on the material selected when crafting. -->
+  <CWE_NiceBillTab_MaterialRangeTooltip>El rango mostrado depende del material seleccionado al fabricarlo.</CWE_NiceBillTab_MaterialRangeTooltip>
+  <!-- EN: Values calculated using the selected material: {0}. -->
+  <CWE_NiceBillTab_SelectedMaterialTooltip>Valores calculados con el material seleccionado: {0}.</CWE_NiceBillTab_SelectedMaterialTooltip>
+  <!-- EN: Base values are displayed until a material is selected. -->
+  <CWE_NiceBillTab_BaseMaterialValueTooltip>Se muestran los valores base hasta que se selecciona un material.</CWE_NiceBillTab_BaseMaterialValueTooltip>
+</LanguageData>

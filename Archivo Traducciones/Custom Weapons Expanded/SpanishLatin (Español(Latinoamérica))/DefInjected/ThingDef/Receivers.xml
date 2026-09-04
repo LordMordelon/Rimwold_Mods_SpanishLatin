@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Coil Overdrive -->
+  <CWE_Module_CoilOverdrive.label>TODO</CWE_Module_CoilOverdrive.label>
+  <!-- EN: Overdriven coil current produces very fast split times, at the expense of precision.\n            Receivers for Gauss/Rail guns -->
+  <CWE_Module_CoilOverdrive.description>TODO</CWE_Module_CoilOverdrive.description>
+  
+  <!-- EN: Feedback Isolator -->
+  <CWE_Module_FeedbackIsolator.label>TODO</CWE_Module_FeedbackIsolator.label>
+  <!-- EN: Prevents harmful feedback into the power path, stabilizing the emitter and trimming warmup; improves close-range steadiness. \n            Receivers for Energy guns. -->
+  <CWE_Module_FeedbackIsolator.description>TODO</CWE_Module_FeedbackIsolator.description>
+  
+  <!-- EN: Flux Compensator -->
+  <CWE_Module_FluxCompensator.label>TODO</CWE_Module_FluxCompensator.label>
+  <!-- EN: Counteracts parasitic forces in the launch rails, tightening groups at a modest cost to cycling speed.\n            Receivers for Gauss/Rail guns -->
+  <CWE_Module_FluxCompensator.description>TODO</CWE_Module_FluxCompensator.description>
+  
+  <!-- EN: Frequency Modulator -->
+  <CWE_Module_FrequencyModulator.label>TODO</CWE_Module_FrequencyModulator.label>
+  <!-- EN: Shifts the operating frequency for better coupling, yielding modest gains in range and damage with a slight warmup cost. \n            Receivers for Energy guns. -->
+  <CWE_Module_FrequencyModulator.description>TODO</CWE_Module_FrequencyModulator.description>
+  
+  <!-- EN: Heavy frame receiver -->
+  <CWE_Module_Heavy_Receiver.label>TODO</CWE_Module_Heavy_Receiver.label>
+  <!-- EN: A heavy frame receiver improves the gun's accuracy at the expense of weight. -->
+  <CWE_Module_Heavy_Receiver.description>TODO</CWE_Module_Heavy_Receiver.description>
+  
+  <!-- EN: Light frame receiver -->
+  <CWE_Module_Light_Receiver.label>TODO</CWE_Module_Light_Receiver.label>
+  <!-- EN: A light frame receiver reduces weapon weight at the cost of precision. -->
+  <CWE_Module_Light_Receiver.description>TODO</CWE_Module_Light_Receiver.description>
+  
+  <!-- EN: Pulse Compression Module -->
+  <CWE_Module_PulseCompressionModule.label>TODO</CWE_Module_PulseCompressionModule.label>
+  <!-- EN: Temporarily stores energy and releases tightly compressed pulses, hitting harder while shortening bursts and slightly lengthening recovery. \n            Receivers for Energy guns -->
+  <CWE_Module_PulseCompressionModule.description>TODO</CWE_Module_PulseCompressionModule.description>
+  
+  <!-- EN: Pulse Timing Controller -->
+  <CWE_Module_PulseTimingController.label>TODO</CWE_Module_PulseTimingController.label>
+  <!-- EN: Locks discharge into short, regular pulses for tidier strings and steadier long-range placement; mildly reduces split speed. \n            Receivers for Energy guns. -->
+  <CWE_Module_PulseTimingController.description>TODO</CWE_Module_PulseTimingController.description>
+  
+  <!-- EN: Superconducting Coils -->
+  <CWE_Module_SuperconductingCoils.label>TODO</CWE_Module_SuperconductingCoils.label>
+  <!-- EN: Low-resistance coils shorten spin-up for faster first shots, while adding bulk to the assembly.\n            Receivers for Gauss/Rail guns -->
+  <CWE_Module_SuperconductingCoils.description>TODO</CWE_Module_SuperconductingCoils.description>
+  
+</LanguageData>

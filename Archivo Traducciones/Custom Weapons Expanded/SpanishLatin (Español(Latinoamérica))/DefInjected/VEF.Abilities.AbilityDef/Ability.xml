@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: lantern -->
+  <CWE_Ability_LanternToggle.label>linterna</CWE_Ability_LanternToggle.label>
+  <!-- EN: Toggles a small flashlight (ON/OFF). -->
+  <CWE_Ability_LanternToggle.description>Enciende o apaga una pequeña linterna.</CWE_Ability_LanternToggle.description>
+  <!-- EN: Lantern: OFF -->
+  <CWE_Ability_LanternToggle.comps.CompAbilityEffect_ToggleLantern.toggleLabelOff>Linterna: APAGADA</CWE_Ability_LanternToggle.comps.CompAbilityEffect_ToggleLantern.toggleLabelOff>
+  <!-- EN: Lantern: ON -->
+  <CWE_Ability_LanternToggle.comps.CompAbilityEffect_ToggleLantern.toggleLabelOn>Linterna: ENCENDIDA</CWE_Ability_LanternToggle.comps.CompAbilityEffect_ToggleLantern.toggleLabelOn>
+  
+  <!-- EN: Deploy flare -->
+  <CWE_Ability_LaunchFlare.label>Lanzar bengala</CWE_Ability_LaunchFlare.label>
+  <!-- EN: A utility launcher that shoots disruptor flares. On impact, the flare burns a capsule of bioferrite, which creates a bright flash and a local psychic disruption. This stuns psychically sensitive creatures, revealing those that are invisible, and reducing their consciousness and movement speed for a short while. Afterwards, the flare continues to burn, lighting up a wide area for some time. -->
+  <CWE_Ability_LaunchFlare.description>Un lanzador de utilidad que dispara bengalas disruptoras. Al impactar, la bengala quema una cápsula de bioferrita, lo que produce un destello brillante y una disrupción psíquica localizada. Esto aturde a las criaturas sensibles a lo psíquico, revela a las que son invisibles y reduce su consciencia y su velocidad de movimiento durante un breve periodo. Después, la bengala sigue ardiendo e ilumina una amplia zona durante un tiempo.</CWE_Ability_LaunchFlare.description>
+  
+  <!-- EN: Launch flash grenade -->
+  <CWE_Ability_LaunchFlashGrenade.label>Lanzar granada de destello</CWE_Ability_LaunchFlashGrenade.label>
+  <!-- EN: A flash grenade. Temporarily stuns organic enemies allowing users to close the distance -->
+  <CWE_Ability_LaunchFlashGrenade.description>Una granada de destello. Aturde temporalmente a los enemigos orgánicos, lo que permite al usuario acortar la distancia.</CWE_Ability_LaunchFlashGrenade.description>
+  
+  <!-- EN: Launch foam -->
+  <CWE_Ability_LaunchFoam.label>Lanzar espuma</CWE_Ability_LaunchFoam.label>
+  <!-- EN: Spray thick fire-retardant foam from laucher underbarrel. The foam will cover a small area and extinguish any fire it touches. -->
+  <CWE_Ability_LaunchFoam.description>Rocía una espesa espuma ignífuga desde el lanzador bajo el cañón. La espuma cubrirá una pequeña zona y extinguirá cualquier fuego que toque.</CWE_Ability_LaunchFoam.description>
+  
+  <!-- EN: Launch tox grenade -->
+  <CWE_Ability_LaunchToxGrenade.label>Lanzar granada tóxica</CWE_Ability_LaunchToxGrenade.label>
+  <!-- EN: Launch a tox grenade. Can be reloaded using steel. -->
+  <CWE_Ability_LaunchToxGrenade.description>Lanza una granada tóxica. Se puede recargar con acero.</CWE_Ability_LaunchToxGrenade.description>
+  
+  <!-- EN: Overcharge -->
+  <CWE_Ability_Overcharge_GaussShoot.label>Sobrecarga</CWE_Ability_Overcharge_GaussShoot.label>
+  <!-- EN: Supercharges the gauss weapon's magnetic coils for a devastating shot. Deals heavy damage and pierces armor, but requires time to charge and has a long cooldown. -->
+  <CWE_Ability_Overcharge_GaussShoot.description>Sobrecarga las bobinas magnéticas del arma gauss para lograr un disparo devastador. Inflige mucho daño y perfora el blindaje, pero necesita tiempo de carga y tiene un enfriamiento largo.</CWE_Ability_Overcharge_GaussShoot.description>
+  
+  <!-- EN: Fire shotgun -->
+  <CWE_Ability_ShotUnderbarrelShotgun.label>Disparar escopeta</CWE_Ability_ShotUnderbarrelShotgun.label>
+  <!-- EN: Fire a blast of buckshot from the underbarrel shotgun. -->
+  <CWE_Ability_ShotUnderbarrelShotgun.description>Dispara una descarga de perdigones con la escopeta bajo el cañón.</CWE_Ability_ShotUnderbarrelShotgun.description>
+  
+  <!-- EN: Fire shotgun -->
+  <CWE_Ability_ShotUnderbarrelShotgunEMP.label>Disparar escopeta</CWE_Ability_ShotUnderbarrelShotgunEMP.label>
+  <!-- EN: Fire a emp shot from the underbarrel shotgun. -->
+  <CWE_Ability_ShotUnderbarrelShotgunEMP.description>Dispara un proyectil EMP con la escopeta bajo el cañón.</CWE_Ability_ShotUnderbarrelShotgunEMP.description>
+  
+  <!-- EN: Fire shotgun -->
+  <CWE_Ability_ShotUnderbarrelShotgunSlug.label>Disparar escopeta</CWE_Ability_ShotUnderbarrelShotgunSlug.label>
+  <!-- EN: Fire a slug shot from the underbarrel shotgun. -->
+  <CWE_Ability_ShotUnderbarrelShotgunSlug.description>Dispara una bala maciza con la escopeta bajo el cañón.</CWE_Ability_ShotUnderbarrelShotgunSlug.description>
+  
+</LanguageData>

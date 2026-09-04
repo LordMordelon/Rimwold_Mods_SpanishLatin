@@ -1,0 +1,127 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: BioBurner -->
+  <CWE_Trait_BioBurner.label>TODO</CWE_Trait_BioBurner.label>
+  <!-- EN: Expend a pressurized bioferrite charge to create a burst of flame. -->
+  <CWE_Trait_BioBurner.description>TODO</CWE_Trait_BioBurner.description>
+  <!-- EN: burner charge -->
+  <CWE_Trait_BioBurner.abilityProps.chargeNoun>TODO</CWE_Trait_BioBurner.abilityProps.chargeNoun>
+  <!-- EN: on cooldown -->
+  <CWE_Trait_BioBurner.abilityProps.cooldownGerund>TODO</CWE_Trait_BioBurner.abilityProps.cooldownGerund>
+  
+  <!-- EN: Bipod -->
+  <CWE_Trait_Bipod.label>TODO</CWE_Trait_Bipod.label>
+  <!-- EN: Retractable bipod for stabilization. When armed, it reduces sway and recoil, but requires preparation to achieve maximum effect. -->
+  <CWE_Trait_Bipod.description>TODO</CWE_Trait_Bipod.description>
+  
+  <!-- EN: Flare launcher -->
+  <CWE_Trait_Flare_Launcher.label>TODO</CWE_Trait_Flare_Launcher.label>
+  <!-- EN: A utility launcher that shoots disruptor flares. On impact, the flare burns a capsule of bioferrite, which creates a bright flash and a local psychic disruption. This stuns psychically sensitive creatures, revealing those that are invisible, and reducing their consciousness and movement speed for a short while. Afterwards, the flare continues to burn, lighting up a wide area for some time. -->
+  <CWE_Trait_Flare_Launcher.description>TODO</CWE_Trait_Flare_Launcher.description>
+  <!-- EN: flare -->
+  <CWE_Trait_Flare_Launcher.abilityProps.chargeNoun>TODO</CWE_Trait_Flare_Launcher.abilityProps.chargeNoun>
+  <!-- EN: on cooldown -->
+  <CWE_Trait_Flare_Launcher.abilityProps.cooldownGerund>TODO</CWE_Trait_Flare_Launcher.abilityProps.cooldownGerund>
+  
+  <!-- EN: Flash launcher -->
+  <CWE_Trait_Flash_Launcher.label>TODO</CWE_Trait_Flash_Launcher.label>
+  <!-- EN: A utility launcher that shoots flash grenades. Temporarily stuns organic enemies allowing users to close the distance. -->
+  <CWE_Trait_Flash_Launcher.description>TODO</CWE_Trait_Flash_Launcher.description>
+  <!-- EN: shell -->
+  <CWE_Trait_Flash_Launcher.abilityProps.chargeNoun>TODO</CWE_Trait_Flash_Launcher.abilityProps.chargeNoun>
+  <!-- EN: on cooldown -->
+  <CWE_Trait_Flash_Launcher.abilityProps.cooldownGerund>TODO</CWE_Trait_Flash_Launcher.abilityProps.cooldownGerund>
+  
+  <!-- EN: Foam launcher -->
+  <CWE_Trait_Foam_Launcher.label>TODO</CWE_Trait_Foam_Launcher.label>
+  <!-- EN: Spray thick fire-retardant foam from laucher underbarrel. The foam will cover a small area and extinguish any fire it touches. -->
+  <CWE_Trait_Foam_Launcher.description>TODO</CWE_Trait_Foam_Launcher.description>
+  <!-- EN: foam canister -->
+  <CWE_Trait_Foam_Launcher.abilityProps.chargeNoun>TODO</CWE_Trait_Foam_Launcher.abilityProps.chargeNoun>
+  <!-- EN: on cooldown -->
+  <CWE_Trait_Foam_Launcher.abilityProps.cooldownGerund>TODO</CWE_Trait_Foam_Launcher.abilityProps.cooldownGerund>
+  
+  <!-- EN: Knife -->
+  <CWE_Trait_Knife.label>TODO</CWE_Trait_Knife.label>
+  <!-- EN: A fixed bayonet mounted under the barrel for close-quarters work. Hits harder and recovers faster in melee, but the added front mass slightly reduces accuracy at range. -->
+  <CWE_Trait_Knife.description>TODO</CWE_Trait_Knife.description>
+  
+  <!-- EN: Laser sight (Lantern) -->
+  <CWE_Trait_LaserSight_Lantern.label>TODO</CWE_Trait_LaserSight_Lantern.label>
+  <!-- EN: This module projects a visible laser dot directly onto the target. This allows for rapid, intuitive point-and-shoot aiming, which significantly speeds up target acquisition and increases precision in close to medium-range engagements. \n Contains a weapon-mounted light with on/off control. Aids aiming in dark tiles. -->
+  <CWE_Trait_LaserSight_Lantern.description>TODO</CWE_Trait_LaserSight_Lantern.description>
+  <!-- EN: charge -->
+  <CWE_Trait_LaserSight_Lantern.abilityProps.chargeNoun>TODO</CWE_Trait_LaserSight_Lantern.abilityProps.chargeNoun>
+  <!-- EN: on cooldown -->
+  <CWE_Trait_LaserSight_Lantern.abilityProps.cooldownGerund>TODO</CWE_Trait_LaserSight_Lantern.abilityProps.cooldownGerund>
+  
+  <!-- EN: Shotgun attachment -->
+  <CWE_Trait_Shotgun_Underbarrel.label>TODO</CWE_Trait_Shotgun_Underbarrel.label>
+  <!-- EN: A under-barrel shotgun attachment. It provides the user with a secondary firing option specifically designed to breach doors or clear close-quarters threats without switching weapons. -->
+  <CWE_Trait_Shotgun_Underbarrel.description>TODO</CWE_Trait_Shotgun_Underbarrel.description>
+  <!-- EN: charge -->
+  <CWE_Trait_Shotgun_Underbarrel.abilityProps.chargeNoun>TODO</CWE_Trait_Shotgun_Underbarrel.abilityProps.chargeNoun>
+  <!-- EN: on cooldown -->
+  <CWE_Trait_Shotgun_Underbarrel.abilityProps.cooldownGerund>TODO</CWE_Trait_Shotgun_Underbarrel.abilityProps.cooldownGerund>
+  
+  <!-- EN: Shotgun emp attachment -->
+  <CWE_Trait_Shotgun_UnderbarrelEMP.label>TODO</CWE_Trait_Shotgun_UnderbarrelEMP.label>
+  <!-- EN: A under-barrel shotgun attachment configured to fire EMP shells. Instead of raw stopping power, it delivers a close-range pulse designed to disable shields, machinery, and electronic targets without requiring a weapon swap. -->
+  <CWE_Trait_Shotgun_UnderbarrelEMP.description>TODO</CWE_Trait_Shotgun_UnderbarrelEMP.description>
+  <!-- EN: charge -->
+  <CWE_Trait_Shotgun_UnderbarrelEMP.abilityProps.chargeNoun>TODO</CWE_Trait_Shotgun_UnderbarrelEMP.abilityProps.chargeNoun>
+  <!-- EN: on cooldown -->
+  <CWE_Trait_Shotgun_UnderbarrelEMP.abilityProps.cooldownGerund>TODO</CWE_Trait_Shotgun_UnderbarrelEMP.abilityProps.cooldownGerund>
+  
+  <!-- EN: Shotgun slug attachment -->
+  <CWE_Trait_Shotgun_UnderbarrelSlug.label>TODO</CWE_Trait_Shotgun_UnderbarrelSlug.label>
+  <!-- EN: A under-barrel shotgun attachment loaded with a solid slug round. It sacrifices pellet spread for a single heavy-impact shot, giving the user a compact breaching and anti-armor option without switching weapons. -->
+  <CWE_Trait_Shotgun_UnderbarrelSlug.description>TODO</CWE_Trait_Shotgun_UnderbarrelSlug.description>
+  <!-- EN: charge -->
+  <CWE_Trait_Shotgun_UnderbarrelSlug.abilityProps.chargeNoun>TODO</CWE_Trait_Shotgun_UnderbarrelSlug.abilityProps.chargeNoun>
+  <!-- EN: on cooldown -->
+  <CWE_Trait_Shotgun_UnderbarrelSlug.abilityProps.cooldownGerund>TODO</CWE_Trait_Shotgun_UnderbarrelSlug.abilityProps.cooldownGerund>
+  
+  <!-- EN: Tactical Lantern -->
+  <CWE_Trait_TacticalLantern.label>TODO</CWE_Trait_TacticalLantern.label>
+  <!-- EN: A weapon-mounted light with on/off control. Aids aiming in dark tiles. -->
+  <CWE_Trait_TacticalLantern.description>TODO</CWE_Trait_TacticalLantern.description>
+  <!-- EN: charge -->
+  <CWE_Trait_TacticalLantern.abilityProps.chargeNoun>TODO</CWE_Trait_TacticalLantern.abilityProps.chargeNoun>
+  <!-- EN: on cooldown -->
+  <CWE_Trait_TacticalLantern.abilityProps.cooldownGerund>TODO</CWE_Trait_TacticalLantern.abilityProps.cooldownGerund>
+  
+  <!-- EN: Tox launcher -->
+  <CWE_Trait_Tox_Launcher.label>TODO</CWE_Trait_Tox_Launcher.label>
+  <!-- EN: Launch a tox grenade. Can be reloaded using steel. -->
+  <CWE_Trait_Tox_Launcher.description>TODO</CWE_Trait_Tox_Launcher.description>
+  <!-- EN: grenade -->
+  <CWE_Trait_Tox_Launcher.abilityProps.chargeNoun>TODO</CWE_Trait_Tox_Launcher.abilityProps.chargeNoun>
+  <!-- EN: on cooldown -->
+  <CWE_Trait_Tox_Launcher.abilityProps.cooldownGerund>TODO</CWE_Trait_Tox_Launcher.abilityProps.cooldownGerund>
+  
+  <!-- EN: Triangular grip (Lantern) -->
+  <CWE_Trait_TriangularGrip_Lantern.label>TODO</CWE_Trait_TriangularGrip_Lantern.label>
+  <!-- EN: The ergonomic design of this triangular foregrip allows for a more natural and comfortable hold. This improved handling makes it quicker to bring the weapon to a ready position and enhances stability for precise shots at point-blank range. \n Contains a weapon-mounted light with on/off control. Aids aiming in dark tiles. -->
+  <CWE_Trait_TriangularGrip_Lantern.description>TODO</CWE_Trait_TriangularGrip_Lantern.description>
+  <!-- EN: charge -->
+  <CWE_Trait_TriangularGrip_Lantern.abilityProps.chargeNoun>TODO</CWE_Trait_TriangularGrip_Lantern.abilityProps.chargeNoun>
+  <!-- EN: on cooldown -->
+  <CWE_Trait_TriangularGrip_Lantern.abilityProps.cooldownGerund>TODO</CWE_Trait_TriangularGrip_Lantern.abilityProps.cooldownGerund>
+  
+  <!-- EN: Vertical grip (Lantern) -->
+  <CWE_Trait_VerticalGrip_Lantern.label>TODO</CWE_Trait_VerticalGrip_Lantern.label>
+  <!-- EN: This vertical foregrip provides an additional point of contact, giving the user greater control over the weapon. This enhanced stability is particularly effective for improving aiming precision during close-quarters combat. \n Contains almost weapon-mounted light with on/off control. Aids aiming in dark tiles. -->
+  <CWE_Trait_VerticalGrip_Lantern.description>TODO</CWE_Trait_VerticalGrip_Lantern.description>
+  <!-- EN: charge -->
+  <CWE_Trait_VerticalGrip_Lantern.abilityProps.chargeNoun>TODO</CWE_Trait_VerticalGrip_Lantern.abilityProps.chargeNoun>
+  <!-- EN: on cooldown -->
+  <CWE_Trait_VerticalGrip_Lantern.abilityProps.cooldownGerund>TODO</CWE_Trait_VerticalGrip_Lantern.abilityProps.cooldownGerund>
+  
+  <!-- EN: Vertical grip (Laser sight) -->
+  <CWE_Trait_VerticalGrip_Laser.label>TODO</CWE_Trait_VerticalGrip_Laser.label>
+  <!-- EN: This vertical foregrip provides an additional point of contact, giving the user greater control over the weapon. This enhanced stability is particularly effective for improving aiming precision during close-quarters combat. \n Featuring a module that projects a visible laser pointer directly onto the target. -->
+  <CWE_Trait_VerticalGrip_Laser.description>TODO</CWE_Trait_VerticalGrip_Laser.description>
+  
+</LanguageData>

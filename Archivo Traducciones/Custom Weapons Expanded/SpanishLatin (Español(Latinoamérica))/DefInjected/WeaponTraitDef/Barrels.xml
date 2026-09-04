@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: cryo-cooler shroud -->
+  <CWE_Trait_CryoCoolerShroud.label>TODO</CWE_Trait_CryoCoolerShroud.label>
+  <!-- EN: Aggressive thermal sinking cuts cooldown between bursts; adds a bit of weight. \nBarrel for Energy guns. -->
+  <CWE_Trait_CryoCoolerShroud.description>TODO</CWE_Trait_CryoCoolerShroud.description>
+  
+  <!-- EN: emission diffuser -->
+  <CWE_Trait_EmissionDiffuser.label>TODO</CWE_Trait_EmissionDiffuser.label>
+  <!-- EN: Spreads and straightens the energy stream for greater effective reach, with a small penalty at point-blank alignment. \nBarrel for Energy guns. -->
+  <CWE_Trait_EmissionDiffuser.description>TODO</CWE_Trait_EmissionDiffuser.description>
+  
+  <!-- EN: field alignment tuner -->
+  <CWE_Trait_FieldAlignmentTuner.label>TODO</CWE_Trait_FieldAlignmentTuner.label>
+  <!-- EN: Actively aligns the emission field to reduce aberrations and drift, tightening groups across all ranges. \nBarrel for Energy guns. -->
+  <CWE_Trait_FieldAlignmentTuner.description>TODO</CWE_Trait_FieldAlignmentTuner.description>
+  
+  <!-- EN: induction harmonizer -->
+  <CWE_Trait_InductionHarmonizer.label>TODO</CWE_Trait_InductionHarmonizer.label>
+  <!-- EN: Harmonizes induction fields to reduce jitter for steadier shots, slightly slowing split times.\n            Barrel for Gauss/Rail guns -->
+  <CWE_Trait_InductionHarmonizer.description>TODO</CWE_Trait_InductionHarmonizer.description>
+  
+  <!-- EN: Overcharge Gauss Shoot Barrel -->
+  <CWE_Trait_Overcharge_GaussShoot.label>TODO</CWE_Trait_Overcharge_GaussShoot.label>
+  <!-- EN: Installs an overcharge circuit that unlocks the Overcharge ability. Activating it supercharges the gauss coils and, after a brief 3s charge-up, fires a single overcharged shot. The blast deals 55 Sharp damage, 50% armor penetration, and high stopping power, but the ability has a long cooldown save it for priority targets. -->
+  <CWE_Trait_Overcharge_GaussShoot.description>TODO</CWE_Trait_Overcharge_GaussShoot.description>
+  <!-- EN: charge -->
+  <CWE_Trait_Overcharge_GaussShoot.abilityProps.chargeNoun>TODO</CWE_Trait_Overcharge_GaussShoot.abilityProps.chargeNoun>
+  <!-- EN: on cooldown -->
+  <CWE_Trait_Overcharge_GaussShoot.abilityProps.cooldownGerund>TODO</CWE_Trait_Overcharge_GaussShoot.abilityProps.cooldownGerund>
+  
+  <!-- EN: phase synchronizer array -->
+  <CWE_Trait_PhaseSynchronizerArray.label>TODO</CWE_Trait_PhaseSynchronizerArray.label>
+  <!-- EN: Synchronizes phase across emitters/coils to improve coherence and reach, at the cost of a slightly calmer split tempo. \nBarrel for Energy guns. -->
+  <CWE_Trait_PhaseSynchronizerArray.description>TODO</CWE_Trait_PhaseSynchronizerArray.description>
+  
+  <!-- EN: rail alignment kit -->
+  <CWE_Trait_RailAlignmentKit.label>TODO</CWE_Trait_RailAlignmentKit.label>
+  <!-- EN: Precision truing of the launch rails tightens groups; the tighter tolerances slightly slow cycling.\n            Barrel for Gauss/Rail guns -->
+  <CWE_Trait_RailAlignmentKit.description>TODO</CWE_Trait_RailAlignmentKit.description>
+  
+  <!-- EN: thermal lance focus -->
+  <CWE_Trait_ThermalLanceFocus.label>TODO</CWE_Trait_ThermalLanceFocus.label>
+  <!-- EN: Extreme focus for cutting shots: harder hits in short strings, reduced reach, and an ignition effect. \n            Barrel for Laser like guns -->
+  <CWE_Trait_ThermalLanceFocus.description>TODO</CWE_Trait_ThermalLanceFocus.description>
+  
+</LanguageData>
