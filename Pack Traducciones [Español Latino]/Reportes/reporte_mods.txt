@@ -1,4 +1,4 @@
-Reporte de Mods Procesados - 2026-09-04 04:25:12
+Reporte de Mods Procesados - 2026-09-04 04:49:59
 ==================================================
 
 Total de mods encontrados: 248
@@ -267,8 +267,8 @@ Traceback (most recent call last):
     parser.feed(text)
 xml.etree.ElementTree.ParseError: not well-formed (invalid token): line 6, column 363
 
-2. Archivo: Archivo Traducciones/Vanilla Animals Expanded - Royal Animals/SpanishLatin (Español(Latinoamérica))/DefInjected/ThingDef/Races_Megachicken.xml
-   Motivo: XML invalido: not well-formed (invalid token): line 6, column 442
+2. Archivo: Archivo Traducciones/Vanilla Animals Expanded/SpanishLatin (Español(Latinoamérica))/DefInjected/ThingDef/Races_Expanded_ExtremeDesert.xml
+   Motivo: XML invalido: not well-formed (invalid token): line 17, column 79
    Trace:
 Traceback (most recent call last):
   File "/home/runner/work/Rimwold_Mods_SpanishLatin/Rimwold_Mods_SpanishLatin/Programas/cli_compilador.py", line 206, in copiar_traducciones
@@ -276,20 +276,9 @@ Traceback (most recent call last):
            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
   File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/xml/etree/ElementTree.py", line 1350, in XML
     parser.feed(text)
-xml.etree.ElementTree.ParseError: not well-formed (invalid token): line 6, column 442
+xml.etree.ElementTree.ParseError: not well-formed (invalid token): line 17, column 79
 
-3. Archivo: Archivo Traducciones/Vanilla Animals Expanded - Royal Animals/SpanishLatin (Español(Latinoamérica))/DefInjected/ThingDef/Races_Orangutan.xml
-   Motivo: XML invalido: not well-formed (invalid token): line 6, column 313
-   Trace:
-Traceback (most recent call last):
-  File "/home/runner/work/Rimwold_Mods_SpanishLatin/Rimwold_Mods_SpanishLatin/Programas/cli_compilador.py", line 206, in copiar_traducciones
-    root = ET.fromstring(content, parser=parser)
-           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/xml/etree/ElementTree.py", line 1350, in XML
-    parser.feed(text)
-xml.etree.ElementTree.ParseError: not well-formed (invalid token): line 6, column 313
-
-4. Archivo: Archivo Traducciones/Vanilla Animals Expanded - Royal Animals/SpanishLatin (Español(Latinoamérica))/DefInjected/ThingDef/Races_Crane.xml
+3. Archivo: Archivo Traducciones/Vanilla Animals Expanded - Royal Animals/SpanishLatin (Español(Latinoamérica))/DefInjected/ThingDef/Races_Crane.xml
    Motivo: XML invalido: not well-formed (invalid token): line 6, column 262
    Trace:
 Traceback (most recent call last):
@@ -299,6 +288,17 @@ Traceback (most recent call last):
   File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/xml/etree/ElementTree.py", line 1350, in XML
     parser.feed(text)
 xml.etree.ElementTree.ParseError: not well-formed (invalid token): line 6, column 262
+
+4. Archivo: Archivo Traducciones/Vanilla Animals Expanded - Royal Animals/SpanishLatin (Español(Latinoamérica))/DefInjected/ThingDef/Races_Pheasant.xml
+   Motivo: XML invalido: not well-formed (invalid token): line 6, column 268
+   Trace:
+Traceback (most recent call last):
+  File "/home/runner/work/Rimwold_Mods_SpanishLatin/Rimwold_Mods_SpanishLatin/Programas/cli_compilador.py", line 206, in copiar_traducciones
+    root = ET.fromstring(content, parser=parser)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/xml/etree/ElementTree.py", line 1350, in XML
+    parser.feed(text)
+xml.etree.ElementTree.ParseError: not well-formed (invalid token): line 6, column 268
 
 5. Archivo: Archivo Traducciones/Vanilla Animals Expanded - Royal Animals/SpanishLatin (Español(Latinoamérica))/DefInjected/ThingDef/Races_AngoraRabbit.xml
    Motivo: XML invalido: not well-formed (invalid token): line 6, column 330
@@ -311,8 +311,8 @@ Traceback (most recent call last):
     parser.feed(text)
 xml.etree.ElementTree.ParseError: not well-formed (invalid token): line 6, column 330
 
-6. Archivo: Archivo Traducciones/Vanilla Animals Expanded - Royal Animals/SpanishLatin (Español(Latinoamérica))/DefInjected/ThingDef/Races_Pheasant.xml
-   Motivo: XML invalido: not well-formed (invalid token): line 6, column 268
+6. Archivo: Archivo Traducciones/Vanilla Animals Expanded - Royal Animals/SpanishLatin (Español(Latinoamérica))/DefInjected/ThingDef/Races_Megachicken.xml
+   Motivo: XML invalido: not well-formed (invalid token): line 6, column 442
    Trace:
 Traceback (most recent call last):
   File "/home/runner/work/Rimwold_Mods_SpanishLatin/Rimwold_Mods_SpanishLatin/Programas/cli_compilador.py", line 206, in copiar_traducciones
@@ -320,9 +320,20 @@ Traceback (most recent call last):
            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
   File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/xml/etree/ElementTree.py", line 1350, in XML
     parser.feed(text)
-xml.etree.ElementTree.ParseError: not well-formed (invalid token): line 6, column 268
+xml.etree.ElementTree.ParseError: not well-formed (invalid token): line 6, column 442
 
-7. Archivo: Archivo Traducciones/Vanilla Psycasts Expanded/SpanishLatin (Español(Latinoamérica))/DefInjected/VEF.Abilities.AbilityDef/Skipmaster.xml
+7. Archivo: Archivo Traducciones/Vanilla Animals Expanded - Royal Animals/SpanishLatin (Español(Latinoamérica))/DefInjected/ThingDef/Races_Orangutan.xml
+   Motivo: XML invalido: not well-formed (invalid token): line 6, column 313
+   Trace:
+Traceback (most recent call last):
+  File "/home/runner/work/Rimwold_Mods_SpanishLatin/Rimwold_Mods_SpanishLatin/Programas/cli_compilador.py", line 206, in copiar_traducciones
+    root = ET.fromstring(content, parser=parser)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/xml/etree/ElementTree.py", line 1350, in XML
+    parser.feed(text)
+xml.etree.ElementTree.ParseError: not well-formed (invalid token): line 6, column 313
+
+8. Archivo: Archivo Traducciones/Vanilla Psycasts Expanded/SpanishLatin (Español(Latinoamérica))/DefInjected/VEF.Abilities.AbilityDef/Skipmaster.xml
    Motivo: XML invalido: not well-formed (invalid token): line 51, column 2
    Trace:
 Traceback (most recent call last):
@@ -332,15 +343,4 @@ Traceback (most recent call last):
   File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/xml/etree/ElementTree.py", line 1350, in XML
     parser.feed(text)
 xml.etree.ElementTree.ParseError: not well-formed (invalid token): line 51, column 2
-
-8. Archivo: Archivo Traducciones/Vanilla Animals Expanded/SpanishLatin (Español(Latinoamérica))/DefInjected/ThingDef/Races_Expanded_ExtremeDesert.xml
-   Motivo: XML invalido: not well-formed (invalid token): line 17, column 79
-   Trace:
-Traceback (most recent call last):
-  File "/home/runner/work/Rimwold_Mods_SpanishLatin/Rimwold_Mods_SpanishLatin/Programas/cli_compilador.py", line 206, in copiar_traducciones
-    root = ET.fromstring(content, parser=parser)
-           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/xml/etree/ElementTree.py", line 1350, in XML
-    parser.feed(text)
-xml.etree.ElementTree.ParseError: not well-formed (invalid token): line 17, column 79
 
