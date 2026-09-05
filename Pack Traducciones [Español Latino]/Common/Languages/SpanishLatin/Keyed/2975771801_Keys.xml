@@ -2,12 +2,12 @@
 <LanguageData>
   <VREA.AlertFreezing>Androide congelándose</VREA.AlertFreezing>
   <VREA.AlertFreezingDesc>Estos androides están sufriendo congelación:\n\n{0}\nAsegúrate de que su ropa sea adecuada para la estación y que los espacios interiores estén debidamente calefaccionados.</VREA.AlertFreezingDesc>
-  <VREA.AlertOverheatingDesc>Los siguientes androides están sufriendo sobrecalentamiento:\n\n{0}\nLlévalos a un área más fresca. Puedes enfriar las habitaciones con refrigeradores pasivos o eléctricos. Los espacios subterráneos profundos también son naturalmente frescos, si están separados del exterior por una puerta.</VREA.AlertOverheatingDesc>
+  <VREA.AlertOverheatingDesc>Los siguientes androides están sufriendo sobrecalentamiento:\n\n{0}\nLlévalos a un área más fresca. Puedes enfriar las habitaciones con enfriadores pasivos o eléctricos. Los espacios subterráneos profundos también son naturalmente frescos, si están separados del exterior por una puerta.</VREA.AlertOverheatingDesc>
   <VREA.AlreadyScanned>{PAWN_nameDef} ya ha sido escaneado.</VREA.AlreadyScanned>
   <VREA.AnInstalled>Un {0} instalado.</VREA.AnInstalled>
   <VREA.Android>Androide</VREA.Android>
   <VREA.AndroidAreNotAllowed>No se permiten androides</VREA.AndroidAreNotAllowed>
-  <VREA.AndroidAwakenedChoices>Cuando un androide despierta, puedes elegir pasiones y un rasgo para un androide. Ya no podrás ingresar al reprogramador de androides con {PAWN_nameDef}, a menos que lo arrestes y lo fuerces.</VREA.AndroidAwakenedChoices>
+  <VREA.AndroidAwakenedChoices>Cuando un androide despierta, puedes elegir pasiones y un rasgo para el androide. Ya no podrás ingresar al reprogramador de androides con {PAWN_nameDef}, a menos que lo arrestes y lo fuerces.</VREA.AndroidAwakenedChoices>
   <VREA.AndroidAwakening>Despertar de {PAWN_nameDef}.</VREA.AndroidAwakening>
   <VREA.AndroidAwakeningHighMood>{PAWN_nameDef} se separó de su programación debido a una felicidad extrema. {PAWN_pronoun} desarrolló pensamientos y comportamientos que se desvían de su función prevista. {PAWN_pronoun} comenzó a reconocerse a sí mism{PAWN_gender ? o : a} como un ser con conciencia y personalidad.\n{PAWN_pronoun} ahora rechazará los ajustes de comportamiento y comenzará a reconocer su estado de ánimo como algo más que una parte de su programación. {PAWN_pronoun} ahora puede aprender habilidades por sí mism{PAWN_gender ? o : a}. {PAWN_pronoun} también podrá sufrir colapsos mentales si su estado de ánimo es demasiado bajo, al igual que los humanos.\nComo el despertar ocurrió debido a un estado de ánimo alto, {PAWN_nameDef} ha ganado una inspiración.</VREA.AndroidAwakeningHighMood>
   <VREA.AndroidAwakeningLowMood>{PAWN_nameDef} se separó de su programación debido a un estado de ánimo extremadamente bajo. {PAWN_pronoun} desarrolló pensamientos y comportamientos que se desvían de su función prevista. {PAWN_pronoun} comenzó a reconocerse a sí mism{PAWN_gender ? o : a} como un ser con conciencia y personalidad.\n{PAWN_pronoun} ahora rechazará los ajustes de comportamiento y comenzará a reconocer su estado de ánimo como algo más que una parte de su programación. {PAWN_pronoun} ahora puede aprender habilidades por sí mism{PAWN_gender ? o : a}. {PAWN_pronoun} también podrá sufrir colapsos mentales si su estado de ánimo es demasiado bajo, al igual que los humanos.\nComo el despertar ocurrió debido a un estado de ánimo bajo, {PAWN_nameDef} ha entrado en un estado de furia y atacará a cualquiera que se acerque.</VREA.AndroidAwakeningLowMood>
@@ -28,7 +28,7 @@
   <VREA.CancelModifyingAndroidDesc>Cancela el proceso de modificación de un androide.</VREA.CancelModifyingAndroidDesc>
   <VREA.CancelSelfDestruct>Cancelar autodestrucción</VREA.CancelSelfDestruct>
   <VREA.CancelSelfDestructDesc>Cancelar el protocolo de autodestrucción.</VREA.CancelSelfDestructDesc>
-  <VREA.CannotCastOnAndroid>No se puede lanzar en un androide.</VREA.CannotCastOnAndroid>
+  <VREA.CannotCastOnAndroid>No se puede lanzar sobre un androide.</VREA.CannotCastOnAndroid>
   <VREA.CannotCoagulateOnAndroid>No se puede coagular en un androide.</VREA.CannotCoagulateOnAndroid>
   <VREA.CannotFeedOnAndroid>No se puede alimentar de un androide.</VREA.CannotFeedOnAndroid>
   <VREA.CannotImplantGenesOnAndroid>No se pueden implantar genes en un androide.</VREA.CannotImplantGenesOnAndroid>
