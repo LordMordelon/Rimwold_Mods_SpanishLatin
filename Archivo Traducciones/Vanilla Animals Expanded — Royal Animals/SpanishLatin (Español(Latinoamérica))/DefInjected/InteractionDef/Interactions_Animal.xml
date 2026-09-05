@@ -40,7 +40,7 @@
   -->
   <VAERoy_OrangutanInteraction.logRulesInitiator.rulesStrings>
     <li>r_logentry->[INITIATOR_nameDef] y [RECIPIENT_nameDef] [talkedabout] [animalthings].</li>
-    <li>r_logentry->[INITIATOR_nameDef] [talkedabout] [animalthings] con [RECIPIENT_nameDef].</li>
+    <li>r_logentry->[INITIATOR_nameDef] [talkedabout1] [animalthings] con [RECIPIENT_nameDef].</li>
     <li>r_logentry(p=0.8)->[INITIATOR_nameDef] [commentedabout] [animalthings] a [RECIPIENT_nameDef].</li>
     <li>talkedabout(p=4)->charlaron sobre</li>
     <li>talkedabout->compartieron unas palabras sobre</li>
@@ -49,10 +49,17 @@
     <li>talkedabout->platicaron sobre</li>
     <li>talkedabout->balbucearon sobre</li>
     <li>talkedabout->bromearon sobre</li>
-    <li>commentedabout->dijeron algo sobre</li>
-    <li>commentedabout->hicieron un comentario sobre</li>
-    <li>commentedabout->comentaron sobre</li>
-    <li>commentedabout->reflexionaron sobre</li>
+    <li>talkedabout1(p=4)->charló sobre</li>
+    <li>talkedabout1->compartió unas palabras sobre</li>
+    <li>talkedabout1->habló sobre</li>
+    <li>talkedabout1->parloteó sobre</li>
+    <li>talkedabout1->platicó sobre</li>
+    <li>talkedabout1->balbuceó sobre</li>
+    <li>talkedabout1->bromeó sobre</li>
+    <li>commentedabout->dijo algo sobre</li>
+    <li>commentedabout->hizo un comentario sobre</li>
+    <li>commentedabout->comentó sobre</li>
+    <li>commentedabout->reflexionó sobre</li>
     <li>animalthings->la comparación de las sociedades paternalistas con otros aspectos y asuntos sociales</li>
     <li>animalthings->el origen o el análisis lingüístico del término parapente</li>
     <li>animalthings->cómo otras culturas o naciones ven el trabajo duro</li>
@@ -103,30 +110,30 @@
     <li>rubbedpart->arm</li>
   -->
   <VAERoy_PeacockInteraction.logRulesInitiator.rulesStrings>
-    <li>r_logentry(p=2)->[INITIATOR_nameDef] [nuzzleadverb] [nuzzled] a [RECIPIENT_nameDef].</li>
-    <li>r_logentry->[INITIATOR_nameDef] [nuzzleadverb] frotó su nariz contra el [rubbedpart] de [RECIPIENT_nameDef].</li>
-    <li>nuzzled(p=2)->le hizo un mimo psíquico</li>
-    <li>nuzzled->se acurrucó psíquicamente con</li>
+    <li>r_logentry(p=2)->[INITIATOR_nameDef] [nuzzled] [nuzzleadverb] a [RECIPIENT_nameDef].</li>
+    <li>r_logentry->[INITIATOR_nameDef] acarició [nuzzleadverb] con su nariz [rubbedpart] de [RECIPIENT_nameDef].</li>
+    <li>nuzzled(p=2)->acarició psíquicamente</li>
+    <li>nuzzled->se acurrucó psíquicamente junto</li>
     <li>nuzzleadverb(p=4)-></li>
-    <li>nuzzleadverb->suavemente</li>
+    <li>nuzzleadverb->gentilmente</li>
     <li>nuzzleadverb->alentadoramente</li>
-    <li>nuzzleadverb->alegremente</li>
-    <li>nuzzleadverb->tenuemente</li>
+    <li>nuzzleadverb->felizmente</li>
+    <li>nuzzleadverb->suavemente</li>
     <li>nuzzleadverb->solidariamente</li>
     <li>nuzzleadverb->ligeramente</li>
-    <li>nuzzleadverb->cálidamente</li>
+    <li>nuzzleadverb->calurosamente</li>
     <li>nuzzleadverb->quejumbrosamente</li>
     <li>nuzzleadverb->amorosamente</li>
     <li>nuzzleadverb->afectuosamente</li>
-    <li>rubbedpart->pierna</li>
-    <li>rubbedpart->rodilla</li>
-    <li>rubbedpart->pie</li>
-    <li>rubbedpart->codo</li>
-    <li>rubbedpart->cadera</li>
-    <li>rubbedpart->hombro</li>
-    <li>rubbedpart->mano</li>
-    <li>rubbedpart->costado</li>
-    <li>rubbedpart->brazo</li>
+    <li>rubbedpart->la pierna</li>
+    <li>rubbedpart->la rodilla</li>
+    <li>rubbedpart->el pie</li>
+    <li>rubbedpart->el codo</li>
+    <li>rubbedpart->la cadera</li>
+    <li>rubbedpart->el hombro</li>
+    <li>rubbedpart->la mano</li>
+    <li>rubbedpart->el costado</li>
+    <li>rubbedpart->el brazo</li>
   </VAERoy_PeacockInteraction.logRulesInitiator.rulesStrings>
   
 </LanguageData>
