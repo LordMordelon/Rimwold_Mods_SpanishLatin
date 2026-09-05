@@ -251,6 +251,51 @@ def obtener_package_id(ruta_mod: str) -> "str | None":
     return None
 
 
+def leer_contribuidores(ruta_mod: str) -> list:
+    """
+    Lee About/Contributors.xml de un mod y retorna sus colaboradores.
+
+    Formato esperado:
+        <contributors>
+            <contributor>
+                <name>KurvazNumeritos</name>
+                <steamProfileUrl>https://steamcommunity.com/...</steamProfileUrl>
+            </contributor>
+        </contributors>
+
+    Retorna una lista de tuplas (nombre, url); la url puede ser "".
+    Retorna [] si el archivo no existe, esta vacio o no se puede leer.
+    """
+    about_dir = os.path.join(ruta_mod, "About")
+    if not os.path.isdir(about_dir):
+        return []
+
+    ruta_archivo = None
+    for nombre_archivo in os.listdir(about_dir):
+        if nombre_archivo.lower() == "contributors.xml":
+            ruta_archivo = os.path.join(about_dir, nombre_archivo)
+            break
+
+    if not ruta_archivo:
+        return []
+
+    try:
+        root = ET.parse(ruta_archivo).getroot()
+    except Exception:
+        return []
+
+    contribuidores = []
+    for nodo in root.iter("contributor"):
+        nodo_nombre = nodo.find("name")
+        if nodo_nombre is None or not nodo_nombre.text:
+            continue
+        nodo_url = nodo.find("steamProfileUrl")
+        url = nodo_url.text.strip() if nodo_url is not None and nodo_url.text else ""
+        contribuidores.append((nodo_nombre.text.strip(), url))
+
+    return contribuidores
+
+
 def obtener_published_file_id(ruta_mod: str) -> "str | None":
     """
     Obtiene el PublishedFileId (Steam Workshop ID numerico) de un mod.

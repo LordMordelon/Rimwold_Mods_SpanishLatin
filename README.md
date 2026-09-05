@@ -4,8 +4,8 @@ Un conjunto de traducciones de mods que uso adaptados principalmente al español
 
 Si encuentras errores o tienes sugerencias, no dudes en mencionarlo.
 
-**Última compilación:** 2026-09-04 13:25:14  
-**Total de mods traducidos:** 251
+**Última compilación:** 2026-09-04 20:30:41  
+**Total de mods traducidos:** 248
 
 ## Lista de mods traducidos
 
@@ -14,11 +14,10 @@ Si encuentras errores o tienes sugerencias, no dudes en mencionarlo.
 - 1trickPwnyta's Defaults
 - 1trickPwnyta's Ideology Patch
 - 1trickPwnyta's Odyssey Patch
+- [FSF] Advanced Bionics Expansion
 - [FSF] FrozenSnowFox Tweaks
-- [FSF]_Advanced_Bionics_Expansion
 - [HRK] Vanilla Expanded Extra Embrasures
-- [HRK]_Vanilla_Expanded_Extra_Embrasures
-- [RH2] Uncle Boris' - Brainwash Chair
+- [RH2] Uncle Boris' - Brainwash Chair *(colaboración de [KurvazNumeritos](https://steamcommunity.com/profiles/76561198294137916))*
 - [sbz] Bookcase
 - [sbz] Fridge
 - [sbz] Gravship Storage
@@ -27,7 +26,7 @@ Si encuentras errores o tienes sugerencias, no dudes en mencionarlo.
 - A RimWorld of Magic
 - Achtung!
 - Adaptive Storage Framework
-- Advanced Moisture Pump (Continued)
+- Advanced Moisture Pump (Continued) *(colaboración de [KurvazNumeritos](https://steamcommunity.com/profiles/76561198294137916))*
 - Alpha Armoury
 - Alpha Books
 - Alpha Mechs
@@ -46,7 +45,7 @@ Si encuentras errores o tienes sugerencias, no dudes en mencionarlo.
 - Apex Mechanoids
 - Appliances Expanded
 - Aquatic Repopulation
-- Asteroid_Grounds
+- Asteroid Grounds
 - Auto Ability
 - Automatic Hydroponics
 - Automatic Hydroponics Expanded
@@ -106,7 +105,7 @@ Si encuentras errores o tienes sugerencias, no dudes en mencionarlo.
 - Mechanoid Upgrades
 - Mechanoid Upgrades - Anomaly
 - Mechanoid Upgrades - Archotech
-- Megafauna
+- Megafauna *(colaboración de [KurvazNumeritos](https://steamcommunity.com/profiles/76561198294137916))*
 - Melee Animation
 - MendAndRecycle
 - Metalhorror Scanner
@@ -122,8 +121,8 @@ Si encuentras errores o tienes sugerencias, no dudes en mencionarlo.
 - Non-Lethal Re-Examined
 - Noobert Nebulous - Vidtuber (Continued)
 - Odyssey Transport Shuttle
+- Orbital Platforms
 - Orbital Station Start
-- Orbital_Platforms
 - Performance Optimizer
 - Permits Re-Examined
 - Persona Mechanoid Pawns 2
@@ -149,7 +148,7 @@ Si encuentras errores o tienes sugerencias, no dudes en mencionarlo.
 - Romance On The Rim
 - RPG Style Inventory Revamped
 - RT Fuse
-- RT Solar Flare Shield
+- RT Solar Flare Shield *(colaboración de [KurvazNumeritos](https://steamcommunity.com/profiles/76561198294137916))*
 - Security Re-Examined
 - Sense Of Depth For Tall Buildings
 - Simple Additions Mech Clusters
@@ -158,7 +157,7 @@ Si encuentras errores o tienes sugerencias, no dudes en mencionarlo.
 - Slim Recharger
 - Space Services
 - Spacer Arsenal
-- Standalone Hot Spring
+- Standalone Hot Spring *(colaboración de [KurvazNumeritos](https://steamcommunity.com/profiles/76561198294137916))*
 - The Dead Man's Switch
 - The Dead Man's Switch - AncientCorps
 - The Dead Man's Switch - Independent Trashbin
@@ -175,13 +174,13 @@ Si encuentras errores o tienes sugerencias, no dudes en mencionarlo.
 - Ushankas Luciferium Expansion
 - Ushankas Necroa Archovirus
 - Vanilla Achievements Expanded
-- Vanilla Animals Expanded
-- Vanilla Animals Expanded - Enragered
-- Vanilla Animals Expanded - Royal Animals
-- Vanilla Animals Expanded - Waste Animals
+- Vanilla Animals Expanded *(colaboración de [KurvazNumeritos](https://steamcommunity.com/profiles/76561198294137916))*
+- Vanilla Animals Expanded — Endangered *(colaboración de [KurvazNumeritos](https://steamcommunity.com/profiles/76561198294137916))*
+- Vanilla Animals Expanded — Royal Animals *(colaboración de [KurvazNumeritos](https://steamcommunity.com/profiles/76561198294137916))*
+- Vanilla Animals Expanded — Waste Animals *(colaboración de [KurvazNumeritos](https://steamcommunity.com/profiles/76561198294137916))*
 - Vanilla Anomaly Expanded - Insanity
 - Vanilla Apparel Expanded — Accessories
-- Vanilla Armour Expanded
+- Vanilla Armour Expanded *(colaboración de [KurvazNumeritos](https://steamcommunity.com/profiles/76561198294137916))*
 - Vanilla Arsenal
 - Vanilla Aspirations Expanded
 - Vanilla Backstories Expanded
@@ -253,8 +252,6 @@ Si encuentras errores o tienes sugerencias, no dudes en mencionarlo.
 - Vanilla Weapons Expanded - Makeshift
 - Vanilla Weapons Expanded - Non-Lethal
 - Vanilla Weapons Expanded - Quickdraw
-- Vanilla_Factions_Expanded_-_Insectoids_2
-- Vanilla_Gravship_Expanded_-_Chapter_1
 - VFE-Deserters Remote Deadlife IED
 - Volt Weaponry
 - WVC - Work Modes

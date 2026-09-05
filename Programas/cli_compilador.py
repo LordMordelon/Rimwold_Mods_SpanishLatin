@@ -19,6 +19,7 @@ from compilador_utils import (
     indent_xml,
     obtener_package_id,
     obtener_published_file_id,
+    leer_contribuidores,
     procesar_xml_a_destino,
     detectar_idiomas,
 )
@@ -241,7 +242,9 @@ def copiar_traducciones(origen, destino_root, nombre_subcarpeta, limpiar_destino
 def copiar_vanilla_patches(origen_vanilla, destino_root, nombre_subcarpeta, eliminar_comentarios):
     """
     Procesa carpetas de 'Archivo Traducciones Vanilla' y las copia a Mods/NombreMod/
-    Retorna lista de (nombre_carpeta_normalizado, packageId) para LoadFolders.xml
+    Retorna lista de (nombre_carpeta_normalizado, packageId, nombre_carpeta_original).
+    Los dos primeros valores alimentan LoadFolders.xml; el tercero se usa para
+    mostrar el nombre legible (con espacios) en el README y el reporte.
     """
     if not os.path.isdir(origen_vanilla):
         return [], 0, []
@@ -333,9 +336,9 @@ def copiar_vanilla_patches(origen_vanilla, destino_root, nombre_subcarpeta, elim
                     
                     archivos_copiados += 1
         
-        # Guardar para LoadFolders.xml
+        # Guardar para LoadFolders.xml (se conserva el nombre original para el README)
         if package_id:
-            mods_vanilla.append((nombre_normalizado, package_id))
+            mods_vanilla.append((nombre_normalizado, package_id, mod_folder))
     
     return mods_vanilla, archivos_copiados, errores
 
@@ -343,7 +346,7 @@ def copiar_vanilla_patches(origen_vanilla, destino_root, nombre_subcarpeta, elim
 def generar_loadfolders_xml(destino_root, mods_vanilla_info):
     """
     Genera LoadFolders.xml en la raíz del pack con entradas condicionales
-    mods_vanilla_info: lista de tuplas (nombre_carpeta_normalizado, packageId)
+    mods_vanilla_info: lista de tuplas (nombre_carpeta_normalizado, packageId, ...)
     """
     if not mods_vanilla_info:
         return False, "No hay mods vanilla para generar LoadFolders.xml"
@@ -359,7 +362,8 @@ def generar_loadfolders_xml(destino_root, mods_vanilla_info):
     common_li.text = "Common"
     
     # Luego las carpetas condicionales de Mods
-    for nombre_carpeta, package_id in sorted(mods_vanilla_info, key=lambda x: x[0]):
+    for entrada in sorted(mods_vanilla_info, key=lambda x: x[0]):
+        nombre_carpeta, package_id = entrada[0], entrada[1]
         mod_li = ET.SubElement(version_node, "li")
         mod_li.set("IfModActive", package_id)
         mod_li.text = f"Mods/{nombre_carpeta}"
@@ -453,11 +457,88 @@ def actualizar_about_xml(destino_root, origen, mods_procesados):
     return True, f"About.xml actualizado con {len(ids_mods)} entradas."
 
 
+def _clave_mod(nombre):
+    """
+    Clave de comparacion para detectar el mismo mod escrito de dos formas
+    (por ejemplo "Vanilla_Gravship_Expanded_-_Chapter_1" y
+    "Vanilla Gravship Expanded - Chapter 1", que aparecen cuando un mod tiene
+    traduccion normal y ademas un parche en 'Archivo Traducciones Vanilla').
+    """
+    clave = re.sub(r"[\s_]+", " ", nombre or "")
+    clave = clave.replace("—", "-").replace("–", "-")
+    clave = re.sub(r"\s*-\s*", " - ", clave)
+    return clave.strip().casefold()
+
+
+def _formatear_colaboradores(contribuidores):
+    """
+    Devuelve el sufijo de credito para la linea del README, o "" si no hay
+    colaboradores. Los nombres con URL se enlazan.
+    """
+    if not contribuidores:
+        return ""
+
+    partes = []
+    for nombre, url in contribuidores:
+        partes.append(f"[{nombre}]({url})" if url else nombre)
+
+    if len(partes) == 1:
+        listado = partes[0]
+    else:
+        listado = ", ".join(partes[:-1]) + " y " + partes[-1]
+
+    # Se usan parentesis (y no un guion largo) porque varios nombres de mod ya
+    # contienen "—", p. ej. "Vanilla Animals Expanded — Waste Animals".
+    return f" *(colaboración de {listado})*"
+
+
+def _consolidar_mods(mods):
+    """
+    Normaliza la entrada de generar_readme a una lista ordenada de
+    (nombre_visible, ruta_mod), eliminando duplicados entre traducciones
+    normales y parches Vanilla.
+
+    'mods' acepta strings (solo nombre) o tuplas (nombre, ruta_mod).
+    Ante un duplicado se conserva el nombre mas legible (el que tiene espacios
+    en vez de underscores) y la primera ruta disponible.
+    """
+    entradas = {}
+
+    for item in mods:
+        if isinstance(item, (tuple, list)):
+            nombre = item[0] if item else ""
+            ruta_mod = item[1] if len(item) > 1 else None
+        else:
+            nombre, ruta_mod = item, None
+
+        nombre = (nombre or "").strip()
+        if not nombre:
+            continue
+
+        clave = _clave_mod(nombre)
+        previo = entradas.get(clave)
+
+        if previo is None:
+            entradas[clave] = (nombre, ruta_mod)
+            continue
+
+        nombre_previo, ruta_previa = previo
+        if nombre.count("_") < nombre_previo.count("_"):
+            nombre_previo = nombre
+        entradas[clave] = (nombre_previo, ruta_previa or ruta_mod)
+
+    return sorted(entradas.values(), key=lambda x: x[0].casefold())
+
+
 def generar_readme(repo_root, destino_root, mods, fecha=None):
     """
     Genera/actualiza README.md en la raiz del repo con la lista total de mods
     traducidos. Se regenera en cada compilacion para que GitHub siempre
     muestre el listado actualizado.
+
+    'mods' puede ser una lista de nombres o de tuplas (nombre, ruta_mod).
+    Cuando se pasa la ruta, se lee About/Contributors.xml para acreditar a los
+    colaboradores de esa traduccion.
     """
     if not mods:
         return False, "No hay mods para generar README.md"
@@ -479,7 +560,15 @@ def generar_readme(repo_root, destino_root, mods, fecha=None):
             pass
 
     fecha = fecha or datetime.now().strftime("%Y-%m-%d %H:%M:%S")
-    mods_ordenados = sorted(set(mods), key=str.casefold)
+    mods_ordenados = _consolidar_mods(mods)
+
+    lineas_mods = []
+    total_con_colaboradores = 0
+    for nombre, ruta_mod in mods_ordenados:
+        contribuidores = leer_contribuidores(ruta_mod) if ruta_mod else []
+        if contribuidores:
+            total_con_colaboradores += 1
+        lineas_mods.append(f"- {nombre}{_formatear_colaboradores(contribuidores)}")
 
     lineas = [f"# {nombre_pack}", ""]
     if descripcion:
@@ -491,7 +580,7 @@ def generar_readme(repo_root, destino_root, mods, fecha=None):
         "## Lista de mods traducidos",
         "",
     ])
-    lineas.extend(f"- {mod}" for mod in mods_ordenados)
+    lineas.extend(lineas_mods)
     lineas.append("")
     lineas.append("---")
     lineas.append("*Este README se genera y actualiza automáticamente en cada compilación. No editar manualmente.*")
@@ -500,7 +589,10 @@ def generar_readme(repo_root, destino_root, mods, fecha=None):
     with open(ruta_readme, "w", encoding="utf-8") as f:
         f.write("\n".join(lineas) + "\n")
 
-    return True, f"README.md actualizado con {len(mods_ordenados)} mods en {ruta_readme}"
+    detalle = f"README.md actualizado con {len(mods_ordenados)} mods en {ruta_readme}"
+    if total_con_colaboradores:
+        detalle += f" ({total_con_colaboradores} con colaboradores acreditados)"
+    return True, detalle
 
 
 def comprimir_resultado(destino_root, nombre_subcarpeta):
@@ -711,8 +803,16 @@ def main():
         if not ok:
             return 1
 
-    # Combinar mods normales y vanilla para el reporte y el README
-    todos_los_mods = mods_procesados + [nombre for nombre, _ in mods_vanilla_info]
+    # Combinar mods normales y vanilla para el reporte y el README.
+    # Se usa el nombre original de carpeta (con espacios), no el normalizado con
+    # underscores que va a Mods/, para no duplicar entradas en el README.
+    mods_info = [(nombre, os.path.join(origen, nombre)) for nombre in mods_procesados]
+    mods_info += [
+        (entrada[2] if len(entrada) > 2 else entrada[0],
+         os.path.join(origen_vanilla, entrada[2] if len(entrada) > 2 else entrada[0]))
+        for entrada in mods_vanilla_info
+    ]
+    todos_los_mods = [nombre for nombre, _ in mods_info]
 
     if not args.sin_reporte:
         ok, mensaje = generar_reporte(destino, todos_los_mods, errores=errores, titulo=args.reporte_titulo)
@@ -733,7 +833,7 @@ def main():
     if not args.sin_readme:
         repo_root_readme = get_repo_root(os.getcwd())
         if repo_root_readme:
-            ok_readme, msg_readme = generar_readme(repo_root_readme, destino, todos_los_mods)
+            ok_readme, msg_readme = generar_readme(repo_root_readme, destino, mods_info)
             print(msg_readme)
         else:
             print("ADVERTENCIA: No se detecto repositorio git, omitiendo actualizacion de README.md")
