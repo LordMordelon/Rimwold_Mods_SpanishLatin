@@ -4,8 +4,8 @@ Un conjunto de traducciones de mods que uso adaptados principalmente al español
 
 Si encuentras errores o tienes sugerencias, no dudes en mencionarlo.
 
-**Última compilación:** 2026-09-04 13:25:14  
-**Total de mods traducidos:** 251
+**Última compilación:** 2026-09-05 01:34:46  
+**Total de mods traducidos:** 248
 
 ## Lista de mods traducidos
 
@@ -174,10 +174,10 @@ Si encuentras errores o tienes sugerencias, no dudes en mencionarlo.
 - Ushankas Luciferium Expansion
 - Ushankas Necroa Archovirus
 - Vanilla Achievements Expanded
-- Vanilla Animals Expanded
-- Vanilla Animals Expanded - Enragered
-- Vanilla Animals Expanded - Royal Animals
-- Vanilla Animals Expanded - Waste Animals
+- Vanilla Animals Expanded *(colaboración de [KurvazNumeritos](https://steamcommunity.com/profiles/76561198294137916))*
+- Vanilla Animals Expanded — Endangered *(colaboración de [KurvazNumeritos](https://steamcommunity.com/profiles/76561198294137916))*
+- Vanilla Animals Expanded — Royal Animals *(colaboración de [KurvazNumeritos](https://steamcommunity.com/profiles/76561198294137916))*
+- Vanilla Animals Expanded — Waste Animals *(colaboración de [KurvazNumeritos](https://steamcommunity.com/profiles/76561198294137916))*
 - Vanilla Anomaly Expanded - Insanity
 - Vanilla Apparel Expanded — Accessories
 - Vanilla Armour Expanded *(colaboración de [KurvazNumeritos](https://steamcommunity.com/profiles/76561198294137916))*
