@@ -4,7 +4,7 @@ Un conjunto de traducciones de mods que uso adaptados principalmente al español
 
 Si encuentras errores o tienes sugerencias, no dudes en mencionarlo.
 
-**Última compilación:** 2026-09-05 02:15:10  
+**Última compilación:** 2026-09-05 03:26:25  
 **Total de mods traducidos:** 248
 
 ## Lista de mods traducidos
