@@ -1,0 +1,344 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: Thank you for using Elite Bionics Framework, a framework to enable hediffs to modify body part max HP.|- Added "linear adjustment" parameter for EBF Hediffs; refer to documentation on how they work, and how body part max HP are calculated -->
+  <EBF_v1_0_0.content>Gracias por usar Elite Bionics Framework, un framework que permite a los hediffs modificar los PV máximos de las partes del cuerpo.|- Se añadió el parámetro de "ajuste lineal" para los hediffs de EBF; consulta la documentación para saber cómo funcionan y cómo se calculan los PV máximos de las partes del cuerpo</EBF_v1_0_0.content>
+  <!-- EN: Elite Bionics Framework -->
+  <EBF_v1_0_0.modNameReadable>Elite Bionics Framework</EBF_v1_0_0.modNameReadable>
+
+  <!-- EN: - Added "scaling adjustment" parameter for EBF Hediffs; refer to documentation on how they work, and how body part max HP are calculated -->
+  <EBF_v1_1_0.content>- Se añadió el parámetro de "ajuste de escala" para los hediffs de EBF; consulta la documentación para saber cómo funcionan y cómo se calculan los PV máximos de las partes del cuerpo</EBF_v1_1_0.content>
+  <!-- EN: Elite Bionics Framework -->
+  <EBF_v1_1_0.modNameReadable>Elite Bionics Framework</EBF_v1_1_0.modNameReadable>
+
+  <!-- EN: Updated mod for RimWorld v1.1. -->
+  <EBF_v2_0_0.content>Mod actualizado para RimWorld v1.1.</EBF_v2_0_0.content>
+  <!-- EN: Elite Bionics Framework -->
+  <EBF_v2_0_0.modNameReadable>Elite Bionics Framework</EBF_v2_0_0.modNameReadable>
+
+  <!-- EN: Beta 1.|\n- Framework addition: now possible to adjust melee attack damage for Hediffs and Hediff_Implants; refer to GitHub documentation for more info. -->
+  <EBF_v2_1_0_B01.content>Beta 1.|\n- Adición al framework: ahora es posible ajustar el daño de los ataques cuerpo a cuerpo para los Hediffs y los Hediff_Implants; consulta la documentación de GitHub para más información.</EBF_v2_1_0_B01.content>
+  <!-- EN: Elite Bionics Framework -->
+  <EBF_v2_1_0_B01.modNameReadable>Elite Bionics Framework</EBF_v2_1_0_B01.modNameReadable>
+
+  <!-- EN: Beta 2.|\n- Fixed unexpected, critical "failed to apply Harmony patches" bug due to RimWorld update v1.1.2598 -->
+  <EBF_v2_1_0_B02.content>Beta 2.|\n- Se corrigió el error crítico e inesperado "failed to apply Harmony patches" provocado por la actualización v1.1.2598 de RimWorld</EBF_v2_1_0_B02.content>
+  <!-- EN: Elite Bionics Framework -->
+  <EBF_v2_1_0_B02.modNameReadable>Elite Bionics Framework</EBF_v2_1_0_B02.modNameReadable>
+
+  <!-- EN: Beta 3.|\n- Fixed a NullReferenceException related to social fights. -->
+  <EBF_v2_1_0_B03.content>Beta 3.|\n- Se corrigió una NullReferenceException relacionada con las peleas sociales.</EBF_v2_1_0_B03.content>
+  <!-- EN: Elite Bionics Framework -->
+  <EBF_v2_1_0_B03.modNameReadable>Elite Bionics Framework</EBF_v2_1_0_B03.modNameReadable>
+
+  <!-- EN: Beta 4.|\n- Technical update: Max-HP-related transpilers now at priority = Priority.First . -->
+  <EBF_v2_1_0_B04.content>Beta 4.|\n- Actualización técnica: los transpiladores relacionados con los PV máximos ahora están en priority = Priority.First .</EBF_v2_1_0_B04.content>
+  <!-- EN: Elite Bionics Framework -->
+  <EBF_v2_1_0_B04.modNameReadable>Elite Bionics Framework</EBF_v2_1_0_B04.modNameReadable>
+
+  <!-- EN: Updated to RimWorld v1.2.|\n- Notice to C# modders: a new C# class EBFEndpoints is available to read the max HP of body parts under the effects of EBF; more details at the GitHub repo -->
+  <EBF_v3_0_0.content>Actualizado a RimWorld v1.2.|\n- Aviso para los modders de C#: hay disponible una nueva clase de C# llamada EBFEndpoints para leer los PV máximos de las partes del cuerpo bajo los efectos de EBF; más detalles en el repositorio de GitHub</EBF_v3_0_0.content>
+  <!-- EN: Elite Bionics Framework -->
+  <EBF_v3_0_0.modNameReadable>Elite Bionics Framework</EBF_v3_0_0.modNameReadable>
+
+  <!-- EN: Standardize entire mod to use namespace "EBF" to reduce confusion. -->
+  <EBF_v4_0_0.content>Se estandarizó todo el mod para usar el espacio de nombres "EBF" y así reducir la confusión.</EBF_v4_0_0.content>
+  <!-- EN: Elite Bionics Framework -->
+  <EBF_v4_0_0.modNameReadable>Elite Bionics Framework</EBF_v4_0_0.modNameReadable>
+
+  <!-- EN: - Fixed potential tool-related null-reference error with Save Our Ships 2\n- Improved tool comparison logic to reduce occurence of null-reference errors with various other bionic mods (please see if those errors are fixed!) -->
+  <EBF_v4_0_1.content>- Se corrigió un posible error de referencia nula relacionado con las herramientas con Save Our Ships 2\n- Se mejoró la lógica de comparación de herramientas para reducir la aparición de errores de referencia nula con varios otros mods de biónica (¡comprueba si esos errores están corregidos!)</EBF_v4_0_1.content>
+  <!-- EN: Elite Bionics Framework -->
+  <EBF_v4_0_1.modNameReadable>Elite Bionics Framework</EBF_v4_0_1.modNameReadable>
+
+  <!-- EN: - Attack Power Adjustors now skips some problematic hediffs when checking applicability; should result in even less NullReferenceException -->
+  <EBF_v4_0_2.content>- Los ajustadores de poder de ataque ahora omiten algunos hediffs problemáticos al comprobar la aplicabilidad; debería dar como resultado aún menos NullReferenceException</EBF_v4_0_2.content>
+  <!-- EN: Elite Bionics Framework -->
+  <EBF_v4_0_2.modNameReadable>Elite Bionics Framework</EBF_v4_0_2.modNameReadable>
+
+  <!-- EN: - Recalibrated this mod to be compatible with RW v1.3\n- Pre-RW v1.3 compatibility is not affected; this is making use of the multi-version feature of RW -->
+  <EBF_v4_0_3.content>- Se recalibró este mod para que sea compatible con RW v1.3\n- La compatibilidad anterior a RW v1.3 no se ve afectada; esto aprovecha la función multiversión de RW</EBF_v4_0_3.content>
+  <!-- EN: Elite Bionics Framework -->
+  <EBF_v4_0_3.modNameReadable>Elite Bionics Framework</EBF_v4_0_3.modNameReadable>
+
+  <!-- EN: - Fixed Harmony patching conflicts with Pawnmorpher (not backported) -->
+  <EBF_v4_0_4.content>- Se corrigieron los conflictos de parcheo de Harmony con Pawnmorpher (no retroportado)</EBF_v4_0_4.content>
+  <!-- EN: Elite Bionics Framework -->
+  <EBF_v4_0_4.modNameReadable>Elite Bionics Framework</EBF_v4_0_4.modNameReadable>
+
+  <!-- EN: Traded some features:\n- [+] This mod no longer gives exception when used with Humanoid Alien Races; but\n- [-] EBF hediffs that increases pawn core part HP now does NOT reduce % chance of pawn getting stunned after taking blunt damage\n+- - - - - - - - - -->
+  <EBF_v4_0_5.content>Se intercambiaron algunas funciones:\n- [+] Este mod ya no da excepciones al usarse con Humanoid Alien Races; pero\n- [-] los hediffs de EBF que aumentan los PV de la parte central del colono ahora NO reducen el % de probabilidad de que el colono quede aturdido tras recibir daño contundente\n+- - - - - - - - - </EBF_v4_0_5.content>
+  <!-- EN: Elite Bionics Framework -->
+  <EBF_v4_0_5.modNameReadable>Elite Bionics Framework</EBF_v4_0_5.modNameReadable>
+
+  <!-- EN: Improved the previous trade:\n- [+] This mod no longer gives exception when used with Humanoid Alien Races; and\n- [+] EBF hediffs that increases pawn core part HP now CAN reduce % chance of pawn getting stunned after taking blunt damage (cancels the negative effects of v4.0.5)\n- [*] Now must be loaded before Humanoid Alien Races; PLEASE USE THE AUTO-SORT TO REAPPLY LOAD ORDER!\n+- - - - - - - - -|Special thanks to GitHub user RocketDelivery for this fix! -->
+  <EBF_v4_0_6.content>Se mejoró el intercambio anterior:\n- [+] Este mod ya no da excepciones al usarse con Humanoid Alien Races; y\n- [+] los hediffs de EBF que aumentan los PV de la parte central del colono ahora SÍ pueden reducir el % de probabilidad de que el colono quede aturdido tras recibir daño contundente (cancela los efectos negativos de la v4.0.5)\n- [*] Ahora debe cargarse antes que Humanoid Alien Races; ¡POR FAVOR, USA EL ORDENAMIENTO AUTOMÁTICO PARA REAPLICAR EL ORDEN DE CARGA!\n+- - - - - - - - -|¡Agradecimientos especiales al usuario de GitHub RocketDelivery por esta corrección!</EBF_v4_0_6.content>
+  <!-- EN: Elite Bionics Framework -->
+  <EBF_v4_0_6.modNameReadable>Elite Bionics Framework</EBF_v4_0_6.modNameReadable>
+
+  <!-- EN: Merry Christmas!|\n- Added compatibility with EdB Prepare Carefully: you can now see correct body part max HP calculated by EBF without errors\n- Added compatibility with CM Callouts: you can now see correct motes (based on body part max HP) when a body part is destroyed\n- Added compatibility with Moody: you can now see correct body part max HP calculated by EBF without errors -->
+  <EBF_v4_0_7.content>¡Feliz Navidad!|\n- Se añadió compatibilidad con EdB Prepare Carefully: ahora puedes ver sin errores los PV máximos correctos de las partes del cuerpo calculados por EBF\n- Se añadió compatibilidad con CM Callouts: ahora puedes ver las motas correctas (basadas en los PV máximos de las partes del cuerpo) cuando se destruye una parte del cuerpo\n- Se añadió compatibilidad con Moody: ahora puedes ver sin errores los PV máximos correctos de las partes del cuerpo calculados por EBF</EBF_v4_0_7.content>
+  <!-- EN: Elite Bionics Framework -->
+  <EBF_v4_0_7.modNameReadable>Elite Bionics Framework</EBF_v4_0_7.modNameReadable>
+
+  <!-- EN: Not much going on.|\n- Fixed max HP modification display formatting\n- Fixed verb power modification showing as max HP modification\n- Improved accuracy of detecting EdB Prepare Carefully: hopefully there are less false positives that leads to patching errors -->
+  <EBF_v4_0_8.content>No pasa gran cosa.|\n- Se corrigió el formato de visualización de la modificación de los PV máximos\n- Se corrigió que la modificación del poder de verbo se mostrara como modificación de los PV máximos\n- Se mejoró la precisión de la detección de EdB Prepare Carefully: con suerte habrá menos falsos positivos que provoquen errores de parcheo</EBF_v4_0_8.content>
+  <!-- EN: Elite Bionics Framework -->
+  <EBF_v4_0_8.modNameReadable>Elite Bionics Framework</EBF_v4_0_8.modNameReadable>
+
+  <!-- EN: Housekeeping, and some deeper thoughts.|\n- Fixed error wth Pawnmorpher; fundamentally, both mods tried to modify the same thing at the same time\n- Notice: EBF has detected a rare 3-mod conflict: using EBF + Pawnmorpher + CompactHediff together is discouraged until we figure out what is going on, and meanwhile if you only use at most 2 of them from that combo, you won't see any problems\n- Notice: EBF has noticed more and more 3rd party mods creating custom HP-increasing bionics without using EBF, which may cause confusion, incompatibilities, and incorrectness; EBF is currently thinking of a solution to this -->
+  <EBF_v4_0_9.content>Tareas de mantenimiento y algunas reflexiones más profundas.|\n- Se corrigió un error con Pawnmorpher; en el fondo, ambos mods intentaban modificar lo mismo al mismo tiempo\n- Aviso: EBF ha detectado un raro conflicto entre 3 mods: se desaconseja usar EBF + Pawnmorpher + CompactHediff juntos hasta que averigüemos qué está pasando; mientras tanto, si usas como máximo 2 de esa combinación, no verás ningún problema\n- Aviso: EBF ha notado que cada vez más mods de terceros crean biónicas personalizadas que aumentan los PV sin usar EBF, lo que puede causar confusión, incompatibilidades e incorrecciones; EBF está pensando actualmente en una solución para esto</EBF_v4_0_9.content>
+  <!-- EN: Elite Bionics Framework -->
+  <EBF_v4_0_9.modNameReadable>Elite Bionics Framework</EBF_v4_0_9.modNameReadable>
+
+  <!-- EN: Hi all! Elite Bionics Framework v5.0.|\nIt has been about 4 years since the initial conception of Elite Bionics, and Elite Bionics Framework has grown so much. Thank you all for the continued support!|\nFor a long time, I noticed that there are several mods out there that provides HP-increasing effects by themselves. I generally leave them be, but some of them are causing incompatibilities with EBF and with each other, which is problematic.|\nThis is why I have decided to evolve EBF a bit more by letting it be a unifying bridge between the various mods that provide body part HP modification. I call this Community Unification.|\nNote that this mod only allows them to work with each other together; the individual effects are not modified in any way. You will still be seeing effects and numbers of the individual mods themselves.|\nAnd of course, disclaimers: I am not affiliated with any of the mod authors out there. I do not claim ownership on any of the mods out there. All I do is simply to ensure that all mods can run smoothly alongside each other.|\n- The Community Unification: a decision has been made to unify the many mods out there that modify body part max HP but may potentially conflict with each other\n- To XML modders depending on EBF: no update is needed\n- The inner code of EBF has been changed somewhat; C# modders be aware (even though I believe there aren't too many breaking changes)\n- I am unaffiliated to any of the mods below\n- I claim no ownerships of any of the mods below|\n- The following mods are unified:\n  - Quality Bionics\n  - CONN\n  - Cyber Fauna\n  - Pawnmorpher\n  - GeneticRim/Vanilla Genetics Expanded\n  - Level This\n- If QualityBionics is installed: fixed the wrong implementation of QualityBionics causing HP modification to double-count for eg arms and legs\n- If Pawnmorpher is installed: we standardized the patches with Pawnmorpher, so that we also show additional UI text dedicated to Pawnmorpher\n- Also fixed error with Pawnmorpher regarding "error setting up text" when reading body part summary|\n- Added some tips to the in-game tips library\n- No update needed for Compact Hediffs, unless they would like to readjust their UI using the latest EBF functions and methods\n -->
+  <EBF_v5_0_0.content>¡Hola a todos! Elite Bionics Framework v5.0.|\nHan pasado unos 4 años desde la concepción inicial de Elite Bionics, y Elite Bionics Framework ha crecido muchísimo. ¡Gracias a todos por el apoyo continuo!|\nDurante mucho tiempo noté que hay varios mods por ahí que proporcionan efectos de aumento de PV por su cuenta. Por lo general los dejo en paz, pero algunos de ellos están causando incompatibilidades con EBF y entre sí, lo cual es problemático.|\nPor eso he decidido hacer evolucionar un poco más a EBF, dejando que sea un puente unificador entre los distintos mods que modifican los PV de las partes del cuerpo. A esto lo llamo la Unificación Comunitaria.|\nTen en cuenta que este mod solo les permite funcionar juntos entre sí; los efectos individuales no se modifican de ninguna manera. Seguirás viendo los efectos y los números de los mods individuales.|\nY por supuesto, algunas aclaraciones: no estoy afiliado a ninguno de los autores de esos mods. No reclamo la propiedad de ninguno de esos mods. Todo lo que hago es simplemente asegurarme de que todos los mods puedan funcionar sin problemas unos junto a otros.|\n- La Unificación Comunitaria: se ha tomado la decisión de unificar los muchos mods que modifican los PV máximos de las partes del cuerpo pero que pueden entrar en conflicto entre sí\n- Para los modders de XML que dependen de EBF: no es necesaria ninguna actualización\n- El código interno de EBF ha cambiado un poco; aviso para los modders de C# (aunque creo que no hay demasiados cambios incompatibles)\n- No estoy afiliado a ninguno de los mods de abajo\n- No reclamo la propiedad de ninguno de los mods de abajo|\n- Los siguientes mods están unificados:\n  - Quality Bionics\n  - CONN\n  - Cyber Fauna\n  - Pawnmorpher\n  - GeneticRim/Vanilla Genetics Expanded\n  - Level This\n- Si QualityBionics está instalado: se corrigió la implementación incorrecta de QualityBionics que hacía que la modificación de PV se contara dos veces, por ejemplo en brazos y piernas\n- Si Pawnmorpher está instalado: estandarizamos los parches con Pawnmorpher, de modo que también mostramos texto adicional en la interfaz dedicado a Pawnmorpher\n- También se corrigió el error con Pawnmorpher relativo a "error setting up text" al leer el resumen de la parte del cuerpo|\n- Se añadieron algunos consejos a la biblioteca de consejos del juego\n- No es necesaria ninguna actualización para Compact Hediffs, a menos que quieran reajustar su interfaz usando las funciones y métodos más recientes de EBF\n </EBF_v5_0_0.content>
+  <!-- EN: Elite Bionics Framework -->
+  <EBF_v5_0_0.modNameReadable>Elite Bionics Framework</EBF_v5_0_0.modNameReadable>
+
+  <!-- EN: @everyone|\nPlease check that you are using the correct version of Cyber Fauna, thanks! -->
+  <EBF_v5_0_1.content>@everyone|\n¡Por favor, comprueba que estás usando la versión correcta de Cyber Fauna, gracias!</EBF_v5_0_1.content>
+  <!-- EN: Elite Bionics Framework -->
+  <EBF_v5_0_1.modNameReadable>Elite Bionics Framework</EBF_v5_0_1.modNameReadable>
+
+  <!-- EN: - The following mods are unified:\n  - Mechalit Core|\n@everyone|\nPlease check that you are using the correct version of Mechalit Core, thanks! -->
+  <EBF_v5_0_2.content>- Los siguientes mods están unificados:\n  - Mechalit Core|\n@everyone|\n¡Por favor, comprueba que estás usando la versión correcta de Mechalit Core, gracias!</EBF_v5_0_2.content>
+  <!-- EN: Elite Bionics Framework -->
+  <EBF_v5_0_2.modNameReadable>Elite Bionics Framework</EBF_v5_0_2.modNameReadable>
+
+  <!-- EN: - Fixed unreasonale version-check error messages for MechalitCore and CyberFauna users -->
+  <EBF_v5_0_3.content>- Se corrigieron los mensajes de error irrazonables de comprobación de versión para los usuarios de MechalitCore y CyberFauna</EBF_v5_0_3.content>
+  <!-- EN: Elite Bionics Framework -->
+  <EBF_v5_0_3.modNameReadable>Elite Bionics Framework</EBF_v5_0_3.modNameReadable>
+
+  <!-- EN: - Fixed extreme lag in the Form Caravan screen introduced in v5.0.0 -->
+  <EBF_v5_0_4.content>- Se corrigió el retraso extremo en la pantalla de Formar caravana introducido en la v5.0.0</EBF_v5_0_4.content>
+  <!-- EN: Elite Bionics Framework -->
+  <EBF_v5_0_4.modNameReadable>Elite Bionics Framework</EBF_v5_0_4.modNameReadable>
+
+  <!-- EN: - Fixed TargetParameterCountException while trying to read Pawnmorpher HP (fix was shipped in v5.0.4 as a random test but I was not aware of its effectiveness before this moment) -->
+  <EBF_v5_0_5.content>- Se corrigió la TargetParameterCountException al intentar leer los PV de Pawnmorpher (la corrección se incluyó en la v5.0.4 como una prueba al azar, pero no fui consciente de su efectividad hasta este momento)</EBF_v5_0_5.content>
+  <!-- EN: Elite Bionics Framework -->
+  <EBF_v5_0_5.modNameReadable>Elite Bionics Framework</EBF_v5_0_5.modNameReadable>
+
+  <!-- EN: - Fixed body part max HP wrongly persisting over different pawns (error introduced in v5.0.4; the lag fix from v5.0.4 is still here)\n- (Version unknown) Pawnmorpher no longer gives harmless "Pawnmorpher violates the EBF Protocol" error message; protocol-checking is disabled for Pawnmorpher for compatibility reasons -->
+  <EBF_v5_0_6.content>- Se corrigió que los PV máximos de las partes del cuerpo persistieran erróneamente entre distintos colonos (error introducido en la v5.0.4; la corrección del retraso de la v5.0.4 sigue aquí)\n- (Versión desconocida) Pawnmorpher ya no da el inofensivo mensaje de error "Pawnmorpher violates the EBF Protocol"; la comprobación del protocolo está desactivada para Pawnmorpher por razones de compatibilidad</EBF_v5_0_6.content>
+  <!-- EN: Elite Bionics Framework -->
+  <EBF_v5_0_6.modNameReadable>Elite Bionics Framework</EBF_v5_0_6.modNameReadable>
+
+  <!-- EN: - The following mods are unified:\n  - Half dragons (v1.3 ver; mod ID Monti.HalfDragons, Steam ID 2556121262) -->
+  <EBF_v5_0_7.content>- Los siguientes mods están unificados:\n  - Half dragons (versión de v1.3; ID del mod Monti.HalfDragons, ID de Steam 2556121262)</EBF_v5_0_7.content>
+  <!-- EN: Elite Bionics Framework -->
+  <EBF_v5_0_7.modNameReadable>Elite Bionics Framework</EBF_v5_0_7.modNameReadable>
+
+  <!-- EN: No new features, only an amendment to the v5.0.7 news: I wrote something wrong, so I intend to withdraw it and write it again.\n- Added compatibility with Half Dragons (v1.3 ver; mod ID Monti.HalfDragons, Steam ID 2556121262)\n- Half Dragons is NOT unified in any way! (tbh their mod does not boost body part HP, so there is nothing to unify) -->
+  <EBF_v5_0_7_1.content>No hay funciones nuevas, solo una corrección de la noticia de la v5.0.7: escribí algo mal, así que quiero retirarlo y escribirlo de nuevo.\n- Se añadió compatibilidad con Half Dragons (versión de v1.3; ID del mod Monti.HalfDragons, ID de Steam 2556121262)\n- ¡Half Dragons NO está unificado de ninguna manera! (para ser sincero, su mod no aumenta los PV de las partes del cuerpo, así que no hay nada que unificar)</EBF_v5_0_7_1.content>
+  <!-- EN: Elite Bionics Framework -->
+  <EBF_v5_0_7_1.modNameReadable>Elite Bionics Framework</EBF_v5_0_7_1.modNameReadable>
+
+  <!-- EN: Partially updated to RW v1.4; please see explanation below:|\nSeeing how a lot of extra features got added to this mod during RW v1.3, I will do the RW v1.4 update by stages:|\n- Stage 0: wait for Ludeon to release RW v1.4 (done)\n- Stage 1: wait for UnlimitedHugs to release HugsLib for v1.4 (done)\n> Stage 2: release EBF for v1.4 (<- - - we are here)\n- Stage 3: wait for others to release their mod updates for v1.4\n- Stage 4: reconfirm compatibility with related 3rd party mods|\nThis will take a while. If you don't use too many related 3rd party mods, then perhaps this update is already sufficient; but if you are relying on the Community Unification features, I would suggest putting this on hold for a while until I complete rechecking everything.|\nOr, alternatively, you could go ahead and see if this update works with the related 3rd-party mods, saving me some time for rechecking.|\nThis is something I came up with for RW 1.4/BioTech, which touches bionics. Perhaps this is the procedures going forward if any more (relevant) RimWorld update is released in the future. -->
+  <EBF_v5_0_8.content>Actualizado parcialmente a RW v1.4; consulta la explicación a continuación:|\nViendo cuántas funciones extra se añadieron a este mod durante RW v1.3, haré la actualización a RW v1.4 por etapas:|\n- Etapa 0: esperar a que Ludeon publique RW v1.4 (hecho)\n- Etapa 1: esperar a que UnlimitedHugs publique HugsLib para v1.4 (hecho)\n> Etapa 2: publicar EBF para v1.4 (&lt;- - - aquí estamos)\n- Etapa 3: esperar a que los demás publiquen las actualizaciones de sus mods para v1.4\n- Etapa 4: reconfirmar la compatibilidad con los mods de terceros relacionados|\nEsto llevará un tiempo. Si no usas demasiados mods de terceros relacionados, quizá esta actualización ya sea suficiente; pero si dependes de las funciones de la Unificación Comunitaria, te sugeriría dejar esto en espera un tiempo hasta que termine de revisarlo todo.|\nO, como alternativa, podrías adelantarte y ver si esta actualización funciona con los mods de terceros relacionados, ahorrándome algo de tiempo de revisión.|\nEsto es algo que se me ocurrió para RW 1.4/BioTech, que toca la biónica. Quizá este sea el procedimiento a seguir de aquí en adelante si se publica en el futuro alguna otra actualización (relevante) de RimWorld.</EBF_v5_0_8.content>
+  <!-- EN: Elite Bionics Framework -->
+  <EBF_v5_0_8.modNameReadable>Elite Bionics Framework</EBF_v5_0_8.modNameReadable>
+
+  <!-- EN: Removed $HugsLibChecker from this mod because it is obsolete and is causing problems. -->
+  <EBF_v5_0_8_1.content>Se eliminó $HugsLibChecker de este mod porque está obsoleto y está causando problemas.</EBF_v5_0_8_1.content>
+  <!-- EN: Elite Bionics Framework -->
+  <EBF_v5_0_8_1.modNameReadable>Elite Bionics Framework</EBF_v5_0_8_1.modNameReadable>
+
+  <!-- EN: Updated compatibility with Cybernetic Organism and Neural Network (CONN).|\nA number of other mods were reviewed, and they were either not yet updated to match RW v1.4, or they worked fine with this version of EBF. -->
+  <EBF_v5_0_8_2.content>Se actualizó la compatibilidad con Cybernetic Organism and Neural Network (CONN).|\nSe revisaron varios otros mods, y o bien aún no estaban actualizados a RW v1.4, o bien funcionaban bien con esta versión de EBF.</EBF_v5_0_8_2.content>
+  <!-- EN: Elite Bionics Framework -->
+  <EBF_v5_0_8_2.modNameReadable>Elite Bionics Framework</EBF_v5_0_8_2.modNameReadable>
+
+  <!-- EN: Fixed unexpected inompatibiity with Yayo's Animations (failed to patch [...]: invalid IL code) by moving one of EBF's patches even earlier in the execution order.\nPlease use auto-sort to put this mod above Yayo's Animations! -->
+  <EBF_v5_0_8_3.content>Se corrigió una incompatibilidad inesperada con Yayo's Animations (failed to patch [...]: invalid IL code) moviendo uno de los parches de EBF aún más adelante en el orden de ejecución.\n¡Por favor, usa el ordenamiento automático para poner este mod por encima de Yayo's Animations!</EBF_v5_0_8_3.content>
+  <!-- EN: Elite Bionics Framework -->
+  <EBF_v5_0_8_3.modNameReadable>Elite Bionics Framework</EBF_v5_0_8_3.modNameReadable>
+
+  <!-- EN: A few things:|\n- Confirmed compatibility with Prepare Carefully [1.4]\n- Confirmed compatibility with Pawnmorpher [1.4]\n- Fixed "nullable object must have a value" error when e.g. the game checks for social fights for pawns having EBF-provided verb power adjustment (special credits to Evono for finding this out during an unrelated auto-test!)\n- Compatibility with Callouts [1.4] delayed due to unexpected owner change on Callouts's side\n- Compatibility with Save Our Ships 2 [1.4] pending -->
+  <EBF_v5_0_8_4.content>Unas cuantas cosas:|\n- Compatibilidad confirmada con Prepare Carefully [1.4]\n- Compatibilidad confirmada con Pawnmorpher [1.4]\n- Se corrigió el error "nullable object must have a value" cuando, por ejemplo, el juego comprueba las peleas sociales de colonos que tienen un ajuste de poder de verbo proporcionado por EBF (¡créditos especiales a Evono por descubrirlo durante una prueba automática no relacionada!)\n- La compatibilidad con Callouts [1.4] se retrasó debido a un cambio inesperado de propietario por parte de Callouts\n- La compatibilidad con Save Our Ships 2 [1.4] está pendiente</EBF_v5_0_8_4.content>
+  <!-- EN: Elite Bionics Framework -->
+  <EBF_v5_0_8_4.modNameReadable>Elite Bionics Framework</EBF_v5_0_8_4.modNameReadable>
+
+  <!-- EN: - Experimental: mods with no loaded contents (hopefully this means unloaded mods) are no longer detected by this mod for Community Unification; should reduce confusing error messages -->
+  <EBF_v5_0_8_5.content>- Experimental: los mods sin contenidos cargados (con suerte esto significa mods descargados) ya no son detectados por este mod para la Unificación Comunitaria; debería reducir los mensajes de error confusos</EBF_v5_0_8_5.content>
+  <!-- EN: Elite Bionics Framework -->
+  <EBF_v5_0_8_5.modNameReadable>Elite Bionics Framework</EBF_v5_0_8_5.modNameReadable>
+
+  <!-- EN: I have noticed that CONN has officially chosen the Elite Bionics Framework to provide HP-buffing effects. Welcome CONN! And thank you for choosing the EBF.|\n- Removed CONN from the Community Unification scheme (note: CONN is now a regular EBF mod instead)\n- Using CONN will no longer throw red errors on game startup -->
+  <EBF_v5_0_8_6.content>He notado que CONN ha elegido oficialmente el Elite Bionics Framework para proporcionar efectos de mejora de PV. ¡Bienvenido, CONN! Y gracias por elegir EBF.|\n- Se eliminó CONN del esquema de la Unificación Comunitaria (nota: CONN ahora es un mod normal de EBF)\n- Usar CONN ya no lanzará errores rojos al iniciar el juego</EBF_v5_0_8_6.content>
+  <!-- EN: Elite Bionics Framework -->
+  <EBF_v5_0_8_6.modNameReadable>Elite Bionics Framework</EBF_v5_0_8_6.modNameReadable>
+
+  <!-- EN: - Removed CONN-related code from the DLL; maybe this fixes the performance drop? -->
+  <EBF_v5_0_8_7.content>- Se eliminó de la DLL el código relacionado con CONN; ¿quizás esto corrija la caída de rendimiento?</EBF_v5_0_8_7.content>
+  <!-- EN: Elite Bionics Framework -->
+  <EBF_v5_0_8_7.modNameReadable>Elite Bionics Framework</EBF_v5_0_8_7.modNameReadable>
+
+  <!-- EN: - Optimized performance drop when looking at the Health tab on pawns (side effect: max HP display text may update slightly later after installing/changing EBF bionics) -->
+  <EBF_v5_0_8_8.content>- Se optimizó la caída de rendimiento al mirar la pestaña de Salud de los colonos (efecto secundario: el texto de los PV máximos puede actualizarse un poco más tarde tras instalar o cambiar biónicas de EBF)</EBF_v5_0_8_8.content>
+  <!-- EN: Elite Bionics Framework -->
+  <EBF_v5_0_8_8.modNameReadable>Elite Bionics Framework</EBF_v5_0_8_8.modNameReadable>
+
+  <!-- EN: A big update to Elite Bionics Framework in recent months.|\n- Added Multiplayer compatibility\n- Greatly optimized performance by using a better caching system; no more lag spikes! (in fact, no more lag in general...)\n- Thus, removed the "delayed update" side effects introduced in v5.0.8.8\n- Optimized detection of Pawnmorpher in calculating body part max HP\n- Fixed wrong detection of active mods in determining cross-mod unification (completes the feature in v5.0.8.5)\n- Confirmed compatibility with Callouts 1.4 (by Profligate)\n- Re-added missing loading screen tips (whoops...)|\nNote: Multiplayer compatibility was tested on a local-self-to-self setup. Hopefully, it indicates general Multiplayer compatibility. -->
+  <EBF_v5_1_0_0.content>Una gran actualización de Elite Bionics Framework en los últimos meses.|\n- Se añadió compatibilidad con Multiplayer\n- Se optimizó enormemente el rendimiento usando un mejor sistema de caché; ¡se acabaron los picos de retraso! (de hecho, se acabó el retraso en general...)\n- Por lo tanto, se eliminaron los efectos secundarios de "actualización retrasada" introducidos en la v5.0.8.8\n- Se optimizó la detección de Pawnmorpher al calcular los PV máximos de las partes del cuerpo\n- Se corrigió la detección incorrecta de los mods activos al determinar la unificación entre mods (completa la función de la v5.0.8.5)\n- Compatibilidad confirmada con Callouts 1.4 (de Profligate)\n- Se volvieron a añadir los consejos de la pantalla de carga que faltaban (ups...)|\nNota: la compatibilidad con Multiplayer se probó en una configuración local de uno mismo consigo mismo. Con suerte, eso indica una compatibilidad general con Multiplayer.</EBF_v5_1_0_0.content>
+  <!-- EN: Elite Bionics Framework -->
+  <EBF_v5_1_0_0.modNameReadable>Elite Bionics Framework</EBF_v5_1_0_0.modNameReadable>
+
+  <!-- EN: - Improved compatibility with RimThreaded -->
+  <EBF_v5_1_1_0.content>- Se mejoró la compatibilidad con RimThreaded</EBF_v5_1_1_0.content>
+  <!-- EN: Elite Bionics Framework -->
+  <EBF_v5_1_1_0.modNameReadable>Elite Bionics Framework</EBF_v5_1_1_0.modNameReadable>
+
+  <!-- EN: - "Compatibility with RimThreaded" no longer impacts performance too much (problem introduced in v5.1.1)\n- Optimized performance (should see less slowdowns when pawns are healing)|\nNote: you will probably see some lag shortly after starting/loading a game, but the lag will reduce over time, and that is normal; when a game is started/loaded, EBF is probably busy calculating the max HP values for all the newly-loaded pawns. -->
+  <EBF_v5_1_2_0.content>- La "compatibilidad con RimThreaded" ya no afecta demasiado al rendimiento (problema introducido en la v5.1.1)\n- Se optimizó el rendimiento (deberías ver menos ralentizaciones cuando los colonos se están curando)|\nNota: probablemente verás algo de retraso poco después de iniciar o cargar una partida, pero el retraso se reducirá con el tiempo, y eso es normal; cuando se inicia o carga una partida, EBF probablemente está ocupado calculando los valores de PV máximos de todos los colonos recién cargados.</EBF_v5_1_2_0.content>
+  <!-- EN: Elite Bionics Framework -->
+  <EBF_v5_1_2_0.modNameReadable>Elite Bionics Framework</EBF_v5_1_2_0.modNameReadable>
+
+  <!-- EN: Technical update:\n- EBF.GetMaxHealthWithEBF will now return the cached max HP values by default|\nExplanation/Examples:\n- Generally reduced lag when things happen, such as:\n- Reduced lag when looking at the health tabs of untended bleeding pawns\n- Improved performance when looking at the health tab via Compact Hediff|\nOther changes:\n- Further optimized the caching; stuttering should be generally less frequent\n- Improved detection of Pawnmorpher hediff changes|\nStill, remember: EBF will need time to warm up when the game loads new pawns, but after a while, EBF will just run in the background smoothly. -->
+  <EBF_v5_1_3_0.content>Actualización técnica:\n- EBF.GetMaxHealthWithEBF ahora devolverá por defecto los valores de PV máximos almacenados en caché|\nExplicación/Ejemplos:\n- Se redujo el retraso en general cuando pasan cosas, como:\n- Se redujo el retraso al mirar las pestañas de salud de colonos que sangran sin haber sido atendidos\n- Se mejoró el rendimiento al mirar la pestaña de salud a través de Compact Hediff|\nOtros cambios:\n- Se optimizó aún más el almacenamiento en caché; los tirones deberían ser en general menos frecuentes\n- Se mejoró la detección de los cambios de hediffs de Pawnmorpher|\nAun así, recuerda: EBF necesitará tiempo para calentar motores cuando el juego cargue colonos nuevos, pero al cabo de un rato EBF simplemente funcionará en segundo plano sin problemas.</EBF_v5_1_3_0.content>
+  <!-- EN: Elite Bionics Framework -->
+  <EBF_v5_1_3_0.modNameReadable>Elite Bionics Framework</EBF_v5_1_3_0.modNameReadable>
+
+  <!-- EN: Small bugfix with detection of incompatible mods. -->
+  <EBF_v5_1_3_1.content>Pequeña corrección de errores en la detección de mods incompatibles.</EBF_v5_1_3_1.content>
+  <!-- EN: Elite Bionics Framework -->
+  <EBF_v5_1_3_1.modNameReadable>Elite Bionics Framework</EBF_v5_1_3_1.modNameReadable>
+
+  <!-- EN: - Further optimized performance: will self-cleanup when pawns/corpses are destroyed\n- Fixed actually-broken Half Dragons compatibility|\nThe performance improvements in this update will be helpful when, e.g., you are running a chicken farm and are now butchering the chickens, or when you are cleaning up after defending against a large raid.\n		 -->
+  <EBF_v5_1_4_0.content>- Se optimizó aún más el rendimiento: se autolimpiará cuando se destruyan colonos o cadáveres\n- Se corrigió la compatibilidad con Half Dragons, que en realidad estaba rota|\nLas mejoras de rendimiento de esta actualización serán útiles cuando, por ejemplo, tengas una granja de pollos y estés carneándolos, o cuando estés limpiando después de defenderte de una gran incursión.\n		 </EBF_v5_1_4_0.content>
+  <!-- EN: Elite Bionics Framework -->
+  <EBF_v5_1_4_0.modNameReadable>Elite Bionics Framework</EBF_v5_1_4_0.modNameReadable>
+
+  <!-- EN: - Finally fixed "not really working with Mechalit Core" (oops!)\n- Added compatibility with Vanilla Psycasts Expanded (special thanks to GitHub user delmain)\n- Changed some of the hand-crafted transpilers to CodeMatcher transpilers (also special thanks to GitHub user delmain)|Now, go forth and spread the gospel of CodeMatcher transpilers.\n		 -->
+  <EBF_v5_1_5_0.content>- Por fin se corrigió el "en realidad no funciona con Mechalit Core" (¡ups!)\n- Se añadió compatibilidad con Vanilla Psycasts Expanded (agradecimientos especiales al usuario de GitHub delmain)\n- Se cambiaron algunos de los transpiladores hechos a mano por transpiladores de CodeMatcher (también agradecimientos especiales al usuario de GitHub delmain)|Ahora, id y difundid el evangelio de los transpiladores de CodeMatcher.\n		 </EBF_v5_1_5_0.content>
+  <!-- EN: Elite Bionics Framework -->
+  <EBF_v5_1_5_0.modNameReadable>Elite Bionics Framework</EBF_v5_1_5_0.modNameReadable>
+
+  <!-- EN: - Finally fixed "max HP does not update after installing a new bionic" (oops!)\n- Added compatibility with Immortals\n		 -->
+  <EBF_v5_1_6_0.content>- Por fin se corrigió el "los PV máximos no se actualizan tras instalar una biónica nueva" (¡ups!)\n- Se añadió compatibilidad con Immortals\n		 </EBF_v5_1_6_0.content>
+  <!-- EN: Elite Bionics Framework -->
+  <EBF_v5_1_6_0.modNameReadable>Elite Bionics Framework</EBF_v5_1_6_0.modNameReadable>
+
+  <!-- EN: After much delays, I am back with an update, unfortunately not for RimWorld 1.4.|- Compatibility with RimWorld 1.5\n- Compatibility with other mods will be checked one by one, as they are updated\n- Technical: max HP after EBF is now rounded up to the nearest integer, just the same as vanilla calculations, so no more e.g. "42.6" max HP\n- Mod version is now provided in About.xml; this is v5.1.7.0 of the mod\n- Technical: reduced mod size by removing the PDB files\n		 -->
+  <EBF_v5_1_7_0.content>Tras muchos retrasos, vuelvo con una actualización, lamentablemente no para RimWorld 1.4.|- Compatibilidad con RimWorld 1.5\n- La compatibilidad con otros mods se irá comprobando uno por uno, a medida que se actualicen\n- Técnico: los PV máximos tras EBF ahora se redondean hacia arriba al entero más cercano, igual que en los cálculos vanilla, así que se acabaron los PV máximos de "42.6", por ejemplo\n- La versión del mod ahora se indica en About.xml; esta es la v5.1.7.0 del mod\n- Técnico: se redujo el tamaño del mod eliminando los archivos PDB\n		 </EBF_v5_1_7_0.content>
+  <!-- EN: Elite Bionics Framework -->
+  <EBF_v5_1_7_0.modNameReadable>Elite Bionics Framework</EBF_v5_1_7_0.modNameReadable>
+
+  <!-- EN: And here is the cumulative bugfix update.|- Added compatibility with Pawn Quick Info\n- Fixed broken compatibility with Moody (overdue; special credits to GitHub user dougbenham)\n- Technical: converted the rest of the transpilers to use CodeMatcher; the patches should be much more future-proof after this|Eventually, this mod should become a low-maintenance mod.\n		 -->
+  <EBF_v5_1_7_1.content>Y aquí está la actualización acumulativa de corrección de errores.|- Se añadió compatibilidad con Pawn Quick Info\n- Se corrigió la compatibilidad rota con Moody (con retraso; créditos especiales al usuario de GitHub dougbenham)\n- Técnico: se convirtió el resto de los transpiladores para que usen CodeMatcher; los parches deberían quedar mucho más preparados para el futuro tras esto|Con el tiempo, este mod debería convertirse en un mod de bajo mantenimiento.\n		 </EBF_v5_1_7_1.content>
+  <!-- EN: Elite Bionics Framework -->
+  <EBF_v5_1_7_1.modNameReadable>Elite Bionics Framework</EBF_v5_1_7_1.modNameReadable>
+
+  <!-- EN: Another cumulative bugfix update.|- Fixed broken compatibility with Pawnmorpher (overdue; special credits to GitHub user quicksilverfox)\n- Fixed broken compatibility with EdB Prepare Carefully|Special Announcement:\nSupport for Mechalit Core and Cyber Fauna may be dropped in the future depending on the situation, just as DaLLaN intended. Previous (RW 1.4-) versions will not be affected.\n		 -->
+  <EBF_v5_1_7_2.content>Otra actualización acumulativa de corrección de errores.|- Se corrigió la compatibilidad rota con Pawnmorpher (con retraso; créditos especiales al usuario de GitHub quicksilverfox)\n- Se corrigió la compatibilidad rota con EdB Prepare Carefully|Anuncio especial:\nEl soporte para Mechalit Core y Cyber Fauna podría abandonarse en el futuro dependiendo de la situación, tal y como DaLLaN pretendía. Las versiones anteriores (RW 1.4-) no se verán afectadas.\n		 </EBF_v5_1_7_2.content>
+  <!-- EN: Elite Bionics Framework -->
+  <EBF_v5_1_7_2.modNameReadable>Elite Bionics Framework</EBF_v5_1_7_2.modNameReadable>
+
+  <!-- EN: Removed compatibility with Pawn Quick Info (note: compatibility is now provided by them, so the feature is actually "moved" to their side). -->
+  <EBF_v5_1_7_3.content>Se eliminó la compatibilidad con Pawn Quick Info (nota: la compatibilidad ahora la proporcionan ellos, así que la función en realidad se ha "movido" a su lado).</EBF_v5_1_7_3.content>
+  <!-- EN: Elite Bionics Framework -->
+  <EBF_v5_1_7_3.modNameReadable>Elite Bionics Framework</EBF_v5_1_7_3.modNameReadable>
+
+  <!-- EN: An update.|- Now requires another mod Visible Error Logs; this is required so the crowd-sourced compatibility checking can continue effectively\n- Fixed compatibility with Prepare Carefully\n- Negotiating compatibility with Save Our Ship 2 (new feature under discussion) (yes SOS2 is back!)\n- Negotiating compatibility with Quality Bionics (Continued) (existing feature under discussion)\n- Removed compatibility with Half Dragons (mod is discontinued); previous versions not affected by this change|Hopefully, in the coming days, we will know how to deal with Quality Bionics (Continued). -->
+  <EBF_v5_1_8_0.content>Una actualización.|- Ahora requiere otro mod, Visible Error Logs; esto es necesario para que la comprobación colaborativa de compatibilidad pueda continuar de forma efectiva\n- Se corrigió la compatibilidad con Prepare Carefully\n- Se está negociando la compatibilidad con Save Our Ship 2 (nueva función en discusión) (¡sí, SOS2 ha vuelto!)\n- Se está negociando la compatibilidad con Quality Bionics (Continued) (función existente en discusión)\n- Se eliminó la compatibilidad con Half Dragons (el mod está descontinuado); las versiones anteriores no se ven afectadas por este cambio|Con suerte, en los próximos días sabremos cómo tratar con Quality Bionics (Continued).</EBF_v5_1_8_0.content>
+  <!-- EN: Elite Bionics Framework -->
+  <EBF_v5_1_8_0.modNameReadable>Elite Bionics Framework</EBF_v5_1_8_0.modNameReadable>
+
+  <!-- EN: Negotiations with Quality Bionics (Continued) has concluded.|- Adjusted compatibility with Quality Bionics to not trigger with Quality Bionics (Continued)\n- Added compatibility with Quality Bionics (Continued)\n- Clarified mod requirements with Visible Error Logs in About.xml|Summary of what happened: in a confusing move, Quality Bionics (Continued) renamed some of their code, resulting in unexpected patch failures. This is very different from previous continuations where nothing was renamed or changed, so it counts as a new mod rather than an update of an old mod. -->
+  <EBF_v5_1_8_1.content>Las negociaciones con Quality Bionics (Continued) han concluido.|- Se ajustó la compatibilidad con Quality Bionics para que no se active con Quality Bionics (Continued)\n- Se añadió compatibilidad con Quality Bionics (Continued)\n- Se aclararon los requisitos del mod respecto a Visible Error Logs en About.xml|Resumen de lo ocurrido: en un movimiento confuso, Quality Bionics (Continued) renombró parte de su código, lo que provocó fallos inesperados de parcheo. Esto es muy distinto de continuaciones anteriores, donde no se renombró ni cambió nada, así que cuenta como un mod nuevo en lugar de como una actualización de un mod antiguo.</EBF_v5_1_8_1.content>
+  <!-- EN: Elite Bionics Framework -->
+  <EBF_v5_1_8_1.modNameReadable>Elite Bionics Framework</EBF_v5_1_8_1.modNameReadable>
+
+  <!-- EN: Completely removed declared dependency on Visible Error Logs (VEL).\n\nIn a confusing move, I have wrongly believed that error logs would appear even if dev-mode was off. It was never the case. Therefore, VEL was actually an unrelated "new feature", and there is/was no justification to suddenly require VEL to begin with.\n\nThe mistake was to push VEL when it was unnecessary. I deeply appologize for that. -->
+  <EBF_v5_1_8_2.content>Se eliminó por completo la dependencia declarada de Visible Error Logs (VEL).\n\nEn un movimiento confuso, creí erróneamente que los registros de errores aparecerían incluso con el modo de desarrollador desactivado. Nunca fue así. Por lo tanto, VEL era en realidad una "función nueva" no relacionada, y no había ninguna justificación para exigir VEL de repente, para empezar.\n\nEl error fue imponer VEL cuando era innecesario. Pido disculpas de corazón por ello.</EBF_v5_1_8_2.content>
+  <!-- EN: Elite Bionics Framework -->
+  <EBF_v5_1_8_2.modNameReadable>Elite Bionics Framework</EBF_v5_1_8_2.modNameReadable>
+
+  <!-- EN: A rather large update to Elite Bionics Framework in recent months. The rarely-used tool-power-adjust module has been rewritten entirely, and after around 3 years inside the beta purgatory, it is now finally properly released.\n\n- Tool power calculation is now consistent with the mod docs\n- Whole-body hediffs now apply their tool power adjustment to all of the pawn's tools instead of throwing an exception (e.g.: infernal heart from Beliar Xenotype)\n- Fixed "tool upgrade power adjustment" not actually replacing the original tool\n- Tool power linear adjustment may now be a float instead of int\n- Optimized calculation of tool power adjustment (read: should reduce lag with e.g. shoulder turret from LTS Integrated Implants)\n\nThis opens up some interesting ideas for other modders:\n\n- Animal bionics that scales up the animal's original attack power\n- Bionic knuckles that slightly boosts a pawn's attack power\n- Abilities that applies a temporary hediff to buff a pawn's melee attack power\n- etc etc -->
+  <EBF_v5_2_0_0.content>Una actualización bastante grande de Elite Bionics Framework en los últimos meses. El módulo de ajuste de poder de herramientas, poco usado, se ha reescrito por completo y, tras unos 3 años en el purgatorio beta, por fin se publica en condiciones.\n\n- El cálculo del poder de herramientas ahora es coherente con la documentación del mod\n- Los hediffs de cuerpo completo ahora aplican su ajuste de poder de herramientas a todas las herramientas del colono en lugar de lanzar una excepción (por ejemplo: el corazón infernal del xenotipo Beliar)\n- Se corrigió que el "ajuste de poder de mejora de herramienta" no reemplazara realmente la herramienta original\n- El ajuste lineal del poder de herramientas ahora puede ser un float en lugar de un int\n- Se optimizó el cálculo del ajuste de poder de herramientas (léase: debería reducir el retraso con, por ejemplo, la torreta de hombro de LTS Integrated Implants)\n\nEsto abre algunas ideas interesantes para otros modders:\n\n- Biónicas para animales que escalen el poder de ataque original del animal\n- Nudillos biónicos que aumenten ligeramente el poder de ataque de un colono\n- Habilidades que apliquen un hediff temporal para potenciar el poder de ataque cuerpo a cuerpo de un colono\n- etcétera</EBF_v5_2_0_0.content>
+  <!-- EN: Elite Bionics Framework -->
+  <EBF_v5_2_0_0.modNameReadable>Elite Bionics Framework</EBF_v5_2_0_0.modNameReadable>
+
+  <!-- EN: Retargetted ProthesisHealth (i.e., Mechalit Core and Cyber Fauna) to use Mlie's community service version for RW 1.5. -->
+  <EBF_v5_2_0_1.content>Se reorientó ProthesisHealth (es decir, Mechalit Core y Cyber Fauna) para usar la versión de servicio comunitario de Mlie para RW 1.5.</EBF_v5_2_0_1.content>
+  <!-- EN: Elite Bionics Framework -->
+  <EBF_v5_2_0_1.modNameReadable>Elite Bionics Framework</EBF_v5_2_0_1.modNameReadable>
+
+  <!-- EN: Added compatibility with BetterPawnInfo. -->
+  <EBF_v5_2_0_2.content>Se añadió compatibilidad con BetterPawnInfo.</EBF_v5_2_0_2.content>
+  <!-- EN: Elite Bionics Framework -->
+  <EBF_v5_2_0_2.modNameReadable>Elite Bionics Framework</EBF_v5_2_0_2.modNameReadable>
+
+  <!-- EN: Early season's greetings!\n\n- Fixed inconsistency with tool power calculation (basically, general bionic implants vs AddedPart bionics); previously, this may result in unintended OP bionics\n- Added clarification tooltip on tool power adjustment effects\n- Added compatibility with Save Our Ships 2\n- Added compatibility with Altered Carbon 2\n\nWith this, our RimWorld 1.5 update is complete.\n -->
+  <EBF_v5_3_0_0.content>¡Felices fiestas por adelantado!\n\n- Se corrigió la incoherencia en el cálculo del poder de herramientas (básicamente, implantes biónicos generales frente a biónicas AddedPart); antes, esto podía dar lugar a biónicas demasiado poderosas de forma no intencionada\n- Se añadió una descripción emergente aclaratoria sobre los efectos del ajuste de poder de herramientas\n- Se añadió compatibilidad con Save Our Ships 2\n- Se añadió compatibilidad con Altered Carbon 2\n\nCon esto, nuestra actualización para RimWorld 1.5 está completa.\n </EBF_v5_3_0_0.content>
+  <!-- EN: Elite Bionics Framework -->
+  <EBF_v5_3_0_0.modNameReadable>Elite Bionics Framework</EBF_v5_3_0_0.modNameReadable>
+
+  <!-- EN: HotFix: fixed Altered Carbon compatibility not working. -->
+  <EBF_v5_3_0_1.content>HotFix: se corrigió que la compatibilidad con Altered Carbon no funcionara.</EBF_v5_3_0_1.content>
+  <!-- EN: Elite Bionics Framework -->
+  <EBF_v5_3_0_1.modNameReadable>Elite Bionics Framework</EBF_v5_3_0_1.modNameReadable>
+
+  <!-- EN: HotFix2: fixed Altered Carbon compatibility not working. (I'm eyeballing it) -->
+  <EBF_v5_3_0_2.content>HotFix2: se corrigió que la compatibilidad con Altered Carbon no funcionara. (Lo estoy calculando a ojo)</EBF_v5_3_0_2.content>
+  <!-- EN: Elite Bionics Framework -->
+  <EBF_v5_3_0_2.modNameReadable>Elite Bionics Framework</EBF_v5_3_0_2.modNameReadable>
+
+  <!-- EN: Another season, another update for Elite Bionics Framework.\n\n- [BioTech] Fixed Xenotype-related body part max HP problems\n- Finally fixed Altered Carbon patching problems by using an alternative approach -->
+  <EBF_v5_3_1_0.content>Otra temporada, otra actualización de Elite Bionics Framework.\n\n- [BioTech] Se corrigieron los problemas de PV máximos de las partes del cuerpo relacionados con los xenotipos\n- Por fin se corrigieron los problemas de parcheo de Altered Carbon usando un enfoque alternativo</EBF_v5_3_1_0.content>
+  <!-- EN: Elite Bionics Framework -->
+  <EBF_v5_3_1_0.modNameReadable>Elite Bionics Framework</EBF_v5_3_1_0.modNameReadable>
+
+  <!-- EN: This mod is now updated for RimWorld 1.6, with no code/feature changes. As usual, we will be semi-regularly rechecking for supported mod updates in the coming days/weeks/months. -->
+  <EBF_v5_4_0.content>Este mod ya está actualizado para RimWorld 1.6, sin cambios de código ni de funciones. Como de costumbre, iremos revisando de forma semirregular las actualizaciones de los mods compatibles en los próximos días, semanas o meses.</EBF_v5_4_0.content>
+  <!-- EN: Elite Bionics Framework -->
+  <EBF_v5_4_0.modNameReadable>Elite Bionics Framework</EBF_v5_4_0.modNameReadable>
+
+  <!-- EN: A technical but milestone update.\n\n!!! IMPORTANT !!!\n\n- Decoupled from HugsLib; depends on Harmony instead\n  - You should manually review the mod options!\n  - We still recommend you use HugsLib to send bug reports\n  - For these update news, your choice: they will go away if you disable/uninstall HugsLib\n- Added new way for C# modders to manage compatibility with EBF; see the GitHub README for more details\n  - The plan is to let Quality Bionics Remastered adopt this method of compatibility, to reduce the mess on both sides\n- Removed support for Cyber Fauna and Mechalit Core since they have unstable governance\n  - Previous builds for RW 1.5 are unaffected by this change\n\nEBF has become very mature and stable over the past 6 years. With this update, I can safely fade to the background to continue observing the modding community.\n\nThank you all for continuing to use this mod! -->
+  <EBF_v6_0_0.content>Una actualización técnica, pero que marca un hito.\n\n!!! IMPORTANTE !!!\n\n- Desacoplado de HugsLib; ahora depende de Harmony en su lugar\n  - ¡Deberías revisar manualmente las opciones del mod!\n  - Seguimos recomendándote que uses HugsLib para enviar informes de errores\n  - Para estas noticias de actualización, tú eliges: desaparecerán si desactivas o desinstalas HugsLib\n- Se añadió una nueva forma para que los modders de C# gestionen la compatibilidad con EBF; consulta el README de GitHub para más detalles\n  - El plan es que Quality Bionics Remastered adopte este método de compatibilidad, para reducir el lío en ambos lados\n- Se eliminó el soporte para Cyber Fauna y Mechalit Core, ya que tienen una gobernanza inestable\n  - Las compilaciones anteriores para RW 1.5 no se ven afectadas por este cambio\n\nEBF se ha vuelto muy maduro y estable a lo largo de los últimos 6 años. Con esta actualización, puedo pasar tranquilamente a un segundo plano para seguir observando a la comunidad de modding.\n\n¡Gracias a todos por seguir usando este mod!</EBF_v6_0_0.content>
+  <!-- EN: Elite Bionics Framework -->
+  <EBF_v6_0_0.modNameReadable>Elite Bionics Framework</EBF_v6_0_0.modNameReadable>
+
+  <!-- EN: A minor technical update.\n\n- Removed support for Fluffy's Mod Manager since vanilla replacement & ecosystem already exists (o7)\n  - That Manifest.xml file was never updated for years anyway\n- Removed compatibility with Quality Bionics and Quality Bionics (Continued)\n  - Previous builds for RW 1.5 are unaffected by this change\n- Note: compatibility with Quality Bionics Remastered is handled via the new compatibility pathway introduced in 6.0.0\n  - QBR has some backwards compatibility for QBC and 1.5 EBF\n\nThis concludes the compatibility migration for Quality Bionics Remastered: instead of this Framework patching QBR to achieve compatibility, QBR now actively provides the intended value to the Framework.\nThings should be much easier for everyone involved going forward.\n -->
+  <EBF_v6_0_1.content>Una actualización técnica menor.\n\n- Se eliminó el soporte para el Mod Manager de Fluffy, ya que existen un reemplazo vanilla y su ecosistema (o7)\n  - De todos modos, ese archivo Manifest.xml llevaba años sin actualizarse\n- Se eliminó la compatibilidad con Quality Bionics y Quality Bionics (Continued)\n  - Las compilaciones anteriores para RW 1.5 no se ven afectadas por este cambio\n- Nota: la compatibilidad con Quality Bionics Remastered se gestiona a través de la nueva vía de compatibilidad introducida en la 6.0.0\n  - QBR tiene algo de compatibilidad hacia atrás con QBC y con EBF de 1.5\n\nEsto concluye la migración de compatibilidad para Quality Bionics Remastered: en lugar de que este Framework parchee a QBR para lograr la compatibilidad, ahora QBR proporciona activamente el valor previsto al Framework.\nLas cosas deberían ser mucho más fáciles para todos los implicados de aquí en adelante.\n </EBF_v6_0_1.content>
+  <!-- EN: Elite Bionics Framework -->
+  <EBF_v6_0_1.modNameReadable>Elite Bionics Framework</EBF_v6_0_1.modNameReadable>
+
+  <!-- EN: A minor technical update.\n\n- Adjusted support for Callouts (Continued)\n  - Compatibility now handled on their side\n  - Previous builds for RW 1.5- are patched to not detect Mlie's variant\n -->
+  <EBF_v6_0_2.content>Una actualización técnica menor.\n\n- Se ajustó el soporte para Callouts (Continued)\n  - La compatibilidad ahora se gestiona de su lado\n  - Las compilaciones anteriores para RW 1.5- están parcheadas para no detectar la variante de Mlie\n </EBF_v6_0_2.content>
+  <!-- EN: Elite Bionics Framework -->
+  <EBF_v6_0_2.modNameReadable>Elite Bionics Framework</EBF_v6_0_2.modNameReadable>
+
+  <!-- EN: A bugfix update.\n\n- Fixed legacy EBF compatibility for Callouts (Continued) not triggering\n- Fixed legacy EBF 1.5 compatibility with Quality Bionics Remastered\n -->
+  <EBF_v6_0_3.content>Una actualización de corrección de errores.\n\n- Se corrigió que la compatibilidad heredada de EBF para Callouts (Continued) no se activara\n- Se corrigió la compatibilidad heredada de EBF 1.5 con Quality Bionics Remastered\n </EBF_v6_0_3.content>
+  <!-- EN: Elite Bionics Framework -->
+  <EBF_v6_0_3.modNameReadable>Elite Bionics Framework</EBF_v6_0_3.modNameReadable>
+
+  <!-- EN: Fixed EBF Legacy error when Quality Bionics Remastered is not loaded. (ooof!) -->
+  <EBF_v6_0_4.content>Se corrigió el error de EBF Legacy cuando Quality Bionics Remastered no está cargado. (¡uf!)</EBF_v6_0_4.content>
+  <!-- EN: Elite Bionics Framework -->
+  <EBF_v6_0_4.modNameReadable>Elite Bionics Framework</EBF_v6_0_4.modNameReadable>
+
+  <!-- EN: Fixed EBF Legacy error spam when Quality Bionics Remastered is loaded. (ooof!) -->
+  <EBF_v6_0_5.content>Se corrigió la avalancha de errores de EBF Legacy cuando Quality Bionics Remastered está cargado. (¡uf!)</EBF_v6_0_5.content>
+  <!-- EN: Elite Bionics Framework -->
+  <EBF_v6_0_5.modNameReadable>Elite Bionics Framework</EBF_v6_0_5.modNameReadable>
+
+  <!-- EN: Added compatibility with Integrated Genes. -->
+  <EBF_v6_0_6.content>Se añadió compatibilidad con Integrated Genes.</EBF_v6_0_6.content>
+  <!-- EN: Elite Bionics Framework -->
+  <EBF_v6_0_6.modNameReadable>Elite Bionics Framework</EBF_v6_0_6.modNameReadable>
+
+  <!-- EN: Six-Seven. Ahem.\n\nAdded compatibility with the Hospital mod. -->
+  <EBF_v6_0_7.content>Seis-siete. Ejem.\n\nSe añadió compatibilidad con el mod Hospital.</EBF_v6_0_7.content>
+  <!-- EN: Elite Bionics Framework -->
+  <EBF_v6_0_7.modNameReadable>Elite Bionics Framework</EBF_v6_0_7.modNameReadable>
+
+  <!-- EN: Adjusted detection of the Immortals mod to avoid false/ambiguous detection. -->
+  <EBF_v6_0_8.content>Se ajustó la detección del mod Immortals para evitar detecciones falsas o ambiguas.</EBF_v6_0_8.content>
+  <!-- EN: Elite Bionics Framework -->
+  <EBF_v6_0_8.modNameReadable>Elite Bionics Framework</EBF_v6_0_8.modNameReadable>
+
+</LanguageData>
