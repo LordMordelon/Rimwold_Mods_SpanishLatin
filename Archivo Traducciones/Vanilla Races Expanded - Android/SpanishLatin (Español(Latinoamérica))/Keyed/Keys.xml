@@ -39,7 +39,7 @@
 	<!-- EN: Android overheating -->
   <VREA.Overheating>Androide sobrecalentándose</VREA.Overheating>
 	<!-- EN: The following androids are suffering from overheating:\n\n{0}\nGet them to a cooler area. You can cool down rooms with passive coolers or electrical coolers. Deep underground spaces are also naturally cool, if separated from the outdoors by a door. -->
-  <VREA.AlertOverheatingDesc>Los siguientes androides están sufriendo sobrecalentamiento:\n\n{0}\nLlévalos a un área más fresca. Puedes enfriar las habitaciones con refrigeradores pasivos o eléctricos. Los espacios subterráneos profundos también son naturalmente frescos, si están separados del exterior por una puerta.</VREA.AlertOverheatingDesc>
+  <VREA.AlertOverheatingDesc>Los siguientes androides están sufriendo sobrecalentamiento:\n\n{0}\nLlévalos a un área más fresca. Puedes enfriar las habitaciones con enfriadores pasivos o eléctricos. Los espacios subterráneos profundos también son naturalmente frescos, si están separados del exterior por una puerta.</VREA.AlertOverheatingDesc>
 	<!-- EN: Android editor -->
   <VREA.AndroidEditor>Editor de androides</VREA.AndroidEditor>
 	<!-- EN: Create android -->
@@ -85,7 +85,7 @@
 	<!-- EN: Cannot coagulate on android. -->
   <VREA.CannotCoagulateOnAndroid>No se puede coagular en un androide.</VREA.CannotCoagulateOnAndroid>
 	<!-- EN: Cannot cast on android. -->
-  <VREA.CannotCastOnAndroid>No se puede lanzar en un androide.</VREA.CannotCastOnAndroid>
+  <VREA.CannotCastOnAndroid>No se puede lanzar sobre un androide.</VREA.CannotCastOnAndroid>
 	<!-- EN: {PAWN_nameDef} is an android. -->
   <VREA.IsAndroid>{PAWN_nameDef} es un androide.</VREA.IsAndroid>
 	<!-- EN: Neutroloss rate -->
@@ -236,7 +236,7 @@ As the awakening happened due to high mood, {PAWN_nameDef} has gained an inspira
   <VREA.RefuelWithNeutroamine>Reabastecer con neutroamina</VREA.RefuelWithNeutroamine>
 	
 	<!-- EN: When an android awakens, you can pick passions and a trait for an android. You will no longer be able to enter the android behaviorist station with {PAWN_nameDef}, unless you arrest and force them. -->
-  <VREA.AndroidAwakenedChoices>Cuando un androide despierta, puedes elegir pasiones y un rasgo para un androide. Ya no podrás ingresar al reprogramador de androides con {PAWN_nameDef}, a menos que lo arrestes y lo fuerces.</VREA.AndroidAwakenedChoices>
+  <VREA.AndroidAwakenedChoices>Cuando un androide despierta, puedes elegir pasiones y un rasgo para el androide. Ya no podrás ingresar al reprogramador de androides con {PAWN_nameDef}, a menos que lo arrestes y lo fuerces.</VREA.AndroidAwakenedChoices>
 	<!-- EN: Androids low on power -->
   <VREA.AndroidsLowOnPower>Androides con poca energía</VREA.AndroidsLowOnPower>
 	<!-- EN: These androids are running low on power. Consider crafting new reactors and schedule them for reactor replacement.
