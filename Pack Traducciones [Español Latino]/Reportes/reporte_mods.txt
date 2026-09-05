@@ -1,7 +1,7 @@
-Reporte de Mods Procesados - 2026-09-05 00:23:58
+Reporte de Mods Procesados - 2026-09-05 01:34:46
 ==================================================
 
-Total de mods encontrados: 251
+Total de mods encontrados: 252
 
 Lista de mods:
 - 1trickPwnyta's Anomaly Patch
@@ -31,7 +31,7 @@ Lista de mods:
 - Apex Mechanoids
 - Appliances Expanded
 - Aquatic Repopulation
-- Asteroid_Grounds
+- Asteroid Grounds
 - Auto Ability
 - Automatic Hydroponics
 - Automatic Hydroponics Expanded
@@ -99,6 +99,7 @@ Lista de mods:
 - Move the Patient
 - Nice Bill Tab
 - Nice Health Tab
+- Nice Health Tab
 - Nice Inventory Tab
 - Nice Inventory Tab CE Integration
 - Nice Plants Menu
@@ -107,8 +108,8 @@ Lista de mods:
 - Non-Lethal Re-Examined
 - Noobert Nebulous - Vidtuber (Continued)
 - Odyssey Transport Shuttle
+- Orbital Platforms
 - Orbital Station Start
-- Orbital_Platforms
 - Performance Optimizer
 - Permits Re-Examined
 - Persona Mechanoid Pawns 2
@@ -180,6 +181,7 @@ Lista de mods:
 - Vanilla Factions Expanded - Deserters
 - Vanilla Factions Expanded - Empire
 - Vanilla Factions Expanded - Insectoids 2
+- Vanilla Factions Expanded - Insectoids 2
 - Vanilla Factions Expanded - Pirates
 - Vanilla Fishing Expanded
 - Vanilla Food Variety Expanded
@@ -194,6 +196,7 @@ Lista de mods:
 - Vanilla Furniture Expanded - Props and Decor
 - Vanilla Furniture Expanded - Security
 - Vanilla Furniture Expanded - Spacer Module
+- Vanilla Gravship Expanded - Chapter 1
 - Vanilla Gravship Expanded - Chapter 1
 - Vanilla Gravship Expanded - Expanded
 - Vanilla Helixien Gas Expanded
@@ -239,16 +242,14 @@ Lista de mods:
 - Vanilla Weapons Expanded - Makeshift
 - Vanilla Weapons Expanded - Non-Lethal
 - Vanilla Weapons Expanded - Quickdraw
-- Vanilla_Factions_Expanded_-_Insectoids_2
-- Vanilla_Gravship_Expanded_-_Chapter_1
 - Volt Weaponry
 - WVC - Work Modes
 - XML Extensions
 - Zoology Realistic Animal Overhaul
+- [FSF] Advanced Bionics Expansion
 - [FSF] FrozenSnowFox Tweaks
-- [FSF]_Advanced_Bionics_Expansion
 - [HRK] Vanilla Expanded Extra Embrasures
-- [HRK]_Vanilla_Expanded_Extra_Embrasures
+- [HRK] Vanilla Expanded Extra Embrasures
 - [RH2] Uncle Boris' - Brainwash Chair
 - [UI-Overhaul] PrettyUI
 - [sbz] Bookcase
@@ -263,7 +264,7 @@ Errores de compilacion:
    Motivo: XML invalido: not well-formed (invalid token): line 51, column 2
    Trace:
 Traceback (most recent call last):
-  File "/home/runner/work/Rimwold_Mods_SpanishLatin/Rimwold_Mods_SpanishLatin/Programas/cli_compilador.py", line 206, in copiar_traducciones
+  File "/home/runner/work/Rimwold_Mods_SpanishLatin/Rimwold_Mods_SpanishLatin/Programas/cli_compilador.py", line 207, in copiar_traducciones
     root = ET.fromstring(content, parser=parser)
            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
   File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/xml/etree/ElementTree.py", line 1350, in XML
