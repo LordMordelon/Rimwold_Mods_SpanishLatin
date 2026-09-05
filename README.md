@@ -4,8 +4,8 @@ Un conjunto de traducciones de mods que uso adaptados principalmente al español
 
 Si encuentras errores o tienes sugerencias, no dudes en mencionarlo.
 
-**Última compilación:** 2026-09-05 03:26:25  
-**Total de mods traducidos:** 248
+**Última compilación:** 2026-09-05 04:29:08  
+**Total de mods traducidos:** 249
 
 ## Lista de mods traducidos
 
@@ -215,6 +215,7 @@ Si encuentras errores o tienes sugerencias, no dudes en mencionarlo.
 - Vanilla Landmarks Expanded
 - Vanilla Nutrient Paste Expanded
 - Vanilla Persona Weapons Expanded
+- Vanilla Plants Expanded - Flowers
 - Vanilla Psycasts Expanded
 - Vanilla Psycasts Expanded - Hemosage
 - Vanilla Psycasts Expanded - Puppeteer
