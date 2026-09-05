@@ -4,7 +4,7 @@ Un conjunto de traducciones de mods que uso adaptados principalmente al español
 
 Si encuentras errores o tienes sugerencias, no dudes en mencionarlo.
 
-**Última compilación:** 2026-09-04 13:25:14  
+**Última compilación:** 2026-09-05 00:23:58  
 **Total de mods traducidos:** 251
 
 ## Lista de mods traducidos
@@ -176,9 +176,9 @@ Si encuentras errores o tienes sugerencias, no dudes en mencionarlo.
 - Ushankas Necroa Archovirus
 - Vanilla Achievements Expanded
 - Vanilla Animals Expanded
-- Vanilla Animals Expanded - Enragered
-- Vanilla Animals Expanded - Royal Animals
-- Vanilla Animals Expanded - Waste Animals
+- Vanilla Animals Expanded — Endangered
+- Vanilla Animals Expanded — Royal Animals
+- Vanilla Animals Expanded — Waste Animals
 - Vanilla Anomaly Expanded - Insanity
 - Vanilla Apparel Expanded — Accessories
 - Vanilla Armour Expanded
