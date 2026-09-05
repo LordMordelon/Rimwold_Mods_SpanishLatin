@@ -23,9 +23,10 @@ Glosario y guía de estilo centralizada para el proyecto de traducción al Espa�
 | control group | **grupo de control** | |
 | command range | rango de mando / alcance de mando | |
 | mech gestator | **gestador de mecas** | |
-| large mech gestator | **gestador de mecas grande** | |
+| large mech gestator | **gran gestador de mecas** | Oficial vanilla. NO "gestador de mecas grande" |
 | gestation cycle / gestate | ciclo de gestación / gestar | |
-| (mech) recharger / charger | **cargador** (de mecas) | NO "recargador"; el proceso/verbo sí es "recarga"/"recargar" |
+| (mech) recharger / charger | **cargador de mecas** | Oficial vanilla. NO "recargador"; el proceso/verbo sí es "recarga"/"recargar" |
+| large mech recharger | **gran cargador de mecas** | Oficial vanilla. Mismo patrón que "gran gestador de mecas": el adjetivo va **delante**, NO "cargador de mecas grande" |
 | supercharger | sobrecargador | |
 | mech booster | acelerador de mecas | |
 | mech cluster | clúster mecanoide | |
@@ -166,7 +167,26 @@ Terminología clave para mods orbitales y espaciales (*Mechanitor Orbital Platfo
 
 ---
 
-## 6. Materiales y Recursos Frecuentes
+## 6. Salud, Bioescultura y Ciclos (Ideology)
+
+| Inglés | Español (LatAm) | Notas |
+|---|---|---|
+| biosculpter pod | **cápsula bioescultora** | Oficial vanilla. NO "cápsula biosculptora" ni "bioescultor" para el edificio |
+| biosculpting (proceso) | bioescultura / biosculpido | |
+| immersion pod | cápsula de inmersión | |
+| bioactive gel | gel bioactivo | |
+| biotuned / biotuning | **biocalibrada / biocalibrado** | Oficial vanilla. NO "biosintonizada" ni "biosintonización" |
+| biotuner | biocalibrador | |
+| (biosculpter) cycle | **ciclo** | *"los ciclos se completarán un 25% más rápido"* |
+| age reversal (cycle) | **reversión de edad** | Oficial vanilla. NO "reversión de la edad" |
+| pleasure (cycle) | **placer** | En prosa vanilla: *"la obtención de placer"* |
+| medic cycle | ciclo médico / médico | Etiqueta corta del ciclo: *médico* |
+| regeneration cycle | **bioregeneración** | Etiqueta del ciclo de regeneración |
+| standby | **en espera** | *"solo 50W mientras está en espera"*. NO "en modo de espera" |
+
+---
+
+## 7. Materiales y Recursos Frecuentes
 
 | Inglés | Español (LatAm) | Notas |
 |---|---|---|
@@ -185,13 +205,13 @@ Terminología clave para mods orbitales y espaciales (*Mechanitor Orbital Platfo
 
 ---
 
-## 7. Tipos de Trabajo (Nombres Oficiales RimWorld ES)
+## 8. Tipos de Trabajo (Nombres Oficiales RimWorld ES)
 
 Bombero · Médico · Cuidar niños · Vigilante · Entretener · Cazar · Cultivar · Cortar plantas · Sastrería · Fabricar · Transporte · Ocultismo · Paciente · Descansar · Básico · Adiestrar · Cocinar · Construir · Minar · **Forjar** (=Smithing, NO "herrería") · Arte · Pescar · Limpiar · Investigar
 
 ---
 
-## 8. Convenciones de Estilo y Gramática
+## 9. Convenciones de Estilo y Gramática
 
 - **Tono y registro:** Neutro, directo, consistente con la localización oficial de RimWorld (Español Latinoamericano). Tuteo estándar en mensajes y eventos (*"has descubierto"*, *"puedes irrumpir"*, *"no detectas"*).
 - `Warning:` → `Advertencia:` · `Note:` → `Nota:`
@@ -204,7 +224,7 @@ Bombero · Médico · Cuidar niños · Vigilante · Entretener · Cazar · Culti
 
 ---
 
-## 9. Reglas Estrictas de XML
+## 10. Reglas Estrictas de XML
 
 - **Edición directa:** Toda traducción se realiza directamente sobre los archivos XML con herramientas de reemplazo de contenido.
 - **Especificadores de color escapados:** En el texto traducido dentro de XML, las etiquetas de color deben usar entidades XML escapadas:
@@ -215,7 +235,7 @@ Bombero · Médico · Cuidar niños · Vigilante · Entretener · Cazar · Culti
 
 ---
 
-## 10. Descripciones Oficiales de Referencia (Lore Vanilla)
+## 11. Descripciones Oficiales de Referencia (Lore Vanilla)
 
 **Núcleo de IA (persona core):**
 > Un núcleo de computadora hiperavanzado que alberga una inteligencia artificial (IA) sobrehumana. De forma aislada el núcleo se encuentra en estado inactivo, pero si es instalado sobre un soporte adecuado puede convertirse en una mente de aterradoras capacidades.
@@ -223,8 +243,35 @@ Bombero · Médico · Cuidar niños · Vigilante · Entretener · Cazar · Culti
 **Mecaenlace (mechlink):**
 > Un implante biónico que permite controlar directamente a los mecanoides. Los soldados utilizan los mecaenlaces para controlar a los mecas de guerra y los trabajadores para controlar a los mecas de trabajo. Una persona con un mecaenlace se conoce como mecanizador.
 
-**Gestador de mecas (mech gestator):**
-> Un tanque de fluido rico en mecanitas con tubos de soporte para introducir materiales y nutrientes. Los mecanizadores pueden utilizarlo para producir nuevos mecanoides o para resucitar mecanoides muertos. Este tipo básico de gestador de mecas solo es capaz de generar mecas ligeros. El proceso utiliza productos químicos agresivos que se almacenan en packs de residuos tóxicos. Los transportistas deben retirar los packs de residuos de vez en cuando.
+**Gestador de mecas (mech gestator) — referencia oficial vanilla:**
+> Un tanque de fluido rico en mecanitas con tubos de soporte para introducir materiales y nutrientes. Los mecanizadores pueden utilizarlo para producir nuevos mecanoides o para resucitar mecanoides muertos. Este tipo básico de gestador de mecas solo es capaz de generar mecas ligeros.
+>
+> El proceso utiliza productos químicos agresivos que se almacenan en packs de residuos tóxicos. Los transportistas deben retirar los packs de residuos de vez en cuando.
+
+**Gran gestador de mecas (large mech gestator) — referencia oficial vanilla:**
+> Un tanque de fluido rico en mecanitas con tubos de soporte para introducir materiales y nutrientes. Los mecanizadores pueden utilizarlo para producir nuevos mecanoides o para resucitar mecanoides muertos. Este nivel de gestador de mecas es capaz de generar mecas medianos, pesados y ultrapesados.
+>
+> Los transportistas deben retirar los packs de residuos de vez en cuando.
+
+Plantilla compartida: ambos comparten la primera frase; solo cambia la frase de nivel (*"Este tipo básico… solo es capaz de generar mecas ligeros"* / *"Este nivel… es capaz de generar mecas medianos, pesados y ultrapesados"*) y el gran gestador omite la frase de los productos químicos agresivos.
+
+**Cargador de mecas (mech recharger) — referencia oficial vanilla:**
+> Los mecanoides ligeros pueden recargarse aquí. Durante la recarga, este cargador produce packs de residuos y los almacena internamente. Los transportistas deben retirar los packs de residuos de vez en cuando.
+
+**Gran cargador de mecas (large mech recharger) — referencia oficial vanilla:**
+> Los mecanoides medianos, pesados y ultrapesados pueden recargarse aquí. Durante la recarga, este cargador produce packs de residuos y los almacena internamente. Los transportistas deben retirar los packs de residuos de vez en cuando.
+
+Fórmula vanilla de los cargadores: *"Los mecanoides {niveles} pueden recargarse aquí. Durante la recarga, este cargador produce packs de residuos y los almacena internamente. Los transportistas deben retirar los packs de residuos de vez en cuando."* (el cargador básico usa *"Los mecanoides ligeros…"*).
+OJO: en estas descripciones el vanilla dice **cargador** y **packs de residuos** (sin "tóxicos"). Evita "recargador", "paquetes de residuos" y "transportadores" al traducir mods que copian esta plantilla.
+
+**Cápsula bioescultora (biosculpter pod) — referencia oficial vanilla:**
+> Una cápsula de inmersión llena de gel bioactivo. Puede realizar una serie de alteraciones biológicas, como la reversión de edad y la obtención de placer.
+>
+> Mientras esté biocalibrada, no podrá ser utilizada por nadie más, pero los ciclos se completarán un 25% más rápido. El biocalibrado se restablece si la cápsula no se utiliza durante 80 días.
+>
+> La cápsula consume 200W de energía mientras funciona, pero solo 50W mientras está en espera.
+
+OJO: el vanilla dice **biocalibrada/biocalibrado**, no "biosintonizada/biosintonización", y **reversión de edad** sin artículo. Los mods que copian esta plantilla deben seguir la forma vanilla.
 
 **Neuroformador de psicoenlace (psylink neuroformer):**
 > Un dispositivo consumible creado por la arqueotéc que forma o actualiza un psicoenlace en la mente del usuario. El usuario presiona el dispositivo sobre los ojos, donde se conecta directamente al cerebro y reestructura parte de este. Después, el dispositivo se desintegra en cenizas sin valor.
