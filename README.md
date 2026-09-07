@@ -4,8 +4,8 @@ Un conjunto de traducciones de mods que uso adaptados principalmente al español
 
 Si encuentras errores o tienes sugerencias, no dudes en mencionarlo.
 
-**Última compilación:** 2026-09-05 06:58:29  
-**Total de mods traducidos:** 250
+**Última compilación:** 2026-09-07 18:37:00  
+**Total de mods traducidos:** 249
 
 ## Lista de mods traducidos
 
@@ -131,7 +131,6 @@ Si encuentras errores o tienes sugerencias, no dudes en mencionarlo.
 - Power Re-Examined
 - Progression Education
 - Progression Gravship
-- Progression Hives
 - Progression Robotics
 - P–5000 Powered Work Loader
 - Quality Bionics Remastered
